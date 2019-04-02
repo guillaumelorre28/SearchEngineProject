@@ -1,0 +1,123 @@
+
+According to the latest figures, 12.6 million UK adults lack basic digital 
+skills and 5.3 million have never been online. 
+<https://www.theguardian.com/politics/2016/jun/13/uk-adults-computer-basic-digital-knowhow>
+Only two thirds of disabled people have internet access, compared to 88% of the 
+UK population as a whole, anda quarter of disabled adults 
+<https://www.onlinecentresnetwork.org/sites/default/files/resource/files/disability_handbook-with_links-final.pdf>
+ have never been online.Research <http://www.clickawaypound.com> published this 
+month also found that nearly three quarters of people with disabilities 
+experience problems accessing many websites. The question is whether the 
+government’s long-awaited digital strategy will address these issues.
+
+Yet digital technology can also provide the means for people with disabilities 
+or physical and mental health conditions to lead more independent, fuller lives 
+and participate in activities that would otherwise not be possible. More than a 
+quarter of the entries to this year’sNominet Trust 100 
+<http://socialtech.org.uk/> use technology to promote inclusion. This annual 
+list identifies the most inspiring examples across the globe of technology used 
+for social good, and is published on 14 December.
+
+Several entrants focus on using communication to boost inclusion. The Open 
+Voice Factory <http://www.theopenvoicefactory.org/>, for example, is the first 
+open-source software providing communication aids. According to Joe Reddington, 
+one of its co-founders,more than 30,000 people 
+<http://www.communicationmatters.org.uk/sites/default/files/downloads/projects/aac_evidence_base/2013_Shining_a_Light_on_AAC.pdf>
+ in the UK need a device to help them speak but at £2,000 cannot afford 
+standard aids. “We produce a free web app that can be put on a much cheaper 
+tablet that you might already have at home,” he says. The software – in the 
+final stages of testing – allows family or carers to customise it with personal 
+vocabulary, stories and in-jokes.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2016%2Fdec%2F14%2Ftechnology-changes-lives-disabled-people%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F71adab48bb8bcc70a26b8a0844b19fbcb4aba31b%2F0_20_1280_768%2F1280.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Braille%20smartwatches%2C%20bespoke%20wheelchairs...%20technology%20that%20matters%20%7C%20Anna%20Bawden&url=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2016%2Fdec%2F14%2Ftechnology-changes-lives-disabled-people%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Braille%20smartwatches%2C%20bespoke%20wheelchairs...%20technology%20that%20matters%20%7C%20Anna%20Bawden&url=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2016%2Fdec%2F14%2Ftechnology-changes-lives-disabled-people%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F71adab48bb8bcc70a26b8a0844b19fbcb4aba31b%2F0_20_1280_768%2F1280.jpg>
+ Nightscout enables people with type 1 diabetes to share glucose levels. 
+Photograph: Sriram Bala 
+Hand Talk <http://www.handtalk.me/> is an app that instantly translates text 
+or audio into sign language with the help of a virtual interpreter, Hugo, so 
+that deaf people can communicate in real time with anyone, anywhere.EVA Park 
+<http://smcse.city.ac.uk/eva/>, developed by the Stroke Association-funded EVA 
+project at City University, London, creates a virtual reality environment that 
+helps people with aphasia to communicate again.Disrupt Disability 
+<http://disruptdisability.org/> has also created an open-source platform. This 
+allows wheelchairs to be tailor-made, using an online library of free designs 
+for different components; many elements will be suitable for digital 
+production, including 3D printing. Its founder, Rachael Wallach, who has 
+impaired mobility, explains the thinking behind it: “My wheelchair has over 30 
+different elements that have been tailored to me,” she says. “But it cost 
+£3,000. In a country like Laos, that’s six times the average annual salary, so 
+it’s just not affordable.” The World Health Organisation estimates that more 
+than65 million people 
+<http://www.who.int/disabilities/publications/technology/wheelchairguidelines/en/>
+ need a wheelchair, yet 80% – some 52 million – cannot afford a wheelchair or 
+one customised to their needs.
+ Dot Watch, the first braille smartwatch 
+Not all the Nominet Trust 100 entries are designed to make products more 
+affordable.Dot Watch <http://fingerson.strikingly.com/>, described as the first 
+braille smartwatch, provides social media, news and messages, and is due to go 
+on sale in the UK next year with a price tag of around £2,500.
+
+Pips 
+<http://www.nominet.uk/researchblog/how-to-build-your-own-smart-iot-buttons/> 
+are bluetooth-enabled, palm-sized buttons attached to walls and furniture. They 
+emit beeps when pressed, to turn walking into a game, thereby helping children 
+with no or partial sight to learn to walk confidently. Another movement entrant,
+Walk With Path <http://www.walkwithpath.com/products>, has developed two shoe 
+products that reduce the risk of falls in vulnerable people. The first,Path Feel
+ <http://www.walkwithpath.com/?lightbox=dataItem-ihwagisj>, is an insole that 
+helps wearers with sensory deficit on the bottom of their feet, such as people 
+with diabetes or multiple sclerosis, to feel the floor better by enhancing 
+sensory perception of the environment, allowing them more confident movement. 
+The second, Path Finder, is specially designed for Parkinson’s patients who 
+suffer from freezing of gait, where they feel as if their feet suddenly become 
+glued to the floor. A small device is attached to the shoe to prevent this 
+sensation. Both products will be available in 2017.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2016%2Fdec%2F14%2Ftechnology-changes-lives-disabled-people%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F34851f307519a94a681c553997b9b69661e277d5%2F0_57_3936_2362%2F3936.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Braille%20smartwatches%2C%20bespoke%20wheelchairs...%20technology%20that%20matters%20%7C%20Anna%20Bawden&url=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2016%2Fdec%2F14%2Ftechnology-changes-lives-disabled-people%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Braille%20smartwatches%2C%20bespoke%20wheelchairs...%20technology%20that%20matters%20%7C%20Anna%20Bawden&url=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2016%2Fdec%2F14%2Ftechnology-changes-lives-disabled-people%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F34851f307519a94a681c553997b9b69661e277d5%2F0_57_3936_2362%2F3936.jpg>
+ Walk With Path and Path Finder help people to walk confidently 
+Seven projects that make the top 100 focus on safety. They include Tootoot 
+<https://tootoot.co.uk/>, a safeguarding app to allow pupils to report bullying 
+anonymously and teachers to act on it more quickly. Health projects also 
+feature prominently.Nightscout <http://www.nightscout.info/> helps patients 
+with type 1 diabetes to share glucose levels, while three products (MyBivy, 
+<https://www.facebook.com/MyBivy/> Bravemind 
+<http://medvr.ict.usc.edu/projects/bravemind/> and SimSensei 
+<http://ict.usc.edu/prototypes/simsensei/>) focus on helping people with 
+post-traumatic stress disorder 
+<https://www.theguardian.com/society/post-traumatic-stress-disorder>.
+
+Perhaps the most unusual entrant is the South West Open Youth Orchestra 
+<http://openupmusic.org/swoyo/>, the UK’s only disabled-led regional youth 
+orchestra. Its founders, OpenUp Music in Bristol, have developed a range of 
+digital instruments that can be played with any part of the body, including the 
+eyes. “Being part of an orchestra is new to me. I love it, and feel a kind of 
+freedom and belonging,” says Bradley Warwick, 21, who plays the clarion (which 
+sounds like a digital organ) with his eyes.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXQ9V96NQPg4&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXQ9V96NQPg4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXQ9V96NQPg4&media=>
+ The South West Open Youth Orchestra in action 
+“Disability should never be a barrier to enjoying music and getting 
+involved.”The government says it is still working with industry on its digital 
+strategy, which includes improving access to technology. “We are working hard 
+to help people who can’t use online services independently get the support they 
+need,” says Matt Hancock, the minister of state for digital and culture. “We 
+have also announced plans to make training in basic digital skills free for 
+adults in England who need it, and have set up the Council for Digital 
+Inclusion which brings together leaders from business, charities and government 
+to come up with innovative ways to help everyone get online.” But for now, too 
+many barriers remain.
+
+• A full list of the Nominet Trust 100 can be found at socialtech.org.uk 
+<http://socialtech.org.uk/nominet-trust-100/>
+ 

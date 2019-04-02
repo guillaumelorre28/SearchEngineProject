@@ -1,0 +1,69 @@
+
+The rate of aircraft accidents is at a historical low, despite the series of 
+high profile crashes in recent years that have seen a rise in the number of 
+fatalities.
+
+
+Figures from the Bureau of Aircraft Accident Archives 
+<http://www.baaa-acro.com/presentation/> (BAAA) make the Germanwings crash in 
+the Alps the 17th such incident in 2015 compared to 33 that occurred up to the 
+same point in 2014.
+
+It also takes the total number of fatalities for 2015 so far at 247, which 
+assumes the 150 on board today’s Germanwings crash have all died.
+
+In 2014, the BAAA say 1,328 died in aircraft accidents - the highest annual 
+fatality figure since 2005 due to a series of crashes including AirAsia flight 
+QZ8501 
+<https://www.theguardian.com/world/2014/dec/28/airasia-flight-qz8501-indonesia-singapore-missing-192-passengers>
+ andthe downing of MH17 in Ukraine 
+<http://www.wsj.com/articles/despite-high-profile-tragedies-air-safety-remains-tight-say-experts-1419785686>
+ . The organisation counts military transport planes and any aircraft capable 
+of carrying six or more passengers.
+
+The Aviation Safety Network put the number of fatalities, excluding QZ8501, at 
+526 for 2014 <http://aviation-safety.net/statistics/period/stats.php?cat=A1>, 
+the highest since 2010. The ASN figures only include aircraft capable of 
+carrying 14 or more passengers and excludes military aircraft.It also 
+reportedly excludes casualties from hostile actions, such as the MH17 incident 
+<http://www.wsj.com/articles/despite-high-profile-tragedies-air-safety-remains-tight-say-experts-1419785686>
+.
+
+Using annual aircraft departure figures collated by the World Bank 
+<http://data.worldbank.org/indicator/IS.AIR.DPRT?page=1> and the International 
+Civil Aviation Organization 
+<http://www.icao.int/Newsroom/NewsDoc2014/COM.48.14.EN.pdf>, we can calculate 
+the rough accident and fatality rate per million departures for the BAAA and 
+ASN (with AirAsia added) figures up to 2014. I say rough as the coverage of 
+countries in the World Bank dataset varies from year to year.
+
+For comparison, I’ve also included aircraft accident rates up to 2013 from a 
+report produced by Boeing 
+<http://www.boeing.com/news/techissues/pdf/statsum.pdf>: 
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fdatablog%2F2014%2Fdec%2F29%2Faircraft-accident-rates-at-historic-low-despite-high-profile-plane-crashes%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F12%2F29%2F1419840642471%2F66aa0efc-9a1c-4eaf-b6cb-486b44c95fc0-1020x612.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Aircraft%20accident%20rates%20at%20historic%20low%20despite%20high-profile%20plane%20crashes&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fdatablog%2F2014%2Fdec%2F29%2Faircraft-accident-rates-at-historic-low-despite-high-profile-plane-crashes%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Aircraft%20accident%20rates%20at%20historic%20low%20despite%20high-profile%20plane%20crashes&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fdatablog%2F2014%2Fdec%2F29%2Faircraft-accident-rates-at-historic-low-despite-high-profile-plane-crashes%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F12%2F29%2F1419840642471%2F66aa0efc-9a1c-4eaf-b6cb-486b44c95fc0-1020x612.png>
+The rate of accidents for 2014 is at the lowest since at least 1973 and the 
+overall trend is towards flights having fewer accidents overall.
+
+Despite the decreasing rate for accidents, the rate for fatalities has 
+increased in 2014 over 2013, though historically it is still relatively low, 
+with the overall trend being downwards:
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fdatablog%2F2014%2Fdec%2F29%2Faircraft-accident-rates-at-historic-low-despite-high-profile-plane-crashes%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F12%2F29%2F1419840713208%2F58e720d3-4770-48dc-a311-9b5217c34808-1020x612.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Aircraft%20accident%20rates%20at%20historic%20low%20despite%20high-profile%20plane%20crashes&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fdatablog%2F2014%2Fdec%2F29%2Faircraft-accident-rates-at-historic-low-despite-high-profile-plane-crashes%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Aircraft%20accident%20rates%20at%20historic%20low%20despite%20high-profile%20plane%20crashes&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fdatablog%2F2014%2Fdec%2F29%2Faircraft-accident-rates-at-historic-low-despite-high-profile-plane-crashes%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F12%2F29%2F1419840713208%2F58e720d3-4770-48dc-a311-9b5217c34808-1020x612.png>
+This is consistent with fewer accidents but the crashes that did happen in 
+2014 were particularly severe in terms of lives lost. This is especially 
+apparent when you look at the ratio of fatalities to accidents:
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fdatablog%2F2014%2Fdec%2F29%2Faircraft-accident-rates-at-historic-low-despite-high-profile-plane-crashes%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F12%2F29%2F1419837979817%2F43ca47d6-32a9-4577-80fa-ea1ed22dbbc4-1020x612.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Aircraft%20accident%20rates%20at%20historic%20low%20despite%20high-profile%20plane%20crashes&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fdatablog%2F2014%2Fdec%2F29%2Faircraft-accident-rates-at-historic-low-despite-high-profile-plane-crashes%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Aircraft%20accident%20rates%20at%20historic%20low%20despite%20high-profile%20plane%20crashes&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Fdatablog%2F2014%2Fdec%2F29%2Faircraft-accident-rates-at-historic-low-despite-high-profile-plane-crashes%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F12%2F29%2F1419837979817%2F43ca47d6-32a9-4577-80fa-ea1ed22dbbc4-1020x612.png> 

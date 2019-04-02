@@ -1,0 +1,187 @@
+
+Last week, I bought a selection of clothes recommended by an online personal 
+stylist: a pair of skinny Topman jeans, a perfectly fitting white T-shirt from 
+Jack & Jones, and most daringly – for me, anyway – some khaki chino shorts by 
+Pull&Bear.
+
+We’d carried out the consultation online, with me sharing not only obvious 
+information like my size, desired price range and “daringness” (with “daring” 
+defined as wearing floral shirts or shorts with blazers), but also helping her 
+work out my actual style preferences by telling her brands I like and flicking 
+through endless pictures of well-dressed men to highlight the looks I want.
+
+This is no AI horror story, though. My stylist Sophie Bailey-Hine is very 
+real, and her and her colleagues atThread <https://www.thread.com/>, a British 
+startup that was founded in 2012, are currently helping 480,000 men find a new 
+image, dress well, or simply sort out their clothes shopping.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F19%2Fthread-fashion-stylist-startup-machine-learning-ai%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ff75f3e44317e91b6f5fc090139ac48b028112e67%2F0_0_699_576%2F699.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Would%20you%20trust%20a%20stylist%20with%2050%2C000%20clients%20to%20get%20your%20look%20right%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F19%2Fthread-fashion-stylist-startup-machine-learning-ai%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Would%20you%20trust%20a%20stylist%20with%2050%2C000%20clients%20to%20get%20your%20look%20right%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F19%2Fthread-fashion-stylist-startup-machine-learning-ai%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Ff75f3e44317e91b6f5fc090139ac48b028112e67%2F0_0_699_576%2F699.png>
+ A typical (for me) Thread recommendation. Photograph: Thread 
+There is one small twist: Thread has just eight stylists. Bailey-Hine herself, 
+one of the company’s senior stylists, has 50,000 clients. Every Thursday, every 
+single one of them gets a selection of new outfit ideas. This week, Bailey-Hine 
+recommended me “a great outfit for dinner or drinks”, “shorts that you can wear 
+to work” and a selection of white trainers, as well as some ideas for outfits 
+for work or the weekend.
+
+The shorts were a dud (I’m not sure I have the confidence although the 
+Guardian is one place no one would bat an eyelid), but the rest contained some 
+gems. I can’t afford to spend £50 a week on clothes, but that’s not a huge 
+problem: the feedback on what I like and don’t like will help Sophie pick her 
+ideas for the future. The service itself is free, though that doesn’t make it 
+immune to the criticism it is, like many startups, engaged in the process
+memorably described by the New Yorker’s Charles Murray 
+<http://www.newyorker.com/magazine/2013/05/27/change-the-world>, of “solving 
+all the problems of being 20 years old, with cash on hand, because that’s who 
+thinks them up.” Thread makes its money on a cut of all sales.
+
+Actually buying clothes from the company is an alarmingly frictionless 
+experience. Once your order is placed – and every order over £50 is shipped for 
+free – Thread bundles it together with those of other customers and places bulk 
+purchases through its partners. Those are the companies that actually provide 
+and store the clothes; retailers such as ASOS and Urban Outfitters, as well as 
+smaller boutiques and fashion houses. Only recently has Thread begun to 
+warehouse any clothes at all, and it now pre-purchases stocks of its most 
+popular few items. Either way, once the entire order is in Thread’s hands, it 
+assembles and ships it out, usually within a couple of days.
+
+I hate shopping
+
+Kieran O’Neill, Thread’s 28-year-old co-founder and chief executive, is a 
+serial entrepreneur who started his first company, a YouTube-style streaming 
+site, aged just 15. That was eventually earning him £5,000 a month, a nice 
+amount for a high school student, but eventually the ability for users to 
+upload content went awry and landed him a lawsuit with Disney. That suit was 
+settled, costing O’Neill $100,000, but it left him soured on the platform, 
+which he sold eventually sold to Carl Page, brother of Google founder Larry, 
+for $1.25m. After that, he became known for Playfire, a games-focused social 
+network that he again sold, in May 2012, to games retailer Green Man Gaming.
+
+This time, he says, he wants to stick around. That’s not just because of 
+personal ambition, although he does say that he hopes Thread can fulfil his 
+current goal, “to learn how to be the chief executive of a 500-employee 
+company” (Thread has just 32 staff members). It’s also because he set out to 
+build a company that he would personally rely on.
+
+“I was interested in dressing well, but didn’t particularly like shopping very 
+much. Oxford Street on a Saturday was my idea of hell, and online there was an 
+overwhelming number of things you could look at. And so I kind of had this 
+problem.
+
+“All through, my goal with this business is not really to build a niche quirky 
+retail thing. The majority of men want to dress decently, and don’t 
+particularly love shopping that much. So if you can find a way to spend way 
+less time on it, with a much much better result, I think it’s what the majority 
+of men would use. And so I see this as building a new default for how the 
+majority of men buy clothes.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F19%2Fthread-fashion-stylist-startup-machine-learning-ai%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F7bd21a5173c2435ddf601c774a35d251d2685b1d%2F0_187_5620_3372%2F5620.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Would%20you%20trust%20a%20stylist%20with%2050%2C000%20clients%20to%20get%20your%20look%20right%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F19%2Fthread-fashion-stylist-startup-machine-learning-ai%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Would%20you%20trust%20a%20stylist%20with%2050%2C000%20clients%20to%20get%20your%20look%20right%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F19%2Fthread-fashion-stylist-startup-machine-learning-ai%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F7bd21a5173c2435ddf601c774a35d251d2685b1d%2F0_187_5620_3372%2F5620.jpg>
+ Thread’s style director Shaunie Brett checks stock. Photograph: Thread 
+The startup won a position in the prestigious Y Combinator 
+<https://www.theguardian.com/us-news/2016/jun/20/y-combinator-oakland-universal-basic-income-pilot-project>
+ accelerator in San Francisco, a sort of three-month boot-camp for startups, 
+which led to one of its first paying customers being Instagram CEO Kevin 
+Systrom. But after graduating, it moved from San Francisco back to London, and 
+after a stint in trendy Shoreditch is now further east in a decidedly less cool 
+part of Whitechapel.
+
+The decision to return home was driven in part, O’Neill says, by a desire to 
+be involved in London’s fashion-tech scene, already at the time led by 
+companies includingNet-a-Porter 
+<https://www.theguardian.com/media-network/2015/may/14/net-a-porter-fashion-digital-revolution>
+,Asos 
+<https://www.theguardian.com/business/2016/jul/12/asos-sales-brexit-benefits-pound-eu-referendum>
+ andFarfetch 
+<https://www.theguardian.com/technology/video/2013/sep/13/farfetch-jose-neves-digital-fashion-video>
+. It wasn’t the only decision the company would make in its early days that 
+went against prevailing wisdom: equally unusual was its choice, shortly after 
+launch, to focus on exclusively on menswear, commonly an afterthought in the 
+fashion world.
+
+It’s a choice that infuriated some early users, including O’Neill’s wife, who 
+had grown to appreciate the service just as much as the men who currently make 
+up its customer base. (Before I met O’Neill, my girlfriend made me promise to 
+ask him when it would launch for women, purely based on seeing the experience 
+over my shoulder. The answer is “in the medium term”, he says.)
+
+It was an obvious choice given O’Neill’s founding ethos to build something 
+he’d want to use, but it was also forced by the circumstances: in its original 
+form, with stylists selecting clothes for both genders, Thread was little more 
+than a mechanical turk. In contrast to the hyper-efficient company it’s become, 
+the first months of activity saw each stylist working with as few as a hundred 
+clients, and doing all the work manually.
+
+“The goal was to build an experience that worked for the customer, and then 
+work on the scalability second,” O’Neill said. And from a purely human approach 
+in 2013, the scalability has come in droves.
+
+The computer will see you now
+
+Machine learning is firmly in buzzword territory today. The term is used 
+broadly to mean any technology which involves a computer teaching itself how to 
+carry out tasks, as well as more narrowly to refer to a specific type of 
+learning, deep learning, which works on a particular system called a deep 
+neural network. But whichever definition you use, it’s become one of those 
+terms that gets sprinkled liberally on startup pitches, to make them more 
+appealing to investors, journalists and customers. I’ve even heard reports of 
+companies specifically adding a machine learning element to their plan, not 
+because it improves the product, but just because it improves the pitch.
+
+So it’s odd that Thread doesn’t mention machine learning, either to me (their 
+initial correspondence referred only to “a powerful algorithm”) or their 
+customers, for whom the pitch is fully on the stylists. Because the company 
+does use the technology, and uses it heavily. There’s no other way, 
+practically, that stylists like Sophie would be able to provide an effective 
+service to as many as 50,000 men every week.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F19%2Fthread-fashion-stylist-startup-machine-learning-ai%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fbd93d553dff961352cd9d7a5321a168929c8b152%2F0_77_3000_1800%2F3000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Would%20you%20trust%20a%20stylist%20with%2050%2C000%20clients%20to%20get%20your%20look%20right%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F19%2Fthread-fashion-stylist-startup-machine-learning-ai%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Would%20you%20trust%20a%20stylist%20with%2050%2C000%20clients%20to%20get%20your%20look%20right%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F19%2Fthread-fashion-stylist-startup-machine-learning-ai%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2Fbd93d553dff961352cd9d7a5321a168929c8b152%2F0_77_3000_1800%2F3000.jpg>
+ One of Bailey-Hine’s colleagues, thread stylist Sophie Gaten, at work. 
+Photograph: Thread 
+From day one, the stylists were working as much to teach the algorithm how to 
+aid them as they were to get the best clothes to customers. In the early days, 
+it stumbled over easy, but ultimately useless, correlations: customers who 
+bought grey T-shirts would also buy white T-shirts, for instance. Technically 
+accurate, but also useless information for a stylist to have.
+
+Now, the algorithm works better, letting a stylist lay out the skeleton of an 
+outfit while filling in the specifics and targeting who actually receives it as 
+part of their picks. So Bailey-Hine gets to describe an outfit with a blue 
+blazer, T-shirt, chinos and a leather belt, but it’s the algorithm that 
+specifically picks a pair of Diesel chinos in my size, and recommends that she 
+suggest the whole outfit to me, and not someone who has repeatedly ignored 
+chino suggestions in favour of jeans.
+
+It also allows for the stylist’s own taste to filter through. “I’m obsessed 
+with simple Scandinavian clothes,” Bailey-Hine tells me, “while my fellow 
+stylist Sam is big into street style and Freddie is our very own suiting expert 
+– everyone has their own thing.” And while it may be impossible to connect on a 
+one-to-one level with tens of thousands of people, Sophie says she still feels 
+close to some clients. “It can be incredibly fulfilling to hear what a 
+difference a few clothing tweaks can make to their confidence and personal 
+growth, be it career- or relationship-wise.”
+
+In a world where fears of robots “taking jobs” is rife, Thread offers some 
+hope. Yes, eight stylists are doing the jobs of hundreds or thousands in a 
+pre-AI age; but those eight are working with AI, not for it. And besides, 
+Sophie says, “one of the best things I can do as a stylist is to look at photos 
+of a guy and within a few seconds think, ‘OK, he’d look better if he was 
+wearing a slimmer jean, he could make that navy suit look more interesting with 
+a knit tie, and he’d look really good in a light Private White V.C jacket for a 
+sharper take on his utilitarian vibe.’
+
+
+“I don’t think a computer will master that for a decade or so, so I’m safe for 
+a while.”
+ 

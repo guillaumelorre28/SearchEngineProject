@@ -1,0 +1,31 @@
+
+Today J, for JFDI... which stands for "just do it", and was the unofficial 
+name of one of the development teams which sat alongside the R2 teams.
+
+One key principle we had from the start of the project was that other 
+development work couldn't stop for the sake of the site rebuild. There might be 
+less of it, but it shouldn't dwindle to zero. And while R2 was a major long 
+term undertaking, the rest of the work that came up inevitably had a very 
+different shape. Consequently we had different kinds of teams.
+
+The JFDI team handled very short turnaround work. Mostly this consisted of 
+bugfixes, but it also included minor enhancements. It worked in a traditional 
+Agile manner, but due to the size of the individual tasks work was 
+reprioritised every day rather than every fortnight.
+
+Working on the JFDI team suits some people better than others. On the one hand 
+it's difficult to get your teeth stuck into anything because it doesn't last 
+very long (or at least it shouldn't); on the other hand you get a sense of 
+completion every day. A lot of the time people don't relish cycling into that 
+team, but once they're in they find they learn a huge amount about how the 
+software they've written actually gets used. I've writtenmore on this subject 
+previously 
+<http://niksilver.com/2007/04/19/rotation-through-the-support-team-considered-healthy/>
+.
+
+Overall the JFDI team has been very successful, dealing with a large and 
+constantly-shifting workload, but also demonstrating daily progress to our 
+internal users. Since R2 finished we've kept the team running in the same mode, 
+and it continues to bring immediate benefit to people inside and outside the 
+development teams.
+ 

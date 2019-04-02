@@ -1,0 +1,44 @@
+
+Spotify's smartphone apps have been important factors in the streaming music 
+service's growth, not to mention its ability to convert free users into paying 
+subscribers. Now Spotify is hoping to boost its presence on iOS with the 
+release of itsSpotify <https://www.theguardian.com/technology/spotify> Embedded 
+Player libspotify 9.
+
+It's the first time Spotify has released an API for mobile developers, 
+enabling them to integrate the service into their apps. The company has 
+released documentation and samples to help developers to start working with the 
+API, while also publishing a FAQ on its website.
+
+"We hope this will enable a new category of iPhone, iPad and iPod Touch 
+applications with Spotify inside and allow for more immersive music experiences 
+within iOS apps,"blogs 
+<http://developer.spotify.com/blog/archives/2011/08/31/spotify-inside-your-ios-app/>
+ Spotify's director of platform Sten Garmark.
+
+There are, unsurprisingly, some terms and conditions 
+<http://developer.spotify.com/en/libspotify/terms-of-use-non-us/>. Developers 
+must not "modify, edit, disassemble, decompile or reverse-engineer" the API, 
+and they are not allowed to sell access to the Spotify service, or allow anyone 
+who isn't a registered (paying) user to log in.
+
+Developers are also barred from selling their application, charging for its 
+use, or sell advertising, sponsorships or promotions within it. However, 
+companies wanting to use the libspotify API commercially are invited to contact 
+Spotify's partner team.
+
+Spotify is not the first streaming music service to release an API for mobile 
+developers. In the US, rival Rdio launched its Mobile Playback API in May 2011. 
+It has since been used by apps including AOL's Play and The Grammy Awards' 
+MusicMapper apps.
+
+Meanwhile, music technology company The Echo Nest has released a series of 
+APIs for mobile (and web) developers, providing easy access to music and the 
+metadata around it. In May, The Echo Nest partnered with Rdio to make it easier 
+for developers working with the latter's API.
+
+The net effect of these and other APIs offered by music companies has been a 
+thriving scene of developers mashing up different services with social and 
+location-based features. TheMusic Hack Day <http://musichackday.org/> events 
+have been at the heart of this. Now Spotify will be able to join the fun.
+ 

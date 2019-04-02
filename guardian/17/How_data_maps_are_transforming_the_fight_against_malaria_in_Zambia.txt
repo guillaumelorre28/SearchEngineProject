@@ -1,0 +1,116 @@
+
+Marianne Soko considers the data on her computer screen, trying to decide 
+which thatched houses and breeze block shops to spray next with insecticide.
+
+11 ways public and private can work together to improve healthcare
+ Read more  
+<https://www.theguardian.com/global-development-professionals-network/2014/dec/09/public-and-private-healthcare-development>
+Armed with powerful data visualisation tools that map malaria cases, trends 
+and resources, Soko, a 30-year-old environmental health officer, is on the 
+frontline of the Zambian government’s ambitious campaign to eliminate malaria 
+by 2020.
+
+She is tasked with stamping out malaria in the district of Itezhi-Tezhi, a 
+region of cattle, maize and fish farming where seasonal floods make the clay 
+plains impassable. As the district’s malaria focal point person, she supports 
+Zambia’s NationalMalaria <https://www.theguardian.com/world/malaria> 
+Elimination Center to deploy limited resources: insecticide-treated bed nets, 
+indoor residual spray, rapid malaria tests and drugs.
+
+Soko relies on information from health clinics and community health workers 
+who travel up to 25km by foot, bicycle and boat to log monthly reports. Until 
+recently, analysing the reports involved multiple slow downloads and it was 
+hard to tell whether the data was reliable. Did that health facility really not 
+have any malaria cases for a whole month? Or were some health workers unable to 
+submit reports because their bicycles were broken, or they lacked a mobile 
+phone connection? Even if all the reports came in, Soko didn’t have an 
+up-to-date way to sort the mountain of data and relay information back to 
+health facilities and communities.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fglobal-development-professionals-network%2F2016%2Fdec%2F15%2Fpowerful-data-visualisation-is-transforming-the-fight-against-malaria%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe6cff13d73572e83ddc1827dd821b55db9f964c4%2F632_376_6343_3806%2F6343.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20data%20maps%20are%20transforming%20the%20fight%20against%20malaria%20in%20Zambia&url=https%3A%2F%2Fwww.theguardian.com%2Fglobal-development-professionals-network%2F2016%2Fdec%2F15%2Fpowerful-data-visualisation-is-transforming-the-fight-against-malaria%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20data%20maps%20are%20transforming%20the%20fight%20against%20malaria%20in%20Zambia&url=https%3A%2F%2Fwww.theguardian.com%2Fglobal-development-professionals-network%2F2016%2Fdec%2F15%2Fpowerful-data-visualisation-is-transforming-the-fight-against-malaria%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe6cff13d73572e83ddc1827dd821b55db9f964c4%2F632_376_6343_3806%2F6343.jpg>
+ Ephraim Sikalundu, data collector, and Vincent Munsaka, community health 
+worker in Harmony village. Photograph: Gabe Bienczycki/PATH/Gabe Bienczycki 
+Thanks to the Visualize No Malaria <http://visualizenomalaria.org/> 
+partnership between the Zambian Ministry of Health,Path <http://www.path.org/> 
+and data expertsTableau <http://www.tableau.com/>, Soko and her colleagues now 
+have access to powerful automated computer analysis and user-friendly 
+dashboards. It takes moments to see emerging patterns in the data and the 
+disease, and to optimise resource distribution for the 90,000 people in Soko’s 
+district.
+
+“It’s an eye-opener,” says Soko. “Data validation, missing reports ... 
+everything is at my fingertips. It’s just a click, then you have it all. You 
+know where the hotspots are and where the data is missing. You have a true 
+picture immediately. The way everything comes together, it’s a miracle.”
+
+Since 2005, Path has supported the Zambian Ministry of Health’s fight against 
+the mosquito-borne disease – an effort that has resulted in a 90% decrease in 
+malaria in children in parts of Southern Province over the past two years.
+
+19 ways to beat malaria
+ Read more  
+<https://www.theguardian.com/global-development-professionals-network/2014/sep/16/19-ways-to-beat-malaria>
+Along with our colleagues from the Ministry of Health, we’re impatient to rid 
+Zambia of a disease that takes anestimated 7,000 lives a year 
+<http://www.who.int/malaria/publications/country-profiles/profile_zmb_en.pdf> 
+(pdf). But the closer we get, the harder it becomes because the parasite 
+causing malaria hides in seemingly healthy people. All it takes is one infected 
+person and one bloodthirsty mosquito to transmit the disease to neighbours, who 
+then become new hosts of the parasite.
+
+To disrupt this deadly cycle, we realised that we needed to use the ministry’s 
+routine data for insights. We needed faster ways to analyse, share and use data 
+so that we could track the disease in real time and see where to go next. Our 
+pitch to Tableau wasn’t so much about money. It was a request to collaborate: 
+How would you like to helpZambia <https://www.theguardian.com/world/zambia> 
+eliminate malaria?
+
+
+The Tableau Foundation’s five-year commitment, valued at more than $1.8m 
+(£1.4m), provides software, in-house technical support, extensive training, and 
+financial help to empower health professionals such as Soko.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fglobal-development-professionals-network%2F2016%2Fdec%2F15%2Fpowerful-data-visualisation-is-transforming-the-fight-against-malaria%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F770afbd5b39f6bac0b50344f54567dbb2317a9e3%2F0_248_7360_4415%2F7360.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20data%20maps%20are%20transforming%20the%20fight%20against%20malaria%20in%20Zambia&url=https%3A%2F%2Fwww.theguardian.com%2Fglobal-development-professionals-network%2F2016%2Fdec%2F15%2Fpowerful-data-visualisation-is-transforming-the-fight-against-malaria%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20data%20maps%20are%20transforming%20the%20fight%20against%20malaria%20in%20Zambia&url=https%3A%2F%2Fwww.theguardian.com%2Fglobal-development-professionals-network%2F2016%2Fdec%2F15%2Fpowerful-data-visualisation-is-transforming-the-fight-against-malaria%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F770afbd5b39f6bac0b50344f54567dbb2317a9e3%2F0_248_7360_4415%2F7360.jpg>
+ Marie-Reine Rutagwera, malaria surveillance specialist forMACEPA 
+<http://sites.path.org/macepa/>, Monde Mathews, environmental health officer 
+for Gwembe district, reviewing malaria surveillance data on a laptop. 
+Photograph: Gabe Bienczycki/PATH/Gabe Bienczycki 
+Our collaboration with Tableau forges a new way for global health initiatives. 
+People from many different companies and backgrounds are coming together with 
+creativity, a thirst for learning and optimism. Not a week goes by when I don’t 
+hear how this opportunity has helped them improve their skills, or discover a 
+new idea that our extended team can apply elsewhere.
+
+ A few Tableau experts, called Zen masters, have travelled to Zambia to share 
+skills . Many people lend their assistance from Seattle, Silicon Valley, 
+Atlanta and beyond, each donating hundreds of hours to automate workflows, 
+improve visualisations, integrate mapping technologies and test algorithms that 
+can predict which neighbourhood malaria will strike next.
+
+Real time maps could predict and prevent the spread of malaria
+ Read more  
+<https://www.theguardian.com/global-development-professionals-network/2014/oct/23/real-time-maps-could-predict-and-prevent-the-spread-of-malaria>
+It’s a terrific learning experience for us and our public sector partners as 
+we improve what we do best: working lean, nimble, and maximising resources so 
+we’re focused on strengthening capacity within the Zambian Ministry of Health. 
+We use virtual technical assistance – such as webinars to train personnel – and 
+we develop, pilot and adapt tools so under-resourced professionals like Soko 
+can accomplish a difficult job more easily.
+
+In Itezhi-Tezhi, where the rains that trigger peak malaria season have already 
+started, Tableau’s dashboards are giving Soko new confidence about using 
+district data. “This year, we’ll be able to strategise,” she says. “When we 
+spray, we’ll know where to go first.”
+
+Jeff Bernson is the director of results management, measurement and learning at
+PATH <http://www.path.org/>
+
+ 

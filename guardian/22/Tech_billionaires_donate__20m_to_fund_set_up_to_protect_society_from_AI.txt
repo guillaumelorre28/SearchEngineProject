@@ -1,0 +1,48 @@
+
+The founders of LinkedIn <https://www.theguardian.com/technology/linkedin> and 
+eBay are donating a combined $20m (£16.4m) to fund academic research aimed at 
+ensuring the safety of artificial intelligences.
+
+LinkedIn’s founder Reid Hoffman and the Omidyar network, the philanthropic 
+investment firm set up byeBay <https://www.theguardian.com/technology/ebay> 
+founder Pierre Omidyar, are donating $10m each to the Ethics and Governance of 
+Artificial Intelligence Fund, which will distribute money to researchers 
+working on the tough ethical problems raised by AI.
+
+“There’s an urgency to ensure that AI benefits society and minimises harm,” 
+said Hoffman. “AI decision-making can influence many aspects of our world – 
+education, transportation, healthcare, criminal justice and the economy – yet 
+data and code behind those decisions can be largely invisible.”
+
+The specific research areas the fund will focus on aren’t fixed, but the 
+possibilities include ethical design – “how do we build and design technologies 
+that consider ethical frameworks and moral values as central features of 
+technological innovation?” – and accountability in AI – “what kinds of controls 
+do we need to minimise AI’s potential harm to society and maximise its 
+benefits?”
+
+The Knight Foundation is also contributing $5m to the fund, and the William 
+and Flora Hewlett Foundation and Raptor Group founder Jim Pallotta are giving 
+$1m each. The founding academic institutions for the initiative will be the MIT 
+Media Lab and Harvard University’s Berkman Klein Center for Internet & Society.
+
+Alberto Ibargüen, president of Knight Foundation, said: “artificial 
+intelligence agents will impact our lives in every society on Earth. Technology 
+and commerce will see to that. Since even algorithms have parents and those 
+parents have values that they instil in their algorithmic progeny, we want to 
+influence the outcome by ensuring ethical behaviour, and governance that 
+includes the interests of the diverse communities that will be affected.”
+
+The fund is one of many new bodies aimed at shaping the future of AI in a 
+positive – or, at least, thoughtful – direction. ThePartnership on AI 
+<https://www.theguardian.com/technology/2016/sep/28/google-facebook-amazon-ibm-microsoft-partnership-on-ai-tech-firms>
+, a collaborative effort involving Google, Facebook, Amazon, IBM and Microsoft, 
+was launched in September 2016 to “establish AI best practices” but has yet to 
+do anything publicly other than announce its own creation; the Elon Musk-backed 
+OpenAI project,announced in December 2015 
+<https://www.theguardian.com/technology/2015/dec/12/artificial-intelligence-elon-musk-backs-open-project-to-benefit-humanity>
+, was more directly aimed at “advancing digital intelligence in the way that is 
+most likely to benefit humanity as a whole”. It haspublished research to that 
+effect <https://openai.com/blog/> fairly consistently in the year since it was 
+established.
+ 

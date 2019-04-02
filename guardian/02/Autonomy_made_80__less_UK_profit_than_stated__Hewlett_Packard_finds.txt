@@ -1,0 +1,111 @@
+
+Hewlett-Packard's long-running investigation into claims of accounting 
+irregularities by the former management team ofAutonomy 
+<https://www.theguardian.com/business/autonomycorporation>, the British 
+software company it bought for more than £7.1bn, has concluded that the firm's 
+main UK trading company made 80% less profits and 54% less revenues than 
+originally stated.
+
+Accounts to be published this week at Companies House will show HP has 
+drastically revised the 2010 performance of Autonomy Systems Ltd (ASL), and its 
+holding company Autonomy Corporation Ltd (ACL). HP has been combing through 
+Autonomy's books since May 2012, when it says a whistleblower claimed that 
+false accounting was used to flatter its performance during its period as one 
+of the largest technology companies on the London Stock Exchange.
+
+After buying Autonomy in 2011, HP wrote down the value of the company by 
+£5.5bn in November 2012. The writedown drove the US firm to a$6.9bn quarterly 
+loss 
+<https://www.theguardian.com/business/2012/nov/20/hewlett-packard-autonomy-improprieties-writedown>
+ at the time, and led to furious accusations from the British company's founder 
+Mike Lynch that he and his management team were being made"scapegoats for HP's 
+own failings" 
+<https://www.theguardian.com/business/2013/mar/20/autonomy-hewlett-packard-agm>.
+
+"These restatements, and the reasons for them, are consistent with HP's 
+previous disclosures regarding accounting improprieties in Autonomy's 
+pre-acquisition financials," HP said in a statement released on Monday. "The 
+substantial work necessary to prepare these accounts has revealed extensive 
+accounting errors and misrepresentations in the previously issued 2010 audited 
+financial statements, including the exact problems previously identified by HP."
+
+The findings in the UK will have a substantial impact on Autonomy's overall 
+performance for the year before it was sold, because ASL accounted for roughly 
+one third of the company's stated $870m (£565m) revenues in 2010.
+
+According to the accounts, many of the issues related "to the overstatement of 
+revenues in Autonomy's US operations".
+
+Profit at ASL has been revised down from £106m to £20m. Its revenue number was 
+originally stated as £176m, but is now reported as £81m. The 2010 loss at ACL, 
+the holding company, has been restated from the original £12m to £22m.
+
+A spokesman for Lynch and his former management team said Ernst & Young, the 
+auditor hired by HP, had not signed off Autonomy's restated accounts. In the 
+Companies House filing for ASL, Ernst & Young states: "We have not been able to 
+obtain sufficient appropriate audit evidence to provide a basis for an audit 
+opinion."
+
+The former Autonomy management team released a statement saying: "We continue 
+to reject these allegations by HP. Given the size of HP's writedown, we are 
+very surprised by the small size of the adjustments in ASL that are attributed 
+to the ongoing accounting dispute, which represent a few per cent of group 
+revenue. We know even these include revenue that will be recognised at a later 
+time, under HP's new approach."
+
+HP chief executive, Meg Whitman, has vowed to recover the money lost on 
+Autonomy for her shareholders, although doing so could take years. In the 
+meantime, HP and its directors are being sued by shareholders, who claimed they 
+ignored red flags from analysts and industry experts questioning Autonomy's 
+accounts. An update on the case is expected on 28 February.
+
+HP's complaints about Autonomy's financial reporting are being investigated by 
+the US justice department and the UK's Serious Fraud Office. Among the issues 
+HP said it uncovered was: revenue being recognised for products where payments 
+were unlikely to be made by the buyers; barter-type transactions where the 
+value of the sale could not be properly assessed; and sales of hardware wrongly 
+logged as software.
+
+HP found the ownership of a 20% stake in Realise Ltd, an IT consultancy, was 
+recorded as being held by ASL, when it should have been recorded as belonging 
+to its holding company, ACL. HP also corrected sums relating to staff expenses.
+
+A closer look at the debtors and creditors columns shows Autonomy's original 
+accounts claimed the company was owed more by third parties and its own 
+subsidiaries abroad than HP thought it should have been. The original accounts 
+put the amount owed to ASL at £266m, when HP thinks the figure should have been 
+£148m. Amounts owed by other group companies were originally recorded at £216m, 
+but have been revised to £108m.
+
+ASL owed money too. The original accounts put debts at £36m, but HP believes 
+£64m was outstanding in 2010.
+
+Lynch has argued that much of the discrepancy between what Autonomy's annual 
+results suggested the company was worth and what HP now believes it should be 
+valued at stem from applying different accounting rules. HP uses the GAAP 
+system, while Autonomy filed under IFRS, which is more common in the UK.
+
+A spokesperson for Autonomy said many of the errors uncovered in the British 
+subsidiaries would have been regarded as such under both IFRS and GAAP.
+
+However, the accounts show that nearly £14m of the £86m profit reduction at 
+ASL is due to a change of accounting policy. Research and development costs had 
+been recognised across the lifetime of the product they related to under 
+Autonomy's original accounting system. Under the new GAAP policy, they are 
+fully charged to the year in which the costs were incurred.
+
+HP claimed in 2012 that Lynch's management team, which included finance 
+director Sushovan Hussein, had made a "willful" effort to "inflate the 
+underlying financial metrics of the company in order to mislead potential 
+buyers". The accusation was that Autonomy had mischaracterised revenue from 
+loss-making low-end hardware sales that represented as much as 15% of the 
+company's revenue. HP said Autonomy also presented licensing transactions where 
+no end-customer existed at the time of sale as revenue.
+
+A spokesperson for the former senior management of Autonomy said: "We continue 
+to reject these allegations by HP. Given the size of HP's writedown, we are 
+very surprised by the small size of the adjustments in Autonomy Systems Ltd 
+that are attributed to the ongoing accounting dispute, which represent a few 
+per cent of group revenue. We know even these include revenue that will be 
+recognised at a later time, under HP's new approach."
+ 

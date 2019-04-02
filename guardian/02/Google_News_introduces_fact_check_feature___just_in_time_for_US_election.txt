@@ -1,0 +1,51 @@
+
+In the midst of a highly charged presidential election, where fact and fiction 
+have frequently become confused,Google 
+<https://www.theguardian.com/technology/google> News has introduced a new fact 
+check feature in search results for news stories.
+
+Launched today, fact check will now appear as a label among news search 
+results, alongside other established labels such as opinion, local source and 
+highly cited.
+
+Google News algorithmically connects fact-checking articles with live news 
+stories partly based on an established process calledClaim Review 
+<http://pending.schema.org/ClaimReview>. Google says that sites meeting the 
+definition of a fact-checking service can apply to have their service included.
+
+Debate fact-check: Hillary Clinton and Donald Trump's claims reviewed
+ Read more  
+<https://www.theguardian.com/us-news/2016/oct/09/presidential-debate-fact-check-donald-trump-hillary-clinton>
+In a blogpost 
+<https://blog.google/topics/journalism-news/labeling-fact-check-articles-google-news/>
+ promoting the new feature, Google said: “We’re excited to see the growth of 
+the Fact Check community and to shine a light on its efforts to divine fact 
+from fiction, wisdom from spin.”
+
+Facebook, despite its increasingly critical role in the distribution of news, 
+has yet to deploy any fact-checking feature.Research 
+<http://www.reuters.com/article/us-media-socialmedia-news-idUSKCN0Z02UB> by the 
+Reuters Institute for the Study of Journalism in June 2016 found that Facebook 
+was the primary source of news for 18- to 24-year-olds. After sacking its 
+trending topics news team, the social media site was at the center of a storm 
+when its algorithmstarted promoting fake news 
+<https://www.theguardian.com/technology/2016/aug/29/facebook-fires-trending-topics-team-algorithm>
+.
+
+In Google News, fact check labels are visible in the expanded story box on the 
+Google News site, on both the iOS and Android apps, and roll out for users in 
+the US and UK first.
+
+The timing of the new label is significant, contributing to an unprecedented 
+US presidential election where both sides have been accused of misrepresenting 
+facts. Some commentators have used the term “post-truth 
+<https://www.theguardian.com/commentisfree/2016/may/13/boris-johnson-donald-trump-post-truth-politician>
+” to describe the current state of political discussion.
+
+There are 26 days, and one remaining debate, until the US electorate votes on 
+8 November – not 28 November, as Donald Trump incorrectlystated this week 
+<https://twitter.com/Walldo/status/786022757804892161?ref_src=twsrc%5Etfw>.
+
+• This article was amended on 19 October 2016 to state that the Reuters 
+Institute, not Pew, was the source of the June 2016 research.
+ 

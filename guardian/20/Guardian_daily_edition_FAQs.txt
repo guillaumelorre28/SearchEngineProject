@@ -1,0 +1,313 @@
+
+What is the Guardian and Observer daily edition?
+The Guardian and Observer daily edition is a version of the Guardian's Monday 
+to Saturday newspaper and the Observer on Sundays, optimised for iPad, Android 
+tablet and Kindle Fire devices.
+
+What content does it have?
+The app carries the content from that day's newspaper, including all of the 
+editorial sections and supplements:
+• Top stories, UK, international and financial news
+• Comment, editorials and obituaries
+• Reviews
+• Sport
+• G2
+• On iPad, one quick and one cryptic crossword each day including the Prize 
+cryptic on Saturday and Speedy and Everyman puzzles on Sunday. On Android, one 
+quick and one cryptic puzzle every week day (we hope to add the weekend puzzles 
+at a later date)
+• Weekday supplements Media, Film & Music, Education and Society
+• On Saturday, Weekend magazine, the Guide, the Sport, Review, Travel, Family, 
+Money and Work sections are all included along with the main newspaper
+• The Observer's news sections, Sport, New Review and Magazine all appear on 
+Sunday, and the Food and Tech Monthly magazines appear each month
+
+It does not contain TV listings or our sudokus and other puzzles.
+
+How much does it cost?
+A two-week free trial is available to all new iPad, Android and Kindle Fire 
+users and after this time you will need to subscribe to continue to access 
+issues. We offer the following subscription packages:
+- Six-day access to the Guardian costs £9.99 a month
+- Sunday only costs £6.99 a month
+- Seven-day access costs £11.99 a month, a saving of 25% 
+- Our print subscription bundles include iPad and iPhone access and home 
+delivery options, and prices start from £4 per week
+As with all of our products, we reserve the right to alter the pricing at any 
+point, and will communicate any such price changes to users via push 
+notifications or by email, assuming they have agreed to receive communication 
+from us.
+
+Are any other Guardian and Observer digital products included in the price?
+Our print subscription bundles <http://www.subscribe.theguardian.com/> include 
+iPad and iPhone access and home delivery options, and prices start from £4 per 
+week. However, we do not include Kindle subscriptions as part of these offers.
+
+iPad-specific help
+
+What devices does the app work on?
+The app is available on iPad 2, iPad 3, iPad mini and iPad Air devices running 
+iOS 6 and above.
+
+What features does it have?
+• Full compatibility with Apple's Newsstand service - background downloading 
+of each issue
+• Copy and select text or look up words using Apple's inbuilt dictionary
+• Editions from the last month available in the archive
+• All article and picture content downloaded for reading offline
+• Stunning photojournalism and full screen cartoons
+• In-article image galleries and interactives
+• Video embedded in articles viewable when online
+• Share stories via Facebook, Twitter, Instapaper and email
+• Swipe to navigate between sections or stories
+• Related articles within the edition highlighted
+• Related online articles open in an in-app browser
+
+What time is it available each day?
+The app is available by 6am BST/GMT each day and is usually published around 
+3am BST/GMT.
+
+I have a print subscription that includes access to the daily edition. How do 
+I subscribe to the app?
+The app is available from the iTunes Newsstand. Once you have completed your 
+free trial you will be prompted to subscribe. If your print subscription 
+includes access to the daily edition, choose "I am a print subscriber", tap on 
+the right hand side of the white space to bring up the keyboard, then enter 
+your subscriber ID. Your ID can be found underneath your name on each voucher 
+or, for print delivery subscribers, your ID will be found on your confirmation 
+email. If you have any problems please emailtablet@theguardian.com 
+<mailto:tablet@theguardian.com>. Please note that in-app purchases need to be 
+on for you to be able to subscribe - from your device's homescreen go to 
+Settings > General > Restrictions > Allowed content. If you are unsure if your 
+print subscription includes access to the daily edition please call us on 0330 
+333 6767.
+
+I do not have a print subscription that allows access to the daily edition. 
+How do I subscribe to the app?
+Once you have completed your free trial you will be prompted to subscribe. 
+Choose "subscribe now" to be connected to iTunes and sign up for one of our 
+subscription options. Please note that in-app purchases need to be on for you 
+to be able to subscribe - from your device's homescreen go to Settings > 
+General > Restrictions > Allowed content, and that subscriptions will renew 
+automatically until cancelled.
+
+How do I pay for my subscription?
+Apple's subscription system is auto-renewing which means your iTunes account 
+will be charged every month until you opt-out.
+
+How can I manage my subscription?
+Access the App Store, scroll down to the bottom of the page and tap on your 
+Apple ID. Choose view Apple ID and sign in to the iTunes Store. From the main 
+account page, scroll down to Subscriptions and choose Manage (if you don't have 
+app subscriptions this button will not be displayed). From the Manage 
+Subscriptions page, tap Guardian and Observer daily edition. From here it is 
+possible to disable auto-renewal and effectively cancel your subscription. If 
+you need further assistance with your subscription, please email
+tablet@theguardian.com <mailto:tablet@theguardian.com>.
+
+I subscribed via iTunes during my free period. Can I get a refund?
+Unfortunately, we cannot give refunds in these cases.
+
+How do I get the Newsstand background downloading to work?
+From Settings on your device's homescreen, go to General then Background App 
+Refresh and Guardian iPad Edition and ensure this is switched to on. If this is 
+on, the app is open (present in your multi-tasking bar) and you have an 
+internet connection but you are not receiving your issues automatically each 
+morning, please contacttablet@theguardian.com <mailto:tablet@theguardian.com>.
+
+Today's issue won't download - what can I do?
+From the issue picker (the screen where you choose which issue to read) press 
+the refresh button in the blue bar at the top. If there is no response, check 
+your internet connection by going to Safari and browsing to two or three pages. 
+If you are sure you have a connection, and you also have battery power, close 
+down the app by following these steps then re-open the app:
+1. Double tap your device's home button to open the multi-tasking bar at the 
+bottom of the screen
+2. Press and hold the Guardian and Observer daily edition icon in the 
+multi-tasking bar until the apps begin to wobble
+3. Tap the minus sign that appears in the top left corner of the app.
+
+My subscription won't update. What should I do?
+The app checks subscription status regularly but if you find yourself locked 
+out of an issue, please power down your iPad and restart it by following these 
+steps:
+1. Press and hold the Sleep/Wake button (the button on top of your iPad) for a 
+few seconds until the red "slide to power off" slider appears, and then slide 
+the slider.
+2. Press and hold the Sleep/Wake button until the Apple logo appears.
+You should then reopen the app and download the issue as normal. If you have 
+any further issues, please emailtablet@theguardian.com 
+<mailto:tablet@theguardian.com>. stating that you have already restarted your 
+device.
+
+Can I access the app on more than one device?
+Yes. To do this you will need to restore your subscription on your new device. 
+Go to Subscribe > Retrieve subscription then add your Apple ID and password. 
+Please note that the same Apple ID will need to be used to download the app on 
+each device prior to attempting to recover a subscription.
+
+How do I access issues that are older than 7 days?
+The app allows access to a rolling seven days of editions by default. To 
+change the number of issues you can access, go to Settings >> Advanced settings 
+>> Forget issues older than and from there choose the option that best suits 
+you.
+
+Where is the app available?
+The app is available in every country through the App Store.
+
+How do I share content?
+From an article page, tap the share icon underneath the issue name in the top 
+right hand side of the screen. This will allow you to share via email, Twitter, 
+Instapaper or Facebook. Please note that you can only share articles that are 
+live on our website - if the share icon is missing, it is because no equivalent 
+web article exists.
+
+How do I configure Twitter?
+From your device's homescreen, open Settings > Twitter then "Add Account".
+
+How do I sign out of Instapaper?
+From within the app, go to Settings > Advanced settings > Forget Instapaper 
+credentials. You will then be asked for your details next time you try to post 
+to Instapaper.
+
+How do I copy and select text? Can I look up words?
+Press and hold on the text you want to select. When the highlighter appears, 
+either press "Define" to look up that particular word, or touch and drag the 
+blue markers to widen your selection. When ready, press "Copy" to copy the text.
+
+How can I find related content in the same issue?
+When there is related content it will be highlighted in the column to the 
+right hand side of the article text. There are links to related stories within 
+the issue and also further reading on our website.
+
+How do I access crosswords?
+Crosswords are available as a menu item, or by swiping through the sections of 
+the app. Please note: you must be connected to the internet to retrieve 
+crosswords, but once they are downloaded you can play offline.
+
+Can I use the app when I'm abroad?
+We advise checking with your operator prior to using the app abroad as most 
+monthly plans charge extra for data roaming while overseas. As this can often 
+be expensive, either sync using Wi-Fi or contact your service provider for 
+details of how to purchase cut-price roaming tariffs.
+
+How do I change the font size?
+The current version of the app does not have an option to change the font size.
+
+Why can't I watch video?
+You need an internet connection to watch video. Please check your connection 
+and try again.
+
+Why do some issues in the issue picker have an "Update?" button? What does 
+this mean?
+Issues are updated to pick up stories from later editions of that day's paper 
+or to amend the issue for legal reasons. The update button will re-download the 
+latest version of that issue.
+
+How do I remove the app?
+Open Newsstand from your device's homescreen, press and hold the app icon, 
+then tap the x when it appears.
+
+How do I switch off auto-rotate?
+From your homescreen, go to Settings then General and under "Use side switch 
+to" tick "Lock Rotation". It is now possible to use the side switch to lock the 
+rotation in landscape or portrait from within the app.
+
+Android-specific help
+
+What features does it have?
+• Editions from the last month available in the archive
+• All article and picture content downloaded for reading offline
+• Stunning photojournalism and full screen cartoons
+• In-article image galleries and interactives
+• Video embedded in articles viewable when online
+• Share stories via Facebook, Twitter, Instapaper and email
+• Swipe to navigate between sections or stories
+• Related articles within the edition highlighted
+• Related online articles 
+
+What time is it available each day?
+The app is available by 6am BST/GMT each day and is usually published around 
+3am BST/GMT.
+
+I have a print subscription that includes access to the daily edition. How do 
+I subscribe to the app?
+The app is available from the Google Play store and Amazon Newsstand. Once you 
+have completed your free trial you will be prompted to subscribe. If your print 
+subscription includes access to the daily edition, choose "I am a print 
+subscriber", then enter your subscriber ID. Your ID can be found underneath 
+your name on each voucher or, for print delivery subscribers, your ID will be 
+found on your confirmation email. If you have any problems please email
+tablet@theguardian.com <mailto:tablet@gtheguardian.com>. 
+
+I do not have a print subscription that allows access to the daily edition. 
+How do I subscribe to the app?
+You can subscribe through Google Play or Amazon Newsstand store.
+If you need further assistance with your subscription, please email 
+tablet@theguardian.com <mailto:tablet@theguardian.com>.
+
+Today's issue won't download - what can I do?
+From the issue picker (the screen where you choose which issue to read) press 
+the refresh button in the blue bar at the top. If there is no response, check 
+your internet connection by going to Safari and browsing to two or three pages. 
+If you are sure you have a connection, and you also have battery power, close 
+down the app and re-open.
+
+How do I access issues that are older than 7 days?
+The app allows access to a rolling seven days of editions by default. To 
+change the number of issues you can access, go to Settings >> Advanced settings 
+>> Forget issues older than and from there choose the option that best suits 
+you.
+
+How do I share content?
+From an article page, tap the share icon underneath the issue name in the top 
+right hand side of the screen. This will allow you to share via email, Twitter, 
+Instapaper or Facebook. Please note that you can only share articles that are 
+live on our website.
+
+How can I find related content in the same issue?
+When there is related content it will be highlighted in the column to the 
+right hand side of the article text. There are links to related stories within 
+the issue and also further reading on our website.
+
+How do I access crosswords?
+Crosswords are available as a menu item, or by swiping through the sections of 
+the app. Please note: you must be connected to the internet to retrieve 
+crosswords, but once they are downloaded you can play offline.
+
+Can I use the app when I'm abroad?
+We advise checking with your operator prior to using the app abroad as most 
+monthly plans charge extra for data roaming while overseas. As this can often 
+be expensive, either sync using Wi-Fi or contact your service provider for 
+details of how to purchase cut-price roaming tariffs.
+
+How do I change the font size?
+The current version of the app does not have an option to change the font size.
+
+Why can't I watch video?
+You need an internet connection to watch video. Please check your connection 
+and try again.
+
+Why do some issues in the issue picker have an "Update?" button? What does 
+this mean?
+Issues are updated to pick up stories from later editions of that day's paper 
+or to amend the issue for legal reasons. The update button will re-download the 
+latest version of that issue.
+
+Where is the edition available?
+The Android daily edition is available worldwide and the Kindle Fire daily 
+edition is available throughout Europe.
+
+Feedback
+
+How do I give you feedback/ideas on how the app can be improved?
+If you have trouble subscribing or are having problems with the app please 
+emailtablet@theguardian.com <mailto:tablet@theguardian.com>. If you have any 
+suggestions on how we can improve the app emailuserhelp@theguardian.com 
+<mailto:userhelp@theguardian.com>. You can also follow @guardianmobile 
+<http://twitter.com/#!/guardianmobile> on Twitter to get news from the Guardian 
+mobile team including details of updates to the app.
+
+Please note that queries will be answered by the Userhelp team during office 
+hours, Sunday - Friday 8 am-6 pm BST/GMT.
+ 

@@ -1,0 +1,33 @@
+
+A week after patching three serious vulnerabilities in iOS, Apple 
+<https://www.theguardian.com/technology/apple> has released a matching software 
+update to fix the same flaws in its computer operating system macOS.
+
+The urgent security update affects the most recent two versions of macOS, El 
+Capitan and Yosemite, and blocks weaknesses in Safari and the base operating 
+system. It can be downloaded through software update on affected machines.
+
+The vulnerabilities were discovered when an attempt to hack into the iPhone of 
+an Arab activistwas discovered by two security consultancies 
+<https://www.theguardian.com/technology/2016/aug/25/apple-ios-update-arab-activists-iphone-spyware>
+, Lookout Mobile and Citizen Lab. Ahmed Mansour received two suspicious text 
+messages in early august, claiming to offer new information about dissidents 
+being tortured in the UAE. Mansour forwarded the links to the security 
+researchers, who found a hitherto unknown type of spyware: one that could take 
+total control of an iPhone running the latest version of iOS simply by the user 
+opening the link in Safari.
+
+Apple was informed, and the existence of the weaknesses was kept secret until 
+the company was able to put together a patch for its mobile phones. But the 
+underlying architecture ofiOS <https://www.theguardian.com/technology/ios> and 
+macOS is similar enough that the flaws also exist in Apple’s computers.
+
+The company has not explained why it took a week after disclosure to fix its 
+desktop operating systems. In theory, the delay left users open to attack, 
+since cybercriminals were alerted to the existence of the vulnerability the day 
+the iOS patch was released. But in practice, there are no reports of macOS 
+malware in the wild that use these vulnerabilities – yet.
+
+Nevertheless, Mac users would be well advised to update their computers sooner 
+rather than later.
+ 

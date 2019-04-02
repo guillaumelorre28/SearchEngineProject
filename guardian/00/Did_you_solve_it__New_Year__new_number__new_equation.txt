@@ -1,0 +1,76 @@
+
+Earlier today I set the following three puzzles 
+<https://www.theguardian.com/science/2017/jan/02/can-you-solve-it-new-year-new-number-new-equation>
+, variations on the same theme:
+
+Fill in the equations below using any of the basic mathematical operations, +, 
+–, x, ÷, and as many brackets as you like, so that they make arithmetical sense.
+
+1) 10 9 8 7 6 5 4 3 2 1 = 2017
+
+2) 9 8 7 6 5 4 3 2 1 = 2017
+
+3) 8 7 6 5 4 3 2 1 = 2017
+
+The pleasure of these puzzles is in the elegance of the statement, the 
+simplicity of the tools required and the achievability of a solution. As I 
+wrote, there are almost a thousand ways to solve the first one.
+
+I usually solve these problems by dividing the year into its divisors, and 
+then trying to make each divisor from the ten digits. This method was not 
+possible this year since 2017 is prime. So what I did - and I think many of you 
+did too - was to find an expression that ended in either + 1 or + 2 – 1, and 
+make the numbers from 10 to 2, or 10 to 3, equal the much friendlier 2016.
+
+I received dozens of different solutions to the first question, the 
+ten-countdown. The most popular one was also to my mind the most appealing, 
+since you can write it without brackets, assuming you perform the operations in 
+order from left to right. The first person to enter this was the Tweeter A 
+Bernery. A copy of my book on its way to you, sir! (Or madam, hard to say from 
+the image).
+A. Bernery #NoDAPL (@_Anunnery) 
+Solved it, or came up with 1 solution anyhow:
+
+Operations in order, no brackets:
+10 * 9 * 8 * 7 / 6 / 5 * 4 * 3 + 2 - 1 = 2017 #MondayPuzzle 
+<https://twitter.com/hashtag/MondayPuzzle?src=hash> https://t.co/hL6lq5J5Up 
+<https://t.co/hL6lq5J5Up>
+ <https://twitter.com/_Anunnery/status/815827879955005442> January 2, 2017 
+<https://twitter.com/_Anunnery/status/815827879955005442> 
+The most concise solution for the the nine-countdown was sent in via email 
+from Dima:
+
+9 x 8 x 7 x (6 – 5) x 4 x (3 - 2) + 1 = 2017
+
+
+And my preferred solution to the third one was in a comment to my original pos 
+<https://www.theguardian.com/science/2017/jan/02/can-you-solve-it-new-year-new-number-new-equation>
+t by LadyLoverlysChatter and uses similar thinking:
+
+8 x 7 x 6 x (5 - 4) x 3 x 2 + 1 = 2017
+
+The bonus question in the photo caption, to find numbers for H, E, L and O 
+such that H E L L O = 2017 was not solved by anyone!
+
+If H = 7, E = 8, L = 6 and O = 1, then H x E x L x L + O = 2017
+
+Thanks for getting involved and I’ll see you in two weeks for some more 
+Ja-neuron-ary puzzle action.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F02%2Fdid-you-solve-it-new-year-new-number-new-equation%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20New%20Year%2C%20new%20number%2C%20new%20equation&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F02%2Fdid-you-solve-it-new-year-new-number-new-equation%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20New%20Year%2C%20new%20number%2C%20new%20equation&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F02%2Fdid-you-solve-it-new-year-new-number-new-equation%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+ Photograph: Guardian Faber 
+I set a puzzle here every two weeks on a Monday. I’m always on the look-out 
+for great puzzles. If you would like to suggest one,email me 
+<mailto:bellospuzzle@gmail.com>.
+
+My new book Can You Solve My Problems? A Casebook of Ingenious, Perplexing and 
+Totally Satisfying Puzzlesis available from the Guardian Bookshop 
+<https://bookshop.theguardian.com/can-you-solve-my-problems.html?utm_source=editoriallink&utm_medium=merch&utm_campaign=article>
+ andother retailers <http://amzn.to/2fFUeCA>. My children’s book Football 
+School: Where Football Explains The World <http://amzn.to/2h1Xj2o> was recently 
+shortlisted for the Blue Peter Book Award 2017.
+ 

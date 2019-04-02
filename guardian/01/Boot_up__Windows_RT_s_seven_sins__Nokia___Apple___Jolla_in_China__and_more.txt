@@ -1,0 +1,156 @@
+
+A quick burst of 8 links for you to chew over, as picked by the Technology team
+
+Microsoft's ARM blunder: 7 reasons why Windows RT was DOA >> The Register 
+<http://www.theregister.co.uk/2013/01/18/7_reasons_windows_rt_was_doa/page2.html>
+
+Neil McAllister: 
+
+maybe we're not supposed to view Windows RT devices the same as we do other 
+tablets. Maybe we're meant to see them as a new category of portable connected 
+device, somewhere between a tablet and a traditional PC.
+
+Let's suppose we're meant to view a Windows RT device as an inexpensive, 
+low-powered computer in a highly portable form factor. It runs aMicrosoft 
+<https://www.theguardian.com/technology/microsoft> OS, but its small screen, 
+underperforming processor, and limited hardware resources make it best suited 
+for lightweight tasks, basic word processing, and browsing the web. Fair enough?
+
+ Hang on, though. That sounds suspiciously like a netbook - and we all know 
+what happened to netbooks. The same customers who had a hard time justifying 
+netbook purchases in recent years will struggle to see the value in Windows RT 
+devices, particularly given the proliferation of low-cost, full-featured 
+Windows notebooks.
+
+ Microsoft didn't give any indication of how many Surfaces it sold during its 
+quarterly results on Thursday.
+
+Acer expects full-year loss >> WSJ.com 
+<http://online.wsj.com/article/SB10001424127887323539804578259163025742462.html>
+
+Acer <https://www.theguardian.com/technology/acer> Inc.expects to post a 
+full-year loss for 2012 amid a US$120.1m write-down on the value of the brands 
+it owns, as the personal-computer maker struggles to revive its business in a 
+highly competitive market. It will be the company's second-straight annual loss.
+
+ Acer, the world's fourth-largest PC maker, said Wednesday that it wrote down 
+trademark rights for the Gateway, Packard Bell, eMachines and E-Ten brands 
+after an annual review. A spokesman for the company said the write-down won't 
+affect business operations, but declined to give more specific details ahead of 
+the release of Acer's annual report in early March.
+
+ The news saw Acer's shares crash. No, actually, they rose 0.2%.
+
+Affidavit by MPEG LA chief supports Microsoft's interpretation of Google 
+patent license agreement >> FOSS Patents 
+<http://www.fosspatents.com/2013/01/affidavit-by-mpeg-la-chief-supports.html>
+
+Lawrence Horn, in an affidavit: 
+
+"Licensee or its Affiliates" is standard in the grant-back clauses of MPEG 
+LA's MPEG-2, 1394, DVB-T and AVC Patent Portfolio Licenses (in the AVC License, 
+Licensees also do not have the right to extend sublicenses to Affiliates). The 
+purpose of this language is to prevent a Licensee from avoiding its grant back 
+obligations through its affiliates (who then have the opportunity to hold 
+licenses and licensors hostage to their essential patent claims for failure of 
+the grant-back clause to apply to them) while the Licensee takes advantage of a 
+license under all of the Licensors' essential patents. We believe this is a 
+matter of fairness, and it has caused no problem in other licenses.
+
+Horn was in charge of sorting out the patent licensing for the H.264/AVC 
+standard. He's provided testimony for a Seattle court about how grant-back 
+(reciprocal licensing between members of the patenting group, or - crucially - 
+its affiliates who acquire it) works. Motorola - and subsequentlyGoogle 
+<https://www.theguardian.com/technology/google> - has been trying to get 
+Microsoft to pay annual royalties of up to $4bn, reduced subsequently to 
+demands of $100m or so. Horn's intervention means it might be just a few 
+hundred thousand dollars.
+
+Nokia sales down 79% in China as Symbian dies, Lumia slow to grow >> Tech In 
+Asia 
+<http://www.techinasia.com/nokia-china-sales-down-down-down-down-down-2012-q4/>
+
+If you thought Nokia's China figures for 2011 were a disaster, you should see 
+what just emerged today. Nokia's China nightmare is clearly not yet over as the 
+country's growing middle-class continuesto pick up iPhones and Android 
+smartphones <http://www.techinasia.com/canalys-china-smartphone-sales-2012/>. 
+That's the picture painted by Nokia's full-year 2012 report that came out 
+today. It shows Nokia sales revenue down 79% in China from the previous year, 
+and phone units plummeted 69% to a mere 4.6m sold in the final quarter of last 
+year.
+
+ China is very, very important for Nokia.
+
+Apple sees iPhone sales double in China >> Tech In Asia 
+<http://www.techinasia.com/apple-sees-iphone-sales-double-china/>
+
+C. Custer (founder of Chinageeks.org): 
+
+There have been lots of rumors that Apple is interested in making a low-cost 
+smartphone for China.I don't buy it 
+<http://www.techinasia.com/apple-making-lowcost-smartphone-china/>, and in the 
+company's quarterly earnings call, Apple released some information that 
+indicates they may not need any new offerings in the Chinese market to spark 
+growth. According to the company, iPhone sales in China "more than doubled" 
+year-over-year in Q1 2013. CEO Tim Cook said that the company is "extremely 
+pleased" with the "exceptional growth" in iPhone sales in China.
+
+Calling China: how mobile startup Jolla will sell an Android alternative >> 
+Forbes 
+<http://www.forbes.com/sites/parmyolson/2013/01/24/calling-china-how-mobile-startup-jolla-will-sell-an-android-alternative/>
+
+Parmy Olson: 
+
+Jolla cofounder and CEO Marc Dillon claims that many of China's mobile users 
+are sick of Android. "Standing out is really important in Chinese culture," he 
+says. Last June he struck a distribution deal with D.Phone, the nation's 
+largest mobile phone retailer, with 2,000 stores, to sell Jolla's first model 
+this summer. ST-Ericsson is making the processors for Sailfish phones, and 
+Jolla tapped into its network to find a local handsetmaker.
+
+ Jolla now does R&D in Hong Kong, where local and Chinese chipset vendors, 
+handset and component makers, and retailers are part of an alliance. The 
+partners are kicking in $270m to get Sailfish phones in the hands of Chinese 
+consumers. While Sailfish is open source - cynics might opine that everything 
+in China is open source - Jolla also plans to make money via licensing deals 
+and selling its expertise to install the platform on locally made handsets.
+
+Chris Chant calls for goverment IT heads to step down >> Computer Weekly 
+<http://www.computerweekly.com/news/2240176551/Chris-Chant-calls-for-goverment-IT-heads-to-step-down>
+
+Outspoken former government IT reformer Chris Chant has called for the 
+resignation of the Cabinet Office's chief operating officer Stephen Kelly and 
+chief procurement officer Bill Crothers following the procurement of an Oracle 
+enterprise resource planning (ERP) framework worth up to £750m.
+
+ The former G-Cloud head slammed Kelly and Crothers for rubber-stamping the 
+deal, which he described as an outrageous waste of money.
+
+ The ERP tender, worth between £250m and £750m, is being led by the Foreign 
+and Commonwealth Office (FCO) as part of the government's shared services 
+strategy. It will cover existing Oracle platforms across departments.
+
+In his own words: Tim Cook on Apple earnings and more >> Macworld 
+<http://www.macworld.com/article/2026141/in-his-own-words-tim-cook-on-apple-earnings-and-more.html>
+
+From Cook's call with financial analysts after the results on Wednesday. The 
+principal message that seems to come through repeatedly is that supply was 
+constrained - rather than demand being down. And this:
+
+Let me make one additional point on this: I know there's been lots of rumors 
+about order cuts and so forth, and so let me just take a moment to make a 
+comment on these. I don't want to comment on any particular rumor, because I 
+would spend my life doing that, but I would suggest it's good to question the 
+accuracy of any kind of rumor about build plans. And I'd also stress that even 
+if a particular data point were factual, it would be impossible to accurately 
+interpret the data point as to what it meant for our overall business, because 
+the supply chain is very complex, and we obviously have multiple sources for 
+things. Yields might vary, supplier performance can vary, the beginning 
+inventory positions can vary, I mean there's just an inordinately long list of 
+things that would make any single data point not a great proxy for what's going 
+on.
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/u:guardiantech>. To suggest a link, either add it below or 
+tag it with @gdntech on the freeDelicious <http://www.delicious.com/> service.
+ 

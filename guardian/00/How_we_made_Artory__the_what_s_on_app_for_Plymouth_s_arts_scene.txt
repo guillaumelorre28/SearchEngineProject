@@ -1,0 +1,103 @@
+
+At the heart of our app Artory <http://www.artory.co.uk/> is a question: if it 
+was possible to measure the intangible qualities of cultural experiences, how 
+could this empower the individual and transform cultural programming?
+
+For users, Artory is a “what’s on” app for culture that gathers feedback. In 
+exchange, users earn Art Miles® to be redeemed for exclusive offers at venues 
+acrossPlymouth <https://www.theguardian.com/uk/plymouth>. But it’s also a 
+groundbreaking collaborative research and development initiative that measures 
+the quality of cultural experiences, allowing organisations to better 
+understand their audiences.
+
+How we made the DeviantArt Mobile App | App story
+ Read more  
+<https://www.theguardian.com/culture-professionals-network/2015/jan/23/how-we-made-deviantart-mobile-app>
+The journey started with twelve leading cultural organisations from across 
+Plymouth, a digital agency, a social scientist and a shared vision. The 
+intention was to co-develop a metric and mechanism for measuring quality and 
+for collectively promoting cultural events.
+
+Then came the crux: how we incentivise audiences to leave feedback in the 
+first place. The solution took the form of Art Miles – a scheme that allows 
+users to accumulate points by visiting venues and leaving feedback. These 
+points can be exchanged in participating arts and cultural venues for drinks, 
+concessions as well as access to VIP events. The term was originally 
+trademarked by the Southbank Centre, which supports Artory by granting it a 
+license for use of the term.
+
+
+The metric and the Art Miles scheme were then implemented with the development 
+of the Artory smartphone app (iOS and Android). The app is designed to work 
+with an open-source platform to provide a slick, personalised and easy-to-use 
+“what’s on” functionality for audiences while seamlessly gathering feedback 
+data – in real-time – for the participating cultural organisations.
+
+Importantly, this data is not only collected but also processed in Artory’s 
+analytics engine, giving venues vital information about their audiences that 
+can inform programming and investment. With this kind of data required more and 
+more for securing arts funding, this aspect is invaluable. Artory also ensures 
+that data protection is adhered to and that users have control over the 
+transactional and qualitative data they leave behind.
+
+
+The Artory project was created with a not-for-profit and open-source ethos, 
+where all income generated is reinvested into the ongoing development that 
+benefits all participants. The open-source software platform that powers the 
+app is calledQualia <http://qualia.org.uk/about/>, which allows organisations 
+to freely install and modify the code under the GNU General Public License: one 
+of the most widely used free software licenses.
+
+As with many cultural and grassroots initiatives, Artory has been developed on 
+a shoestring budget. The partners involved have all invested huge amounts of 
+time and resource into launching this service. There are always additional 
+functionalities, platforms and user tests we would have liked to include for 
+the launch, but this is by no means a completed product.
+
+The Artory project so far has been all about collaborative innovation and 
+investment. The partners see this as a long journey, which is as much about 
+creating a shared cultural economy as it is about measuring. One of the central 
+challenges to overcome will be ensuring Artory users feel empowered and 
+incentivised enough by the app to engage in deeper conversations about their 
+cultural experiences. An even greater challenge is whether we – the producers 
+and curators of arts and culture – can embrace the revelations of this data to 
+make meaningful change.
+
+Since its launch on 30 January 2015, downloads of the app are well on their 
+way to meeting the group’s targets and it is currently in the top five of the 
+new lifestyle apps on Google Play. The key to the app’s ongoing success will be 
+making sure that the user experience is excellent, that the event listing is 
+exceptional and that incentives are attractive enough to build and retain user 
+loyalty.
+
+The real success of Artory will be when it rolls out throughout the country: 
+when you can find out what’s happening; express what you feel about your arts 
+and cultural experiences; and spend your Art Miles not just in Plymouth, but 
+all over the UK.
+
+App facts
+
+Length of the project: one year of planning and securing partnerships and 
+investment, plus eight months’ development
+Funding: the app is funded by i-DAT <http://i-dat.org/> with Plymouth 
+University <https://www.plymouth.ac.uk/>, Elixel <http://www.elixel.co.uk/>, 
+Destination Plymouth,Plymouth Arts Centre <http://www.plymouthartscentre.org/>, 
+Plymouth City Council andPlymouth Culture <http://www.plymouthculture.co.uk/>
+
+More App stories
+
+• How we made the DeviantArt Mobile App 
+<https://www.theguardian.com/culture-professionals-network/2015/jan/23/how-we-made-deviantart-mobile-app>
+• How we made the cultural data app, I’m@app 
+<https://www.theguardian.com/culture-professionals-network/2014/dec/12/how-we-made-im-at-app-liverpool-culture>
+• How we made the Hidden Newcastle app 
+<https://www.theguardian.com/culture-professionals-network/2015/jan/09/hidden-newcastle-app-culture-heritage>
+
+Find out about Artory’s design and development partners here 
+<http://www.artory.co.uk/>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+
+ 

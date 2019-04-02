@@ -1,0 +1,107 @@
+
+You're reading these words because light waves are bouncing off the letters on 
+the page and into your eyes. The sounds of the rustling paper or beeps of your 
+computer reach your ear via compression waves travelling through the air. Waves 
+race across the surface of our seas and oceans and earthquakes send waves 
+coursing through the fabric of the Earth.
+
+As different as they all seem, all of these waves have something in common – 
+they are all oscillations that carry energy from one place to another. The 
+physical manifestation of a wave is familiar – a material (water, metal, air 
+etc) deforms back and forth around a fixed point.
+
+Think of the ripples on the surface of a pond when you throw in a stone. 
+Looking from above, circular waves radiate out from the point where the stone 
+hits the water, as the energy of the collision makes water molecules around it 
+move up and down in unison. The resulting wave is called "transverse" because 
+it travels out from the point the stone sank, while the molecules themselves 
+move in the perpendicular direction. A vertical cross-section of the wave would 
+look like a familiar sine curve.
+
+Sound waves are known as "longitudinal" because the medium in which they 
+travel – air, water or whatever else – vibrates in the same direction as the 
+wave itself. Loudspeakers, for example, move air molecules back and forth in 
+the same direction as the vibration of the speaker cone.
+
+In both cases, the water or air molecules remain, largely, in the same place 
+as they started, as the wave travels through the material. They are not 
+shifted, en masse, in the direction of the wave.
+
+The one-dimensional wave equation (pictured) describes how much any material 
+is displaced, over time, as the wave proceeds. The curly "d" symbols scattered 
+through the equation are mathematical functions known as partial differentials, 
+a way to measure the rate of change of a specific property of the system with 
+respect to another.
+
+On the left is the expression for how fast the material is deforming (y) in 
+space (x) at any given instant; on the right is a description for how fast the 
+material is changing in time (t) at that same instant. Also on the right is the 
+velocity of the wave (v). For a wave moving across the surface of a sea, the 
+equation relates how fast a tiny piece of water is physically deforming, at any 
+particular instant, in space (on the left) and time (on the right).
+
+The wave equation had a long genesis, with scientists from many fields 
+circling around its mathematics across the centuries. Among many others, Daniel 
+Bernoulli, Jean le Rond d'Alembert, Leonhard Euler, and Joseph-Louis Lagrange 
+realised that there was a similarity in the maths of how to describe waves in 
+strings, across surfaces and through solids and fluids.
+
+Bernoulli, a Swiss mathematician, began by trying to understand how a violin 
+string made sound. In the 1720s, he worked out the maths of a string as it 
+vibrated by imagining the string was composed of a huge number of tiny masses, 
+all connected with springs. Applying Isaac Newton's laws of motion for the 
+individual masses showed him that the simplest shape for vibrating violin 
+string, fixed at each end, would be the gentle arc of a single sine curve. A 
+violin string (or a string on any instrument, for that matter) vibrates in 
+transverse waves along its length, which creates longitudinal waves in the 
+surrounding air, which our ears interpret as sound.
+
+Some decades later, mathematician Jean Le Rond d'Alembert generalised the 
+string problem to write down the wave equation, in which he found that the 
+acceleration of any segment of the string was proportional to the tension 
+acting on it. The waves created by different tensions of the string produce 
+different notes – think of how the sound from a plucked string can be changed 
+as it is tightened or loosened.
+
+The wave equation started off describing movement of physical stuff but it is 
+much more powerful than that. Mathematically, it can also describe, for 
+example, the movement of heat or electrical potential, by changing "y" from 
+describing the deformation of a substance to the change in the energy of a 
+system.
+
+Not all waves need to travel through a material. By 1864, the physicist James 
+Clerk Maxwell had derived his four famous equations for the interactions of the 
+electric and magnetic fields in a vacuum around charged particles. He noticed 
+that the expressions could be combined to form wave equations featuring the 
+strength of the electric or magnetic fields in the place of "y". And the speed 
+of these waves (the "v" term in the equation) was equal to the speed of light.
+
+This simple mathematical re-arrangement was one of the most significant 
+discoveries in the history of physics, showing that light must be an 
+electromagnetic wave that travelled in the vacuum.
+
+Electromagnetic waves, then, are transverse oscillations of the electric and 
+magnetic fields. Discovering their wave-like nature led to the prediction that 
+there must be light of different wavelengths, the distance between successive 
+peaks and troughs of the sine curve. It was soon discovered that wavelengths 
+longer than visible light include microwaves, infrared and radio waves; shorter 
+wavelengths include ultraviolet light, X-rays and gamma rays.
+
+The wave equation has also proved useful in understanding one of the 
+strangest, but most important, physical ideas in the past century: quantum 
+mechanics. In this description of the world at the level of atoms and smaller, 
+particles of matter can be described as waves using Erwin Schrödinger's 
+eponymous equation.
+
+His adaptation of the wave equation describes electrons, for example, not as a 
+well-defined object in space but as quantum waves for which it is only possible 
+to describe probabilities for position, momentum or other basic properties. 
+Using the Schrödinger wave equation, interactions between fundamental particles 
+can be modelled as if they were waves that interfere with each other, instead 
+of the classical description of fundamental particles, which has them hitting 
+each other like billiard balls.
+
+Everything that happens in our world, happens because energy moves from one 
+place to another. The wave equation is a mathematical way to describe how that 
+energy flows.
+ 

@@ -1,0 +1,219 @@
+
+Earlier this month, game designer and programmer Brie Code wrote an interesting
+opinion piece for GamesIndustry.Biz 
+<http://www.gamesindustry.biz/articles/2016-11-07-video-games-are-boring>. 
+Entitled “video games are boring”, the article questioned pretty much all our 
+assumptions about what games are, how they work and what they can do. Her 
+argument was that a huge number of people are locked out of playing games 
+because of age-old conventions, mechanics and assumptions. If you look at the 
+major output of the big publishers, it’s all first-person shooters, action 
+adventures, sports sims and 100-hour role-playing epics, filled with complex 
+controls, assumed knowledge, violence and dextrous challenge. Many millions of 
+potential players aren’t into all that.
+
+But even if we accept those genres and conventions as a given, games could do 
+a lot more to be approachable and intuitive to a wider audience. In many ways, 
+game designers could learn a lot from the way narrative television has evolved 
+over the past few golden years. Here are five examples.
+
+Provide a proper narrative on ramp
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F766a8f0af0e9fdb986a0f00af8de02120ce8d85a%2F143_0_3598_2160%2F3598.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Five%20lessons%20that%20video%20games%20could%20learn%20from%20television%20drama&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Five%20lessons%20that%20video%20games%20could%20learn%20from%20television%20drama&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F766a8f0af0e9fdb986a0f00af8de02120ce8d85a%2F143_0_3598_2160%2F3598.jpg>
+ In Call of Duty: Infinite Warfare players often only learn about the world by 
+listening to breathless exposition from non-player characters. Photograph: 
+Activision 
+When you watch a good modern television series, there will often be an opening 
+scene that sets up a sense of disorientating wonder or interest. The characters 
+and relationships may not be explained and you’ll be thrust right into 
+something dramatic, which may not be explained until much later in the episode. 
+The sexually explicit beginning of Billionaires is a great example.
+
+Games often do this too by introducing the player into the middle of a simple 
+mission. The difference is that television dramas will then usually draw way 
+back and start introducing characters, themes and relationships in an 
+accessible, digestible way. In other words, they take their time.Games 
+<https://www.theguardian.com/technology/games>, on the other hand, don’t draw 
+back. You may get a cut-scene with some exposition, but there’s usually little 
+sense of dramatic development. You’re just thrust right in and then 
+breathlessly fed background information by some knowledgeable non-player 
+character running alongside you. The Call of Duty titles are famous for this.
+
+Of course, games are about action and they’re structured in a way that get 
+players using the controller as soon as possible. But by just chucking people 
+into the middle of everything and then relentlessly piling on mission upon 
+mission, they’re not giving anyone the chance to settle in and learn the world. 
+TV shows such as Breaking Bad, Hannibal and Jessica Jones all showed how action 
+can be combined with a slow burn of enticing character information and 
+narrative development to enhance immersion.
+
+Introduce underlying concepts gradually
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F3bcc3b0cfd78072fd6f2d20aa6ead9cd1743e8ac%2F19_0_927_556%2F927.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Five%20lessons%20that%20video%20games%20could%20learn%20from%20television%20drama&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Five%20lessons%20that%20video%20games%20could%20learn%20from%20television%20drama&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F3bcc3b0cfd78072fd6f2d20aa6ead9cd1743e8ac%2F19_0_927_556%2F927.png>
+ WatchDogs 2 features a lively and well-conceived hacker underworld, but 
+players are given little chance to acclimatise. Photograph: Ubisoft 
+WatchDogs 2 throws its whole systemic language at you in the very first 
+practice mission. Suddenly, you’re in the HQ of a technology corporation and 
+you need to understand how every single button on the controller (including the 
+d-pad and click-down analogue stick buttons) is employed. Not only that, but 
+many of the buttons have different contextual actions, depending on whether 
+you’re traversing the environment, hacking a terminal or opening a door. It’s a 
+mass of interlocking mechanics and for new players this is hugely alienating.
+
+OK, so a lot of players hate those interminable tutorial missions that slowly 
+and patronisingly introduce each mechanic as you fumble through a series of 
+practice areas. But gradual systemic revelation doesn’t have to work like this. 
+Shigeru Miyamoto perfected Nintendo’s “learn, test, master” approach to game 
+design in which characters are gradually given new items and abilities while 
+traversing fully formed, fully functioning game levels. They learn new items as 
+they go, test them on increasingly challenging enemies and then master them in 
+boss battles. Not all games can work like Super Mario Bros, but the point is: 
+there are ways to introduce systems without requiring the player to learn 
+everything at once, or to take the gaming equivalent of driving lessons.
+
+In modern television drama, there are very few assumptions made about viewer 
+knowledge, unless we’re being purposefully kept in the dark about an archaic 
+world. The Wire is a perfect example of this. Anything we don’t know is usually 
+being kept from us for a reason, and that will be slowly and carefully revealed 
+to provide dramatic tension. In Jessica Jones, we don’t know the precise nature 
+of the relationship between Jessica and Kilgrave until well into the season, 
+but we’re certainly given enough to know he’s evil and that they have a 
+history. That’s all we need for the first few episodes.
+
+Gradual and highly choreographed revelation is a key component of all 
+narrative media, but somehow games often fail at this. Input systems, like plot 
+points, can be fed slowly and carefully – they can become an element of the 
+drama. It’s really interesting how, when television programmes have learned 
+from, or set out to critique video games, they have portrayed game conventions 
+as problematic. Lost was essentially an action adventure filled with puzzles 
+and arcane rules that hinted at the supernatural nature of the island, but also 
+dehumanised its inhabitants. Westworld is in some ways an exploration of video 
+game systems and the limitations of simulated worlds. It’s kind of an open 
+letter, a challenge to game designers.
+
+Allow characters to change
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F890a74af368c687e4a4dd76963380715540e1afc%2F36_0_1799_1080%2F1799.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Five%20lessons%20that%20video%20games%20could%20learn%20from%20television%20drama&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Five%20lessons%20that%20video%20games%20could%20learn%20from%20television%20drama&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F890a74af368c687e4a4dd76963380715540e1afc%2F36_0_1799_1080%2F1799.jpg>
+ Uncharted 4 treats its characters like functioning adults, with relationships, 
+flaws and unexpected decisions Photograph: Sony 
+Once again, because of their very interactivity, video games often work more 
+like action movies than TV drama: they’re about kinetic thrills rather than 
+character development, so they usually deal with archetypes – the jaded 
+adventurer, the noble warrior, the power-hungry statesman, the naive innocent.
+
+But as games and game audiences mature, this approach is feeling more and more 
+incongruous. We have studios such as Arkane, Ubisoft, Rockstar and Bioware 
+producing complex, mature narratives where the action sequences are combined 
+with character and plot development. So it’s strange to see many games where 
+the lead protagonists remain largely unchanged – either physically or 
+emotionally – throughout the course of what may be a multi-release story arc.
+
+Uncharted 4 provided a really affecting counter to this. Nathan Drake begins 
+as an Indiana Jones archetype, and in some ways that’s how he closes out the 
+series. However, along the way, he has a shifting friendship with Sully, a 
+troubled history with his brother and one of the most authentic romantic 
+relationships in the history of game design with Elena. Throughout the course 
+of the four games, he learns that his impulsive nature is dangerous both to 
+himself and his loved ones, and it almost destroys his marriage. The Nathan who 
+completes the fourth game is different in many ways to the Nathan who begins it.
+
+This is the very least we expect from good television drama – Tony Soprano is 
+a great example of a “stock” character, who is given depth by his mistakes, his 
+insecurities and his sudden, often violent swings in mood and intention. 
+Characters who don’t surprise us feel flat and boring, and the most memorable 
+games are the ones that allow for twists in accepted behaviours. Valve and 
+Irrational were both great at this throughout the Half-Life, Portal and 
+Bioshock titles.
+
+Provide regular reminders
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe74258c631c883095b73da1af1e9ac832134cdb2%2F0_91_1400_840%2F1400.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Five%20lessons%20that%20video%20games%20could%20learn%20from%20television%20drama&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Five%20lessons%20that%20video%20games%20could%20learn%20from%20television%20drama&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe74258c631c883095b73da1af1e9ac832134cdb2%2F0_91_1400_840%2F1400.jpg>
+ Witcher 3 is a wonderful game, but returning to it after a few weeks can be 
+confusing and frustrating. Photograph: PR 
+As a whole, players are not binging on 100-hour games like they used to. 
+There’s definitely still a hardcore gaming demographic that will play through 
+Zelda or GTA or Elder Scrolls in a single lost weekend of energy drinks, 
+takeaway pizza and pyjamas, but as the audience grows up, that sort of 
+indulgence gets harder. The percentage of gamers in their 30s and 40s is 
+growing, and many of those people have to fit in games between work and family 
+responsibilities.
+
+The problem is, most games still assume you’re going to do everything in a 
+weekend – and so they’re structured for one long slab of attention time. Leave 
+Deus Ex or Witcher 3 for a few weeks, and you have to relearn everything from 
+scratch: what was the spell button again? How does this gun work? What was I 
+doing in this mission? If you’re lucky, there will be a menu that lists your 
+immediate mission objectives, but everything else is assumed.
+
+When I raised this on Twitter this week, one gamer told me that Assassin’s 
+Creed had a system that knew when you hadn’t played for a while and offered to 
+go through the controls with you when you returned – as does Far Cry Primal. 
+That’s a cool idea and well done Ubisoft for thinking about it, but games could 
+go further. If you watch a weekly television drama, you’ll be used to the 
+words: “previously on ... ” at the start of each episode, recapping the key 
+events so far. Games could really use this sort of thing – especially between 
+sequels that may actually be two years apart. But no, most games exist in a 
+permanent present, where players are assumed to have an encyclopaedic knowledge 
+and total recall of everything that’s gone on before. Either that, or you’re 
+expected to go through all the logs, emails, scrolls and databank entries 
+you’ve picked up along the way. That’s no good if you only have an hour to play 
+between getting the kids to bed and going to sleep yourself.
+
+Plan season arcs in advance
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-6%23img-6&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ff60396337d2cc11d51339d6c905470de0a0103a5%2F75_0_668_401%2F668.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Five%20lessons%20that%20video%20games%20could%20learn%20from%20television%20drama&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-6%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Five%20lessons%20that%20video%20games%20could%20learn%20from%20television%20drama&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F17%2Ffive-lessons-that-video-games-could-learn-from-television-drama%3Fpage%3Dwith%3Aimg-6%23img-6&media=https%3A%2F%2Fmedia.guim.co.uk%2Ff60396337d2cc11d51339d6c905470de0a0103a5%2F75_0_668_401%2F668.jpg>
+ Mass Effect was apparently planned as a trilogy, but the ending still managed 
+to disappoint a lot of fans. Photograph: Electronic Arts 
+Making video games is an expensive and risky business – nothing is assumed, 
+least of all success. So the way games are often greenlit is with a major 
+launch title and seemingly only the roughest idea of where things go next. 
+Alternatively, a successful series will be built upon endlessly, with the 
+publisher keen to squeeze all the life it can from the concept – because 
+success is so hard to capture. This leads to interminable franchises such as 
+Resident Evil and Assassin’s Creed, which can often go on much longer than 
+their imaginative lifespans are able to usefully uphold.
+
+When the Guardian interviewed Uncharted 4 designer Ricky Cambier 
+<https://www.theguardian.com/technology/2016/apr/04/uncharted-4-how-stealth-and-exploration-will-shape-drakes-final-adventure>
+ just before the release of the game, he said that developer Naughty Dog was 
+lucky that Sony was allowing the studio to plan the ending of the series. There 
+was no pressure to keep it rolling along until the sales stalled – they could 
+end it at an emotionally satisfying and meaningful point. But that shouldn’t be 
+luck, that should be the way the industry works. Game developers working on 
+major new series should plan in the ending – it’s a vital element of longform 
+narrative drama.
+
+Mad Men, Breaking Bad, Lost at least appeared to have endings structured into 
+the experience, so viewers knew they were going to get a satisfying conclusion 
+(or in the case of Lost, just a conclusion). Mass Effect was apparently planned 
+as a trilogy from the outset, but the way it ended made you wonder. Was that 
+really the conclusion that Bioware planned from the very beginning of the 
+project? If it was, video game studios have to start thinking about new 
+methods, conventions and interactive narrative structures that allow for both 
+choice and story arcs with genuine and emotional endings. It does happen, of 
+course, with Red Dead Redemption, Portal, The Last of Us and Ocarina of Time 
+being notable examples. But most of those were discreet experiences.
+
+For long-running narrative games to mature, they can take many useful tips 
+from multi-season television drama. They don’t have to change completely, but 
+sometimes it feels like they need to let more people in.
+ 

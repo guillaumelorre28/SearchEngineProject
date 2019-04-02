@@ -1,0 +1,142 @@
+
+Flash is dead, long live Fl– actually, no, scratch that, Flash really is dead 
+and it deserved to die. Flash is terrible.
+
+The killer blows to Adobe’s multimedia browser plugin were delivered this week 
+in a one-two punch. Firstly, users of Flash were left open to not one but two 
+“zero-day” vulnerabilities in the same week, affecting users of Chrome,Internet 
+<https://www.theguardian.com/technology/internet> Explorer and Firefox. Almost 
+immediately, hackers were able to abuse these flaws to dump malware on Windows 
+PCs, which led Mozilla to disable the plugin entirely until users had updated 
+to a secure version.
+
+Then on Tuesday, YouTube <https://www.theguardian.com/technology/youtube> – 
+the biggest provider of Flash video ever – announced that it would stop serving 
+its videos using the plugin for anyone visiting the site in a modern browser.
+
+“There were limitations that held it back from becoming our preferred platform 
+for video delivery,” wrotethe site’s engineering manager, Richard Leider 
+<http://youtube-eng.blogspot.jp/2015/01/youtube-now-defaults-to-html5_27.html>, 
+four years ago. “Most critically, HTML5 lacked support for Adaptive Bitrate 
+(ABR) that lets us show you more videos with less buffering.
+
+“Over the last four years, we’ve worked with browser vendors and the broader 
+community to close those gaps, and now, YouTube uses HTML5 by default in 
+Chrome, IE 11, Safari 8 and in beta versions of Firefox.”
+
+The writing has been on the wall for Flash for almost a decade – ever since 
+the iPhone launched in 2007 with no support for the plugin. At the time, Apple 
+was lambasted for its absence; the company worked with Google to create a 
+standalone YouTube app, but many other sites were only partly functional until 
+they bowed to user pressure and built “mobile friendly”.
+
+Three years later, the pressure was such that Steve Jobs wrote a rare missive 
+<https://www.apple.com/hotnews/thoughts-on-flash/> publicly addressing the 
+company’s continued refusal to include the software. “Flash was created during 
+the PC era – for PCs and mice,” he argued. “Flash is a successful business for 
+Adobe, and we can understand why they want to push it beyond PCs. But the 
+mobile era is about low-power devices, touch interfaces and open web standards 
+– all areas where Flash falls short.”
+
+A year after Jobs’ letter, Adobe <https://www.theguardian.com/technology/adobe>
+ killed the mobile Flash player for Android devices, fully retreating from the 
+post-PC world.
+
+With YouTube following suit, it doesn’t look like long until the player is a 
+relic of an internet past. But before we all uninstall it, maybe it’s time to 
+look back at the great hits of Flash gone by.
+
+The End of the World <http://www.albinoblacksheep.com/flash/end>
+ “Fire ze missiles” Photograph: End of the World 
+Time was, Flash animations ruled the internet. The End of the World wasn’t the 
+best of them, not the first, but it was one that perfectly exemplified the 
+medium for a long time. Scratchy amateurish drawings with worse animation, bad 
+caricatures of George Bush, and jokes which don’t really make sense, it was a 
+surefire viral hit.
+
+Xiao Xiao <http://www.newgrounds.com/portal/view/42801>
+ Xiao Xiao fights. Photograph: Newgrounds.com 
+But amateurish animation doesn’t necessarily mean inelegant. Xiao Xiao, a 
+nine-part series which started in April 2001, began as just two stick figures 
+fighting in a featureless room, and static pictures don’t do it justice: the 
+beauty is in motion. Over the course of the series’ progression, the animation 
+got better and better, but even from the first episode, what stood out was 
+stylish choreography which could put Hollywood to shame. He breaks a stick and 
+kicks it into a guy’s face! Eleven-year-old me thought this was great.
+
+Salad Fingers <http://www.fat-pie.com/salad.htm>
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOWBFKL6H7rI&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOWBFKL6H7rI>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOWBFKL6H7rI&media=>
+Created by the British cartoonist David Firth, Salad Fingers felt like one of 
+the first flash animations that went fully viral, inhabiting normal pop culture 
+as well as the weird internet one. That was mostly because it was relentlessly, 
+inexplicably creepy. Salad Fingers is a green man with weird fingers and a 
+weirder voice. He wants to stroke your rusty kettle. He likes spoons.
+
+The series is still, infrequently, being produced, with the most recent 
+episode coming out in 2013.
+
+Weebl and Bob <http://www.weebls-stuff.com/weebl-bob/video/pie.html>
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXj1LFYSO2Kw&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXj1LFYSO2Kw>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXj1LFYSO2Kw&media=>
+Another British creation Weebl and Bob are two wobbly eggs who like pie. That 
+set-up took the animation through over 100 episodes, onto MTV in a series of 
+licensed indents, and a made for DVD special. The creator, Jonti Picking, was 
+also hired by Anchor Butter to make adverts for the product featuring cows 
+rather than eggs.
+
+The noughties were weird.
+
+Homestar Runner <http://www.homestarrunner.com/>
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjan%2F30%2Fflash-youtube-nostalgia%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-1%23img-1&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F1%2F30%2F1422608739876%2Fc397b162-78b3-4b49-b453-20ad3eb6c96e-1020x612.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Flash%20is%20dead%2C%20and%20YouTube%20dealt%20the%20killing%20blow&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjan%2F30%2Fflash-youtube-nostalgia%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-1%23img-1>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Flash%20is%20dead%2C%20and%20YouTube%20dealt%20the%20killing%20blow&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjan%2F30%2Fflash-youtube-nostalgia%3Fpage%3Dwith%3Aimg-1%23img-1&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F1%2F30%2F1422608739876%2Fc397b162-78b3-4b49-b453-20ad3eb6c96e-1020x612.png>
+ Homestar Runner and Marzipan walk in the snow. Photograph: HomestarRunner.com 
+The undoubted star of early Flash animations is Homestar Runner. Another 
+comedy series, initially starring Homestar Runner himself, it soon sprawled 
+into a whole host of linked series – and spawned an even bigger star than its 
+lead in the form of Strong Bad, an angry Mexican wrestler who responds to 
+readers emails and mocks typos. When a new episode was dropped without warning 
+in October 2014, the internet freaked out – and with reason.
+
+Hedgehog Launch <http://jmtb02.com/hedgehoglaunch/>
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjan%2F30%2Fflash-youtube-nostalgia%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F1%2F30%2F1422609082900%2F0efd260a-68b3-4bf6-b31b-bffc2eff881e-719x720.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Flash%20is%20dead%2C%20and%20YouTube%20dealt%20the%20killing%20blow&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjan%2F30%2Fflash-youtube-nostalgia%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Flash%20is%20dead%2C%20and%20YouTube%20dealt%20the%20killing%20blow&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjan%2F30%2Fflash-youtube-nostalgia%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F1%2F30%2F1422609082900%2F0efd260a-68b3-4bf6-b31b-bffc2eff881e-719x720.png>
+ A hedgehog is launched. Photograph: jmbt02 
+While YouTube killed the Flash animation star, the plugin stuck around a bit 
+longer, thanks to online games – at least until the game development platform 
+Unity superseded it there too. Hedgehog Launch was the breakout hit of 
+developer John Cooney, better known as jmtb02, and tasked players with 
+launching a hedgehog into space. Addictive, intuitive, fun and cute, it was a 
+sure-fire hit, and propelled Cooney into a career making increasingly smart 
+games that never lost sight of the need for pure viral magic.
+
+The Helicopter Game 
+<http://www.addictinggames.com/action-games/helicoptergame.jsp>
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZiebMObNEi4&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZiebMObNEi4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DZiebMObNEi4&media=>
+This simple flight sim, which requires you to deftly tap the mouse button to 
+keep your chopper airborne, is one of the most played Flash games in the 
+history of the platform. It’s also surely an influence on one of the biggest 
+smartphone gaming hits of 2013: Flappy Bird. Be warned: if you start playing 
+it, you probably won’t get anything else done today.
+ 

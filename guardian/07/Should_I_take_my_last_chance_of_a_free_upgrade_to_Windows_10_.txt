@@ -1,0 +1,146 @@
+
+I have two laptops: one started with Windows 7 and the other with Windows 8. 
+I’ve upgraded the second machine toWindows 10 
+<https://www.theguardian.com/technology/windows-10> and left the first on 
+Windows 7. Microsoft keeps telling me to upgrade before 29 July as it 
+“qualifies” but I don’t want to lose my Windows 7.
+
+
+If/when I master Windows 10, can I use my copy of Windows 10 to upgrade my 
+Windows 7 laptop, or can I store a copy of Windows 10 on my Windows 7 laptop 
+until required? I don’t want to pay £100 (?) for a retail copy ofWindows 
+<https://www.theguardian.com/technology/windows> 10. John G
+
+If you are ever likely to want Windows 10 on any PC, then you should upgrade 
+it before 29 July. This is true even if you don’t intend to use Windows 10 for 
+a few years, if ever.
+
+
+The key point is that each qualified PC has to register the Windows 10 upgrade 
+online on Microsoft’s activation server by 29 July. The activation, not the 
+code, is what makes the Windows 10 upgrade free. If you were to use exactly the 
+same code on exactly the same PC a few days later, the activation would not be 
+free.
+
+The online activation procedure means you can’t usefully save Windows 10 
+upgrade code, or transfer an upgrade from a different laptop. (In fact, 
+pre-installed copies of Windows are locked to a specific device, and can’t 
+legally be moved to a different device.)
+
+Windows 10’s online activation procedure creates a hash code based on your 
+PC’s hardware, mainly the motherboard and processor. Microsoft stores this code 
+for future reference. After that, you can upgrade to Windows 10 then roll back 
+to Windows 7 as often as you like.
+
+Windows 7 was launched in 2009 and will be supported until 2020, so you can 
+keep using it until then. However, if you think you might want to use Windows 
+10 before 2020, or you plan to keep using your current PC through 2020 and 
+beyond, then you should take the free upgrade while it’s available. The PC 
+manufacturers, who are Microsoft’s real customers, would much rather sell you a 
+new PC running Windows 10 than have Microsoft upgrade your old one.
+
+Rolling back Windows 10
+
+When Microsoft upgrades a PC to Windows 10, it keeps a copy of the previous 
+version – Windows.old – on your hard drive for 30 days. This makes it very easy 
+to roll back to Windows 7 or 8.1.
+
+To do this, go to Settings, select Update & Security, and then Recovery. This 
+will give you the option to “Go back to Windows 7” or “Go back to Windows 8.1”.
+
+The process is quick and easy, and I’ve done it a few times with no errors. 
+However, you should obviously make a back-up of your whole hard drive, and any 
+important data, before doing an operating system upgrade. There is always the 
+risk that something will go wrong. If the worst comes to the worst, you may 
+need to re-install Windows 7 from your back-up and do the upgrade again.
+
+If you have created any new files in Windows 10, these will be retained after 
+the roll-back. But, obviously, if you have installed any Windows 10 apps, they 
+will disappear.
+
+Preparing for the upgrade
+
+I’ve already published an answer on this topic, so I don’t need to go through 
+it again. Just see:How should I prepare my PC for the upgrade to Windows 10? 
+<https://www.theguardian.com/technology/askjack/2016/may/05/how-should-i-prepare-my-pc-for-the-upgrade-to-windows-10>
+
+Briefly, it’s best to uninstall any software you no longer use or want. For 
+best results, also uninstall any third-party anti-virus software and firewalls. 
+Some anti-virus software publishers have new versions for Windows 10, and you 
+can reinstall your AV software once the upgrade is complete.
+
+As I also mentioned, you may avoid some problems if you also detach any large 
+peripherals, such as printers, scanners and projectors. (Mice and monitors 
+appear to be OK.) Windows 10 will spend some time trying to find drivers for 
+peripherals, and it doesn’t always do the best job. Being smart, you can 
+download new drivers directly from the manufacturers’ website and re-install 
+your peripherals later.
+
+Yes, I know, hundreds of millions of people have done Windows 10 upgrades with 
+no preparation and no problems at all. However, even if 99% of the upgrades 
+worked perfectly, that would still leave 3.5 million people with problems. It’s 
+worth making a small effort to avoid becoming one of them.
+
+Anniversary edition
+
+Windows 10 is “software as a service 
+<https://en.wikipedia.org/wiki/Software_as_a_service>” (SaaS), installed and 
+continuously updated from the cloud, and it’s free for the life of the device. 
+In other words, Windows 10 remains free of charge until your PC dies, or you 
+recycle it. Of course, if you buy a new Windows PC, that will come with a new 
+copy of Windows 10 pre-installed, for which the manufacturer will usually have 
+paid Microsoft a fee.
+
+SaaS means there will never be a Service Pack 1 for Windows 10, and there will 
+never be a Windows 11. Instead, Microsoft will keep upgrading Windows 10 on a 
+regular basis.
+
+None the less, there will still be new versions of Windows 10, which will 
+probably arrive twice a year. These “milestone” versions provide a clean 
+refresh that gets most PCs onto the same code base. So far, there have been 
+two: the launch edition, and theWindows 10 Fall Update 
+<https://blogs.windows.com/windowsexperience/2015/11/12/first-major-update-for-windows-10-available-today/>
+, aka version 1511, which appeared in November.
+
+In a better world, you would now be able to install the third version of 
+Windows 10, aka Redstone 1, which Microsoft is calling theAnniversary Update 
+<https://blogs.windows.com/windowsexperience/2016/06/29/windows-10-anniversary-update-available-august-2/>
+. This is being beta tested at the moment, but unfortunately, it won’t appear 
+until 2 August. So, if you upgrade to Windows 10 towards the end of next week, 
+you’ll find your “new” code is out of date the following Tuesday.
+
+The problem is that you have to do the Windows 10 upgrade while it’s free, but 
+it may not be worth spending a lot of time on problems that may have been fixed 
+in the Anniversary Update.
+
+What’s new
+
+The Anniversary Update includes lots of bug-fixes plus improvements 
+<https://blogs.windows.com/windowsexperience/2016/03/30/windows-10-anniversary-update-brings-new-experiences-and-developer-opportunity/>
+ to Windows Hello’s biometric authentication, Windows Ink for the wider use of 
+styluses, Cortana access without unlocking your PC, extension support in the 
+Edge browser, Linux command-line integration (a Ubuntu-based Bash shell running 
+on a “Linux Subsystem for Windows”), and features for Android and Apple iPod 
+users.
+
+There will also be a free DirectX 12 game: Forza Motorsport 6: Apex 
+<https://www.microsoft.com/en-us/store/apps/forza-motorsport-6-apex-beta/9nblggh3shm7>
+. Forza is popular on Xbox games consoles, and anXbox One controller is the 
+recommended input for PC users 
+<http://www.forzamotorsport.net/en-us/news/fm6_apex_beta_announce>. (The new 
+Play Anywhere games bought for Xbox will be playable on Windows 10 PCs, and 
+vice versa.)
+
+Another useful feature is Active Hours 
+<http://www.ghacks.net/2016/04/08/windows-10-active-hours/>, which you can set 
+via the Windows Update page in Update & Security. Windows 10 will not attempt 
+to install updates and restart during the times you set as Active Hours.
+
+Of course, not everybody wants a more secure, more powerful, more usable 
+operating system with a voice-controlled AI assistant and thousands of new 
+apps, even if it’s free. But Windows 10 is improving at a rapid pace, and it’s 
+worth keeping the option open.
+
+Have you got a question? Email it to Ask.Jack@theguardian.com
+
+ 

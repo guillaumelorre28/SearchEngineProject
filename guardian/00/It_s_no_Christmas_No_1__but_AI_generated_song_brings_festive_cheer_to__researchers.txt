@@ -1,0 +1,85 @@
+
+It will not, if there is any certainty left in the world, top the charts this 
+Christmas. But what it lacks in party hit potential, it more than makes up for 
+with its unique, if vaguely unsettling, brand of festive cheer.
+
+To be fair, humans had very little hand in penning the song. Instead, 
+scientists fed a Christmassy photograph into a computer and let it do its 
+thing. A program analysed the image, whipped up some relevant lyrics, and then 
+sang them to music it had composed along the way.
+
+
+Known to its creators as “neural karaoke”, the project from the University of 
+Toronto can take any digital photo and transform it into a computer-generated 
+singalong. It is a whimsical demonstration of whatartificial intelligence 
+<https://www.theguardian.com/technology/artificialintelligenceai> (AI) might do 
+for us beyond the familiar: giving voice to chatbots, wiping billions off the 
+stock market, and ultimately destroying the human race.
+
+
+“We are used to thinking about AI for robotics and things like that. The 
+question now is what can AI do for us?” said Raquel Urtasun, an associate 
+professor in machine learning and computer vision at Toronto’s computer science 
+lab. “You can imagine having an AI channel on Pandora or Spotify that generates 
+music, or takes people’s pictures and sings about them,” adds her colleague, 
+Sanja Fidler. “It’s about what can deep learning do these days to make life 
+more fun?”
+
+
+Neural karaoke emerged from a broader research effort to use computer programs 
+to make music, write lyrics and even generate dance routines. Taking music 
+creation as a starting point, Hang Chu, a PhD student at the lab, trained a 
+neural network on 100 hours of online music. Once trained, the program can take 
+a musical scale and melodic profile and produce a simple 120-beats-per-minute 
+melody. It then adds chords and drums.
+
+But computer-generated music was just the start. The Toronto team next taught 
+the program how to dance. Fed with an hour of footage from the video gameJust 
+Dance 
+<https://www.theguardian.com/technology/2013/oct/20/just-dance-2014-game-review>
+, the program tracked human poses and so learned to connect moves with music. 
+Suitably trained, the program can make a digital stick figure dance to the 
+music it has made. The results are more dad dancing than Travolta, but one 
+cannot expect too much from a single one hour lesson.
+
+
+Another hour of Just Dance tunes and 50 hours of song lyrics from the internet 
+helped teach the program how to put words to music. Drawing on words that 
+appeared at least four times in the dataset, the program built up a vocabulary 
+of 3390 words, which the computer could then string together at a rate of one 
+word per beat.
+
+
+For the final step of the latest work, the program trained on a collection of 
+pictures and their captions to learn how specific words can be linked to visual 
+patterns and objects. When fed a fresh image, the program can compile some 
+relevant lyrics and sing them using phonemes, or units of sound, linked to the 
+words in its vocabulary. The system builds on previous work that could take a 
+picture and generate lyrics in the style of Taylor Swift. Should the program 
+choose words that it cannot say, it replaces them with an “oooh” sound.
+
+
+In an early demonstration, Chu fed the program a Christmassy scene to see what 
+kind of song it created. The result is certainly festive, not least the virtual 
+singer whose tone is distinctly elf-like. Future updates of the program will 
+bring in a greater number of instruments to create more complex songs, and even 
+choose the best instruments for the picture.
+
+
+While surely the most Christmassy, Chu’s track is not the most convincing 
+computer-generated song. Earlier this year, researchers at Sony’s Computer 
+Science Laboratory in Paris used AI to help create a Beatles-inspired song 
+calledDaddy’s car <https://www.youtube.com/watch?v=LSHZ_b05W7o>. François 
+Pachet, director of the lab, used the company’s Flow Machines software to study 
+13,000 pieces of music from which is created a melody and harmonies. The French 
+composer Benoît Carré then added lyrics and produced the final version of the 
+track. A full album of Flow Machines AI music is due out soon.
+
+Dr Urtasun said more advanced versions of the Toronto lab’s program might one 
+day serve as a virtual coach for wannabe stars on X Factor, The Voice and 
+America’s Got Talent. But before that, computer generated karaoke might find 
+its way into home entertainment. “Instead of buying a karaoke machine with 
+certain tracks on it, you can create your own karaoke at home by throwing in 
+some interesting photos and inviting the machine to generate music for you,” 
+said Fidler. “I think it has endless possibilities.”
+ 

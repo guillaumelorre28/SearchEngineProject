@@ -1,0 +1,312 @@
+
+I’ve been an Apple user for over a decade, ever since I picked up a 
+refurbished 17in PowerBook back in 2005 to replace my ailing Windows XP box. 
+But last month, afterApple <https://www.theguardian.com/technology/apple> 
+announced its most expensive new MacBook Pros in almost 15 years, I 
+reconsidered my decision for the first time and, for the past few weeks, I’ve 
+been back on a Windows PC.
+
+I wasn’t always a Mac user. My first three computers were PCs, although the 
+house I grew up in had an ailing, hated Power Mac Performa. My reasons for 
+switching in my teens were fairly simple: I’d been playing fewer and fewer PC 
+games, and spending increasing amounts of time using my computer to manage the 
+music library linked to my iPod. I was one of those switchers, surprised by the 
+elegance of Apple’s music player and convinced to take the plunge into their 
+full desktop operating system.
+
+The laptop wasn’t cheap, but it made shuttling between my separated parents’ 
+houses much easier. And while I missed being able to play the full library of 
+PC games I’d built up over the years, it was an exciting time to be moving to 
+the Mac OS world. Plus, World of Warcraft was cross-platform, which was all the 
+gaming I needed for a good while.
+
+Ten years on, I’m a fairly default Apple user. I’m on my sixth iPhone, second 
+iPad and third Mac; I have an Apple TV at home, Apple branded keyboard on my 
+desktop, and even an Apple AA battery charger, from the days when they made 
+them.
+
+But the twin punches of a Brexit-led depreciation of the pound 
+<https://www.theguardian.com/technology/2016/oct/28/brexit-apple-mac-customers-prices-rise-us-dollar-pound-sterling>
+, and Apple releasing a new range of MacBook Pros with the least 
+bang-for-your-buck in recent memory, made me think twice. The cheapest Mac that 
+would be sufficient for my needs, a 13in MacBook Pro with 512GB of storage 
+space and 16GB of ram, comes in at well over £2,000, yet is barely more 
+powerful than the machine it’s replacing, a 15in retina MacBook Pro from four 
+years ago that cost just over £1,500 at the time.
+
+So I switched back. For the past month, I’ve been using the Surface Book 
+<https://www.theguardian.com/technology/2016/feb/25/microsoft-surface-book-review-best-windows-laptop-detachable-screen>
+, the top-of-the-line laptop sold by, of all people, Microsoft.
+
+It’s been an experience.
+
+Great-ish expectations
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F9eea7ed95132b842a74c21a14b641907a1d29963%2F0_0_2100_1260%2F2100.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Is%20it%20time%20to%20swap%20your%20Mac%20for%20a%20Windows%20laptop%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Is%20it%20time%20to%20swap%20your%20Mac%20for%20a%20Windows%20laptop%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F9eea7ed95132b842a74c21a14b641907a1d29963%2F0_0_2100_1260%2F2100.jpg>
+ Microsoft Surface Book Photograph: Samuel Gibbs for the Guardian 
+My expectations going in were uncertain. I know Windows has evolved radically 
+since I last used it, back in the XP era, and has even changed since the last 
+time I used it in anger, shortly after the launch ofWindows 8.1 
+<https://www.theguardian.com/technology/askjack/2013/dec/06/windows-windows-8>. 
+The current latest version of the operating system,Windows 10 
+<https://www.theguardian.com/technology/askjack/2016/may/26/10-quick-questions-about-installing-windows-10-and-how-to-block-it>
+ (confusingly, only one version later than 8.1; the story goes that too many 
+developers wrote code referring to Windows 95 and 98 as “9*”, meaning an actual 
+Windows 9 would break compatibility), is generally considered a good thing. It 
+meshes the new Windows experience of version 8 with an old-style desktop more 
+elegantly than previous versions, while consigning ever more of the cruft deep 
+into nested menus and offering a slick experience for first-time users.
+
+I was also given hope by the machine. After an awkward start with the first 
+version of the Surface back in 2012, then pitched as an iPad competitor,
+Microsoft <https://www.theguardian.com/technology/microsoft> has become one of 
+the best manufacturers of Windows PCs there is. The Surface Book is a delicious 
+machine, masquerading as a MacBook Pro-class laptop but with a fully detachable 
+touchscreen that opens it up to a whole new range of uses.
+
+The quality of the Surface machines has caused problems when it comes to 
+Microsoft’s relationships with its hardware partners, who tended to expect 
+Microsoft to be content raking in millions with the licensing fees for Windows, 
+rather than competing with them directly for profit from hardware 
+manufacturing. But for now, the company has been content to sit on the edge of 
+the market, making niche devices for the power user.
+
+Despite all of that, I had a fair amount of trepidation. Memories of blue 
+screens of death, of driver conflicts, of cleaning out my registry and 
+restoring the system after a malware infection, are hard to shake, as is the 
+general hangover from my youth of Microsoft as the Great Satan of the tech 
+world. As Zuckerberg is to the 2010s, Gates was to the 1990s: ever-present, 
+professionally amoral, and incredibly, unflappably, successful.
+
+But Gates is gone, as is Ballmer. This is Satya Nadella’s company now, and the 
+Microsoft of this generation is everything the Microsoft of the 90s – or the 
+Facebook of today – isn’t: humble, quiet, content with success where it can win 
+and partnerships where it can’t, and as proud of working with competitors as 
+Gates was of crushing them. In short, it’s a Microsoft that I could consider 
+being friends with. It couldn’t be that bad.
+
+Switching pains
+
+The worst thing about switching, it turns out, is switching.
+
+I’m not trying to be tautological. But the bulk of the unpleasantness I’ve 
+experienced actually making this change hasn’t been inherent to Windows, but 
+has either come about because of the differences between the two operating 
+systems, or even just the difficulties in actually getting up and running from 
+day one.
+
+Some of the problems are as simple, but nonetheless infuriating, as different 
+keyboard shortcuts. A lifetime of muscle memory has told me that Command-Space 
+brings up Spotlight, which is the main way I opened programmes on my Mac. The 
+same shortcut on Windows 10 is to simply hit the Windows key, which invokes 
+Cortana, Microsoft’s AI assistant, and then typing in the name of the programme 
+you want to open.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F8e32fbeddf130fdc1d707d3d8c29e8a064ee151c%2F0_0_1970_1182%2F1970.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Is%20it%20time%20to%20swap%20your%20Mac%20for%20a%20Windows%20laptop%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Is%20it%20time%20to%20swap%20your%20Mac%20for%20a%20Windows%20laptop%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F8e32fbeddf130fdc1d707d3d8c29e8a064ee151c%2F0_0_1970_1182%2F1970.jpg>
+ It’s just all so ... blue. Photograph: Shannon Stapleton/REUTERS 
+Similar mismatches appear in areas like window management, alt-tab behaviour, 
+and programme installation. It’s a push to say which is better (though I 
+maintain that running an installer is less elegant than just dragging an app 
+into the Apps folder), but whichever you’re used to, the other will be worse 
+until you re-educate yourself.
+
+That’s not to say I didn’t have plenty to complain about, though.
+
+That Spotlight/Cortana mismatch, for instance? It wouldn’t have been so bad, 
+except that Windows maps the alt key to the location of the command key on 
+Macs, and alt-space is the Windows shortcut for switching languages, so every 
+time I failed to invoke Spotlight, I would accidentally switch the language my 
+computer was set up in, resetting my keyboard to a US English layout.
+
+That was an annoying problem. Worse was that I didn’t actually have two 
+languages set up on the Surface Book in the first place. And yet, hovering in 
+the bottom right, permanently, was a little box showing whether I was running 
+in UK English or US English, with no option in sight to remove it.
+
+In the end, I had to turn to Twitter for troubleshooting advice. We determined 
+that there was no option to remove the US English language because there was no 
+US English language set up. So to remove it, all I had to do was go into a 
+language menu, add English (United States) as an option, and then remove 
+English (United States) as an option. I know. But it worked, so who am I to 
+complain.
+
+I’m also firmly aware that a critical eye on Mac OS will reveal many similar 
+bugs. Mac users, particularly long-term, slightly jaundiced, Mac users, have 
+long become familiar with the hollow laugh and invocation of Apple’s erstwhile 
+marketing slogan “It Just Works” as something emphatically continues to not 
+Just Work. In fact, that phrase has been uttered in irony so many times that 
+it’s easy to forget that it really does come from a place of competitive 
+advantage for Apple.
+
+That advantage has largely been eroded over the years, as Microsoft has 
+cottoned on to the joys of vertical integration, plug and play accessories, and 
+standards-compliant behaviour.
+
+But not entirely. Plugging in an external mouse (an utterly standard 
+Microsoft-made laser mouse), I was annoyed to find that I couldn’t reverse the 
+scrolling behaviour on the scroll wheel to match that of the in-built trackpad. 
+It’s one thing to have to relearn behaviours when you switch machines, it’s 
+another to have to re-learn them every time you plug in a peripheral.
+
+
+About an hour of fruitless Googling later – including several suggestions to 
+install obsolete utilities, hack the registry, or roll back to an earlier 
+version of Windows – and I discovered the way to do what I wanted. I had to 
+download drivers for my mouse.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F14f7e41bad69044a07dd442a66555cd783d2eec0%2F0_108_2316_2892%2F2316.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Is%20it%20time%20to%20swap%20your%20Mac%20for%20a%20Windows%20laptop%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Is%20it%20time%20to%20swap%20your%20Mac%20for%20a%20Windows%20laptop%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F14f7e41bad69044a07dd442a66555cd783d2eec0%2F0_108_2316_2892%2F2316.jpg>
+ It just works … Steve Jobs with the MacBook Pro in 2008. Photograph: Justin 
+Sullivan/Getty Images 
+If you’re young, a Mac user, or not particularly technical, that might not 
+mean much. Drivers are the small pieces of software that tell the operating 
+system how to work with hardware, from complex components like graphics cards 
+to simple accessories like this mouse. But the necessity, or not, of drivers 
+for accessories was a big part of that competitive push by Apple, which made a 
+point of ensuring out-of-the-box support for many of the most commonly used 
+peripherals like printers, cameras and mice. When Steve Jobs said “it just 
+works”, this is the sort of thing he was referring to: the ability to plug in a 
+mouse and have it Just Work.
+
+Installing drivers for a mouse to enable a niche behaviour is no great 
+hardship, but it still left me moderately concerned. Microsoft made both the 
+mouse and the laptop, yet the two weren’t able to play nicely together without 
+my intervention. This digging in the nuts and bolts of the machine was not 
+something I had missed.
+
+Touching the void
+
+The Microsoft of 2016 has a split personality. In many ways, the split is the 
+same that it’s had for the past 20 years, between its desire for continuity and 
+its desire for reinvention and technological leadership. Where the company is 
+successful today is where that latter desire is ascendant, and the Surface Book 
+is the best example of a forward-looking Microsoft you can find.
+
+It’s a fantastic machine. Small and powerful, with a long battery life, it 
+impresses as a laptop, but its real strengths are revealed when you undock the 
+screen from its base. Being able to carry my laptop around the kitchen when 
+doing the weekly shop, before docking it back and typing up some recipes, was 
+genuinely cool.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2F7d66b40531df83586054e33269b4b8bf6d828967%2F0_0_2100_1260%2F2100.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Is%20it%20time%20to%20swap%20your%20Mac%20for%20a%20Windows%20laptop%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Is%20it%20time%20to%20swap%20your%20Mac%20for%20a%20Windows%20laptop%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2F7d66b40531df83586054e33269b4b8bf6d828967%2F0_0_2100_1260%2F2100.jpg>
+ Not being an illustrator, a graphic designer, or even a graphic thinker, the 
+ability to pop out my laptop and write on it with a stylus was never that 
+useful. Photograph: Samuel Gibbs for the Guardian 
+Unfortunately, cool is all it was for me. The ability to pop out my laptop and 
+write on it with a (very accurate) stylus was never that useful. If anything, 
+it served to underscore how efficient the keyboard-and-touchpad combo is for a 
+lot of hefty tasks.
+
+I had a similar experience with the ability to use the touchscreen while the 
+Surface Book was in laptop mode. I simply didn’t do it much, and most of the 
+time when I did, it was just to see if I could.
+
+Occasionally, the touchscreen was actively bad. My first time opening Windows 
+Mail, I was greeted with a helpful popover showing that I could swipe mails to 
+the left to archive them. But I couldn’t work out how: click and drag? 
+Two-fingered swipe on the touchpad? The answer, of course, is to reach up to 
+the screen, and swipe that way. A shortcut it is not, particularly if the 
+screen is up on a dock and you’re already using a keyboard and mouse.
+
+Incidentally, unlike many hybrid laptops, the base isn’t just a keyboard: it 
+also contains a second battery, and a number of hardware components including a 
+discrete GPU. (One downside of that setup: if you let the screen run out of 
+battery while undocked, you can’t re-dock it until you’ve charged it 
+separately, even if the base still has some power left).
+
+
+PCs are from Mars
+
+If this sounds like a long list of nitpicks, it’s because ... well, it is. For 
+all the existential battles that have been fought over Windows versus Mac, 
+there’s little to distinguish the two on any important level. The platforms 
+have converged on everything but aesthetics and personal preferences. Both have 
+a locked-down store which power users ignore; both are fighting for relevance 
+in a world of web apps and mobile-first design; both feel the weight of 
+versions past sitting on their shoulders.
+
+If you asked me to explain why, despite it all, I’ve put my money down for a 
+MacBook Pro rather than buying the Surface Book from Microsoft (which loaned 
+the device for this trial), I can give you some reasons that feel solid enough 
+for me.
+
+I was shocked by the amount of advertising and cross-promotion riddled 
+throughout the OS, from adverts for apps in the start menu, to a persistent 
+pop-up offering a free trial of Office 365.
+
+I was surprised by the paucity of solid third-party apps in general, and 
+particularly by the lack of any good consumer productivity suite. When the most 
+common recommendation, for services from photo storage to calendaring, is “just 
+use Google’s web apps”, there’s a hole waiting to be filled (though maybe 
+that’s just my dislike of web apps in general). It feels like the Mac dev scene 
+is full of teams making fully featured apps that compete with the big 
+companies, while Windows devs are more content to make niche utilities which 
+serve particular needs without needing to start a war.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-6%23img-6&picture=https%3A%2F%2Fmedia.guim.co.uk%2F288f915c5fe4b589b3df4b488b285c80f2f3cff4%2F0_218_3500_2099%2F3500.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Is%20it%20time%20to%20swap%20your%20Mac%20for%20a%20Windows%20laptop%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-6%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Is%20it%20time%20to%20swap%20your%20Mac%20for%20a%20Windows%20laptop%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F07%2Fmac-windows-pc-macbook-pro-microsoft-surface-book%3Fpage%3Dwith%3Aimg-6%23img-6&media=https%3A%2F%2Fmedia.guim.co.uk%2F288f915c5fe4b589b3df4b488b285c80f2f3cff4%2F0_218_3500_2099%2F3500.jpg>
+ The MacBook Pro is up to £1,000 more expensive than the Surface Book. 
+Photograph: Dominic Lipinski/PA 
+I disliked the lack of a smart sleep mode, meaning my computer would often be 
+flat when I opened it up in the morning because some utility had been running 
+in the background.
+
+I hated the difficulty in typing special characters, from foreign accents to 
+ellipses and em-dashes. I hated the lack of a universal paste-as-plain-text 
+shortcut, and I mourned the loss of iMessage access on the desktop for texting 
+my girlfriend.
+
+Most of all, though, I couldn’t stand the small irritations, from the failure 
+of Chrome windows to correctly adapt when dragged from a high-res screen to a 
+low-res one, to the trackpad’s inability to accurately click when I used it 
+with my thumb rather than my finger.
+
+I don’t pretend that those irritations are unique to Windows, or even that 
+they aren’t things I couldn’t have fixed with time, effort or re-education. But 
+the problem is, fixing them isn’t worth it: the difference just isn’t there.
+
+That’s true whichever way you’re thinking of switching. If you’re a Windows 
+user nodding along with my problems, I can guarantee you that within a month of 
+switching to Mac, you’ll have a list just as long. Maybe one day, one or other 
+platform will have a commanding lead. For some use-cases, that’s already 
+happened: gamers have Windows, while iOS developers have Mac, to state two 
+obvious examples. But for now, for the vast majority, it’s hard to say there’s 
+anything in it.
+
+Except, of course, for price.
+
+Because these problems are minor, and a price difference of up to £1,000 
+isn’t. The Surface Book is around the same price as the new MacBook Pro, but 
+many other high-quality laptops aren’t: you’ll easily find models like Dell’s 
+XPS range or Lenovo’s Thinkpads for hundreds of pounds less than a 
+comparably-specced MacBook.
+
+For me, with four years of saving for a new Mac, good credit, and 
+risk-aversion to digital irritation, it’s worth paying through the nose to 
+stick with what I know. But it might not be the case for you.
+
+Switching isn’t a panacea, and there’s no silver bullet out there – no Windows 
+computer that will be anything better than a bit annoying for former Mac users 
+– but before you get too complacent, I have a feeling the same is true the 
+other way round. Ultimately, the question comes down to how much you’re 
+prepared to pay to keep things the same as they have been. For me, it turns out 
+that figure’s quite high.
+ 

@@ -1,0 +1,47 @@
+
+Today C, for changing requirements...which are a fact of life -- certainly if 
+your life revolves around developing software. During R2 there was a 40% churn 
+on requirements. That means by the end of the project 40% of the work we had 
+done had not appeared in our initial plan -- some things were dumped, new 
+things were introduced, and much was significantly altered.
+
+The Agile way is to embrace change, and more than that it's to structure your 
+working practices around enabling and encouraging it. There are several ways we 
+make this happen. One is to make sure that every task has tangible value to the 
+end-user. Another is to prioritise the tasks so that the highest value work is 
+delivered first. The second follows from the first: only if the tasks are 
+individually valuable can they be arranged and rearranged.
+
+One example of handling changing requirements is how we introduced keywords. 
+We always believed these were important to our work, so we developed them very 
+early -- other elements of our plan were less certain and so might change, but 
+we could safely defer such decisions until closer to the time we'd have to 
+build them.
+
+Managing keywords would require some slick tools if they were to be rolled out 
+to more than a couple of staff. But our first cut was very primitive: it 
+involved someone typing data into an Excel spreadsheet and then uploading that 
+to a web page which would digest the spreadsheet and either process the data or 
+report errors. It was not user-friendly. But this approach did have many 
+virtues:
+
+
+
+ * It was relatively quick to develop; 
+
+ * It was sufficient to enable just one person to manage the keywords, which 
+was all that was needed then; 
+
+ * It allowed us to build further things based on keywords, such as a little 
+component next to an article which listed the keywords associated with it; 
+
+ * It showed up real, unexpected problems arising from real-world use, that we 
+would not have foreseen during planning; 
+
+ * It showed us what really was and wasn't going to be important when we built 
+a slick tool for wider use. 
+
+A 40% churn on requirements doesn't mean there was a 40% budget overrun or 
+time overrun, by the way. We came in on time and on budget. That's another 
+consequence of having working practices that embrace change rather than merely 
+tolerate it. 

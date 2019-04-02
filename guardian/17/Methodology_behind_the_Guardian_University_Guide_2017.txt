@@ -1,0 +1,344 @@
+
+The methodology focuses on subject-level league tables, ranking institutions 
+that provide each subject area, according to their relevant statistics.
+
+To ensure that all comparisons are as valid as possible, we ask each 
+institution which of their students should be counted in which subject so that 
+they will only be compared to students taking similar subjects at other 
+universities.
+
+Eight statistical measures are employed to approximate a university’s 
+performance in teaching each subject. Measures relate to both input – for 
+example, expenditure by the university on its students – and output – for 
+example, the probability of a graduate finding a graduate-level job. The 
+measures are knitted together to get a Guardian score, against which 
+institutions are ranked.
+
+ For those prospective undergraduates who do not know which subject they wish 
+to study, but who still want to know where institutions rank in relation to one 
+another, the Guardian scores have been averaged for each institution across all 
+subjects to generate an institution-level table.
+
+Changes introduced for 2017 
+
+The methodology employed in the tables has generally remained very constant 
+since 2008. There are three minor changes in this year’s edition.
+
+• The criminology subject table has been introduced. Much of the activity that 
+contributes to this subject was previously counted under sociology, though some 
+activity is also drawn from law, politics, and anthropology.
+
+• The FTE (full-time equivalent) for placement students has been reduced from 
+0.5 to 0.2. This affects the student/staff ratio figures and the expenditure 
+per student statistics.
+
+• The NSS data source that we use has had its publication thresholds relaxed, 
+such that statistics are now available for groups of 10 or more respondents. 
+The previous threshold was 23 respondents. In response to this, we have 
+introduced our own thresholds to ensure that the comparative statistics we use 
+to rank departments are drawn from a meaningful study population. Where a 
+statistic has been produced from a response population of under 20, we have 
+sought to use a two-year average to make the population greater than 30. For 
+statistics based on populations between 20 and 30, we have opted for the 
+two-year average when erratic values have been encountered.
+
+We look now at each of the indicators of performance used in these tables.
+
+National Student Survey 
+
+a. Teaching 
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Feducation%2F2016%2Fmay%2F23%2Fmethodology-behind-the-guardian-university-guide-2017%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F9bb9539a0727d1b4ed2700420f10cb9eff94b313%2F4_0_751_243%2F751.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Methodology%20behind%20the%20Guardian%20University%20Guide%202017&url=https%3A%2F%2Fwww.theguardian.com%2Feducation%2F2016%2Fmay%2F23%2Fmethodology-behind-the-guardian-university-guide-2017%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Methodology%20behind%20the%20Guardian%20University%20Guide%202017&url=https%3A%2F%2Fwww.theguardian.com%2Feducation%2F2016%2Fmay%2F23%2Fmethodology-behind-the-guardian-university-guide-2017%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F9bb9539a0727d1b4ed2700420f10cb9eff94b313%2F4_0_751_243%2F751.jpg>
+ Photograph: Intelligent Metrix 
+During the 2015 National Student Survey, final-year first-degree students were 
+asked the extent to which they agreed with four positive statements regarding 
+their experience of teaching in their department. The summary of responses to 
+all four questions can either be expressed as a percentage who “definitely 
+agree” or “mostly agree”, or be expressed as an average score between 1 and 5 
+where 5 relates to students who “definitely agree” and 1 relates to students 
+who “definitely disagree”. The table gives an example of how a department of 30 
+students might have its data represented in the tables.
+
+b. Assessment and feedback
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Feducation%2F2016%2Fmay%2F23%2Fmethodology-behind-the-guardian-university-guide-2017%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F523226bc64903b547becd56071c5c01049428d73%2F0_0_756_258%2F756.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Methodology%20behind%20the%20Guardian%20University%20Guide%202017&url=https%3A%2F%2Fwww.theguardian.com%2Feducation%2F2016%2Fmay%2F23%2Fmethodology-behind-the-guardian-university-guide-2017%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Methodology%20behind%20the%20Guardian%20University%20Guide%202017&url=https%3A%2F%2Fwww.theguardian.com%2Feducation%2F2016%2Fmay%2F23%2Fmethodology-behind-the-guardian-university-guide-2017%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F523226bc64903b547becd56071c5c01049428d73%2F0_0_756_258%2F756.jpg>
+ Photograph: Intelligent Metrix 
+Students <https://www.theguardian.com/education/students> were also asked for 
+their perception of five statements regarding the way in which their efforts 
+were assessed and how helpful any feedback was.
+
+The example data for questions 8 and 9 illustrates how the “average response” 
+statistic recognises differences in the distribution of responses, whereas the 
+“satisfaction rate” statistic can be blind to them. This is the reason why 
+average response is used to rank departments, even though the satisfaction rate 
+is displayed in the tables.
+
+c. Overall satisfaction
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Feducation%2F2016%2Fmay%2F23%2Fmethodology-behind-the-guardian-university-guide-2017%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2a47d03a51ced49ccba2deb1d33ff33a25cd10a2%2F0_0_744_118%2F744.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Methodology%20behind%20the%20Guardian%20University%20Guide%202017&url=https%3A%2F%2Fwww.theguardian.com%2Feducation%2F2016%2Fmay%2F23%2Fmethodology-behind-the-guardian-university-guide-2017%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Methodology%20behind%20the%20Guardian%20University%20Guide%202017&url=https%3A%2F%2Fwww.theguardian.com%2Feducation%2F2016%2Fmay%2F23%2Fmethodology-behind-the-guardian-university-guide-2017%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F2a47d03a51ced49ccba2deb1d33ff33a25cd10a2%2F0_0_744_118%2F744.jpg>
+ Photograph: Intelligent Metrix 
+Students were also answer a single question which encompasses all aspects of 
+their courses.
+
+Data relating to the NSS was not released at the Jacs level of detail, and 
+results had to be weighted in order to approximate Guardian Subject Groups. 
+Level 3 data carries detail of 107 subjects, but results are suppressed where 
+there are fewer than 10 respondents. Where this has happened, we substituted in 
+results from level 2, which categorises students into 42 subjects. If any of 
+these have fewer than 10 students, our first option is to use level 3 data from 
+the 2014 NSS, otherwise level 2. The last resort is to use the broadest 
+classification of subjects – level 1 – to get 2015 results for the 21 subject 
+groups.
+
+Where we found that this process had produced a statistic based on under 20 
+respondents to the 2015 survey, we sought to produce the statistic at the same 
+level but averaged over the 2014 and 2015 surveys. If this still did not 
+deliver a response population of over 30 we resorted to the higher-level 
+statistic in the usual way. By exception, this procedure was also used for 
+departments which had a response population of between 20 and 30.
+
+Caveat: Because the NSS surveys final-year students, it is subjective and 
+dependent upon expectations. Students at a university that generally has a high 
+reputation may be more demanding in the quality of teaching they expect. On the 
+other hand, students in a department that has been lower in the rankings may 
+receive teaching that exceeds their prior expectations and give marks higher 
+than would be achieved in a more objective assessment of quality.
+
+Value added scores
+
+Based upon a sophisticated indexing methodology that tracks students from 
+enrolment to graduation, qualifications upon entry are compared with the award 
+that a student receives at the end of their studies.
+
+Each full-time student is given a probability of achieving a 1st or 2:1, based 
+on the qualifications that they enter with or, if they are in entry bands 20 
+and 50, the total percentage of good degrees expected for the student in their 
+department. If they manage to earn a good degree, then they score points that 
+reflect how difficult it was to do so (in fact, they score the reciprocal of 
+the probability of getting a 1st or 2:1).
+
+Thus an institution that is adept at taking in students with low entry 
+qualifications, which are generally more difficult to convert into a 1st or 
+2:1, will score highly in the value-added measure if the number of students 
+getting a 1st or 2:1 exceeds expectations.
+
+At least 30 students must be in a subject for a meaningful value added score 
+to be calculated using 2014-15 data alone. If there are more than 15 students 
+in 2014-15 and the total number across 2013-14 and 2014-15 reaches 30, then a 
+two-year average is calculated. This option could only be exercised when the 
+subjects were consistent in definition between the two years.
+
+We always regard students who are awarded an integrated masters as having a 
+positive outcome.
+
+A worked example that is available here 
+<https://drive.google.com/file/d/0BySdSbaVjL2ybjBfN3U4NXJDRW8/view?usp=sharing> 
+shows how a value added sore could be calculated for a department of eight 
+students.
+
+ A variant of the value added score is used in the three medical subjects: 
+medicine, dentistry and veterinary science. This is because medical degrees are 
+often unclassified. Unclassified degrees in medical subjects are regarded as 
+positive, but the scope of the study population is broadened to encompass 
+students who failed to complete their degree and who would count negatively in 
+the value added score.
+
+Student-staff ratios 
+
+SSRs compare the number of staff teaching a subject with the number of 
+students studying it, to get a ratio where a low SSR is treated positively in 
+the league tables. At least 28 students and three staff (both FTE) must be 
+present in an SSR calculation using 2014-15 data alone. Smaller departments 
+that had at least seven student and two staff FTE in 2014-15, and at least 30 
+student FTE in total across 2013-14 and 2014-15, have a two-year average 
+calculated. This option could only be exercised when the subjects were 
+consistent in definition between the two years.
+
+Year-on-year inconsistency and extreme values at either end of the spectrum 
+have caused several SSRs to be suppressed or spread over two years.
+
+Caveat: This measure only includes staff who are contracted to spend a 
+significant portion of their time teaching. It excludes those classed as 
+“research only” but includes researchers who also teach, even though at 
+research-intensive universities research can take up a significant proportion 
+of their time. It therefore follows that the simple ratio of the number of 
+staff to students does not accurately reflect teaching intensity and also does 
+not reveal who is performing the teaching. Is it the world renowned professor 
+or a graduate teaching assistant?
+
+Expenditure per student
+
+The amount of money that an institution spends providing a subject (not 
+including the costs of academic staff, since these are already counted in the 
+SSR) is divided by the volume of students learning the subject to derive this 
+measure. Added to this figure is the amount of money the institution has spent 
+on academic services – which includes library and computing facilities – over 
+the past two years, divided by the total volume of students enrolled at the 
+university in those years.
+
+Within each department, at least 30 (FTE) students must have been enrolled in 
+2014-15 for the expenditure per student to be calculated. Smaller departments 
+must have had 20 FTE in 2014-15 and at least 30 FTE in total across 2013-14 and 
+2014-15 in order for a two-year average to be calculated. Year-on-year 
+inconsistency or extreme values can also cause suppression (or spreading) of 
+results.
+
+Entry scores
+
+Average tariffs are determined by taking the total tariff points of 
+first-year, first-degree, full-time entrants who were aged under 21 at the 
+start of their course, if the qualifications that they entered with could all 
+be expressed using the tariff system. There must be more than seven students in 
+any meaningful average and only students entering year 1 of a course (not a 
+foundation year) with certain types of qualification are included. Departments 
+that are dominated by mature entrants are not considered appropriate for this 
+statistic because the age filter would capture and represent the entry tariff 
+of only the minority of students.
+
+Caveat: This measure seeks to approximate the aptitude of fellow students who 
+a prospective student can anticipate. However, some institutions run access 
+programmes that admit students on the basis that their potential aptitude is 
+not represented by their lower tariff scores. Such institutions can expect to 
+see lower average tariffs – but higher value added scores
+
+Career prospects 
+
+The employability of graduates is assessed by looking at the proportion of 
+graduates who find graduate-level employment, and/or study at an HE or 
+professional level, within 6 months of graduation. Graduates who report that 
+they are unable to work are excluded from the study population, which must have 
+at least 25 respondents in order to generate results.
+
+That covers all the metrics used in the tables. We move on to discuss specific 
+issues pertaining to the subject-level tables as well as the overall 
+institutional table.
+
+Subject tables
+
+
+Thresholds for inclusion
+
+Each subject table is driven by the eight indicators of performance. An 
+institution can only be included in the table if no more than two of these 
+indicators are missing, and if the institution’s relevant department teaches at 
+least 35 full time undergraduates. There must also be at least 25 students 
+(FTE) in the relevant cost centre. Under certain circumstances an institution 
+can be admitted into a subject table with only four indicators: if three of the 
+missing indicators relate to the NSS or if the subject is medicine, dentistry 
+or veterinary sciences.
+
+Standardisation of scores
+
+For those institutions that qualify for inclusion in the subject table, each 
+score is compared to the average score achieved by the other institutions that 
+qualify, using standard deviations to gain a normal distribution of 
+standardised scores (S-scores). The standardised score for student /staff 
+ratios is negative, to reflect that low ratios are regarded as better. We cap 
+certain S-scores – extremely high NSS, expenditure and SSR figures – at three 
+standard deviations. This is to prevent a valid but extreme value from exerting 
+an influence that far exceeds that of all other measures.
+
+Missing scores
+
+Where an indicator of performance is absent, a process introduces substitute 
+S-scores.
+ Photograph: Intelligent Metrix 
+Total S-score and ranking
+
+The resulting S-scores – including those that have been substituted in – are 
+weighted according to the values in the following table and added together.
+ Photograph: Intelligent Metrix 
+The published subject table
+
+The resulting total S-scores drive both the subject rankings and the 
+institutional table, but are not displayed in the published subject table. 
+Instead, the total S-scores are re-scaled so that the institution with the best 
+S-Score receives 100 points and all others get a lower (but positive) point 
+score. This statistic appears in the published subject table, even though it is 
+not subsequently used in the institutional table.
+
+In the published subject table, three of the indicators – entry scores, career 
+prospects and student/staff ratios - are displayed in their pure form. The 
+others, however, are not in a form that is inherently meaningful to readers.
+
+Rather than showing the average NSS scores that contribute to an institution’s 
+ranking, the printed table displays the “% satisfied” statistic because it is 
+easier to grasp. Value added scores are even less inherently meaningful, so the 
+printed table displays these as points out of 10, with the following table 
+converting the expenditure S-score into points:
+ Photograph: Intelligent Metrix 
+Institutional table 
+
+The institutional table ranks institutions according to their performance in 
+the subject tables, but considers two other factors when calculating overall 
+performance.
+
+First, the number of students in a department influences the extent to which 
+that department’s total S-score contributes to the institution’s overall score. 
+And second, the number of institutions included in the subject table determines 
+the extent to which a department can affect the institutional table.
+
+The number of full-time undergraduates in each subject is expressed as a 
+percentage of the total number of full-time undergraduates counted in subjects 
+for which the institution is included within the subject table. For each 
+subject, the number of institutions included within the table is counted and 
+the natural logarithm of this value is calculated. The total S-Score for each 
+subject – which can be negative or positive – is multiplied by these two 
+values, and the results are summed for all subjects, to give an overall S-score 
+for each institution. Institutions are ranked according to this overall 
+S-score, though the value displayed in the published table is a scaled version 
+of this, that gives the top university 100 points and all the others a smaller 
+(but positive) points tally.
+
+Each institution has overall versions of each of the indicators displayed next 
+to its overall score out of 100, but these are crude institutional averages 
+supplied by Hesa (or the NSS) that are otherwise disconnected from the tables 
+and give no consideration to subject mix. Therefore these institutional 
+averages cannot be used to calculate the overall score or ranking position.
+
+The indicators of performance for value added and for expenditure per student 
+are treated slightly differently, because they need to be converted into points 
+out of 10 before being displayed. Therefore these indicators do read from the 
+subject level tables, again using student numbers to create a weighted average.
+
+Institutions that appear in fewer than eight subject tables are not included 
+in the main ranking of universities.
+
+Subject suite review 
+
+Prompted by Hesa’s review of Jacs codes and cost centres, we undertook a 
+significant review of which subjects have tables dedicated to them in the 
+run-up to the 2016 edition of the Guardian University Guide. Our intention is 
+to keep the new suite, described in detailhere 
+<https://docs.google.com/file/d/0BySdSbaVjL2yWGY5OTRNN0NIaFk/edit>, as stable 
+as possible for the next 10 years. This year’s introduction of criminology is 
+an exceptional development that had had to be delayed in the earlier review.
+
+Course directory 
+
+The KIS database of courses, to which institutions provide regular updates to 
+describe courses that students will be able to apply for in future years, is 
+the data source of the courses that we list under each department in each 
+subject group.
+
+We have associated each full-time course with one or more subject groups, 
+based on the subject data associated with the courses, for which Hesa provided 
+enhanced detail. We gave institutions the freedom to adjust these associations 
+with subjects and also to change details of the courses. We include courses 
+that are not at degree level, even though such provision is excluded from the 
+data used to generate scores and rankings.
+ 

@@ -1,0 +1,5 @@
+g <https://interactive.guim.co.uk/participation/poll/embed/?id=player> g 
+<https://interactive.guim.co.uk/participation/poll/embed/?id=goal> g 
+<https://interactive.guim.co.uk/participation/poll/embed/?id=match> g 
+<https://interactive.guim.co.uk/participation/poll/embed/?id=team> g 
+<https://interactive.guim.co.uk/participation/poll/embed/?id=letdown>  

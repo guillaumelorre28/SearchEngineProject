@@ -1,0 +1,185 @@
+
+Alisa Shevchenko is a talented young Russian hacker, known for working with 
+companies to find vulnerabilities in their systems. She spends her winters in 
+Asia, meditating and training in Thai kickboxing.
+
+US officially accuses Russia of hacking DNC and interfering with election
+ Read more  
+<https://www.theguardian.com/technology/2016/oct/07/us-russia-dnc-hack-interfering-presidential-election>
+She is also, the White House claims, guilty of helping Vladimir Putin 
+<https://www.theguardian.com/world/vladimir-putin> interfere in the US election.
+
+
+Her company was a surprise inclusion on the US sanctions list 
+<https://www.whitehouse.gov/the-press-office/2016/12/29/fact-sheet-actions-response-russian-malicious-cyber-activity-and>
+ released last week, alongside top officers in Russia’s GRU military 
+intelligence agency and two well-known criminal hackers. The company “provided 
+the GRU with technical research and development”, according to the fact sheet 
+released by the White House. No further details were given.
+
+In addition to the sanctions, the US expelled 
+<https://www.theguardian.com/us-news/2016/dec/29/barack-obama-sanctions-russia-election-hack>
+ 35 Russian diplomats from the country, and said it would take further, 
+non-public measures in response.
+
+After a week in which Russian interference in the election – apparently with 
+the goal of helping Donald Trump to victory – has dominated the news agenda, 
+Shevchenko has spoken out to decry the sanctions against her.
+
+
+Shevchenko told the Guardian she was furious at her company’s inclusion on the 
+list, and denied ever having knowingly worked for the Russian government. She 
+communicated via encrypted email, from a location she said was “a wild 
+countryside area a few hours away from Bangkok”.
+
+
+In answers that were defiant, and occasionally abrasive, she decried the 
+“insane level of hysteria around the entire ‘Russian hacking’ story”.
+
+She suggested that the US authorities were guilty either of “a technically 
+incompetent misinterpretation of the facts” or had been fooled by a 
+“counterfeit in order to frame my company”. Those who could have had an 
+interest in framing her could include competitors, US intelligence or Russian 
+intelligence, with the goal of screening the real culprits, Shevchenko said.
+
+
+“A young female hacker and her helpless company seems like a perfect pick for 
+that goal. I don’t try to hide, I travel a lot, and am a friendly communicative 
+person. And most importantly, I don’t have any big money, power or connections 
+behind me to shrug off the blame. So really, it could be anyone.”
+
+US intelligence believes the Democratic party’s servers were hacked by a group 
+known alternatively as Fancy Bear, APT 29 or Sofacy, which they say was working 
+for the GRU, Russia’s military intelligence 
+<https://www.theguardian.com/technology/2016/jul/29/cozy-bear-fancy-bear-russia-hack-dnc>
+. In the private sector, attribution directly to the GRU comes most clearly 
+from US firm CrowdStrike, which is influential in US security circles. The US 
+government believes the hacked emails were then leaked – possibly through an 
+intermediary – to Julian Assange and WikiLeaks.
+
+
+Russian treachery is extreme and it is everywhere | Nick Cohen
+ Read more  
+<https://www.theguardian.com/commentisfree/2017/jan/07/russian-treachery-extreme-and-everywhere>
+Putin has denied all Russian interference in the election, suggesting the 
+blame has fallen on Moscow due to sour grapes from the losing side. Putin has 
+expressed hope that under Trump, who hasrepeatedly praised 
+<https://www.theguardian.com/world/2016/dec/30/russia-plans-immediate-counter-measures-us-diplomats>
+ Russia and the president personally, relations between the two countries will 
+improve.
+
+
+Russian authorities are known to offer a mixture of carrot and stick to engage 
+prominent hackers in work for the state, and third-party contracting of state 
+information security tasks is common in most countries. A number of Russian 
+security experts declined to comment, citing the sensitivity of the subject.
+
+
+“Pretty much everyone in the community has done some work for their government 
+at some point,” said Dave Aitel, who runs Immunity, a US software security 
+company. He described Shevchenko as “extremely well known in the information 
+security community”.
+
+
+Shevchenko described herself as “a typical introverted computer geek” who is 
+largely self taught. She declined to say how old she was, deeming it an 
+“impolite question”, saying instead: “If you really need a number then go ahead 
+and make it up based on my photographs”.
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2017%2Fjan%2F06%2Frussian-hacker-putin-election-alisa-shevchenko%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F5dd6ba4751af36dbd8dbf1035c44218fe50909c7%2F0_1219_2988_1793%2F2988.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Young%20Russian%20denies%20she%20aided%20election%20hackers%3A%20%E2%80%98I%20never%20work%20with%20douchebags%E2%80%99&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2017%2Fjan%2F06%2Frussian-hacker-putin-election-alisa-shevchenko%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Young%20Russian%20denies%20she%20aided%20election%20hackers%3A%20%E2%80%98I%20never%20work%20with%20douchebags%E2%80%99&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2017%2Fjan%2F06%2Frussian-hacker-putin-election-alisa-shevchenko%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F5dd6ba4751af36dbd8dbf1035c44218fe50909c7%2F0_1219_2988_1793%2F2988.jpg>
+ Shevchenko: ‘a typical introverted computer geek’. Photograph: Alisa Shevchenko
+She said she dropped out of three different universities, as she was 
+passionate about learning but did not enjoy the structure of a university 
+course. Around 2004, she joined Kaspersky Lab, a high-profile Russian 
+cybersecurity firm.
+
+
+She left to set up her own company, initially called Esage Lab (“I was 
+thinking of something ‘sage’, as in a wizard or a magician,” she said). Later, 
+she changed its name to ZOR. Both names are on the US sanctions list.
+
+Shevchenko specialises in finding so-called “zero-days”, previously 
+undisclosed software bugs that could leave companies vulnerable. “We have not 
+only searched for bugs but exploited them, but only with the customer’s 
+sanction,” she said. She said she never hired anyone she knew to have a 
+criminal background for her companies.
+
+Shevchenko said she had been approached repeatedly by people she believed to 
+be from the Russian government. She insisted, however, that she had always 
+rejected the advances. She said she had not been threatened or intimidated as a 
+result.
+
+
+A 2014 profile of Shevchenko in Russian Forbes magazine noted that she worked 
+with DialogNauka, a Russian company that listed among its clients the Russian 
+ministry of defence and parts of the security services. Questioned by the 
+Guardian, she insisted that none of her own work for DialogNauka “was even 
+remotely possible to use as a nation-state attacks supply”.
+
+Shevchenko said she had turned down plenty of offers of work on ideological 
+grounds: “I never work with douchebags. I only work with honest and open people 
+that I feel good about.” Asked directly if she had ever worked on a government 
+contract in any capacity, she answered “not that I know of”.
+
+Shevchenko said ZOR was closed more than a year ago, because it was difficult 
+and expensive to do the requisite public relations work required to drum up 
+business. She now works as a “one-man army”, she said.
+
+Many analysts have said it seems very likely that Russian state actors are 
+behind Fancy Bear, but concede that the publicly released evidence does not 
+include a smoking gun.
+
+Cozy Bear and Fancy Bear: did Russians hack Democratic party and if so, why?
+ Read more  
+<https://www.theguardian.com/technology/2016/jul/29/cozy-bear-fancy-bear-russia-hack-dnc>
+The former NSA contractor-turned-whistleblower Edward Snowden, who currently 
+lives in Russia,wrote <https://twitter.com/Snowden/status/814877772191592448> 
+on Twitter: “Few techs doubt that Russians could have a hand in hacks, but 
+public policy requires public evidence.”
+
+Brian Bartholomew, of Kaspersky Lab’s US office in Massachusetts, said the 
+biggest clue was an in-house piece of software called XAgent, which he had 
+never seen elsewhere.
+
+“Assange said it could have been a 14-year-old hacker – if you look at the 
+collective operations of this group, there’s no way a 14-year-old has this much 
+money, time and effort to conduct all of these operations together,” he said.
+
+Of the entities on the sanctions list, including Shevchenko’s company, 
+Bartholomew said: “There’s probably a good reason that those names were put in 
+the document.”
+
+
+Aitel said he had no doubt Russian intelligence was behind the hack and said 
+authorities would certainly use third-party contractors for operations, but he 
+added that it was problematic to sanction individuals without releasing 
+evidence. “No matter what she did technically, she’s not a policy maker. It 
+doesn’t make much sense to sanction individuals on the basis that ‘we know 
+something secret so we’re going to sanction you’.”
+
+Only Shevchenko’s company – rather than Shevchenko personally – is on the US 
+treasury’s list of specially designated nationals (SDNs), which are subject to 
+an asset freeze in any dealings with US persons or the US financial system.
+
+“If she starts a new company, then that company is clean, but a lot of people 
+might not want to do business with her if they do their due diligence and find 
+that she’s one step removed from an SDN,” said Louis Rothberg, an expert in 
+export control with the international law firm Morgan Lewis & Bockius.
+
+
+Shevchenko said she assumes it is “not possible” for her to travel to the US 
+now, and she does not particularly want to.
+
+“I am now de facto blocked from the world’s major information security 
+market,” Shevchenko said.
+
+On the other hand, she allowed, there was apparently a certain cachet in being 
+named as someone who hacked a US election. “I have received a number of 
+employment, business partnership or collaboration offers” in the days since the 
+sanctions list was released, she said.
+ 

@@ -1,0 +1,83 @@
+
+What constitutes “real work”? Anyone who has dug a ditch by hand would say 
+that certainly qualifies, but when it comes to computing and screens, the 
+distinction becomes more difficult. Since the introduction of the iPad in 2010, 
+the insistence among some that what gets done on aniPad 
+<https://www.theguardian.com/technology/ipad> is not “real work”, while stuff 
+done on a computer with a keyboard running some flavour of Windows is, has 
+become gradually more hilarious.
+
+What stopped people from doing “real work” on the first iPad? According to 
+various comments after its introduction, the lack of Photoshop; no access to 
+the file system; no USB port for flash memory drives, or a spinning hard drive 
+capable of storing 160GB, or a physical keyboard. Then there was the lack of 
+computer-aided design/manufacturing programs, and the absence of Microsoft 
+Office. How could you do “real work” in the modern age without touching Office?
+
+
+Apparently for some, no app or capability of whatever power can replace the 
+presence of a 'full-fat operating system'
+
+Insistence on the physical keyboard – how could people type for any length of 
+time on glass? – must mean that the amount of “real work” done has plummeted 
+precipitously with the decline ofBlackBerry’s subscriber base 
+<https://www.theguardian.com/technology/2015/mar/27/blackberry-phones-handsets-losses>
+ (by about 50 million) over the past couple of years. Or is typing emails not 
+“real work”? The issue also became moot once companies such as Logitech 
+introduced add-on keyboards for the iPad.
+
+Since 2010, the need for flash memory and big hard drives has receded as 
+services such as Dropbox and Box (not to mention Microsoft’s OneDrive, Google 
+Drive and Apple’s own iCloud) have become pervasive. CAD programs are available 
+for Apple’s iOS, and one of the first thingsSatya Nadella did on taking over 
+Microsoft 
+<https://www.theguardian.com/technology/2014/feb/04/microsoft-satya-nadella-new-ceo>
+ was tointroduce Office for iPad 
+<https://www.theguardian.com/technology/2014/mar/27/microsoft-announces-office-apple-ipad?CMP=Share_iOSApp_Other>
+ in March 2014, well before the touch-optimised version of Office for Windows 8.
+
+Did that end the “real work” argument? No; it just gained nuance. Take Apple’s 
+iPad Pro 
+<https://www.theguardian.com/technology/2015/sep/09/apple-ipad-pro-129in-iphone-6s-event>
+, introduced in November, which sports a 33cm (12.9in) screen 76% bigger than 
+the 2010 iPad with its 24.6cm (9.7in) screen. It can run two applications 
+side-by-side, has a processor that benchmarks favourably compared to an Intel 
+laptop and has an (optional) attachable keyboard and (optional) drawing stylus. 
+Pricey, too; surely only “real workers” could afford it?
+
+But now, the comparisons in the commentaries aren’t with laptops, but with 
+Microsoft’s Surface Pro 
+<https://www.theguardian.com/technology/2015/may/01/microsoft-surface-3-review-one-of-the-best-tablet-laptop-hybrids>
+, with an attachable keyboard, optional stylus and 12.3in (31.2cm) screen. The 
+two devices approach each other from different ends of thetablet/laptop divide, 
+yet only one is deemed capable of doing “real work”.
+
+iPad Pro – the creative future’s looking good
+ Read more  
+<https://www.theguardian.com/technology/2015/nov/29/apple-i-pad-pro-review> 
+What constitutes “real work” keeps moving, a line drawn in shifting sands. 
+Running FTP programs? The iPad can do that, withCoda 
+<https://itunes.apple.com/gb/app/coda/id500906297?mt=8>. Writing code? Try 
+Pythonista <https://itunes.apple.com/gb/app/pythonista/id528579881?mt=8> or 
+Coda. Running ad-hoc scripts?Workflow 
+<https://itunes.apple.com/gb/app/workflow-powerful-automation/id915249334?mt=8> 
+is pretty handy. The iPad Pro can even edit 4K video, which many cheap laptops 
+can’t. But apparently for some people no app or capability of whatever power 
+suffices to replace the presence of a “full-fat operating system”, a phrase 
+defended with the passion of a London cabbie insisting that an Uber driver 
+isn’t really navigating, just following directions from their smartphone. No 
+matter that the phone is updated constantly with traffic data and advisories; 
+it’s new, so it isn’t Real Driving.
+
+At some point, the difference vanishes. Most people never did “real work”, by 
+whatever metric, on their computer; they were happy to browse web pages, send 
+emails,Skype <https://www.theguardian.com/technology/skype> friends, whatever. 
+Yet the redoubt of “real work” is defended valiantly, perhaps by those whose 
+jobs depend not on the work, but on the tools used for it – the PC. It’s very 
+notable how often those defending the “real work” divide are also systems 
+administrators of some sort. It’s as if, like the London cabbie, they felt 
+their employment was in peril, while everyone else adapts around them.
+
+For myself, I wrote this on an iPad Pro (with the keyboard). It certainly 
+beats digging a ditch.
+ 

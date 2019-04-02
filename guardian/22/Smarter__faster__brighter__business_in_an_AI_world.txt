@@ -1,0 +1,118 @@
+
+If you’ve had Google autocomplete a search query for you, or Netflix suggest 
+your next favourite television show to you, then you’ve already been the 
+beneficiary of AI’s helping hand.
+
+But recent huge strides in data processing and AI programming mean the world 
+is on the cusp of an AI boom which promises to transform how we manage almost 
+every part of our lives, as thoroughly as electricity did in the 20th century.
+
+Sound overblown? Consider the case of self-driving cars. Literally science 
+fiction a decade ago, Google’s self-driving cars have already driven more than 
+2.6 million kilometres, the equivalent of the moon and back three times. And 
+anyone who owns a Tesla can already drive vast distances without ever touching 
+the controls.
+
+So what’s powering this AI boom, and what does it mean for those in business?
+
+Though to many AI might seem like a recent invention, it has in fact been an 
+area of inquiry and investigation for great technical minds since at least the 
+1950s, as they strived to create computer systems that are able to understand 
+and react to conditions affecting their environment, instead of relying on 
+instructions from humans.
+
+But progress in the sector has boomed in recent years, thanks to ever-cheaper 
+sensors supplying more and more data and rapid increases in data-processing 
+power and affordability.
+
+You can hire smart people to write code and gain access to resources. The real 
+challenge is customer empathy.
+Robert Wickham 
+In addition, programmers have made breakthroughs in how AI is created in the 
+first place. For many years, much research was focused on analysing how human 
+experts made decisions and endeavouring to program computers to emulate those 
+thought processes.
+
+Now, however, much of the buzz is coming from machine learning, which involves 
+creating artificial neural networks that can then learn rules and behaviours 
+through repetition. For instance, Google’s powerful image identification AI has 
+learnt to identify what is in an individual image after being exposed to 
+millions of other images and told what it is looking at, allowing it to now 
+recognise objects using its own “intuition”, rather than a prescribed set of 
+rules from a programmer.
+
+A potent example of the power of machine learning came in early 2016, when 
+Google’s AlphaGo system thrashed 18-time world Go champion for the first time. 
+To win at the notoriously complex game, Google’s engineers built a neural 
+network and made it watch countless games of Go between human players, helping 
+it learn to recognise and plan moves intuitively.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F13%2Fsmarter-faster-brighter-business-in-an-ai-world%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F0e741aac22756f2dbcb8ad54c2912912f5d67acb%2F0_0_1080_607%2F1080.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Smarter%2C%20faster%2C%20brighter%3A%20business%20in%20an%20AI%20world&url=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F13%2Fsmarter-faster-brighter-business-in-an-ai-world%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Smarter%2C%20faster%2C%20brighter%3A%20business%20in%20an%20AI%20world&url=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F13%2Fsmarter-faster-brighter-business-in-an-ai-world%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F0e741aac22756f2dbcb8ad54c2912912f5d67acb%2F0_0_1080_607%2F1080.jpg>
+ Match 3 of AlphaGo vs Lee Sedol. Photograph: Flickr/erikbenson 
+But AI is upending expectations in arenas far removed from board games. In 
+fact, wherever data streams exist, AI has the potential for impact.
+
+Salesforce APAC Vice President Robert Wickham said the rapid spread of mobile 
+devices, along with the first stirrings of the Internet of Things, has meant 
+the creation of a deluge of data.
+
+“90% of the world’s total data was created in the past two years, which is a 
+staggering statistic,” he said. “But less than 1% of that data is harvested, 
+analysed and used.”
+
+The reason for this? Big data analysis has traditionally been difficult to 
+integrate into a business’ existing operations, and expensive, relying upon the 
+expertise of data scientists.
+
+However, machine learning AI programs are promising to upend this state of 
+affairs, by thriving on enormous datasets and learning how to make the most 
+effective suggestions for a given set of parameters.
+
+But although the rapidly increasing accessibility of AI means it is soon to 
+become a lot more commonplace in the business world, using AI effectively won’t 
+be a set-and-forget proposition.
+
+“Technology is not the challenge,” Wickham said. “You can hire smart people to 
+write code and gain access to resources. The real challenge is customer 
+empathy.”
+
+“How do you structure your business to be a real customer-oriented enterprise? 
+How do you ensure from day one that you understand as best you can exactly what 
+your customer wants to do? If you can’t do that, you can’t scale.”
+
+Wickham said along with customer empathy, another essential for a businesses 
+wanting to thrive in an AI-powered world is the ability to embrace constant 
+change and operate at speed.
+
+How do the most valued brands in the world meet customer expectations?
+ Read more  
+<https://www.theguardian.com/salesforce-the-unfair-advantage/2016/sep/27/how-do-the-most-valued-brands-in-the-world-meet-customer-expectations>
+“Think of it as being able to change the tyres of a race car while it goes 
+around the track,” he said. “You can run experiments in real time, testing what 
+works and what doesn’t as you go, and then move the most successful elements 
+into the mainstream.”
+
+Crucially, well designed AI should make it easier for staff to do their job of 
+attending to customer needs as effectively as possible.
+
+This is where even the simplest of AI solutions has potential to affect 
+positive change to how even the smallest business operates. Take, for example, 
+a simple system to integrate a user’s email and calendar, offering prompts to 
+help the user be more productive. For business owners struggling to keep 
+multiple balls in the air, putting a simple AI system in place can act like 
+hiring an invisible personal assistant to organise your priorities and boost 
+your peace of mind.
+
+It’s what many in the technology industry now refer to as ‘democratisation of 
+AI’, or ‘AI for everyone’. Sales, service, and marketing are set to be among 
+the chief beneficiaries, with concepts like gut-feel, intuition and serendipity 
+soon to be not supplanted, but supported, by data.
+
+How do you best ensure a good understanding of your value to potential 
+customers? -Find out if your innovative business has a customer-centric DNA 
+<https://ad.doubleclick.net/ddm/clk/311948398;139706475;x>
+ 

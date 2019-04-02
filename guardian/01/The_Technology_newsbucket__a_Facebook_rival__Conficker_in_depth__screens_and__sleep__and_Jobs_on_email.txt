@@ -1,0 +1,129 @@
+
+
+ <http://www.flickr.com/photos/28868332@N03/4601580643>
+Facebook: become a fan. Photo by TeX HeX <http://flickr.com/photos/texhex/> on 
+Flickr.Some rights reserved 
+<http://creativecommons.org/licenses/by-sa/2.0/deed.en>
+A quick burst of 18 links for you to chew over, as picked by the Technology 
+team
+
+join diaspora >> diaspora.com <http://joindiaspora.com/>
+"A privacy-aware, personally controlled, do-it-all distributed open source 
+social network". Could be interesting. Does 'distributed' mean 'peer-to-peer' 
+and so not need for tons of servers?
+
+Staying in Control of Your Facebook Logins >> Facebook official blog 
+<http://blog.facebook.com/blog.php?post=389991097130>
+Better notifications of people trying to log into your account who aren't you. 
+Plus a system which will show a photo of a friend (hard to spot for fakes; easy 
+for you).
+
+Video: Facebook Privacy Settings: How To Fix Your Profile In 2 Minutes >> 
+Huffington Post 
+<http://www.huffingtonpost.com/2010/05/13/facebook-privacy-settings_n_575732.html>
+Two minutes of your time. "Here's everything you need to know to go back to 
+the old days when you could control your privacy on Facebook with just a few 
+clicks."
+
+Conficker: The Enemy Within >> The Atlantic magazine 
+<http://www.theatlantic.com/magazine/archive/2010/06/the-enemy-within/8098/>
+It first appeared on 20 November 2008, hit 500,000 Windows PCs in its first 
+month and grew to more than 6m computers. Possibly the patch that fixed it - 
+which appeared before the worm - gave its writer a clue to what to create. But 
+it goes beyond that: the second version of Conficker used MID-6, a new and 
+super-secure encrpytion system that had only been proposed a month earlier. In 
+short: Conficker is infecting an unknown number of computers (perhaps 100,000; 
+perhaps 12 million) and nobody knows what it's about or who wrote it or who 
+controls it.
+
+Facebook is a utility; utilities get regulated >> Danah Boyd 
+<http://www.zephoria.org/thoughts/archives/2010/05/15/facebook-is-a-utility-utilities-get-regulated.html>
+Microsoft researcher Boyd writes: "Your gut reaction might be to tell me that 
+Facebook is not a utility. You're wrong. People's language reflects that people 
+are depending on Facebook just like they depended on the Internet a decade ago. 
+Facebook may not be at the scale of the Internet (or the Internet at the scale 
+of electricity), but that doesn't mean that it's not angling to be a utility or 
+quickly becoming one."
+
+However, even with that, Facebook still isn't a utility.
+
+Facebook and "radical transparency" (a rant) >> danah boyd 
+<http://www.zephoria.org/thoughts/archives/2010/05/14/facebook-and-radical-transparency-a-rant.html>
+Yes, her again. "The battle that is underway is not a battle over the future 
+of privacy and publicity. It's a battle over choice and informed consent. It's 
+unfolding because people are being duped, tricked, coerced, and confused into 
+doing things where they don't understand the consequences."
+
+Is there a happy ending to Scotland's Minority Report? >> Guardian Law blog 
+<https://www.theguardian.com/law/afua-hirsch-law-blog/2010/may/16/scotland-crime-minority-report>
+Scottish police are identifying events "such as Rangers matches" when domestic 
+violence levels tend to peak... and then showing up at [peoples'] homes. Yes, 
+it is a bit pre-crime.. though without the telepaths. Philip K Dick would laugh 
+quietly.
+
+Facebook's Sheryl Sandberg: Growing Something Big Out Of Something Small >> 
+Forbes 
+<http://www.forbes.com/2010/05/14/sheryl-sandberg-mark-zuckerberg-social-media-forbes-woman-leadership-facebook.html>
+Facebook COO "Sandberg spoke to ForbesWoman Publisher Moira Forbes about 
+keeping up with the tech world's furious pace of change while still making time 
+to meet with every employee at Facebook."
+
+Do computer screens upset your sleep patterns? >> CNN 
+<http://www.cnn.com/2010/TECH/05/13/sleep.gadgets.ipad/index.html>
+"There's growing concern that these glowing gadgets may actually fool our 
+brains into thinking it's daytime. Exposure can disturb sleep patterns and 
+exacerbate insomnia, some sleep researchers said in interviews."
+
+Steve Jobs Offers World 'Freedom From Porn' >> Valleywag 
+<http://gawker.com/5539717/>
+Steve Jobs apparently exhanges emails with Ryan Tate, from Valleywag. It looks 
+as though Jobs doesn't like being on the geek hate list
+
+New Entry-Level MacBook Leaked [Video] >> Mashable 
+<http://mashable.com/2010/05/15/new-macbook/>
+"The machine's CPU was upgraded to a 2.4GHz Intel Core 2 Duo processor, 
+increased from 2.26GHz in the previous generation, and graphics were given a 
+shot in the arm with a NVIDIA GeForce 320M GPU. These updates will be the first 
+for the MacBook since October 2009."
+
+Apple Responds >> Jeffrey Zeldman 
+<http://www.zeldman.com/2010/05/14/apple-responds/>
+A simple explanation of how Apple responds to Adobe's "We Love Apple" 
+advertising. (Zeldman doesn't work for Apple.)
+
+How secure is Flash? Here's what Adobe won't tell you >> Ed Bott at ZDNet 
+<http://www.zdnet.com/blog/bott/how-secure-is-flash-heres-what-adobe-wont-tell-you/2152>
+" In talking to Adobe representatives, reading interviews with Adobe 
+executives, and reading Adobe's public statements, I've found a steady stream 
+of denial where there should be transparency. One of the key issues in this 
+discussion is security."
+
+26 reasons Apple fanboys have got it all wrong >> TechRadar UK 
+<http://www.techradar.com/news/computing/apple/26-reasons-apple-fanboys-have-got-it-all-wrong-689379>
+Linkbait, but possibly amusing for people who aren't mindslaves in Kim 
+Il-Jobs's one-party dictatorship...
+
+QuitFacebookDay.com <http://www.quitfacebookday.com/>
+Can a handful of geeks make an impact on a site that has half a billion users? 
+Will it be followed by a "Quit iPad day"?
+
+Acer to launch Chrome OS devices in two weeks (exclusive) >> VentureBeat 
+<http://venturebeat.com/2010/05/13/acer-to-launch-chrome-os-devices-in-two-weeks/>
+"We've learned from multiple sources that the Taiwanese computer manufacturer 
+Acer will launch Chrome OS devices at the Computex Taipei show, which will be 
+held from June 1 to June 5," says VentureBeat
+
+100 Famous Writers You Can Follow on Twitter >> Online University Reviews 
+<http://www.universityreviewsonline.com/2005/10/100-famous-writers-you-can-follow-on-twitter.html>
+A lot of them are not primarily writers (Arnold Schwarzenegger, Mariah Carey) 
+or don't actually use Twitter themselves, but there are still plenty of 
+interesting names.
+
+Can Microsoft beat Google in the battle to rule cloud computing? >> CNN 
+<http://edition.cnn.com/2010/TECH/05/13/microsoft.cloud.computing/>
+With the launch of Office web-apps, Microsoft is going head-to-head with 
+Google....
+
+You can follow Guardian Technology's linkbucket on delicious 
+<http://delicious.com/guardianista>
+ 

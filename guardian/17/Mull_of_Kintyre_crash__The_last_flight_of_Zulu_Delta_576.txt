@@ -1,0 +1,249 @@
+
+At 5.42pm on June 2 1994, RAF Chinook Zulu Delta 576 took off from RAF 
+Aldergrove near Belfast. On board were four special forces aircrew and 25 
+senior members of theNorthern Ireland 
+<https://www.theguardian.com/uk/northernireland> intelligence community, bound 
+for a security conference near Inverness.
+
+They never made it. Eighteen minutes into the flight, the helicopter hit the 
+cloud-covered Mull of Kintyre, killing all 29 passengers and crew. It was the 
+RAF's worst peacetime accident.
+
+Evidence uncovered by Computer Weekly magazine now casts doubt on the MoD's 
+insistence that the two pilots were to blame. Flight lieutenants Jonathan 
+Tapper, 28, and Rick Cook, 30, were both experienced special forces pilots with 
+exemplary records. Flt Lt Tapper, the captain, had a total of 3,165 military 
+flying hours. Flt Lt Cook, who was at the controls, had 2,867 hours.
+
+Care failure
+
+
+With no evidence of a technical malfunction discovered by accident 
+investigators, an RAF board of inquiry found them guilty of "gross negligence". 
+They had "wrongly continued to fly towards the high ground" and failed to 
+observe minimum care in bad weather when they flew into the isolated Scottish 
+hillside.
+
+But the latest investigation shows that by continuing to blame the pilots, the 
+MoD has failed the RAF's own test in accident investigations, which states that 
+"only in cases in which there is absolutely no doubt whatsoever should deceased 
+aircrew be found negligent".
+
+The new evidence focuses on an innovative computer engine control system which 
+was being fitted to the RAF's Chinooks in the early 1990s. Because it had the 
+ability to take the engines down to idle or accelerate them to maximum speed, 
+the system was known as full authority digital engine control, or Fadec.
+
+From the start of the upgrade there were problems. Warning lights would come 
+on, which forced crews to embark on a series of distracting checks often only 
+to discover that there was no apparent problem. Sometimes engines would run 
+down, on other occasions they would run up, in danger of going out of control, 
+when the computer system pumped in too much fuel. A common feature of the 
+problems was that they left no physical trace.
+
+Nevertheless, in November 1993 the Chinook Mk2 was cleared for operational 
+service. The MoD believed that none of these problems jeopardised the safety of 
+the aircraft, although there was a weight restriction so that if Fadec shut 
+down one engine, the helicopter could still fly on the other.
+
+It was only after Chinook ZD576 hit the Mull of Kintyre seven months later 
+that the full extent of concerns about the Fadec system started to emerge.
+
+At 5.55pm on the day of the crash, ZD576 was seen by an amateur yachtsman 
+flying below cloud two to three nautical miles from the Mull of Kintyre 
+lighthouse. It was flying in a straight line at level altitude about 
+200ft-300ft above sea level. Visibility was good.
+
+The top of the Mull was shrouded in cloud but the crew had not planned to fly 
+over it anyway. Flt Lt Tapper indicated on the navigation computer that they 
+had seen their first waypoint, the lighthouse, and entered the second waypoint, 
+Corran, about 90 miles away. That would require a slight left turn, which would 
+let them continue round the Mull at low level.
+
+But the helicopter never made the turn. Soon after Flt Lt Tapper entered the 
+new waypoint, ZD576 crashed into the hillside, bounced, broke up in flames and 
+landed again about 300 metres from the initial impact.
+
+Based on findings by the civil air accidents investigation branch, called in 
+to conduct the technical inquiry into the crash, four members of an RAF board 
+of inquiry acknowledged that even though there was no evidence of a technical 
+malfunction, "an unforeseen malfunction of the type being experienced on the 
+Chinook Mk2, which would not necessarily have left any physical evidence, 
+remained a possibility and could not be discounted".
+
+But two senior officers charged with reviewing the report and deciding on the 
+findings, Air Chief Marshal Sir William Wratten and Air Vice Marshal John Day, 
+disagreed with their colleagues and pronounced the pilots guilty of gross 
+negligence. Sir William said of Flt Lt Tapper: "I cannot categorise his failure 
+as an error of judgment: this would suggest that he made an honest mistake. To 
+the contrary, he did not exercise appropriate care and judgment."
+
+The MoD also dismissed the judgment of a Scottish fatal accident inquiry, 
+under Sheriff Sir Stephen Young, which ruled there was no proof the pilots were 
+to blame.
+
+But the pilots' families and aviation experts believe evidence which has 
+emerged since shows the helicopter was just as likely to have suffered a 
+temporary "overspeed", forcing it to climb into the cloud and on to the Mull as 
+the pilots fought to bring down the engine speed. This may have been compounded 
+by other problems, which would have prevented the helicopter from making a 
+planned left turn around the Mull.
+
+Documents unearthed by Computer Weekly back up this theory and confirm 
+suspicions that the MoD has attempted to cover up evidence which suggested the 
+Chinook had suffered serious technical problems.
+
+At the time of the crash the MoD was taking legal action in the US against the 
+engine manufacturers Textron-Lycoming, over an incident during ground testing 
+of a modified Chinook at Boeing's plant in Wilmington, Pennsylvania, in 1989. 
+The aircraft was almost destroyed by an engine overspeed which occurred when 
+the two independent sensors Fadec uses to detect engine speed were in effect 
+knocked out. The MoD blamed a flaw in the design of the software which meant 
+Fadec wrongly interpreted this as a total loss of power, causing it to pump too 
+much fuel into rotors which were actually functioning normally.
+
+Investigators not told
+
+
+The MoD did not tell the AAIB investigators about the litigation, despite its 
+relevance to their inquiry. The fault code displayed by Fadec after the 1989 
+incident was E5. The same code was subsequently found on one of the crashed 
+Chinook's computers.
+
+In March last year, the then armed forces minister, John Reid, appeared before 
+the Commons defence select committee looking into the 1994 crash. The 
+committee's report was a great success for the MoD, concluding on the basis of 
+the evidence that there were no "fundamental flaws" in the design of the 
+helicopter or its components.
+
+But the magazine's investigation has established that the information Dr Reid 
+gave to the committee was inaccurate. There is no suggestion he deliberately 
+misled the committee, but the quality of the briefings he received is called 
+into question. The MoD dismisses allegations that officials knowingly misled 
+parliament.
+
+Asked why the MoD had withheld details of the US legal action, Dr Reid told 
+them: "It was not - I repeat it was not - on account of the failure of the 
+software... We sued them for negligence in their testing procedures. We did not 
+sue them because of a failure of the Fadec software. This is one of the 
+misconceptions that has unfortunately been allowed to flourish."
+
+He repeated this line when explaining why the Scottish fatal accident inquiry 
+had not been told about the case against the engine manufacturers.
+
+But a copy of the government's official claim against Textron-Lycoming and a 
+letter from the engine manufacturer's insurers denying the claim, both obtained 
+by Computer Weekly, reveal that the MoD's case was based almost entirely on the 
+faulty design of the Fadec system.
+
+The government claimed that the system was not airworthy, that the software 
+was not adequately documented and that the almost total reliance on unproven 
+software for engine and aircraft safety constituted a flawed design system.
+
+The case went to arbitration, and in November 1995, Textron-Lycoming paid the 
+MoD more than $3m (£1.8m) in compensation.
+
+But as recently as May 15 this year, British ministers were still insisting to 
+MPs that the 1989 incident had been caused by faulty testing.
+
+Both before and after the crash the MoD's military aircraft testing 
+establishment at Boscombe Down in Wiltshire had expressed grave concerns about 
+the Fadec system. On June 1, the day before the accident, it suspended flight 
+trials of the upgraded Chinook after a series of unexplained Fadec-related 
+malfunctions. Two days later, an internal memo criticised the software as 
+"unverifiable and therefore unsuited for its intended purpose".
+
+Before the committee, Dr Reid was disparaging about Boscombe Down's concerns. 
+But evidence has come to light revealing that concern about Fadec went much 
+higher than the test pilots.
+
+In a previously unseen memo, dated April 29 1994, the assistant director of 
+helicopter projects, a Captain Brougham, the MoD official appointed project 
+manager for the Chinook, urged his superiors to "understand and take full 
+account of" Boscombe Down's views to ensure that in future negotiations with 
+the manufacturers the MoD would be able to secure the "satisfaction of all 
+safety case issues".
+
+The memo also raised concerns about misleading comparisons between different 
+Fadec systems, calling into question another key element of the MoD's defence 
+of the Chinook programme: the positive experience of other countries which use 
+it. For example, Dr Reid told the select committee last year that the US was 
+"perfectly happy. They have a huge fleet of Chinooks and they are applying the 
+standards of Nasa." The RAF's version of Fadec, however, was different from 
+those used by other countries.
+
+'Series of problems'
+
+
+The magazine has obtained a second memo from Captain Brougham, dated January 
+11 1995, in which he referred to a "series of problems" with the Chinooks, 
+"many of which were traced eventually back to software design and systems 
+integrations problems... " The period in which these incidents occurred, 
+Captain Brougham wrote, was between February and July 1994 - the same period as 
+the crash. There is no suggestion that Dr Reid was aware of the existence of 
+either of these memos.
+
+Doubts about the RAF's verdict have been fuelled by the maintenance history of 
+ZD576 itself. Dr Reid told MPs last year that between May 1993 and April 1994, 
+Mk2 Chinooks had experienced five faults during 950 hours of flying.
+
+RAF maintenance reports seen by Computer Weekly reveal that in the eight weeks 
+from the end of March 1994 there were six incidents involving ZD576. Five of 
+them were Fadec-related, including one "ENG FAIL" warning, and one in which a 
+part came loose in the vital flying control assembly.
+
+Dr Reid told MPs he had the power to reopen the inquiry if new information 
+came forward, suggesting that the RAF had reached the wrong decision. The 
+families of Jonathan Tapper and Rick Cook will be calling on ministers to do 
+exactly that.
+
+Trials and errors
+
+
+1984: The ministry of defence begins process to upgrade Chinook helicopter 
+fleet, installing a computer system called Fadec to control the engines.
+
+January, 1989: RAF Chinook almost destroyed during ground testing of new 
+engine computer system when rotors run up out of control. Engine manufacturers 
+later pay $3m in compensation to MoD.
+
+November, 1993: The upgraded Mk2 Chinook given permission for operational 
+service.
+
+June 1, 1994: The MoD's military aircraft testing establishment at Boscombe 
+Down in Wiltshire suspends flight trials on Mk2 Chinooks after a series of 
+unexplained malfunctions in the engine computer system.
+
+June 2, 1994: RAF Chinook ZD576 crashes into the Mull of Kintyre, killing four 
+aircrew and 25 members of the Northern Ireland security services.
+
+June 3, 1994 : Internal memo from Boscombe Down criticises engine software 
+after number of errors found.
+
+April, 1995: RAF board of inquiry finds the pilots were guilty of "gross 
+negligence" in flying their Chinook into bad weather on the Mull.
+
+March, 1996: Scottish fatal accident inquiry under sheriff Sir Stephen Young 
+rules that the two pilots should not be blamed. The finding is dismissed by the 
+MoD.
+
+November, 1997: Defence secretary George Robertson rules out the possibility 
+of a new inquiry after details of the legal action regarding the 1989 incident 
+are revealed.
+
+March, 1998: Armed forces minister John Reid tells Commons defence select 
+committee that there was no evidence that a technical malfunction caused the 
+1994 crash. He says the 1989 crash was caused by inadequate testing methods 
+rather than design flaws in the software.
+
+May, 1998: Defence select committee agrees that there were no "fundamental 
+flaws" in the upgraded Chinook or its components.
+
+September, 1998: MoD again refuses to hold a new inquiry after two Chinook 
+experts reveal that the crashed helicopter had suffered technical problems 
+before the accident.
+
+May, 1999: Tony Collins, executive editor of Computer Weekly, publishes 
+results of a long-running investigation into the 1994 crash, casting new doubt 
+on the RAF's verdict blaming the pilots.
+ 

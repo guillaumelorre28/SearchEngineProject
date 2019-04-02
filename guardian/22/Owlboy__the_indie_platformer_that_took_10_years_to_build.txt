@@ -1,0 +1,173 @@
+
+Many video games with famously protracted development times have one thing in 
+common: they turned out to be huge disappointments.
+
+
+Spore was Will Wright’s attempt to simulate the evolution of a life form from 
+the microbiological stage to space-age civilisation. It took eight years to 
+build and never quite lived up to the epic premise. The much anticipated Too 
+Human was juggled for nine years from the original PlayStation to a Nintendo 
+GameCube exclusive, finally surfacing as a mediocre Xbox 360 title. Then 
+there’s the notorious Duke Nukem Forever with its lawsuits and financial 
+troubles, taking 15 years from first public announcement to final release – and 
+it was awful.
+
+Announced back in 2007, Owlboy flirts with those titles in terms of 
+development longevity – released this month, the 2D platformer only narrowly 
+avoided a decade from conception to release. It was also hotly anticipated. In 
+2010, it was named Game of the Year at the Norwegian Game Awards, and a year 
+later its first public demo was widely praised. More recently, it was named 
+“Best in Play” at the 2015 Game developer Conference, and was selected to be 
+showcased at PAX West this past September.
+
+ But this is where the comparison with those other much hyped titles ends. 
+Because Owlboy turned out to be magnificent, garnering hugely positive reviews. 
+The question is: how did D-Pad Studios, a five-person team based in Norway, 
+buck the trend from bloat to broke?
+
+One factor is that Owlboy found itself in development suspension for very 
+different reasons than those bigger titles. Sure, there was some drama, with 
+the game’s original programmer leaving the project back in 2009, but this is 
+not a story about huge budgets and legal papers. Instead, Owlboy’s level 
+designer Adrian Bauer explains that the studio wasn’t officially formed until 
+2010 and that the custom XNA engine the team uses wasn’t particularly stable or 
+optimised until around 2012. Unexpected family deaths and burnout have also 
+caused small delays over the years as well. And then there was a side project, 
+working with Norwegian musician Savant to create a game in his name,Savant - 
+Ascent <http://www.savantgame.com/>, released in 2013.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F07%2Fowlboy-indie-platformer%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe0d1f99cbb2dc0bef23c00f289ca2396a976559d%2F18_0_1193_716%2F1193.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Owlboy%3A%20the%20indie%20platformer%20that%20took%2010%20years%20to%20build&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F07%2Fowlboy-indie-platformer%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Owlboy%3A%20the%20indie%20platformer%20that%20took%2010%20years%20to%20build&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F07%2Fowlboy-indie-platformer%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe0d1f99cbb2dc0bef23c00f289ca2396a976559d%2F18_0_1193_716%2F1193.png>
+ The team set out to legitimise 2D art as something worthy and beautiful in 
+itself, not just as a retro aesthetic Photograph: D-Pad Studios 
+None of these things are the main reason for Owlboy’s extended prelude, 
+though. That is something more simple and admirable. “We aimed high and 
+ambitious and decided no shortcuts and cut corners,” said Bauer.
+
+When D-Pad co-founder and art director Simon Andersen came up with the concept 
+for Owlboy 10 years ago, he wanted to prove a point: the advantages of 2D art 
+over 3D art. “The Wii was promising it would change how games were played back 
+when the project started, and pixel art was still very much seen as outdated, 
+rather than an art medium,” Andersen said. “So before the whole 2D resurgence 
+took place, I wanted a title that could showcase the medium’s strengths.”
+
+Andersen looked to the Kid Icarus series at the time as talk of a 3D version 
+was rumoured. Considering such a game, Andersen couldn’t see how any of the 
+concepts of indoor flight in the series would translate well to 3D. His 
+thoughts were that the 2D art allowed for much easier navigation – it would 
+only be complicated by the extra dimension.
+
+These thoughts congealed with an idea that Andersen had while he was replaying 
+Super Mario Bros 3: “The raccoon suit you got allowed you to press a button to 
+descend slowly after a jump, but what if you could just press it to 
+continuously fly instead?” Andersen imagined that such a mechanic would let you 
+fly really high, perhaps up to floating islands so removed from society that 
+you might not be able to understand their language. It was here in this 
+celestial realm that the foundations of Owlboy manifested. The rest of it came 
+when Andersen considered how the character would be able to fly.
+
+“A lot of options were considered. Jetpacks. The character being an insect. I 
+considered a girl that spun her pigtails to propeller around,” Andersen said. 
+“Then, my girlfriend suggested an owl and everything sort of fell into place 
+right there. Owls would have their own cloaks that act as wings. Owls are also 
+generally symbols of knowledge.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F07%2Fowlboy-indie-platformer%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F244e3587744c81b54d0c2123c44b8f4e0ec425ca%2F0_0_1193_716%2F1193.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Owlboy%3A%20the%20indie%20platformer%20that%20took%2010%20years%20to%20build&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F07%2Fowlboy-indie-platformer%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Owlboy%3A%20the%20indie%20platformer%20that%20took%2010%20years%20to%20build&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F07%2Fowlboy-indie-platformer%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F244e3587744c81b54d0c2123c44b8f4e0ec425ca%2F0_0_1193_716%2F1193.png>
+ The game uses traditional effects such as parallax scrolling to add depth to 
+the environments Photograph: D-Pad Studio 
+A couple years after this was locked down, more and more independent 
+developers started to pick up pixel art again. But it was often being used as a 
+way to create art for a game as quickly and simply as possible, or to reference 
+retro titles, rather than to push the potential of the artistic technique. 
+“Having taught myself a very specific field, it started to dawn on me that 
+artists that respected the medium were getting increasingly rare for a number 
+of reasons,” Andersen said. “I decided I was going to use Owlboy as a way to 
+showcase pixel art done properly, using as few ‘cheats’ as possible.”
+
+It’s this dedication that, more than anything else, added years to the 
+production of Owlboy. “The entire game is made pixel by pixel. No gradient or 
+blur effects, no tracing or 3D captures. Not with millions upon millions of 
+colours, but as limited of a palette as I could allow,” Andersen said. “The 
+only thing that we’ve had to do is allow rotations, but I’m just going to have 
+to accept that.”
+
+He admits that this level of detail “isn’t a competing business strategy,” and 
+if D-Pad were more inclined towards that, they could probably have got away 
+with scaling Owlboy down to an 8-bit retro game look, or using 3D models and 
+reusing assets. “What I’ve wanted to show with Owlboy is that these kinds of 
+games can still be made and resonate with people,” Andersen said. “People want 
+these kinds of games, but you have to be pretty dedicated to make them. The 
+same kind of dedication they used back in the 80s and 90s.”
+
+Perhaps unsurprisingly, this dedicationforced D-Pad to save as much money as 
+it possibly could while working on Owlboy. It’s why the team doesn’t have a 
+central HQ, but work from their own homes or makeshift office spaces, bouncing 
+ideas off each other in Skype chats. There are at least some resources for them 
+to work with - it’s what has made being based in Norway a boon for the team. 
+“The Norwegian government has been very supportive, and have given us grants 
+that have made it possible to focus on the game without having to rush it out 
+the door,” Bauer said.
+
+He adds that the Norwegian Film Fund has, in more recent years, also shown an 
+interest in branching into games to help build the native industry. “As a 
+result, we have a quickly growing and very friendly community in Norway, where 
+we share ideas and help each other out,” Bauer added, “which is a big change, 
+since when we started out, we were the only indies here, and there were only a 
+few larger games companies.”
+
+This spirit of collaboration, not just between friends, but across an entire 
+country, is at the heart of Owlboy. “The theme of friends and co-operation is 
+something we put into everything we could,” Bauer said. “It’s a huge part of 
+our team work.” But it didn’t come immediately.
+
+When first conceptualising the game, Andersen started out with Otus, the 
+titular character, as being somewhat disabled. The cloaks that the people in 
+this owl society use to fly around are inherited and have to be earned, but 
+Otus struggles to master the art of flight with his. “As such, maybe the main 
+character is not very able himself, so the concept of carrying other people and 
+using them to fight for you followed naturally from that,” Andersen said.
+
+In Owlboy, you can pick up the village engineer, called Geddy, who fires a 
+pistol at enemies for Otus. Later in the game, other support characters will 
+appear with different abilities, and you’ll need to pick the right one to pair 
+Otus with in order to overcome challenges and solve puzzles.
+
+“We played with the idea of letting Otus do damage but our design reflects our 
+story themes,” Bauer said. “If Otus could do everything there wouldn’t be a 
+reason for players to think about the gunners and to almost always have them 
+with you.” It’s a game about co-operation by a team that has had to rely on it 
+to survive the past 10 years. In this way, it has become a very personal for 
+each member of D-Pad – not just in how it’s taken up a significant chunk of 
+their lives, but also how its themes reflect the resolve they’ve shown to get 
+through it together. It’s no surprise that the only words the team can muster 
+to describe the experience of finally releasing the game are “incredibly 
+emotional”.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0N4lp01tFwg&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0N4lp01tFwg>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D0N4lp01tFwg&media=>
+Each member of D-Pad has their own massive archive of old Owlboy material. 
+“There are Google chat logs, emails, mock ups, discarded versions of game maps 
+and old builds,” Bauer said. “You name it, we might just have it socked away on 
+backup drives. The most continuous change long we have is for our game repo. 
+This one goes back as far as 2011. We also have some newspaper cutouts from 
+2010.”
+
+All of it is a reminder of what they’ve been through. What it takes to 
+dedicate yourself to a craft, the design meetings and critical reactions, the 
+award nights and darker days. But these mementoes will be dwarfed by one: the 
+finished game being released to the public and finding a receptive audience. 
+Some things, it turns out, really are worth waiting for.
+
+Owlboy is available on PC <https://www.theguardian.com/technology/pc>, via 
+Steam. Other formats are being considered.
+ 

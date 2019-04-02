@@ -1,0 +1,441 @@
+
+Edward Snowden’s face seems ever present in Berlin, where stickers on doors 
+and lamp-posts promise there’s always “A bed for Snowden 
+<https://www.campact.de/snowden/ein-bett-fuer-snowden/bestellen/>” and posters 
+plug Oliver Stone’s eponymous film.
+
+The whistleblower’s explosive 2013 revelations 
+<https://www.theguardian.com/us-news/the-nsa-files> about international 
+government surveillance generated some good advertising for Berlin, cementing 
+its reputation ashipster technology activist capital 
+<https://www.theguardian.com/world/2014/nov/09/berlins-digital-exiles-tech-activists-escape-nsa>
+ of the world. The city’s cheap lifestyle and post-second world war aversion to 
+surveillance, as well as sympathetic Germany residency rules, have created a 
+powerful network of support and infrastructure for its dedicated cyberactivism 
+community. We are “poor, but sexy 
+<https://www.theguardian.com/business/2014/jan/03/berlin-poor-sexy-silicon-valley-microsoft-google>
+”, its residents like to say.
+
+Many of Berlin’s technologists work freelance, employed by anti-surveillance 
+projects or secure messaging tools. And some are employed byTor 
+<https://www.theguardian.com/technology/tor>, a long running web anonymity 
+project with something of a cult following.
+
+That community recently met in Seattle 
+<https://trac.torproject.org/projects/tor/wiki/org/meetings/2016SummerMeeting> 
+to tackle a new challenge: a long-running saga of allegations of sexual 
+assault, bullying and harassment that has ripped Tor’s community apart.
+
+•••
+
+Jacob Appelbaum is one of the world’s most prominent advocates of freedom of 
+speech, and an outspoken opponent of government surveillance. He hasspoken to 
+the European parliament 
+<http://www.pcworld.com/article/2048207/eu-parliament-told-to-expect-more-revelations-about-nsa-spying.html>
+ civil liberties committee about government spying, used classified documents 
+leaked by Edward Snowden toreport on Nato’s Taliban “kill lists” 
+<http://www.spiegel.de/politik/ausland/afghanistan-usa-geben-taliban-zum-abschuss-frei-a-1010629.html>
+ andcollaborated 
+<http://www.nytimes.com/2015/06/09/opinion/the-art-of-dissent.html> with the 
+dissident Chinese artist Ai Weiwei.
+
+His ascent to tech stardom was far from smooth. He was born near San 
+Francisco, California, in April 1983 to troubled parents. In aninterview 
+<https://archive.is/RMWx5> in 2005, he described a childhood spent dealing with 
+<https://archive.is/RMWx5> his father’s heroin addiction and suicide attempts, 
+and periods in homeless shelters. He became obsessive compulsive for a time, 
+showering up to eight times a day and unable to eat in his own kitchen. As a 
+teenager he began to find salvation,as he described it 
+<https://web.archive.org/web/*/http://crypto.nsa.org/f-21/blogger-in-the-lions-den.html>
+, in sex, and discovered computers at around the same time. Programming and 
+hacking, he later told Rolling Stone, began to make him feel “like the world 
+was not a lost place 
+<http://www.rollingstone.com/culture/news/meet-the-american-hacker-behind-wikileaks-20101201?page=4>
+”. At Santa Rosa Junior College he gained recognition forpublicly hacking 
+<https://web.archive.org/web/*/http://crypto.nsa.org/f-21/blogger-in-the-lions-den.html>
+ a number of his professors, something he claimed “earned him a few A grades 
+<https://archive.is/RMWx5#selection-283.480-283.621>”.
+
+You would always notice if Jake entered a room because he simply talks and 
+laughs louder than everybody else
+Former friend 
+Appelbaum started to build credibility through his work as a security 
+specialist <https://events.ccc.de/congress/2005/fahrplan/speakers/165.en.html> 
+for non-profit organizations includingGreenpeace 
+<https://web.archive.org/web/20120305044857/http://weblog.greenpeace.org/intheforest/archives/001473.html>
+, theOpen Society Institute <https://www.opensocietyfoundations.org/>, Tactical 
+Tech <https://tacticaltech.org/>, the Ruckus Society <http://ruckus.org/>, 
+Rainforest Action Network <http://www.ran.org/> and Kink.com 
+<http://www.kink.com/>, a San Francisco BDSM porn site. 
+
+Then in 2004 
+<https://motherboard.vice.com/read/appelbaum-leaves-tor-project-amid-sexual-misconduct-allegations,%20http://www.exberliner.com/features/people/jacob-appelbaum-on-the-usa-and-nsa/>
+, he started volunteering as a developer for theTor Project 
+<https://www.torproject.org/>, the prestigious organisation 
+<https://www.theguardian.com/world/2013/oct/04/nsa-gchq-attack-tor-network-encryption>
+ behind the anonymity tool regarded as one of the crown jewels of the 
+information security community. He soon became aprolific public speaker 
+<https://www.google.com/search?q=tor+jacob+appelbaum&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=mjJmV-_qJITb8AfIy4HgCA#q=tor+jacob+appelbaum&tbm=vid>
+, his profile soaring in 2010 when he stood in for Julian Assange 
+<http://gizmodo.com/5589808/wikileaks-keynote-at-hope-2010-no-assange-but-institutional-details-emerge>
+ as  <https://www.youtube.com/watch?v=aRVDIohWPVM>the keynote speaker at the 
+Hackers on Planet Earth (Hope) <https://www.youtube.com/watch?v=aRVDIohWPVM> 
+conference in New York. But the association withWikiLeaks 
+<https://www.theguardian.com/media/wikileaks> – which has released classified 
+documents that triggered several major global news stories – led to him being
+held at US airports 
+<http://abcnews.go.com/Blotter/wikileaks-activist-jacob-appelbaum-detained/story?id=12619456>
+, his apartment being searched and his mother subjected toarbitrary questioning 
+<http://www.exberliner.com/features/people/jacob-appelbaum-on-the-usa-and-nsa/>
+, and in June 2013 he chose toexile himself in Berlin 
+<http://www.exberliner.com/features/people/jacob-appelbaum-on-the-usa-and-nsa/>.
+
+Appelbaum quickly joined the illustrious inner circle of Berlin’s 
+cyberactivist scene. Professionally and socially he was the center of 
+attention. “You would always notice if Jake entered a room, usually followed by 
+a cluster of people, because he simply talks and laughs louder than everybody 
+else,” one former friend said, who – like most of the sources the Guardian 
+spoke to – did not want to be named. Former colleagues say that Appelbaum acted 
+as a gatekeeper forAssange 
+<https://www.theguardian.com/media/2010/dec/17/julian-assange-sweden>, 
+controlling access to him through a live stream or on his phone during parties 
+or dinners. “It was sociology textbook 101 regarding the distribution of 
+informal power and reputation,” says a former friend. “For some in the 
+community Julian is still the superhero. Jake, by publicly associating with 
+him, increases his own importance. By offering access to himself, he 
+distributes the credit points of social value down to others.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fjacob-appelbaum-tor-project-sexual-assault-allegations%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fcc1c5ffbb7f0a6106dea4d598dbb40825f5711f7%2F392_0_2336_2336%2F2336.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Power%2C%20secrecy%20and%20cypherpunks%3A%20how%20Jacob%20Appelbaum%20ripped%20Tor%20apart&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fjacob-appelbaum-tor-project-sexual-assault-allegations%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Power%2C%20secrecy%20and%20cypherpunks%3A%20how%20Jacob%20Appelbaum%20ripped%20Tor%20apart&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fjacob-appelbaum-tor-project-sexual-assault-allegations%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fcc1c5ffbb7f0a6106dea4d598dbb40825f5711f7%2F392_0_2336_2336%2F2336.jpg>
+ Jacob Appelbaum speaking in Berlin. Photograph: Alamy Stock Photo 
+Appelbaum’s friends say he can be kind, generous and supportive, and that he 
+has real power as an evangelist. “He is a great salesman ... as proficient as 
+some hackers are, they cannot necessarily sell their ideas very well.” He truly 
+believes he is a defender of the small and weak, says the source. Another says: 
+“If somebody can be useful to him … then Jake can be very charming.”
+
+Appelbaum has always polarized the community around him. Complaints 
+<https://mailman.stanford.edu/pipermail/liberationtech/2013-August/010696.html> 
+about his abrasive comments and “alpha male behavior” accompanied his rise to 
+fame from the beginning, yet did not seem to harm his reputation within 
+WikiLeaks or Tor. For a long time, nobody in the community dared to speak up. 
+“If you praise him, he can be your best friend,” says a former co-worker at 
+Tor. Another talks of months of distress, afraid to leave the house in case of 
+meeting Appelbaum or his followers. A third says: “Wherever he goes, he leaves 
+a trail of destruction.”
+
+He has been described as “the perfect bully 
+<https://medium.com/@nickf4rr/hi-im-nick-farr-nickf4rr-35c32f13da4d#.6fy39z6cm>
+”, and in 2015 Tor suspended him for 10 days for implying that new volunteers 
+were recruited in a “sexually charged manner”. “Jake has targeted, abused and 
+silenced many close friends of mine,” wrote security specialist Nick Farr. 
+“Somehow we all felt powerless to do anything about it.”
+
+
+Then on 3 June 2016, a website was published at jacobappelbaum.net 
+<http://jacobappelbaum.net/> detailing multiple, anonymized allegations of 
+sexual assault and bullying 
+<https://www.theguardian.com/technology/2016/jun/06/jacob-appelbaum-tor-denies-assault-allegations>
+. It included one allegation of rape. After years of rumours and secretive 
+allegations in the community, the claims were suddenly very public. “We wanted 
+other people to be aware of how Jake behaves,” a statement on the site 
+explained. “Open secrets do not protect people ... We have heard lots of 
+complaints about his behaviour over the years and have experienced it first 
+hand. We want it to stop.”
+
+No one in the community wanted to report the allegations to the authorities, 
+blaming a lack of confidence in the police and persistent claims ofsurveillance 
+<https://www.theguardian.com/commentisfree/cifamerica/2011/nov/11/us-justice-department-legally-hacked-twitter>
+ andharassment by law enforcement agencies 
+<http://www.ibtimes.co.uk/tor-developer-isis-agora-lovecruft-publicly-accuses-fbi-harassment-1558607>
+.
+
+Statements of other reputed victims followed, some outing themselves publicly. 
+Leigh Honeywell <https://hypatia.ca/about/>, a security engineer from Toronto, 
+became the first to publish an account of the alleged sexual assault by 
+Appelbaum using her name, claiming he had publicly exposed details of their 
+sexual relationship, ignored safewords and turned violent. American journalist
+Violet Blue 
+<https://medium.com/@violetblue/but-he-does-good-work-6710df9d9029#.vj7d5p2zt> 
+and Icelandic politician Ásta Helgadóttir 
+<https://twitter.com/asta_fish/status/743165546238189568> both detailed 
+accusations against Appelbaum for inappropriate sexual behaviour and public 
+shaming.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fjacob-appelbaum-tor-project-sexual-assault-allegations%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2c0e9267ab73def640c6dfecc0dbc7d8451d88b0%2F3_0_4997_3000%2F4997.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Power%2C%20secrecy%20and%20cypherpunks%3A%20how%20Jacob%20Appelbaum%20ripped%20Tor%20apart&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fjacob-appelbaum-tor-project-sexual-assault-allegations%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Power%2C%20secrecy%20and%20cypherpunks%3A%20how%20Jacob%20Appelbaum%20ripped%20Tor%20apart&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fjacob-appelbaum-tor-project-sexual-assault-allegations%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F2c0e9267ab73def640c6dfecc0dbc7d8451d88b0%2F3_0_4997_3000%2F4997.jpg>
+ Violet Blue (left) and Ásta Helgadóttir (right) both accused Jacob Appelbaum 
+of inappropriate sexual behaviour. Photograph: Courtesy of Pirate Party & 
+Violet Blue 
+Fellow Tor developer Isis Agora Lovecruft is a former friend of Appelbaum who 
+started working with him in 2011. She claims that Appelbaum touched her without 
+her consent when she stayed at his apartment in 2014. She spent two years, she
+says <https://blog.patternsinthevoid.net/>, alternating between trying to 
+inhibit her rage and trying to convince herself that she hadn’t been hurt. But 
+in 2016, she began to seek out other victims, and when Appelbaum found out he 
+confronted her in an online chat. Lovecruft says she felt he was trying to ruin 
+her life for standing up to him: “Attempting to blackmail me into silence 
+whilst I was defending others is really not a good look for an ‘anarchist’ 
+‘free-speech advocate’.”
+
+Alison Macrina, another Tor volunteer and founder of the anti-surveillance 
+Library Freedom Project <https://libraryfreedomproject.org/>, tried to confront 
+Appelbaum about her own experience. At his apartment in January 2016, she says 
+that he repeatedly pressured her to take a bath with him and eventually pulled 
+her into the tub in a kind of “nonconsensual washing”. More than a month passed 
+until Macrina was able to talk to a friend about what had happened. When she 
+met Appelbaum again in Berlin he insisted that he was the real victim because 
+other people were making “false claims” about him. “He put on such a show on 
+this little bench we were sitting on. It wasn’t that cold but he ostensibly 
+shivered, asking repeatedly why I didn’t want to come over for tea.” Hoping for 
+an apology was futile, she realised. “It was all about him trying to get me 
+into his thrall with stylizing himself as the victim,” she says.
+
+Tor has changed from being run by cypherpunks to American professional 
+activists who care more about securing funding
+Tor volunteer 
+Yet some female friends 
+<https://medium.com/@dhammicmarxist/on-my-experiences-with-jacob-appelbaum-361a11b847f5#.7hr3c3l8l>
+, former partners and colleagues, including WikiLeaks editor and journalist 
+Sarah Harrison and human rights lawyer Renata Avila, stood up for Appelbaum, 
+publishing asite in support of him <https://ourresponse.org/> and claiming he 
+had been the subject of “egregious character assassination”. One woman claimed 
+that an inaccurate version of her story had been included on the site of 
+anonymous allegations without her knowledge. German newspaperDie Zeit claimed 
+<http://www.zeit.de/kultur/2016-08/jacob-appelbaum-rape-sexual-abuse-allegations>
+ to have discovered inconsistencies in the most serious allegations made 
+against Appelbaum, and the Guardian also found some conflicting accounts in at 
+least three of the allegations of sexual assault.
+
+Appelbaum himself denies all the accusations 
+<http://www.twitlonger.com/show/n_1soorlp> of sexual misconduct, saying the 
+claims are “entirely false” and part of a “calculated and targeted attack”. He 
+has not said publicly why he might be targeted, or why he is the subject of 
+what what his German lawyer describes as “a hate campaign”. “Typically, people 
+who come forward with these kinds of allegations are said to be doing it for 
+money or fame,” says Anne Roth, psychologist at Berlin’s Lara Rape Crisis and 
+Counselling Center. “In fact they gain nothing but negative attention.”
+
+Roth says Berlin’s close-knit cyberactivist community is likely to be no 
+different to any other dysfunctional organisation or business that fails to 
+properly address allegations of sexual assault and harassment. Sexual violence, 
+she explains, is about the exertion of power, whether the power is defined by 
+official rank or by social status, and in both cases it isdifficult for the 
+victims to speak up <https://www.rainn.org/statistics/criminal-justice-system>. 
+“That relies on the goodwill of the aggressor, so without a formal allegation, 
+victims often prefer to remain silent.”
+
+•••
+
+The Tor Project <https://www.torproject.org/> began in the mid-1990s at the US 
+navy research lab 
+<http://www.nrl.navy.mil/itd/chacs/dingledine-tor-second-generation-onion-router>
+, which was exploring ways to protect military communications online. Short for 
+“The Onion Router”, which describes the layers of anonymity it is able to pile 
+on top of a user’s online activity, Tor was spun out into a non-profit company 
+in 2006 led by Roger Dingledine <http://www.freehaven.net/~arma/cv.html>, Nick 
+Mathewson <http://www.wangafu.net/~nickm/> and six others 
+<http://corp.sec.state.ma.us/CorpWeb/CorpSearch/CorpSearchViewPDF.aspx> from 
+its base in Massachusetts. By 2014 it hadannual revenue of $2.5m 
+<https://www.torproject.org/about/findoc/2014-TorProject-combined-Form990_PC_Audit_Results.pdf>
+. Appelbaum began as a volunteer and joined the staff in 2008.
+
+Dingledine and Appelbaum began to work closely together, with Appelbaum 
+encouraged to speak as Tor’s public evangelist – marking the beginning of 
+Appelbaum’s ascendency into an influential figure in the tech community. He was 
+one of only a handful of activists with the confidence and technical knowledge 
+to publicly challenge the US government’s pervasive surveillance regime. In 
+August 2013, he evenaccepted a Whistleblower Award 
+<https://www.youtube.com/watch?v=cW8lRCqYI6U> on behalf of Edward Snowden. “He 
+asked me to speak about individuals and about the hope for change,” Appelbaum, 
+according toDeutsche Welle 
+<http://www.dw.com/en/snowden-did-it-for-all-of-us/a-17057251>. “He said 
+everyone had the strength to stand up against corruption, war crimes and lies – 
+every day and at any time.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fjacob-appelbaum-tor-project-sexual-assault-allegations%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F116e4127aaa512a71563000e5c162554cc520ed1%2F0_245_3875_2325%2F3875.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Power%2C%20secrecy%20and%20cypherpunks%3A%20how%20Jacob%20Appelbaum%20ripped%20Tor%20apart&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fjacob-appelbaum-tor-project-sexual-assault-allegations%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Power%2C%20secrecy%20and%20cypherpunks%3A%20how%20Jacob%20Appelbaum%20ripped%20Tor%20apart&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fjacob-appelbaum-tor-project-sexual-assault-allegations%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F116e4127aaa512a71563000e5c162554cc520ed1%2F0_245_3875_2325%2F3875.jpg>
+ Jacob Appelbaum at the Chaos Computer Club, a European hacker gathering, 
+during a video conference with Julian Assange. Photograph: Angelika Warmuth/AFP 
+Allegations against Appelbaum were first brought before the Tor board in March 
+2015, when a female employeeapproached her bosses 
+<https://www.buzzfeed.com/josephbernstein/sources-tor-project-board-knew-about-allegations-against-jac?utm_term=.pcByo997r#.wq1DAoo0L>
+ with concerns about sexual misconduct and bullying. Tor suspended her and 
+Appelbaum for 10 days but, sources say, the employee was unable to present any 
+evidence to support the claim. The employee then left the company.
+
+When Shari Steele 
+<https://www.eff.org/deeplinks/2015/04/shari-steele-legacy-digital-rights> came 
+on board as Tor’s executive director 
+<https://www.theguardian.com/technology/2016/jan/11/shari-steele-tor-encryption-online-anonymity-censorship>
+ inDecember 2015 
+<https://blog.torproject.org/blog/announcing-shari-steele-our-new-executive-director>
+, one of her priorities was to deal with the allegations, Dingledine wrote in an
+ internal email <https://cryptome.org/2016/06/dingledine-appelbaum-16-0602.pdf>
+. Steele, a trained lawyer, had worked at the Electronic Frontier Foundation 
+(EFF) since 1992 and has a reputation for being fair and effective – if a 
+little prone to impatience and threats when under pressure, according to former 
+colleagues. “Shari’s original plan was to develop a process that we could use 
+for these situations: we’d put the new process in place, ask everyone to start 
+fresh, and then follow the process moving forward. In the meantime, we have 
+been sending concerned people to her, so she can keep track of the big 
+picture,” Dingledine told Tor’s inner circle just after the allegations were 
+published on jacobappelbaum.net. “Unfortunately, events have overtaken us.”
+
+In February 2016, Lovecruft sent an encrypted email to Tor executives 
+detailing more allegations of sexual abuse and harassment she had gathered from 
+multiple victims. Tor is said to have consequently banned Appelbaum from its 
+developer meeting at the Internet Freedom Festival in Valencia. Appelbaum 
+claims that Steele asked him to resign on 25May 
+<https://blog.torproject.org/blogs/ssteele>, and later sent him “separation 
+agreement <https://cryptome.org/2016/06/tor-appelbaum-separation.pdf>” which 
+would remove any liability from Tor. Appelbaum didn’t sign. He says that he had 
+also agreed to undertake anti-harassment training, but left Tor before that 
+could happen.
+
+Tor announced 
+<https://blog.torproject.org/blog/jacob-appelbaum-leaves-tor-project> his 
+departure on 2 June and began an internal investigation. When it concluded on 
+27 July,Steele <https://blog.torproject.org/blog/statement-0> thanked those who 
+had come forward to report Appelbaum’s behaviour. “Many people inside and 
+outside the Tor Project have reported incidents of being humiliated, 
+intimidated, bullied and frightened by Jacob, and several experienced unwanted 
+sexually aggressive behavior from him … I am grateful you spoke up, and I 
+acknowledge and appreciate your courage.”
+
+The claims against Appelbaum, as well as Tor’s treatment both of him and of 
+the alleged victims, have thrown Tor and its network of staff and dedicated 
+volunteers into chaos. Tor has been accused of mishandling the investigation 
+and of failing to give information about their process, and of failing to 
+protect and support victims as well as some who say they have been unfairly 
+implicated as accomplices of Appelbaum. Tor, a small organisation with a laser 
+focus on internet anonymity and privacy, seems overwhelmed by the intensity of 
+the infighting and lacking the skills to handle the severity of the accusations 
+among its staff and volunteers.
+
+Appelbaum told the Guardian that Tor did not speak to him to ask his version 
+of events during its internal investigation, while Tor claims he declined to be 
+interviewed over the encrypted channels its investigator proposed. Another 
+witness to the rape allegation alsoclaims 
+<https://yawnbox.com/static/The-Tor-Project-has-lied-to-its-community.html> not 
+to have been interviewed by Tor. Some of Appelbaum’ssupporters 
+<https://shiromarieke.github.io/tor> feel he was not treated fairly by the 
+organisation, and havecalled for a boycott <https://www.oneeyedman.net/?p=2589> 
+orstopped <https://trac.torproject.org/projects/tor/ticket/19690> working with 
+the organisation. “Tor has changed from being an organization run by 
+cypherpunks to being run by American professional activists, who care more 
+about securing funding and their job security than the cause,” says one 
+longstanding community member. “People are afraid to speak up in case they are 
+ousted like the people interviewed in the investigation,” says another insider. 
+“We have very little information from Tor’s leadership about the investigation 
+and the nature of the allegations. Rather ironic for an organization promoting 
+free speech.”
+
+Long-term community member John Gilmore 
+<https://www.theguardian.com/technology/2010/aug/01/wikileaks-john-gilmore-guardian-internet>
+, who also co-founded EFF, claimed on an internal mailing list that Appelbaum 
+had been put through “trial-by-rumour”. “The numerous victims that this process 
+creates are not helped at all; the innocent along with the allegedly guilty are 
+savaged and rejected without ever getting a chance to defend themselves.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fjacob-appelbaum-tor-project-sexual-assault-allegations%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fdb23da7f09a7d3e63b8cd8cb8841eb1e948c7b46%2F0_133_3712_2227%2F3712.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Power%2C%20secrecy%20and%20cypherpunks%3A%20how%20Jacob%20Appelbaum%20ripped%20Tor%20apart&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fjacob-appelbaum-tor-project-sexual-assault-allegations%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Power%2C%20secrecy%20and%20cypherpunks%3A%20how%20Jacob%20Appelbaum%20ripped%20Tor%20apart&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fjacob-appelbaum-tor-project-sexual-assault-allegations%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2Fdb23da7f09a7d3e63b8cd8cb8841eb1e948c7b46%2F0_133_3712_2227%2F3712.jpg>
+ Jacob Appelbaum at a Berlin demonstration in support of press freedom in 2015. 
+Photograph: Britta Pedersen/AFP/Getty Images 
+In July 2016, shortly before the internal investigation concluded, Dingledine 
+and the six other members of Tor’s board of directorsall stepped down 
+<https://blog.torproject.org/blog/tor-project-elects-new-board%C2%A0-directors>
+. They did not acknowledge the Appelbaum controversy, saying only that Tor 
+deserved “the best possible leadership”. “It is time that we pass the baton of 
+board oversight as the Tor Project moves into its second decade of operations,” 
+Tor wrote on its blog.
+
+In a statement released to the Guardian, Tor said that the investigation had 
+been handled “thoroughly and professionally”. “The board’s resignation was part 
+of a larger effort on their part to bring more professional leadership to the 
+organization. This included hiring Shari Steele to the executive director role 
+and bringing on a board with more nonprofit oversight experience.”
+
+When the employee came forward with concerns in March 2015, Tor conducted an 
+internal investigation and took action, it says, yet there were no formal 
+procedures in place to deal with allegations of sexual harassment among staff 
+or volunteers. Tor has since introduced an anti-harassment policy, a conflicts 
+of interest policy, procedures for submitting complaints and an internal 
+complaint review process.
+
+Many saw the way he treated me and did nothing about it ... so it took me 
+years before I realized how abusive he was
+Leigh Honeywell 
+Tor defended its handling of the second investigation in 2016. “Tor handled 
+the investigation carefully and ethically. We posted information about what we 
+were doing on our blog, and we have supported and protected victims throughout 
+this process.”
+
+Many in the tech community have distanced themselves from Appelbaum. Even the 
+San Francisco hackers’ workspace he co-founded hasblocked him online and from 
+its building 
+<http://blog.noisebridge.net/post/145728465358/noisebridge-statement-on-jacob-appelbaum>
+ after implementing a new harassment policy. “Everybody knew that Jake used 
+sexually charged language to upset people in work meetings,” says one former 
+co-worker. “There were many rumors, but Jake was allowed to win every argument 
+and Tor was letting him get away with every little whim.”
+
+Appelbaum says that he has stopped drinking and begun therapy. “I have 
+obviously seriously hurt people’s feelings unintentionally and I deeply regret 
+this,” he said. He hopes to focus on his doctoral work on cryptography in the 
+Netherlands, claiming he can’t return to America because he could be 
+investigated overhis work with WikiLeaks 
+<https://theintercept.com/2015/06/20/wikileaks-jacob-appelbaum-google-investigation/>
+ and Der Spiegel aboutclassified US surveillance 
+<http://www.cicero.de/berliner-republik/jacob-appelbaum-der-hacker-der-merkels-handy-ueberwachung-aufdeckte/57465>
+.
+
+“I’ve dedicated my life as a journalist, activist, and longtime member of the 
+Tor Project to advocating for the transparency of public processes and to 
+speaking out about the necessity of privacy, security, and anonymity. These are 
+ideals that I will continue to uphold, despite the vicious campaign that is 
+currently being waged against me,” Appelbaumsaid 
+<http://www.twitlonger.com/show/n_1soorlp>. He told the Guardian that he 
+acknowledged the importance of addressing rape culture and violence against 
+women. “I have always felt these topics needed to be discussed and that hasn’t 
+changed. It is more urgent than ever.”
+
+Jacob’s charisma and authority, wrote 
+<https://hypatia.ca/2016/06/07/he-said-they-said/> Leigh Honeywell, make him 
+hard to challenge. “Many of our friends and colleagues saw the way he treated 
+me and did nothing about it, so it took me years before I realized how abusive 
+he was to me.”
+
+Violet Blue claims 
+<https://medium.com/@violetblue/but-he-does-good-work-6710df9d9029#.ubmm3amfp> 
+that it was Assange and Snowden who helped to elevate Appelbaum to a position 
+of power, whether or not they knew about his behaviour. “We need look no 
+further for proof that hero worship and the cult of belief is pure poison,” she 
+writes. “This didn’t happen because we’re broken as a hacker culture, or 
+because we’re hackers and thus too undeveloped to comprehend empathy.”
+
+But others do feel the episode presents a challenge to the tech community. “We 
+need to ask ourselves which values we stand for,” says a former friend of 
+Appelbaum. “InGermany <https://www.theguardian.com/world/germany> we used to be 
+connected by mutual trust and support, so taking advantage of someone’s 
+vulnerabilities damaged this safe space.
+
+“Our priority should be to rebuild it, and concentrate on friendship and doing 
+good work rather than hero worshipping.”
+
+ * If you have been affected by sexual assault, you can find support and 
+advice atRainn <https://www.rainn.org/> in the US, Rape Crisis 
+<http://rapecrisis.org.uk/> in the UK and Lara <http://www.lara-berlin.de/> in 
+Berlin  

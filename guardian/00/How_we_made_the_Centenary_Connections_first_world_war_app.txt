@@ -1,0 +1,114 @@
+
+In this year of the first world war commemoration, galleries and museums up 
+and down the country are stagingspecial exhibitions and projects 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/jul/17/first-world-war-imperial-war-museum>
+, telling the stories of people who lived through war. Greater Manchester 
+wanted this, but more. It wanted to offer up its archives of stories and 
+artefacts to a new generation using digital technology, available regardless of 
+whether they live in Rusholme or Ruislip.
+
+Led by Imperial War Museum North <http://www.iwm.org.uk/visits/iwm-north>, the 
+Greater Manchester Centenary Partnership brings together 26 galleries, 
+libraries, archives and museums across the city, includingManchester Art Gallery
+ <http://www.manchestergalleries.org/>, Whitworth Art Gallery 
+<http://www.whitworth.manchester.ac.uk/>, the National Football Museum 
+<http://www.nationalfootballmuseum.com/>, the Salford Museum and Art Gallery 
+<http://www.salfordcommunityleisure.co.uk/culture/salford-museum-and-art-gallery>
+,Greater Manchester Archives 
+<http://www.manchester.gov.uk/info/448/archives_and_local_history> and The Lowry
+ <http://www.thelowry.com/>.
+
+Our company, Nymbol <http://hello.nymbol.co.uk/>, was granted the remarkable 
+opportunity of turning this dream into a reality. Working together we 
+established what we think is the biggest project of its kind in the UK: a 
+single app, telling Greater Manchester's story of the first world war, using 
+material from organisations across the region.
+
+I remember the first time our teams met and we told ourselves the plan was 
+"brave but achievable" – but how do you gather content from so many archives 
+and turn it into a single digital platform? Suddenly it felt like a massive 
+mountain to climb.
+
+The result is Centenary Connections <http://centenaryconnections.org/>, a 
+website and app that enables users to journey (digitally) across Greater 
+Manchester, using objects and landmarks connected to the events of 100 years 
+ago to tell the region's war story.
+
+The app "curates" its content into themed sections. So if you're interested 
+in, say, feeding the frontline, you can find several objects from different 
+collections related to that theme. Working in this way has allowed new 
+connections to be made. For example, both the Local Studies and Archivesin 
+Oldham <http://www.oldham.gov.uk/info/200276/local_studies_and_archives> and 
+Greater Manchester County Record Office had great pictures of the"tank bank" 
+<http://centenaryconnections.org/objects/5942/> – quite literally, a bank held 
+within a tank to persuade people to help the war effort financially. These 
+images can now be seen together online for the first time.
+
+We were also able to work with some incredible first-hand accounts, such as 
+Annie Droege's diary <http://centenaryconnections.org/objects/5803/>, which 
+records the day-to-day goings on of a small garrison town in Germany. 
+Originally from Stockport, Annie moved to Germany in 1910 with her husband, 
+Arthur, and offered a unique insight into a country at war.
+
+The app provides a point of exploration for people with many different levels 
+of interest. The casually interested can simply browse through different 
+"journeys" but there's also the ability to share with friends via social media 
+or take a real life tour throughManchester 
+<https://www.theguardian.com/uk/manchester> with the app as a guide. So at the 
+same time as offering new insights into history we're moulding new methods of 
+engagement and learning.
+
+We were conscious of the need to have great zoomable images of all the archive 
+content for it to be viewed in detail. So as well as offering low-resolution 
+thumbnails for ease of search, there's an enhanced viewing facility that is 
+essential for old photos and intricately detailed documents and objects.
+
+There are challenges to this kind of project. Each organisation involved needs 
+to be an administrator of the app, with the ability to update and upload new 
+content as it emerges. We built the content management system (CMS) so that 
+it's intuitive, straightforward and, hopefully, unbreakable but with so many 
+users issues inevitably arise.
+
+A major one has been tone of voice. Some organisations are formal, some 
+informal, some writing in first person and others in third. So halfway through 
+the development we created a style guide to ensure there is consistency in 
+writing and presentation styles.
+
+Of course, there are always challenges with technology. We wanted a map view 
+of the city, with location points for venues, archival objects and landmarks 
+relating to the archives, but it proved particularly difficult to get right. It 
+took many discarded versions until we found a solution that worked well for the 
+user.
+
+Centenary Connections launched in July 2014 so it's still early days to gauge 
+its impact. We're watching keenly to see how people engage and use the app but 
+the organisations have definitely taken it to heart; Imperial War Museum North 
+has already added new content for release.
+
+App facts
+
+Length of the project: six months, with two months' design, three months' 
+development and one month of testing
+Companies involved: one development company, Nymbol, with 26 partners led by 
+Imperial War Museum North
+Size of the team: one full-time iOS engineer, two part-time designers and one 
+content developer/project manager
+
+More App stories
+
+• How we made the Live/Revive/Lament opera performance app 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/jul/25/live-revive-lament-opera-performance-app>
+• How we made the Curiator iPhone app 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/may/30/how-we-made-curiator-iphone-app>
+• How we made the London: A City Through Time app 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2013/dec/13/london-city-through-time-app>
+• How we made the Beethoven's 9th Symphony app 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2013/sep/06/how-we-made-beethoven-ninth-app>
+
+Rebecca Bartlett is digital content specialist at Nymbol 
+<http://hello.nymbol.co.uk/>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+ 

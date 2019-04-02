@@ -1,0 +1,107 @@
+
+Twitter <https://www.theguardian.com/technology/twitter> has blocked federally 
+funded “domestic spy centers” from using a powerful social media monitoring 
+tool after public records revealed that the government had special access to 
+users’ information for controversial surveillance efforts.
+
+The American Civil Liberties Union of California discovered 
+<http://www.aclunc.org/docs/20160315_dataminr_email_to_jric.pdf> that so-called 
+fusion centers, which collect intelligence, had access to monitoring technology 
+from Dataminr, ananalytics company 
+<https://www.theguardian.com/technology/2016/may/09/twitter-surveillance-fbi-cia-privacy-dataminr>
+ partially owned by Twitter. The ACLU’s records prompted the companies to
+announce <http://www.aclunc.org/docs/20161212_twitter_letter_to_aclu.pdf> that 
+Dataminr had terminated access for all fusion centers and would no longer 
+provide social media surveillance tools to any local, state or federal 
+government entities.
+
+ACLU finds social media sites gave data to company tracking black protesters
+ Read more  
+<https://www.theguardian.com/technology/2016/oct/11/aclu-geofeedia-facebook-twitter-instagram-black-lives-matter>
+The government centers 
+<https://www.theguardian.com/commentisfree/2012/dec/29/fbi-coordinated-crackdown-occupy>
+ are partnerships between agencies that work to collect vast amounts of 
+information purportedly to analyze “threats”. The spy centers, according to the 
+ACLU, target protesters, journalists and others protected by free speech rights 
+while alsoracially profiling 
+<https://www.aclunc.org/our-work/legal-docket/gill-v-doj-challenge-federal-suspicious-activity-reporting>
+ people deemed “suspicious” by law enforcement.
+
+“These are massive hubs for information collection and monitoring and 
+surveillance of individuals,” said Nicole Ozer, technology and civil liberties 
+policy director at the ACLU ofCalifornia 
+<https://www.theguardian.com/us-news/california>. “The information they collect 
+is often about innocent people.”
+
+The revelations about the potential collaboration between the government 
+centers and private technology companies are particularly alarming given 
+heightened concerns aboutmass surveillance under President-elect Donald Trump 
+<https://www.theguardian.com/us-news/2016/nov/17/muslim-americans-donald-trump-hate-crimes-surveillance>
+.
+
+Records <http://www.aclunc.org/docs/20160315_dataminr_email_to_jric.pdf> that 
+the ACLU obtained uncovered that afusion center 
+<https://www.jric.org/?AspxAutoDetectCookieSupport=1> in southern California 
+had access to Dataminr’s “geospatial analysis application”, which allowed the 
+government to do location-based tracking as well as searches tied to keywords. 
+That means the center could use Dataminr to search billions of tweets and 
+monitor specific demographics or organizations.
+
+In one email, Dataminr told Los Angeles police that its product could be 
+customized to track protests, adding: “Twitter owns part of Dataminr (5%) so 
+our access to their data is unmatched – no other company ingests the full 
+firehouse of 500 million tweets in real-time … Twitter has been very clear with 
+my CEO: ‘Dataminr is the only company with full, unrestricted access.’”
+
+These are massive hubs for information collection … The information they 
+collect is often about innocent people
+Nicole Ozer, ACLU of California 
+A Dataminr brochure 
+<http://www.aclunc.org/docs/20161215_dataminr_geospatial_analysis_app_brochure.pdf>
+ touted the use of the company’s geospatial analysis application to monitor a 
+student demonstration in South Africa by tracking hashtags and keywords.
+
+Although Twitter has since cut off the spy centers’ access, some have argued 
+that social media companies should have had stronger protections in place so 
+that this kind of partnership and data sharing doesn’t happen in the first 
+place.
+
+By giving government agencies access to these tools, Dataminr was also clearly 
+violatingTwitter’s policy 
+<https://blog.twitter.com/2016/developer-policies-to-protect-people-s-voices-on-twitter>
+ prohibiting the use of its data for surveillance, according to the ACLU.
+
+“It’s really even more important now than ever that the companies have strong 
+policies in place and that they have the right auditing and enforcement to make 
+sure those rules are followed,” Ozer said.
+
+In October, the ACLU obtained government records 
+<https://www.theguardian.com/technology/2016/oct/11/aclu-geofeedia-facebook-twitter-instagram-black-lives-matter>
+ revealing that Twitter, Facebook and Instagram had provided users’ data to 
+Geofeedia, a software company that aids police surveillance programs and has 
+targeted protesters of color. The revelations prompted all three companies to 
+remove access to certain data streams.
+
+In the spring, Twitter also blocked US national security agencies 
+<https://www.theguardian.com/technology/2016/may/09/twitter-surveillance-fbi-cia-privacy-dataminr>
+, including the FBI and CIA, from buying bulk data on its users from Dataminr.
+
+The announcement on Thursday applies to all 77 fusion centers 
+<https://www.dhs.gov/fusion-center-locations-and-contact-information> in the 
+US. Ozer said she hoped other companies would follow suit, noting that 
+Dataminr’s technology “is probably not the only type of tool that fusion 
+centers may have access to. It’s really important for other companies to be 
+taking action to protect their users.”
+
+Spokespeople for Twitter and Dataminr pointed to their letter to the ACLU 
+<http://www.aclunc.org/docs/20161212_twitter_letter_to_aclu.pdf> this week, 
+which noted that Dataminr only received public Twitter data. The letter also 
+said Dataminr had “refined” its product for public sectors, focusing on a 
+“breaking news alert” that helps first responders learn about events as quickly 
+as possible.
+
+“Dataminr is committed to privacy and civil liberties protections,” the 
+company said in a statement. “We have worked closely with Twitter to modify our 
+product and incorporate feedback that ensures the strongest safeguards are in 
+place for people who use Twitter.”
+ 

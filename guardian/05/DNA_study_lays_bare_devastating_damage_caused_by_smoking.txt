@@ -1,0 +1,96 @@
+
+The devastating impact of cigarette smoke on the body’s DNA has been laid bare 
+by the first comprehensive study into the damage tobacco inflicts on human 
+cells.
+
+People who smoke a pack of cigarettes each day for a year develop on average 
+150 extra mutations in every lung cell, and nearly 100 more mutations than 
+usual in each cell of the voice box, researchers found. More still build up in 
+the mouth, bladder, liver and other organs.
+
+What is a mutation? 
+<https://interactive.guim.co.uk/2016/08/explainer-interactive/embed/embed.html?id=c8b78875-5e71-4146-a2da-8081cf14d976>
+While chemicals in tobacco smoke have long been known to raise the risk of at 
+least 17 forms of cancer, the precise molecular mechanisms through which they 
+mutate DNA and give rise to tumours in different tissues have never been clear.
+
+
+“This is about running down the root cause of cancers,” said David Phillips, a 
+professor of environmental carcinogenesis at King’s College London and a 
+co-author on the study. “By identifying the root causes, we gain the sort of 
+knowledge we need to think more seriously about cancer prevention.”
+
+More than 70 of the 7,000 chemicals found in tobacco smoke are known to cause 
+cancer. Some damage DNA directly, but others ramp up mutations in more subtle 
+ways, often by disrupting the way cells function. The more mutations a cell 
+acquires, the more likely it is to turn cancerous.
+
+
+The reason why some people can smoke for years without getting cancer, while 
+others develop the disease, is down to the way mutations arise. When a person 
+smokes, the chemicals they inhale create mutations at random points in the 
+genome. Many of these changes will be harmless, but others not so benign. The 
+more smoke a person is exposed to, the greater the chance that the accumulating 
+mutations will hit specific spots in the DNA that turn cells cancerous.
+
+
+Do lung cancer scans deter smokers from giving up?
+ Read more  
+<https://www.theguardian.com/society/shortcuts/2015/sep/08/smoking-lung-cancer-scans-screening>
+“You can really think of it as playing Russian roulette,” said Ludmil 
+Alexandrov, a theoretical biologist at Los Alamos National Lab in New Mexico 
+and the first author of the study. “You can miss the right genes. But if you 
+smoke you still play the game. It’s a very strong message for people not to 
+start smoking. If you smoke even a little bit you’ll erode the genetic material 
+of most of the cells in your body.”Smoking 
+<https://www.theguardian.com/society/smoking> is the most preventable cause of 
+cancer in the world and accounts for more than 1 in 4 UK cancer deaths.
+
+
+With researchers at the Wellcome Trust’s Sanger Institute near Cambridge and 
+others, Alexandrov analysed the DNA of more than 5,000 cancers. The team then 
+turned to pattern recognition software to tease apart the various mutational 
+signatures found in tumours from smokers versus non-smokers. To find the 
+signatures - the patterns of mutations present in cancer cells - researchers 
+performed the genetic equivalent of recording the chatter at a party and then 
+extracting individual conversations from the hubbub.
+
+
+The scientists spotted more than 20 mutational signatures in 13 types of 
+cancer linked to tobacco smoking. But only five of these were more common in 
+smokers’ tumours. One pattern of mutations, dubbed signature four, was found to 
+be a major driver for lung cancer. It is thought to be caused by benzopyrene, a 
+chemical found in tobacco smoke.
+
+
+More intriguing was how tobacco caused mutations in tissues that are not 
+directly exposed to smoke, such as the bladder, kidneys and pancreas. The study 
+found that chemicals from tobacco smoke found their way to different organs and 
+tissues and then sped up the molecular clocks in the cells. This ramped up the 
+natural rate at which mutations built up in the tissues.
+
+
+“We knew there was direct damage from smoking in the lungs. What we didn’t 
+expect was to see smoking speed up the molecular clocks inside cells,” said 
+Alexandrov, whose study appears in the journalScience 
+<http://science.sciencemag.org/cgi/doi/10.1126/science.aag0299>. “In bladder 
+cancer, the only thing that causes the extra mutations in smokers is the 
+speeding up of the clock, and that will be very dependent on the intensity of 
+smoking. For every pack of cigarettes you smoke per year, you accumulate 18 
+mutations in all of your bladder cells,” he added.
+
+Scientists hope that by understanding how the individual ingredients of 
+tobacco smoke raise the risk of various cancers, they can develop new ways to 
+prevent the disease. The same techniques used in the latest study will now be 
+used to tease apart how alcohol, obesity and other factors also increase a 
+person’s cancer risk.
+
+“There is a message here for people who are occasional or social smokers who 
+think it doesn’t do anything,” said Alexandrov. “If you smoke four to five 
+packs of cigarettes in your lifetime it doesn’t sound that much, but you still 
+get several mutations in every cell in your lungs and these are permanent, they 
+do not go away. There are a lot of things that do revert back when you stop 
+smoking, and this shouldn’t discourage people from giving up, but the specific 
+mutations in the lung cells are like scars. If you stop smoking, they’ll still 
+be there.”
+ 

@@ -1,0 +1,156 @@
+
+Some solves work best as unarmed combat. No trips to the bookshelf, no 
+phone-a-digital-friend: just a pencil and a sore head.
+
+Other times, though, there is little glory in leaving cells white in the grid 
+– when the greyer cells of the brain are not up to the last couple of clues, 
+when the puzzle is one of those barred weekend jobbies, perhaps, and especially 
+when you're a beginner.
+
+There are, of course, apps for that. This seems only fair: since the 
+smartphone is probably the greatest rival to the puzzle for a solver's 
+attention when travelling or lunching, it's only proper that the smartphone 
+should do its bit to make sure the crossword lives on for another century.
+
+I met the creator of one such app last year, in the course of writing Two 
+Girls, One on Each Knee 
+<http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9781846148415>
+. I was keen that the index be as playful and ludic as the rest of the book and 
+was thrilled to realise that there existed, in Denise Sutherland, a 
+professional indexer who has also writtenSolving Cryptic Crosswords for Dummies 
+<http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9781118305256>
+, who was New South Wales's "captive cruciverbalist" onthe ABC radio show 
+Statewide Afternoon 
+<http://www.abc.net.au/riverina/programs/south_east_nsw_afternoons/> and who 
+writes the Nixie cryptics forthe Clue Detective Puzzle Agency 
+<http://cluedetective.com/> and the Puzzle Wizard 
+<http://www.puzzlewizard.com.au>.
+
+Denise and her husband, Dr Ralph Sutherland, created CrypticGuide 
+<http://sutherland-studios.com.au/apps/crypticguide/> for Apple devices (not 
+Android, for those who enjoy becoming animated about such things). I've long 
+wondered how solving tools come together, so asked Denise if she would share 
+some thoughts.
+
+I have been known to pack large reference works into small bags for the 
+purpose of solving on the move; Denise's aim was to create a portable version 
+of those tomes, including cryptic definitions, abbreviations, indicators and 
+homophones and the meat-and-potatoes of anagram creation and wildcard search. 
+But where do the words come from?
+
+Your anagram solver must, I suppose, have a bank of words to check against. 
+When you were deciding what to use as the app's lexicon, were you faced with 
+big fees for useful lists from the rights-holders for dictionaries? And are 
+there decent open-source word lists out there?
+
+Yes, there are some open-source word lists. Generally, simple raw word lists, 
+such as those used for Scrabble, are freely available. The cost issue arises 
+once you get into the world of dictionaries and definitions. Some are marketed 
+at up to 50 cents per definition, so a full dictionary would have been 
+astronomically expensive for a small operation like ours.
+
+But I've been curating word lists for my own use as a puzzle writer over 
+decades, from a 1970sUnix <http://en.wikipedia.org/wiki/Unix> spelling 
+checklist through many electronic lists that people and organisations have 
+freely shared online. And my husband has written programs to sort and 
+"uniquify" (his word!) texts such as Shakespeare's works.
+
+However, collecting long lists of raw words is not enough – they must be 
+checked closely. A lot of word lists contain errors and computer-generated 
+nonsense. So there's no option but to merge and edit the lists by hand.
+
+The cryptic word database used in CrypticGuide includes associated meanings 
+with the words and word fragments – cryptic indicators, abbreviations and so 
+on. I could only bring these together using traditional lexicography. I slowly 
+read a wide range of printed and electronic sources, then typed in and 
+collected my own cryptic dictionary. It currently has nearly 7,000 headword 
+entries. So any errors are all mine, I'm afraid!
+
+This is, of course, a never-ending task, and I am always grateful to receive 
+suggestions for additions to the cryptic database: abbreviations, indicators 
+and so on. (Incidentally, we use only the simple headwords, on the basis that 
+if "shift" is an anagram indicator, so too is "shifty".) Cryptic setters are 
+still coming up with new ways to torment solvers, so I suspect it's a task that 
+will never be complete.
+
+Rewarding, though. I tend to assume that it's better to have an exhaustive 
+word list – that most users would rather trudge through obsolete Scottish and 
+Spenserian possibilities than miss the occasional answer. Are there technical 
+downsides to an app having a Brobdingnagian vocabulary?
+
+More thorough lists are always better. There aren't downsides for having these 
+large word lists in the app, as they're pretty small in terms of bytes, and the 
+database code can select thousands of entries quickly.
+
+There are some interface design issues about presenting results to users, and 
+making sure they are easy to read. We use colour-coding as one way of breaking 
+down the information.
+
+Abbreviations are also plentiful. How did you choose which of those to use?
+
+I've tried to put as many in as I can find. I've put in archaic, obscure and 
+"old-school" abbreviations, and more modern ones, from the Ximenean and the 
+non-Ximenean camps. And naturally we've included the usual lists of chemical 
+symbols, Roman numerals, country codes, scientific units and so on.
+
+I've included "21st-century" abbreviations such as "lol" and "gif", because 
+cryptic writing is constantly evolving. I also put in a lot of short foreign 
+words, and state and region abbreviations from all those countries where 
+cryptics are popular, including Australia, India and South Africa.
+
+One thing I think is different from other cryptic dictionaries is that I've 
+provided definitions. These are there for the more obscure devices that can 
+lurk in cryptics (it took me ages to figure out why "French art" = ES!), and 
+for more familiar abbreviations that may trip up newbie solvers.
+
+So I hope our app helps people to learn why certain abbreviations are used, 
+which will help them to remember them. Helping new cryptic solvers is an 
+important goal for me: all of us were beginners once, and needed a helping hand.
+
+I spoke to Anne R Bradford 
+<https://www.theguardian.com/crosswords/crossword-blog/2011/nov/03/crossword-blog-meet-anne-r-bradford>
+, the woman behindBradford's Crossword Solver's Dictionary 
+<http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9780007362578>
+ in 2011. Her book is based on observation. Have you likewise had to punctuate 
+your solving with note-taking?
+
+Yes, I'm always writing little notes to myself of a new abbreviation or 
+indicator word when I'm solving, so I can add them to the database. It's very 
+much an ongoing process.
+
+My goal is to update the app at least once a year, to add in new terms. We 
+certainly welcome suggestions from users via the app's feedback section if 
+there's a term they've discovered which isn't in there.
+
+And where did you draw the line in terms of rudeness? The first thing I typed 
+in was "topless", and got BALD as a synonym, along with a suggestion that, 
+unsurprisingly, I remove the first letter and more saucily, that I remove the 
+letters BRA.
+
+Apps <https://www.theguardian.com/technology/apps> have to adhere to Apple's 
+"language standards". So there were some words that we had to expurgate from 
+the word lists, to get a "general" rating for the app — which I objected to, 
+but we didn't have a lot of choice in the matter.
+
+But in terms of risque meanings, I'm all for them, and have included them 
+whenever possible. ForSolving Cryptic Crosswords for Dummies 
+<http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9781118305256>
+, the prudish American editors told me I had to edit out the handful of naughty 
+clues, which I am still rather peeved about. I think cryptic crosswords do 
+often tend towards the risque, and I don't have any problem with that.
+
+Hear, hear. Has the experience of creating a crossword app changed the way 
+that you solve?
+
+I sometimes use it to look up a few words when solving a few clues now and 
+then, especially on British cryptics (which use very different abbreviations 
+from Australian cryptics).
+
+My knowledge of abbreviations and indicator words is certainly better than it 
+was – I just wish I could remember all of them perfectly. But I actually use 
+the app most often when I'm writing cryptics.
+
+Ah, I hadn't thought of that. It's known as DOGFOODING in the industry, I 
+understand. Many thanks to Denise, and good luck with the Sisyphean curation 
+and creation.
+ 

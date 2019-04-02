@@ -1,0 +1,128 @@
+
+A burst of 8 links for you to chew over, as picked by the Technology team
+
+Oink's data privacy breach: download the data of any user with their own 
+export tool >> Critina Cordova 
+<http://www.cristinajcordova.com/2012/03/oinks-export-tool-data-privacy-breach-download-the-data-of-any-user-5/>
+
+When Oink shut down yesterday, I used their export tool so that I could do 
+something useful with the information I gave them. In requesting my data, which 
+I did simply by filling out a form with only my username, I received the email 
+below. In looking at the link, it seemed that my publicly available username 
+(cristina) called for the download.
+
+It had, and she could then change to Kevin Rose's username and download *his* 
+data. (Oink later fixed it.) Rose and the Oink team are going to Google. (Not 
+to be confused with the UK's OiNK.)
+
+Rumor: Nexus tablet is a "done deal", to retail for as low as $149 >> Android 
+and Me 
+<http://androidandme.com/2012/03/opinions/rumor-nexus-tablet-is-a-done-deal-to-retail-for-as-low-as-149/>
+
+The ASUS MeMo 370T 
+<http://androidandme.com/2012/01/devices/asus-memo-370t-could-be-a-kindle-killer-tegra-3-for-250/>
+ that was revealed at CES has been scrapped after Google contracted with ASUS 
+to produce their "Nexus tablet". Earlier reports said the device would retail 
+for $249-199, but we are now told the target price is $149-199. The quad-core 
+Tegra 3 version that was previously leaked is no more. Other than the 7in 
+display, no additional information has been provided on the specs.
+
+At the time, AndroidAndMe said the Memo 370T "could be a Kindle killer". 
+
+Mountain Lion now protects your contacts >> Dustin Curtis 
+<http://dcurt.is/mountain-lion-contacts>
+
+Before Mountain Lion Developer Preview 2, Mac apps could access your contacts 
+at any time, without asking for permission. You wouldn't even know it was 
+happening. This policy is the same as the one on iOS, which recentlygot a lot 
+of attention <http://dcurt.is/stealing-your-address-book>. Today's release of 
+DP 2 removes that ability by default.
+
+What's the position on Windows 8, Developer or Consumer betas?
+
+Viviane Reding responds to Reporters Without Borders' criticism of "right to 
+be forgotten" >> Reporters Without Borders 
+<http://en.rsf.org/european-union-viviane-reding-responds-to-16-03-2012,42138.html>
+
+The right to be forgotten is not an absolute right. The proposed Regulation, 
+which the European Commission adopted on 25 January 2012, provides for very 
+broad exemptions to ensure that freedom of expression can be fully taken into 
+account. This will allow, for instance, news websites to continue to operate on 
+the basis of the same principles.
+
+And so it moves on.
+
+The Towson Hack: The mystery of vanishing iTunes credit >> Macworld 
+<https://www.macworld.com/article/1161794/the_towson_hack_the_mystery_of_disappearing_itunes_credit.html>
+
+September 2011, but possibly still going on: 
+
+Many customers whose store credit was stolen noted that the purchases centered 
+on a handful of apps from specific developers. One of those developers was "gao 
+jing," the name behind apps like Expert Guide for Black Ops, Cheats Guide for 
+Black Ops, Weapons Guide for Black Ops, and Game Guide for New Vegas. Notably, 
+none of those apps remain in the App Store as of this writing; however, Apple 
+declined to comment on the reason for their removal from the store. Other 
+customers noted that the purchased apps on their accounts were all from other 
+developers, including "Hongbin Suo," "lane ma," "Yang Yun," "KAMAGAMES," and 
+"Lakoo." Many of the purchased apps, or the companies behind them, appeared to 
+be Chinese in origin.
+
+Text advertising blindness: the new banner blindness? >> International Journal 
+of Usability Studies 
+<http://www.upassoc.org/upa_publications/jus/2011may/owens1.html>
+
+From May 2011: 
+
+Practitioners should realize the following about text advertisements:
+
+Users demonstrate text advertisement "blindness" when viewing web pages. This 
+means that information displayed in areas of the page dedicated to text ads 
+(e.g., top of the page, right side) is generally ignored or viewed last.
+Users are less likely to find information on a web page if it is located on 
+the right side of the page than on the top of the page if both areas resemble 
+text ads. This is especially true when they are searching for specific 
+information.
+
+When conducting an informational, or semantic, search, users have equal amount 
+of difficulty finding information that is embedded in an ad either at the top 
+or on the right side of the page.
+
+There's more, equally interesting. 
+
+40% of US government Web sites fail security test >> Network World 
+<http://m.networkworld.com/news/2012/031512-dnssec-survey-2012-257326.html>
+
+Approximately 40% of federal government agencies are out of compliance with a 
+regulation that requires them to deploy an extra layer of authentication on 
+their Web sites to prevent hackers from hijacking Web traffic and redirecting 
+it to bogus sites.
+
+It's been more than two years since federal agencies were required to support 
+DNS Security Extensions (DNSSEC) on their Web sites. However, two recent 
+studies indicate that around 40% of federal Web sites have not yet deployed 
+this Internet security standard.
+
+Faintly depressing.
+
+Microsoft said to plan debut of new Xbox in 2013 at earliest >> Bloomberg 
+<http://www.bloomberg.com/news/2012-03-15/microsoft-says-it-won-t-be-discussing-new-xbox-at-e3-conference.html>
+
+Microsoft will release the next version of its Xbox console in 2013 at the 
+earliest, as the company squeezes at least one more year of sales out of its 
+current model, said two people with knowledge of the matter.
+
+The company may show the successor to its Xbox 360 in June 2013 at the E3 
+conference and put it on sale that same year, said the people, who declined to 
+be named because the plans are confidential. David Dennis, a company spokesman, 
+said earlier today that Microsoft won't discuss new Xbox hardware at this 
+year's E3, quelling speculation that the device would be unveiled at the 2012 
+show.
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/guardiantech>
+
+To suggest links, tag articles on Pinboard.in with "guardiantech".
+
+(Update: fixed errors in markup.)
+ 

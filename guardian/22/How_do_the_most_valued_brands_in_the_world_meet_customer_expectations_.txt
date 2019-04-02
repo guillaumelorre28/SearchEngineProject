@@ -1,0 +1,111 @@
+
+It’s the million, perhaps billion dollar question that everyone wants 
+answered: how do they do it? How did Google go from a company name to the 
+dictionary definition of internet searches? How did AirBnB and Uber rapidly 
+build loyal customer bases in hundreds of cities around the world to disrupt 
+powerful existing marketplaces?
+
+Tiffani Bova, the global customer growth and innovation evangelist at business 
+software innovator Salesforce is certain she knows the answer. “The most 
+disruptive thing in the market today is not technology, it’s the customer,” she 
+says.
+
+“Customer experience is the new product.”
+
+Visiting Australia from her base in San Francisco, she’s excited by what she 
+calls “pockets of innovation” in the country, and is encouraged by signals that 
+Australia wants to be seen as more technically innovative. How, then, can 
+Australian businesses apply the lessons of Silicon Valley to their customers?
+
+“Customers are saying, I want more, I want you to know me better,” Bova says. 
+“It’s technology that enables the disruption that the customer wants. We have 
+more power with smartphones in our hands today than many businesses had just 
+ten years ago. The moment of truth is going the first mile with the customer,” 
+she says.
+
+The most disruptive thing in the market today is not technology, it’s the 
+customer
+
+“One area is which Salesforce does an amazing job is going on the joint 
+journey with the customer,” says Bova. Indeed, it’s one of the reasons she 
+joined the company earlier this year from her position as a vice president at 
+technology research giant Gartner. “We need our customers to succeed,” she 
+continues, “investing in their success is enormously important.”
+
+Bova thinks that most businesses look at personalising customer experience the 
+wrong way around, and that too many companies make the mistake of trying to 
+solve the problems of only their largest customers.
+
+The Pareto Principle, or the ‘80/20 Rule’ as it is frequently called today, 
+says that 20% of your customers generate 80% of your revenue, so businesses 
+frequently focus their energies on the problems of just 20% of their customers. 
+“If 80% of customer experience is scale, then only solving for only 20% of them 
+isn’t,” she says. “The mistake is thinking that the customers of our brand are 
+going to come out with one experience.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Fsep%2F27%2Fhow-do-the-most-valued-brands-in-the-world-meet-customer-expectations%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F7572d7a9837a6aecc8b83f83348b3b21f606b0c4%2F0_55_7360_4414%2F7360.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20do%20the%20most%20valued%20brands%20in%20the%20world%20meet%20customer%20expectations%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Fsep%2F27%2Fhow-do-the-most-valued-brands-in-the-world-meet-customer-expectations%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20do%20the%20most%20valued%20brands%20in%20the%20world%20meet%20customer%20expectations%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Fsep%2F27%2Fhow-do-the-most-valued-brands-in-the-world-meet-customer-expectations%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F7572d7a9837a6aecc8b83f83348b3b21f606b0c4%2F0_55_7360_4414%2F7360.jpg>
+ The Pareto Principle concept.
+ Photograph: marrio31/Getty Images/iStockphoto 
+Big data has endless possibilities, concludes Bova, and companies are best 
+served looking at better segmentation and analysis that technology can offer to 
+understand their entire customer base.
+
+Robert Wickham, Salesforce’s regional vice president of innovation and digital 
+transformation in the Asia-Pacific agrees that the unprecedented connectivity 
+in our lives today have fundamentally changed business-customer relationships.
+
+“We’re seeing a new marketplace, one that has gone from reactive to proactive 
+to predictive,” he says. “To anticipate problems or identify opportunities, 
+businesses need to aggregate data, connect into customer touch points, and find 
+a rich reservoir of context.”
+
+Building your business around your customers is about more than just brand 
+recognition and positive media. From day one, Salesforce ran on a subscription 
+model – a radical idea in the software industry, which ran exclusively on 
+perpetual licences. In other words, Salesforce cannot survive as a company if 
+it is not customer centric, and has built its entire software lifecycle around 
+this principle.
+
+“Salesforce customers can submit ideas for the features they want in 
+products,” Wickham explains. “We have three software releases per year, and ask 
+our hundred-thousand plus customers to vote on the features they want.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Fsep%2F27%2Fhow-do-the-most-valued-brands-in-the-world-meet-customer-expectations%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fb8392c41785e28fa3018f374c1dc8a2ed93cdbfd%2F467_0_1800_1800%2F1800.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20do%20the%20most%20valued%20brands%20in%20the%20world%20meet%20customer%20expectations%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Fsep%2F27%2Fhow-do-the-most-valued-brands-in-the-world-meet-customer-expectations%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20do%20the%20most%20valued%20brands%20in%20the%20world%20meet%20customer%20expectations%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Fsep%2F27%2Fhow-do-the-most-valued-brands-in-the-world-meet-customer-expectations%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fb8392c41785e28fa3018f374c1dc8a2ed93cdbfd%2F467_0_1800_1800%2F1800.jpg>
+ Tiffani Bova, the global customer growth and innovation evangelist at business 
+software innovator Salesforce. Photograph: Tracy Wright Corvo/2014 Tracy Wright 
+Corvo 
+So how can businesses look at themselves from the perspective of the customer, 
+and re-orient their operations to be customer centric?
+
+Tiffani Bova offers a simple maxim to remind businesses that they cannot 
+compromise on a culture of customer centricity in a global marketplace: “Make 
+sure you disrupt yourself before someone disrupts you.”
+
+“The big problem is that most businesses operate from the inside out,” she 
+warns, noting that customer centricity has to be a conscious move requiring a 
+multifaceted approach to people, processes, and culture.
+
+ Robert Wickham says in his experience, you need to create employee incentives 
+to drive the outcome, and that employees need to opt-in to those plans. “But 
+what’s hardest to change is the culture,” Bova adds.
+
+To innovate for the future, it’s important that businesses go back to the 
+customer, because ultimately, customer success is a business’s most important 
+asset.
+
+
+How do you best ensure a good understanding of your value to potential 
+customers?Find out if your innovative business has a customer-centric DNA 
+<https://ad.doubleclick.net/ddm/clk/311050452;138766931;a>
+
+
+
+ 

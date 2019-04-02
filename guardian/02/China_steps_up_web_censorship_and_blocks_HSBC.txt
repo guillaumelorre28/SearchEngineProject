@@ -1,0 +1,106 @@
+
+China has blocked access to HSBC’s banking portal and possibly thousands of 
+other websites inwhat appears to be a new censorship campaign 
+<https://www.theguardian.com/world/2014/nov/18/china-blocks-access-websites-before-hosting-world-internet-conference>
+ days before it hosts a major internet industry conference.
+
+Greatfire.org, a group that researches Chinese internet censorship, said on 
+TuesdayHSBC <https://www.theguardian.com/business/hsbcholdings> had been caught 
+up in a crackdown against so-called mirror sites which let users access 
+censored sites such as YouTube.
+
+Greatfire.org said Beijing had shut access to HSBCnet and EdgeCast, one of the 
+world’s biggest content delivery networks (CDN) in order to block a pathway to 
+forbidden sites.
+
+“This was a deliberate attack on the websites that we have mirrored,” Charlie 
+Smith, the pseudonym of a Greatfire.org co-founder, told the Guardian via 
+email. He said it was “startling” that authorities would disrupt commerce, and 
+risk infuriating its own internet users, to block access to forbidden sites 
+which received relatively light traffic.
+
+Greatfire.org set up what it termed “collateral freedom mirror sites 
+<https://en.greatfire.org/blog/2014/nov/china-just-blocked-thousands-websites>” 
+on the global cloud infrastructure knowing that censors who operate the 
+so-called Great Firewall of China could not distinguish traffic to mirror sites 
+and other traffic to the cloud provider.
+
+
+It was a gamble that China would not risk major disruption by blocking global 
+CDNs – a gamble that Greatfire.org concedes it has now lost, resulting, it 
+said, in “collateral damage” of blocking of sites such as Sony Mobile’s global 
+and Chinese sites and the back-end frameworkdrupal.org <http://drupal.org/>.
+
+The group said it amounted to an attempt to cut China 
+<https://www.theguardian.com/world/china> off from the global internet.
+
+“I think that it is quite revealing,” said Smith. “I think it also reveals a 
+fundamental lack of understanding of how connected China truly is to the global 
+internet.”
+
+
+HSBC, one of the world’s biggest banks, makes two-thirds of its profits in 
+Asia, notably Hong Kong. EdgeCast, a subsidiary of the US telecommunications 
+company Verizon, delivers content and services for web companies, including the 
+Atlantic magazine and Mozilla, the Firefox browser, as well as cloud service to 
+sites and apps in China.
+
+The attacks came in the lead-up to the World Internet Conference which is due 
+to open in eastern Zhejiang province on Wednesday, showcasing China’s 
+burgeoning role in technology and internet governance issues. Organised by 
+China’s newly formed Cyberspace Administration, it is expected to draw 
+policymakers and senior industry figures, including the chief executives of 
+Alibaba and and Baidu.
+
+EdgeCast, which is based in Los Angeles, said in a blogpost 
+<http://blog.edgecast.com> that its operations had been disrupted. “This week 
+we’ve seen the filtering escalate with an increasing number of popular web 
+properties impacted and even one of our many domains being partially blocked … 
+with no rhyme or reason as to why.”
+
+It said it was trying to mitigate the filtering but warned it would be “an 
+ongoing issue” and sympathised with frustrated customers. “We share your 
+frustration, as does the whole content delivery and hosting industry.”
+
+Chinese authorities shut HSBC’s banking portal last month, Greatfire.org 
+reported, in the process of blocking access to Akamai, a CDN which it used to 
+host mirror websites. HSBC uses an Akamai domain reserved for encrypted 
+websites.
+
+The bank posted a notice on its site acknowledging the problem but gave no 
+details, saying only it was “working with local providers to deliver a prompt 
+resolution”.The notice subsequently disappeared 
+<https://en.greatfire.org/blog/2014/nov/hsbc-corporate-banking-blocked-china-and-outbound-finance-impacted>
+.
+
+A US-based spokesman for the bank declined to comment, saying he was “looking 
+into the matter”.
+
+Greatfire.org said authorities were willing to stifle commerce to plug a small 
+leak comprising tens of thousands of visits to forbidden sites – a tiny 
+fraction of overall traffic, said Smith. “If the authorities think they can 
+block the dissemination of information by continuing to cut off access to 
+global CDNs, then they will be in for a big surprise when their own netizens 
+stand up and express their discontent.”
+
+Smith said the web conference was a coincidence of timing but hoped it would 
+compel the authorities to explain the censorship. The conference aims to 
+“promote the development of (the) internet to be the global shared resource for 
+human solidarity and economic progress”.
+
+Organisers have sent accredited journalists a warning about restrictions: “If 
+the conference has not arranged an interactive session, please do not ask 
+questions or interview at the scene. During the meeting please do not walk 
+about at will within the venue.”
+
+William Nee, a China researcher at Amnesty International, warned that the 
+event underlined China’s goal of promoting its domestic internet rules as a 
+model for global regulation.
+
+“This should send a chill down the spine of anyone that values online freedom 
+<http:// 
+http://www.amnesty.org/en/news/internet-freedom-faces-new-attack-china-seeks-shape-global-web-rules-2014-11-18>
+. China’s internet model is one of extreme control and suppression. The 
+authorities use an army of censors to target individuals and imprison many 
+activists solely for exercising their right to free expression online.”
+ 

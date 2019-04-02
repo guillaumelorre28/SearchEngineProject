@@ -1,0 +1,109 @@
+
+App: DriveGain <http://drivegain.com/>
+
+By: DriveGain Ltd
+
+Price: £3.99
+
+Available on: iPhone <https://www.theguardian.com/technology/iphone>, iPod 
+touch and iPad.
+
+What is it?
+
+DriveGain is an app that helps you save fuel as you drive by recommending what 
+gear you should be in and how to save fuel as a result.
+
+Who is it by?
+
+DriveGain was co-founded by Simon East and Dr Phil Dixon in December 2008. 
+East was part of the executive team that transformed Psion's software group 
+into Symbian and founded the mobile-photo uploading company Cognima (later to 
+become ShoZu). Dixon has a PhD in Vehicle Dynamics Control and prior to 
+DriveGain was part of the Renault Formula One team, as a vehicle performance 
+engineer on the chassis that won two World Championships for Fernando Alonso.
+
+What does it promise?
+
+"DriveGain is an application that helps you save fuel while you are driving. 
+Saving fuel not only saves you money – it reduces the amount of CO2 you emit 
+and allows you to travel further before needing to fill up. As you drive, the 
+application gives you visual and audio feedback on what changes you can make to 
+your driving style to help you save more fuel."
+
+How does it work?
+
+Input what car you have and the app will use the iPhone's GPS and accelerator 
+to compute how fast you are going, whether you are accelerating too quickly, 
+how you are braking, and average speeds.
+
+When I trialled it, I launched the app ahead of a 25-minute trip involving 
+city traffic and a dual carriageway. There was an initial wobble when the app 
+told me I was at a decent cruising speed while, at the time, I was merely 
+edging close to 30mph in third gear, which made me wonder how accurate it is. 
+But after that the app's messages seemed more reliable.
+
+I have a habit of slamming my car (a 1996 Volkswagen Golf) into fifth gear as 
+soon as I can, which I probably learned from my father, a great fuel-conserver; 
+it means I often find myself absently chugging up a hill in fifth gear. The app 
+seemed to notice this and told me at one point to consider using fourth gear 
+instead of fifth when I was travelling at 40mph – it was right.
+
+One thing the app cannot do is see the road in front of you. This meant that 
+often, just as I would need to hit the brakes due to traffic or lights ahead, 
+the app would tell me to accelerate and plop the car into fourth gear. With 
+that in mind, it's worth noting that drivers should never blindly follow the 
+app's suggestions without first thinking what action is safe for them to 
+perform.
+
+When I cranked up the speed on the dual carriageway, the app seemed to prove 
+its worth by telling me how much fuel I was burning, checking I was in fifth 
+gear and maintaining a sensible cruising speed. This echoes the experience of 
+an iTunes reviewer, who said the app worked "convincingly" for them on dual 
+carriageways but not on town traffic.
+
+Around 30 seconds after you have come to a halt, the app gives you a summary 
+of your averages and totals, offering an illuminating look at how much petrol 
+you've burnt and, more importantly, how much it has cost you.
+
+Is it easy to use?
+
+Yes. The fact that it offers audio support is crucial, as it can be difficult 
+to view the screen while driving – even if it's dashboard-mounted – and it 
+would be hazardous to do so. These audio messages are accompanied by a simple, 
+segmented screen which make the app particularly user-friendly.
+
+Is it fun?
+
+Driving nerds and serious money-savers will enjoy it. The "green zones" (areas 
+you should try and keep within for the best fuel conservation) will please 
+thrifty drivers.
+
+Is it pretty?
+
+Heavy on the use of black and white, the app possesses a sophisticated, 
+monochrome gravitas punctuated by bursts of colour that will please many. It 
+looks better on your dashboard than one of those turtle-like air fresheners, is 
+designed well, and has impressive functionality. But if you dashboard-mount it 
+alongside a satnav, it can clutter up your driving experience – or make you 
+look like a taxi driver.
+
+Should you download it?
+
+I can't give this a free pass because it costs £3.99 which, while little more 
+than the value of a pint in a metropolitan bar, is a hefty outlay in app terms. 
+It therefore should not be downloaded without serious thought.
+
+DriveGain's creators claim the app should save you, on average, £170 per year 
+in the UK, $205 in the US, and €175 in Europe. While I have not had time to 
+test that claim, the app did seem to spot how some of my driving quirks were 
+costing me more in fuel and £3.99 could be a small price to pay for a constant 
+reminder to watch how I'm driving.
+
+But some app-users on iTunes report incorrect gear-changing instructions, 
+inaccurate (or at least differing) figures given for miles-per-gallon at the 
+end of journeys, and poor driving instructions. Of course, other users call it 
+"a great idea" and they are glad they bought it.
+
+It's worth noting that the app works for petrol and diesel cars as well as 
+automatics, but does not yet support electric or hybrid vehicles.
+ 

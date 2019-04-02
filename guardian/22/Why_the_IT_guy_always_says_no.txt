@@ -1,0 +1,123 @@
+
+Looking after the IT security needs of about 170,000 students and 25,000 staff 
+members at various locations around the world isn’t easy. Especially when the 
+students have an average of two smart devices each and the staff an average of 
+four.
+
+“It has its good days and its bad days, like any other job,” says Tony Aramze, 
+chief information security officer, Information Technology Services at RMIT 
+University. “We do look after a lot of technology.”
+
+Aramze and his team put controls in place to make RMIT’s global operation 
+secure, and on a day-to-day basis monitor networks for potential security 
+breaches, scanning hardware and software for vulnerabilities.
+
+So does the system ever get attacked? 
+
+How safe are you from hackers?
+ Read more  
+<https://www.theguardian.com/intel-better-it-decisions/2016/sep/30/how-safe-are-you-from-hackers>
+“Everyone gets attacked every day,” he says. “Currently the most common type 
+of attack is called Cryptolocker. You receive an email that masquerades as an 
+organisation that you deal with, say, Australia Post. Click on the link and a 
+virus can start infecting your computer. Because your computer is connected it 
+can propagate across the entire network.
+
+“We put processes and practices in place not only to detect and prevent those 
+sorts of things from a technology perspective, but also educate the end user 
+about the things they should be doing and not doing.”
+
+Dan Morrison, senior engineer at digital gift card website Prezee.com.au, says 
+maintaining business systems is a threefold task: making sure they are kept 
+secure, performant (fast and responsive) and highly available.
+
+“Having a critical business system unavailable for even a few minutes can 
+bring an entire business to a screeching halt,” he says. “When you’re an IT 
+person, you know it’s going to be a challenging day when you arrive in the 
+morning to see everyone on the floor filing off towards the lifts for a coffee 
+break.”
+
+When the IT guys says no to a request, it’s usually for a good reason. Here 
+are five commonly asked questions that might solicit a “no” from the IT guy 
+(and the reasons why).
+
+1. Can I ignore my computer when it says it needs to install an update? It 
+wastes so much time.
+
+Aramze: No. Flaws within the design of the software may exist. When you get a 
+request to install an update it’s generally to address problem areas that have 
+been encountered. If you don’t update you are potentially opening a door to an 
+intruder, or your computer might not operate as effectively as it should.
+
+Morrison: No. Ultimately, failing to install security updates can allow third 
+parties to take over your computer. This could lead to, for example, your 
+computer spamming your entire email contact list with advertisements for cheap 
+Viagra. How are you going to explain that one to your client?
+
+2. My kid wants to install a game on my work computer. Is that OK?
+
+Aramze: No. Your work computer is a place of business. Everything on your 
+computer that your organisation has given you has been vetted from a security 
+point of view. If you were to install a piece of software alien to the 
+organisation, that piece of software might introduce a virus that will infect 
+your computer, and the network your computer is connected to.
+
+Morrison: It’s generally not a good idea. It’s just not worth the risk if you 
+don’t know exactly what’s installed. Would you let your kid drive your company 
+car?
+
+A good practice is to have not a password but a passphrase such as 
+Today1smonsdayandimgoingtowork.
+Tony Aramze  <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fintel-better-it-decisions%2F2016%2Foct%2F17%2Fwhy-the-it-guy-always-says-no%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe159cc1f1eb5f65b19bac640f09eedc9ffe35a38%2F0_384_5760_3456%2F5760.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Why%20the%20IT%20guy%20always%20says%20no&url=https%3A%2F%2Fwww.theguardian.com%2Fintel-better-it-decisions%2F2016%2Foct%2F17%2Fwhy-the-it-guy-always-says-no%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Why%20the%20IT%20guy%20always%20says%20no&url=https%3A%2F%2Fwww.theguardian.com%2Fintel-better-it-decisions%2F2016%2Foct%2F17%2Fwhy-the-it-guy-always-says-no%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe159cc1f1eb5f65b19bac640f09eedc9ffe35a38%2F0_384_5760_3456%2F5760.jpg>
+ Photograph: Andrew Rich/Getty Images 
+3. Can I keep my old password, and have the same one for all my log-ins? I can 
+never remember them.
+
+Aramze: No. People want it to be simple, which is why they use very small, 
+five or six character words, and that’s how they get compromised. A good 
+practice is to have not a password but a passphrase, such as 
+Today1smonsdayandimgoingtowork. You could change one word of the phrase for 
+different logins. There are also many technologies you could use, such as apps 
+that manage passwords, but make sure they come from a reputable source.
+
+Morrison: No. If a bad guy manages to compromise one of your accounts, they 
+will immediately attempt to use those credentials on other websites. They will 
+use automated scripts for this, which allows them to try your email/password 
+combination on thousands of sites per second. So if you think there’s no way 
+the bad guys could guess which sites you reused the same credentials on, you 
+might be in for a nasty surprise.
+
+
+4. What do you IT guys do all night? Play World Of Warcraft?
+
+Aramze: It depends on the role that person has. Members of my team, if they’re 
+working at night it’s because they’re managing an incident: cleaning up a 
+situation or trying to recover the environment. They’re not playing games.
+
+
+Morrison: Don’t be ridiculous. Counter Strike and Left 4 Dead.
+
+5. Can I log into the system from home?
+
+Aramze: Yes. Absolutely, as long as your organisation gives you a secure 
+mechanism for you to log on to the network.
+
+Morrison: Most businesses will allow employees to connect to business systems 
+remotely via VPN, if they aren’t already available via the web. If your company 
+doesn’t offer this kind of access, there’s probably a good reason, and you 
+should raise it with your manager. IT departments can almost always accommodate 
+remote access as long as it’s secure and auditable.
+
+Amazing but true: the IT guy sometimes says yes.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fintel-better-it-decisions%2F2016%2Foct%2F17%2Fwhy-the-it-guy-always-says-no%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fda453535819d7846f24d52d23c7277a918fc4b4f%2F0_264_5606_3364%2F5606.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Why%20the%20IT%20guy%20always%20says%20no&url=https%3A%2F%2Fwww.theguardian.com%2Fintel-better-it-decisions%2F2016%2Foct%2F17%2Fwhy-the-it-guy-always-says-no%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Why%20the%20IT%20guy%20always%20says%20no&url=https%3A%2F%2Fwww.theguardian.com%2Fintel-better-it-decisions%2F2016%2Foct%2F17%2Fwhy-the-it-guy-always-says-no%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fda453535819d7846f24d52d23c7277a918fc4b4f%2F0_264_5606_3364%2F5606.jpg>
+ Photograph: Andrew Rich/Getty Images  

@@ -1,0 +1,56 @@
+
+Hacked extramarital dating site Ashley Madison 
+<https://www.theguardian.com/technology/ashley-madison> has hit back at claims 
+that the company filled its website with fake female profiles, saying that 
+almost 3m messages were sent by women in the last week alone.
+
+The company was responding to claims that it had been actively misleading 
+customers over the number of real female users of its dating service, which 
+bears the tagline: “Life is short. Have an affair.”
+
+Following an enormous hacking attack in July, the attackers released the full 
+database of Ashley Madison users on a darknet website in mid-August. Analysis 
+of that database initially suggested that almost all the female profiles on the 
+site were not made by real women, withAnnalee Newitz 
+<http://gizmodo.com/the-fembots-of-ashley-madison-1726670394>, a reporter for 
+Gizmodo, writing that there were “at most, about 12,000 of these profiles” that 
+seemed to belong to women who were active on the site.
+
+That claim was heavily criticised, both by Ashley Madison and users of the 
+site. If true, it would have suggested that there was one woman for every 2,700 
+men – a statistic which is at odds with the many men who claim to have met real 
+women on the site without much difficulty.
+
+The company also criticised Gizmodo’s reporting, saying that Newitz “made 
+incorrect assumptions about the meaning of fields contained in the leaked data”.
+
+It said: “[Newitz] concluded that the number of active female members on 
+Ashley Madison could be calculated based on those assumptions. That conclusion 
+was wrong.”
+
+Newitz later retracted the initial claim, admitting that the number of real 
+female users was far higher. But she also reported new evidence found from the 
+dump, which suggested “that Ashley Madison created more than 70,000 female bots 
+to send male users millions of fake messages, hoping to create the illusion of 
+a vast play land of available women”.
+
+The bots, Newitz writes, would send users messages designed to entice a 
+response, and then make use of one of the unusual features of Ashley Madison – 
+that men have to pay to read messages, and pay to send them – to encourage the 
+(overwhelmingly male) recipients to buy credits from the site to engage in 
+further conversation.
+
+She writes 
+<http://gizmodo.com/ashley-madison-code-shows-more-women-and-more-bots-1727613924>
+: “Ashley Madison aspired to be a global network of people breaking the bonds 
+of monogamy in the name of YOLO. Instead, it was mostly a collection straight 
+men talking to extremely busy bots who bombarded them with messages asking for 
+money.”
+
+Ashley Madison has not responded to the latest allegations. In an earlier 
+statement, it said: “The company continues its day-to-day operations even as it 
+deals with the theft of its private data by criminal hackers. Despite having 
+our business and customers attacked, we are growing. This past week alone, 
+hundreds of thousands of new users signed up for the Ashley Madison platform – 
+including 87,596 women.”
+ 

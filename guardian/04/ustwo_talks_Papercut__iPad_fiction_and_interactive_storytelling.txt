@@ -1,0 +1,80 @@
+
+It's an interesting time for book publishers in the app world, to say the 
+least. The creative potential of apps is vast, and still largely untapped. Most 
+publishers are experimenting with apps with varying levels of budget and 
+ambition, across genres including adult fiction, non-fiction, education and 
+children's books.
+
+While some book-apps have done well – Alice for iPad made a packet, and 
+Faber's The Waste Landrecouped in less than two months 
+<https://www.theguardian.com/technology/appsblog/2011/aug/08/ipad-the-waste-land-app>
+ – there's acreeping sense elsewhere 
+<https://www.theguardian.com/technology/appsblog/2011/jul/25/book-apps-roundtable?INTCMP=SRCH>
+ that apps aren't (yet) as lucrative as many publishers hoped.
+
+Design studio ustwo was one of the first companies to blow that issue out in 
+the open, when its co-founder Matt Mills (known simply as Mills within the 
+industry)told a books conference 
+<https://www.theguardian.com/technology/appsblog/2011/jun/17/futurebook-apps-conference>
+ that ustwo's acclaimed Nursery Rhymes with StoryTime book-app had only made 
+£24,048 in revenues versus the £60,000 spent making it, despite being an App 
+Store Books category chart-topper.
+
+Can the company's second book-app do any better? Papercut 
+<http://itunes.apple.com/gb/app/papercut-enhanced-reading/id459776726?mt=8> is 
+live on Apple's App Store, and is being billed as an "enhanced reading 
+experience" for iPad. It includes three short stories, with animation, 
+interactivity and sound woven around them. As readers scroll through the text 
+using the touchscreen, it triggers the additional elements. In other words: no 
+page-turning.
+
+"We wanted to experiment with storytelling," says Mills. "If you look at most 
+of the children's books in the App Store, they're quite basic: they have pages, 
+some interactions and sound, but they don't really try to explore the 
+possibilities of telling stories in a new way."
+
+Jonas Lennermo, a Swedish former-journalist who worked on Papercut from the 
+beginning within ustwo, admits to feeling nervous about how it will be 
+received. It was something of a labour of love, working with publisher 
+Shortfire Press to secure the three short stories for the app, while also 
+tapping his music contacts back home to bring in bands to provide the 
+soundtrack.
+
+"It's very flexible, and works with lots of different content," says Lennermo. 
+"The only restriction really is how much content you can create for it. We 
+could easily do a novel, but it would take a long time and a lot of content 
+creation. We were surprised at how much content this platform swallowed: it's 
+almost like creating a light film. There are plain books and then films, and 
+this is somewhere in between. We think about it as a new genre."
+
+What's interesting about Papercut is the way it makes the storytelling process 
+even more collaborative: an author working with sound designers, musicians and 
+user experience designers. That's one reason Ustwo wanted authors to write 
+stories specifically for Papercut, rather than simply whack in a collection of 
+existing stories.
+
+Can Papercut make more money than Nursery Rhymes with StoryTime? ustwo sound 
+hopeful, but maintain that they want it to have a creative impact first and 
+foremost, before commercial considerations.
+
+"I think people will like it, but will also be quite confused," says Mills. 
+"We are experimenting, and showing everyone we need to push the envelope. This 
+is a time of exploration and experimentation in apps, and we're not saying this 
+is perfect, but we're trying really, really hard."
+
+Here's the challenge for Papercut: people who buy it will love it, but they'll 
+soon burn through the three short stories and want more. Yet it's clearly 
+fairly time-consuming to create each new stories using the platform, with 
+not-insignificant costs. Ramping up to release, say, one new story a week is a 
+big ask for a company like ustwo, whose business mainly comes from its design 
+and branding work rather than its skunkworks apps team.
+
+That's why it describes Papercut as a platform rather than an app: a platform 
+that's presumably licensable to book publishers for use in their own apps. But 
+making a creative splash remains ustwo's main aim, with the company's 
+characteristic confidence that this will ultimately pay off.
+
+"A lot of people are releasing shit apps because they want to make money," 
+says Lennermo. "Let's forget about money for a while and try to create good 
+stuff. Then things will happen…"
+ 

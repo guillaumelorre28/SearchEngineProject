@@ -1,0 +1,68 @@
+
+In November 2012 we redesigned our mobile website from the ground up to 
+radically improve the user experience, reliability and download speeds. Usage 
+of mobiles and tablets to browse the web is increasing fast and we want to 
+ensure you have the best possible experience when looking at the Guardian on a 
+tablet or mobile.
+
+Here are answers to some frequently asked questions:
+
+How do I give feedback?
+The best way to leave feedback is via the link at the foot of every page. Or 
+send us a tweet@guardianmobile <http://www.twitter.com/guardianmobile>. You can 
+also emailuserhelp@theguardian.com <mailto:userhelp@theguardian.com>.
+
+Is the site just for mobile phones?
+The site is designed to be responsive and is currently optimised for mobiles 
+and small tablets. We've specifically designed for devices up to 7" and will 
+continue to evolve the design for larger screens. Our framework will allow us 
+to easily scale up to large desktop screens - but we have some design 
+challenges to work on before we get there.
+
+You can also download our apps for iPhone 
+<http://itunes.apple.com/gb/app/the-guardian/id409128287?mt=8&affId=1248044>, 
+Android <https://play.google.com/store/apps/details?id=com.guardian&hl=en>, iPad
+ 
+<http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/9/13/1347528163953/iPadPromo_940x320_sep2012.jpg>
+ andKindle <https://www.theguardian.com/mobile/guardian-kindle-edition>.
+
+What has happened to bookmarks and favourites?
+We were not able to redirect all pages from the old mobile site because of the 
+way the links were structured. If you find yourself on an empty page, we have 
+added links to the most popular sections on the new site to try and help you 
+find what you are looking for.
+
+We are not currently offering on-site tools to save pages as favourites, but 
+will monitor user feedback on this. For now, please use your device browser to 
+save pages as bookmarks. You can also expand or hide the home page sections 
+depending on your interests.
+
+Are any sections missing?
+You should find all sections that are currently on the desktop site - tap or 
+click on the menu button in the top right corner of the home page. A list of 
+the main sections will appear, if you don't find what you are looking for, 
+select "All sections" to see the full list.
+
+If you are looking for a section that appears in the Guardian or Observer 
+newspaper, the articles will be listed in their relevant section, eg Film or 
+Fashion, rather than "The Guide" or "Weekend magazine".
+
+Can I personalise the homepage?
+You can currently choose to hide a section that doesn't interest you. If you 
+accept cookies in your phone browser's settings, this preference will be stored 
+for you when you visit again.
+
+What if I would rather view the desktop site on my smartphone or tablet?
+We currently redirect users accessing us on mobile phones and tablets up to 7" 
+to the mobile optimised site. If you would rather view the desktop site, simply 
+tap or click on "Desktop version" at the bottom of the page. If you would like 
+us to remember this preference, please ensure your device browser is set to 
+accept cookies, then visit the mobile site home page and tap or click on 
+"desktop version".
+
+What about sharing articles from the site via social media?
+You can share a page on Facebook, Twitter and Google+ using the "share" 
+buttons. You can also share a page via email, SMS and any social media channels 
+to which you are subscribed, using the "share" tools built in to your phone or 
+device. We are monitoring demand for additional "share" buttons.
+ 

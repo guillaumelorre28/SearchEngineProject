@@ -1,0 +1,107 @@
+
+When we speak, listen, read, or write, almost all of the language processing 
+that happens in our brains goes on below the level of conscious awareness. We 
+might be aware of grasping for a particular forgotten word, but we don’t 
+actively think about linguistic concepts like morphemes (the building blocks of 
+words, like the past tense morpheme “-ed”).
+
+Psycholinguists try to delve under the surface to figure out what’s actually 
+going on in the brain, and how well this matches up with our theoretical ideas 
+of how languages fit together. For instance, linguists talk about morphemes 
+like “-ed”, but do our brains actually work with morphemes when we’re producing 
+or interpreting language? That is, do theoretical linguistic concepts have any 
+psychological reality? Anupcoming paper 
+<http://www.sciencedirect.com/science/article/pii/S0010027716300075> in the 
+journal Cognition suggests an unusual way to investigate this: by testing 
+synaesthetes.
+
+Synaesthesia comes in many forms. Some synaesthetes associate musical tones or 
+notes with particular colours; others attach personalities to letters or 
+numbers. A huge number of synaesthetes have associations that are in some way 
+linguistic, and one of the most common forms of all is grapheme-colour (GC) 
+synaesthesia, which is the association of colours with particular letters or 
+numbers. For instance, a GC synaesthete might have a consistent perception of 
+the letter “A” being red. This association often extends to a whole word, so 
+“ant” might be red, too.
+
+Because synaesthesia is so often language-related, it should be possible for 
+researchers to explore the associations that synaesthetes make, and use this to 
+work out how bits of language are being handled by the brain. For instance, the 
+Cognition paper describes a study, led by Jennifer Mankin at the University of 
+Sussex, that looked at compound words like “rainbow” or “blackbird”.
+
+Compound words are interesting because they can give us insight into how we 
+store and retrieve word meanings in the mind. We don’t currently know whether 
+we process these as single units, or whether we process the component words 
+(like “black” and “bird”) and then join them up. It’s also possible that we use 
+some combination of these two strategies, like remembering the more common 
+compound words as single units, but breaking down the less common words into 
+their composite meanings to figure them out.
+
+To test this, Mankin and her co-researchers looked at what colours GC 
+synaesthetes associated with various compound words. Some of the words were 
+very frequent, while others were less so. The words also varied in semantic 
+transparency, which is a measure of how obvious the meaning of a compound word 
+is based on its constituents. For instance, it’s easy to work out that a 
+birdhouse can be split up into the words “bird” and “house”, and means “a house 
+for birds”. Working out that “hogwash” means “nonsense” can’t be done just from 
+looking at the constituent words.
+
+For each word in the list, the 19 synaesthetes were asked if they had an 
+associated colour. If they did, they could choose the colour from a colour 
+chart. They were also able to add a second colour for each word. The 
+researchers predicted that the more frequent compound words would be more 
+likely to have only one colour attached to them (because they would be 
+processed as whole units), while the less frequent words would have two 
+colours. They also thought the more semantically transparent words would be 
+split up and processed as their constituent parts, making them more likely to 
+have two colours.
+
+They found that most of the words – nearly three-quarters – were given two 
+colours by the participants, but that more frequent compound words were more 
+likely to have just one colour associated with them. This, according to the 
+authors, suggests that very common compound words seem to be processed as 
+single word units, whereas less common compound words are processed as two 
+units – just as they predicted. However, they didn’t find what they expected 
+with semantic transparency: both more and less semantically transparent words 
+were about equally likely to have one or two colours associated with them.
+
+This study is very small, and on its own, it edges us only a little further 
+towards a complete understanding of how we process compound words. The results 
+match up with a “mixed” model of compound word processing that suggests we 
+process some words as units, and others as constituents; but this isn’t 
+conclusive, and at the very least, the finding needs to be replicated in other 
+languages, with other synaesthetes, before we rest too much on it. However, 
+it’s a fascinating proof-of-concept: it suggests that we can tap into 
+synaesthetic experience to explore bigger psychological questions.
+
+How we all could benefit from synaesthesia
+ Read more  
+<https://www.theguardian.com/science/2014/apr/27/benefit-synaesthesia-brain-injury-mental-decline>
+So far, there’s been very little work done in this particular niche. There’s 
+already quite a lot of research on synaesthesia in its own right, but it’s an 
+unusual idea to study people whose brains are inarguably atypical in order to 
+draw conclusions about human cognition in general. There’s a risk that 
+synaesthetes’ brains are different in ways other than their synaesthetic 
+associations, which could mean that we can’t really extrapolate from them to 
+the general population.
+
+That said, there isn’t currently much reason to think that synaesthetes have 
+important cognitive differences from non-synaesthetes, other than their 
+particular associations.An earlier paper 
+<http://www.sciencedirect.com/science/article/pii/S1364661307000484> that 
+explores the potential usefulness of synaesthesia for cognitive science points 
+out that most people seem to have some degree of synaesthetic association going 
+on in their heads, but that synaesthetes are just unusually aware of the 
+experience. For example, cognitive scientists who study the brain’s processing 
+of numbers posit a “mental number line” that people all use when dealing with 
+numbers – it’s just that only synaesthetes are aware of having spatial 
+associations with numbers.
+
+If this is true, it might be that synaesthetes provide us with an unusual 
+amount of conscious access to what are usually unconscious processes. And that, 
+undoubtedly, is a psycholinguist’s dream come true. There’s a lot of work to be 
+done assessing the usefulness of the idea and working out ways to implement it, 
+but given how useful it could turn out to be, it’s definitely worth that 
+exploration.
+ 

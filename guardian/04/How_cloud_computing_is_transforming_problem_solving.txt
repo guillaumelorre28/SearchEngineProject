@@ -1,0 +1,82 @@
+
+The world is changing. Massive urbanisation, aging infrastructure, inadequate 
+transportation systems and increasingly limited energy resources are all 
+affecting how we live today and in the future. It has been said that necessity 
+is the mother of invention, and there is no greater necessity than creating a 
+world where all 7 billion of us (and growing) can live well while minimising 
+the impact on the planet. We have always used design as a tool to solve 
+problems and designers have an important role to play in imagining, creating 
+and designing a better world of the future. The good news is thecloud 
+<https://www.theguardian.com/media-network/cloud> is giving us all access to 
+massive amounts of data and computing power, enabling designers to solve 
+problems in a whole new way.
+
+Thirty years ago, the PC completely changed the way people work. Today, we are 
+witnessing a new revolution with the convergence of thecloud and the billions 
+of mobile devices in use today 
+<https://www.theguardian.com/media-network/media-network-blog/2013/dec/09/experts-cloud-computing-trends-2014>
+. Physical location no longer matters either, so thebest talent can be sourced 
+wherever they are 
+<https://www.theguardian.com/media-network/media-network-blog/2013/jul/24/cloud-computing-transforming-workplace>
+ to create unique, global teams based on expertise.
+
+Although the cost of labour and materials is going up in many industries, the 
+ability to have infinite computing power at a reduced cost is fundamentally 
+changing the opportunities for businesses of all sizes. Previously, the upfront 
+investment needed for processing this amount of data in a small office was cost 
+prohibitive – now complex programmes and projects are in reach of businesses of 
+any size. It's clear that the cloud is having a major impact on other 
+technologies and software and not just our processes; computer-aided design 
+(CAD) has matured beyond 2D and 3D graphics to incorporate simulation and 
+analysis. Designers can now rapidly work through thousands of design and 
+material options in order to select the optimum solution through a process of 
+digital prototypes.
+
+Consider Escape Dynamics <http://escapedynamics.com/>, which uses the benefits 
+of the cloud to refine the design and build of novel aerospace systems and 
+components, dramatically reducing development timelines, as well as cutting 
+costs on physical prototyping. One component they are working on is an airframe 
+for a reusable orbital launch vehicle. The optimisation process requires 
+thousands of simulations that test various flight conditions and various 
+geometries of the airframe. Before cloud technologies, this optimisation 
+process would require the company to buy and operate a dedicated 
+high-performance cluster of computers. With access to increased processing 
+power and the ability to run simulations in the cloud, Escape Dynamics is well 
+on its way to developing an extremely efficient airframe that will allow the 
+company to build and fly a very efficient space launch vehicle in the near 
+future.
+
+In the case of large potentially sensitive infrastructure projects such as 
+rail lines, power stations and civil engineering projects, more insights 
+gleaned from simulations in the cloud lead to better decisions and better 
+communication between the design teams and clients as well as public interest 
+groups – it also affords the context to understand and see the big picture, as 
+well as the ability to look ahead and spot potential problems. 
+
+To take the city of Vancouver as an example, it has built a simulated version 
+of the entire city by combining terrain files, building footprints, satellite 
+photos and GIS data for parcels and streets into a 3D modelling programme. With 
+this, they can demonstrate how shifts in population affect density and better 
+understand the impact of new infrastructure projects in the planning stages. 
+These simulations are becoming even more affordable and accessible now that 
+they run in the cloud, not on the desktop.
+
+Simply speaking, the cloud is enabling designers to do what they couldn't do 
+before. We now have the ability to accurately identify the consequences of our 
+design decisions and their impact on the world around us. We are moving to a 
+world where computing, data and collaboration and communication between people 
+are all integrated in the cloud, powerful new tools are in designers' hands and 
+preparing them to address the world's most formidable design challenges. The 
+agility, efficiency, collaboration and data insights enabled by thecloud are 
+driving this innovation faster than ever before 
+<https://www.theguardian.com/media-network/media-network-blog/2013/aug/23/cloud-business-amazon-steve-midgley>
+.
+
+Pete Baxter is a vice-president at Autodesk UK <http://www.autodesk.co.uk/>
+
+Get more articles like this sent direct to your inbox by signing up for free 
+membership <https://register.theguardian.com/media/> to the Guardian Media 
+Network <https://www.theguardian.com/media-network> – this content is brought 
+to you byGuardian Professional 
+<https://www.theguardian.com/guardian-professional>. 
+ 

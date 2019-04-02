@@ -1,0 +1,75 @@
+
+Anonymous <https://www.theguardian.com/technology/anonymous> has attacked web 
+services startup CloudFlare for providing protection against cyberattacks to 
+pro-Isis websites.
+
+The company protects customers against the distributed denial of service 
+(DDoS) attacks popular amongst groups like Anonymous by routing connections 
+through its own content delivery network. By weeding out malicious connections, 
+it prevents DDoS attacks from succeeding in their goal of overwhelming a 
+website with traffic so that it collapses.
+
+But according to members of Anonymous, which has reaffirmed its yearlong “war” 
+against Isis following the Paris attacks 
+<https://www.theguardian.com/technology/2015/nov/17/anonymous-war-isis-hacktivist-group-confirms>
+, that technology is also being used by pro-Isis websites to protect themselves 
+against the hacktivist collective’s attempts to bring down their servers.
+
+The week before the Paris attacks, Ghost Security, an Anonymous-affiliated 
+“counter-terrorism network”,counted almost 40 websites 
+<http://www.theepochtimes.com/n3/1892477-anti-terrorist-hacker-group-reveals-40-isis-websites-protected-by-us-tech-firm/>
+ that use CloudFlare’s services to protect their content. According to 
+GhostSec, 34 were propaganda websites, four were discussion forums, and two 
+offered technical services.
+
+Such accusations are nothing new to CloudFlare, which has long argued that it 
+is not its job to police content on its network. In August 2013, in response to
+similar allegations 
+<http://kernelmag.dailydot.com/features/report/4361/cloudflare-terrorists-little-helper/>
+ from James Cook, a reporter at the Kernel magazine, the company’s chief 
+executive Matthew Princepublished a blogpost 
+<http://kernelmag.dailydot.com/features/report/4361/cloudflare-terrorists-little-helper/>
+ laying out its view on free speech on its network.
+
+Prince wrote: “A website is speech. It is not a bomb. There is no imminent 
+danger it creates and no provider has an affirmative obligation to monitor and 
+make determinations about the theoretically harmful nature of speech a site may 
+contain …
+
+“If we were to receive a valid court order that compelled us to not provide 
+service to a customer then we would comply with that court order. We have never 
+received a request to terminate the site in question from any law enforcement 
+authority, let alone a valid order from a court.”
+
+In response to the latest criticism from Anonymous, Prince has redoubled his 
+stance. “I did see a Twitter handle said that they were mad at us,”he told The 
+Register 
+<http://www.theregister.co.uk/2015/11/18/cloudflare_ceo_rubbishes_anonymous_claims_of_terrorist_support/>
+. “I’d suggest this was armchair analysis by kids – it’s hard to take 
+seriously. Anonymous uses us for some of its sites, despite pressure from some 
+quarters for us to take Anonymous sites offline.”
+
+“Even if we were hosting sites for Isis, it wouldn’t be of any use to us … I 
+should imagine those kinds of people pay with stolen credit cards and so that’s 
+a negative for us.”
+
+Those statements are now prompting a further call amongst Anonymous members to 
+boycott the company altogether.
+Anonymous (@TheAnonMovement) 
+#Anonymous <https://twitter.com/hashtag/Anonymous?src=hash> would also like to 
+encourage you to not use@CloudFlare <https://twitter.com/CloudFlare> services 
+any longer.https://t.co/GqhRe4yr8U <https://t.co/GqhRe4yr8U> #OpParis 
+<https://twitter.com/hashtag/OpParis?src=hash> #OpDaesh 
+<https://twitter.com/hashtag/OpDaesh?src=hash>
+ <https://twitter.com/TheAnonMovement/status/667141241935646720> November 19, 
+2015 <https://twitter.com/TheAnonMovement/status/667141241935646720> Anonymous 
+(@GroupAnon) 
+We don't use @CloudFlare <https://twitter.com/CloudFlare>, and we encourage 
+others not to either.https://t.co/pdhNZifiug <https://t.co/pdhNZifiug> 
+#Anonymous <https://twitter.com/hashtag/Anonymous?src=hash> #OpISIS 
+<https://twitter.com/hashtag/OpISIS?src=hash>
+ <https://twitter.com/GroupAnon/status/667060475121766400> November 18, 2015 
+<https://twitter.com/GroupAnon/status/667060475121766400> 
+The Guardian has not received a response to a request for comment from 
+Cloudflare.
+ 

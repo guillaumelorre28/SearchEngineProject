@@ -1,0 +1,57 @@
+
+Apple Pay will come to the UK in July, Apple 
+<https://www.theguardian.com/technology/apple> confirmed at its Worldwide 
+Developers Conference in San Francisco on Monday.
+
+It will be available at more than 250,000 locations - more than the number of 
+merchants it had in the US for last year’s launch.
+
+El Capitan: Apple unveils next version of OS X software
+ Read more  
+<https://www.theguardian.com/technology/2015/jun/08/apples-next-version-os-x-called-el-capitan>
+Participating retailers include Marks & Spencer, Costa and Waitrose – as well 
+as Transport for London, meaning that Tube and bus travel can be paid for with 
+Apple’s contactless payment system.
+
+Apple Pay will be supported by more than 70% of the credit and debit cards in 
+the UK, said Apple executive Jennifer Bailey at WWDC.
+
+The mobile payment system launched in America in 2014, alongside the iPhone 
+<https://www.theguardian.com/technology/iphone> 6, but has been slow to expand 
+to other territories.
+
+Britain is the first country outside the US to have access to use Apple Pay, 
+which lets users pay for things, both on- and offline, using just their phone 
+or watch.
+
+When used as an offline payment system, Apple Pay works in conjunction with an 
+NFC (near-field communications) chip found in the two newest iPhones and the 
+Apple Watch to let users pay for goods by tapping their phones on contactless 
+card readers in stores.
+
+In the US, the system took a marathon of deals to put together, with Apple 
+negotiating with banks, retailers and credit card companies individually to 
+build enough support.
+
+Elsewhere, however, the launch is expected to be much simpler because Apple 
+Pay uses the same technology as that found in conventional contactless card 
+readers, already common across much of Europe and Asia.
+
+But unlike contactless cards, Apple Pay includes an extra security measure – 
+tokenisation – which ensures that the card details stored on a phone are never 
+passed to the retailer. Instead, the payee receives a one-use “token”, which 
+allows them to debit the payment but cannot be reused in future.
+
+Online, Apple Pay uses the same tokenisation system to speed up and secure 
+e-commerce, letting iPhone owners pay for goods on supported websites with just 
+a tap of their finger on the phone’s fingerprint reader.
+
+In the US, uptake of Apple Pay was strong, with more than 40% of iPhone 6 
+owners having used it at least once, according to Auriemma Consulting.
+
+But the service was hampered by a need to bring partners in one by one, 
+leading to some major hold-outs: most notably Walmart, which is alreadywaging a 
+war against credit card firms over merchant fees 
+<http://9to5mac.com/2014/11/09/why-walmart-doesnt-accept-apple-pay/> and 
+reportedly views Apple Pay as merely perpetuating an expensive system.
+ 

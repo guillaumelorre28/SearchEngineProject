@@ -1,0 +1,57 @@
+
+
+
+The public relations news monitor Meltwater <http://meltwater.com/mnews/>, 
+which is still refusing topay 
+<http://paidcontent.co.uk/article/419-newspapers-warn-aggregators-sign-our-new-licence-or-we-may-sue/>
+ UK newspapers for crawling their websites, has now been blocked from indexing
+Times Online <http://www.timesonline.co.uk/>, the most serious of Rupert 
+Murdoch's UK newspapers.
+
+The news site, which is due to go behind a paywall this spring 
+<http://paidcontent.co.uk/article/419-clarified-times-online-charges-to-start-in-spring-for-weekdays-and-sund/>
+ and which had alreadyblocked the NewsNow news monitor 
+<http://paidcontent.co.uk/article/419-the-pay-wall-will-be-built-times-blocks-aggregator-newsnow/>
+ in January, enacted the block via the standard robots.txt protocol on Tuesday. 
+It means thousands of Meltwater customers around the world won't be able to 
+inform clients when their company is mentioned in the Times.
+
+
+
+The move stems from an increasing desire, from both Murdoch's News 
+International and the rest of the UK press, that commercial crawlers pay them 
+to crawl their sites.
+
+In January, the Newspaper Licensing Agency <http://www.nla.co.uk/> (NLA) – 
+which is owned by eight leading UK national news publishers and, for years, had 
+charged clippings agencies to photocopy their pages – introduced two new 
+licences requiring (1) that agencies pay between £5,000 and £10,000 per year to 
+crawl online papers and (2) that agencies' clients pay £58 a year to receive 
+that intelligence.
+
+Most companies complied. The news aggregator NewsNow 
+<http://www.newsnow.co.uk/> tried to make the issue a matter of broad web 
+principle with itsRight2Link <http://www.right2link.org/> campaign. But it 
+complied by removing NLA members' stories from its pay-for service, leaving 
+Meltwater – formerly called Magenta News – the only non-compliant agency.
+
+The way the NLA sees it, news monitors are in effect making a copy of articles 
+when they process articles to provide the categorisation and alerts that are so 
+valuable to PR clients.
+
+Meltwater, seeing differently, in December went to the UK's Copyright Tribunal 
+<http://paidcontent.co.uk/article/419-uk-newspapers-link-tax-referred-to-copyright-tribunal/>
+ to challenge the fairness of the NLA's new licenses – a ruling is still 
+awaited, though the tribunal on Monday, a day before Times Online's blockruled 
+<http://www.prca.org.uk/default.asp?pid=557&sid=8#i_895> that Meltwater can go 
+ahead with itschallenge 
+<http://paidcontent.co.uk/article/419-uk-newspapers-disputing-meltwaters-appeal-against-their-web-charges/>
+. The NLA is only charging crawlers that charge for a service, so Google is off 
+the hook.
+
+Murdoch's News International is not exercising the NLA's new licences despite 
+being an NLA member. But News Corp has, of course, been very keen of late to 
+stress that users of its content, such as search sites, should be paying it. It 
+is unclear how much News International is asking for, compared with the NLA's 
+£5,000-£10,000-a-year demand.
+ 

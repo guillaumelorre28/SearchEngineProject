@@ -1,0 +1,133 @@
+
+A quick burst of 10 links for you to chew over, as picked by the Technology 
+team
+
+Commentary: Is it a blessing for Asustek to have Google backing? >> Digitimes 
+<http://www.digitimes.com/news/a20121106PD205.html>
+
+Does Google <https://www.theguardian.com/technology/google> treat Asustek as a 
+brand partner or an OEM supplier? John Lagerling, director of business 
+development for Android, seems to have an answer to the question.
+
+ When approached by the New York Times during a recent interview seeking a 
+confirmation of Asustek's remarks that current shipments of the Nexus 7 have 
+reached as many as one million units a month, Lagerling replied, "We haven't 
+announced numbers. We typically don't allow our partners to announce numbers."
+
+ The message clearly indicates that Google treats Asustek as an OEM partner, 
+but not a dual-brand partner.
+
+ In the worst-case scenario, Google may tie up with other vendors such as HTC 
+and Lenovo to develop its next-generation Nexus tablets, which will place 
+Asustek under fire from rivals vying for the Android tablet market.
+
+ Asus(tek) in effect did announce Nexus 7 numbers, perhaps to Google's 
+annoyance. But the commentary makes the point that the hopes of building its 
+brand in the US via the N7 might be rapidly dashed; Google wants the Nexus 
+brand purely for itself. OEMs might not find much margin in that. (Article may 
+now be behind paywall.)
+
+Why Surface looks like the tablet Microsoft built for itself >> ZDNet 
+<http://www.zdnet.com/why-surface-looks-like-the-tablet-microsoft-built-for-itself-7000007125/>
+
+There's a test we use when trying to understand the products and strategies of 
+technology companies. Who, we ask, is the real customer? The answer isn't 
+always what you expect and it's always revealing.
+
+ Smart piece, not only about the Surface.
+
+Nvidia CEO: Consumers realize a great tablet is better than a cheap PC >> 
+VentureBeat 
+<http://venturebeat.com/2012/11/08/nvidia-ceo-consumers-realize-a-great-tablet-is-better-than-a-cheap-pc/>
+
+Graphics chip giant Nvidia chief executive Jen-Hsun Huang said in a conference 
+call with analysts today [8 Nov] that consumers realize "a great tablet is 
+better than a cheap PC."
+
+ That's an interesting statement coming from a PC industry leader who plays in 
+both the PC and mobile markets. But Huang pointed out that in the most recent 
+third fiscal quarter ended Oct. 28, 30% of Nvidia's revenues now come from 
+non-PC chips, up from just 3% three years ago.
+
+Acer C7 Chromebook >> Google Play 
+<https://play.google.com/store/devices/details?id=chromebook_acer_c710&feature=device-featured#?t=W251bGwsMSwyLDIwMiwibnVsbC13ZWJfaG9tZV81MDAwMDA1X2Nocm9tZVVLX2RldmljZXNfR0JfXzUwMDAwMDVfY2hyb21lVUtfMV9wcm9tb18xMzUyODI1Mjc2NzU0Il0.>
+
+£199 and it's in stock! 11.6in display (1266x768), 2GB RAM, and - get this - a 
+320GB hard drive. That's a lot of (rotating) storage for aChromebook 
+<https://www.theguardian.com/technology/chromebook>. (Thanks @gvnmcknz for the 
+link.)
+
+Samsung Releases Open Source Files For Android Galaxy EK-GC100 Camera | 
+Popular Photography 
+<http://www.popphoto.com/gear/2012/11/samsung-releases-open-source-files-android-galaxy-ek-gc100-camera>
+
+The first serious thread about modifying the EK-GC100 seems to be geared 
+towardsmaking it make phone calls 
+<http://forum.xda-developers.com/showthread.php?t=1864609>, even if it's only 
+through Skype.
+
+ So, like a camera that has a phone. Or a phone with a camera. (Thanks 
+@sputnikkers for the link.)
+
+Introducing Android 4.2, a new and improved Jelly Bean >> Android Developers' 
+blog 
+<http://android-developers.blogspot.co.uk/2012/11/introducing-android-42-new-and-improved.html>
+
+Among the improvements: 
+
+Users can now place interactive lock screen widgets directly on their device 
+lock screens, for instant access to favorite apps and content. With just a 
+small update, you can adapt any app widget to run on the lock screen. Daydream 
+is an interactive screensaver mode that users can encounter when their devices 
+are charging or docked in a desk dock. You can create interactive daydreams 
+that users display in this mode, and they can include any type of content.
+
+ Clever.
+
+The iPad Mini and the cost of Retina >> Marco.org 
+<http://www.marco.org/2012/11/12/ipad-mini-cost-of-retina>
+
+Marco Arment: 
+
+Apple <https://www.theguardian.com/technology/apple> didn't make an arbitrary 
+decision to withhold Retina on the Mini to save money, upsell more buyers to 
+the iPad 4, or "force" the first generation of iPad Mini owners to upgrade next 
+year. They chose not to ship a Retina iPad Mini because it would be 
+significantly worse than the previous iPads in very important factors.
+
+ This is going to spoil a lot of conspiracy theories.
+
+Google's Nexus 4 smartphone sells out In UK within hours of going on sale >> 
+TechCrunch 
+<http://techcrunch.com/2012/11/13/googles-nexus-4-smartphone-sells-out-in-u-k-within-hours-of-going-on-sale-32gb-nexus-10-tablet-also-out-of-stock/>
+
+We've reached out to Google to confirm the sales situation in Europe and will 
+update with any response. (Update: Google said it has nothing to share on Nexus 
+sales figures at this time.)
+
+ Hurrah for openness, transparency and organising the world's knowledge and 
+making it accessible..
+
+Live long and prosper SteveSi >> Hal's (Im)Perfect Vision 
+<http://hal2020.com/2012/11/13/live-long-and-prosper-stevesi/>
+
+Hal Berenson: 
+
+I was only momentarily shocked when I heard last night that Steven Sinofsky 
+was leavingMicrosoft <https://www.theguardian.com/technology/microsoft>. It was 
+momentary because a friend had told me months ago that Steven would be gone 
+soon after Windows 8 launched. The claim was that he had alienated most of 
+Microsoft's senior leadership, if not the bulk of the executive staff.
+
+ Berenson is a longtime (though now ex) Microsoftie. And it's true, Sinofsky 
+does look a little.. Vulcan.
+
+Windows 95 Tips, Tricks, and Tweaks >> Tumblr 
+<http://windows95tips.tumblr.com/>
+
+"Touch your monitor. It is warm, like flesh. But it is not flesh. Not yet." 
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/u:guardiantech>. To suggest a link, either add it below or 
+tag it with @gdntech on the freeDelicious <http://www.delicious.com/> service;
+ 

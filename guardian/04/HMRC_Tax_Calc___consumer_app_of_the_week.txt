@@ -1,0 +1,72 @@
+
+App: HMRC Tax <https://www.theguardian.com/money/tax> Calc
+
+By: HM Revenue & Customs
+
+Price: Free
+
+Available on: iPhone and Android 
+<https://play.google.com/store/apps/details?id=uk.gov.hmrc.ptcalc&feature=search_result>
+
+What is it?
+
+"A new tax calculator enabling people to work out how much tax they pay and 
+how the government spends it," saysHM Revenue & Customs 
+<http://www.hmrc.gov.uk/>, the part of the government set up to collect our 
+taxes. It says the app will make the system more transparent and easier to 
+understand, and suggests it could be useful to anyone moving jobs who would 
+like to know how much their new salary will translate to in take-home pay.
+
+Is it easy to use?
+
+Yes. The default page asks for your weekly pay, but there are tabs along the 
+top so you can choose to enter your monthly pay or your annual salary. I choose 
+the annual option. It asked for my gross salary, and a little "i" took me 
+through to an explainer about exactly what was being asked for. I filled in the 
+number and pressed the Calculate button. I was taken through to a page which 
+detailed my gross pay, how much I would pay in income tax this year, and how 
+much in national insurance. It then showed what my take home pay will be.
+
+Underneath it explained how much income tax and national insurance I will pay 
+for every £1 I earn, and said what my marginal tax rate would be (again 
+national insurance and income tax were combined). It also showed how much I 
+would be contributing to different government spending including heath, welfare 
+and defence, using figures based on 2011 spending.
+
+There are also buttons taking you through to a full breakdown of government 
+spending and full details of your own tax payments and how much you are paying 
+at each rate – unfortunately, once you have clicked through to these you cannot 
+click back to your figures or to the menu of options and have to go right back 
+to the start.
+
+You can only use the app for employment income – there is nowhere to add 
+savings interest or income from pensions – and is less accurate if you earn 
+more than £100,000 a year.
+
+Is it fun?
+
+Fun is too strong a word, but it was quite interesting to get an idea of where 
+the money that disappears from your pay packet each month is going. (And 
+interesting to find that three times as much is being spent on defence than on 
+the environment.)
+
+Is it pretty?
+
+It's very cleanly presented, using the green colour scheme familiar to anyone 
+who has had any dealings with the taxman. However, the type is quite small and 
+you cannot enlarge it, which causes a bit of eye strain.
+
+Should you download it?
+
+Yes, if you want to get a better idea of how much of your pay goes towards 
+national insurance and income tax, and what is done with it after that – 
+apparently, more than half of us do not know how much tax we are paying.
+
+From 2014 we will all get letters offering the same kind of breakdown 
+<https://www.theguardian.com/money/blog/2012/mar/20/income-tax-statement-government-spending-scrutiny>
+, but in the meantime this is the easiest way to get an indication of how much 
+you are contributing to the nation. Of course, as we pointed out when HMRC 
+announced the personalised letters, focusing on income tax does not tell the 
+whole story – perhaps HMRC could consider adding some kind of VAT and other 
+taxes calculator to the app.
+ 

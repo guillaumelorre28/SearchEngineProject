@@ -1,0 +1,157 @@
+
+Autonomy's $11bn (£6.6bn) sale to Hewlett-Packard 
+<https://www.theguardian.com/business/hewlettpackard> faces further scrutiny 
+after documents cast doubt over the structure of some transactions conducted by 
+the British software firm before its takeover.
+
+New evidence has come to light which, according to HP, raises questions over 
+some multimillion-dollar deals with middlemen – resellers of Autonomy software 
+– who bought theAutonomy 
+<https://www.theguardian.com/business/autonomycorporation> products on credit 
+in order to sell them on to a named end-user. The documents refer to reselling 
+deals with three blue-chip companies: food group Kraft, drugs company Eli 
+Lilly, and accountancy firm KPMG.
+
+The news comes as a San Francisco court prepares to rule on Monday whether a 
+group of HP shareholders can settle a dispute with the US tech firm over the 
+Autonomy transaction.
+
+Autonomy's founder Mike Lynch and HP boss Meg Whitman have been at loggerheads 
+since California-based HP announced in November 2012 that it waswriting down 
+the value of Autonomy 
+<https://www.theguardian.com/business/2012/nov/23/hewlett-packard-autonomy-mike-lynch>
+ on its books by $5bn. HP said it had uncovered "serious accounting 
+improprieties, disclosure failures and outright misrepresentations" at Autonomy.
+
+Lynch and his team deny all allegations of wrongdoing, attributing much of the 
+problem to differences between British and American accounting standards. They 
+blame bad management by HP.
+
+"This was the first time you had a fundamental software technology business go 
+worldwide out of the UK and they have destroyed it," Lynch told the Guardian 
+last week. "The star example for UK software technology at world class levels 
+has now been irreparably damaged."
+
+One of the documents seen by the Guardian is a letter sent by Autonomy's then 
+finance director during a confidential 2011 review of Autonomy's accounting 
+methods by the Financial Reporting Council (FRC), which polices what UK firms 
+tell shareholders about their performance.
+
+HP, which bought Autonomy in October 2011, has queried over $200m of the $1bn 
+in revenues Autonomy reported in 2010. HP attributes $100m of the sum to a 
+string of big deals with various resellers. A source with knowledge of the 
+matter said HP believed "dozens" of Autonomy's contracts with resellers from 
+January 2009 onwards were questionable. Autonomy says it signed 15,000 deals in 
+the period.
+
+Lynch said that Autonomy's auditor, Deloitte, was aware of every transaction 
+that has been questioned, and approved Autonomy's accounting methods. The 
+Guardian has seen the relevant Deloitte audit notes. A spokesperson for the 
+auditor said: "Deloitte conducted its audit work in full compliance with 
+regulation and professional standards."
+
+The deals centred around contracts with a reseller to buy software on credit 
+and with little or no money changing hands up front. The contract would name an 
+end user, such as a bank or government agency, to whom the reseller intended to 
+sell the software. Under UK accounting standards, Autonomy could count such 
+promises as real revenues as long as the reseller signed a legally binding 
+agreement stopping it from returning the software if it couldn't find a buyer.
+
+But the documents suggest the resellers were not always able to sell the 
+software to the named end customer. In some cases their purchase from Autonomy 
+was cancelled, and at least one reseller received fees from Lynch's company in 
+compensation. On 30 September 2009, the last day of a financial quarter, a 
+reseller called Capax placed a $4m order with Autonomy for software it intended 
+to sell to Kraft, which owns the chocolate maker Cadbury. Capax made a $400,000 
+downpayment on the deal. But in the following quarter Kraft arranged to buy the 
+software directly from Autonomy. Autonomy subsequently cancelled its sale to 
+Capax, and paid it a $400,000 one-off feein compensation. The $400,000 
+downpayment Capax had made for the Kraft deal was carried over to a new deal, 
+for software Capax intended to sell to Eli Lilly.
+
+Details of the transaction emerged from a letter sent on 8 June 2011 from 
+Autonomy's then finance director, Sushovan Hussain, in response to questions 
+from the Financial Reporting Review Panel, which acts for the FRC. In August, 
+the panel said it "does not intend to pursue any of the above matters further". 
+Following on from HP's concerns,The regulator is now rechecking Autonomy's books
+ 
+<https://www.theguardian.com/business/2013/feb/11/autonomy-investigated-over-fraud-claims>
+, having opened a full inquiry in February 2013. The FRC declined to comment.
+
+The correspondence shows that on 31 December 2009, the last day of Autonomy's 
+financial year, Capax signed a $6m purchase order for software for Eli Lilly. 
+But the following year, in June 2010, with the money still outstanding from 
+Capax, the pharmaceutical group apparently decided to deal directly with 
+Autonomy, again bypassing the reseller. Hussain's letter says Capax was made a 
+party to the contract, invoiced Eli Lilly for the software, and remained liable 
+to pay Autonomy for it.
+
+A second document highlights a deal with a British reseller, Tikit, which is 
+now owned by BT but was an independent company at the time. On 31 December 
+2010, Tikit signed for $6m of Autonomy's WorkSite software, which it hoped to 
+sell to KPMG. But the document, a letter dated 31 December and signed by 
+Autonomy and Tikit executives, appears to transfer some financial risk back to 
+Autonomy. It promises nearly $1m of work to Tikit should the company not 
+complete its KPMG deal by 30 March 2011. The letter states: "Tikit shall be 
+appointed as the second line support and maintenance provider to KPMG under the 
+existing maintenance agreement between KPMG and Interwoven [an Autonomy 
+company] for three quarters from 1 January 2011 for a fee of up to £320,000 per 
+quarter."
+
+A spokesman for Lynch confirmed Tikit was eventually contracted to work with 
+Autonomy for KPMG, and paid for the software. He added that software customers 
+often sign deals at the end of a quarter to negotiate the best price from the 
+supplier, and that most software vendors operate on a credit basis.
+
+Lynch said: "This is another example of selective disclosure by HP. They have 
+partially leaked details around a few deals, out of over ten thousand that took 
+place, which were all reviewed and cleared by the auditors, including any fees, 
+and recorded as such at the time. They were noted as extremely rare cases and 
+the cash was received for all of them. In short they were handled correctly. HP 
+needs to explain where the $5bn write-off came from, not run a smear campaign 
+of selective facts and spin."
+
+"They want to destroy us through spin before the facts are tabled. If this was 
+a multibillion-dollar fraud why were people paying us? There would have to be 
+an enormous cash hole and there isn't. If you have got cash coming in year 
+after year, that's a sustainable business."
+
+HP says it signed 150 new customers for Autonomy in 2013, and has increased 
+headcount at the division by 25% since the acquisition.
+
+"We were able to bring in world class management like Robert Youngjohns to 
+lead the organization, we have seen a significant turnaround in all aspects of 
+the business including employee morale, customer satisfaction, and product 
+innovation."
+
+A source with knowledge of the matter said HP and its advisers did not have 
+access to the Deloitte audits or work papers during the due diligence process. 
+But Lynch's spokesman said HP's due diligence team was entitled to inspect all 
+documents, and if there were documents they did not see, it was only because 
+they were not asked for.
+
+The deal to acquire Autonomy was conceived by Leo Apotheker, the then chief 
+executive of HP, who planned to sell its personal computer division in order to 
+concentrate on servers and software, a strategy in which the British firm was 
+to play a leading role. But Apotheker was ousted after investors took fright 
+and HP shares plummeted.
+
+The case has triggered shareholder lawsuits, one of which is due to be settled 
+in California on Monday. Hussain is hoping to block the settlement.
+
+Regulators have launched inquiries on both sides of the Atlantic, with FBI 
+agents assigned to investigate in the United States. The Serious Fraud Office 
+announced a preliminary criminal investigation in March 2013.
+
+Lynch, whose fortune was boosted by an estimated £500m when HP acquired his 
+company, has now expressed regret that the deal ever took place. It is 
+understood he hopes eventually to sue HP for damages. "Autonomy was set up to 
+change the software industry, it wasn't just another application. Leo's vision 
+was to change the world as well. What is sad now is that dream will never come 
+true.
+
+"The thing about a technology acquisition is you value it on what you can do 
+with the technology. I think Leo's plan to change HP was a great one and in 
+that light I don't think they overpaid. If they were buying it to bolt it on I 
+wouldn't have bought the company at that multiple."
+ 

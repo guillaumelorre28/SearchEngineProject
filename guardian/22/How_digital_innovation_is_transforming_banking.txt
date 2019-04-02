@@ -1,0 +1,148 @@
+
+A new wave of technologies – such as blockchain, digital wallets and 
+robo-advice – is revolutionising the way we manage, control and distribute 
+money. Gone are the days where you had to enter a bank to carry out a 
+transaction. Just whip out your smart phone with your mobile banking app and 
+you’re set. In fact, today you can even seek financial advice courtesy of 
+automated computer programs – no human interaction required.
+
+Almost every area of the finance industry is being disrupted by these new 
+technologies, forcing the traditional banking sector to re-evaluate and invest 
+in digital innovation, and changing the face of money as we know it.
+
+According to Alan Tsen, founder of Block+Labs, a thematic innovation lab that 
+aims to develop new ventures in the blockchain technology sector, blockchain 
+has had the biggest single impact so far.
+
+Blockchain is a public digital ledger with a complete record of transactions, 
+which is shared among a network of computers worldwide. It can be used to 
+transfer anything of value, from money and bonds to house titles and contracts. 
+The most common products currently using blockchain are digital currencies such 
+as bitcoin.
+
+For example, blockchain provides people with access to cryptocurrencies (such 
+as bitcoin) where tokens can be traded online like physical cash to make 
+instant and secure payments anywhere in the world, without third-party taxes 
+and fees. Blockchain technology can also be used by sectors other than finance, 
+including travel and media: to support loyalty points programs and newspaper 
+websites, which can charge readers per page or per article rather than per 
+month.
+
+“The financial technology landscape is definitely changing,” Tsen says. “In 
+fact, many factors are coalescing to form a tectonic shift in how the industry 
+is structured. At the forefront of this change is blockchain technology.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fing-direct-being-human-in-a-digital-world%2F2016%2Fnov%2F22%2Fhow-digital-innovation-is-transforming-banking%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F8ae2909849de722ec8a4f03fcbf3b776a1b64e8c%2F0_173_5184_3110%2F5184.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20digital%20innovation%20is%20transforming%20banking&url=https%3A%2F%2Fwww.theguardian.com%2Fing-direct-being-human-in-a-digital-world%2F2016%2Fnov%2F22%2Fhow-digital-innovation-is-transforming-banking%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20digital%20innovation%20is%20transforming%20banking&url=https%3A%2F%2Fwww.theguardian.com%2Fing-direct-being-human-in-a-digital-world%2F2016%2Fnov%2F22%2Fhow-digital-innovation-is-transforming-banking%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F8ae2909849de722ec8a4f03fcbf3b776a1b64e8c%2F0_173_5184_3110%2F5184.jpg>
+ Photograph: Blackzheep/Getty Images/iStockphoto 
+“When this ‘peer-to-peer electronic cash system’ was first proposed, it wasn’t 
+clear that the underlying piece of technology that made it possible – a 
+blockchain – would be as impactful an idea as it has been. The core idea of 
+moving the role of trusted intermediary away from ‘middlemen’ to a network has 
+been a revelation to both incumbent banks and start-ups alike.
+
+“In fact, it’s been so impactful that we’ve seen it being experimented with by 
+almost every bank in the world and across a broad set of use cases. In finance, 
+this has included everything from settlement to trade finance.”
+
+Indeed, ING is one of a number of banks that have joined a global consortium 
+called R3, whose aim is to develop a common infrastructure for blockchain 
+technology and its applications in the financial system worldwide.
+
+“Banks in general have recognised that something that is publicly available, 
+accessible and secure is potentially disruptive to the current banking model,” 
+says Jonah Cretser-Hartenstein, Manager of Digital Innovation and Emerging 
+Channels at ING DIRECT Australia. “We need to be exploring how we can leverage 
+this technology to enhance our value proposition and potentially find new ways 
+of delivering value to customers as the technology evolves.”
+
+Cretser-Hartenstein says the big benefits of blockchain technology are that it 
+offers secure, fast and efficient transactions – doing away, for the large 
+part, with the current cumbersome and expensive paper trails.
+
+“Basically, technology has made transactions more convenient, more secure and 
+faster,” he says. “It’s also breaking down borders. International remittances 
+and payments, and even just sending money to family overseas, is becoming much 
+cheaper as well as being more accessible and secure.”
+
+Basically, technology has made transactions more convenient and secure and 
+faster."
+Jonah Cretser-Hartenstein, ING DIRECT Australia 
+While the ripples of blockchain have been felt far and wide in the finance 
+sector, other emerging technologies are also having an impact. FinTech 
+Australia CEO Danielle Szetho says artificial intelligence (AI) is also 
+reshaping the financial landscape.
+
+“As well as blockchain, AI and even the way in which data is being used in 
+sophisticated ways these days are completely disrupting parts of the value 
+chain in finance,” Szetho says. “You’ve got AI, such as robo-advice, which is 
+potentially rendering parts of the workforce essentially obsolete.”
+
+Robo-advice is an automated process of offering financial advice via computer, 
+tablet or smartphone. According to InvestSMART, robo-advisers are forecast to 
+manage around $255 billion in investor capital by 2019.
+
+Szetho says robo-advice offers consumers a faster and cheaper way of gaining 
+financial advice than meeting with a human financial consultant, making it more 
+widely accessible to the masses.
+
+“Robo-advice is interesting because in some instances it is competing with 
+financial advisers, in others it’s used to support them,” she says. 
+“Traditionally a financial adviser would gather a lot of information from you 
+then go away and devise a plan and you would come back and get a 
+recommendation. Robo-advisers can offer standalone advice or help finanical 
+advisers create recommendations on the spot.”
+
+Cretser-Hartenstein believes the current robo-advisers are “just the tip of 
+the iceberg”, with huge potential in this innovative technology yet to come.
+
+“With robo-advice and chatbots we’re seeing the evolution of artificial 
+intelligence,” he says. “Whether it’s an algorithm or something even smarter 
+than that such as machine learning, you’re looking at being able to take this 
+massive computer power we have today, where computer programs have the ability 
+to understand the context in which you’re trying to perform an action and 
+return an intelligent and relevant response.
+
+“This is going to be incredibly powerful and significant to the way financial 
+services will change. At the moment with robo-advice you can answer a few 
+questions and give it some context about your goals and intent and investment 
+approach and it will come back to you with a recommended allocation of funds 
+across a portfolio.
+
+“That’s just the start. That’s based on an algorithm, it’s not necessarily 
+particularly intelligent yet. What we are starting to see take off is the 
+ability for that algorithm to continue to evolve and enhance itself and be able 
+to proactively come back to the consumer with opportunities to rebalance their 
+portfolio based on changes in the market. And even take it to the next level 
+and have a conversation with you about whether or not that’s appropriate.”
+
+Why human centred design matters
+ Read more  
+<https://www.theguardian.com/ing-direct-being-human-in-a-digital-world/2016/nov/14/why-human-centred-design-matters>
+As to how people feel about taking financial advice from a machine as opposed 
+to a person, only time will tell, but Szetho says there’s room in the market 
+for both.
+
+“It certainly helps to have a human element, but some of these chatbots and AI 
+are extremely compelling. When it comes to the current generation, they are 
+very used to engaging with companies through technology. However, if you are 
+having any problem, most people still want to talk to a human being.
+
+“And when it comes to large transactions such as buying a house, that’s when 
+many people will want to talk with a person. I don’t think that will change for 
+quite some time. These investments are more about relationship-based 
+transactions, where you want to understand a lot more of the finer details 
+about what you are doing.”
+
+Cretser-Hartenstein agrees: “I think it will always be part of our human need 
+to interact and feel confident that there is someone real sitting behind the 
+technology. But I think we can get 80-90 per cent of the way there for most 
+simple tasks through artificial intelligence.
+
+“It’s a really exciting space and there is a lot of investment going there. I 
+think we are going to look back at this point in time – 2016 – and say that was 
+the beginning of a new era. There’s so much more to come.”
+ 

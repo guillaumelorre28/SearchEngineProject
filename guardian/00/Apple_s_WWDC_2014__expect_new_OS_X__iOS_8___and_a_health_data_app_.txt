@@ -1,0 +1,267 @@
+
+The banners have gone up around Moscone West centre in San Francisco: Apple's 
+Worldwide Developer Conference (WWDC) is ready to roll. It will carry on 
+through the week, but the public-facing part is the keynote address. On Monday 
+(10am local time, 6pm BST) Tim Cook, Apple's chief executive, will open the 
+show - in which he's expected to be aided by marketing chief Phil Schiller, 
+software chief Craig Federighi and others.
+
+
+But what will they reveal? Based on the banners in which an iOS 7-thin "X" is 
+overlaid on a picture of El Capitan in Yosemite in winter, and an "8" overlaid 
+on what looks like an undersea view, it's obvious that there are going to be 
+big changes coming to the desktop Mac OS X system, and perhaps some smaller 
+ones to iOS, used on theiPhone <https://www.theguardian.com/technology/iphone> 
+and iPad, in its new iteration iOS 8.
+
+And what else will there be? After talking to developers and other sources – 
+and looking too at past events – here's what one can expect, could expect, and 
+probably shouldn't expect in software, hardware and services from the keynote.
+
+As Harry McCracken points out, people tend to expect too much from WWDC 
+keynotes. (He'sgone back over a decade of them 
+<http://www.technologizer.com/2014/06/01/wwdc/>, with animated GIFs - highly 
+recommended.) Because Apple three times launched new iPhones at WWDC (in 2008, 
+2009 and 2010), an expectation arose that it would do this every year - to the 
+extent that some people really have suggested that it's going to launch or 
+preannounce the next version of the iPhone here. It won't, for reasons that 
+will be explained below. And note that there were also unrealised expectations 
+of an "iWatch" last year.
+
+Mac OS X
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjun%2F02%2Fapple-wwdc-2014-osx-yosemite-ios8-healthbook-appletv-tim-cook%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F2%2F1401684475577%2Fb70a8743-daef-400a-a3ce-3e218d514cd4-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple's%20WWDC%202014%3A%20expect%20new%20OS%20X%2C%20iOS%208%20-%20and%20a%20health%20data%20app%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjun%2F02%2Fapple-wwdc-2014-osx-yosemite-ios8-healthbook-appletv-tim-cook%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Apple%27s%20WWDC%202014%3A%20expect%20new%20OS%20X%2C%20iOS%208%20-%20and%20a%20health%20data%20app%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjun%2F02%2Fapple-wwdc-2014-osx-yosemite-ios8-healthbook-appletv-tim-cook%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F2%2F1401684475577%2Fb70a8743-daef-400a-a3ce-3e218d514cd4-2060x1236.jpeg>
+ Yosemite's El Capitan in winter, in a banner at Apple's WWDC 2014 at the 
+Moscone West centre, San Francisco. Photograph: Charles Arthur/Guardian 
+Apple's desktop operating system is going to get a new look. Version 10.10, 
+which will probably be codenamed "Yosemite" (last year's was called "Mavericks" 
+after a surf break; the names are based on famous Californian places) is 
+expected to get the "iOS 7" treatment - that is, a reduction (or even 
+elimination) of drop shadows in favour of a "flat" look like that on iOS 7. 
+What's notable is that very little has leaked about this new version – not even 
+a screenshot, which would normally be expected. Developers writing for OS X 
+expect that they are going to have to rethink app interfaces so that they make 
+sense on both this new look of OS X, and on the older ones that preceded it.
+
+iOS 8
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjun%2F02%2Fapple-wwdc-2014-osx-yosemite-ios8-healthbook-appletv-tim-cook%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F2%2F1401684906107%2F95f8f304-e064-4bc5-b443-5fe138abb040-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple's%20WWDC%202014%3A%20expect%20new%20OS%20X%2C%20iOS%208%20-%20and%20a%20health%20data%20app%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjun%2F02%2Fapple-wwdc-2014-osx-yosemite-ios8-healthbook-appletv-tim-cook%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Apple%27s%20WWDC%202014%3A%20expect%20new%20OS%20X%2C%20iOS%208%20-%20and%20a%20health%20data%20app%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjun%2F02%2Fapple-wwdc-2014-osx-yosemite-ios8-healthbook-appletv-tim-cook%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F2%2F1401684906107%2F95f8f304-e064-4bc5-b443-5fe138abb040-2060x1236.jpeg>
+ A teaser banner - apparently showing a view beneath the sea - for iOS 8 at 
+Apple's WWDC 2014, Moscone West, San Francisco. Photograph: Charles 
+Arthur/Guardian 
+The iPhone and iPad software will get a smaller update than last year's - 
+partly becauseApple <https://www.theguardian.com/technology/apple> has shifted 
+engineers from its mobile team to work on the desktop software. Equally, it 
+doesn't have to make such a dramatic change - much of that (the different 
+appearance, and the inclusion of gesture-based interaction such as swiping) was 
+done a year ago.
+
+While an update to the desktop software might attract some attention, it only 
+has around 75m users - compared to perhaps 500m iOS users worldwide. That means 
+that changes and additions to iOS are far more important, in terms of what they 
+mean for developers and users.
+
+With that in mind, Apple is also expected to begin an iOS "platform" strategy 
+- rather as it did back in 2001-2, when it launched its "Digital hub" platform 
+strategy for OS X. That introduced programs to organise music, photos, videos 
+and to create DVDs - iTunes, iPhoto, iMovie and iDVD. (Of those, iMovie was 
+first - in 1999 - followed by iTunes and iDVD in 2001 and iPhoto in 2002.)
+
+Healthbook app for fitness data
+
+This time the platforms are expected to be "Healthbook", an iOS 8 app which 
+will allow separate fitness and health devices to send data to a centralised 
+data collection app on the iPhone, and a "smart home" app that will let you 
+configure and connect to smart devices - electricity meters, light bulbs, air 
+conditioners, and so on - which have a special "Made for iPhone" label.
+
+Will Apple move into those markets, though? It would seem odd for a company 
+that makes its money from hardware to offer a platform for hardware, and yet 
+not exploit for itself by making its own products. However, if you look at the 
+"digital hub" portfolio, Apple only made hardware for one of those strands of 
+music, photos and film - the iPod. Unless, of course, you want to argue, as you 
+reasonably could, that the iPhone does photos and video. But it came up with 
+the digital hub well before the iPhone project began.
+
+So it's possible that Apple will get into the health/fitness and "smart home" 
+hardware markets - but it might wait a little while before it does so.
+
+Missing from iOS so far is any equivalent to Android's "intents", which lets 
+an app signal to the OS that it's able to accept or send particular sorts of 
+data - so for example a Flickr app would indicate that it can send and receive 
+photos, which would then be signalled to any app that wanted to receive or send 
+a photo within the OS. This is known asXPC (cross-program communication), and 
+it has actually beenavailable - but not turned on - in iOS since 2012 
+<http://conradstoll.com/blog/2012/11/4/speculation-on-xpc-for-ios.html>. 
+However, it's a private API, reserved - so far - for Apple's apps.
+
+One argument I've heard from developers is that after all the upheaval of iOS 
+6 and 7 (adding iCloud in the former, and the complete design overhaul in the 
+latter), now could be the time for XPC to become visible in iOS 8. If you want 
+to try to unpick clues - as people love to - then the relevance of the 
+"undersea" picture in iOS 8 is that this previously-submerged system will rise 
+above the water. It's as good a suggestion as any.
+ Apple's 2013 WWDC poster for iOS 7 - which hinted at translucency, thinner 
+fonts and primary colours. Photograph: /Apple 
+
+Last year, the posters showed a wave (as it was revealed to be) at Mavericks 
+for OSX, and a set of overlapping, translucent, primary-coloured rectangles for 
+iOS 7 - which turned out to be about the "flat" design and translucency 
+introduced in iOS. It makes sense, but only after you've seen it.
+
+More confidently expected is that the Maps function is expected to add public 
+transport information, at least in the US; for other countries, as so often 
+with such services, other countries may have to wait longer (or it may be added 
+piecemeal). It's easy to underestimate how vast a project getting public 
+transport data for every city in every country is; Google has been at it for 
+years, and it's likely to have cost millions and millions of pounds. Public 
+transport data is a "nice to have", but is it essential?
+
+There might be cross-platform integration of the "AirDrop" function 
+<http://support.apple.com/kb/HT4783>, which currently works between iOS 
+devices, or - but not also - between OS X computers. Being able to shift files 
+between both platforms sounds attractive - but there's an obvious problem: what 
+if you transfer a file from an OSX computer to an iOS device but there's no way 
+to do anything with the file on the iOS device? For example, transferring an 
+Adobe Illustrator file with multiple layers might sound great - but what's iOS 
+going to do with it? And where would the file "be" on iOS when you tried to 
+open it? One of Apple's biggest efforts has been to get rid of the visible file 
+system, to focus instead on apps, which open files that are available to them 
+(and stored in the non-visible iOS file system - it does exist). Cross-platform 
+AirDrop might open up a can of filesystem worms.
+
+A similar to-be-avoided can of worms is the suggestion that there will be a "
+split screen" system on iOS 8. Although Windows 8 offers this, it's not obvious 
+to invoke <http://windows.microsoft.com/en-us/windows-8/getting-around-tutorial>
+ (and probably works best on screens which have a 16:9 aspect ratio), and 
+figuring out what a "swipe" means becomes more complex if you have two apps 
+that use swipes side-by-side - does a swipe from one to the other mean you're 
+trying to move content, or just swiped too far?
+
+Possible but unlikely: some form of mobile payment system which turns iPhones 
+into a way of paying for things. The obstacle here isn't that iPhones don't 
+have NFC - while lots of Android phones do (though nobody, including Google, 
+knowsquite how many), the obstacle to their being used as mobile payments 
+systems is the lack of standardisation. That hasn't changed; different 
+retailers are using different standards, andfighting among each other 
+<http://www.computerworld.com/s/article/9247016/Isis_CTO_accuses_retailers_of_turning_off_NFC_and_smartcard_payment_tech?taxonomyId=240&pageNumber=1>
+. Apple would surely like to get into mobile payments, but the landscape seems 
+too confused at present.
+
+Apple TV
+
+This set-top box, which runs a skinned version of iOS, is seriously overdue 
+for both a hardware and software update. Apple executives have been dropping 
+gentle hints about the size of the business that the Apple TV installed base 
+generates - a $1.2bn business (from people buying content such as TV shows and 
+films) in the 2013 financial year, according to Tim Cook, who said it wasn't 
+right to call it a "hobby" any more.
+
+The Apple TV lacks an app platform, except for a very select few developers - 
+specifically, TV channels such as HBO (for its HBO Go service) and Major League 
+Baseball (MLB). But all sorts of developers would love to build apps for Apple 
+TV; it doesn't make sense either that the BBC can't build an iPlayer app, nor 
+ITV or Channel 4.
+
+Looking at the Apple TV content list for the UK, it's a limited list 
+<https://www.apple.com/uk/appletv/whats-on/> ahead of the keynote - Netflix, 
+Sky News, Sky Sports, Bloomberg, MLB TV, MBA (basketball), NHL (ice hockey), 
+Red Bull TV ("live and exclusive events featuring the world’s greatest 
+athletes, artists and more"), WSJ Live (news from the Wall Street Journal), 
+YouTube, Vevo (music streaming and video), Qello (music concerts and films on 
+demand), Vimeo (the video site), Flickr, Crunchyroll ("the best in Japanese 
+anime and drama"), and KOR TV ("live Korean TV"). It's hardly a UK-oriented 
+list.
+
+
+Developers and others say that Apple has new Apple TV hardware and software 
+that it has had in its testing labs since last year; they've been expecting it 
+for ages, and so far been continually disappointed. Updated software with an 
+app platform and a smart home interface - because where better to control your 
+smart home than through the biggest screen in your home? - would make a lot of 
+sense.
+
+Don't expect a TV set; the replacement rate is too slow - about 10%, or once 
+every ten years, compared to 50% for the iPhone, and 20% or better for laptops 
+and desktops. But a set-top box like the Apple TV is additive - you can buy one 
+without getting rid of everything else. (The hope that you might be able to 
+route your other set-top boxes, such as digital TV or Sky boxes, through an 
+Apple TV is over-optimistic. It's doubtful such a device can even be built.)
+
+Apple and Beats
+
+The Wall Street Journal suggests that the $3bn purchase price breaks down to 
+$2.5bn for the (profitable) headphones business, and $500m for the (probably 
+unprofitable) streaming music business. And it also gets Jimmy Iovine, who will 
+be able to bring his considerable negotiating expertise and contacts in 
+Hollywood and the music business. But given the demographic to which the Beats 
+brand appeals, and the slightly different one to which Apple appeals, it's 
+unlikely that they will be merged.
+
+What about an iPhone - or a hint?
+
+Apple makes phones in volume now - really big volumes. It doesn't launch 
+phones in the summer now because it focusses sales towards Christmas, which is 
+the biggest buying period of the year for mobile phones. But if - as many 
+expect - it's going to launch alarger-screened iPhone later this year, 
+shouldn't it give developers some sort of hint about it? Or maybe even just 
+announce it?
+
+That's easily answered. It didn't hint that it was going to change the screen 
+size of the iPhone with the iPhone 5; developers had to adjust the layout of 
+their apps to take account of the longer screen. (It took some a long time.) 
+Apple didn't warn them because to do so might have slowed sales of existing 
+iPhones. The chances of it doing so seem microscopically remote.
+
+What about simply announcing the new phone? That's where the volume becomes 
+important. If Apple were going to announce the new iPhone on Monday, it would 
+have had to get millions of them built already - because to announce something 
+and then not release it for months would kill sales of the existing product.
+
+But there hasn't been any noise about new iPhones being built in huge numbers 
+from the supply chain in China, which you would expect. That means there aren't 
+any new iPhones coming.
+
+The same probably applies to the "big iPad": if there's going to be a 12in 
+iPad (measured diagonally), there should have been noises already from the 
+supply chain. There hasn't been - and the usual focus on the September-December 
+period would also suggest that, as for the past two years, the newiPad 
+<https://www.theguardian.com/technology/ipad> or iPads will appear around 
+September-October.
+
+MacBook Air, MacBook Pro, iMac, Mac Pro, Mac Mini
+
+This is the present computer line. Two years ago the "retina" MacBook Pro was 
+introduced; last year it was the Mac Pro. But theMacBook Air has been updated 
+recently, the iMac doesn't need an update, and updating theMac Mini would be 
+underwhelming, to say the least. Even if Mac OS X is getting an update, it 
+doesn't seem like the time for an update of any of the computer line.
+
+Is that it?
+
+On the user-facing side, yes. For developers, though, the promise is of a huge 
+number of changes - as evidenced by the program, which ahead of the keynote 
+includes such topics as "No Comment", "This One Is Sealed", "Shhhh, Can't Tell 
+You Yet", "It's Under Wraps", and so on. Keeping the content of talks secret so 
+that it won't tip developers off about what's coming up isn't unusual, but to 
+keep the titles secret to such an extent - so that developers can't even plan 
+their day (around iOS or OS X) is. Once the keynote is complete, the schedule 
+will be revealed.
+
+Unusually, Apple is streaming its "state of the union" keynote for developers, 
+which happens in the afternoon and is the in-depth explanation of the 
+public-facing changes that have been announced in the morning. That's 
+indicative of something going on.
+
+
+• Apple chief Tim Cook under pressure to prove innovative flair is still there 
+<https://www.theguardian.com/technology/2014/may/30/pressure-tim-cook-innovation-apple>
+ 

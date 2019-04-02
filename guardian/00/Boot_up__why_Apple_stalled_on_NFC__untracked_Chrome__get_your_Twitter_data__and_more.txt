@@ -1,0 +1,173 @@
+
+A quick burst of 12 links for you to chew over, as picked by the Technology 
+team
+
+Inside Apple's go-slow approach to mobile payments >> WSJ.com 
+<http://online.wsj.com/article/SB10001424052702304830704577493261395358658.html>
+
+Holding back in mobile payments was a deliberate strategy, the result of deep 
+discussion last year. SomeApple <https://www.theguardian.com/technology/apple> 
+engineers argued for a more-aggressive approach that would integrate payments 
+more directly.
+
+ But Apple executives chose the go-slow approach for now. An Apple spokeswoman 
+declined to comment on the decision-making process.
+
+Apple's head of world-wide marketing, Phil Schiller, in an interview last 
+month, said that digital-wallet mobile-payment services are "all fighting over 
+their piece of the pie, and we aren't doing that."...Last year, Apple engineers 
+and executives considered some aggressive approaches to exploit that advantage 
+when in-house debate over the market began in earnest.Google 
+<https://www.theguardian.com/technology/google> unveiled its Android payment 
+system around the same time.
+
+ A small group began investigating whether the company should create a new 
+service that would embed various payment methods into the iPhone or build a 
+payment network of its own, according to people familiar with the matter
+
+. Apple's head of iPhone software, Scott Forstall, was interested in the idea, 
+say people familiar with the matter, and engineers on his team began to 
+brainstorm a comprehensive "wallet app."
+
+ The blockage: effect on NFC on battery life, and retailers' slow takeup in 
+the US. Basically, it has it all ready - but is waiting for the market to 
+arrive. (Subscription required.)
+
+Google adds 'Do Not Track' to Chrome >> PCWorld 
+<http://www.pcworld.com/article/262318/google_adds_do_not_track_to_chrome.html>
+
+Google has added a Do Not Track privacy option to Chrome's developer channel, 
+though it's late to the party compared to other browsers.
+
+When Do Not Track is enabled in a browser, it signals to Websites and to 
+advertisers that the userdoesn't want to be followed 
+<http://www.pcworld.com/businesscenter/article/231231/ftcs_brill_new_online_privacy_tools_needed.html?tk=rel_news>
+ around the web for ad targeting purposes. Ad networks and sites aren't 
+required to comply, butseveral of them do <http://donottrack.us/implementations>
+, and the U.S. government is now pressuring more companies to play along,
+including Google 
+<http://online.wsj.com/article/SB10001424052970203960804577239774264364692.html>
+.
+
+Apple Maps: The FAQ >> counternotions 
+<http://counternotions.com/2012/09/21/applemaps/>
+
+As they say, every turn-by-turn direction starts with the first step.
+
+LG Display holds 70% of iPad panel shipments >> Digitimes 
+<http://www.digitimes.com/news/a20120919PD220.html>
+
+LG Display is now responsible for 70% of iPad panel shipments while Samsung 
+Electronics, Sharp and Chimei Innolux (CMI) have all been seeing decreasing 
+shipments, according to industry sources.
+
+ Samsung originally accounted for a large portion of iPad panel shipments and 
+was shipping over one million iPad panels in July. However, as of August the 
+company had dropped to roughly 700,000 in iPad panel shipments and that number 
+may decrease even more, added the sources.
+
+ The decrease is a significant drop from Samsung's monthly average of 2.5m 
+iPad panel shipments during the first half of 2012, said the sources. The 
+sources did not specify specific reasons for the drop in shipments but market 
+observers suspect it has to do with disputes between Apple and Samsung.
+
+When the patent lawyer met the genie >> SMBC 
+<http://www.smbc-comics.com/?id=2740>
+
+Splork?
+
+Apple accused of ripping off famous Swiss clock design >> CNET News 
+<http://news.cnet.com/8301-13579_3-57517054-37/apple-accused-of-ripping-off-famous-swiss-clock-design/>
+
+In a report in Swiss newspaper Tages-Anzeiger (by way of Macrumors), the Swiss 
+Federal Railway service, or SBB, has taken offense to the app's design, to 
+which it says it owns the trademark.
+
+ The 1944 design by then-SBB employee Hans Hilfiker (which you can see here) 
+is used in station clocks throughout the railway system, which is well-known 
+for its timeliness. It's also licensed to Mondaine, a Swiss watch manufacturer.
+
+ An SBB spokesman told Tages-Anzeiger that he was pleased Apple was using the 
+design, but noted that the company was not authorized to do so. The report 
+suggests a legal complaint is being drafted as a result.
+
+ Someone forgot that if there's one thing the Swiss take seriously, it's their 
+clocks.
+
+Wal-Mart says it will stop selling Amazon's Kindle >> NYTimes.com 
+<http://www.nytimes.com/2012/09/21/business/wal-mart-stores-dropping-amazon-kindle-tablets-and-e-readers.html?ref=technology>
+
+Wal-Mart Stores, the nation's largest retailer, said Thursday it was dropping 
+Amazon's Kindle tablets and e-readers, a sign of how seriously it views Amazon 
+as a competitor in the consumer goods market.
+
+ Target said in May that it would stop selling Kindles, though other stores, 
+including Best Buy, Staples and Office Depot, said Thursday they would continue 
+to carry the devices.
+
+What does Twitter know about me? My .zip file with 50Mb of data « Anne Helmond 
+<http://www.annehelmond.nl/2012/04/17/what-does-twitter-know-about-me-my-zip-file-with-50mb-of-data/>
+
+Three weeks ago I read a tweet from @web_martin 
+<https://twitter.com/#!/web_martin/status/184575028002697216> who had requested 
+all his data from Twitter under European law and received a .zip file with his 
+data from Twitter. He linked to the Privacy International blog which has 
+written downstep by step 
+<https://www.privacyinternational.org/blog/what-does-twitter-know-about-its-users-nologs>
+ how to request your own data.
+
+ You, too, can play if you live in the EU - though Twitter CEO Dick Costolo 
+has indicated that Twitter will allow you to download all your tweets by the 
+end of this year. We'll see.
+
+Asus to unveil the Padfone 2 in October >> Liliputing 
+<http://liliputing.com/2012/09/asus-to-unveil-the-padfone-2-in-october.html>
+
+The Asus Padfone hasn't exactly taken the world by storm since Asus 
+<https://www.theguardian.com/technology/asus> first introduced the smartphone 
+that can transform into a tablet, notebook, or desktop with liberal use of 
+docking stations. In fact, the Padfone has yet to officially go on sale in the 
+US.
+
+ But Asus is getting ready to launch the Padfone 2.
+
+ On 16 October, it seems.
+
+German court says Samsung and Motorola don't infringe Apple's touch event 
+model patent >> FOSS Patents 
+<http://www.fosspatents.com/2012/09/german-court-says-samsung-and-motorola.html>
+
+Unlike the multitouch patents that Apple asserted at the recent California 
+trial, each one of which is specific to a particular gesture, this is a fairly 
+broad patent that covers the way the operating system reports touch events to 
+applications or purposely ignores them. If Apple's proposed interpretation of 
+this patent had been adopted by the court, numerous applications that rely on 
+the attacked operating system functionality would no longer run in a reliable, 
+stable fashion after a workaround. This would have caused logistical 
+complications with the need to rewrite, recompile and reinstall many apps.
+
+ Now it won't.
+
+New iPhone, old abuses: Have working conditions at Foxconn in China improved? 
+>> SACOM <http://sacom.hk/archives/960>
+
+Now, in September 2012, our researchers revisited Foxconn's plants in 
+Zhengzhou, HenanProvince, China, whose sole product is the iPhone. Most of the 
+60 interviewees who SACOM talked to are new workers recruited by the 
+government. The high turnover rate and the government's need to recruit workers 
+and take other special steps to smooth production implicitly suggest that job 
+satisfaction is not high. More than that, SACOM's new investigation finds that 
+Foxconn workers in Zhengzhou are still facing deplorably harsh working 
+conditions. It is disappointing that no matter how advanced the technology 
+introduced by Apple is, the old problems in working conditions remain at its 
+major supplier Foxconn.
+
+Seen at Hackney Wick station: for the benefit of iOS6 users... 
+<https://twitter.com/binny_uk/status/248824180395614208/photo/1/large>
+
+When the transport system is making fun at your expense...
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/u:guardiantech>. To suggest a link, either add it below or 
+tag it with @gdntech on the freeDelicious <http://www.delicious.com/> service;
+ 

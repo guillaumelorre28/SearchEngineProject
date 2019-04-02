@@ -1,0 +1,184 @@
+
+This is the latest version of our now-weekly Android apps roundup, 
+spotlighting the best new apps from the last seven days. It doesn't include 
+games – they geta separate roundup 
+<http://www.guardian.co.uk/technology/gamesblog/2012/aug/30/best-mobile-games-bastion-heroes-call>
+. Meanwhile, the weekly iOS apps roundupcan be found here 
+<http://www.guardian.co.uk/technology/appsblog/2012/aug/31/best-ios-apps-paralympics-itunes>
+.
+
+Here's this week's Android <https://www.theguardian.com/technology/android> 
+selection:
+
+Amazon Appstore <https://www.amazon.co.uk/gp/feature.html?docId=1000644603>
+
+Amazon's Android app store, er, app has been out for some time in the US. Now 
+it'savailable in the UK and other European countries 
+<http://www.guardian.co.uk/technology/appsblog/2012/aug/30/amazon-appstore-android-europe>
+ too, via a download link on the Amazon website. The app enables you to browse 
+apps, get recommendations and download them to the device, while also offering 
+Amazon's daily free app deal.
+
+SkyDrive <https://play.google.com/store/apps/details?id=com.microsoft.skydrive>
+
+Microsoft's SkyDrive cloud service has made its way onto Android. The app 
+helps people access the files they've stored in their SkyDrive locker 
+– including opening them in other apps – upload photos and videos from their 
+smartphones, and send links to those files to others.
+
+C4 Paralympics 
+<https://play.google.com/store/apps/details?id=deltatre.c4.shell>
+
+As on iOS, Channel 4's official Paralympic Games app offers live text 
+commentary, video highlights, schedules, results and news on smartphones, with 
+added livestreaming video forthe tablet version 
+<https://play.google.com/store/apps/details?id=com.deltatre.c4>.
+
+Hooha for App.net 
+<https://play.google.com/store/apps/details?id=com.themodernink.hooha>
+
+US entrepreneur Dalton Caldwell sailed past his $500k crowdfunding goal to 
+build a "real-time social feed" as a more-open alternative to Twitter, and the 
+service is already up and running in alpha. Now a developer has made its first 
+mobile app for Android. Hooha is equally "raw alpha" in its nature, helping 
+users view their streams, mentions and global posts, while composing and 
+replying.
+
+Magisto <https://play.google.com/store/apps/details?id=com.magisto>
+
+Video-editing app Magisto has been a hit on iOS, and now it's available for 
+Android too. The twist is that the actual video-editing process is automated: 
+users upload footage from their phones and choose soundtracks, before Magisto's 
+software handles the splicing part. Facebook, Twitter and YouTube sharing are 
+all included.
+
+CNN / Time Convention Floorpass 
+<https://play.google.com/store/apps/details?id=com.floorpass.android>
+
+This roundup is a little late for the Republican convention, but CNN and 
+Time's joint app was available beforehand – and is still good for the 
+Democrats' event. The app offers news and analysis fromCNN 
+<https://www.theguardian.com/media/cnn> and Time's political journalists, while 
+tying in Twitter, Foursquare and CNN's own iReport citizen journalism service.
+
+Nothing Ever Happens at the South Pole 
+<https://play.google.com/store/apps/details?id=com.oceanhouse_media.bookhcnothingeverhappens_app>
+
+Oceanhouse Media has released dozens of apps based on different Dr. Seuss 
+books. This uses a different source: an unpublished 1960s book by Berenstain 
+Bears authors Stan and Jan Berenstain about the South Pole. Aimed at children, 
+it follows the journey of a penguin looking for icy excitement.
+
+Intro <https://play.google.com/store/apps/details?id=com.intro>
+
+Intro is a social location app designed for business rather than personal use, 
+helping people meet potential work contacts when in the same area. It also sims 
+to match freelancers to projects that suit their skills, cutting out the 
+recruitment agency middlemen.
+ Stereomood provides mood-based music playlists 
+Stereomood 
+<https://play.google.com/store/apps/details?id=com.mutado.android.stereomood>
+
+Stereomood made our iOS roundup this week thanks to its iPhone version being 
+upgraded to iPad. The same thing has happened on Android, with the app now 
+native for tablets. It's all about mood-music: providing more than 100 
+playlists for moods and activities including calm, working, cooking, chill and 
+optimistic.
+
+LooxcieLive 
+<https://play.google.com/store/apps/details?id=com.looxcie.live.android>
+
+This livestreaming app just graduated from beta on the Google 
+<https://www.theguardian.com/technology/google> Play store. It's for 
+broadcasting live video from an Android device over 3G, 4G or Wi-Fi, while 
+inviting friends to watch and text-chat. It works on an individual device, but 
+can also be paired with one of Looxcie's standalone video cameras.
+
+Washington Post Social Reader 
+<https://play.google.com/store/apps/details?id=wapo.wpsr>
+
+US newspaper the Washington Post 
+<https://www.theguardian.com/media/washington-post> has launched its Social 
+Reader app for Android, as part of the wider trend for newspapers (yes, this 
+one included) to build Facebook into their digital offerings. In this case, the 
+app pulls in news from the Post's own site as well as Slate, the Daily Beast, 
+Mashable and others, while sharing details of articles read on the social 
+network.
+
+Shape Be Your Best You 
+<https://play.google.com/store/apps/details?id=com.hipzone.blinkify.android>
+
+US magazine Shape wants to help Android users "look and feel amazing on the 
+beach this summer". Yes, it's a bit late. This is a digital edition of the 
+magazine offering workout plans, cardio routines and case studies.
+
+Chair <https://play.google.com/store/apps/details?id=com.furnichair.chair>
+
+Paging Clint Eastwood... Chair is a prototype app, interesting as much for the 
+way it shows some of augmented reality technology's potential as for its one 
+use: visualising what a room would look like with a chair in it. Its developer 
+is using Qualcomm's Vuforia AR platform, which is picking up a head of steam in 
+2012.
+
+AudioPlayce 
+<https://play.google.com/store/apps/details?id=com.audioplayce.android>
+
+Get beyond the mobile 2.0-speak ("the social marketplace for geolocalized 
+audioguides") and AudioPlayce is interesting: an app for recording your own 
+audio-guides to cities around the world, and for accessing those recorded by 
+other users. Badges and social features are included.
+
+Dan Deacon <https://play.google.com/store/apps/details?id=com.dandeacon>
+
+Also included in this week's iOS roundup, musician Dan Deacon's official app 
+is designed to be used mainly during his live gigs. It "synchronizes all the 
+phones in the room, turning you and the rest of the audience into the light 
+show and sound system for the concert". Elsewhere, it provides a virtual 
+synthesizer instrument, and news about Deacon's activities.
+ PlayTo: Samsung TV transmits media to connected TVs 
+PlayTo: Samsung TV 
+<https://play.google.com/store/apps/details?id=com.dayglows.vivid.lite.samsung>
+
+Looking to wirelessly pipe photos, videos and music from an Android device to 
+a TV? There are numerous ways, depending on device and TV manufacturer. 
+Dayglows' new app focuses on Samsung TVs, and is able to play from websites 
+including YouTube and Vevo, as well as tying into a number of on-demand TV 
+services.
+
+InstaTalks 
+<https://play.google.com/store/apps/details?id=com.natrobit.instatalks>
+
+Photo-sharing app Instagram is, obviously, about pictures rather than words. 
+InstaTalks wants to provide a layer of words – messages – on top of all those 
+filtered snaps though. Claiming to be "the easiest and fastest way to chat with 
+all your Instagram friends", it's a private messaging system forInstagram 
+<https://www.theguardian.com/technology/instagram>, with added location 
+features to connect with nearby strangers.
+
+Flimby <https://play.google.com/store/apps/details?id=com.optinillc.flimby>
+
+Plenty of apps have tried to be, in Flimby's words, an "all-in-one social 
+toolbox". The idea: a way to post to Twitter, Facebook, YouTube, Flickr and 
+Yammer from within one app. It also offers a "Live Blast" feature that promises 
+shared web browsing with other people – something that may well prove to be 
+Flimby's trump card as it evolves, rather than the personal side of things.
+
+Teatime <https://play.google.com/store/apps/details?id=com.vibedigital.teatime>
+
+Another app to make both our iOS and Android roundups this week, the UK Tea 
+Council's new app aims to solve office tea-making disputes. It creates "tea 
+groups", stores everyone's cuppa preferences, and then at pre-determined 
+intervals picks a colleague at random to make the next round.
+
+Holo Music Player 
+<https://play.google.com/store/apps/details?id=com.jack.music>
+
+One of the interesting things about the Google Play store is the ability to 
+dig deep and find some new and interesting betas. Holo Music Player is one of 
+those: a Holo-themed music-player app with a heavy emphasis on swipe gestures 
+to navigate around your music collection.
+
+That's our selection, now tell us yours. What Android apps have impressed you 
+this week, and what do you think of those above? Post a comment and make your 
+thoughts known.
+ 

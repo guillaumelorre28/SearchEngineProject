@@ -1,0 +1,175 @@
+
+Now that the snooper’s charter has been passed, how can I protect myself? 
+Should I use a VPN?Charles
+
+The UK has just passed the Investigatory Powers Act 2016 
+<https://en.wikipedia.org/wiki/Investigatory_Powers_Act_2016>, at the third 
+attempt, and it will become law by the end of the year. The bill was instigated 
+by the then home secretary, Theresa May, in 2012. It is better known as the 
+snooper’s charter.
+
+
+Jim Killock, the director of Open Rights Group, described it as the “most 
+extreme surveillance law ever passed in a democracy”. It more or less removes 
+your right to online privacy.
+
+The snooper’s charter: one misspelled Google search for ‘bong-making’ and 
+you’ll be in an orange jumpsuit | Frankie Boyle
+ Read more  
+<https://www.theguardian.com/commentisfree/2015/nov/10/frankie-boyle-theresa-may-internet-surveillance>
+The law forces internet service providers to keep a record of all the websites 
+– not the actual pages – you visit for up to a year. It also obliges companies 
+to decrypt data on demand and gives government security services the power to 
+hack your computers, tablets, mobile phones and other devices.
+
+
+To some extent, the new law merely legalises the current “custom and practice” 
+as revealed byEdward Snowden <https://www.theguardian.com/us-news/the-nsa-files>
+. The most obvious difference is that it makes your web history readily 
+available toalmost 50 assorted police forces and government departments 
+<http://yiu.co.uk/blog/who-can-view-my-internet-history/>. These include the 
+British Transport Police, the Department of Health, the Food Standards Agency, 
+the Gambling Commission, and the Welsh Ambulance Services NHS Trust.
+
+Web tracking and proxies
+
+When you sign up with an ISP, the traffic from your PCs and other devices goes 
+to your ISP’s servers, which feed most of it – exceptvarious blocked websites 
+<https://en.wikipedia.org/wiki/List_of_websites_blocked_in_the_United_Kingdom> 
+– on to the internet. You can track this process yourself usingTraceRoute 
+<http://www.mediacollege.com/internet/troubleshooter/traceroute.html>.
+
+Your ISP therefore knows where you are going online. You can avoid this by 
+using one or more anonymous “proxy servers 
+<https://en.wikipedia.org/wiki/Proxy_server>” between your PC and your eventual 
+destination. Your ISP will then know you visited the proxy server, but, if the 
+anonymising is done properly, it won’t know where you went from there.
+
+Most people aren’t interested in proxy servers, but often end up using them. 
+For example, British people travelling or living aboard use UK-based proxy 
+servers to watch TV programmes on BBC iPlayer, while people outside the US use 
+American proxies to access Netflix and other services.
+
+Enter the VPN
+
+There are two big problems with using free proxies. First, you may not know 
+who’s running them. They could be helpful hackers or criminals, or even CIA 
+honeypots. Second, they may be unreliable and slow. It’s better to use a 
+virtual private network orVPN 
+<https://en.wikipedia.org/wiki/Virtual_private_network>.
+
+Multinational corporations have long used VPNs as a way of extending their 
+private networks across the public internet. If they encrypt all the traffic 
+between computers in their British, American and other offices, they can send 
+their traffic securely over the internet without paying for expensive leased 
+lines. VPN service providers offer the same facilities to ordinary users for a 
+small monthly fee.
+
+The traffic from your PC is automatically encrypted and sent to the VPN 
+supplier’s server, so your ISP can’t see the final destination. The ISP’s 
+records should only contain the VPN company’s server addresses.
+
+How to contact the Guardian securely
+ Read more  
+<https://www.theguardian.com/help/2016/sep/19/how-to-contact-the-guardian-securely>
+Not many people use VPNs. However, I recommend them to people who travel a lot 
+or work from public Wi-Fi hotspots, because they protect your traffic from 
+snoopers who steal passwords – or worse. I also recommend them to people who 
+are potential targets for other reasons. They might be diplomats, film stars, 
+bankers or anyone with commercially sensitive data
+
+Choosing a VPN
+
+Dozens of companies sell VPN services, and you can find plenty of reviews to 
+help you choose. The things to look for include the number of servers and where 
+they are located, their privacy policies, the applications they support (Tor, 
+BitTorrent etc), speed and price. Some have applications for different devices. 
+For example,NordVPN <https://nordvpn.com/> has them for Windows, MacOS, iPhone, 
+iPad and Android.
+
+If your motivation includes the snooper’s charter, choose a VPN that is not 
+UK-based, and that does not keep any logs. If they don’t keep any logs, they 
+can’t hand them over to government raiders. TorrentFreak keeps an updated list 
+of “which VPN services take your anonymity seriously”:The Best Anonymous VPN 
+Services of 2016 <https://torrentfreak.com/vpn-anonymous-review-160220/>. 
+
+For increased privacy, some VPN providers accept payments by dozens of 
+different methods including Bitcoin andanonymous gift cards 
+<https://torguard.net/blog/torguard-now-accepts-100-gift-cards/>.
+
+However, note that a VPN can’t guarantee access to any particular website. For 
+example, Netflix has taken to blocking most VPN services (where hundreds of 
+users are coming from one IP address), though some are making technical efforts 
+to maintain access. You may also have problems with Google’s geolocation, 
+PayPal’s fraud detection software, and so on.
+
+Also, remember that a VPN doesn’t protect you from phishing emails, 
+keyloggers, and websites that try to install“drive by” malware 
+<https://en.wikipedia.org/wiki/Drive-by_download>.
+
+Web tracking
+
+A VPN stops your ISP from logging your web visits, but they may still be 
+logged. For starters, your own web browser is keeping a history. You’re also 
+being tracked by dozens of advertising services, including Google’s. You can 
+block trackers with a browser extension such asGhostery 
+<https://www.ghostery.com/> or the EFF’s Privacy Badger 
+<https://www.eff.org/privacybadger>, but note that Privacy Badger only blocks 
+trackers from third-party sites.
+
+GRC has a “forensics” page <https://www.grc.com/cookies/forensics.htm>, which 
+checks whether you are being tracked by cookies.
+
+For increased privacy, you could access the internet from a “virtual computer” 
+loaded in your operating system, and then throw it away after use.VirtualBox 
+<https://www.virtualbox.org/> is a good free example. VMware Workstation Player 
+<http://www.vmware.com/products/player/playerpro-evaluation.html> is also free 
+for non-commercial use.
+
+This may be the only way to avoid being tracked by “browser fingerprinting 
+<https://wiki.mozilla.org/Fingerprinting>”. This is when the tracking company 
+(or government agency) gives your PC a unique identifier based on variables 
+such as screen resolution, browser version, extensions, fonts, timezone and so 
+on. If you use a virtual PC, every session starts with a more-or-less generic 
+fingerprint. It may not be perfect, but it’s less identifiable than the 
+alternative.
+
+Mail, messaging and smartphones
+
+The snooper’s charter obviously covers too many services and devices for a 
+single answer. However, you could consider switching to a secure email service 
+such asProtonMail <https://protonmail.com/>, and a secure messaging service 
+such asSignal <https://whispersystems.org/>. ChatSecure, WhatsApp and Apple’s 
+iMessage also encrypt messages.
+
+You can’t make smartphone use private because you’re always being tracked by 
+the cellular network. However, you can turn off Wi-Fi and Bluetooth when you’re 
+not using them – they can also be used to track you – and use a VPN for web 
+access. Remember also thatmany smartphone apps request permissions that enable 
+them to track you 
+<http://www.cs.cmu.edu/news/carnegie-mellon-study-shows-people-act-protect-privacy-when-told-how-often-phone-apps-share-personal-information>
+.
+
+Last words
+
+As an ordinary citizen with a life, you can’t hide from the security services, 
+any more than you can defend your house against a tank regiment. If they want 
+to hack your devices, they will. If you’re an investigative journalist, human 
+rights campaigner, one of Snowden’s collaborators etc, you need a higher level 
+of security.
+
+But if they are not out to get you, why act as though they should be? It’s 
+probably better to be as inconspicuous as possible, while limiting the amount 
+of data that might turn up in some bored agency’s random fishing expeditions.
+
+I think that VPNs are – or soon will be – normal enough not to attract undue 
+attention. There are already plenty of reasons for using a VPN, to protect 
+yourself in a world of hostile Wi-Fi hotspots (henceHotSpot Shield 
+<https://www.anchorfree.com/>, Hide My Ass <https://www.hidemyass.com/proxy> 
+etc) and other online threats. That’s why many large businesses use VPNs. The 
+fact that they may also shield you from some state snooping is just a bonus.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+
+ 

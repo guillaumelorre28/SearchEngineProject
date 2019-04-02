@@ -1,0 +1,44 @@
+
+The inaugural Queen Elizabeth Prize for Engineering <http://www.qeprize.org/> 
+was yesterday awarded to five engineers who helped to create the internet and 
+the world wide web. The work of these engineers was substantially based on 
+pioneering research and development by a team of British engineers and 
+scientists at theNational Physical Laboratory <http://www.npl.co.uk/>, a 
+government R&D establishment, under its leaderDonald Davies 
+<http://www.internethalloffame.org/inductees/donald-davies>. We do not wish in 
+any way to denigrate the work of the engineers selected, yet not one of the NPL 
+team has been included.
+
+The communications technology that underpins the internet is packet switching. 
+This was independently invented, and named as such, by Davies in 1965, and has 
+been widely acknowledged. The idea was developed into a proposal for a wide 
+area network, similar in many ways to the internet, by a small team of 
+engineers, including ourselves. It was also conveyed in 1967 to a US team 
+planning theArpanet <https://www.theguardian.com/technology/arpanet>, the 
+network that was the principal forerunner to the internet.
+
+Davies's British team was limited to building a local area network within the 
+NPL campus, which it successfully completed in 1971. This was the first digital 
+local network in the world to use packet switching and high-speed links. The 
+NPL team undertook a wide range of internationally recognised research in the 
+field of computer networks, as well as collaborating with the Arpanet and 
+broader international community. Most importantly from the point of view of 
+this award, members participated in an international working group whose job 
+was to define the function of inter-network gateways and the development of the 
+Internetwork Protocol that led directly to the creation of the internet, 
+co-authoring one of the seminal publications on this subject. This was one of 
+the areas singled out for its significance by theRoyal Academy of Engineering 
+<http://www.raeng.org.uk/> judges.
+
+But it appears that the work of the pioneering British team that introduced 
+packet switching has been airbrushed from history by the RAE judges. Davies's 
+contribution (he died in 2000) to the development of packet switching was 
+recognised by the US IEEE institution, among others. When Arpanet reached its 
+25th anniversary, the NPL team were hailed in the US as "the packet-switching 
+pioneers". It is galling that while US institutions are willing to recognise 
+the significance of NPL's work, the UK establishment appears incapable of doing 
+so.
+Roger Scantlebury
+Peter Wilkinson
+Former NPL engineers
+ 

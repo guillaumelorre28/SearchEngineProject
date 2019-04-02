@@ -1,0 +1,143 @@
+
+My first ever laptop was a MacBook Air. However, the logic board stopped 
+working, andApple <https://www.theguardian.com/technology/apple> was going to 
+charge $600 to fix it. Technicians have told me it is not worth fixing.
+
+At this point in time I cannot afford to buy a new MacBook, so which PC laptop 
+would you recommend? I am a third year social work student, and I won’t really 
+be carrying it to class: it will mostly be used at home. I don’t run any 
+special applications, and my budget is less than $1,000. Esther
+
+If you have $1,000 to spend, then you can probably get a new 11in MacBook Air 
+for $899 or a 13in MacBook Air for $999. You could even get a $1,099 13in 
+MacBook Pro for less, if you look for discount offers on Amazon or at a local 
+store. Or you could get a Mac Mini and add your own keyboard and screen for 
+less than $1,000, though you would lose the portability of a laptop.
+
+First, check with your university or college to see if you qualify for any 
+educational discounts on Apple products. Next, look at refurbished and 
+second-hand models. These tend to be expensive – Macs hold their value well – 
+but you may get some of that back if you eBay your broken MacBook Air for 
+“spares or repair”.
+
+While you can afford $899 for an 11in MacBook Air, that’s the minimum price. 
+Expanding the memory to the recommended 8GB adds $100, while three years of 
+Apple Care support would add another $249, bringing the total to $1,248. For 
+this price, you could buy five low-end Windows laptops and not worry about them 
+breaking.
+
+However, this not a particularly good time to buy a Mac, because the current 
+line-up is rather old and, despite last year’s refreshes, needs updating. The 
+13in MacBook Pro, mentioned above, hasn’t been redesigned since 2012, and the 
+Mac mini design dates from 2010. The 11in MacBook Air still has a resolution of 
+1366 x 768 pixels, with Mac fans waiting for Apple Retina screens. Except for 
+the overpriced ($1,299) MacBook, theMacRumors Buyer’s Guide 
+<http://buyersguide.macrumors.com/#Mac> rates them all “Don’t Buy”.
+
+The shortage of new models seems to have depressed Mac sales in the USA, but 
+you can expect an upsurge when Apple rolls out some new ones, or just refreshes 
+the old ones. After that, you may be able to pick up an older MacBook for less.
+
+Pro vs Air
+
+The MacBook Air is aimed at people who need portability, and its performance 
+is compromised. If you don’t need the portability, then I’d generally recommend 
+a MacBook Pro instead. And while the cheapest non-Retina 13in MacBook Pro can 
+justifiably be dismissed for beingoverpriced and out of date 
+<http://www.theverge.com/2016/8/4/12373776/2012-macbook-pro-still-alive-not-dead-why>
+, it does have some advantages. It’s the only surviving MacBook where you can 
+easily replace the memory, the battery and the hard drive, and I think it’s the 
+only one that still has a proper Ethernet port, Firewire, and a built-in DVD 
+drive.
+
+With a 13in MacBook Pro, you can upgrade the memory for very little cost. You 
+can swap the DVD drive for an SSD (solid-state disk), and replace the battery 
+and the logic board if they fail. Of course, if you can’t do those things 
+yourself, a repair shop will do the job, and you won’t be wholly dependent on 
+Apple.
+
+The 13in MacBook Pro’s reparability 
+<https://www.ifixit.com/Device/MacBook_Pro_13%22_Unibody_Mid_2012> means it 
+could outlast today’s soldered down, sealed-box designs.
+
+As you have only used a Mac, I’d urge you to stick with Mac if possible: 
+people generally like what they know. Even if, one day, you came to prefer 
+Windows 10, you would still have had to learn new ways do lots of things.
+
+Windows alternatives
+
+There are two obvious approaches. The first would be to buy a very cheap 
+Windows laptop to tide you over. In this case, your long-term aim would be to 
+buy another Mac when new models appear and/or your finances improve. The second 
+would be to buy a more powerful Windows laptop to use for several years.
+
+Very cheap Windows laptops tend to have Intel Atom Z3735F or similar 
+Pentium/Celeron processors, 2GB of memory, and 32GB eMMC flash drives (roughly 
+the equivalent of an SD card, not an SSD). An example is the Lenovo IdeaPad 
+100S with an 11.6in screen, available from Amazon.com for$149.65 
+<https://www.amazon.com/dp/B0167W1VAM/>. Alternatives include the Asus EeeBook 
+X205TA <https://www.amazon.com/ASUS-X205TA-11-6-Laptop-Intel/dp/B00NY29UIO/>, 
+which I’ve seen as low as $140, and the HP Stream 11, which you can get for 
+around $179 from Wal-Mart etc. There’s also anHP Stream 13 
+<https://www.amazon.com/dp/B015CQ8PNA/> with a 13.3in screen.
+
+These 2GB laptops are the modern equivalent of netbooks, designed for casual 
+use. They are much less powerful than your MacBook Air, but they can still run 
+Microsoft Office – which you should be able to get free, as a student – and 
+handle web browsing and email. Although they are short of storage space, you 
+can add a 32GB or 64GB SD card, and you can save files to a cloud drive. 
+Microsoft OneDrive access is built in, but you can use Apple’s iCloud, if you 
+already have that.
+
+For a little more money, you could get a Windows 10 detachable or two-in-one 
+with a touch-sensitive screen. These work as both laptops and tablets, running 
+tablet apps downloaded from the Windows Store. I like theAsus T100Chi 
+<https://www.amazon.com/Asus-T100Chi-B1-BK-WX-Transformer-Touchscreen/dp/B01E7N7ZBC/>
+ as it’s better made than most similar machines and has a “Full HD” touchscreen 
+(1920 x 1200 pixels) for $188.24. TheHP Stream X360 
+<https://www.amazon.com/HP-X360-11-6-inch-Touch-Screen-Convertible/dp/B017PGNECW/>
+ is an alternative at $262.92.
+
+If you shop around, you can find plenty of similar machines from Asus, HP and 
+Lenovo with 11.6in, 13.3in, 14in and 15.6in screens. The “best buy” may be 
+whatever’s on special offer this week.
+
+Windows 10 laptops
+
+“Proper” Windows laptops have at least 4GB of memory (which is fine for 
+Windows 10), faster Intel Core processors, and either an SSD or a traditional 
+500GB or 1TB hard drive. These will perform more like your MacBook Air. They 
+will run several programs at once, and support many more browser tabs without 
+slowing down.
+
+They are also, of course, more expensive, but you will have to balance the 
+price difference. For example, theAsus Zenbook UX305UA 
+<https://www.amazon.com/ZenBook-UX305UA-13-3-Inch-Generation-Titanium/dp/B01BMERZJ6/>
+ (or CA) is arguably a better laptop than the MacBook Air: you get a newer, 
+better processor (2.3GHz Core i5-6200U), a better screen with touch 
+sensitivity, 8GB and a 256GB SSD for around $750, where the 13in MacBook Air 
+costs $1,119. But if you’re paying $750, you’re not far off the price of a 
+low-end Mac.
+
+A compromise might be something like a Lenovo Yoga 710 
+<https://www.amazon.com/Lenovo-Yoga-710-11-Pentium/dp/B01HAQFSLM/> with 11.6in 
+Full HD screen, 4GB of memory and 128GB SSD for $499. There are lots of 
+versions of the Yoga 700 and HP Pavilion 13 around, and you can often pick up 
+bargains.
+
+If you are willing to move up to a less-portable 15.6in screen, the Asus X555LA
+ <https://www.amazon.com/Asus-Laptop-i3-5020U-Windows-Gradient/dp/B0181OV6JA/> 
+is good value and looks quite MacBook-like. You get an Intel Core i3-5020U 
+processor, 4GB of memory (expandable), a 1TB Hard Drive and DVD for $315.36. 
+Again, there are several other models with slightly different specifications.
+
+None of these laptops is as well made as a MacBook, and the trackpads and 
+keyboards are rarely more than average, and they don’t run macOS. However, when 
+at home, you can raise the screen to an ergonomic height and use them with an 
+external USB keyboard and mouse. In practical terms, they’ll do the same job 
+for a fraction of the price.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+
+ 

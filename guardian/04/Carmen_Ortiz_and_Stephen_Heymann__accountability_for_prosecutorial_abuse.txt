@@ -1,0 +1,317 @@
+
+Whenever an avoidable tragedy occurs, it's common for there to be an intense 
+spate of anger in its immediate aftermath which quickly dissipates as people 
+move on to the next outrage. That's a key dynamic that enables people in 
+positions of authority toevade consequences for their bad acts 
+<http://www.theatlantic.com/national/archive/2012/04/remember-the-pepper-spraying-cop-uc-davis-releases-a-powerful-report/255903/>
+. But as more facts emerge regarding the conduct of the federal prosecutors in
+the case of Aaron Swartz 
+<https://www.theguardian.com/commentisfree/2013/jan/12/aaron-swartz-heroism-suicide1>
+ - Massachusetts' US attorney Carmen Ortiz and assistant US attorney Stephen 
+Heymann - the opposite seems to be taking place: there is greater and greater 
+momentum for real investigations, accountability and reform. It is urgent that 
+this opportunity not be squandered, that this interest be sustained.
+
+The Wall Street Journal reported 
+<http://online.wsj.com/article/SB10001424127887324581504578238692048200404.html?mod=WSJ_hp_mostpop_read>
+ this week that - two days before the 26-year-old activist killed himself on 
+Friday - federal prosecutors again rejected a plea bargain offer from Swartz's 
+lawyers that would have kept him out of prison. They instead demanded that he 
+"would need to plead guilty to every count" and made clear that "the government 
+would insist on prison time". That made a trial on all 15 felony counts - with 
+the threat of a lengthy prison sentence if convicted - a virtual inevitability.
+
+Just three months ago, Ortiz's office, as TechDirt reported 
+<http://www.techdirt.com/articles/20120917/17393320412/us-government-ups-felony-count-jstoraaron-swartz-case-four-to-thirteen.shtml>
+, severely escalated the already-excessive four-felony-count indictment by 
+adding nine new felony counts, each of which "carrie[d] the possibility of a 
+fine and imprisonment of up to 10-20 years per felony", meaning "the sentence 
+could conceivably total 50+ years and [a] fine in the area of $4 million." That 
+meant, asThink Progress documented 
+<http://thinkprogress.org/justice/2013/01/14/1441211/killers-slavers-and-bank-robbers-all-face-less-severe-prison-terms-than-aaron-swartz-did/?mobile=nc>
+, that Swartz faced "a more severe prison term than killers, slave dealers and 
+bank robbers".
+
+Swartz's girlfriend, Taren Stinebrickner-Kauffman, told the WSJ that the case 
+had drained all of his money and he could not afford to pay for a trial. At 
+Swartz's funeral in Chicago on Tuesday,his father flatly stated 
+<http://www.suntimes.com/business/17594002-420/aaron-swartz-killed-by-government-his-father-says-at-funeral.html>
+ that his son "was killed by the government".
+
+Ortiz and Heymann continue to refuse to speak publicly about what they did in 
+this case - at least officially. Yesterday, Ortiz's husband, IBM Corp executive 
+Thomas J. Dolan, took to Twitter and - without identifying himself as the US 
+Attorney's husband -defended the prosecutors' actions 
+<http://www.buzzfeed.com/buzzfeednews/prosecutors-husband-defends-push-to-jail-internet>
+ in response to prominent critics, and even harshly criticized the Swartz 
+family for assigning blame to prosecutors: "Truly incredible in their own son's 
+obit they blame others for his death", Ortiz's husband wrote. Once Dolan's 
+identity was discovered, he received assertive criticism and thensheepishly 
+deleted his Twitter account 
+<http://www.boston.com/metrodesk/2013/01/15/attorney-husband-causes-backlash-twitter-with-posts-hacker-suicide/NW3H71cvJyw0zjDvzTkabP/story.html>
+.
+
+Clearly, the politically ambitious Ortiz - who was touted just last month 
+<http://www.bostonglobe.com/metro/2012/12/07/patrick-reportedly-cites-prosecutor-vying-for-governor/0aEpGj5QqjvJfgSwgFNc7H/story.html>
+ by the Boston Globe as a possible Democratic candidate for governor - is 
+feeling serious heat as a result of rising fury over her office's wildly 
+overzealous pursuit of Swartz. The same is true of Heymann, whose father was 
+Deputy Attorney General in the Clinton administration and who has tried to 
+forge his own reputation as a tough-guy prosecutor who takes particular aim at 
+hackers.
+
+Yesterday, the GOP's House Oversight Committee Chairman, Darrell Issa, 
+announced 
+<http://www.huffingtonpost.com/2013/01/15/darrell-issa-aaron-swartz-_n_2481450.html>
+ a formal investigation into the Justice Department's conduct in this case. 
+Separately, two Democratic members of the House Judiciary Committeeissued 
+stinging denunciations 
+<http://thehill.com/blogs/hillicon-valley/technology/277353-lawmakers-blast-trumped-up-doj-prosecution-of-internet-activist>
+, with Democratic Rep. Jared Polis proclaiming that "the charges were 
+ridiculous and trumped-up" and labeling Swartz a "martyr" for the evils of 
+minimum sentencing guidelines, while Rep. Zoe Lofgren denounced the 
+prosecutors' behavior as "pretty outrageous" and "way out of line".
+
+A petition on the White House's website 
+<https://petitions.whitehouse.gov/petition/remove-united-states-district-attorney-carmen-ortiz-office-overreach-case-aaron-swartz/RQNrG1Ck>
+ to fire Ortiz quickly exceeded the 25,000 signaturesneeded to compel a reply 
+<http://www.huffingtonpost.com/2013/01/15/petition-to-remove-carmen-ortiz_n_2479458.html>
+, anda similar petition 
+<https://petitions.whitehouse.gov/petition/fire-assistant-us-attorney-steve-heymann/RJKSY2nb>
+ aimed at Heymann has also attracted thousands of signatures, and is likely to 
+gather steam in the wake ofrevelations 
+<http://www.buzzfeed.com/justinesharrock/internet-activists-prosecutor-linked-to-another-h>
+ that another young hacker committed suicide in 2008 in response to Heymann's 
+pursuit of him (You can [and I hope will] sign both petitions by clicking on 
+those links;the Heymann petition 
+<https://petitions.whitehouse.gov/petition/fire-assistant-us-attorney-steve-heymann/RJKSY2nb>
+ in particular needs more signatures).
+
+In sum, as CNET's Declan McCullagh detailed in a comprehensive article this 
+morning 
+<http://news.cnet.com/8301-13578_3-57564212-38/prosecutor-in-aaron-swartz-hacking-case-comes-under-fire/>
+, it is Ortiz who "has now found herself in an unusual - and uncomfortable - 
+position: as the target of an investigation instead of the initiator of one." 
+And that's exactly as it should be given that, as he documents, there is little 
+question that her office sought to make an example out of Swartz for improper 
+and careerist benefits. Swartz "was enhancing the careers of a group of career 
+prosecutors and a very ambitious - politically-ambitious - U.S. attorney who 
+loves to have her name in lights," the Cambridge criminal lawyer Harvey 
+Silverglate told McCullagh. Swartz's lawyer said that Heymann "was going to 
+receive press and he was going to be a tough guy and read his name in the 
+newspaper." Writes McCullagh:
+
+"If Swartz had stolen a $100 hard drive with the JSTOR articles, it would have 
+been a misdemeanor offense that would have yielded probation or community 
+service. But the sweeping nature of federal computer crime laws allowed Ortiz 
+and [] Heymann, who wanted a high-profile computer crime conviction, to pursue 
+felony charges.Heymann threatened the diminutive free culture activist with 
+over 30 years in prison as recently as last week."
+
+For numerous reasons, it is imperative that there be serious investigations 
+about what took place here and meaningful consequences for this prosecutorial 
+abuse, at least including firing. It is equally crucial that there be reform of 
+the criminal laws and practices that enable this to take place in so many other 
+cases and contexts.
+
+To begin with, there has been a serious injustice in the Swartz case, and that 
+alone compels accountability. Prosecutors are vested with the extraordinary 
+power to investigate, prosecute, bankrupt, and use the power of the state to 
+imprison people for decades. They have the corresponding obligation to exercise 
+judgment and restraint in how that power is used. When they fail to do so, 
+lives are ruined - or ended.
+
+The US has become a society in which political and financial elites 
+systematically evade accountability for their bad acts, no matter how 
+destructive. Those who torture, illegally eavesdrop, commit systemic financial 
+fraud, even launder money for designated terrorists and drug dealersare all 
+protected from criminal liability 
+<https://www.theguardian.com/commentisfree/2012/dec/12/hsbc-prosecution-fine-money-laundering>
+, while those who are powerless - or especially, as in Swartz's case, those who 
+challenge power - are mercilessly punished for trivial transgressions. All one 
+has to do to see that this is true is tocontrast the incredible leniency 
+<http://hcrenewal.blogspot.com.br/2013/01/the-tragic-case-of-aaron-swartz-unequal.html>
+ given by Ortiz's office to large companies and executives accused of serious 
+crimes with the indescribably excessive pursuit of Swartz.
+
+This immunity for people with power needs to stop. The power of prosecutors is 
+particularly potent, and abuse of that power is consequently devastating. 
+Prosecutorial abuse is widespread in the US, and it's vital that a strong 
+message be sent that it is not acceptable. Swartz's family strongly believes - 
+with convincing rationale - that the abuse of this power by Ortiz and Heymann 
+played a key role in the death of their 26-year-old son. It would be 
+unconscionable to decide that this should be simply forgotten.
+
+Beyond this specific case, the US government - as part of its war to vest 
+control over the internet in itself and in corporate factions - has been wildly 
+excessive, almost hysterical, in punishing even trivial and harmless activists 
+who are perceived as "hackers". The 1984 Computer Fraud and Abuse Act (CFAA) - 
+enacted in the midst of that decade's hysteria over hackers - is so broad and 
+extreme that it permits federal prosecutors to treat minor, victimless computer 
+pranks - or even violations of a website's "terms of service" - as major 
+felonies, which is why Rep. Lofgrenjust announced her proposed "Aaron's Law" 
+<http://news.cnet.com/8301-1023_3-57564193-93/new-aarons-law-aims-to-alter-controversial-computer-fraud-law/>
+ to curb some of its abuses.
+
+But the abuses here extend far beyond the statutes in question. There is, as I 
+wrote about on Saturday when news of Swartz's suicide spread, a general effort 
+to punish with particular harshness anyone who challenges the authority of 
+government and corporations to maintain strict control over the internet and 
+the information that flows on it. Swartz's persecution was clearly waged by the 
+government as a battle in the broader war for control over the internet. As 
+Swartz's friend, the NYU professor and Harvard researcher Danah Boyd, described 
+inher superb analysis 
+<http://www.zephoria.org/thoughts/archives/2013/01/13/aaron-swartz.html>:
+
+"When the federal government went after him – and MIT sheepishly played along 
+– they weren't treating him as a person who may or may not have done something 
+stupid. He was an example. And the reason they threw the book at him wasn't to 
+teach him a lesson, but to make a point to the entire Cambridge hacker 
+community that they were p0wned.It was a threat that had nothing to do with 
+justice and everything to do with a broader battle over systemic power. 
+
+"In recent years, hackers have challenged the status quo and called into 
+question the legitimacy of countless political actions. Their means may have 
+been questionable, but their intentions have been valiant. The whole point of a 
+functioning democracy is to always question the uses and abuses of power in 
+order to prevent tyranny from emerging. Over the last few years, we've seen 
+hackers demonized as anti-democratic even though so many of them see themselves 
+as contemporary freedom fighters. And those in power used Aaron, reframing his 
+information liberation project as a story of vicious hackers whose terroristic 
+acts are meant to destroy democracy . . . .
+
+"So much public effort has been put into controlling and harmonizing geek 
+resistance, squashing the rebellion, and punishing whoever authorities can get 
+their hands on. But most geeks operate in gray zones, making it hard for them 
+to be pinned down and charged. It's in this context that Aaron's stunt gave 
+federal agents enough evidence to bring him to trial to use him as an example. 
+They used their power to silence him and publicly condemn him even before the 
+trial even began."
+
+The grotesque abuse 
+<https://www.theguardian.com/world/2012/mar/12/bradley-manning-cruel-inhuman-treatment-un>
+ of Bradley Manning. Thedangerous efforts 
+<https://www.theguardian.com/media/2011/may/11/us-opens-wikileaks-grand-jury-hearing>
+ to criminalize WikiLeaks' journalism. Thesevere overkill 
+<https://www.theguardian.com/commentisfree/2012/nov/23/anonymous-trial-wikileaks-internet-freedom>
+ that drives the effort to apprehend and punish minor protests by Anonymous 
+teenagers while ignoring far more serious cyber-threats aimed at government 
+critics. The Obama administration'sunprecedented persecution of whistleblowers 
+<http://www.motherjones.com/politics/2012/06/obamas-whistleblowers-stuxnet-leaks-drones>
+. And now the obscene abuse of power applied to Swartz.
+
+This is not just prosecutorial abuse. It's broader than that. It's all part 
+and parcel of the exploitation of law and the justice system to entrench those 
+in power and shield themselves from meaningful dissent and challenge by making 
+everyone petrified of the consequences of doing anything other than meekly 
+submitting to the status quo. As another of Swartz's friends, Matt Stoller, 
+wrote inan equally compelling essay 
+<http://www.nakedcapitalism.com/2013/01/aaron-swartzs-politics.html>:
+
+"What killed him was corruption. Corruption isn't just people profiting from 
+betraying the public interest. It's also people being punished for upholding 
+the public interest. In our institutions of power, when you do the right thing 
+and challenge abusive power, you end up destroying a job prospect, an economic 
+opportunity, a political or social connection, or an opportunity for media. Or 
+if you are truly dangerous and brilliantly subversive, as Aaron was, you are 
+bankrupted and destroyed. There's a reason whistleblowers get fired. There's a 
+reason Bradley Manning is in jail. There's a reason the only CIA official who 
+has gone to jail for torture is the person – John Kiriakou - who told the world 
+it was going on. There's a reason those who destroyed the financial system 
+'dine at the White House', as Lawrence Lessig put it.
+
+"There's a reason former Senator Russ Feingold is a college professor whereas 
+former Senator Chris Dodd is now a multi-millionaire. There's a reason DOJ 
+officials do not go after bankers who illegally foreclose, and then get jobs as 
+partners in white collar criminal defense. There's a reason no one has been 
+held accountable for decisions leading to the financial crisis, or the war in 
+Iraq.
+
+"This reason is the modern ethic in American society that defines success as 
+climbing up the ladder, consequences be damned. Corrupt self-interest, when it 
+goes systemwide, demands that it protect rentiers from people like Aaron, that 
+it intimidate, co-opt, humiliate, fire, destroy, and/or bankrupt those who 
+stand for justice."
+
+In most of what I've written <http://www.salon.com/2011/01/10/fear_12/> and 
+spoken about <http://www.youtube.com/watch?v=HfBUjRao7kk> over the past several 
+years, this is probably the overarching point: the abuse of state power, the 
+systematic violation of civil liberties, is about creating a Climate of Fear, 
+one that is geared toward entrenching the power and position of elites by 
+intimidating the rest of society from meaningful challenges and dissent. There 
+is a particular overzealousness when it comes to internet activism because the 
+internet is one of the few weapons - perhaps the only one - that can be 
+effectively harnessed to galvanize movements and challenge the prevailing 
+order. That's why so much effort is devoted to destroying the ability to use it 
+anonymously - the Surveillance State - and why there is so much effort to 
+punishing as virtual Terrorists anyone like Swartz who uses it for political 
+activism or dissent.
+
+The law and prosecutorial power should not be abused to crush and destroy 
+those who commit the "crime" of engaging in activism and dissent against the 
+acts of elites. Nobody contests the propriety of charging Swartz with some 
+crime for what he did. Civil disobedience is supposed to have consequences. The 
+issue is that he was punished completely out of proportion to what he did, for 
+ends that have nothing to do with the proper administration of justice. That 
+has consequences far beyond his case, and simply cannot be tolerated.
+
+Finally, there is the general disgrace of the US justice system: the wildly 
+excessive emphasis on merciless punishment even for small transgressions. 
+Numerous people have written extensively about the evils of America's penal 
+state, including me in my last book andwhen the DOJ announced that HSBC would 
+not be prosecuted 
+<https://www.theguardian.com/commentisfree/2012/dec/12/hsbc-prosecution-fine-money-laundering>
+ for money laundering because, in essence, it was too big to jail.
+
+All the statistics are well known at this point. The US imprisons more of its 
+citizens than any other nation in the world, both inabsolute numbers 
+<http://www.prisonstudies.org/info/worldbrief/wpb_stats.php?area=all&category=wb_poptotal>
+ andproportionally 
+<http://www.dailymarkets.com/economy/2011/03/06/worlds-largest-jailer-by-far-its-not-even-close/>
+. Despite having only roughly 5% of the world's population, the US has close to 
+25% of the world's prisoners in its cages. This is the result of decades of a 
+warped, now-bipartisan obsession with proving "law and order" bona fides by 
+advocating for ever harsher and less forgiving prison terms even for victimless 
+"crimes".
+
+The "drug war" is the leading but by no means only culprit. The result of this 
+punishment-obsessed justice approach is not only that millions of Americans are 
+branded as felons and locked away, but that the nation's racial minorities are
+disproportionately harmed <http://www.project.org/info.php?recordID=115>. As 
+the conservative writer Michael Moynihandetailed this morning 
+<http://www.thedailybeast.com/articles/2013/01/15/aaron-swartz-s-death-should-change-america-s-absurd-legal-system.html>
+ in the Daily Beast, there is growing bipartisan recognition "the American 
+criminal justice system, in its relentlessness and inflexibility, its unduly 
+harsh sentencing guidelines, requires serious reexamination." As he documents, 
+prosecutors have virtually unchallengeable power at this point to convict 
+anyone they want.
+
+In sum, as Sen Jim Webb courageously put it 
+<http://www.salon.com/2009/03/28/webb_2/> when he introduced a bill aimed at 
+fundamentally reforming America's penal state, a bill that predictably went 
+nowhere: "America's criminal justice system has deteriorated to the point that 
+it is a national disgrace" and "we are locking up too many people who do not 
+belong in jail." The tragedy of Aaron Swartz's mistreatment can and should be 
+used as a trigger to challenge these oppressive penal policies. As Moynihan 
+wrote: "those outraged by Swartz's suicide and looking to convert their anger 
+into action would be best served by focusing their attention on the brutishness 
+and stupidity of America's criminal justice system."
+
+But none of this reform will be possible without holding accountable the prime 
+culprits in this case: Carmen Ortiz and Stephen Heymann [MIT officials have
+their own reckoning to do 
+<http://business.time.com/2013/01/14/mit-orders-review-of-aaron-swartz-suicide-as-soul-searching-begins/>
+]. Their status as federal prosecutors does not and must not vest them with 
+immunity; the opposite is true: the vast power that has been vested in them 
+requires consequences when it is abused. It is up to the rest of us to ensure 
+that this happens, not to forget the anger and injustice from this case in a 
+week or a month or a year. A sustained public campaign is necessary to bring 
+real accountability to Ortiz and Heymann, and only then can further urgently 
+needed reforms flow from the tragedy of Swartz's suicide.
+
+Note
+
+A photograph was originally included with this column that purported to be of 
+Stephen Heymann, but uncertainty over its accuracy resulted in my removal of it 
+pending confirmation.
+ 

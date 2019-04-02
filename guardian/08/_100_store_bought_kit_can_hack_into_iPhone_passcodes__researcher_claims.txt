@@ -1,0 +1,86 @@
+
+The FBI paid more than $1.3m to unlock the San Bernardino shooter’s iPhone 
+<https://www.theguardian.com/technology/iphone> 5C, but one computer scientist 
+from Cambridge University has shown that the passcodes can be hacked using a 
+store-bought kit worth less than $100.
+
+Sergei Skorobogatov demonstrated a technique known as NAND mirroring – 
+dismissed by the FBI director, James Comey, asbeing unworkable 
+<http://www.computerworld.com/article/3048243/apple-ios/fbi-chief-shoots-down-theory-that-nand-mirroring-will-be-used-to-crack-terrorists-iphone.html>
+ – to break into any model of iPhone up to the iPhone 6, including the iPhone 
+5C. He outlined the attack in a paperpublished last week 
+<http://arxiv.org/abs/1609.04327> as well as a YouTube video.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtM66GWrwbsY&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtM66GWrwbsY>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtM66GWrwbsY&media=>
+The technique focuses on bypassing the limit on password retry attempts. 
+Typically the iPhone will lock users out after six failed attempts to guess the 
+passcode. In eliminating this restriction, anyone trying to break into an 
+iPhone can run through many different combinations of characters until the 
+phone is unlocked.
+
+To achieve this, Skorobogatov soldered off the phone’s NAND chip, the main 
+memory storage system used on manyApple 
+<https://www.theguardian.com/technology/apple> devices. The researcher was then 
+able to reverse-engineer the way the memory system communicated with the phone 
+to create a cloned version of the chip with the password attempt counter set to 
+zero.
+
+“Because I can create as many clones as I want, I can repeat the process many, 
+many times until the passcode is found,” he explained in the video. Each run of 
+six attempts takes around 90 seconds, so to go through a full cycle of all 
+10,000 potential four-digit passcodes would take around 40 hours – less than 
+two days. Cracking six-digit passcodes would take much longer.
+
+The electrical components required for the attack can be bought online from 
+eBay, Amazon or Alibaba for around £75 ($100), Skorobogatov claims in his 
+research paper.
+
+“The process does not require any expensive and sophisticated equipment. All 
+needed parts are low cost and were obtained from local electronics 
+distributors,” Skorobogatov said.
+
+ A similar technique could also be used for newer models including the iPhone 
+6S and iPhone 7, although “more sophisticated hardware will be required”, wrote 
+Skorobogatov.
+
+In April, Comey revealed that the FBI had paid about $1.3m 
+<https://www.theguardian.com/technology/2016/apr/29/fbi-bought-1m-iphone-5c-hack-but-doesnt-know-how-it-works>
+ to a third party for software to hack into the iPhone of San Bernardino gunman 
+Syed Farook. “It was, in my view, worth it,” he said.
+
+At the time Apple had declined to help the bureau break into the phone, 
+arguing it would require weakening the security of all iPhones. This led the US 
+government to issue Apple with a court order to try to force the tech company 
+to give so-called “backdoor access” into Farook’s phone, something Apple 
+battled with a high-profile legal and PR campaign.
+
+The US government subsequently dropped the case 
+<https://www.theguardian.com/technology/2016/mar/28/apple-fbi-case-dropped-san-bernardino-iphone>
+ after paying an undisclosed, specialist company to break into the phone.
+
+Before gaining access to the phone and its contents, the FBI said it had 
+considered many different techniques, including the NAND mirroring approach. 
+“It doesn’t work,”said Comey 
+<https://www.onthewire.io/comey-nand-mirroring-doesnt-work/> at the time. 
+Skorobogatov had demonstrated that he was wrong.
+
+“Skorobogatov was able to do what the FBI said was impossible,” said security 
+and policy researcher Susan Landau in ablogpost 
+<https://www.lawfareblog.com/securing-phones-and-securing-us-revisited 
+https://www.lawfareblog.com/securing-phones-and-securing-us-revisited>. 
+
+“The moral of the story? The solution is not, as the FBI has been saying, a 
+bill to make it easier to access encrypted communications, as in the proposed 
+revisedBurr-Feinstein bill 
+<https://www.justsecurity.org/32818/feinstein-burr-2-0-crypto-backdoor-bill-lives/>
+. Such ‘solutions’ would make us less secure, not more so. Instead we need to 
+increase law enforcement’s capabilities to handle encrypted communications and 
+devices.”
+
+• This article was amended on 23 September 2016 to clarify details of the kit 
+needed for the hacking technique described.
+ 

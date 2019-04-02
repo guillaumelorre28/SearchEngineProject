@@ -1,0 +1,117 @@
+
+A startup bankrolled by Bill Gates 
+<https://www.theguardian.com/technology/billgates> is about to conduct the 
+first public trials of high-speed body scanners powered by artificial 
+intelligence (AI), the Guardian can reveal.
+
+According to documents filed 
+<https://apps.fcc.gov/oetcf/els/reports/STA_Print.cfm?mode=initial&application_seq=74125&RequestTimeout=1000>
+ with the US Federal Communications Commission (FCC), Boston-basedEvolv 
+Technology <http://evolvtechnology.com/index.html> is planning to test its 
+system at Union Station in Washington DC, in Los Angeles’s Union Station metro 
+and at Denver international airport.
+
+Evolv uses the same millimetre-wave radio frequencies as the controversial, 
+and painfully slow, body scanners now found at many airport security 
+checkpoints. However, the new device can complete its scan in a fraction of 
+second, using computer vision and machine learning to spot guns and bombs.
+
+Homeland Security: 'be patient' as airport lines reach extreme lengths
+ Read more  
+<https://www.theguardian.com/world/2016/may/13/us-airport-security-lines-homeland-tsa-pre-flight>
+This means individuals can simply walk through a scanning gate without 
+stopping or even slowing down – like the hi-tech scanners seen in the 1990 
+sci-fi film Total Recall. A nearby security guard with a tablet is then shown 
+either an “all-clear” sign, or a photo of the person with suspicious areas 
+highlighted. Evolv says the system can scan 800 people an hour, without anyone 
+having to remove their keys, coins or cellphones.
+
+“The importance of it being fast can’t be overstated,” said Aaron Elkins, an 
+AI professor at San Diego State University, who is developing his own AI 
+security technology. “Any place you currently see a metal detector would 
+probably consider an upgrade.”
+
+Millimetre-wave scanners are useful because they can identify both metallic 
+and non-metallic items, such as 3D printed guns and explosives. But they have 
+alsoattracted criticism 
+<https://www.theguardian.com/world/2012/may/04/airport-scanners-here-to-stay> 
+because scanners were able to capture realistic images of people’s bodies 
+beneath their clothes.
+
+“We never build an image that would enable anyone to see anatomical details, 
+so there’s no naked peepshow in the first place,” says Michael Ellenbogen, 
+Evolv’s CEO. “None of the raw data is stored and none of the data we do keep is 
+traceable to an individual.”
+
+Evolv claims that no human sees what the scanner is looking at. The system 
+uses solid state micro-antennas to steer radar beams over anyone walking 
+through the gate, and to pick up the reflections. That data is then fed to an 
+AI system that has been trained to spot distinctive scattering patterns from 
+all kinds of objects, including firearms, suicide bomber vests and even knives. 
+The scanner also has a camera that takes a photo of each person passing 
+through, enabling facial recognition.
+ The Evolv scanner. Photograph: Evolv Technology 
+Because it promises to be faster and cheaper than existing millimetre-wave 
+scanners, the new device could bring airport-level screening to venues that 
+were previously difficult to secure.
+
+“Transportation is a very soft and attractive target,” said Alex Wiggins, the 
+executive in charge of security for Los Angeles County Metropolitan 
+Transportation Authority. “Given the recent large-scale attacks at transit 
+facilities in Europe, we need to see if there is technology that can screen 
+large number of peoples and focus in on weapons and explosives.”
+
+The three locations named in Evolv’s FCC application process upwards of 
+300,000 people every day, although Denver airport said its pilot project with 
+Evolv had yet to be finalised. The test in LA is due to run in November for 
+three or four days, and will involve thousands of members of the public.
+
+“We want to see how finely these [scanners] can be tuned, and what size of 
+weapons and explosives they can detect,” says Wiggins.
+
+Evolv was spun out in 2013 from the Seattle-based firm of Intellectual 
+Ventures, considered by some apatent troll 
+<https://www.theguardian.com/technology/2011/jul/27/intellectual-ventures-myrhvold-patent-lodsys>
+ but by its founder Nathan Myhrvold as ahi-tech invention factory 
+<http://www.intellectualventures.com/inventions-patents>. 
+
+Evolv received $11.8m in funding from investors, including a sizable chunk 
+from Bill Gates, the ex-Microsoft billionaire. The company recently raised 
+another $8m.
+
+Evolv has also benefited from close links with the US government, perfecting 
+its technology with the help of a contract from the US Department of Homeland 
+Security (DHS). According todocuments previously filed with the FCC 
+<https://apps.fcc.gov/els/GetAtt.html?id=165012&x=.>, Evolv’s scanner was 
+tested last year at the DHS’s Transportation Security Laboratory in New Jersey, 
+and the FBI’s headquarters in Quantico, Virginia.
+
+But public tests will be invaluable, said Elkins. “What was a really 
+high-performing detection algorithm in the lab can get tripped up in the chaos 
+of the real world,” he said. “People will go through with ice cream cones and 
+sunglasses and backpacks.”
+
+Evolv’s Ellenbogen admits that luggage could be a problem. “We’re looking at 
+what people can carry through the system versus what has to be separately 
+inspected,” he said. “Our intent is for people to be able to walk through while 
+carrying all the things they would normally carry.”
+
+Another issue that worries both Wilkins and Elkins is false positives – when 
+people are incorrectly flagged as carrying something dangerous. “If too many 
+people are falsely checked, they have to turn down the sensitivity and just 
+flush people through,” Elkins said. “Then it starts to not really be useful.”
+
+The biggest problem, however, could be the very artificial intelligence that 
+makes Evolv’s scanner so attractive.
+
+“One of the hazards of algorithmic, as opposed to human, detection, is that an 
+attacker who can reverse-engineer a machine can almost certainly find a way to 
+make dangerous objects appear benign,” said Ari Juels, a computer science 
+professor at the Jacobs Institute at Cornell Tech.
+
+“Countermeasures may be possible, but the research community does not yet have 
+a good sense of how to construct them.”
+
+• This article’s headline was amended on 26 October to clarify that Evolv’s 
+technology is not designed to replace existing airport security screening
+ 

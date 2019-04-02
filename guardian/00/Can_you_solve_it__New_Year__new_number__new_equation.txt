@@ -1,0 +1,88 @@
+
+Hello guzzlers,
+
+Here in Numberland, we always knew that 2016 was going to be a bad one, since:
+
+2016 = 666 + 666 + 666 + 6 + 6 + 6
+
+But that’s last year’s news. What’s the story about 2017, arithmetically 
+speaking?
+
+Well, 2017 is a prime number - the first since 2011, and the last until 2027. 
+(Prime numbers are those numbers that are only divisible by themselves and 1.)
+
+More notably, 2017 is the smallest whole number whose cube root begins with 
+ten distinct digits 
+<https://www.reddit.com/r/math/comments/5lafie/2017_is_prime/>:
+
+
+ 20171/3 = 12.63480759....
+
+Wowza! At this time of year, many mathematically curious folk spend time 
+looking for satisfying number patterns like this one involving the new date. 
+(Please add your favourites in the comments below.)
+
+Just so you are not left out the fun, today’s puzzle is to fill the blanks in 
+the following equation, so that it makes arithmetical sense:
+
+10 9 8 7 6 5 4 3 2 1 = 2017
+
+You can use any of the basic mathematical operations, +, –, x, ÷, and as many 
+brackets as you like. So, an answer might look something like (10 + 9 + 8) x (7 
+– 6 – 5)/(4 + 3 + 2 + 1) = 2017, although not this one since this is incorrect.
+
+I do this ‘countdown equation’ every year. Because 2017 is prime, it is a 
+little bit more difficult that last year’s equation where the numbers had to 
+equal 2016. In fact, there are only 652 solutions this year, compared with 890 
+solutions for last year, according to my computer programmer palZefram 
+<https://www.fysh.org/~zefram/>. (Many of these solutions are similar).
+
+Got that? Now let’s raise the stakes. Can you do the same to this equation, 
+which is the same as above but with the 10 deleted:
+
+9 8 7 6 5 4 3 2 1 = 2017
+
+There are only 107 solutions to this one.
+
+Now you have a taste for this puzzle, fill in the equation with the 9 deleted 
+too:
+
+8 7 6 5 4 3 2 1 = 2017.
+
+This one only has 13 solutions. It’s interesting that each time we remove a 
+number the solution space shrinks by a factor of about seven.
+
+We have to end there, since there are no solutions when only seven digits are 
+left.
+
+I stipulated above that you must use only the four basic mathematical 
+operations. But of course, if you want to show off, you can use whatever arcane 
+or complicated mathematical operations you want.
+
+I will send a copy of my puzzle book Can You Solve My Problems? to the person 
+who comes up with the solution to any of the three above puzzles that I 
+consider to be the most beautiful, creative or wacky. This could be one with, 
+say, the least number of brackets required, or with the most ambitious use of 
+mathematical symbology. My decision is final!
+
+To enter either tweet your answer with the hashtag #MondayPuzzle or email me 
+<mailto:bellospuzzle@gmail.com>. I’ll be back with answers and results at the 
+end of the day.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F02%2Fcan-you-solve-it-new-year-new-number-new-equation%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Can%20you%20solve%20it%3F%20New%20Year%2C%20new%20number%2C%20new%20equation&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F02%2Fcan-you-solve-it-new-year-new-number-new-equation%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Can%20you%20solve%20it%3F%20New%20Year%2C%20new%20number%2C%20new%20equation&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F02%2Fcan-you-solve-it-new-year-new-number-new-equation%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+ Photograph: Guardian Faber 
+I set a puzzle here every two weeks on a Monday. I’m always on the look-out 
+for great puzzles. If you would like to suggest one,email me 
+<mailto:bellospuzzle@gmail.com>.
+
+My new book Can You Solve My Problems? A Casebook of Ingenious, Perplexing and 
+Totally Satisfying Puzzlesis available from the Guardian Bookshop 
+<https://bookshop.theguardian.com/can-you-solve-my-problems.html?utm_source=editoriallink&utm_medium=merch&utm_campaign=article>
+ andother retailers <http://amzn.to/2fFUeCA>. My children’s book Football 
+School: Where Football Explains The World <http://amzn.to/2h1Xj2o> was recently 
+shortlisted for the Blue Peter Book Award 2017.
+ 

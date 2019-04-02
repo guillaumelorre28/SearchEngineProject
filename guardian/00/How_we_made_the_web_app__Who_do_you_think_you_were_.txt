@@ -1,0 +1,105 @@
+
+You want to build an app. To reach a digital audience. And promote your 
+exhibition. So far so normal. "Gimme an app" has been a common reaction to the
+memo-from-on-high demanding digital innovation 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2013/jun/07/mobile-museums-audience-experience-technology>
+. But the marketplace is crowded – it's noisy and I find myself asking: has the 
+app had its day?
+
+In June 2013 the National Portrait Gallery <http://www.npg.org.uk/> invited us 
+to talk, following a recommendation from Jane Burton, who commissioned theMagic 
+Tate Ball app 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2012/jul/16/mobile-culture-magic-tate-ball-app>
+. With a modest budget, their brief was to promote the upcoming exhibition, 
+Elizabeth I & Her People.
+
+Scott Morris, digital communications officer at the gallery, explains: "It's 
+about society as it was 400 years ago. For the first time, people outside 
+royalty and the nobility – the so-called 'middling classes' - were having their 
+portraits painted: from bankers and merchants to butchers and poets. We wanted 
+people to think about where they might fit in that society."
+
+This sentiment was the inspiration behind the digital concept, Who do you 
+think you were? 
+<http://www.npg.org.uk/assets/microsites/elizabethI/app/index.html> Audiences 
+are met with a number of fun yet historically accurate lifestyle questions from 
+the period. Based on their answers, they are assigned an Elizabethan alter ego: 
+perhaps Bess of Hardwick, the landowner, or maybe Sir Francis Drake, the 
+celebrity.
+
+Our major concern was whether a mobile app about 16th century portraiture 
+would be heard in a very busy marketplace. There arecountless incredible apps 
+<https://www.theguardian.com/culture-professionals-network/series/app-story> 
+responding to some very specific needs. Our concept had to abide by two 
+principles to have any chance of success.
+
+Firstly, make it as simple as possible for engagement to occur. This means 
+smartphones, tablets,phablets 
+<https://www.theguardian.com/technology/2013/oct/22/nokia-lumia-1520-phablet-windows-phone>
+, laptops and even desktop computers. Scott and the team were quick to support 
+our plan to create a responsive web app and connect through the browser: "We 
+always imagined this would be a downloadable app … but the most important thing 
+was ease of access and the ability to share outcomes."
+ Who do you think you were? 
+Secondly, we must reward our audience with content that has as much integrity 
+and humour as possible. Choosing 12 alter egos wasn't easy; beyond the obvious 
+fair representation of sexes and professions, we worked with the curators to 
+choose 'sitters' (portraits) with interesting stories and points of reference.
+
+The reveal screen is where the conversion occurs – a social media share, an 
+exit to buy tickets, or preferably both. The layout and copy-length are so 
+important in guiding the user through that journey: make it easy to engage and 
+reward that engagement with sharable content.
+
+Developing the look and feel was an interesting challenge. The aim was to 
+combine a traditional Elizabethan aesthetic with something familiar, modern and 
+digital-friendly. Working in Photoshop first, our team went through numerous 
+design rounds to perfect the decorative details. The gallery provided hundreds 
+of 16th century visual references, from fabric samples to book covers and 
+posters. Our designs went on to be used in the online advertising campaign.
+
+The trickiest bit of the design was going responsive. Every graphical element 
+had to be produced in a range of sizes to account for different screen 
+resolutions. Multi-platform also means users can interact a mouse, a trackpad 
+and of course their finger on touchscreen devices. The range of design 
+challenges this presented forced us to be strict in other areas, something the 
+gallery fully supported and should receive full credit for (they even came up 
+with the concept title before production started).
+
+It was a truly collaborative working relationship and every organisation 
+should aspire to this when hiring a digital agency. It would be an 
+over-simplification to say the gallery was a pleasure to work with because they 
+took our advice without kicking up a fuss. In fact their team pushed back on a 
+number of points, in particular the design, but they always had suggestions. 
+Passing things from one side of the fence to the other, without discussion or 
+understanding, simply doesn't work.
+
+In the first fortnight after launching, on 9 October, the web app received 
+nearly 10,000 unique engagements with an average dwell time of four-and-a-half 
+minutes. The most pleasing figure of all is a share ratio of 11%, meaning 
+roughly 1,000 tweets were generated.
+
+The figures don't tell the whole story, but we could argue that by going 
+responsive we doubled our reach. More than half the visits were made on 
+standard computers, with Windows PCs at a huge 45% and Apple Macs around half 
+that. Combined mobile visits totalled under 40%, with iOS at 25% and Android at 
+11%. Blackberry and Windows Phone constituted a little over 1%.
+
+I'm in no rush to add fuel to the hype-fire surrounding HTML5. In many ways 
+it's a horrible technology to work with. But – and I hate myself for saying 
+this – it was exactly the right medium to maximise the reach of a small budget. 
+This is apparent in the sheer range of platforms people used to engage. It 
+seems that with a straightforward concept, a supportive client and a bit of 
+discipline,HTML5 <https://www.theguardian.com/technology/html5> web apps can 
+punch above their weight.
+
+Ben Templeton is the co-founder and creative director of Thought Den 
+<http://www.thoughtden.co.uk/> – follow them on Twitter @thoughtden 
+<https://twitter.com/thoughtden>
+
+This content is brought to you by Guardian Professional 
+<http://www.guardian.co.uk/guardian-professional>. To get more articles like 
+this direct to your inbox, sign up free to become amember of the Culture 
+Professionals Network 
+<http://reg.guardian.managemyaccount.co.uk/culture-professionals/start.php>.
+ 

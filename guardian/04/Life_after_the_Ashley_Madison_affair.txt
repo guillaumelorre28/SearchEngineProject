@@ -1,0 +1,415 @@
+
+It was 9 o’clock on a Sunday night last July when a journalist called Brian 
+Krebs 
+<https://www.theguardian.com/technology/2015/aug/19/ashley-madison-hack-outcome>
+ came upon the scoop of his life. The 42-year-old was at home in Virginia at 
+the time, and wearing pyjamas. For years Krebs had written a popular blog about 
+internet security, analysing thefts of consumer data from big companies around 
+the world, Tesco, Adobe, Domino’s Pizza among them. Now Krebs, as his weekend 
+came to an end, was being tipped off about a more sensational breach. An 
+anonymous informant had emailed him a list of links, directing him to caches of 
+data that had been stolen from servers at a Canadian firm called Avid Life 
+Media (ALM). Krebs vaguely knew of ALM. For years it had run a notorious, 
+widely publicised web service calledAshley Madison 
+<https://www.theguardian.com/commentisfree/2015/jul/21/it-hurts-but-im-going-to-defend-ashley-madison-and-37-million-cheaters>
+, a dating site founded in 2008 with the explicit intention of helping married 
+people have affairs with each other. “Life is short. Have an affair” was the 
+slogan Ashley Madison used.
+
+At the time Krebs received his tip-off, Ashley Madison claimed to have an 
+international membership of 37.6 million, all of them assured that their use of 
+this service would be “anonymous”, “100% discreet”. Only now Krebs was looking 
+at the real names and the real credit-card numbers of Ashley Madison members. 
+He was looking at street addresses and postcodes. Among documents in the leaked 
+cache, Krebs found a list of telephone numbers for senior executives at ALM and 
+Ashley Madison. He even found the personal mobile number of the CEO, a Canadian 
+calledNoel Biderman 
+<https://www.theguardian.com/technology/2015/aug/28/ashley-madison-neil-biderman-stepping-down>
+.
+
+Some people found they could be identified by their height, weight, and erotic 
+desires
+
+“How you doing?” Krebs asked Biderman when he dialled and got through – still 
+not sure, until this moment, that he was on to a legitimate story.
+
+Biderman said: “You can probably guess.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F28%2Fwhat-happened-after-ashley-madison-was-hacked%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe722c94f61592861b97cfa8b53da1fbaf776bc6b%2F0_600_2756_3295%2F2756.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Life%20after%20the%20Ashley%20Madison%20affair&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F28%2Fwhat-happened-after-ashley-madison-was-hacked%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Life%20after%20the%20Ashley%20Madison%20affair&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F28%2Fwhat-happened-after-ashley-madison-was-hacked%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe722c94f61592861b97cfa8b53da1fbaf776bc6b%2F0_600_2756_3295%2F2756.jpg>
+ ‘Life is short. Have an affair’: former Ashley Madison CEO Noel Biderman. 
+Photograph: Jon Enoch/Eyevine 
+Then the CEO of Ashley Madison 
+<https://www.theguardian.com/technology/ashley-madison> began the slow, careful 
+work of begging Krebs not to publish anything about the most appallingly 
+intimate internet leak of the modern age.
+
+Only a few hours later, in the west of England, a contentedly married man 
+we’ll call Michael woke up and went through his usual Monday-morning routine. 
+Coffee. Email. A skim of the news online. AlreadyKrebs’s story 
+<http://krebsonsecurity.com/2015/07/online-cheating-site-ashleymadison-hacked/> 
+about a hack of servers at Ashley Madison had been picked up by prominent media 
+agencies. The story was a lead item on every news page Michael browsed. 
+Infidelity site hacked, he read; a group calling itself the Impact Team 
+claiming responsibility and threatening to release a full database of Ashley 
+Madison customers, present and past, inside a month. More than 30 million 
+people in more than 40 countries affected.
+
+Though in the days to come the number of active users of Ashley Madison’s 
+service would be disputed – was that figure of 37.6 million for real? – Michael 
+could say for sure there were many authentic adulterers who used the site 
+because he was one of them. “I’d taken some elementary precautions,” Michael 
+told me recently, explaining that he’d registered on Ashley Madison with a 
+secret email address and chosen a username by which he couldn’t be personally 
+identified. Hehad uploaded a photograph. He was experienced enough with 
+adultery websites – Ashley Madison and a British equivalent calledIllicit 
+Encounters <https://www.illicitencounters.com/> – to know that “if you don’t 
+put a photo up you won’t get many responses”. But the picture he chose was 
+small and he was wearing sunglasses in it. “Deniable,” Michael said.
+
+Whenever he visited the site he was careful. If he wanted to log on to Ashley 
+Madison to speak to women he would only do so on a work laptop he kept in his 
+office at home. Michael had six internet browsers installed on the laptop, and 
+one of these browsers could only be loaded via external hard drive – this was 
+the browser he used to arrange affairs. So Michael was “irritated and 
+surprised” to realise, that Monday morning, that his elaborate precautions had 
+been pointless. He tried to work out ways in which he would be exposed if the 
+hackers went through with their threat to release Ashley Madison’s customer 
+database.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F28%2Fwhat-happened-after-ashley-madison-was-hacked%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F4b561ec7733b0e9fa1473596c7f6b59fb0d0a021%2F0_132_3000_1800%2F3000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Life%20after%20the%20Ashley%20Madison%20affair&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F28%2Fwhat-happened-after-ashley-madison-was-hacked%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Life%20after%20the%20Ashley%20Madison%20affair&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F28%2Fwhat-happened-after-ashley-madison-was-hacked%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F4b561ec7733b0e9fa1473596c7f6b59fb0d0a021%2F0_132_3000_1800%2F3000.jpg>
+ Getting in on the act: moral crusaders, operating with impunity, began to 
+shame and squeeze the exposed. Photograph: Carl Court/Getty Images 
+Subscriptions to the site were arranged so that women could use the service 
+for free while men paid a monthly fee – this, in theory, to encourage an even 
+balance in its membership. Michael had joined Ashley Madison after seeing it 
+written about in a newspaper. He recalled getting a deal as a new signee and 
+being charged something like £20 for his first month. He paid using his credit 
+card. The profile name and email address he’d chosen were no threat, the 
+photograph deniable – “but your credit card,” Michael realised, “is your credit 
+card.” At this time there would have been a lot of men (even conservative 
+estimates put the number of paid- up Ashley Madison subscribers at the time 
+well into the millions) thinking: your credit card is your credit card.
+
+Michael followed it all from his home computer as the story evolved, through 
+July and into August, into an enormous, consistently strange, consistently 
+ghastly global calamity.
+
+On 18 August, Ashley Madison’s entire customer database was indeed put online. 
+In the subsequent panic, rewards for information about the hackers were 
+offered. Police in Toronto (the city where ALM was based) vowed to find the 
+culprits. Meanwhile politicians, priests, military members, civil servants, 
+celebrities – these and hundreds of other public figures were found among the 
+listed membership. Millions more, formerly anonymous, suddenly had their 
+private details sprayed out on to the internet. It varied according to an 
+individual’s caution when signing up to the site, and to their luck, and to 
+their gender (the men in general more exposed because of Ashley Madison’s 
+requirement they pay by credit card), but after the leak some people found they 
+could be identified not only by their names and their addresses but also by 
+their height, their weight, even their erotic preferences.
+
+Moral crusaders, operating with impunity, began to shame and squeeze the 
+exposed. In Alabama editors at a newspaper decided to print in its pages all 
+the names of people from the region who appeared on Ashley Madison’s database. 
+After some high-profile resignations all around North America, people wondered 
+if there might not be a risk of more tragic repercussions. Brian Krebs, with 
+some prescience, wrote a blog advising sensitivity: “There’s a very real chance 
+that people are going to overreact,” he wrote. “I wouldn’t be surprised if we 
+saw people taking their lives because of this.”
+
+A small number of suicides were reported, a priest in Louisiana among them. 
+Speaking to the media after his death, the priest’s wife said he’d found out 
+his name was among those on the list before he killed himself. She said she 
+would have forgiven her husband, and that God would have too. “God’s grace in 
+the midst of shame is the centre of the story for us, not the hack. My husband 
+knew that grace, but somehow forgot that it was his when he took his own life.”
+
+During the early weeks of the crisis ALM, the company behind Ashley Madison, 
+stopped responding in any sort of adequate way to calls and emails from its 
+terrified customers. Countless marriages were at risk, people teetered on 
+appalling decisions, and meanwhile ALM put out brisk press releases, one 
+announcing the departure of CEO Noel Biderman. It made superficial adjustments 
+to the front of its website, at some point deciding to remove the graphic that 
+described Ashley Madison as “100% discreet”.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F28%2Fwhat-happened-after-ashley-madison-was-hacked%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe7d4bd44b709413738813a3d50a66f261ee55543%2F0_17_900_900%2F900.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Life%20after%20the%20Ashley%20Madison%20affair&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F28%2Fwhat-happened-after-ashley-madison-was-hacked%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Life%20after%20the%20Ashley%20Madison%20affair&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F28%2Fwhat-happened-after-ashley-madison-was-hacked%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe7d4bd44b709413738813a3d50a66f261ee55543%2F0_17_900_900%2F900.jpg>
+ ‘I was basically a therapist for them’: Australian journalist Kristen Brown, 
+who spoke to about 200 of those affected. Photograph: courtesy Kristen V Brown 
+So the masses sent spinning by the leak could not turn to ALM for advice. Most 
+could not easily turn to their partners. Someone had to fill this enormous 
+absence, hear grievances.Troy Hunt <http://www.troyhunt.com/>, a mild-mannered 
+technology consultant from Sydney, had not expected it would be him.
+
+As the crisis developed he found that dozens and then hundreds of people, 
+caught up in the event, were looking to him for help and for counsel. Hunt, who 
+is in his late 30s, explained what happened. His expertise isinternet security 
+<https://www.theguardian.com/technology/2015/mar/23/how-to-tell-if-youve-been-hacked>
+; he teaches courses in it. As a side project, since 2013, he has run a free 
+web service,HaveIBeenPwned.com <https://haveibeenpwned.com/>, that allows 
+concerned citizens of the internet to enter their email address, go through a 
+simple process of verification, and then learn whether their personal 
+information has ever been stolen or otherwise exposed in a data breach. When 
+hackers pinched data from servers at Tesco, at Adobe, at Domino’s Pizza, Hunt 
+trawled through the data that leaked and updated his site so that people could 
+quickly find out if they were affected. After the Ashley Madison leak he did 
+the same.
+
+Only this time, Hunt recalled, desperate and difficult and extremely personal 
+messages began arriving in his inbox almost immediately. Mostly it was men who 
+emailed – paying customers of Ashley Madison who mistakenly believed that Hunt, 
+having sifted through the leaked data, might be able to help them. Could he 
+somehow scrub their credit cards from the list? Hunt described the tone of 
+these emails as fearful, illogical, “emotionally distraught”. About a hundred 
+emails a day arrived in that early period, Hunt recalls. Considered together 
+they form a bleak and fascinating historical document: a clear view into the 
+hivemind of those caught up in the leak, caught out.
+
+People confessed to Hunt their reasons for subscribing to Ashley Madison in 
+the first place: “I joined Ashley Madison one night bored, honestly… Curiosity… 
+Drunken evening…” They volunteered to him what they’d done, or nearly done, or 
+hadn’t done at all. They described what it was like to learn about the leak: 
+“The worst night of my life… Sheer fear… Sick and foolish… I can’t sleep or 
+eat, and on top of that I am trying to hide that something is wrong from my 
+wife…” They pleaded with Hunt (who could do nothing for them). They apologised 
+to him (a stranger). They wondered if they should admit everything to the 
+people who mattered to them. And they wondered what that might cost. “Tell your 
+wife and kids you love them tonight,” said one email. “I shall do the same, as 
+I really don’t know if I will have many more chances to do so.”
+
+Some of those who got in touch, Hunt told me, mentioned suicide. He didn’t 
+know what to do. He was a computer consultant. He sent back the numbers of 
+telephone helplines.
+
+Who was behind the hack? Who was the Impact Team that claimed responsibility?
+
+Troy Hunt often wondered about that. He knew a lot about data theft at big 
+corporations, what it tended to look like. Hunt thought this episode seemed 
+“out of character” with many such hacks he’d seen. The theft of such a large 
+amount of data usually suggested to Hunt that somebody employed by the company 
+(or someone who had physical access to its servers) was the culprit. But then, 
+he reasoned, the subsequent leaks had been so careful, so deliberate. “They 
+came out and said: ‘This is what we’re going to do.’ Then radio silence. And 
+then a month later: ‘Here’s all the data.’” It was sinister, Hunt thought, 
+militaristic even.
+
+Then there was the jarring strand of moralising in the messages the Impact 
+Team did put out. “Learn your lesson and make amends” was the group’s advice to 
+any of Ashley Madison’s users left in pieces by their work. Not the obvious 
+behaviour, Hunt suggested, of a revenge-minded staffer who only wanted to hurt 
+his or her employer.
+
+Brian Krebs made efforts to understand the hackers, too. He’d never been able 
+to figure out who first tipped him off, but he wondered at one point if he’d 
+found a promising lead. In a detailed blog, published in late August, Krebs 
+followed a trail of clues to a Twitter user who seemed to have suspicious early 
+knowledge of the leak. “I wasn’t saying they did it,” Krebs told me, “I was 
+just saying that maybe this was [a line of investigation] that deserved more 
+attention.” He didn’t know if police forces investigating the case ever 
+followed up on his lead. The Toronto force, to date, has announced no arrests. 
+(When I asked, recently, if there had been any developments their press 
+department did not reply.)
+
+Krebs told me: “Whoever’s responsible – no doubt they know that there are now 
+lots of people wanting to put a bullet in their head. If it were me, if I was 
+going to do something like this, I would make pretty darn sure that nobody 
+could trace it back to me.” At least in public, the Impact Team has not been 
+heard from again.
+
+What motivated the hackers, then? In the initial ransom note the Impact Team 
+suggested that unseemly business practices at ALM – for instance a policy of 
+charging users to delete their accounts on Ashley Madison and then continuing 
+to store departing users’ personal information on internal servers – had 
+provoked the hackers’ ire and justified its attack. But the mass release of 
+private data, to make a point about the maltreatment of private data, cannot 
+have seemed to anyone a very coherent reason for doing all this.
+
+
+To try to better understand the thinking of the Impact Team I spoke to hackers 
+who said they were not involved with the Ashley Madison attack but had kept a 
+close eye on it. The general assumption, in this community, seemed to be that 
+attacking a firm such as Avid Life Media (a bit shouty, a bit sleazy) was fair 
+game. Few felt the mass release of millions of people’s personal information – 
+they called it “doxing” – was ideal hacker etiquette though. “Not sure I would 
+have doxed 20 million people at the same time,” one said. Even so they felt the 
+saga would teach the world a useful lesson. “Anyone doinganything online,” I 
+was told, “should assume it isn’t secure.”
+
+One hacker I spoke to said he’d spent hours and hours digging through the 
+Ashley Madison data after the leak, going out of his way to draw attention to 
+his most salacious findings. Speaking to me by email and in private chatrooms, 
+he asked that I call him AMLolz, for “Ashley Madison laughs”. We discussed some 
+of the findings he’d made and subsequently publicised, through anAMLolz Twitter 
+<https://twitter.com/amlolzz> feed and an AMLolz website <https://am.peen.es/>. 
+He noted with some pride that in one of his deep searches he’d come across 
+emails that suggested members of Ashley Madison’s staff were themselves having 
+extramarital affairs. He had posted screenshots of incriminating personal 
+messages, and several magazines and newspapers had picked up on his findings 
+and run stories.
+
+AMLolz might not have been involved in the Ashley Madison hack, but he was 
+certainly involved in giving it an impactful afterlife. I asked him what 
+motivated him. Disapproval? Revenge? “Because it was very humorous,” he said 
+eventually. “And very interesting. No mission statement, just looking for lols.”
+
+AMLolz used the term “peripheral damage” more than once in conversation, 
+neatly encompassing, in those words, all the sleepless unfaithful and their 
+tortured other halves, the newly unemployed, the dead, their doubly grieving 
+widows. I asked AMLolz what he would tell one of these “peripherally damaged” 
+if he were to meet them in person.
+
+He replied: “It would depend what they had to say to me first. [Smiley face.] 
+That being said, something along the lines of: ‘Own your actions. Don’t lie to 
+yourself, or anyone else…’ It’s not good. [Thoughtful face.]”
+
+In the west of England, Michael could hardly disagree with this. Even as he 
+sat in his home office, reading the developing news about Ashley Madison and 
+wondering if his wife was doing the same, he was well aware of his own 
+culpability. He didn’t think he had anyone else to blame but himself. Who was 
+he really going to blame? Ashley Madison? “I think it would probably be a 
+little naive of me to expect high standards from a company that was promoting 
+itself as a meeting point for people looking for adulterous affairs. It’s a bit 
+like borrowing money off your drug dealer and expecting him to pay it back.” 
+Michael simply accepted what was going on and watched, with a numb fascination, 
+as the crisis rolled on.
+
+In August, the private detective industry reported, cheerfully, an uptick in 
+business. Lawyers steered high-publicity legal actions against Ashley Madison – 
+at least three plaintiffs in America wanted to sue – as well as seeing through 
+quieter divorce claims. In Australia a DJ decided to tell a woman live on air 
+that her husband was on the database. Members and former members began to be 
+sent anonymous extortion letters. Michael received several. Pay us in seven 
+days, he was threatened in one email, “or you know what will happen… You can 
+inform authorities but they can’t help you. We are porfessionals [sic].” 
+Michael was unnerved by the emails but ignored them. The world, in these small 
+increments, got shabbier.
+
+Like Troy Hunt in Australia, Kristen Brown 
+<https://fusion.net/author/kristen-v-brown/>, in California, found herself 
+operating as a sort of on-the-go counsellor during these strange months. For 
+Brown, a 29-year-old journalist, it began when she started interviewing victims 
+of the Ashley Madison leak for the websiteFusion.net <http://fusion.net/>. 
+Interviewees kept wanting to talk, though, long after she’d published – a lot 
+of these people, Brown guessed, left without anyone else they could speak to 
+frankly. “I was basically functioning as a therapist for them. They were 
+crushed by what happened.” Brown guessed she’d spoken to about 200 of those 
+affected by the hack over the past six months.
+
+To an unusual degree, Brown thought, a tone of moral judgment skewed the 
+commentary and discussion around the Ashley Madison affair. “It’s a gut 
+reaction, to pass a moral judgement,” she said. “Because nobody likes the idea 
+of being cheated on themselves. You don’t want to find your own partner on 
+Ashley Madison. But spending hours and hours on the phone with these people, it 
+became so clear to me how friggingcomplicated relationships are.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F28%2Fwhat-happened-after-ashley-madison-was-hacked%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2F9b9666a41f4eac32329e344cabd841cc26b7d04f%2F0_0_3000_1801%2F3000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Life%20after%20the%20Ashley%20Madison%20affair&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F28%2Fwhat-happened-after-ashley-madison-was-hacked%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Life%20after%20the%20Ashley%20Madison%20affair&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F28%2Fwhat-happened-after-ashley-madison-was-hacked%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2F9b9666a41f4eac32329e344cabd841cc26b7d04f%2F0_0_3000_1801%2F3000.jpg>
+ ‘Maybe we need privacy disasters like this to help us wake up’: Brian Krebs, 
+the cybercrime journalist who broke the Ashley Madison story in July 2015. 
+Photograph: Daniel Rosenbaum/New York Times/Redux/Eyevine 
+Brown continued: “We all have this idea of the site as completely salacious, 
+right? Cheating men cheating on their unassuming wives. And I did speak to 
+those men. But then I spoke to others who’d, say, been with their wife since 
+they were 19 – they loved their wives but there were problems, there were kids, 
+they’d stopped sleeping together. They had good partnerships, their lives 
+worked, they didn’t want to upend everything. They just weren’t fulfilled or 
+satisfied romantically. Some people were on the site with the permission of 
+their spouses. I talked to one woman who was afraid to leave her husband, and 
+being on Ashley Madison was her way of working out what to do. Some people I 
+spoke to were single and didn’t want attachment and using Ashley Madison was 
+just away. People’s reasons were complex. They were real.”
+
+This, more or less, had always been Michael’s reasoning for cheating. His 
+situation was complex, and real. He told me he had been unfaithful to his wife 
+“from after we first got married”, conducting a string of one-off or months- or 
+years-long affairs for almost 30 years. “As life partners, my wife and I fit 
+really well. We are very, very good friends – that describes us. But I know 
+there’s a missing dimension to our relationship.”
+
+Ashley Madison was a way to try to account for that missing dimension.
+
+And not always, said Michael, a particularly satisfying way. He wasn’t even 
+sure that every woman he spoke to during his time on the site was genuine. 
+Sometimes, when conversation had a flavour of “classic soft porn”, he said, he 
+wondered if his correspondents were employees of the company, reading from 
+scripts. (The likely truth, as suggested by internal documentation made 
+available in the leak, was stranger still. Coders at Ashley Madison had created 
+a network of fake, flirtatious chatbots to converse with men like Michael, 
+teasing them into maintaining their subscriptions on the site. It was for this 
+reason that commentators began to doubt whether Ashley Madison had as many 
+subscribers as it advertised; Avid Life Media, ever since the leak, has always 
+claimed to have a healthy and even growing userbase.)
+
+Michael had met someone real through Ashley Madison. Like him she was in a 
+stable companionable marriage, only one that lacked a certain dimension. She 
+lived in the north of England. She had children. She and Michael shared tastes 
+in books and spoke a lot on the phone. Sometimes they discussed their partners 
+and their respective marriages, other times they steered from the subject. 
+There was a sexual element to the affair, Michael said, but they never slept 
+together. It was a relationship that was precious to him.
+
+“If you’re going to chat a woman up in a bar, or at a work conference, or 
+wherever,” Michael told me, “then: ‘Hello, I’m married’ is not a good opening 
+line. Whereas if you’re going on to a website like Ashley Madison – they know. 
+It’s a bit ridiculous to talk about honesty in terms of these relationships. 
+But they actually start with honesty. Because you’re not pretending to be 
+something you’re not.”
+
+Ashley Madison was a way of having a “safe affair”, he said. Safe in the sense 
+that he didn’t think it likely he’d be found out by his wife (he had his 
+special browser, his secret email address). Also safe in the sense that he 
+didn’t think anyone would get hurt.Since the leak Michael had not used Ashley 
+Madison again nor spoken to the woman in the north. His wife, as of February 
+2016, had not found out about his affairs.
+
+The hack of Ashley Madison was historic – the first leak of the online era to 
+expose to mass view not passwords, not pictures, not diplomatic gossip, not 
+military secrets, but something weirder, deeper, less tangible. This was a leak 
+of desires.
+
+“I think that history’s probably littered with examples of madams whose little 
+black book went walking, you know what I mean?” said Brian Krebs. “But this was 
+massive, en masse, on the internet. Who knows? Maybe we need privacy disasters 
+like this to help us wake up.”
+
+Kristen Brown thought it was important to take away a different instruction 
+from the saga. That marriage is not one thing, and that the millions of users 
+of Ashley Madison very likely had millions of different reasons for being on 
+there. “There’s a vibe between two people that can’t be quantified. How to say 
+what the right path is for any one pair?Relationships 
+<https://www.theguardian.com/lifeandstyle/relationships> are fucking weird. And 
+they get weirder the longer they go on.”
+
+In London recently I met with Troy Hunt. He’d flown in from Australia to teach 
+a corporate course on internet security. We had lunch between morning and 
+afternoon sessions in his classroom in Canary Wharf. While we ate Hunt showed 
+me his phone – another email had just come in from someone requesting his help. 
+Six months had gone by since the leak; the flow of desperate messages had 
+slowed but not stopped.
+
+Hunt responded to this email the way he always did now, sending back a 
+prewritten response that included a list of answers to frequently asked 
+questions about the hack. Also that list of hotline numbers.
+
+When we’d finished eating his teaching resumed. Two dozen people filed into 
+the room with their laptops and sat quietly while Hunt lectured them about 
+cyber security. He’d worked a contemporary lesson into his speech, and 
+projecting an image of a now-infamous website on to a screen behind him, he 
+said to the class: “Put up your hand if any of you have an account with Ashley 
+Madison.”
+
+A nervous laugh went around the room. Nobody put up their hand.
+ 

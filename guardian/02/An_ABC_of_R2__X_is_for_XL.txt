@@ -1,0 +1,34 @@
+
+Today X, for XL... which was a size of problem we noted but wouldn't tackle.
+
+When we estimated the work for R2 up front we used t-shirt sizes for each 
+feature: S, M, L and XL. The largest single task the team would tackle was an 
+L, which was the equivalent of five days' work. We felt this was a good maximum 
+for two reasons: first, it delivered something of value within a reasonable 
+space of time and what should have been one iteration; second, if we could 
+imagine developing it within five days then it was probably sufficiently 
+understood, whereas anything bigger risked being too complex to estimate 
+without a lot more thought.
+
+However, during the time-limited initial planning period we were required to 
+estimate things that needed more analysis than we had time for. These features 
+we labelled XL and gave a nominal equivalent size to: 10 days' work.
+
+However, we would never actually start a task that was labelled XL. We would 
+always break it down before the event into smaller parts. The aim was that 
+although individual estimates might be over or under, on average they should 
+balance out and the total size of the project should remain constant.
+
+Of course, for XL tasks it was quite possible that a more thoughtful estimate 
+would produce a total that was far too big to be able to be balanced out by 
+other tasks. In these cases we would have to reconsider our options and think 
+about dealing with the problem in a different way -- most likely by having a 
+less comprehensive solution. However that didn't tend to be too much of a 
+problem. In many cases by the time we got to the XL task our stakeholders' 
+needs and priorities had changed so much that there were a lot of new options 
+and directions that people wanted to explore, and ones that they would not have 
+thought of in those very early planning stages.
+
+This is an example of why planning was important, but very detailed planning 
+would actually have been quite wasteful.
+ 

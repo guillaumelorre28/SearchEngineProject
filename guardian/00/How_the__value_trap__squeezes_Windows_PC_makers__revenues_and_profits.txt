@@ -1,0 +1,325 @@
+
+The news that LG is considering quitting the traditional Windows PC business 
+<https://www.theguardian.com/technology/2014/jan/03/lg-exit-pc-market-declining-sales-profit-tablets>
+ isn't surprising. LG has always been a bit player in the PC market, with 
+shipments of at best a few million PCs per year - in a market where the largest 
+companies would expect to shift 10 times more.
+
+As one unnamed LG employee told the Korean Times, exiting the PC business 
+makes sense: "it doesn't make sense to put more resources into the money-losing 
+business."
+
+It's not just LG that's hurting. The PC business is in a slump which has seen 
+year-on-year shipments (and so sales) ofWindows 
+<https://www.theguardian.com/technology/windows> PCs fall for five (imminently, 
+six) quarters in a row, after seven quarters where they barely grew by more 
+than 2%.
+
+The situation is a long way from the boom times of the late 1990s, which saw 
+20%-plus quarterly growth.
+
+And it's not only growth that's fallen. Analysis by the Guardian suggests that 
+as well as falling sales, the biggest PC manufacturers now have to contend with 
+falling prices and dwindling margins on the equipment they sell.
+
+Price and profit falls
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-1%23img-1&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F1%2F9%2F1389285047470%2F57485104-0707-4bc4-95b1-afec3f940e76-1020x612.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20the%20'value%20trap'%20squeezes%20Windows%20PC%20makers'%20revenues%20and%20profits&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-1%23img-1>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20the%20%27value%20trap%27%20squeezes%20Windows%20PC%20makers%27%20revenues%20and%20profits&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3Fpage%3Dwith%3Aimg-1%23img-1&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F1%2F9%2F1389285047470%2F57485104-0707-4bc4-95b1-afec3f940e76-1020x612.png>
+ PC market global shipments, 3Q 1998 - 3Q 2013. Source: IDC. Photograph: /IDC/PR
+My research took published data from the quarterly financial figures for HP, 
+Dell,Lenovo <https://www.theguardian.com/technology/lenovo>, Acer and Asus, 
+which together make more than 60% of the world's Windows PC shipments.
+
+By comparing revenues, operating profits (which excludes one-off windfalls 
+from investments) and the proportion of revenues derived from business 
+segments, it's straightforward to figure out how much each PC costs to make, 
+and how much profit it generates for the big companies. (ForAcer 
+<https://www.theguardian.com/technology/acer> and Asus, which operate in 
+Taiwan, I used the prevailing exchange rate at each quarter's end to give US 
+dollar revenues. Lenovo reports its figures in US dollars.)
+
+This yields the "weighted average selling price" (ASP) of PCs from those 
+companies. It's weighted because HP sells more PCs than Acer; and the ASP is 
+the price at which the manufacturers sell machines to wholesalers, not the 
+end-user price.
+
+Bitten by ASPs
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F1%2F9%2F1389285185264%2Fc443c666-e48b-483f-8b4c-f4daedb6fc0f-1020x612.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20the%20'value%20trap'%20squeezes%20Windows%20PC%20makers'%20revenues%20and%20profits&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20the%20%27value%20trap%27%20squeezes%20Windows%20PC%20makers%27%20revenues%20and%20profits&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F1%2F9%2F1389285185264%2Fc443c666-e48b-483f-8b4c-f4daedb6fc0f-1020x612.png>
+ Average per-PC revenues for various PC manufacturers over time, by quarter. 
+Lines show overall price trend. Based on reported revenues and shipments 
+figures from accounts (Apple) or IDC (others). Photograph: /IDC/PR 
+The data shows that the weighted average selling price (ASP) of a PC has 
+fallen from $614.60 in the first quarter of 2010 to just $544.30 in the third 
+quarter of 2013, the most recent date for which data is available.
+
+Even worse is the profitability. From the financial data and shipment data, 
+it's easy enough to calculate the per-PC profitability of each company, though 
+it creates a confusing picture. (TheMicrosoft 
+<https://www.theguardian.com/technology/microsoft> figure is calculated from 
+figures given for its Windows division; however, they vary greatly because much 
+of that division's revenue comes from corporate sales to its existing installed 
+base of PCs, rather than directly from shipments.)
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F1%2F9%2F1389285653414%2F03969f79-b507-426c-b3f1-cf4368c73d75-1020x501.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20the%20'value%20trap'%20squeezes%20Windows%20PC%20makers'%20revenues%20and%20profits&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20the%20%27value%20trap%27%20squeezes%20Windows%20PC%20makers%27%20revenues%20and%20profits&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F1%2F9%2F1389285653414%2F03969f79-b507-426c-b3f1-cf4368c73d75-1020x501.png>
+ Average per-PC profit for major PC manufacturers, by quarter. Calculated from 
+published financial data and IDC shipment figures. Photograph: /Guardian 
+It's hard to see what's happening immediately. But we can calculate a 
+"weighted average profit per PC" by looking at the profitability of each 
+company, and weighting that by the number of PCs shipped. This gives a far 
+clearer picture.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F1%2F9%2F1389286015866%2F3e690f4c-6de1-48f2-a005-cf6599e6a874-1020x498.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20the%20'value%20trap'%20squeezes%20Windows%20PC%20makers'%20revenues%20and%20profits&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20the%20%27value%20trap%27%20squeezes%20Windows%20PC%20makers%27%20revenues%20and%20profits&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F1%2F9%2F1389286015866%2F3e690f4c-6de1-48f2-a005-cf6599e6a874-1020x498.png>
+ Average per-PC profit for the five largest PC manufacturers, with trend line. 
+Note: doesn't include Asus data before 2Q 2010 as PC shipment data isn't 
+available. Photograph: /Guardian 
+In the first quarter of 2010, the weighted average profit per PC was $15.71 - 
+a 2.55% margin. (So the overall per-PC cost of manufacture, sales and marketing 
+was just under $599.)
+
+But since then, the rise of smartphones (which began outselling PCs at the end 
+of 2010) and the arrival of the iPad and other tablets have eaten into the 
+fortunes of PC makers.
+
+So much so that by the third quarter of 2013, the weighted average profit had 
+fallen to $14.87.
+
+That actually marks an improvement in margin, to 2.73% - but the absolute fall 
+both in profits and numbers shipped means that companies are struggling. (The 
+per-PC manufacturing/marketing/sales cost fell to $529. It's getting cheaper to 
+produce PCs - but the price they're being sold for is falling too.)
+
+For the Taiwanese company Acer, it has meant a brutal boardroom shakeout that 
+saw its chief executive forced out after two successive quarters of losses.
+
+That contrasts with the comments made in January 2010, when its founder Stan 
+Shihremarked 
+<http://www.google.com/hostednews/afp/article/ALeqM5iZVGfFmnYTrWvroB5c3byx_lpBmg>
+ that US-based PC manufacturers would die out over the next 20 years because 
+they couldn't make the low-priced netbook computers that consumers were 
+demanding.
+
+"The trend for low-priced computers will last for the coming years," said Shih 
+confidently.
+
+The problem is that his prediction is coming true. PCs are getting cheaper. 
+But they're not making much money for their makers. Welcome to the value trap.
+
+The value trap
+
+The problem for Windows PC makers is that they are caught in the "value trap". 
+Even as prices are being forced down by commoditisation and slumping demand, 
+they have no obvious way to capture any of the money that a consumer who buys 
+one of their products subsequently spends with it.
+
+While HP and Dell (and to a lesser extent Lenovo) use PC sales to corporations 
+as the Trojan horse for more profitable services contracts, any PC sale to a 
+consumer is effectively the end of the financial relationship. The OEMs can't 
+extract any more value from them. That's why many tried (and still try) to 
+extract as much as possible at the point of sale. Chrystalla Labesque, PC 
+analyst at research company IDC, points toDell 
+<https://www.theguardian.com/technology/dell> as a classic example: "It was the 
+leader in pushing costs down, and adding additional services as a way to 
+improve their hardware margin - so when selling notebooks to consumers, they 
+would offer antivirus and notebook accessories. Those could double their per-PC 
+profit."
+
+When you think how thin that profit could be, you understand the purpose of 
+"crapware" preinstalled on so many Windows PCs: to escape from the value trap. 
+As Jack Schofield noted inrecommending a Dell purchase last May 
+<https://www.theguardian.com/technology/askjack/2013/may/23/desktop-pc-dell>, 
+"Dell's Vostro range is aimed at boring business buyers rather than consumers, 
+so they tend to be well made and they don't include a lot of bundled crapware 
+to mess things up."
+
+For Asus <https://www.theguardian.com/technology/asus> and Acer, which don't 
+have substantial sales to business, the attempted solution has been to offer 
+"cloud" services, though with little result. The idea is sound - retain 
+consumers by tying them to the brand, and so to future sales - but set against 
+the might of Google or Microsoft, it's an uphill struggle.
+
+The value trap is deep, though. Because Windows and its apps are easily moved 
+from one PC to another (which is a huge benefit to the consumer), it's almost 
+impossible for hardware makers to differentiate themselves from rivals. In the 
+past, their best hope has been to encourage repeat buying through having extra 
+hardware features; that's what some are trying to do with touchscreen laptops 
+and desktops now. But there's little sign that buyers are enthusiastic about 
+those, preferring instead to buy offerings that are just a little cheaper.
+
+That means there is always downward pressure on both prices and margins, while 
+the only way to make useful profits is to be able to build at scale.
+
+The alternative is, like HP and Dell, to use PCs as a Trojan horse to sell 
+much more profitable services to businesses.
+
+The value trap is the reason why Léo Apotheker suggested that HP should sell 
+off its PC-selling Personal Systems Group 
+<https://www.theguardian.com/business/2011/aug/31/hp-spin-off-pc-division>
+ (PSG) when he was head of the company in 2011. PSG is HP's biggest division in 
+revenue terms - but its worst-performing in profit margin, at less than 5% 
+compared to Imaging (15%), Software (20% or more), Storage/Networking (15%), 
+and until recently Services (which have dipped from 15% to 4%).
+
+Apotheker reasoned that if PSG could be spun off without hurting the rest of 
+HP, overall margins would lift, and so would the stock. The rest of the board 
+decided though that that wasn't possible - and spun Apotheker off instead.
+
+Dell, similarly, has struggled ever to make money selling its PCs to 
+consumers: its "global consumer" division had profit margins which averaged 1% 
+between February 2007 and January 2013. The rest of its business was much more 
+profitable, but it's clear that selling PCs to the average person at home just 
+wasn't a good business for it. (Dell's per-PC profits are calculated from its 
+total PC revenues and its consumer segment profits.)
+
+"Dell isn't really present in the consumer market," says Labesque.
+
+Lenovo, which completed its acquisition of IBM's PC business in the second 
+quarter of 2005, has also struggled with profitability - but since it increased 
+its reach by moving beyond China in the past couple of years, it has become 
+more and more dominant, and profitable. It's managing to do this even while 
+competes in smartphones - something that HP, its rival for the PC crown, has 
+signally failed to do. "With Lenovo, what isn't reflected is that they have a 
+strong position in China, which means that they have efficiencies which other 
+vendors can't leverage," explains Labesque.
+
+Asus and Acer, meanwhile, are clearly troubled by the disappearance of 
+netbooks, even though those pulled down the ASP of PCs, because it has forced 
+them into the potentially unprofitable field of tablets. Acer's financial 
+results suggest that it has made a loss on almost every PC it has sold since 
+the second quarter of 2011. Its best performance in that space was in the 
+second quarter of 2012 - when for every PC it sold, it made an average profit 
+of just $1.13.
+
+Asus's plans for the future - as set out in its Q3 2013 presentation 
+<http://www.mzcan.com/taiwan/2357/events/65/EN/IR_3Q2013_TSE_3HMycH1CJhug.pdf>
+ (PDF) - focus on tablets, and particularly in trying to find extra profits 
+there.
+
+But even with tablets, it's not easy. Asus estimates the TAM - total 
+addressable market - as 202m, or 230m if you include "white box" makers in 
+China making super-cheap devices. The competition there is ferocious, with the 
+same downward pressure on price that is seen in PCs; and Apple always lurks at 
+the high end with the iPad.
+
+In the personal computer market, Apple wins both ways: its ASPs are much 
+higher than those of rival computer manufacturers, and it used to be able to 
+sell OS upgrades, as well as upgrades to its iLife media and iWork office 
+suites, providing a small but reliable income.
+
+This year, it has decided to stop charging for any of those upgrades - but it 
+still takes a 30% commission on software bought through its Mac App Store 
+(though users can still download and buy desktop apps from the web). With a
+claimed installed base worldwide of 72m 
+<http://www.macstories.net/news/the-numbers-from-apples-wwdc-2013-keynote/> as 
+of summer 2013 (up from66m in summer 2012 
+<http://aaplinvestors.net/stats/mac-installed-base/>), it's a tidy revenue 
+stream - especially compared to the pit that PC manufacturers find themselves 
+in.
+
+Apple: squeezed, but less so
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F1%2F9%2F1389286486118%2F72fb671c-076b-4a77-aeb3-b0b54b8abeb2-1020x368.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20the%20'value%20trap'%20squeezes%20Windows%20PC%20makers'%20revenues%20and%20profits&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20the%20%27value%20trap%27%20squeezes%20Windows%20PC%20makers%27%20revenues%20and%20profits&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F09%2Fpc-value-trap-windows-chrome-hp-dell-lenovo-asus-acer%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F1%2F9%2F1389286486118%2F72fb671c-076b-4a77-aeb3-b0b54b8abeb2-1020x368.png>
+ Apple average PC selling price v "weighted" average PC selling price for five 
+main manufacturers. Photograph: /Guardian 
+Apple isn't immune from the downward pressure on pricing, though they've only 
+been mildly eroded, as shown in the graph. Its ASPs have eroded only mildly 
+since 1Q 2010, from $1,277.61 to $1,229.56 (a 4% drop).
+
+And how profitable are Macs on their own, even without that revenue stream? 
+Apple doesn't break out the figure for Mac profitability. But Horace Dediu of 
+the Asymco consultancy reckons there's a good-enough rule of thumb: assume that 
+Macs have an 18.9% profit margin, which fits well enough with its historical 
+operating margins.
+
+That metric gives a hardware per-PC profit which has dropped from $241 to $232 
+- an erosion, certainly, but a margin that Windows PC makers would kill for: 
+it's more than 10 times greater than their per-PC profit.
+
+Labesque at IDC says: "Apple's cost to produce machines might be higher, but 
+it isn't fundamentally different from other PC manufacturers. They used to have 
+the best hardware margin - double-digit [ie over 10%] - while Acer, for 
+instance, has been losing money."
+
+She notes that once you go outside the top-tier manufacturers, "then there's 
+Apple, and Samsung, and Sony, which are more consumer and lifestyle brands, 
+where they can ask for a premium price." Doing that, of course, generally 
+points to better margins. Samsung shipped around 11m PCs in 2013, and Sony 
+slightly fewer than 5m, according to IDC. Apple sells around 16m PCs per year.
+
+Winners - and losers?
+
+So who wins? The most obvious beneficiary of every Windows PC sale is 
+Microsoft. It gets revenue from the sale of the Windows licence - but it then 
+captures extra value through the high likelihood that even consumer buyers of 
+PCs will buy its Office suite, and probably buy another version of Windows at 
+some point in that computer's life. It's the reason why Microsoft is so 
+fabulously profitable, while PC manufacturers are struggling.
+
+Into this, the arrival of Chromebooks - running Google's Chrome OS - could be 
+the early signs of a disruption. Although sales are tiny compared to the 
+overall PC market, at a few million in 2013, they have the potential to 
+undermine many of Microsoft's most lucrative markets. Chromebooks don't run 
+Windows; they don't run Office. But they do pretty much everything that the 
+average user needs (apart perhaps from running Skype; Microsoft's never going 
+to go there). Google has been pushing Chromebooks into education and 
+enterprises,with some success - as noted by NPD 
+<https://www.npd.com/wps/portal/npd/us/news/press-releases/u-s-commercial-channel-computing-device-sales-set-to-end-2013-with-double-digit-growth-according-to-npd/>
+ (in data that was badly misunderstood by many, who thought it was referring to 
+consumer sales).
+
+In July, Stephen Baker of NPD told Bloomberg: “While we were sceptical 
+initially, I think Chromebooks definitely have found a niche in the 
+marketplace… The entire computing ecosystem is undergoing some radical change, 
+and I think Google has its part in that change.”
+
+At the research group Gartner, where research director Annette Jump agrees 
+that "the profit squeeze on PCs is very real", the expectation is that 
+Chromebooks will make slow - but real - inroads. For 2013, it reckons that 
+Chromebooks would have been about 0.5% of total shipments - compared to 92% for 
+Windows, 6% for Apple and 1% for Linux.
+
+By 2017, the expectation is that the overall market will be about the same 
+size, or slightly smaller. Windows will have fallen to just 83%; Apple will 
+make up 11% (which, if even vaguely correct, would be its largest share in 
+decades), whileChrome <https://www.theguardian.com/technology/chrome> will be 
+about 4.5%.
+
+That might not be a lot of Chromebooks, though it's likely they could be going 
+to some key customers: the ones who used to reliably buy Windows and then 
+subsequently Office.
+
+For Microsoft, that is a threat - and one which may be behind its curious 
+decision to make anadvert dissing Chromebooks 
+<http://www.youtube.com/watch?feature=player_embedded&v=7DUXMFibDi8>. Consumers 
+probably won't care that they don't run Office; the advert's "dog whistle" 
+message may have been to people in businesses considering them.
+
+Meanwhile for PC manufacturers, seeing sales slump and profits weaken, 
+something certainly does have to change. So maybe we should take it as a 
+portent that although LG did announcea couple of hybrid Windows 8 machines 
+<http://www.lgnewsroom.com/newsroom/contents/64076> at the International 
+Consumer Electronics Show (CES) this week, the only computer is showed off in 
+its stage presentation was an all-in-one (AIO) desktop computer.
+
+And its software? ChromeOS.
+ 

@@ -1,0 +1,93 @@
+
+It is impossible to ignore the current wave of excitement surrounding the 
+internet of things (IoT 
+<https://www.theguardian.com/technology/2008/oct/16/internet-of-things-ipv6>). 
+Listed as one ofGartner's Top 10 Strategic Technology trends for 2014 
+<http://www.gartner.com/newsroom/id/2603623>, and taking centre stage at this 
+year'sCES in Las Vegas <http://www.cesweb.org/>, the implications of being able 
+to connect almost any device to the internet have set tongues wagging. But what 
+exactly are we looking at here? More than a handful of "things" – a network of 
+intelligent connected devices. Talking machines.
+
+To understand the scale of this network, we need to look to a future where 
+hundreds of billions of devices are connected to the internet. This won't just 
+bewearable technology 
+<https://www.theguardian.com/media-network/media-network-blog/2013/apr/03/wearable-technology-machine-to-machine>
+ – wristbands and glasses – it will be devices that form part of our critical 
+national infrastructure.
+
+Intelligent devices are designed to measure something or actually do something 
+on a scale that we can't and in places that we would never venture. Compared to 
+today's analogue and manual systems they have the potential to dramatically 
+increase security across our critical national infrastructure, protecting 
+against attack, reducing the risk of human error and saving money on a grand 
+scale.
+
+Without enabling our networks and systems to make more informed data-driven 
+decisions, concepts such as thesmart grid 
+<https://www.theguardian.com/media-network/media-network-blog/2013/may/20/smart-grid-risk-security>
+ would be impossible and the environmental benefits it promises would be far 
+out of reach.
+
+This is why we refer to these devices as intelligent, they capture, process 
+and communicate data often in real-time. This data might be personal data 
+(carrying significant legal implications with regard to privacy if 
+compromised), or environmental readings, such as measurement of temperature or 
+pressure.
+
+This second category of information will have a direct impact on crucial 
+decisions our infrastructural systems make. Which floodgate should be opened? 
+Which runway should a plane land on? Which reactor should be shut down? Other 
+devices will actually be taking those actions, controlled from far away.
+
+Their pivotal role in this level of decision making means it is essential that 
+we are able to trust what these devices are saying and control what they do. We 
+need to be sure that we are talking to the right thing, that it is operating 
+correctly, that we can believe the things it tells us, that it will do what we 
+tell it to, and that no-one else can interfere along the way.
+
+Needless to say, establishing trust in a broad range of things across 
+dispersed settings and at massive scale is a challenge. The devices themselves 
+are vulnerable to physical attack, the networks over which they communicate are 
+untrusted and the back end systems and data repositories are attractive 
+honeypots for thieves and terrorists. Opportunistic attackers, hacktivists, 
+'man-in-the-middle', malicious insiders and even governments have their eyes 
+open to the possibility of intercepting critical data in transit, or seizing 
+control of the devices.Reports of the first global cyber attack on the IoT 
+<http://www.proofpoint.com/about-us/press-releases/01162014.php> will have done 
+nothing to allay these concerns.
+
+This starts to raise the same sorts of questions as e-commerce did fifteen 
+years ago. It's a "one to many" trust issue. That is, one organisation, such as
+Amazon <http://www.amazon.co.uk/>, interacting with millions of customers now 
+becomes one electric utility interacting with millions of smart meters. Mutual 
+authentication, secure communications and high integrity messaging will become 
+core security foundations for these systems – all at internet scale.
+
+An internet scale 'problem' will require an internet scale solution and 
+fortunately we already have technologies that can pave the way. Public key 
+infrastructure (PKI <http://en.wikipedia.org/wiki/Public-key_infrastructure>) 
+is the mechanism by which data is encrypted as it is passed over the internet 
+whether for online banking, tax filing or email.
+
+PKI uses digital credentials to identify web sites, devices and users and 
+therefore determine access to sensitive data. Each 'digital certificate' is 
+based on a pair of cryptographic keys – a public key, and a private one, which 
+must be kept secret and only used by the device or user in question to which it 
+belongs. But beware, failure to correctly manage these keys (the 'K' in PKI) 
+brings the entire security model into question and potentially leaves an open 
+door for attackers.
+
+As more intelligent devices are connected to the internet, the potential 
+privacy implications and general false sense of security associated with weak 
+key management and data compromise will become critical. WithGoogle's purchase 
+of Nest Labs, 
+<https://www.theguardian.com/media-network/partner-zone-brand-union/google-nest-labs-home-design>
+ all eyes are on home automation, but these concerns stretch further when we 
+consider the connected car, the connected body – the connected everything.
+
+The internet of things is really only about two things: trust and control.
+
+Richard Moulds is a vice president, strategy at Thales e-Security 
+<http://www.thales-esecurity.com/>
+ 

@@ -1,0 +1,213 @@
+
+Africa <https://www.theguardian.com/world/africa> may be taking a great leap 
+forward into the digital era. But when technology reaches a new area, the 
+hackers are never far behind.
+
+Many are familiar with the African hacker cliche: revolving around a badly 
+written email from someone,claiming to be a friend 
+<http://www.ibtimes.com/anonymous-nigeria-hacks-government-websites-declares-cyberwar-against-corruption-2257401>
+, for example, who has been mugged and needs an urgent money transfer.
+
+But the reality is more nuanced. Smartphones and Facebook may be ubiquitous, 
+but the continent still lags behind in other basic infrastructure, such as 
+reliable power.
+
+These gaps have created the perfect hacking environment, according to the 
+technology expertEthan Zuckerman 
+<http://www.wired.co.uk/article/africas-hackers-are-todays-world-class-tech-innovators>
+, who describes Africa’s hackers as “world-class tech innovators”.
+
+
+Hackers have also stepped in to help citizens living under oppressive regimes 
+and those who are aware of endemic political corruption but feel powerless to 
+stop it.
+
+Here are seven of the continent’s most innovative, sometimes controversial, 
+technology hacks.
+
+3D-printed limbs 
+
+There was a mild moral panic when it transpired that 3D printers could be used 
+to make anythingfrom handguns 
+<https://www.theguardian.com/world/2013/may/06/3-handgun-fired-cody-wilson> to 
+drugs 
+<http://www.techrepublic.com/article/the-dark-side-of-3d-printing-10-things-to-watch/>
+. But one project has been using the technology – which transforms digital 
+files into physical objects – to replace limbs that children lost in the civil 
+war in South Sudan.
+
+Using a laptop, bunches of plastic and cables and two 3D printers 
+<https://www.theguardian.com/technology/3d-printing>, the American startup Not 
+Impossible Labs created its first limb for a boy called Daniel in 2013. The 
+team left the equipment behind and continue to supply the plastic to Daniel’s 
+village to continue making prosthetic limbs.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Faug%2F05%2Fafrica-most-innovative-controversial-tech-hacks-hackers%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F05326c2c00de1f56407e20579f2152c21850e4a3%2F0_12_2400_1440%2F2400.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Africa's%20most%20innovative%20%E2%80%93%20and%20controversial%20%E2%80%93%20tech%20hacks&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Faug%2F05%2Fafrica-most-innovative-controversial-tech-hacks-hackers%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Africa%27s%20most%20innovative%20%E2%80%93%20and%20controversial%20%E2%80%93%20tech%20hacks&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Faug%2F05%2Fafrica-most-innovative-controversial-tech-hacks-hackers%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F05326c2c00de1f56407e20579f2152c21850e4a3%2F0_12_2400_1440%2F2400.jpg>
+ The 3D-printed limbs being created. Photograph: Not Impossible/Project Daniel 
+After the success of the Daniel project, one inventor took the technology a 
+step further by designing the Robobeast – a 3D printer that is durable enough 
+“to be thrown in the back of a Land Rover, carted off into the bush, and to 
+start working as soon as the power is on”,says the tech blog Htxt Africa 
+<http://www.htxt.co.za/2014/02/15/robobeast-3d-printer-tough-can-print-kick/>. 
+In other words the perfect 3D printer for Africa, as long as a power supply can 
+be found.
+
+Angolans fool the free internet 
+
+Internet for all is one of the current crusades of Mark Zuckerberg and his 
+tech peers, who havelaunched free services 
+<https://www.theguardian.com/technology/2015/oct/05/facebook-mark-zuckerberg-internet-access-africa>
+, otherwise known as zero-rate services, across many countries in Africa.
+
+The rationale being that some internet, albeit restricted, is better than 
+nothing.
+
+Both Facebook and Wikipedia have rolled out their services in Angola 
+<https://www.theguardian.com/world/angola> where they presumably had not banked 
+on hackers having a field day – hiding pirated films, music and games in the 
+internet they give away for free.
+
+People started to upload the files to free Wikipedia pages and shared the 
+links on closed Facebook pages, creating “a totally free and clandestine 
+file-sharing network in a country where mobile internet data is extremely 
+expensive”,writes Vice 
+<http://motherboard.vice.com/read/wikipedia-zero-facebook-free-basics-angola-pirates-zero-rating>
+.
+
+
+The debate over what to do about it is ongoing. To cut off free services 
+undermines the mission. But so would letting piracy spiral out of control.
+
+Defying social media bans 
+
+The strongman president Yoweri Museveni has led Uganda for 30 years – having 
+previously scrappedpresidential term limits 
+<http://observer.ug/component/content/article?id=18710:how-term-limits-were-kicked-out-in-2005>
+ and cracked down heavily on opposition parties.
+
+But this year’s election race was more vigorous than in previous years. 
+Opposition candidates put up a spirited fight and thousands of Ugandans turned 
+to social media to support them and play citizen watchdogs on election day.
+Gerald Bareebe (@GeraldBareebe) 
+I had a quick drive around Kampala this evening. Major junction are like 
+military barracks. Checkpoints along major highways#UgandaDecides 
+<https://twitter.com/hashtag/UgandaDecides?src=hash>
+ <https://twitter.com/GeraldBareebe/status/700734652890402816> February 19, 
+2016 <https://twitter.com/GeraldBareebe/status/700734652890402816> 
+But the online chatter did not please the government, which blocked social 
+media sites <http://www.bbc.co.uk/news/world-africa-35601220>including 
+Facebook, Twitter and WhatsApp.
+
+Museveni said <http://www.bbc.co.uk/news/world-africa-35601220> the move was 
+to “stop people telling lies” but citizens, undeterred, started to share 
+details of virtual private networks (VPNs) enabling voters to essentially trick 
+the internet into thinking they were accessing it from a different country.
+
+The search for “VPN from Uganda 
+<https://www.irinnews.org/maps-and-graphics/2016/02/19/ugandans-look-bypass-election-social-media-ban>
+” spiked dramatically on Google and the opposition politician Amama Mbabazi 
+tweeted out advice on the right app to use.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Faug%2F05%2Fafrica-most-innovative-controversial-tech-hacks-hackers%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F5534881e3ffcfa5bfcde209895eeca72c4176189%2F0_230_4096_2458%2F4096.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Africa's%20most%20innovative%20%E2%80%93%20and%20controversial%20%E2%80%93%20tech%20hacks&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Faug%2F05%2Fafrica-most-innovative-controversial-tech-hacks-hackers%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Africa%27s%20most%20innovative%20%E2%80%93%20and%20controversial%20%E2%80%93%20tech%20hacks&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Faug%2F05%2Fafrica-most-innovative-controversial-tech-hacks-hackers%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F5534881e3ffcfa5bfcde209895eeca72c4176189%2F0_230_4096_2458%2F4096.jpg>
+ Ugandans used VPNs to circumvent a social media ban imposed during elections. 
+Photograph: Dai Kurokawa/EPA 
+Sure enough #UgandaDecides <https://twitter.com/search?q=%23ugandadecides> 
+kept trending, even if some of those people were tweeting “from Canada 
+<http://news.nationalpost.com/news/canada/tweeting-from-canada-voting-in-uganda-how-ugandans-evaded-an-election-day-internet-crackdown>
+”.
+
+Opening up South Africa’s constitution
+
+
+South Africa’s constitution, which turned 20 this year, is in crisis. In March 
+the president, Jacob Zuma, narrowly survived impeachment after a court ruled 
+that he had failed in one of his principle jobsto uphold 
+<http://www.meetup.com/HacksHackersAfrica/events/230897295/?a=socialmedia> it. 
+
+Instead he was making expensive upgrades to his private  
+<https://www.theguardian.com/world/2016/mar/31/jacob-zuma-ordered-repay-upgrades-nkandla-home-south-african-state-funds>
+residence with public funds.
+
+“Never again should political power be allowed to run amok, and act in a 
+manner that is counter to the nation’s interests,” arguedan editorial 
+<http://www.timeslive.co.za/thetimes/2016/04/01/Zuma-has-failed-the-test-but-our-constitution-has-not>
+ in South Africa’s The Times, summing up the national feeling.
+
+But a group of hackers from Johannesburg say the language of law is so 
+complicated that many do not realise how it should protect them.
+
+The group has begun work on a website that will help South Africans find the 
+parts of the constitution that are relevant to them quickly and efficiently.
+
+Drawn up at the end of apartheid 
+<https://www.theguardian.com/cities/gallery/2015/jun/03/double-vision-how-apartheid-tore-soul-out-of-south-africa-port-elizabeth-south-end>
+, the 180-page constitution is one of the most liberal and far-reaching in the 
+world, says Adam Oxford, one of the people behind the project. The law protects 
+workers’ rights and enabled South Africa to be thefirst country on the 
+continent to legalise gay marriage 
+<http://www.huffingtonpost.com/estelle-nagel/gay-marriage-south-africa_b_3167222.html>
+.
+
+“We want to help people understand their rights, but to also get excited about 
+the laws of their country,” says Oxford. “That would be a very positive 
+outcome.”
+
+
+
+Calling out quacks 
+
+Last year, the story 
+<http://www.standardmedia.co.ke/article/2000176023/doctor-mugo-wa-wairimu-to-be-held-for-2-weeks>
+ of a fake gynaecologist who anaesthetised Kenyan women before raping them 
+shocked the country and highlighted serious failings in the healthcare system.
+
+One of the major issues is a lack of regulation 
+<http://en.rfi.fr/africa/20150915-fake-doctors-run-kenya-s-unregulated-hospitals>
+, which allows unqualified medics to treat, and profit from, their oblivious 
+patients.
+
+Code for Africa <https://codeforafrica.org/> came up with a solution: Dodgy 
+Doctors <http://health.saharareporters.com/>, an online verification tool that 
+helps patients check out their doctor’s credentials. The web-based app allows 
+patients in Kenya and Nigeria to search for their doctors on the national 
+database and report them if they cannot find their name on the list.
+
+Users can also cross-reference how much they are being charged for medicines. 
+
+
+
+When Anonymous attacks
+
+Hell hath no fury like an attack at the hands of hacktivists Anonymous 
+<https://www.theguardian.com/technology/2015/nov/17/anonymous-war-isis-hacktivist-group-confirms>
+ who, in less than a year, have gone after the governments ofKenya, Angola , 
+South Africa, Uganda and Rwanda 
+<https://www.hackread.com/anonymous-opafrica-tanzanian-telecom-firm-hacked/>.
+
+The group, operating under the Operation Africa banner, with the hashtag 
+#OpAfrica, says it is targeting those who “enable and perpetuate corruption on 
+the African continent”, and those responsible for child abuse and child labour.
+
+In April it leaked a selection of the terabyte of data it claims to have 
+obtained from the Kenyan ministry of foreign affairs, exposing details of 
+security arrangements, an arms deal with Namibia and international trade deals.
+
+The previous month, Operation Africa attacked 20 Angolan government websites 
+after 17 young activists were jailed for plotting a “rebellion”, asentence 
+decried 
+<https://www.theguardian.com/world/2016/mar/28/angola-jails-17-activists-rebellion-public-book-reading>
+ by many as a travesty of justice.
+
+The group pledged 
+<https://www.hackread.com/anonymous-targets-african-countries-because-corruption/>
+ to keep embarrassing governments until they “end their corruption and feed the 
+poor”.
+ 

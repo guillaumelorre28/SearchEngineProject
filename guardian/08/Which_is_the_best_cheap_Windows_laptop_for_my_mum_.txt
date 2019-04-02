@@ -1,0 +1,141 @@
+
+My mum is looking to buy a new laptop after Christmas. Her budget is tight: 
+around £200. She uses it for Microsoft Office, browsing the internet (reading 
+the Guardian) and watching TV. I suggested a 32GB SSD drive – which would be 
+really quick – as she will use USB sticks, SD cards and the cloud for storage. 
+I saw one for £160, but if she bought that, she would need to buy an external 
+DVD drive for burning music to CD etc. Would it just be easier to stay safe and 
+get a standard laptop with a hard drive? Charlie
+
+
+There are two kinds of laptop at the low end of the PC market. First, there 
+are traditional laptops, where the base system has a 15.6in screen, 4GB of 
+memory, a 500GB or 1TB hard drive, and (usually) a read/write DVD drive. These 
+machines are not very portable and don’t have long battery life, but they do 
+the job. Current prices range from around £250 to £500.
+
+The second type is much like a netbook, albeit one that doesn’t meet all the 
+netbook’s now-obsolete specifications (such as a 1024 x 600-pixel screen). They 
+are designed to be thinner, lighter and cheaper than traditional laptops, and 
+they usually have much better battery life. The base system typically has a 
+10in or 11.6in screen, 2GB of memory, and 32GB of Flash storage. The 
+touch-screen models often double as tablets: their screens are detachable or 
+have 360-degree hinges that make them into 2-in-1s. Current prices range from 
+about £150 to £300.
+
+The hardware specifications of new-style netbooks are very similar to 
+Chromebooks and they sell at much the same prices. Like Chromebooks, they are 
+designed for web-based computing, though they can do much more. They can still 
+run traditional Windows programs, such as Microsoft Office and Apple iTunes, 
+and they can easily use external DVD and Blu-ray drives and other peripherals.
+
+Traditional laptops are usually bought as desktop PC replacements. New-style 
+netbooks and Chromebooks are better seen as companion devices that supplement 
+either a desktop PC or laptop – though they could be seen as upgrades for 
+people who only have smartphones or tablets. New-style netbooks are great for 
+casual computing, and for carrying around in handbags, but they compromise on 
+screen size, CPU power, and storage.
+
+Beware of 32GB “SSDs”
+
+Contrary to what you think, netbooks do not have SSDs (solid state drives) – 
+or at least, not the kind of SSD that can replace a standard hard drive. PC 
+manufacturers often describe them, accurately, as eMMC (Embedded Multi Media 
+Card) drives. They are more like SD storage cards soldered to the motherboard. 
+They are used in smartphones, tablets and low-end laptops because they are very 
+small and very cheap, but they don’t perform anything like real SSDs. Indeed, 
+while eMMC chips load data faster than traditional hard drives, they won’t 
+always write data faster.
+
+Apart from that, I think 32GB Flash memory drives are too small for 
+traditional laptop uses. Microsoft has reduced the size of Windows 10, partly 
+by compressing the Windows files, but it’s going to get bigger with use. There 
+will be numerous upgrades, growing log files, swap files, and large caches of 
+temporary internet files. (When I removed Google Chrome, it had about 1.3GB of 
+temp files.)
+
+Windows 10 is getting in-place upgrades twice a year – the Creators Update 
+<https://blogs.windows.com/business/2016/12/06/windows-10-creators-update-advances-security-best-class-modern-tools/>
+ is coming soon – and these are installed as new operating systems. So, you 
+need space for the current version of Windows 10, space for the new version, 
+and space for a backup copy of the old version, which is preserved so you can 
+roll back the upgrade if something goes wrong. August’s Anniversary Update 
+needed 10-20GB of free space to install, and it wouldn’t install on my 32GB 
+2-in-1. which had 9GB free. I had to plug in an external hard drive.
+
+Looking three years or six upgrades ahead, I can’t see a 32GB drive coping 
+without some massive clean-ups. Significant upgrades may have to be downloaded 
+separately and installed from a USB thumb drive.
+
+Since eMMC drives can’t be upgraded, I recommend buying PC’s with 64GB instead 
+of 32GB.
+
+Stick with tradition
+
+Your mother sounds like a traditional laptop user, and if she wants to install 
+Microsoft Office and assemble tracks to burn audio CDs, she’d be better off 
+with a traditional laptop. This is a different scenario from someone who wants 
+a very light PC to carry around, whose data is online, and who streams 
+everything instead of saving and owning it.
+
+Of course, traditional laptops are more expensive than new-style netbooks, but 
+if you include the cost of an external DVD, there’s not much in it.
+
+Although no PC manufacturer now makes traditional laptops to sell for £250, 
+you can still buy them for less than that. You can get bargains in the sales, 
+refurbished laptops (which come with a guarantee), and second hand machines. 
+Some companies, including HP, do their own refurbishing and sell Grade A 
+laptops that are almost “as new”, except for coming in plain boxes. Some 
+companies, such asTier1Online <http://www.tier1online.com/>, sell ex-corporate 
+systems that may have been heavily used but can still be good value.
+
+You will have to shop around. Argos often has sale bargains, especially on 
+Lenovo equipment. Currys PC World sometimes has special deals.Laptop Outlet 
+<http://www.laptopoutlet.co.uk/>, on the Tottenham Court Road in London, has 
+deals and refurbished machines. It’s also worth checking online suppliers such 
+asLaptops Direct <http://www.laptopsdirect.co.uk/>, eBuyer.com 
+<http://www.ebuyer.com/store/Computer/cat/Laptops>, Morgan Computers 
+<https://www.morgancomputers.co.uk/c/404/Laptops-Netbooks/> and so on.
+
+Possible laptops
+
+At the moment, mum’s best bet could be the 15.6in Acer Aspire ES 
+<http://www.argos.co.uk/product/5996951> with a quad core Intel Pentium N4200 
+processor, 4GB of memory, 1TB hard drive and read/write DVD, which Argos is 
+selling for £199.99 (was £299.99). The exact model is not specified, and the 
+Pentium N4200 runs at 1.1GHz to 2.5GHz, not the 2.6GHz in Argos’s blurb. 
+However, it’s a decent processor and makes the machine good value for money.
+
+An alternative is the Lenovo IdeaPad 110 
+<http://www.currys.co.uk/gbuk/computing/laptops/laptops/lenovo-ideapad-110-15-6-laptop-black-10146807-pdt.html>
+ with the same specification, except for its much slower dual core Intel 
+Celeron N3060 processor. PC World is selling this model online for £249.99, or 
+for £269.99 in store.
+
+Laptop Outlet has a refurbished 14in HP 14-AM012NA 
+<http://www.laptopoutlet.co.uk/hp-14-am012na-14-best-value-laptop-intel-celeron-n3060-4gb-ram-500gb-hdd-dvdr.html>
+ with the same slow Celeron N3060 and a 500GB hard drive for £219.99. However, 
+refurbished ThinkPads tend to be better value. For example, you could get a 
+LenovoThinkPad T420 
+<https://www.amazon.co.uk/Lenovo-Thinkpad-Professional-Certified-Refurbished/dp/B01DZNQUTI/>
+ – a business workhorse – with a 2.50GHz Intel Core i5-2520M, 320GB hard drive 
+and Windows 10 Pro from Eflex on Amazon.co.uk for £229.99, whichundercuts 
+Tier1online 
+<http://www.tier1online.com/728-4180a32-b/lenovo-thinkpad-t420-i5-2520m-2-50ghz-grade-b-14-1600-x-900-webcam-wireless>
+. It may have a second-generation Core i5 but it’s still faster than a 
+seventh-gen Core i3-7100U. (It runs at 35W instead of 15W, but your mother 
+won’t care.)
+
+In passing, it’s hard to find real SSDs at this price level, but Laptop Outlet 
+is selling new 11.6inLenovo ThinkPad 11e 
+<http://www.laptopoutlet.co.uk/lenovo-thinkpad-11e-11-6-mini-laptop-intel-celeron-n2940-4gb-ram-128gb-ssd.html>
+ laptops with 128GB SSDs for £249.99. This is a tough, military-spec system 
+designed for use in schools, andcurrent models 
+<http://shop.lenovo.com/gb/en/laptops/thinkpad/11e-series/11e-3rd-gen-intel/> 
+start at £549.99. The LO version has no DVD and is still running Windows 8.1, 
+but it might suit someone with a child who needsassistive technologies 
+<https://www.microsoft.com/en-gb/accessibility/windows10upgrade>.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

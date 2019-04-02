@@ -1,0 +1,129 @@
+
+After reinventing the superhero <http://en.wikipedia.org/wiki/Watchmen>, 
+quarrelling with the mainstream 
+<https://www.theguardian.com/books/2010/jul/13/watchmen-alan-moore> and turning 
+his back on Hollywood 
+<https://www.theguardian.com/books/2012/dec/15/alan-moore-why-i-rejected-hollywood-interview>
+, the legendary comic book creator Alan Moore is turning the world of digital 
+comics on its head with a set of open source tools and an app due to launch in 
+early 2015. But don’t ask him what it is about today’s digital offerings he’s 
+trying to improve.
+
+“You’re asking the wrong person,” Moore chuckles. “I’ve got absolutely no idea 
+because I don’t have any online capacity, no devices or tablets and to tell the 
+truth I’m not really involved with the comics scene in any way.”
+
+Moore’s Electricomics <http://electricomics.net/> project will give anyone 
+with an internet connection access to the means of creation, with free 
+open-source tools for writers to create their own digital comics, an app and a 
+32-page collection by writers such as Peter Hogan and Garth Ennis joining Moore 
+himself to show what the tools can do.
+
+For all its technological ambition, Moore says he’ll be reminding the 
+Electricomics designers to keep it simple. The most sophisticated technology in 
+a digital comic is “the comics medium itself”.
+
+
+“It is a very well-developed technology and it’s very difficult to add to or 
+reproduce comic effects in a more elegant way,” Moore says, citing a page in
+Will Eisner’s The Spirit <http://en.wikipedia.org/wiki/Spirit_(comics)> where 
+the masked crimefighter is investigating a deserted house. “You might have a 
+shot of the darkened kitchen, in the foreground there would be a faucet with a 
+slightly elongated bead of water hanging from its business end. If you were 
+trying to create this as a digital comic, surely the temptation would be to 
+make the tap drip, even add a drip-drip-drip sound effect. But that would not 
+make it better, it would remove the elegance of Eisner’s original, where 
+through the elongation we know that in a second or two it will break free and 
+fall and another bead will form.” Comics are a technology that “works upon the 
+hardware of the human brain, the software of the human mind,” Moore continues. 
+“They are already creating these virtual effects. So avoiding whistles and 
+bells would be one of the first tenets that digital comics should try to stick 
+to.”
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2014%2Fjun%2F06%2Falan-moore-digital-comics-open-source-electricomics-app%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F5%2F1401978845464%2Fdb5a813c-3a58-446a-93ad-c09a858c799a-1020x1012.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Alan%20Moore%20leading%20digital%20comics%20to%20open-source%20future&url=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2014%2Fjun%2F06%2Falan-moore-digital-comics-open-source-electricomics-app%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Alan%20Moore%20leading%20digital%20comics%20to%20open-source%20future&url=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2014%2Fjun%2F06%2Falan-moore-digital-comics-open-source-electricomics-app%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F5%2F1401978845464%2Fdb5a813c-3a58-446a-93ad-c09a858c799a-1020x1012.jpeg>
+ The Electricomics logo designed by Todd Klein. "I did some work for Todd years 
+ago and he would send me cheques which I’d forget to cash so eventually he said 
+why don’t I do you some free logos when you need them,” says Moore. Photograph: 
+/Guardian 
+For the project’s technical lead, Ocasta Studios <http://ocastastudios.com/>’ 
+Ed Moore (no relation), the challenge is to build a set of tools that offer 
+readers the same flexibility as paper publication, while unleashing the 
+possibilities of new technology.
+
+
+“The experience of reading a comic on paper doesn’t translate well to reading 
+it digitally,” he explains. “You don’t get the same readability and 
+re-readability. The other problem is that digital obviously has a huge number 
+of extra capabilities over a flat printed piece of paper which are not being 
+taken advantage of; the fact that you’ve always got the mobile device (and the 
+app) with you, you can navigate in so many different ways, it can talk to the 
+backend servers and so on.”
+
+
+As might be expected from the creator of Watchmen, V for Vendetta and From 
+Hell, the roots of the project lie buried deep in a corner of Alan Moore’s 
+surreal world. More precisely, in The Show, a feature film Moore has been 
+working on since 2012 set in an alternate version of his hometown, Northampton. 
+“There’s a scene in which the kids are sitting around and one of them unrolls a 
+device called 'a Spindle' which has a flexible screen that rolls up into a 
+cylinder giving you a large screen area,” Moore recalls. “On the screen I’d 
+imagined would be some new form of electric comic.” And so, Electricomics, with 
+its “suitably Victorian” name was born.
+
+The project has only just got the green light and “substantial” funding from 
+theDigital R&D Fund for the Arts <http://www.artsdigitalrnd.org.uk/>, but has 
+already covered some ground, with Moore’s daughter Leah, who co-created The 
+Thrill Electric with her husband John Reppion, installed as editor. “She has 
+been the backbone of the project and we’re all learning from her and John,” 
+says the proud father.
+
+
+The four eight-pagers are also complete. Moore’s own, Big Nemo, is a tribute 
+to Winsor McCay’sLittle Nemo <http://en.wikipedia.org/wiki/Little_Nemo>, an 
+example of visual storytelling which, according to Moore has “never been 
+bettered”.
+
+
+“The way he was already suggesting animated movement upon a motionless still 
+page would make his technique the most broadly applicable to this new way of 
+presenting comics,” Moore says. Colleen Doran (Sandman, Wonder Woman, Vampire 
+Diaries) is doing the artwork. The rest comprises “modernist horror” Cabaret 
+Amygdala by Peter Hogan (with whom Moore worked on his ABC series Terra 
+Obscura) and Paul Davidson (Age of X, X-Factor, Dark X-Men).Preacher 
+<http://www.thefilmchair.com/wordpress/wp-content/uploads/2013/11/preacher.jpg> 
+writer Garth Ennis contributes a first world war piece Red Horse with art by 
+Peter Snejbjerg <http://www.snejbjerg.com/#home>, while the editor teams up 
+again with Reppion for time-travel science fiction piece Sway, drawn by Nicola 
+Scott.
+
+Some of the content might be grown-up material, but Moore insists the project 
+is aimed at a young audience increasingly left behind by the comics mainstream.
+
+“Kids avoid these things like the plague,” he says. “Why would a 13-year-old 
+bother reading a comic book when they have these different devices and the 
+comics are being made not for them but for40 to 60-year-olds who are actually 
+reading them?”
+
+Moore’s also hoping to offer young writing talent an alternative route to 
+signing up for endless superhero sequels with DC and Marvel, citing the 2012 
+prequel Before Watchmen – a project which DC published without his involvement 
+or approval – as evidence of the mainstream’s current lack of creativity.
+
+“Surely this contemporary passion for superheroes, unless it’s as immortal as 
+Thor himself, will have its day,” Moore sighs. “Nothing lasts forever. Romantic 
+poetry didn’t last forever and that was bigger than the Beatles!”
+
+
+He may relish the idea of unleashing a new generation of talent, but Moore 
+still thinks of himself more as a creator than an enabler, reeling off a list 
+of ongoing projects including the screenplay for his feature film The Show, his 
+novel Jerusalem, an HP Lovecraft tribute and the next instalment of the League 
+of Extraordinary Gentlemen. “I’m creating every day for as many hours as I’m 
+not sleeping,” he says.
+
+ 

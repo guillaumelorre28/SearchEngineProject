@@ -1,0 +1,56 @@
+
+Google's Android operating system is profitable for the company, according to 
+Andy Rubin <https://www.theguardian.com/technology/andy-rubin>, Google's 
+vice-president of engineering who is the co-founder of both Danger (acquired by 
+Microsoft) and Android (acquired by Google).
+
+In a talk at the Wall Street Journal's D:Mobilized event 
+<http://mobilized.allthingsd.com/20101206/googles-andy-rubin-dives-into-android/>
+, Rubin told Kara Swisher and Walt Mossberg that "We're making money on the 
+advertising that's generated through Android."
+
+Mossberg asked: "Are you profitable if it was broken out as a separate 
+business?"
+
+Rubin: "Yes."
+
+It's not clear quite how that would work, but the Android 
+<https://www.theguardian.com/technology/android> team is believed to be quite 
+small - Rubin says that it began as eight people, but since that time "we have 
+obviously staffed up". He admits (as we write today) that the original Google 
+Nexus One failed because the US wouldn't tolerate a market where you bought a 
+phone off the shelf and a product plan separately as you can in Europe. 
+(Industry observers reckon it's more that Google didn't realise you'd need 
+after-sales support.)
+
+Rubin added: "There's no way I would have ever been profitable as a start-up. 
+I probably wouldn't have made it as a separate company." (That's in contrast to
+Danger, which was sold to Microsoft for about $500m 
+<http://blog.seattlepi.com/microsoft/archives/131757.asp>.)
+
+He called Android the "Linux of phones" but said that didn't mean (to 
+Swisher's question) that that meant it was "hard to get drivers for, only for 
+geeks, no real consumer would buy it?" Rubin's response: "No, I think we've 
+already proven that wrong. Bad analogy."
+
+Rubin was quite complimentary about Apple and the iPhone, saying that 
+developers have been finding it relatively easy recently to get apps approved, 
+and that "My assumption is Apple is a company that learns from its mistakes."
+
+He's less complimentary about Windows Phone 
+<https://www.theguardian.com/technology/windows-phone> 7, which he says has 
+legacy code from Windows Mobile: "You just have this package of stuff that was 
+invented before the Internet," Rubin says. "When the architects built that 
+product, they didn't have the Internet in mind."
+
+There's a hint that Rubin has spoken to Nokia - which would be remarkable - 
+but there it is: "The company has new leadership [referring to CEO Stephen 
+Elop]. They are evaluating lots of alternatives. I'm open-minded and a big 
+proponent of Android." But he wouldn't talk about any meetings he may have had.
+
+He also showed off a Motorola tablet prototype to show a forthcoming version 
+of Google's mobile map application. Tablets, he thinks, are a new space: "we 
+used to have PDAs, but the cellphone eventually replaced it. The tablet is a 
+sort of in-between device so the use case is less clear. You might definitely 
+have it on the couch, but maybe not on the subway."
+ 

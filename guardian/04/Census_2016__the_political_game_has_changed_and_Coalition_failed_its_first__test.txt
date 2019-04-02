@@ -1,0 +1,108 @@
+
+When something goes seriously pear-shaped, two rules apply: the first is get 
+your story straight, and the second is play a straight bat – obfuscation only 
+makes things worse.
+
+
+The Australian Bureau of Statistics said very clearly 
+<https://twitter.com/ABSCensus/status/763125821104021504> on Wednesday morning 
+that the 2016 online census form was subject to “four denial of service attacks 
+of varying nature and severity”.
+Census Australia (@ABSCensus) 
+We apologise for the inconvenience. The 2016 online Census 
+<https://www.theguardian.com/australia-news/census> form was subject to four 
+Denial of Service attacks of varying nature & severity.
+ <https://twitter.com/ABSCensus/status/763125821104021504> August 9, 2016 
+<https://twitter.com/ABSCensus/status/763125821104021504> 
+The first three incursions were manageable, but after the fourth “attack” 
+<https://twitter.com/ABSCensus/status/763126044622671873>, just after 7.30pm on 
+Tuesday, the ABS took the precaution of closing down the system to ensure the 
+integrity of the data.
+
+So here we meet our first problem.
+
+The ABS said on Tuesday afternoon that the process was going well 
+<https://www.theguardian.com/australia-news/2016/aug/09/census-controversy-shows-abs-needs-to-do-better-says-statistical-society>
+ while behind the scenes it was dealing with system disruption. The early 
+problems didn’t rate a mention in the afternoon update, despite the fact the 
+online universe was alight with people fretting about privacy and the security 
+of their data. How does that happen? How is that OK?
+
+Then the next problem loomed.
+
+Census controversy shows ABS 'needs to do better', says Statistical Society
+ Read more  
+<https://www.theguardian.com/australia-news/2016/aug/09/census-controversy-shows-abs-needs-to-do-better-says-statistical-society>
+Apparently the minister responsible for the ABS thinks cyber attacks are only 
+attacks if they succeed, a hitherto unknown definition of the word attack.
+
+Attacks. Such an ugly word. “I’m not using the word attack, nor was it 
+hacked,” Michael McCormack said. “I feel by saying attacked, it looks as though 
+and it seems as though and it is so that information was then gained. There was 
+no successful attack.”
+
+McCormack was supposed to be fronting the media on Wednesday morning to do 
+some straightforward damage control, but we ended up, bizarrely, in a 
+philosophical tutorial, in trees falling in a forest territory.
+
+Malcolm Turnbull <https://www.theguardian.com/australia-news/malcolm-turnbull>
+, speaking later, was happy to describe the overnight disruption as an attack.
+
+Then Alistair MacGibbon, special adviser to the prime minister on cyber 
+security 
+<https://www.theguardian.com/australia-news/2016/aug/10/census-2016-website-was-not-hacked-or-attacked-government-claims>
+, was also sanguine about describing the incident as an attack, but he thought 
+developments overnight could be more accurately described as “a confluence of 
+events”.
+
+Not that serious folks. “The attack was no more significant than the types of 
+attacks we would see all the time against Australian government systems,” 
+MacGibbon said.
+
+“It’s just there was a confluence of events. The Australian Bureau of 
+Statistics 
+<https://www.theguardian.com/australia-news/australian-bureau-of-statistics> 
+website was overloaded and unable to be used, when hackers tried to inundate 
+the system. The decision to shut down the online form was made to safeguard and 
+protect data already submitted. It was a decision taken by the ABS. Had these 
+events occurred in isolation, the online system would’ve been maintained.”
+
+Census 2016: outage due to 'overcautious' response, not hacking, government 
+says
+ Read more  
+<https://www.theguardian.com/australia-news/2016/aug/10/census-2016-website-was-not-hacked-or-attacked-government-claims>
+So in the space of a few hours, after the online process for the census had 
+been suspended due to MacGibbon’s “confluence of events”, we had several 
+different official explanations, none of which sat well with each other: 
+malicious attack, no (successful) attack, and shit happens.
+
+The swerving around on Wednesday caps off days of what can only be described 
+as a managerial debacle surrounding the census.
+
+This incident has now snowballed into a competence issue for the Turnbull 
+government, which is not what the prime minister needs given he’s fronting up 
+to a new term in government mired in various agendas and untidiness.
+
+This will be a complex parliament. Not much will be elegant or 
+straightforward, so the Coalition is going to have to get its collective act 
+together, not approach the task presenting themselves as Captain Chaos.
+
+Because here’s something that’s happened during #CensusFail. A key player in 
+the new parliament, the populistNick Xenophon, (who led the insurrection 
+adroitly over the past week or so) 
+<https://www.theguardian.com/australia-news/2016/aug/08/census-privacy-fears-nick-xenophon-to-withhold-name-in-push-for-test-case>
+ has sent a clarion signal about how he intends to use his balance-of-power 
+opportunity.
+
+Xenophon, like many of the players in the new Senate, prides himself on 
+looking over the heads of institutional politics to the neglected citizenry 
+beyond the parliamentary precinct.
+
+That’s the constituency he’s playing to, and if you have to flout a few 
+Canberra norms along the way, so be it.
+
+This is the environment of the 45th parliament. The game has changed, and in 
+the first significant case study, the Coalition has been caught entirely 
+flat-footed.
+
+ 

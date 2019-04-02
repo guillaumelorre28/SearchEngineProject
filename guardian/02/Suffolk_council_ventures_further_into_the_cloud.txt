@@ -1,0 +1,124 @@
+
+With the government recently launching the second round of G-Cloud procurement 
+<https://www.theguardian.com/government-computing-network/2012/may/24/g-cloud-gii-procurement-cabinet-office>
+, cloud services remain a hot topic.
+
+After purchasing Jadu's Weejot mobile app publishing network through the 
+Cloudstore in the last few weeks, the subject is very much on Suffolk county 
+council's agenda. Havingrolled out a cloud-based project management system last 
+year 
+<https://www.theguardian.com/government-computing-network/2012/jan/19/suffolk-county-council-cloud>
+, the authority is no stranger to the cloud.
+
+Mark Adams-Wright, chief information officer at the local authority and 
+self-confessed cloud enthusiast, believes that the Weejot application will 
+offer citizens alternative channels to communicate with the council, while 
+alleviating some of the pressure on other services.
+
+The product will allow the council to develop and deploy mobile apps in real 
+time using basic web development skills or non-technical skills. Suffolk can 
+also take content and data from their existing systems to publish apps to 
+mobile devices.
+
+To develop the apps, Suffolk plans to talk to its service providers and 
+citizens to find out what council-related information people want on their 
+smartphones. Part of this plan includes a mobile hack day at the end of this 
+month, where people can generate ideas about what apps should be available.
+
+"There are lots of messages that we're trying to get out, and there are lots 
+of things that we think are valuable and pertinent to help us engage with 
+citizens, but also to help us manage our information more effectively," says 
+Adams-Wright. "But equally we have to recognise that smartphone users have a 
+view of what they want and how they want to consume it."
+
+He envisages that the ideas people will come up with will centre around 
+standard information sets of council services, including timetables and 
+transport information.
+
+Adams-Wright says: "We don't want to be draconian about what the answers are. 
+We want to allow people to help design what they really want to use and what is 
+important and relevant to them. Doing it this way launches the product, and 
+gets us into the market place quicker than we would usually and allows us to 
+engage with citizens in Suffolk."
+
+Multiple channels
+
+Getting information out through multiple channels is something that the 
+council believes is important, particularly during hazardous weather such as 
+heavy snowfall, for example, when people are trying to find out what is going 
+on in their area.
+
+"It gives people another channel of choice and gives the opportunity to take 
+the weight off our existing channels," he says. "But I'm also mindful of the 
+fact that when you open up a new channel, sometimes you have to see it and feel 
+it before you can really recognise what value you can truly derive from it."
+
+The council plans to manage the apps process on a "risk and reward" basis, 
+with people submitting their ideas for consideration.
+
+Suffolk has signed a one-year deal with Jadu for the application. Adams-Wright 
+believes that this is the right length of time for a cloud services contract as 
+it is long enough to fully exploit the services on offer, but comes without the 
+burden of being locked in to a lengthy contract.
+
+The Cloudstore process was simple, according to Adams-Wright, and there were 
+no issues. He says he would procure through the service again, providing that 
+there are products there that meet the local authority's requirements.
+
+"I have a view of where I want to go and so does my organisation. Some of the 
+services I need may or may not be in G-Cloud," he says. "But if they are then I 
+will use them. We act here on a very commercial basis, so we look at things for 
+the money that it costs and make very genuine commercial decisions. So I'd have 
+no problem using it again if it was the right commercial model to use."
+
+Although government departments have made some purchases through Cloudstore 
+since it went live in February 
+<https://www.theguardian.com/government-computing-network/2012/feb/20/cloudstore-g-cloud-launch-cabinet-office>
+, they have not been substantial deals. However, Adams-Wright believes this 
+could happen eventually.
+
+He says: "That may happen in future, but I think you've got to recognise where 
+everybody is on their cycles. Large capital outlay is not the easiest thing to 
+do when things are quite tight."
+
+PSN
+
+As well as cloud, Suffolk is also focusing on its public services network 
+(PSN), which has just finished being deployed. The local authority is keen to 
+start the ball rolling around the evolution of networks in Suffolk towards a 
+single network under the PSN banner.
+
+"That will obviously go forward now, and we will start to put forward 
+governance and we will start to have conversations with people about it. It 
+shouldn't be if, it should be when," says Adams-Wright.
+
+He explains that the authority didn't have the luxury of sitting down with all 
+partner organisations in the area to conceptualise a single network when 
+original plans were drawn up, and that it had to make a decision on the 
+implementation "quicker than we could get people around a table".
+
+If the council were to team up with other local public sector organisations on 
+a single network for the area in future, he estimates it could save taxpayers 
+around £2m.
+
+Pushing for the use of cloud and PSN is the right move by the government, 
+according to Adams-Wright. He says the next step is to get everyone on the same 
+page.
+
+"I come from a cloud background in the private sector and I've always been an 
+advocate of cloud as I think it opens huge opportunities because it allows us 
+to challenge the old ways of doing things. If we don't challenge some of those 
+things, we will simply repeat the processes and ways of doing things in the 
+past," he says.
+
+But he recognises that the journey won't be easy.
+
+"Getting people to understand that and buy into that will obviously be quite a 
+granular process that takes some time, so I think the education needs to be 
+there, but I think that's happening," he adds.
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Guardian Government 
+Computing network here. 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+ 

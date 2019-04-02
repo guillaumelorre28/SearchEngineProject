@@ -1,0 +1,155 @@
+
+A burst of 10 links for you to chew over, as picked by the Technology team
+
+Acer's Aspire S3 ultrabook hits US shelves October 16th for $900 >> This is my 
+next... 
+<http://thisismynext.com/2011/10/10/acers-aspire-s3-ultrabook-pricing-release-date/>
+
+"And Acer <https://www.theguardian.com/technology/acer> is the first out of 
+the ultrabook gate — the 0.51-inch thick, 2.89-pound Aspire S3 that we were 
+quite impressed with back at IFA will be touching down on [the US] side of the 
+Atlantic on October 16th for just $899.99. The price is in line with Intel's 
+sub-$1,000 ultrabook target, but Acer's getting there with the always-clever 
+flash and hard drive combo trick. While the 13.3-inch laptop (or MacBook Air 
+replica) boasts a Core i5-2467M processor, Intel's integrated HD graphics, and 
+4GB of RAM, Acer's gone with a 20GB SSD to house its Windows 7 Home Premium OS 
+and a 320GB, 5400RPM hard drive for files and less frequently used application 
+storage."
+
+Hmm, Flash and spinning hard drive? But it will be interesting to see how this 
+sells.
+
+First Nokia 800 Windows Phone adverts emerge | WinRumors 
+<http://www.winrumors.com/first-nokia-800-windows-phone-adverts-emerge/>
+
+"Nokia's first Windows Phone has broken its cover thanks to some leaked 
+marketing materials.
+
+"The Nokia "Sea Ray" device looks like it will be marketed as the Nokia 800 in 
+some markets. Pocketnow managed to secure some details on the device along with 
+two leaked adverts. The first advert comes with the tag line "today the sun 
+will rise and set. The rest is up for grabs." The second advert features the 
+tag line "take, tag, sort and share. All in a flash." Both adverts demonstrate 
+the social sharing aspects of Windows Phone 7.5.
+
+"Nokia appears to be preparing at least two Windows Phone devices."
+
+The photos make them look very like the N8. To be unveiled at Nokia World at 
+the end of the month. But not necessarily on sale then. Did we predict that 
+there wouldn't be 'Nokindows' phones until after October? Yes, we did.
+
+Mozilla relies on search deals for 98% of revenues >> Computerworld 
+<http://www.computerworld.com/s/article/9220695/Mozilla_relies_on_search_deals_for_98_of_revenues>
+
+"Mozilla today said that income from its search partners, including rival 
+browser maker Google, increased by 19% last year.
+
+"Royalties, almost all of which come from search services like Google, 
+Microsoft, Yahoo and others, were $121.1m, up 19.3% from 2009's $101.5m.
+
+"The vast bulk of the Mozilla Foundation's revenues came from search 
+providers, which paid the organization for leading Firefox users to their 
+websites. In 2010, royalty payments accounted for 98% of the year's revenues, a 
+percentage point higher than the share of Mozilla's income attributed to search 
+in the two years before."
+
+Contract with Google runs out in November. What are the chances of a tough 
+renegotiation? Or will Steve Ballmer turn on the charm and get Bing adopted?
+
+Five Siri alternatives that give your older iPhone a voice >> Macworld 
+<http://www.macworld.com/article/162924/2011/10/five_siri_alternatives_that_give_your_older_iphone_a_voice.html#lsrc.twt_macworld>
+
+"After last week's iPhone 4S unveiling, Siri was one of the most talked-about 
+features. With Siri, the iPhone 4S will be able to answer just about anything 
+you ask it, from the weather report to nearby points of interest. It can also 
+read messages and notifications aloud and even let you dictate messages of your 
+own instead of relying on the phone's on-screen keyboard."
+
+Includes Google Search, natch. Also Vlingo.
+
+Ninth unique aspect of mobile (as a mass media), discovered by Russell Buckley 
+>> Tomi Ahonen 
+<http://communities-dominate.blogs.com/brands/2011/10/9th-unique-aspect-of-mobile-as-a-mass-media-has-been-discovered-by-russell-buckley-mobile-is-the-dig.html>
+
+Ahonen is a former Nokia executive who now ranges over the mobile world. The 
+first eight are worth bearing in mind too.
+
+Why Silk won't be silky smooth for Amazon >> GigaOm 
+<http://gigaom.com/2011/10/10/why-silk-wont-be-silky-smooth-for-amazon/>
+
+Matthew Prince of proxy service CloudFlare: "I predict that Amazon is likely 
+to face technical, legal, and privacy concerns with Silk. Technically, the 
+biggest challenge will likely be cache invalidation. If I visit my bank website 
+and my account page is cached, Amazon needs to be 100 percent certain that when 
+someone else visits the same bank they never see my account information. From 
+the technical specifications, it appears that Amazon is only caching static 
+resources such as images. While that will solve many of the cases, there will 
+still be places that Silk could end up leaking private data (e.g., a stock 
+photo or porn site that charges for access to its photos)."
+
+Basically, that proxying and cacheing everything has a lot of implications. 
+One suspects Amazon hasn't gone into this eyes-closed, though.
+
+Apple's 1987 Knowledge Navigator, only one month late >> Waxy.org 
+<http://waxy.org/2011/10/apples_1987_knowledge_navigator_only_one_month_late/>
+
+"Based on the dates mentioned in the Knowledge Navigator video, it takes place 
+on September 16, 2011. The date on the professor's calendar is September 16, 
+and he's looking for a 2006 paper written "about five years ago," setting the 
+year as 2011.
+
+"And this morning, at the iPhone keynote, Apple announced Siri, a natural 
+language-based voice assistant, would be built into iOS 5 and a core part of 
+the new iPhone 4S.
+
+"So, 24 years ago, Apple predicted a complex natural-language voice assistant 
+built into a touchscreen Apple device, and was less than a month off."
+
+Actually, put like that, it's rather scary. We await the time-travel iPhone.
+
+For mobile in-app sharing, Twitter tops Facebook 3-1 >> GigaOM 
+<http://gigaom.com/2011/10/10/for-mobile-in-app-sharing-twitter-tops-facebook-3-1/>
+
+"Compared to Twitter, Facebook overall generated twice as many events, which 
+Localytics counts as sharing, liking or following by a person from an app. But 
+on a pound for pound basis, Twitter won out handily when it came to driving 
+user engagement. The average Twitter user shared three times as many events 
+than the average Facebook user, Localytics found. When you examine the active 
+user base of each network, Twitter generated 50 events per 1,000 users compared 
+to 11 events per 1,000 Facebook users, said Localytics."
+
+Because tweets are shorter than statuses?
+
+Anonymous Takes Down NYSE.com - For A Minute >> KCRA Sacramento 
+<http://www.kcra.com/money/29443061/detail.html>
+
+Trading not affected. "At least a few people claiming to be part of Anonymous 
+didn't think the attack on NYSE.com was a risk worth taking. One site used to 
+coordinate Anonymous operations, AnonNews.org, posted a statement saying that 
+it was 'sincerely worried' about the plan, due to the bad press it could give 
+to the Occupy Wall Street movement.
+
+"A back-and-forth debate raged across Twitter Monday afternoon, with various 
+factions of Anonymous alternately cheering and decrying the planned attack.
+
+"But in the end, the chatter drew more attention than the actual effects of 
+the cyberprotest. NYSE.com barely blipped, and the markets finished the day 
+with a rally: The Dow Jones industrial average finished Monday up nearly 3%."
+
+All of a Twitter about mapping >> Ordnance Survey blog 
+<http://blog.ordnancesurvey.co.uk/2011/10/all-of-a-twitter-about-mapping/>
+
+"From today, a selection of our surveyors, field staff and technical experts 
+will be tweeting live as the update the nation's mapping.
+
+"We make around 5000 changes a day to the digital mastermap of Great Britain, 
+so there's a lot going on – from the farthest reaches of Scotland and the Welsh 
+peaks, to inner city London."
+
+Good stuff.
+
+You can follow Guardian Technology's linkbucket on delicious 
+<http://delicious.com/guardianista>
+
+To suggest links, tag articles on delicious.com with "guardiantech"
+ 

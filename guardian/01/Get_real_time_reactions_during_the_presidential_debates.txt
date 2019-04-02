@@ -1,0 +1,36 @@
+
+The Guardian Mobile Innovation Lab 
+<https://medium.com/the-guardian-mobile-innovation-lab> and the Guardian US 
+opinion desk are sending experimental web notifications tonight during 
+tonight’s presidential debate, with real-time opinions from Guardian columnists.
+
+
+To sign up: Open this page <https://www.gdnmobilelab.com/debates/> in a Chrome 
+browser from an Android phone (Samsung included) and tap to sign up. Web 
+notifications are currently only available on Chrome on Android devices. They 
+are meant for mobile but will work on Chrome browsers on desktop, too.
+
+These experimental alerts will supplement the news alerts sent from the 
+Guardian’sAndroid <https://www.theguardian.com/technology/android> app with 
+reactions from Guardian columnistsRichard Wolffe 
+<https://www.theguardian.com/profile/richard-wolffe> and Lucia Graves 
+<https://www.theguardian.com/profile/lucia-graves>. They will be sent at key 
+moments throughout the debate, while the Guardian app news alerts will provide 
+only the most important updates. (The alerts can also be received through 
+desktop Chrome browsers but unfortunately not iPhones. We’re working on a way 
+to release iOS versions of our notifications experiments and hope to have that 
+ready next month.)
+
+
+During the debate, you will hear from the columnists with their quick takes on 
+the candidates’ policy statements, their debating styles, and who’s winning and 
+who’s losing.
+
+This project is the latest installment in ongoing experimentation with 
+notifications, part of the Mobile Lab’s mission to learn more about mobile 
+storytelling. After the experiment, we’ll send out a survey soliciting feedback 
+on the experience.
+
+Questions, suggestions or observations? Drop us a note: 
+innovationlab@theguardian.com
+ 

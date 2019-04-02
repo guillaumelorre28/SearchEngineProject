@@ -1,0 +1,62 @@
+
+Opera is introducing a new version of its desktop browser with built-in 
+adblocking, removing the need for a third-party extension.
+
+
+The Norwegian software company has a history of innovations that later become 
+common in other browsers, such as tabbed browsing. It was also an early pioneer 
+of pop-up blocking, which targeted an earlier generation of in-your-face ads.
+
+Opera says the move can reduce page-loading times by as much as 90% by 
+preventing the browser having to make requests to ad networks, which slows page 
+loading.
+
+Because it is building the feature directly into its browser, page-load times 
+are 40% faster than with existing adblocker plugins or browser extensions, the 
+company claims.
+
+More than 9 million (22%) of the UK’s internet users have an adblocker 
+installed, a recent report 
+<https://www.theguardian.com/media/2016/mar/01/more-than-nine-million-brits-now-use-adblockers>
+ found, and the proportion is considerably higher among 18- to 24-year-olds, 
+with almost half using some form of adblocker.
+
+Opera’s built-in adblocker will initially only be in the desktop version of 
+its browser but it intends to add it to its mobile version in future. An Opera 
+spokeswoman said: “Adblocking technology is an opportunity and a wake-up call 
+to the advertising industry to pay attention to what consumers are actually 
+saying.”
+
+Faster loading, increased privacy and security and a desire for fewer 
+distractions are behind the growing demand for adblockers, but their use is 
+causing concern for publishers who rely on display advertising for revenue. 
+Earlier this month the culture secretary John Whittingdale, called adblocking a
+‘modern-day protection racket’ 
+<https://www.theguardian.com/media/2016/mar/02/adblocking-protection-racket-john-whittingdale>
+.
+
+A study by PageFair and Adobe (PDF) 
+<http://downloads.pagefair.com/reports/2015_report-the_cost_of_ad_blocking.pdf> 
+estimated online ad revenue lost to blockers in 2015 would amount to $21.8bn 
+(£15.4bn) and those losses could almost double to $41.4bn in 2016. Ad-placement 
+firm Carat forecasts global digital and mobile advertising will near $150bn 
+this year.
+
+Opera, which has agreed to a takeover by a group of Chinese firms led by 
+Beijing Kunlun Tech in a cash deal valued at $1.23bn, introduced its first 
+computer web browser in 1995.
+
+
+ With the rise of the smartphone, it shifted to focus on the mobile browser 
+and advertising market, where it now derives most of its revenue, and has 281 
+million users.
+
+ The Oslo-based firm ranks a distant fifth behind mainstream desktop computers 
+browsers from Microsoft, Google, Firefox and Apple. The company counts 60 
+million active monthly desktop users worldwide.
+
+It relies on advertising in its browser for a big chunk of its own revenue but 
+says it sees no contradiction with introducing adblocking controls that affect 
+pages. An Opera spokeswoman said demand for adblocking should abate when 
+messages became less disruptive and more relevant.
+ 

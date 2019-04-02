@@ -1,0 +1,59 @@
+
+Magnus Carlsen <https://www.theguardian.com/sport/magnus-carlsen> and Sergey 
+Karjakin are making final preparations for their 12-game, $1.25m world title 
+series which starts in New York on 11 November. Meanwhile the man who competed 
+in all the championship events for much of the previous decade has just been 
+beaten in a rapidplay in Corsica.
+
+India’s Vishy Anand, 46, won the world crown in 2007 and defended it several 
+times until Carlsen, 20 years his junior, defeated him easily in his home city 
+of Chennai/Madras in 2013. Anand then surprisingly won the next candidates 
+tournament to qualify for a return where he put up a better fight and would 
+have had good chances if he had taken advantage of a huge Norwegian blunder in 
+mid-match.
+
+Nowadays Anand remains a serious contender in elite tournaments where in-depth 
+opening preparation is a major factor but he has become more vulnerable in 
+dogfights, even against lesser masters. He lost twice to weaker rivals and 
+dropped 22 rating points during a lacklustre performance at Tradewise Gibraltar 
+2016, his first open since 1993, while he declined inclusion in the young 
+Indian team which won bronze at the 2014 Olympiad and narrowly missed medals in 
+2016.
+
+The €102,000 Corsica rapidplay started with an open from which 12 winners 
+qualified for the knockout phase along with the four seeds Anand, France’s 
+world No3, Maxime Vachier-Lagrave, the world woman champion, Hou Yifan, and the 
+Bulgarian GM Teimour Radjabov. Knockout results went mostly to form and in the 
+semis Vachier-Lagrave beat the strong Ukrainian Anton Korobov (who had 
+eliminated Hou Yifan) while Anand ground down Radjabov,
+
+After a draw in their first game Anand lost to Vachier-Lagrave in a hot 
+Najdorf Sicilian novelty 6 Nb3. There are only a handful of examples of this 
+move before spring 2016, when the Polish GM Mateusz Bartel started playing it 
+with success, and the elite quickly spotted the innovation on their databases. 
+Soon 6 Nb3 was used by Hikaru Nakamura (twice) against Vachier-Lagrave in the 
+Brussels leg of the Grand Tour, by Wei Yi in the Chinese League and by 
+Alexander Grischuk in his silver-medal winning game in the final round of the 
+Russian championship. No wonder Anand decided to give it a try.
+
+Vachier-Lagrave countered dynamically by 10...Bh6?! and a critical moment came 
+four moves later when 14 c4! looks better. If 14...bxc3 15 Bxc3 and White has 
+queen’s side entry squares for his pieces while otherwise an eventual c4-c5 
+looms. Then 17 f4 was still level, but a move later if 18 f4? Rxb4!.
+
+Black’s d5 bishop was a key to his counterplay which climaxed in 26...Nf3+! 
+overrunning the white king. At the end after 29...e5! White has no defence to 
+Qg2+ and Qf3 mate.
+
+Vishy Anand v Maxime Vachier-Lagrave
+
+1 e4 c5 2 Nf3 d6 3 d4 cxd4 4 Nxd4 Nf6 5 Nc3 a6 6 Nb3!? Nc6 7 Be3 g6 8 Nd5 Nxd5 
+9 exd5 Ne5 10 Bd4 Bh6?! 11 Be2 O-O 12 O-O b5 13 a4 b4 14 c3?! Bb7 15 cxb4 Bxd5 
+16 Na5 e6 17 Ra3 Rb8 18 Bc3 Qh4 19 Be1 Bf4 20 Rh3 Qg5 21 Rg3 Qf5! 22 Bxa6 Bxg3 
+23 fxg3 Qe4! 24 Rf2 Rxb4 25 Re2 Rd4 26 Qc1 Nf3+! 27 gxf3 Qxf3 28 Qc3 Qh1+ 29 
+Kf2 e5!0-1
+
+3466 1 Rg7+ Kb8 2 Rf8! Nf3+ (only chance) 3 Ke2! Nd4+ 4 cxd4 Qh5+ 5 Kd2 Qh6+ 6 
+Kd1 Qh1+ 7 Ne1 and Black soon runs out of checks while White still threatens 
+mate at c7/b7 or c8.
+ 

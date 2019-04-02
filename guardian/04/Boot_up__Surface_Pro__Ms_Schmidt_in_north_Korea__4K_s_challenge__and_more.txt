@@ -1,0 +1,137 @@
+
+A quick burst of 8 links for you to chew over, as picked by the Technology team
+
+Sophie [Schmidt] In North Korea 
+<https://sites.google.com/site/sophieinnorthkorea/>
+
+Sophie has a famous father: 
+
+Bill Richardson, former Governor, US Ambassador to the UN and backchannel 
+freelance diplomat extraordinaire, was planning his 8th trip to Democratic 
+People's Republic of (North) Korea. He invited my father Eric, who invited me.
+
+ It's a marvellous travelogue.
+
+Why I'm not trading my Surface RT for a Surface Pro >> ZDNet 
+<http://www.zdnet.com/why-im-not-trading-my-surface-rt-for-a-surface-pro-7000010132/>
+
+Mary Jo Foley: 
+
+The Surface Pro - from reports from those who were granted limited hands-on 
+time with the device at the Consumer Electronics Show - has a higher-resolution 
+display, better magnetic connector for powering up, and, of course, the ability 
+to run existing Win32 apps. It also only has half the battery life of a Surface 
+RT, so in the five-hour or so range. (From all accounts, it is not going to 
+include the lower-power but higher-battery-life-enabling version of Intel's 
+core i5 processor, contrary to some reports.)
+
+ It's not the price difference that's going to keep me away from the 
+$$899/$999 Surface Pro. It's the fact that it is really a PC in tablet's 
+clothing. I am interested in buying a new Windows PC this year. But I want one 
+with excellent battery life. (I am totally indifferent if my next PC has a 
+touch screen. I don't need one, as long as I have a touch-enabled mouse, like 
+the Logitech one I've been testing out lately.)
+
+ Again, for me - and your mileage likely will vary - use of the Surface RT has 
+shown me that the lack of Win32 (and even Metro-style) apps is not a big deal. 
+I am spending about 99% of my time on the Surface RT in the Metro environment. 
+I have found very few Metro-style apps I consider worth downloading. Instead, 
+many of the things pinned to my Start Screen are web sites.
+
+ Sounds good. 
+
+This, by the way, is a big problem for Microsoft 
+<https://www.theguardian.com/technology/microsoft>.
+
+ Oh.
+
+I'm one of the lead devs on the Chrome Windows sandbox... >> Hacker News 
+<http://news.ycombinator.com/item?id=4860203>
+
+Justin Schuh says XP is a dog - a dead one - when it comes to security: 
+
+Seriously, I've spent many weeks trying to wring every last bit of security I 
+can out of XP, and I really do think that Chrome does the best anyone possibly 
+could on that front. But in the end XP is just an OS that's far past its 
+security expiration date, and running it at all means taking a big risk.
+
+ Are you still using it? (Via Ed Bott)
+
+Huawei creating 50 jobs in Ireland >> The Sunday Business Post 
+<http://www.businesspost.ie/#!story/Home/News/Huawei+to+create+50+R%26D+jobs+in+Cork+and+Dublin/id/19410615-5218-50ed-15f1-e0b6d9091180>
+
+Leading Chinese information and communications technology company Huawei is to 
+create 50 high skilled research positions with the opening of a new research 
+and development centre spread across two sites in Cork City and Dublin.
+
+ Initially the centre will focus on supporting Irish and international telecom 
+operators who use the company's customer experience management product, 
+SmartCare. But future expansion at the sites will extend R&D functions to cover 
+a wider range of IT software projects, said a statement from IDA Ireland, which 
+is supporting the project.
+
+July 2012: Android, Nokia smartphone security toppled by NFC hack >> Ars 
+Technica 
+<http://arstechnica.com/security/2012/07/android-nokia-smartphone-hack/>
+
+By exploiting multiple security weakness in the industry standard known as 
+Near Field Communication, smartphone hacker Charlie Miller can take control of 
+handsets made by Samsung and Nokia. The attack works by putting the phone a few 
+centimeters away from a quarter-sized chip, or touching it to another 
+NFC-enabled phone. Code on the attacker-controlled chip or handset is beamed to 
+the target phone over the air, then opens malicious files or webpages that 
+exploit known vulnerabilities in a document reader or browser, or in some cases 
+in the operating system itself.
+
+ The attack can work against Jelly Bean too, to drive the phone via NFC to a 
+specific web page with an exploit. It's a dilemma: have NFC enabled so it's 
+convenient, or have it disabled so you have to turn it on to make use of it 
+only when you want (which implies having to unlock your phone and drill down 
+through the settings to activate it).
+
+The end of ragequitting >> Coding Horror 
+<http://www.codinghorror.com/blog/2013/01/the-end-of-ragequitting.html>
+
+Jeff Atwood on Aaron Swartz 
+<https://www.theguardian.com/technology/aaron-swartz>, activism, and the 
+struggle the latter implies.
+
+NEC says two phone screens are better than one with Medias W >> The Verge 
+<http://www.theverge.com/2013/1/21/3902140/nec-medias-w-hands-on>
+
+Originally teased close to a year ago 
+<http://www.theverge.com/2012/2/22/2816067/nec-global-android-lte>, the Medias 
+W is NEC's attempt at a dual-screen folding Android smartphone. It's not an 
+entirely new idea -- the Kyocera Echo and Sony Tablet P have done similar 
+things to middling results -- but can NEC be the first to get it right?
+
+ Questions to which the answer is 'no', because there's no getting this design 
+idea right.
+
+High-definition TV: ne plus ultra >> The Economist 
+<http://www.economist.com/blogs/babbage/2013/01/high-definition-tv>
+
+So far, only a handful of feature films have been shot with cameras capable of 
+4K, including "The Amazing Spider-Man", "Prometheus" and "The Girl With the 
+Dragon Tattoo". That is hardly surprising given the amount of work involved. 
+Insiders reckon making a full-length digital feature in 4K is equivalent to 
+producing six ordinary 2K films.
+
+ Even so, some 17,000 cinemas around the world now have digital projectors 
+capable of showing 4K films. So, if and when Hollywood upgrades wholesale to 
+the new video standard, cinema-goers will be able to decide whether 4K is worth 
+the premium they are bound to be charged.
+
+ The recent flood of 3D films largely failed that test. The lacklustre sales 
+of 3D television sets suggest they are now doing the same. Will 4K suffer the 
+same fate? It is far too early to say. But, for sure, 4K television--far more 
+than 4K cinema--faces some formidable challenges.
+
+ Apart from anything, we all tend to sit too far from the screen to discern 
+the difference. An excellent primer on why not to hold your breath for 4K - 
+even if it is going to happen.
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/u:guardiantech>. To suggest a link, either add it below or 
+tag it with @gdntech on the freeDelicious <http://www.delicious.com/> service.
+ 

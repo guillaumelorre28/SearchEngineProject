@@ -1,0 +1,162 @@
+
+I’ve just switched from slow ADSL broadband, where the router was outside my 
+office, to fast Virgin broadband, where the router is on the other side of the 
+house. Unfortunately, my computer is struggling to pick-up the Wi-Fi signal. In 
+the past, I’ve tried Wi-Fi extenders from Netgear and Belkin but not had much 
+luck with them. I found that if I placed them where they got a strong enough 
+signal, they didn’t actually extend the signal much further. Will Google’sWi-Fi 
+<https://www.theguardian.com/technology/wifi> mesh routers be the solution, and 
+if so, do you know of any routers like that that can be bought in the UK?Stephen
+
+Wi-Fi is never as fast, and never as reliable, as a wired internet connection. 
+In the old days, before DECT and mobile phones, many people had wires running 
+to landline phones, and it’s still not that hard to do with bulkier Cat5E (E 
+for “enhanced”) or Cat6 cable. Cat6A can deliver 10 gigabits per second over 
+100 metres of Ethernet cable, which would solve the speed problem for the 
+foreseeable future.
+
+Failing that, the best answer is HomePlug 
+<https://en.wikipedia.org/wiki/HomePlug>, which is what I use.
+
+HomePlug was developed to send broadband internet traffic across a home’s – or 
+an office’s – mains electricity cables. The system is overseen by theHomePlug 
+Alliance <http://www.homeplug.org/>, which is much like the Wi-Fi Alliance that 
+looks after Wi-Fi. The first HomePlugs were shipped in 2001, and the latest 
+versions are HomePlug AV (2005) and AV2 (2012). The latest AV2 HomePlugs offer 
+MIMO (multiple input multiple output) operation instead of SISO (single input 
+single output). This should provide much better throughput.
+
+HomePlug AV includes 128-bit encryption, in case your mains signals stray onto 
+next door’s wiring.
+
+HomePlug networks are usually sold with two paired devices. There’s a sender, 
+which you connect to your router via an Ethernet cable and RJ-45 socket. 
+There’s a receiver plug that connects to your local device. The pair may be 
+hard-wired with a unique password to talk to one another. If the devices ship 
+with common default passwords, you should change them, following the 
+instructions in the manual. This may be as simple as holding down the reset 
+button for a couple of seconds on each device.
+
+Some HomePlug devices offer Wi-Fi as well. That is to say, the receiver has a 
+small Wi-Fi transmitter as well as one or more RJ-45 ports for wired 
+connections. In my experience with aDevolo dLan 1200+ Wi-Fi ac Starter Kit 
+<https://www.amazon.co.uk/Devolo-Powerline-Starter-Adapter-Extender/dp/B00OZDO8RE/>
+, this works well.
+
+The disadvantage is that a HomePlug usually creates its own separate Wi-Fi 
+network. The Devolo dLan 1200+ gets round this by including “Wi-Fi Move 
+Technology” that lets you use your existing router’s SSID and password to 
+create a single network. Some systems have a “Wi-Fi Extender” mode instead.
+
+HomePlug speeds
+
+As with Wi-Fi, the specified speeds of HomePlug devices are nothing like the 
+actual speeds. For example, an 802.11n Wi-Fi router may have a theoretical 
+maximum speed of 600Mbps, but you may well get only 40-50Mbps. It depends 
+partly on the distance from the router, your walls and floors, interference 
+from other networks, and the number of devices sharing your bandwidth.
+
+Similarly, a HomePlug AV system has a theoretical speed of 200Mbps, but you’re 
+more likely to get 30-60Mbps, sometimes less. In this case, it depends on the 
+distance from the router, wiring quality, and the amount of noise present. 
+Noise can be created by other electrical products from fridges to smartphone 
+chargers. If you have problems with a HomePlug connection, try turning off 
+other devices and see if you can find the culprit.
+
+Some HomePlug devices may work better when plugged directly into a wall socket 
+than when plugged into a multi-way adaptor. Most HomePlugs have a pass-through 
+connection so you don’t actually lose a socket.
+
+Either way, my ancient Solwise 85Mbps HomePlug Turbo package was more than 
+fast enough to handle BBC iPlayer. I would expect any decent HomePlug AV or AV2 
+system to meet your needs.
+
+Router changes
+
+Before you invest in some HomePlugs, try to improve the performance of your 
+current system. Rather than leave your router in a corner or on the floor, try 
+to position it as high as possible, perhaps on a shelf, with lots of space 
+around it. Move it away from the TV set and other large household appliances.
+
+See if it’s possible to add one or more high-gain antennas to increase the 
+signal strength.
+
+You may also get better performance if you use a different channel from any 
+strong Wi-Fi networks nearby. There are lots of ways to find out which channels 
+your neighbours are using, but in Microsoft Windows, you can open a command 
+prompt and type (or paste in): netsh wlan show all
+
+Many PC programs and smartphone apps will give you a list of all the networks 
+within range, and tell you which channel they are using, among other things. 
+Examples include the paid-forinSSIDer 
+<http://www.metageek.com/products/inssider/> (Windows, Mac and Android), and 
+free ones such asAcrylic WiFi Home 
+<https://www.acrylicwifi.com/en/wlan-software/wlan-scanner-acrylic-wifi-free/> 
+(Windows),WiFi Scanner <http://wifiscanner.com/wifiscanner.html> (Mac, though 
+there’s a scanner built in now) andAmped Wireless 
+<http://www.ampedwireless.com/wifianalytics/> (Windows, Android). There’s also 
+a free version ofNetspot <https://www.netspotapp.com/wlan-wifi-analyzer.html> 
+(Windows, Mac), which lets you create a heatmap of your Wi-Fi signal, if you 
+upload a floorplan.
+
+In the UK, routers frequently use channels 1, 6 and 11, so these are more 
+likely to be congested. You may get better results by disabling channel bonding 
+and using a different single channel. Remember to reduce the channel width to 
+20MHz.
+
+Unfortunately, switching from the overcrowded 2.4GHz baby alarm band to 5GHz, 
+if available, probably won’t help. The 5GHz signal doesn’t travel as far.
+
+The ultimate router fix is just to use a better router. However, Virgin Media 
+does not support third-party replacements, so I won’t go into it here, butthere 
+are guides online 
+<https://www.broadbandchoices.co.uk/how-to/how-to-use-your-own-router>.
+
+Google Mesh
+
+I first came across a consumer mesh network in the form of a Russian handheld 
+gaming and messaging handheld calledCybiko 
+<https://en.wikipedia.org/wiki/Cybiko>, in 2001 (The gadget that came in from 
+the cold 
+<https://www.theguardian.com/technology/2001/jan/25/gadgets.onlinesupplement>). 
+However, you could set one up using existing comms equipment, if you knew how. 
+The problems are that it’s tricky to do and, unless you live in a mansion, you 
+really don’t need one.
+
+The sites that can benefit from mesh networks include stadiums, small towns, 
+large clubs, restaurant chains and so on. Hotels are ideal.Open Mesh supplies 
+these markets <http://www.open-mesh.com/success-stories.html>, and includes a 
+cloud-based network controller calledCloudTrax <https://ct4.cloudtrax.com/login>
+.
+
+A few companies have seen the potential for simplifying mesh networking for 
+home users. These include Eero, Luma and, most recently,Google 
+<https://madeby.google.com/wifi/>. They all take the same approach: you can buy 
+a single device or a three-pack to set up a mesh. All three have designed their 
+products to look nothing like routers, which is where they differ from Open 
+Mesh. (The prices arenot that different 
+<http://www.open-mesh.com/products/access-points.html>.)
+
+In the US, Eero <https://store.eero.com/> sells a router for $199 and a 
+three-pack for $499.Luma <https://getluma.com/>’s three-pack costs $399. Google 
+announced waiting-list prices of $129 for one and $299 for a three-pack, but at 
+the time of writing, the product has disappeared from theGoogle Store 
+<https://store.google.com/?srp=/product/google_wifi>.
+
+I don’t know of anyone who sells consumer-style mesh networks in the UK, but 
+Open Mesh has a global network of distributors. UK sources includeUtility 
+Networks <http://www.utilitynetworks.co.uk/shop/open-mesh.html> and MS 
+(Distribution) UK Ltd <http://www.msdist.co.uk/catalogue_Open-Mesh.php>.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+
+ * Which all-in-one PC should I buy for home use? 
+<https://www.theguardian.com/technology/askjack/2016/oct/20/which-all-in-one-pc-should-i-buy-for-home-use>
+
+ * How can I provide guests with Wi-Fi without giving them my password? 
+<https://www.theguardian.com/technology/askjack/2016/may/12/how-can-i-provide-guests-with-wi-fi-without-giving-them-my-password>
+
+ * How can I get my PCs to connect to my new Wi-Fi? 
+<https://www.theguardian.com/technology/2014/jan/31/pc-connect-new-hi-fi>
+ 

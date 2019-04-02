@@ -1,0 +1,283 @@
+
+Sitting in a studio in Kensington, London, the designer Sebastian Conran walks 
+me through a worst-case scenario. “Basically, what it’s looking for is a break 
+in routine,” he explains, pointing to a drawing of an elderly woman, collapsed 
+on the floor of her home. “There’s an event. The e-sensor in the room notices 
+that you’ve fallen over. MiRo goes to investigate.”
+
+MiRo <http://consequentialrobotics.com/> is a robotic dog. There is an early 
+model close to where we are sitting. Its head sits above a torso without arms 
+or legs, and its cartoonish eyes stare out below alert ears embedded with 
+speakers. Conran’s company describes it as a biomimetic companion robot, and 
+says it will eventually work with facial recognition technology to make life 
+easier for its owner – to prompt them to take medicine, or to remind them of 
+visitors’ names, or to question them if it thinks they’re in trouble. Conran 
+tells me to think of it as a cross between a pet and Radio 4’s John Humphrys.
+
+“It tries talking to you,” he continues, “and then it will send a signal to 
+the hub saying there seems to be a problem. The hub will then broadcast on the 
+home speaker, asking again if you’re all right, and telling you to slap your 
+wrist.”
+
+The thing about human care is, unless you’re particularly disabled you don’t 
+need someone there all the time
+Sebastian Conran 
+Conran points at the wristband the woman in the picture is wearing. It is 
+another key part of his system, monitoring the vital signs of its wearer 24 
+hours a day. “If you slap your wrist the process will stop but will be logged,” 
+he says. “If you don’t slap your wrist it will break through security, and go 
+to a carer, who can see your heart rate and body temperature, and rewind your 
+life using the cameras in the home to see what happened. So when the ambulance 
+gets there, they’ll know what they’re working with.”
+
+In this scenario all aspects of the house come together – the sensors in the 
+room, the wristband, the biomimetic companion robot, the data hub, the cameras 
+embedded in the ceiling… At other times, however, the system coalesces less 
+firmly around the person living inside the home. Elsewhere in Conran’s studio 
+is a robot table being developed with Sheffield University. The table adjusts 
+itself to suit the user’s size and moves on four wheels across the floor 
+directed by voice commands and tracking optics in the ceiling. The eventual aim 
+is to attach a robotic arm to it, so that the table can move around the home, 
+picking things up from shelves and bringing them to the user. Order a dinner 
+from the apartment canteen, and the table will scoot through the building to 
+deliver it.
+
+“The thing about human care is, unless you’re particularly disabled you don’t 
+need someone there all the time,” Conran says. “But you do need to deal with 
+loneliness and fear. If a carer comes to see you twice a week for an hour, 
+what’s happening in between? What’s happening to people when a carer isn’t 
+there?”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F06%2Frobot-could-be-grandmas-new-care-assistant%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F5be977f64fc4e0767e453eea4ec3ec374ca77bfd%2F0_246_2500_1499%2F2500.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20a%20robot%20could%20be%20grandma%E2%80%99s%20new%20carer&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F06%2Frobot-could-be-grandmas-new-care-assistant%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20a%20robot%20could%20be%20grandma%E2%80%99s%20new%20carer&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F06%2Frobot-could-be-grandmas-new-care-assistant%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F5be977f64fc4e0767e453eea4ec3ec374ca77bfd%2F0_246_2500_1499%2F2500.jpg>
+ Japan’s Robear, which is capable of lifting patients. Photograph: Jiji 
+Press/AFP/Getty Images 
+Conran is not the only one to ask these questions and look for answers in the 
+use of robots and smart systems. In Japan, for example, where26% of the 
+population is aged 65 years or older 
+<http://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS?locations=JP>, Dr 
+Toshiharu Mukai of Meijo University has been developing a robot capable of 
+lifting patients out of beds and into wheelchairs. It’s calledRobear 
+<https://www.theguardian.com/technology/2015/feb/27/robear-bear-shaped-nursing-care-robot>
+, is designed to look like an approachable white bear, and could, if 
+successful, do a job that would normally involve several care workers. Closer 
+to home, in Grantham, a prototype care robot was recently introduced to a 
+sheltered housing centre. Part of anEU-funded project 
+<http://www.enrichme.eu/wordpress/> dedicated to investigating the ways 
+technology can improve the day-to-day lives of elderly people, the robot is 
+designed in part to – much like Conran’s MiRo – combat loneliness, and to offer 
+reminders for tasks such as taking medicine.
+
+Many of these visions are nascent, but at a time of rising elderly populations 
+and dwindling public resources, they raise important questions about where we 
+are going with care. Can robots serve as a useful supplement to human contact, 
+or do economic realities mean technology is pushing us towards a future where 
+some of society’s most vulnerable are passed into the loving arms of machines?
+
+Travel up the A1 from London to a leafy parish in the home counties, and 
+you’ll find a house owned by the University of Hertfordshire. The two-storey 
+building looks from the outside just like any other suburban home in Hatfield. 
+There is a doorbell beside the front door, there are sofas, chairs, beds. There 
+is food in the kitchen, there are pictures in frames. It isn’t until you 
+glimpse a monolithic, 200kg care robot that you can tell this isn’t exactly a 
+normal household.
+
+“We first did studies on campus. As researchers, that’s what you usually do – 
+lab experiments,” says Kerstin Dautenhahn, professor of artificial intelligence 
+at the University of Hertfordshire. “What we found is that participants in the 
+experiment didn’t really buy into the idea. What we realised is that we need to 
+provide a more naturalistic environment. Something real.”
+
+The automated city: do we still need humans to run public services?
+ Read more  
+<https://www.theguardian.com/cities/2016/sep/20/automated-city-robots-run-public-services-councils>
+Like Conran’s vision of robotic companions and autonomous tables, Dautenhahn’s 
+home is angled towards a future where machines play a large part in how we care 
+for the elderly. She says her coterie of robots provide a number of functions, 
+from physical and cognitive assistance to social help. Some of the technology 
+in the home is designed to help users fetch objects, some is made to remind 
+them to take their medicine, some of it is designed to remind a person exactly 
+who is standing beside them.
+
+“It’s also equipped as a smart home,” she says. “We have more than 60 sensors 
+in that house, not only omnidirectional cameras that can identify and track 
+people, but also various sensors, such as ones for temperature, attached to all 
+the hot and cold water taps, so we know when someone is in the bathroom and 
+using the taps or flushing the toilet.
+
+“We have sensors attached to all the electrical devices, such as the TV, the 
+kettle, the toaster and the fridge, so again we can detect when someone opens 
+the fridge door, or puts on the kettle,” she adds. “We’ve also developed some 
+algorithms for activity recognition, so based on the patterns of – for example 
+– when someone makes a typical dinner or breakfast.”
+
+Dautenhahn explains that the home observes a person’s activities, and then 
+makes judgments based on those observations. If the house can tell that a 
+person is making breakfast, it could send a robot to approach and offer help. 
+The sensors, with their ability to track activities and log this in a central 
+data hub, allow the system to make predictions about a person’s routine, and to 
+notice if the routine has changed – if they are eating or exercising less, for 
+example, or sleeping more. Sit in front of the TV for too long, and a robot 
+could come around to encourage you to move.
+
+The last thing the researchers want is for people to feel bossed around, 
+though Dautenhahn admits it’s a difficult balance to strike. If you have a 
+system that is created to protect an elderly person, and it notices that the 
+homeowner hasn’t drunk a glass of water for six hours, should it say something? 
+Should it tell a neighbour?
+
+“At the moment I have a PhD student who is specifically investigating our 
+sense of control,” says Dautenhahn. “For me, as a researcher, this issue has 
+been part of our whole research agenda all the way. If you have a system in 
+your house that is with you 24/7, monitoring everything that you do, then what 
+you really don’t want is to have the feeling that there’s this super robot in 
+the house – that you’re no longer in control. If you have someone all the time 
+criticising you, telling you that you haven’t had anything to drink for five 
+hours, you’ll ask yourself: whose house is this?”
+
+So whose house is it?
+
+When you consider the possibility of homes hosting a small army of integrated 
+sensors and robots that may or may not be modelled on large white bears, you 
+have to ask yourself whether these solutions conflict with the layout of, say, 
+Edwardian terraced houses or postwar tower blocks. Dautenhahn bought a suburban 
+home to test robots in a real-life living environment, but even she 
+acknowledges that the clutter of everyday life isn’t best suited to robots 
+doing their job.
+
+“Few people only have laminate flooring, no carpet or rugs, where everything 
+is nice and clean and smooth,” she says. “There’s usually lots of things people 
+have in their environment that make it more complex for robots. This is why 
+some people argue that it might be better in the future for newly built homes 
+to accommodate the requirements of technological solutions.”
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQoS-40Xe75Q&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQoS-40Xe75Q>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQoS-40Xe75Q&media=>
+Toyota’s human support robot. <https://www.youtube.com/watch?v=QoS-40Xe75Q> 
+With this comes a big question: should the homes of the future be designed 
+around robots? A demo in 2015 forToyota’s human support robot 
+<https://www.youtube.com/watch?v=QoS-40Xe75Q> – again designed to address the 
+growing demand for long-term elderly care in Japan – shows the one-armed robot 
+picking up objects in a bookcase lined with plastic boxes, each emblazoned with 
+a label that the robot’s vision algorithms were able to detect. Such systems 
+will presumably become less clunky over time, but image living in a house where 
+you have to put everything you own into plastic boxes with labels for a robot 
+to recognise. What will that do to a person’s sense of control, not to mention 
+personal identity?
+
+There is clearly a balance to be struck, but if we’re thinking about radical 
+changes to the architecture of our homes, what other sorts of structures we 
+should be looking at? One nursing home in the Netherlands, for example, offers 
+rent-free apartments to students in exchange for 30 hours of work each month 
+with their elderly neighbours. Elsewhere in the Netherlands, thevillage of 
+Hogewey 
+<http://www.theatlantic.com/health/archive/2014/11/the-dutch-village-where-everyone-has-dementia/382195/>
+, on the outskirts of Amsterdam, has been built from the ground up to 
+accommodate dementia patients. The 23 buildings in Hogewey are designed to be 
+exact replicas of homes from the 1950s and the 1970s, each built to fit a 
+person’s perception of reality.
+
+Both of these, in very different ways, show that there is scope for social 
+architecture that reconfigures the position of the elderly in society without 
+technology. Instead of designing the architecture of our future around smart 
+systems, should we be looking at structures that encourage cross-generational 
+interaction, or that shape themselves in response to diseases such as 
+Alzheimer’s? Perhaps, but there are, as always, economic issues.
+
+“There are fantastic examples of supportive, dignified care, and examples of 
+carefully building community links between generations that function as a 
+support system with benefits for both sides,” says Lydia Nicholas, a digital 
+anthropologist who has worked with the likes of Nesta, the Science Museum and 
+the BBC. “Unfortunately right now these are in conflict with enormous pressure 
+to immediately cut costs.
+
+“These dementia villages employ a lot of people; they are expensive to run and 
+have very long waiting lists. For a system under pressure it can be tempting 
+instead to turn to technology solutions where potentially one nurse could look 
+after many people because she has so much data on how all of them are moving 
+and sleeping, whether they’re eating on schedule, etc. In the short term 
+sensors are cheap and people are expensive. But people can provide that 
+essential human touch and connection that supports our health over the long 
+term.”
+
+Nicholas tells me that it is unwise to think about future care for the elderly 
+in terms of mutually exclusive visions. The aged population is not a monolithic 
+entity but a varied range of age groups with different needs, different levels 
+of ability and independence. It’s not a question about all-in with technology 
+or all-in with new social architectures, but rather a discussion about how 
+these things can work together. That said, there are concerns about how 
+machines can work with the current human-based care system, especially when 
+you’re dealing with councils facing increasingly precarious balance sheets.
+
+“As costs rise we could end up with the system either spending more and more 
+on getting the same level of human care, or ending up with a lot less, and 
+having to work with that in different ways,” says Nicholas. “We need to be 
+ambitious, creative and careful in these new systems.”
+
+I’d personally be afraid if systems are being used to replace human contact
+Kerstin Dautenhahn, professor of AI 
+The technologists are keen to impress that their creations are designed to 
+work alongside human care, not to replace it. And yet they also admit that they 
+don’t have a great deal of say in how their technology will actually be 
+implemented. There’s a sense that, in spite of good intentions, these 
+techno-utopian visions could find themselves undermined by economic obstacles, 
+not to mention fissures in our social fabric.
+
+“There is a kind of crisis,” says Nicholas. “The question is whether you can 
+build systems that enable people to build their own support networks. Using 
+technology and system change as much as possible, are there ways you can 
+connect people up to their local community? Of course health and social care 
+challenges don’t exist in a vacuum; these issues must be addressed in the wider 
+context of urgently needed work on community building and social cohesion in 
+post-Brexit Britain.”
+
+I ask Dautenhahn, as someone who designs robots that may one day be 
+commonplace in care homes, whether there are concerns about how her machines 
+may be used. “I completely see that there is a danger for formal carers,” she 
+says. “The NHS for example could at some point decide the robots are doing a 
+really good job, so maybe they can cut costs. Rather than having two visits a 
+day, we could have just two visits a week, because, as you say, they have all 
+the data.
+
+“This is certainly not something I’d advocate,” she adds. “I’d personally be 
+afraid if systems are being used to replace human contact, because there is a 
+lot of misunderstanding about what robots are – that robots could have 
+human-like qualities and give emotional support. For me, this is absolutely out 
+of the question.”
+
+The rise of robots: forget evil AI – the real risk is far more insidious
+ Read more  
+<https://www.theguardian.com/technology/2016/aug/30/rise-of-robots-evil-artificial-intelligence-uc-berkeley>
+Dautenhahn says she is against the idea of robots that resemble humans 
+precisely for this reason. She tells me that there are things humans are good 
+at, and there are things machines are good at. Posing a robot as a human could 
+dangerously confuse these lines, potentially misleading authorities facing a 
+strong drive to cut costs and automate processes. “I can see this danger,” she 
+says. “Therefore it is very important that we have this public discussion.”
+
+Back in Conran’s studio, he runs me through his vision of a smart home for an 
+independent elderly person. He shows me a sketch of a single-floor flat. 
+Sensors are dotted throughout, an autonomous table tends to the kitchen and a 
+pair of MiRos wait attentively, close to the home’s occupants. If one of them 
+should fall, the robot dog will be on hand to ask them if they are OK. The 
+sensor on their wrist will confirm if they aren’t.
+
+Putting aside the question of whether the potential success of such a system 
+would inadvertently dissuade authorities from investing in human carers, is a 
+home like this something a person would actually want? Conran mentions an 
+interesting point. For the generations now growing up that are accustomed to 
+digital culture, centred on their whims and aspirations, the idea of 24-hour 
+attention may even be desired.
+
+“These people are going to have completely different expectations,” he says. 
+“We expect the state to provide for us in a way that previous generations maybe 
+didn’t. Life has constantly got better and better, and we’re coming up against 
+the fact that, instead of getting better and better, things are dropping off.
+Ageing <https://www.theguardian.com/science/ageing> is not to be recommended.”
+ 

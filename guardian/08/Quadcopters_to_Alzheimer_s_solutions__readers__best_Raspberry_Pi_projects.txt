@@ -1,0 +1,247 @@
+
+Solutions for a relative’s Alzheimer’s disease, a time lapse camera and a 
+gingerbread robot which dances when it detects a human face 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5018019> – 
+these are just some of the projects you’ve been telling us about afterwe asked 
+you to show off your inventiveness with Raspberry Pi and other electronics 
+platforms such as Arduino 
+<https://www.theguardian.com/technology/2016/dec/12/share-your-best-raspberry-pi-or-arduino-projects>
+.
+
+
+If you’re a regular reader this idea may be familiar to you – we also asked 
+you to show usthe Raspberry Pi projects you’d been working on towards the end 
+of 2015 
+<https://www.theguardian.com/technology/2015/dec/08/readers-raspberry-pi-projects>
+. Many of you responded to that by telling us how you’d adapted andincorporated 
+Arduino into your hardware projects 
+<https://discussion.theguardian.com/comment-permalink/64733133> – so we widened 
+the scope.
+
+
+As well as the highlights below, you can see all of the projects you’ve shared 
+so far – and tell us about yours –at this GuardianWitness page 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad>, or, 
+discuss the ideas in the comments.
+
+
+First up, one of many musical ideas you’ve been sharing. This piece of kit, 
+explained in some detail below, could provide the soundtrack to the rest of 
+this roundup …
+
+
+Monome + Raspberry Pi + Arduino + Python Step Sequencer 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5017746>
+
+The brain is a Raspberry Pi 
+<https://www.theguardian.com/technology/raspberry-pi> 3 which runs the step 
+sequencer program, written in python. The monome is connected to the Pi via 
+USB. An Arduino Uno is also connected to the Pi via USB. The Arduino controls 8 
+servos, each with a "mallet" attached. (These mallets are actually Lego bricks 
+clumsily taped onto coffee sticks.)
+
+The Arduino is programmed to receive serial commands* from the python program. 
+A command is one byte or 8 bits, each bit representing 'on' (play the note) and 
+'off' (do nothing) states of each servo.
+
+The monome is totally controlled by the python program. The program sends 
+serial commands that, for example, tell the monome which buttons need to light 
+up or turn off. It also receives serial data from the monome - like, which 
+buttons are getting pressed and depressed.
+
+Sent via Guardian Witness <https://witness.theguardian.com/>
+
+ By Joon Guillen <https://witness.theguardian.com/user/Joon Guillen> 
+
+14 December 2016, 22:11 
+
+We also liked Ernest Warzocha’s “Musi” 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5018127>, 
+an experimental instrument he hooks up to an Ableton Push.
+ <https://witness.theguardian.com/user/Ernest%20Warzocha>
+
+This reader has created and modified an impressive-looking drone
+
+ <https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5018021> 
+RPi Fishing Quadcopter! 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5018021>
+
+I called this drone "Gabian" in honor to the french mediterranean appelation 
+of the seagull. It is a waterproof quadcopter fully built around a Raspberry Pi 
+equipped with a Navio 2 board. It uses a RPi Cam V2 and a home made gimbal to 
+provide full HD stabilized video stream in flight. It has a built-in drop 
+system to transport fishing lines where the fishes are! Its lights even offer 
+possibility to use at night time thanks to the powerful leds.
+
+Sent via Guardian Witness <https://witness.theguardian.com/>
+
+ By Guillaume Rmrez <https://witness.theguardian.com/user/Guillaume Rmrez> 
+
+18 December 2016, 9:37 
+
+Simone Dassi told us about another type of camera made with a Raspberry Pi – 
+one she sayscan take a multispectral photo that monitors the health of plant 
+life 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5018148>.
+
+
+The next idea that caught our eyes was from a reader looking for solutions to 
+make life easier for a relative with Alzheimer’s disease
+ <https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5018011> 
+TimePeace - clock to reassure a relative with Alzheimer's about day of week 
+and time of day 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5018011>
+
+Diagnosed with early stage Alzheimer's disease my step mother has become 
+disconnected from time, the identification of places and people. Constantly 
+asking what day of the week it is, time can stretch with an hour seeming to 
+last for days, waking in the night and wondering about the day, not wanting to 
+bother anyone and it seemingly to last for days - all sounded like torture.
+
+Timepiece says the day of the week and time of day, along with a reminder of 
+where you are. "It's nearly lunch", "early evening" etc. First night with the 
+clock she woke and the clock said "it's the middle of the night" – so she went 
+back to sleep.
+
+Built using a Raspberry Pi, and the Foundations touch display and about 1200 
+lines of Python code so that you can change the time, date, size of messages, 
+when it goes dim at night and when it brightens in the morning etc
+
+Sent via Guardian Witness <https://witness.theguardian.com/>
+
+ By David Penney <https://witness.theguardian.com/user/David Penney> 
+
+18 December 2016, 2:08 
+
+David also shared another of his projects here 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5018012>.
+
+
+Now, time for a coffee break
+
+
+Raspberry Pi AND Arduino Coffee Roasting machine 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5017349>
+
+This is a coffee roasting machine. The speed of the drum and temperature of 
+the oven is controlled by the Raspberry via the Arduino.
+
+It features a web interface via WiFi so it can be controlled by any web 
+capable device.
+
+The drum is driven by a stepping motor, controlled by the Arduino which gets 
+the higher level commands from the Raspberry. Same goes for the Temperature, 
+which the Raspberry reads from a thermocouple and controls via the Arduino and 
+a solid state relay.
+
+The software on the Pi is written in C#/Mono.
+
+Sent via Guardian Witness <https://witness.theguardian.com/>
+
+ By Roasted Battle Squirrel <https://witness.theguardian.com/user/Roasted 
+Battle Squirrel> 
+
+12 December 2016, 11:57 
+
+If coffee’s your drink, you might also want to check out “Alexabot” – which 
+uses Amazon Alexa software combined with a Raspberry Pi robotto fetch this 
+reader a cup on command 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5018020>.
+
+
+Next, a game of virtual chess brought to life. Again, explained below the video
+
+
+Internet-Of-Things Chessbord (play chess online with a real board!) 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5017391>
+
+I love playing chess online but the 2D view on the screen feels very 
+unintuitive to me - I much prefer playing with a physical chess board.
+
+Hence the Internet-Of-Things chess board was born. It connects to an online 
+game so that the user can play chess with anyone in the world, with a real 
+board.
+
+It uses an Arduino to control the LEDs and detect the positions of the pieces, 
+and it uses a Raspberry Pi to check for illegal moves and host the online game.
+
+Sent via Guardian Witness <https://witness.theguardian.com/>
+
+ By Ben James <https://witness.theguardian.com/user/guardianUser17125259> 
+
+12 December 2016, 16:54 
+
+Gaming possibilities don’t stop at chess, of course. Paul Bilan told us about 
+his cute-looking mini arcade machine 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5017684>, 
+and Claire Pollard shared the Formula Pi project,a racing series she 
+commentates on 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5017427>.
+
+
+Phew, time flies, eh – we’re almost there …
+
+
+Arduino clock 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5017658>
+
+A clock with roots that occasionally hoots. The time it can tell without even 
+a bell. Ask it nicely and it will tell you precisely, but if no one’s around it 
+won’t make a sound. A dozen on their perch won’t leave you in the lurch, the 
+assembled dawn chorus will sing something forus. To make time a pleasure – a 
+real treasure – not just something to measure.
+
+Can you work it out? The time was 10:45 when I pushed the button
+
+Sent via Guardian Witness <https://witness.theguardian.com/>
+
+ By ID3719285 <https://witness.theguardian.com/user/ID3719285> 
+
+14 December 2016, 10:06 
+
+Can’t figure out how to tell the time? Hint: count those birds … As for 
+whether it’s morning or afternoon, well, Kim Booth, who shared the project,says 
+in a blogpost explaining the technicalities 
+<http://www.bbno.info/wordpress/?p=4072>: “You can look out of the window for 
+that.”
+
+
+Finally (almost) could this retro-looking notification centre challenge the 
+Amazon Echo?
+
+ <https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5017490> 
+The Raspberry Pi Zero Talking Radio 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5017490>
+
+This is a 1940s DeWald table radio that I've given new life using a Raspberry 
+Pi Zero, a Blinkt! LED strip and a stripped-down set of PC Speakers, all tucked 
+inside the case. It reads out notifications, text messages, emails and tweets 
+using a Text-To-Speech engine, while the dial glows different colours depending 
+on the text, e.g if it reads the word "Sunny" in a weather report it glows 
+orange while speaking.
+
+Sent via Guardian Witness <https://witness.theguardian.com/>
+
+ By Martin Mander <https://witness.theguardian.com/user/Martin Mander> 
+
+13 December 2016, 11:30 
+
+You can read more about Martin’s project and see a video at his instructables 
+page, here <http://www.instructables.com/id/Pi-Zero-Talking-Radio/>. Another 
+notification system we liked was from James Dawson, who told us how he’susing 
+Raspberry Pi to modify an Amazon Dash button to text him when someone’s at the 
+door 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5017518>.
+
+
+As ever, thank you for your contributions. Other highlights include an “
+off-grid eco campsite control system 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5017399>”, 
+arobot that helps teach robotics to those on a tight budget 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5017542> 
+and acolour-tracking model owl 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad/5017709>. 
+You can read about these and more at the dedicatedGuardianWitness page 
+<https://witness.theguardian.com/assignment/584e7c8ae4b08659393bb7ad?page=4>.
+
+ 

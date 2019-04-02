@@ -1,0 +1,213 @@
+
+Google’s latest version of Android is already rolling out to the company’s 
+Nexus and Pixel devices 
+<https://www.theguardian.com/technology/2016/aug/22/android-7-nougat-review-battery-life-multitasking-operation-notifications-facial-recognition-android>
+ and will begin launching on new smartphones starting with the new LG V20.
+
+
+If you’re still waiting, Google is pushing Nougat to those on the Android beta 
+programme first, so if you must have it right now, join the beta quickly to get 
+it updated to the final version ofAndroid 
+<https://www.theguardian.com/technology/android> 7.0.
+
+Here are all the features to look forward to and things to tweak.
+
+1. Quick reply
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F1fa704ed8ac6a13d66ecbdc0dc9bc8cb1438936d%2F0_0_1440_1440%2F1440.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F1fa704ed8ac6a13d66ecbdc0dc9bc8cb1438936d%2F0_0_1440_1440%2F1440.jpg>
+ Quick replies are now available for almost any messaging app on Android. 
+Photograph: Samuel Gibbs for the Guardian 
+There’s no need to actually go to into a messaging app anymore, as basically 
+everything gets quick reply through the new modifications made to Android’s 
+notifications.
+
+You can reply to messages, see other replies and conduct your business without 
+ever leaving the app you were already in. It’s great.
+
+2. Longer battery life
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fbc331cb8301efdf099621f0fcd1adb174c4e6212%2F0_0_1440_1439%2F1440.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fbc331cb8301efdf099621f0fcd1adb174c4e6212%2F0_0_1440_1439%2F1440.jpg>
+ Doze helps prolong battery life whenever the phone is locked. Photograph: 
+Samuel Gibbs for the Guardian 
+You don’t have to do anything for the new version of Doze to give you better 
+battery life apart from update your phone. Doze reduces the impact that apps 
+not actively running in the foreground have on battery life by working out 
+which ones need to receive updates and use the processor, and which don’t.
+
+Using Marshmallow, that only happened when the phone was not moving around, 
+but now it works even if the phone is in your pocket. It should give you 
+anywhere between 10% and 25% longer battery life, depending on how long you 
+leave the phone in standby.
+
+3. Multitasking without having to hack around
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F720651f0ff311c83eb0e3475b488d1ba1d58088b%2F0_0_2560_1440%2F2560.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F720651f0ff311c83eb0e3475b488d1ba1d58088b%2F0_0_2560_1440%2F2560.jpg>
+ If you really must continue watching that video while checking Twitter, now 
+you can, using Google’s native multitasking support. Photograph: Samuel Gibbs 
+for the Guardian 
+A few Android phones, such as Samsung’s Galaxy Note series, have had 
+side-by-side app multitasking before, but now it’s baked into Android and works 
+with almost every app out of the box.
+
+Simply hold the overview button on the right side of the navigation bar when 
+in an app to choose another to place beside it or above it.
+
+4. Quick app switch
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2F8bd2b2aef90eae327e89fc37b18ebc05d87cbda8%2F0_0_1440_864%2F1440.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2F8bd2b2aef90eae327e89fc37b18ebc05d87cbda8%2F0_0_1440_864%2F1440.jpg>
+ The square button in the bottom right is your app-switching friend. 
+Photograph: Samuel Gibbs for the Guardian 
+Almost better than multitasking – double tap the overview button to jump to 
+the last used app. Switching from one app to the other has never been faster.
+
+5. More emoji
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-6%23img-6&picture=https%3A%2F%2Fmedia.guim.co.uk%2F1641980e87741f12fb828fa427c9b49506b2125c%2F0_1109_1440_1439%2F1440.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-6%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3Fpage%3Dwith%3Aimg-6%23img-6&media=https%3A%2F%2Fmedia.guim.co.uk%2F1641980e87741f12fb828fa427c9b49506b2125c%2F0_1109_1440_1439%2F1440.jpg>
+ More emoji, because there never can be enough emoji, apparently. Photograph: 
+Samuel Gibbs for the Guardian 
+Thanks to an update to Unicode 9, 72 new emoji have joined the party 
+<http://blog.emojipedia.org/android-7-0-emoji-changelog/>, bringing the total 
+to over 1,500. You’ll never be without the appropriate pictogram to get your 
+point across, if you can find it in the massive list, that is.
+
+Now you can:
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-7%23img-7&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fda86a72fa6034555e7a3a55ce45029c5f07558de%2F0_345_1450_184%2F1450.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-7%23img-7>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3Fpage%3Dwith%3Aimg-7%23img-7&media=https%3A%2F%2Fmedia.guim.co.uk%2Fda86a72fa6034555e7a3a55ce45029c5f07558de%2F0_345_1450_184%2F1450.jpg>
+ Photograph: Samuel Gibbs for the Guardian 
+6. Edit Quick settings
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-8%23img-8&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe948d5542410cd8b06027862cc854505cd018614%2F0_0_2880_2560%2F2880.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-8%23img-8>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3Fpage%3Dwith%3Aimg-8%23img-8&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe948d5542410cd8b06027862cc854505cd018614%2F0_0_2880_2560%2F2880.jpg>
+ The top five quick settings panes can be changed to modify what’s always 
+displayed at the top of the notification shade. Photograph: Samuel Gibbs for 
+the Guardian 
+Quick settings are better than ever. Now you get a top line of settings 
+without opening the rest. That line contains the first five of the full quick 
+settings panel that can now be edited. Just tap the edit button on the bottom 
+right of the quick settings panel and move them around by holding and dragging.
+
+7. System UI tuner
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-9%23img-9&picture=https%3A%2F%2Fmedia.guim.co.uk%2F178767d208a2a5dcb235451009e296b237c6ff8c%2F0_966_1440_1440%2F1440.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-9%23img-9>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3Fpage%3Dwith%3Aimg-9%23img-9&media=https%3A%2F%2Fmedia.guim.co.uk%2F178767d208a2a5dcb235451009e296b237c6ff8c%2F0_966_1440_1440%2F1440.jpg>
+ Unlock the System UI tuner by holding down the cog at the top of the quick 
+setting panel. Photograph: Samuel Gibbs for the Guardian 
+If you want more customisations of the icons on the status bar, the do not 
+disturb settings or a swipe-up gesture for split-screen multitasking, the 
+hidden System UI tuner is your friend.
+
+To activate it, hold the cog at the top of the quick settings panel for around 
+3-5 seconds. A menu right at the bottom of the main settings list called 
+“System UI Tuner” will then appear for you to play around with.
+
+8. Power notification controls
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-10%23img-10&picture=https%3A%2F%2Fmedia.guim.co.uk%2F859300ef28d97a58f9f2444e41202617dcda3f93%2F0_0_2880_2560%2F2880.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-10%23img-10>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3Fpage%3Dwith%3Aimg-10%23img-10&media=https%3A%2F%2Fmedia.guim.co.uk%2F859300ef28d97a58f9f2444e41202617dcda3f93%2F0_0_2880_2560%2F2880.jpg>
+ Power notifications provides granular control over what apps can and can’t 
+notify about and when. Photograph: Samuel Gibbs for the Guardian 
+Inside the System UI tuner menu there’s a setting for even more granular 
+control over notifications called power notification controls.
+
+There are various levels of notification access, which can prevent 
+notifications from showing when an app is full screen but still make a sound or 
+vibrate, for instance, instead of outright blocking them. Activating power 
+notification settings in the System UI tuner adds a new slider to notification 
+settings that allows you to pick how important they are, instead of the app 
+automatically picking for you.
+
+9. Data saver
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-11%23img-11&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2de2a83f273a0b4a98b77d2da54b71d94b1fb398%2F0_0_1440_1440%2F1440.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-11%23img-11>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3Fpage%3Dwith%3Aimg-11%23img-11&media=https%3A%2F%2Fmedia.guim.co.uk%2F2de2a83f273a0b4a98b77d2da54b71d94b1fb398%2F0_0_1440_1440%2F1440.jpg>
+ Data saver helps stop unintentional data use, but may reduce or block 
+notifications in the background. Photograph: Samuel Gibbs for the Guardian 
+If you have a tight or no mobile data budget, the new built-in data saver 
+function can help. The setting hidden under Data usage stops apps from sending 
+or receiving data when in the background and limits an app’s data usage when 
+being actively used.
+
+You an set a whitelist to allow free data access for certain apps, and there’s 
+a quick toggle available too. The feature isn’t the same as the data saver 
+function of Chrome, which must be activated separately.
+
+10. Change the DPI and font size
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-12%23img-12&picture=https%3A%2F%2Fmedia.guim.co.uk%2F9a85a253d6e067f6165e84f27c0c30a61e62500c%2F0_0_2880_2560%2F2880.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-12%23img-12>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3Fpage%3Dwith%3Aimg-12%23img-12&media=https%3A%2F%2Fmedia.guim.co.uk%2F9a85a253d6e067f6165e84f27c0c30a61e62500c%2F0_0_2880_2560%2F2880.jpg>
+ If you want to display more on the screen or need things a little larger, the 
+display size and text size tools are your friend. Photograph: Samuel Gibbs for 
+the Guardian 
+If the text and icons on screen are just too big or too small, now you can 
+adjust how big everything is. The Display size setting allows you to magnify 
+everything, reformatting the screen, while the Font size setting just affects 
+the type face of text.
+
+11. Cat collecting
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-13%23img-13&picture=https%3A%2F%2Fmedia.guim.co.uk%2F855663b6d5983a08b029c8add5175a6d9511a3c2%2F0_0_4320_2560%2F4320.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-13%23img-13>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Android%207.0%20Nougat%3A%2011%20tips%20and%20tricks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F23%2Fandroid-7-nougat-tips-tricks-replies-settings-app-emoji%3Fpage%3Dwith%3Aimg-13%23img-13&media=https%3A%2F%2Fmedia.guim.co.uk%2F855663b6d5983a08b029c8add5175a6d9511a3c2%2F0_0_4320_2560%2F4320.jpg>
+ Cats. Because the internet loves them. Photograph: Samuel Gibbs for the 
+Guardian 
+Android 7.0 Nougat comes with a built-in cat collecting game. It’s an easter 
+egg mini-game similar to Neko Atsume.
+
+To activate it, scroll down the list of settings to About and tap on the 
+Android version number three times to bring up a big N logo. Tap the N logo a 
+couple of times before holding down on it until a cat emoji pops up at the 
+bottom of the screen.
+
+Then edit your quick settings panel and add the Android easter egg tile to 
+your collection. Then tap on the empty dish to put out bait and wait.
+
+ * Android 7.0 Nougat review: longer battery life and faster operation 
+<https://www.theguardian.com/technology/2016/aug/22/android-7-nougat-review-battery-life-multitasking-operation-notifications-facial-recognition-android>
+
+ * Google Nexus 6P review: the best phablet available 
+<https://www.theguardian.com/technology/2015/oct/29/google-nexus-6p-review-android-smartphone-best-phablet-fingerprint-huawei>
+ * Google Nexus 5X review: the people’s Android phone? 
+<https://www.theguardian.com/technology/2015/oct/23/google-nexus-5x-review-android-60-marshmallow-smartphone-battery>
+ * Google Pixel C review: the best Android tablet is a viable iPad competitor 
+<https://www.theguardian.com/technology/2016/jan/11/google-pixel-c-review-best-android-tablet-ipad-competitor> 

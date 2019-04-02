@@ -1,0 +1,98 @@
+
+Isaac Newton's laws of motion were first set down in his Principia Mathematica 
+Philosophiae Naturalis in 1687. The first law states that an object will stay 
+at rest or move with a constant velocity, unless it is acted upon by an 
+external force. The third is the well-known (if mildly misunderstood) idea that 
+every action (force) has an equal but opposite reaction – if you push on a 
+door, the door will push back against you.
+
+The second law is the one that tells you how to calculate the value of a 
+force. Force (measured in Newtons) is one of the fundamental physical 
+properties of a system and comes in many forms. You might feel it as a push or 
+pull (a mechanical force), while it is the value of your weight (the 
+gravitational force of the Earth pulling on you) and can be seen in the 
+repulsion or attraction of magnets or electric charges (electromagnetic force). 
+A force might be the result of any number of fundamental physical interactions 
+between bits of matter but Newton's second law allows you to work out how a 
+force, when it is present, will affect the motion of an object.
+
+In the form pictured, above, it says that force (F) is equal to the rate of 
+change of momentum (p) with respect to time (t). The small "d"s are 
+differential notation, another Newtonian invention that appears in countless 
+physical equations and that allows you to mathematically predict how something 
+will change as another related parameter is incrementally altered – in this 
+case, time.
+
+Momentum is the mass (kilograms) of an object multiplied by its velocity 
+(metres per second). In most situations, the mass of something does not change 
+as it moves so the equation can be simplified to mass (m) multiplied by the 
+rate of change of velocity, which we know as acceleration (a). That gives us 
+the more familiar school textbook version of the second law: F=ma.
+
+Like the rest of Newton's physics, the second law of motion holds up for a 
+staggering array of everyday situations and is a workhorse in modern science 
+and engineering. The way almost anything moves can be worked out using his laws 
+of motion – how much force it will take to accelerate a train, whether a cannon 
+ball will reach its target, how air and ocean currents move or whether a plane 
+will fly are all applications of Newton's second law. He even used the laws of 
+motion, combined with his universal law of gravitation, to explain why planets 
+move the way they do.
+
+Weight is a force, equal to an object's mass multiplied by the gravitational 
+acceleration caused by the Earth (equal to 10 metres per second per second), in 
+the direction of the centre of the planet. The reason you don't fall through 
+the ground, of course, is explained by Newton's third law of motion, which says 
+that the surface of the Earth is pushing up against your feet at a force equal 
+but opposite to your weight.
+
+A modified version of the second law applies when the mass of an object is 
+changing, such as a rocket, which burns up fuel and becomes lighter as it 
+climbs through the atmosphere.
+
+We all know the second law in practice, if not in mathematics. You need to 
+exert more force (and therefore more energy) to move a heavy grand piano than 
+to slide a small stool across the floor. When you catch a fast-moving cricket 
+ball, you know it will hurt less if you move your arm back as you catch it – by 
+giving the moving ball more time to slow down your hand has to exert less 
+opposing force on the ball.
+
+The cricket ball example demonstrates that forces not only have a size but act 
+in a particular direction. Forces belong to a category of physical properties, 
+which includes momentum and velocity, known as vectors. These contrast with 
+scalars, which have a size but no direction, for example temperature or mass.
+
+The F in Newton's second law refers to the net force acting on an object. 
+Working out what happens to an object that has several forces acting on it, 
+therefore, requires you to take account of both the directions and sizes of 
+each force. Two forces might have the same sizes but, if they are pointed 
+directly opposite one another, they will cancel to zero.
+
+A game of tug-of-war is a good way to think about this. When two teams are 
+pulling in opposite directions, the movement of the rope (as calculated by 
+Newton's second law) will be determined by the net force on the rope. The size 
+of that net force is the difference in the sizes of the forces being exerted by 
+the two teams. The direction of the net force will be in the direction of 
+whichever team is pulling harder.
+
+To describe atoms, and even smaller things, physicists use versions of force 
+and momentum in the equations that include quantum-mechanical descriptions of 
+time as well as space. At this scale, forces are the mathematical by-products 
+arising when fundamental particles of matter, such as electrons and quarks, 
+exchange particles such as photons, gluons or W or Z particles, that "carry" 
+forces and are collectively known as gauge bosons.
+
+Newton's second law works as a way to describe the motion of everything in a 
+quantum mechanical system as long as the particles are not moving near the 
+speed of light.
+
+When an object is moving close to the speed of light, we get into the realm of 
+special relativity, which tells us that the mass of an object will increase as 
+it moves faster. You need to take this into account when calculating forces at 
+these speeds.
+
+Indeed, most of Newton's classical physics needs to be modified in extreme 
+situations – the second law is not accurate when immense gravitational forces 
+are present, around a black hole or in the context of the huge masses of entire 
+galaxies for example, where general relativity takes over as the best way to 
+describe the movement within a system.
+ 

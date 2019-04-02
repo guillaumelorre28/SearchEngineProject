@@ -1,0 +1,202 @@
+
+The very first thing I saw in virtual reality was Wevr’s theBlu demo, back in 
+the early days of the HTC Vive headset. It’s the thing a lot of people mention 
+when they’re asked about the most compelling VR experiences, and with good 
+reason: the demo transports you to the helm of a sunken ship, the whole ocean 
+above your head; it allows you to take in the beauty of the scene for a few 
+minutes before, out of the depths, a vast blue whale slowly emerges, dwarfing 
+you.
+
+I took the headset off and walked away across the busy floor of the game 
+conference, but I could still feel the water around me. I told my friends. They 
+joined the long queues. They told their friends. And that was the entire story 
+that was told: there is a whale and it is beautiful. Since then, I’ve flown 
+spaceships and climbed buildings and repaired robots in VR. I’ve shot a variety 
+of floating objects. I’ve sat cross-legged in the middle of Venice’s Piazza San 
+Marco and looked down on the people in the flooded square.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMFKbL-GU-_U&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMFKbL-GU-_U>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMFKbL-GU-_U&media=>
+But here’s what I haven’t done. I have never met a single original, memorable 
+character in virtual space. I have never interacted in a conversation. I cannot 
+recall a single line of dialogue. When I bring this up with Jason Rubin, head 
+of content atOculus <https://www.theguardian.com/technology/oculus>, the 
+company behind the Rift headset that kickstarted the modern VR revolution, the 
+reason becomes clear: storytelling – actual storytelling – is very, very 
+difficult with this technology.
+
+Rubin is no newcomer to narrative games. The co-founder of Naughty Dog 
+(Uncharted, The Last of Us) and former president of THQ, he has a history of 
+design, production and storytelling across a vast swath of best-selling titles. 
+Originally joining Oculus in 2014 as their head of worldwide studios, Rubin was 
+promoted to head of content this year, where he essentially acts as a high 
+level producer for all of Oculus’s VR development. If there are to be stories 
+on this platform, it’s his job to facilitate them.
+
+Rubin closes his eyes and tips his head back. “The first story that I saw in 
+VR would have probably beenLost 
+<https://www.oculus.com/experiences/rift/1016967501697367/>, from Oculus Story 
+Studios, and I was sitting on the ground,” he says. “I laid down on my back, 
+because most stories I’d seen up until that time gave you a fixed camera – they 
+told you where to look. But Lost has a 360 camera, the world is all around, so 
+the first thing you want to do is look behind you. What you see is forest, and 
+more forest. And so … I started standing up.”
+
+When Jason Rubin talks about VR, he can’t sit still. During our conversation 
+he scrutinises a soda can held an inch from his face, he spins in slow circles 
+in his chair, he moves his hands in front of him exaggeratedly to demonstrate 
+ways to use Oculus’s new Touch controllers. Partly this is the result of his 
+animated personality, but it’s also an illustration of the importance Rubin 
+places on physicality in his medium.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F20%2Fcan-virtual-reality-move-beyond-immersive-experiences-to-tell-stories%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F41b3e760de9e01d2c438d7207c7b6c73e3dd8f61%2F25_0_900_540%2F900.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Can%20virtual%20reality%20move%20beyond%20immersive%20experiences%20to%20tell%20stories%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F20%2Fcan-virtual-reality-move-beyond-immersive-experiences-to-tell-stories%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Can%20virtual%20reality%20move%20beyond%20immersive%20experiences%20to%20tell%20stories%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F20%2Fcan-virtual-reality-move-beyond-immersive-experiences-to-tell-stories%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F41b3e760de9e01d2c438d7207c7b6c73e3dd8f61%2F25_0_900_540%2F900.jpg>
+ The Lost demo is a short cinematic experience which puts the player in a 
+forest with a giant robot. Photograph: Oculus 
+Later, I play Lost on a demo station in the middle of Facebook’s London 
+office. It certainly doesn’t feel appropriate to lie down. The first thing I 
+do, after my eyes adjust, is look up at the sky and there is a bright moon up 
+and to my right, framed by tall pine trees. There are ferns. A firefly lazily 
+bobs in front of me. “It’s alive,” says Rubin. “It reacts to you being there.” 
+The thought is so enticing that I instinctively move my hand towards the insect 
+– but there is no representation of my body in this world. Lost predates the 
+touch controllers and Oculus’s new focus on tactility, and so the firefly zips 
+away.
+
+It’s an interesting moment, but it’s not a story. It’s interesting that when 
+Rubin describes Lost, he talks about immersion, but never any sort of plot. He 
+doesn’t even mention the gigantic, lamp-eyed robot that, at one point in the 
+demo, leans down through the trees and rumbles “Hello” at you. He doesn’t 
+mention the disembodied hand of the robot, about the size of a horse, crashing 
+through the undergrowth. In a standard game that would be a major talking 
+point, a key encounter, but here, it cannot compete with the sensation of 
+existing in a place, under a wide sky. “Put me on the top of Everest,” Rubin 
+says later, “and I can sit there for 15, 20 minutes and just look around at the 
+beauty. But –” and there’s a note of frustration in his voice, “there’s no 
+story there.”
+
+He’s right. 
+
+This isn’t to say that Oculus hasn’t begun to dip its toe into VR 
+storytelling. Later, I’m shownHenry 
+<https://storystudio.oculus.com/en-us/henry/>, a 10-minute experience by Oculus 
+Story Studio that put me in the brightly coloured treehouse of a small hedgehog 
+who is having a bad birthday. While watching the hedgehog walk around me in 3D 
+was charming and the experience was polished, it felt like it was seriously 
+missing something. Just as I found with the firefly, I was unable to touch or 
+interact with anything. The story played independently of my intentions. It 
+existed around me but my hands were tied.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fvimeo.com%2F134754691&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fvimeo.com%2F134754691>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Fvimeo.com%2F134754691&media=>
+Earlier in the day, I had been shown First Contact 
+<https://www.oculus.com/experiences/rift/1217155751659625/>, an unbelievably 
+polished demonstration of Oculus’s new Touch controllers. Under the guidance of 
+a big-eyed, Pixar style robot, I feed floppy discs into a 3D printer that 
+creates increasingly outlandish tactile toys. I sweep colourful trails through 
+the air. At one point, I have to keep very still, and a purple butterfly drifts 
+down and perches on the tip of my index finger.
+
+When Rubin talks about the potential of Touch, he speaks more generally about 
+play rather than narrative. He brings up Toybox, a game where “There is no 
+game, there is no score, there’s no win or lose state … but there are blocks in 
+front of us.” His hands folding naturally into the shape of the controllers as 
+he demonstrates. “If I throw the block and you catch it … [get] your virtual 
+hand under it and grab … and then we say ‘how many times can we catch this 
+before we drop it’, you’ve just created a game.”
+
+I am reminded suddenly of the way Half Life 2 turned the act of throwing a can 
+into a tiny narrative punchline, way back in 2004. Valve realised that the 
+Gravity Gun could be just as useful for playing a quick game of basketball with 
+a robot dog as it was for hurling energy at soldiers, and I can’t help but 
+wonder if we’ll see similar moments appearing in VR. Will improvised games 
+bring us closer to fictional characters?
+
+First Contact’s 3D printer gave me a gun. “Shoot the robot!” said the 
+demonstrator. I did not want to shoot the robot, but he pressed me, so I did. A 
+harmless suction dart slapped on to its forehead.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F20%2Fcan-virtual-reality-move-beyond-immersive-experiences-to-tell-stories%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F18b277a7bbf8951bf87f7549eb892ec7d19cbab5%2F121_0_1220_732%2F1220.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Can%20virtual%20reality%20move%20beyond%20immersive%20experiences%20to%20tell%20stories%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F20%2Fcan-virtual-reality-move-beyond-immersive-experiences-to-tell-stories%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Can%20virtual%20reality%20move%20beyond%20immersive%20experiences%20to%20tell%20stories%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F20%2Fcan-virtual-reality-move-beyond-immersive-experiences-to-tell-stories%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F18b277a7bbf8951bf87f7549eb892ec7d19cbab5%2F121_0_1220_732%2F1220.png>
+ First Contact is a short demo designed to help Rift users learn how to use the 
+Touch controllers Photograph: Oculus 
+At one point, curious about what would happen, I tried to lean my head 
+forwards through a table. The problem, it turns out, with giving players 
+interactivity in VR stories, is that they take it as a golden opportunity to go 
+completely off piste.
+
+“How do you tell a story when the player’s got their head under the table?” I 
+ask Rubin. He pauses. “We are really early when it comes to VR storytelling,” 
+he says, “I don’t think we fundamentally understand the ruleset.
+
+“When the first video cameras came out, it took a long time to get a current 
+language that we use in films and we all take for granted,” he says. He talks 
+me through the invention of the “over the shoulder shot”, the standardised 
+method for shooting conversation. “We don’t even notice it’s happening in film 
+[anymore]. That took a while.”
+
+Rubin moves through a list of reasons why that simple shot doesn’t work in VR, 
+with the air of somebody who has clearly identified a problem but is unsure of 
+the solution. “If you put a camera over someone’s shoulder, you’re like: ‘It’s 
+discombobulating to be jumping back and forth between two people and reversing 
+my view’. Additionally I may be looking [in the over the shoulder position] and 
+I notice how huge someone’s ear is, which you never really notice in film.”
+
+The more I think about presentation of even the most basic conversation, more 
+difficulties emerge. How does the player enter or leave a conversation in VR 
+space?Games <https://www.theguardian.com/technology/games> like Mass Effect 
+employ a cut or a fade through black, both of which are fairly jarring in 
+virtual reality. Is the player a participant in the conversation? If so, how do 
+they interact with the dialogue systems in a way that doesn’t compromise 
+immersion? If not, do the participants acknowledge their presence?
+
+Do the participants make eye contact with the player? Do they know where 
+you’re looking? Do they care? The tactics that standard video games have 
+developed to simulate human interactions are useless here.
+
+“Right now,” says Rubin, “each one of these problems exists before you even 
+get to the question of what story should be told.”
+
+At no point, however, do I get the feeling that Rubin is simply throwing his 
+hands up in the air and admitting defeat. Each frank concern with the 
+practicality of VR storytelling is countered by some new description of an 
+issue Oculus has overcome: how 3D cursors need to be drawn in scenes to allow 
+players to accurately follow objects, how to track the player’s gaze to control 
+narrative timing.
+
+I ask him if there are developers who are getting close to cracking the other 
+problems we’ve discussed. The whole over-arching problem of creating something 
+that isn’t just an immersive environment, but also a world in which a cogent 
+story takes place. “There is a submission,” he says carefully, “which is 
+currently sitting in the office and has not yet been run, because we’re missing 
+a file.” I am caught by how unexpectedly evocative the situation seems. “This 
+is a first attempt at something that Oculus has funded as a storytelling 
+device.”
+
+He is deliberately cagey, and it’s clear this is partly because he hasn’t 
+played it. There is an air, though, of Rubin as a stage magician drawing the 
+audience’s attention towards a disk on a desk. I cannot help but wonder what 
+problems it could be trying to solve, and my mind goes back to our chat about 
+the complexities of depicting conversation, and the pioneers who first moved 
+the camera over somebody’s shoulder.
+
+“It has a plot,” says Rubin. “It has characters.” 
+
+It is fascinating to hear these basic building blocks of story being spoken of 
+with such trepidation. But if VR is to move beyond its “train approaching the 
+screen” stage, this is attitude that must be taken.
+
+
+ 

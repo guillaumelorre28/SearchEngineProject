@@ -1,0 +1,80 @@
+
+App: Premier Inns <http://www.premierinn.com/en/>
+
+Price: Free
+
+Available on: iPhone, Android <https://www.theguardian.com/technology/android>
+, Nokia and BlackBerry
+
+What is it?
+
+A simple app to find and book Premier Inn hotels.
+
+Who is it by?
+
+Premier Inns, Britain's biggest budget hotel chain, while the app was 
+developed byGrapple Mobile  <http://www.grapplemobile.com/>and business 
+solutions specialistFujitsu <http://www.fujitsu.com/global/>.
+
+What does it promise?
+
+"Real-time availability of all 590 Premier Inn hotels. Customers can manage 
+their booking from start to finish, while on the move."
+
+How does it work?
+
+It allows you to immediately search for hotels near you (always handy) or by 
+location, then add your details (dates and number of people etc), and look at 
+the results. Results are displayed well enough, with a photo and address of 
+each hotel plus buttons to book or call, an image gallery and an integrated 
+Google map to locate you hotel. There is also a description of the hotel and 
+local area. So there's pretty much everything you would want ahead of booking, 
+though one small fault is that the icons indicating specific amenities each 
+hotel has are difficult to distinguish and, without any kind of key to explain 
+their meaning, superfluous.
+
+When booking you are offered breakfast for £7.99 but no other annoying add-on 
+costs are bombarded at users, which is refreshing. You are given a booking 
+reference number and an email should also be dispatched to you. Bookings are 
+stored in the "My bookings" section, which allows for easy access when you 
+arrive at your destination (simply flash the booking reference on your phone at 
+the "concierge").
+
+Is it easy to use?
+
+Yes. I purposefully downloaded the Hilton Hotels 
+<https://www.theguardian.com/travel/hotels> app and the Premier Inn app at the 
+same time. One was user-friendly, functional and intuitive; the other was ... 
+the Hilton hotels app.
+
+A further word on the latter: the Hilton app home screen is clearly designed 
+for US users (with a 1-800 number on prominent display). The app does its best 
+to find a nearby destination automatically, but when you manually click to 
+search under city or address, the default options are all for the US. This is 
+incredibly annoying – so much so that I have binned the Hilton app completely. 
+It is a great lesson in how not to port an existing app across to new countries.
+
+Is it fun?
+
+Sometimes ease-of-use can be fun and, if you're like me and prefer to sort 
+domestic admin quickly and efficiently, you'll be over the moon with this.
+
+Is it pretty?
+
+There is one awfully strange design decision. Rather than display a snazzy 
+Premier Inns logo or specially created splash page, the home page merely has a 
+picture of a bed and a couple of tappable buttons. It may be functional, but 
+it's far from pretty – the app equivalent of a 1970s pub urinal. The rest of 
+the app includes more of the substance-over-style aesthetic.
+
+Should you download it?
+
+Let's be honest and think about who would want to use this app. Premier Hotels 
+is a budget chain and is therefore a favoured destination for quick stops, 
+cheap wedding accommodation and the like. If you do use budget hotels, this 
+will be a really useful app. But those who like to compare budget hotels 
+alongside more expensive accommodation (or even other budget accommodation) may 
+wish to use a broader hotel search engine app such asLate Rooms 
+<http://itunes.apple.com/gb/app/irooms-laterooms-com-hotel/id334701579?mt=8>, 
+Kayak <http://www.kayak.co.uk/iphone> or HotelsByMe (powered by Expedia).
+ 

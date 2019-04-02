@@ -1,0 +1,133 @@
+
+R Luke DuBois <http://lukedubois.com/> an artist who works with data, and a 
+professor at NYU. For his videoAcceptance <https://vimeo.com/51423044> (2016), 
+he wrote software to synchronize Hillary Clinton and Donald Trump’s convention 
+acceptance speeches, so they appear to be reading each other’s words in a 
+never-ending crossfire. In another one of his recent installations,Take a 
+Bullet for the City 
+<https://medium.com/intelligent-cities-technology-policy-and-planning/take-a-bullet-for-the-city-by-r-luke-dubois-4b7396b9d456#.v0p0bwpcj>
+(2014), a semiautomatic handgun connected to a police feed fires every time 
+someone is shot in New Orleans. ForA More Perfect Union 
+<https://vimeo.com/19662829> (2011), DuBois downloaded 19m online dating 
+profiles and ran word analyses across them, finding out how people in different 
+cities described themselves. His most recent fascination is the process of 
+voting – how we vote, and how we make choices.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fvimeo.com%2F179101658&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fvimeo.com%2F179101658>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Fvimeo.com%2F179101658&media=>
+For his latest show, The Choice is Yours, currently on view at Bitforms 
+<http://www.bitforms.com/> gallery in New York, he hacked an array of 
+old-school American voting machines – hulking machines made of steel, built in 
+the mid-20th century. They look like set pieces from a 1960s episode of Doctor 
+Who – sci-fi contraptions that resemble proto-synthesizers, or vintage 
+computers.
+
+“I was enamored by these machines,” says DuBois. “They’re mechanical. They’re 
+like analog computers. There’s no electricity … they’re these beautiful weird 
+steel boxes with opaque mechanisms hidden under the faceplate. They’re the 
+classic example of a ‘black box’. You put the inputs in and you pull a lever 
+and you’re not sure what happens, but then you have to trust that your vote is 
+counted.”
+
+DuBois started collecting the voting machines earlier this year, and 
+originally thought he would make them into music boxes. Then he decided to hack 
+them in other ways, to create a larger commentary about voting. DuBois calls 
+the hacked voting machines “learning machines”, inspired by classic concepts in 
+artificial intelligence and machine learning. Visitors to the exhibition can 
+actually “vote” on the machines, on an array of offbeat words drawn from 
+various databases.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Fnov%2F08%2Fr-luke-dubois-exhibition-voting-machines-us-election%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ff9f4cf742778d2ceff9386bed959d8a293326417%2F0_0_720_960%2F720.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20choice%20is%20yours%3A%20artist%20hacks%20voting%20machines%20for%20US%20election-themed%20show&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Fnov%2F08%2Fr-luke-dubois-exhibition-voting-machines-us-election%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20choice%20is%20yours%3A%20artist%20hacks%20voting%20machines%20for%20US%20election-themed%20show&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Fnov%2F08%2Fr-luke-dubois-exhibition-voting-machines-us-election%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Ff9f4cf742778d2ceff9386bed959d8a293326417%2F0_0_720_960%2F720.jpg>
+ Voting Machine, 2000. Photograph: John Berens 
+“A lot of the art I do is about language and politics, and language and 
+society,” DuBois says. “We don’t pay attention as much as we should to to the 
+words we use or the words we’re given … we choose our words. We choose to 
+listen or not listen. Voting is the ultimate choosing thing we do in our 
+society as a big group. Election day is ‘choice day’, but we make choices all 
+the time, day to day.”
+
+One of the voting machines takes its choices from Hillary Clinton and Donald 
+Trump television commercials, with Clinton and Trump edited out of them.
+
+“I got a list of characteristics of campaign B-roll from Hillary Clinton and 
+Donald Trump commercials,” DuBois says. “If you take the campaign ads and 
+remove footage from the candidates, and you look at the other footage they use 
+– it’s pretty specific. Hillary has tons of ads where she starts with a shot of 
+blue sky. Donald Trump has lots of ads where he shows the American flag.
+
+“When Hillary shows cities she shows people,” he continues. “When Trump shows 
+cities he tends to show empty playgrounds, or bombed-out public housing. It’s 
+pretty different. What I did was extract 12 sets of words. Do you want blue or 
+red? Sky or ground? Do you want a building or people? Based on how you choose 
+you get an image montage – you get your own personal one-minute video.”
+
+Another voting machine makes odd text mashups based on how you vote, using 
+classic book titles like Pride and Prejudice and Tropic of Capricorn, drawn 
+from theProject Gutenberg database 
+<https://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs>. A voting machine 
+next to it creates sound. It draws its categories from Luigi Russolo’s classic 
+1913 Futurist manifestoThe Art of Noises 
+<http://www.unknown.nu/futurism/noises.html>; you can vote on categories like 
+roar, whistle, bang, hiss and mumble. When you’re done voting, the machine 
+makes you a custom piece of music collaged from theBBC sound effects library. 
+<http://shop.prosoundeffects.com/products/bbc-complete-sound-effects-library> 
+Another machine makes drawings for you on a small screen, inspired by Logo, the 
+brainchild of the late MIT professor Seymour Papert <http://www.papert.org/>.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Fnov%2F08%2Fr-luke-dubois-exhibition-voting-machines-us-election%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F1e1b308e46690178d5a24b081cf524cc1b527d72%2F0_0_720_540%2Fmaster%2F720.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20choice%20is%20yours%3A%20artist%20hacks%20voting%20machines%20for%20US%20election-themed%20show&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Fnov%2F08%2Fr-luke-dubois-exhibition-voting-machines-us-election%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20choice%20is%20yours%3A%20artist%20hacks%20voting%20machines%20for%20US%20election-themed%20show&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Fnov%2F08%2Fr-luke-dubois-exhibition-voting-machines-us-election%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F1e1b308e46690178d5a24b081cf524cc1b527d72%2F0_0_720_540%2Fmaster%2F720.jpg>
+ Learning Machine #4: Language, using a machine from 1960. Photograph: John 
+Berens 
+A red velvet curtain in a corner of the gallery encircles a giant voting 
+machine from the 1950s – a behemoth weighing over 600 pounds. This machine 
+draws its values from theMyers-Briggs personality test 
+<https://www.theguardian.com/careers/careers-blog/myers-briggs-employee-personality-test-accurate>
+. An overwhelming sea of choices faces you, in alphabetical order – 
+compassionate, dutiful, ecstatic, fashionable – on a massive steel panel. The 
+choices feel like they were part of the original machine; DuBois had a 
+collaborator, the designerKsenya Samarskaya <http://www.samarskaya.com/>, 
+design a special vintage typeface for the choices that recalls the 1950s.
+
+A computer connected to the machine then looks up your choices on Instagram 
+and the New York Times. A screen next to the machine shows the results in real 
+time, in a disorienting, endless scrolling collage. Looking up the choices on 
+Instagram brings up lots of strange selfies. The New York Times database brings 
+up lots of obituaries. “We tend to only use these values when people are dead,” 
+DuBois says. “We don’t tend to use these values to describe living people.”
+
+In another corner of the gallery lurks the infamous voting device that 
+produced the “hanging chads 
+<https://www.theguardian.com/us-news/2015/sep/15/2016-election-old-voting-machines-hanging-chad>
+” seen in Florida in the 2000 presidential election, complete with plenty of 
+punched card ballots so you can try your hand at producing a hanging chad 
+yourself. A glass vitrine nearby houses pieces of the old voting machines, so 
+you can see the intriguing backs of them – along with gears, keys and other 
+ephemera.
+
+“By drilling it down to playing with these machines, and doing these seemingly 
+low-stakes actions with media, I wanted people to just meditate on what it 
+means to have options, and to not understand what these options mean,” DuBois 
+says. “I don’t think that we think as much as we should about it. This show is 
+more lyrical; I’m not trying to hit you over the head with a specific point of 
+view.
+
+“It’s an admittedly modest contribution to the discourse, but rather than 
+making a show that’s just bashing Donald Trump, I wanted to get people to focus 
+more on what Tuesday is all about, which is choosing. We have to decide. There 
+are 300-something million people in this country and they have to decide what 
+country they want.”
+
+ * The Choice is Yours is on view at Bitforms in New York City until 23 
+December 2016. Acceptance (2016) is currently on view in San Francisco, at the 
+Bitforms 15th anniversary show at Minnesota Street Project
+ 

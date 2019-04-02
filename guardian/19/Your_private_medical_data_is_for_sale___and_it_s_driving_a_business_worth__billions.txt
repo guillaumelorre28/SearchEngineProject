@@ -1,0 +1,82 @@
+
+Your medical data is for sale – all of it. Adam Tanner, a fellow at Harvard’s 
+institute for quantitative social science and author of a new book on the topic,
+Our Bodies, Our Data 
+<http://www.penguinrandomhouse.com/books/539847/our-bodies-our-data-by-adam-tanner/9780807033340/>
+, said that patients generally don’t know that their most personal information 
+– what diseases they test positive for, what surgeries they have had – is the 
+stuff of multibillion-dollar business.
+
+But although the data is nominally stripped of personally identifying 
+information, data miners and brokers are working tirelessly to aggregate 
+detailed dossiers on individual patients; the patients are merely called 
+“24601” instead of “Jean Valjean”.
+
+At the doctor’s office, Tanner told the Guardian, “you close the door and you 
+think, I’m telling my doctor my most intimate medical secrets, and only my 
+doctor knows about it. But it’s sold commercially.” Patients are reduced to 
+gender, age, particular ailments and neighborhood. Then, Tanner said, data 
+miners cross-reference that information with data from pharmacies about who 
+they sell prescriptions to, culled by big drugstore chains like Rite Aid and 
+CVS.
+
+How much medical information would you share in the name of big data?
+ Read more  
+<https://www.theguardian.com/sustainable-business/2015/oct/23/healthcare-big-data-how-much-medical-information-would-you-share>
+In a new report 
+<https://tcf.org/content/report/strengthening-protection-patient-medical-data/> 
+from the Century Foundation released on Tuesday, Tanner quotes Per Lofberg of 
+CVS: “The patient is not really a component of this because their name and 
+connection to the prescription have been stripped off.”
+
+But other forms of data, such as information from fitness devices and search 
+engines, are completely unregulated and have identities and addresses attached. 
+A third kind of data called “predictive analytics” cross-references the other 
+two and makes predictions about behavior with what Tanner calls “a surprising 
+degree of accuracy”.
+
+None of this technically violates the health insurance portability and 
+accountability act, or Hipaa, Tanner writes. But the techniques do render the 
+protections of Hipaa largely toothless. “Data scientists can now circumvent 
+Hipaa’s privacy protections by making very sophisticated guesses, marrying 
+anonymized patient dossiers with named consumer profiles available elsewhere – 
+with a surprising degree of accuracy,” says the study.
+
+“The problem over time is that as you have more and more information, there’s 
+more and more about people who might be,” Tanner said. He has lived in two 
+different cities recently, he said; now he will teach for a year in the small 
+city of Fairbanks, Alaska – population roughly 32,000. On an index that 
+cross-references people who have lived at addresses in all three cities over a 
+five-year period – an easy-to-find set of data – the researcher said he could 
+easily be the only entry.
+
+Tanner said that non-medical data, which people might consider less private, 
+is in fact easier for the owner to control. “You could try to choose your 
+doctor based on what systems they use and whether [those systems] sell your 
+data commercially, but often you have insurance through your employer and you 
+don’t have a choice.”
+
+Many companies trade in medical data – IMS Health is the one Tanner names most 
+prominently in the Century Foundation report, but IBM Watson and General 
+Electric also have businesses in patient info.
+
+The legal right of businesses to harvest and sell the information of 
+individual patients without their permissionhas been upheld by the US supreme 
+court <https://www.law.cornell.edu/supct/pdf/10-779P.ZO>, thanks to a case in 
+which conservative justices ruled in favor of IMS Health and against the 
+attorney general of Vermont. In 2011, the high court struck down a Vermont law 
+restricting the sale, disclosure, and use of records that revealed the 
+prescribing practices of individual doctors, ruling that corporations’ right to 
+free speech trumped individuals’ right to privacy.
+
+“We need to discuss this,” Tanner said. “[Data miners and brokers] often don’t 
+want to talk about it because it’s a multibillion-dollar trade and they say 
+there’s a great chance to advance medical science. They don’t talk about the 
+real reason, which is marketing and sales.”
+
+The question of whether or not to use individual medical data in the interest 
+of private corporations should be up to those individuals, Tanner concluded. 
+“If there’s a chance to advance medical science, let them make the case to we 
+the patients. If you want to donate your data to science, that’s great, but you 
+should have the choice. Right now, we don’t have the choice.”
+ 

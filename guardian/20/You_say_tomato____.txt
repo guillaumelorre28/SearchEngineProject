@@ -1,0 +1,73 @@
+
+A point of spelling was raised by a clue in the Quick crossword for March 24 
+(No 11,508). It was "Tart - US bride's attendant (4,2,6)", with MAID OF HONOUR 
+as the answer. A Manchester solver objected that this was an obvious error 
+since, as the person in question was an American, she had to be a MAID OF 
+HONOR. I don't know whether Americans eat the little round tarts with 
+almond-flavoured fillings; nor whether, if they do, they call them "maids of 
+honor". But I observe with relief that Collins has: "US and Canadian - the 
+principal unmarried attendant of a bride". Chambers and the Oxford Dictionary 
+of English, my other stalwarts, follow suit. I have also checked that the 
+Guardian's house style is to use the English spellings of words, even when 
+their context is clearly transatlantic, except where proper nouns are involved. 
+Thus the seaboard of the United States boasts many fine harbours, but the naval 
+base in Hawaii is Pearl Harbor. Similarly, President Bush has a defence policy, 
+but the Pentagon at Arlington, Va houses the headquarters of the US Department 
+of Defense.
+
+_____
+
+From time to time people complain that the type size of the clues when puzzles 
+are printed off is too small for comfort. In response, my practical suggestion 
+has been that, if you copy and then paste just the clues themselves to a new 
+document in the normal way, you can print out the result in any size and font 
+that takes your fancy. But this is clearly not enough for crossword addicts 
+with serious macular degeneration, where the sufferer's very limited and often 
+oblique field of vision calls not just for magnification but also for clarity, 
+contrast and sharpness of line in both the grid and the type for the clues. If 
+this is a problem for you, or someone you know, then the following notes kindly 
+provided by a subscriber, Ian Hughes, may be of help.
+
+For his wife, who is registered blind, he used to scan each day's puzzle 
+directly from the paper into Photoshop, then enlarge the grid to A4 and 
+"enhance" it, making the numbers and lines black but the black squares grey or 
+hatched. The clues were printed out in 20 point on yellow paper. But the 
+enlarged print from the paper still had rough edges and serifs. Taking out an 
+on-line subscription seemed to be the answer, as the on-screen grid is sharp 
+and the font is sanserif. But the problem is that you cannot copy and paste 
+directly from a web page into Photoshop.
+
+Ian's solution is to use the "print screen" facility, zoom to 180%, press F11 
+to achieve full screen, work the slider to centre the grid and then press 
+"Ctrl+print" screen or "Alt+print" screen. The resulting image is copied and 
+pasted into a 25cm x 25cm Photoshop blank page using 72dpi resolution (which is 
+the same as the web original) and cropped and sized to 20mm wide. His 
+"enhancement" involves, first, selecting all the black portions of the grid 
+with the magic wand tool and replacing the black with a pale grey, using the 
+"fill" tool. Next, he blackens all the edges and the numbers using the stroke 
+facility, adding a 1 pixel inside stroke. Finally, he selects all the remaining 
+grey areas and replaces them with a grid pattern using the "pattern fill" 
+utility. This gives good contrast and also saves ink by not having to print 
+black squares. Making a small increase in contrast improves the final result. 
+Dealing with the clues is easier. He just copies and pastes them from the 
+printable page to Wordpad and thence transfers into Word to change the font to 
+20 point Arial before printing out.
+
+_____
+
+Don't get me wrong and I'm not complaining. But, pace Abe Lincoln, at least so 
+far as crosswords are concerned, you can't please all of the people some of the 
+time. Last year there were complaints that the Genius puzzles were getting far 
+too hard, demanding more perspiration than inspiration. April saw a swing the 
+other way. We want more of a challenge, has been the cry. The Genius is not 
+supposed to be something that can be finished in one sitting, was the 
+complaint. The statistics certainly seem to indicate that people found the 
+April puzzle less taxing than some recent offerings. There were 320 correct 
+entries, with the first coming from Aberystwyth at 0719 GMT (0819 BST) on the 
+Monday and another 26 arriving by the end of the first day. My guess is that 
+Pasquale's offering for May will test you more and, no doubt, produce a crop of 
+complaints from the other camp! My conclusion is that the only sensible thing 
+is to have some easier ones, some stinkers and some in the middle.
+
+* Hugh Stephenson is the Guardian crossword editor.
+ 

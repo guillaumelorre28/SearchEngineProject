@@ -1,0 +1,65 @@
+
+Microsoft is right to warn about the danger of a serious monopoly in search 
+because of Google's dominance. Its own revamped search engine, Bing, is a 
+welcome addition and has some interesting features that should earn it more 
+followers. Maybe it is time to apply Microsoft's enlightened approach to 
+monopolies to what is happening in its own backyard where, amazingly, it still 
+has almost 95% of the global market for PC operating systems (Windows), word 
+processing (Word) and spreadsheets (Excel). Last year, a new generation of 
+"netbooks" running the open-source Linux operating system seemed set to capture 
+the bottom end of the market. I boughta $199 Asus 
+<https://www.theguardian.com/technology/2008/may/15/computing.linux>, which I 
+thought would be my dream machine as it weighed barely 1kg and came with the 
+freeOpenOffice.org <http://www.openoffice.org> word-processor, Linux operating 
+system, Skype, educational and arts programs and Google documents. It didn't 
+turn out so well: the screen was too small, wireless links flaky and battery 
+life poor. But hell, the potential was there, so when Asus recently released 
+its beautiful Eee Seashell with a bigger screen and six hours of battery life, 
+I bought one on impulse.
+
+The problem was that Asus had not only adopted Windows and jettisoned Linux 
+(which I knew), but the computer didn't even come with the free services that 
+came with the $199 model. I know there are millions who love Windows. That is 
+their human right. But it fails completely - for me - on usability. So, the 
+Seashell ends up not as a next-generation netbook, but as a Microsoft-occupied 
+computer and all the simplicity of the earlier Asus machines has gone out of 
+the Windows. Every time I open it, I am assailed with stuff I don't want - 
+Windows Live this, Norton that, Phishing this, Works that - with no obvious way 
+of switching some of them off. When I simply wanted to write a note there was 
+no Open Office and when I tried Word inMicrosoft 
+<https://www.theguardian.com/technology/microsoft> Works it kept asking me to 
+sign up for another 45 days (or whatever) after inputting a key number I was 
+supposed to have but didn't.
+
+How did this happen? There are various versions. One is that Microsoft 
+suddenly woke up to a serious threat to its market share and became Microhard. 
+It gave Asus a package it couldn't refuse - a cheap version of Windows as long 
+as it tossed the upstart Linux overboard. True or not, Asus has changed from 
+being a successful proponent of Linux to an evangelist forWindows 
+<https://www.theguardian.com/technology/windows>. The second version is that 
+Asus, seeking a cheap web book to sell globally, used free Linux as a lever to 
+force Microsoft to give it a cheap deal it wouldn't otherwise have got. A third 
+version is that Linux wasn't yet up to the job as there were so many different 
+versions and users had difficulty linking with devices such as printers. This 
+theory was given support when Wal-Mart dropped the Taiwanese $199 Green gPC 
+because of poor sales. But it doesn't explain why the Linux Asus Eee PC was 
+such a roaring success.
+
+What cannot be denied is that there is a huge potential demand for cheap 
+devices of this kind - not just for those wanting to simplify their lives but 
+for the billions who don't have a computer at all. Fortunately, help may be at 
+hand, as there are numerous affordable models in the pipeline. Whether the 
+successful ones will beLinux <https://www.theguardian.com/technology/linux>, 
+Windows, Google's Android, Symbian or even ARM remains to be seen. I am told 
+there is an impressive web book running the Linux-based Ubuntu in the pipeline. 
+Microsoft has already disproved the axiom of the great management guru Peter 
+Drucker, who claimed that no non-governmental monopoly had ever lasted more 
+than 15 years. The prospect of serious competition in operating systems can 
+only be good not just for consumers all over the world but for Microsoft as 
+well. But whether it can be dislodged from its entrenched position remains an 
+open question.
+
+• victorkeegan.com <http://www.victorkeegan.com>
+
+* This article was amended on 8 July 2009. The headline was changed.
+ 

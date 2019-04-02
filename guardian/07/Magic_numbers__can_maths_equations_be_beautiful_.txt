@@ -1,0 +1,182 @@
+ Supported by  
+<https://ad.doubleclick.net/ddm/trackclk/N1137.GuardianPHD/B9799567.132609157;dc_trk_aid=305251388;dc_trk_cid=71131957;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=>
+About this content <> 
+Paul Dirac had an eye for beauty. In one essay, from May 1963, the British 
+Nobel laureate referred to beauty nine times. It makes four appearances in four 
+consecutive sentences. In the article he painted a picture of how physicists 
+saw nature. But the word beauty never defined a sunset, nor a flower, or nature 
+in any traditional sense.Dirac 
+<https://www.theguardian.com/science/2009/apr/02/paul-dirac-strangest-man-farmelo-quantum>
+ was talking quantum theory and gravity. The beauty lay in the mathematics.
+
+
+What does it mean for maths to be beautiful? It is not about the appearance of 
+the symbols on the page. That, at best, is secondary. Maths becomes beautiful 
+through the power and elegance of its arguments and formulae; through the 
+bridges it builds between previously unconnected worlds. When it surprises. For 
+those who learn the language, maths has the same capacity for beauty as art, 
+music, a full blanket of stars on the darkest night.
+
+
+“The slow movement of the Mozart clarinet concerto is a really beautiful piece 
+of music, but I don’t print off a page of the score and put that on my wall. 
+It’s not about that. It’s about the music and the ideas and the emotional 
+response,” saysVicky Neale 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/nov/26/solving-for-xmas-how-to-make-mathematical-christmas-cards>
+, a mathematician at Oxford University. “It’s the same with a piece of 
+mathematics. It’s not how it looks, it‘s about the underlying thought 
+processes.”
+
+
+Brain scans of mathematicians show that gazing at formulae considered 
+beautiful by the beholder elicits activity in the same emotional region as 
+great art and music. The more beautiful the formula, the greater the activity 
+in the medial orbito-frontal cortex. “So far as the brain is concerned, maths 
+has beauty just like art. There is common neurophysiological ground,” saysSir 
+Michael Atiyah 
+<https://www.theguardian.com/education/2004/apr/21/highereducation.uk>, an 
+honorary professor of mathematics at Edinburgh University.
+
+
+Ask mathematicians about the most beautiful equation and one crops up time and 
+again. Written in the 18th century by the Swiss mathematician,Leonhard Euler 
+<https://www.theguardian.com/science/the-h-word/2013/apr/15/history-science>, 
+the relation is short and simple: eiπ+1 = 0. It is neat and compact even to the 
+naive eye. But the beauty comes from a deeper understanding: here the five most 
+important mathematical constants are brought together. Euler’s formula marries 
+the world of circles, imaginary numbers and exponentials.
+
+
+The beauty of other formulae may be more obvious. With E=mc2, Albert Einstein 
+built a bridge between energy and mass, two concepts that had previously seemed 
+worlds apart.Maggie Aderin-Pocock 
+<https://www.theguardian.com/science/2014/sep/21/maggie-aderin-pocock-interview-bbc-nasa-space>
+, the space scientist, declared it the most beautiful equation and she is in 
+good company. “Why is it so beautiful? Because it comes to life. Now energy 
+will have mass and mass can be put into energy. These four symbols capture a 
+complete world. It’s difficult to imagine a shorter formula with more power,” 
+saysRobbert Dijkgraaf 
+<https://www.theguardian.com/science/audio/2014/jul/07/science-weekly-podcast-robbert-dijkgraaf-where-great-minds-think>
+, director of the Institute for Advanced Study in Princeton, where Einstein was 
+one of the first faculty members.
+
+
+“One of the reasons there’s almost an objective beauty in mathematics is that 
+we use the word beautiful also to indicate the raw power in an idea. The 
+equations or results in mathematics that are seen to be beautiful are almost 
+like poems.The power per variable is something that is part of the experience. 
+Just seeing a huge part of mathematics or nature being described with just a 
+few symbols gives a great sense of elegance or beauty,” Dijkgraaf adds. “A 
+second element is you feel its beauty is reflecting reality. It’s reflecting a 
+sense of order that’s out there as part of the laws of nature.”
+
+
+The power of an equation to connect what seem like completely unrelated realms 
+of mathematics comes up often.Marcus du Sautoy 
+<https://www.theguardian.com/profile/marcus-du-sautoy>, a maths professor at 
+Oxford, has more than a soft spot forRiemann’s formula 
+<https://www.theguardian.com/science/blog/2010/nov/03/million-dollars-maths-riemann-hypothesis>
+. Published by Bernhard Riemann in 1859 (the same year Charles Darwin stunned 
+the world withOn the Origin of Species 
+<https://www.theguardian.com/books/2015/nov/10/on-the-origin-of-species-voted-most-influential-academic-book-charles-darwin>
+), the formula reveals how many primes exist below a given number, where primes 
+are whole numbers divisible only by themselves and one, such as 2, 3, 5, 7 and 
+11. While one side of the equation describes the primes, the other is 
+controlled by zeros.
+
+“This formula turns these these indivisible prime numbers, into something 
+completely different,” says du Sautoy. “On the one side, you’ve got these 
+indivisible prime numbers and then Riemann takes you on this journey to 
+somewhere completely unexpected, to these things which we now call the Riemann 
+zeros. Each of these zeros gives rise to a note – and it’s the combination of 
+these notes together which tell us how the primes on the other side are 
+distributed across all numbers.”
+
+More than 2,000 years ago, the ancient Greek mathematician, Euclid, solved a 
+numerical puzzle so beautifully that it still makes Neale smile every time it 
+comes to mind. “When I think about beauty in mathematics, my first thoughts are 
+not about equations. For me it’s much more about an argument, a line of 
+thinking, or a particular proof,” she says.
+
+
+Euclid proved there are infinitely many prime numbers. How did he do it? He 
+began by imagining a universe where the number of primes was not infinite. 
+Given a big enough blackboard, one could chalk them all up.
+
+
+He then asked what happened if all these primes were multiplied together: 2 x 
+3 x 5 and so on, all the way to the end of the list, and the result added to 
+the number 1. This huge new number provides the answer. Either it is a prime 
+number itself, and so the original list was incomplete, or it is divisible by a 
+smaller prime. But divide Euclid’s number by any prime on the list and always 
+there is a 1 left over. The number is not divisible by any prime on the list. 
+“It turns out you reach an absurdity, a contradiction,” says Neale. The 
+original assumption that the number of primes is finite must be wrong.
+
+
+“The proof for me is really beautiful. It takes some thinking to get your head 
+around it, but it doesn’t involve learning lots of difficult concepts. It’s 
+surprising that you can prove something so difficult in such an elegant way,” 
+Neale adds.
+
+
+Behind beautiful processes lie beautiful mathematics. Well, some of the time. 
+Hannah Fry 
+<https://www.theguardian.com/science/2016/jun/19/hannah-fry-interview-maths>, a 
+lecturer in the mathematics of cities at UCL spent years staring at the
+Navier-Stokes equations 
+<https://www.theguardian.com/science/blog/2010/dec/14/million-dollars-maths-navier-stokes>
+. “They’re a single mathematical sentence that is capable of describing the 
+miraculously beautiful and diverse behaviour of almost all of Earth’s fluids,” 
+she says. With a grasp of the formulae, we can understand blood flow in the 
+body, make boats glide through the water, and build awesome chocolate enrobers.
+
+
+In his 1963 essay, Dirac elevated beauty from an aesthetic response to 
+something far more profound: a route to the truth. “It is more important to 
+have beauty in one’s equations than to have them fit experiment,” he wrote, 
+continuing: “It seems that if one is working from the point of view of getting 
+beauty in one’s equations, and if one has really a sound insight, one is on a 
+sure line of progress.” Shocking at first pass, Dirac captured what is now a 
+common sentiment: when a beautiful equation seems at odds with nature, the 
+fault may lie not with the maths, but in applying it to the wrong aspect of 
+nature.
+
+
+“Truth and beauty are closely related but not the same,” says Atiyah. “You are 
+never sure that you have the truth. All you are doing is striving towards 
+better and better truths and the light that guides you is beauty. Beauty is the 
+torch you hold up and follow in the belief that it will lead you to truth in 
+the end.”
+
+Something approaching faith in mathematical beauty has led physicists to draw 
+up two of the most compelling descriptions of reality:supersymmetry 
+<https://www.theguardian.com/science/life-and-physics/2013/mar/14/supersymmetry-spell>
+ andstring theory 
+<https://www.theguardian.com/science/2013/jun/16/has-physics-gone-too-far>. In 
+a supersymmetric universe, every known type of particle has a heavier, 
+invisible twin. In string theory, reality has 10 dimensions, but six are curled 
+up so tight they are hidden from us. The mathematics behind both theories are 
+often described as beautiful, but it is not at all clear if either is true.
+
+
+There is a danger here for mathematicians. Beauty is a fallible guide. “You 
+can literally be seduced by something that is not correct. This is a risk,” 
+says Dijkgraaf, whose institute motto, “Truth and Beauty” features one naked 
+and one dressed woman. “Sometimes I feel that physicists, like Odysseus, must 
+tie themselves to the mast of the ship so they are not seduced by the sirens of 
+mathematics.”
+
+
+It may be that mathematicians and scientists are the only groups that still 
+use the word “beautiful” without hesitation. It is rarely employed by critics 
+of literature, art or music, who perhaps fear it sounds superficial or kitschy.
+
+
+“I’m very proud that in mathematics and science the concept of beauty is still 
+there. I think it’s an incredibly important concept in our lives,” says 
+Dijkgraaf. “The sense of beauty we experience in maths and science is a 
+multidimensional sense of beauty. We don’t feel it’s in any conflict with being 
+deep, or interesting, or powerful, or meaningful. For the mathematician it’s 
+all captured by that one word.”
+ 

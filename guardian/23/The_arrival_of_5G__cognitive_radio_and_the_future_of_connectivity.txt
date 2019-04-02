@@ -1,0 +1,151 @@
+
+From smart cities to the internet of things (IoT), virtually every aspect of 
+the modern world is becoming closely connected.
+
+The extent to which we rely on our devices and the exchange of information 
+means new systems are needed that not only handle far greater bandwidth, but 
+that are capable of being deployed to cover areas that were previously 
+unreachable.
+
+The potential benefits for business are huge, with faster and more reliable 
+connectivity not only enhancing how firms interact with customers and each 
+other, but also lending itself to greater flexible working among staff.
+
+The arrival of 5G
+
+One development that many industry observers believe could be revolutionary is 
+5G. Following on from 4G, the fifth-generation mobile network is in its early 
+stages of development and is expected to be rolled out between 2020–25.
+
+Any tech that contributes towards the next phase of mobile connectivity is 
+covered by the term 5G. And although there are still no set standards or 
+specifications, theGSMA <http://www.gsma.com/> – a trade body that represents 
+global mobile operators – has outlined eight key criteria, stipulating minimum 
+requirements for speed, capacity and energy in order for something to be 
+considered 5G.
+
+According to Ofcom 
+<https://www.ofcom.org.uk/about-ofcom/latest/media/media-releases/2015/6ghz>, 
+once operational 5G could provide between 10–50 Gbps (gigabit per seconds) in 
+download speeds (as compared to the 5–12 Gbps of 4G), and although most experts 
+expect it to be at the lower end of the range, that would still mean you could 
+download an HD movie in seconds.
+
+
+But rather than simply being faster than the current 4G, it will also allow 
+more devices to access the web – an essential requirement if the IoT is to take 
+off – meaning it could be transformative for business.
+
+Raj Sivalingam, executive director of telecoms for techUK 
+<http://www.techuk.org/>, the trade association for the tech sector, says: “The 
+potential of the IoT, particularly in the enterprise environment, has been 
+hugely debated but its impact is almost certainly still undervalued.
+
+“Mass deployment across sectors will boost efficiency and safety with 
+pre-emptive fault correction; enable automatic reporting of accidents and allow 
+real-time asset tracking, reducing crime and increasing productivity, to name 
+just a few benefits.”
+
+One potential bottleneck for 5G is spectrum availability – or lack of it. 
+Radio frequencies for both 3G and 4G are already overcrowded. The provision of 
+a new bandwidth will require widespread cooperation between operators, 
+manufacturers and governments.
+
+Infrastructure is also an issue, says Sivalingam. “Making the leap to 5G 
+mobile services and getting more fibre into the fixed telecommunications 
+networks will require substantial amounts of investment.
+
+“We need the government and industry stakeholders to work to shift the UK from 
+good levels of connectivity to great levels so that we continue to attract 
+investors and startups, and to foster innovation from within the UK.”
+
+Cognitive radio
+
+One possible solution is cognitive radio. An adaptive radio and network 
+technology, it can sense and respond to its operating environment and 
+automatically tune itself to the best available frequencies, this makes it more 
+reliable in extreme locations where signals are weak, potentially providing 
+dependable, robust connections that are not hampered by interference or 
+geography.
+
+Finland-based KNL Networks has developed a system using the technology that 
+uses short wave radio to transmit internet access to sites in remote locations 
+ranging from oil rigs to polar research stations. KNL Networks CEO Toni Linden 
+says: “We can provide similar connectivity to those from satellites but with a 
+terrestrial radio system. Our radios receive the whole spectrum all the time, 
+so rather than scanning, real-time broadband receiving is going on. Thus we can 
+see and measure everything that’s going on in the spectrum and we can maintain 
+the network connectivity that way.”
+
+The tech opens up the possibility of providing seamless connectivity anywhere, 
+giving business reliable online access to markets in parts of the world that 
+have otherwise been unreachable. It could also enable media and other companies 
+to broadcast without the need for expensive satellites.
+
+Quantum key distribution
+
+It’s not just data transmission, speeds and connectivity that pose challenges 
+in the future, but the safety of that data too. Cybercrime is ranked alongside 
+terrorism as among themost serious threats to the UK 
+<https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/62484/Factsheet2-National-Security-Risk-Assessment.pdf>
+ [pdf], and with data now the lifeblood of modern business, securing that data 
+is of paramount concern. One technology that could provide the answer is 
+quantum communications.
+
+Conventional encryption relies on sending a decryption key alongside your 
+secret data. The receiver then uses that key to decode your secret information. 
+But problems arise because hackers can also copy this key and steal your data.
+
+Quantum key distribution (QKD) is different because it encodes this key on 
+light particles called photons, and an underlying principle of quantum 
+mechanics means that a hacker trying to read or copy such a key would 
+automatically alter its state, effectively leaving a hacker fingerprint so the 
+sender and receiver know their information security had been breached.
+
+China recently launched a quantum satellite to further research into this 
+technology, with the hope of developing anuncrackable communications network 
+<https://www.theguardian.com/world/2016/aug/16/china-launches-quantum-satellite-for-hack-proof-communications>
+.
+
+In the UK, the Quantum Communications Hub is part of a national network of 
+four hubs led by the universities of Birmingham, Glasgow, Oxford and York. 
+Director Tim Spiller says: “We are developing quantum communications 
+technologies along a number of different directions, notably short-range free 
+space QKD, where the transmitter could be in future mobile phones, and 
+chip-to-chip QKD through optical fibre, where the chips could be in future 
+computers and other devices.”
+
+
+With two thirds of British business falling victim to cybercrime 
+<https://www.gov.uk/government/news/two-thirds-of-large-uk-businesses-hit-by-cyber-breach-or-attack-in-past-year>
+ in the past year the need for better encryption is clear.
+
+Several companies currently offer commercial quantum key distribution systems 
+include ID Quantique, MagiQ Technologies, QuintessenceLabs, SeQureNet and 
+Toshiba, although its high cost and limited range means mainly banks and 
+governments are its main users, with mainstream adoption still some way off.
+
+Spiller added: “Certainly it would be desirable to improve the size, weight, 
+power and cost points of current technologies and our work in the hub and 
+elsewhere is addressing all these factors.”
+
+Paul Lee, head of technology, media, and telecommunications research at 
+Deloitte, highlighted a number of improvements which he expected to see coming 
+down the line, including improved mobile antennae and base stations, as well as 
+improvements to fixed networks such asG.fast 
+<http://www.bbc.co.uk/news/technology-37705435> that would enable copper cable 
+to operate at much higher speeds.
+
+“As they get steadily faster, new services emerge to exploit these greater 
+speeds, which then requires the deployment of even faster networks. This tail 
+chasing has been going on for decades and won’t stop in 2017.”
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+
+
+All Guardian Media & Tech Network content is editorially independent except 
+for pieces labelled “Paid for by” – find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

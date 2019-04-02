@@ -1,0 +1,94 @@
+
+The BBC announced a series of major changes for the iPlayer 
+<http://www.bbc.co.uk/iplayer/> today, in what controller of future media and 
+technology Anthony Rose calls the most significant release since the service 
+went live last July. Here's a run-down of the main changes (full details in the
+release. 
+<http://www.bbc.co.uk/blogs/bbcinternet/2009/04/bbc_iplayer_goes_hd_adds_highe.html>
+):
+
+
+
+• Better video quality: Now improved to a new standard definition (SD), 
+1500Kbps stream that's "pretty close to TV quality" according to Rose, "as good 
+as most Freeview channels". The default quality for small-screen viewing is 
+raised from 500Kbps to 800Kbps, a speed previously reserved for the HQ (high 
+quality) mode.
+
+• HD: Rose points out you will need not only a fast connections but fast 
+computers—you'll need a modern computer and a decent graphics card. But if you 
+can take the strain, he says this isgenuine HD, not just very high quality SD 
+streaming posing as HD which Rose claims some sites have. It has a 1280x720 
+pixel resolution and encoding bitrate 3.2Mbps.
+
+• Adaptive Bitrate: While most people have forgotten about New Year's 
+resolutions by now, Rose has achieved his: hetold us in December 
+<http://www.paidcontent.co.uk/entry/419-new-media-resolutions-anthony-rose-controller-vision-online-bbc>
+ he wanted to introduce an adaptive bitrate to the iPlayer, and sure enough the 
+service now tests connection speeds to deliver the highest each user can 
+handle. You can see that process happening in a newdiagnostics test 
+<http://www.bbc.co.uk/iplayer/diagnostics> that shows how fast your connection 
+actually is and what video quality you can watch. Rose says the service will 
+lower video quality in response to changes in network speed while streaming and 
+eventually the iPlayer will then be able to increase or decrease qualityduring 
+the same programme if bandwidth increases.
+
+• iPlayer desktop downloads: Rose and his team officially released the 
+cross-platform desktop download manager. The Beeb launched a desktop download 
+<http://www.paidcontent.co.uk/entry/419-bbc-debuts-cross-platform-iplayer-mac-concern-dissipates>
+ client in December for Mac and Linux users signed up to theLabs testing 
+programme <http://www.bbc.co.uk/iplayer/labs> who had previously complained the 
+service excluded them. As with the test version, the desktop app uses Adobe (
+NSDQ: ADBE <http://finance.paidcontent.org/paidcontent?Page=QUOTE&Ticker=ADBE>) 
+AIR download technology.
+
+• iPlayer via TV: Users with Windows Media Extender 
+<http://www.microsoft.com/windows/products/winfamily/mediacenter/features/extender.mspx>
+-enabled TVs can download iPlayer programmes and watch them on TV way instead. 
+That uses good 'ol Windows Media DRM.
+
+• Bigger window: Responding to user feedback, the iPlayer 
+<https://www.theguardian.com/media/iplayer> main screen now has a larger 
+playback window that can be re-sized.
+
+• The future: Expect a few more releases in the next two months, but Rose 
+warns us his team is working on the "next generation" release for the summer.
+
+From paidContent:UK: <http://www.paidcontent.co.uk>
+• Euro-MPs voting on three-strikes piracy measure 
+<http://www.paidcontent.co.uk/entry/419-euro-mps-voting-on-three-strikes-piracy-measure/>
+• B2B media under pressure: Emap losses, RBI savings, Pearson shares 
+<http://www.paidcontent.co.uk/entry/419-business-media-in-the-downturn-pearson-reed-elsevier-emap/>
+• Mobile Content Bits: Flirtomatic/Miss World, AQA payments, Nokia mobile TV 
+unit, Mfuse-Probability 
+<http://www.paidcontent.co.uk/entry/419-mobile-content-bits-flirtomatic-miss-world-aqa-payments/>
+• Amazon takes full control of German audible.de venture 
+<http://www.paidcontent.co.uk/entry/419-amazon-takes-full-control-of-german-audible.de-venture/>
+• Google's Woodside is bullish on Google TV ads; even display looks exciting 
+<http://www.paidcontent.co.uk/entry/419-googles-woodside-is-bullish-on-google-tv-ads-even-display-looks-excitin/>
+• Tributes for Future's digital commercial director Danny Ward-Lee 
+<http://www.paidcontent.co.uk/entry/419-tributes-for-futures-digital-commercial-director-danny-ward-lee/>
+• Spot Runner defends against WPP's share sale suit 
+<http://www.paidcontent.co.uk/entry/419-spot-runner-defends-against-wpp-suit-danny-rimer-amongst-named/>
+• Dailymotion gets a new chief executive, reportedly seeking new investment 
+<http://www.paidcontent.co.uk/entry/419-dailymotion-gets-a-new-ceo-reportedly-seeking-new-investment/>
+• Pirate Bay aftermath: Sunde thinks of Brazil as appeal goes in 
+<http://www.paidcontent.co.uk/entry/419-pirate-bay-aftermath-appeal-confirmed-fans-protest-future-action-threat/>
+
+From paidContent: <http://www.paidcontent.org>
+• Yet another Microsoft search brand -  this time for phones? 
+<http://www.paidcontent.org/entry/419-yet-another-microsoft-search-brand-this-time-for-phones/>
+• @ USA Today Chief Executive Forum: Barry Diller: IAC-AOL deal makes sense 
+but too intricate 
+<http://www.paidcontent.org/entry/419-usa-today-ceo-forum-barry-diller-iac-aol-deal-makes-sense-but-too-intri/>
+• Beleagured New York Times nabs five Pulitzers; no online-only winners 
+<http://www.paidcontent.org/entry/419-beleagured-new-york-times-nabs-five-pulitzers/>
+• TiVo increases focus on audience data sales, adds local to the mix 
+<http://www.paidcontent.org/entry/419-tivo-increases-focus-on-data-sales-adds-local-to-the-mix/>
+• Silicon Valley execs are in Baghdad to aid Iraq's new media industry 
+<http://www.paidcontent.org/entry/419-silicon-valley-executives-head-to-iraq/>
+• Judge rules against Activision in Scratch DJ case 
+<http://www.paidcontent.org/entry/419-court-rules-against-activision/>
+• Fortune 500: Media some of the biggest losers 
+<http://www.paidcontent.org/entry/419-media-some-of-the-biggest-losers-on-fortune-500/>
+ 

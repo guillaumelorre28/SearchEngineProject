@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+
+
+I draw a lot and I am using up a lot of paper. I would like to start drawing 
+on something more virtual as I make a lot of mistakes. I also want to start 
+drawing on some kind of tablet, as when I am older I would like to be an 
+animator. Should I buy a drawing/graphics tablet or a normal tablet but use it 
+for drawing only? Niamh (aged 12)
+
+Drawing <https://www.theguardian.com/artanddesign/drawing> on a graphics 
+tablet and drawing on a tablet screen, are both very different from drawing on 
+paper, so it’s a good idea to try before you buy. It seems to me – and I admit 
+I’m rubbish at drawing – that it requires a lot of effort and many hours of 
+practice to produce reasonable results. The digital products that come closest 
+to matching the experience of drawing on paper tend to be somewhat expensive.
+
+Getting hands-on experience could be difficult. If you’re lucky, your school 
+may have some products you can try. Could you engineer a visit to a local art 
+college? Do any family friends have graphics tablets? Could you try some in 
+shops?
+
+Lots of people own digital graphics products even if they have no interest in 
+digital drawing. Examples include Samsung Galaxy Note tablets and phablets with 
+S-Pen styluses, Microsoft Surface Pro tablets and Apple iPad Pros. Ordinary 
+touch-screen tablets are not suitable for drawing, even if you can write on 
+their screens.
+
+If all else fails, the Wacom Intuos Draw graphics tablet is a simple, reliable 
+and affordable answer. This plugs into a PC’s USB port and gets you going for 
+around £50. The package includes an entry-level drawing tablet, a 
+pressure-sensitive stylus, the ArtRage Lite program for Microsoft Windows or 
+Mac, and some online tutorials.
+
+Tablet history
+
+Graphics tablets go back a long way: they were used in the 1970s for high-end 
+CAD (computer-aided design) workstations, and entered the home computing market 
+in the 1980s with the cheapKoalaPad 
+<http://www.retroist.com/2012/01/23/the-koalapad/>, which was available for the 
+Apple II, Commodore 64 and Atari 800.
+
+The graphics tablet essentially replaced a mouse. However, the hand-held 
+stylus enabled users to have much finer control.
+
+As when using a mouse, your eyes are on the screen, not on the stylus and the 
+graphics tablet. It’s certainly possible to do very detailed work this way, but 
+it’s not quite the same as using a pencil and paper.
+
+The next step was to combine the digitiser with the screen. The first popular 
+example was theGRiDPad <http://www.oldcomputers.net/gridpad.html>, which was 
+launched in 1989. The GRiDPad was a thick tablet running Microsoft’s MS-DOS 
+operating system, and it had a monochrome screen with a resolution of 640 x 400 
+pixels. It wasn’t much use for drawing, but it had industrial and military uses 
+as a sort of electronic clipboard.
+
+Digitising tablets finally hit the mainstream in 2002 with Tablet PCs 
+<https://en.wikipedia.org/wiki/Microsoft_Tablet_PC> running Microsoft Windows 
+XP Tablet PC Edition. These came with Ink Art, a licensed copy of ArtRage, and 
+they could also do handwriting recognition synced to sound recordings – a 
+popular feature with journalists. However, the screens were “laggy” and not 
+very responsive, and XP Tablets were expensive and heavy, so they never caught 
+on.
+
+Wacom, a Japanese company, came to dominate the market for graphics tablets. 
+Its patented technology was used in the screen of theCompaq Concerto 
+<https://en.wikipedia.org/wiki/Compaq_Concerto> laptop released in 1992. Wacom 
+expanded its range to include graphics tablets with LCD screens, so that users 
+could draw directly onto the display surface. Being designed for graphics 
+professionals, they were pressure-sensitive. They were also expensive.
+
+Wacom’s screen-based Companion tablets now work as standalone tablet PCs 
+running Microsoft Windows 8.1, though you can still use them plugged into a 
+Windows PC or Mac. The dedicated buttons and Wacom software make them 
+specialised devices.
+
+When Microsoft launched the Surface Pro range of tablets in 2013, it included 
+a pen and a Wacom digitiser for screen input. The performance and prices made 
+them very attractive to artists, but less appealing to people who didn’t want 
+pen input.
+
+With the Surface Pro 3, Microsoft switched to using active (battery-powered) 
+pens and N-Trig DuoSense digitising technology with 256 levels of pressure 
+sensitivity. I’d guess that Surface Pro sales had reached the sort of volume 
+where Microsoft wanted a cheaper solution, and it avoided future licence 
+payments by buying N-Trig.
+
+There has been a lot of debate about how N-Trig’s 256 levels of pressure 
+sensitivity compare with Wacom’s 1024-levels in the Surface Pro 2. I’m no 
+artist and I couldn’t tell the difference. However, I did find the Surface Pro 
+3 pen nicer to use.
+
+The most recent candidate is Apple’s iPad Pro, for which you can buy a powered 
+stylus. This works extremely well. It’s at least the equivalent of Wacom’s 
+Cintiq Companion and Microsoft’s Surface Pro 3 and 4 in being smooth and 
+responsive, and probably better.
+
+However, the Cintiq Companion and Surface Pro tablets have the advantage of 
+being full-spec computers with standard USB and monitor ports. You can use them 
+to run professional drawing and animation programs, the full Adobe Creative 
+Suite of software, Microsoft Office and so on. There’s no hurry, in your case, 
+but if you’re going to do this professionally, it’s important to be proficient 
+with professional software.
+
+Resolution, size and price
+
+More is usually better, but also costs more. The things to look for include 
+the size of the active drawing area, the resolution and the pressure 
+sensitivity.
+
+From this point of view, the Wacom Intuos graphics tablets are the best value, 
+because you are not paying for a built-in LCD screen, processor, memory and 
+other electronics. Of course, this does assume that you can plug your Intuos 
+tablet into an existing desktop or laptop PC.
+
+The Intuos Draw has a small active area of 152 x 95mm, 1024 levels of 
+pen-pressure sensitivity and a resolution of 2540 lines per inch (lpi) for£49 
+<http://www.wexphotographic.com/buy-wacom-intuos-creative-pen-graphic-tablet-draw-white-small/p1581548>
+. Wacom also offers an Intuos Pro range, which comes in small, medium and large 
+sizes. The medium has an active area of 224 x 140mm, 2048 pressure levels, and 
+a resolution of 5080lpi, while the Large has an active area of 325 x 203mm.Wex 
+Photographic’s prices 
+<http://www.wexphotographic.com/search/?q=wacom%20intuos%20pro> are £165, £239 
+and £335 respectively. (You can shop around.)
+
+The cheapest 13.3in Wacom Cintiq 13HD Interactive Pen Display costs £580 
+<http://www.wexphotographic.com/buy-wacom-cintiq-13hd-interactive-pen-display/p1536805>
+ or more, and still needs to be plugged into a PC or Mac. The cheapest 
+standalone Cintiq Companion 2 running Windows 8.1 on an Intel Core i5 processor 
+costs£1,269 
+<http://www.wexphotographic.com/buy-wacom-cintiq-companion-2-128gb/p1575115> or 
+more. But these are overkill for your purposes, even if you can afford them.
+
+If you really want to draw on a tablet screen, the cheapest options are 
+probably the 10.1inSamsung Galaxy Note 
+<https://www.amazon.co.uk/Samsung-Galaxy-10-1-inch-Tablet-White/dp/B00FZLHMFK/> 
+and the 9.7inApple iPad Pro <http://www.apple.com/uk/ipad-pro/> (£499 plus £79 
+for the Pencil). An alternative would be a second-hand or refurbished Microsoft 
+Surface Pro 2. You can find them for around £235 to £300, depending on 
+specification and condition. However, if they go wrong, they may be expensive 
+to repair.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

@@ -1,0 +1,214 @@
+
+The most comprehensive analysis ever carried out of comedy panel shows has 
+found that only once in the history of British TV and radio has a programme had 
+an all-female lineup.
+
+Of more than 4,700 individual episodes examined by data scientist Stuart Lowe 
+<https://twitter.com/astronomyblog>, 1,488 programmes since 1967 have been made 
+up solely of men. But only on one occasion in 49 years has there been a 
+programme in which the presenter and all the panel were women – an episode of
+BBC Radio 4’s Heresy <http://www.bbc.co.uk/programmes/b007mjjg> in January 2012 
+presented by Victoria Coren Mitchell.
+
+Lowe, who trained as an astronomer, works at the Open Data Institute 
+<http://theodi.org/> in Leeds. He compiled his research in his spare time over 
+more than four years, after his irritated observations about the scarcity of 
+women on comedy panel shows developed, he cheerfully admits, into an obsession.
+
+He compiled his mind-bogglingly detailed research 
+<http://strudel.org.uk/panelshows/index.html> – which lists all the 
+participants of every episode of every programme he could find over five 
+decades – by trawling through the BBC iPlayer archives and those of other 
+broadcasters, adding figuresshared by other <https://twitter.com/LoveGraphs> 
+individuals who had done their own research intospecific shows 
+<http://just-a-minute.info/>, and by trawling through back issues of the Radio 
+Times <http://genome.ch.bbc.co.uk/> dating from 1967, when Just a Minute first 
+broadcast on BBC Radio 4.
+
+While women still account for just 31% of appearances on comedy panel shows, 
+the analysis shows there has beena steady and sustained improvement 
+<http://strudel.org.uk/panelshows/byyear.html> since 1989, when that figure was 
+a shocking 3%. Statistically, however, the best year for equality remains 1967, 
+thanks to the fact that for its first series, Just a Minute never fielded fewer 
+than two women out of a total of five participants, including the presenter 
+Nicholas Parsons.
+
+The trend towards equality long predates the BBC’s announcement in 2014 
+<https://www.theguardian.com/media/2014/feb/08/danny-cohen-bbc-director-television-tv-panel-shows>
+ that panel programmes without women were “not acceptable”. The broadcaster has 
+been as good as its word, Lowe found. Since then, no nationally broadcast BBC 
+comedy panel show has been screened without a female participant, though in 
+some cases, such asMock the Week 
+<http://strudel.org.uk/panelshows/shows/mocktheweek.html>, that number has been 
+stubbornly stuck at one and no more for regular episodes.
+
+“It’s a little bit of an obsession,” Lowe said, “and I’ve made a rod for my 
+own back in that I have to keep it updated, which slightly drives me insane 
+when I realise some weeks I’ve missed some panel shows and I have to go back 
+and add them.”
+
+So what keeps him going – a crusading feminism or a data obsession? “I don’t 
+think they have to be at opposite ends of the spectrum. You can care about 
+equality and about data at the same time. I think it’s a problem that half the 
+population isn’t fully represented.”
+
+Lowe has built his database to accommodate the potential scenario in which a 
+performer does not identify as male or female, but as another gender.
+
+Until last week, he had used an “other” category only once – for the tub of 
+lard <http://www.dailymotion.com/video/x3azcyu> that appeared in place of Roy 
+Hattersley on Have I Got News For You in 1993. The late withdrawal of Nicky 
+Morgan from the programme last Friday, when she wasreplaced by an expensive 
+handbag 
+<https://www.theguardian.com/politics/2016/dec/16/nicky-morgan-replaced-designer-handbag-have-i-got-news-for-you>
+, brought that total to two.
+
+Lowe also analysed the ages of participants 
+<http://strudel.org.uk/panelshows/byyear-age> by trawling through Wikipedia, 
+and said he would like to measure educational background and ethnicity, “but 
+that would be harder to do because I would have to categorise people based on 
+appearance, and I would be reluctant to do that”.
+
+The programme with the highest female participation, at over 60%, is Listomania
+ <http://www.bbc.co.uk/programmes/b052grt7> on BBC Radio 2, though Lowe’s 
+personal scoring index gives highest marks for a consistently equal spread of 
+women and men to BBC2’sInsert Name Here 
+<http://www.bbc.co.uk/programmes/b06vswvf>, hosted by Sue Perkins.
+
+Coren Mitchell told the Guardian she had initially hoped her all-female 
+episode of Heresy – in which her guests wereMaureen Lipman 
+<https://www.theguardian.com/lifeandstyle/2015/feb/07/maureen-lipman-interview>,
+Perkins <https://twitter.com/sueperkins?lang=en-gb> and Cerys Matthews 
+<https://www.theguardian.com/profile/cerys-matthews> – would pass unremarked 
+“as though it were completely normal. Of course that was screwed up by the 
+continuity announcer on the night who went: ‘And here’s something unusual – an 
+all-female lineup!’ So that scuppered that.
+
+“The thing that surprised me is that it turned out to be the silliest episode 
+of the series,” Coren said – neither less funny, as sexists might expect, or 
+with some deeper feminist meaning. “It was just daft, very funny and very 
+trivial.”
+
+She added: “My theory is that, because productions usually put one woman on a 
+panel show (or none) and stop there, women get used to having to (at some 
+wearisome level) ‘represent’ female humour when we appear on these shows ... 
+but with four women the pressure was off. It was nobody’s individual 
+responsibility to prove anything. So we all got the chance to just mess about, 
+relax and make free jokes like men do.”
+
+Of 11 episodes that have had 75% or more female involvement since 1967, Lowe 
+found, Coren Mitchell appeared in four.
+
+Deborah Frances-White <https://deborahfrances-white.com/stand-up.html>, a 
+standup comedian whose own panel show,Global Pillage 
+<https://deborahfrances-white.com/stand-up.html>, is among a number of podcasts 
+analysed by Lowe, agrees about the pressure female comedians experience when 
+they find themselves the only woman on a panel.
+
+“A lot of the time what people don’t realise they are watching is five men in 
+their local pub – they are regulars, they look like everyone else and they are 
+made to feel welcome – and one woman on a job interview. Because she knows that 
+not only will [the audience] decide whether she is good enough to be allowed 
+back on this show and other panel shows, but they will be judging whether all 
+women are funny.”
+
+Though it doesn’t solve the problem, increasing the number of women as hosts 
+or regulars makes a significant difference, notes Lowe – he creditsQI 
+<https://www.theguardian.com/tv-and-radio/2016/oct/28/qi-stephen-fry-sandi-toksvig-has-made-it-sing>
+ (BBC),8 Out of 10 Cats 
+<https://www.comedy.co.uk/tv/news/2261/new_8_out_of_10_cats/> (Channel 4) and 
+E4’sVirtually Famous <http://www.channel4.com/programmes/virtually-famous> for 
+all having recently appointed female team captains or presenters.
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftv-and-radio%2F2016%2Fdec%2F23%2Fstudy-uk-comedy-panel-shows-finds-just-one-all-female-episode%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F451addeaf22127612982d84ac2b19ac2a164eb17%2F0_243_4285_2571%2F4285.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Study%20of%20UK%20comedy%20panel%20shows%20finds%20just%20one%20all-female%20episode&url=https%3A%2F%2Fwww.theguardian.com%2Ftv-and-radio%2F2016%2Fdec%2F23%2Fstudy-uk-comedy-panel-shows-finds-just-one-all-female-episode%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Study%20of%20UK%20comedy%20panel%20shows%20finds%20just%20one%20all-female%20episode&url=https%3A%2F%2Fwww.theguardian.com%2Ftv-and-radio%2F2016%2Fdec%2F23%2Fstudy-uk-comedy-panel-shows-finds-just-one-all-female-episode%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F451addeaf22127612982d84ac2b19ac2a164eb17%2F0_243_4285_2571%2F4285.jpg>
+ The BBC’s QI recently appointed Sandi Toksvig as its presenter, replacing 
+Stephen Fry. Photograph: Brian Ritchie/BBC/Talkback/Brian Ritchie 
+ITV’s Celebrity Juice <http://www.itv.com/celebrityjuice> and Play to the 
+Whistle <http://www.itv.com/presscentre/ep2week17/play-whistle-0> both have 
+female hosts or team captains, and Saskia Schuster, the commissioning editor of 
+comedy entertainment at ITV, said the broadcaster was always “conscious of the 
+mix of voices we are bringing to the show, whether that’s gender, race, class, 
+age”. However, she acknowledged that TV had “some way to go” to reflect the 
+increasing numbers of women entering the traditionally male-dominated comedy 
+scene.
+
+“As an industry, we definitely need to achieve a better balance of gender on 
+our shows and this is what we are pushing for from our producers and guest 
+bookers, so that the discussion moves on from gender representation and 
+eventually ceases to be a discussion at all,” she said.
+
+A Channel 4 insider said it was committed to more women working both on- and 
+offscreen on its major panel shows, saying the production teams on some of its 
+highest-profile programmes “skewed heavily female”.
+
+A BBC spokeswoman said the broadcaster was “keen to make sure our programmes 
+reflect our audiences”, which was why it had led the way on committing in 2014 
+to having women onscreen on every show. “We are proud of the roster of funny 
+women we have across television and radio. Whilst these figures show there is 
+still more for all broadcasters to do, it is encouraging to see a trend towards 
+better representation of women in recent years,” she said.
+
+Searingly honest, bitingly funny: the female millennials changing comedy
+ Read more  
+<https://www.theguardian.com/culture/2016/jul/30/edinburgh-festival-female-comedians>
+While some see more women making a career in standup, Lowe acknowledges there 
+are still fewer women on the comedy circuit. His best estimate last year, based 
+on an analysis ofChortle’s database <http://www.chortle.co.uk/comics/a/> of 
+working comedians, was that about 18% of standups are women. “People are right 
+to say that the comedy circuit is a problem – and that isn’t the broadcasters’ 
+fault,” said Lowe.
+
+But even taking that percentage into account, he said, one would statistically 
+expect those programmes that appear stuck on a maximum of one female guest to 
+have a number of episodes where there were two or three women, “and that just 
+isn’t happening”. For any bookers still struggling to find funny women, Lowe 
+has compileda list of 168 of them <http://strudel.org.uk/panelshows/women.html> 
+– he welcomes further submissions.
+
+Some have argued 
+<https://www.theguardian.com/tv-and-radio/2016/nov/29/tv-panel-show-format-comedy-mock-the-week>
+ that the heyday of traditional panel shows is fading, while female comics are
+thriving in other formats 
+<https://www.theguardian.com/tv-and-radio/2016/dec/19/the-comedy-of-despair-why-2016-was-a-vintage-year-for-woman-tv-stars>
+ on TV and radio, from Phoebe Waller-Bridge’sFleabag 
+<https://www.theguardian.com/tv-and-radio/2016/dec/18/fleabag-the-50-best-tv-shows-of-2016-no-2-fleabag>
+ toCatastrophe 
+<https://www.theguardian.com/tv-and-radio/2015/dec/14/best-of-tv-2015-no-4-catastrophe>
+, co-starring and co-written by Sharon Horgan. A spokeswoman for Radio 4 said 
+it was proud to include “lots of talented female comedians” on panels, but 
+added: “Panel shows are only part of our offering, and next year we have brand 
+new shows from the likes of Sara Pascoe, Sarah Kendall and double act Lazy 
+Susan.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftv-and-radio%2F2016%2Fdec%2F23%2Fstudy-uk-comedy-panel-shows-finds-just-one-all-female-episode%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F5bf68e08fa814efef9f05e561efdd13c8392e851%2F0_134_3774_2265%2F3774.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Study%20of%20UK%20comedy%20panel%20shows%20finds%20just%20one%20all-female%20episode&url=https%3A%2F%2Fwww.theguardian.com%2Ftv-and-radio%2F2016%2Fdec%2F23%2Fstudy-uk-comedy-panel-shows-finds-just-one-all-female-episode%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Study%20of%20UK%20comedy%20panel%20shows%20finds%20just%20one%20all-female%20episode&url=https%3A%2F%2Fwww.theguardian.com%2Ftv-and-radio%2F2016%2Fdec%2F23%2Fstudy-uk-comedy-panel-shows-finds-just-one-all-female-episode%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F5bf68e08fa814efef9f05e561efdd13c8392e851%2F0_134_3774_2265%2F3774.jpg>
+ Danielle Ward: ‘I’m just not interested in hearing four straight, white 
+comedians talking about themselves.’ Photograph: Claes Gellerbrink 
+Danielle Ward created BBC Radio 4 Extra’s Dilemma 
+<http://www.bbc.co.uk/programmes/b01qsnlw> and Do the Right Thing 
+<https://www.comedy.co.uk/podcasts/dotherightthing/>, which she presents on 
+Comedy.co.uk; the latterrecently filmed a pilot for Channel 4 
+<http://www.chortle.co.uk/news/2016/11/10/26190/claudia_winkleman_presents_do_the_right_thing>
+, with Claudia Winkleman hosting. “If I achieve nothing else in my career, my 
+panel show pilot had five women on it,” shetweeted after filming 
+<https://twitter.com/captainward/status/796518210690568192?lang=en>. “Fuck 
+yeah.”
+
+With both shows, Ward said, she and her producer have very deliberately booked 
+diverse panels, and she never has more than two straight white men: “It’s not 
+about being a corrective. I’m just not interested in hearing four straight, 
+white comedians talking about themselves. The conversation is never going to be 
+as interesting.”
+
+For the same reason, Ward said she would not book four straight women. “It’s 
+not about correcting it in terms of numbers, it’s about offering a sense of 
+conversation that’s beyond just one narrow pool of people.”
+ 

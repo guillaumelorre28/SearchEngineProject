@@ -1,0 +1,116 @@
+
+This autumn, Blizzard Entertainment took one of the most powerful decks from 
+its collectible card game Hearthstone and obliterated it. This was not the 
+first time the company had decided to significantly alter, or “nerf”, an aspect 
+of its hugely successful title, but it was the most high profile, and caused a 
+storm of controversy within the Hearthstone community. Many thought it was the 
+nerf to end all nerfs.
+
+But it wasn’t. 
+
+It turns out that while nerfing cards is often considered a failure of design 
+among the makers of physical collectible card games, it may be a feature of 
+Hearthstone. “I’m very confident there will be more nerfs in Hearthstone’s 
+future,” admits production director Jason Chayes during an interview with the 
+Guardian at the recent Blizzcon event. “Actually, I’m 100% sure of that.”
+
+It’s a bold statement. In an increasingly competitive scene, where Hearthstone 
+players must build their own combinations of cards to do turn-based battle 
+against other participants, it is vital that no possible formation becomes 
+dominant. In collectible card games, nerfing generally occurs when players have 
+found an exploit that gives them an unfair edge over competitors that makes the 
+whole experience less fun for everyone.
+
+This was definitely the case this year for Blizzard, with a deck known as Grim 
+Patron Warrior. This popular selection included the Grim Patron, a card capable 
+of replicating itself if it survived damage, and the Warsong Commander, which 
+allowed some cards to strike immediately when summoned. The result of combining 
+these cards was an instant army of immensely destructive capabilities, often 
+wiping out an opponent’s force in one turn. Although widely used among pro 
+players, it was inarguably over-powered especially as when combined with 
+another card, the Frothing Berserker, it could offer a one turn kill. As 
+complaints grew, Blizzard finally decided to act, reducing the power of the 
+Warsong Commander card in a patch in October.
+
+While many agreed that the game was more balanced as a result, nerfing always 
+prompts a backlash from the community. Players are a passionate and, at times, 
+volatile bunch – when a developer tinkers with a game to remove an advantage 
+they’ve enjoyed, factions within the user base can respond with outright 
+hostility. There have even been instances where players have responded to 
+developers nerfing their game withthreats on social media 
+<https://www.theguardian.com/technology/gamesblog/2013/jul/29/twitter-culture-gamer-rage>
+.
+
+So Chayes’ admission that nerfing is an integral part of Hearthstone could be 
+read as tossing a hand grenade at the game’s 30-million-plus community. But, as 
+Chayes tells it, Hearthstone is a different beast to most games. His argument 
+is that, as Blizzard is committed to adding ever more cards to the game’s 
+already sizeable catalogue, further nerfing is inevitable because player skill 
+levels quickly surpass those of the developers. There will always be exploits 
+the team didn’t catch – and that millions of dedicated fans will quickly work 
+together to uncover.
+
+“This is the way it works: we do a lot of testing internally to the point 
+where we feel like the game’s in a pretty good place [before an expansion],” 
+says Chayes. “Then, wouldn’t you know, we ship the expansion or we ship the 
+adventure, and the community has a lot more experience and lot more people 
+trying things than we do and discovers new things that we’d never even thought 
+of. Then it makes sense to come in and make a change.”
+
+Chayes points out, however, that the Hearthstone team is very careful about 
+when to do it, and which cards they nerf, as they don’t want to appear heavy 
+handed. “[When we nerf Hearthstone we’re] taking creations, like a new deck 
+type, that came out of the community and making it no longer viable,” he says. 
+“One of our goals is to make sure that our players know that we’re valuing 
+their investment in the game, whether that be time investment or monetary 
+investment through purchasing cards.”
+
+“We don’t want to nerf cards anymore than we absolutely have to.”
+
+As Chayes tells it, the decision to tweak Warsong Commander wasn’t taken 
+lightly and came as much from the community. “The biggest problem with Grim 
+Patron, which ultimately led to the change [for Warsong Commander] is that we 
+received a lot of feedback from players – which we agreed with – that it wasn’t 
+very fun to play against and, specifically, to lose against,” he says.
+
+According to Chayes, the reports of player dissatisfaction presented a wider 
+problem for Hearthstone because it meant the game was falling into a 
+degenerative state. Warsong Commander was ultimately limiting the places where 
+Hearthstone could go, so the team made the decision to nerf it in order to 
+revitalise Hearthstone’s metagame – the strategic element that involves 
+attempting to understand and anticipate an opponent’s deck.
+
+“Nerfs are something we take very seriously,” Chayes continues. “In the last 
+year we’ve been very deliberate and very tentative about nerfing things more 
+than we had to. The reason for this is that we want the community to push the 
+metagame forward rather than us coming in with a heavy hand and changing cards. 
+The reality is, there will always be a ‘most powerful deck’ in Hearthstone. As 
+soon as you nerf one deck another one will emerge.”
+
+Chayes won’t be drawn on what cards may be nerfed in the future because 
+although he does say cryptically there are “one ore two” the team is looking 
+at. But then, a lot of the time, he argues that the game’s player-base does a 
+good job of ensuring that this action is unnecessary. “Right after an expansion 
+comes out and a ton of cards are introduced, it blows up the meta, and decks 
+and combos start emerging that no one imagined,” he says. “That by itself 
+starts to address these issues; we might see a dominant deck start to get 
+marginalised by the player-base’s new combinations. Then the tinkerers come out 
+and start to refine those decks to point where they start to dominate.”
+
+`Chayes is adamant that player concerns – and by extension the in-game 
+experience – are a key consideration before such a decision is taken. 
+“Ultimately our main goal is thinking about what’s right for the game,” he 
+says. “While feedback is very important, we have to ensure that Hearthstone can 
+be a game ten years from now. We have to move towards a place where the game is 
+in a healthy state for many years to come.”
+
+So it seems Hearthstone’s future is inescapably intertwined with Blizzard’s 
+practise of occasionally nerfing its game. While controversy rages within the 
+CCG sector – and within the Hearthstone community itself – about the practise, 
+it has become a part of development and user-testing. In a lot of ways this 
+symbolises modern game development, where constant downloadable updates and 
+patches ensure that a game is never really released in a complete state 
+anymore. Nerfing is here to stay.
+
+ * Hearthstone: how a game developer turned 30m people into card geeks 
+<https://www.theguardian.com/technology/2015/jun/25/hearthstone-blizzard-strategy-trading-cards-greg-austin> 

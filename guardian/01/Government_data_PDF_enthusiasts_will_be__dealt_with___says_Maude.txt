@@ -1,0 +1,102 @@
+
+Nearly every major department could be in breach of the government's own open 
+data license, after Cabinet Office ministerFrancis Maude 
+<https://www.theguardian.com/politics/francismaude> committed to force them to 
+publish their spending data in transparent formats today.
+
+The Minister, in charge of the government's transparency drive, said that 
+departments who continue to publish the data in their annual reports in PDF 
+format would be 'dealt with'.
+
+"Data in annual reports in PDF, that is in breach of our own open government 
+license - and we will deal with that," he said
+
+The Open government License 
+<http://data.gov.uk/blog/new-open-government-license> commits the government to 
+publishing data inmachine readable formats 
+<http://reference.data.gov.uk/id/open-government-licence> - spreadsheet files 
+such as CSV or excel.
+ Cabinet Office minister Francis Maude: "There's nothing fluffy about 
+transparency." Photograph: Martin Argles for the Guardian 
+Every year each department publishes its annual report including comprehensive 
+total figures for each area of spending. The reports are the final word in each 
+department's finances and are laid before parliament in July, according to 
+Treasury best practice rules. Only theDepartment for International Development 
+routinely publishes the data in its annual report as an excel download <>. 
+Every department publishes them as Adobe PDDF files.
+
+This year, both the Ministry of Defence and the Department of Health have 
+still not published their annual reports and have said they will not do so 
+until November - seven months after the end of the financial year they cover.
+
+"There hasn't been a uniform enthusiasm" for the government's open data drive, 
+Maude admitted.
+
+The only alternative to annual reports is the Treasury COINS database 
+<http://data.gov.uk/dataset/coins>, which at over 1GB, is inaccessible to those 
+without the software to handle big data dumps. The treasury does publish the
+Public Expenditure Statistical Analyses (PESA) 
+<http://www.hm-treasury.gov.uk/pespub_index.htm> but it is less detailed than 
+the reports themselves.
+
+Maude called for journalists to embrace the thousands of datasets released by 
+the Government to hold it to account. "Journalists everywhere need to engage 
+with this data to expose waste, incompetence and corruption wherever they see 
+it.
+
+"That's why I'm issuing a call to arms to the media the world over to hold the 
+feet of government officials and ministers like me squarely against the fire."
+
+He says the the government has now published 8,000 datasets 
+<http://data.gov.uk/>, making it the world leader in open data. 
+
+"I don't have any doubt that giving our Press a lot of data to pore over will 
+at times be uncomfortable for us in Government. But that's the whole point. A 
+closed door culture encourages complacency at best and at worst corruption."
+
+The Minister was speaking at an event 
+<http://www.reform.co.uk/content/13958/events/future_events/the_future_is_open_conference>
+ to mark the first anniversary of theOpen Government Partnership 
+<http://www.opengovpartnership.org/> - of which Britain is now co-chair with 
+Indonesia until September next year. The government is encouraging others 
+around the world to duplicate what it has done by making the site's source code 
+open.
+
+"There's nothing fluffy about transparency. It's hard edged and demanding and 
+serious," he said. "You have to mean it, you have to stick with it and when it 
+gets uncomfortable you have to go through with it."
+
+"Once it starts, you can't go back."
+
+NEW! Buy our book
+
+• Facts are Sacred: the power of data (on Kindle) 
+<http://www.amazon.co.uk/Facts-are-Sacred-Guardian-ebook/dp/B006PI9PQG/>
+
+More open data
+
+Data journalism and data visualisations from the Guardian 
+<http://www.guardian.co.uk/data>
+
+World government data
+
+• Search the world's government data with our gateway 
+<http://www.guardian.co.uk/world-government-data>
+
+Development and aid data
+
+• Search the world's global development data with our gateway 
+<http://www.guardian.co.uk/data-store/global-development-data/search?q=>
+
+Can you do something with this data?
+
+• Flickr Please post your visualisations and mash-ups on our Flickr group 
+<http://www.flickr.com/groups/1115946@N24/>
+• Contact us at data@guardian.co.uk <mailto:data@guardian.co.uk>
+
+• Get the A-Z of data <http://www.guardian.co.uk/technology/page/2009/jun/17/1>
+• More at the Datastore directory <http://www.guardian.co.uk/data-store>
+• Follow us on Twitter <http://twitter.com/datastore>
+• Like us on Facebook 
+<http://www.facebook.com/pages/Guardian-data/155291341187950>
+ 

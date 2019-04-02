@@ -1,0 +1,133 @@
+
+Scientists have moved closer to allowing paralysed people to control 
+artificial limbs with their thoughts following a breakthrough in technology 
+that gave rats an extra sense.
+
+A brain implant that allows the animals to "feel" the presence of invisible 
+infrared light could one day be used to provide paralysed people with feedback 
+as they move artificial limbs with their thoughts, or it could even extend a 
+person's normal range of senses.
+
+Miguel Nicolelis <http://www.nicolelislab.net/>, a neurobiologist at Duke 
+University in North Carolina who led the work, is a pioneer in the development 
+of brain implants that can be used to control computers or prosthetic arms by 
+thought alone.
+
+His aim is to develop ways to help paralysed people regain mobility and 
+ultimately to build an "exoskeleton" that can move a paralysed person's arms 
+and legs in response to their thoughts.
+
+Nicolelis was speaking about his latest work, which was published in Nature 
+Communications <http://www.nature.com/ncomms/journal/v4/n2/full/ncomms2497.html>
+, at the annual meeting of the American Association for the Advancement of 
+Science (AAAS) in Boston.
+
+His results were presented as part of a series of sessions on advances in 
+brain-machine interfaces, at which other scientists presented a bionic hand 
+that could connect directly to the nerves in a person's arm and provide sensory 
+feedback of what they were holding.
+
+Until now, neurological prosthetics have largely been demonstrated as a way to 
+restore a loss of function. Last year, a 58-year-old woman who had become 
+paralysed after a strokedemonstrated that she could use a robotic arm <> to 
+bring a cup of coffee to her mouth and take a sip, just by thinking about it.
+
+The work was part of a US clinical trial of a brain implant called BrainGate, 
+developed by neuroscientists at Brown University.
+
+In his latest work, Nicolelis has created the first device to extend a healthy 
+animal's natural ability. "What we did here was to demonstrate that we could 
+create a new sense in rats by allowing them to 'touch' infrared light that 
+mammals cannot detect."
+
+He inserted an electrode into the part of a rat's brain that processes touch 
+and fed into it electrical signals that corresponded to a local source of 
+infrared light. After a month of training, Nicolelis found that rats' 
+touch-processing brain cells were responding to both touch and infrared light 
+at the same time.
+
+"This shows that the adult brain can acquire new capabilities that have never 
+been experienced by the animal before," he said.
+
+In the future, Nicolelis said it might be possible to use prosthetic devices 
+to restore vision – for example, if a person's visual cortex had been damaged – 
+by training a different part of the brain to process the information.
+
+"Or you could even augment normal brain function using the principles we're 
+describing here in non-invasive ways to deliver the information," he said.
+
+"We could learn to detect other sorts of signals that we normally don't see or 
+experience; the perceptual range could increase."
+
+Also at the AAAS <https://www.theguardian.com/science/aaas>, Silvestro Micera 
+of the Swiss Federal Institute of Technology in Lausanne presented the latest 
+version of a prosthetic hand that can provide real-time sensory feedback, 
+enabling its user to carefully control grasp.
+
+The prototype version of this bionic hand had only two broad areas that 
+provided sensory feedback. The latest version gives feedback to the user from 
+individual fingertips as well as the palm and wrists, giving people a more 
+lifelike experience.
+
+"The idea would be that it could deliver two or more sensations," Micera said. 
+"You could have a pinch and receive information from three fingers, or feel 
+movement in the hand and wrist."
+
+Nicolelis said his work on infrared light in rats could also be used to 
+deliver feedback for paralysed people given prosthetic limbs. He suggested: 
+"Imagine you're wearing an exoskeleton and you're walking and you bend your 
+knees – that flexing could generate a pulse of infrafred light that is 
+proportional to the angle of deflection and that signal could be transmitted to 
+a sensor that delivers that signal to a patient's brain."
+
+Because light travels so fast, the feedback from the artificial limbs would be 
+even quicker than normal nerve impulses and the person using the prosthetic 
+would simply "feel" the movement of the bionic limb as a different type of 
+touch.
+
+Micera plans to trial the bionic hand in a patient in Rome later this year, 
+who he said was in their 20s.
+
+He said that the ultimate aim of his prosthetic hand project was to make users 
+feel it is as natural as possible. "We hope that one day it will be embedded in 
+the arm and the user will just forget it is there," he said. "It is intended to 
+be as lifelike as possible."
+
+Three more findings
+
+From the annual meeting of the American Association for the Advancement of 
+Science in Boston <http://www.aaas.org/meetings/2013/>
+
+1 Chimpanzees get depressed too
+
+Martin Bruene, a psychiatrist at the Ruhr-University Bochum in Germany 
+presented a session on how great apes in captivity often show behaviours that 
+would be psychiatrically interesting in people, such as self-mutilation, 
+aggression, fear or social withdrawal.The good news is that anti-depressants 
+<http://www.bbc.co.uk/news/science-environment-21299657> can be used to help – 
+Dutch behavioural biologist Godelieve Kranendonk found they worked to help 
+former lab chimps combat depression and trauma.
+
+2. Mars Curiosity update
+
+John Grotzinger, the chief scientist for everyone's favourite Mars rover, 
+Curiosity, updated the world on the adventuring robot's latest movements on the 
+Gale Crater on the red planet. Last week it drilled a hole into the surface of 
+the planet and the extracted dust is now making its way through a series of 
+sieves before the finest dust – grains less than 150 microns across – are 
+analysed in the rover's onboard laboratories to look for interesting chemistry.
+
+3. Dark matter
+
+Nobel laureate Samuel Ting, a physicist at the Massachusetts Institute of 
+Technology, was billed to speak about the first results from his 
+dark-matter-hunting experiment, the Alpha Magnetic Spectrometer (AMS), which 
+was launched to the International Space Station in 2011. Almost two decades in 
+the making, the AMS results were hotly anticipated as the first glimpse at what 
+the mysterious dark matter, which makes up around a quarter of the mass of the 
+universe, might be made from. Unfortunately for the assembled crowds, Ting kept 
+his powder dry, despite much prodding and questioning, revealing nothing about 
+the year's worth of data from AMS except to say that they would be "important" 
+results and would be made public when he submitted them to a scientific journal 
+within a few weeks.
+ 

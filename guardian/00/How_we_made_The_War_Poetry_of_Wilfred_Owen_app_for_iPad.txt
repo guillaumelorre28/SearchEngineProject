@@ -1,0 +1,98 @@
+
+The concept for an app based on the war poetry of Wilfred Owen came as the 
+result of reading a very early e-book containing a collection of his work. 
+While I appreciated the portability of an e-book, I felt that such powerful and 
+moving words could be so much better delivered if more use was made of the 
+interactivity offered by devices such as iPads.
+
+Owen’s words didn’t read like the poetry to which I’d previously been exposed. 
+To me they provided vivid eye-witness reports from the frontline and described 
+the horrors faced by the ordinary British soldier. As I read them, I heard them 
+being spoken by a woman, a maternal figure, and this triggered a creative 
+string of events.
+
+Outlining my basic ideas to my faculty at Anglia Ruskin University 
+<http://www.anglia.ac.uk/ruskin/en/home.html> and a leading expert in this 
+field atGirton College <http://www.girton.cam.ac.uk/> resulted in positive 
+encouragement and offers of support. There was no going back.
+
+The main concept of The War Poetry of Wilfred Owen app 
+<https://itunes.apple.com/gb/app/owen/id892169435?mt=8> was to provide 
+interactive access to the poems, both written and audio. Poetry is, after all, 
+meant to be read out loud and therefore listened to, something digital 
+platforms can easily accommodate. Then followed two further ideas: the reader 
+might also be interested in finding out more about the work, so why not include 
+academic commentary and an illustration relevant to each poem? This way the 
+reader would be drawn into a rich and informative experience.
+
+The app not only had to provide the essential ingredients but also look the 
+part so a lengthy process of design evolution began. It was a process that 
+helped to “sell” the idea to prospective contributors and supporters; the more 
+it progressed the more it developed. Much like throwing a pebble into a stream, 
+the ripples continued to flow outwards to trigger other ideas and attract 
+interest.
+
+Using a female voice for the poems upset the traditionalists. Some said that 
+“it must be voiced by a young man” while a large majority found it a unique and 
+stimulating perspective. The approach was to assume the position of a soldier, 
+not necessarily Owen, writing words both descriptive and artistic which he then 
+sent home.
+
+In all likelihood the first person to open and read a letter recognisable as 
+being from the front would be a mother or wife. The words would provide a 
+glimpse into both the physical experience and of the soldier’s state of mind. 
+It was never the intention to try and represent Owen and his situation but 
+rather use his words to conjure up the assumed setting. During the many hours 
+of recording, all who took part voiced similar feelings of emotion, 
+thoughtfulness and of being incredibly moved. Indeed, the contemporary serving 
+officers and partners of those still serving (who read some of the poems for 
+the app) found that Owen’s words have a powerful resonance even today.
+
+A task of this size and complexity (45 poems, 15 readers and four academic 
+commentators) consumed huge amounts of time and energy, so it was essential to 
+structure the process to ensure all elements were ready when needed for the 
+build process. More so given it was, essentially, produced by one person (me).
+
+A typical day would involve illustration in the morning and page design or 
+build in the afternoon, interspersed with audio and video recording sessions 
+and subsequent editing of those files. Without this discipline it might still 
+be swirling around in the vortex that accompanies such projects, all the while 
+threatening to suck you down into the abyss along with all the other projects 
+that didn’t see the light of day.
+
+Initially I tried to obtain funding to ease the process but this proved to be 
+exceptionally difficult. There were plenty of favourable comments but nothing 
+tangible. This resulted in the opinion that if I wanted to get this produced 
+then I would have to do it myself, together with those readers and academics 
+who so generously donated their time to the app.
+
+I’m extremely pleased with the result and I’m delighted with the reception it 
+has received among reviewers and users. I’m also working on various “spin-off” 
+projects from the Owen app and have now been asked to produce something similar 
+focusing on the life and work of poet and composer Ivor Gurney, as well as an 
+app that features the words and images of contemporary military conflicts, 
+enabling those who experience modern warfare to share a platform with great 
+voices such as Owen.
+
+
+App facts
+
+Length of the project: three months’ planning, 15 months’ development
+Size of the team: one (me!)
+
+Ian Bennett is a lecturer at Anglia Ruskin University 
+<http://www.anglia.ac.uk/ruskin/en/home.html>
+
+More App stories
+
+• How we made the Centenary Connections first world war app 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/aug/08/centenary-connections-first-world-war-app>
+• How we made kscope, an image-sharing app for university applicants 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/jun/27/how-we-made-kscope-app-university>
+• How we made the Romans app for iPad, iPhone and Android 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/jan/10/romans-app-ipad-iphone-android>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+ 

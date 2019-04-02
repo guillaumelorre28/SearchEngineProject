@@ -1,0 +1,87 @@
+
+App: My Council Services UK <http://www.mycouncilservices.com>
+
+By: iTouch Vision <http://www.itouchvision.com/> and, in the UK, Abavus 
+<http://www.abavus.co.uk/>
+
+Price: Free
+
+Available on: iPhone, iPod Touch, iPad (BlackBerry and Android versions are in 
+development)
+
+What is it?
+
+
+Report problems in your local area to the council direct from your phone.
+
+Who is it by?
+
+
+iTouch Vision specialises in developing government IT solutions for the 
+iPhone, Android and the internet. Abavus is an established service provider to 
+the UK public sector.
+
+What does it promise?
+
+
+"Submit reports for the following issues: graffiti, litter, fly-tipping, 
+potholes, street lights, abandoned vehicles, pest problems, refuse problems, 
+missed bin collections, dog fouling, dead animals and many more."
+
+Is it easy to use?
+
+
+The set-up is a little arduous. You have to fill in your country, region and 
+council, along with your personal details – including your mobile phone number. 
+To be fair, this enables you to upload details of a problem to your particular 
+council so it's worthwhile taking the time.
+
+Once that's all done, you can access your council's contact details easily 
+enough and reporting an "incident" is simple, if a little drawn-out. You 
+describe the location and nature of the incident, categorise it, take a photo 
+or video of the incident and then submit it. Your history of reported problems 
+appears on the home page.
+
+A quick apology to Brighton & Hove council – I reported a phantom faulty 
+street light in the testing of the app, though without a location or any 
+further details.
+
+Is it fun?
+
+
+Let's be honest here – reporting dog poo on the pavement, dead seagulls on 
+your lawn or a Banksy wannabe's latest work of art scrawled across the side of 
+your garage is not the sexiest way to spend your time. But itis useful.
+
+Is it pretty?
+
+
+It's a shame the creativity behind the icon that appears on your phone – two 
+stick men jumping for joy underneath the union flag, clearly delighted to be in 
+direct contact with their local council – is not replicated elsewhere across 
+the app. Instead, it's a uniformly dull blue and white palette with the odd 
+integrated Google map to brighten things up.
+
+Should you download it?
+
+ My-Council-Services-code 
+There are minor irritations. The entire news section reloads each time you 
+click on it, rather than leaving the already downloaded links and reloading 
+only the latest updates. Another minor quibble is that the event and info 
+section wouldn't load on my set-up, due to an RSS feed problem.
+
+But if you even occasionally find yourself outraged by fly-tipping, dangerous 
+potholes or foxes slaughtering your chickens this will be worth downloading. 
+Input the details, take a quick picture and, hey presto, you've informed your 
+local council of the problem. It sure beats trying to speak to a real person in 
+the notoriously labyrinthine communications departments of local councils.
+
+The £1m question is, of course, how can you be sure the council is receiving 
+your communique and, crucially, will act on it? The creators of the app say: 
+"By default all councils will receive the report by email. Once a council has 
+signed up to the premium services they will be able to receive reports by their 
+preferred method." This means the council will receive your messages, but if it 
+wants to manage them in a sensible fashion, it will have to pay Abavus a fee to 
+download its software. Timeframes for responses will depend on individual 
+councils.
+ 

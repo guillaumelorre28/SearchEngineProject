@@ -1,0 +1,92 @@
+
+I didn’t write about the Nobel Prize in physics on the day it was awarded, 
+because it was awarded in an area of physics I’m not very familiar with, and I 
+needed to educate myself.
+
+The area concerned is ‘topological phases and phase transitions’ in matter. 
+It’s notcompletely unfamiliar to me. Steve Bramwell, a leading expert in the 
+area, is a member of my department at UCL, and I have been lucky enough to hear 
+him talk about his work. He’s been pretty busy with interviews since Tuesday, 
+and is quoted in the Guardian news article on the prize,here 
+<https://www.theguardian.com/science/2016/oct/04/david-thouless-duncan-haldane-and-michael-kosterlitz-win-nobel-prize-in-physics>
+.
+
+Brexit 'not good news for British science' warn new Nobel laureates
+ Read more  
+<https://www.theguardian.com/science/2016/oct/06/brexit-not-good-news-for-british-science-warn-new-nobel-laureates>
+While trying to educate myself, I came across a great explanation of the 
+general ideas behind the prize, by Brian Skinner at MIT, and I don’t think I 
+can improve on it. If you want to understand the ideas and why they are 
+important, I heartily recommendhis article 
+<http://www.ribbonfarm.com/2015/09/24/samuel-becketts-guide-to-particles-and-antiparticles/>
+ (written before the prize was awarded)¹.
+
+Without rehashing that then, I just want to add something that really 
+fascinates me about this kind of physics.
+
+A key concept is the idea of topological defects, illustrated in Skinner’s 
+article by a glitch in a zipper, or a vortex in a field of arrows. These 
+defects exhibit many of the features we see in the so-called ‘fundamental’ 
+particles of the Standard Model of physics. Some of the mysterious properties 
+of these particles become a bit more intuitively obvious when the particles are 
+pictured as vortices.
+
+For example, the ‘Pauli exclusion principle’ is what stops electrons from 
+overlapping each other, and constrains them to occupy different energy-levels 
+around the atomic nucleus. These energy levels are responsible for all the 
+chemical properties of the elements in the periodic table, so it’s an important 
+principle to understand. I find it difficult to picture how this might work in 
+the case of fundamental electrons. But if you look at the vortices in Skinner’s 
+illustrations, it is easy to see why they can’t approach each other too closely 
+- the arrows just point in the wrong way.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2Fvideo%2F2016%2Foct%2F04%2Fwhat-is-topology-nobel-member-uses-cinnamon-bun-bagel-and-pretzel-to-explain-video&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=What%20is%20topology%3F%20Nobel%20member%20uses%20cinnamon%20bun%2C%20bagel%20and%20pretzel%20to%20explain%20%E2%80%93%C2%A0video&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2Fvideo%2F2016%2Foct%2F04%2Fwhat-is-topology-nobel-member-uses-cinnamon-bun-bagel-and-pretzel-to-explain-video>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=What%20is%20topology%3F%20Nobel%20member%20uses%20cinnamon%20bun%2C%20bagel%20and%20pretzel%20to%20explain%20%E2%80%93%C2%A0video&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2Fvideo%2F2016%2Foct%2F04%2Fwhat-is-topology-nobel-member-uses-cinnamon-bun-bagel-and-pretzel-to-explain-video&media=>
+What is topology? Nobel member uses cinnamon bun, bagel and pretzel to explain 
+– video 
+<https://www.theguardian.com/science/video/2016/oct/04/what-is-topology-nobel-member-uses-cinnamon-bun-bagel-and-pretzel-to-explain-video>
+These topological ideas even give rise naturally to the idea of quantisation 
+itself. You cannot move gradually between two topologically distinct forms – 
+say a bagel and a Swedish pretzel (see video). You have to make a quantum leap. 
+In topological terms, you have to make, or break, a connection.
+
+So from one point of view this physics looks more fundamental than the search 
+for the smallest constituents of matter. It is the physics of deep principles, 
+which these constituents seem to obey.
+
+On the other hand, all the discussion of these principles in terms of zips and 
+arrows (or bagels) assumes that the zips and arrows and the forces between them 
+exist. The experimental observations and applications are seen in solids, and 
+the little arrows are magnetic atoms or molecules. All of them have to be made 
+of something, and in the end what they are made of is the quarks and electrons 
+of the Standard Model. Once you have got to that stage, you are reduced to 
+saying that electrons behave like defects in a quantum field, you have no 
+mechanistic model for that field, so you call it fundamental. And indeed it 
+might be.
+
+Majorana particles - Fundamentally confusing | Jon Butterworth | Life & Physics
+ Read more  
+<https://www.theguardian.com/science/life-and-physics/2014/oct/05/majorana-princeton-particles-fundamentally-confusing>
+All I’m really saying is that there are two senses in which physics can be 
+‘fundamental’. There is the question of what everything is made of at its core 
+– what are the smallest constituents of the universe? But there are also 
+fundamental principles, which operate in many different systems, on many 
+different scales.
+
+These topological phases are a manifestation of some new principles, with far 
+reaching consequences. That is why their discovery is so important.
+
+¹ His swirling arrow diagrams are also lovely to look at. One of the key 
+achievements behind the prize is the ‘Kosterlitz–Thouless phase transition’, 
+corresponding to a temperature at which vortices and anti-vortices separate 
+from each other, illustrated by the lovely animation half way down the article. 
+Thanks toStephen Curry <https://twitter.com/Stephen_Curry> and Aatish Bhatia 
+<https://twitter.com/aatishb> for pointing me at this article.
+
+Jon Butterworth <https://twitter.com/jonmbutterworth>’s book Smashing Physics 
+<https://www.theguardian.com/books/2014/may/02/smashing-physics-jon-butterworth-review-cern-higgs-boson-particle>
+is available as “Most Wanted Particle” in Canada & the US.
+ 

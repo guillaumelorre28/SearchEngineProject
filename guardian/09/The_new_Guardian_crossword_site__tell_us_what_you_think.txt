@@ -1,0 +1,33 @@
+
+Since we launched our new website in January, we’ve slowly been moving all of 
+our content to the new format. We’re now looking at the crosswords section and 
+have switched theCrosswords blog 
+<https://www.theguardian.com/crosswords/crossword-blog> and Editor’s update 
+<https://www.theguardian.com/crosswords/series/crossword-editor-update> to the 
+new design, with the puzzles themselves following soon.
+
+
+Our new crosswords section is a work in progress, and has the following 
+features:
+
+ * Optimised for any screen size 
+ * Autosaves as you type 
+ * Cleaner layout for desktop 
+ * Better indication of which puzzles you’ve started from the crosswords front 
+We’ll continue to add features as we go. We’re still designing and building 
+the following, so they aren’t working just yet:
+
+ * Blind & PS version 
+ * AZED crosswords 
+ * Archive search 
+If you would like to try the new crosswords, click here to opt in 
+<https://www.theguardian.com/crosswords/optin>. It is easy to opt out again by 
+clicking the ‘opt out’ link. (This will appear at the top of the crosswords 
+section once you’ve opted in to the new version.)
+
+Please let us know what you think or if you spot any defects by dropping us an 
+email atcrosswords.beta@theguardian.com <mailto:crosswords.beta@theguardian.com>
+, or by leaving a comment below. Comments on this post will close at 6pm on 
+Wednesday 12 August.
+
+ 

@@ -1,0 +1,87 @@
+
+The story of Ashya King 
+<https://www.theguardian.com/society/2014/aug/31/ashya-king-found-spain-parents-arrested>
+ and his parents is desperately sad. One feature is that his family want him to 
+receive proton therapy. This is not a “magic bullet” treatment and without 
+knowing his medical details it is impossible to say what the risks and benefits 
+would be for Ashya. However, proton therapy is in use around the world, and 
+indeed on the NHS, and does in some cases have some huge advantages over other 
+treatments. This article makes no comment on the specific case, it is simply an 
+explanation of the physics behind the therapy.
+
+Cancer <https://www.theguardian.com/society/cancer> treatment with radiation, 
+or particle, beams relies on the fact that the beams scatter off the atoms and 
+molecules in the tissue of the tumour, and this damages, and hopefully kills, 
+the tumour.
+
+
+The problem is that the beams are dumb. They don’t know or care whether a 
+given molecule is part of a tumour, or part of some healthy tissue, perhaps in 
+a vital organ. As they pass through the body of the patient, they will scatter 
+off molecules, leaving their energy behind, and damaging everything as they go. 
+The trick is to make the beams lose most of their energy in the tumour, and as 
+little as possible in the healthy tissue they have to pass through on the way 
+in and out of the patient.
+
+
+This can be done to a large extent by careful targeting of the beam, 
+triangulating on the tumour. But, in the plot above, you can see the advantage 
+that protons, or indeed carbon ions, have over X-rays. X-rays are energetic 
+photons (quanta of light). They have no mass, and as they pass through the 
+tissue they lose energy more-or-less continuously (see the blue line in the 
+plot above). They also scatter around, and the beam spreads out.
+
+Because protons, carbon ions and other hadrons are heavier, they behave 
+differently. They interact mostly with the outer electrons of an atom or 
+molecule, and because they are hundreds or thousand of times heavier than an 
+electron, they hardly change direction when they hit them, and they lose very 
+little energy. Imagine a snooker ball travelling through a cluster of 
+table-tennis balls, perhaps.
+
+In fact the energy lost by the proton (and thus deposited in the tissue) 
+increases as the speed of the proton drops, roughly like one divided by the 
+square of the speed. At some point, when the speed gets very low, the energy 
+loss increases catastrophically, and most of the energy is lost in a small 
+volume of tissue. This rapid loss of energy is called the Bragg peak (see the 
+green and red lines in the plot above), and if you can make it overlap with the 
+tumour, this is perfect. The tumour dies, and minimal damage is done to 
+surrounding healthy tissue.
+
+This is particularly important for cancers near the brain, and for cancers in 
+chidren, where cell-division is still happening a lot and is very sensitive to 
+radiation damage.
+
+A few percent of the protons will also interact with the nuclei, sometimes 
+smashing them up and leading to secondary radiation.
+
+
+Major challenges include delivering a beam with the precise energy and angle 
+required, measuring the position of the tumour, the beam and the Bragg peak 
+inside the patient, monitoring secondary doses, and more.
+
+
+The NHS in the UK does have a treatment centre 
+<http://www.clatterbridgecc.nhs.uk/patients/treatment/protontherapy/> for some 
+cancers, and will covertreatment abroad 
+<http://www.england.nhs.uk/ourwork/commissioning/spec-services/npc-crg/group-b/b01/>
+ for some others. Major new centres are planned inLondon 
+<https://www.uclh.nhs.uk/News/Pages/ProtonbeamtherapycomingtoUCLH.aspx> and 
+Manchester 
+<http://www.christie.nhs.uk/about-the-christie/our-ambitions-developments/new-developments/proton-beam-therapy.aspx>
+.
+
+
+Rob Appleby, a particle physicist who researches in this area, wrote this 
+<https://www.theguardian.com/science/life-and-physics/2011/aug/17/favourite-particle-proton>
+ about the topic forLife and Physics 
+<https://www.theguardian.com/science/life-and-physics> back in 2011.
+
+
+Jon Butterworth’s book, Smashing Physics 
+<https://www.theguardian.com/books/2014/may/02/smashing-physics-jon-butterworth-review-cern-higgs-boson-particle>
+, isout now 
+<http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9781472210302>
+. A bunch of interesting events where you might be able to hear him talk about 
+it etc are listedhere. <http://lifeandphysics.wordpress.com/> Also, Twitter 
+<https://twitter.com/jonmbutterworth>.
+ 

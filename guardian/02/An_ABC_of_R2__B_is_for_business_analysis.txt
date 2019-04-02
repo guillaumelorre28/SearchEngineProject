@@ -1,0 +1,34 @@
+
+Today B, for business analysis... which means different things to different 
+people. In our case it meant extracting requirements and turning them into 
+something that could be implemented.
+
+Business analysis is often misunderstood when it's used in an Agile context. 
+Agile people often think it's not necessary -- after all, they say, the 
+analysis is best performed by the developers working closely with the customer 
+as they go along. Many non-Agile people often think the analysis should be done 
+up-front, written down, and then the workload on the business analysts (BAs) 
+eases off as everyone else goes off to implement what they've written.
+
+In fact business analysis was one of the most demanding jobs on R2. Analysis 
+was indeed done up-front, at the start of the project, but only to a level 
+sufficient to estimate the work, not to a level sufficient to implement it. 
+Ahead of each fortnightly iteration the BAs would specify the forthcoming 
+fortnight's tasks in much greater detail, sufficient to be implemented. At the 
+same time they would be dealing with queries about the iteration currently in 
+flight. Thus at any one time they had to deal with work being planned and work 
+being implemented.
+
+In both cases they would be working with a very diverse group of people. For 
+work being detailed the business analyst would take requirements from our 
+business users and present them to the technologists for estimation; for work 
+being implemented they would often take queries from the technologists and 
+present them to the business users for guidance.
+
+You could say the process of business analysis was often like being piggy in 
+the middle, yet the personal skills of the individual business analysts 
+(technical insight, strategic understanding, and not a little diplomacy) was 
+key to the success of the project. The cohesiveness of theguardian.com -- both 
+from the outside and the inside -- is in no small part due to the talents of 
+our business analysts.
+ 

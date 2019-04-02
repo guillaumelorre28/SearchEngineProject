@@ -1,0 +1,110 @@
+
+The Real Time Information (RTI) programme  
+<https://www.theguardian.com/government-computing-network/2012/mar/06/rti-hmrc-real-time-information>
+ may be HM Revenue and Customs' most high-profile IT project of the moment, but 
+the department has a whole swathe of significant technology projects under way.
+
+"RTI is definitely the single biggest programme and the most high profile 
+because of its intercept with universal credits, but it can't be the only thing 
+we do in the next two to three years," says itsCIO 
+<https://www.theguardian.com/government-computing-network/cio> (chief 
+information officer) Phil Pavitt. "We have 40-odd projects that are IT related. 
+They're nowhere near as huge as RTI in terms of expenditure and what they will 
+deliver, but some of them will have an enormous impact.
+
+"For example, one of the programmes we have is about closing the tax gap, 
+which is one of the big spending review targets for us, and will probably bring 
+in £1bn to £2bn of income. We have to balance the resources, but RTI is not 
+overbearing against all the others."
+
+The roots of much of the work are in the department's Change Plan for 2011-15 
+<http://www.hmrc.gov.uk/about/change-plan.pdf> which has set the stage for a 
+planned reduction in headcount from about 70,000 to 56,000, and an effort to 
+increase the proportion of staff working on compliance and enforcement to more 
+than 50%.
+
+"The mix of what the 56,000 do is that a lot did back office jobs that we are 
+automating, and maybe 7,000 or 8,000 will change their role, the bulk of them 
+working on enforcement and compliance," he says. "It's a big cultural 
+transition and an effort to make us more efficient."
+
+While there is no one big IT programme that will facilitate the transition, 
+around half of the 85 projects that will contribute to the change have a 
+significant IT element.
+
+"Some of the projects are very IT related," he says. "For example, extending 
+our caseload system that enables us to move cases in our enforcement and 
+compliance area rather than shifting big lumps of paper in cases; that's a 
+significant investment for us.
+
+"We have a Connect system to take on all the data we get from government 
+departments, and are able to build pictures of people so we can see where there 
+may be fraud. These are large IT investments.
+
+"Then there are others just to speed up the system and give us more capacity - 
+we've just invested in 25,000 new desktops under the Aurora programme. Just 
+having desktops that work better gives us more uptime: for example, the call 
+centres are now handling twice the number of calls they handled two years ago, 
+with very little downtime."
+
+Sunset for Aurora
+
+Under Aurora, HMRC also retired 66 of its core applications to bring the 
+number below 750. It's a move that Pavitt believes will probably see Aurora's 
+exceed its targeted savings of £160m a year, and one that has involved 
+something of a culture shift in its attitude to IT.
+
+"We've moved from a very risk averse position in retaining all of our 
+applications, even if we never use them, to taking away from the estate all the 
+areas that are overly complex or that we no longer need," he says.
+
+Aurora however is in its closing stages, and will be replaced by Pavitt's 13 
+Machines strategy. Under 13 Machines, HMRC is aiming to reduce the number of 
+business critical applications still further, to 200 running on 13 platforms by 
+2015-16.
+
+13 Machines is not expected to produce savings on the scale of Aurora, as the 
+earlier programme has taken the low hanging fruit, and its business case is 
+currently being kept confidential. It is, however, expected to make a big 
+difference, according to Pavitt..
+
+"Some systems are of an age or complexity, or we struggle to find the right 
+level of support, so that they require immediate attention. Some are used in an 
+area where the policy has changed, and it has such a dramatic impact that as we 
+adapt to the policy we might as well change the core systems. In some cases we 
+may have 20 similar platforms that we can take down to one.
+
+"We have a complex calculation to help us do all this, but we've agreed with 
+the business a roll out schedule to do those in some sort of order.
+
+"RTI is a classic case that will retire and replace some of the classic 
+applications."
+
+HMRC is also working to improve the quality of its data. Pavitt describes it 
+as a "data monster", processing more than any other government department, 
+dealing with 35 million people and up to 12 million businesses, and managing 
+more than 400 tax regimes. Consequently, preserving the quality of the data 
+takes a massive effort.
+
+"Data has been a real challenge for us, and we're piloting within RTI a data 
+cleansing mechanism," Pavitt says. "Everybody can run a data cleansing project, 
+and within a minute the data begins to degenerate because old behaviours come 
+along.
+
+"We've begun to standardise the data inputs to us as an organisation. We don't 
+have the ability to mandate what you have to give, but we do have the ability 
+to show what it could be, and if you provide data like this how much easier it 
+could be on you as the employer and on us as the processor."
+
+RTI is being used to introduce data frameworks, and the master and slave data 
+concept, a metadata concept that involves a set of core data, such as someone's 
+address, and more variable data that cannot override the core.
+
+"If that works well in the personal tax area we'll take all of those 
+principles and begin to slowly move them across HMRC," Pavitt says.
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Guardian Government 
+Computing network here 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>.
+ 

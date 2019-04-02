@@ -1,0 +1,64 @@
+
+The FBI is trying to crack open another password-locked iPhone, this time 
+belonging to Dahir Adan, the perpetrator of aknife attack 
+<https://www.theguardian.com/us-news/2016/sep/18/several-peope-injured-in-minnesota-mall-stabbings>
+ on a Minnesota mall in which 10 people were stabbed.
+
+
+At a press conference on Thursday, special agent Rich Thornton said that the 
+FBI was “in the process of assessing our legal and technical options to gain 
+access to this device and the data it may contain”, according toWired 
+<https://www.wired.com/2016/10/fbi-wants-crack-another-dead-terrorists-locked-iphone/?mbid=social_twitter>
+.
+
+FBI investigates Minnesota mass stabbing as 'potential act of terrorism'
+ Read more  
+<https://www.theguardian.com/us-news/2016/sep/18/minnesota-mass-stabbing-mall-fbi-terrorism-investigation>
+Adan was shot and killed by police who attended the scene, and Isis later used 
+social media to claim credit for the attack describing him as a “soldier of 
+Islamic State”.
+
+Thornton said that the FBI <https://www.theguardian.com/us-news/fbi> had 
+“analyzed more than 780 gigabytes of data from multiple computers and other 
+electronic devices” and is “conducting an extensive review of his social media 
+and other online activity”.
+
+“We continue to review his electronic media and digital footprint,” Thornton 
+said.
+
+The FBI has not yet filed a lawsuit against Apple, it said. But the case 
+echoes the FBI’s attempts to access aniPhone 
+<https://www.theguardian.com/technology/iphone> belonging to Syed Farook, the 
+San Bernardino shooter, in February.
+
+In that case, the agency went to court to try to compel Apple 
+<https://www.theguardian.com/technology/apple> to write a backdoor system which 
+would allow it to bypass the phone’s four-digit password. The iPhone wipes all 
+data if an incorrect password is entered a number of times.
+
+But the case was eventually dropped 
+<https://www.theguardian.com/technology/2016/mar/28/apple-fbi-case-dropped-san-bernardino-iphone>
+ because the FBI found its own way into the phone. Director James Comey said 
+the FBI hadpaid about $1.3m 
+<https://www.theguardian.com/technology/2016/apr/27/fbi-apple-iphone-secret-hack-san-bernardino>
+ for the hack, though it was not known where they purchased it. It was later 
+speculated than an Israeli security firm was behind the hack, while a separate 
+researcher in Cambridge also claimed to have found a method of bypassing the 
+passcode.
+
+'Worth it': FBI admits it paid $1.3m to hack into San Bernardino iPhone
+ Read more  
+<https://www.theguardian.com/technology/2016/apr/21/fbi-apple-iphone-hack-san-bernardino-price-paid>
+The FBI has not disclosed whether Adan’s phone is the iPhone 5C, the same 
+model as Farook’s, which would mean the FBI could use the same technique to 
+bypass the password and access the phone. Later models of the iPhone added a 
+“security enclave”, a piece of hardware that will have made it harder to bypass 
+the password.
+
+Adan was reportedly 
+<https://www.theguardian.com/us-news/2016/sep/20/minnesota-stabbing-dahir-ahmed-adan-college-security-guard>
+ en route to buy a new iPhone, his family have said. He was a resident of St 
+Cloud, Minnesota, which is estimated to have the largest Somali community in 
+the US. Both the local police chief and Minnesota’s governor have expressed 
+concern at a possible backlash against the local community.
+ 

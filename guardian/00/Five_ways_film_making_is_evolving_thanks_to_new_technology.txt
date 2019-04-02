@@ -1,0 +1,131 @@
+
+
+3D printing
+
+
+
+3D printing <https://www.theguardian.com/technology/3d-printing> is set to 
+revolutionise film-making from a production design perspective. Concept artists 
+often design with computer-generated imagery (CGI) and computer-aided design 
+(CAD) software, which lends itself perfectly to printing in 3D. Because the 
+technology can also achieve such sophisticated levels of detail, print size and 
+finish, props departments on big productions are embracing the flexibility and 
+efficiency the process affords.
+
+Propshop <http://www.propshop.co.uk/>, for example, is a production company at 
+Pinewood Studios that has been instrumental in producing set pieces for many 
+films that our studio has worked on, for example the night vision goggles in
+Zero Dark Thirty <https://www.youtube.com/watch?v=k7R2uVZYebE> and a full-scale 
+tank exterior for an action set-piece inFast & Furious 6 
+<https://www.youtube.com/watch?v=l2h75LLhxM4>. Even the canopy of Peter Quill’s 
+spaceship inGuardians of the Galaxy 
+<https://www.youtube.com/watch?v=d96cjJhvlMA> was 3D-printed. 
+
+Recently released films such as Ex Machina 
+<https://www.youtube.com/watch?v=Tu1ajhotzj0> and Avengers: Age of Ultron 
+<https://www.youtube.com/watch?v=MZoO8QVMxkk&index=40&list=PLK5HARgNfgj-aohotCZ6Bi6fkSouCbGuO>
+ also used Propshops’ facilities, where entire spaceships and sets can be 
+printed and assembled. It’s amazing to see in practice and while some issues 
+are still to be refined, it’s a technology that has become part of the 
+production designer’s toolkit.
+
+Virtual reality
+
+Everyone seems to be talking about virtual reality (VR), a technology that 
+offers new and exciting ways to consume information and entertainment. As a 
+non-linear medium, VR brings a very different viewing experience to the table. 
+Appropriate applications for film are still being explored, but a number of 
+players, such asOculus Story Studio <https://www1.oculus.com/storystudio/>, are 
+working hard to define the best and most compelling VR cinema formats.
+
+As a designer, I can see that VR offers exciting possibilities: as a dynamic 
+new storytelling medium; as a rich narrative device within conventional film; 
+and as a practical, time-saving preproduction tool. With the sheer amount of 
+concept art and design that is now created in digital3D 
+<https://www.theguardian.com/technology/3d> files, VR offers production 
+designers a new way of showing a director a full set environment complete with 
+props, before it’s built.
+
+VR also offers new opportunities to create experiences that enrich the main 
+cinematic event, helping to immerse the audience in a movie before it begins, 
+perhaps through a behind-the-scenes tour, a character backstory, or even a 
+virtual wander through the film environment.
+
+
+Depth Sensors
+
+Traditionally, 3D motion capture is an expensive investment, but we recently 
+worked with a new format that seems to be revolutionising this space.
+
+In a short film called Miles <https://www.youtube.com/watch?v=PlEHY8tQkXo>, we 
+worked with VFX photographer Andrew Gant, who shot with a markerless 
+motion-capture device called theDepth Kit <http://depthkit.tv/index.html>. 
+Developed as a CGI-video hybrid, the software repurposes the depth-sensing 
+camera from the Microsoft Kinect to capture and visualise the world as 
+wireframe forms.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fculture-professionals-network%2F2015%2Fjun%2F12%2Ffilm-technology-evolution-film-making-3d-printing-vr-motion-capture%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F6%2F12%2F1434105275431%2F8777b6ca-9c63-44ef-a0c1-630d3518405c-1020x612.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Five%20ways%20film-making%20is%20evolving%20thanks%20to%20new%20technology&url=https%3A%2F%2Fwww.theguardian.com%2Fculture-professionals-network%2F2015%2Fjun%2F12%2Ffilm-technology-evolution-film-making-3d-printing-vr-motion-capture%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Five%20ways%20film-making%20is%20evolving%20thanks%20to%20new%20technology&url=https%3A%2F%2Fwww.theguardian.com%2Fculture-professionals-network%2F2015%2Fjun%2F12%2Ffilm-technology-evolution-film-making-3d-printing-vr-motion-capture%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F6%2F12%2F1434105275431%2F8777b6ca-9c63-44ef-a0c1-630d3518405c-1020x612.jpeg>
+ The Depth Kit captures objects as a 3D sculpture. Photograph: Oliver Daly 
+By syncing the Depth Kit to the camera with which he was shooting, Gant 
+captured a 3D CGI sculpture for every frame of film, essentially giving us a 
+file of 3D animation that perfectly lined up to the film’s characters and 
+action. The thinking and process behind the Depth Kit is really indicative of 
+how film-making is developing and evolving. While not appropriate for every 
+film, it was perfect for our project, delivering powerful flexibility that 
+allowed us to explore new ways to tell a story.
+
+Film (it never went away)
+
+Today, the flexibility and immediacy of digital filming makes a lot of sense, 
+but while this format is still evolving, celluloid is a medium at the pinnacle 
+of its technology.
+
+With Interstellar shot on Imax 65mm and projected in 70mm, and the new round of
+Star Wars <https://www.youtube.com/watch?v=ngElkyQ6Rhs> films committed to 
+anamorphic 35mm <https://www.youtube.com/watch?v=P7i2SXGYmao>, the continuing 
+impact of this well-developed technology should not be underestimated. While 
+expensive and demanding, its unsurpassed image quality, rich colours, deep 
+tones and textural details continues to attract passionate film-makers such as 
+Christopher Nolan, Steven Spielberg, Quentin Tarantino and JJ Abrams, who are 
+all fighting to save the format from obsolescence.
+
+In a culture that is continually looking for smaller, faster and more 
+convenient ways of doing things, we can often abandon a technology before it 
+reaches maturity. Film is still technically superior in some ways and dedicated 
+craftsmen are still refining it.
+
+As a motion graphic designer working in film, I can appreciate that the rapid 
+evolution and versatility of digital has revolutionised film-making, but as an 
+artist passionate about craft, I’m reassured film still has its place and holds 
+its own.
+
+Cloud and collaborative workflows
+
+As with any business activity, teamwork is at the heart of all good films. 
+Digital <https://www.theguardian.com/culture-professionals-network/digital> 
+communication has made film-making a smaller, more efficient space that allows 
+the director to draw on the best resources around the world. It’s not uncommon 
+for us to work with a production team in Los Angeles, a film shoot in London 
+and VFX teams in Romania, Canada or China. Managed well, this can bring 
+specialisms to the fore, which benefits everyone. London’s reputation for 
+artisanal traditions and emphasis on craftsmanship make our creative studios 
+highly sought after in film.
+
+As a creative studio, our reliance on sharing and managing files between 
+multiple users working on one project means that we’re dependent on software, 
+which can be frustrating. Software companies would do well to start thinking 
+about designing software around collaborative teams, in addition to the 
+individual. Software developed by people who really understand the dynamic of 
+creative briefs and collaborative workflows could be a major game changer
+
+David Sheldon-Hicks is co-founder and creative director of Territory Studio 
+<http://www.territorystudio.com/>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+ 

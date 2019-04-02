@@ -1,0 +1,208 @@
+
+Today is Ada Lovelace Day <http://findingada.com/about/our-mission/>, a day to 
+celebrate female role models in science, technology, engineering and maths (the 
+STEM subjects).Last year, Ada Lovelace 
+<https://www.theguardian.com/technology/ada-lovelace> Day produced an ebook 
+<http://findingada.com/book/>, for which I wrote a chapter about Jean Golding, 
+the woman who set upChildren of the 90s <http://www.bristol.ac.uk/alspac/>, the 
+dataset I use for my PhD. Here’s an extract:
+
+I’m very lucky, when it comes to research. Not only is my PhD on something 
+that I find really interesting, but to do it I get to use one of the finest 
+epidemiological resources that currently exists in the UK. Children of the 90s 
+is a huge dataset containing biological, psychological, social and medical 
+information about a group of children, their parents, and soon their siblings 
+and their own children as well. The dataset is world renowned, with hundreds of 
+papers published using the data, from researchers across the world.
+
+The woman behind it, Jean Golding, is a quietly spoken lady. Although no 
+longer directly involved in the running of the cohort, she still conducts 
+research using the data, and is often seen at talks and events in the 
+department. In 2012 she was made an OBE for her role in setting up and 
+developing the cohort. But her journey to this point was far from 
+straightforward, involving illness, personal hardship, hard work, and even 
+smuggling (for a good cause)!
+
+A growing familiarity with hospitals
+
+Jean was born on 22 September 1939 in Cornwall. Her childhood coincided with 
+the war, and she describes is as a time of rationing, of making do, and playing 
+with whatever was around and available. While Cornwall sounds like an idyllic 
+location to grow up, Jean was beset with illness, which meant she became 
+familiar with hospital wards.
+
+Even before she was old enough to go to school, she developed tubercular 
+glands, a form of TB, which meant numerous hospital stays of months at a time. 
+This was before designated children’s wards, so Jean was often in a cot in the 
+middle of a ward with 20 elderly women. She describes it as a somewhat 
+traumatic experience.
+
+It also delayed her schooling, which she wasn’t able to start until the age of 
+six. Around this time she moved to Plymouth, and then to Chester, where a more 
+serious illness befell her. Jean contracted polio, quite unexpectedly as there 
+was no epidemic occurring at the time. This led to her missing a year of 
+school, and left her weak and with a permanent major limp.
+
+Her poor health didn’t stop her excelling at school, although it did affect 
+the study choices she made. While her early life had stoked an interest in 
+medicine and biology, she had spent so much time in hospital during her 
+childhood that the thought of studying anything that would take her back there 
+did not appeal. At school her passions were subjects like zoology and 
+chemistry, which, due to her physical ailments resulting from the polio, she 
+wouldn’t be able to pursue at university. But she was clearly highly 
+intelligent and her school encouraged her to study mathematics, which didn’t 
+involve prolonged periods standing at a lab bench conducting experiments. She 
+was good at maths, but it wasn’t a passion for her. She was still talented 
+enough to gain a place at Oxford University, where she started at St Anne’s 
+College in 1958.
+
+Oxford at this time was very much a male-dominated place, particularly in the 
+sciences and maths. Across the whole university, Jean remembers a ratio of 
+about 10 men to every woman, although the college system meant that she mixed 
+with people from many backgrounds. There were not many other women studying 
+maths with her, but she describes her experience as reading very little maths, 
+but having a wonderful time.
+
+Although she would spend much of her adult life doing medical statistics, 
+however, her first experience with that area of mathematics didn’t immediately 
+inspire her. At the first statistics lecture she attended, the lecturer stood 
+at the front of the class and made a statement along the lines of, “we’ll 
+assume that this is approximately equal to that.” Jean, knowing nothing about 
+statistics, recalls thinking, “this isn’t for me. I’m a pure mathematician.” 
+She would of course eventually embrace statistics as an invaluable tool to 
+glean insights into health.
+
+Hardship and opportunity
+
+Jean was at university at a time when career advice to women was, as she put 
+it, “teaching, or secretarial work”. So she became a maths teacher. But soon 
+personal circumstances would mean Jean would have to look for work that she 
+could do from home. She married, had two children, and divorced within the 
+space of four years. Her ex-husband left the country and stopped sending money, 
+meaning Jean became a single parent. She needed to earn an income, but she also 
+had two children to care for. Jean remained philosophical, saying that while 
+being a single parent added difficulty in terms of time management, “I only had 
+my children to worry about, rather than a husband as well!”
+
+For a time, Jean took any job she could do at home, and found herself editing 
+books, proofreading documents, and writing guides for teachers in the third 
+world. But one of these jobs would take her life down an unexpected path: A 
+group advertised for a statistician, and she applied. They wanted a person to 
+calculate percentages, something she could do at home, and they paid by the 
+hour, although very badly as Jean remembers it. The percentages she was 
+calculating were on a large epidemiological survey of the health of people in 
+the UK, and the small group she was working with were analysing the data and 
+writing up the research as a book.
+
+This was the mid 1960s, and there were no high-powered computers or fancy 
+statistical software. The analyses were done using punch cards which went 
+through a counter sorter. You could even make your own cards for specific 
+analyses. Jean found this an exciting way to conduct research; being able to 
+see what your data were showing, and potentially jumping to unexpected 
+conclusions from what was revealed. This was her first introduction to 
+epidemiology, at a time when she hadn’t thought about medical research since 
+school.
+
+Jean was fortunate enough to work with people who would take the time to 
+explain the medical background and biology to her, giving advice as to what to 
+read to learn more. For Jean it was a revelation: “The maths I wasn’t remotely 
+interested in, but it was this detective story of why on earth does that 
+happen? Can you think of an explanation? What other information do you need? 
+That fired me up”.
+
+Enthused by her discovery of this field of science, Jean successfully applied 
+for a research fellowship at University College London. And, as she put it, 
+hasn’t looked back since then.
+
+Around this time Jean had a couple of role models who inspired her both 
+professionally and personally. Dr Eva Elberman was a paediatrician. She had 
+four children, which made being a clinical medic very difficult in those days, 
+so she became an epidemiologist. Another female epidemiologist Jean worked with 
+at the time was Alice Stewart.
+
+Stewart would become known for groundbreaking work on childhood cancer. She 
+collected information from the parents of children who had cancer, asking about 
+their background and events during pregnancy, and looking at their medical 
+records. This method of investigation was unique at the time because no one had 
+really considered looking at the relationship between events in pregnancy and 
+something as late on as childhood cancer. Stewart’s work pinpointed x-rays 
+during pregnancy as being an important predictor of childhood cancers, in 
+particular leukaemia. Her findings were not taken seriously until her results 
+had been replicated by male scientists, when the link finally became accepted.
+
+Jean herself experienced some sexism around this time. She recalls an 
+interview with a distinguished statistician who told her “all things being 
+equal, I would give this place to a man.” Rather than putting Jean off, though, 
+this spurred her on. “So the answer is, you’ve got to not make it equal, you’ve 
+got to be better.”
+
+But this is Jean all over. When asked what made her who she is, she replied 
+“stubbornness”. She sees each setback as something to improve upon, rather than 
+be disheartened by.
+
+When Jean’s time working on this study came to an end, she moved on to other 
+jobs, but kept in touch with the survey and how it was progressing. In 
+particular, she continued to work with Neville Butler, who was head of 
+paediatrics in Bristol. She describes him as “bizarre and exciting and 
+difficult and fun to work with”. He was a man of many ideas, and not enough 
+time to take them forward. Jean believes that she was in the right place at the 
+right time to pick up the good ideas and make something of them.
+
+Butler was, at the time, involved in another birth survey, the 1970 Birth 
+Cohort Study. Jean saw the design of these studies, which were very medically 
+focused, particularly around pregnancy, and noticed that something was missing. 
+Butler was convinced that it would be valuable to look at the psychological and 
+psychosocial aspects involved. Jean herself was very interested in the 
+biological and chemical aspects of pregnancy and development, and their roles 
+in health. The very first research she worked on was looking at congenital 
+malformations, and she maintained an interest in the development of 
+physiological abnormalities, extending to the influence of pre-birth events on 
+the long-term development of a child, throughout her career.
+
+A Europe-wide challenge
+
+In 1985, Jean was invited by the World Health 
+<https://www.theguardian.com/society/health> Organization to a Europe-wide 
+meeting to discuss setting up a new study. The plans were vague: it wasn’t 
+clear what the study would be, or when it would start. Jean was given the 
+unenviable task of beingrapporteur for the group, appointed to report on the 
+group’s meetings. This turned out to be a fortuitous job. The meeting was in 
+Russia, and while everyone else was out sampling the local vodka, Jean would 
+spend her evenings writing up the day’s discussions. When talks had been going 
+round in circles, she wrote what she felt the group ought to have decided on. 
+When the meeting reconvened the next morning, the group read over her reports 
+and agreed with them.
+
+An idea emerged from the meeting: start a cohort in pregnancy, and monitor the 
+psychological and social side, as well as the physical and medical. The WHO 
+gave the researchers $5,000 to run pilot studies in Russia, Greece and the UK. 
+Jean remembers there being a huge amount of scepticism among the researchers 
+involved that you could simply ask mothers for information and expect it to be 
+accurate. These pilot studies helped Jean and her colleagues to discover what 
+was feasible, and what wasn’t. When they compared the answers the mothers gave 
+to those taken from their medical records, it showed that they knew their own 
+records very well.
+
+From these pilot studies, a design for the European Longitudinal Study of 
+Parents and Children (ELSPAC) emerged. There was a problem though: the WHO 
+didn’t have the money to fund a European wide cohort study of this magnitude. 
+All they could do was write to the ministries of health across Europe 
+explaining the study design, recommending its implementation, but reporting 
+that they were unable to fund it.
+
+The study had been planned before the fall of the Berlin Wall and, since the 
+Soviet Union employed everybody, and had large scientific institutes and 
+five-year plans, it had been thought it would be easy to implement in Russia, 
+Ukraine, and what was then Czechoslovakia. After the wall fell, ex-Soviet 
+countries suddenly discovered they had to raise money, but there was no 
+structure in place to do that. This led to perhaps one of the strangest 
+activities Jean has been involved in. She helped set up the study in Russia, 
+but doing so was a “sharp learning experience”, as she put it.
+
+This is an extract of the chapter. To find out the rest of Jean’s story, the 
+ebook (also featuring chapters on Dorothy Hodgkin, Jocelyn Bell Burnell, Joan 
+Feynman, and a host of other amazing women) isavailable here 
+<http://findingada.com/book/>. All money goes to Ada Lovelace Day and the 
+findingada <http://findingada.com/>website. Or you can ask Suzi on Twitter for 
+spoilers@soozaphone <https://twitter.com/soozaphone>.
+ 

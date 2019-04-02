@@ -1,0 +1,244 @@
+
+Indiscriminate Attacks
+
+Indiscriminate Attacks 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?01>
+Like a toddler that gets stuck into the lolly stash just before bedtime, there 
+is no specific target for an indiscriminate hack - just total annihilation of 
+anything that happens to be in its way. Their reach can be far and wide and 
+does not distinguish between organisations and individuals.
+
+In 2012, the Red October malware attacked hundreds of computer networks, 
+affecting diplomatic, government and scientific research organisations all 
+around the world. Thousands of emails were sent containing documents that 
+exploited vulnerabilities in everyday programs such as Word and Excel.
+
+Government Espionage
+Government Espionage 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?02>
+As the name suggests, government espionage is when government organisations 
+are the targets of online hacking.These hacks can be used to steal secret 
+documents, expose sensitive information, or even to access computer-controlled 
+weapons managed by government bodies.
+
+In 2007, a malicious computer worm dubbed Stuxnet was considered to be the 
+world’s first digital weapon. Rather than using the hack to simply steal 
+information, the attack moved beyond the digital realm and wreaked physical 
+destruction on the equipment that the computers controlled.
+
+Stuxnet targeted Iranian nuclear facilities, affecting their operating speed 
+and destroying the machines. The hack was disguised to appear as a series of 
+unfortunate accidents.
+
+Corporate Espionage
+Corporate Espionage 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?03>
+It may sound like it’s from a James Bond flick, but corporate espionage is 
+when hackers steal data from corporate and industrial companies, usually with a 
+commercial agenda. It often takes place when one company hacks into their 
+competition to gain an advantage.
+
+Google was the victim one of these corporate attacks in 2010. Operators in 
+China hacked into the Google China headquarters and stole intellectual 
+property, including the email accounts of human rights activists.
+
+It’s believed to have been part of a widespread cyber attack across a number 
+of Chinese companies known as Operation Aurora.
+
+Integrity Attack
+Integrity Attack 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?04>
+Stealthy, selective and devastating: integrity attacks shy away from trying to 
+obtain vast amounts of sensitive data and instead focus on carefully changing 
+particular elements within transactions, communications, or data to gain a 
+significant benefit.
+
+This can include changing the direct deposit settings for a victim’s 
+paycheques to have money redirected and deposited into a different account. 
+It’s a small hack with a big impact.
+
+Gauss malware was developed in 2011 to stealthily target specific devices and 
+make minor configuration changes that resulted in a major impact to a national 
+nuclear program.
+
+In 2015, hackers used this same method to attack a number of banks, providing 
+hackers with an understanding of the workings of internal finance operations.
+
+Stolen Credentials
+Stolen Credentials 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?05>
+The more we try to protect ourselves from cyber attacks, the more hackers find 
+ways around the new technologies we create to block them.
+
+With the rise of security components; firewalls, gateways and end-point 
+security products, hackers now source authentic credentials to hack into online 
+platforms. They can be bought on the dark market, or ‘harvested’ via phishing 
+emails or other vulnerabilities.
+
+Online cloud storage platform Dropbox reported a massive breach after hackers 
+obtained over 68 million account credentials in 2012.
+
+Stolen Funds
+Stolen Funds 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?06>
+Given that the majority of our monetary transactions are now via our credit or 
+debit cards, there’s understandably a large amount of security surrounding 
+these products to help prevent cybercriminals stealing funds.
+
+But with the growth in alternate payment methods, such as digital currency 
+Bitcoin, cyber thieves now have many more targets to choose from, meaning the 
+number of attacks have multiplied, and continue to grow.
+
+Russian hackers stole up to $1 billion between 2013 and 2015. The group first 
+infected a bank computer with malware that gave the hackers remote access to 
+the computer. Once they had learned how the bank’s computing system worked, 
+they were able to mimic staff activity in order to transfer money out.
+
+Ransomware
+Ransomware 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?07>
+Ransomware is a type of malicious software that is designed to block a user’s 
+access to their computer system and then - you guessed it - hold it for ransom.
+
+Users who have been hacked using ransomware have to pay a sum of money to 
+regain access to their system. An example of this is
+CryptoLocker, a type of ransomware which extorts money from users that 
+procured at least $3 million in 2013 before it was shut down in 2014.
+
+CryptoLocker hijacked documents before asking for a sum of money to be paid in 
+order to release them. Emails were often sent with a password-protected zip 
+file claiming to be from a company that the user might be familiar with, such 
+as a bank or telecommunications company.
+
+Hacktivism
+Hacktivism 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?08>
+Cyber attacks that fall under the umbrella of Hacktivism are driven by a 
+strong political agenda or social point that hackers want to make public.
+
+Skilled hacktivist groups will attack a well-known entity and use their 
+platform to make their point. It’s shifting activism from rallies and protests 
+that traditionally take place in the street to the online space.
+
+How safe are you from hackers?
+ Read more  
+<https://www.theguardian.com/intel-better-it-decisions/2016/sep/30/how-safe-are-you-from-hackers>
+Anonymous became the first poster child for hacktivism in 2008 after they 
+launched a series of attacks against the Church of Scientology. They organised 
+a raid, prank-called their phone line and launched a DDoS attack on the 
+church’s websites.
+
+They have become famous for well-publicized cyber attacks on government, 
+religious and corporate organisations.
+
+Stolen Personal Data
+Stolen Personal Data 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?09>
+Our personal data is valuable - especially to companies that want to sell us 
+their products. And it’s not just our names and emails anymore - our purchasing 
+history, what we eat, what we watch, our weight, our blood pressure and much 
+more can be collected by hackers and sold on at a tidy profit.
+
+Hackers can even use this data to figure out what purchases they could make 
+with stolen credit card info without triggering an alert.
+
+Medical data is highly sought after by cyber criminals - it’s even more 
+valuable than our credit card details. In 2014, Chinese hackers broke onto the 
+system of one of the largest US hospitals, Community Health Systems Inc., and 
+stole the personal information of 4.5 million patients. They then sold those 
+large batches of data for massive profits.
+
+Cloud Hacking
+Cloud Hacking 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?10>
+Whether you are using video conferencing or voice mail, project management 
+tools, data storage sites, or cloud-hosted applications, companies are at risk 
+when they access and store their company data on third-party sites. Unless the 
+third party site offers proper oversight on security management, they can 
+create the perfect environment for cloud hacking.
+
+Ashley Madison came under the spotlight when hackers stole all of their 
+customer data from their dating site, an anonymous service that encouraged 
+marital affairs and infidelity.
+
+Data stolen included emails, home addresses, credit cards and sexual 
+fantasies. The hackers threatened to expose all of the data publicly if the 
+website wasn’t taken down.
+
+Payment System Hacks 
+Payment System Hacks 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?11>
+Most payment system attacks approach card theft in the same way they have for 
+the past 10 years: by attacking payment mechanisms or the databases that 
+contain the card data, and then selling it as quickly as possible to pocket the 
+profit.
+
+Software giant Oracle was the target of hackers early in 2016. Hundreds of 
+computers at their point-of-sale division were infected with malicious code, 
+which infiltrated the support portal used by their customers and potentially 
+hacked into sales registers all over the world.
+
+Car Hacking 
+Car Hacking 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?12>
+As car manufacturing continues to advance - and different types of software 
+are used in car design - the risk of cars being hacked continues to increase.
+
+In 2016, 12% of our cars are connected to the internet in some way.
+In August, several security researchers demonstrated that was possible to hack 
+different types of connected cars, including a Jeep Cherokee, by sending 
+commands through the Jeep’s entertainment system to its dashboards functions, 
+steering, brakes, and transmission, all from a remote laptop.
+
+Wearable Hacks 
+Wearable Hacks 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?13>
+Although breaking into a wearable device does not necessarily provide 
+immediate value for a hacker, the real value lies in the wearable device’s 
+connection to a person’s personal smartphone or tablet.
+
+Most wearables collect a lot of data, and then feed it to an application on a 
+smartphone or tablet for processing. Most of these devices use Bluetooth LE 
+(low energy) technology, which has suffered a number of very well documented 
+security flaws. The vulnerability of Bluetooth is becoming more well known, and 
+will possibly become worse as new versions of applications are rolled out.
+
+Physical Hacks 
+Physical Hacks 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?14>
+Physical access also opens up a variety of new avenues for hacking.
+
+In 2015 there was an increase in the area of hardware and hardware-centric 
+attacks. Many new academic and proof-of-concept reports concerning hardware 
+attacks were published, and the security industry discovered multiple, 
+in-the-wild hardware-based attacks.
+
+The side effect of DRAM (Dynamic Random-Access Memory) is that the memory may 
+get corrupted by simply reading the ‘bits’ in a different part of the chip.
+
+This corruption has been given the name Rowhammer because repeated accesses to 
+a single one of the DRAM’s internal ‘rows’ of bits can bleed charge off the 
+adjacent rows, causing bits to ‘flip’.
+
+These repeated accesses are referred to as ‘hammering’. Memory cells then leak 
+their charges and interact electrically between themselves, causing corruption 
+of data.
+
+Final: to the future 
+Final: to the future 
+<https://interactive.guim.co.uk/embed/labs/2016/nov/intel-the-evolution-of-hacking/gifs.html?15>
+As long as we keep valuable data in the digital space, so too will there be 
+cyber criminals. And even with increasing security, cybercrime will continue to 
+thrive into the future.
+
+Like any business, most cyber criminal operations follow the money, looking 
+for the easiest way for them to steal something of value. The growing worth of 
+personal data will play a big part - already more sought after than payment 
+card information, it will continue to climb in value as a commodity that can be 
+traded on the black market.
+
+Still, to counter this increase in cyber attacks, we continue to see ongoing 
+advances and improvements in antivirus software. Education, both personal and 
+organisational, will also play an important role in ensuring our future safety 
+online.
+ 

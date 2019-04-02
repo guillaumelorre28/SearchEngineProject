@@ -1,0 +1,92 @@
+
+One of the most surprising statistics to emerge from Kleiner Perkins Caufield 
+Byers' annualInternet Trends Report 
+<http://www.slideshare.net/kleinerperkins/internet-trends-2014-05-28-14-pdf>, 
+written by partner Mary Meeker, was the amount of time users spend consuming 
+media on mobile devices. This highlights the immense opportunity mobile still 
+presents.
+
+According to the report, consumers spend 20% of their time using mobile 
+devices, up from 12% last year. Despite this, advertisers are still only 
+spending 4% of total budget on mobile ads, up 3% from last year. This is almost 
+the inverse of print media, which still receives 19% of advertising investment, 
+despite taking up just 5% of consumers' time. Advertisers are aware of these 
+statistics and understand the value of mobile ads – but technical obstacles are 
+preventing them from acting.
+
+There are a number of roadblocks for potential mobile advertisers. These 
+challenges include issues with attribution and tracking, the lack of 
+standardised ad formats and how to create landing pages that will work across 
+multiple devices. Some of these also extend beyond the advertiser's control, 
+for example network load times and device usability issues. But on the plus 
+side, some of these challenges are quickly being tackled – for example page 
+load times are decreasing, partly due to advances in device speed as well in 
+increases in wireless speeds as the rollout of 4G in Europe and 4G LTE in the 
+US continues.
+
+One challenge that persists is the issue of designing landing pages that look 
+good across all devices. The smartphone and tablet market is ery fragmented, 
+with a plethora of screen sizes that need to be supported. Even if you were to 
+support only mobile devices from Apple, you would need to modify your landing 
+pages to support the iPad, iPad Mini and two iPhone screen sizes. However, 
+having a fully responsive site can be worth the effort you need to put in. 
+Voices.comreported 
+<http://www.marketingsherpa.com/article/case-study/b2b-web-optimization-mobile-responsive-design>
+ a 140% increase in transactions from their responsive efforts.
+
+As for tracking and attribution, Google has introduced Estimated Cross-Device 
+Conversions 
+<http://adwords.blogspot.co.uk/2013/10/estimated-total-conversions.html> in 
+Adwords to enable advertisers to track actions that start on one device and 
+lead to a conversion on another – such as when a customer does a search on 
+their mobile device but switches to their deskop to complete the purchase. 
+Facebook has also releasedCustom Audiences 
+<https://www.facebook.com/business/news/custom-audiences> to allow advertisers 
+to deliver targeted cross-device ads to users who visit their website or use 
+their mobile application.
+
+As for mobile ad formats, the Interactive Advertising Bureau (IAB) has been 
+working closely with some of the largest internet companies to ensure the 
+industry guidelines and ad specifications don't get left behind, through their
+Mobile Rising Stars <http://www.iab.net/risingstarsmobile> program – an 
+initiative to standardise cutting-edge ad formats. Facebook, which isn't part 
+of this program, has been innovating quickly and testing multiple ad formats in 
+its news feed. It seems it may have stuck gold: Mark Zuckerberg claims the 
+company'sMobile App Ads 
+<https://developers.facebook.com/docs/ads-for-apps/mobile-app-ads/> have driven 
+350m downloads 
+<http://venturebeat.com/2014/04/23/facebooks-app-install-ads-have-driven-350m-app-downloads-to-date/>
+ from their 1bn a month active mobile users.
+
+Facebook also launched Ad Network at the end of April, allowing advertisers to 
+push their existing mobile ads – previously only viewable within Facebook – to 
+a network of third-party applications. Their platform includes all their 
+existing (and somewhat controversial) targeting tools, allowing advertisers to 
+reach highly targeted users of third-party apps.
+
+It's not just in-app advertising that is taking off, according to a report 
+<http://www.marinsoftware.com/resources/whitepapers/mobile-search-advertising-around-the-globe-2014-annual-report>
+ released earlier this year by Marlin Software, an ad management firm. The US 
+mobile search prices for Google are up by nearly 21% on smartphones and 23% on 
+tablets.
+
+Innovation on all fronts (from device manufacturers, ad networks and 
+businesses) has helped conversion rates – the percentage of website visitors 
+that purchase – on tablets beat those on conventional computers for the first 
+time ever. Last year conversion rates for smartphones and tablets jumped by 57% 
+and 67% respectively, compared with 36% for computers.
+
+In the face of these challenges, it may take some time before ad spend matches 
+consumer consumption habits. Once it does, however, the market will be forever 
+altered for advertisers and consumers alike.
+
+John McLaughlin is a start-up founder and entrepreneur based in Manhattan.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media Network membership 
+<https://register.theguardian.com/media/>. 
+
+All Guardian Media Network content is editorially independent except for 
+pieces labelled 'Advertisement feature'. Find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

@@ -1,0 +1,65 @@
+
+The Government Procurement 
+<https://www.theguardian.com/government-computing-network/procurement> Service 
+has opened its long awaited channel for the public sector to obtain cloud 
+computing services on a 'pay as you go' basis.
+
+It has been named CloudStore <http://www.govstore.net/> rather than the 
+Government Application Store, the name under which it was developed, and makes 
+more than 1,700 services from 258 suppliers available through a catalogue for 
+the first tranche of the G-Cloud service.
+
+It comprises four service genres – infrastructure as a service, platform as a 
+service, software as a service and specialist cloud services – and individual 
+services including email, word processing, system hosting, enterprise resource 
+planning, electronic records management, customer relationship management and 
+office productivity applications.
+
+The Cabinet Office said it provides the public sector with a cheaper, quicker 
+and more transparent way to procure services, and that its main advantage will 
+be that it gives organisations the option to pay for many services as they use 
+them rather than developing their own systems.
+
+Francis Maude, minister for the Cabinet Office, said: "The launch of 
+CloudStore is an important milestone in theGovernment's ICT strategy 
+<http://www.cabinetoffice.gov.uk/content/government-ict-strategy> to deliver 
+savings and an IT system fit for the 21st century. Simply stated, purchasing 
+services from CloudStore will be quicker, easier, cheaper and more transparent 
+for the public sector and suppliers alike."
+
+The catalogue includes service details and pricing information 
+<http://gcloud.civilservice.gov.uk/2012/02/19/cloudstore-open-for-business/>. 
+Among the suppliers included are big names such as Capita Business, CSC 
+Computer and Atos IT services, but about 50% are SMEs.On its G-Cloud blog 
+<http://gcloud.civilservice.gov.uk/2012/02/19/cloudstore-open-for-business/>, 
+the Cabinet Office has highlighted that the service has been developed by a UK 
+SME, Solidsoft, while it is hosted on Microsoft's Windows Azure cloud platform.
+
+Maude added: "By creating a competitive marketplace, the G-Cloud framework 
+will constantly encourage service providers to improve the quality and value of 
+the solutions they offer, reducing the cost to taxpayers and suppliers. And it 
+gives SME suppliers of niche products the same opportunities as bigger 
+organisations supplying services.
+
+"Using cloud solutions that have already been secured and accredited will 
+almost always be less expensive, and we will only pay for what we use. We will 
+also know from the outset the cost of the product and, importantly, the cost of 
+exit from contracts that will be no longer than 12 months."
+
+The framework will be open to applications from potential new suppliers in the 
+spring. 
+<https://www.theguardian.com/government-computing-network/2012/feb/07/gcloud-cloudstore-second-chance-framework?INTCMP=SRCH>
+
+The G-Cloud framework has been under development for more than two years, with 
+the aim of providing a route for the easy procurement of IT services on a 'pay 
+as you go' basis.Central government has a target of cloud services accounting 
+for 50% of IT spending by 2015. 
+<https://www.theguardian.com/government-computing-network/2011/oct/21/government-ict-strategy-implementation-plan>
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Guardian Government 
+Computing network here. 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+
+
+ 

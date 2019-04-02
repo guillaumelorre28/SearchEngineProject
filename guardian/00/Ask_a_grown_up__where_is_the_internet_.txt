@@ -1,0 +1,20 @@
+
+Every time you do something on the internet, your request travels to a group 
+of special computers inside huge air-conditioned buildings known as data 
+centres. There are many thousands of these around the world, and each computer 
+holds a part of the internet – some may have pictures, emails or videos on 
+them; others contain indexes, for example a "map" of where data can be found.
+
+The network that connects the computers is what we call the internet. A 
+company such asGoogle <https://www.theguardian.com/technology/google> has 
+hundreds of data centres – usually situated near water for cooling, electricity 
+to keep the computers running and near to you – so that the internet is as fast 
+as possible. The web is made up of 60 trillion pages, and it's growing all the 
+time. When you search for something, it could take 100 computers inside one 
+data centre to understand your question, find possible answers and bring them 
+back to you in a useful form – and generally all in less than a second.
+
+• If you're 10 or under, and have a question that needs answering, email 
+ask.a.grownup@theguardian.com <mailto:ask.a.grownup@theguardian.com>, and we'll 
+ask an expert to look into it for you.
+ 

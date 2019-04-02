@@ -1,0 +1,90 @@
+
+For those of you that have bought yourself an Amazon Echo today, you will be 
+able to enable the Guardian skill. For those of you that haven’t, let us 
+explain what it’s all about.
+
+Amazon Echo 
+<https://www.amazon.co.uk/Amazon-SK705DI-Echo-Black/dp/B01GAGVIE4/ref=sr_1_1?ie=UTF8&qid=1474962068&sr=8-1&keywords=amazon+echo>
+ is a smart hands-free speaker that can recognise and respond to voice 
+commands. Echo is the first way you can speak withAlexa 
+<https://developer.amazon.com/alexa>, Amazon’s voice service. You can ask her 
+for information about the weather and sports scores. She interfaces with your 
+favourite services and devices, so you can ask her to play music on Spotify or 
+switch your lights on and off. We believe technology like this could make a 
+significant difference to our homes.
+
+Mary Meeker: voice-controlled tech set for exponential rise in next few years
+ Read more  
+<https://www.theguardian.com/technology/2016/jun/01/mary-meeker-voice-controlled-tech-boom-technology-predictions>
+This has only been made possible by advances in natural language processing 
+<https://en.wikipedia.org/wiki/Natural_language_processing> and voice 
+recognition <https://www.theguardian.com/technology/voice-recognition>. Over 
+the last few years, accuracy has come on leaps and bounds. Machines are now far 
+better at interpreting the words spoken to them and understanding how to act on 
+these commands.
+
+Amazon Echo has been available in the US since November 2014 and has been 
+gaining a loyal audience there. When we found out that Amazon werelaunching in 
+the UK and Germany 
+<https://techcrunch.com/2016/09/14/amazons-alexa-powered-echo-and-echo-dot-coming-to-uk-and-germany/>
+, we thought this would be a great opportunity to present our journalism not 
+just in a new way, but in a way to make it much more accessible. Just think - 
+while you’re getting the kids ready for school, cooking dinner, or enjoying a 
+Sunday cuppa with your feet up, you can check in with us without having to pick 
+up your phone. Most excitingly, this allows us to build a fantastic experience 
+for anyone with visual impairments.
+
+Our skill is available for you to use in the UK today. We hope to have it 
+available in the US in a few weeks time.
+
+
+Ask for news and opinion
+
+The first version of our skill allows you to ask the Guardian for the 
+headlines or ask for the news for a particular topic you’re interested in, such 
+as the US elections or football. If you want to hear a little more in-depth on 
+a topic, you can ask for opinions on it.
+
+Things you can ask:
+
+ * “Alexa, ask the Guardian to give me the headlines” 
+ * “Alexa, ask the Guardian to tell me the football headlines” 
+ * “Alexa, ask the Guardian for the latest opinions on US Elections” 
+Ask for reviews
+
+The Guardian is more than just the news. Ask the Guardian for the latest film, 
+book, music and restaurant reviews. Planning your next trip to the cinema or 
+choosing the next title to read should be that little bit easier.
+
+Things you can ask:
+
+ * “Alexa, ask the Guardian to give me latest film reviews” 
+ * “Alexa, ask the Guardian to read me book reviews” 
+ * “Alexa, ask the Guardian to tell me the latest restaurant reviews” 
+The Guardian Podcasts
+ Read more  <https://www.theguardian.com/media/2016/sep/14/podcasts> 
+Ask for podcasts
+
+And you can also listen to our popular weekly podcasts. We cover a wide range 
+of interests -Politics Weekly 
+<https://www.theguardian.com/politics/series/politicsweekly>, Science Weekly 
+<https://www.theguardian.com/science/series/science>, Football Weekly 
+<https://www.theguardian.com/football/series/footballweekly> or Close Encounters
+ <https://www.theguardian.com/lifeandstyle/series/close-encounters>. Check out 
+thefull list of our podcasts 
+<https://www.theguardian.com/media/2016/sep/14/podcasts>.
+
+Things you can ask:
+
+ * “Alexa, ask the Guardian to give me the latest podcasts” 
+ * “Alexa, ask the Guardian to give me the latest Football Weekly” 
+ * “Alexa, ask the Guardian to play me Politics for Humans” 
+Send us your feedback
+
+
+We have some exciting ideas for the Guardian skill. But like you, we’re very 
+new to Alexa and would love to hear your thoughts and ideas - please email the 
+team atalexa.feedback@theguardian.com <mailto:alexa.feedback@theguardian.com>.
+
+We hope you enjoy this new way of discovering and enjoying our journalism.
+ 

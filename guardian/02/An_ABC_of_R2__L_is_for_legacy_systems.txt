@@ -1,0 +1,16 @@
+
+Today L, for legacy systems... which needed to be removed if we were to be 
+productive. Just adding shiny new things would only add to our workload if we 
+didn't also get rid of the old ones.
+
+In fact the most significant legacy systems needed to be removed (or at least 
+isolated) before we could even start R2. These included internal dependencies 
+on an unsupported browser, a cumbersome (and imminently unsupported) 
+application server, and a particularly insidious database table.
+
+Eliminating these was not a glamorous job by external standards, but it was a 
+necessary one. And significantly it allowed us to prove and improve our Agile 
+skills. Each project was more complicated than the one before. By the time we 
+got to the last of these we believed we really could undertake the largest 
+software project since the website began.
+ 

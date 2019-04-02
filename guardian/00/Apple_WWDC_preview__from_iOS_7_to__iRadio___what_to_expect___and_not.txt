@@ -1,0 +1,197 @@
+
+Talking to developers ahead of Apple's Worldwide Developer Conference (WWDC) 
+at San Francisco, one detects a sense both of puzzlement and excitement.
+
+Puzzlement because there have been absolutely no leaks from the company ahead 
+of the announcement on Monday, at which chief executive Tim Cook, marketing 
+chief Phil Schiller, software chief Craig Federighi, services chief Eddy Cue 
+and – perhaps – design head Jonathan Ive will be speaking.
+
+Excitement because it's been years since so little was known ahead of a big 
+Apple event like this. Even John Gruber, normally one of the best-connected 
+people with "little birds" who pass on hints and nudges from inside Cupertino,
+professes that he has no idea what's coming 
+<http://daringfireball.net/2013/06/wwdc_2013_expectations>. That in turn means 
+that people are awaiting the "big reveal".
+
+As ever with Apple <https://www.theguardian.com/technology/apple>, one has to 
+go on hints, nudges and timing. So let's run down the list of certain through 
+to definitely not.
+
+Certain
+
+• There will be a new version of iOS – iOS 7 – revealed, at least in part. 
+It's expected to be released in the autumn, when the next update of theiPhone 
+<https://www.theguardian.com/technology/iphone> is released. Based on the icons 
+some claim to have seen, and the posters for the conference, the expectation is 
+that it will follow Ive's philosophy: no frippery in appearance, and a 
+"flatter", more functional appearance.
+
+The death of skeumorphism (seen in apps such as Find My Friends, which suffers 
+faux leather stitching for no obvious reason, and Find My iPhone, which 
+displays a bizarrely flickering compass needle while it "looks" for your 
+device, and so on) will be widely celebrated. Scott Forstall, the former chief 
+for iOS software, was known to be a fan of skeumorphism; Ive isn't.
+
+The question around iOS is what it will do to bring it forward to cope with 
+the next years of smartphone development. In recent years it has added the 
+Notification Center (just like Android's), iCloud and its own Maps app. The 
+first won applause; the latter two, raspberries. Furthermore, there's no way to 
+change the default apps for processes like maps or email, nor any equivalent of 
+the "intents" that Android uses to let apps hook together. On the desktop, 
+Apple has its own equivalent of intents – Applescript's object handlers – but 
+hasn't let mobile apps link up in the same way.
+
+The enduring question is, do most people need or want the power to change 
+their default apps, or to hook together mobile apps? It's a fact that a 
+minority likes being able to change the default apps on Android. That's very 
+different from the question of whether it's necessary or even desirable. Most 
+user behaviour sticks with defaults; allowing different ones multiplies the 
+complexity of support geometrically, both from the developer end and the 
+customer support end.
+
+Tim Cook seemed to suggest at the ATD11 conference that Apple might be 
+receptive to the idea of making the iPhone more open to third-party apps, which 
+has companies which write keyboard apps (for example) pricking up their ears. 
+Even so, it seems unlikely. Far more likely that more companies will be "baked 
+in" to the operating system - so where last year both Twitter and Facebook were 
+added as baseline apps to which one could post from anywhere in iOS,this year 
+Flickr and Tumblr may join the crew. (That would be a double win for Yahoo.) 
+Don't expect YouTube or Google+ to be made first-class citizens. Because, you 
+know,reasons.
+
+• A new version of Mac OS X will be shown off. The name and timing of its 
+release are unknown, but from the poster that's on show at the Moscone Center 
+where the event will happen – showing a thin sans-serif "X" against what looks 
+like algae – some people have decided that the next version of the desktop 
+software will also have "Lion" in the name, just like the previous two.
+
+What name? "Mac OS X Sea Lion". (Brm-tish.)
+
+Seriously, though, it's hard to know quite what the desktop can learn from the 
+tablet or phone version, as happened with the previous version a year ago. More 
+likely – one hopes – that Apple will see the tablet as a "middle ground" which 
+can learn from the desktop, as Microsoft has done with the Surface, where you 
+can have two windows open from different applications at once, greatly easing 
+the task of shifting information between apps. The great revelation about the 
+original GUI interface on the Mac compared with command-line interfaces was 
+that it made it easier to shift information around between apps; iOS on both 
+the iPhone and iPad has apparently forgotten this fact, which Samsung (on 
+TouchWiz Android on large screens) and Windows 8 (on the Surface) have both 
+shown to be a useful function. If "Algae X" really indicates that theiPad 
+<https://www.theguardian.com/technology/ipad> version of iOS will get extra 
+functionality, that will be all to the good.
+
+Fairly certain
+
+• A new Mac Pro, the professional desktop computer. The Mac Pro had a minor 
+update in June last year, but has been essentially moribund since 2010. The 
+expectation is that it will finally get high-end processing and a design update 
+– along with an announcement, hinted at by Apple sources, that it will be made 
+in the US. Certainly WWDC would be the appropriate venue to announce a new 
+version of the professionals' desktop product. Otherwise it will just wither on 
+the vine.
+
+• A streaming music service, perhaps called "iRadio". All three major music 
+labels are now reported to be on board with this, which would enable Apple to 
+steamroller companies such as Pandora and Spotify by offering a free 
+(ad-supported) service to its hundreds of millions of iTunes users. One big 
+advantage Apple has over those rivals is its Genius service,launched in 2008 
+<https://www.theguardian.com/technology/2008/sep/12/apple.ipod>. Genius runs in 
+the background looking at all of your iTunes library, trying to figure out what 
+goes with what; that could make "iRadio" fantastic, because the best predictor 
+of what music you'll like is what music you already like – not, as some 
+services try to pretend, what your friends like.
+
+True, Apple's Ping service flopped badly 
+<https://www.theguardian.com/media/us-news-blog/2012/sep/17/apple-ping-social-media-deaths>
+ – but that's because it tried to be a social network. Unusually for something 
+that so many people engage with, one's taste in music isn't social; it's not 
+predictable from your political or social position. You don't necessarily like 
+the music your friends like. You like what other people who like the same music 
+like. Genius should know what that is – so "iRadio" should be good at finding 
+music you'll want to listen to.
+
+Less certain
+
+• New MacBook Airs. The lightweight computers could get an update with the 
+Intel Haswell chip, which uses far less power than previous generations. But 
+it's unlikely there will be a "retina" version with four times as many pixels 
+as now; the battery wouldn't be able to take the hammering that implies.
+
+• A new Apple TV set-top box, and apps to go with it. Last year, it looked 
+completely obvious 
+<https://www.theguardian.com/technology/blog/2012/jun/11/ios-6-apple-wwdc-2012> 
+that Apple would announce an SDK (software development kit) for Apple TV apps, 
+which would lead its way into the "smart TV" revolution. Nothing of the sort 
+happened. Increasingly, it's hard to see how any company can break into the 
+content producer/cable TV tieups in the US which dictate how companies like 
+Apple view TV. Both sides benefit from the situation as it stands; neither 
+would benefit from its breakup. (For more on this, and why the idea of 
+"cable-cutting" is a fiction, readBen Thompson's Stratechery posts 
+<http://stratechery.com/2013/the-cord-cutting-fantasy/>.) Google underestimated 
+the extent of this interdependency with Google TV, though it did incidentally 
+prove that simply offering a technology is no guarantee that it will be adopted 
+by anyone.
+
+• Improvements to Maps. This is sorely needed; the cartography gives roads 
+insufficient emphasis when trying to find locations, and updates (aka 
+corrections) aren't taken in rapidly enough.
+
+• Better connectivity to Siri. Again, this was hoped for last year and didn't 
+emerge; instead Apple itself began offering more interfaces from Siri to 
+services such as football results. Opening it all up to third-party apps could 
+be a voice control boon.
+
+Just uncertain
+
+• Time-limited or other flexibility on buying apps. Developers complain that 
+they can't offer time-limited full functionality, nor "buy the functionality" 
+versions of apps; all they can do is offer two versions, the "lite" and "full" 
+versions of apps.
+
+Apple however has little reason to salve these complaints. It can point out 
+that it's still (for now) the company with the most app downloads, and 
+certainly the most monetisation of those apps. For developers, the money is 
+starting to shift into developing "line of business" apps for companies of all 
+sizes: two of the restaurants I visited today in San Francisco used iPads for 
+their point-of-sale systems, and it won't have been because Apple is 
+headquartered in the same region. (After all, so is Google.) Though apps could 
+certainly benefit from more variation in sales systems, there's little 
+incentive for Apple to add what it will see as more complexity to its app sales 
+process.
+
+• Better iCloud. Developers have been complaining bitterly about iCloud, with 
+good reason. As one pointed out to me, its problem is that it's an umbrella 
+name for all sorts of processes – synchronising email, calendars, passing data 
+about location, synchronising documents, storing information. It doesn't work 
+well for third-party developers, and barely for Apple. At the two-year mark, 
+it's time for something to change radically so that iCloud makes sense.
+
+• An "iWatch". The idea of a wearable something – watch? – is tempting, but 
+it's the wrong time of year to launch it; Apple is increasingly focused on the 
+Christmas buying season, though it might not be averse to offering something in 
+summer to test the waters, and release a newer version in a year's time to 
+really go for the mass market.
+
+Definitely not
+
+• New iPhones. It's the wrong time of year, and this is a developer 
+conference, not a hardware conference.
+
+• New iPad(s). As for iPhones, it's the wrong time of year; announcing 
+something now would just give rivals the chance to announce something in early 
+autumn and capture Christmas share.
+
+• A TV set. The fact that the rumours persist around this doesn't make it more 
+true; it just makes those who push the rumours persistent. Those are two quite 
+different things. There's too little renewal in the TV business to make it 
+worthwhile for Apple; the margins are too low; it's a commodity business which 
+is shaped by its content, which already suffers from the cable/content tieup.
+
+• Any mention of the Prism programme and the access the NSA gets to messages 
+and email. Even if it is the story dominating front pages and news bulletins.
+
+We'll be liveblogging from the keynote event (which starts at 10am US Pacific 
+time, 1pm EST, 6pm BST). Join us there.
+ 

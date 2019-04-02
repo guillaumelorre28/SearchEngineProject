@@ -1,0 +1,73 @@
+
+Earlier today I set you the following puzzles 
+<https://www.theguardian.com/science/2016/sep/26/can-you-solve-it-are-you-smarter-than-the-gogglebox-brainbox>
+, each penned by William Hartston, aka Bill off Gogglebox:
+
+1) What is the next number in the following series?
+
+
+23, 9, 20, 14, 14, 9, 20, 6, ...
+
+2) Mary I; George III, Henry III, James II, George IV, Charles I, ...
+
+
+Why might Henry I be an appropriate way to end the series?
+
+3) What comes next in the following series?
+
+
+2.1, 3.5, 3.3, 2.3, 1.3, 2.4, 2.5, 2.6, 1.8 ...
+
+4) What comes next in this series: 
+
+
+1, 2, 9, 12, 70, 89, 97, 102 ...
+
+Solutions
+
+1) 19 – the numbers are the alphabet positions of the first letters of the 
+words in the question.
+
+2) The code is that Mary I is taken to mean the first letter of Mary, George 
+III is the third letter in George, and so on. The whole series, including a 
+final Henry I, therefre spells out the word “monarch”.
+
+
+3) 2.7 They are the row and column positions on a QWERTY keyboard of the 
+letters in alphabetical order. (2.1 means second row, first letter; 3.5 is 
+third row, fifth letter, etc.)
+
+
+4) 112: Subtract 1 from each number and you get the numbers that are the same 
+upside down: 0, 1, 8, 11, 69, 88, 96, 101, 111, 181...
+
+Don’t feel too bad if you did’t get that last one. Says Bill: “I came up with 
+it many years ago when talking to a Cambridge mathematician who was about to 
+compete in a puzzle-solving competition against Oxford. He told me that at the 
+end of the formal part of the contest, they had an informal bit where the teams 
+set each other original puzzles and he asked if I could come up with something. 
+The above question was the result. Nobody solved it, though everyone agrees it 
+is completely fair and logical.”
+
+
+Thanks again to Bill for letting me use these puzzles. Don’t forget to check 
+out his recent bookEven More Things That Nobody Knows: 501 Further Mysteries of 
+Life, the Universe and Everything <http://amzn.to/2dd3zTp>, which is out in 
+paperback in November.
+
+I post a puzzle here on a Monday every two weeks. If you want to propose a 
+puzzle for this column, pleaseemail me <mailto:bellospuzzle@gmail.com> I’d love 
+to hear it.
+
+I’m the author of several books on maths, as well as the kids book Football 
+School: Where Football Explains the World <http://amzn.to/2bqxfYt> which tells 
+you loads of amazing stuff parents don’t tell you such as when exactly 
+footballers poo, why eagles are the most common mascot for football teams and 
+how to play football on Mars
+
+You can check me out on Twitter <https://twitter.com/alexbellos>, Facebook 
+<https://www.facebook.com/pages/Alex-Bellos/326738482347?ref=bookmarks>, Google+
+ <https://plus.google.com/u/0/100349853927591455618/posts>, my personal website 
+<http://www.alexbellos.com/> or my Guardian maths blog 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>.
+ 

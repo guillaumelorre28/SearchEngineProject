@@ -1,0 +1,45 @@
+
+Today P, for pair programming... which was, and is, a hugely important part of 
+our software development, and something that took a long time to learn to do 
+well.
+
+Pair programming is when two developers sit at one machine and one keyboard to 
+write the software. It's very difficult to do: the driver has the pressure of 
+someone watching their every move, and the navigator has to be aware of what's 
+going on because they'll be asked to take over at any moment and they have a 
+responsibility to keep an eye on the bigger picture. It also makes it a very 
+collaborative process -- the pair need to work out together exactly how they're 
+going to tackle every problem. Mat, leading our architecture team, calls this 
+"keeping each other honest".
+
+Pairing looks expensive -- two people apparently doing something that one 
+could do -- but that makes the mistake of thinking that all software is the 
+same and all developers are interchangeable. Here are some of the benefits 
+we've found:
+
+
+
+ * Developers are more productive. With someone sitting beside you you can't 
+afford to cruise. You've got to be demonstrably on the ball all the time. 
+ * The quality of the software is much higher. I've listened to developers 
+discussing how they should write a particular piece of code, suggesting 
+alternatives and weighing up pros and cons that one individual would never have 
+come up with by themselves. 
+ * Developers become much more skilled much more quickly. Everyone learns off 
+everyone else. 
+ * The company's technology investment is de-risked. Highly specialised 
+knowledge is shared among many people, and doesn't live just in the head of one 
+person. This also means... 
+ * ...Resourcing projects is easier. Because more people are able to move onto 
+other teams more often, since (a) they are more likely to have the knowledge 
+needed for the new team, and (b) they are less tied to their existing team 
+since they will have shared that knowledge. This last point also means... 
+ * ...Developers have more opportunities to learn new things. They can move 
+onto other teams and new projects, safe that they won't be constantly called 
+back to their previous team, because they'll have shared their skills and 
+knowledge. 
+When a software project is complete the software itself is only just beginning 
+its life, in operation day after day -- and in the case of our software, by 
+hundreds of people for many years to come. So that development investment has 
+to ensure the product is of very high quality, and pair programming is part of 
+how we ensure that. 

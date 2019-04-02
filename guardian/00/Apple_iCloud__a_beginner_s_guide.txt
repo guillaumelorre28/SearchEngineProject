@@ -1,0 +1,88 @@
+
+Today, Steve Jobs came out of his medical leave early to reveal Apple's new 
+cloud service, the iCloud, at the company's Worldwide Developers Conference in 
+California. In a world of iAppliances, it is easy to get overwhelmed. For 
+example, is it possible to watch programmes from the iPlayer on my iPad? Is my 
+iPod synced to my iTunes? What kind of iRain is likely to fall from the newly 
+launchediCloud <https://www.theguardian.com/technology/icloud>? Let's start at 
+the very beginning.
+
+What is the 'cloud'?
+
+Once, you would do your work on your personal computer and save it onto your 
+hard drive. And there it would sit, accessible only to you (and maybe a few 
+other select users on a local network), and could only be manipulated (edited) 
+if you had the right software on your device. The cloud overcomes this 
+limitation – all you need is connectivity (pretty much universal, with the 
+internet), and a cloud provider (a company that facilitates access to the cloud 
+or their data servers). This means that any computer which is connected to the 
+internet (including mobile devices such as smartphones and tablets) is 
+connected to all the same applications and files. In terms of online storage, 
+it creates better conditions for collaborative work; for example, a change made 
+to a Word document would be available to users on different computers because 
+the information is synchronised across all computers. The need for carrying 
+around physical storage devices is eliminated. Hundreds of millions of us 
+already use the cloud everyday, to share photographs, music and video clips. It 
+is, like love, all around. The cloud signals, by and large, the end of "stuff".
+
+Where is all the information in the cloud actually stored?
+
+The information in the cloud ranges from the personal but unimportant to the 
+highly sensitive. So where is it all kept? If it is lost, can it be recovered? 
+And is it secure? The data in the cloud exists on servers, and these are 
+mirrored onto other servers to keep data secure and available. That way, if one 
+cluster of servers falls over, then data is available from servers in another 
+data centre or elsewhere in the same location. For example, Google's index is 
+mirrored across thousands, if not millions of servers. So if your data was to 
+be lost, it is more or less guaranteed that they would find it.
+
+While it would be easy to find the information, it is no surprise that 
+organisations do not willingly yield the details of where the physical servers 
+are located. And why would they? No one wants to be held to ransom or attacked. 
+Even so, if an attacker were to gain physical access to the servers, it is 
+unlikely that they would gain any really useable data.
+
+Uses of the cloud
+
+Web-based email (like Gmail or Hotmail) has been acting in the cloud for a 
+long time. People use their email accounts to back up the files on their 
+personal computers – and this information can be held securely and indefinitely 
+in the cloud. In addition to being a hugely successful online retailer, Amazon 
+also provides cloud-computing services by renting out space on its powerful 
+servers to customers worldwide. In April an Amazon cloud failure took out 
+social-networking sitesFoursquare <https://foursquare.com/>, Reddit 
+<http://www.reddit.com/> and Quora <http://www.quora.com/>.
+
+What is the iCloud?
+
+It is, quite simply, a content-sharing service on the cloud. Sources from the 
+music industry have indicated thatApple 
+<https://www.theguardian.com/technology/apple> has signed up with the four 
+major music labels – EMI, Sony, Universal and Warner Music, to provide a 
+music-streaming service in the US. Some are suggesting that the iCloud is 
+designed to be the new iTunes – in which music, videos, podcasts etc will be 
+available for streaming.
+
+What are the best cloud-based sites?
+
+Dropbox.com <http://www.dropbox.com/> and YouSendIt.com 
+<https://www.yousendit.com/> are just two of the most used cloud-based sites. 
+Dropbox was created in 2007 by two MIT students who were "tired of emailing 
+files to themselves to work from more than one computer". It's a free service 
+that let you share your documents easily. YouSendIt.com allows you to store and 
+send large files over the web.
+
+Spotify <http://www.spotify.com/uk/> is a music-streaming service launched in 
+2008. Previously free, it recently capped its free usage at 10 hours a month, 
+with a premium membership allowing for unlimited listening at £9.99 a month. It 
+has approximately 10 million users.
+
+Amazon <http://www.amazon.co.uk/> launched its cloud player in March, which 
+gives users 5Gb of storage space to upload songs and play them from any number 
+of Android devices.
+
+Google Docs is a free web-based storage service. It allows users to create and 
+edit text, spreadsheet and slide show documents in real time with other users.
+Google <https://www.theguardian.com/technology/google> has also released Music 
+Beta, a streaming service announced last month.
+ 

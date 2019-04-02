@@ -1,0 +1,145 @@
+
+When a virtual space overlaps a real-world space, then whose space is it, and 
+who controls what is created as a result? The success of augmented-reality game
+Pokémon Go <https://www.theguardian.com/technology/pokemon-go> has forced this 
+question into focus. Since its launch less than a week ago, groups worldwide 
+have struggled with the game’s unforeseen ramifications.
+
+
+
+Washington DC’s Holocaust Museum has asked Pokémon Go players to stay away 
+<https://www.theguardian.com/technology/2016/jul/13/pokemon-go-us-holocaust-museum-asks-players-to-stay-away>
+: the museum was designated a Pokéstop, where players can pick up items like 
+Pokéballs and revives, forcing its communications director to point out that 
+playing a game inside a memorial to victims of Nazism is “extremely 
+inappropriate”.
+
+In the Sydney suburb of Rhodes, a chance confluence of Pokéstops has led to 
+“hundreds” of players milling around a small outdoor area 
+<https://www.buzzfeed.com/bradesposito/pokemon-go-rhodes?utm_term=.lhp6JaA2#.yw8d5Ng8>
+. “The place is in complete chaos with crowds of well over 1,000 per night. 
+There is a massive level of noise after midnight, uncontrollable traffic, 
+excessive rubbish, smokers, drunk people, people who are ‘camping’ in the site, 
+and even people peddling mobile phone chargers,” a resident told Buzzfeed.
+
+Boon Sheridan, a Massachusetts man who lives in a converted church, has found 
+his house has been designated a Pokémon Gym 
+<https://twitter.com/boonerang/status/751849519407595520?ref_src=twsrc%5Etfw>, 
+the most important category of locations in the game. For days, people have 
+been loitering outside his house, leaving him concerned it “could easily make 
+this place look like a dealer’s house”.
+
+Some of these problems can be pegged to the unexpected, astronomical success 
+of Pokémon Go. Back in June,I spoke to John Hanke 
+<https://www.theguardian.com/technology/2016/jun/10/pokemon-go-niantic-lab-mobile-games>
+, the chief executive and cofounder of the game’s developers, Niantic Labs. He 
+was cautiously optimistic about the game’s potential, saying that the mixture 
+of augmented reality (AR) and Pokémon “felt like a very natural combination on 
+both sides”, but nowhere in our discussion did he suggest he was planning to 
+ride the wave of a multinational phenomenon.
+
+When asked about future plans, Hanke instead discussed licensing the core 
+technology behindPokémon <https://www.theguardian.com/technology/pokemon> Go to 
+other brands looking to make their own AR games. That’s likely to still be on 
+the cards, but for now, the company has their hands full dealing with the 
+monster they’ve unleashed.
+
+Naivety can’t be the only excuse, though. Niantic Labs has been doing this for 
+a long time. Ingress, a science fiction-tinged game developed back when the 
+company was still a subsidiary of Google, has been running for six and half 
+years. In July 2015, the company faced an almost identical controversy, after
+the German magazine Zeit reported 
+<http://www.zeit.de/zeit-magazin/leben/2015-07/ingress-smartphone-game-google-niantic-labs-nazis-concentration-camp>
+ that concentration and death camps including Dachau, Buchenwald and 
+Auschwitz-Birkenau were all set up as in-game “portals”. Some were deleted the 
+day after Zeit contacted Google; others remained, including a portal 
+specifically located at the notorious “Arbeit Macht Frei” gates in Auschwitz.
+
+Pokémon Go and Ingress share a database, built over half a decade from a 
+mixture of public information sources and volunteer contributions. In a 
+technical sense, it’s little different from Wikipedia: a database of geotagged 
+entries on points of interest dotted around the world. Ingress players can even 
+read brief summaries of why the point of interest is actually interesting, a 
+feature which is yet to roll out to Pokémon players. (Do they think we don’t 
+want to learn?)
+
+Wikipedia, of course, can be edited by anyone. Niantic’s database cannot. For 
+the first few days, the company would only accept reports about physical 
+locations “that present immediate physical danger (for example, they are in the 
+middle of a road or on railroad tracks)”. Now, the company has widened it out, 
+and userscan report an issue for a number of reasons 
+<https://support.pokemongo.nianticlabs.com/hc/en-us/requests/new?ticket_form_id=319928>
+, including, notably, to highlight a Pokéstop “on private property”.
+
+The language is telling, and may give more ground – real or virtual – than 
+Niantic intended. A Pokéstop cannot be “on private property”. A Pokéstop does 
+not exist: it is a latitude and longitude stored on Niantic’s servers, 
+interpreted by the Pokémon Go client which then represents it as a circle 
+hovering over a stylised Google Map of the area surrounding the player.
+
+In the short term, it clearly makes sense for Niantic to offer this control to 
+landowners. It doesn’t result in great press for your megaviral casual game if 
+players are arrested for trespassing due to the instructions the game gives 
+them.
+
+Niantic can also comfort itself with the fact that a number of properties are 
+quite happy with their inclusion in the game. Churches have been reported 
+making the most of the sudden influx of young secular players; signs have 
+popped up outside shops reading “No purchase, no Pokémon” and “come for the 
+Pokémon, stay for the selection of retro clothes at affordable prices”; and 
+bars and pubs have found that even if they aren’t an official Pokéstop, 
+dropping a lure on-site results in a short-lived flood of Pokémon. Those lures 
+can be bought for between £0.45 and £0.79 in real money, already offering 
+Niantic a nice way of monetising commercial interest in the game. The nature of 
+capitalism being what it is, of course, you can bet that slicker iterations of 
+the same idea, such as sponsored Pokéstops and Gyms, will arrive sooner or 
+later.
+
+But even though the interests of Niantic and landowners happen to coincide for 
+now, there’s no guarantee that state of affairs is universal. And if – or 
+rather, when – the edge-case arrives, it’s not entirely clear what the right 
+response is. Who does own the virtual space around you? I can’t put a billboard 
+on your house without asking you; but is it so obvious that I should be allowed 
+to put a virtual billboard “on” your house without giving you any say in the 
+matter?
+
+Those questions are only going to get more pressing as the real and virtual 
+merge. Already, Pokémon Go is making the leap from a smartphone app to 
+something with a physical presence, in the form of Pokémon Go Plus, a fancy 
+pedometer built by Nintendo to allow players to stay connected to Niantic’s 
+virtual world even when they aren’t looking at their phones.
+
+Perhaps the best thing to do is to look backwards, not forward, for solutions. 
+In the early days of the 20th century, another technological revolution raised 
+questions of control, trespass and oversight: the aeroplane.
+
+Who owns the air above the land? For millennia, the answer had been both 
+obvious and irrelevant. Suddenly, as airports sprang up, and noisy machines 
+crossed first fields, then nations, then the globe, the question crystallised 
+into something requiring an urgent and definitive answer. The pressure was 
+increased by the (literal) rise of the skyscraper; just as airspace became 
+useful, it also became valuable.
+
+The specifics of that answer vary around the world, but the generalities are 
+the same: above a certain height, the airspace is owned by the state. 
+Landowners can’t charge pilots for the privilege of flying over their land, nor 
+can they block it off entirely.
+
+But there’s a quid pro quo. States enforce a responsibility to the people on 
+the ground, ensuring that unsafe vehicles don’t fly overhead, limiting the 
+noise emitted by low-flying planes, particularly overnight, and ideally 
+ensuring that access to the skies isn’t held hostage for private profit.
+
+In the virtual world, nations are already approaching the same compromise. 
+Data protection laws, particularly in Europe, allow for the freedom to innovate 
+while still offering individuals the choice to object. It’s not a stretch that 
+soon you’ll be able to denote your home a sort of digital no-fly zone, 
+requesting its exemption from databases like Niantic’s without requiring you to 
+individually negotiate a deal with every single AR company.
+
+Technology has typically outpaced legislation, and even with tens of millions 
+of downloads it doesn’t look like Pokémon Go will be the tipping point that 
+causes that trend to change. But the questions raised over the past few days 
+aren’t going away, and while a wild west may work for some, it’s ultimately 
+unsustainable.
+ 

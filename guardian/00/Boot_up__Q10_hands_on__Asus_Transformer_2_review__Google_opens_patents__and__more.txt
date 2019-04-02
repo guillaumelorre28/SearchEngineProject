@@ -1,0 +1,255 @@
+
+A burst of 13 links for you to chew over, as picked by the Technology team
+
+Google Reader and other customer tragedies >> Hal's (Im)Perfect Vision 
+<http://hal2020.com/2013/03/30/google-reader-and-other-customer-tragedies/>
+
+Hal Berenson: 
+
+From a business standpoint why should Google have kept Reader alive? One 
+reason really, that "Google Account" is super-valuable. It is a means for 
+getting someone to use other services. Moreover, it is the ultimate means of 
+performing tracking. As long as I'm logged in to a Google Account while using 
+Google services, including search, they can track my behavior. And because it 
+is first party none of the attempts to block that tracking apply. TPLs? They 
+don't apply to First Party cookies. Safari and other browsers' outright blocks 
+on Third Party cookie? No effect on First Party tracking. Identities are 
+important, andGoogle <https://www.theguardian.com/technology/google> seems to 
+have forgotten that.
+
+Very thoughtful post about the management cost of having many services. Be 
+sure to read his postscript too.
+
+2 Letters from Steve >> David Gelphman's Blog 
+<http://davidgelphman.wordpress.com/2013/03/29/2-letters-from-steve/>
+
+During the 12+ years I worked at Apple I never met with Steve Jobs for work 
+purposes. Of course like allApple <https://www.theguardian.com/technology/apple>
+ employees I saw Steve in Caffé Macs or walking with Jony Ive around the 
+courtyard inside the Infinite Loop campus. And of course there were Comm 
+meetings that he would run. But I didn't have any direct contact. Until…
+
+ 
+In March 2010, just a couple of weeks before the iPad was due to be released 
+publicly, I had a reason to contact Steve. A friend of mine was dying of liver 
+disease and I was going to San Francisco to hopefully see and communicate with 
+her while it was still possible. She was a friend from my Adobe days and was 
+very much into technology. I thought it would be a treat for her to see an 
+iPad. And I had one. But until the product was officially released I could not 
+show it to anyone without permission from Apple management.
+
+Lots of elements in this story are intriguing: rules, who gets to bypass 
+rules, speed of response among others.
+
+Blackberry Q10 hands-on >> Wireless Worker 
+<http://wirelessworker.net/blog/2013/2/blackberry-q10-hands-on>
+
+Ben Smith was at MWC and tried out a prototype of the QWERTY BB10 product, 
+which he liked. However:
+
+Blackberry staff said they expected many customers to switch to full-touch 
+quickly - they're clearly very confident in the firm's new soft keyboard. It 
+was suggested that - for many - the Q10 may be a transition step. That may be 
+the case, but for those (myself included) who prefer a hardware keyboard for 
+messaging this looks promising.
+
+Very slightly larger keys - will that make people more accurate?
+
+Huge construction firm uses iPads and Apple TV to save millions >> CITEworld 
+<http://www.citeworld.com/tablets/21639/balfour-beatty-dfw-airport-ipads>
+
+With architectural and planning documents that would otherwise run to 60,000 
+pages...
+
+The system is centered on a PC in a work trailer with a wired connection to 
+the Internet. Managers use that computer to make major changes to plans using a 
+PDF-editing program from Bluebeam, or to upload new files. This data is synced 
+back to Egnyte's cloud over the fast wired connection. Then, workers in the 
+field can use the iPads and a Wi-Fi connection to get the latest, most 
+up-to-date versions of relevant plans from Egnyte's cloud. They can also mark 
+up plans and take photos of the work site.
+
+Along with the iPads, Pistor set up two digital plan tables on the site. 
+Normal plan tables consist of a big angled slab where workers gather around to 
+consult architectural plans on paper. These digital plan tables include a pair 
+of 55in monitors connected to a PC that's wired to the local network, as well 
+as an Apple TV box. Workers can walk up to the table, connect their iPads 
+wirelessly through the Apple TV to the monitor, and discuss what they're 
+looking at on the big monitors.
+
+The "Cite" in "Citeworld" is "Consumer IT in the enterprise".
+
+A PC and Tablet 'brick' for the price of one >> WSJ.com 
+<http://online.wsj.com/article/SB10001424127887323415304578370331945503470.html?mod=WSJ_Tech_Europe_INTL_LSMODULE>
+
+Katherine Boehret: 
+
+As the [Asus] Transformer's [AIO] name suggests, it also transforms into 
+another device: Pull up on the PC screen to separate it from its stand and it 
+becomes a tablet you can move around the house. It has a handle and a kickstand 
+for propping up on flat surfaces. Like the desktop version, the tablet runs two 
+systems: Windows 8 Remote and Jelly Bean 4.1.
+
+Though this concept sounds smart, it's laughable in practice. The screen 
+measures a whopping 18.4in diagonally and weighs an arm-straining 5.3lb. 
+Apple's iPad screen measures 9.7in and weighs 1.4lb; Samsung's Galaxy Tab 2 has 
+a 7in screen and weighs 0.8lb. At home, carrying this around and using it on my 
+lap elicited fits of laughter from my husband. When I flipped the tablet into 
+vertical mode, it looked like I was reading from a giant, stone tablet. And in 
+Android mode, the tablet's battery only lasted five hours.
+
+Start Up Tech - All For A Little Over £500 >> Emer Coleman 
+<http://www.emercoleman.com/2/post/2013/03/start-up-tech-all-for-a-little-over-500.html>
+
+Formerly of the London Datastore, and Government Data Service, now setting up 
+on her own:
+
+The first thing my mother asked when I told her I was setting up my own company
+DSRPTN <http://disruptionltd.com/> was "but who will do your filing for you?" I 
+had to tell her that I could not remember the last time that I actually filed 
+anything physically. She was also concerned about where my office would be 
+located because it's difficult to grasp that setting up your own business can 
+be a very easy process and all you really need is a few bits of good kit.
+
+Fascinating choices, especially of carrier.
+
+Taking a stand on open source and patents >> Google Open Source blog 
+<http://google-opensource.blogspot.co.uk/2013/03/taking-stand-on-open-source-and-patents.html>
+
+Today, we're taking another step towards that goal [of an open internet] by 
+announcing theOpen Patent Non-Assertion (OPN) Pledge 
+<http://www.google.com/patents/opnpledge/>: we pledge not to sue any user, 
+distributor or developer of open-source software on specified patents, unless 
+first attacked.
+
+We've begun by identifying 10 patents 
+<http://www.google.com/patents/opnpledge/patents/> relating to MapReduce 
+<http://research.google.com/archive/mapreduce.html>, a computing model for 
+processing large data sets first developed at Google—open-source versions of 
+which are now widely used. Over time, we intend to expand the set of Google's 
+patents covered by the pledge to other technologies.
+
+
+
+With 18,000 or so patents to choose from.. how about the next ones are 
+Motorola's Wi-Fi and H.264 patents?
+
+Password denied: when will Apple get serious about security? >> The Verge 
+<http://www.theverge.com/2013/3/29/4158594/password-denied-when-will-apple-get-serious-about-security>
+
+When Ars Technica investigated security issues in iCloud 
+<http://arstechnica.com/apple/2012/03/how-safe-is-icloud-data-ars-investigates/>
+ last year, it found that "your data isat least as safe as it is when stored on 
+any remote server, if not more so," but that its weaknesses lay in Apple's lack 
+of disclosure of its security processes (evenArs' assessment depends on a fair 
+amount of guesswork), itsprioritization of ease-of-use 
+<http://arstechnica.com/apple/2012/04/apple-holds-the-master-key-when-it-comes-to-icloud-security-privacy/>
+ over full security, and its retention of encryption keys to iCloud data on its 
+own servers. Apple's defense has traditionally been that its security processes 
+are "industry-standard." But in the still-young consumer cloud, Apple is one of 
+the leading companies helping to define that standard.
+
+Good article pointing out how one email/password combination is the key to a 
+huge number of services. But that's also the case for Google (email, documents, 
+phone services, Play),Microsoft 
+<https://www.theguardian.com/technology/microsoft> (email, cloud, store, Xbox). 
+Everyone is vulnerable in some way.
+
+Three eras of currency >> Chris Dixon 
+<http://nonchalantrepreneur.com/post/46485623457/three-eras-of-currency>
+
+Three eras of currency
+Commodity based, e.g. Gold
+Politically based, e.g. Dollar
+Math based, e.g. Bitcoin
+
+Note the "e.g."
+
+Bitcoin may be the global economy's last safe haven >> Businessweek 
+<http://mobile.businessweek.com/articles/2013-03-28/bitcoin-may-be-the-global-economys-last-safe-haven>
+
+Paul Ford: 
+
+I'm increasingly convinced there's one thing that Bitcoins do that's genuinely 
+interesting. They decentralize trust. Trust is hard to earn; verifying 
+transactions is a brutal problem, which is why PayPal locks down your account 
+when there's too much money flowing into it. Creating trust is traditionally 
+the work of federal governments and branding agencies. Trust is also an easy 
+thing to squander. Just close a beloved service, à la Google Reader. Or allow 
+your banks to fail, causing an entire country to suddenly realize that the 
+value of their deposits, the fundamental integrity of their financial selves, 
+was arbitrary all along.
+
+Along comes Bitcoin, a currency in which every transaction is stored by the 
+entire network and every coin has its own story. There's nothing to trust but 
+math. Suddenly an idea that sounded terrible — a totally decentralized currency 
+without a central authority, where semi-anonymous parties exchange meaningless 
+tokens — becomes almost comforting, a source of power and authority.
+
+That's where Bitcoin thrives: where people would prefer to throw in their lot 
+with anonymous strangers instead of the world economy. It's gold-bug thinking 
+reinvented for an age of fluid transparency and instantaneous transactions. And 
+as such it's an excellent indicator of anxiety. Where you see Bitcoins in 
+action you find a weird and heady mix of speculative angst, a fear of being 
+left behind, and people who appear to have lost faith in institutions, who feel 
+most left behind.
+
+Frustrated with iCloud, Apple's developer community speaks up >> Hacker News 
+<https://news.ycombinator.com/item?id=5454491>
+
+And boy, are they frustrated: 
+
+from having studied this for many, many hours over many moons, is that what 
+Apple is trying to do is fundamentally hard, if not entirely unfeasible. 
+They're trying to replace a smart server with one that's dumb as a doorstop. 
+More specifically, they're trying to emulate a CRUD web service with a file 
+sync engine.
+
+Conflict resolution is left up to individual clients, since the server doesn't 
+do any "thinking". Likewise, there is no canonical, authoritative state of the 
+store, since the server doesn't "think", only the clients do. Apple was hoping 
+that by shoving a bunch of diffs of your database onto the server, that clients 
+can reliably reconstruct a sane database by playing them back - except that 
+multiple clients are updating the diffs simultaneously and there is no 
+server-side conflict resolution.
+
+Oh, and if stuff fails, there are no regular snapshot states to fall back to, 
+because iCloud is a file store, not a database engine. Your whole store is now 
+corrupt. Enjoy.
+
+Bitcoin infographic >> Visual.ly <http://visual.ly/bitcoin-infographic>
+
+Infographic: how a Bitcoin transaction works. View at your own risk.
+
+Donglegate: why the tech community hates feminists >> Wired.com 
+<http://www.wired.com/opinion/2013/03/richards-affair-and-misogyny-in-tech/>
+
+However, just because these points of view are equally visible both online and 
+offline doesn't mean they're equally valid. Factual evidence simplydoes not 
+support 
+<http://www.splcenter.org/get-informed/intelligence-report/browse-all-issues/2012/spring/myths-of-the-manosphere-lying-about-women>
+ the idea that men are being oppressed and that women have the upper hand 
+socially, legally, or economically.
+
+Yet the myth of equality persists, since the technology industry considers 
+itself a meritocracy where the "good" ones — for example, talented engineers 
+and programmers — will rise to the top regardless of nationality, background, 
+race, or gender. When considering the dismal numbers of women (as well as 
+African-American and Latino men) in tech, the meritocratic presumption is that 
+these minorities aren't good at or interested in technology; otherwise, there 
+would be more of them.
+
+If we admit there are structural barriers to entry, and a culture that 
+actively discourages and women and men of color from participating, then it 
+logically follows that technology is not a meritocracy. And this threatens many 
+dearly held beliefs of technology workers: It suggests those at the top aren't 
+there because they're the best, but because of hard workand privilege.
+
+From which many other conclusions logically flow.
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/u:guardiantech>
+
+To suggest a link, either add it below or tag it with @gdntech on the free 
+Delicious <http://www.delicious.com/> service.
+ 

@@ -1,0 +1,113 @@
+
+What is the Guardian app for Windows 
+<https://www.theguardian.com/mobile/windows-guardian>?
+The Guardian app for Windows delivers all the latest news and best content 
+from the Guardian and Observer to your phone. Catch up with the day’s sports 
+news, comment and reviews, watch video, listen to podcasts and browse stunning 
+picture galleries while on the move.
+
+What can I do with the app?
+- add multiple live tiles to your start screen
+- navigate news by section, topic or contributor
+- watch award-winning video content
+- listen to podcasts using background audio
+- save contributors, topics and sections to your favourites
+- customise your home and start screens with your favourites
+- swipe through stunning full-screen picture galleries
+- share news, articles and galleries
+- view content in portrait or landscape orientation
+
+Will it work on my phone?
+The app will work on all phones running Windows 10.
+
+How much does it cost?
+The app is free and ad-supported.
+
+Where is the app available?
+The app is available now from the Windows Marketplace 
+<http://www.windowsphone.com/en-GB/apps/da99dbf8-b7e5-4f1c-983c-d84f39240afe> 
+where available.
+
+How do favourites work?
+Favourites populate the home and favourites pages of your app, and the start 
+page of your phone, enabling you to go straight to your top sections, keywords 
+or contributors.
+
+How do I create a favourite?
+When on a section, keyword or contributor page tap the white star on the 
+toolbar. Or when on the sections list, tap and hold a section name. When a 
+window pops up, tap “pin to favourites”.
+
+How do I remove a page from my favourites?
+Go to the favourites page. Press and hold the relevant tile until a menu pops 
+up. Tap “remove from favourites”.
+
+How do I remove a page from my start screen?
+Go to the start page. Press and hold the relevant tile until a pin appears 
+with a line through it. Tap it and the favourite is removed.
+
+How many favourites can I have?
+You can have up to eight favourites but be aware that the more you have the 
+slower the app will perform.
+
+How do I change the order of my favourites?
+In settings, scroll to favourites. Press and hold the arrows on the right then 
+drag and drop them where you want. This will change the order of your 
+favourites on the home and favourites pages.
+
+What content is available offline?
+The app stores content in the cache, enabling you to read a certain number of 
+stories while offline. Once you have viewed a section online you will be able 
+to view the same content offline. This content will only update when you next 
+go online.
+
+Why don’t I see any images, even when the articles have appeared?
+The app downloads pictures after text to ensure you get a better all-round 
+experience. When using Wi-Fi or 3G you should see pictures appearing instantly. 
+However, if the connection speed is too slow, or you are offline, pictures will 
+be prevented from loading.
+
+Why isn’t my content being updated?
+The app needs a data connection when opened to retrieve the latest content 
+(unless you’ve recently synced it). Without a connection the app will display 
+the latest content it can find from the cache. When connected, by default the 
+home page will check for updated content every 15 minutes. There is also a 
+manual refresh option if you want to update more frequently.
+
+Can I use the Guardian app when I’m abroad?
+We advise checking with your operator prior to using the app abroad as most 
+monthly plans charge extra for data roaming while overseas. As this can often 
+be expensive, either sync using Wi-Fi or contact your service provider for 
+details of how to purchase cut-price roaming tariffs.
+
+How do I share content?
+From an article or gallery page, tap the share icon on the toolbar at the 
+bottom of the screen. This will prompt you to share the content via email.
+
+How do I change the font size?
+To change the font size on the article you’re reading, click on the font size 
+button on the toolbar at the bottom of the screen. To change the font size 
+across all articles, go to Settings and scroll through to “type sizes”. Choose 
+the font size you want.
+
+How do I switch off auto-rotate?
+It is not possible to switch off auto-rotate within the app. 
+
+How do I remove the app?
+On your phone’s application list page, press and hold the Guardian app tile. 
+When a menu pops up click “uninstall”.
+
+How do I give you feedback/ideas on how the app can be improved?
+We’d like to hear from you if you have any problems or suggestions on how we 
+can improve the app. When using the app, go to Settings and scroll through to 
+“about this app” and tap the “send feedback” link. To send us feedback now, you 
+can comment on ourWindows Phone app blogpost 
+<https://www.theguardian.com/help/insideguardian/2011/oct/07/guardian-app-windows-phone>
+ or emailuserhelp@theguardian.com <mailto: userhelp@theguardian.com>. You can 
+also follow@guardianmobile <http://twitter.com/#!/guardianmobile> on Twitter to 
+get the latest news from theGuardian mobile <https://www.theguardian.com/mobile>
+ team.
+
+Please note that queries will be answered by the User Help team during office 
+hours, Monday - Friday, 10am-6pm BST/GMT.
+ 

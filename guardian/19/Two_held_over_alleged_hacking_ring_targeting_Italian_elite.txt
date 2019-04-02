@@ -1,0 +1,104 @@
+
+Italian police have arrested two people who allegedly tried to hack the 
+communications of former prime minister Matteo Renzi and other senior Italian 
+politicians and business executives as part of a cyber-espionage ring that 
+sought sensitive financial and political information.
+
+The alleged hackers, named as Giulio Occhionero and Francesca Maria 
+Occhionero, a brother and sister who were residents of London, also targeted 
+the former prime minister Mario Monti; the head of the European Central Bank 
+(ECB), Mario Draghi; Cardinal Gianfranco Ravasi, a member of the conclave that 
+elected Pope Francis, and top officials in Italy’s tax police.
+
+Court filings show that the hackers allegedly sought to infiltrate Renzi’s 
+account on two dates last year – the 12 and 30 June – and that Draghi was 
+targeted on 23 June, the day the UK voted to leave the European Union.
+
+The suspects are also alleged to have targeted the Bank of Italy and 
+politicians in both chambers of Italy’s parliament. Both were described in 
+court documents as residents of London who were domiciled in Rome. Giulio was 
+born in Italy while Francesca was born in the US.
+
+A lawyer for Giulio Occhionero told the Financial Times that his client had 
+not committed any illegal activity and that he owned servers in the US because 
+he had business there. An attorney for his sister could not be reached.
+
+Roberto Di Legami, director of the specialised cyber police unit that 
+conducted the investigation, said the magnitude of the alleged attacks was not 
+yet fully known, but would become clear soon. Investigators are conducting a 
+forensic probe of the data after law enforcement officials in the US and Rome 
+seized servers that were allegedly used by the suspects.
+
+“We will know only after we receive the seized material from the US and at 
+that point, through forensic activity, we will manage to put everything in 
+place, to know who was spied on, for how long, what kind of data was stolen,” 
+Di Legami told the Guardian.
+
+He said at this point it was only known that multiple attempts were made to 
+hack the account of Renzi and others.
+
+The investigation was initiated after a security specialist became suspicious 
+upon receiving an email from an individual purporting to be a lawyer that 
+turned out to contain malware. He turned the matter over to the Italian police. 
+An eight-month investigation ensued, which Di Legami said resulted in the 
+seizure not only of servers but of so-called “drop zones” that were located 
+throughout the US. The drop zones were virtual spaces that could be used to 
+store information, he said.
+
+Di Legami added that no evidence had emerged during the investigation that the 
+information allegedly collected had been sold to a third party or used to 
+blackmail any public officials. But he said there were strong indicators that 
+the financial information had been used by Giulio Occhionero in order to make 
+financial gains.
+
+“If you ask me why he was doing it, in my experience, it would be that he was 
+doing it for power,” Di Legami said.
+
+Giulio Occhionero, a nuclear engineer by training, was suspected of having 
+developed the malware the pair allegedly used to infect email accounts, which 
+allowed him to gain access to the targets’ correspondence.
+
+Among the evidence being examined by police are nearly 20,000 email accounts 
+that were hacked and 2,000 email passwords.
+
+A spokesman for Renzi’s Democratic party did not comment and the ECB declined 
+to comment.
+
+However, a person familiar with the matter who spoke on the condition of 
+anonymity said there was no evidence that any ECB account had been successfully 
+hacked. Court documents indicate that the alleged hackers targeted Draghi on a 
+Bank of Italy email address, and Renzi through a private Apple account.
+
+The suspects were arrested with the help of FBI officials, who are working 
+closely with Italian authorities on the case. Police said the pair were well 
+known in the world of high finance and had allegedly run a cyber-espionage ring 
+for several years, targeting institutions, public administrations, 
+professionals, politicians and entrepreneurs of “national importance”.
+
+The FBI said in a statement that it had provided support to an Italian 
+investigation into criminal hacking that had targeted victims in Europe and the 
+US.
+
+The pair are suspected of procuring information about state security, 
+accessing computer systems unlawfully, and illegally intercepting 
+communications and telecommunications.
+
+
+They are alleged to have used malware to remotely gain access to their 
+targets’ computer networks. The suspects allegedly chose “numerous victims” and 
+had been able to acquire confidential information and sensitive data that they 
+kept on US computer systems, which have since been seized by authorities with 
+the help of the cyber division of the FBI.
+
+The Italian police said US authorities would help determine what and how much 
+data had been taken unlawfully. The information sought by the alleged hackers 
+was valuable to financial interests, police added.
+
+According to company filings and a LinkedIn profile that appears to belong to 
+a person named Francesca Maria Occhionero, she and Giulio Occhionero co-founded 
+a London-based company, Westlands Securities, in 2001. The company was 
+dissolved in 2014. A description on the LinkedIn profile said it was a private 
+company that provided financial advice to banking institutions and that it 
+later became involved in real estate and private equity. The group also had 
+ties to companies located in Malta and the US state of Delaware.
+ 

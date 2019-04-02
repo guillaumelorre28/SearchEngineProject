@@ -1,0 +1,47 @@
+
+Finally: the Android-running G1 phone 
+<http://www.guardian.co.uk/technology/2008/sep/22/google.mobilephones> is let 
+loose. It's set to be the first commercial application of Google's Android 
+phone operating system - the one built by Andy Rubin and friends (makers of the 
+Danger Sidekick, popular in the US and anonymous in Britain).
+
+Richard Wray, our telecoms editor, is in New York for the launch - where Larry 
+Page and Sergey Brin turned upon rollerskates (no joke) - and he should have 
+some more information from on the ground soon. In the meantime, however, the 
+rest of us are poring over the coverage from thegadget <http://www.gizmodo.com> 
+blogs <http://www.engadget.com> and commentators to try and get a feel for 
+things.
+
+What to say? The pictures suggest it looks pretty much like any HTC smartphone 
+of recent years, with a large screen, smattering of buttons on the front and a 
+slide-out Qwerty keypad. For American consumers, at least, it's being heavily 
+subsidised - and still costs $179. Plenty of people have told me to dampen down 
+expectations since, after all, it's only the first version (I hope that doesn't 
+mean it'llstill be in beta in four years 
+<http://www.siliconvalleywatcher.com/mt/archives/2008/09/four_years_late.php>).
+
+Charles Arthur adds: if you want a quick comparison chart of the two, then 
+have a look atTechnologier's page 
+<http://technologizer.com/2008/09/23/tmobile-g1-vs-iphone/>, which is as good a 
+first-pass weighing up as you'll see until we do it. The quick reaction: G1 has 
+better phone, choice of keyboard (touch/key), is cheaper, weighs more, comes 
+optionally in brown (yuk), and has perhaps a significantly shorter standby 
+(though these things are always fibs to some extent.)
+
+But here may be the killer difference: the G1 has cut and paste. Oh noes!
+
+Update: Joe Wilcox, in God phone meets the devil 
+<http://blogs.eweek.com/applewatch/content/iphone/god_phone_meets_the_devil.html>
+, says that "The phone offers single sign-on to Google's plethora of online 
+services, including Calendar, Contacts, Gmail, Google Talk, Maps Street View 
+and YouTube. Suddenly, the hodgepodge plethora of Google applications and 
+services have a single point of connection and synchronization. If this 
+mechanism works, and well, the G1 and other Android-based phones will be 
+powerful data and telephony devices out of the box."
+
+And he adds: "As I've blogged before, sync is the killer application for the 
+connected world. Last year I warned: "IfGoogle 
+<https://www.theguardian.com/technology/google> gets synchronization right 
+before Microsoft, it's game over." Ditto to Apple. Google's sync magic requires 
+no PC." Apple, feel warned.
+ 

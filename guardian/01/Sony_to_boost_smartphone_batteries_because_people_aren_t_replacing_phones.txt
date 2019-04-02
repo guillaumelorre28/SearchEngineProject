@@ -1,0 +1,91 @@
+
+There was a time a few years back when a lot of people bought a new smartphone 
+every 18 months, as soon as the latest model dropped and their contract was up. 
+But that has changed.
+
+As the rate of technical improvements slows and new models offer little beyond 
+a shiny new exterior, the urge to spend £600 each year has become easier to 
+ignore. Polling byFluent and eMarketer 
+<http://www.emarketer.com/Article/Smartphone-Owners-Wait-Years-Replace-Handsets/1014149>
+ in the US suggests that nearly half of smartphone users nowwait at least three 
+years between upgrades 
+<http://www.emarketer.com/Article/Smartphone-Owners-Wait-Years-Replace-Handsets/1014149>
+, while data from Gallup suggests more than half wait until their phone stops 
+working or becomes “totally obsolete”.
+
+While the features may not date so fast and the outside may still look good as 
+new after two years of use, the battery will almost certainly have had it. Now
+Sony <https://www.theguardian.com/technology/sony> is trying to fix that, but 
+not by fixing the battery.
+
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F01%2Fsony-boost-smartphone-batteries-people-are-not-replacing-phones%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F4136067a79d5655c1eae3b1a9b9d9f0c5a95c485%2F0_0_2100_1260%2F2100.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Sony%20to%20boost%20smartphone%20batteries%20because%20people%20aren%E2%80%99t%20replacing%20phones&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F01%2Fsony-boost-smartphone-batteries-people-are-not-replacing-phones%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Sony%20to%20boost%20smartphone%20batteries%20because%20people%20aren%E2%80%99t%20replacing%20phones&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F01%2Fsony-boost-smartphone-batteries-people-are-not-replacing-phones%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F4136067a79d5655c1eae3b1a9b9d9f0c5a95c485%2F0_0_2100_1260%2F2100.jpg>
+ Sony’s new top-end Xperia XZ and Xperia X Compact Android smartphones both 
+have the company’s new battery longevity technology. Photograph: Samuel Gibbs 
+for the Guardian 
+That’s because the lithium ion cells within smartphones don’t exactly need 
+fixing – they will continue to work for years – but their ability to hold their 
+original amount of charge rapidly diminishes with repeated recharging cycles.
+
+Everyone who finds themselves with a chunky battery pack for their new 
+smartphone or desperately searching for a charger by mid-afternoon knows 
+battery capacity is a never-ending headache that only gets worse as a 
+smartphone, and its battery ages. Rather than fixing the battery, Sony wants to 
+do something about the recharging.
+
+Jun Makino, Sony mobile’s senior product marketing manager, says: “People are 
+starting to keep hold of their phones for way more than two years usage, so 
+we’ve been looking at ways to try and prolong the life of the smartphone.
+
+“We’ve started learning your charging cycles so that our new Xperia X 
+smartphones only complete charging to 100% when they estimate you’re about to 
+start using them, so that the damage caused by maintaining a battery at 100% is 
+negated.”
+
+This is important, a battery that’s usually kept at a charge between 20% and 
+80% of its capacity is much healthier - it’s going to the extremes that wears 
+it out at a faster rate.
+
+The Japanese electronics firm has partnered with Californian adaptive charging 
+company Qnovo to put technology into its Xperia smartphones. This includes the 
+new top-end Xperia XZ and Xperia X Compact, which Sony reckons will double the 
+life of the battery to around four years.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F01%2Fsony-boost-smartphone-batteries-people-are-not-replacing-phones%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F82c276cedad8fca192ec53de2bd37fb5edf15d3b%2F0_0_4487_2692%2F4487.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Sony%20to%20boost%20smartphone%20batteries%20because%20people%20aren%E2%80%99t%20replacing%20phones&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F01%2Fsony-boost-smartphone-batteries-people-are-not-replacing-phones%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Sony%20to%20boost%20smartphone%20batteries%20because%20people%20aren%E2%80%99t%20replacing%20phones&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F01%2Fsony-boost-smartphone-batteries-people-are-not-replacing-phones%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F82c276cedad8fca192ec53de2bd37fb5edf15d3b%2F0_0_4487_2692%2F4487.jpg>
+ The premium rounded glass and aluminium body and flat tops bring an unusual 
+look to Sony’s latest smartphones. Photograph: Samuel Gibbs for the Guardian 
+Qnovo’s technology carefully controls the voltage put into the battery at the 
+same time as delaying the full charge, helping to fast charge without damaging 
+the cells.
+
+“Of course, we’d still like it if you bought a new Sony phone, but we realise 
+longevity is a trend and we want to help with battery technology and services 
+on the phone such as the Smart Cleaner and Xperia tips that learn your 
+behaviour and help keep it running like new for longer,” said Makino.
+
+For Sony, the new Xperia X line, and particularly the new flagship Xperia XZ 
+launched atIFA <https://www.theguardian.com/technology/ifa> in Berlin on 
+Thursday, needs to do things differently to try and attract new customers.
+
+The company has struggled over the past few years, with declining sales and 
+smartphones that while technically very good, have failed to capture buyers’ 
+interest in the face of stiff competition from market-leader Samsung, Apple and 
+rising Chinese smartphone brands such as Huawei.
+
+Is extending battery longevity an idea that will recharge Sony’s fortunes? 
+Only time will tell.
+
+ * Sony Xperia Z5 review: good but not exceptional 
+<https://www.theguardian.com/technology/2015/sep/19/sony-xperia-z5-review-waterproof-fingerprint-scanner>
+
+ * Sony Xperia Z5 Compact review: arguably the best smaller smartphone 
+<https://www.theguardian.com/technology/2015/sep/23/sony-xperia-z5-compact-review-best-smaller-smartphone> 

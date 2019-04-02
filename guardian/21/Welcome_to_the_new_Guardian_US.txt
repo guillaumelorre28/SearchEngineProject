@@ -1,0 +1,100 @@
+
+Built with our journalism at its heart, the new Guardian website has been 
+conceived to give you, our readers and collaborators, the best possible way of 
+discovering, engaging with, and sharing our stories.
+
+We have started with the basics: we want to provide you with a delightful 
+reading and viewing experience, no matter which device you are using.
+
+About half of our traffic now comes from people using mobile devices, and so 
+we want the act of reading or viewing the Guardian’s journalism to be 
+consistent, familiar and pleasurable regardless of the size of screen being 
+used.
+ Our site offers new ways to engage with our journalism. 
+We want to make it compelling for you to engage with our journalism, to 
+discuss with us, share it with others and then to easily find more articles, 
+videos, live blogs, interactives or photo galleries that are relevant to you.
+
+Globally, around a third of all visits to the Guardian contain a view of the 
+homepage which is why we also spent many months on completely rethinking the 
+function and design of ourhomepage <https://www.theguardian.com/us>, and of our 
+section homepages such asopinion <https://www.theguardian.com/us/commentisfree> 
+ortechnology <https://www.theguardian.com/uk/technology>. 
+
+From studying how our readers are using our site every day, we realised that 
+the Guardian’s homepage has to fulfil two main functions at once: it has to 
+make it very easy for you to quickly scan the current news agenda and it has to 
+provide you with intuitive ways of discovering the enormous breadth and depth 
+of our award-winning journalism from around the world and across a wide range 
+of topics and authors.
+
+Homepages of news sites often are not structured in ways that would cater to 
+typical user journeys, but rather they mirror the internal organisation of a 
+newsroom into sections and departments.
+
+After many months of interviewing our readers and after studying what was 
+really happening on our homepages each day, we decided to take a very different 
+route and have created a new set of building blocks which we call “containers”.
+
+Each homepage and each article page is made up of various such containers 
+<http://next.theguardian.com/blog/container-model-blended-content/>. These do 
+exactly what their rather technical name suggests. They ‘contain’ words, 
+pictures, videos, graphics and data. Our editors can group them together 
+flexibly and within minutes by topic, by story type, by tone or by importance.
+
+So instead of building a page according to a rigid template - news here, 
+features there, big picture, little picture and so on - our editors can use 
+flexible containers to build a representation of what is important about each 
+and every day. And within each container, our editors can easily assign 
+different levels of visual volume and different styles to each story.
+ The opinion ‘container’ on the Guardian website 
+Our new homepage also gives you new visual clues about the relative importance 
+that each story has and about the tone of a story: a new and easy to learn 
+colour scheme indicates whether you are about to click on a news story, an 
+opinion piece, a feature, a review or a piece of analysis.
+
+Containers can move and flow through the page as the news agenda shifts. They 
+can highlight breaking news, present a multi-part investigation or guide you 
+towards a new columnist we’d like to introduce you to, an enticing image 
+gallery or an entertaining video. They bring our editorial voices to life in 
+more ways than ever before.
+
+Our editors can also take any container from a homepage and make it part of an 
+article page so that it can enhance your reading experience.
+
+Many new design features have been included in the redesign: from new video 
+<http://next.theguardian.com/blog/video-redesign/> and gallery 
+<http://next.theguardian.com/blog/gallery-redesign/> pages, new-look live blogs 
+<http://next.theguardian.com/blog/liveblog-redesign/> that balance at-a-glance 
+summaries with constant updates, to a new typeface and a new iconography.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Foct%2F29%2F-sp-welcome-to-the-new-guardian-us%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-1%23img-1&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F10%2F29%2F1414551862528%2Ffceed724-241a-4e91-ac55-05dbb19abc44-1020x784.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Welcome%20to%20the%20new%20Guardian%20US&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Foct%2F29%2F-sp-welcome-to-the-new-guardian-us%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-1%23img-1>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Welcome%20to%20the%20new%20Guardian%20US&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Foct%2F29%2F-sp-welcome-to-the-new-guardian-us%3Fpage%3Dwith%3Aimg-1%23img-1&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F10%2F29%2F1414551862528%2Ffceed724-241a-4e91-ac55-05dbb19abc44-1020x784.png>
+ Our new-look galleries 
+The navigation bar at the top and bottom is now consistent across the site, 
+making it easier to learn and find the Guardian’s different sections. When you 
+click the “all sections” menu at the top right of this page, you can see all of 
+the Guardian’s sections and all their sub-sections in one joint view.
+
+We’re immensely grateful for the 26,000+ comments we received during the beta 
+test <http://next.theguardian.com/blog/making-beta-better/> of this new site, 
+whether in person through testing sessions, through online user surveys, or 
+comments posted in our discussion threads and via social media. We’ve listened 
+to what you’ve had to say – and we’ve developed the site with your thoughts and 
+input front of mind.
+
+Of course we can’t please everyone. But we hope, over time, all our readers 
+will appreciate the changes we’ve made and understand the reasons why we’ve 
+made them: to offer the best possible experience of Guardian journalism and to 
+deepen our relationship with you, our readers.
+
+
+We will continue to ask for your feedback 
+<https://www.surveymonkey.com/s/theguardian-us-edition-feedback>. This launch 
+today isn’t the end of our journey, it is just the beginning and our team of 
+designers, journalists, engineers and developers can’t wait to add more 
+functions over these next months to come.
+ 

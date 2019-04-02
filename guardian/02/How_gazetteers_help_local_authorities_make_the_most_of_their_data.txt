@@ -1,0 +1,106 @@
+
+The local gazetteer has taken its place among the prime digital assets of 
+public authorities. There has been a widespread recognition of how the details 
+of land and property can be used to improve service delivery, and an increasing 
+number of organisations have launched initiatives that are now being held up as 
+exemplars for others to follow.
+
+It has been an evolutionary process that has recently moved on to a new stage 
+with the creation of the National Address Gazetteer Database. Developed and 
+managed in England and Wales by GeoPlace, a joint venture between the Local 
+Government Association (LGA) and national mapping agency Ordnance Survey, 
+GeoPlace went live in April 2011 and raises the possibility of authorities 
+extracting even more value from their geographic information.
+
+The predecessor of the National Address Gazetteer Database, the National Land 
+and Property Gazetteer (NLPG), has been the prime tool for existing 
+initiatives, together with the National Street Gazetteer (NSG). They have often 
+been used to create new products for specific local services, some of which 
+have been highlighted in the latest round of Exemplar Awards run by GeoPlace.
+
+West Midlands fire service (WMFS) carried off the overall winner award for the 
+creation of a new gazetteer named Chimp, which brought together a number of 
+datasets into a single system.
+
+The project involved creating or modifying more than 1m pieces of data to 
+create a holding of 2.9m basic land and property units and 86,000 streets, 
+along with more than 20,000 land and property identifier records to help 
+correctly identify a location in an emergency call out. Using Chimp, all of the 
+data was integrated into the brigade's new command and control system and its 
+corporate gazetteer was extended across all of its business support systems.
+
+The key result has been that the brigade is now better equipped to get crews 
+to the right location more quickly, but it also has a valuable tool to support 
+its long term planning. Chimp has already been used to manage more than 120,000 
+home safety checks in the West Midlands and in an area risk modelling project 
+to support policy making.
+
+Chimp has now been picked up by Staffordshire fire and rescue service and two 
+others are said to be preparing to take it on.
+
+In another case, Northumberland county council made use of the NSG in 
+consolidating its 1,500 paper based traffic regulation orders (TROs) into a 
+single database.
+
+All the orders were scanned before being referenced against the NSG, following 
+which the council surveyed all of its roads and reviewed each of the TROs. All 
+of the information was placed in the new database, which was then used to 
+create a layer in the council's geographic information system, so that anyone – 
+including the public - could easily see the full details of the TROs on 
+Ordnance Survey MasterMap. The database can also be used to produce reports and 
+consultation documents.
+
+Carl Dent, Northumberland's asset database manager, says the NSG was crucial 
+in the validation of paper records and has become so in the introduction, 
+revoking or updating of TROs. "In three years we have moved from a paper based 
+system with lots of missing orders that relied on officers' memories to 
+function to a full electronic system that is up to date and available to all," 
+he says.
+
+The National Address Gazetteer Database is going to add a new element to the 
+capabilities in combining the NLPG with Ordnance Survey's address layer, the 
+national dataset with addresses and their precise locations. It is also 
+expected to gradually replace the NLPG as a basis for local land and property 
+gazetteers.
+
+Gayle Gander, marketing manager for GeoPlace, says that public authorities 
+would not make direct use of the new gazetteer, butAddressBase 
+<http://www.ordnancesurvey.co.uk/oswebsite/products/addressbase-products.html> 
+products from Ordnance Survey through its public sector mapping agreement. This 
+makes them free at the point of use for eligible organisations, although they 
+have to pay for use of Royal Mail's Postcode Address File when utilising it in 
+conjunction with the datasets.
+
+A key feature is the provision of a unique reference number, described by 
+Gander as a "golden thread", which makes it possible to find matches of a 
+property in different datasets. This makes it possible to identify significant 
+discrepancies, such as when the bins from an address are emptied but nobody 
+there is on the council tax register or electoral roll. This could be used to 
+correct a shortcoming in the delivery of a service, or to detect a potential 
+case of fraud.
+
+Equally important is that the information is now coming from all of the public 
+sector, not just local authorities. Fire services and councils are already 
+providing updates to GeoPlace, many on a daily basis, and Gander says that none 
+of the information has gone more than a month without verification.
+
+"Once embedded in local authorities there are all sorts of opportunities to do 
+new things," he says. "Organisations are now testing it and we believe that in 
+future it will be a core service offering for public authorities."
+
+Two fire and rescue services, Hampshire and North Yorkshire, have emerged as 
+early adopters. They are using the AddressBase Premium product from Aligned 
+Assets, which includes details of non-addressable objects such as bus stops and 
+park benches and can alert them to potential obstacles in an emergency.
+
+How quickly others follow, particularly from local government, remains to be 
+seen, as it may take time for councils and others to discover the value for the 
+new products based on the National Address Gazetteer Database. But the long 
+term trend indicates that public authorities are extracting more value from 
+location based information, and the more detail it includes – and the closer it 
+gets to real time – the more it is likely to be used.
+
+This article is published by Guardian Professional. For updates on public 
+sector IT, join theoin the Government Computing Network here. 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+ 

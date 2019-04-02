@@ -1,0 +1,45 @@
+
+Dr Short and I are looking at a game Anatoly Karpov 
+<https://www.theguardian.com/sport/anatoly-karpov> played against Robert Hübner 
+in Montreal in 1979. Our starting point was the position shown right. Karpov, 
+as white, played Qc4 at this point, which appears logical and strong but failed 
+to produce a decisive advantage, and led to an endgame which, to us amateurs, 
+looked like it had a long way to go but to two grandmasters was deemed a 
+theoretical draw. Karpov, then world champion and joint winner with Mikhail Tal 
+of the Montreal tournament, had missed something far stronger. Short gives me 
+10 minutes to find the winning move.
+
+"It is quite difficult," he admits, as I sit there trying to make my brain 
+work. "Though not that difficult - the variations are not so long." Having 
+discounted Qc4, I am looking at the possiblities that flow from Rg8. But what 
+does white play after black's Kh7? I suddenly see that if I could check with 
+the bishop, I'd win his queen, but how can I lure his king to a white square?
+
+"What about Rg8+ and then, after black's king goes to h7, Rxg6?" I say 
+tentatively. Then again, with more confidence. If black takes with the rook, 
+Bg8+ wins the black queen; if he takes with the king, Bf7+ brings the same 
+result; if he moves his king to a black square to avoid check, I win the rook.
+
+"That is absolutely brilliant," says Short, "because I didn't see that at 
+all." My God, this is working - I'm better than Karpov! "Actually," adds Short, 
+"I'd seen something stronger. But your way works, too. It's good ... excellent."
+
+So what had Short seen? Having found one way to win, perhaps I was lazily 
+refusing to find a second. He had to show me. Rg8+ again begins the sequence, 
+but this time, after black's Kh7, it's followed by Qe3, threatening the rook on 
+b6 and, more to the point, Rh8+, with immediate mate by Qxh6 if the king 
+captures the rook and a slightly slower death if he doesn't (do let me know if 
+you see a way out for black). Once it's been demonstrated, you can't believe 
+that Karpov missed it.
+
+Qe3 is not, pace Karpov, a difficult move to find. The rook sacrifice on h8 is 
+harder but by no means impossible, and, in retrospect, I realise that even 
+after finding a move I thought strong, I should have kept looking. If I'd found 
+both ways to win, Short really would have thought I was making progress.
+
+Even now, he doesn't seem unduly bothered that I missed the strongest move. 
+I'd spotted that the queen was vulnerable to a discovered attack and found a 
+way to exploit it. "I'm impressed with Rxg6," he says warmly. "I'd got fixated 
+on the other idea. They're both very nice." Anatoly, I'd just like to say that 
+I am available to give instruction at very reasonable rates.
+ 

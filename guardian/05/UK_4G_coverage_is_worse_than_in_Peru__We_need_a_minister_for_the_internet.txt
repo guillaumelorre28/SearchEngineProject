@@ -1,0 +1,98 @@
+
+Stuck in a mobile notspot? Can’t watch YouTube on the bus? Twitter dead on 
+your canal trip? TheNational Infrastructure Commission (NIC) feels your pain 
+<https://www.theguardian.com/money/2016/dec/14/uk-4g-coverage-worse-than-in-romania-and-peru-watchdog-finds>
+. You might not have heard of the NIC – unsurprising, since it was only set up 
+in October 2015, by a long-forgotten politician called George Osborne.
+
+But the NIC is an independent, non-governmental body which is overseeing 
+£100bn of infrastructure spending. The members of the NIC are not to be sneezed 
+at; they include former transport secretary Lord Adonis, former deputy prime 
+minister Lord Heseltine, and Demis Hassabis, the founder of the British 
+artificial intelligence companyDeepMind 
+<https://www.theguardian.com/technology/2016/feb/16/demis-hassabis-artificial-intelligence-deepmind-alphago>
+, which was snapped up by Google for £400m.
+
+Having already looked at smart power 
+<https://www.theguardian.com/environment/2016/mar/04/improved-energy-storage-could-help-save-britain-8bn-a-year-says-report>
+, Crossrail 2, and thehigh speed north 
+<https://www.gov.uk/government/publications/high-speed-north-a-national-infrastructure-commission-report>
+ rail scheme, the NIC has now looked at the UK’s prospects for 5G mobile 
+networks.
+
+UK 4G coverage worse than in Romania and Peru, watchdog finds
+ Read more  
+<https://www.theguardian.com/money/2016/dec/14/uk-4g-coverage-worse-than-in-romania-and-peru-watchdog-finds>
+What – 5G? Most of us still noodle along on 3G mobile data, for which the 
+carriers spent £22.5bn in abandwidth auction in 2000 
+<https://www.theguardian.com/technology/2012/dec/20/4g-spectrum-auction-britain>
+. 4G is much faster, and followed in 2014 (after raising only £2.3bn in its 
+bandwidth auction). But 4G is also far less prevalent: the typical user can 
+only access 4G 53% of the time, whereas 3G is available nearly everywhere.
+
+The NIC is very upset about our performance in 4G: “Britain is 54th in the 
+world for 4G. There are too many digital deserts and partial notspots, even 
+within our city centres.” Being 54th means our4G 
+<https://www.theguardian.com/technology/4g> networks are behind Romania, 
+Albania, Panama and Peru. Sad face emoji.
+
+The NIC report 
+<https://www.gov.uk/government/news/government-must-take-action-now-to-secure-our-connected-future-so-we-are-ready-for-5g-and-essential-services-are-genuinely-available-where-they-are-n>
+ is wonderfully buzzword-compliant: 5G, it explains, “means seamless 
+connectivity. Ultra-fast, ultra-reliable, ultra-high capacity transmitting at 
+super-low latency.” You can almost imagine the advert: breezy music playing 
+while a happy young couple runs down the beach in slow motion as they upload 
+holiday videos.
+
+That’s not enough for the NIC. It notes that “mobile connectivity has become a 
+necessity. The market has driven great advances since the advent of the mobile 
+phone, but government must now play an active role to ensure that basic 
+services are available wherever we live, work and travel, and our roads, 
+railways and city centres must be made 5G-ready as quickly as possible.”
+
+It sees a future of self-driving vehicles, and lots of people on trains who 
+are using the internet to its full capacity (videoconferencing work while 
+they’re delayed by strikes, perhaps). The NIC says that by 2025, the UK should 
+be “5G-ready”: “the railway network must improve connectivity with a trackside 
+network” – estimated cost £550m – and major roads must have “mobile networks 
+fit for the future” at a cost of £380m. It’s fun to observe that giving rail 
+passengers better connectivity takes away one of the key claimed benefits of 
+HS2 – the necessity of getting businesspeople to the ends of the line faster.
+
+Certainly it makes sense to improve connectivity around the rail and road 
+networks. The key question is, will government do this better than mobile 
+carriers?
+
+So far, the mobile market in the UK has done things very effectively. I’ve 
+frequently been critical of the way that the UK’s fixed-line infrastructure – 
+essentially,BT’s Openreach network 
+<https://www.theguardian.com/business/2016/feb/24/ofcom-review-to-decide-future-of-bt-openreach>
+ – has failed rural internet users. But when it comes to mobile, we’re flying: 
+Ofcom’s data shows that in 2014 and 2015 theUK was first and second in terms of 
+pricing <https://www.ofcom.org.uk/research-and-data/cmr/cmr15/international> 
+for mobile services, ahead of Italy, France, Germany, Spain and especially the 
+US.
+
+The NIC says we’re doing badly in 4G. But I’d say we’re doing OK. The UK’s 4G 
+auction was ridiculously delayed by arguments over the allocation available to 
+EE (now owned by BT). Even so, in just under three years, we’ve gone from 0% to 
+53% availability.
+
+What about these rivals who are outgunning us? Peru had a year’s head start on 
+us in building 4G networks, and is home to boththe fastest and slowest mobile 
+speeds in South America, according to OpenSignal 
+<https://opensignal.com/reports/2016/06/peru/state-of-the-mobile-network/>. 
+Romania has been doing 4G since 2012 
+<http://www.zdnet.com/article/vodafone-and-orange-scramble-to-be-first-to-4g-in-romania/>
+, so it should beat us. Panama only began in March 2015; but it’s a much 
+smaller country. And Albania began in July 2015, but it’s a small country too: 
+only 3 million people, with five competing networks.
+
+As the NIC points out, you need the government to step in where markets would 
+fail. Covering all our roads and railways won’t happen commercially. The costs 
+are relatively low, and the new chancellor could view it as a desirable 
+infrastructure boost for the economy. We might finally end up with a proper 
+internet infrastructure. All we need after that is to act on the NIC suggestion 
+of having someone at cabinet level equivalent to the secretary of state for 
+transport. Who will be the first secretary of state for the internet?
+ 

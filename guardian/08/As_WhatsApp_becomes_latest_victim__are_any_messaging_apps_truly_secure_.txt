@@ -1,0 +1,121 @@
+
+Is there a truly secure messaging app? One could spend hours examining all the 
+encrypted communications tools available, from popular services such asWhatsApp 
+<https://www.theguardian.com/technology/whatsapp> and Facebook’s Messenger to 
+newcomers such as Signal and Wire. But while experts agree that some of these 
+options are more secure than others, there always seems to be another flaw 
+waiting to be discovered. This makes the search for a perfect app resemble the 
+hunt for the goose that laid the golden egg.
+
+Related: WhatsApp vulnerability allows snooping on encrypted messages 
+<https://www.theguardian.com/technology/2017/jan/13/whatsapp-backdoor-allows-snooping-on-encrypted-messages>
+
+That point was driven home on Friday 
+<https://www.theguardian.com/technology/2017/jan/13/whatsapp-backdoor-allows-snooping-on-encrypted-messages>
+ with the revelation that attackers could exploit a security vulnerability in 
+WhatsApp to snoop on its users. The vulnerability was found in the service’s 
+implementation of end-to-end encryption, which is supposed to make it all but 
+impossible for messages to be read by anyone except their intended recipient, 
+and in WhatsApp’s management of the unique security keys used to scramble and 
+unscramble those messages on users’ devices.
+
+The problem stemmed from WhatsApp’s ability to create new encryption keys for 
+offline users. This is common for secure communication tools, but WhatsApp is 
+set apart by its decision to re-encrypt messages with the new keys without 
+informing their sender or recipient.
+
+This could allow someone to intercept communications with no indication to 
+anyone involved with the conversation. WhatsApp has therefore effectively 
+undermined the basic principle of end-to-end encryption.
+
+It would be easy to overreact to this issue. WhatsApp did not create a 
+backdoor into its service – a claim with which Brian Acton, the company’s 
+co-founder,publicly took issue 
+<https://www.reddit.com/r/Android/comments/5nq201/whatsapp_backdoor_allows_snooping_on_encrypted/dce86wa/>
+ on Friday, saying WhatsApp would “fight any government request” to create one.
+
+Nor did it introduce a vulnerability so critical that people should remove the 
+app from their devices. Concerned users can verify someone’s identity by 
+comparing the “fingerprints” associated with their key, and they can enable a 
+setting that notifies them when a message has been re-encrypted with a new key.
+
+Yet even the nature of those notifications is up to question. There are two 
+options, blocking or non-blocking, which refer to requiring users to manually 
+verify that a new key is legitimate or simply notifying them when a key has 
+been changed. WhatsApp notifications are non-blocking. Signal, the encrypted 
+messaging tool from Open Whisper Systems (OWS)whose end-to-end encryption 
+protocol 
+<https://www.theguardian.com/technology/2016/apr/05/whatsapp-rolls-out-full-encryption-to-a-billion-messenger-users>
+ is used in WhatsApp, Messenger and other apps, uses blocking notifications.
+
+Related: The Guardian view on internet privacy: technology can’t fix it | 
+Editorial 
+<https://www.theguardian.com/commentisfree/2017/jan/13/the-guardian-view-on-internet-privacy-technology-cant-fix-it>
+
+Moxie Marlinspike of OWS said Signal planned to make blocking notifications an 
+option for some users and use non-blocking notifications by default.
+
+“The feedback we’ve gotten is that most of our users don’t want these messages 
+to be blocking,” he said. “What they want is just to have the ability to verify 
+the integrity of their communication and to see when these things are 
+happening, but they don’t want it to interrupt their ordinary workflow.”
+
+Which brings the conversation back to the root of the problem: should 
+messaging apps prioritize convenience or security?
+
+“It really depends on the service provider and the risk it wants to take,” 
+said Alan Duric, chief technology officer at the Wire secure communications 
+provider.
+
+“It is relatively difficult for WhatsApp to put it as ‘blocking’ when it has a 
+billion users. And by doing it [the way WhatsApp has done it] you have a 
+trade-off with the user experience and sacrificing something on security.”
+
+Wire takes the opposite approach by valuing security over convenience.
+
+Some messaging apps follow WhatsApp in not informing users of key changes by 
+default. Others, like Wire, don’t send messages to people with new keys without 
+user consent. These companies will face criticism no matter what they choose – 
+WhatsApp users might worry that their messages are insecure; Wire users might 
+grow tired of security notifications – and might change their approach based on 
+user feedback as OWS is doing with the Signal app.
+
+There is no right or wrong answer. The same can be said for other decisions, 
+such as Google’s Allo and Facebook Messenger’s “secret conversations” not using 
+end-to-end encryption by default, which the companies say allows them to offer 
+features that wouldn’t be possible otherwise. Apps that do use encryption by 
+default – such as Signal and Wire, among others – require people to convince 
+everyone with whom they wish to communicate to switch to unfamiliar messaging 
+tools.
+
+Related: Should I be worried about the WhatsApp encryption vulnerability? 
+<https://www.theguardian.com/technology/2017/jan/13/whatsapp-encryption-backdoor-snooping-signal>
+
+Which is why these companies have different approaches to the same problem. 
+WhatsApp has to decide between making 1 billion people more secure in 
+non-obtrusive ways or notifying them every time a security key has changed. 
+Google must balance efforts to make people more secure with the desire to offer 
+features that could help a newcomer like Allo compete with established 
+services. Even more privacy conscious apps like Signal have to design with 
+their users in mind.
+
+There will never be a one-size-fits-all in the secure communications market. 
+Just as these services have to decide on what problems they wish to solve, 
+consumers must choose the app that best suits their needs. More apps support 
+end-to-end encryption than ever, and even if none of them are perfect, this 
+means private communications are more secure than before. These are nuanced 
+problems that must be considered with care instead of being oversimplified.
+
+“WhatsApp has designed a pretty good thing with really considerable care and 
+has successfully deployed it to the largest network of end-to-end encryption in 
+the history of the world,” Marlinspike said.
+
+“Approaching questions of the best user experience and how we should think 
+about these problems by just calling this a ‘backdoor’ and telling everyone to 
+uninstall WhatsApp does a lot more harm than good, because it’s just going to 
+drive people to other apps that use way less consideration and care that users 
+are also not capable of evaluating the goodness of.”
+
+Don’t kill the goose for laying a bunch of silver eggs, just because people 
+would have preferred gold.
+ 

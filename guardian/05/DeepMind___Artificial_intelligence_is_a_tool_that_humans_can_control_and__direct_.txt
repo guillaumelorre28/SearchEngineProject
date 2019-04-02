@@ -1,0 +1,112 @@
+
+Fears that artificial intelligence will wipe out human beings are completely 
+overblown, according to the co-founder of Britain’s DeepMind, who has insisted 
+that the technology will help tackle some of the world’s biggest problems 
+including accessing clean water, financial inequality and stock market risks.
+
+
+Mustafa Suleyman, who with Demis Hassabis and Shane Legg set up the 
+London-based machine learning company that wasbought by Google in January 2014 
+for £400m 
+<https://www.theguardian.com/technology/2014/jan/27/google-acquires-uk-artificial-intelligence-startup-deepmind>
+, mounted a spirited defence of the company’s successes. He told a conference 
+on machine learning that “artificial intelligence, AI, has arrived. This isn’t 
+just some brief summer for this technology, and it’s not about to go away 
+again. These are production breakthroughs.”
+
+High-profile figures including Elon Musk 
+<https://www.theguardian.com/technology/2014/oct/27/elon-musk-artificial-intelligence-ai-biggest-existential-threat>
+,Stephen Hawking 
+<https://www.theguardian.com/science/2014/dec/02/stephen-hawking-intel-communication-system-astrophysicist-software-predictive-text-type>
+ andBill Gates 
+<https://www.theguardian.com/technology/2015/jan/29/artificial-intelligence-strong-concern-bill-gates>
+ have all warned that the rise of AI poses a threat to humanity – a threat that 
+has been echoed in recent Hollywood films such asEx Machina 
+<https://www.theguardian.com/film/ex-machina>, The Terminator 
+<https://www.theguardian.com/film/2013/jun/28/terminator-5-first-movie-new-trilogy>
+ andTranscendence <https://www.theguardian.com/film/transcendence>. Yet 
+Suleyman insisted that AI is, and will remain, a tool that humans can control 
+and direct, rather than a threat.
+
+
+The best use for AI would be to help decisions about how to tackle some of the 
+world’s biggest problems such as lack of access to clean water, inequality of 
+access to food and finance, and stock market risks, he suggested.
+
+DeepMind’s systems use neural networks and “deep learning” methods that deploy 
+low-level transistor networks to produce high-level effects so that they can, 
+for instance, distinguish a cat’s face from a human one – a trivial task for a 
+human, but hard for a machine. That has been developed into “artificial general 
+intelligence” (AGI) that can learn to solve tasks without prior programming, 
+and have already been used to replace 60 hand-crafted systems across Google. 
+The AGI system’s deployment into speech recognition, now used in Android phones 
+and Google Translate, had led to the biggest overall improvement in speech 
+recognition in 20 years, Suleyman said, with a 30% reduction in transcription 
+error rates. Yet training the program for the task took less than five days.
+
+Speaking to a conference on machine intelligence in London on Friday, Suleyman 
+said that he was dismayed by the negative attitudes being shown towards AI. 
+“It’s sad how quickly we’ve adopted to the reality and don’t acknowledge the 
+magic and the good that these systems can bring. The narrative has gone 
+straight from ‘isn’t it terrible that AI has been such a flop’ to ‘isn’t it 
+terrible that AI has been such a success’.”
+
+He said that the technology was going to be “a hugely powerful tool that we 
+control and direct within its limits – like any tool that we have ever built … 
+Artificial generalised intelligence is a form of intellectual horsepower – a 
+cheap and abundant resource to solve our toughest global problems.”
+
+Suleyman observed: “We have global information overload from overwhelming 
+systems complexity – they’re so complex and interlinked it’s possible that the 
+US financial crash in 2008-9 caused the Egyptian revolution [which was sparked 
+when bread prices rose in line with wheat prices].
+
+“But everything we have built is a product of intelligent human activity. AGI 
+is a tool to massively amplify our ability to control the world.”
+
+DeepMind, based by Kings Cross station in London, has developed a “generalised 
+artificial intelligence” which was able to figure out how to succeed at nearly 
+50 Atari computer games without any foreknowledge of how to play them. Given 
+inputs of just the score and the pixels on the screen, and control of the games 
+buttons – again without any knowledge of their relevance – it was able to play 
+as well as a human after a few hundred games. In Breakout, it played 
+competently after 300 games – then figured out after 200 more games that the 
+best strategy was to knock out the side bricks and let the ball bounce behind 
+the wall: “that surprised us,” said Suleyman.
+
+The company’s systems are now used on the Google+ photo categorisation 
+systems, and apparently onGoogle’s new Photos service 
+<https://www.theguardian.com/technology/2015/may/28/google-android-m-software-privacy-battery-life>
+, to categorise and label pictures by their contents. The company is also 
+seeking to expand that categorisation so that when there are multiple 
+recognisable objects in a picture it can describe them all in a single coherent 
+sentence.
+
+But Suleyman said the idea that a machine-based artificial intelligence could 
+take over decision and pose a threat to humans was “preposterous”.
+
+“Any talk of a superintelligent machine vacuuming up all the knowledge in the 
+world and then going about making its own decisions are absurd. There are 
+engineers in this room who know how difficult it is to get any input into these 
+systems,” Suleyman said to applause from the audience of machine intelligence 
+specialists.
+
+“If we fear that we won’t control them, then we should slow down their use and 
+implementation, just like with nuclear weapons and genetic engineering” [which 
+saw a moratorium in the 1970s].
+
+Suleyman said he wants to make public the names of the people who sit on the 
+company’s ethics board, which was set up at the insistence of himself and 
+Hassabis when Google bought it. “We will [publicise the names], but that isn’t 
+the be-all and end-all. It’s one component of the whole apparatus,” he said.
+
+Asked what gave Google the right to choose the ethics board members without 
+any public oversight, Suleyman replied: “That’s just what I said to Larry 
+[Page, Google’s chief executive]. We will make more public.”
+
+He said it had been a bold move for the 100-strong company to suggest to the 
+much bigger buyer that there should be an ethics board at all. “Being able to 
+put something like this on the table is a first step to being more open and 
+helping to steward this,” he said. The company is seeking to recruit more 
+people to its ethics board, as well as to its policy and legal teams.
+ 

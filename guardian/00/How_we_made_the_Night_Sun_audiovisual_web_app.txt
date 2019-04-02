@@ -1,0 +1,114 @@
+
+I bought my first music box because a friend wanted to make a film about one 
+and for me to write the score. It was calledTwinklebox 
+<http://rjbirkin.co.uk/project/twinklebox/> – a short animation about a broken 
+toy stuck in its own world, unable to stop making music. I wrote lots of little 
+lullabies using the music box, trying to find one that suited the character.
+
+After Twinklebox, I carried on punching holes in card strips to see what other 
+sounds the music box could make.Night Sun 
+<http://rjbirkin.co.uk/project/night-sun/>, an innocent but sinister 
+interactive audiovisual installation, emerged from one of these experiments.
+
+I was originally commissioned by Nottingham City Council to produce Night Sun 
+for Light Night, an event in February where the city at night becomes a 
+playground and gallery. Recorded music on its own wouldn’t work; there’s so 
+much noise in a city that you switch off, paying little or no attention to the 
+sounds around you. So I came upon the idea that a user would have to activate 
+the music and interact with it in some way to become involved with the piece.
+
+I knew Arduino <http://www.arduino.cc/> (an open-source electronics platform) 
+would be the way to go and worked withAdrian McEwan 
+<https://twitter.com/amcewen>, master of Arduino/Pi hacking, on capacitive 
+sensing, which means the Arduino senses changes in the capacitance of metal 
+wire when someone touches it, and then sends a signal to a computer.
+
+The piece itself is a small, metal toy music box, so we attached the wire to 
+that and instructed the Arduino to send a “play” command to a computer when it 
+sensed someone touching it. When you turn the handle of the music box, its 
+recorded sound plays on the computer.
+
+Once the string quartet was recorded, it really felt like you were playing the 
+instrument along with the recording. I also commissioned photographer Dan 
+Wheeler to capture hidden parts of Nottingham at night, and writer Emma Lannie 
+to author something mysterious inspired by the music and Dan’s photos.
+
+Rather than combine the music, story and photos in video form, I used Jplayer 
+<http://jplayer.org/> and HTML to create a book-shaped projection. As the music 
+plays in Jplayer, there are triggers at different points in time. These 
+triggers correspond to page elements that are made visible when their time 
+comes, fading in or appearing suddenly depending on the urgency of the words. 
+The photos are set as backgrounds that change with each stanza.
+
+I prefer developing in this way because I can easily change how the 
+installation looks depending on the aspect ratio of the projection surface. It 
+also means that Night Sun works on the web and as an app.
+
+Releasing music in app (or web app) form is something a lot of people are 
+talking about at the moment, from Bjork’sBiophilia 
+<https://www.theguardian.com/music/musicblog/2011/jul/20/bjork-biophilia-app> 
+to Radiohead’sPolyfauna 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/mar/07/how-we-made-radiohead-polyfauna-app>
+ and all ofBrian Eno’s apps 
+<https://www.youtube.com/watch?v=OqKGNgF4S7s&list=PL1yYEMwtFZHP5cenVd_C5tG34zKHKGlb6&noredirect=1>
+. ForNight Sun Online <http://timetravelopps.co.uk/nightsun/>, it felt like an 
+extension of the physical installation, using new tools to put music in places 
+you wouldn’t normally find it, presenting it in a different way than people are 
+used to. A logical replacement or evolution of the music video perhaps. I don’t 
+have the budgets that Bjork and Radiohead do, so simplicity is the key.
+
+What were the challenges? The main problem with Night Sun Online has been 
+describing what it is – or more importantly, how you’re supposed to use and 
+approach it. When it’s the physical installation, the interaction is clear: you 
+turn the handle and something happens. With the online version, you press 
+“play” and then what? Yes, you listen. Yes, you read. But there’s a thing I 
+would like people to notice, which is their inner voice (subvocalisation) 
+bringing the words to life. That’s the thing I need to figure out how to tell 
+people.
+
+In terms of what’s next, Night Sun the installation continues to go down a 
+storm, while its online counterpart is getting more and more attention as time 
+goes on. I’ll release it via app stores this winter.
+
+The aim of Night Sun was to see if people would engage with a piece of 
+recorded string quartet music and words in a new kind of way, which it has 
+achieved. With Night Sun Online, I wanted to test the water and see if this 
+non-movie-movie – this musical animated book – would be appealing. It seems so, 
+but I need to work out how to describe it better for my next work, Songs For 
+Spoken Words.
+
+Using a grant from Arts Council England/National Lottery, I’m focusing on six 
+pieces of instrumental music that were initially written as guitar 
+improvisations to accompany a poet when he performed. He doesn’t perform 
+anymore, so I’ve expanded the music so that it’s a soundtrack to the poems, 
+inspired by his performances.
+
+A developer is iterating on the technology used in Night Sun to make it easier 
+to code each piece. I’m animating the words to simulate the performance of the 
+pieces, hoping the combination of soundtrack, typography and rhythmical 
+phrase-by-phrase delivery of the words will enable people to be the performer. 
+Whether out loud or internally.
+
+App facts
+
+• Length of the project: Installation, one month; online app, two weeks
+• Companies involved: Time Travel Opps <http://timetravelopps.co.uk/>
+• Size of the team: Richard Birkin (composer, producer, developer); Emma J 
+Lannie (writer); Dan Wheeler (photographer)
+
+More App stories
+
+• How we made Radiohead’s PolyFauna app 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/mar/07/how-we-made-radiohead-polyfauna-app>
+• How we made the Live/Revive/Lament opera performance app 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/jul/25/live-revive-lament-opera-performance-app>
+• How we made a circus app for children with autism 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/sep/26/show-and-tell-circus-app-autism>
+
+Richard Birkin is a composer <http://rjbirkin.co.uk/> – follow him on Twitter 
+@rjbirkin <https://twitter.com/rjbirkin>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+ 

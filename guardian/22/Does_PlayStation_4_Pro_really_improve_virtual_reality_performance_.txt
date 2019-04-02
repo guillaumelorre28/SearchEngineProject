@@ -1,0 +1,148 @@
+
+With the arrival of the current generation of virtual reality, much of the 
+battle for hardware supremacy has focused on one seemingly esoteric factor: the 
+trade-off between image resolution and frame-rate.
+
+It may seem like a curiously technical point on which to define a consumer 
+product war, but with VR, how a game is displayed isn’t just a matter of 
+aesthetics; it can severely impact user comfort, and even function. In 
+designing their respective headsets, the teams behind Oculus’ Rift and HTC’s 
+Vive opted to offer high display resolution. Each headset sports a 2160 x 1200 
+overall output, comfortably trumpingPlayStation 
+<https://www.theguardian.com/technology/playstation> VR’s 1920 x 1080 fidelity.
+
+So why did Sony <https://www.theguardian.com/technology/sony> choose to make 
+sacrifices in image quality? One factor, it appears, is that PSVR has forgone 
+peak resolution so as prioritise running at an impressive 120 frames-per-second 
+(FPS), capably beating the 90FPS offered by HTC and Oculus. Technically, some 
+content for Sony’s headset is bumped from 60FPS to the full 120FPS via an 
+approach named reprojection, but the point stands. PSVR sacrifices resolution 
+in favour of more comfortable movement.
+
+That potential for fluidity means a less jarring experience as you spin your 
+head when inside a virtual realm, which in turn serves VR’s ultimate offering: 
+presence. This is the most striking element of a quality virtual reality 
+experience; the sense that you really occupy the world you are visiting. But as 
+potent as that sensation can be, with a stutter of the screen image the 
+illusion can come crashing down.
+
+The PlayStation 4 Pro – which already offers several advantages away from VR  
+<>– hopes to bolster Sony’s position on this arcane frontline. With a faster 
+CPU and more powerful graphics processing than the standard PS4, it promises to 
+augment the capabilities of the PlayStation VR hardware. We set out to see just 
+how noticeable this is.
+
+4K VR?
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F14%2Fdoes-playstation-4-pro-really-improve-virtual-reality-performance%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F05c13188b4e332a43ce27165b1cfeb5781935b17%2F262_164_1507_905%2F1507.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Does%20PlayStation%204%20Pro%20really%20improve%20virtual%20reality%20performance%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F14%2Fdoes-playstation-4-pro-really-improve-virtual-reality-performance%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Does%20PlayStation%204%20Pro%20really%20improve%20virtual%20reality%20performance%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F14%2Fdoes-playstation-4-pro-really-improve-virtual-reality-performance%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F05c13188b4e332a43ce27165b1cfeb5781935b17%2F262_164_1507_905%2F1507.jpg>
+ Until Dawn: Rush of Blood Photograph: Sony 
+The boost the PS4 Pro provides to PSVR slightly adjusts the 
+frame-rate/resolution trade-off, potentially bettering both image and movement 
+quality.
+ Any improvement, however, is strictly limited by the existing PSVR hardware, 
+which is locked at the aforementioned 1920 x 1080 resolution. In other words, 
+whatever technical powerhouse you plug into Sony’s headset, the screen is the 
+size it is. It is not 4K and does not support HDR; two front-of-the-box 
+features on which the PS4 Pro is being sold to traditional flat display users.
+
+However, the upgraded PlayStation does promise to improve frame-rate 
+smoothness and consistency for VR, which should further remove judder and blur 
+from any virtual reality game optimised for the Pro. That is an important note. 
+Many future PSVR releases will come ‘Pro-ready’, while numerous existing titles 
+have already been prepared for the machine via an update.
+
+The key question, then, is what real difference does this all make to those 
+games?
+ Without considering motion, a given Pro-optimised PSVR game typically looks 
+only delicately improved by the more powerful PS4. Across the spread of smaller 
+experiences in Sony’s own VR Worlds, there appears to be a little more 
+graphical finesse via a Pro, while in the more complex Until Dawn: Rush of 
+Blood or Driveclub VR, there is more discernible improvement in detail and 
+texturing. The tangle of neon-slash wireframes within Res Infinite’s VR mode, 
+meanwhile, do look as if they are a touch more vibrant and present.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F14%2Fdoes-playstation-4-pro-really-improve-virtual-reality-performance%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F8c30939afb4c688cdb97c3f291d08b3f711b6547%2F198_0_3598_2160%2F3598.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Does%20PlayStation%204%20Pro%20really%20improve%20virtual%20reality%20performance%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F14%2Fdoes-playstation-4-pro-really-improve-virtual-reality-performance%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Does%20PlayStation%204%20Pro%20really%20improve%20virtual%20reality%20performance%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F14%2Fdoes-playstation-4-pro-really-improve-virtual-reality-performance%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F8c30939afb4c688cdb97c3f291d08b3f711b6547%2F198_0_3598_2160%2F3598.jpg>
+ Robinson: The Journey is one of the first PlayStation VR to be optimised out 
+of the box for PS4 Pro Photograph: Crytek 
+And then there’s Robinson, Crytek’s tale of being stranded alone on a 
+dinosaur-riddled island. ‘Pro from day-one’, Robinson is perhaps the 
+best-looking PSVR game yet, regardless of the console version powering it. But 
+bolstered by Pro, detail at distance is notably improved, in tandem with 
+support for the enhanced SSDO/SSAO lighting effects exposing that visual 
+quality. Add in higher quality texture filtering and more seamless level of 
+detail (LOD) generation, and while the difference is neither striking nor 
+game-changing, Robinson is definitely a prettier game when played through a Pro.
+
+However, all Pro-ready titles tested still carry a resolution somewhat lower 
+than scene of a typical HD flat display, thanks to PSVR’s ‘per eye’ resolution 
+of 960 x 1080, so visually, the upgraded console remains fundamentally 
+comparable to that enjoyed on a vanilla PS4.
+
+But there’s something else to consider.
+
+
+Motionally charged?
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F14%2Fdoes-playstation-4-pro-really-improve-virtual-reality-performance%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fa2e4aa506546ec63fa0a942377e263e4e67a8518%2F64_0_960_576%2F960.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Does%20PlayStation%204%20Pro%20really%20improve%20virtual%20reality%20performance%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F14%2Fdoes-playstation-4-pro-really-improve-virtual-reality-performance%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Does%20PlayStation%204%20Pro%20really%20improve%20virtual%20reality%20performance%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F14%2Fdoes-playstation-4-pro-really-improve-virtual-reality-performance%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2Fa2e4aa506546ec63fa0a942377e263e4e67a8518%2F64_0_960_576%2F960.jpg>
+ Even sedate experiences such as Tumble VR get a subtle but noticeable benefit 
+from PS4 Pro Photograph: Sony 
+Start to move around a little more and a few more benefits materialise. Most 
+importantly, there is less motion blurring. A sharp flick of the head from left 
+to right reveals that even rapid movements are greeted with slightly crisper, 
+steadier images, all of which makes things more convincing, and more immersive. 
+The improvement is subtle, but the impact is more significant – it can make all 
+the difference between a comfortable experience and a nausea-inducing nightmare.
+
+Even in low-movement titles, like the understated block stacking puzzler 
+Tumble, that improvement can be felt, and for more energetic experiences like 
+online shooter RIGS: Mechanized Combat League or VR Worlds’ Scavengers Odyssey, 
+things do feel a touch more fluid. Again, the improvement isn’t wild or 
+outstanding, but something feels different.
+
+Res Infinite is very comfortable with the intensity setting pushed to its 
+upper limit via a PS4 Pro, and back in the front seat of Driveclub VR the 
+experience does feel just a shade more comfortable and less demanding of the 
+senses. But then Driveclub VR was always a comfortable game.
+
+Robinson, meanwhile, has a few too many moments that trigger motion sickness 
+on a standardPlayStation 4 
+<https://www.theguardian.com/technology/playstation-4> – and alas, over on the 
+Pro, it’s the same story, despite all the improvements to level of detail 
+generation and texture filtering. That alone highlights an oft forgotten point 
+when considering the quality and usability of a VR experience: arguably the 
+onus is on the content, not the platform.
+
+There’s more good news, though. Broadly, loading times have been cut a good 
+deal, which also limits how much texture pop-in blights games – another factor 
+that can significantly impact a sense of presence. And while it is a small 
+detail, the extra USB port on the Pro’s rear does make the PSVR’s abundant 
+wiring a tidier business, leaving an extra port free at the front for 
+controller charging; an important consideration when juggling the power levels 
+of Move controllers as well as DualShock 4s.
+
+The VR verdict
+
+Ultimately, The PlayStation 4 Pro does make a difference to PSVR games, but 
+for now, it is subtle, and the true potential may only emerge with time as more 
+and more titles hip with Pro-native features. If you are particularly prone to 
+simulation or motion sickness, getting a Pro now may just make a positive 
+difference to your VR experience.
+
+For those beguiled by even the most delicate improvements to graphically 
+fidelity, meanwhile, there should be some appeal. And if you are already set to 
+gain from the non-VR perks the Pro offers, then the fact that you’ll also have 
+access to the best version of one of the most comfortable, accessible high-end 
+VR experiences could make it very worth your while.
+ 

@@ -1,0 +1,138 @@
+
+
+
+When I took the upgrade from Windows 7 to Windows 10, I continued to use my 
+local account to log on. When I had to replace my motherboard recently, I 
+needed a 30-minute chat (and remote access) with a very helpful Microsoft tech 
+to re-activate Win10. Hmmm. To avoid that in future, I would like to use a
+Microsoft <https://www.theguardian.com/technology/microsoft> account, but only 
+to get my system details on file in case I replace another critical component.
+
+The problem is that I’m told I need to set-up a new local account after 
+logging on with a Microsoft account. But I don’t want to do that. I want to use 
+my existing local account with the Microsoft one in reserve.
+
+I understand the functionality argument for using a Microsoft account, but I 
+am happy without any extras. I do what I want online perfectly well at the 
+moment.Graeme
+
+A motherboard change can look like a new PC, so you might well have needed to 
+talk to Microsoft even if you had been using a Microsoft account. Either way, 
+you should recognise that Windows 10 is fundamentally different from Windows 7 
+in at least two important ways.
+
+First, it’s no longer a desktop operating system, it’s a mobile operating 
+system. Some major features – including Cortana, Notifications and apps – 
+originated in the smartphone world. As with other mobile operating systems, 
+everything is maintained from the cloud.
+
+Second, Windows 10 is just one part of Microsoft’s cross-platform ecosystem, 
+which includes smartphones, tablets, the Xbox One range of games consoles, 
+cloud-based services such as OneDrive and Office 365, and dozens of Microsoft 
+apps on Android and Apple iOS devices. Your Microsoft account (MSA) is your key 
+to this ecosystem. It links your data, apps and settings across multiple 
+personal computers, smartphones and tablets.
+
+This as a sort of Copernican revolution. In the old days, everything revolved 
+around the PC. Today, everything revolves around the user, and users are 
+identified by their MSAs, or their Gmail addresses, or their Apple IDs. This is 
+the modern world: people are mobile and they use multiple devices.
+
+So, your Windows 10 PC is no longer authenticated locally, and all your 
+credentials are stored online against your MSA. Your cloud profile also stores 
+your apps, preferences and settings, so if you buy a new PC, you can have it 
+set up just like your old one. Your MSA also synchronises bookmarks and other 
+data across devices. For example, if you’re using the OneNote app on your 
+Windows 10 PC, you can carry on from the same place in the OneNote app on an 
+Android/iOS/Windows tablet or smartphone – as long as you’re using the same MSA.
+
+What is an MSA?
+
+The most common MSA is a Microsoft email address, which can be at Hotmail, 
+Live, Outlook.com or some other Microsoft email service. If you don’t have an 
+MSA, you can easily create one. This does not involve giving Microsoft your 
+real name or any other personal information. Of course, if you want to use 
+two-factor authentication for extra security, you will have to provide a phone 
+number, but this can be any dumbphone that can receive an SMS text.
+
+It is perfectly possible to create an MSA based on a Gmail or any other 
+non-Microsoft email address. I don’t recommend this. If you’re not careful, you 
+can end up with a Microsoft email account that can send emails “as from” Gmail 
+etc.
+
+All these “single sign-ons” – MSA, Gmail, Apple, Facebook etc – have the same 
+problem: being locked out of one service can lock you out of many others. The 
+solution is to use services from several different suppliers, rather than 
+putting all your eggs in one basket, and to keep backups of all your cloud data.
+
+Local accounts
+
+You can continue to use an old Windows 7 local account in Windows 10 – as you 
+did – but it requires some care. For example, you need an MSA to use a cloud 
+service, such as the Windows Store. You have to look for the line that says 
+“Sign in to this App only” every time to avoid getting your MSA attached to all 
+the other stuff as well. If you run a Windows Store app, you will be prompted 
+to sign on to your PC with your MSA and you must click “Sign in to just use 
+this app instead” rather than simply clicking Next.
+
+But, in reality, there’s no benefit to signing in to every app and service 
+separately if you’re using the same MSA. It’s just pointless extra work.
+
+Nonetheless, Microsoft has responded to complaints by making it much easier to 
+use a local account in Windows 10 than it was in Windows 8. For example, you 
+can now use Cortana and the mail, maps and music apps without an MSA, though 
+you inevitably lose some functionality. You can’t, for example, sync data or 
+music across devices, or use the app you paid for on one device on a different 
+device. The gap will continue to grow as online services become more powerful.
+
+Either way, using an MSA doesn’t stop you from using any other online services 
+– including Microsoft services – in your web browser. I regularly log on to 
+several different Hotmail/Outlook.com/Gmail accounts using names and passwords 
+that are different from the MSA that I use to log on to my Windows 10 machines. 
+Using an MSA adds features: it doesn’t take any away.
+
+A new local
+
+Windows 10 lets you convert Microsoft Accounts into local accounts, and vice 
+versa. However, this means changing the features of a single account. When the 
+MSA is created, the local account ceases to exist. Unlike Schrödinger’s cat, a 
+Windows account can’t be both things at the same time.
+
+Like it or not, the only solution is to open a second Administrator account to 
+use as your local account. To do this, run the Settings app and go to Accounts, 
+pick “Family & other people” and click “Add someone else to this PC”. When 
+asked how this person will sign in, say you don’t know. When asked to create an 
+account, select “Add a user without a Microsoft account”. You can then enter a 
+user name, password, and password hint in the usual way. I have one of these 
+extra local accounts for back-up purposes, in case my MSA gets corrupted.
+
+When your new local account appears in Settings, click the button marked 
+“Change account type” and change it from Standard to Administrator. Click OK 
+and log on to your new account, which will start with the familiar Windows 10 
+welcome routine.
+
+Open File Explorer, go to This PC and open the Users folder. You will now see 
+two accounts: the original Graeme and the new Graeme_Local. Open the folder 
+owned by the MSA (Graeme), and click Continue when told you don’t have 
+permission. (Admins can do this.) Next, select a folder, such as Pictures, copy 
+it (Ctrl-C), go back to Graeme_Local, and paste it in (Ctrl-V). Check that it 
+worked. Repeat to taste.
+
+You may have some cleaning up to do, but you can probably copy the bulk of 
+your stuff to the local account. And if it all goes pear-shaped, log off, go 
+back to Settings in your MSA account, remove the Graeme_Local account and try 
+again.
+
+Alternatively, you can copy data from your MSA account to an external hard 
+drive and then copy it back to a new Graeme_Local account.
+
+Of course, the new Graeme_Local account will quickly go out of sync with the 
+old Microsoft account, but I assume you won’t care about that. In any case, one 
+account isn’t really backing up the other: if the hard drive fails, you’ll lose 
+data from both accounts at the same time. If this happens, you should be able 
+to restore your stuff from an external back-up. If not, you might be sorry that 
+you didn’t enable your MSA to preserve more of your stuff in the cloud....
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

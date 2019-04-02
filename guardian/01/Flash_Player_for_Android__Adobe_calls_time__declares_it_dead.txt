@@ -1,0 +1,104 @@
+
+Flash on mobile - which at one point was held up as the key differentiator 
+between Apple's iOS platform and others including RIM's PlayBook - is having 
+the dates for its death laid out.
+
+Adobe has announced in a blog post 
+<http://blogs.adobe.com/flashplayer/2012/06/flash-player-and-android-update.html>
+ that from 15 August 2012 it will stop any new installations of its Flash 
+Player onto Android devices, and that only devices which already have a mobile 
+version of its Flash player already installed will be updated.
+
+It's a logical conclusion to the process that Adobe announced in November 2011 
+<http://www.guardian.co.uk/technology/2011/nov/09/adobe-flash-mobile-dead>, 
+when it said that it would no longer be updating Flash Player for new devices, 
+apart from bug fixes and security updates; effectively, Flash on mobile was a 
+zombie from that point on.
+
+Given that smartphones and tablets now outsell PCs by a substantial margin, of 
+about 50% - around 150m per quarter compared to 100m at most - the decision 
+renews the question of how much longer Flash on the desktop will survive.
+
+For mobiles, it won't be installed onto the just-announced Android 
+<https://www.theguardian.com/technology/android> 4.1 (aka "Jelly Bean"), and 
+Adobe says that while Flash Player might work on the platform, it also might 
+"exhibit unpredictable behaviour".
+
+The idea that being able to run Flash is a key differentiator for Android has 
+suddenly gone away: upcoming devices will be on parity with iOS ones in that 
+regard, and given the astonishing growth of Android activations (presently one 
+million per day), Flash installations will diminish as a share of mobile share 
+very quickly. RIM's decision not to install it by default on its BB7 devices 
+last year didn't help; and its PlayBook tablet, for which it claimed that being 
+able to run it was a key element in web browsing.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.youtube.com%2Fembed%2FQWv8Bj3-RS4%3Fwmode%3Dopaque%26feature%3Doembed&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FQWv8Bj3-RS4%3Fwmode%3Dopaque%26feature%3Doembed>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FQWv8Bj3-RS4%3Fwmode%3Dopaque%26feature%3Doembed&media=>
+Since its launch in April 2011, a total of 1.01m PlayBooks have been shipped 
+from RIM to retailers; ittook Apple 28 days 
+<http://www.apple.com/pr/library/2010/05/03Apple-Sells-One-Million-iPads.html> 
+to sell that many when it was first introduced, suggesting Flash capability was 
+never sufficient to change a purchasing decision.
+
+The announcement means that just over two years after Steve Jobs's 2010 
+"Thoughts on Flash" essay <http://www.apple.com/hotnews/thoughts-on-flash/> was 
+published on Apple's site, Flash is hitting the wall.
+
+Adobe <https://www.theguardian.com/technology/adobe> says that Flash on the PC 
+platform (if you define "PC platform" as "Intel computers running browsers that 
+allow the Flash plugin" - which excludes the forthcoming WinRT tablets using 
+ARM chips running Windows 8, and also could exclude Internet Explorer 10) will 
+continue.
+
+Jobs said that Apple <https://www.theguardian.com/technology/apple> wouldn't 
+put Flash onto its mobile devices because "Flash has not performed well on 
+mobile devices. We have routinely asked Adobe to show us Flash performing well 
+on a mobile device, any mobile device, for a few years now. We have never seen 
+it."
+
+Apple launched the iPhone (five years ago now) without Flash because the team 
+behind it was not confident about its effects on browser stability and battery 
+life. But in the runup to the launch, Jobs was able to take advantage of the 
+presence at the time on Apple's board of Google's then-chief executive, Eric 
+Schmidt, and persuade him to get YouTube - then as now the biggest user of 
+Flash video on the web - to remove the Flash wrapping from the content, so that 
+the H.264 video would play natively on theiPhone 
+<https://www.theguardian.com/technology/iphone>.
+
+But for millions of other sites, there was no alternative initially to Flash - 
+which meant that when the iPhone kicked off mobile browsing growth in the US, 
+many protested at the lack of Flash support on the phone. Jobs's response: 
+tough - and the web is evolving away from one company's proprietary form of 
+showing video (Flash) to other video formats. Ironically, initially that was 
+H.264, which is patent-heavy (though with a large pool of patent contributors). 
+Google has been trying to edge some of that out with its WebM video format, but 
+even Mozilladecided to throw in the towel 
+<http://blog.lizardwrangler.com/2012/03/18/video-user-experience-and-our-mission/>
+ and adopt H.264 despite its patent encumbrances.
+
+At the start of 2011, Adobe said that about 20m devices had Flash in their 
+browser; by the end of 2011 it was expecting the figure to hit 200m. No figure 
+has been announced for the number of installations.
+
+However, with Apple having by that time activated a total of around 315m iOS 
+device, compared to anestimated 250m 
+<http://techcrunch.com/2011/12/22/android-700000/> Android devices, it was 
+clear that non-Flash-playing devices would remain a significant part of the 
+market - and that Adobe's attempts to make it a buying differentiator weren't 
+effective.
+
+Meanwhile, the promise that a really great version of Flash on mobile was just 
+around the corner was made repeatedly down the years. It didn't happen.
+
+Here's the key paragraph from the blogpost: 
+
+Beginning August 15th we will use the configuration settings in the Google 
+Play Store to limit continued access to Flash Player updates to only those 
+devices that have Flash Player already installed. Devices that do not have 
+Flash Player already installed are increasingly likely to be incompatible with 
+Flash Player and will no longer be able to install it from the Google Play 
+Store after August 15th.
+ 

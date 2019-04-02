@@ -1,0 +1,40 @@
+
+Almost 120,000 bitcoin worth around $78m has been stolen from Hong Kong-based 
+Bitfinex, one of the most popular cryptocurrency exchanges, causing a 20% drop 
+in the value of the currency.
+
+The hack, which is the largest of its kind and limited to bitcoin wallets held 
+by the company, forced Bitfinex to cease trading and report the theft to law 
+enforcement, the company said in a statement on its website.
+
+Bitfinex said in a statement on its website: “We are investigating the breach 
+to determine what happened, but we know that some of our users have had their 
+bitcoins stolen. We are undertaking a review to determine which users have been 
+affected by the breach.”
+
+ Zane Tackett, director of community and product development for Bitfinex, 
+said: “The [119,756 bitcoin] was stolen from users’ segregated wallets.”
+
+The value of bitcoin plunged nearly 20% on the news, according to data from 
+CoinDesk 
+<http://www.coindesk.com/bitcoin-drops-12-exchange-hack-amplifies-price-decline/>
+. The 120,000 bitcoin account for around 0.75% of all bitcoin in circulation.
+
+Antony Lewis, a bitcoin expert in Singapore, said: “It’s the biggest USD 
+exchange, so outside China it’s the one that everyone has an account with. It’s 
+very liquid, folk can trade on margin, lots of daily volume.”
+
+ It is not yet clear whether the theft was an inside job or whether hackers 
+were able to gain access to the system externally.
+
+It is also unknown whether the theft will force Bitfinex into bankruptcy. A 
+similar loss of bitcoin from the then biggest exchange MtGox forced itinto 
+bankruptcy protection in 2014 
+<https://www.theguardian.com/technology/2014/feb/28/bitcoin-mtgox-bankruptcy-japan>
+ and thearrest of its chief executive 
+<https://www.theguardian.com/technology/2015/aug/01/ex-boss-of-mtgox-bitcoin-exchange-arrested-in-japan-over-lost-480m>
+ Mark Karpeles in Japan.
+
+ * Bitcoin ‘not real money’ says Miami judge in closely watched ruling 
+<https://www.theguardian.com/technology/2016/jul/26/bitcoin-not-real-money-miami-judge>
+ 

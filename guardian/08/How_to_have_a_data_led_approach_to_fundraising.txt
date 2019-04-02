@@ -1,0 +1,122 @@
+
+Our online lives have become highly personalised. Every digital action, 
+whether liking a page on Facebook, or binge-watching a series on Netflix, helps 
+to create a clearer picture of who you are online – information that businesses 
+use to feed into their future strategies. While the for-profit world has 
+embraced these processes, there are far fewer examples of charities and 
+voluntary organisations doing the same.
+
+In 2014, 79% of charities that use social media for fundraising reported a 
+rise in the funds they received 
+<http://eleventygroup.com/site/2015/03/31/noteworthy-nonprofit-fundraising-survey-findings/>
+ compared with the previous year. This, combined with the fact that 44% of 
+donors admit that they have the capacity to give more than they already do, 
+means it is essential for you to better understand what motivates your 
+supporters to donate.
+
+What I learned during the Ice Bucket Challenge: be ready for anything
+ Read more  
+<https://www.theguardian.com/voluntary-sector-network/2015/jul/01/what-i-learned-during-the-ice-bucket-challenge-be-ready-for-anything>
+We at Social Misfits Media surveyed 100 charities about the way they collect, 
+analyse and use data to inform their fundraising strategies. The majority of 
+those who responded were collecting data, but cited a lack of time to do any 
+proper analysis or make any use of it. Data is an important part of the future 
+of charities and digital fundraising, and charities need to change their 
+culture if they don’t want to be left behind.
+
+To help charities use data more efficiently we’ve produced What’s Data Got to 
+Do with It?: A Free Guide to Data & Fundraising 
+<http://pages.justgiving.com/whats-data-got-to-do-with-it>. The guide, produced 
+in partnership withJustGiving <https://home.justgiving.com/> and the Institute 
+of Fundraising <http://www.institute-of-fundraising.org.uk/home/>, is designed 
+to help you begin to think about how to use data.
+
+Using data to inform a strategy takes the guesswork out of a fundraising 
+approach. It may seem daunting at first, so we’ve broken down the process into 
+the four stages.
+
+1. Data collection
+
+What data should you collect? Demographic data – such as names, ages and 
+locations – are an important first step, says Andrew Means, founder ofData 
+Analysts for Social Good <http://dataanalystsforsocialgood.com/> and The Impact 
+Lab <http://www.theimpactlab.co/>. “Beyond demographic information, there are 
+two types of data that are really key: attitudinal data (how a person thinks or 
+feels about themselves, the world or your cause) and behavioural data (what 
+people actually do).”
+
+You must think about the questions they want answered and avoid 
+over-collecting data. Use tools to automate as much as possible, and test 
+hypotheses around how people want to engage with you. This doesn’t have to be 
+costly, or overly complicated. CharitySolarAid <http://solar-aid.org/> invested 
+in Salesforce to store contact data, but also makes use of free and easy-to- 
+use tools such as Excel, SurveyMonkey and Piktochart.
+
+2. Analysis
+
+Analysing data can help you identify valuable donors, the most effective 
+channels to target your audience, and what direction you will need to take in 
+the future.
+
+The questions you want your data to answer should be formed at the collection 
+stage, says Nik Shah, measurement partnerships lead at Facebook. Expertise does 
+matter as bad analysis can undermine what you are trying to accomplish, but a 
+good understanding of your organisation’s needs is key. “I think the best 
+analysts are not the ones who have necessarily the flashiest skills, or can 
+build the most sophisticated models, but rather those who are aware of all the 
+business needs,” says Shah. “They create theories and interrogate the data to 
+prove or disprove those theories. Quality of analysis doesn’t come from 
+sophisticated technology. It comes from asking the right questions and keeping 
+the organisation’s goals in mind.”
+
+3. Implemention
+
+Using insights from the data analysis stage, implement changes as part of an 
+ongoing fundraising strategy. “There is enormous value in understanding the 
+networks of the individuals that support your cause,” says Mike Bugembe, the 
+chief analytics officer at JustGiving.
+
+Should all charities merge their communication and fundraising teams?
+ Read more  
+<https://www.theguardian.com/voluntary-sector-network/2015/jun/24/merging-departments-charities-benefits>
+Using behavioural data, the online fundraising platform found that individuals 
+were often motivated to start a fundraising campaign after the death of a loved 
+one. As a result, JustGiving created an “In Memory” product, giving users a 
+tailored and more sensitive experience, while also giving charities visibility 
+so they could add those supporters to a more appropriate supporter-care 
+programme. Implementing these changes improves the user experience, which can 
+lead to greater fundraising success.
+
+4. Creating a data-led culture
+
+Internalising a data-led fundraising culture has to start incrementally, and 
+should be flexible. Keep experimenting, try new things and make sure that 
+everything you learn along the way influences your next campaign. According to 
+fundraising and data expertBeth Kanter <http://bethkanter.org/> a lot of this 
+is down to forming good habits in the form of running A/B tests and doing 
+goodexperimentation. The goal is to get your team excited, with the added bonus 
+of strengthening your relationship with supporters. UK charityMarie Curie 
+<https://www.mariecurie.org.uk/> has encouraged its team to champion data by 
+appointing a dedicated fundraising monitoring and evaluation officer.
+
+How will this benefit my organisation?
+
+Your charity will benefit from a broader insight into what your donors and 
+supporters want, need and are responding positively to. As Bugembe says: “In an 
+increasingly noisy digital universe, charities need to create a seamless 
+user-journey across all channels to retain their audience’s attention.”
+
+It’s no longer feasible to implement or invest in a fundraising campaign that 
+isn’t evidence-based, but it is a scenario that we still see far too often, 
+particularly for organisations where even adopting a presence on social media 
+may have been an uphill battle.
+
+
+While this process won’t take place overnight, there is no doubt it will 
+produce valuable insights. Both successes and failures drive learning, and by 
+taking an approach with genuine curiosity, you’ll able to get close to your 
+supporters and understand what they want from their interactions with you.
+
+For more news, opinions and ideas about the voluntary sector, join our 
+community – it’s free! <https://register.theguardian.com/voluntary-sector/>
+ 

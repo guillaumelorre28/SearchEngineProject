@@ -1,0 +1,119 @@
+
+When Peter, an analyst at the Internet Watch Foundation (IWF) 
+<https://www.iwf.org.uk/>, is on “hashing” duty, he might look at 1,000 images 
+of child sexual abuse in a single day. His job is to filter them. Some of the 
+photographs the IWF picks up on its trawls of the web, or that members of the 
+public send to the organisation, fall outside criminal boundaries: one might, 
+for example, show a toddler working on a sandcastle. Others depict monstrous 
+abuse. Sitting in an upstairs office in a Cambridge business park, with the 
+blinds drawn for precaution, Peter – one of 13 analysts at the IWF – dutifully 
+clicks through the daily queue of images and videos, marking the difference. 
+Every hour he takes a break. “Sometimes you see something that takes you by 
+surprise,” says the former RAF intelligence analyst, “and you have to take a 
+long sit-down.” But each photo he hashes as abusive – from Category C 
+(indecent) to Category A (penetrative) – can swiftly be blocked wherever it 
+appears on the public internet. That is why Peter, a father of two, does the 
+job.
+
+On Tuesday, Jeremy Hunt suggested it might not be necessary for much longer. 
+Technology exists, he said, that can “identify sexually explicit images and 
+prevent [them] being transmitted”;this could facilitate a complete bar on 
+sexting for under-18s 
+<https://www.theguardian.com/society/2016/nov/29/jeremy-hunt-proposes-ban-on-sexting-for-under-18s>
+. Well, says Peter, he isn’t redundant yet. “It would be amazing,” he says, in 
+a room across the hallway from where IWF staff have just finished a mindfulness 
+session, “if there was a magic brush that could do this kind of job.” Almost 
+all of the “hashing” process runs automatically. TheIWF, along with many police 
+forces, uses PhotoDNA 
+<https://www.theguardian.com/technology/2013/jul/22/twitter-photodna-child-abuse>
+, a service Microsoft makes freely available to them. Once an analyst such as 
+Peter has set it in motion, the software takes a digital fingerprint of the 
+image (the “hash”), and adds it to a list of 130,000 the IWF has logged so far. 
+Running the list against all the images uploaded to their platforms, Google, 
+Facebook and Twitter – among others – locate and wipe out any replicas they may 
+inadvertently be hosting. In the past, paedophiles could mark or change the 
+file format of a photograph to fool the hash. But since PhotoDNA was released 
+in 2009, that has become harder. Analysts now spend less time on the same, 
+endlessly recurring stock of images.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2Fvideo%2F2016%2Fnov%2F30%2Fjeremy-hunt-social-media-should-block-sexting-for-under-18s-video&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=Jeremy%20Hunt%3A%20social%20media%20should%20block%20sexting%20for%20under-18s%20%E2%80%93%20video&url=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2Fvideo%2F2016%2Fnov%2F30%2Fjeremy-hunt-social-media-should-block-sexting-for-under-18s-video>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Jeremy%20Hunt%3A%20social%20media%20should%20block%20sexting%20for%20under-18s%20%E2%80%93%20video&url=https%3A%2F%2Fwww.theguardian.com%2Fsociety%2Fvideo%2F2016%2Fnov%2F30%2Fjeremy-hunt-social-media-should-block-sexting-for-under-18s-video&media=>
+Jeremy Hunt: social media should block sexting for under-18s 
+<https://www.theguardian.com/society/video/2016/nov/30/jeremy-hunt-social-media-should-block-sexting-for-under-18s-video>
+If there is any benefit to the process still relying on the interpretation of 
+a human eye, it comes in the rare, overwhelming rush of a possible rescue. 
+Shortly after Peter joined the IWF, in 2015, he saw photographs of a girl he 
+did not recognise from the churn of imagery recycled from old videos. It seemed 
+as if her actions were being prompted from outside the frame. “I shouted,” he 
+recalls. Over the following hours, he and the rest of the team frantically 
+mined the images for clues – the clothes on a handrail, the wallpaper – before 
+passing the results to police. A 12-year-old was found and freed from the man 
+who had groomed her online for years. It felt “amazing”.
+
+Mostly, though, the analysts stay sane by learning how to switch off, 
+attending their regular mandatory counselling sessions, and via an impressive, 
+if slightly bug-eyed, sense of corporate cheer. One wall inside the hotline 
+office is covered by a large and forcibly bright mural of Sir Giles Gilbert 
+Scott’s red telephone boxes. On a noticeboard, under the label “pet’s corner”, 
+hang goofy pictures of ducks and horses, next to an academic paper on 
+compassion fatigue. As nobody’s surname is mentioned throughout the 
+organisation (“a lot of people on the internet hate us,” says Chris, the 
+hotline manager. “They think we’re ruining it”), staff choose pictures of 
+up-and-at-’em icons – Tom Selleck, Steve McQueen, Penelope Pitstop – to 
+represent them on the noticeboard. Hourly pauses are more than a welfare 
+policy. Seeing horror after horror, Chris explains, may incline staff to read 
+abuse into innocent photos.
+
+British campaigners warn of emergency over online child sexual abuse
+ Read more  
+<https://www.theguardian.com/society/2016/nov/08/campaigners-warn-of-emergency-over-online-child-sexual-abuse>
+Could intelligent, unfeeling machines take the job entirely out of human 
+hands, as Hunt suggests? Historically, most image filtering – especially 
+sensitive material involving sex and violence – has needed human guidance. In 
+2014,Wired magazine picked up on Facebook’s outsourced army of moderators 
+<https://www.wired.com/2014/10/content-moderation/> in the developing world, 
+who checked brutal footage against site guidelines, in return for $500 (£400) a 
+month, and little or no support to cope with the inevitable burnout and trauma. 
+It seemed likely to the Register, a slangy and sharp tech website, that the 
+health secretary had simply misunderstood the field: “telling teenagers they 
+are not allowed to do something in order to stop them from doing it has been a
+uniquely unsuccessful strategy for parents and governments alike throughout 
+history” 
+<http://www.theregister.co.uk/2016/11/30/sexting_ban_nonsense_jeremy_hunt/>.
+
+But machine-learning entrepreneurs were less quick to criticise. Though David 
+Lissmyr,the founder of Sightengine <https://sightengine.com/>, believes 
+teenagers will always find a way to sext, he thinks that in theory, “you could 
+create an app that would block the vast majority of images” in real time.
+
+Before 2012, computer image recognition was laughably unreliable. On the 
+messageboards ofY Combinator, a Silicon Valley incubator for start-ups 
+<https://www.ycombinator.com/>, people swapped stories of software mistaking 
+pastrami sandwiches for pornography. But in that year’s ImageNet competition, 
+an annual geek-off in which teams compete to discern whether, for example, an 
+image contains a tiger or not, one team, lead by Alex Krizhevsky, “crushed the 
+competition,” says Lissymyr. Rather than laboriously teaching an algorithm how 
+to see the world – this is a cat, this a cloud – it fed millions of images to a 
+deep-learning programme and, using “neural networks”, the programme learned on 
+its own. Sightengine’s equivalent, having examined hundreds of thousands of 
+nipples, penises and labias, can tell a client in milliseconds if a photograph 
+counts as“NSFW” <https://en.wikipedia.org/wiki/Not_safe_for_work>. Humans are 
+only involved in the most marginal cases – and these are fed back to the 
+programme, smartening it up further. Lately, Facebook, Google and Twitter have 
+bought up a number of companies such as Lissmyr’s. The results are starting to 
+show. In May, Facebook announced that its AI had reported more offensive images 
+than humans had for the first time.
+
+Two days after Hunt aired his thoughts, another AI story broke. A team of 
+researchers at iCop 
+<http://www.lancaster.ac.uk/news/articles/2016/artificial-intelligence-toolkit-spots-new-child-sexual-abuse-media-online/>
+ (identifying and catching originators in peer-to-peer networks) announced that 
+they had built a toolkit capable of spotting images of child abuse with a high 
+degree of accuracy. “Instead of looking at thousands of images,” says Awais 
+Rashid, of Lancaster University, analysts may only need to examine “tens”. 
+Stopping teenagers from sexting will always be difficult. But, soon, technology 
+might spare the eyes of more men and women such as Peter.
+ 

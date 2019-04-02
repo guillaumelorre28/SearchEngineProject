@@ -1,0 +1,66 @@
+
+This year’s $1m AM Turing Award goes to a pair of cryptographers whose ideas 
+helped make internet commerce possible, and who now argue that giving 
+governments a “back door” into encrypted communications puts everyone at risk.
+
+Whitfield Diffie, a former chief security officer of Sun Microsystems, and 
+Martin Hellman, a professor emeritus of electrical engineering at Stanford 
+University, introduced the ideas of public-key cryptography and digital 
+signatures back in 1976. The concepts are still used today to secure all kinds 
+of communications and financial transactions.
+
+Their award, from the Association for Computing Machinery and mostly funded by 
+Google, is named for the British mathematician Alan Turing and is one of the 
+most prestigious prizes in computing. The honor comesamid a pitched battle 
+<https://www.theguardian.com/technology/2016/feb/27/apple-fbi-congressional-hearing-iphone-encryption>
+ between the FBI and Apple, which is resisting government pressure to help the 
+government hack into a terrorist’s iPhone.
+
+Crunch time for Apple as it prepares for face-off with FBI
+ Read more  
+<https://www.theguardian.com/technology/2016/feb/27/apple-fbi-congressional-hearing-iphone-encryption>
+Hellman told the Associated Press that he’s sympathetic to the plight of FBI 
+director James Comey and those investigating theDecember attack in San 
+Bernardino, California, 
+<https://www.theguardian.com/us-news/san-bernardino-shooting> where an Islamic 
+extremist couple killed 14 people before dying in a gun battle with police.
+
+But Hellman said that giving the FBI <https://www.theguardian.com/us-news/fbi> 
+what it wanted would unleash “huge” consequences that could not be contained.
+
+“The problem isn’t so much with this first request, it’s the precedent that it 
+would set and the avalanche of requests that would follow,” Hellman said, 
+adding that many would likely come from less democratic governments such as 
+China, Russia and Saudi Arabia.
+
+Hellman said he would sign on to one of the many friend-of-the-court briefs 
+backing Apple in the case. Tech giants such as Google, Microsoft, Facebook and 
+Twitter havepledged to participate 
+<https://www.theguardian.com/technology/2016/feb/29/apple-fbi-encryption-battle-supporters-technology-politics>
+ as well.
+
+Diffie also has advocated against giving “back doors” to law enforcement, 
+coauthoring a paper with other prominent cryptographers last year that urged 
+the US government to carefully consider the risks.
+
+Hellman, now 70, said the encryption technologies he and Diffie invented in 
+the 1970s did not make them popular with the government. Before their research, 
+encryption had mainly been the realm of government entities such as the NSA. 
+Their work allowed it to spread to the private sector.
+
+Hellman said it was nice to be recognized with the award, one of a handful he 
+has received for his work in encryption over the years. He plans to use his 
+$500,000 share to fund the publication of a book he is writing with his wife of 
+nearly 49 years that looks at what goes into a successful marriage and how 
+those same principles can be applied to creating a more peaceful and 
+sustainable world.
+
+“Holistic solutions are what we need to get past our narrow visions and get to 
+something that works for everyone,” he said.
+
+Past recipients have included Douglas Englebart, who developed the mouse and 
+other computing technologies, and Vint Cerf and Bob Kahn, who developed the key 
+communications technology behind the internet.
+
+
+ 

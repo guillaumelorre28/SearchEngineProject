@@ -1,0 +1,83 @@
+
+The BBC has confirmed plans to launch a new version of its iPlayer app for 
+Android <https://www.theguardian.com/technology/android> devices which will use 
+its own BBC Media Player technology to securely stream audio and video.
+
+The technology, which was developed in-house at the BBC's Future Media 
+division, is already being used for the mobile website version of iPlayer 
+according to ablog post 
+<http://www.bbc.co.uk/blogs/bbcinternet/2012/09/media_player_android_phones_ta.html>
+ by executive product manager Chris Yanda.
+
+"Next week we plan to release a new version of BBC iPlayer 
+<https://www.theguardian.com/media/iplayer> on Android which will use this 
+player. Other applications and websites will follow," he writes, before telling 
+Android owners that "I want to reassure you that Android is an important 
+platform for us".
+
+If that sounds slightly defensive, the reason is critical comments posted on 
+another BBC blog post 
+<http://www.bbc.co.uk/blogs/bbcinternet/2012/09/iplayer_mobile_downloads.html> 
+earlier in September, announcing an update to the iPlayer iOS app that included 
+the ability to download shows to watch offline.
+
+Despite a promise that the feature would be added for Android "soon", a number 
+of commenters criticised theBBC <https://www.theguardian.com/media/bbc> for not 
+keeping the two versions of the iOS player app in sync for new features.
+
+Yanda addresses the criticism directly in his post, pointing out that the BBC 
+needs to "meet the security obligations we had agreed with our rights holders", 
+while working on Android devices running the Froyo and Gingerbread OS versions, 
+through to the newest Jelly Bean incarnation.
+
+An added complication was Adobe's decision to stop supporting the Flash Player 
+plug-in for Android earlier in 2012. "In the end, Flash was still the best 
+choice of media format for us to use. And the only practical technology for us 
+to play this format back on Android isAdobe 
+<https://www.theguardian.com/technology/adobe> Air," writes Yanda.
+
+He sounds several notes of caution in the post, perhaps in an attempt to set 
+people's expectations of the new app appropriately.
+
+"No technology is perfect. We've seen some of the challenges that other Adobe 
+Air based apps have had in the marketplace and so we have worked hard, both 
+internally and with our technology partners to build the best application we 
+can," he writes.
+
+The BBC isn't the only broadcaster that has faced challenges making TV 
+services available across iOS and Android. BSkyB launched its original Sky Go 
+app for Android in January 2012 for a selection of Android smartphones, seven 
+months after the iOS app went live.
+
+In March 2011, BSkyB's general manager for mobile David Gibbs explained why 
+Android was proving problematic 
+<http://www.guardian.co.uk/technology/appsblog/2011/mar/08/sky-apps-iphone-android-blackberry-windows>
+ at the time for broadcasters:
+
+"The big sticking point at the moment is security around streams," he told a 
+London conference. "We can't protect those streams to meet the obligations for 
+our rightsholders. There will be a solution around September-time, but it's a 
+challenge: we're optimising someone else's [DRM] solution and putting a wrapper 
+around it."
+
+Android has moved on since then, but the quote remains the best explanation 
+why companies like the BBC and BSkyB sometimes appear to be prioritising iOS 
+over Android: their rights obligations often lead to them having to build 
+bespoke technology in-house when making their content available on Google's 
+platform.
+
+The important message, though, is that in 2012 Android is worth that effort 
+and expense. In July 2012,Kantar Worldpanel ComTech claimed 
+<http://www.kantarworldpanel.com/kwp_ftp/global/comtech/Kantar_Worldpanel_ComTech_Smartphone_OS_barometer_11_7_12.pdf>
+ that in the 12 weeks to 10 June, Android accounted for 57.2% of smartphone 
+sales in the UK, well ahead of iPhone's 25.6% share.
+
+Mobile TV apps are very popular – the BBC's iPlayer received 30m requests for 
+shows from mobile and tablets in July 2012, which was 20% of iPlayer's total on 
+all platforms.
+
+Enough of those new and existing Android users want to watch their favourite 
+shows on their devices to make it a necessity for broadcasters to take the 
+platform seriously – whether for public-service reasons in the BBC's case, or 
+commercial reasons in BSkyB's.
+ 

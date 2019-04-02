@@ -1,0 +1,95 @@
+
+At Donald Trump’s now-notorious press conference on Tuesday, lost amidst his 
+threats to news organizations and denunciations of his enemies, the 
+president-elect claimed he would soon assemble “some of the greatest computer 
+minds anywhere in the world” to tackle the US government’s cybersecurity 
+problem. On Thursday, he went the opposite route instead and hiredRudy Giuliani 
+<https://www.theguardian.com/us-news/rudygiuliani>.
+
+Giuliani, Trump election surrogate and the disgraced former mayor of New York 
+<http://www.politico.com/magazine/story/2016/09/rudy-giuliani-donald-trump-2016-214207>
+, is apparently going to head up Trump’s efforts to coordinate “cybersecurity” 
+issues between the federal government and the private sector, the transition 
+team announced Tuesday. But what does Giuliani, last seen on the campaign trail
+claiming the president can break whatever law he likes 
+<http://www.huffingtonpost.com/entry/rudy-giuliani-anything-legal-iraq-oil_us_57d55d1ee4b06a74c9f50fa9>
+ in a time of war, know about cybersecurity? From the look and sound of it, not 
+much.
+
+Giuliani does head a consulting firm in New York called Giuliani Partners that 
+supposedly focuses on cybersecurity, but Vice’s Motherboardreported 
+<http://motherboard.vice.com/read/what-does-rudy-giuliani-actually-know-about-cybersecurity>
+ yesterday, it’s tough to tell what they actually do, and it’s even tougher to 
+tell what Giuliani does for them, besides being the face of the operation while 
+saying outrageous things on television.
+
+As Motherboard’s Jason Koebler and Lorenzo Franceschi-Bicchierai wrote, 
+“Unlike many other cybersecurity firms, Giuliani Partners does not publish 
+white papers about malware and large-scale hacks, or push for increased 
+adoption of encryption, which would enhance cybersecurity across the board. In 
+fact, it doesn’t talk much about cybersecurity at all, instead choosing to 
+focus on its more traditional anti-crime consulting work.”
+
+Just after the Trump team’s announcement, security experts took a look at 
+Giuliani Partner’s website andstarted mercilessly mocking it on Twitter 
+<http://www.theregister.co.uk/2017/01/13/giuliani_joomla_outdated_site/> for 
+glaring vulnerabilities and its own lax cybersecurity practices that makes it 
+looks more like a website built in the mid 1990s than a supposedly respected 
+cybersecurity firm would present the public today.
+Kevin Beaumont 🤗 (@GossiTheDog) 
+Oh, people are already poking it. pic.twitter.com/pxoi2M7HFU 
+<https://t.co/pxoi2M7HFU>
+ <https://twitter.com/GossiTheDog/status/819704211143270400> January 13, 2017 
+<https://twitter.com/GossiTheDog/status/819704211143270400> 
+In fact, searching Giuliani’s past public comments (for example 
+<https://gizmodo.com/rudy-giuliani-will-be-a-disaster-1788813294>, “I’d love to 
+become the person that comes up with a solution to cybersecurity”) it’s hard to 
+find an intelligent sentence he’s strung together on the subject at all.
+
+
+There is one thing Giuliani should get credit for though: he realized earlier 
+than most what a racket cybersecurity “consulting” would be.Here he is 
+<https://gizmodo.com/rudy-giuliani-will-be-a-disaster-1788813294>, for example, 
+laughing about how much corporations paid his firm to do work in the mid 2000s.
+
+While it’s amusing to make fun of Giuliani, hiring people with little or no 
+bona fide security experience to head up cybersecurity practices in government 
+is sadly a tried and true pastime in Washington. Instead of tapping actual 
+computer security experts, politicians in many cases continue to put their 
+friends or people they know in charge of a monumental problem that requires 
+expertise beyond having many political connections or relationships with donors.
+
+The DNC’s response to the hack of their emails is the perfect example. The 
+Democrats and Republicans should have been well aware their information could 
+be hacked by a foreign government since it happened to both Obama and John 
+McCain in 2008. But it was only after the DNC’s leaked emails started being 
+published in the summer that the committee announced it would create a 
+Cybersecurity Advisory Board to “ensure that the DNC’s cybersecurity 
+capabilities are best-in-class”.
+
+As technologist Chris Soghoian asked at the time 
+<https://twitter.com/csoghoian/status/764172442055106560>, “Will the DNC cyber 
+board have experienced cybersecurity pros or just ex senior intelligence 
+officials & politicians?” Sure enough, a day later when the lineup was 
+announced,every person on it 
+<https://twitter.com/csoghoian/status/764875901200961536> was either a lawyer 
+or ex-government official – not an engineer or computer scientist among them.
+
+Congress itself suffers from the same problem. While there are four members of 
+the House with a computer science degree 
+<https://hurd.house.gov/media-center/in-the-news/we-asked-every-member-congress-computer-science-degree-about-apple-s-war>
+, none of them have been assigned to thecybersecurity subcommittee 
+<https://homeland.house.gov/subcommittee/cybersecurity_infrastructure_protection_and_security_technologies_subcommittee/>
+ by their parties’ leadership. John McCain, who will soon create a new 
+cybersecurity subcommittee in the Senate,admits to never even using email 
+<http://www.businessinsider.com/john-mccains-explanation-for-why-he-doesnt-use-email-2015-3>
+.
+
+But while Giuliani is just a particularly cartoonish example of a longstanding 
+problem, he is, in one sense, a perfect fit for the Trump administration: yet 
+another already rich man taking a position in which he clearly has a vested 
+interest, set to more money for himself and likely to fail those he’s supposed 
+to be helping. Giuliani will almost certainly get fatter contracts while he 
+continues to head up his “cybersecurity” firm, but it’s the American people who 
+will ultimately lose.
+ 

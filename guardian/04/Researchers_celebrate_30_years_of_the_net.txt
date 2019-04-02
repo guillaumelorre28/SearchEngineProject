@@ -1,0 +1,33 @@
+ Internet pioneers are gathering this week to celebrate the 30th anniversary of 
+the Arpanet, the first step towards the creation of the world wide web.
+Celebrations are focusing on University College London, where the first fully 
+fledged link was made between UCL and the Kjeller Norway university in 1973. The
+Arpanet <https://www.theguardian.com/technology/arpanet> was the precursor to 
+the internet, and was designed by Dr Robert E Kahn and Dr Vinton G Cerf, who 
+today receive honorary fellowships from UCL.
+
+The earliest link - albeit crude - was made in 1969 by Professor Peter 
+Kirstein of UCL who contacted the US in 1969 by connecting to the very first 
+version of Arpanet. He went on to provide the UK's principal internet link 
+between the UK and the US throughout the 1980s.
+
+Professor Kirstein said: "During the late 60s and early 70s, research 
+departments in universities were making huge technological strides forward that 
+contributed greatly to the birth of the internet. UCL in particular had a 
+prominent role and made the first UK connection to the Arpanet, making the 
+enterprise international for the first time.
+
+"[Bob Kahn and Vint Cerf's] joint development of TCP/IP [internet protocol] 
+has led to a communication network that links people regardless of geographical 
+location. That has made a lasting impact on our education, quality of life and 
+economy. This ceremony and the events that will take place throughout the week 
+mark the discovery of the internet, and signal the start of a new era of 
+internet developments."
+
+Dr Cerf said: "UCL has had a central role in the evolution of the internet and 
+it has been a privilege to maintain a collegial relationship with the UCL team 
+as it explores new territory in the endless internet space."
+
+The inauguration ceremony of the honorary fellows is due to take place at 5pm 
+today.
+ 

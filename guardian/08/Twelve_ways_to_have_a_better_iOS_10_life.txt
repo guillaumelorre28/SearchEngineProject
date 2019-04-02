@@ -1,0 +1,151 @@
+
+1 Improved touch controls
+
+Several buttons now have “3D touch”: they respond to the force used (iPhone 6S 
+or newer devices). A hard press on the timer icon pops up shortcuts to common 
+timer lengths, while the torch icon lets you choose brightness and the camera 
+icon lets you jump to video or selfie mode. Several apps have also gained new 
+touch gestures: in Photos, you can now tap and drag to select multiple images, 
+while the email app now lets you swipe down while composing a message to save 
+it as a draft. To return to a saved draft, hold your finger down on the compose 
+button.
+
+2 Better Apple maps
+
+Apple’s map application is getting smarter – it knows when you’re driving and 
+in iOS 10 it automatically drops a pin whenever you leave your vehicle, so you 
+can easily find your way back, even in an unfamiliar neighbourhood. On a 
+smaller scale, the Find myiPhone <https://www.theguardian.com/technology/iphone>
+ app can now help you locate a mislaid Apple Watch. You can make it play a loud 
+sound to reveal its location – or put it into “lost mode”, which displays a 
+message of your choosing, so that anyone who finds it can get hold of you. If 
+you fear it has gone for good, you can remotely lock or wipe it.
+
+3 Voice notification of important calls
+
+When a call comes in, Siri, Apple’s speech-recognition assistant, can now 
+announce who’s calling, so you know right away whether to pick up. You can 
+enable this at Settings > Phone > Announce Calls. In the interests of privacy, 
+you can choose to use this feature only when using Bluetooth (wireless) 
+headphones or speakers, rather than having all callers’ names read out. You can 
+also now specify individual callers who should always get through, even if your 
+phone’s in “do not disturb” mode (previously you could do this only for groups 
+of contacts). To set this up, open a contact and select Edit > Ringtone or Edit 
+> Text tone, then turn on the Emergency Bypass switch.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F02%2Fios10-top-tips-new-features%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fabf89956e1289cf739a759e9bf92420fc3bc0f2f%2F23_7_642_1296%2F642.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Twelve%20ways%20to%20have%20a%20better%20iOS%2010%20life&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F02%2Fios10-top-tips-new-features%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Twelve%20ways%20to%20have%20a%20better%20iOS%2010%20life&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F02%2Fios10-top-tips-new-features%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fabf89956e1289cf739a759e9bf92420fc3bc0f2f%2F23_7_642_1296%2F642.jpg>
+ iOS 10’s Photos app now groups pictures into people and places. 
+4 Find people and places in the photo app
+
+Open Photos and you’ll see new folders entitled “people” and “places”, 
+grouping pictures according to who is in them and where they were taken. The 
+process of identifying faces is automatic and it happens on your phone (rather 
+than in the cloud) to protect your privacy. To make the most of it, however, 
+you’ll need to tell your iPhone who the people it’s detected are – simply tap 
+on a picture and start entering names to identify your subjects. With this done 
+you can also search for images by person. You can also identify everyday 
+objects: try a search for “car” or “tree”, for example.
+
+5 Inline video in the web browser
+
+Before, the Safari web browser for iOS would open videos embedded into web 
+pages in a full-screen view. Now you can watch them in their proper context on 
+the page, just as you would on the desktop. Simply tap to start the video, then 
+tap the resize icon in the bottom-right of the frame (or pinch your fingers 
+together to zoom out). On the iPad Pro, iPad Air 2 oriPad 
+<https://www.theguardian.com/technology/ipad> Mini 4, you can also now view two 
+websites side by side: to enable this feature, hold down the new tab button at 
+the top right of the window and you’ll see the option to “open split view”.
+
+6 New Siri features
+
+Siri has a few new tricks in iOS <https://www.theguardian.com/technology/ios> 
+10. “Take a selfie” is one: Siri won’t actually activate the shutter, but he – 
+or she if you’ve chosen the female voice – will open the camera app in selfie 
+mode, ready for your close-up. Siri can also now be used to control third-party 
+apps, such as WhatsApp. To enable this feature, go to Settings > Siri > App 
+Support and enable WhatsApp: you’ll now be able to tell Siri to make calls and 
+send messages. Uber is there too, so Siri can book you a car, and other apps 
+are likely to add support in the near future.
+
+7 iMessage gets a major upgrade
+
+iMessage is loaded with new features. There’s a shortcut directly to the 
+camera, so you can easily send photos and selfies, and if you hold down the 
+send button you’ll see a variety of new visual effects: you can send a birthday 
+message surrounded by balloons or a private chat in “invisible ink” that’s only 
+visible when the recipient swipes over it with a finger. If that’s not enough, 
+iMessage now has its own app store, selling sticker packs, games and tools for 
+finding and sharing online information. Just open iMessage and tap the new app 
+store icon next to the message box.
+
+8 Redesigned notifications
+
+On the iPhone 6S or newer devices, iOS 10 automatically wakes up the screen to 
+show your notifications as soon as you pick up the phone. What’s more, 
+notifications have become interactive: a hard press lets you reply to an 
+incoming message without having to unlock the phone and open the app. If you’re 
+worried that this feature might be open to abuse, you can disable it by going 
+to Settings > Touch ID & Passcode and turning off “Reply with Message”. You can 
+also dismiss all notifications with a hard press on the close icon; on devices 
+without 3D touch, swipe left on the notification for options.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F02%2Fios10-top-tips-new-features%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F294b61c3e9ec26cf7438d90fb9dbc3c7315f2bb3%2F150_160_905_1802%2F905.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Twelve%20ways%20to%20have%20a%20better%20iOS%2010%20life&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F02%2Fios10-top-tips-new-features%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Twelve%20ways%20to%20have%20a%20better%20iOS%2010%20life&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F02%2Fios10-top-tips-new-features%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F294b61c3e9ec26cf7438d90fb9dbc3c7315f2bb3%2F150_160_905_1802%2F905.jpg>
+ The Messages app has been redesigned to offer more expression options with the 
+iOS 10 software update. 
+9 New calendar app features
+
+
+If your phone supports 3D touch, you don’t have to open the calendar app to 
+see what’s coming up: a hard press on its icon will show you your next 
+appointment. Inside the app, you might notice some events that you don’t recall 
+adding; iOS 10 now automatically schedules events detailed in incoming emails 
+or messages. If this results in a deluge of irrelevant events clogging up your 
+calendar, you can turn it off at Settings > Calendar > Events Found in Apps. A 
+final change to the calendar is simple but welcome: you can now reschedule 
+events by simply tapping and dragging them to a new time.
+
+10 Smarter typing suggestions
+
+
+Apple’s QuickType keyboard, introduced in iOS 8, suggests words based on what 
+it thinks you’re typing; iOS 10 goes a step further by analysing the message 
+you’re replying to and suggesting likely responses. If someone sends you an 
+iMessage asking you for a friend’s email address, for example, you’ll see 
+contact details pop up as a suggested response. Another subtle upgrade to the 
+keyboard is the ability to recognise multiple languages without your having to 
+switch them manually – so if you’re trying to impress a colleague with your 
+savoir faire, your iPhone won’t keep trying to “correct” your bons mots.
+
+11 Ways to clear out the clutter
+
+
+It’s frustrating to have your phone cluttered up with apps you don’t need, 
+such as Stocks or the one for theApple 
+<https://www.theguardian.com/technology/apple> Watch. At last, iOS 10 lets you 
+remove these. Sadly, not much memory space is actually saved – most of the 
+underlying code is built into iOS itself, so removing optional apps only clears 
+around 150MB – but it keeps your home screen much tidier. You can also save a 
+few gigabytes with the iPhone’s “optimise storage” feature, which in iOS 10 can 
+now scan your music library and clear out locally stored tracks that you 
+haven’t listened to for a while.
+
+12 Better connections between devices
+
+“Continuity” is Apple’s way of allowing you to put down your work on one 
+device and pick it up on another. iOS 10 adds cross-device clipboard support, 
+so if you want to copy an iMessage into a Word document on your desktop, you 
+can simply hit copy on one device and paste on the other, as long as your Mac 
+is running the latestmacOS Sierra <https://www.apple.com/macos/sierra/> 
+release. If you own an Apple TV, you’ll also be pleased to learn that, with the 
+latest version of tvOS, you can now seamlessly switch to your iPhone to enter 
+text – handy for fiddly searches.
+ 

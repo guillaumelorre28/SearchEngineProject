@@ -1,0 +1,97 @@
+
+There was the voice recognition software that struggled to understand women 
+<http://www.dailydot.com/debug/google-voice-recognition-gender-bias/>, the 
+crime prediction algorithm thattargeted black neighbourhoods 
+<http://uk.businessinsider.com/predictive-policing-discriminatory-police-crime-2016-10?r=US&IR=T>
+ and the online ad platform whichwas more likely to show men highly paid 
+<http://www.independent.co.uk/life-style/gadgets-and-tech/news/googles-algorithm-shows-prestigious-job-ads-to-men-but-not-to-women-10372166.html>
+ executive jobs.
+
+Concerns have been growing about AI’s so-called “white guy problem” and now 
+scientists have devised a way to test whether an algorithm is introducing 
+gender or racial biases into decision-making.
+
+Mortiz Hardt, a senior research scientist at Google  
+<https://www.theguardian.com/technology/google>and a co-author of the paper, 
+said 
+<https://research.googleblog.com/2016/10/equality-of-opportunity-in-machine.html>
+: “Decisions based on machine learning can be both incredibly useful and have a 
+profound impact on our lives ... Despite the need, a vetted methodology in 
+machine learning for preventing this kind of discrimination based on sensitive 
+attributes has been lacking.”
+
+A beauty contest was judged by AI and the robots didn't like dark skin
+ Read more  
+<https://www.theguardian.com/technology/2016/sep/08/artificial-intelligence-beauty-contest-doesnt-like-black-people>
+The paper was one of several on detecting discrimination by algorithms to be 
+presented at the Neural Information Processing Systems (NIPS) conference in 
+Barcelona this month, indicating a growing recognition of the problem.
+
+Nathan Srebro, a computer scientist at the Toyota Technological Institute at 
+Chicago and co-author, said: “We are trying to enforce that you will not have 
+inappropriate bias in the statistical prediction.”
+
+The test is aimed at machine learning programs, which learn to make 
+predictions about the future by crunching through vast quantities of existing 
+data. Since the decision-making criteria are essentially learnt by the 
+computer, rather than being pre-programmed by humans, the exact logic behind 
+decisions is often opaque, even to the scientists who wrote the software.
+
+“Even if we do have access to the innards of the algorithm, they are getting 
+so complicated it’s almost futile to get inside them,” said Srebro. “The whole 
+point of machine learning is to build magical black boxes.”
+
+To get around this, Srebro and colleagues devised a way to test for 
+discrimination simply by analysing the data going into a programme and the 
+decisions coming out the other end.
+
+“Our criteria does not look at the innards of the learning algorithm,” said 
+Srebro. “It just looks at the predictions it makes.”
+
+Do no harm, don't discriminate: official guidance issued on robot ethics
+ Read more  
+<https://www.theguardian.com/technology/2016/sep/18/official-guidance-robot-ethics-british-standards-institute>
+Their approach, called Equality of Opportunity in Supervised Learning 
+<https://arxiv.org/abs/1610.02413>, works on the basic principle that when an 
+algorithm makes a decision about an individual - be it to show them an online 
+ad or award them parole - the decision should not reveal anything about the 
+individual’s race or gender beyond what might be gleaned from the data itself.
+
+For instance, if men were on average twice as likely to default on bank loans 
+than women, and if you knew that a particular individual in a dataset had 
+defaulted on a loan, you could reasonably conclude they were more likely (but 
+not certain) to be male.
+
+However, if an algorithm calculated that the most profitable strategy for a 
+lender was to reject all loan applications from men and accept all female 
+applications, the decision would precisely confirm a person’s gender.
+
+“This can be interpreted as inappropriate discrimination,” said Srebro.
+
+The US financial regulator, the Consumer Financial Protection Bureau, has 
+already expressed an interest in using the method to assess banks.
+
+However, others have raised concerns that the approach appears to side-step 
+any requirement for transparency about how decisions made by algorithms are 
+actually reached.
+
+'I think my blackness is interfering': does facial recognition show racial 
+bias?
+ Read more  
+<https://www.theguardian.com/technology/2016/apr/08/facial-recognition-technology-racial-bias-police>
+Alan Winfield, professor of robot ethics at the University of the West of 
+England, said: “Imagine there’s a court case for one of these decisions. A 
+court would have to hear from an expert witness explaining why the program made 
+the decision it did.”
+
+
+Winfield acknowledged that an absolute requirement for transparency is likely 
+to prompt “howls of protest” from the deep learning community. “It’s too bad,” 
+he said.
+
+Noel Sharkey, emeritus professor of robotics and AI at the University of 
+Sheffield, agreed. “Machine learning is great if you’re using it to work out 
+the best way to route an oil pipeline,” he said. “Until we know more about how 
+biases work in them, I’d be very concerned about them making predictions that 
+affect people’s lives.”
+ 

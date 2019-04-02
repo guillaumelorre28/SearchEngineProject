@@ -1,0 +1,79 @@
+
+You know how frustrating it is when you put a cartridge in your printer, and 
+it tuts at you about “not an approved part”, after which, printing becomes even 
+more of a lottery than usual? Now you can get the same experience with light 
+bulbs.
+
+In mid-December, Philips – best known for the fabulously popular compact 
+cassette and then the fabulously unpopular digital compact cassette – released 
+a firmware update for its Hue LED light bulbs and controllers. Apart from 
+having a rather HAL-like appearance, with a glowing red centre surrounded by 
+blackness, the Hue is meant to let you control the colour and brightness of 
+your bulbs, all from the comfort of your smartphone.
+
+At this point I pause to wonder who feels an urgent need to change the colour 
+and brightness of their lights from their phone. Do they also have black satin 
+sheets, R Kelly playing on low volume and mirrors on the ceiling? Although 
+apparently there are uses if you combine them with aHue Disco app 
+<https://itunes.apple.com/us/app/hue-disco/id581258186?mt=8> so you can 
+synchronise light effects with music, which sounds much the same thing, but 
+there are parents with excitable kids who love it.
+
+For everyone else, it seems like the latest example from the Internet of 
+Useless Things; why can’t you just stand up and turn a couple of lights off? 
+(Don’t bother with dimmers; they’re designed to waste electricity.)
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjan%2F11%2Fphilips-hue-led-bulbs-proprietary-charles-arthur%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F4f294f9cff170d9e4e4164b7ca7666a3dc384e95%2F0_0_1000_1000%2F1000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20many%20tech%20firms%20does%20it%20take%20to%20change%20a%20light%20bulb%20for%20the%20worse%3F%20Only%20one%3A%20Philips&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjan%2F11%2Fphilips-hue-led-bulbs-proprietary-charles-arthur%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20many%20tech%20firms%20does%20it%20take%20to%20change%20a%20light%20bulb%20for%20the%20worse%3F%20Only%20one%3A%20Philips&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjan%2F11%2Fphilips-hue-led-bulbs-proprietary-charles-arthur%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F4f294f9cff170d9e4e4164b7ca7666a3dc384e95%2F0_0_1000_1000%2F1000.jpg>
+ The Philips Hue lightbulb and attendant app. Photograph: PR 
+But anyway. Some people like Hue. The firmware update, however, had no 
+particularly obvious benefits to you, the user. Instead, it was apparently 
+devised solely to block the use of any “non-approved” bulbs in Hue sockets, 
+thus boosting Philips’s profit by making you pay for pricier ones.
+
+This moves us into the Internet of Ridiculous Things. How exactly can Philips 
+dictate that, after you’ve paid for the sockets, it gets to decide what you can 
+do with them? But, as journalist Cory Doctorowpointed out 
+<http://boingboing.net/2015/12/16/philips-promises-new-firmware.html>, any 
+Americans who tried to tweak the software would have faced a fine of up to 
+$500,000 under the Digital Millennium Copyright Act. In anFAQ on its developer 
+site <http://www.developers.meethue.com/documentation/friends-hue-update>, 
+Philips said it “upgraded the software for Hue to ensure the best seamless 
+connected lighting experience for our customers. This change was made in good 
+faith.” But then it admitted to having “underestimated” the impact on the 
+“small number” of people using third-party bulbs.
+
+The other wrinkle, though, is that all the bulbs were using the Zigbee 
+protocol – an “open, global standard” – for their control. Yet Philips decided 
+that it would close down its corner of that standard and henceforth make its 
+device work only with approved bulbs.
+
+Companies build things around standards and insert their own proprietary 
+elements all the time. That’s essential to most business models: some parts are 
+built around open standards, some around your closed secret sauce. (Google, 
+built on Linux, doesn’t open-source its search algorithms; Apple, famous for 
+its app “walled garden”, uses BSD Unix and contributes to open-source 
+projects.) But what’s different about this is that Philips shifted the ground.
+
+You started off being able to put in third-party bulbs, and then it decided 
+you couldn’t, and enforced that through a software rollout you couldn’t avoid: 
+the firmware update appeared as a menu item that wouldn’t go away. 
+Unsurprisingly, the uproar forced the company to backtrack within 48 hours and 
+promise even newer firmware that wouldn’t be so picky. (I paraphrase.)
+
+Watching Philips get this so wrong brings to mind its debacle with digital 
+compact cassette (DCC), a format introduced in 1992 that offered the sound 
+clarity of digital but also introduced digital copy protection that prevented 
+you making copies. Customers didn’t see the point and stayed away. Yet 20 years 
+later, Philips still hasn’t learned that lesson: in the digital age, you can 
+flourish only by using openness and pairing it with a closed method, not by 
+being closed all the time – and especially not by moving the digital goalposts 
+to close formerly open areas.
+
+If the Hue, and other internet of things products, aren’t to go the way of the 
+DCC, makers will have to consider carefully where they set the boundaries of 
+open and closed.
+ 

@@ -1,0 +1,118 @@
+
+In 2016, open data was central to a growing number of projects across the 
+globe. Throughout the year, data initiatives attempted tochange the banking 
+industry 
+<https://www.theguardian.com/media-network/2016/feb/16/banking-industry-uber-moment-standard-open-banking-working-group>
+, took strides towardsgetting London fit 
+<https://www.theguardian.com/media-network/2016/may/04/data-londoners-fitness-olympic-park-tfl-strava>
+, and fought “superbugs” through areal-time record of antibiotic resistance 
+<https://www.theguardian.com/media-network/2016/apr/11/antibiotic-resistance-real-time-open-data>
+.
+
+How will we see the open data ecosystem continue to grow in 2017? We asked the 
+experts to tell us what the coming year will hold.
+
+
+Sir Nigel Shadbolt 
+
+Principal of Jesus College, Oxford 
+<https://en.wikipedia.org/wiki/Jesus_College,_Oxford> and chair and co-founder 
+of theOpen Data Institute <https://en.wikipedia.org/wiki/Open_Data_Institute>
+
+The UK has been top of the open data tree so far. But in 2017 we risk losing 
+our place as others ascend, such as Australia which is opening up itsmap and 
+address data <http://nationalmap.gov.au/> and France which has recently 
+legislated for data in its digital republic bill 
+<http://www.republique-numerique.fr/pages/in-english>. I’d like to see the UK 
+government investing in data infrastructure. Just as it builds and maintains 
+physical infrastructure, such as transport networks, so it needs to invest in 
+building, maintaining and opening important data, from lists of legally 
+constituted companies, NHS procedures, environmental indicators, to maps, legal 
+addresses, timetables and tariffs.
+
+Too much of our data infrastructure is currently unreliable, inaccessible or 
+only available for those who can pay. Innovators struggle to get hold of data 
+they need, while many citizens do not feel empowered to access and use data. We 
+must improve data skills throughout society, so policymakers, businesses and 
+citizens can interpret and use it well.
+
+I also want to see more algorithmic accountability: greater transparency 
+around the algorithms that shape services and information. We should understand 
+how software is making decisions about what we need when, in order to judge 
+whether it is honouring our best interests. The commercial sector must be more 
+transparent, as should government if it starts using algorithms to target and 
+determine the public services it provides citizens.
+
+Neil Lawrence
+
+Professor of machine learning at University of Sheffield on leave of absence 
+as a senior principal applied scientist at Amazon
+
+It’s likely to be a year of consolidation for open data, we’ve seen the 
+benefits in the scientific world, and government has bought strongly into the 
+ideas. There remain challenges for companies in how to best extract value from 
+open data: is it commercialisation of solutions based on open data? Or is it 
+improvement of their internal processes in the light of open data? Or will it 
+be something else?
+
+A new trend is that of open models, the wide availability of pre-trained 
+machine learning models systems which can be reused or repurposed. Some of 
+these models could be seen as open data in distilled form. Sharing of models 
+derived from open data might prove to be an easier way of building on the 
+benefits. A remaining challenge is how companies exploit their own internal 
+data sets, particularly when to obtain best value these data need to be 
+combined with information stores from other companies.
+
+
+Dr Elena Simperl
+
+Associate professor, electronics and computer science, University of 
+Southampton, and coordinator ofODINE <https://opendataincubator.eu/> (sponsors 
+of the Guardian’s editorially independent coverage of the open data economy)
+
+Predictions backed by lots of data and established methods have proven wrong 
+time and time again. 2016 was the year data science failed. Engagement with 
+data, factual evidence, and expertise is lower than ever. For open data this 
+means one thing: that publishing it in the public domain cannot be a 
+box-ticking exercise.
+
+If we want these efforts to be fruitful, if we want citizens, businesses, and 
+communities to take informed decisions using the wealth of data sources 
+available online, we need to make this data useful and exciting for them. This 
+can mean many things, from creating a better experience of the tools people use 
+to explore data to publishing data in a way that people relate to.
+
+Pavel Richter
+
+Chief executive officer of Open Knowledge International <https://okfn.org/>
+
+
+This year is going to be full of challenges. With restrictions on civic space 
+<http://civicus.org/index.php/socs2016> taking place around the world, civil 
+society organisations are particularlyunder siege 
+<https://oxfamblogs.org/fp2p/why-is-africas-civil-society-under-siege/>. But 
+this challenge also presents an opportunity for the open data community to 
+foster meaningful dialogue between citizens and civil society.
+
+2017 is the ideal time for the open data community to work with civil society 
+and demonstrate how information can be used to drive change and build trust 
+across divisions in society. Open data is already being used in many different 
+contexts to improve people’s lives and we must continue to communicate how.
+
+Openness of data in itself is not enough – we will need to engage further with 
+users and potential users of data in 2017 to make sure the information 
+governments and other data publishers are providing is the information citizens 
+actually require. I look forward to seeing more collaborations between NGOs and 
+data experts to address local, national, and transnational issues using
+citizen-generated data 
+<http://blog.okfn.org/2016/12/22/new-report-making-citizen-generated-data-work/>
+.
+
+The Open Data Institute, the University of Southampton and the Guardian are 
+members of theODINE <https://opendataincubator.eu/> consortium.
+
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+ 

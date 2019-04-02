@@ -1,0 +1,236 @@
+
+Huawei’s Mate 9 is a phablet that tries to squeeze a monster screen into a 
+not-quite-so monster body and mostly succeeds.
+
+
+Given the demise of the Samsung Galaxy Note 7 owing to exploding batteries the 
+top-end of the phablet market is open for the first time in years.
+
+Huawei’s Mate series - its big screened but until recently, niche phablet - 
+has been around for a while. The Mate 9 is the latest and greatest, and while 
+it doesn’t look much different from the outside than its predecessor the Mate 
+8, it’s now more widely available than ever and targeting that vacant spot at 
+the top of the phablet tree.
+
+Big slab of metal
+ The metal back has two colour-matched plastic windows at the top and bottom 
+for the antennas. Photograph: Samuel Gibbs for the Guardian 
+The Mate 9 doesn’t share much in the way of design likeness to Huawei’s 
+flagship P9. The front is pretty plain: a screen with tiny bezels either side 
+with a top bar containing the earpiece speaker and selfie camera and the bottom 
+bar just containing theHuawei <https://www.theguardian.com/technology/huawei> 
+logo.
+
+It’s got one of the highest screen-to-body ratios of any smartphone available, 
+which is good, because the screen really is ginormous at 5.9in. There have been 
+a few devices with larger screens, but not many. For instance, Apple’s iPhone 7 
+Plus and Google’s Pixel XL have 5.5in screens, while Samsung’s Note series 
+topped out at 5.7in on the diagonal.
+
+The curved aluminium back and chamfered edges make it a lot easier to hold on 
+to the Mate 9 than you might expect. I say easier, because it certainly isn’t 
+as easy to use as a normal, non-monster smartphone such as the Galaxy S7 or 
+Huawei P9.
+ Huawei Mate 9 review end Photograph: Samuel Gibbs for the Guardian 
+At 7.9mm thick, the Mate 9 is relatively thin, and even at 78.9mm wide it’s 
+relatively narrow, but one thing it certainly isn’t is light. It weighs 190g, 
+is solidly built and with heft.
+
+There’s no getting over this is a bigger-than-big smartphone. For comparison, 
+the 5.5in iPhone 7 Plus is 7.3mm thick, 77.9mm wide and weighs 188g, while 
+Google’s Pixel XL is 8.5mm thick, 75.7mm wide and 168g.
+
+The 5.9in screen is surprisingly good for a 1080p screen. Most smartphones 
+this size have higher resolution screens so that they have higher pixel 
+densities - the more pixels the sharper the screen.
+
+You can certainly see the difference; the Mate 9’s screen is just not as 
+pin-sharp as the Pixel XL’s screen for instance. But colour reproduction is 
+good, so are the viewing angles and brightness.
+
+Specifications
+
+ * Screen: 5.9in 1080p LCD (373ppi) 
+ * Processor: octa-core Huawei Kirin 960 
+ * RAM: 4GB of RAM 
+ * Storage: 64GB + microSD card 
+ * Operating system: Android 7.0 with EMUI 5 
+ * Camera: 12MP RGB with OIS + 20MP monochrome rear cameras, 8MP front-facing 
+camera 
+ * Connectivity: LTE, dual-sim, Wi-Fi, NFC, USB-C, Bluetooth 4.2 and GPS 
+ * Dimensions: 156.9 x 78.9 x 7.9 mm 
+ * Weight: 190g 
+Impressive battery life
+ The Mate 9 can take two sims at the same time for two numbers and plans 
+connected to one smartphone, or the second sim slot can be used with a microSD 
+card for adding more storage. Photograph: Samuel Gibbs for the Guardian 
+The Mate 9 has Huawei’s new top of the line processor the Kirin 960 and 4GB of 
+RAM, which places right up there with the best of the rest of Android devices 
+in raw power.
+
+It’s snappy, particularly in launching apps, which is down in part to Huawei’s 
+new system of intelligent resource management that predicts apps you’re likely 
+to want to use at any given moment.
+
+My usage is obviously predictable because after about two days it was 
+noticeably snappier. Particularly when launching relatively complex apps such 
+as Evernote and games. It actually felt faster than any other Android 
+smartphone I have used to date, which is an achievement.
+
+Huawei promises that its smart systems will keep it that way over the lifespan 
+of the smartphone, but it’s not something we’ll be able to tell for a year or 
+so.
+
+The Mate 9’s battery is equally impressive. Without any power saving modes 
+active I routinely went over 36 hours between charges, dropping only 3% 
+overnight with do not disturb enabled. I used it as my primary device with 
+three hours of app usage and browsing, hundreds of emails and push 
+notifications, a few photos, 30 minutes of mapping, five hours of music over 
+Bluetooth headphones and quite a lot of Dan the Man and Out There Ω during my 
+one hour and 20-minute train commute to and from work.
+
+There are some aggressive power saving modes that promise to stretch the 
+battery life out further. For most the Huawei Mate 9 will last a good two days 
+between charges.
+
+A full charge took just over two hours via the included fast charging USB-C 
+power adapter.
+
+Call quality was excellent, and so was its signal retention: the Mate 9 got a 
+strong, usable 4G signal in places most other smartphone struggle to get any 
+signal, including underground.
+
+Emotion UI 5
+ Emotion UI 5 is the most refined and pleasing to use version of Android 
+Huawei has produced and is a big step forward for the company. Photograph: 
+Samuel Gibbs for the Guardian 
+Huawei customises Android on its smartphones with a different look and changes 
+to the underlying control and app permissions systems, which it calls Emotion 
+UI (EMUI).
+
+In the past EMUI has been a bit clunky, chintzy and not to my tastes looking a 
+bit like an Android clone of Apple’s iOS. The new EMUI 5, which is based on 
+Android 7 Nougat, is a giant leap in the right direction.
+
+It’s much more streamlined. Out the box it doesn’t have an app drawer - every 
+icon must be on the home screen - but it’s a simple option to enable. The 
+colour scheme across the whole interface has been cooled to a much more 
+modern-looking white and blue.
+
+The strange notification panes and other changes that made EMUI worse than 
+most other Android versions have been removed. A series of quick settings are 
+now accessible from the notification shade and even the overview of recently 
+used apps now resembles standard Android.
+
+EMUI 5 still has the tight control over app power consumption, and the 
+reminders that guide users through the identification and killing of apps that 
+are using more than their fair share of power when the screen is off. Some may 
+not like them, but they are useful when used properly at prolonging battery 
+life without having to change you habits.
+
+Some of Huawei’s apps are actually better than standard Android’s counterparts 
+too. The voice recorder app, which is able to use the range of microphones 
+positioned about the phone to identify where a person is speaking from an 
+isolate their audio, is particularly good for recording roundtable meetings.
+
+The app twin feature is also worth using - it allows you to have two instances 
+of apps that only allow one login, such as WhatsApp, Facebook and others. It 
+essentially duplicates the app so you can hot swap between them.
+
+Fingerprint scanner
+ The fingerprint scanner on the back of the Mate 9 is the best in the 
+business, unlocking so fast you blink and you miss it. Photograph: Samuel Gibbs 
+for the Guardian 
+Huawei’s fingerprint scanners are the best in the business for accuracy and 
+speed. The one of the back of the Mate 9 is no exception. Despite being quite 
+small compared to rivals, it worked with a near 100% accuracy. The only time it 
+didn’t recognise my finger instantly was when I was cooking and it was a bit 
+greasy.
+
+Camera
+ The monochrome mode using the dedicated black and white 20-megapixel camera 
+is great fun to use. Photograph: Samuel Gibbs for the Guardian 
+The Mate 9 has the second generation of Huawei’s dual camera, which like the 
+P9 is branded as co-engineered with camera maker Leica.
+
+There is one 12-megapixel colour camera with optical image stabilisation and 
+one 20-megapixel monochrome sensor, which is used to collect more light 
+information for the colour camera to improve the amount of detail captured in 
+the shots.
+
+That’s the theory, in practice the whole experience is pretty transparent. If 
+you didn’t know there were two cameras on the back you wouldn’t notice.
+
+Low-light performance is good, but not quite up to the same quality as 
+Samsung’s Galaxy S7 Edge or the Pixel XL. It’s relatively easy to get good 
+shots in average lighting conditions, and you can produce some detail-rich, 
+beautiful shots in good lighting.
+
+There are various camera modes to choose from, including an easy to use “Pro” 
+or manual mode and some software-based refocusing tricks. But it is the 
+monochrome mode, which just uses the monochrome camera on the back that’s the 
+most fun, capturing sharp, black and white photos better than any colour camera 
+just turned black and white ever could.
+
+The 8-megapixel selfie camera is good - most will like its balance of detail 
+and soft focus for more flattering pictures. It struggled a bit in low-light 
+conditions but no more than most others.
+
+Observations
+
+ * There’s a super simple mode should you want to use it without the 
+complexity of apps all over a home screen 
+ * There are lots and lots of customisation options should you want to change 
+the order of the navigation buttons, enable gesture support, themes, the size 
+of items on the screen, the colour temperature etc 
+ * A blue light filter is there for saving your eyes at night and helping you 
+sleep 
+ * Various utilities such as a floating dock, a shifting keyboard and a 
+mini-screen view are available to help make using the Mate 9 one handed a 
+little easier 
+Price
+
+The Mate 9 costs €699 (£595) and is expected to be available by the end of 
+November in a range of five colours in some markets.
+
+For comparison, Apple’s iPhone 7 Plus 
+<https://www.theguardian.com/technology/2016/oct/03/iphone-7-plus-review-apple-newest-smartphone-phablet>
+ and Google’s Pixel XL both cost £719 with 32GB of storage,Samsung’s Galaxy S7 
+Edge 
+<https://www.theguardian.com/technology/2016/mar/11/samsung-galaxy-s7-edge-review-android-smartphone-phablet-marshmallow>
+ costs around £520, theHuawei P9 Plus costs £500 
+<https://www.theguardian.com/technology/2016/jun/07/huawei-p9-plus-review-high-class-phablet-sub-par-software>
+ and the OnePlus 3T costs £399.
+
+Verdict
+
+The Huawei Mate 9 is a very large smartphone that does a great job of not 
+feeling so in use. The curved back, minimal body to screen ratio and solid 
+build mean it’s easier to hold onto than you might expect.
+
+But with that 5.9in screen, it’s still a massive phone whichever way you look 
+at it, both in use and in your pocket or bag.
+
+After the demise of Samsung’s top-end Note 7 phablet, the Mate 9 is ready to 
+fill the void, as long as a stylus isn’t crucial. So if you want a phone with 
+the big screen, snappy performance and great battery life, a good camera, 
+excellent fingerprint scanner, expandable memory and dual-sim support you can’t 
+go far wrong with the Mate 9.
+
+Pros: expandable storage, dual-sim, great battery life, excellent fingerprint 
+scanner, good camera, massive screen
+
+Cons: big, heavy, screen only 1080p
+ The Mate 9 comes with a screen protector pre-installed, but like any other 
+screen protector, it feels nicer to use without one stuck to the screen. 
+Photograph: Samuel Gibbs for the Guardian 
+Other reviews
+
+ * Samsung Galaxy S7 Edge review: this is the smartphone to beat 
+<https://www.theguardian.com/technology/2016/apr/27/htc-10-review-up-there-with-samsungs-best>
+ * Huawei P9 Plus review: high-class phablet held back by sub-par software 
+<https://www.theguardian.com/technology/2016/jun/07/huawei-p9-plus-review-high-class-phablet-sub-par-software>
+ * Google Pixel XL review: very good phablet but with price tag to match 
+<https://www.theguardian.com/technology/2016/oct/27/google-pixel-xl-review-phablet-price-smartphone-camera-android-71-nougat>
+ * iPhone 7 Plus review: 2014 called – it wants its phablet back 
+<https://www.theguardian.com/technology/2016/oct/03/iphone-7-plus-review-apple-newest-smartphone-phablet> 

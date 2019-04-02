@@ -1,0 +1,45 @@
+
+Google <https://www.theguardian.com/technology/google> has announced that it 
+will stop accepting ads made with Adobe’s much maligned Flash in June this year 
+and ban them entirely from 2 January 2017.
+
+
+Both arms of Google’s advertising business, Google Display Network and 
+DoubleClick willstop showing Flash 
+<https://plus.google.com/+GoogleAds/posts/dYSJRrrgNjk>, meaning that all ads 
+will have to use HTML5 for animations.
+
+Google said: “To enhance the browsing experience for more people on more 
+devices, the Google Display Network and DoubleClick Digital Marketing are now 
+going 100% HTML5.”
+
+Video ads, however, will still be able to use Flash for the time being, but 
+the clock appears to be ticking for those as well.
+
+Over 100m Flash-based adverts were displayed to users globally in the year to 
+June 2015, while 84% of banner ads were still Flash, according todata from Ad 
+Age 
+<http://adage.com/article/digitalnext/flash-obsolete-time-agencies-adapt/298946/>
+. That number is expected to be significantly reduced year-on-year and 
+eventually taper to zero as other advertising services follow suit, such as 
+Amazon which recently blocked Flash ads from its own site.
+
+
+Google’s war on Flash also includes its Chrome browser, which began blocking 
+Flash elements by default in September last year, requiring users to click on 
+the the ads to activate them – essentially something no one is likely to do. 
+Chrome is currently in use by 57.8% of the desktop internet market and 47.8% of 
+the global internet-using public across mobile, desktop, tablet and consoles, 
+according todata from Statcounter 
+<http://gs.statcounter.com/#desktop-browser-ww-monthly-201501-201601>.
+
+With video services, including YouTube, dumping Flash for HTML5 or digital 
+rights management-laden Microsoft Silverlight, Flash’s last bastion will likely 
+be embedded tools for software-as-a-services, such as administration packages.
+
+For all those without SAP or Oracle in our lives, the world will soon be 
+practically Flash free.
+
+ * Flash is dying a death by 1,000 cuts, and that’s a good thing 
+<https://www.theguardian.com/technology/2015/aug/24/adobe-flash-dying-amazon-google-chrome>
+ 

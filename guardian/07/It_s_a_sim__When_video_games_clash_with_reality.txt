@@ -1,0 +1,66 @@
+
+There is a popular misconception that video games bear little relation to 
+reality. Unfortunately, this is hard to counter when the best-known characters 
+are probably a speedy blue hedgehog and a plumber who lives in a magical 
+mushroom kingdom. Indeed, even comparatively serious games such asSimCity 
+<https://www.theguardian.com/technology/gamesblog/2013/mar/11/simcity-launch-problems>
+, Civilization andPapers Please <http://papersplea.se/> take a highly abstract 
+approach to culture, society and government, which sets them apart from 
+real-life events.
+
+This week, however, the maker of the fastidiously authentic video game 
+Football Manager saidthe game was being updated 
+<https://www.theguardian.com/technology/2016/oct/18/want-to-know-how-brexit-will-work-play-football-manager>
+ to simulate the economic effects of Brexit. The accurate portrayal of transfer 
+costs and work permits will be tweaked, making it potentially more expensive to 
+buy foreign players, and more problematic to get work permits for those from EU 
+countries.
+
+Predicting political events is rare in games – usually they are more reactive. 
+Microsoft altered its Flight Simulator after 9/11, but only to remove the twin 
+towers, while the release of the 2011 off-road driving gameMotorstorm: 
+Apocalypse 
+<https://www.theguardian.com/technology/2011/mar/16/motorstorm-apocalypse-game-review>
+ was delayed after the major earthquakes in New Zealand and Japan, the latter 
+also forcing the publisher Irem to cancel its Disaster Report series of 
+earthquake survival games.
+
+Less dramatically, it is reasonably common in the world of sports sims to use 
+real-world data. EA draws player performance statistics from the real sporting 
+season into its Fifa, NBA and Madden NFL titles, so your team in the game can 
+mirror the week-by-week data of the real thing – including injuries. In Fifa 
+17’s popular Ultimate Team mode – a cross between Fantasy Football and a Panini 
+sticker album – players are more valuable if their real-life counterpart is 
+performing well.So don’t rely on any Sunderland players right now 
+<https://www.theguardian.com/football/premierleague/table>.
+
+Plenty of games also use weather and day/night data, so that when you are 
+playing, the conditions will mirror those in the genuine geographic location. 
+Microsoft Flight Simulator uses real-time meteorological data to simulate 
+conditions at airports around the world, so if it is foggy in Rio, it is also 
+foggy in simulated Rio. Nintendo’s cute village simulatorAnimal Crossing 
+<http://www.animal-crossing.com/> has a day night/cycle tied to the data in 
+your handheld 3DS console, so if you are playing at night, the shops will be 
+closed and your fellow villagers will be in bed. Insomniac players can still go 
+fishing, though, as certain fish are only around after dark. The ingenious 
+Gameboy Advance adventure Boktai: The Sun is in Your Hand came with a 
+photometric light sensor that required players to – gasp – go outside to avoid 
+the game’s vampire enemies.
+
+Unsurprisingly, the game series that gets closest to Football Manager’s 
+appropriation of Brexit is the in-depth political simulation Democracy, from 
+independent studio Positech Games. “Democracy 3 had a lot of changes because of 
+political events,” says designer Cliff Harris. “Mad cow disease became a thing, 
+as did pension-fund scandals and global credit crunch events. Also, after
+Democracy 3 <http://positech.co.uk/democracy3/> was released, we had to update 
+it with a bunch of new policies including the mansion tax. And we had to add 
+police drones. And Tasers.”
+
+Fans of the game have created their own modification for the sim, Trump 
+Nation, which imagines a near-future America under president Donald Trump. When 
+the magazine PC Gamer tried it, it implemented a range of the billionaire’s 
+favourite policies and then watched how the US would react: two senior members 
+of his administration resigned almost immediately, there was a series 
+of assassination attempts and, finally, the presidency toppled under an armed 
+socialist insurrection. Spoiler alert!
+ 

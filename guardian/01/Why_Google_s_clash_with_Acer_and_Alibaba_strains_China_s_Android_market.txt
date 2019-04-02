@@ -1,0 +1,115 @@
+
+Google's intervention to stop Acer launching a smartphone with search rival 
+Alibaba's "forked" version ofAndroid 
+<https://www.theguardian.com/technology/android> is reportedly causing tension 
+with Taiwanese and Chinese handset makers - and might even threaten Android's 
+unity in China.
+
+The search giant lobbied Acer last week to halt its scheduled press showing of 
+a new smartphone aimed at the Chinese market, pointing out that membership of 
+theOpen Handset Alliance <http://www.openhandsetalliance.com/oha_members.html> 
+- the group of companies forming the device, carrier, semiconductor, software 
+and "commercialisation" sides of the Android ecosystem - forbids Acer from 
+making devices that offer forked, or incompatible, versions of Android.
+
+Acer cancelled the launch abruptly, leaving Alibaba fuming publicly at 
+Google's actions. John Spelich, Alibaba's international spokesman,told CNet 
+<http://news.cnet.com/8301-1035_3-57513651-94/alibaba-google-just-plain-wrong-about-our-os/>
+ that "Aliyun is different" from Android - dismissingremarks aimed at him by 
+Andy Rubin <https://plus.google.com/112599748506977857728/posts/hRcCi5xgayg>, 
+head of Google's mobile efforts including Android, saying to Spelich that 
+"Aliyun uses the Android runtime, framework and tools. And your app store 
+contains Android apps (including pirated Google apps)."
+
+The upshot has been that Acer has withdrawn from the partnership with Alibaba, 
+at least for now. But Digitimes, the Taiwan-based news site for the IT supply 
+chain there and in China,says 
+<http://www.digitimes.com/news/a20120917PD216.html> there is unease on the part 
+of a number of ODMs (original device manufacturers) who would otherwise aim to 
+benefit from making both Android-compatible and forked versions - the latter 
+principally aimed at China.
+
+Some of the China-based smartphone vendors which are building Android-based 
+phone and have adopted locally developed application might shift to forked 
+versions because "the loss from forgoing Android may be small," the site 
+reports, quoting its supply chain sources.
+
+With Alibaba, one of the biggest web destinations in China, seeking to build 
+its own fork of Android - rather as Amazon has done in the US -Google 
+<https://www.theguardian.com/technology/google> might face a challenge from its 
+own creation in the market where it needs unity.
+
+Rubin indicated some of Google's concern, saying in a Google+ post 
+<https://plus.google.com/112599748506977857728/posts/H7eC4uaJ12Q> that "We were 
+surprised to read Alibaba Group's chief strategy officer Zeng Ming's quote 'We 
+want to be the Android of China' when in fact the Aliyun OS incorporates the 
+Android runtime and was apparently derived from Android."
+
+But Ming's meaning is clear - that Alibaba wants to dominate the Chinese 
+smartphone OS landscape just as Android does the world's.
+
+However for Google, it is important to keep Android unified around the OHA in 
+China <https://www.theguardian.com/world/china> so that it can continue to 
+serve Android handsets - whose activations are now running at over a miilion 
+per day - with search results and, in time, garner advertising revenue. If 
+Android splits into multiple competing varieties which do not all use Google 
+for search, maps and other key functions, Google will have lost out.
+
+The next paragraph of the Digitimes report carries a heavier warning to the 
+company about the risks inherent in the market: "Among China-based smartphone 
+vendors, only Huawei Technologies, ZTE, Lenovo, Haier, Oppo and a few others 
+joined the Open Handset Alliance, the sources noted. As China is the largest 
+smartphone market around the world, Google had better pay attention to [the] 
+response from web service operators, smartphone vendors and consumers, the 
+sources pointed out."
+
+The challenge for Google is that China is the fastest-growing smartphone 
+market in the world, and expected to be the world's largest - ahead of the US - 
+this year.
+
+Android powers a huge number of the smartphones sold there: according to 
+figures provided to the Guardian by research company Gartner, in the second 
+quarter of this year 80% of the smartphones sold in China ran Android - or 
+30.6m out of 38.2m, going by the shipment figures provided for the same quarter 
+by another research company, Analysys International. That means that Android is 
+far more used in China than broadly around the world, where it made up 65% of 
+shipments in the second quarter according to Gartner.
+
+Analysys said that China's smartphone business more than doubled year-on-year, 
+up 127%, and increased sequentially by 22.5% - much faster than the world 
+market, where year-on-year growth was only 43%.
+
+Forecasts suggest that the Chinese smartphone market will total 430m in 2012 
+<http://www.cbronline.com/news/china-to-sell-430-million-smartphones-in-2012-130712>
+, led by Samsung, with Apple in second place - but with Android handsets from 
+Samsung, Huawei, ZTE, Lenovo, Coolpad, Motorola, Xiaomi, HTC and dozens of 
+others making up most of the balance.
+
+While Google is benefiting enormously in China from the dominance of Samsung, 
+and the presence of other OHA members, a growing number of "white box" handset 
+makers are focussed almost entirely on the Chinese market - and so will 
+gravitate to the biggest app markets, even if they are not completely 
+compatible with Google's Android. There are already multiple Android app 
+markets in China, with varying degrees of legitimacy.
+
+Alibaba's efforts with Aliyun, which exploits the open nature of Android to 
+build its own OS version and app store - in the same way as Amazon has - point 
+to the power that strong local brand names have.
+
+The attraction of those app markets could as they grow drive a wedge between 
+OHA members keeping world compatibility, and the local players with a keener 
+focus on their home market, which will soon be the world's biggest.
+
+In time, that could mean that the emergence of a successful China-only app 
+market based around a fork of Android that might be so enticing - and lucrative 
+- that it would pull one or more of the OHA members to abandon the group, or at 
+least weaken its unity - as nearly happened withAcer 
+<https://www.theguardian.com/technology/acer>.
+
+In his Google+ post, Rubin lobbed some barbed comments at Alibaba, apparently 
+warning it off courting Acer: "if you want to benefit from the Android 
+ecosystem, then make the choice to be compatible. It's easy, free, and we'll 
+even help you out. But if you don't want to be compatible, then don't expect 
+help from OHA members that are all working to support and build a unified 
+Android ecosystem."
+ 

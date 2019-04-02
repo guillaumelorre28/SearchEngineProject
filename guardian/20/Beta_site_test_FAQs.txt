@@ -1,0 +1,40 @@
+
+Why are we redesigning the mobile site?
+We're redesigning our mobile website from the ground up to radically improve 
+the user experience, reliability and download speed. Usage of mobiles and 
+tablets to browse the web is increasing fast and we want to ensure we have the 
+best possible experience when looking at the Guardian on a tablet or mobile.
+
+How long will the test last?
+The test on Thursday 15th November will last for two hours (12-2pm GMT), after 
+which you will be returned to the current mobile site.
+
+The new site will be launched shortly and this is a test is to ensure it will 
+be quick, reliable and robust.
+
+How do I give feedback?
+The best way to leave feedback 
+<http://survey.omniture.com/d1/hosted/815f9cfba1> is via the link at the foot 
+of every page. Or send us a tweet@gdndevelopers 
+<http://www.twitter.com/gdndevelopers>.
+
+Is the site just for mobile phones?
+The site is designed to be responsive and will work great on mobiles and 
+tablets. We've specifically designed for up to seven inch devices and will 
+continue to optimise the design for larger screens. Our framework will allow us 
+to easily scale up to large desktop screens - but we have some design 
+challenges to work on before we get there.
+
+Why is there still functionality missing, like search and comments?
+In order to create the best possible product, we need to enhance the website 
+in stages, taking in as wide a range of user feedback as possible. This is the 
+first stage and already delivers benefits in comparison to the existing site. 
+We are also committed to continually improving it by adding new functionality, 
+such as search and comments.
+
+Why is it on a different url (beta.theguardian.com)?
+We're on a beta url right now until we're sure everything is working 
+perfectly. When we turn the site on fully, our users will see this new site 
+when they visit any Guardian site via a mobile device. The url will remain
+m.theguardian.com <http://m.theguardian.com>.
+ 

@@ -1,0 +1,44 @@
+
+It's AudioBoo again... Takeup during the G20 
+<http://www.guardian.co.uk/world/g20> has taken AudioBoo by surprise, 
+apparently. When the Guardian's news reporterMatthew Weaver 
+<http://www.guardian.co.uk/news/blog/2009/mar/31/g20-summit-protests> first 
+started linking, the site had 20,000 requests in 14 minutes and was peaking at 
+50 file requests a second.
+
+Some hasty re-engineering was required to keep everything online with demand 
+up fifty fold. AudioBoo is powered by Amazon S3.
+ AudioBoo started creaking under the weight of G20 traffic 
+Channel 4 can claim part of the credit for AudioBoo's success after investing 
+in itsthrough 4ip <http://uk.techcrunch.com/2009/01/22/4ip-backs-audioboo/> 
+earlier this year. Perhaps recognising the sudden wave of interest, AudioBoo 
+changed the bare bones design today to incorporate the logo , which makes much 
+more sense. The embed could still do with a big more detail though, including 
+the file length and the name of the file. But it's early days, and maybe they 
+will save a better graphic for the paid-for later this year.
+
+4ip's Dan Heaf <http://www.4ip.org.uk/blog/audioboo_the_story_so_far/> blogged 
+about the tool today, saying it has been averaging 1,200 downloads a day from 
+the iTunes App Store.
+
+"For me the most exciting thing is seeing how AudioBoo is being used," wrote 
+Heaf.
+
+"When 4iP invested in AudioBoo it hoped to support a fledgling UK start-up 
+build a tool to empower users to better create audio journalism or first person 
+narratives. I hoped it might see the creation and sharing of first person audio 
+commentary by location and tag."
+
+AudioBoo  <http://blog.audioboo.fm/2009/04/01/g20-mapped-by-boos/>is mapping 
+all geo-tagged recordings - which makes for an interesting visualisation on the 
+day's action and a handy way for police to target anyone reporting things they 
+don't like. Theoretically.
+
+• The Guardian has also done a map of the action 
+<http://www.guardian.co.uk/world/interactive/2009/apr/01/g20-summit-london-protest-map>
+.
+
+
+
+
+ 

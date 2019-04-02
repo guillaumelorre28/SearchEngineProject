@@ -1,0 +1,48 @@
+
+How much do you want Google <https://www.theguardian.com/technology/google> to 
+know about you?
+
+On 1 March, the company will institute new "privacy policies" that will add 
+substantial detail to the picture Google keeps of each user.
+
+Under the new rules the company will keep track of what you search for and how 
+you use products like Google+, Gmail and YouTube. The information will be used, 
+Google says, to "do things like suggest search queries – or tailor your search 
+results – based on the interests you've expressed".
+
+Not comfortable with the idea of coming face-to-face with your web history 
+every time you fire up your browser? (I could have been looking for Hannukah, 
+hanging chad or handbrake – why does it assume hangover cure?)
+
+Here are five simple steps for keeping what you do on Google a little more 
+private.
+
+1) Don't use Google. There are other search engines out there – and other 
+email platforms – and none is so ambitious as Google about figuring out who you 
+are, what you like and what you're like. Unfortunately, none are quite as good 
+at what Google does either.
+
+2) Don't sign in. Or sign out of your Google account when you're not actively 
+using Gmail, Google Calendar or Panoramio. (Let's face it: you've been spending 
+way, way too much time on Panoramio). And when you sign back in, uncheck the 
+"stay signed in" box.
+
+3) Change your settings. Look at the upper right-hand corner of your browser. 
+See your Gmail address? Click it. A drop-down menu appears. Click "account 
+settings." Scroll down to "services." Click "Go to web history." It will read: 
+"Web history makes searches better." Click "No, thanks." You can also clear 
+your web history from this screen. The same trick can be accomplishedhere 
+<http://www.google.com/history>.
+
+4) Use Google Chrome's "Incognito Mode," or another private browsing mode. 
+Don't be misled by the Incognito Mode icon, though. Simply wearing a 
+trenchcoat, shades and a fedora while you browse will not keep your session 
+private. Your computer won't collect cookies or record your online travels, but 
+your server (or your company's server) will.
+
+5) Don't Google yourself. Difficult advice to follow, we understand, and it's 
+more a general online privacy guideline than a step to rein in Google. But 
+repeated searches for your name or personal information such as your address 
+can create avirtual map that leads right to you 
+<https://www.eff.org/wp/six-tips-protect-your-search-privacy>.
+ 

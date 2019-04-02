@@ -1,0 +1,10 @@
+
+Enter your city & country, and find out how many nuclear warheads are within 
+range.
+
+This app is using jQuery, Google Maps API and data from the article "The world 
+in active nuclear weapons 
+<https://www.theguardian.com/news/datablog/2009/apr/06/north-korea-nuclear-weapons>
+"
+
+ 

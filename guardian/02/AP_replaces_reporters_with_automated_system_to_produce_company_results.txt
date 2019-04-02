@@ -1,0 +1,70 @@
+
+America's leading news agency, the Associated Press 
+<https://www.theguardian.com/media/associated-press>, has announced that most 
+of its stories about the quarterly results for US companies will be produced in 
+future through the use of automation technology.
+
+Calling the move "a leap forward," AP's managing director, Lou Ferrara, 
+explains:
+
+"For many years, we have been spending a lot of time crunching numbers and 
+rewriting information from companies to publish approximately 300 earnings 
+reports each quarter.
+
+We discovered that automation technology, from a company called Automated 
+Insights, paired with data from Zacks Investment Research, would allow us to 
+automate short stories – 150 to 300 words — about the earnings of companies in 
+roughly the same time that it took our reporters."
+
+It will therefore free journalists to spend more time on reporting and talking 
+to their sources. At the same time, AP believes it will increase "by a factor 
+of more than 10" the volume of earnings reports for its customers.
+
+According to the AP statement, 
+<http://blog.ap.org/2014/06/30/a-leap-forward-in-quarterly-earnings-stories/> 
+instead of providing the current 300 stories, accomplished manually, it will be 
+able provide up to 4,400 automatically each quarter.
+
+The agency stresses that it will continue to provide editorial coverage of 
+company financial results "in more enterprising ways" than at present. Its 
+reporters will "do more journalism and less data processing."
+
+They will "focus on reporting and writing stories about what the numbers mean 
+and what gets said in earnings calls on the day of the release".
+
+It is also exploring whether it can automate earnings from companies outside 
+the US, which potentially may include Britain.
+
+How will the 'robots' replace human beings?
+
+Here is Ferrara's explanation on how it will work when the system kicks in 
+this month:
+
+"Zacks maintains the data when the earnings reports are issued. Automated 
+Insights has algorithms that ping that data and then in seconds output a story.
+
+The structure for the earnings reports stories was crafted by AP with 
+Automated Insights. All conform to AP style... The stories will be labelled as 
+being produced automatically with material from Zacks.
+
+As we begin using automation technology, we will check each automatically 
+generated report and then publish to the AP wire. As we work out any problems, 
+we hope to move to a model of more fully automating the reports and 
+spot-checking the feed for quality control."
+
+AP has been automating sports results for several years and is looking at 
+extending its automated service in that sector too.
+
+This kind of technological breakthrough has long been predicted, notably in a 
+Nieman Journalism Lab report in November 2012 
+<http://www.niemanlab.org/2012/11/post-industrial-journalism-a-new-columbia-report-examines-the-disrupted-news-universe/>
+, written by CW Anderson, Emily Bell and Clay Shirky.
+
+Newsroom automation, they wrote, saves time and "dramatically reduces the need 
+for editors to oversee every part of the process."
+
+Sources: Associated Press 
+<http://blog.ap.org/2014/06/30/a-leap-forward-in-quarterly-earnings-stories/>/
+Nieman Lab 
+<http://www.niemanlab.org/2012/11/post-industrial-journalism-a-new-columbia-report-examines-the-disrupted-news-universe/>
+ 

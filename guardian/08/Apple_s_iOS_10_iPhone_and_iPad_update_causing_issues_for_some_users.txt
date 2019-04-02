@@ -1,0 +1,53 @@
+
+The latest version of Apple’s mobile operating system, which powers the iPhone 
+<https://www.theguardian.com/technology/iphone> and iPad, iOS 10, has suffered 
+issues during its launch with reports of it “bricking” devices.
+
+
+Millions of users have accessed the update, however, some users have reported 
+their smartphones and tablets crashing.
+
+Apple <https://www.theguardian.com/technology/apple> issued a statement 
+confirming a “brief issue with the software update process affecting a small 
+number of users during the first hour of availability”, but this has now been 
+fixed.
+
+However, some users were reporting continued problems on Wednesday, saying 
+their phones or tablets had been bricked by the update and they were unable to 
+make them work.
+
+The Guardian has seen an iPhone locked in a reboot cycle which iTunes will not 
+recognise following the update, whileEngadget reported 
+<https://www.engadget.com/2016/09/13/ios-10-update-bricked-my-iphone/> one of 
+its journalists had suffered similar issues.
+
+The free upgrade includes a variety of new features, including an overhauled 
+Messages app with more emojis and animations, a new notification system for the 
+lock screen and virtual assistant Siri being able to integrate into more apps.
+
+Users of the iPhone and iPad in the UK with a compatible device – iPhone 5 and 
+newer, oriPad <https://www.theguardian.com/technology/ipad> mini 2 and newer – 
+are eligible for the update.
+
+Having been first revealed at the world’s biggest tech company’s developer 
+conference in June,iOS <https://www.theguardian.com/technology/ios> 10 also 
+sees more artificial intelligence implanted into the software, with the Photos 
+app now better able to identify and show you photos in your library based on 
+time, location, people and even the items in them.
+
+The iOS keyboard has been given a similar intelligence boost, Apple says, and 
+is now able to better understand context as you type, including showing you a 
+snapshot of your calendar as you discuss making plans with contacts.
+
+The firm’s Apple Music has also been redesigned as part of the update, having 
+been criticised for causing confusion when it launched in 2015.
+
+The new software will also come built in to the new iPhone 7, which along with 
+the larger 7 Plus will go on sale in the UK on Friday after being announced in 
+San Francisco last week.
+
+ * How to fix a broken iOS 10 update that’s bricked your iPhone or iPad 
+<https://www.theguardian.com/technology/2016/sep/14/fix-broken-ios-10-update-bricked-iphone-ipad-itunes>
+ * iOS 10: the top 10 things you need to know about Apple’s new iPhone and 
+iPad software 
+<https://www.theguardian.com/technology/2016/sep/13/ios-10-apple-new-iphone-ipad> 

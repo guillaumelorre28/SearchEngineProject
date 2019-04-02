@@ -1,0 +1,144 @@
+
+I too am looking for a laptop for my son. He turns 14 in October and will be 
+starting his GCSE courses. He will mostly use it for school work in Microsoft 
+Office. (He tends to use his PlayStation for games.) He’ll also want to store 
+videos – so plenty of storage is paramount – and he wants to create videos for 
+YouTube. My budget is £300-400.
+
+I have taken note of your recommendations in an earlier article, Which laptop 
+should we buy for our child? 
+<https://www.theguardian.com/technology/askjack/2015/nov/05/which-laptop-should-we-buy-for-our-child>
+Paula
+
+Last year I noted that many schools were adopting Windows detachables or 
+two-in-ones, and these now have a wide market. Their main advantages are that 
+they do double duty as tablets and laptops, while being both portable and very 
+cheap. They also tend to be reasonably robust. Teenagers tend to break laptop 
+hinges, and that’s generally less of a problem with detachables. In fact, some 
+models have no hinges to break.
+
+The drawbacks with cheap 2-in-1s are that they don’t have enough memory or 
+storage for much serious work. They usually have only 2GB of memory and 32GB 
+eMMC Flash memory drives, which work more like SD cards than SSDs (solid-state 
+drives).
+
+These machines are certainly capable of handling email, YouTube and iPlayer 
+videos, social networking, web browsing, word processing and general school 
+work. They can run Microsoft Office programs, though you’d probably not want to 
+run more than two at once. However, they don’t have enough storage for anyone 
+who wants to make and/or keep videos, and they don’t have enough processing 
+power to do much in the way of video editing.
+
+In fact, the amount of importance you ascribe to video editing may well govern 
+your choice.
+
+Mainstream laptops
+
+Today’s mainstream laptops come in two varieties, which can be roughly 
+characterised as new and old. The new ones are convertibles with hinges that 
+allow you to fold the screen back through 360 degrees for tablet use. These PCs 
+are usually thin and light, and they are designed for portability. Lenovo 
+pioneered the 360-degree hinge with its Yoga range of laptops, but now almost 
+every PC manufacturer has similar models. The HP and Asus versions are also 
+worth a look.
+
+The old ones are traditional laptops of the sort you could buy a couple of 
+decades ago, albeit for many times the price. They usually have 15.6in screens, 
+and many still have built-in DVD or Blu-ray optical drives. They have large 
+hard drives rather than new-style SSDs, and they don’t offer long battery life. 
+You can move them around easily enough, but most of them are not designed for 
+portability. You wouldn’t want your son to carry one to school.
+
+If you decide on a new-style convertible, look at the Lenovo Yoga 300 and 500 
+ranges – your budget means you can afford a Yoga 500, but probably not a Yoga 
+700 or 900. You should be able to pick up a Yoga 500 with a 14in screen, Intel 
+Core i3-5005U processor, 4GB of memory and a 1TB hard drive for£349.95 
+<http://www.johnlewis.com/lenovo-yoga-500-convertible-laptop-intel-core-i3-4gb-ram-1tb-14-/p2263669>
+, and this week, John Lewis is offering them with a free three-year guarantee.
+
+This would be a decent all-rounder, and it has more than enough storage space. 
+It should also be able to handle YouTube videos, which are usually short and 
+not high resolution (eg 480p or 720p). However, you can also find Yoga laptops 
+with 8GB if you shop around, and sometimes they go for on sale for very low 
+prices.
+
+The Dell Inspiron 11 3000 
+<http://www.johnlewis.com/dell-inspiron-11-3000-series-2-in-1-laptop-intel-core-m3-4gb-ram-500gb-11-6-/p2825582>
+ range of 2-in-1s is also worth considering and is now stocked by John Lewis. 
+You could get one with a slower Intel Core M3-6Y30 processor, 4GB of memory and 
+500GB hard drive for £329.95.
+
+If you decide on an old-style laptop with a 15.6in screen, there are endless 
+options. Have a look at theAsus X555LA 
+<https://www.amazon.co.uk/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=Asus+X555LA+>
+ and similar X55 models, the HP Pavilion range, and the Lenovo IdeaPad 300.
+
+All these come in dozens of variations, with the processor being an important 
+component of the price. The cheaper models will have Atom-based Pentium or 
+slower Celeron processors. After that, the price climbs as you move up from a 
+Core i3 to an i5 or i7.
+
+The price also increases according to the age of the processor, which is shown 
+by the first number in the string that identifies the actual chip. For example, 
+a second-generation – now very old – chip would be identified as a Core iX-2xxx 
+and a fifth generation as a Core iX-5xxx. Seventh generation Core chips, 
+codenamedKaby Lake 
+<http://venturebeat.com/2016/08/30/intel-launches-its-7th-generation-core-processors-for-the-4k-and-vr-era/>
+, are on the way.
+
+For example, you could get an ASUS X553SA 
+<http://www.johnlewis.com/asus-x553sa-laptop-intel-pentium-8gb-ram-1tb-15-6-/p2513655>
+ with a Pentium N3700 for £279.95, aDell Inspiron 15 5000 
+<http://www.pcworld.co.uk/gbuk/computing/laptops/laptops/dell-inspiron-15-5000-15-6-laptop-black-10146365-pdt.html>
+ with a Pentium 3825U for £349.99, anHP Pavilion 15 
+<http://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-pavilion-15-ab270sa-15-6-laptop-red-10138120-pdt.html>
+ with a Core i3-5157U for £349.98, or aLenovo IdeaPad 300 
+<http://www.johnlewis.com/lenovo-ideapad-300-laptop-intel-core-i5-8gb-ram-1tb-15-6-black/p2457271>
+ with a Core i5-6200U for £399.95. All four have 8GB of memory and 1TB of 
+storage and would be fine for most purposes. However, the fast Core i5-6200U 
+would be far better than the slow Pentium N3700 for video editing.
+
+At this price level, there’s not a huge amount of difference between leading 
+brands such as Asus, Dell, HP and Lenovo. It’s best to visit a store such as 
+John Lewis or PC Warehouse and check them for rigidity, keyboard quality, 
+screen brightness and so on.
+
+Video editing
+
+Most people who dabble with video do some editing. It may be as simple as 
+topping-and-tailing camera footage, grabbing clips from longer videos, joining 
+clips together and adding titles, or converting videos between different 
+formats (avi, mp4 etc). You can do things like this with almost any PC, but a 
+slow machine will take much longer.
+
+In general, a video-editing PC should have the fastest processor you can get, 
+the maximum amount of memory, and the fastest possible hard drive or, 
+preferably, SSD. The minimum for serious work is 8GB of memory and a Core i5, 
+but professionals would be more likely to go for a desktop PC with 16GB to 48GB 
+of memory and a Core i7. Processor speed doesn’t matter that much for word 
+processing, email and casual web browsing, but it really does matter for video 
+editing. It can be the difference between a 5-minute job and one that takes an 
+hour.
+
+Of course, it depends what you’re doing. You need a high-end or gaming laptop 
+– or a desktop PC and a render farm – to process long, high-definition movies 
+with lots of effects. You don’t need anything that much power for editing 
+YouTube videos. It’s possible to produce acceptable results on a smartphone, or
+you can edit videos online at YouTube and other websites 
+<http://bestvideoediting.net/free-online-editors/>. But still, other things 
+being equal, it’s better to have a fast chip than a slow one.
+
+NotebookCheck has a Comparison of Mobile Processors 
+<http://www.notebookcheck.net/Mobile-Processors-Benchmark-List.2436.0.html> 
+table online where you can find benchmarks for most current processors. You 
+don’t need to bother with the results: the chip nearest to the top of the list 
+is probably the best. At the moment, for example, the Core i5-6200U is in 169th 
+place, the M3-6Y30 is 311th and the Pentium N3700 is 484th.
+
+If two processors are on the same page on the table, there’s probably not 
+enough difference to worry about. If they are as far apart as those three, it 
+matters.
+
+Have you got a question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

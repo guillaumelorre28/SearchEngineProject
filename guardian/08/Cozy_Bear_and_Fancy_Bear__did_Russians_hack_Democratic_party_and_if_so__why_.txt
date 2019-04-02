@@ -1,0 +1,284 @@
+
+In April of last year, at 10pm on a Wednesday, French network TV5Monde 
+suddenly began to broadcast Islamic State logos and slogans in French, Arabic 
+and English. Simultaneously the broadcaster’s Facebook page began to post 
+inflammatory messages. “Soldiers of France, stay away from the Islamic State!” 
+read one. “You have the chance to save your families, take advantage of it.”
+
+“Je suIS IS,” read another 
+<http://www.dw.com/en/french-tv-broadcaster-hit-by-hackers-claiming-is-ties/a-18372779>
+.
+
+But the second message was a lie.
+
+According to security researchers, the culprit was a Russian hacking team long 
+believed by cybersecurity analysts in and outside the US government to be 
+working for the country’s largest intelligence agency, GRU. Fascinated 
+researchers have given it a variety of names: APT 28, Strontium, the Sofacy 
+Group, and Fancy Bear.
+
+Last week, WikiLeaks distributed 20,000 emails from the Democratic National 
+Committee (DNC) obtained after Fancy Bear and another hacking team believed to 
+be tied to a competing Russian intelligence service, known as Cozy Bear, 
+breached the DNC’s internal network. Cozy Bear is believed to have entered the 
+network a year before and waited quietly, gathering information and cataloging 
+emails. Fancy Bear came later. WikiLeaks’ consistent position is not to discuss 
+its source and to push back against suggestions that it gained the data from 
+either Bear.
+
+The Bears have three important things in common: expensive digital tools, 
+suggesting state sponsorship; an interest in pursuing sensitive, embarrassing 
+or strategically significant information, rather than financially beneficial 
+data; and a choice of targets that align with Russian political objectives. 
+Both Bears infiltrated the DNC: Cozy beginning in summer 2015, Fancy in April 
+this year.
+
+The Guardian view on the leaked DNC emails: beware of hackers | Editorial
+ Read more  
+<https://www.theguardian.com/commentisfree/2016/jul/25/the-guardian-view-on-the-leaked-dnc-emails-beware-of-hackers>
+Fancy Bear has been known to researchers for seven years, notably in 
+disinformation campaigns in the Caucasian nation of Georgia. Cozy Bear came to 
+prominence last year, when researchers at Kaspersky Lab pinned devastating 
+hacks of the unclassified state department and White House networks on the 
+group.
+
+Senior US government sources are not primarily concerned with WikiLeaks’ role 
+in the affair. Their alarm, shared by cybersecurity researchers, is that a 
+Russian hacking operation they consider tied to the Russian government has 
+taken a step toward attacking an element of the US political apparatus.
+
+Previously the Bears stalked eastern European countries and multinational 
+organizations implicated in Russian national objectives. Now, although 
+attributing responsibility for online breaches is an inferential affair, many 
+in the US government and cybersecurity circles see the Bears in their 
+backyards. And not only are they grabbing data, they are taking the highly 
+unusual step of spreading it, where it can be published to the embarrassment of 
+prominent US politicians.
+
+“Targeting a political campaign, trying to find out everything you can about 
+the next leader of the free world, is fair game for intelligence services, as 
+much as we hate it. That’s a valid intelligence target,” said Toni Gidwani, a 
+former Defense Intelligence Agency (DIA) analyst who is now chief researcher 
+for the cybersecurity firm ThreatConnect.
+
+“Dumping this much information and [leaving] very much the sense that there’s 
+more to come, we have to ask different questions about what the Russian 
+objectives are and what they think is going to happen.”
+
+Neither the DIA nor the FBI, which has an investigation open into the DNC 
+hack, would address whether it assesses Fancy Bear to be an instrument of the 
+Russian intelligence apparatus. Some administration officials are unsure 
+whether the US would make a public accusation against the Russians. But, one 
+said, the administration is coming to the conclusion that Moscow is responsible 
+for the hack, despite foreign minister Sergey Lavrov’s protestations.
+
+The blurred distinction between espionage and attack online has outpaced 
+thinking about deterrence and reprisal, meaning both an intrusion and an 
+accusation carries the risk of escalating beyond tolerable levels. One senior 
+official notes that the executive branch tends to be “highly circumspect” about 
+pointing a finger atRussia <https://www.theguardian.com/world/russia>.
+
+That escalation risk is heightened because of the mystery surrounding the DNC 
+hack. If it is the Russians, the change represented by making stolen data 
+public raises questions on questions: did something go wrong? Or did Russia 
+mean to push the envelope with its principal geopolitical rival? Or could 
+cybersecurity analysts be wrong, and the ties between the Bears and Russian 
+government objectives be less substantial than they believe?
+
+“The implications of those assessments have some pretty stark recommendations 
+for our leadership, so it is only appropriate to go back and double-check,” 
+said Gidwani. “But by the same token, if everything else looks completely 
+implausible, what’s left is probably what’s happening.”
+
+Patterns of infiltration
+
+Cozy Bear has a sense of humor. 
+
+According to Kaspersky, one of its most effective methods of intrusion 
+involved hiding a virus inside a email message that played aCareer Builder ad 
+<https://www.youtube.com/watch?v=VRrMu7B1L2I> from Super Bowl XL. The ad showed 
+a human office worker trying to tell his colleagues, who are all chimpanzees, 
+to stop wrecking the office.
+
+“These videos are quickly passed around offices with delight while systems are 
+infected in the background silently,”wrote 
+<https://securelist.com/blog/research/69731/the-cozyduke-apt/> despondent 
+Kaspersky researchers.
+
+A key characteristic of Bear attacks – and high-quality attacks from many 
+seasoned intruders – appears to be its adroit disguise of malicious files. In 
+another operation, a group Kaspersky believes to be Cozy Bear sent “highly 
+relevant and well-crafted content” – such as PDFs about Ukraine possibly 
+joining Nato – to people who would open them and find them interesting without 
+becoming suspicious. Sophisticated users who would spot a “YovTube.com” address 
+or an amateurish website inviting them to type in a login might eagerly open an 
+official-seeming white paper.
+
+Fancy Bear has its own signatures: its identifiable suite of tools has, since 
+2007 or perhaps even 2004, been updated with the frequency of a software 
+company, according to security firm FireEye. FireEye gave all the tools names – 
+Sourface, Chopstick and Eviltoss, among others – and described them as 
+demonstrating “formal coding practices indicative of methodical, diligent 
+programmers”.
+
+Rather than send its malware broadly, a pattern used by hackers who hope a 
+fraction of their recipients will click on a dubious link, Fancy Bear sends 
+them to specific users, in a pattern Gidwani said indicates reconnaissance on 
+its targets. Microsoft reported that Fancy Bear finds unsuspecting users both 
+by sifting through social media and other online data for associations with its 
+target – say, a LinkedIn page that lists the DNC as an employer – and also by 
+meticulously cataloging the data it has stolen in previous hacks.
+
+“They customize their attack to thrive in that environment,” said Gidwani. 
+“Somebody who could do that has resources, has time and a test environment to 
+try all the stuff out to make sure they’ve got the right package they’re going 
+to deploy. Those are hallmarks of nation-state operations. Criminals are going 
+to hit a million people in the hope that they get a hundred.”
+
+Fancy Bear also favors infected files, in which it usually hides Sourface, the 
+program that creeps on to a target computer and downloads malware allowing that 
+computer to be controlled remotely. A list of “lure” emails compiled by FireEye 
+includes a file named “military cooperation.doc”, a Georgian-language IT 
+document for the ministry of internal affairs, and an offer of work to a 
+journalist from the editor of a fictitious division at Reason magazine.
+
+Cooper Quintin, a security researcher for digital rights activists the 
+Electronic Frontier Foundation, said that when his organization was spoofed by 
+Fancy Bear last year, it was part of an attack on a different target. “Some 
+friends at Google” tipped him off that someone was squatting on
+electronicfrontierfoundation.org <http://electronicfrontierfoundation.org/>, a 
+domain the company didn’t own then, though now it links to Quintin’s post on 
+the event.
+
+Curious, Quintin used the fake version of his company’s site to peer into the 
+hack. “We pulled down a couple of files and noticed some similarities to an 
+attack that was going on calledOperation Pawn Storm 
+<http://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-pawn-storm-fast-facts>
+.”
+
+Quintin notes that Fancy Bear benefits greatly from general ignorance about 
+digital security: high-quality spearphishing works often, and zero-days are 
+pricey. “Why run [a zero-day] when people still open email attachments?” 
+Quintin asked. “It’s usually associated with criminals but it works for 
+nation-states, too.”
+
+Attribution is tricky, Quintin said – often, patterns only become clear after 
+a team has been completely exposed. But there are ways to make educated guesses.
+
+
+Even if a user doesn’t fall for the login page trap, Fancy Bear can glean 
+information from the click: the user’s IP address and location, his or her 
+browser type and version, and the target computer’s operating system.
+
+Metadata associated with the malicious code used by Fancy Bear suggests a 
+point of origin. Its language settings are Russian, and the malware FireEye 
+found was overwhelmingly built during the workday in Moscow and St Petersburg.
+
+Information worth more than money 
+
+Once either group acquires the credentials it needs for its current operation, 
+it uses flaws in popular software to secretly send data back to its own 
+networks without its targets’ knowledge. These flaws, known as zero-day 
+exploits, are critical tools of any hacking organization, from thieves to spy 
+agencies – by definition, they’re difficult for administrators to defend 
+against. The NSA isfond of them 
+<https://www.wired.com/2014/05/alexander-defends-use-of-zero-days/>. 
+
+Zero-day exploits are not for novice hackers. They are difficult to design and 
+keep stable. Purchasing them on the black market is very expensive. Misused, 
+they can collapse forever when an exploited company notices them and fixes the 
+weakness in its software.
+
+Used effectively, zero-day exploits can be used to steal huge amounts of 
+money. That objective has been a hallmark of other sophisticated 
+state-sponsored hackers. China’s famous Unit 61398 tends to steal intellectual 
+property and information beneficial toeconomic activity 
+<https://www.theguardian.com/technology/2014/may/19/us-chinese-military-officials-cyber-espionage>
+.
+
+But Fancy Bear and Cozy Bear don’t do that. 
+
+FireEye notes that Fancy Bear wants to exfiltrate sensitive data by camping 
+out on a network undetected for long periods of time – a network controlled or 
+associated with a political, military, diplomatic, activist or journalistic 
+entity. The team acquires “intelligence that would only be useful to a 
+government”, the firm said. The targets chosen by the Bears suggest the 
+government who would primarily find that intelligence useful is Russia.
+
+Famously, when the Russian military attacked Georgia in 2008, its ground 
+assault was presaged by overloading the servers used by the president, the 
+foreign ministry and the parliament. “Georgia in a lot of ways was one of the 
+real opening shots in how we see Russia using cyber as an instrument of 
+national power, fully integrated with their national objectives,” Gidwani said.
+
+In 2013, employees at the Georgian ministry of internal affairs began 
+receiving “a weaponized Excel file that presented a decoy document containing a 
+list of Georgian drivers’ license numbers”, FireEye researchers wrote. A second 
+example used the name of an actual system administrator as the author of the 
+lure document. A third attack targeted a partnership between the Georgian 
+military and a US defense contractor. Fancy Bear hid Sourface in a list of 
+group members’ birthdays.
+
+Other targets show Bear attacks moving westward – much as Russia’s 
+intervention in Syria, its first beyond its historical frontiers in a 
+generation, followed years of unanswered military boldness against its 
+neighbors.
+
+Also in 2013, Kaspersky noticed a group it called MiniDuke – now believed to 
+be Cozy Bear, as well – sneaking into targets in Hungary, Luxembourg and 
+Belgium. Other targets include prime Russian multilateral adversaries like Nato 
+and the Office of Security Cooperation in Europe. And in July 2015, an 
+infiltration into an email system used by the US military’s joint chiefs of 
+staff led military officials tosuspect Russian culpability 
+<http://www.cnn.com/2015/08/05/politics/joint-staff-email-hack-vulnerability/>; 
+CrowdStrike points a finger at Cozy Bear. Around the same time, Cozy Bear made 
+its way into the DNC’s network.
+
+Doubt as an objective
+
+While the FBI investigates the DNC hack, politics has taken the place of 
+digital forensics.
+
+Democrats have already begun to seize upon the hack to imply, as yet without 
+evidence, that the Russians executed the attack to benefit GOP nominee Donald 
+Trump, whohas openly praised 
+<http://www.politico.com/story/2015/12/trump-vladimir-putin-praise-216892> the 
+Russian president, Vladimir Putin, something that sets him apart from any other 
+major Republican figure in recent memory.
+
+Cozy Bear infiltrated the DNC months before Trump surprised the political 
+world by winning the nomination; nevertheless, the senior Democrats on the 
+congressional intelligence committees on Wednesday called for anextraordinary 
+declassification 
+<https://www.theguardian.com/us-news/2016/jul/27/donald-trump-russia-hacking-dangerous>
+ of intelligence assessments about the hack. The White House said it would 
+“carefully review” the request, but the National Security Council spokesman, 
+Ned Price, said that the just-launched FBI inquiry into the hack “will 
+necessarily limit what we will be able to say”.
+
+A major question at issue in the inquiry is whether the Russians, should they 
+be culpable, intended the DNC infiltration and subsequent publication to 
+influence the outcome of the 2016 election. ThreatConnect’s Gidwani suspects 
+that Russia may not have had so sophisticated a plan.
+
+“Part of me feels like that might be a more aggressive reading of what’s 
+happening. If their objective is primarily to be a distraction, to sow 
+confusion, to sow doubt, that doesn’t require the creation of this airtight 
+persona,” she said, referencing the hacker persona Guccifer2.0, who claims to 
+have passed the documents to WikiLeaks and whose authenticity has come under
+serious doubt 
+<http://motherboard.vice.com/read/all-signs-point-to-russia-being-behind-the-dnc-hack>
+.
+
+Gidwani continued: “It allows you a lot more wiggle room and ability to fudge 
+around the edges to create that type of effect. It’s an incredibly important 
+question, whether Russia is trying to push the outcome of the election one way 
+or the other. But I think we may not be sufficiently considering that that 
+might not be the primary outcome they’re seeking.
+
+“And that shouldn’t necessarily be cause for relief. Trying to sow this much 
+doubt and discord is also very troubling. These types of actions, what we’ve 
+seen thus far, they had been limited to eastern Europe, Georgia, Ukraine in the 
+2014 election. Moscow no longer sees the same line, if you will, between that 
+near-abroad and the US.”
+ 

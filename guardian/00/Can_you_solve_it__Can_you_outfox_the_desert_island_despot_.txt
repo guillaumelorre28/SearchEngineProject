@@ -1,0 +1,64 @@
+
+Hello guzzlers,
+
+Last week I was thrilled to win the 2016 science blog award from the 
+Association of British Science Writers forAdventures in Numberland 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>, which is 
+part of the Guardian’s science blog network. I wrote my first mathematical 
+puzzles on that blog, which led me to start this one, dedicated to puzzles. 
+Thanks so much for reading - and commenting on - both blogs, please continue to 
+do so!
+
+Ok, that’s enough about me. To today’s puzzle:
+
+You and a friend have been captured on a desert island ruled by a crazed 
+mathematical despot.
+
+
+You will be locked in separate cells in the island’s prison, and then set the 
+following task:
+
+Every minute for an hour you will each flip a coin. The flips are 
+simultaneous, and after each flip you will make a prediction as to whether the 
+other person’s flip was heads or tails.
+
+So, you both make 60 flips and 60 predictions. 
+
+The despot rules that he will kill the two of you if on any one of the 60 
+predictions you areboth correct. (In other words, you both flip, both predict 
+the result of the other person’s flip, and are both right). To escape with your 
+lives at least one of you must predict wrongly each time.
+
+You are given ten minutes to think up a survival strategy before being taken 
+to the cells. Once you are in the cells you cannot communicate with each other, 
+although you are obviously able to see the results of your own flips.
+
+Can you guarantee your survival, and if so, how?
+
+I’ll be back at 5pm BST with the solution. Please, NO SPOILERS until then! 
+
+A version of today’s puzzle was originally a Maths Item of the Month on the 
+Mathematics in Education and Industry website <http://www.mei.org.uk/>. Thanks 
+to Tom Button of the MEI for suggesting it. MEI is a charity that helps improve 
+maths education and its links with industry. You’ll find lots of resources for 
+teachers and students on itswebsite <http://www.mei.org.uk/>.
+
+
+................................
+
+I post a puzzle here on a Monday every two weeks. If you want to propose a 
+puzzle for this column, pleaseemail me <mailto:bellospuzzle@gmail.com> I’d love 
+to hear it.
+
+
+I’m also the author of three popular maths books including Alex’s Adventures 
+in Numberland <http://amzn.to/24xBFW0> and the maths colouring book Snowflake 
+Seashell Star 
+<http://www.amazon.co.uk/gp/product/1782117881/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1782117881&linkCode=as2&tag=alebel-21>
+.You can check me out on Twitter <https://twitter.com/alexbellos>, Facebook 
+<https://www.facebook.com/pages/Alex-Bellos/326738482347?ref=bookmarks>, Google+
+ <https://plus.google.com/u/0/100349853927591455618/posts>, my personal website 
+<http://www.alexbellos.com/> or my Guardian maths blog 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>.
+
+ 

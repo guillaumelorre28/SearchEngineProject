@@ -1,0 +1,47 @@
+
+Google’s French Go-champion-beating AlphaGo 
+<https://www.theguardian.com/technology/2016/jan/27/google-hits-ai-milestone-as-computer-beats-go-grandmaster>
+ artificial intelligence will take on the Go world No 1 in a live broadcast 
+from Seoul, South Korea. The contest will begin on 9 March and offers a $1m 
+prize.
+
+
+Founder of Google’s DeepMind AI development house Demis Hassabis announced the 
+news on Twitter, which will see the company’s AlphaGo system take on 
+32-year-old South Korean Lee Se-dol, the current highest ranked Go player in 
+the world, in a five-match game with $1m (£687,000) at stake.
+Demis Hassabis (@demishassabis) 
+Thrilled to officially announce the 5-game challenge match between #AlphaGo 
+<https://twitter.com/hashtag/AlphaGo?src=hash> and Lee Sedol in Seoul from 
+March 9th-15th for a $1M prize!
+ <https://twitter.com/demishassabis/status/695378300890271744> February 4, 2016
+ <https://twitter.com/demishassabis/status/695378300890271744> 
+The matches will be broadcast live on YouTube on 9, 10, 12, 13 and 15 March.
+
+AlphaGo successfully beat the three-time European Go champion Fan Hui 5–0 in a 
+series of games at DeepMind’s King’s Cross headquarters last October. But it is 
+possible that ninth-dan Lee, who turned pro in 1996 at the age of 13 and has a 
+71.8% winning percentage, could beat the AI.
+
+Lee said: “I have heard that Google 
+<https://www.theguardian.com/technology/google> DeepMind’s AI is surprisingly 
+strong and getting stronger, but I am confident that I can win at least this 
+time.”
+
+Unlike previous systems that have attempted to compute the next move from all 
+available moves and games in chess, for instance, AlphaGobeat all expectations 
+<https://www.theguardian.com/technology/2016/jan/27/google-hits-ai-milestone-as-computer-beats-go-grandmaster>
+ by using “Deep learning” to build its own understanding of Go. It picks moves 
+based on what it thinks is most likely to win. It used a similar technique to
+learn how to play retro video games 
+<https://www.theguardian.com/technology/2015/feb/25/google-develops-computer-program-capable-of-learning-tasks-independently>
+.
+
+Should AlphaGo beat Lee, it could arguably be ranked as the best Go player in 
+the world. If Lee wins he will net the $1m prize in the year that he intended 
+to retire and move to the US to promote Go.
+
+
+ * Mark Zuckerberg plans to make his own AI butler - like Jarvis in Iron Man 
+<https://www.theguardian.com/technology/2016/jan/03/mark-zuckerberg-2016-artificial-intelligence-butler>
+ 

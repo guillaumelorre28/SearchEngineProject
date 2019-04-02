@@ -1,0 +1,57 @@
+
+A computer program developed by Google 
+<https://www.theguardian.com/technology/google> took an unassailable 3-0 lead 
+in a best-of-five match with a Go grandmaster on Saturday.
+
+The Chinese board game is considered to be much more complex than chess – 
+there are a far greater number of outcomes – and the victory by the program, 
+AlphaGo, is being a hailed as a stark demonstration of the rapidly growing 
+power of modern artificial intelligence. AlphaGo took only four hours to 
+achieve itsthird consecutive win 
+<https://www.theguardian.com/technology/video/2016/mar/09/alphago-computer-beats-go-champion-video>
+ over Lee Se-dol, one of the ancient game’s greatest modern players.
+
+Lee, who has topped the world ranking for much of the last decade and holds 18 
+international titles, had predicted an easy victory when accepting the 
+challenge. Now he finds himself fighting to avoid a whitewash in the two 
+remaining games, on Sunday and Tuesday.
+
+“I don’t know what to say, but I think I have to express my apologies first,” 
+a crestfallen Lee said. “I kind of felt powerless,” he said, acknowledging he 
+had misjudged his opponent. “I have extensive experience in playing Go but 
+there was never a case where I was under this much pressure … and I was 
+incapable of overcoming it,” he said.
+
+Go is a game for two. Players take turns putting black or white stones on a 
+19-by-19 grid. The winner is the player who surrounds more territory than his 
+or her opponent. Skill at Go requires an ability in dealing with abstract 
+strategic concepts and for AlphaGo’s creators,Google DeepMind 
+<https://www.theguardian.com/technology/2016/feb/22/google-deepmind-go-alphago>
+, the victory demonstrates that AI has now come of age. “To be honest, we are a 
+bit stunned and speechless,” DeepMind CEO Demis Hassabis told reporters after 
+the victory.
+
+In the past, the British AI researcher has described Go as “a bit of a holy 
+grail for AI research”, though he stressed on Saturday that Lee’s defeat in 
+Seoul should not be seen as a loss for humanity. “Our hope is that in the long 
+run we will be able to use these techniques for many other problems,” Hassabis 
+said.
+
+These applications could include making phones even smarter and “helping 
+scientists solve some of the world’s biggest challenges in healthcare and other 
+areas.”
+
+The last famous scalp to be taken by AI programs came in 1997 when the 
+IBM-developed supercomputer Deep Blue beat chess champion Garry Kasparov. 
+However, AlphaGo’s victory goes far beyond that achievement and was achieved by 
+adopting “general” or multi-purpose, rather than “narrow”, task-specific 
+intelligence. This is the ultimate goal in AI – to mimic human reasoning and, 
+crucially, self-learning.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2016%2Fmar%2F10%2Falphago-wins-second-game-against-go-champion-video&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=AlphaGo%20wins%20second%20game%20against%20Go%20champion%20-%20video&url=http%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2016%2Fmar%2F10%2Falphago-wins-second-game-against-go-champion-video>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=AlphaGo%20wins%20second%20game%20against%20Go%20champion%20-%20video&url=http%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2016%2Fmar%2F10%2Falphago-wins-second-game-against-go-champion-video&media=>
+AlphaGo wins second game against Go champion – video 
+<https://www.theguardian.com/technology/video/2016/mar/10/alphago-wins-second-game-against-go-champion-video> 

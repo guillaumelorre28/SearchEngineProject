@@ -1,0 +1,20 @@
+
+In a Playfair word square the codeword (in which no letter recurs) is followed 
+by the remaining letters of the alphabet, I doing double duty for I and J (see 
+right). To encode a word it must first be split into pairs of letters e.g. CR 
+IT IC AL. Each pair is then seen as forming the diagonally opposite corners of 
+a rectangle within the word square, the other two corner letters being the 
+encoded form. Thus, in the example shown, CR gives SG (not GS, which RC would 
+give). Where a pair of letters appears in the same row or column in the word 
+square, its encoded form is produced from the letters immediately to the right 
+of or below each respectively. For the last letters in a row or column the 
+first letters in the same row or column become the encoded forms. Thus IC is 
+encoded as CE. When all the pairs are encoded, the word is joined up again, 
+thus CRITICAL is encoded as SGCICEOP. Answers to the four clues in italics,
+which are linked semantically to the codeword, must be encoded thus in the 
+diagram. The codeword must then be deduced with the help of the answers to 
+normal clues, so that the diagram may be completed.
+
+Competitors should submit a normal cryptic clue to the codeword with their 
+solutions.
+ 

@@ -1,0 +1,150 @@
+
+Our culture holds inventors in special regard but the halo we give to those 
+who create life-changing inventions can sometimes obscure the fact that the act 
+of invention itself is only the first step to changing the world, not the last.
+
+For any technology to be truly transformative, it will need help along the way 
+to reach the world. WiFi, for instance, which allows different devices to 
+communicate seamlessly across wireless networks, has, to many, become as 
+mandatory an amenity as hot water in just a few short years, and transformed 
+our expectations around mobile communication. Wifi networks are now seemingly 
+in every home and business, not to mention increasing numbers of planes and 
+trains and everywhere in between.
+
+But Wifi has its origins in the stars. Key facets of the technology stem from 
+CSIRO research into radio astronomy in the 1980s – specifically, efforts to 
+detect miniature exploding black holes.
+
+But it wasn’t until the 1990s that same batch of CSIRO scientists hatched a 
+plan to use elements of that research to dramatically boost the speed of 
+wireless information networks that the technology we now depend upon so heavily 
+began to emerge. But even then, the present ubiquity of Wifi did not spring 
+magically from those days but is instead the result of efforts by many to bring 
+it to market and make it easy for customers to use and depend upon.
+
+The most transformative technologies have been backed up by innovative ways of 
+getting those technologies to users.
+
+A prime example is the cochlear implant that has allowed well over 300,000 
+people to hear, ever since Australian Rod Saunders became the world’s first 
+recipient of a bionic ear in 1978.
+
+In the decades since then, Cochlear has worked ceaselessly to bring more 
+people into the world of sound, but its innovation is not restricted to the 
+implant and surgery themselves.
+
+Based in Sydney, Cochlear set out to build and maintain lifetime relationships 
+with the people across the globe who use its implants, matching the reality of 
+local healthcare with the needs and aspirations of a global customer base.
+
+For Global Head of Marketing Technology Vishy Narayanan, that means connecting 
+potential implant recipients to a community.
+
+“Today, decisions around medical devices like these aren’t left to the 
+surgeons alone,” he said. “Patients have a say, too. And they want to go out 
+and research, talk to people who have had similar procedures.”
+
+To that end, Cochlear has built a 3000-strong volunteer community of implant 
+recipients, who are willing to share their experiences in the decision-making 
+phase. And it’s why Cochlear specifically aims to recruit people with Cochlear 
+implants and audiology backgrounds, giving them a much deeper ability to 
+identify with people’s experiences.
+
+Today, decisions around medical devices like these aren’t left to the surgeons 
+alone. Patients have a say, too.
+Global Head of Marketing Technology Vishy Narayanan, Cochlear 
+“There’s a deep understanding of device owners bring in varying stages of 
+adapting to their new lives,” Cochlear recipient and employee Kate Obermeyer 
+said. “If you are a new recipient [for example], still learning to 
+differentiate sounds, voice calls are not necessarily your first choice,” which 
+is why Cochlear also offers live text chat.
+
+For more on how Cochlear is using digital technology to help transform lives, 
+see the full case studyhere 
+<https://www.salesforce.com/au/blog/2016/03/How-Salesforce-Helps-Cochlear-Innovate.html>
+.
+
+In the business world, it doesn’t matter how attractive your product is if the 
+process for your customers to get their hands on it is too frustrating or 
+burdensome. This is where innovative digital techniques can make all the 
+difference.
+
+Salesforce APAC Vice President Robert Wickham said this is where the rapidly 
+increasing sophistication and ability of digital technology can make all the 
+difference.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F24%2Flife-changing-digital-transformations%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fa5c9f09c34ff63626f49e10d419db4a0e4504692%2F0_0_4272_2848%2F4272.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Life%20changing%20digital%20transformations&url=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F24%2Flife-changing-digital-transformations%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Life%20changing%20digital%20transformations&url=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F24%2Flife-changing-digital-transformations%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fa5c9f09c34ff63626f49e10d419db4a0e4504692%2F0_0_4272_2848%2F4272.jpg>
+ Photograph: Wikimedia Commons 
+“We’ve seen an acceleration of technology’s transforming ability, and its 
+ability to innovate at pace,” he said.
+
+“We’re seeing that brought into the market in many different ways. For 
+instance, cloud computing has been extraordinarily disruptive.
+
+“It has changed the fundamental requirements that companies need to operate. 
+It has greatly increased the pace at which companies can change their 
+operations, and cut the resources and costs of doing so.”
+
+Wickham said the companies that are set to thrive in the new digital world are 
+not just those with the most transformative products, but those that harness 
+digital technology to better connect with users or customers.
+
+This is precisely what La Trobe University’s Olga Tennison Autism Research 
+Centre (OTARC) did. For 10 years, the centre has been training nurses to 
+observe the early behavioural signs for autism in infants.
+
+OTARC Director Professor Cheryl Dissanakaye said this was critical work, as 
+early detection can change lives.
+
+“If we detect autism early, we can then begin to assist that young person to 
+learn and that has knock-on effects for the quality of that person’s life later 
+on,” she said.
+
+By monitoring more than 30,000 babies, OTARC has been able to identify early 
+signs of autism with a world-leading accuracy rate of 81%, offering a vital 
+tool in an arena where early detection and intervention can have an enormous 
+impact on quality of life.
+
+Small businesses using technology as the great equalizer
+ Read more  
+<https://www.theguardian.com/salesforce-the-unfair-advantage/2016/oct/14/small-businesses-using-technology-as-the-great-equalizer>
+What began as a simple set of questions for nurses has now evolved into 
+powerful algorithm, harnessing the data recorded from children observed to help 
+a new generation.
+
+Although the participating nurses were initially simply recording their 
+observations with a pen and paper, OTARC soon created an app for nurses to use, 
+to make the process more efficient. And when that app proved successful, OTARC 
+asked itself how they could make early detection available to families 
+everywhere.
+
+Soon, ASDetect was born, taking the potentially life-altering technology out 
+of the hands of the few and dispersing it to the masses. The app contains a 
+number of questions for parents about their infant children, along with videos 
+demonstrating typical and atypical behaviours for their age. Results are sent 
+straight to OTARC for automatic analysis.
+
+In order to ensure ASDetect can help families as efficiently as possible, 
+OTARC has also created an automated system to guide parents who have completed 
+the assessment to the most appropriate next step.
+
+For example, if a child is identified at being at-risk, an email is triggered 
+to explain what the assessment means, and what the options are for parents.
+
+The same system also allows OTARC to maintain close, personal communication 
+with hundreds of families at once, ensuring each receives the personal care 
+needed.
+
+The old adage that invention is 1% inspiration and 99% perspiration is no 
+doubt apt, but the sweating doesn’t stop once invention is complete. No 
+invention can change the world without users and customers, and delivering it 
+to them can often involve just as much innovation as the invention itself.
+
+Case studies continued... Find out about how Salesforce is helping cochlear 
+innovate to become the leading customer experience company 
+<https://ad.doubleclick.net/ddm/clk/312161311;139921000;f>
+ 

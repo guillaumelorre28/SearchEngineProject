@@ -1,0 +1,48 @@
+
+Our website is designed to work in all situations. However, we are aware that 
+certain features can cause problems on some older devices/browsers or slow 
+internet connections. We try to detect and manage all of this automatically, 
+but it’s not always possible. Because of that, we have made it possible for you 
+to switch the optional features on or off yourself.
+
+Switching the extra features on and off
+
+Click here to switch optional features ON 
+<https://www.theguardian.com/uk#gu.prefs.enhanced=true>
+
+Click here to switch optional features OFF 
+<https://www.theguardian.com/uk#gu.prefs.enhanced=false>
+
+In the future we’ll be making all this even easier. In the meantime, you can 
+tell if the features are switched on and off by checking if the weather is 
+displayed at the top of the front page, or not.
+
+What you will see
+
+When the features are switched off the site looks identical, but certain 
+secondary elements are not shown or behave slightly differently.
+
+The optional features that will be switched off include*:
+
+ * The ability to write and delete comments - they will still be viewable 
+ * Related Content links within certain pieces of content 
+ * Most Popular links within pieces of content - you will however be able to 
+view the Most Popular content for a section on a separate link 
+ * The Weather information on the front page 
+*Please note that this is a work in progress, this list may change. 
+
+If you wish to access one of these features on a given page without changing 
+your setting (for example if you prefer the extra features to be off overall 
+but wish to comment on a given page) a page can be loaded with all features 
+enabled by appending “#enhanced” to the end of the url.
+
+For example: http://www.theguardian.com/uk#enhanced 
+<https://www.theguardian.com/uk#enhanced> and refreshing the page will give you 
+the full-featured network front without changing your default settings.
+
+Feedback
+
+We welcome your feedback on changes we make to theguardian.com so please send 
+us an email todotcom.feedback@theguardian.com 
+<mailto:dotcom.feedback@theguardian.com> with any comments you may have.
+ 

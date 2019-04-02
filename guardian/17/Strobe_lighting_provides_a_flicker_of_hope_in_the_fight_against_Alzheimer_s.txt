@@ -1,0 +1,89 @@
+
+Strobe lighting has been shown to reduce levels of the toxic proteins seen in 
+Alzheimer’s disease, in findings that raise the tantalising possibility of 
+future non-invasive treatments for the disease.
+
+The study, in mice, found that exposure to flickering light stimulated brain 
+waves, called gamma oscillations, that are known to be disturbed in Alzheimer’s 
+patients. Boosting this synchronous brain activity appeared to act as a cue for 
+the brain’s immune cells, prompting them to absorb the sticky amyloid proteins 
+that are the most visible hallmarks of the disease in the brain’s of people 
+with Alzheimer’s.
+
+The authors caution that a “big if” remains over whether the findings would be 
+replicated in humans – and whether cognitive deficits as well as visible 
+symptoms of the disease would be improved.
+
+“If humans behave similarly to mice in response to this treatment, I would say 
+the potential is just enormous, because it’s so non-invasive, and it’s so 
+accessible,” said Li-Huei Tsai, director of the Picower Institute for Learning 
+and Memory at MIT, and the paper’s senior author.
+
+Alzheimer’s research has faced a number of major setbacks – most recently the 
+failure ofEli Lily’s drug trial 
+<https://www.theguardian.com/society/2016/nov/23/dismay-as-alzheimers-drug-solanezumab-fails-in-clinical-trials>
+ – after promising results in rodents did not translate into clinical 
+improvements for patients.
+
+The latest intervention, scientists predict, should be quicker and cheaper to 
+confirm in humans than pharmaceuticals, which typically take more than a decade 
+to develop and assess for safety before the clinical efficacy is even examined.
+
+The study, published on Wednesday 
+<http://nature.com/articles/doi:10.1038/nature20587> in the journal Nature, 
+hinges on the observation that Alzheimer’s patients show a loss of synchronised 
+brain activity, known as gamma oscillations, which is linked to attention and 
+memory.
+
+
+To restore the activity, the scientists first used mice that had been 
+genetically engineered such that the neurons that generate gamma activity in 
+the brain were sensitive to light. The technique, known as optogenetics, 
+allowed the scientists to artificially cause groups of neurons to fire in 
+unison by pulsing light into the brains of the mice.
+
+
+After an hour of stimulation, the researchers found a roughly 50% reduction in 
+the levels of beta amyloid proteins in the hippocampus, the brain’s memory 
+centre. Closer inspection showed that the amyloid had been taken up by 
+microglia, the brain’s immune cells.
+
+In a healthy brain, microglia act as chemical rubbish collectors, surveying 
+the local environment, clearing up unwanted compounds, but in Alzheimer’s these 
+cells can lose this function and switch into an inflammatory state in which 
+they secrete toxic compounds instead. Strengthening gamma oscillations appeared 
+to switch the microglia back into a productive state.
+
+Next, the scientist showed that gamma oscillations could also be stimulated 
+non-invasively in the visual brain region simply by exposing the mice to a 
+flickering light. At 40Hz the flicker of the light is barely discernible and 
+would be “not offensive at all” for a person to have in the background.
+
+After being given one hour of flickering light each day for a week, the 
+scientists saw a 60% reduction of harmful amyloid plaques in the brains of the 
+mice.
+
+Ed Mann, an associate professor of neuroscience at the University of Oxford, 
+said: “I was surprised, and it’s exciting, that such a simple stimulus can 
+target a molecular pathway and have such an effect in an hour.”
+
+Questions remain, however, about whether boosting gamma oscillations and 
+sweeping amyloid plaques out of the visual brain region would help with memory, 
+which is centred in the hippocampus, or broader cognitive abilities.
+
+David Reynolds, chief scientific officer at Alzheimer’s Research UK, said: “It 
+is conceivable that changing brain cell rhythms could be a future target for 
+therapies, but researchers will need to explore how light flickering approaches 
+could not only reduce amyloid in the visual area of the brain but in those 
+areas more commonly affected in Alzheimer’s.”
+
+The authors suggest that it may be possible to take a multi-sensory approach, 
+using a combination of flashing lights and vibrating chairs. Tsai and Ed 
+Boyden, a colleague at MIT and co-author, have started a company called Cognito 
+Therapeutics to pursue tests in humans.
+
+There are 850,000 people with dementia in Britain and this figure is expected 
+to reach 1 million by 2025. Earlier this year,dementia overtook heart disease 
+<https://www.theguardian.com/society/2016/nov/14/dementia-and-alzheimers-leading-cause-of-death-england-and-wales>
+ as the leading cause of death in England and Wales.
+ 

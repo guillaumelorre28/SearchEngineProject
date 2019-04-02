@@ -1,0 +1,119 @@
+
+With the launch of the new Apple TV 
+<https://www.theguardian.com/technology/apple-tv>, Apple has positioned its 
+set-top box as the heir to the Nintendo Wii, bringing accessible casual gaming 
+into the living room with the device’s app store and motion-sensitive remote 
+control.
+
+The company’s all-singing, all-dancing press conferences regularly involve a 
+quick play-through of a video game, but usually under the guise of a graphics 
+demonstration. Hence the introduction of Vainglory,the mobile-first multiplayer 
+online battle arena (MOBA) that debuted alongside the iPhone 6 
+<https://www.theguardian.com/technology/2014/sep/09/vainglory-moba-ios-super-evil-megacorp>
+, which was explicitly characterised as an example of what the company’s new 
+Metal API could do for game developers; andInfinity Blade 
+<https://www.theguardian.com/technology/2010/dec/19/infinity-blade-iphone-app-review>
+, announced as “Project Sword” by Epic Games alongside the introduction of Game 
+Centre, again with the emphasis on its graphical fidelity. “Everything you see 
+is in realtime”, Epic’s Mike Capps emphasised.
+
+This time, the demonstration of Warhammer 40,000: Freeblade, a third-person 
+shooter for the iPhone, followed a similar pattern: its compatibility with the 
+new devices’ “3D touch 
+<https://www.theguardian.com/technology/2015/sep/09/apple-iphone-6s-6s-plus-event-processors-cameras-3d-touch>
+” was trailed heavily. But the two games we got to see running on an Apple TV 
+were somewhat different.Crossy Road 
+<https://www.theguardian.com/technology/2015/mar/04/crossy-road-mobile-game-10m-freemium>
+, an already hugely popular iPhone game, served notice to existing iOS 
+developers that porting games over to the living room was expected, while the 
+debut of Beat Sports, a new game by Rock Band developer Harmonix, emphasised 
+that Apple wanted to work with the sort of developer who normally steers clear 
+of the ecosystem entirely (although Harmonix has released one iOS game 
+previously, a port of Rock Band for the iPhone, which was co-developed with EA 
+Montreal).
+
+To be sure, both demos did touch on aspects of the device that Apple was keen 
+to show off, with Crossy Road’s tight integration with theiPhone 
+<https://www.theguardian.com/technology/iphone> version and Beat Sports’ use of 
+the motion-sensitive remote. But the subtext was clear: Apple thinks it can 
+take on Nintendo for third place in the console market.
+
+The problem is, even while it’s parading game developers on stage, it’s still 
+not clear ifApple <https://www.theguardian.com/technology/apple> actually wants 
+to take on the console market. The inconsistency within the company when it 
+comes to games is painful to see, and shows no sign of abating any time soon.
+
+The problem is that games are treated as just another type of app by the 
+company – albeit a very profitable type. The games store, for instance, is 
+organised in exactly the same way as the rest of the app store, with prominence 
+given to a few select apps and then three charts of top-selling paid games, 
+most-downloaded free games, and “top grossing games”.
+
+Like all charts, those tend to be vaguely self-reinforcing – and their 
+relation to the actual highest-quality games is loose at best – but “top 
+grossing” takes it a stage further, encouraging the sort of cash-grabbing that 
+makes Clash of Clans, Game of War and Candy Crush Saga a perpetual top three.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fsep%2F12%2Fapple-tv-games-console-can-it-be-trusted%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F655bd9f23038658ee50a2afaad2fc4c7bf2e4b31%2F0_216_3500_2100%2F3500.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20wants%20the%20Apple%20TV%20to%20be%20a%20games%20console.%20But%20can%20it%20be%20trusted%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fsep%2F12%2Fapple-tv-games-console-can-it-be-trusted%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Apple%20wants%20the%20Apple%20TV%20to%20be%20a%20games%20console.%20But%20can%20it%20be%20trusted%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fsep%2F12%2Fapple-tv-games-console-can-it-be-trusted%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F655bd9f23038658ee50a2afaad2fc4c7bf2e4b31%2F0_216_3500_2100%2F3500.jpg>
+ Candy Crush Saga: forever at the summit of the ‘top-grossing’ chart. 
+Photograph: Carlo Allegri/Reuters 
+Similarly, in the newly-released guidelines for Apple TV apps 
+<https://developer.apple.com/library/prerelease/tvos/documentation/General/Conceptual/AppleTV_PG/>
+, the company reveals that “the maximum size of an Apple TV app is limited to 
+200MB”, with no persistent local storage. In other words, apps must be lean, 
+and they must download everything they show from the cloud. That’s smart for a 
+media player in a world with widespread broadband penetration, as it removes 
+the risk of one app filling up the storage with downloaded movie files, leaving 
+all the others unable to work. Streaming is the new downloading, that much is 
+clear.
+
+But 200 megabytes is a paltry amount for a game. The top-tier consoles right 
+now ship their games on Blu-ray discs, which store at least 25GB and can rise 
+to 128GB per disc (twice the total storage of the highest-capacity Apple TV); 
+but even last generation’s Nintendo Wii, which is perhaps a better comparator, 
+used DVDs that hold 5GB. On my iPhone right now, I have five games installed 
+that are over the 200MB limit.
+
+Some of those games might be able to stream content, hewing to the developer 
+guidelines by the letter by downloading levels as you play. But unless Apple 
+seriously intends to reintroduce the interminable loading screens of 
+pre-hard-drive console gaming, it seems clear that they simply view games as an 
+acceptable casualty of their drive for sleek TV apps.
+
+Perhaps the most damaging example of Apple’s failure to give games the support 
+they needis at the very top of the company’s app store review guidelines 
+<https://developer.apple.com/app-store/review/guidelines/>: “If you want to 
+criticise a religion, write a book. If you want to describe sex, write a book 
+or a song, or create a medical App. It can get complicated, but we have decided 
+to not allow certain kinds of content in the App Store.”
+
+The iPhone is the largest games store on the planet, and it’s managed by a 
+company whose attitude to the medium is “go write a book”. That hasn’t stopped 
+magnificent art being made for Apple’s platforms, but it has stopped some, such 
+as Sweatshop HD, whichwas pulled from the app store in 2013 
+<https://www.theguardian.com/commentisfree/2013/mar/22/sweatshop-game-apple-app-store?CMP=twt_guhttp://>
+. Of course, that game didn’t criticise a religion or describe sex, but it did 
+satirise exploitative employment practices in manufacturing. Can’t think why 
+Apple would have an issue with that.
+
+Despite my concerns, there is the chance that the Apple TV could be good for 
+gaming. Unlike PC games, consoles have always been fairly locked down by the 
+platform manufacturers. In a way, its “no sex, no drugs, only rock and roll” 
+attitude is merely replicating the same approach that Nintendo has emphasised 
+for years in its efforts to keep its games consoles family friendly. The 
+company has onlyallowed six 18-rated games on its platforms in its history, and 
+maintains a strict ban on any game given the US “Adults Only” rating, alongside 
+Sony and Microsoft.
+
+And unlike the old consoles, there’s no need to ask permission before making a 
+game for the Apple TV, and the company is still much less controlling over what 
+makes it on the App Store than any of the legacy publishers.
+
+But its success as a games console would be handing yet more control of the 
+medium to a company which fundamentally looks down on games and gaming. And 
+that should concern anyone who likes to play.
+ 

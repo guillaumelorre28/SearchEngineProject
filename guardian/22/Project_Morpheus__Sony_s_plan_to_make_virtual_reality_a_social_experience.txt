@@ -1,0 +1,154 @@
+
+Two years after the successful Kickstarter fund that projected Oculus Rift 
+into the mass consciousness and launched the new era of consumer virtual 
+reality, there are still a lot of questions to answer.
+
+What will VR apps actually look like? How will they work? Will they resemble 
+the games we play on current consoles, or will they work more like virtual 
+tourist attractions, giving us access to extraordinary environments and just 
+letting us explore them?
+
+It’s a problem that every developer in the field is still grappling with. At 
+the recent South West VR conference in Bristol, the main talking points were 
+how to coax consumers into virtual experiences without scaring or alienating 
+them – or making them feel sick. A whole new methodology is required.
+
+It’s definitely something Sony Computer Entertainment’s London studio is 
+thinking about. Originally founded in 2002 as a merger of other UK PlayStation 
+development houses, the team has, from the beginning, concentrated on 
+experimental projects, initially under the guidance of R&D head Dr Richard 
+Marks, an Avionics major at MIT, with a PhD in aquatic robotics. In the 
+late-90s he had envisioned using a cheap web camera as a PlayStation peripheral 
+to produce mixed-media entertainment concepts. In 2003, the London studio 
+produced EyeToy: Play, a selection of augmented reality mini-games that used the
+PlayStation <https://www.theguardian.com/technology/playstation> 2 EyeToy 
+camera and motion detection technology.
+ An EyeToy demo, shown at the E3 games event in 2002, which shows how the 
+camera merged computer graphics and video Photograph: public domain 
+From here on, the studio specialised in exploring new interface technologies, 
+creating karaoke sim SingStar and, later, the PS3 augmented reality project 
+WonderBook. It’s now one of the key internal teams working on demos and 
+concepts for Sony’s forthcoming virtual reality headset, Project Morpheus. Like 
+Oculus Rift, the device, which connects to aPlayStation 4 
+<https://www.theguardian.com/technology/playstation-4> consoles and fits 
+comfortably on the user’s head, filling their visual field with a 5.7-inch OLED 
+screen, promises to bring a new era of immersive VR games and applications.
+
+“There’s a whole bunch of things we needed to solve for augmented reality that 
+you also need to solve for VR, so as a studio, the leap wasn’t so great,” 
+explains Sony London head Dave Ranyard. “WithinSony 
+<https://www.theguardian.com/technology/sony>, work on the headset had been 
+going on for a while and we all just started collecting around it. We’d 
+finished a big project – the Book of Potions – and we enjoyed that, we wanted 
+to be involved in this technology. Everyone talks about the design challenges 
+of VR, but this stuff is bread and butter to us: we like to get technology 
+while there are still wires hanging out of it. Early on, Morpheus was literally 
+a cycling helmet with a PlayStation Move controller taped on the top. That’s 
+exciting to us!”
+
+So Sony London started working on some demos, exploring different elements of 
+the VR experience. At last year’s E3 event in Los Angeles, the studio showed 
+The Deep, in which the player is plunged into the ocean in a shark cage just as 
+a great white swims by, and Street Luge, a simple racing sim where the user is 
+hurtling down a narrow road on a luge, avoiding oncoming traffic.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_WzpLtCw9r0&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_WzpLtCw9r0>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_WzpLtCw9r0&media=>
+Both of these have been iterated to fine tune the experience. Originally, 
+players would crash when they hit a car in Street Luge – exactly how impact 
+would be handled in a traditionally screened game, but Ranyard says that was 
+too jarring and disorientating in a VR experience. He equates this with the 
+one-to-one nature of the VR experience: you feel like you’re “there” on the 
+street, so getting hit by a car is traumatic; it’s not like viewing a car 
+crashing on a screen, which provides a window that separates you from the 
+experience. Now, when contact is made with a vehicle in Street Luge, it simply 
+slows the player down.
+
+But to Ranyard, however, the biggest challenge for Sony is to make virtual 
+reality a social experience – not just in terms of connected virtual worlds, 
+but in terms of engaging other people in the same room as the Morpheus user. As 
+Google found with its Glass AR prototype, people are quick to mock the users of 
+AR and VR technology, and partially this is about exclusion – they don’t feel 
+part of what that person is experiencing. That sort of social alienation needs 
+to be defeated if these headsets are to become mass consumer items.
+
+“There’s this kind of sci-fi view of VR being about isolation, but we want to 
+turn that on its head,” says Ranyard. “We’ve made a lot of local multiplayer 
+games – SingStar, EyeToy, etc – and we’re actively using some of the things 
+we’ve learned from them.”
+
+One method is simply to share what the Morpheus user is seeing. Ranyard claims 
+that, while Morpheus was in the early stages of development, his studio 
+petitioned for a feature that would show on the TV whatever the Morpheus player 
+can see, so that everyone in the room can participate, if only as cheerleaders.
+
+But there are also plans for more inclusive experiences, including 
+asymmetrical multiplayer games, involving one player on the Morpheus and 
+another interacting via a DualShock controller and the TV screen, or a 
+companion app on smartphone/tablet. “For example, we have a version of The Deep 
+where someone has a radar view on their screen and they can speak to the 
+diver,” says Ranyard. “We did another prototype where we put [SCE president] 
+Shuhei Yoshida in a haunted house and you could control the scares on a tablet. 
+We’re even looking at turn-based experiences. We just want to get other people 
+involved, even if you only have one headset.”
+
+Sony isn’t alone in envisioning asymmetrical multiplayer experiences, of 
+course. Game jams have become hotbeds of VR exploration and creativity, and 
+we’ve seen lots of interesting ideas around the concepts of co-operation and 
+instruction.Keep Talking and Nobody Explodes <http://www.keeptalkinggame.com/>, 
+for example, puts an Oculus Rift wearer in a virtual room with a complicated 
+time bomb and other participants get a printed manual which explains a variety 
+of puzzles that the device may feature. Also interesting is the installation 
+game Taphobos, a sort of buried alive simulator, where the Oculus wearer gets 
+inside an actual coffin and must look around its virtual onscreen 
+representation for clues, which will allow a companion working on a PC to 
+locate where their friend is buried.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC_dNn7aQbmQ&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC_dNn7aQbmQ>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DC_dNn7aQbmQ&media=>
+Many consumers will recoil from these concepts, but Ranyard thinks it’s all 
+about slowly introducing the possibilities. So far, the prototype process has 
+been geared toward establishing basic building blocks of VR experiences – The 
+Deep was about fear, Street Luge was about adrenaline. Apparently, the studio 
+is now working on demos around character interaction. Get the foundations 
+right, and VR developers will begin to understand what people can and can’t 
+take.
+
+Although, he says, history shows us that there will be a long period of 
+adjustment. “When we started with virtual reality I was keen to see what we 
+could learn from the development of cinema. I found out that it took 10 years 
+to go from silent movies to talkies – they had to re-fit every cinema across 
+the US, so for a decade films were being made for both. That’s interesting to 
+me.
+
+“There’s been a resistance to VR from some people who were doing well from the 
+status quo. I have come across dismissive reactions from quite senior people in 
+the games industry. I did a DICE talk this year where I quoted the 30s movie 
+maker Conrad Veidt who said: “In the middle of my third Hollywood picture The 
+Magician, the earthquake hit Hollywood. Not the real earthquake. Just the 
+talkies.”
+
+Ranyard says he’s not sure whether virtual reality will be a replacement 
+technology, like, say, colour to black and white, or a companion technology, 
+like television became to radio. But Sony is not alone in preparing for the 
+future. Alongside Oculus Rift there’s also the Valve-backed HTC Vive, which has 
+excellent technology and, unlike its rivals, a 2015 launch date. With Microsoft 
+and Google also looking into a range of VR and AR technologies, the fates are 
+aligning behind the tech.
+
+“I often think about the technological icon of the age,” says Ranyard. “In the 
+80s it was the Walkman, in the 2010s it’s the smartphone. When I’m retiring 
+these handsets will look so old; there will be some other way of dealing with 
+apps. Maybe that will be VR.
+
+“I’ve seen everyone from high-ranking industry executives to non-gamers 
+playing with the Morpheus headset, and one thing I’ve learned is that, if 
+there’s a visual icon for our coming age, it could well be someone wearing a VR 
+headset, reacting to something the rest of us can’t see.”
+ 

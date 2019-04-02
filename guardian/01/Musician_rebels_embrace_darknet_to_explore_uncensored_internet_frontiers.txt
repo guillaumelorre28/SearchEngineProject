@@ -1,0 +1,161 @@
+
+You could view the internet a little like the Earth’s surface. The bits of the 
+web everyone knows about and uses are the land masses, but surrounding them are 
+the vast expanses of ocean that represent the much publicised “deep web” – the 
+uncharted depths that are the areas not indexed by standard commercial search 
+engines, because they’re meaningless to the average internet user. However, 
+within this abyss of uncharted waters, there is a place that undertakes 
+groundbreaking technological advancements just to keep itself both separate and 
+efficient. This relatively small area has been labelled the “darknet”, and it 
+can only be browsed using services likeTor <https://www.torproject.org/> (The 
+Onion Router) orFreenet <https://freenetproject.org/>, which are based on 
+multilayered concepts of anonymity designed to make both the visitors and the 
+web pages (styled as .onion) incredibly difficult to trace.
+
+The darknet has been around since the 70s, but the rise and fall of the Silk 
+Road <http://en.wikipedia.org/wiki/Silk_Road_%28marketplace%29> darknet 
+marketplace empire (now Silk Road 2.0) in 2013, and the advent of
+cryptocurrencies <https://www.theguardian.com/technology/cryptocurrencies>, 
+notably Bitcoin, saw it truly break into the mainstream press. Ever since it 
+has enjoyed sporadicnews mentions 
+<http://www.bbc.co.uk/news/technology-28242662>, usually relating to drug and 
+gun markets, political activism, child pornography, fraud, fetishism, murder, 
+terrorism andTesco clubcard vouchers 
+<https://www.theguardian.com/society/2014/mar/09/silk-road-website-roraring-trade-tesco-vouchers>
+. To many, unsurprisingly, the darknet is an incomprehensible sin city.
+
+With all that in mind, Aphex Twin 
+<https://www.theguardian.com/music/2014/sep/19/aphex-twin-richard-james-bjork-ian-rankin>
+’s decision to release details ofSyro 
+<https://www.theguardian.com/music/2014/sep/21/aphex-twin-syro-review-richard-d-james>
+, his first album in 13 years, via anelusive .onion web page 
+<https://twitter.com/AphexTwin/status/501383043643621376> left a wider 
+community of music lovers trying to decipher why electronic music’s prodigal 
+son had chosen such a platform. Hackers immediately booted up their Tor 
+browsers and pounced on the page to search for any hidden surprises, but 
+reported back via Reddit that there was no hidden content and no secret 
+messages.“If anything, the site is a little sloppy,”  
+<http://www.reddit.com/r/Music/comments/2dw4qq/aphex_twin_announces_new_album_syro/>
+said one commenter.
+
+As I tried to explore the thought processes of Aphex Twin’s Richard D James (a 
+daunting task in itself), I became sidetracked by a much wider issue, which 
+involves a growing scatter of artists who are exploring the outer limits of the 
+internet for inspiration, adventure, anonymity and rebellion, in search of a 
+truer and uncensored reflection of the society we live in.
+
+It began with Lee Bannon <http://ninjatune.net/artist/lee-bannon#.VCE_m0j6rW4>
+, a Sacramento based experimental hip-hop producer. Bannon has spent the last 
+year working on an album subtly inspired by the darknet. In contrast to his 
+production work for rappers like Joey Bada$$ and Souls of Mischief, Bannon’s 
+solo work is a distinct brand of atmospheric jungle which nods as much to 
+digital culture as it does to the early years sounds of Goldie’s Metalheadz 
+label. His first experience with the internet’s peripheries came when he 
+started to find his music being discussed on different types of internet forum. 
+“My original hip-hop fan base was somehow evolving into a more intellectual 
+hacker crowd,” he says. “They lived a certain lifestyle, and I wanted to dive 
+into that vibe.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fmusic%2F2014%2Fsep%2F23%2Fmusicians-embrace-darknet-uncensored-internet-web-surveillance%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F9%2F23%2F1411467755324%2F34beffa5-3f18-48b4-a914-3bdd06e7dc0b-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Musician%20rebels%20embrace%20darknet%20to%20explore%20uncensored%20internet%20frontiers&url=https%3A%2F%2Fwww.theguardian.com%2Fmusic%2F2014%2Fsep%2F23%2Fmusicians-embrace-darknet-uncensored-internet-web-surveillance%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Musician%20rebels%20embrace%20darknet%20to%20explore%20uncensored%20internet%20frontiers&url=https%3A%2F%2Fwww.theguardian.com%2Fmusic%2F2014%2Fsep%2F23%2Fmusicians-embrace-darknet-uncensored-internet-web-surveillance%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F9%2F23%2F1411467755324%2F34beffa5-3f18-48b4-a914-3bdd06e7dc0b-2060x1236.jpeg>
+ Musician Lee Bannon: ‘For me, the fascination is about social justice and this 
+new frontier of possibilities.’ Photograph: Josh Wehle 
+A combination of watching the Anonymous network join in the Ferguson protests 
+<http://mashable.com/2014/08/19/anonymous-ferguson-day-of-rage/> and witnessing 
+a friend smoothly buy drugs off the darknet made Bannon obsessed with both the 
+potential and the awe-inspiring absurdity of it all. “For me, the fascination 
+is about social justice and this new frontier of possibilities. I think it’s 
+like a sword. A good guy could pick it up to protect people, and a bad guy 
+could pick it up to cut someone’s head off.”
+
+It turns out Bannon wasn’t the only one in California’s state capital who had 
+embraced internet subculture. Two years ago, thenow defunct group 
+<https://www.theguardian.com/music/2014/jul/03/death-grips-split-announce-on-napkin>
+ Death Grips launched an ARG (alternate reality game) on the darknet to promote 
+their albumsThe Money Store 
+<https://www.theguardian.com/music/2012/apr/26/death-grips-money-store-review> 
+and No Love Deep Web, by seeding various clues on the bulletin board site4Chan 
+<http://www.4chan.org/>. “Silicon Valley is only an hour away, so a lot of that 
+hacker culture winds up in Sacramento, because it’s cheaper to live there, and 
+you can commute back and forth,” Bannon says of the attraction of the darknet 
+for the city’s musicians.
+
+Explorations into strange parts of the web aren’t restricted to Sacramento, 
+naturally. “One of the few sublime experiences I have today,” explains the 
+Canadian artist and essayistJon Rafman <http://jonrafman.com/>, “is discovering 
+a new community online that I didn’t even know existed. It reveals a whole 
+world within a world. It’s like thinking you know what reality is and then 
+discovering an entire universe within an atom.” Rafman’s warped video collage
+Mainsqueeze <http://vimeo.com/100324610> was collated entirely from footage 
+found on the deep web, and this latest discovery has him even more fascinated. “
+Wizardchan <http://wizardchan.org/>,” he says, “is an online community of male 
+virgins over the age of 30. It comes from a Japanese saying that if you reach 
+the age of 30 and you are still a virgin, you become a wizard. It is a 
+community of supportive self-deprecation and self-loathing with a very internet 
+sense of humour. They are often trying to one up each other in levels of 
+patheticness and a lot of the time discourage any attempts at becoming 
+‘normies’. I see this image of the basement-dwelling wizard who rejects 
+societal conventions to such an extreme degree as one of the tragic heroes of 
+our times.”
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fvimeo.com%2F100324610&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fvimeo.com%2F100324610> 
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fvimeo.com%2F100324610&media=>
+The above video features some footage that readers may find disturbing
+
+Mainsqueeze, by Canadian artist Jon Rafman is a compilation of footage posted 
+on the deep web 
+Part of what Rafman admits to loving about the darker corner of the internet 
+is how it allows people to take on new roles and identities. Yet, one of the 
+key features of the darknet – the anonymity – is largely highlighted as its 
+most dangerous component, with the “what have you got to hide?” card being 
+thrown into most debates about encryption systems such as Tor, despite the 
+dangers posed by the absolute lack of anonymity forced on internet users by 
+sites that harvest their data.
+
+The fear of the sites which see their users as a resource from which to make 
+money drivesAlec Empire <http://www.alec-empire.com/>, the founder of 
+Berlin-based digital hardcore bandAtari Teenage Riot 
+<https://www.theguardian.com/music/2010/may/08/atari-teenage-riot-grrrl>. “You 
+fear that a corporation is taking your stuff and monetising it,” he says. 
+“Facebook, Twitter, all these things that helped independent artists in the 
+beginning are now working against them. Putting a Pringles ad next to them. 
+Even putting a video up on YouTube screws up the whole experience of watching 
+it. The viewer is bombarded with bullshit. Using the deep web is a way to do 
+things differently. I feel a new enthusiasm, [like] I witnessed when the 
+original internet became big in the 90s.”
+
+This idea, that the darknet harks back to a “golden era” of the internet – 
+before legislation, surveillance and monopolisation took control – is a 
+recurring theme. “The early internet was this alternate, separate place that 
+was meant to transcend all the problems and censorship of real world society,” 
+says the journalistJamie Bartlett 
+<http://blogs.telegraph.co.uk/technology/author/jamiebartlett/>, a specialist 
+on internet culture and author of the bookThe Dark Net 
+<http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9780434023172>
+. “As a result, it would be dangerous, liberal, uncensored, and it would be a 
+great place for freedom fighters, democratic dissidents and whistleblowers to 
+go, as well as criminals, child pornographers and terrorists. And that’s 
+exactly what the darknet is. It’s seen as somewhere new, free and open, for 
+those increasingly worried by the idea that the internet is becoming colonised 
+by commercial purposes.”
+
+Of all the artistic interactions with the darknet, Aphex Twin’s link may 
+actually have been the least sophisticated. But what he has done is place the 
+notion of the darknet, and the Tor project, in a new perspective both to the 
+mainstream press and to an enormous fanbase, given his status as one of the 
+most influential artists in electronic music.
+
+Perhaps, the darknet – which Bannon describes as being like “Paris in the 20s” 
+and Empire as “discovering America again” – has the potential to be a bastion 
+of free speech and creativity, where art can escape surveillance and 
+commercialism, to blend with new technology and hard truths in a way that is no 
+longer possible on the surface internet. As Jamie Bartlett concluded in his 
+book: “Outsiders, radicals and pariahs are often the first to find and use 
+technology in shrewd ways, and the rest of us have much to learn from them.”
+ 

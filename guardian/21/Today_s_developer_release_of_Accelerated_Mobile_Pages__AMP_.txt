@@ -1,0 +1,79 @@
+
+Today, a number of platforms, publishers and digital partners unveiled the 
+developer release of a new publishing technology for the mobile web: AMP.
+
+This is a project we at the Guardian have been involved with since its 
+inception. It was borne of the Digital News Initiative - launched between the 
+Guardian and seven other leading European publishers with Google - and has 
+since gone global and gained pace as more and more platforms develop compelling 
+technologies for mobile content.
+
+
+The central objective of the DNI 
+<https://www.theguardian.com/media/2015/apr/28/publishers-should-give-google-a-chance-as-it-tries-to-make-peace>
+ is to create a more sustainable digital ecosystem for news and quality 
+journalism, one which engages citizens everywhere with important and 
+entertaining content and provides journalism organisations of all kind with 
+continued economic incentives to invest in great content. At the Guardian we 
+recognise that our users engage with our content across all platforms, not just 
+our own. Our open philosophy actively embraces the participation of readers in 
+our journalism, whether commenting, sharing, adapting, uploading and more. 
+Mobile by definition gives more meaning to this vision.
+
+
+Yet the mobile web is somewhat in flux. Users want more great content than 
+ever but they also expect greater speed, personalisation and continued respect 
+for their data and privacy. Publishers need to respond by delivering different 
+content, in different ways and working with advertisers to ensure that this 
+extends to brand experiences too. Platforms, publishers and advertisers need to 
+collaborate to ensure that we can all tackle the consequences of when these 
+expectations are not met, contributing for example to the recent growth in ad 
+blocking.
+
+
+The Guardian’s award winning platform provides the best experience of our 
+journalism, therefore we will always want readers to engage with our content on 
+our products. But we also want to ensure that the millions of our readers who 
+engage with our content elsewhere - from Apple News to Facebook’s Instant 
+Articles - have the best possible mobile experience. Naturally, we don’t have 
+the autonomy and flexibility we would always like on these digital platforms: 
+they set the rules for everything from design to user participation to 
+monetisation. But we are committed to developing the best possible experience 
+of the Guardian that’s native to each platform, working with them to ensure 
+that the partnerships provide us with editorial control and the commercial 
+opportunity to sustain our journalism.
+
+
+AMP <https://www.ampproject.org/> is a different means to achieve the same 
+ends. It seeks simultaneously to create a great user experience, to give more 
+autonomy to publishers to deliver that and to develop effective advertising for 
+the mobile web. It is intended to be an open standard and one that can traverse 
+the mobile web rather than existing on one platform alone. It hopes to allow 
+publishers to build pages flexibly and to their own spec within a more 
+appropriate framework for mobile. Our site is one of the fastest news sites in 
+the world but it can get better and all publishers have a common interest in 
+responding to the challenges of mobile.
+
+
+To succeed in its ambition, the AMP project will need to more deeply engage 
+platforms, publishers and advertisers in moving from today’s developer release 
+to a full public release. The burden of developing content for multiple 
+different standards and platforms could soon become prohibitively complex and 
+expensive for even the largest publishers, let alone new entrants. The critical 
+technical enablers of personalisation and monetisation that publishers need to 
+sustain their journalism and power a web that is filled with great content and 
+engaging advertising, must be clearly established. And above all, we must be 
+guided by users, who rightly set high expectations for experience quality and 
+integrity in their relationship with us.
+
+
+We hope that AMP can succeed and our digital teams are working with Google and 
+others to shape its evolution. The great potential of the web is surely greater 
+still on mobile devices. But its economic viability, integrity and universality 
+are not guaranteed. The same is true of journalism. Its role in fostering 
+greater democracy, enjoyment and enlightenment has never been more vital. These 
+are great causes to work on together.
+
+
+Tony Danker is chief strategy officer at Guardian News & Media.
+ 

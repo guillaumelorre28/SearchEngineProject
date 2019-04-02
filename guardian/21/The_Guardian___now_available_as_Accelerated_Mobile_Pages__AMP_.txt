@@ -1,0 +1,49 @@
+
+Today you’ll notice a difference in how you see Guardian content on your 
+mobile when you come to us from Google.
+
+Accelerated Mobile Pages (AMP) <https://www.ampproject.org/> is a Google-led 
+initiative which aims to significantly speed up the mobile web. We’ll make our 
+regular content available in parallel in the AMP format, which can be served 
+very quickly in specific areas of Google products and other non-Google apps.
+
+ Guardian content as seen on AMP 
+We’ve been working with Google on the AMP project (born of the Digital News 
+Initiative launched between the Guardian and seven other European publishers 
+with Google) since its inception. Although launched, it’s still very much a 
+test – from both Google’s point of view and ours.
+
+The pages won’t look much different. Our editorial, UX, design and development 
+teams have worked to implement AMP pages in such a way that they carry all of 
+our distinctive brand and content elements.
+
+You’ll see the AMP pages as thumbnails in the Google Search “carousel” on 
+mobile only. When a thumbnail is clicked on, the article opens immediately in 
+its AMP version. Other articles from the carousel are then accessible by 
+swiping left or right.
+
+
+Have a look: compare this article 
+<https://www.theguardian.com/us-news/commentisfree/2016/feb/16/thomas-piketty-bernie-sanders-us-election-2016>
+ to itsAMP version 
+<https://amp.theguardian.com/us-news/commentisfree/2016/feb/16/thomas-piketty-bernie-sanders-us-election-2016>
+. On most articles you can just change www in the URL to amp.
+
+
+We’ve also simplified our main navigation bar – creating a single version of 
+the header which shows the different areas of our content. Clicking on any of 
+these words – and of course our logo – takes you to the relevant page you were 
+after.
+ AMP navigation bar Photograph: Guardian 
+At the moment we’re creating AMP pages for our regular articles only. We 
+intend to extend this to liveblogs, galleries and other content types.
+
+
+For more information you can read the official Google blog here 
+<https://googleblog.blogspot.co.uk/2016/02/amping-up-in-mobile-search.html>.
+
+
+As always, we’d like to know what you think. So comment below, or tweet us 
+@guardianmobile <https://twitter.com/guardianmobile>
+
+ 

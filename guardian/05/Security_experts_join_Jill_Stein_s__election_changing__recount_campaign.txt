@@ -1,0 +1,125 @@
+
+More election security experts have joined Jill Stein’s campaign to review the 
+presidential vote in battleground states won by Donald Trump, as she sues
+Wisconsin <https://www.theguardian.com/world/wisconsin> to secure a full 
+recount by hand of all its 3m ballots.
+
+Half a dozen academics and other specialists on Monday submitted new testimony 
+supporting a lawsuit from Stein against Wisconsin authorities, in which she 
+asked a court to prevent county officials from carrying out their recounts by 
+machine.
+
+
+US election recount: how it began – and what effect it could have
+ Read more  
+<https://www.theguardian.com/us-news/2016/nov/28/election-recount-jill-stein-hillary-clinton-donald-trump>
+Stein argued that Wisconsin’s plan to allow automatic recounting “risks 
+tainting the recount process” because the electronic scanning equipment 
+involved may incorrectly tally the results and could have been attacked by 
+foreign hackers.
+
+
+“There is a substantial possibility that recounting the ballots by hand will 
+produce a more correct result and change the outcome of the election,” Stein 
+argued in the lawsuit in Dane County circuit court. A copy wasobtained by the 
+Guardian 
+<https://interactive.guim.co.uk/embed/documentcloud/index.html?docid=3227350-Wisconsin-Summons-and-Complaint-11-28-16>
+.
+Affadavit 
+<https://interactive.guim.co.uk/embed/documentcloud/index.html?docid=3227350-Wisconsin-Summons-and-Complaint-11-28-16>
+Stein, the Green party’s presidential election candidate, is working to secure 
+full recounts in the states of Michigan, Pennsylvania and Wisconsin, where 
+Trump surprised pollsters by narrowly beating Clinton on his way to a national 
+victory in the electoral college.
+
+A petition from Stein requesting a recount was accepted by Wisconsin last 
+Friday. Her efforts to obtain a recount in Pennsylvaniamet serious difficulties 
+on Monday 
+<https://www.theguardian.com/us-news/2016/nov/28/recount-defense-fund-rnc-donald-trump>
+ as it became clear she needed three voters in each of the state’s 9,163 voting 
+precincts to request a recount on her behalf, and that deadlines to do so had 
+passed in many precincts.
+
+Wisconsin also told Stein on Monday that the recount, which was previously 
+estimated to cost $1m, would actually cost $3.5m and that the funds must be 
+produced by the end of Tuesday. Stein has raised more than $6m for the 
+three-state recount effort using online crowdfunding.
+
+The election took place amid warnings from the US government that Russian 
+hackers had been detected in the voter registration systems of some states and 
+were responsible for the theft of emails from the Democratic National Committee 
+and from John Podesta, the chairman of Clinton’s presidential campaign.
+Chart 
+<https://interactive.guim.co.uk/charts/embed/nov/2016-11-25T12:35:47/embed.html>
+Stein’s effort to have votes recounted, which she is spearheading on behalf of 
+a loose coalition of experts and activists, has been sharply criticized by 
+Trump and his allies, as well as people from across the political spectrum. 
+Late on Monday, however, a new group of academics came out in her support.
+
+Professor Poorvi Vora of George Washington University said in an affidavit 
+<https://interactive.guim.co.uk/embed/documentcloud/index.html?docid=3227385-Wisconsin-Vora-Affidavit-With-Exhibits-11-28-16>
+ that hackers could have infected vote-scanning machinery in Wisconsin with 
+malware designed to skew automatic recounts as well as the original vote count.
+
+“It is not possible to determine with certainty the absence of malicious 
+software hiding within what might appear to be many thousands of lines of 
+legitimate software code,” said Vora, who added that the only way to ensure the 
+integrity of the count was a recount by hand.
+
+Wisconsin officials have said the recount must be completed by 8pm on 12 
+December in order for the results to be finally certified by the following day 
+in time for a federal deadline. Fearful that hand recounts would take too long, 
+the state’s election commission has told counties they may decide how they 
+recount their ballots, prompting the lawsuit from Stein.
+
+Arguing that a manual count of paper ballots was the only way to ensure there 
+had been no outside interference,Professor Ronald Rivest of the Massachusetts 
+Institute of Technology 
+<https://interactive.guim.co.uk/embed/documentcloud/index.html?docid=3227391-Wisconsin-Rivest-Affidavit-11-28-16>
+ quoted the Russian proverb made famous by president Ronald Reagan: “Trust, but 
+verify.”
+
+“We have learned the hard way that almost any computer system can be broken 
+into by a sufficiently determined, skillful, and persistent adversary,” said 
+Rivest.
+
+Professor Dan Wallach of Rice University 
+<https://interactive.guim.co.uk/embed/documentcloud/index.html?docid=3227390-Wisconsin-Wallach-Affidavit-11-28-16>
+ said it was “entirely reasonable” to suspect that a foreign adversary was 
+capable of a sophisticated and targeted attack on the American electoral 
+process. “They know about battleground states,” he said.
+
+Wallach cited the US-Israeli hacking of Iran’s nuclear program to argue 
+against skeptics who insist that voter machines cannot have been hacked because 
+they were not connected to the internet.
+
+US elections 2016 live results: track who is winning, county by county
+ Read more  
+<https://www.theguardian.com/us-news/ng-interactive/2016/nov/08/us-election-2016-results-live-clinton-trump>
+“The Stuxnet malware for example was engineered specifically to damage nuclear 
+centrifuges in Iran even though those centrifuges were never connected to the 
+internet,” said Wallach.
+
+Other experts pointed to more prosaic reasons for holding a full recount by 
+hand.
+
+Professor Philip Stark 
+<https://interactive.guim.co.uk/embed/documentcloud/index.html?docid=3227392-Wisconsin-Stark-Affidavit-11-28-16>
+, director of statistical computing at the University of California, Berkeley, 
+said that Trump’s winning margin in Wisconsin of about 22,000 could “easily be 
+less” than the errors frequently made by the optical voting systems used in 
+most counties, which scan paper ballots marked by voters.
+
+“To determine whether the reported winner actually won requires verifying the 
+results as accurately as possible, which in turn requires manually examining 
+the underlying paper records,” said Stark, who wrote a newspaper op-ed with 
+Rivest calling for a review of the election before Stein announced her recount 
+efforts.
+
+The group who filed affidavits in support of Stein on Monday also included 
+Douglas Jones 
+<https://interactive.guim.co.uk/embed/documentcloud/index.html?docid=3227405-Wisconsin-Jones-Affidavit-11-28-16-00268398x9CCC2>
+, an associate professor at University of Iowa, andHarri Hursti 
+<https://interactive.guim.co.uk/embed/documentcloud/index.html?docid=3227389-Wisconsin-Hursti-Affidavit-11-28-16>
+, a Finnish expert on the hacking of electronic voter machines.
+ 

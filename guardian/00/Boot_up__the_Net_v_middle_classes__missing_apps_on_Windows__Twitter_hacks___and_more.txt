@@ -1,0 +1,164 @@
+
+A burst of 10 links for you to chew over, as picked by the Technology team
+
+Windows keeps getting better >> Windows Blog 
+<http://blogs.windows.com/windows/b/bloggingwindows/archive/2013/05/14/windows-keeps-getting-better.aspx>
+
+Today at the JP Morgan Technology, Media & Telecom Conference in Boston, Tami 
+Reller shared with the audience that the update previously referred to as 
+"Windows Blue" will be called Windows 8.1 and will be a free update to Windows 
+8 for consumers through the Windows Store.
+
+During her remarks today, Tami reiterated our goal of delivering continual 
+updates to create a richer experience for Windows customers. Windows 8.1 is 
+part of that and continues the journey we first began with Windows 8 last fall. 
+Windows 8.1 will help us to deliver the next generation of PCs and tablets with 
+our OEM partners and to deliver the experiences customers — both consumers and 
+businesses alike —need and will just expect moving forward.
+
+No word on whether WinRT will get a similar update.
+
+Jaron Lanier: The Internet destroyed the middle class >> Salon.com 
+<http://www.salon.com/2013/05/12/jaron_lanier_the_internet_destroyed_the_middle_class/>
+
+This week sees the publication of "Who Owns the Future?," which digs into 
+technology, economics and culture in unconventional ways. (How is a pirated 
+music file like a 21st century mortgage?) Lanier argues that there is little 
+essential difference between Facebook and a digital trading company, or Amazon 
+and an enormous bank. ("Stanford sometimes seems like one of the Silicon Valley 
+companies.")
+
+Much of the book looks at the way Internet technology threatens to destroy the 
+middle class by first eroding employment and job security, along with various 
+"levees" that give the economic middle stability.
+
+"Here's a current example of the challenge we face," he writes in the book's 
+prelude: "At the height of its power, the photography company Kodak employed 
+more than 14,000 people and was worth $28 billion. They even invented the first 
+digital camera. But today Kodak is bankrupt, and the new face of digital 
+photography has become Instagram. When Instagram was sold to Facebook for a 
+billion dollars in 2012, it employed only 13 people. Where did all those jobs 
+disappear? And what happened to the wealth that all those middle-class jobs 
+created?"
+
+Clickjack attack – the hidden threat right in front of you >> Troy Hunt 
+<http://www.troyhunt.com/2013/05/clickjack-attack-hidden-threat-right-in.html>
+
+A good primer on how to bust frames - used for clickjacking - given the 
+growing arms race between framers and busters.
+
+Acer, Asustek see large sequential decreases in April revenues >> Digitimes 
+<http://www.digitimes.com/news/a20130512PM200.html>
+
+Acer <https://www.theguardian.com/technology/acer> has reported April 
+consolidated revenues of NT$25.772 billion (US$868 million) down on month by 
+31.02%, while Asustek Computer saw revenues of NT$32.594 billion, down 22.11%, 
+according to the companies.
+
+Acer has seen falling year-on-year sales for four consecutive months; Asus 
+<https://www.theguardian.com/technology/asus>, for only one of four.
+
+Microsoft: Don't expect a Windows 8 iTunes app soon >> CNN 
+<http://money.cnn.com/2013/05/07/technology/windows-8-itunes/>
+
+Microsoft <https://www.theguardian.com/technology/microsoft> believes nearly 
+all major apps that can be found in Apple's iTunes store will also be available 
+on Windows 8 by the fall, but it expects one glaring hole to remain.
+
+"You shouldn't expect an iTunes app on Windows 8 any time soon," said Tami 
+Reller, chief financial officer of Microsoft's (MSFT, Fortune 500) Windows 
+division. "ITunes is in high demand. The welcome mat has been laid out. It's 
+not for lack of trying."
+
+Only available in Desktop mode. Don't hold your breath for the Metro (or RT) 
+version.
+
+Microsoft YouTube app is a rule breaker; it strips ads, downloads video >> 
+ReadWrite 
+<http://readwrite.com/2013/05/09/microsoft-youtube-app-rule-breaker-strips-ads-downloads-video>
+
+Microsoft appears to be sticking a finger in Google's eye with the launch of 
+its new YouTube app for Windows Phone. The app, ReadWrite has confirmed, strips 
+out YouTube ads when it plays back videos and allows users to easily download 
+video by way of a prominent "download" button.
+
+Both behaviors violate the cardinal rules YouTube imposes on developers who 
+use its service. To get around those restrictions, it appears that Microsoft 
+reverse-engineered some portion of the software used to access YouTube's basic 
+functions, which are generally known as application programming interfaces, or 
+APIs. If so, that could mean Microsoft can do just about whatever it wants with 
+its YouTube app.
+
+Wonder how long this will be allowed, given that Google 
+<https://www.theguardian.com/technology/google> has somehow not got around to 
+writing a Windows Phone version of the YouTube app in the past two and a half 
+years?
+
+How greedy is Adobe's Creative Cloud subscription? Not very >> CNET News 
+<http://news.cnet.com/8301-1001_3-57583370-92/how-greedy-is-adobes-creative-cloud-subscription-not-very/>
+
+Stephen Shankland: 
+
+Plenty of people are outraged that Adobe is moving to subscription plans and 
+scrapping perpetual licenses. But should they be?
+
+To shed some light on the situation, CNET broke out the spreadsheet software, 
+dug into pricing information from Adobe and retail outlets, and put together 
+some actual comparisons to see whether that wrath is deserved.
+
+The answer, as with all things complicated, is that it depends. But at least 
+in some reasonable situations - not just power users but also middle-end 
+customers who upgrade to Adobe's latest releases - the Creative Cloud isn't a 
+bad deal at all.
+
+"Jane you ignorant slut" >> Hal's (Im)Perfect Vision 
+<http://hal2020.com/2012/10/23/jane-you-ignorant-slut/>
+
+Former Microsoft GM Hal Berenson, in October 2012: 
+
+Let's start with what is definitely not a goal for Windows 8, broad-based 
+Enterprise adoption. By that I mean, the rollout of Windows 8 to traditional 
+desktop and notebook computing. Keep in mind that back when Windows 8 was being 
+planned Windows 7 had just shipped. Because of the time, cost, and complexity 
+of enterprise-wide operating system rollouts most enterprises would either 
+still be rolling out Windows 7 or have just completed their rollout around the 
+time Windows 8 shipped.  Indeed Windows 7 just recently passed Windows XP as 
+the most popular version of the operating system in use. No enterprise would 
+have the appetite to immediately start the cycle over again so quickly, and so 
+(I believe) the prevailing wisdom inside Microsoft was that they would skip 
+Windows 8. In other words, before Microsoft had decided on the details of a new 
+app model, the Windows Store, the Start Screen, or removing the Start button 
+they knew there was no point in targeting enterprise desktops as Windows 8 
+upgrade targets.
+
+He explains the headline (don't worry, it's not rude). As ever, Berenson gives 
+you something extra to think about: the real metric Microsoft wants Windows 8 
+to be measured by. Read on.
+
+@Skynewsbreak Twitter Account Hacked >> Sky News Press Office 
+<http://skynews.skypressoffice.co.uk/press-releases/items/2013-05/3169/skynewsbreak-twitter-account-hacked>
+
+Earlier today the @skynewsbreak twitter feed was hacked and a single message 
+sent.
+
+Action was swiftly taken and we are working with Twitter and our in house 
+security to ensure this cannot happen again.
+
+Perhaps a hacker could break into Dick Costolo's Twitter account so that 
+two-factor authentication suddenly goes to the top of the to-do list there.
+
+Nvidia's new gaming handheld is out in June for $350 >> Kotaku 
+<http://kotaku.com/nvidias-new-gaming-handheld-is-out-in-june-for-350-505504545>
+
+Announced in January as Project Shield, Nvidia's intriguing new handheld now 
+has a price, a June release window, and the promise of Double Fine's Broken 
+Age. Who's ready to spend $350 on a dedicated Android gaming device?
+
+Filed under "questions which answer themselves and involve very small numbers".
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/u:guardiantech>
+
+To suggest a link, either add it below or tag it with @gdntech on the free 
+Delicious <http://www.delicious.com/> service.
+ 

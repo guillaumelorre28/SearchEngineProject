@@ -1,0 +1,9 @@
+
+This site was built to enable people to read the Guardian on the move on 
+modern mobile phones, even in poor signal areas.
+
+This site demonstrates the power of combining the Guardian's services. Using 
+the RSS feeds together with the Open Platform we were able to create a 
+mobile-friendly site which obeys the ordering of the RSS feed and uses the data 
+provided by Open Platform.
+ 

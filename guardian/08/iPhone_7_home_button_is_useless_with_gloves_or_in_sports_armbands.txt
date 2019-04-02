@@ -1,0 +1,36 @@
+
+The iPhone <https://www.theguardian.com/technology/iphone> 7’s new solid-state 
+home “button” does not work without skin contact, rendering the phone 
+unaccessible when placed inside a sports armband, a waterproof case or when the 
+user is wearing touchscreen gloves.
+
+
+The new home button, which is pressure sensitive and does not move, is an 
+essential part of the the new iPhone. A change made for iOS 10 means that you 
+cannot move past the lockscreen without activating the home button, even if you 
+are attempting to enter a pin code to unlock the device.
+
+The Guardian tested capacitive gloves and a see-through case that covers 
+screen. It was not possible to activate theiPhone 7 
+<https://www.theguardian.com/technology/iphone-7> or 7 Plus’s Home button using 
+either, but it was possible to fully manipulate the touchscreen.
+
+Workarounds include using the nose, chin, elbow, knee or any other piece of 
+skin to activate the home button to bring up the prompt for a passcode. Users 
+attempting to activate the iPhone 7 within a see-through bag or sports armband 
+will have to remove the smartphone to do so.
+
+The home button also functions as an integral part of the mechanics of iOS 
+returning users to the homescreen. Without use of the home button, users can 
+use the 3D touch press and drag from the left-hand side of the phone to access 
+the recently used apps and select the homescreen, which works perfectly fine 
+with touchscreen gloves, but is difficult to perform within a see through case 
+that covers the screen.
+
+Some users have reported 
+<https://twitter.com/carlhancock/status/776937439306846209> that some 
+touchscreen-capable gloves were able to activate the home button, but the 
+majority appear not to work.
+
+ * iPhone 7 review roundup: how big a problem is the absent headphone jack? 
+<https://www.theguardian.com/technology/2016/sep/13/iphone-7-review-roundup-headphone-jack> 

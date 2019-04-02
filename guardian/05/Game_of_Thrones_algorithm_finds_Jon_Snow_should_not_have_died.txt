@@ -1,0 +1,94 @@
+
+ * Spoiler alert! This story is about people being killed off in Game of 
+Thrones 
+It is 2016, and nothing can escape data analysis. Not even Game of Thrones 
+<https://www.theguardian.com/tv-and-radio/game-of-thrones>.
+
+Students at the Technical University of Munich have applied their skills to 
+helping us understand the likelihood of a character’s death over the course of 
+Game of Thrones, the sixth series of which begins on 24 April.
+
+Their project A Song of Ice and Data <https://got.show/> analyses as much 
+online data as it can find about both the book and the TV series, regularly 
+scraping and updating information from the vast, fan-basedWiki of Ice and Fire 
+<http://awoiaf.westeros.org/index.php/Main_Page>, the Game of Thrones wiki 
+<http://gameofthrones.wikia.com/wiki/Game_of_Thrones_Wiki>, Wikipedia and 
+Twitter. The algorithm categorized each character by more than 20 features 
+including age, title, gender, number of dead relations and their popularity, 
+based on incoming and outgoing links on the Wiki of Ice and Fire.
+
+There are 2,028 characters in the full Game of Thrones world, typically with 
+more than 30 characters in each episode of the TV show and more than twice the 
+number of male characters than female.
+
+Men are more likely to play noble characters, whereas women are more likely to 
+play peasants – but are are also less likely to be killed off. The Munich team 
+said they had developed a machine-learning algorithm to predict the likelihood 
+of death for characters, and found it is 33% for men and 23% for women.
+
+
+Encyclopaedia Westerosa: the biggest Game of Thrones mysteries, solved
+ Read more  
+<https://www.theguardian.com/tv-and-radio/2016/apr/15/game-of-thrones-season-six-biggest-mysteries-solved>
+They extended the analysis to the age of characters killed, which only really 
+tails off at the age of 70 and is most likely between 31 and 40. Identifying 
+various other predictors of risks, the tool could then predict which characters 
+were most likely to be, perhaps quite literally, axed. And some have already 
+been axed, not least the beautiful Jon Snow who – and maybe we didn’t need data 
+to tell us this – suffered an unexpected death. He didn’t deserve to die!
+
+
+Among the findings, ordered by likelihood of death:
+
+Tommen Baratheon - 97%
+
+
+The boy king currently sitting on the Iron Throne looking slightly vulnerable 
+and very easy to kill.
+
+
+Stannis Baratheon - 96%
+
+
+The wannabe king who murdered his own daughter in his desperation to make it 
+to the throne. Not a very nice man, and actually already dead. And deservedly 
+so.
+
+
+Daenerys Targaryen - 95%
+
+
+Queen of the Andals and the Rhoynar and the First Men, Khaleesi of the Great 
+Grass Sea, Breaker of Shackles/Chains, Queen of Meereen, Lady Regnant of the 
+Seven Kingdoms, Mother of Dragons. (Friends call herDany 
+<https://www.got.show/characters/Daenerys%20Targaryen>.) 
+
+Davos Seaworth - 91%
+
+
+Former smuggler and Stannis’s right hand man. It might be a shame to kill off 
+Davos <https://www.got.show/characters/Davos%20Seaworth>, as he’s been doing so 
+well with his reading homework.
+
+Petyr Baelish - 91%
+
+
+Snakey Petyr Bealish <https://www.got.show/characters/Petyr%20Baelish> is a 
+master spy whose ruthless ambition has earned him many enemies. Also his accent 
+has changed quite a lot, so maybe kill him off for that?
+
+
+And as for Jon Snow?
+
+
+Please oh please Lord of Light – could Jon Snow be, like, not dead? Let’s 
+cling to the hope that producers may have acknowledged his popularity on 
+Twitter, which showed ahuge spike of outrage 
+<https://www.got.show/characters/Jon%20Snow> on the night his death was 
+broadcast.
+
+And there is computer-determined reason why, it says here, because their 
+system has determined he only had an 11% likelihood of death. What were they 
+thinking?!
+
+ 

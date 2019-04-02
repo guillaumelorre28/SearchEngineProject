@@ -1,0 +1,105 @@
+
+When Pam Horan, President of the Online Publishers Association (OPA), wrote in 
+December 2012 that"programmatic buying does not build brands" 
+<http://digiday.com/publishers/programmatic-buying-doesnt-build-brands/>, few 
+would have disagreed. Today, times have changed as big data, programmatic 
+buying and real-time bidding have collectively paved the way for a new 
+generation of brand opportunities online.
+
+Recognising the growing shift in buying trends from single-site buys to RTB, 
+many of the traditionally "exclusive" publishers are putting their inventory up 
+for auction, allowing all parties to benefit. The resultant platform is 
+sophisticated, universal and creates opportunities for all involved: buyers can 
+now easily purchase across premium siteswithout juggling multiple publisher 
+orders 
+<http://www.adexchanger.com/data-driven-thinking/why-private-exchanges-can-be-more-than-just-a-publisher-tool/>
+, while the advertiser benefits from myriad targeting and optimisation.
+
+Display has historically been associated, paradoxically, with poor 
+viewability. Ads bought programmatically result inaround 54% "out-of-view" 
+impressions 
+<https://www.comscore.com/Insights/Blog/Viewability_Benchmarks_Show_Many_Ads_Are_Not_In-View_but_Rates_Vary_by_Publisher>
+, so it is little wonder that brand marketers gravitated toward big-name 
+publications on and offline. But this is changing.
+
+With the Internet Advertising 
+<https://www.theguardian.com/media-network/advertising> Bureau (IAB) announcing 
+new trading standards for viewability, there is more pressure than ever for 
+networks, supply side platforms (SSPs) and publishers to give advertisers what 
+they want: guaranteed viewable ads. And it is the ability to trade on 
+viewability that makes this possible.
+
+So how can marketers run a successful RTB brand campaign?
+
+1. Reach
+RTB gives brand advertisers access to millions of users instantly across both 
+private and public ad exchanges – there are no restrictions on how many unique 
+users you can reach when buying individual sites.
+
+2. Targeting
+How do you know you're targeting the right people? Uniquely, RTB permits 
+trading on an impression-by-impression basis rather than the traditional cost 
+per mille (CPM), which minimises wastage considerably. Using a partner with the 
+right technology allows you to achieve a tightly targeted campaign with access 
+to any of these parameters:
+
+• Demographics: comScore <http://www.comscore.com/> and others have brought 
+offline data to the web, enabling marketers to target by gender, age, household 
+income and social grade.
+• Interest: audience interest profiles are key to identifying target users, 
+choosing a provider with proprietary data on a large majority of your core 
+market(s) is crucial.
+• Location: geo-location can be vital for some advertisers – targeting to 
+postcode level with companies such asDigital Element 
+<http://www.digitalelement.com/> promises up to 95% accuracy.
+• Psychographic: many suppliers offer a range of psychographic data enabling 
+you to reach your core audience using traditional offline definitions.
+
+3. Creative
+Ads that have impact and can be bought at scale are key – formats that are 
+readily available through exchanges are ideal as they give the greatest reach.
+
+Non-expanding IAB-standard rich media creative offers maximum reach and 
+targeting while the video element ups the ante in the engagement stakes. 
+Utilising converted TV campaigns for web ads can create effective and cohesive 
+campaigns, while expanding rich media can be used for ultimate interactivity 
+and user engagement. Whatever format you choose, build in HTML5 to get full 
+functionality on tablets and mobile too – these account for a huge proportion 
+of your audience.
+
+4. Inventory quality
+As revealed earlier, the accessibility of premium inventory is on the up. 
+Publishers want to cash in on the RTB exchange, and that's great news for brand 
+advertisers.
+
+With an ocean of inventory available, good content verification will pay 
+dividends. Look for these capabilities from your provider: URL visibility, 
+brand safety, viewability and media quality.
+
+5. Viewability
+"A viewable ad is a unit that is 50% viewable, for one second." (IAB 
+<http://www.iabuk.net/about/press/archive/iab-lifts-advisory-against-trading-on-viewable-impressions-for-display>
+). With new approved trading guidelines, the IAB has paved the way for a new 
+currency for brands advertising online: CPV (cost per view). This metric allows 
+branding campaigns to be bought on the "opportunity to see" – just like 
+traditional branding ads on TV.
+
+To summarise, real time branding, executed well, is a brand campaign unlike 
+any other. Not confined to the pokey corridors of fixed site lists, this new 
+breed of advertising allows brands to spread their wings without fear of 
+injury. It allows them to navigate safely and quickly to the right person, in 
+the right place, at the right time – with increasing efficiency, something to 
+which no individual publisher can ever lay claim.
+
+Sophia Savitsky is senior client services executive at Crimtan 
+<http://crimtan.com/>. You can follow on Twitter @Crimtan 
+<https://twitter.com/Crimtan>.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media Network content is editorially independent except for 
+pieces labelled 'Advertisement feature'. Find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

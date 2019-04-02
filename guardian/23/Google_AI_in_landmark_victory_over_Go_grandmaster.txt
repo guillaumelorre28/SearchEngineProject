@@ -1,0 +1,116 @@
+
+When Gary Kasparov lost to chess computer Deep Blue in 1997 
+<https://www.theguardian.com/theguardian/2011/may/12/deep-blue-beats-kasparov-1997>
+, IBM marked a milestone in the history of artificial intelligence. On 
+Wednesday,in a research paper released in Nature 
+<http://press.nature.com/?post_type=press_release&p=36195>, Google earned its 
+own position in the history books, with the announcement that its subsidiary 
+DeepMind has built a system capable of beating the best human players in the 
+world at the east Asian board game Go.
+
+Go, a game that involves placing black or white tiles on a 19x19 board and 
+trying to remove your opponents’, is far more difficult for a computer to 
+master than a game such as chess.
+
+DeepMind’s software, AlphaGo, successfully beat the three-time European Go 
+champion Fan Hui 5–0 in a series of games at the company’s headquarters in 
+King’s Cross last October. Dr Tanguy Chouard, a senior editor at Nature who 
+attended the matches as part of the review process, described the victory as 
+“really chilling to watch”.
+
+“It was one of the most exciting moments of my career,” he added. “But with 
+the usual mixed feelings … in the quiet room downstairs, one couldn’t help but 
+root for the poor human being beaten.”
+
+It’s the first such victory for a computer program, and it came a decade 
+before anyone expected it.As recently as 2014 
+<http://www.wired.com/2014/05/the-world-of-computer-go/>, Rémi Coulom, 
+developer of the previous leading Go game AI, Crazy Stone, had predicted that 
+it would take 10 more years for a machine to win against a top-rated human 
+player without a handicap.
+
+AlphaGo beat all expectations by approaching the challenge in a completely 
+different way from previous software. Building on techniques DeepMind had 
+employed in other feats of artificial intelligence, such asits system that 
+could learn to play retro video games 
+<https://www.theguardian.com/technology/2015/feb/25/google-develops-computer-program-capable-of-learning-tasks-independently>
+, AlphaGo used what the company calls “Deep Learning” to build up its own 
+understanding of the game. It could then pick the moves it thought most likely 
+to win.
+
+When teaching a computer to play a game, the simplest method is to tell it to 
+rank every possible move over the course of the game, from best to worst, and 
+then instruct it to always pick the best move. That sort of strategy works for 
+trivial games such as draughts and noughts and crosses, which have both been 
+“solved” by computers that have fully examined every board state and worked out 
+a way to play to at least a draw, no matter what the other player does.
+
+However, for complex games such as Chess, the simple approach fails. Chess is 
+just too big: in each turn there are approximately 35 legal moves, and a game 
+lasts for around 80 turns. Enumerating every board position becomes 
+computationally impossible very quickly, which is why it took so many years for 
+IBM’s team to work out a way to beat Kasparov.
+
+Go is bigger still. The definition of easy to learn, hard to master, it 
+essentially has just two rules governing the core play, which involves two 
+players alternately placing black and white tiles on a 19x19 board. The stones 
+must be placed with at least one empty space next to it, or part of a group of 
+stones of the same colour with at least one empty space, and if they lose their 
+“liberty”, they are removed from the board.
+
+While a game of chess might have 35 legal moves each turn, a game of Go has 
+around 250 (including 361 legal starting positions alone); where Chess games 
+last around 80 turns, Go games last 150. IfGoogle 
+<https://www.theguardian.com/technology/google> had tried to solve the game in 
+the same way noughts and crosses was solved, it would have had to examine and 
+rank an obscene amount of possible positions: in the ballpark of 
+1,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000 
+of them.
+
+That renders an exhaustive search impossible, and even a selective search, of 
+the style used by Deep Blue to defeat Kasparov, tricky to run efficiently.
+
+Adding to the woes of those trying to master Go is the fact that, unlike 
+chess, it’s very difficult to look at the board and mathematically determine 
+who is winning. In chess, a player with their queen will probably beat a player 
+whose queen has been taken, and so on: it’s possible to assign values to those 
+pieces, and come up with a running score that roughly ranks each player’s 
+prospects. In Go, by contrast, counters are rarely removed from the board, and 
+there’s no simple mathematical way to determine who is in the stronger position 
+until the game is very far progressed.
+
+So AlphaGo focused on a very different strategy. As David Silver, DeepMind’s 
+co-lead researcher on the project, puts it: “AlphaGo looks ahead by playing out 
+the rest of the game in its imagination, many times over.” The program involves 
+two neural networks, software that mimics the structure of the human brain to 
+aggregate very simple decisions into complex choices, running in parallel.
+
+One, the policy network, was trained by observing millions of boards of Go 
+uploaded to an online archive. Using those observations, it built up a 
+predictive model of where it expected the next piece to be played, given 
+knowledge of the board and all previous positions, that could accurately guess 
+the next move of an expert player 57% of the time (compared to a previous 
+record of 44.4% from other groups).
+
+This “supervised learning” was then backed up by a bout of “reinforcement 
+learning”: the network was set to play against itself, learning from its 
+victories and losses as it carried out more than 1m individual games over the 
+course of a day.
+
+The policy network was capable of predicting the probability that any given 
+move would be played as next, but the system also needed a second filter to 
+help it select which of those moves was the best. That network, the “value 
+network”, predicts the winner of the game given each particular board state.
+
+Building AlphaGo isn’t just important as a feather in DeepMind’s cap. The 
+company argues that perfecting deep learning techniques such as this are 
+crucial for its future work. Demis Hassabis, DeepMind’s founder, says that 
+“ultimately we want to apply these techniques in important real-world problems, 
+from medical diagnostics to climate modelling”.
+
+For now, the DeepMind team is focused on one final goal on the Go board: a 
+match against Lee Se-dol, the world champion. Lee says that “regardless of the 
+result, it will be a meaningful event in thebaduk (the Korean name for Go) 
+history. I heard Google DeepMind’s AI is surprisingly strong and getting 
+stronger, but I am confident that I can win at least this time.”
+ 

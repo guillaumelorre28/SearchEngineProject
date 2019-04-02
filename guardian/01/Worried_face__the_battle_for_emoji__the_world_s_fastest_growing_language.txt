@@ -1,0 +1,137 @@
+
+Had Shigetaka Kurita 
+<https://www.theguardian.com/technology/2015/nov/17/crying-with-laughter-how-we-learned-how-to-speak-emoji>
+ realised when he sat down to design the first emoji that he was laying the 
+foundation for what would become the world’s fastest-growing form of 
+communication, he might have chosen his icons a little more carefully. Kurita’s 
+original 176 designs, which launched in February 1999 for Japanese mobile 
+phones, were weirdly specific, including no fewer than five phases of the moon, 
+three timepieces (watch, clock, sand-timer) and two states of umbrella (open, 
+closed).
+ Shigetaka Kurita, the inventor of emojis 
+Unmoderated by any panel, Kurita’s choices reflected his priorities and 
+predilections, producing a singular suite of icons that, against the odds, 
+proved universally handy. Today, there are now more than 1,800 emojis, which 
+are estimated to be used by more than 90% of the world’s online population. As 
+Satoe Haile, an emoji designer at Google, puts it, these pictograms 
+“communicate beyond language”, transcending tongues and borders.
+
+For some, these “brainless little icons” (as Guardian art critic Jonathan 
+Jones described them last year 
+<https://www.theguardian.com/artanddesign/jonathanjonesblog/2015/may/27/emoji-language-dragging-us-back-to-the-dark-ages-yellow-smiley-face>
+) represent not an adjunct but a regression for our species. Their precursor, 
+hieroglyphics, Jones argues, never produced an Iliad or an Odyssey because, put 
+simply, the written word is infinitely more adaptable. But, for most, emojis 
+offer not a substitute for the written word, but a complement, lending brevity 
+or wit, irony or joy, to a text message.
+
+The people who use emojis are certainly proving detractors wrong, at least in 
+terms of the form’s adaptability. For example, denied a pictorial penis, 
+millions have come to rely on the aubergine emoji – purple, engorged, topped 
+with a pubic shock of green leaves. This abusage is now so widespread that, in 
+2015, Instagram banned search results for photographs tagged with an aubergine 
+emoji, fearing it could be used as a signifier of nudity. The double meaning 
+was formalised last month when an American woman launched a vibrator made in 
+the eggplant’s image. (Be thankful, perhaps, that the hive mind settled on the 
+vegetable as a genital stand-in, rather than the umbrella, in either state.)
+
+The emoji’s success has attracted scrutiny. Just as English has adapted to 
+remove signifiers of sex in professions – hoping to make obsolete words such as 
+“actress” and “male nurse”, terms coined at a time when certain occupations 
+were dominated by one gender – sothe custodians of emojis are having to adapt 
+<https://www.theguardian.com/technology/2016/may/10/female-emojis-google-equality>
+ to compensate for Silicon Valley’s bias.
+
+Emoji is dragging us back to the dark ages – and all we can do is smile
+ Read more  
+<https://www.theguardian.com/artanddesign/jonathanjonesblog/2015/may/27/emoji-language-dragging-us-back-to-the-dark-ages-yellow-smiley-face>
+In 2015 Unicode <http://unicode.org/emoji/>, the California-based consortium 
+that standardises the use of these pictographs across the internet, added 
+modifiers to enable us to alter the skin tone of our emoji (according to the 
+Fitzpatrick Scale for humans, no less). A forthcoming update will add scores of 
+gender-swap icons for existing professions, including a third, androgynous 
+option. In this way, emojis present a rare opportunity. Many words smuggle 
+quiet atrocities at an etymological level. Women who cannot have children are 
+known as “barren”. Disabled children are known as “invalids”. Pictorial writing 
+systems are no different. The Japanesekanji 
+<https://www.theguardian.com/world/2016/feb/18/japanese-tourists-cat-lucky-eyebrows-hachi>
+ for “noisy”, for example, consists of three kanji for “women” squished 
+together. The kanji for “wife” is comprised of the symbols for “house” and 
+“inside”.
+
+When sexism is entangled with language at such an elemental level, reforging 
+words takes a great deal of time and education. Emojis work differently. 
+Unicode assigns an object a numerical text code, to which companies add a 
+relevant image according to their whim or aesthetic. “U+1F63B”, for example, is 
+the code for “SMILING CAT FACE WITH HEART-SHAPED EYES”. Apple interprets this 
+as a yellow cat with its mouth agape.Android 
+<https://www.theguardian.com/technology/android> translates the arcane script 
+into a black cat with its mouth closed. Fixing problematic imagery, therefore, 
+is as easy as redrawing the image associated with the code.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Fsep%2F06%2Femojis-shigetaka-kurita-mark-davis-coding-language%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F28d8b90637a4335daecc05b9d5c3a5839f34f786%2F453_0_1663_2079%2F1663.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Worried%20face%3A%20the%20battle%20for%20emoji%2C%20the%20world's%20fastest-growing%20language&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Fsep%2F06%2Femojis-shigetaka-kurita-mark-davis-coding-language%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Worried%20face%3A%20the%20battle%20for%20emoji%2C%20the%20world%27s%20fastest-growing%20language&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Fsep%2F06%2Femojis-shigetaka-kurita-mark-davis-coding-language%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F28d8b90637a4335daecc05b9d5c3a5839f34f786%2F453_0_1663_2079%2F1663.jpg>
+ Google’s Mark Davis. Photograph: Alamy 
+Mark Davis, who is 63 and works at Google, helped originate Unicode in the 
+late 80s while working at Apple in Japan, where he was trying to find a way to 
+encode kanji so they would display correctly across computers and operating 
+systems. His elegant solution of assigning images to immovable codes proved 
+popular. Today, every operating system, laptop, smartphone and even the 
+internet itself is based on Unicode. For its first decade, the Unicode 
+Consortium, which is made up of unpaid volunteers, many of whom work atApple 
+<https://www.theguardian.com/technology/apple>, Google and other tech giants, 
+dealt principally with characters unique to specific written languages, 
+current, classical and historical. The latest version of Unicode contains more 
+than 128,000 characters covering 135 modern and historic scripts, and emojis 
+are accounting for a greater number of additions every year.
+
+
+New emojis can be proposed <http://unicode.org/emoji/selection.html> by 
+companies, such asDurex condoms 
+<http://www.techinsider.io/durexs-condom-emoji-for-safe-sex-2015-11>, and by 
+private citizens <http://www.buzzfeed.com/charliewarzel/there-will-be-dumplings>
+. Additions cannot be bought, but are rather considered by an impartial panel, 
+which votes on their inclusion based on a variety of factors including 
+distinctiveness (is there really a need for “stew” when we already have 
+“soup”?), whether it feels a meaningful gap in the vocabulary and the emoji’s 
+expected levels of usage (a microphone versus a gramophone, for example).
+
+While less than one percent of the 7,500 characters added to the latest 
+version this summer are emoji, some argue that too much effort is being 
+directed at the script.
+
+Instagram ban on emoji has sexters searching for fruity alternatives
+ Read more  
+<https://www.theguardian.com/technology/2015/apr/29/instagram-ban-eggplant-emoji-sexters-fruity-alternatives>
+For Everson, this focus has distracted effort and resources away from minority 
+and historical writing systems, such as medieval Cornish. However, Mark Davis, 
+president and co-founder of the Unicode Consortium, denies this is the case. 
+“Emoji is still only a small part of what we do,” he says, pointing out that 
+the attention emojis have brought has helped the consortium to further its 
+goals for support of languages by allowing people to “Adopt a Character” for 
+between $100 and $5,000 to raise money.
+
+“There’s certainly an impression that new emojis get approved faster than 
+writing system proposals or additional characters for historical scripts,” says 
+John Hudson, another prominent typographer within Unicode. For Hudson, this is 
+partly due to the fact that the questions that arise from emoji use are 
+relatively straightforward (“Is the dumpling emoji just for East Asian 
+dumplings, or can it be used forperogies <https://en.wikipedia.org/wiki/Pierogi>
+?”) while historical languages require experts, who often disagree on finer 
+points.
+
+A greater issue, according to Hudson, and one that will deepen as the script 
+continues to grow in popularity, is the use of Unicode to handle emojis in the 
+first place. “It was the wrong technical solution,” he says. “The set of little 
+pictures that people might want to send between mobile devices is boundless; 
+therefore, it needs a technology that is endlessly extensible, which Unicode is 
+not.” In other words, if emoji continues to evolve at its current rate, Hudson 
+believes that will need much more flexible technology, capable of sending 
+images between devices in a more efficient and flexible way. Davis, 
+understandably perhaps, disagrees – although he won’t be drawn on the question 
+of emoji’s future. “It’s very hard to say,” he wrote. “I don’t have a U+1F52E.” 
+That’s emoji code for a crystal ball.
+ 

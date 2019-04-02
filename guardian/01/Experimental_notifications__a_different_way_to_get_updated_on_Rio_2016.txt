@@ -1,0 +1,42 @@
+
+Throughout the Rio 2016 Olympic Games, the Guardian Mobile Innovation Lab 
+<https://medium.com/the-guardian-mobile-innovation-lab> is sending experimental 
+web notifications to users of Android devices who sign up and have a Chrome 
+browser installed on their phones.
+
+These alerts will supplement (but not replace) the alerts sent from The 
+Guardian’sAndroid <https://www.theguardian.com/technology/android> app, and 
+will arrive at different times and frequencies.
+
+
+We’re sending four types: 
+
+A Daily leaderboard: These notifications will arrive around 11:30 EST after 
+the close of each day’s competition, and show the top three countries in the 
+standings with their total number of gold, silver, and bronze medals won. Don’t 
+worry about these waking you up: we’ve set them so they will not make noise or 
+vibrate.
+
+
+Real-time medal alerts: We’ll send real-time updates when countries of your 
+choosing win gold, silver, or bronze. Important: The outcome of theRio 2016 
+<https://www.theguardian.com/sport/rio-2016> Games is anyone’s guess, so we 
+can’t say just when or how often you’ll receive notifications. Also be aware 
+that these alerts may contain spoilers!
+
+Morale meter: We’ll send notifications either just before, or during select 
+big events to poll people about who they’re rooting for or who they think will 
+win.
+
+Olympics quizzes: We’ll send a handful of quiz notifications to test your 
+knowledge. We’ll track your score and let you know how you ranked against other 
+quiz takers.
+
+Want to sign up? Web notifications are currently only available on Chrome on 
+Android devices. If you have an Android mobile phone (Samsung, included!), open 
+this page in a Chrome browser and sign up belowor here 
+<https://www.gdnmobilelab.com/olympics/>.
+
+Questions, suggestions or observations? Drop us a note: 
+innovationlab@theguardian.com
+ 

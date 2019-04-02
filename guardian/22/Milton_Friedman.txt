@@ -1,0 +1,187 @@
+ Milton Friedman, who has died aged 94, was one of the greatest economists of 
+all time. He may come to be included in the same category of pre-eminent 
+figures as Adam Smith, Ricardo, Marx and John Maynard Keynes. When he began his 
+main work, while professor at Chicago University in the 1950s and 60s, 
+Keynesian orthodoxy dominated almost all academic macro-economics, and much of 
+public policy in this field. By the time Friedman's project was mostly 
+complete, in the 1970s and 80s - with a Nobel prize in 1976 - that orthodoxy 
+had been shattered.
+His preferred alternative, that monetary policy should be subject to rules 
+designed to achieve price stability, had largely replaced the earlier Keynesian 
+proposals, which used demand management, mostly in the form of fiscal policy, 
+to aim for that level of unemployment which would offer the best trade-off 
+between inflation and unemployment. Friedman was one of the first to show that 
+that trade-off was illusory.
+
+It had been a hopeful illusion. For a brief period in the 1950s and 60s, it 
+had seemed that the use of Keynesian theory, operating in the context of 
+macro-economic models that had sprung up under the influence of national income 
+statistics and computer technology, would allow economists to guide politicians 
+to steer the economy optimally via discretionary intervention. Friedman 
+instinctively took the view that government intervention was more likely to do 
+harm than good, and that the most government could do was to set an appropriate 
+structure of rules - especially the rule of law - and leave the rest to 
+competition and the freedom of the individual to choose in a system of free 
+markets.
+
+Ironically, one of his earlier studies, and perhaps his finest econometric 
+contribution, removed a perceived threat to the maintenance of Keynesian full 
+employment. In Keynes' model, saving was a positive function of income, and, 
+from both cross-section studies and casual empiricism, it was obvious that the 
+savings ratio rose as income increased. But this suggested that as national 
+incomes rose, the savings ratio would rise inexorably, making it more and more 
+difficult to generate matching investment, and leading eventually to potential 
+stagnation. But the long-term time series data of the savings ratio showed no 
+such tendency to rise.
+
+Friedman reconciled these facts in A Theory of the Consumption Function 
+(1957), by showing that income distribution was much influenced by temporary 
+fluctuations in income, for example whether one was at the highest level of 
+earnings in one's life cycle, or alternatively retired. People would naturally 
+save a large proportion of temporary high incomes to be consumed later, when 
+income might be temporarily low. The distinction between temporary and 
+permanent economic conditions has since remained one of the main concepts in 
+macroeconomics.
+
+Friedman was not, however, an outstanding technician; he was relatively 
+sparing in his use of mathematical models, and towards the end his use of 
+econometrics ran into criticism. Nor was he primarily a historian. Yet, with 
+his colleague Anna Schwartz, he wrote the finest ever book on economic history, 
+A Monetary History of the United States, 1867-1960, published in 1963. Schwartz 
+was a stickler for historical detail, which, combined with Friedman's vision of 
+a unifying structure for tracing the effects of monetary developments on the 
+economy, led to an entertaining work that changed our view of how the 
+macroeconomy worked.
+
+Before it, most people had ascribed the great depression to the 1929 Wall 
+Street crash and/or to real factors such as a sharp drop in consumption. 
+Friedman and Schwartz made a convincing case that it was inept monetary 
+management by the Federal Reserve Bank that was the main culprit. Similarly, 
+other major economic shocks, such as the US crises of 1893, 1907 and 1919, and 
+the post-second world war inflation, were primarily monetary in causation and 
+character.
+
+But his greatest achievement was to show why government intervention to try to 
+set output and employment at a higher level than would happen naturally was 
+ultimately self-defeating and damaging. In the macro-models of the time, 
+Keynesian demand-side equations had been supplemented by a supply-side 
+equation, the Phillips curve, linking nominal wage and price increases to the 
+level of unemployment (the lower unemployment, the higher inflation); and 
+economists and politicians sought to set the unemployment level so as to 
+achieve their preferred combination of output and inflation.
+
+In his 1967 presidential address to the American Economic Association, on The 
+Role of Monetary Policy, Friedman noted that economic agents, wage earners, 
+firm managers, etc, were primarily concerned with real incomes and real 
+profits, not just nominal outcomes. Because contracts are set in nominal terms, 
+they would agree to a nominal wage, or set a price, which conditional on their 
+expectations of future inflation, would get them their desired real outcome. So 
+the short-run Phillips curve was conditioned on agents' inflationary 
+expectations. If the government then used this (short-run) relationship to try 
+to achieve a lower unemployment/higher inflation outcome than private sector 
+agents had been expecting as the norm, then, after some lag, expectations would 
+adjust upwards. So long as governments insisted on keeping unemployment below 
+its natural rate, actual and expected inflation would chase each other upwards 
+in an unending vicious spiral.
+
+This was, indeed, what seemed to be happening in the 1970s, the decade which 
+brought the optimism about controlled economic expansion to a shuddering halt. 
+It was in this period that "monetarism" as an approach - and Friedman as its 
+leading exponent - were at their most influential. Country after country, 
+including a somewhat reluctant British Labour government in 1976, embraced 
+monetary targets and renounced the belief in an ability to spend their way out 
+of difficulty.
+
+Whereas Friedman had done a devastating job in dismantling what became known 
+as "naive Keynesianism" (in contrast to the various strands of new Keynesianism 
+that reformulated the analysis), his positive proposals have been less 
+successful. He had earlier reinterpreted the demand for money as an exercise in 
+portfolio choice, for example in his paper, The Quantity Theory of Money - A 
+Restatement, in the book of essays Studies in the Quantity Theory of Money 
+(1956), which he edited; though this was not, in reality, that much of a break 
+with Keynesian ideas. Anyhow, Friedman believed that the demand for money would 
+be a predictable function of a few variables, and that that functional 
+relationship would remain stable over time; indeed, early econometric work in 
+the 1960s suggested that this might be so - though Friedman's empirical 
+studies, for example his article on The Demand for Money, in the Journal of 
+Political Economy (1959), again ran into econometric criticism.
+
+On that basis, Friedman argued, in A Program for Monetary Stability (1960), 
+that the rate of growth of money should be kept constant. Even if there were 
+some unpredictable fluctuations in the demand for money, the resulting 
+disturbances to nominal incomes would be much less, he believed, than would 
+result from attempts at discretionary management by central banks. As a natural 
+liberal, Friedman tended to doubt whether the powerful could be trusted to 
+increase the welfare of the people.
+
+Perhaps more importantly, he demonstrated in The Effects of a Full-Employment 
+Policy on Economic Stability: A Formal Analysis, in Essays in Positive 
+Economics (1953), that, in order to enhance welfare, the authorities had to be 
+able to predict events with significantly more than 50% accuracy. Given the 
+difficulty of forecasting, and the "long and variable lags", as described in 
+The Lag in Effect of Monetary Policy, in The Optimum Quantity of Money and 
+Other Essays (1969), between adjusting monetary instruments and their effect on 
+the economy, the likelihood that intervention, even if undertaken with the 
+purest motives, would prove beneficial was slim.
+
+In his advocacy for this regime change - to bring about a shift from 
+discretion to a rule for monetary growth - he was conspicuously unsuccessful. 
+Demand for money functions, which had previously seemed stable, commonly broke 
+down once used as an intermediate monetary target. Alternative definitions of 
+the money stock often pointed in different directions, causing "broad-money" 
+monetarists to argue with "narrow-money" monetarists. While central bankers in 
+the 1970s and early 80s termed themselves "pragmatic monetarists", they 
+remained determined to conduct monetary policy by discretionary variations in 
+short-term interest rates.
+
+Friedman refused to get caught up in a discussion of which monetary aggregate 
+was in some normative sense the best one to use. His methodology, outlined in 
+The Methodology of Positive Economics in Essays in Positive Economics (1953), 
+was that you should use the method that works best, that best explains and 
+predicts final outcomes in terms of the most parsimonious set of explanatory 
+variables.
+
+This approach also was controversial. But it was a dangerous exercise to argue 
+a point with him. He was a brilliant and incisive debater, and his skill in 
+argument was phenomenal. Along with George Stigler, he led intellectual 
+discussion among economists at Chicago. It was, perhaps, in his application of 
+logic to macroeconomic analysis that he was supreme. His command over detailed 
+fact was, however, occasionally less sure than his analytical ability, as 
+evidenced, for example, by his claim that Japan was an example of a liberal 
+economy. He was also a naturally kind and approachable person, of small stature 
+- a bit like a genial gnome - and he was prepared to change his mind when 
+convinced.
+
+He believed that government intervention did harm, and that the best economy 
+would be a liberal free-market economy, as expressed vibrantly in Capitalism 
+and Freedom (1962). In his more political writing on this topic, he was much 
+helped by his wife, Rose, who wrote both Free to Choose (1980) and Tyranny of 
+the Status Quo (1984) with him. They had a long and devoted marriage; they 
+supported each other and took great joy in being together.
+
+Friedman was born in Brooklyn. Although his name will always be connected with 
+Chicago, he gained his BA at Rutgers University, New Jersey, in 1932 and his 
+PhD from Columbia University, New York, in 1946, though he did receive an MA at 
+Chicago in 1933. Between 1933 and 1941 he worked on research at the US national 
+resources committee and the national bureau of economic research. During the 
+second world war, he worked first for the treasury and then for the division of 
+war research at Columbia. But it was at Chicago, where he returned as professor 
+of economics in 1948 and stayed till 1983, that he became an outstanding figure.
+
+He found in the economics department a congenial atmosphere, with a tradition 
+of a preference for rules over discretion, and a liberal distrust for 
+government intervention. Henry Simons and Lloyd Mints directly, and Frank 
+Knight and Jacob Viner at one remove, had continued to base their 
+macro-monetary analysis on the quantity theory of money, in contrast to the 
+IS/LM Keynes/Hicks model. While at Chicago, he found and encouraged a 
+pre-eminent group of colleagues, of whom perhaps Stigler was the other greatest 
+star, with more Chicago economists receiving Nobel prizes than from any other 
+centre.
+
+After retiring from Chicago, Friedman moved to the Hoover Institute in 
+California, where he continued to work, travel and teach almost up to his 
+death, though he always took a summer break in his beloved holiday home in New 
+England. He is survived by Rose, and his son and daughter.
+
+· Milton Friedman, economist, born July 31 1912; died November 16 2006
+ 

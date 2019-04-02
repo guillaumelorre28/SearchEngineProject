@@ -1,0 +1,88 @@
+
+How do you decide between the CoPilot app 
+<http://www.wired.co.uk/news/archive/2015-02/23/london-air-ambulance-app>, 
+which reduces the time taken for London Air Ambulance’s pilots to be dispatched 
+to emergencies by two minutes, aportal and app <https://dontbottleitup.org.uk/> 
+helping people to work out if their drinking is risky and to get instant online 
+help, and theBuddy app <https://www.buddyapp.co.uk/>, a digital service helping 
+mental health patients stick with their treatment?
+
+That was my unenviable task recently as a judge of the Tech4Good awards. For 
+me, however, there were three standout winners. StartupOpen Bionics 
+<http://www.openbionics.com/> has developed 3D printed bionic hands, which can 
+be created in five days for £1,000 – far cheaper than the traditional 
+£20,000-£80,000 price tag and half the weight, yet with a similar range of 
+movement. It offers an affordable prosthetic to the millions of hand amputees 
+worldwide who use a hook, or nothing at all.
+
+The awards were announced on Tuesday, and other winners included a group of 
+14-year-old students at Stratford girls’ grammar school who built an app to 
+support teenagers exploring their sexuality and gender. In terms of sheer 
+dedication and going beyond the call of duty as well as technical wizardry,
+Rachael Moat <http://www.rachaelmoat.co.uk/> was a worthy winner of the IT 
+volunteer of the year. Moat, principal clarinettist with Lancashire Chamber 
+Orchestra, is also a music teacher who volunteers atSeashell Trust 
+<http://www.seashelltrust.org.uk/>, a school for children with complex needs 
+and severe learning difficulties, who often have little or no verbal language. 
+Moat realised she could do more for them than play a tune. She programmed aSkoog
+ <http://www.skoogmusic.com/> (a squishy cube) with musical sounds to enable 
+pupils to be active participants in her sessions, and then developed other 
+customised technology for individual pupils. One student doesn’t like touching 
+things or taking instructions and has a restricted diet, but loves music. So by 
+coating a metal bowl inelectric paint 
+<http://www.bareconductive.com/shop/?product_cat=electric-paint>, Moat was able 
+to develop a way for him to experiment with touch and taste. Every time he 
+dunks his hands in the bowl when it is filled with water, custard or spaghetti, 
+itplays music <https://www.youtube.com/watch?v=_8zI8C4BzHg>.
+
+Tech innovations that could improve lives in 2015 | Alison Benjamin
+ Read more  
+<https://www.theguardian.com/society/2015/jan/07/tech-innovations-improve-lives-social-impact>
+Technology with a social purpose seems to be flourishing. Nesta, an innovation 
+charity, has announced the 10 finalists in its firstInclusive Technology prize 
+<http://www.inclusivetechprize.org/news-blogs/congratulations-10-finalists>, 
+the US awards for tech that benefits humanity announces its winners in 
+November, and theNominet Trust 100 <http://socialtech.org.uk/nominet-trust-100/>
+ will open nominations for its 2015 awards in the summer.
+
+Already there are plenty of possible contenders. An app to monitor the health 
+of people with epilepsy is launched on Wednesday. The EpsMon app, a 
+collaboration between the charitySudep Action 
+<https://www.sudep.org/?gclid=CjwKEAjwlPOsBRCWq5_e973PzTgSJACMiEp20jLTtmBaT3Lfw5ObZIRG-ds_SKigw3b4m0dxUAZOLhoChWPw_wcB>
+, engineers at Plymouth University, and Royal Cornwall hospital and Cornwall 
+NHS trust was developed to support adults with epilepsy following cuts to NHS 
+funding for epilepsy monitoring by GPs. It aims to allow them to take better 
+control of their condition and hopes to save lives by giving them a seizure 
+checklist that monitors their risk levels and alerts them when to go to their 
+doctor. Epilepsy is among the top 10 causes of premature death, with at least 
+three epilepsy-related deaths a day. GPs used to be funded to monitor the 
+condition, as recommended by Nice guidelines in 2004, but NHS financing for 
+these annual reviews was cut in 2014.
+
+And last week, an app was launched to help girls and women in the UK at risk 
+of, or living with the consequences of, female genital mutilation 
+<https://www.theguardian.com/society/2015/jul/09/fgm-awareness-web-app-launched-to-inform-girls-at-risk>
+. Over 20,000 girls under the age of 15 are estimated to be at risk of FGM in 
+the UK each year while 66,000 women are living with it. Furthermore, 60,000 
+girls aged 14 and under have been born in England and Wales to mothers who have 
+undergone FGM, and these girls are thought to be at risk.
+
+But for many, digital inclusion remains a pipedream. According to the Office 
+for National Statistics, in May, 27% of disabled adults hadnever used the 
+internet 
+<http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-395602>
+, compared with 7% of non-disabled adults. And last month’s report by the Extra 
+Costs Commission found that part of the reason disabled people typically face 
+£550 in extra living costs is due to the lack of ability of many of them to 
+shop around online. Too many sites are not accessible to those with 
+disabilities.
+
+The government’s digital inclusion strategy is a step in the right direction, 
+but does not mention what it intends to do to force companies to make their 
+websites more accessible. Matthew Hancock, the lead minister for digital 
+inclusion, should look to Norway, where in 2013 the government passedregulations
+ <http://uu.difi.no/english> requiring all new websites to meet minimum 
+accessibility standards by 2014 and all old sites to do so by 2021. The 
+government should be developing apps to make public services accessible to all, 
+not just the tech savvy.
+ 

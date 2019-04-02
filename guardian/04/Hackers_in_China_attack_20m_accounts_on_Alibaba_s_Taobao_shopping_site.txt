@@ -1,0 +1,51 @@
+
+Hackers in China attempted to access more than 20m active accounts on Alibaba 
+<https://www.theguardian.com/business/alibaba> Group Holding Ltd’s Taobao 
+e-commerce website using Alibaba’s own cloud computing service, according to a 
+state media report posted on the internet regulator’s website.
+
+
+Yahoo abandons plan to sell $31bn stake in Chinese e-commerce site Alibaba
+ Read more  
+<https://www.theguardian.com/technology/2015/dec/09/yahoo-abandons-plan-sell-alibaba>
+ Analysts said the report from the Paper led to the price of Alibaba’s 
+US-listed shares falling as much as 3.7% in late Wednesday trade.
+
+ An Alibaba spokesman on Thursday said the company detected the attack in “the 
+first instance”, reminded users to change passwords, and worked closely with 
+the police investigation.
+
+ Chinese companies are grappling with a sharp rise in the number of 
+cyber-attacks, and cybersecurity experts say firms have a long way to go before 
+defences catch up to US counterparts.
+
+ In the latest case, hackers obtained a database of 99m usernames and 
+passwords from a number of websites, according to a separate report on a 
+website managed by the ministry of public security.
+
+ The hackers then used Alibaba’s cloud computing platform to input the details 
+into Taobao. Of the 99m usernames, they found 20.59m were also being used for 
+Taobao accounts, the ministry website said.
+
+ The hackers started inputting the details into Taobao in mid-October and were 
+discovered in November, at which time Alibaba immediately reported the case to 
+police, the ministry website said. The hackers have since been caught, it said.
+
+ Alibaba’s systems discovered and blocked the vast majority of log-in 
+attempts, according to the ministry website.
+
+The hackers used compromised accounts to fake orders on Taobao, a practice 
+known as “brushing” inChina <https://www.theguardian.com/world/china> and used 
+to raise sellers’ rankings, the newspaper said. The hackers also sold accounts 
+to be used for fraud, it said.
+
+ Alibaba’s spokesman said the hackers rented the cloud computing service but 
+declined to comment on security measures designed to stop the system being used 
+for the attack. He said they could have used any such service, and that the 
+attack was not aided by any possible loopholes in Alibaba’s platform.
+
+ “Alibaba’s system was never breached,” the spokesman said.
+
+ The number of accounts, 20.59m, represents about 1 out of every 20 annual 
+active buyers on Alibaba’s China retail marketplaces.
+ 

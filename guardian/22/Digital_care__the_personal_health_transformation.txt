@@ -1,0 +1,179 @@
+
+A century ago Australians counted infectious diseases like pneumonia, 
+influenza and tuberculosis among our common killers.
+
+
+Today, with improved sanitation, housing and vaccination we have one of the 
+highest life expectancies in the world. But it is this same ageing population 
+which means the biggest health challenges we face are increasingly 
+lifestyle-related chronic diseases that have economists tipping medical costs 
+to keep rising by billions every year.
+
+Running alongside this demographic shift, however, is an explosion in 
+connected technologies – known collectively as the “Internet of Things” – which 
+is letting us take greater control over our personal health and help to ease 
+the burden of an ever-stretched system.
+Internet of Things 
+<https://interactive.guim.co.uk/embed/labs/a-healthier-brighter-future/ep7/iot.html>
+It is a world generating millions of data points where sophisticated 
+algorithms are enabling everything from more accurate diagnoses for cancers to 
+predicting when a recovering patient at home is at risk of falling.
+
+“We can actually see changes in the way people are sitting down, standing up, 
+and moving about in their chairs,” Philips Personal Health Solutions CEO 
+Caroline Clarke says. “By interpreting this data in the right way, we can see 
+30 days in advance if someone’s health is deteriorating and is going to be in 
+need for emergency transportation to the hospital.
+
+“Prevention is one of the key trends we are seeing and that’s why we we’ve 
+developed personal health programs to help address these issues.”
+
+
+Clarke, who recently launched the company’s personal health programs, an 
+integrated suite of digital health wearables and secure cloud-based personal 
+motivation and coaching programs, says Australia is at a “tipping point” when 
+it comes to managing our health.
+Caroline Clark 
+<https://interactive.guim.co.uk/embed/labs/2015/aug/27/philips-audio/?layout=audio-left&copyQuote=How%20data%20from%20wearables%20is%20driving%20a%20healthcare%20revolution%20-%20Philips%20Personal%20Health%20Solutions%20CEO%20Caroline%20Clarke%20&audioFileMp3=https://interactive.guim.co.uk/embed/labs/a-healthier-brighter-future/ep7/audio/caroline-clarke.mp3&profileImg=https://interactive.guim.co.uk/embed/labs/a-healthier-brighter-future/ep7/audio/caroline-clarke-square.jpg&profileName=Profile%20Name&showProfileImg=1&showProgress=1&showLoading=1&showIndicator=1&showTimeTotal=1&showTimeSoFar=1&showTimeDivider=1&timeDivider=/&theme=philips>
+She cites a recent report by Deloitte Australia on the healthcare outlook for 
+the nation which projects our healthcare spend to hit $186.3 billion by 2018, 
+up from $172 billion in 2013. But Clarke is confident the merging of 
+professional and consumer healthcare spaces through connected technology will 
+bridge the gap and help us live healthier for longer.
+
+“We see that people are increasingly engaged in their personal health and want 
+solutions that empower them to stay healthy and prevent illness,” she says.
+
+“We will collect and combine the data coming from your personal health 
+measurement devices with clinical data coming from EMRs (electronic medical 
+records) and are combining this with advanced analytics. This will help build 
+new, innovative patient-centric and collaborative models of health management 
+and predictive care.”
+Fall prevention 
+<https://interactive.guim.co.uk/embed/labs/a-healthier-brighter-future/ep7/fall-prevention.html>
+The wearable devices include a wristwatch to monitor heart rates and oxygen 
+levels as well as recording lifestyle factors like how you are eating, sleeping 
+and how active you are. The data is then sent via Bluetooth to a smartphone app 
+which offers personal lifestyle coaching programs specially developed with 
+clinicians and psychologists.
+
+Other monitoring programs help patients move out of the hospital to recover at 
+home faster after medical procedures.
+
+The Deloitte Australia report has identified technologies like these as one 
+way to improve lives for patients and also ease the unsustainable burden on the 
+healthcare system, particularly at pressure points like hospital admissions.
+
+Report contributing author and Deloitte Australia health information 
+technology lead Alan Eckstein says healthcare still lags behind other 
+industries in embracing the digital age, with fax machines still being used to 
+integrate acute facilities with primary care.
+
+“Thankfully in the last couple of years we have seen a lot more interest in 
+investment in information technology,” Eckstein says. “The big focus over the 
+last five years has been increasingly connecting the islands of data that exist 
+across the health sector.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fphilips-healthier-brighter-future%2F2016%2Ffeb%2F10%2Fdigital-care-the-personal-health-transformation%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-1%23img-1&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fac09694094103029ae97a7f72f049b8bfc084bb5%2F0_371_5616_3371%2F5616.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Digital%20care%3A%20the%20personal%20health%20transformation&url=https%3A%2F%2Fwww.theguardian.com%2Fphilips-healthier-brighter-future%2F2016%2Ffeb%2F10%2Fdigital-care-the-personal-health-transformation%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-1%23img-1>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Digital%20care%3A%20the%20personal%20health%20transformation&url=https%3A%2F%2Fwww.theguardian.com%2Fphilips-healthier-brighter-future%2F2016%2Ffeb%2F10%2Fdigital-care-the-personal-health-transformation%3Fpage%3Dwith%3Aimg-1%23img-1&media=https%3A%2F%2Fmedia.guim.co.uk%2Fac09694094103029ae97a7f72f049b8bfc084bb5%2F0_371_5616_3371%2F5616.jpg>
+ Data-driven digital technology can help encourage healthy lifestyles. 
+Photograph: Philips 
+“We are following the path of our colleagues in the US where this information 
+has been increasingly connected and it now allows us to unlock the real value 
+in that data. I predict as we move towards the more data-focused activity we 
+will see a lot more excitement in this space.”
+
+Eckstein says these changes are being driven by increased consumer awareness 
+of personalised care and also a generational shift in the medical community, 
+with younger doctors more ready to embrace connected solutions.
+
+“The emergence of the health consumer basically means that the old ways are 
+not sustainable and won’t be tolerated,” he says. “I’ve spent a lot of time in 
+hospitals and we’ve seen the younger doctors are a lot more excited and engaged 
+with these sorts of developments.”
+
+At a consumer level, he suggests healthcare can learn from other industries, 
+like aviation, in using the digital revolution to enable customers take 
+personal charge of more services.
+
+“That linkage of providers is something we can learn from. Why not be able to 
+schedule your own healthcare appointments, or look at the results of your tests 
+from at home as well? Or complete the pre-admission paperwork before you go for 
+a procedure from within your GP’s office via the web?”
+
+Caroline Clarke says this philosophy is at the heart of Philips personal 
+health programs to make the data points meaningful to the consumer and the 
+clinician.
+Wearables 
+<https://interactive.guim.co.uk/embed/labs/a-healthier-brighter-future/ep7/wearables.html>
+She says the real-time information is stored in a highly secure environment 
+and is entirely owned by the individual but may be shared with their doctor to 
+be combined with other digital health information.
+
+And while these medically-certified devices can be used by anyone as a 
+motivational tool to improve personal health, the wearables and coaching 
+programs are “very much aimed at people who have high-risk profiles”.
+
+“They have potentially hypertension, high cholesterol – key risk factors for 
+example for cardiac disease. There is a genuine real need for them to make 
+changes in their lifestyle to prevent an incident.”
+
+With obesity a key risk factor for a range of chronic conditions in Australia 
+Philips has also partnered with Weight Watchers with consumer products to help 
+encourage healthier ways to prepare food.
+
+Weight Watchers Australasia marketing and commercial business director Tony 
+Karras says the “points system” allocated for different meals and cooking 
+methods gives members clear, measurable goals and the opportunity to make 
+healthier choices.
+
+“We give them what a well-balanced diet looks like if you are on a weight loss 
+journey,” Karras says. “A product like an air fryer, which uses substantially 
+less oil, has an advantage to them over traditional cooking methods so it just 
+gives them more options.”
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiSNIUq6pEkk&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiSNIUq6pEkk>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiSNIUq6pEkk&media=>
+ Cooking with health in mind. Read morehere 
+<http://www.philips.com.au/a-w/innovationandyou/article/full-video-story/healthier-meals.html>
+The company also uses apps as a clear way of tracking progress and a 
+motivational tool, he says.
+
+While the trend towards taking greater charge of our personal health seems to 
+be snowballing, in the same way we have embraced tech like mobile phones and 
+tablets, for Alan Eckstein this is only the beginning.
+
+“What I’m particularly excited by is the integration of research and clinical 
+care,” he says. “And the application of analytics tools leveraging granular 
+data – often including genomic data – to improve healthcare delivery. That is a 
+very timely application of big data.”
+
+Eckstein says cognitive computing platforms are also helping to augment human 
+intelligence from diagnosis to predicting outcomes in the ICU before a 
+procedure.
+
+“Cognitive computing is one of those gut-feel things – we know it’s going to 
+be big but we just have to work out exactly what it’s going to do in health. 
+There are some amazing applications already within the oncology space in the US 
+where we see cognitive platforms now being embedded to support decision-making.
+
+“This is all now stuff. The impediment is not the technology or the data. The 
+impediment is still the competition for funding or for investment in 
+technology. But we are seeing a shift – that reality is shifting as people work 
+out there are opportunities through innovation.”
+
+Clarke adds: “It’s a really exciting space to be in. I think there’s nothing 
+more rewarding than being able to get up in the morning and come to work to 
+know that you are making a difference to the world and to populations and 
+improving the lives of millions of people. Technology and digital health will 
+enable many, many more people around the world to have access to healthcare.”
+next/prev 
+<https://interactive.guim.co.uk/embed/labs/a-healthier-brighter-future/ep7/next-prev.html>
+Footer 
+<https://interactive.guim.co.uk/embed/labs/a-healthier-brighter-future/common/footer.html> 

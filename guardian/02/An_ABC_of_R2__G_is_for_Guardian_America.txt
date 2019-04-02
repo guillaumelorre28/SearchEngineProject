@@ -1,0 +1,35 @@
+
+Today G, for Guardian America... which was not part of the project scope when 
+we started R2. It's fair to say that when we began implementing in February 
+2006, the idea ofa Guardian America launch 
+<http://www.brandrepublic.com/News/755898/GN-M-launches-Guardian-America-online/>
+ was not on the radar. Yet by the middle of 2007 it was being talked about very 
+seriously, and increasingly so. How did we fit in an additional sub-project?
+
+As much as technologists might sometimes think they hold the key to success, 
+when it comes to media it's still true that content is king. Guardian America's 
+success is driven from its editor, Michael Tomasky, and his team. But 
+technology did provide the vehicle for that.
+
+The most valuable thing we technologists did for Guardian America was to not 
+reinvent the wheel. We recognised that the core elements had already been built 
+-- most notably a front page designed to showcase a variety of content was 
+already in use as the theguardian.com front. Making use of that also ensured 
+design consistency. But that's not to say there was no work to do. The content 
+management system was not originally designed to support two major fronts, 
+particularly with a variation in branding. The core work, then, was to extend 
+something we had already delivered and make it more useful.
+
+Using this approach everyone won. The Guardian America team got all the 
+functionality and flexibility that we had delivered for the team running the 
+original site front, and they got it relatively quickly. From an operational 
+point of view, by managing Guardian America in the same way the theguardian.com 
+front was managed, the GA team was able to share skills, people, advice and 
+creative ideas. The tech team got to show they could deliver technology for a 
+high-profile project on very short timescales. The business as a whole won 
+because the overall R2 budget remained constant. We managed that by 
+deprioritising a small amount of less important work in the usual Agile manner. 
+I don't think there were any arguments about what, exactly, was deprioritised, 
+since Guardian America was so clearly more significant than many other features 
+on our list.
+ 

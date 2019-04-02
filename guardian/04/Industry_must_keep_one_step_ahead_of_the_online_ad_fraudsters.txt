@@ -1,0 +1,82 @@
+
+Interactive Advertising Bureau Europe's AdEx Benchmark research 
+<http://www.iabeurope.eu/news/european-online-advertising-market-records-new-high-273bn>
+ shows that online video advertising increased by 45.5%, to nearly €1.19bn, in 
+2013. This growth is good news for all the players that have invested time and 
+resources into making it a credible business sector, capable of providing 
+advertisers and publishers with significant benefits.
+
+However, as with any evolving industry, its success also makes it very 
+attractive to illegal operators, many of them highly sophisticated. The result 
+is that fraudsters deploy countless techniques to tamper with bona fide 
+campaigns to divert revenues from advertisers to their own coffers.
+
+Respectable publishers, keen to increase traffic to enhance campaigns for 
+their advertisers and boost their own revenue, regularly extend their reach via 
+third-party websites. This sees them, often unknowingly, enter into 
+relationships with fraudulent sites that, whilst they appear highly 
+professional, are anything but.
+
+Malicious behaviour can take many forms, and these change frequently as new 
+ways of making money illegally are discovered. Currently, tactics include but 
+are not limited to botnets, or using bots to imitate human browsing behaviour, 
+iFrame stuffing, which is the process of stuffing an ad into a non-viewable 1x1 
+pixel within a browser page, and ad stacking, where multiple ads are played at 
+the same time on a web page but only the top ad is viewable. Further, ads may 
+appear on inappropriate sites, causing damage to the brand that is expensive 
+and time-consuming to repair.
+
+Closing these loopholes is difficult, made more so because the fast-paced 
+nature of the sector means that yesterday's answer may not work today. But, to 
+protect what it has achieved to date, the industry as a whole must exercise 
+more control and assurance to safeguard the advertiser. Each player must be 
+working towards the goal that it is a given that advertisers pay only for ads 
+that they know have been seen, by a real human, and in the right place.
+
+In general, the three core points to be considered are whether: a real person 
+saw the ad (fraud prevention); the person had a chance to see the ad 
+(viewability); and the ad ran in the place it was supposed to (verification). 
+There is no silver bullet to ensure all of these; rather it takes a mix of many 
+tools and processes.
+
+Ongoing developments in advertising technology continue to help to prevent 
+waste attributed to these issues. For example, the ability to block ads in 
+real-time, so any illegal ads are not served, or deploying viewability 
+detection at run-time is now a reality. To that end, it's important to continue 
+supporting open technology platforms, enabling third-party solutions to be more 
+easily deployed and to continue staying ahead of the latest games and tactics 
+by bad actors.
+
+But, while technology has revolutionised many elements of our day-to-day life, 
+there is no substitute for the human element – and online advertising is no 
+different. More tactically, this can be as straightforward as real people 
+inspecting websites in depth to check they are genuine before they are 
+permitted into the online advertising marketplace that matches buyers and 
+sellers.
+
+Meanwhile, campaign reports providing actionable insights enable anomalies to 
+be identified and mined. Click-through rates of 5% are a clear indication of 
+possible fraudulent behaviour, for example. Similarly, 100% of the clicks 
+coming through one type of browser indicate a problem, as traffic should be 
+across all of them. Human interaction ensures vigilance, a critical factor in 
+guarding against illegal activity.
+
+As publications tackle the challenge of making their digital editions viable 
+business models in the face of declining print sales, it is essential that 
+their online advertising is as effective as possible. That means building 
+sustainable and long-term relationships based on trust with advertisers and 
+agencies. This in turn requires an innovative online advertising technology 
+industry that is consistently resolute and robust in standing up to the 
+fraudsters.
+
+Phil Duffield is senior vice-president of international at Adap.tv 
+<http://adap.tv/>.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media Network content is editorially independent except for 
+pieces labelled 'Advertisement feature'. Find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

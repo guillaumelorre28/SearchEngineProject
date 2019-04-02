@@ -1,0 +1,214 @@
+
+A charity worker buying his first home has had his £67,000 life savings stolen 
+after fraudsters hacked into emails sent between him and his conveyancing 
+solicitor.
+
+Howard Mollett’s case will send a shiver down the spine of anyone who is in 
+the process of buying a home, or planning to do so, and comes hard on the heels 
+of a warning from the solicitors’ watchdog that “conveyancing theft” involving 
+hacked emails is now the most common cybercrime in legal circles.
+
+Mollett, who works for a humanitarian charity, says that so far just £7,800 of 
+his cash has been recovered. As he had already signed up to a mortgage and 
+exchanged contracts on the one-bedroom flat he was buying, he had to borrow the 
+money from his father and sister to ensure that the purchase didn’t fall 
+through.
+
+Banks' online security is failing customers, says Which?
+ Read more  
+<https://www.theguardian.com/money/2016/oct/20/banks-online-security-is-failing-customers-says-which>
+“My dad is 72, has had health issues for a number of years and was supposed to 
+retire in December, but has had to postpone that now as his nest egg is gone. 
+As a consequence, my parents may have to sell their home,” says Mollett, 40. 
+“So it’s really important that we get the funds back or be compensated for his 
+sake in particular.”
+
+Mollett and the solicitors accuse each other of being at fault. The fraudsters 
+used the email address of a member of staff at the solicitors that Mollett had 
+been dealing with, prompting him to say that “all the evidence I’ve seen points 
+to it being the solicitors that were hacked, not myself”. However, the law firm 
+concerned, Middlesex-based Sethi Partnership Solicitors, denies there was any 
+flaw in its IT systems, adding: “[We] assert that it was in fact Mr Mollett’s 
+own careless actions that led to his loss.” The firm also says that the banks 
+“should take more responsibility”.
+
+There’s a name for this type of email hacking scam involving the theft of 
+homebuying cash, according to the Solicitors Regulation Authority (SRA): 
+“Friday afternoon fraud”. This reflects the fact that most completions take 
+place that day – something that plays into the hands of criminals because it 
+buys them more time to avoid detection.
+
+Mollett was in the final stages of buying the flat in south London when the 
+fraudsters struck. His offer on the flat was accepted in April 2016 and, on the 
+recommendation of his mortgage adviser, he appointed the Sethi Partnership as 
+his conveyancing solicitors.
+
+Mobile banking in the spotlight as fraudsters pull £6,000 sting
+ Read more  
+<https://www.theguardian.com/money/2016/apr/02/mobile-banking-fraud-o2-nationwide>
+On 29 September he transferred £45,000 from his Barclays account to his 
+solicitor’s legitimate bank account at HSBC. However, a message from his bank 
+popped up on his screen telling him that the funds could take up to three days 
+to clear. He had to make the transfers online as he was travelling abroad for 
+work and realised that if that was the case for all the remaining tranches of 
+money he would miss his completion date.
+
+Mollett says the solicitors had emphasised how important it was to ensure all 
+the funds reached them on time, so he emailed the Sethi Partnership that same 
+day asking about the best way to get the rest of the money – a total of £74,837 
+to cover the remaining deposit, stamp duty, fees etc – to them promptly to meet 
+the deadline.
+
+It was at this point that the fraudsters contacted him, using the email 
+address of the member of staff at the solicitors whom he had been dealing with 
+all through the process – though Mollett was unaware the emails had been 
+hijacked. This email stated that the firm’s usual bank account could not 
+receive Chaps or Bacs payments, and advised him to pay the money into its 
+Yorkshire Bank account.
+
+The following day, 30 September, he transferred £42,000 to this Yorkshire Bank 
+account, and then sent a confirmation of transfer by email to the member of 
+staff at the Sethi Partnership. He received a reply – purporting to be from the 
+firm, but again from the fraudsters – confirming receipt of his email.
+
+On 1 October he transferred a further £25,000 to the Yorkshire Bank account, 
+and again received confirmation of receipt of his email.
+
+The following day Mollett received a further email purporting to be from 
+Sethi, though again in fact from the criminals, stating that amounts of less 
+than £10,000 should be directed to the firm’s NatWest account. So the final 
+tranche of £7,837 was sent to a NatWest account. Mollett received an email 
+which again appeared to be from his contact at the solicitors, stating: “I 
+won’t be at the office tomorrow. On Tuesday I will call you to make 
+arrangements for completion on Wednesday. Thanks for the prompt payment and 
+have a fun trip back.” (The latter remark was a reference to his work trip.)
+
+This is not an email address similar to, but one letter different from, my 
+solicitor – it is her email address
+Howard Mollett 
+On 4 October Mollett realised something terrible had happened when an email 
+arrived from the Sethi Partnership confirming that only the first £45,000 had 
+reached its bank account. He quickly spoke to all the banks concerned, but the 
+only bit of good news was that the £7,837 that went to NatWest had been frozen 
+and was later returned to him. He has not received a penny back of the £67,000 
+that he transferred to Yorkshire Bank.
+
+As for his own bank, Barclays, Mollett says: “I feel let down and messed 
+around.” He says he was later told that at least £9,000 of his money was 
+transferred from Yorkshire Bank to a Barclays account, presumably one belonging 
+to the criminals or their associates.
+
+Mollett was introduced to a cyber-security specialist who had previously 
+provided advice to his employer, who offered to give him some free help. This 
+expert, who wants to remain anonymous, analysed the chain of emails and says in 
+his report: “The analysis indicates that a fraudster gained access to [the 
+named Sethi employee’s] email account, most likely via her webmail, where the 
+fraudster modified and rerouted the emails from her account … The analysis 
+showed that it was not Howard Mollett’s email that was hacked. Instead, he 
+received valid, authentic emails coming from [the employee’s] email account, 
+which were authored by the fraudster.”
+
+Meanwhile, a lawyer offered to help him pro bono and wrote to the Sethi 
+Partnership asking that it compensate Mollett on the grounds it had allowed a 
+client’s confidentiality to be breached.
+
+Mollett says the fact the emails came from his solicitor’s email address and 
+were part of a chain of correspondence were why he didn’t question their 
+authenticity. “This is not someone claiming to be the cousin of the President 
+of Nigeria asking me to wire money to them. And this is not an email address 
+similar to, but one letter different from, my solicitor – it is her email 
+address.”
+
+Intriguingly, on or around 4 October, the day the crime was uncovered, the 
+Sethi Partnership introduced a warning in bold text at the bottom of its emails 
+pointing out the “significant risk posed by cyber fraud, specifically affecting 
+email accounts and bank account details. Please note that this firm’s bank 
+account details will not change during the course of a transaction and we will 
+not change our bank account details via email … We will not accept 
+responsibility if you transfer money into an incorrect bank account.” Guardian 
+Money has seen copies of emails from a few days earlier that don’t include this 
+warning. Mollett says: “If only they had given such a warning of these risks 
+before the crime happened.”
+
+Early last month the SRA said conveyancing fraud “can see people lose their 
+life savings”. It added: “We also want to see firms making sure their clients 
+are aware of the risks. For instance, we would recommend that people avoid 
+sharing bank details over email, or transferring money before confirming the 
+source of any request.”
+
+Our view is that the situation arose largely due to the carelessness of Mr 
+Mollett
+The Sethi Partnership 
+In a statement, the Sethi Partnership said: “Our view is that the situation 
+arose largely due to the carelessness of Mr Mollett.” It said it was aware 
+Mollett had to frequently travel abroad for work, “and he regularly uses 
+internet access from various unsecured locations, leaving his computer 
+vulnerable to hacking … In comparison, our systems have a significant amount of 
+security … Therefore we are confident at this stage that the security of our IT 
+systems have not been breached, and vulnerabilities are with Mr Mollett’s own 
+systems”.
+
+The firm claimed that, as an existing client, Mollett was aware the company 
+had only one bank account, with HSBC, with all payments to be made to this, 
+adding: “We never disclose our bank details in email communication … Clearly Mr 
+Mollett should have been more vigilant and checked the details before making 
+the transfer to an unknown account name.”
+
+A Yorkshire Bank spokesman says the money was withdrawn from the account soon 
+after the transfer from Mollett. “We were very sorry to hear that Mr Mollett 
+has been the victim of a fraud having received a number of fraudulent emails 
+from criminals.” He adds: “We work hard to ensure our customers are aware of 
+the steps they can take to protect themselves. We are also collaborating with 
+the Joint Fraud Taskforce which has been set up to tackle fraud in the UK. We 
+enforce a range of fraud prevention measures during both account opening and 
+throughout the relationship.”
+
+In a letter to Mollett, Barclays concedes that he received “poor service” in 
+relation to the information he was given. A bank spokesman told Money: “This 
+scam is a tragic case of criminal theft by a fraudster hacking and amending a 
+solicitor’s emails, meaning Mr Mollett paid funds to the fraudster rather than 
+the intended recipient, his solicitor. We have every sympathy with Mr Mollett 
+and acted swiftly to try to recover funds at the time this was reported.”
+
+The spokesman confirmed some of the funds originally transferred to Yorkshire 
+Bank were sent to another Barclays account but, “regrettably, even before Mr 
+Mollett first contacted Barclays, these funds had already been paid away”.
+
+How to avoid being conned
+
+Email scam costs couple £25,000 – but no one will help
+ Read more  
+<https://www.theguardian.com/money/2016/mar/04/fraud-scam-email-barclays-lloyds>
+Guardian Money is regularly contacted by people who have been conned out of 
+life-changing sums of money having fallen victim to highly sophisticated email 
+scams.
+
+The common thread in these cases is that they involve people who have employed 
+a legitimate solicitor/builder/accountant etc, with whom they are in email 
+correspondence.
+
+Typically, the victim receives a request for payment via email, which doesn’t 
+arouse suspicion because they were expecting it. It usually looks authentic and 
+is for the correct amount – but behind the scenes the email account of either 
+the victim or the business has been hacked, and the bank account number and 
+sort code are the crook’s.
+
+Cases featured by Money include that of David and Sarah Fisher from north-west 
+London, who lost £25,000 after receiving a genuine invoice for building work, 
+then what appeared to be a follow-up email from the same firm but was in fact a 
+scam, with a fresh invoice attached that included “our new banking details”. 
+They made a payment and their money was gone.
+
+In most cases, the banks operating the accounts the fraudsters use to accept 
+people’s money say that by the time they are made aware of a crime, the cash 
+has been cleaned out.
+
+If you receive an emailed invoice or request for payment, and it is someone 
+you have not previously made a payment to, or have paid before but they have 
+changed their bank details, your default position should be suspicion – even if 
+you were expecting it. Phone the individual or company and check they have 
+asked for the money, and that the bank details provided are correct.
+
+If it is a large sum, send a small amount first, then check that the right 
+person has received it before paying the balance.
+ 

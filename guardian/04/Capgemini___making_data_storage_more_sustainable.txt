@@ -1,0 +1,76 @@
+
+IT operations – especially large data centres using high density computing 
+power – are, perhaps, not the most likely places to find new approaches to 
+sustainability.
+
+Analysts Gartner reckon that IT is responsible for some 2% of global CO2 
+emissions, not far behind aviation.
+
+Moreover, a growing dependency on large-scale IT and the internet has 
+generated strong growth in the number and size of data centres, despite the 
+global recession.
+
+But in Capgemini's new Merlin centre in Swindon 
+<https://www.theguardian.com/uk/swindon>, the company thinks it has found the 
+way forward.
+
+Capgemini has established a new approach for building energy efficient data 
+centres. Rather than build from scratch, it has used an existing building 
+'shell' and populated it with prefabricated modules, similar to those used as 
+mobile hospitals by the British army in Afghanistan.
+
+This in itself minimises the environmental impact that would come with a 
+new-build project and cuts development time from 18 months to just 22 weeks.
+
+But the company has gone much further. It claims that Merlin is its first 
+facility to be designed with sustainability in mind and as part of a concerted 
+strategy to drive down carbon emissions and power consumption.
+
+Merlin aims to achieve a step-change in every aspect – from the smart 
+engineering of the building to the use of many innovative features, such as 
+fresh-air cooling, battery-free uninterruptible power supply (UPS) and use of 
+recyclable or reusable materials.
+
+The key feature is the cooling system, which combines fresh air and 
+pre-evaporative cooling. It is set up to ensure the tightest possible real-time 
+control of temperature, humidity and air-flow at minimum energy cost.
+
+Merlin includes new "flywheel technology" in its UPS system, with kinetic 
+energy replacing high-carbon batteries.
+
+The centre was also built using sustainable materials. The modules themselves 
+– which can be stacked to create more capacity in future – are 100% reusable 
+and their components 95% recyclable.
+
+Merlin also gives commercial as well as environmental benefits.
+
+First, more clients are demanding firm evidence of sustainability action from 
+data storage providers. Second, by minimising power use, Merlin achieves lower 
+running costs that translate into attractive prices.
+
+The centre has achieved immediate commercial success – with its earliest 
+clients including Anglian Water, the Environment Agency and Schneider Electric.
+
+The £30m project joins 27 other data centres operated by Capgemini worldwide 
+and its design is already being replicated in America, Europe and the Far East.
+
+The company believes it has proved that it can boost performance and customer 
+service, even when it puts the environment first.
+
+And with maximum power efficiency, lower emissions, minimum water usage and 
+cuts in waste and pollution, it claims to have created "the world's most 
+sustainable data centre".
+
+Within its UK operations, data centres consume 75% of the electricity used by 
+the company and are the largest contributor to carbon emissions.
+
+Investment in Merlin is therefore a step towards achieving Capgemini's target 
+of improving energy efficiency by 20% by 2014.
+
+Lynn Beavis is part of the wordworks <http://www.wordworksbysea.com/> network
+
+This content is brought to you by Guardian Professional 
+<https://www.theguardian.com/guardian-professional>. Become a GSB member 
+<http://reg.guardian.managemyaccount.co.uk/sustainable-business/start.php> to 
+get more stories like this direct to your inbox
+ 

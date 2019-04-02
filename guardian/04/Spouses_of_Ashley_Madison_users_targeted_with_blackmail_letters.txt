@@ -1,0 +1,70 @@
+
+It’s been six months since extramarital dating site Ashley Madison 
+<https://www.theguardian.com/technology/ashley-madison> was hacked, and now the 
+spouses of former and current users of the site are being targeted by blackmail 
+attempts, as well as the users themselves.
+
+Almost as soon as the database was made public, accountholders started 
+receiving anonymous blackmail letters, first electronically and then 
+physically. The letters demanded payment, in the thousands of dollars, to avoid 
+having their membership of the site made public.
+
+The security journalist Graham Cluley reported one such letter in December 
+last year 
+<https://www.grahamcluley.com/2015/12/ashley-madison-blackmailers-sending-threats-postal/>
+, which demanded $4,167 with a threat of exposing the existence of the account 
+“to people close to” the victim.
+
+Due to a lack of identity verification on the Ashley Madison, fake accounts 
+are prolific. When the database was first made public, accounts under names 
+including Tony Blair and Barack Obama were discovered. Theoretically, that 
+could allow blackmail victims plausible deniability but in practice many were 
+nonetheless worried about their accounts being exposed.
+
+Normal advice in the case of blackmail is to not pay up. The blackmailer can 
+always demand more money, and has no motivation to destroy what information 
+they have. But one Ashley Madison blackmailer is now taking the scam further 
+still, reports Cluley, by posting new letters addressed to the spouses of 
+previous targets.
+
+One such letter, obtained by Cluley, begins: “Dear Mrs [Redacted] I am afraid 
+this letter contains bad news. Perhaps you remember hearing in the news this 
+past summer about a website called ‘Ashley Madison’ being hacked. Ashley 
+Madison is a website that facilitates people meeting each other that wish to 
+commit adultery. The hackers released the membership and billing details of all 
+the members.
+
+“I am sorry to tell you that [Redacted] is a member of that adultery website.”
+
+The letter goes on to demand $2,500 to keep the information private. It also 
+has a section addressed directly to the Ashley Madison user himself, in the 
+event that he intercepted the letter, warning that he has “one more chance to 
+make things right”.
+
+The letters demand payment in Bitcoin, making it harder but not impossible to 
+trace the blackmailer through conventional means.
+
+Ashley Madison was initially hacked in July 2015 
+<https://www.theguardian.com/technology/2015/jul/20/ashley-madison-hacked-cheating-site-total-shutdown>
+, by an anonymous attacker who posted a selection of accounts online, 
+accompanied by a demand that the site shut down. The attacker or attackers, who 
+called themselves Impact Team, were motivated by the presence of a paid-for 
+feature on the site labelled Full Delete. This was sold by Ashley Madison for 
+£15 and supposedly allowed users to completely remove all trace of their 
+actions from the site.
+
+Impact Team claimed that the Full Delete option left a significant amount of 
+data still on Ashley Madison’s servers – a claimthat was borne out the 
+following month 
+<https://www.theguardian.com/technology/2015/aug/19/ashley-madisons-paid-delete-option-left-data-identifying-users-post-claims>
+ when the group, seeing that its demands had not been met,released the full 
+database of 33m user records 
+<https://www.theguardian.com/technology/2015/aug/19/ashley-madison-hackers-release-10gb-database-of-33m-infidelity-site-accounts>
+. Ashley Madison attempted to use copyright law to scrub the database from the 
+internet, butto no avail 
+<https://www.theguardian.com/technology/2015/aug/20/ashley-madison-using-copyright-law-to-try-to-limit-attack-leak>
+.
+
+• Life after the Ashley Madison affair 
+<https://www.theguardian.com/technology/2016/feb/28/what-happened-after-ashley-madison-was-hacked>
+ 

@@ -1,0 +1,67 @@
+
+It’s a pub crawl that could last a lifetime but, thanks to the dedicated work 
+of an international team of mathematicians who have plotted the shortest 
+possible route to visit 25,000 boozers across the country, roaming ale drinkers 
+of the UK now have a serious new challenge to consider.
+
+Led by Professor William Cook from the University of Waterloo, Canada, the 
+two-year project <http://www.math.uwaterloo.ca/tsp/pubs/index.html> is an 
+example of the “travelling salesman problem”, which aims to work out the 
+shortest route between any number of locations before then returning to the 
+starting point. It is described as one of the most intensively studied problems 
+in computational mathematics.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftravel%2F2016%2Foct%2F21%2Fworlds-longest-pub-crawl-maths-team-plots-route-between-every-pub-in-uk%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F4405cd02bf286607f7dbb16555f0a3609f81317b%2F0_768_2196_2741%2F2196.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=World's%20longest%20pub%20crawl%3A%20Maths%20team%20plots%20route%20between%2025%2C000%20UK%20boozers&url=https%3A%2F%2Fwww.theguardian.com%2Ftravel%2F2016%2Foct%2F21%2Fworlds-longest-pub-crawl-maths-team-plots-route-between-every-pub-in-uk%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=World%27s%20longest%20pub%20crawl%3A%20Maths%20team%20plots%20route%20between%2025%2C000%20UK%20boozers&url=https%3A%2F%2Fwww.theguardian.com%2Ftravel%2F2016%2Foct%2F21%2Fworlds-longest-pub-crawl-maths-team-plots-route-between-every-pub-in-uk%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F4405cd02bf286607f7dbb16555f0a3609f81317b%2F0_768_2196_2741%2F2196.jpg>
+ Whose round is it this time? The tour in its entirety. Photograph: 
+math.uwaterloo.ca 
+In this case, the team plotted the coordinates of 24,727 of the pubs listed on 
+the comprehensivePubs Galore <http://www.pubsgalore.co.uk/> website, before 
+setting out to solve the problem of calculating the shortest possible route 
+between them all.
+
+The result is a 45,495km tour – that’s longer than the circumference of the 
+Earth – laid out on an eye-bogglinginteractive Google Map 
+<http://www.math.uwaterloo.ca/tsp/road/uk24727_tour.html>, featuring a dizzying 
+number of red pins, linked together by a never-ending blue line.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftravel%2F2016%2Foct%2F21%2Fworlds-longest-pub-crawl-maths-team-plots-route-between-every-pub-in-uk%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fb74f67d7ed3e9ce733d4968c9c87112f3a538323%2F0_396_1000_600%2F1000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=World's%20longest%20pub%20crawl%3A%20Maths%20team%20plots%20route%20between%2025%2C000%20UK%20boozers&url=https%3A%2F%2Fwww.theguardian.com%2Ftravel%2F2016%2Foct%2F21%2Fworlds-longest-pub-crawl-maths-team-plots-route-between-every-pub-in-uk%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=World%27s%20longest%20pub%20crawl%3A%20Maths%20team%20plots%20route%20between%2025%2C000%20UK%20boozers&url=https%3A%2F%2Fwww.theguardian.com%2Ftravel%2F2016%2Foct%2F21%2Fworlds-longest-pub-crawl-maths-team-plots-route-between-every-pub-in-uk%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fb74f67d7ed3e9ce733d4968c9c87112f3a538323%2F0_396_1000_600%2F1000.jpg>
+ A close-up of the Brighton leg of the tour. Photograph: math.uwaterloo.ca 
+The route is circular, so travellers can start at any point, but on the list 
+used by the team, calculations began at theThe Green Shutters in Portland 
+<https://www.facebook.com/Green-shutters-659871584148755/> and ended at its 
+neighbour,The Rodwell in Weymouth 
+<https://www.facebook.com/Rodwell-Pub-177086622328947/>, a 6km walk away.
+
+The average distance between each pub is an hour, but there are some dry 
+patches; the longest is a 435km, 50-hour trip, from the Sango Sands Oasis in 
+Durness to the Bells But & Ben in Shetland. However, the research team points 
+out that this journey would include two ferry rides on which beer and other 
+alcoholic drinks are available. Phew.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftravel%2F2016%2Foct%2F21%2Fworlds-longest-pub-crawl-maths-team-plots-route-between-every-pub-in-uk%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F570bb05d4fe78c197bd4bd37e20964f4fab161ea%2F0_235_1000_600%2F1000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=World's%20longest%20pub%20crawl%3A%20Maths%20team%20plots%20route%20between%2025%2C000%20UK%20boozers&url=https%3A%2F%2Fwww.theguardian.com%2Ftravel%2F2016%2Foct%2F21%2Fworlds-longest-pub-crawl-maths-team-plots-route-between-every-pub-in-uk%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=World%27s%20longest%20pub%20crawl%3A%20Maths%20team%20plots%20route%20between%2025%2C000%20UK%20boozers&url=https%3A%2F%2Fwww.theguardian.com%2Ftravel%2F2016%2Foct%2F21%2Fworlds-longest-pub-crawl-maths-team-plots-route-between-every-pub-in-uk%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F570bb05d4fe78c197bd4bd37e20964f4fab161ea%2F0_235_1000_600%2F1000.jpg>
+ The Liverpool map with its red pins. Photograph: math.uwaterloo.ca 
+Pubs <https://www.theguardian.com/lifeandstyle/pubs> aside, the project 
+represents the largest road-distance travelling salesman problem ever solved to 
+date, with 100 times more stops than any previous projects.
+
+As Cook says, the UK pub problem was used “as a means for developing and 
+testing general-purpose optimisation methods, which have wide applications in 
+science, industry and commerce”.
+
+He adds: “We did not set out to improve the lot of a wandering pub aficionado.”
+
+ * This story was amended on 21 October 2016 to clarify that the route only 
+plots a subset of pubs listed by Pubs Galore, not every pub in the country as 
+previously stated.  

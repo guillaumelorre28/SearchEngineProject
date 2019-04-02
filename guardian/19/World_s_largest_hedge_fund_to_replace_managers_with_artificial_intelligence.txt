@@ -1,0 +1,120 @@
+
+The world’s largest hedge fund is building a piece of software to automate the 
+day-to-day management of the firm, including hiring, firing and other strategic 
+decision-making.
+
+
+Bridgewater Associates has a team of software engineers working on the project 
+at the request of billionaire founder Ray Dalio, who wants to ensure the 
+company can run according to his vision even when he’s not there, theWall 
+Street Journal reported 
+<http://www.wsj.com/articles/the-worlds-largest-hedge-fund-is-building-an-algorithmic-model-of-its-founders-brain-1482423694>
+.
+
+Mark Zuckerberg out-robots his AI robot in saccharine holiday video
+ Read more  
+<https://www.theguardian.com/technology/2016/dec/20/mark-zuckerberg-facebook-jarvis-artificial-intelligence-video>
+“The role of many remaining humans at the firm wouldn’t be to make individual 
+choices but to design the criteria by which the system makes decisions, 
+intervening when something isn’t working,” wrote the Journal, which spoke to 
+five former and current employees.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F22%2Fbridgewater-associates-ai-artificial-intelligence-management%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F16ac8ade09b127f3be5a7f31f2b45e6cd635bd57%2F0_0_2000_3000%2F2000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=World%E2%80%99s%20largest%20hedge%20fund%20to%20replace%20managers%20with%20artificial%20intelligence&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F22%2Fbridgewater-associates-ai-artificial-intelligence-management%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=World%E2%80%99s%20largest%20hedge%20fund%20to%20replace%20managers%20with%20artificial%20intelligence&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F22%2Fbridgewater-associates-ai-artificial-intelligence-management%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F16ac8ade09b127f3be5a7f31f2b45e6cd635bd57%2F0_0_2000_3000%2F2000.jpg>
+ Ray Dalio, president and founder of Bridgewater Associates. Photograph: 
+Bloomberg/Bloomberg via Getty Images 
+The firm, which manages $160bn, created the team of programmers specializing 
+in analytics and artificial intelligence, dubbed the Systematized Intelligence 
+Lab, inearly 2015 
+<https://www.bloomberg.com/news/articles/2015-02-27/bridgewater-is-said-to-start-artificial-intelligence-team>
+. The unit is headed up by David Ferrucci, who previously led IBM’s development 
+of Watson, the supercomputer thatbeat humans at Jeopardy! in 2011 
+<https://www.theguardian.com/technology/2011/feb/17/ibm-computer-watson-wins-jeopardy>
+.
+
+The company is already highly data-driven, with meetings recorded and staff 
+asked to grade each other throughout the day using a ratings system called 
+“dots”. The Systematized Intelligence Lab has built a tool that incorporates 
+these ratings into “Baseball Cards” that show employees’ strengths and 
+weaknesses. Another app, dubbed The Contract, gets staff to set goals they want 
+to achieve and then tracks how effectively they follow through.
+
+These tools are early applications of PriOS, the over-arching management 
+software that Dalio wants to make three-quarters of all management decisions 
+within five years. The kinds of decisions PriOS could make include finding the 
+right staff for particular job openings and ranking opposing perspectives from 
+multiple team members when there’s a disagreement about how to proceed.
+
+The machine will make the decisions, according to a set of principles laid out 
+by Dalio about the company vision.
+
+“It’s ambitious, but it’s not unreasonable,” said Devin Fidler 
+<http://www.iftf.org/devinfidler/>, research director at the Institute For The 
+Future, who has built aprototype management system called iCEO 
+<https://hbr.org/2015/04/heres-how-managers-can-be-replaced-by-software>. “A 
+lot of management is basically information work, the sort of thing that 
+software can get very good at.”
+
+Automated decision-making is appealing to businesses as it can save time and 
+eliminate human emotional volatility.
+
+“People have a bad day and it then colors their perception of the world and 
+they make different decisions. In a hedge fund that’s a big deal,” he added.
+
+Will people happily accept orders from a robotic manager? Fidler isn’t so 
+sure. “People tend not to accept a message delivered by a machine,” he said, 
+pointing to the need for a human interface.
+
+“In companies that are really good at data analytics very often the decision 
+is made by a statistical algorithm but the decision is conveyed by somebody who 
+can put it in an emotional context,” he explained.
+
+Futurist Zoltan Istvan, founder of the Transhumanist party 
+<https://www.theguardian.com/technology/2016/jun/16/transhumanist-party-immortality-zoltan-istvan-presidential-campaign>
+, disagrees. “People will follow the will and statistical might of machines,” 
+he said, pointing out that people already outsource way-finding to GPS or the 
+flying of planes to autopilot.
+
+However, the period in which people will need to interact with a robot manager 
+will be brief.
+
+“Soon there just won’t be any reason to keep us around,” Istvan said. “Sure, 
+humans can fix problems, but machines in a few years time will be able to fix 
+those problems even better.
+
+“Bankers will become dinosaurs.”
+
+It’s not just the banking sector that will be affected. According to a report 
+by Accenture, artificial intelligence will free people from the drudgery of 
+administrative tasks in many industries. The company surveyed 1,770 managers 
+across 14 countries to find out how artificial intelligence would impact their 
+jobs.
+
+'This is awful': robot can keep children occupied for hours without supervision
+ Read more  
+<https://www.theguardian.com/technology/2016/sep/29/ipal-robot-childcare-robobusiness-san-jose>
+“AI will ultimately prove to be cheaper, more efficient, and potentially more 
+impartial in its actions than human beings,” said the authors writing up the 
+results of the survey inHarvard Business Review 
+<https://hbr.org/2016/11/how-artificial-intelligence-will-redefine-management>.
+
+However, they didn’t think there was too much cause for concern. “It just 
+means that their jobs will change to focus on things only humans can do.”
+
+The authors say that machines would be better at administrative tasks like 
+writing earnings reports and tracking schedules and resources while humans 
+would be better at developing messages to inspire the workforce and drafting 
+strategy.
+
+Fidler disagrees. “There’s no reason to believe that a lot of what we think of 
+as strategic work or even creative work can’t be substantially overtaken by 
+software.”
+
+However, he said, that software will need some direction. “It needs human 
+decision making to set objectives.”
+
+Bridgewater Associates did not respond to a request for comment.
+ 

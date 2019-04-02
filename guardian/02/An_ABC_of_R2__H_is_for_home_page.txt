@@ -1,0 +1,30 @@
+
+Today H, for home page... which was launched in May 2007 and incorporated a 
+huge amount of flexibility to tell the day's news in different ways.
+
+There are two major aspects to the home page's flexibility. The first, and 
+most obviously, is a variety of templates. In our previous system the home page 
+had almost no flexibility at all, which was a consequence of not separating the 
+content from the presentation -- the home page was effectively a small program 
+and changing the layout meant changing the code. That's not something you can 
+do in the middle of busy news day. As part of the R2 project we created a 
+variety of templates which could be switched in largely at will. I say 
+"largely" at will, because switching layout also means the various areas of the 
+page are spaced differently, some growing and others shrinking, so you need to 
+make sure they all have the right amount of content in them.
+
+The second kind of flexibility is in what you can do on the page. Any one 
+template has internal logic which changes the layout subtly according to where 
+a production staffer marks a break or places an image or video.
+
+We launched our new home page 
+<https://www.theguardian.com/news/blog/2007/may/10/newlookforgu> early on 10 
+May 2007. Around middayTony Blair announced he was stepping down 
+<https://www.theguardian.com/politics/2007/may/10/tonyblair.labour> as prime 
+minister. The event gave the news desk the chance to make use of many 
+alternative templates in various configurations. In the tech team we would 
+check back at the home page throughout the day to see yet another template was 
+on show for the first time. By the end of the day our new software had been 
+given more of a workout than we could have guessed, but it served us all 
+admirably.
+ 

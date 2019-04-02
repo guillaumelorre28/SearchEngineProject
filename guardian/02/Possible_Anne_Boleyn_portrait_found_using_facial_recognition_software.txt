@@ -1,0 +1,106 @@
+
+She won the heart of King Henry VIII, divided the church and lost her head. 
+But nearly 500 years after Anne Boleyn met her death, only one uncontested 
+portrait of her remains.
+
+
+Pictures of the beguiling queen – who is played by a steely Claire Foy in the 
+hit BBC historical drama Wolf Hall 
+<http://www.bbc.co.uk/programmes/profiles/2dzxsWcS4s1HPN6pthrQkg8/claire-foy> – 
+were roundly destroyed after her death in 1536. The concerted effort to erase 
+her from history was thorough, leaving only a battered lead disc as a 
+contemporary likeness, theMoost Happi medal in the British Museum in London. 
+<http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=953013&partId=1>
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2015%2Ffeb%2F16%2Fanne-boleyn-portrait-found-using-facial-recognition-software%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-1%23img-1&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F2%2F15%2F1424021950808%2F36c961ce-a84d-4d15-83e7-e72db00356a8-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Possible%20Anne%20Boleyn%20portrait%20found%20using%20facial%20recognition%20software&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2015%2Ffeb%2F16%2Fanne-boleyn-portrait-found-using-facial-recognition-software%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-1%23img-1>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Possible%20Anne%20Boleyn%20portrait%20found%20using%20facial%20recognition%20software&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2015%2Ffeb%2F16%2Fanne-boleyn-portrait-found-using-facial-recognition-software%3Fpage%3Dwith%3Aimg-1%23img-1&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F2%2F15%2F1424021950808%2F36c961ce-a84d-4d15-83e7-e72db00356a8-2060x1236.jpeg>
+ Claire Foy and Damian Lewis as Anne Boleyn and King Henry VIII in the BBC’s 
+adaptation of Wolf Hall Photograph: Ed Miller/BBC/Company Productions Ltd 
+But another portrait from the late 16th century has emerged as a likely 
+painting of the queen. Researchers in California used state-of-the-art face 
+recognition to compare the face on the Moost Happi medal with a number of 
+paintings and found a close match with the privately ownedNidd Hall portrait, 
+held at the Bradford Art Galleries and Museums 
+<http://commons.wikimedia.org/wiki/File:Anne_Boleyn%3F_the_Nidd_Hall_portrait.jpg>
+.
+
+The Nidd Hall artwork shows a woman wearing jewellery long thought to be 
+Boleyn’s. But scholars have been divided on the figure’s identity. Some claim 
+the woman is Boleyn’s successor, Jane Seymour, the third wife of King Henry 
+VIII.
+
+Amit Roy-Chowdhury <http://www.ee.ucr.edu/~amitrc/>, head of the video 
+computing group at the University of California in Riverside, turned his 
+expertise in computer face-recognition to renaissance art after he was asked 
+for help by an art historian, Conrad Rudolph, a colleague at the university. “I 
+had no idea about what art history really was,” he said. “My last interaction 
+with art was probably some time in middle school.”
+
+Three years later, Roy-Chowdhury has developed a program that learns to 
+identify faces from their anatomical dimensions, such as the width of their 
+noses, and the distance between their eyes, and more distinctive features, such 
+as whether they have one straight eyebrow and one curved. After training the 
+computer on pictures of known people, it can scan images of unknown characters 
+and churn out probabilities on their identities.
+ The lead Moost Happi medal, believed to be a commemorative coin and the only 
+undisputed image of Anne Boleyn 
+Using computers to recognise faces in old paintings is more challenging than 
+picking out faces in a crowd.Facial recognition 
+<https://www.theguardian.com/technology/facial-recognition> struggles with 
+changes in pose, illumination, facial expressions and ageing. But in works of 
+art, the computer must contend with the quirks of the artists’ styles. Another 
+major hurdle is that often, precious few contemporary paintings exist on which 
+to train the computer.
+
+To improve its chances of finding a match, the program works out the best 
+combination of facial measurements and discriminating features with which to 
+look for matches.
+
+Speaking at the American Association for the Advancement of Science meeting in 
+San Jose 
+<http://meetings.aaas.org/?utm_source=visualurl&utm_medium=redirect&utm_campaign=opp_am15visual>
+, Roy-Chowdhury described his program’s attempts to identify characters in a 
+collection of 57 paintings. The program found 14 matches, and was undecided on 
+the identity of 26 people. The rest were not the characters Roy-Chowdhury had 
+programmed the computer to look for.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2015%2Ffeb%2F16%2Fanne-boleyn-portrait-found-using-facial-recognition-software%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F2%2F15%2F1424022097913%2Fa2c68240-61ca-4a97-8bcf-02a1d66c03ea-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Possible%20Anne%20Boleyn%20portrait%20found%20using%20facial%20recognition%20software&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2015%2Ffeb%2F16%2Fanne-boleyn-portrait-found-using-facial-recognition-software%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Possible%20Anne%20Boleyn%20portrait%20found%20using%20facial%20recognition%20software&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2015%2Ffeb%2F16%2Fanne-boleyn-portrait-found-using-facial-recognition-software%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F2%2F15%2F1424022097913%2Fa2c68240-61ca-4a97-8bcf-02a1d66c03ea-2060x1236.jpeg>
+ Reproduction of a portrait of Anne Boleyn in the National Portrait Gallery. 
+Photograph: Roger-Viollet/Rex Features 
+The system compared the Moost Happi medal image with four paintings from Tudor 
+times, and failed to find a match with two portraits, including one from Hever 
+Castle in Kent andanother held at the National Portrait Gallery in London 
+<http://www.npg.org.uk/collections/search/portrait/mw00142/Anne-Boleyn>. More 
+intriguingly, the system found what may be the earliest portrait of the 
+astronomer Galileo Galilei.
+
+“These portraits have some importance. They probably represent someone of 
+social standing, or some important event, and we often want to identify who is 
+the person in the portrait,” he said. “What the computer gives at the end is 
+another source of evidence for the discussions that have been going on about 
+these questions.”
+
+
+The system failed to resolve other debates in the world of art history though. 
+The 17th-century Italian painter, Caravaggio, allegedly gave one of the figures 
+in his altarpiece The Entombment of Christ the features of Michelangelo. But 
+the computer found no matches when it compared the figure, Nicodemus, with 
+bronze busts and a chalk drawing of Michelangelo.
+
+Another Italian, the 15th-century artist Andrea Mantegna, painted a 
+self-portrait, but may also have worked his image into some of his most famous 
+works. But comparisons of his self-portrait with two prominent works found no 
+evidence he had.
+
+The system struggled to shed light on the validity of three paintings that may 
+be of Shakespeare after comparing them with a sculpted bust, an engraving and a 
+portrait at the National Portrait Gallery.
+
+ 

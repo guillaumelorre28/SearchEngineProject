@@ -1,0 +1,127 @@
+
+When an accident rendered my wife’s beloved 1987 Volvo station wagon 
+unsalvageable earlier this year, there was a bright side to the loss: retiring 
+the Volvo, our only car, gave us a chance to tackle a troublesome wedge of our 
+household carbon footprint.
+
+Our home has rooftop solar panels, which make it possible for us to send more 
+clean electricity to the grid than we use, but our stout, tank-like station 
+wagon did not sip gas. So, in January, we ditched oil for our own carbon-free 
+solar power andCalifornia’s increasingly clean electricity grid 
+<http://energy.ca.gov/renewables/tracking_progress/documents/renewable.pdf> and 
+signed a three-year lease for an all-electric 2013 Nissan Leaf.
+
+Contrary to persistent, uninformed reports 
+<http://www.newyorker.com/online/blogs/currency/2013/10/why-electric-vehicles-have-stalled.html>
+, US sales of electric cars have not stalled: through April,Leaf sales were up 
+by 33% <http://pllqt.it/X9p7iR> compared to 2013. As of 23 May, 50,000 Leafs 
+had been sold in the US 
+<http://green.autoblog.com/2014/05/23/nissan-sold-50000-leafs-in-us-115000-globally/>
+ and nearly 115,000 have been sold worldwide. And sales will likely increase: 
+Navigant Research projects that US sales of light-duty plug-in electric 
+vehicles willexceed 514,000 annually in 2023 <http://pllqt.it/P7tXGh>, up from 
+the nearly 100,000 sold in North America in 2013.
+
+So many electric cars have been sold in the San Francisco Bay Area, where I 
+live, that cities are scrambling to deploy infrastructure to accommodate them. 
+What’s it like to be an EV early adopter? Four months into life with a Leaf, 
+here are some notes and lessons that we learned:
+
+Electric cars will work for most people – today: My wife and I consistently 
+cover about 85 miles on a fully charged battery. That works for us: we both 
+work from home, and our default option is to walk 15 minutes to a nearby 
+regional train station. My wife, a city planning commissioner who also sits on 
+several non-profit boards, drives about 75 miles each week to and from 
+community meetings. For out-of-town trips, we borrow my brother’s Prius.
+
+However, even if one of us held a job requiring a commute equivalent to the 
+average American’s daily round-trip commute by car –less than 30 miles 
+<http://pllqt.it/eserwk>, according to the US Department of Energy (DOE) – the 
+Leaf’s range would be more than sufficient. In fact, unless you’re a “
+megacommuter 
+<http://www.census.gov/newsroom/releases/archives/american_community_survey_acs/cb13-41.html>
+”, why base the decision to purchase a car on the handful of times each year 
+you might need a car with a 250-mile range or more for long trips?
+
+Expect the EV owner’s initiation: In the four months that I've been driving a 
+Leaf, I've already discovered that there are several EV pitfalls. There are 
+charge hogs who remain tethered to a charging post long after a full charge or, 
+worse, squatters who park in an EV-only charging spot anddo not charge. 
+
+I’ve had a charging session inexplicably end minutes after sitting down at a 
+nearby cafe when the charging station malfunctioned. I’ve rolled up to a 
+station and been unable to withdraw a hopelessly stuck charging nozzle from its 
+holster. And I’ve beenICE’d 
+<http://www.greencarreports.com/news/1078298_been-iced-gas-cars-parking-in-electric-car-charging-spots-video>
+ – blocked from charging by a gas-burning SUV. In the last case, I reported the 
+scofflaw to a parking garage attendant and – I won’t lie – smiled when a ticket 
+was waiting on the offender’s windshield when I returned to the garage.
+
+More charging stations needed, free public charging won’t last: Backed by 
+funding from DOE and the stimulus <http://www.theevproject.com/overview.php>, 
+the number of charging stations, installed by companies like Coulomb 
+Technologies (now ChargePoint) and ECOtality (later purchased by the Car 
+Charging Group), have already spread quickly, especially in first-mover markets 
+like California. According to DOE, there are nowsome 8,200 EV charging stations 
+and nearly 20,000 charge 
+<http://www.afdc.energy.gov/locator/stations/results?utf8=%E2%9C%93&location=&filtered=true&fuel=ELEC&owner=all&payment=all&ev_level1=true&ev_level2=true&ev_dc_fast=true&radius_miles=5>
+ outlets in the United States.
+
+Even though a majority of charging is done at home <http://pllqt.it/AgUYQW> or 
+at work, more public charging stations are necessary. In my part of the Bay 
+Area, competition for available charging outlets is already fierce, and my 
+hometown of Concord, population 125,000, has yet to install charging stations 
+at any of the customary spots: City Hall, the library or city-owned parking 
+garages.
+
+For now, charging at many public stations is free – more than 70% of the 
+stations in ChargePoint's network <http://pllqt.it/dD1ALL>, the nation’s 
+largest, provide charging at no cost – and without time limits. But, alas, free 
+public charging is unlikely to last for long. To recoup the costs for 
+electricity, maintenance, and vandalism, Bay Area cities have already started to
+roll back this incentive 
+<http://www.govtech.com/transportation/Cities-End-Free-Ride-at-Electric-Vehicle-Charging-Stations.html>
+. In March, one city, Martinez, began charging $1 per hour and limited sessions 
+to four hours. At the end of June, Pleasant Hill plans to charge $0.20 per 
+kilowatt-hour (kWh) and limit charging sessions to three hours.
+
+To put this in context, our Leaf has a 6.6 kilowatt (kW) onboard charger. 
+Charging it at one of Pleasant Hill’s Level II 240-volt charging ports for 
+three hours would cost us $3.60 (18 kilowatt-hours X $0.20/kWh).
+
+Nissan has stepped in to help with the charging situation. In April, it 
+introduced a program called EZ-Charge 
+<http://nissannews.com/en-US/nissan/usa/releases/nissan-launches-programs-to-make-leaf-charging-free-and-ez>
+, which would enable Leaf owners to charge in four networks – AeroVironment, 
+Blink Network (operated by Car Charging Group), NRG eVgo and ChargePoint – with 
+one access card. Nissan’s “No Charge to Charge” promotion, which launches on 1 
+July, will provide two years of free public charging with the purchase or lease 
+of a new Nissan Leaf on or after 1 April 2014.
+
+On 20 May, ChargePoint withdrew from EZ-Charge 
+<http://www.sfgate.com/business/article/Electric-car-charging-program-hits-speed-bump-5493482.php>
+; Nissan says the program will still launch on 1 July as planned. A 
+little-known perk also allows Leaf drivers to charge for free at any Nissan 
+dealership, provided the charge posts are not being used by dealership cars.
+
+Lease or buy? Betting on better batteries: Every car shopper must grapple with 
+whether to lease or buy. In our case, my wife and I decided to lease our Leaf 
+because we are confident that innovation will continue to drive down the cost 
+of batteries and increase their energy density, extending an EV’s range.
+
+For these reasons, Consumer Reports recommends that EV drivers lease 
+<http://www.consumerreports.org/cro/news/2013/06/electric-car-lease-deals-are-the-best-way-to-drive-an-ev/index.htm>
+ – for now. By 2017, when our lease is up, we’ll likely be ready to buy. As it 
+turns out, our timing could be perfect: Nissan’s Andy Palmer recentlytold 
+Automotive News 
+<http://www.autonews.com/article/20140507/OEM05/140509845/nissans-next-evs-more-mainstream-better-battery>
+ that the automaker plans to use a new battery chemistry that will 
+significantly increase the single-charge range of the next-generation Leaf, 
+which should roll out in 2017.
+
+The social impact hub 
+<https://www.theguardian.com/sustainable-business/social-impact> is funded by 
+Anglo American. All content is editorially independent except for pieces 
+labelled advertisement feature. Find out morehere. 
+<https://www.theguardian.com/sponsored-content>
+ 

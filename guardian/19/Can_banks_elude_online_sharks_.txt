@@ -1,0 +1,154 @@
+
+Asenior policeman horrified MPs earlier this week by alleging that banks are 
+covering up the extent of online fraud, and that losses from schemes such as 
+"phishing" are really far greater than the pounds 22.5m announced for the first 
+six months of this year in the UK (Banks hiding online fraud, December 5).
+
+Yet one would think avoiding such fraud should be easy. If an email claiming 
+to be from your bank asks you to click on a link and fill in your password, do 
+you? People do - and the UK banks' official report last month noted that the 
+number of phishing attacks has risen in the past 12 months from a few hundred 
+to thousands.
+
+Those who fall for them are more likely to follow a link that looks like the 
+name of their bank, since it is trivial to impersonate a bank's site by copying 
+its images and layout. Online crooks pretending to be Barclays Bank couldn't 
+use www. barclays.com; the bank already owns it. But what about 
+Barclays-bankcard.co.uk? That domain name, which will look plausible to many, 
+was on offer last weekend for pounds 200: it was for sale at Sedo, an online 
+marketplace for people to sell domain names. You could also have picked up 
+myvisacard.eu for euros 150 (pounds 101) and Lloyds-bank-tsb.co.uk for pounds 
+200. Or how about hsbcgroupuk.com for a mere $100 (pounds 50)? We might guess 
+that similar domain names will be used by phishers, but we can't prove that 
+until it happens. Shouldn't there though be some checks to prevent the trade in 
+phisher-friendly domain names?
+
+"There are no safeguards whatsoever against someone registering a domain name 
+and using it for nefarious purposes," says Richard Martin, a business security 
+consultant at the UK clearing bank group Apacs. Barnaby Davis, director of 
+electronic banking for Barclays, says: "We're well past the tipping point when 
+something needs to be done that makes it harder to register URLs or makes the 
+consequences for misuse harsher."
+
+But domain registration has become easier, not harder. Websites using generic 
+top-level domains such as .com, .net and .info are very easy to register thanks 
+to the high level of automation involved.
+
+Lost cause This approach has allowed online fraudsters to taint the most 
+popular top-level domains beyond the point of no return, says Mikko Hypponen, 
+chief research officer at anti-malware company F-Secure. ".com, .net and .uk 
+are already a lost cause. We can't fix those any more," he shrugs.
+
+The .com and .net top-level domains are well-known, but there are others that 
+languish in obscurity. How often do you see a website with the .pro suffix, 
+which is reserved for professionals with credentials? Or how about .name, which 
+was designed for individuals to register their own names? .biz, originally 
+intended for businesses, is now largely used by pornographers and scammers, 
+while few companies use .jobs, originally meant for employment-related sites.
+
+No wonder, then, that experts are calling for top-level domains such as .bank 
+or .secure, which might actually have some use if properly administered. Among 
+them is Hypponen, who says: "The only real way to fix this is to forget about 
+those old domains and come up with a new one that can only be used by 
+authorised organisations."
+
+Stringent background checks could be run against organisations wanting to 
+register, he says. This already happens for some other specially created 
+top-level domains. Applicants for a .museum name must obtain an ID verifying 
+their membership of the museum community, for example. Paul Twomey invites the 
+financial sector to make its case. He is president of the Internet Corporation 
+for Assigned Names and Numbers (Icann), which governs the net's domain naming 
+system, and licenses domain registrars.
+
+Further liberalisation "Icann's Generic Names Supporting Organisation is 
+working out a policy for the further liberalisation of the market to enable the 
+registration of new top-level domains," he says. Icann is meeting next month in 
+Sao Paulo to discuss how the application process will be revised. "I expect 
+that will come through in 2007. It would certainly give the financial services 
+sector the opportunity to propose a '.bank', which they could run as a 
+top-level domain for the financial services sector alone," he says.
+
+Martin fears that politics could get in the way of the technology, arguing 
+that moves to open up Europe's financial markets could muddy these waters. 
+"What are the criteria under which an organisation could be accepted as a 
+.bank?" he asks. Broaden it out to include non-bank e-commerce businesses, and 
+the situation becomes even murkier.
+
+Today, the alternatives are limited. Holders of trademarks must watch for 
+infringing domain registrations or resales and raise the alarm themselves, says 
+Jeremiah Johnston, general counsel for Sedo. "It's up to them to protect 
+themselves and their consumers," he says.
+
+Banks are doing the work. Barclays uses third-party services systematically to 
+check for infringing domain names, responds Davis. But: "even with a 
+significant external resource, it's an uphill battle and the volume is 
+increasing."
+
+Anyway, the law and the phishers oper ate at dramatically differing speeds. 
+Both Icann and country-level registrars have dispute resolution processes to 
+solve problems like these, but a complaint about domain ownership must be filed 
+and legally resolved. Then the company hosting the domain has to be issued with 
+a court order to take the domain down. This can all take months, while phishers 
+need only hours to steal hundreds of credit card details via a crooked domain 
+name - which can be set up in minutes.
+
+"It's almost impossible to stop people registering different domains. It needs 
+a different approach, with harder global policing around who can register what 
+and how," Davis suggests. He sees potential in a database of suspicious words 
+and predictable misspellings. Attempts to register these names could raise 
+alarms with registrars and hosting companies.
+
+"It's not that easy," says Johnston, arguing that trademark law, in 
+combination with the number of permutations surrounding a trademarked name, is 
+complex enough to make such an endeavour difficult. "Even with 'visa', for exam 
+ple, if someone wanted to offer immigration services under visa.com, that 
+wouldn't be a trademark infringement."
+
+But wouldn't it be worth calling the person who buys myvisacard.eu, just to 
+ensure that they're on the level? That would require manual intervention in a 
+process driven towards automation - and that is the root of the problem.
+
+Even combining proposals from the security and financial communities won't 
+stop phishers altogether. There are always other techniques to help facilitate 
+online fraud. A system file on a Windows PC - called the hosts file - can be 
+altered using Trojan horse software to make the PC think that it is visiting a 
+legitimate website while directing it to another. URL spoofing attacks have 
+exploited browser security flaws in the past.
+
+Bringing stakeholders and domain policymakers together could ease the problem 
+and reduce the victim count. There will always those who don't heed 
+anti-phishing advice. But once the community has done all it can, the rest 
+could legitimately be considered triage.
+
+· Don't get caught by phishermen
+
+The modus operandi, and purpose, has changed little; only the rewards have 
+grown. Phishers with access to a bank, Amazon, eBay or Paypal account - the 
+most common targets - can cost the unwary owner thousands of pounds in a matter 
+of hours.
+
+As warnings about phishing proliferate, so do the scams. So be aware of the 
+steps required to not fall victim.
+
+· Don't give your username and password to anyone who emails you. They ought 
+to have it already if they're authorised to. Email is an insecure medium: it is 
+trivial to "spoof" the From: address, as spammers demonstrate millions of times 
+a day.
+
+· Get a mail program with anti-phishing systems built in. Thunderbird (
+www.mozilla.com <http://www.mozilla.com>) is free. The latest version of Eudora 
+(eudora.com <http://eudora.com>) does, but it will probably be merged into 
+Thunderbird from next year.
+
+· When you get a mail purporting to be about an eBay, Amazon, bank, or other 
+transaction - including those saying, "Your order for a Sony VAIO has been 
+processed" when you hadn't ordered one - hold your mouse over any URL in the 
+message to see if it matches. If not, don't click.
+
+· Get a browser that will alert you to phishing sites. On Windows, these are 
+available for Internet Explorer 7 and Firefox 2, and expected in Opera 9.1. On 
+Apple's OSX, only Firefox 2 presently offers this.
+
+If you'd like to comment on any aspect of Technology Guardian, send your 
+emails totech@theguardian.com <mailto:tech@theguardian.com>
+ 

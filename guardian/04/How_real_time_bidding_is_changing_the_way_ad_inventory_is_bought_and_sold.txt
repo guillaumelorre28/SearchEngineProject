@@ -1,0 +1,82 @@
+
+"Real-time bidding" (RTB) describes the automated way in which advertising 
+inventory (mobile or desktop) is bought and sold via technology platforms such 
+as ad exchanges or supply-side platforms (SSP). It's a relatively new 
+technology and as a result we find that many people in the wider industry 
+aren't sure how it works, or what the benefits are.
+
+One way of thinking about it is to look at how the financial markets operate. 
+Ad exchanges or SSPs (such asMoPub <http://www.mopub.com/> and others) can be 
+compared to the likes of the NASDAQ or NYSE. Stocks are akin to ad impressions, 
+sellers of the stocks are publishers and the demand-side platforms (DSPs) such 
+asE*Trade <https://us.etrade.com/home> are most closely related to the buyers.
+
+So why does RTB matter?
+
+The introduction of RTB technology into the mobile ecosystem has helped 
+address a number of challenges that both publishers and DSPs are faced with. Ad 
+exchanges leverage RTB to address issues with scale, inefficiency and control 
+that plague both parties, so it is worth taking a moment to understand what it 
+means and how it can apply to your digital marketing efforts.
+
+By aggregating and automating access to demand, RTB can address the 
+inefficiency publishers are faced with by having to work with all of these 
+partners directly. So a publisher can now access more than 100 DSPs through a 
+single integration with an ad exchange or SSP.
+
+Additionally, tools within ad exchanges allow a publisher to implement a set 
+of business rules that automate who can access and purchase the inventory and 
+at what price, providing added control for publishers.
+
+How it works
+
+For how this works in practice, let's consider a hot gaming application 
+developer that supports in-app advertisments. Let's assume that the publisher 
+has quickly risen to the top of the app store rankings, and is now seeing 
+explosive growth in its user base.
+
+Inbound inquiries come from marketers, advertising networks and agencies, all 
+interested in buying ads in their latest application. The challenge is that 
+they aren't staffed up to support each one of these requests individually, but 
+at the same time, don't want to turn away a clear revenue opportunity.
+
+This is a great example of a publisher who might look to an ad exchange that 
+supports real-time bidding as a way to scale monetisation, connecting them 
+through a single point of integration to hundreds of advertisers.
+
+Advertisers can benefit from RTB too. With publishers consolidating their 
+inventory into fewer sources, DSPs no longer have to tackle the fragmentation 
+of supply, a historical point of friction and inefficiency. DSPs leverage 
+automation, technology built within the DSP allows the marketer to dictate in 
+real time what they are willing to pay for a particular ad impression. Gone are 
+the days of "spray and pray". With precision, marketers can ensure that they 
+are serving the right impression to the right audience at the right time.
+
+Let's continue with the gaming app example above, but approach the scenario 
+from an ad buyer's perspective. A large telecoms marketer has been keeping a 
+close eye on the explosive growth of this publisher's latest application and 
+identifies that the audience is a spot-on match for an upcoming advertising 
+campaign.
+
+The marketer pulls together the parameters and goals for their upcoming 
+campaign and reaches out to their DSP partner who is connected to the ad 
+exchange this publisher leverages. After the campaign details are communicated 
+and entered into the DSP's tool, within minutes the telecoms marketer's ads are 
+now appearing in the hot gaming publisher's latest application.
+
+So if you're a publisher or an advertiser, it's worth taking a little time to 
+understand how RTB might apply to your business. For many parts of the online 
+advertising industry, there's a more efficient market to be discovered and a 
+great opportunity to capitalise on economies of scale.
+
+Janae McDonough is director of exchange at Twitter <https://twitter.com/>. You 
+can follow her@janaer64 <https://twitter.com/JanaeR64>.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media Network content is editorially independent except for 
+pieces labelled 'Advertisement feature'. Find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

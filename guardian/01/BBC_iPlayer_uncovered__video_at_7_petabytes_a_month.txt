@@ -1,0 +1,49 @@
+
+The BBC's iPlayer has been a huge success, and nothing illustrates that better 
+than the amount of data it ships. iPlayer boss Anthony Rose has revealed some 
+of the numbers inan interview with CNet UK's Crave 
+<http://crave.cnet.co.uk/software/0,39029471,49302215-1,00.htm>, and he says:
+
+"I think that at the moment, just for streaming, iPlayer 
+<https://www.theguardian.com/media/iplayer> uses about 60Gbps of bandwidth 
+(that's about 7.5GB downloaded every second) in an evening peak. I think about 
+15Gbps for downloads, and about 1.5Gbps for iPhone. So overall on a particular 
+peak day we may hit 100Gbps (about 12.5 gigabytes per second) although 
+typically it'll be somewhat less than that. That turns out to be up to 7 
+petabytes of data transfer a month."
+
+Rose says the BBC no longer uses peer-to-peer distribution, which got a 
+negative reaction from some people (eg me). He wants us all to be "happy, 
+unequivocally, using iPlayer".
+Rose says the BBC <https://www.theguardian.com/media/bbc> uses about 60 
+servers to encode tapes in numerous different formats:
+
+"We create about 14 different formats, ranging from about 160Kbps for some 
+mobile, over-the-air streaming, through to 1,500Kbps for our highest iPlayer SD 
+quality stream, in H.264 played out as Flash. We also create 3Mbps [for 
+standard definition] on Virgin Media, and now for our HD content we create 
+3.2Mbps HD. So it's about 14 or 15 flavours.
+"We typically make a 3GP format, which is really H.264. We make VP6, H.264, 
+MPEG-2 and we make Windows Media Video. And then we deliver those in various 
+ways."
+
+The BBC provides the RealPlayer format for mobile devices, while the WMV is a 
+"DRM format, typically where you can download or side-load to portable media 
+players or Windows Media Center or Windows Media Extender devices."
+
+Rose is also asked about the choice of Adobe Air for the iPlayer client 
+software platform. He says:
+
+"We had to be on Mac, PC and Linux, so we spent a lot of time analysing 
+solutions that we could use, including what I call 'speed dating' companies 
+that offer solutions in this area. But ultimately we chose Adobe Air for two 
+key reasons: number one, it had a system that allowed our seven-day or 30-day 
+playback to be enabled and controlled on PC, Mac and Linux. That's a 
+requirement of a DRM, not that we want to use DRM, but we're forced to because 
+we make content available for download. It's part of our rights framework."
+
+Rose also notes that iPlayer usage peaks a bit later than TV usage, "but 
+interestingly, iPlayer on the iPhone peaks at about midnight. So people are 
+clearly going to bed with their iPhone and watching in bed."
+
+ 

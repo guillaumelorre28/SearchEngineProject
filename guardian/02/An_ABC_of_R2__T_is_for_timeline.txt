@@ -1,0 +1,56 @@
+
+Today T, for timeline... which looked like this:
+
+
+
+ * October 2005: Start detailed planning of Travel section. Involved about 12 
+people from Guardian and ThoughtWorks. Much preparation needs to take place 
+before work can begin. 
+
+ * February 2006: Start building the Travel section, initially focusing on the 
+servers, development environment and build pipeline. 
+
+ * May 2006: Launch first visible item on Travel section, a keyword component. 
+
+ * November 2006: Launch entire Travel section. From a technical standpoint it 
+was then the biggest single launch in the website's history, and one of the 
+smoothest then known. 
+
+ * January 2007: Start planning phase two. Involved around 20 people fulltime 
+for six weeks, but sufficient clarity was achieved after three weeks to start 
+one stream of work then. 
+
+ * May 2007: Launch new theguardian.com home page. Within hours of the launch, 
+Tony Blair obligingly announces his resignation as prime minister, allowing us 
+to make full use of our flexible templates as the story develops throughout the 
+day. 
+
+ * July 2007: Launch Science, Technology and Environment sections. Included a 
+new feature: series. This allows special navigation back and forth through 
+items in a series such asBad Science 
+<https://www.theguardian.com/science/series/badscience> or Nature Notes 
+<https://www.theguardian.com/environment/series/naturenotes>. 
+
+ * August 2007: Launch integrated video. Includes reskinned Brightcove player 
+with dynamically-inserted pre-roll advertising. 
+
+ * October 2007: Launch sections for Business, Society, Media, Money and 
+Guardian America. 
+
+ * February 2008: Launch Observer, News, and Politics sections, plus 
+integrated audio. 
+
+ * April 2008: Launch Sport and Football sections. Includes live scores and 
+fixtures <https://www.theguardian.com/football/matches>, and match facts 
+<https://www.theguardian.com/football/match/1203756> among other features. 
+
+ * June 2008: Launch Comment is Free. Includes community features from Pluck. 
+
+ * August 2008: Launch of Culture, Education and Life & Style sections, plus 
+14 blogs moving over from the old Movable Type system. 
+
+ * September 2008. Launch the remaining 21 blogs onto the new platform. Some 
+of these blogs didn't go in August due to the key part they played in August 
+news events, and some because they were awaiting additional features such as 
+remote working tools. 
+ 

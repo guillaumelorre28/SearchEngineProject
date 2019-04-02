@@ -1,0 +1,91 @@
+
+Messaging services such as WhatsApp, Facebook 
+<https://www.theguardian.com/technology/facebook> Messenger and Gmail will face 
+tough new rules on the tracking of users under a revision to the ePrivacy 
+Directive proposed by the European Commission on Tuesday.
+
+
+The new legislation seeks to reinforce the right to privacy and control of 
+data for European citizens, with messaging, email and voice services – such as 
+those provided by Facebook, Google andMicrosoft 
+<https://www.theguardian.com/technology/microsoft> – forced to guarantee the 
+confidentiality of conversations and metadata around the time, place and other 
+factors of those conversations.
+
+Listening to, tapping, intercepting, scanning or the storing of communications 
+will not be allowed without the consent of the user, unless it is critical for 
+billing or other purposes. Companies will have to ask for the explicit consent 
+of users before being able to use their data for advertising purposes, which 
+most use to fund services provided for free to end-users.
+
+Andrus Ansip, vice-president for the digital single market said: “Our 
+proposals will deliver the trust in the Digital Single Market that people 
+expect. I want to ensure confidentiality of electronic communications and 
+privacy. Our draft ePrivacy Regulation strikes the right balance: it provides a 
+high level of protection for consumers, while allowing businesses to innovate.”
+
+The rules governing the placing and use of cookies, which currently require 
+consent for all purposes and has led to acookie warning  
+<https://www.theguardian.com/technology/2015/mar/19/cookies-how-to-avoid-being-tracked-online>
+appearing on a site when visiting for the first time, are being simplified. The 
+EC hopes to remove the overload of cookie warnings.
+
+Cookies required for the operation of an internet experience that do not 
+impact on privacy, such as items in an online shopping cart, will no longer 
+require consent, nor will cookies used to analyse visitor numbers. But “privacy 
+intrusive” cookies will still require consent before being placed on a user’s 
+machine.
+
+The proposals also ban unsolicited and nonconsensual electronic communication, 
+and will require marketing calls to display their phone number or use a special 
+prefix only for marketing calls.
+
+Companies falling foul of the new laws will face fines of up to 4% of their 
+global turnover, in line with the separate General Data Protection Regulation 
+(GDPR) set to be applied in 2018.
+
+MEP and former vice-president of the European Commission, Viviane Reding, 
+welcomed the proposal but warned that scrutiny of the exemptions regarding 
+metadata and content was required. She said: “I salute the extension of the 
+scope to over-the-top services such asWhatsApp 
+<https://www.theguardian.com/technology/whatsapp>, the recognition of the 
+general principles of confidentiality and prior consent, and the many consumer 
+safeguards regarding unsolicited direct marketing communications and spam.”
+
+The EC’s proposal looks to close the perceived regulation gap between 
+traditional telecoms companies and predominantly US-based internet 
+communications companies. It extends some of the rules governing telecoms 
+operators to so-calledover-the-top 
+<https://en.wikipedia.org/wiki/Over-the-top_content> services, while also 
+allowing telecom companies to use customer metadata – such as the duration and 
+location of calls – to provide additional services and make more money, 
+something they are barred from doing under the current rules.
+
+The telecoms industry said the proposals were still stricter for them than web 
+companies. Lise Fuhr, director general of the European telecoms lobby ETNO 
+said: “Unlike others, telcos risk being prevented from expanding consumer 
+choice by using traffic and location data for big data analytics, Internet of 
+Things and connected driving services.”
+
+Online advertisers also warned that overly strict rules would undermine the 
+ability of many websites to fund themselves and offer free services. Yves 
+Schwarzbart, head of policy and regulatory affairs at the Internet Advertising 
+Bureau, said: “It will particularly hit those companies that … find it most 
+difficult to talk directly to end users and what I mean by that is tech 
+companies that operate in the background and facilitate the buying and selling 
+of advertising, rather than the ones that the user directly engages with.”
+
+Online advertising generates £10bn ($12bn) of revenue for publishers and 
+content creators in the UK alone, according to the IAB.
+
+The proposal requires approval from the European Parliament and member states 
+before becoming law,. It is set to join the much needed update to data 
+protectionvoted through under the GDPR 
+<https://www.theguardian.com/technology/2016/apr/14/european-parliament-approve-tougher-data-privacy-rules>
+, which will apply to the UK from 25 May 2018, despite the Brexit process.
+
+ * European parliament approves tougher data privacy rules 
+<https://www.theguardian.com/technology/2016/apr/14/european-parliament-approve-tougher-data-privacy-rules>
+
+ * EU charges Facebook with giving ‘misleading’ information over WhatsApp 
+<https://www.theguardian.com/technology/2016/dec/20/eu-facebook-misleading-information-whatsapp> 

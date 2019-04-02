@@ -1,0 +1,423 @@
+
+My interest in virtual reality was virtually nil – until last month. When I 
+thought of it, I pictured low-budget sci-fi movies with bad special effects. I 
+thought of those pixellated posters, popular in the mid-1990s, the ones where 
+you would stare at the wall and a three-dimensional vision of an underwater 
+city would slowly emerge from a cluster of purple dots.
+
+I thought of it as something that turned on adolescent gamers who sat at home 
+in their underpants with the curtains closed and who dreamed of a day when they 
+could fully inhabit the body of the bank robber guy with the stubble and the 
+biceps inGrand Theft Auto 
+<https://www.theguardian.com/technology/grand-theft-auto>. I thought of 3D 
+glasses in 1950s movie theatres and the 360-degree cinema screens your parents 
+took you to when you went on holiday to France and it was raining. The whole 
+idea of virtual reality made me want to stifle an actual reality yawn. In 
+short: I was clueless.
+
+But that was before I visited the Virtual Human Interaction Laboratory 
+<https://vhil.stanford.edu/> at Stanford University in Silicon Valley and had a 
+sleek black headset containing an eight-camera infra-red tracking system 
+strapped to my skull. That was before I stood on a floor made from aeroplane 
+steel and fitted with “shakers” that simulated surface motion and before I 
+experienced a spatialised sound system and before I had sensors attached to my 
+wrists that responded to my movements. That was before I’d flown like a 
+superhero.
+
+I’m greeted like an old relic because I have never tried the Oculus Rift 
+headset
+
+“Put your arms out to take off,” the laboratory manager Shawnee Baughman says, 
+as if this is all perfectly normal. I do as instructed. There is a whoosh of 
+air, a shudder beneath my feet and then I’m swooping through the sky, arms 
+outstretched into the vast blue beyond as I fly through a computer animated New 
+York City. Looking down, I can make out the traffic lights and empty streets 
+far below. I can feel the slicing movement of the air each time I turn. I fly 
+into a skyscraper, just to see what happens. I feel a surge of nausea as I 
+crash into the wall and then the bricks shatter on impact. It is incredibly 
+convincing.
+
+When I move my arms together, I go faster. When I point them towards the 
+ground, I fly downwards. As I land, my knees vibrate with the impact. I remove 
+the virtual reality headset, my palms sweaty with exhilaration. I am an 
+immediate convert. There’s nothing like pretending you’re Wonder Woman to 
+counteract your own ignorant scepticism.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F11%2Fvirtual-reality-oculus-rift-stanford-silicon-valley-facebook%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F10%2F7%2F1444217445564%2Fb0ce25ca-192d-452e-ae54-79125e8dcec8-1020x612.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Virtual%20reality%3F%20Not%20for%20me.%20Then%20I%20turn%20into%20Wonder%20Woman%20and%20fly%20over%20New%20York&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F11%2Fvirtual-reality-oculus-rift-stanford-silicon-valley-facebook%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Virtual%20reality%3F%20Not%20for%20me.%20Then%20I%20turn%20into%20Wonder%20Woman%20and%20fly%20over%20New%20York&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F11%2Fvirtual-reality-oculus-rift-stanford-silicon-valley-facebook%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F10%2F7%2F1444217445564%2Fb0ce25ca-192d-452e-ae54-79125e8dcec8-1020x612.jpeg>
+ Screenshot from the virtual city that Elizabeth Day flew around in. 
+Photograph: Stanford VR Lab 
+“The special thing about VR,” says Baughman as she takes the headset from me, 
+“is that the scene responds to the way you are moving. It’s fully immersive.”
+
+So immersive that I feel slightly car sick. Apparently that happens a lot: in 
+real life, your eyes move when you’re looking at an object and the lens in each 
+eye adjusts to bring whatever is in front of you into focus. With a flat, 
+lit-up screen, that’s not possible. The solution lies in eyeball tracking. The 
+Stanford VR headset has tracking LEDs that manage 200 frames a second, which is 
+pretty sophisticated. “My boss has a joke,” Baughman says, “that the five most 
+important things about virtual reality are tracking, tracking, tracking, 
+tracking and tracking.”
+
+She chuckles. It’s not the best joke I’ve ever heard. Perhaps it works better 
+in a world of virtual humour.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1hW7WcwdnEg&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1hW7WcwdnEg>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1hW7WcwdnEg&media=>
+ One Dark Night: Emblematic Group’s reconstruction of the killing of Travyon 
+Martin 
+Virtual reality is at a pivotal moment. For years, it has been talked about in 
+the tech community as a sort of holy grail. As far back as 1939, the author 
+Stanley G Weinbaum was writing about a goggle-based virtual reality system with 
+holographic recordings of fictional experiences. By 1968, the American computer 
+scientistIvan Sutherland 
+<http://www.simpublica.com/technology/the-sword-of-damocles-and-the-birth-of-virtual-reality/>
+ had designed a virtual reality head-mounted system that was so cumbersome it 
+had to be suspended from the ceiling and was called, terrifyingly, the Sword of 
+Damocles.
+
+
+Throughout the 1990s, the concept of VR seemed to be moving ever closer (a 
+1992 edition ofComputer Gaming World confidently predicted affordable virtual 
+reality within two years) but limited computing power ensured these theories 
+remained purely hypothetical. Then everyone got their attention diverted by a 
+more promising prospect: the internet. Today, substantial advances in computer 
+science mean that virtual reality visionaries finally have the technological 
+power to implement their ideas. Major companies including Sony, Oculus and HTC 
+are already developing headsets for use in the home that will be on sale in the 
+first quarter of 2016. By the end of next year, it is estimated there could be 
+12.2 million VR headsets in our houses, retailing from $99 to $500 (not 
+including the compatible computing systems).
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F11%2Fvirtual-reality-oculus-rift-stanford-silicon-valley-facebook%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F10%2F1%2F1443702588991%2F00872e45-77e1-41e9-b03a-b734f11525a0-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Virtual%20reality%3F%20Not%20for%20me.%20Then%20I%20turn%20into%20Wonder%20Woman%20and%20fly%20over%20New%20York&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F11%2Fvirtual-reality-oculus-rift-stanford-silicon-valley-facebook%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Virtual%20reality%3F%20Not%20for%20me.%20Then%20I%20turn%20into%20Wonder%20Woman%20and%20fly%20over%20New%20York&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F11%2Fvirtual-reality-oculus-rift-stanford-silicon-valley-facebook%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F10%2F1%2F1443702588991%2F00872e45-77e1-41e9-b03a-b734f11525a0-2060x1236.jpeg>
+ Wearing an Oculus Rift headset to play a video game in the Pocket Queries 
+booth at the this year’s Tokyo Game show. Photograph: Getty Images 
+Google has developed a flat-pack version made out of cardboard, called 
+Cardboard 
+<https://www.theguardian.com/technology/2015/jun/12/google-cardboard-virtual-reality-vr-headset>
+, which is exactly the kind of ingenious, innovatory thought leadership you 
+expect from cutting-edge tech developers.
+
+Cardboard consists of two magnifying lenses that can be inserted into a 
+rectangular holder into which slots your smartphone. You can then download 
+content from a virtual reality app and view it through the DIY headset. I’ve 
+tried it and, despite looking like aBlue Peter 
+<https://www.theguardian.com/tv-and-radio/blue-peter> experiment with 
+double-sided sticky-tape, it works fairly well.
+
+Virtual reality enthusiasts say it’s the next big thing: an idea as capable of 
+transforming our lives as the mobile phone. “In just a few years, VR has gone 
+from being this science fiction dream to an awesome reality,” said Facebook 
+founderMark Zuckerberg <https://www.theguardian.com/technology/mark-zuckerberg> 
+last month. “And now we all here have a chance to change the way we play, 
+communicate and collaborate.”
+
+Zuckerberg, who knows a thing or two about predicting trends, bought one of 
+America’s leading virtual reality technology companiesfor $2.3bn last year 
+<https://www.theguardian.com/technology/2014/mar/25/facebook-buys-virtual-reality-gaming-firm-oculus>
+. Oculus VR is the idea of a 23-year-old wunderkind called Palmer Luckey and 
+its acquisition by Facebook opens up a plethora of opportunity for the social 
+network – from collaborative 3D computer games to enabling a friend who 
+couldn’t attend a wedding to experience the service in 360-degree video.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DN7q-ZE0119I&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DN7q-ZE0119I>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DN7q-ZE0119I&media=>
+ A selection of games and experiences soon to be available on the Samsung Gear 
+VR headset 
+Eugene Chung, the former head of film and media at Oculus who recently left to 
+start up his own“augmented and virtual reality studio” 
+<http://www.penrosestudios.com/>, calls it a watershed moment. He cites the 
+myth surrounding one of theLumière brothers’  
+<https://www.youtube.com/watch?v=d_9N68MO9gM>first cinema films in 1896 of a 
+train arriving at a station. The astonished audience, unaccustomed to watching 
+a moving picture, were said to have run to the back of the room in terror at 
+the oncoming train.
+
+
+“You have this thing that is so different from anything you’ve experienced 
+before, that you run away from it,” says Chung. “The next few months and years, 
+you’re going to see that with virtual reality. The first time I tried it, it 
+blew my mind.”
+
+Oculus has big ambitions. When I go along to its second annual developer 
+conference <https://www.oculus.com/en-us/connect/>, held in a plush hotel in 
+Hollywood, it is full of men in polo necks speaking into microphone headsets 
+about “Twitch streams <http://www.twitch.tv/>” and “recommended specs” to a 
+packed auditorium. Zuckerberg himself makes an appearance to announce that VR 
+will be “the next great tech platform that’s going to define the way we connect 
+in the future”.
+
+Everyone claps. The ratio of women to men wearing T-shirts bearing humorous 
+slogans (“Eminence Geek”, “Binary, it’s as easy as 01, 10, 11” etc) is probably 
+running at about 1:6. I am greeted like some kind of relic from a past age 
+because I’ve never tried the Oculus Rift headset. The Rift is about as good as 
+it gets: a state-of-the-art headset with displays and optics designed 
+specifically for VR.
+
+“You’ve never put one of these on before?” asks a bearded type who is 
+overseeing the demo room. I shake my head. “Wow,” he says, looking at me as if 
+I amMarty McFly.  <http://www.imdb.com/character/ch0001829/>He slips on the 
+headset, which feels lighter than the one in Stanford and more snugly fitted. 
+He hands me an Xbox control panel. “You’re familiar with the Xbox controls, 
+right?”
+
+I have played an Xbox precisely once in my life. It did not go well.
+
+“Yes,” I lie.
+
+“OK, then.” He starts up the demo. A curved screen in front of me offers me a 
+choice of games to play. A floating cursor moves with my gaze. I opt for 
+something called Chronos because it sounds a bit Greek and a bit like a bowel 
+disease.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvNPfkoAhaLI&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvNPfkoAhaLI>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvNPfkoAhaLI&media=>
+ Chronos Reveal Trailer. 
+And: it’s extraordinary. I’m immediately pitched into some sort of Mayan 
+temple. My avatar is a warrior with a sword. When I jiggle the controls to make 
+him move, there is the sound of footsteps and also – hard to explain, this – 
+the feel of feet shifting. I can turn my head and look over my shoulder and see 
+the continuation of the vista: rocks and temple ruins and jungle plants. I 
+could quite happily hang out here, just taking everything in.
+
+But I’m intrigued. So I make my warrior walk into an open doorway and am 
+confronted by a massive monster that looms over me so realistically that I 
+physically cower in my chair. I last about two seconds before the monster 
+squashes me and it’s game over.
+
+“You picked it up very quickly,” says the bearded guy after I remove the 
+headset. I think he’s just being nice. Again, I have that same vague sensation 
+of motion sickness.
+
+Although the gaming market will be the testing ground, there are countless 
+other applications that are being explored.
+
+Afterwards, I talk to Ted Price, the president and CEO of Insomniac Games 
+<http://www.insomniacgames.com/> which he founded in 1994. Price has 
+penetrating blue eyes which become almost hypnotic the more he talks about VR. 
+He makes several attempts to express what virtual reality is like to someone 
+who hasn’t experienced it and then admits defeat.
+
+“It’s like talking about how something tastes,” he says. “You can’t understand 
+it unless you try it.” What excites him most is that gaming in virtual reality 
+“could have a much broader appeal just because of the sense of place you get, 
+which in some sense is as important as the game itself. It’s where the lines 
+blur a little between what is a game and what is an immersive experience … Your 
+world surrounds you and that’s a huge difference.”
+
+His company is developing a VR game which will put the player in the skin of 
+an Antarctic explorer. The more the journey goes on, the more surreal it 
+becomes so that the game becomes a test of mental strength as much as anything 
+else.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F11%2Fvirtual-reality-oculus-rift-stanford-silicon-valley-facebook%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F834694493a624c8dec69521f15ef3b2c4cd7b5f4%2F0_0_2937_1761%2F2937.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Virtual%20reality%3F%20Not%20for%20me.%20Then%20I%20turn%20into%20Wonder%20Woman%20and%20fly%20over%20New%20York&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F11%2Fvirtual-reality-oculus-rift-stanford-silicon-valley-facebook%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Virtual%20reality%3F%20Not%20for%20me.%20Then%20I%20turn%20into%20Wonder%20Woman%20and%20fly%20over%20New%20York&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F11%2Fvirtual-reality-oculus-rift-stanford-silicon-valley-facebook%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F834694493a624c8dec69521f15ef3b2c4cd7b5f4%2F0_0_2937_1761%2F2937.jpg>
+ Virtual Reality ‘Future Fashion’ Event at Westfield. Photograph: Tim P. 
+Whitby/Getty Images for Westfield 
+“We want players to question whether what they see is real,” says Price. “So 
+we’re playing with a player’s 3D spatial experience. Is this glacier real or is 
+it a figment of my imagination? So it becomes a psychological thriller. We have 
+the ability to tell a story in a way we have not told them before.”
+
+In fact, much of the most interesting work in virtual reality springs from 
+this same desire to find new ways of storytelling. Although the gaming market 
+will be the testing ground, there are countless other applications that are 
+also being explored.
+
+The film director Gil Kenan, whose previous work includes the Poltergeist 
+remake andCity of Ember, is working on a virtual reality science-fiction movie 
+about an unwanted passenger on an outer space journey.
+
+What this means is that a cinemagoer in a VR headset will be in charge of 
+their own experience. So, instead of always having to follow the main narrative 
+action, they can choose to step into a different space and witness a scene 
+between two minor characters that would otherwise have ended up on the 
+cutting-room floor.
+
+The film would still be the same fixed length for all viewers, Kenan explains, 
+but: “If you’re doing the job right, there will be layers of storytelling that 
+can’t be consumed in a single viewing. For example, there could be a 
+foreshadowing of future events or events on the margins that could be just as 
+thrilling or tense.”
+
+Could virtual reality revolutionise crisis-response filmmaking ?
+ Read more  
+<https://www.theguardian.com/technology/2015/aug/13/virtual-reality-crisis-response-filmmaking-syria-aleppo>
+It’s like a multi-layered Russian novel, I say. “Yes!” he says delightedly. 
+“I’m trying to be the Tolstoy of the big screen! I’m thinking of it in terms of 
+five-minute stories within a bigger narrative and scope.”
+
+What will this mean for film critics? How will they review a single movie that 
+incorporates so many user experiences?
+
+“They will have to talk about the totality rather than one cursory viewing.” 
+So it’ll be more work?
+
+“More work,” Kenan admits. “That’s why I’m making it shorter. Also, I don’t 
+think we’ve reached enough understanding of this medium to understand what a 
+logical length of time is for these experiences because most of it, at the 
+moment, is two to five minutes because it’s the demo phase.”
+
+There are other interesting VR entertainment developments in the pipeline. 
+VRLive <http://www.vrlive.com/>, for instance, is a broadcasting company that 
+records concerts in 360-degree virtual reality. It has already done a version 
+for a U2 gig which puts the user slap-bang in the front row, close enough to 
+see Bono’s Cuban heels.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F11%2Fvirtual-reality-oculus-rift-stanford-silicon-valley-facebook%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F10%2F1%2F1443702820366%2F820ba8b9-f186-4698-a151-608d113e0028-1020x612.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Virtual%20reality%3F%20Not%20for%20me.%20Then%20I%20turn%20into%20Wonder%20Woman%20and%20fly%20over%20New%20York&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F11%2Fvirtual-reality-oculus-rift-stanford-silicon-valley-facebook%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Virtual%20reality%3F%20Not%20for%20me.%20Then%20I%20turn%20into%20Wonder%20Woman%20and%20fly%20over%20New%20York&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F11%2Fvirtual-reality-oculus-rift-stanford-silicon-valley-facebook%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F10%2F1%2F1443702820366%2F820ba8b9-f186-4698-a151-608d113e0028-1020x612.jpeg>
+ Palmer Luckey, creator of the Oculus Rift. Photograph: Getty Images 
+“I know the live experience is huge,” says co-founder Dann Saxton. “But we’re 
+talking about releasing virtual ticketing if the house is full and people can 
+no longer buy tickets to go to the event itself.”
+
+In the future, virtual reality could be used for school trips in the 
+classroom. Pupils could more fully experience what it would be like to live in 
+a bygone era, for example, or could travel to far-flung lands without ever 
+leaving their desks. At Oculus, I learn of one company that is seeking to use 
+VR for geriatric care by giving elderly people who live on their own virtual 
+reality consultations with their doctor.
+
+There is pioneering work being done at Stanford’s virtual human interaction 
+laboratory in this field too. The lab runs psychological experiments under the 
+guidance of Professor Jeremy Bailenson to explore the scope of human empathy.
+
+Facebook joins YouTube in showing 360-degree videos – including Star Wars
+ Read more  
+<https://www.theguardian.com/technology/2015/sep/24/facebook-youtube-360-degree-videos-star-wars>
+In one video, you put on the headset and find yourself confronted by a long 
+mirror running the length of one wall. When I look at my reflection, an elderly 
+man looks back at me. When I move my arm, the avatar moves his. When I turn, 
+I’m being shouted at in discriminatory terms by an angry person. This is 
+intended to show people who might not have experienced discrimination on 
+grounds of age or race what it feels like to be in another person’s skin and it 
+is surprisingly effective.
+
+Another video shows people becoming aged versions of themselves. When 
+confronted by a greying image of their own face, this will – so the reasoning 
+goes – make them more likely to save for retirement. Merrill Lynch liked the 
+research so much it used the technology as the basis for designing its own 
+online app known asFaceRetirement <http://faceretirement.merrilledge.com/>, 
+which allows anyone with a laptop camera to create and interact with their 
+future self.
+
+There’s another demo that teaches users how to survive in the event of an 
+earthquake and Bailenson has also developed technology to place children with 
+chronic pain in virtual simulations that divert their brains from unpleasant 
+physical therapy and treatment. The children use avatars to perform distracting 
+exercises such as popping balloons. “VR experience changes the way you think of 
+yourself and others and changes your behaviour,” Bailenson said in an interview 
+earlier this year. “And when it’s done well, it’s a proxy for natural 
+experience, and we know experiences physically change us.”
+
+Taken to its logical conclusion, this has some worrying implications.
+
+“I can’t look you in the eye and claim that it only works for the good stuff,” 
+said Bailenson. “Am I terrified of the world where anyone can create really 
+horrible experiences? Yes, it does worry me. I worry what happens when a 
+violent video game feels like murder. And whenpornography feels like sex 
+<https://www.theguardian.com/technology/2015/jul/09/how-virtual-reality-porn-could-bring-about-world-peace>
+. How does that change the way humans interact, function as a society?”
+
+It’s a question I put to almost everyone I meet throughout the course of 
+researching this article and almost everyone says the same thing: on-screen 
+violence already exists and it’s up to the individual to monitor their own 
+choices.
+
+I can’t look you in the eye and claim it only works for the good stuff. Yes, 
+it worries me.
+Professor Jeremy Bailensen 
+“As a gamer and a parent, the first thing I do is I check up on what I’m going 
+to play on a device and whether it’s right for me,” says Ted Price. “It’s up to 
+the gamer to decide what they can handle, as it is with movies or books.”
+
+Well, up to a point. But arguably the people most vulnerable to virtual 
+reality violence are also those with the least capacity to know what’s good for 
+them (or to care). And there is no doubt that feeling is acutely heightened in 
+a virtual reality world.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjN_nbHnHDi4&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjN_nbHnHDi4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjN_nbHnHDi4&media=>
+ Nonny de la Peña, Co-Founder of Emblematic games explains the concept behind 
+Project Syria 
+The most memorable and moving experience I had while trying out various VR 
+demos was one made byEmblematic <http://www.emblematicgroup.com/>, an 
+organisation specialising in immersive documentary and non-fiction. It has been 
+at the forefront of developing news-related content that seeks to put the user 
+in the centre of the action. One of its films places participants in the midst 
+of a rocket attack in Syria and later in a refugee camp. Another is a 
+multi-viewpoint reconstruction of the night 17-year-oldTrayvon Martin 
+<https://www.theguardian.com/us-news/trayvon-martin> was shot dead by a 
+neighbourhood watch volunteer in Florida in 2012, using real-life recordings 
+from emergency 911 calls.
+
+“One of the things we asked ourselves is how do you break through the torpor 
+of constant media images to trigger a more emotive response,” says Emblematic’s 
+co-founder Jamie Pallot. “The defining quality of virtual reality is a sense of 
+presence. It tricks your mind into thinking you’re somewhere else and that 
+produces a very strong empathetic response.”
+
+He hands me a headset, apologising for the poor quality of some of the images 
+as he does so. It’s in the early phases, he explains. I watch a short animated 
+film calledKiya <http://www.emblematicgroup.com/#/kiya/> which tells the 
+real-life story of two sisters’ attempts to try to rescue their sibling from 
+her abusive ex-boyfriend. Again, actual 911 recordings are used.
+
+Immediately, I am in the midst of the story. I watch as the two sisters enter 
+the mobile home where they try to reason with a man holding a gun. I listen as 
+their calls to the police become increasingly panicked. I can sense their fear 
+in a very real way. As the sisters move back outside, I follow them. A shot 
+sounds from indoors and, although I don’t see it, I already know that Kiya has 
+been killed. The last image is from inside Kiya’s home: a fridge covered with 
+photos of her young daughter.
+
+Minecraft on Hololens: the future of gaming is right in front of your eyes
+ Read more  
+<https://www.theguardian.com/technology/2015/jun/24/minecraft-hololens-mixed-augmented-reality-microsoft>
+As a journalist, I have often found myself in extreme or sad situations. I 
+have interviewed a terminally ill man, a convicted murderer, the grieving 
+mother of a schoolboy who committed suicide. Each of these stories has moved me 
+deeply because of their visceral reality and truth. But I hadn’t expected a 
+computer animation to provoke this reaction. When I remove the headset, there 
+are tears in my eyes. Jamie asks me something and I have to take a few breaths. 
+I am surprised because the emotion is so instinctive. I hadn’t noticed I was on 
+the verge of crying until I returned from the virtual world to the real one.
+
+“That was quite something,” I say.
+
+Jamie nods. “There are grown men who’ve started watching this and who’ve had 
+to stop halfway through because they can’t take it,” he replies.
+
+It’s not yet clear where this technology will go or what its full potential 
+might be or whether it will take off in the spectacular way promised by its 
+most vehement supporters. But it’s a tantalising prospect nevertheless.
+
+So I was wrong. Virtual reality 
+<https://www.theguardian.com/technology/virtual-reality> isn’t boring. I’m 
+actually pretty excited about it, even if it makes me car sick.
+ 

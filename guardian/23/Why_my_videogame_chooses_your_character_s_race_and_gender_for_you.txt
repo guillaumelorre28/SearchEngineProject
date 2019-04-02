@@ -1,0 +1,93 @@
+
+I am the lead developer on a multiplayer survival game named Rust 
+<https://playrust.com/>. Last week, we made a change to the game that upset a 
+lot of people: we made half of our players, picked at random, play as women. We 
+also made some of them black. The response has been extreme.
+
+Rust is not a game about identity 
+<https://www.theguardian.com/technology/2014/apr/24/the-identity-paradox-why-game-characters-are-not-but-should-be>
+. The objective in Rust is to survive. This is made difficult by things such as 
+starvation, dehydration, radiation, exposure and bear attacks. The biggest 
+threat in the game comes from other players who are trying to survive in the 
+same conditions. You will survive better if you’re a part of a group, but this 
+takes a lot of mutual trust. If you kill someone you’ll be able to loot their 
+corpse and take all their food, medicine and weapons. This makes the game very 
+interesting socially, since players struggle with trust and slowly build up 
+relationships with one another.
+
+The identity paradox: why game characters are not us, but should be
+ Read more  
+<https://www.theguardian.com/technology/2014/apr/24/the-identity-paradox-why-game-characters-are-not-but-should-be>
+The game is in “early access”, which means it’s in active development and we 
+update it every week. Despite this, it has sold over 3.5m copies since it was 
+first released in 2013, and around half a million people play every week. 
+Whenever a project has this kind of popularity, people become very passionate. 
+But the range and strength of opinions have never been this intense.
+
+Originally every player appeared in game as a white bald guy. We were still in 
+the early stages of development and had other things to focus on. Recently, 
+though, we decided to change this. We decided that we didn’t want players to 
+pick their own appearance. We felt that player customisation had got a bit out 
+of control in other games. And we didn’t want to spend six months making a 
+player customisation tool – we wanted to concentrate on the game. We also 
+wanted the appearance of the players to be consistent over time. A survivor 
+shouldn’t be able to attack another then come back later with a different 
+gender or race and befriend the same player. They should be recognisable 
+consistently and long-term – so anyone likely to commit a crime would be more 
+likely to wear a balaclava or a face mask.
+
+So this is what we did. Gender <https://www.theguardian.com/world/gender> and 
+race are randomly selected and linked to a player’s account, permanently 
+unchangeable.
+
+Inevitably, there are people who like it and people who don’t. Some players 
+have praised what we’re doing. Like us, they think that who you are in the 
+game, your race and gender, makes no difference to the actual gameplay – and 
+are happy to have the diversity. Others aren’t so positive. They feel that 
+playing a gender or race that doesn’t match their own is detrimental to their 
+enjoyment.
+
+For race, this seems to be a regional thing. For example, most complaints 
+about being black in the game have generally been from Russian players. With 
+gender it seems to be more of a geography-free complaint.
+
+Here’s one of the many messages we’ve received from disgruntled male players: 
+“Why won’t you give the player base an option to choose their gender? I just 
+want to play the game and have a connection to the character like most other 
+games I play. Not have some political movement shoved down my throat because 
+you make the connection we can’t choose our gender in reality so let’s make it 
+like that in game too.”
+
+Others have accused us of forcing them to accept our “feminist ideals”. Some 
+have told us that they are quitting the game entirely. One called the move the 
+dumbest thing we’ve ever done.
+
+Our female players seem more pragmatic. They point out that they’ve already 
+being play Rust as men for the past two years. Some have got in touch to thank 
+us. Mostly they see it as no big deal.
+
+Pro-gaming tournament attempts to limit gay and transgender players
+ Read more  
+<https://www.theguardian.com/technology/2015/feb/04/pro-gaming-tournament-attempts-to-limit-gay-and-transgender-players>
+We’ve also received complaints from transgender players 
+<https://www.theguardian.com/technology/2015/feb/04/pro-gaming-tournament-attempts-to-limit-gay-and-transgender-players>
+. One called the new system horrifying, unpleasant and uncomfortable. Another 
+argued that assigning a fixed sex was reminiscent of real-world transphobia.
+
+It’s maybe understandable why some male gamers wouldn’t want to play as women. 
+They’re just not used to being forced to. You could probably count on your 
+fingers the number of major, big-budget games where you have no choice but to 
+play as a woman, never mind having no choice but to play as a black woman. 
+Female gamers are obviously more forgiving – they’ve been playing games as men 
+for most of their lives.
+
+I understand the arguments from transgender players – well, as much as a 
+straight man can. But it feels to me like the same response stands. We’re 
+assigning gender randomly in game – not in real life.
+
+Ultimately the decision comes down to gameplay. We don’t believe that letting 
+you choose your race and gender would improve the game. On the other hand, 
+randomising everyone’s gender and race meets all our requirements. We get an 
+even spread of races and genders that make players more identifiable – while at 
+the same time making the social aspects of the game much more interesting.
+ 

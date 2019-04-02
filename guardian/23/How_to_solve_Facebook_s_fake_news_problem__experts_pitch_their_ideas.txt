@@ -1,0 +1,320 @@
+
+The impact of fake news 
+<https://www.theguardian.com/media/2016/nov/17/facebook-fake-news-satire>, 
+propaganda and misinformation has been widely scrutinized since the US 
+election. Fake news actually outperformed real news on Facebook during the 
+final weeks of the election campaign, according to an analysis byBuzzfeed 
+<https://www.buzzfeed.com/craigsilverman/viral-fake-election-news-outperformed-real-news-on-facebook?utm_term=.nrjPBmkXmm#.bj2P2O0yOO>
+, and even outgoing president Barack Obamahas expressed his concerns 
+<https://www.theguardian.com/media/2016/nov/20/barack-obama-facebook-fake-news-problem>
+.
+
+But a growing cadre of technologists, academics and media experts are now 
+beginning the quixotic process of trying to think up solutions to the problem, 
+starting with a rambling 100+ pageopen Google document 
+<https://docs.google.com/document/d/1OPghC4ra6QLhaHhW8QvPJRMKGEXT7KaZtG_7s5-UQrw/preview#heading=h.97o89pmf8ct6>
+ set up by Upworthy founder Eli Pariser.
+
+Fake news and a 400-year-old problem: how can we end the ‘post-truth’ crisis?
+ Read more  
+<https://www.theguardian.com/technology/2016/nov/29/fake-news-echo-chamber-ethics-infosphere-internet-digital>
+The project has snowballed since Pariser started it on 17 November, with 
+contributors putting forward myriad solutions, he said. “It’s a really 
+wonderful thing to watch as it grows,” Pariser said. “We were talking about how 
+design shapes how people interact. Kind of inadvertently this turned into this 
+place where you had thousands of people collaborating together in this 
+beautiful way.”
+
+In Silicon Valley, meanwhile, some programmers have been batting solutions 
+back and forth onHacker News <https://news.ycombinator.com/item?id=13027976>, a 
+discussion board about computing run by the startup incubator Y Combinator. 
+Some ideas are more realistic than others.
+
+“The biggest challenge is who wants to be the arbiter of truth and what truth 
+is,” said Claire Wardle, research director for the Tow Center for Digital 
+Journalism at Columbia University. “The way that people receive information now 
+is increasingly via social networks, so any solution that anybody comes up 
+with, the social networks have to be on board.”
+
+Journalists, the public or algorithms?
+
+Most of the solutions fall into three general categories: the hiring of human 
+editors; crowdsourcing, and technological or algorithmic solutions.
+
+Human editing relies on a trained professional to assess a news article before 
+it enters the news stream. Its proponents say that human judgment is more 
+reliable than algorithms, which can be gamed by trolls and arguably less 
+nuanced when faced with complex editorial decisions; Facebook’s algorithmic 
+system famously botched theVietnam photo debacle 
+<https://www.theguardian.com/technology/2016/sep/08/facebook-mark-zuckerberg-napalm-girl-photo-vietnam-war>
+.
+
+Yet hiring people – especially the number needed to deal with Facebook’s 
+volume of content – is expensive, and it may be hard for them to act quickly. 
+The social network ecosystem is enormous, and Wardle says that any human 
+solution would be next to impossible to scale. Humans are also partial to 
+subjectivity, and even an overarching “readers’ editor”, ifFacebook 
+<https://www.theguardian.com/technology/facebook> appointed one, would be a 
+disproportionately powerful position and open to abuse.
+
+Crowdsourced vetting would open up the assessment process to the body politic, 
+having people apply for a sort of “verified news checker” status and then 
+allowing them to rank news as they see it. This isn’t dissimilar to the way 
+Wikipedia works, and could be more democratic than a small team of paid staff. 
+It would be less likely to be accused of bias or censorship because anyone 
+could theoretically join, but could also be easier to game by people promoting 
+fake or biased news, or using automated systems to promote clickbait for 
+advertising revenue.
+
+Algorithmic or machine learning vetting is the third approach, and the one 
+currently favored by Facebook, whofired their human trending news team and 
+replaced them with an algorithm 
+<https://www.theguardian.com/technology/2016/aug/29/facebook-fires-trending-topics-team-algorithm>
+ earlier in 2016. But the current systems are failing to identify and downgrade 
+hoax news or distinguish satire from real stories; Facebook’s algorithmstarted 
+spitting out fake news 
+<http://arstechnica.com/business/2016/08/facebook-fires-human-editors-algorithm-immediately-posts-fake-news/>
+ almost immediately after its inception.
+
+Technology companies like to claim that algorithms are free of personal bias, 
+yet they inevitably reflect the subjective decisions of those who designed 
+them, and journalistic integrity is not a priority for engineers.
+
+Algorithms also happen to be cheaper and easier to manage than human beings, 
+but an algorithmic solution, Wardle said, must be transparent. “We have to say: 
+here’s the way the machine can make this easier for you.”
+
+How to treat fake news, exaggeration and satire on Facebook
+
+Facebook has been slow to admit it has a problem with misinformation on its 
+news feed, which is seen by 1.18 billion people every day. It has had several 
+false starts on systems, both automated and using human editors, that inform 
+how news appears on its feed. Pariser’s project details a few ways to start:
+
+Verified news media pages
+
+Similar to Twitter’s “blue tick” system, verification would mean that a news 
+organization would have to apply to be verified and be proved to be a credible 
+news source so that stories would be published with a “verified” flag. 
+Verification could also mean higher priority in newsfeed algorithms, while 
+repeatedly posting fake news would mean losing verified status.
+
+Pros: The system would be simple to impose, possibly through a browser 
+plug-in, and is likely to appeal to most major publications.
+
+Cons: It would require extra staff to assess applications and maintain the 
+system, could be open to accusations of bias if not carefully managed and could 
+discriminate against younger, less established news sites.
+
+Separate news articles from shared personal information
+
+“Social media sharing of news articles/opinion subtly shifts the ownership of 
+the opinion from the author to the ‘sharer’,” Amanda Harris, a contributor to 
+Pariser’s project, wrote. “By shifting the conversation about the article to 
+the third person, it starts in a much better place: ‘the author is wrong’ is 
+less aggressive than ‘you are wrong’.”
+
+
+Pros: Easy and cheap to implement.
+
+Cons: The effect may be too subtle and not actually solve the problem.
+
+Add a ‘fake news’ flag
+
+Labelling problematic articles in this way would show Facebook users that 
+there is some question over the veracity of an article. It could be structured 
+the same way as abuse reports currently are; users can “flag” a story as fake, 
+and if enough users do so then readers would see a warning box that “multiple 
+users have marked this story as fake” before they could click through.
+
+
+Pros: Flagging is cheap, easy to do and requires very little change. It would 
+make readers more questioning about the content they read and share, and also 
+slightly raises the bar for sharing fake news by slowing the speed at which it 
+can spread.
+
+Cons: It’s unknown whether flagging would actually change people’s behavior. 
+It is also vulnerable to trolling or gaming the system; users could spam real 
+articles with fake tags, known as a “false flag” operation.
+
+Add a time-delay on re-shares
+
+Articles on Facebook and Twitter could be subject to a time-delay once they 
+reach a certain threshold of shares, while “white-labeled” sites like the New 
+York Times would be exempt from this.
+
+
+Pros: Would slow the spread of fake news.
+
+Cons: Could affect real news as much as fake, and “white-labelling” would be 
+attacked as biased and unfair, especially on the right. Users could also be 
+frustrated by the enforced delay: “I want to share when I want to share.”
+
+Partnership with fact-checking sites, such as Snopes
+
+Fake news could automatically be tagged with a link to an article debugging it 
+on Snopes, though inevitably that will leave Facebook open to criticism if the 
+debunking site is attacked as having a political bias.
+
+
+Pros: Would allow for easy flagging of fake news, and also raise awareness of 
+fact-checking sources and processes.
+
+Cons: Could be open to accusations of political bias, and the mission might 
+also creep: would it extend to statements on politicians’ pages?
+
+Headline and content analysis
+
+An algorithm could analyze the content and headline of news to flag signs that 
+it contains fake news. The content of the article could be checked for 
+legitimate sourcing – hyperlinks to the Associated Press or other whitelisted 
+media organizations.
+
+
+Pros: Cheap, and easily amalgamated into existing algorithms.
+
+Cons: An automated system could allow real news to fall through the cracks.
+
+Cross-partisan indexing
+
+This system would algorithmically promote non-partisan news, by checking 
+stories against a heat-map of political opinion or sharing nodes, and then 
+promoting those stories that are shared more widely than by just one part of 
+the political spectrum. It could be augmented with a keyword search against a 
+database of language most likely to be used by people on the left or the right.
+
+Pros: Cheap, and easily combined with existing algorithms. Can be used in 
+partnership with other measures. It’s also a gentler system that could be used 
+to “nudge” readers away from fake news without censoring.
+
+Cons: Doesn’t completely remove fake news.
+
+Sharer reputation ranking
+
+This would promote or hide articles based on the reputation of the sharer. 
+Each person on a social network would have a score (public or private) based on 
+feedback from the news they share.
+
+
+Pros: Easy to populate a system quickly using user feedback.
+
+Cons: User feedback systems are easy to game, so fake news could easily be 
+upvoted as true by people who want it to be true, messing up the algorithm.
+
+Visible design cues for fake news
+
+Fake news would come up in the news feed as red, real news as green, satire as 
+orange.
+
+Pros: Gives immediate visual shorthand to distinguish real from fake news. 
+Could also be a browser plug-in.
+
+Cons: Still requires a way to distinguish one from the other, whether 
+labor-intensively or algorithmically. Any mistake with an algorithm, say one 
+that puts Breitbart articles in red, would open Facebook up to accusations of 
+bias.
+
+Punish accounts that post fake news
+
+If publishing fake news was punishable with bans on Facebook then it would 
+disincentivise organizations from doing so.
+
+
+Pros: Attacks the problem at its root and could get rid of the worst offenders.
+
+Cons: The system would be open to accusations of bias. And what about satire, 
+or news that’s not outright fake but controversial?
+
+Tackling fake news on the web outside Facebook
+
+News is shared across hundreds of other sites and services, from SMS and 
+messaging apps such as WhatsApp and Snapchat, to distribution through Google’s 
+search engine and aggregations sites like Flipboard. How can fake news, 
+inaccurate stories and unacknowledged satire be identified in so many different 
+contexts?
+
+Fact-checking API
+
+A central fact-checking service could publish an API, a constantly updated 
+feed of information, which any browser could query news articles against. A 
+combination of human editing and algorithms would return information about the 
+news story and its URL, including whether it is likely to be fake (if it came 
+from a known click-farm site) or genuine. Stories would be “fingerprinted” in 
+the same way as advertising software.
+
+People could choose their fact-checking system – Snopes or Politifact or 
+similar – and then install it as either a browser plug-in or a Facebook or 
+Twitter plug-in that would colour-code news sources on the fly as either fake, 
+real or various gradations in between.
+
+Pros: Human editors would become less necessary as the algorithm learns, and 
+wouldn’t have to check each story individually. Being asked to choose a 
+fact-checker might encourage critical thinking.
+
+Cons: Will be labor-intensive and expensive, especially at first. It could be 
+open to accusations of bias, especially once the algorithm takes over from the 
+human input. Arguably only those already awake to the problem would choose to 
+opt in, unless a platform like Facebook or Google assimilates it as standard.
+
+Page ranking system
+
+
+Much like Google’s original PageRank algorithm, a system could be developed to 
+assess the authority of a story by its domain and URL history, suggestedMike 
+Sukmanowsky of Parse.ly 
+<https://medium.com/@msukmanowsky/using-quality-to-trump-misinformation-online-6c9b39676bdf#.uwa02f76w>
+.
+
+This would effectively be, Sukmanowsky wrote, a source reliability algorithm 
+that calculated a “basic decency score” for online content that pages like 
+Facebook could use to inform their trending topic algorithms. There could also 
+be “ratings agencies” for media; too manyStephen Glass 
+<https://www.theguardian.com/world/2014/jan/27/stephen-glass-refused-admission-california-state-bar>
+-style falsified reporting scandals, for example, and the New York Times could 
+risk losing its triple-A rating.
+
+Pros: Relatively easy to construct using open-sourcing, and could be 
+incorporated into existing structures. Domains that serially propagate fake 
+information could be punished by being downgraded in rank, effectively hiding 
+them.
+
+Cons: Little recourse for sites to appeal against their ranking, and could 
+make it unfairly difficult for less established sites to break through.
+
+Connect fake news to fact-checking sites
+
+Under this system, fake news would be inter-linked (possibly through a browser 
+plug-in) to a story by a trusted fact-checking organization like Snopes or 
+Politifact. (Rbutr 
+<http://www.rbutr.com/rbutr/WebsiteServlet?requestType=browse> already does 
+this, though on a modest scale.)
+
+
+Pros: Connects readers with corrections that already exist. Facebook or Google 
+could use a database like Snopes in its algorithm.
+
+Obama is worried about fake news on social media – and we should be too
+ Read more  
+<https://www.theguardian.com/media/2016/nov/20/barack-obama-facebook-fake-news-problem>
+Cons: Unless this kind of system gets hardwired into Facebook or Google, 
+people have to want to know if what they’re reading is fake.
+
+On current evidence, many people feel comfortable when presented by news which 
+doesn’t challenge their own prejudices and preferences – even if that news is 
+inaccurate, misleading or false.
+
+What many of these solutions don’t address is the more complex, nuanced and 
+long-term challenge of educating the public about the importance of informed 
+debate – and why properly considering an accurate, rational and compelling 
+viewpoint from the other side of the fence is an essential part of the 
+democratic process.
+
+“There’s a feeling that in trying to come up with solutions we risk a 
+boomerang effect that the more we’re debunking, the more people will disbelieve 
+it,” said Claire Wardle. “How do we bring people together to agree on facts 
+when people don’t want to receive information that doesn’t fit with how they 
+see the world?”
+
+• Jasper Jackson <https://www.theguardian.com/profile/jasper-jackson> 
+contributed to this report
+ 

@@ -1,0 +1,26 @@
+
+Today K, for keyword component... which was the first visible feature we 
+released as part of the R2 project. That was way back in May 2006, and it 
+appeared on articles in the Travel section.
+
+The keyword component was simply a box listing keywords associated with the 
+article, but to get even to that modest point was a long journey. Here are some 
+of the things we needed to build to get there.
+
+
+
+ * A continuous integration pipeline, which automatically took the software at 
+any time from source code to deployable bundle via automated testing and 
+reporting; 
+ * A tool to create and manage keywords -- some keywords would need to take 
+the user to specific landing pages, others to a page of search results; 
+ * A tool to add keywords to articles -- the tool running in our new system, 
+the article editor running in our old system, and the two integrating 
+seamlessly; 
+ * A manageable abstration layer at the web server level that allowed pages 
+from the legacy content management system to include components from the new R2 
+system. 
+Naturally this component didn't change the world, but it did provide 
+validation for our entire development pipeline. And the component survives 
+today, in a more sophisticated form, on all our content, where you can use it 
+to navigate to related subjects. 

@@ -1,0 +1,81 @@
+
+Apple's Mac OSX software has had a radical design overhaul, bringing its 
+desktop and smartphone software closer together, and introducing a new feature 
+called "Continuity" that lets users easily switch between the two.
+
+
+Continuity includes an expansion to the company's AirDrop software, allowing 
+users to send files back and forth between iPhones and Macs. But it also lets 
+users move work back and forth between the two at the click of a button, as 
+well as automatically tether Macs to iPhones to use mobile internet on the move.
+
+Users of both Macs and iPhones will also be able to use their computers to 
+send and receive text messages and phone calls – even to non iPhone users.
+
+Craig Federighi, Apple's software chief, demonstrated the feature by making a 
+live call on stage to the "new Apple employee" Dr Dre, who joined the company 
+whenApple <https://www.theguardian.com/technology/apple> bought Beats for $3bn 
+last month.
+
+"New employee orientation starts at nine, and you don't want to miss the free 
+T-shirt," Federighi joked.
+
+iCloud Drive - directly competing with Dropbox
+
+ Federighi also demonstrated updates to the Mail, Spotlight and Safari apps, 
+as well as a whole new cloud syncing service called iCloud Drive, at Apple's 
+annual conference for developers in San Francisco.
+
+An expansion of iCloud, Drive is a direct competitor to services like Dropbox, 
+letting users share files and folders directly in Finder, the file manager on 
+Apple's computers. The change marks a step away from the company's app-focused 
+cloud services, allowing users to share files regardless of the application 
+that created them.
+
+Federighi also demonstrated an overhauled version of Spotlight, the built-in 
+search tool.
+
+In Yosemite, users will be able to not only use Spotlight to launch apps and 
+search for files on their computer, but also to search the web, and for 
+locations in the real world. But the app will use Bing for its web search by 
+default, further stripping integration with Google from Apple's operating 
+systems.
+
+The changes to Mail include a new feature that lets users send attachments via 
+Apple's servers, if their recipient can't take the file directly. Apple will 
+allow attachments up to 5GB through the feature, which works when emailing 
+non-Apple users as well as Apple users.
+
+50% of Mac users on Mavericks
+
+For the first time, Apple is offering a public beta version of its new OS, 
+meaning all users will be able to give it a try this summer.
+
+ Federighi and Tim Cook, Apple's CEO, shared statistics on the adoption of the 
+previous version of Mac OS X, Mavericks. More than 50% of users have upgraded 
+to Mavericks, which was made free last year.
+
+"That's the fastest OS adoption in history," Cook said. That would put it on 
+slightly under 40m computers worldwide, based on Apple's own data of 72m users 
+given last year.
+
+Cook compared it to Windows 8, which shipped a year before Mavericks: "It's on 
+about 14% of PCs," Cook said.
+
+The name "Yosemite" was finally chosen as the codename for the next version 
+after various suggestions based on place names "OS X Oxnard", "Rancho 
+Cucamonga", and "Weed," joked Federighi.
+
+Originally codenamed "Syrah", OS X 10.10 is the 11th version of Apple's 
+operating system, and the second to use its new naming system based on 
+Californian place names.
+
+• Apple previews new mobile software iOS 8 
+<https://www.theguardian.com/technology/2014/jun/02/apple-previews-new-mobile-software-ios-8-at-wwdc-2014>
+
+• Apple reveals 'Health', its data-tracking app 
+<https://www.theguardian.com/technology/2014/jun/02/apple-reveals-health-its-entry-into-fitness-tracking>
+
+• Apple unveils its smarthome program at WWDC 2014 
+<https://www.theguardian.com/technology/2014/jun/02/home-apple-unveils-its-smart-home-program-at-wwdc-2014?view=desktop>
+ 

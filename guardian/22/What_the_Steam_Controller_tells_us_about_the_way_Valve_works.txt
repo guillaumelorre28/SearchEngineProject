@@ -1,0 +1,210 @@
+
+In early February, there was a minor controversy surrounding the critically 
+acclaimed strategy sim, XCOM 2. It turned out that the game, which most people 
+play with a mouse and keyboard, would only be supporting one type of joypad: 
+Valve’s idiosyncraticSteam <https://www.theguardian.com/technology/steam> 
+Controller.
+
+Launched in November alongside the new range of Steam Machine PCs, this 
+ambitious and innovative control device has provoked a range of reactions – 
+though confusion seems to be the most common. Featuring two large HD haptic 
+track pads, a single analogue thumbstick and an array of buttons (including two 
+on the inside edges of the pad’s handles), the Steam Controller is designed to 
+bring the precision controls of the mouse/keyboard combo to a handheld form 
+factor. Each of the touch pads, for example, features haptic feedback, allowing 
+you to sense where your thumb is on the surface, rather like moving a mouse 
+around on a desktop.
+
+The controller looked interesting to many PC gamers, but few were convinced it 
+was the future. While Valve changed the whole course of thePC 
+<https://www.theguardian.com/technology/pc> games industry with its Steam 
+online store, where players are able to browse and download hundreds of titles, 
+pundits have been less convinced with the company’s spin-off concepts. The 
+Steam Machine PCs (which Valve doesn’t make, it just provides the feature set) 
+are deemed over-priced, and the controller … well, folks just think it’s odd. 
+It’s an outlier.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F17%2Fsteam-controller-valve-gaming%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-1%23img-1&picture=https%3A%2F%2Fmedia.guim.co.uk%2F111f035521f44f7a2a2b898cf4bbeadea657d8d9%2F115_0_1217_731%2F1217.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=What%20the%20Steam%20Controller%20tells%20us%20about%20the%20way%20Valve%20works&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F17%2Fsteam-controller-valve-gaming%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-1%23img-1>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=What%20the%20Steam%20Controller%20tells%20us%20about%20the%20way%20Valve%20works&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F17%2Fsteam-controller-valve-gaming%3Fpage%3Dwith%3Aimg-1%23img-1&media=https%3A%2F%2Fmedia.guim.co.uk%2F111f035521f44f7a2a2b898cf4bbeadea657d8d9%2F115_0_1217_731%2F1217.jpg>
+ The Steam Controller is designed to bring the precision controls of the 
+mouse/keyboard combo to a handheld form factor. Photograph: Valve 
+So why was Valve so keen to make this thing? The Seattle-based company used to 
+develop games like Portal, Half-Life and Left 4 Dead, before concentrating on 
+its digital distribution business. Now it exists in strange liminal zone 
+between software developer (it still makes the popular Dota 2 game), online 
+store and hardware pioneer. What this controller is all about is a question 
+that gets right to the heart of what Valve itself actually is.
+
+“We had this really interesting challenge,” says Robin Walker, a veteran coder 
+and designer who has been on the Steam Controller project since its inception 
+three years ago. “We had to find this design that worked for the largest 
+library of games that any device has ever attempted to deal with, but at the 
+same time it had to be somewhat future-proof. One of the great things about the 
+PC is that this is where all the innovation is happening, whether that’s 
+virtual reality or new business models. We don’t know what’s going to happen 
+next but we want to have a controller that can survive whatever the next steps 
+are.”
+
+This is a key element of the Valve philosophy: to be slightly ahead – or at 
+least outside – of current thinking. When the company first announced its Steam 
+platform in 2002 there was some initial resistance; there was nothing similar 
+out there for the PC and besides, Valve was already making plenty of money with 
+its games. Why change?
+
+“At any point in our history the thing that was being the most successful from 
+a business perspective at some point was the thing that made no sense if you 
+looked at it from a pure accounting perspective,” says Walker. “It takes 
+cultural effort to make sure we don’t fall into an easier way of thinking. It’s 
+scary to say ‘I want to work on this thing and other people want to work on it 
+too, but we don’t know if it’ll make more money’. It’s certainly scarier than 
+thinking ‘I’m going to work on that thing because it’s making a lot of money 
+and I can add another percent’. The problem is, if you take that approach, it 
+kills our company within some number of years.”
+
+Valve has always been good at figuring out what gamers are doing and then 
+working out where it will lead. Back in the early days, when ex-Microsoft 
+employees Gabe Newell and Mike Harrington first formed the company to work on 
+the first-person shooter Half-Life, they immediately noticed that there was 
+this whole modding community attached to the genre: fans were creating their 
+own levels for hits like Doom and Quake, even expanding these into spin-off 
+games. So Valve employed the developers of the Quake mod Team Fortress and 
+released the game as a standalone title to significant success and acclaim. The 
+game was then regularly tweaked and updated for the next decade, responding to 
+the needs and wishes of fans. Valve understood the value of customisation, 
+iteration and community way before the smartphone games industry took those 
+values to its very core.
+
+We’re very interested in trying to make hardware more like software
+
+This concern with customisation and iteration is a core element of the Steam 
+Controller design. The pad is configurable to work with titles that weren’t 
+designed to support it; players can go through a process of realigning the 
+controls by matching them to the game’s own set-up, or they can download a 
+configuration worked out and shared by another player.
+
+“We had to build a system that allowed you to configure a controller to handle 
+all these old games whle also letting you play new games in a different way,” 
+says Walker. “We wanted to make sure we supported all that at a level above the 
+game, so it doesn’t matter what you’re playing, you get that power.”
+
+Importantly, however, openness to customisation isn’t restricted to button 
+configuration. Another concept that Steam Controller symbolises is the transfer 
+of software philosophies – ease of iteration, consumer customisation – to 
+hardware.
+
+“We’re very interested in trying to make hardware more like software,” says 
+Walker. “With a traditional controller, people think of it as a solely physical 
+object: you build the hardware, you build a thumbstick and the thumbstick says 
+‘I’m being pressed right’, and that information goes to the game. But there’s 
+actually a huge software layer that’s doing a lot of work: how you interpret 
+and filter for things like my thumb slipping off the pad; or if you want a 
+character to move sideways, well, the reality is no one moves their thumb 
+perfectly horizontally, so how do you adjust for that? It’s all software work.”
+
+Like its software, Valve wanted the controller hardware to feel configurable 
+too. “Our games are better today because we have created many channels, like 
+Steam itself, where communities can get their hands on software and improve 
+it,” says Walker. “A lot of the thinking behind Steam was: how does the 
+internet make you better?
+
+
+“This can be the same for hardware. We have a bunch of ideas on how to create 
+those channels – so it’s things like, you can go onto our site and download all 
+the CAD files for the controller; you can buy all the electronic guts from us 
+so you can build your own form factor. We could have a workshop where people 
+upload their own form factors so if you happen to have access to a 3D printer, 
+you can just print a controller that someone else has designed.
+
+“We’ve done a lot of work over the years on supporting various disabilities. 
+When you get a large enough audience you’re going to have a lot of customers 
+with specific challenges: colour blindness, for example. We’re really excited 
+to see what effect those people will have when they start playing around with 
+the controller. Often we find that when we ship stuff, it’s the community that 
+makes it better, it’s like a juggernaut, we want to see where it goes.”
+
+This is already happening. YouTuber Ben Heck, who specialises in hardware 
+hacks, has built his own alternative controller based around the innards of 
+Valve’s pad, and although rough, it’s interesting:
+
+There’s also something else that Steam Controller helped Valve to prepare for. 
+During its development, the company added HD haptic feedback to the trackpads, 
+but it also built in a gyroscope for motion tracking. This has since been used 
+by first-person shooter fans to handle things like jumping, peeping around 
+corners and other specific movements (there’s an interesting examplehere 
+<https://www.youtube.com/watch?v=0TEM8r9p_f4> with Dead Space 2), but of 
+course, including this combination of physical controls into the product has 
+made it a perfect testbed for another of Valve’s emerging interests: virtual 
+reality. The company has teamed up with manufacturer HTC to produce the 
+much-lauded Vive VR technology, which is due for release later this year.
+
+
+“When we started to think about VR, we began by almost literally cutting a 
+Steam Controller in half and putting one of the thumb pads in each hand,” says 
+Valve’s business development manager, Eric Johnson. He puts Vive on a 
+philosophical throughline that links Team Fortress, Steam and the Controller. 
+“We view VR as on the spectrum of what an open platform can end up producing. 
+If you bought Team Fortress 2 on a console, well, that game is gone now – but 
+it is still growing on PC. That’s not because we had some masterplan, it’s just 
+that, on PC, we had the ability to keep taking it in whatever direction made 
+sense to our customers. Open platforms are really important to us because we 
+can do Steam Machines and VR and new controller designs, then just ship them 
+and see what happens.”
+
+The future of the Steam Controller is perhaps uncertain. If we see more 
+strategy games like XCOM 2 embracing it, if we see indie studios fiddling with 
+its more esoteric capabilities (Walker says developers like Tommy Refenes, the 
+co-creator of Super Meat Boy, played a role in testing the device), then it 
+could take off.
+
+Right now it’s a curiosity that co-exists alongside another curiosity: the 
+Steam Machine. But for Valve watchers, and everyone interested in video games, 
+the controller says a lot about how this company develops stuff. It hires 
+polymaths who can switch easily between projects, and then restlessly 
+experiments. “No one on the controller team came to Valve to build a 
+controller,” says Walker. “One of the main people started as a level designer 
+at another company, then went off to do hardcore particle effects and game 
+design, then came to Valve. He programs, he did level design on Half Life 2 – 
+but he’s spent the last two years writing code for the controller.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F17%2Fsteam-controller-valve-gaming%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F6bcb0ad83a58787b9fc779ee03269b86e01c23b0%2F0_147_4096_2459%2F4096.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=What%20the%20Steam%20Controller%20tells%20us%20about%20the%20way%20Valve%20works&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F17%2Fsteam-controller-valve-gaming%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=What%20the%20Steam%20Controller%20tells%20us%20about%20the%20way%20Valve%20works&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F17%2Fsteam-controller-valve-gaming%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F6bcb0ad83a58787b9fc779ee03269b86e01c23b0%2F0_147_4096_2459%2F4096.jpg>
+ Valve’s work in virtual reality was aided by the development of the Steam 
+Controller, which influenced the two control devices used with the HTC Vive. 
+Photograph: Ritchie B Tongo/EPA 
+What has happened with Steam Controller is also a perfect symbol of the Valve 
+business model. “A controller is quite a complicated thing,” says Johnson. “You 
+have a bunch of choices when you manufacture something and a lot of those are 
+trade offs between flexibility and cost. We took the maximum flexibility choice 
+because if we’re building hardware and we’re targeting the PC, which is this 
+really open system, we can’t necessarily anticipate the things we’re going to 
+need to build very far in the future.
+
+“So we said, let’s build a manufacturing line that’s considerably more 
+expensive but lets us create whatever we want in the future. That’s kind of the 
+Valve approach. We always try to make long term decisions, and that applies to 
+manufacturing hardware or hiring hardware people. We didn’t bring in a 
+third-party company to solve all our hardware problems. We approached it like 
+we approach everything else: these are our customers. We’re kind of control 
+freaks when it comes to our customers. Hopefully in a good way.”
+
+But perhaps the clearest message this strange contraption sends out is that 
+Valve remains a company of geeks. Even while controlling the dominant force in 
+PC games distribution, making $1.5bn a year in revenue, it is still toying with 
+the industry as though it’s an amusing sandbox simulation. Vive, like the Steam 
+Controller, may turn out to be an expensive, fascinating oddity. But that won’t 
+stop Valve. This is a company of very clever people who enjoy the process of 
+making stuff.
+
+“We have robots stamping out our hardware now,” says Walker, almost wistfully. 
+“There was some sadness from the hardware focused people when they tried to get 
+the rest of us excited about the fact that the controller assembly line is 100% 
+automated. They said this is the most automated assembly line in the US. They 
+even sent us video evidence. We were like ‘aren’t all controller assembly lines 
+automated?!’. That made them very sad.”
+ 

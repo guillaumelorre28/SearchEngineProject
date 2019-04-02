@@ -1,0 +1,66 @@
+
+Back in September, a report suggested that robots will have eliminated 6% of 
+jobs in the US by 2021 
+<https://www.theguardian.com/technology/2016/sep/13/artificial-intelligence-robots-threat-jobs-forrester-report>
+. Fortunately for book designers, it doesn’t look as if androids are about to 
+take over cover design any time soon.
+
+MIT Technology Review 
+<https://www.technologyreview.com/s/602807/deep-neural-network-learns-to-judge-books-by-their-covers/>
+ points us towards a new machine-vision algorithm dreamed up by academics at 
+Kyushu University in Japan.In a new paper 
+<https://arxiv.org/pdf/1610.09204v1.pdf>, Brian Kenji Iwana and Seiichi Uchida 
+explain how they trained a deep neural network “to predict the genre of a book 
+based on the visual clues provided by its cover”.
+
+Book cover clichés: have you spotted recurrent designs?
+ Read more  
+<https://www.theguardian.com/books/booksblog/2014/jun/12/book-cover-cliches-have-you-spotted-recurrent-designs>
+ It is a great help to everyone involved that once publishers find a good 
+thing for covers –a pair of legs 
+<http://articles.dailypress.com/2003-08-20/features/0308200055_1_book-jackets-legs-trend>
+, say, or the back of a woman’s head, orhandwritten titles 
+<http://www.theatlantic.com/entertainment/archive/2012/07/book-cover-clones-why-do-so-many-recent-novels-look-alike/259884/>
+ – they tend to stick with it, to the point of cliche.
+
+Using almost 140,000 covers, downloaded from Amazon along with the books’ 
+genres – the academics used a possible 20, from photography to romance – the 
+network was first trained and then tested to see if it could pinpoint the 
+titles’ genres.
+
+“The results make for interesting reading. The algorithm listed the correct 
+genre in its top three choices over 40% of the time and found the exact genre 
+more than 20% of the time. That’s significantly better than chance,” writes MIT 
+Technology Review. “This shows that classification of book cover designs is 
+possible, although a very difficult task,” write the academics.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2Fbooksblog%2F2016%2Fnov%2F15%2Fbook-cover-design-algorithm-genre%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F4f2d049cb2fa1d330af560da329f73c56a144821%2F0_0_2110_950%2F2110.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=You%20can't%20judge%20a%20book%20by%20its%20cover%20%E2%80%93%20if%20you're%20a%20robot&url=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2Fbooksblog%2F2016%2Fnov%2F15%2Fbook-cover-design-algorithm-genre%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=You%20can%27t%20judge%20a%20book%20by%20its%20cover%20%E2%80%93%20if%20you%27re%20a%20robot&url=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2Fbooksblog%2F2016%2Fnov%2F15%2Fbook-cover-design-algorithm-genre%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F4f2d049cb2fa1d330af560da329f73c56a144821%2F0_0_2110_950%2F2110.jpg>
+ Analyse this … new Virginia Woolf covers from Vintage. 
+The algorithm might have done better than chance, but for now at least, it 
+must be significantly underperforming humans (or as publisher Melville House’s 
+blog put it, “Machine built to judge books by their covers reveals pretty much 
+nothing 
+<http://www.mhpbooks.com/machine-built-to-judge-books-by-their-covers-reveals-pretty-much-nothing/>
+”. Human versus machine face-offs weren’t something the paper considered, but 
+stand in any library or bookshop, spin around, and I bet you’d correctly 
+categorise the majority of the titles you see – you’d definitely do better than 
+one in five.
+
+I wonder how the algorithm would perform on the stunning new collection of 
+jackets fromVintage for Virginia Woolf 
+<https://www.amazon.co.uk/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=virginia+woolf+vintage>
+’s novels – Mrs Dalloway is particularly gorgeous, but might it not end up in 
+arts and photography? Dittothese new looks 
+<https://www.amazon.co.uk/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=claudio+magris+vintage>
+ for Claudio Magris – beautiful, but perhaps a little too abstract for the 
+algorithm to handle.
+
+So for now, when it come to the books world, at least, we’re slightly ahead of 
+the machines. Althoughthey have been trying to write poetry 
+<http://www.npr.org/sections/alltechconsidered/2016/06/27/480639265/human-or-machine-can-you-tell-who-wrote-these-poems>
+...
+ 

@@ -1,0 +1,37 @@
+
+• Click here for information about the new blogs 
+<http://blogs.theguardian.com/inside/2008/08/blogs_relaunch.html>
+
+• Click here for information about the Community elements 
+<http://blogs.theguardian.com/inside/2008/08/blogs_and_commenting.html>
+
+• Click here for Community standards and participation guidelines 
+<https://www.theguardian.com/talkpolicy>
+
+• Click here for Community FAQs <https://www.theguardian.com/communityfaqs/>
+
+Why can't I see my older comments on my user profile page?
+We launched our registration system on April 13 2006. At present we will only 
+be migrating comments that were submitted by registered, signed-in readers from 
+that date to the present day. Comments submitted before April 13 2006 will not 
+be visible on readers' profile pages.
+
+The blogs affected are the News blog (created September 2004), the Politics 
+blog (created September 2004) and Mortarboard (created February 2006). Articles 
+written on these blogs before April 13 2006 will not have any comments, 
+however, we are working on migrating as many of these comments as possible at a 
+later date.
+
+Why are my comments not displaying in reverse chronological order on my 
+profile page?
+The comments that we have imported from the old platform to the new platform 
+will display at the end of articles in reverse chronological order, with the 
+five most recent comments displaying under the article. On readers' profile 
+pages, comments will display in the order in which they are imported into 
+Pluck, the new comment platform. We plan to do some further work to reorder 
+these comments into reverse chronological order, but this will not take place 
+until all blogs have been migrated onto the new platform.
+
+For queries about your user account, you should contact 
+userhelp@theguardian.com <mailto:userhelp@theguardian.com>
+ 

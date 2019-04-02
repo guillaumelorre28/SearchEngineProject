@@ -1,0 +1,155 @@
+
+Last week, a paper out of NOAA 
+<http://www.sciencemag.org/content/early/2015/06/05/science.aaa5632.abstract> 
+concluded that contrary tothe popular myth 
+<http://skepticalscience.com/global-warming-stopped-in-1998-intermediate.htm>, 
+there’s been no pause in global warming. The study made headlines across the 
+world, including widely-read Guardian stories byJohn Abraham 
+<https://www.theguardian.com/environment/climate-consensus-97-per-cent/2015/jun/04/new-research-suggests-global-warming-is-accelerating>
+ andKarl Mathiesen 
+<https://www.theguardian.com/environment/2015/jun/04/global-warming-hasnt-paused-study-finds>
+. In fact, there may have been information overload associated with the paper, 
+but the key points are relatively straightforward and important.
+
+1. Rapid Global Warming Continues
+
+Arguments about short-term temperature changes only deal with the Earth’s 
+surface temperatures, which account for just 1–2% of the overall warming of the 
+planet. More than 90% of that heat goes into the oceans, and as my colleagues 
+and I noted ina paper published 3 years ago 
+<http://skepticalscience.com/nuccitelli-et-al-2012.html>, if anything that 
+warming is accelerating, building up heat at a ratefaster than 4 atomic bomb 
+detonations per second <http://4hiroshimas.com/>.
+
+If you carefully cherry pick start and end dates, you can find a period around 
+1998–2012 during which the warming of surface temperatures slowed a bit due to 
+temporary natural cooling factors (like more La Niñas), just like it sped up a 
+bit during the 1990s due to temporary natural warming factors (like more El 
+Niños). But these are justwiggles on top of the long-term human-caused global 
+warming trend <http://www.skepticalscience.com/graphics.php?g=47>. As Michael 
+Mann put it 
+<http://ecowatch.com/2015/06/05/michael-mann-noaa-no-hiatus-global-warming/>, 
+
+there never was any “pause” or “hiatus” in global warming 
+<http://www.livescience.com/39957-climate-change-deniers-must-stop-distorting-the-evidence.html>
+. There is evidence, however, for a modest, temporary slowdown in surface 
+warming through the early part of this decade.
+
+2. The Surface Warming Slowdown is Probably Over
+
+This is a tough pill to swallow for those who have misused the short-term 
+slowdown in global surface warming to argue against climate policies, but it’s 
+likely over. 2014 was the hottest year on record, and 2015 looks likely to 
+break the record again.
+
+These slowdown-based anti-policy arguments have been made by everyone from 
+Republican presidential candidates 
+<http://www.politifact.com/truth-o-meter/statements/2015/mar/20/ted-cruz/ted-cruzs-worlds-fire-not-last-17-years/>
+ topolitical think tanks 
+<http://www.thegwpf.com/warming-pause-threatens-climate-science-green-energy-funding/>
+ toscience-denying blogs 
+<http://blog.hotwhopper.com/2015/06/no-pause-in-frenzy-of-denial-at-wuwt.html>. 
+It’s a simple argument – if we pretend the surface warming slowdown can 
+continue indefinitely, then global warming is less of a concern and we don’t 
+need policies to stop it.
+
+Since we’ve always known the slowdown was temporary, these were never credible 
+arguments, but they nevertheless helped to delay efforts to curb global 
+warming. After the publication of this NOAA paper, and possibly two consecutive 
+record hot years, it seems unlikely that these arguments will be considered 
+credible any longer.
+
+
+3. The Most Common Denial Response: Conspiracy Theories 
+
+Social science research has shown that conspiracy theorists are more likely to 
+reject scientists’ conclusions 
+<https://www.theguardian.com/environment/climate-consensus-97-per-cent/2014/mar/21/contrarians-bully-climate-change-journal-retraction>
+ about climate change. It’s a logical connection – given that97% of climate 
+scientists 
+<http://www.skepticalscience.com/global-warming-scientific-consensus-intermediate.htm>
+ andtheir research <http://iopscience.iop.org/1748-9326/8/2/024024> agree on 
+human-caused global warming, the easiest way to deny that reality is to accuse 
+all those scientists of being part of a vast conspiracy. Otherwise it’s 
+difficult to justify rejecting the conclusions of 97% of experts.
+
+Thus it’s not surprising that those in denial are accusing the NOAA scientists 
+of conspiring to fudge the data to make the slowdown disappear. For example,
+Anthony Watts 
+<https://www.theguardian.com/environment/climate-consensus-97-per-cent/2014/oct/13/dinner-with-global-warming-contrarians-disaster-for-dessert>
+, who runs a climate science denial blog, wrote an email to one of the authors 
+of the NOAA paper,telling him 
+<http://blog.hotwhopper.com/2015/06/more-perversity-from-anthony-watts.html>,
+
+In my last telephone conversation with you, I stated (paraphrasing) that “I 
+believe you folks aren’t doing anything fraudulent, but you are doing what you 
+feel is correct science in what you believe is a correct way”.
+
+After seeing the desperate tricks pulled in Karl 2015 to erase “the pause” via 
+data manipulation, I no longer hold that opinion. You needed it to go away, so 
+you prostituted yourselves, perhaps at the direction of higher ups.
+
+In fact, accusing the NOAA scientists of fraudulently ‘manipulating data’ for 
+the benefit of the Obama administration was a common theme in the climate 
+science-denying 
+<http://www.bishop-hill.net/blog/2015/6/4/obamas-housekarls-dance-to-his-warming-tune.html>
+blogosphere 
+<http://judithcurry.com/2015/06/04/has-noaa-busted-the-pause-in-global-warming/#comment-708499>
+. But there’s a glaring flaw in this particular conspiracy theory.
+
+4. The Adjustments Reduce Global Warming Estimates!
+
+This is clear from the bottom frame in this figure in the NOAA paper.
+ NOAA global surface temperature changes with new analysis, old analysis, and 
+with and without time-dependent bias corrections. (A) The new analysis (solid 
+black) compared to the old analysis (red). (B) The new analysis (solid black) 
+versus no corrections for time-dependent biases (cyan). Source: Science; Karl 
+et al. (2015) Source: Science; Karl et al. (2015) 
+According to the raw, unadjusted data, global surface temperatures warmed 
+about 0.9°C from 1880 to 2014. According to the new NOAA analysis, they warmed 
+about 0.8°C during that time. That’s a bit more than in the previous version of 
+NOAA’s data set (0.75°C), but the net effect of these adjustments is toreduce 
+the overall estimated warming as compared to the raw data!
+
+5. The Adjustments are Important
+
+Contrary to the conspiracy theories, climate scientists process the raw 
+temperature data for an important reason – to remove biases that don’t 
+represent real temperature changes. The big one in the new NOAA analysis deals 
+with changes in the ways ocean temperatures have been measured. They’ve been 
+measured from water samples in insulated buckets, uninsulated buckets, from 
+valves in ships’ hulls, and from instruments on buoys.As Zeke Hausfather 
+explains 
+<http://www.yaleclimateconnections.org/2015/06/new-noaa-reports-shows-no-recent-warming-slowdown-or-pause/>
+,
+
+A number of studies have found that buoys tend to measure temperatures that 
+are about 0.12°C colder than is found by ships at the same time and same 
+location. As the number of automated buoy instruments has dramatically expanded 
+in the past two decades, failing to account for the fact that buoys read colder 
+temperatures ended up adding a negative bias in the resulting ocean record. 
+This change is by far the largest single factor responsible for changing global 
+temperatures in the past 17 years compared to temperatures found in the prior 
+NOAA record.
+
+While this adjustment happens to have reduced estimates of the 1998–2012 
+surface warming slowdown, it’s important to account for changes in the way 
+ocean temperatures have been measured. It’s not a conspiracy, it’s science.
+
+6. The Slowdown and Anti-Policy Arguments are Fragile
+
+The latest changes to the NOAA data set were quite small (compare the black 
+and red lines in the top frame of the figure above). As NASA GISS directorGavin 
+Schmidt noted at RealClimate 
+<http://www.realclimate.org/index.php/archives/2015/06/noaa-temperature-record-updates-and-the-hiatus/>
+, if such minor changes are all it takes to make the so-called ‘hiatus’ go 
+away, then it was really quite fragile to begin with. As were any hiatus-based 
+anti-policy arguments.
+
+The bottom line is that the Earth continues to warm dangerously rapidly, and 
+short-term wiggles in global surface temperatures are no reason for 
+complacency. When those who believe otherwise are forced to resort to baseless 
+accusations of fraud and conspiracy theories, it’s time to stop listening to 
+them.
+
+ 

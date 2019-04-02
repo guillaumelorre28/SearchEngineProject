@@ -1,0 +1,176 @@
+
+I take pictures with a Canon DSLR camera, and use Canon software (EOS Utility, 
+Zoom Browser and Digital Photo Professional) to edit them on a 4.5-year-old 
+Toshiba laptop. The laptop is still reliable (though slowing down) with a 
+decent screen and still enough oomph to do the editing.
+I have decided that a tablet would enhance viewing the photos with the ability 
+to swivel the screen, portability and so on. But experimenting with my wife's 
+iPad, I have found that I cannot transfer the folders as they are on the PC, 
+nor preserve the original file information (date taken, name etc). Nor does the
+iPad <https://www.theguardian.com/technology/ipad> reliably display photos in 
+the order they were taken.
+Can you recommend a tablet or a convertible laptop that would meet my viewing 
+and file management requirements? I would hope that using the tablet for 
+browsing, email etc would also preserve the life of the Toshiba.
+Tim Locke
+
+
+The iPad is a very good device for displaying photographs, though it can be 
+somewhat inflexible. Probably the simplest way to use it is to create albums in 
+Apple's iPhoto or Aperture programs on a laptop and then sync these to the 
+iPad, which will show images in the order you chose in iPhoto. You can also use 
+Keynote, Apple's presentation software, to display photos. However, iPhoto and 
+Aperture are Apple-only. You would have to buy anApple 
+<https://www.theguardian.com/technology/apple> laptop to run them.
+
+An Apple support document <http://support.apple.com/kb/HT4236> says you can 
+use iTunes to sync photos from a Windows PC and Adobe Photoshop Album 2.0 or 
+later, or Adobe Photoshop Elements 3.0, to an iOS device such as an iPad, 
+though that this is a one way trip. (I don't run iTunes on PCs and don't have 
+the Adobe programs, so I haven't tried it.) There may be other ways of doing 
+it, as well.
+
+Android tablets
+
+Android tablets are cheaper and a bit more flexible than iPads, and they are 
+becoming popular with DSLR owners. Buy one with a microSD or SD card slot and 
+it would be handy for looking at pictures while you're out shooting. There are 
+also programs such asDSLR Controller <http://dslrcontroller.com/>, which, 
+according to the blurb on the website, "allows you to fully control your Canon 
+EOS DSLR from your Android device, with nothing more than a USB cable".
+
+You could use an Android tablet with either a 7in or 10in screen, or something 
+in between. Pictures look better on bigger screens but smaller devices are 
+easier to carry around. Pictures should also look better on a tablet that has 
+an IPS or Super-PLS screen, and these provide wider viewing angles. (Super-PLS 
+is a Samsung version of IPS 
+<http://www.flatpanelshd.com/focus.php?subaction=showfull&id=1291980086>.) 
+
+Both iPads and Android tablets work best as companion devices. It's quicker 
+and easier to do serious editing and file manipulation (including batch 
+processing) on a laptop or desktop PC. Professional photographers use programs 
+such as Adobe Photoshop and Lightroom, but there are plenty of cheaper programs 
+available. Good free options includePaint.net <http://www.getpaint.net/>, Zoner 
+Photo Studio <http://free.zoner.com/>, Irfan View <http://www.irfanview.com/> 
+andMicrosoft Photo Gallery 
+<http://windows.microsoft.com/en-GB/windows-live/photo-gallery-get-started>.
+
+Windows 8 tablets
+
+In theory, a Microsoft Windows 8 tablet, convertible or transformer would 
+solve all your problems. In principle, the tablet part of Windows 8 (formerly 
+known as Metro) can do anything an iPad or Android tablet can do, while 
+offering a cleaner, more modern user interface.Windows 8 
+<https://www.theguardian.com/technology/windows-8> also includes a full Windows 
+desktop that is little changed from Windows 7, so you should still be able to 
+run your Canon software and other applications. You will have to learn how to 
+use the start screen instead of the start menu, but this is certainly no harder 
+than learning a whole new tablet user interface, and your file operations will 
+work the way you already like.
+
+The result is that you get both a tablet and a Windows laptop in a single 
+device. You can almost instantly switch from editing and sorting your photos on 
+the laptop part to viewing them on the touch-screen tablet without having to 
+copy the photos across or go through a tedious export routine.
+
+However, this does involve some compromises. First, it's not a cheap solution. 
+Windows 8 convertibles have to cost more than ordinary laptops because they 
+include much more expensive parts, such as SSDs (solid state disks) and 
+multi-touch screens. You will save some money through not having to pay for two 
+motherboards, two screens, two SSDs and so on, but that's probably not how most 
+buyers will see it.
+
+Second, Windows 8 works well as a tablet, but it may be a big tablet. 
+Microsoft's Surface Pro, for example, is thin and light by laptop standards, 
+but quite a bit heftier than most 10in tablets. (The ARM-based Surface RT 
+version is smaller, lighter and has long battery life, but it doesn't have an 
+Intel processor and won't run your Canon and Toshiba software.)
+
+Price problems
+
+PC manufacturers are solving the price problem by using cheaper Intel Atom 
+processors (familiar from netbooks) instead of Core iX chips (used in 
+Ultrabooks). Atoms are like the ARM chips used in Android tablets: they are 
+power efficient – which means longer battery life – but relatively slow. At the 
+moment, the standard option is a dual core Atom Z2760. This is an improvement 
+on old netbook chips, but still slower than a typical Core 2 Duo and nowhere 
+near as fast as a third-generation Core i3. Use Notebookcheck'sComparison of 
+Mobile Processors (CPU Benchmarks) 
+<http://www.notebookcheck.net/Mobile-Processors-Benchmarklist.2436.0.html> to 
+see how the Z2760 compares with the processor in your old Toshiba. The Toshiba 
+may well be faster, though a Z2760 might be fast enough.
+
+If you take this route, there are several options on the market, such as the 
+Acer Iconia W510, Asus Vivo TF810C, Dell Latitude 10, Lenovo IdeaTab Lynx and 
+Samsung Ativ SmartPC. For the most tablet-like experience, choose one where the 
+screen can be detached, rather than rotated or folded back
+
+I have not tested any of these PCs, but I have had brief hands-on sessions 
+with the Acer W510 and Dell Latitude 10, and they seemed to perform quite well. 
+However, the Acer W510 costs more than£500 at Amazon.co.uk 
+<http://www.amazon.co.uk/Acer-Iconia-10-1-inch-Tablet-Keyboard/dp/B009T69O44/> 
+while theDell Latitude 10 
+<http://www.dell.com/uk/business/p/latitude-10-tablet/pd> comes out at £493.20 
+including VAT and shipping (£24).
+
+Like the Asus Transformer, the Acer W510 has a second battery in the keyboard 
+dock, which Acer says "gives you up to 18 hours of battery life". It also works 
+in three modes: as a laptop, as a standalone tablet, and as a presentation 
+device. Considering it has an Intel processor and Windows 8 rather than a cheap 
+ARM and almost-free Android, it's reasonably priced compared to, say, an Asus 
+Transformer TF700 (£599 
+<http://www.amazon.co.uk/Asus-Transformer-10-1-inch-Keyboard-Android/dp/B008KWHSYQ/>
+). However, it has much less raw power than a traditional £500 laptop.
+
+Convertibles like these should suit schools, where versatility and long 
+battery life have a lot of value, and data is stored on servers rather than 
+32GB SSDs. They can certainly display your photos, browse the web and handle 
+email, but they are not designed to run heavyweight applications.
+
+Windows tablets with Core iX chips can run the full Adobe 
+<https://www.theguardian.com/technology/adobe> Creative Suite, Microsoft Office 
+and other professional software, at a price. Examples include Microsoft's 
+Surface Pro, Dell's XPS Duo 12, HP's Envy X2, Lenovo's IdeaPad Yoga 13, 
+Samsung's Ativ SmartPC Pro, Sony's VAIO Duo 11, and the dual-screen Asus Taichi.
+
+While Z2760-based convertibles cost around £500 to £750, Core iX-powered 
+models are roughly twice the price. TheLenovo IdeaPad Yoga 13 
+<http://www.amazon.co.uk/Lenovo-IdeaPad-Touchscreen-Convertible-Ultrabook/dp/B00A9T56JC/>
+ convertible Ultrabook, for example, costs £999.999 with a Core i7-3517U, the
+Dell XPS 12 Convertible Ultrabook <http://www.dell.com/uk/p/xps-12-l221x/pd> is 
+£1,299, while the Asus Tailchi and Sony models have recommended prices around 
+£1,500. This is MacBook territory.
+
+Possible solutions
+
+In sum, this is a very tricky problem. The cheapest hardware solution would be 
+to go for a 9.7in or 10.1in tablet with a capacitative screen display and a 
+card slot. It will display photos – check the screen resolution carefully – and 
+otherwise give you a way to explore Android and its plethora of photo apps. 
+Examples include the Acer Iconia A200 (£205 
+<http://www.amazon.co.uk/10-1-Acer-Iconia-HT-H9SEK-001-Android/dp/product-description/B008BSYHB6/>
+) and the A1CS Fusion 5 Xtra (£155 
+<http://www.amazon.co.uk/A1CS-FUSION5-XTRA-Tablet-Capacitive/dp/B008DQSL7W/>).
+
+The best solution at around £500 would be an Atom-powered Windows 8 tablet 
+with a detachable screen, such as the Acer W510. This will provide a tablet for 
+showing photos while also replacing the Toshiba for most applications, 
+including email and web browsing, but it won't provide the big power boost 
+you'd get from a Core i5-based laptop. Since this is a non-essential purchase 
+you might be better off waiting six or eight months. The Windows 8 market is in 
+its early days, and prices should come down as production volumes increase. 
+Also, Intel has new chips coming, such as the exciting range currently 
+code-namedHaswell 
+<http://www.anandtech.com/show/6355/intels-haswell-architecture>.
+
+If you feel like making a great leap forward, and want to spend £1,000 to 
+£1,500, you could go for a Core iX tablet — perhaps even a Microsoft Surface 
+Pro, when it's available in the UK. But this type of machine is really a 
+corporate or enthusiast purchase at the moment. You're not one.
+
+So, I think you should explore ways to make your wife's iPad display photos in 
+more amenable ways, even if it means buying Adobe Photoshop Elements(£57.61) 
+<http://www.amazon.co.uk/Adobe-Photoshop-Elements-11-Mac/dp/B0090DQ93U/> and 
+installing the dreadful iTunes for Windows. Unless a reader has a better idea, 
+of course …
+ 

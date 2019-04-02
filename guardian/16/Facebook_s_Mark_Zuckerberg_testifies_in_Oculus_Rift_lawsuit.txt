@@ -1,0 +1,66 @@
+
+Facebook’s chief executive, Mark Zuckerberg 
+<https://www.theguardian.com/technology/mark-zuckerberg>, appeared in court to 
+testify on behalf of the social media giant’s virtual reality company Oculus 
+Rift on Tuesday, as it was accused of stealing trade secrets from Id Software, 
+maker of the Doom and Quake games.
+
+“I’m here because I believe they’re false,” Zuckerberg said of the charges, 
+“and it’s important to testify to that.” He characterized the plaintiffs as 
+opportunists: “It’s pretty common when you announce a big deal that people just 
+come out of the woodwork and claim they own some part of the deal.”
+
+Will 2017 be the year virtual reality gets real?
+ Read more  
+<https://www.theguardian.com/technology/2016/dec/27/will-2017-be-the-year-virtual-reality-gets-real>
+“We’re disappointed that another company is using wasteful litigation to 
+attempt to take credit for technology that it did not have the vision, 
+expertise or patience to build,” anOculus 
+<https://www.theguardian.com/technology/oculus> spokesperson told the Guardian. 
+Representatives from Zenimax media, owner of Id and chief plaintiff, did not 
+immediately respond to a request for comment.
+
+
+Zenimax alleges that Oculus founder Palmer Luckey and Id co-founder John 
+Carmack – now chief technical officer at Oculus – tweaked the software that 
+operates the Oculus while Carmack was still under contract at Id and then 
+destroyed evidence of the collaboration. Luckey is also accused ofusing Zenimax 
+games to promote the Rift during its Kickstarter campaign 
+<https://www.kickstarter.com/projects/1523379957/oculus-rift-step-into-the-game>
+ without permission. Oculus was acquired by Facebook in 2014 at a cost of $2bn.
+
+Attorneys grilled Zuckerberg about whether or not his company had done the 
+necessary due diligence before the sale. The court heard that Amin Zoufonoun, 
+Facebook’s head of corporate development, warned Zuckerberg that Oculus Rift’s 
+team had toldFacebook <https://www.theguardian.com/technology/facebook> things 
+that were “simply not true”.
+
+Demos of the headset impressed enough reporters and tech executives that 
+Oculus’s 2012 Kickstarter campaign raised $2.4m, after which Zenimax demanded 
+compensation from Oculus, including an equity stake. The subsequent discussions 
+ended in stalemate: Oculus refusing to give Zenimax equity without payment, 
+Zenimax refusing to pay cash. Several Zenimax employees left the company for 
+Oculus, including Carmack.
+
+
+Carmack’s gifts are central to the suit: in one exhibit, the company has 
+included a tweet from the venerable developer reading, “When you are in a 
+hurry, and you know you wrote the exact needed code (well!) at a previous job, 
+reimplementation grates.”
+John Carmack (@ID_AA_Carmack) 
+When you are in a hurry, and you know you wrote the exact needed code (well!) 
+at a previous job, reimplementation grates.
+ <https://twitter.com/ID_AA_Carmack/status/457599632252485633> April 19, 2014 
+<https://twitter.com/ID_AA_Carmack/status/457599632252485633> 
+Carmack was associated with the Rift from the headset’s earliest days; during 
+the Consumer Electronics Show (CES) in 2013, the company held private briefings 
+for press and other interested parties in a suite at the Venetian Hotel in Las 
+Vegas, whereLuckey demonstrated 
+<http://www.adweek.com/news/advertising-branding/we-have-seen-future-and-its-3-d-mobile-and-waterproof-146510>
+ what was not much more than a Galaxy Note 2 duct-taped to a plastic headset 
+with what he called “some hacky driver fixes in [Microsoft rendering software] 
+DirectX” at the time. Zuckerberg said in court that there was “no shared code 
+[from Carmack’s contract work with Zenimax] in what we do”.
+
+Reuters contributed to this report
+ 

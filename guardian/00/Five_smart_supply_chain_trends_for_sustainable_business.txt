@@ -1,0 +1,119 @@
+
+As businesses seek ways to prosper in the global economy, more should look to 
+build supply chains that are protean, those capable of rapid adaptation to 
+changing market conditions.
+
+Supply chains represent the lifeblood of most companies; parts or ingredients 
+are sourced from suppliers, they are then manufactured or assembled in to 
+products, and finally these goods must be delivered to customers.
+
+There are several on-going developments feeding into the growth of protean 
+supply chains. Here are five of the most important.
+
+Demand-driven
+
+In the past companies relied on forecasts based on historical sales to predict 
+what to make and ship to customers. But past sales are horrible at predicting 
+the future, especially in a volatile global economy.
+
+Companies are switching to use so-called "demand signals" as the basis for 
+production and replenishment planning. The most commonly used demand-signal is 
+a product bar code. When a retail clerk scans a bar code at the cash register, 
+that signal about a purchase can then be fed into special software that 
+recalibrates manufacturing and replenishment requirements.
+
+Personal-care products giant, Kimberly-Clarke, is one of many consumer goods 
+manufacturers using special software to generate shipment forecasts based on 
+point-of-sale data received from retailers. As a result Kimberly-Clarke has 
+been able to reduce its overall finished-goods inventory while improving 
+service to retailers.
+
+Customer segmentation
+
+All customers are not the same. Individual customers have unique demands and 
+some generate more revenue or profits to the business than others.
+
+Although a customer segmentation exercise can be costly and time-consuming, it 
+does give a company the ability to match supply chain processes and service 
+levels to discreet customers.
+
+Smart companies segment their lines of business to align their production, 
+inventory holdings and distribution to provide appropriate discrete levels of 
+service at reasonable costs. One company that's donethis successfully is Dell 
+<http://en.community.dell.com/dell-blogs/dell-shares/b/dell-shares/archive/2008/12/31/dell-announces-new-global-segmentation-around-key-customer-segments.aspx>
+. When it entered the retail market, Dell readjusted its supply chain for its 
+different business segments.
+
+Centralise supply chain information
+
+In order to respond swiftly to market events and be able to change operations 
+at a moment's notice, a company has to have an end-to-end view of what's taking 
+place in its supply chain at the item level. It has to know what parts 
+suppliers have on hand, and the whereabouts of both parts and finished products 
+in the pipeline.
+
+That's why many companies have set up command centres or control towers to 
+centralise information from their supply chain partners in one location. Not 
+only do these towers provide enhanced visibility, many are equipped with 
+software to help companies make rapid adjustments.
+
+For example, in 2011 when the floods in Thailand affected the operations of 
+many electronic suppliers 
+<https://www.theguardian.com/technology/2011/oct/25/thailand-floods-hard-drive-shortage>
+ in the country, instrument maker Agilent Technologies used simulation software 
+in its control tower to model the impact of parts shortages and then find 
+alternative sources for needed parts or redesign products using available parts 
+on hand.
+
+Supply chain analytics
+
+To determine the right supply chain response to changing market conditions, 
+companies are deploying special analytical software to gain operational 
+insights that enable action.
+
+Today's analytical software is no longer merely descriptive, detailing current 
+performance of operations. It can also be prescriptive, offering solutions to 
+problems, or predictive, anticipating future events and responses to those 
+events. Because the weather influences consumer spending (people buy more 
+coleslaw on hot days, for example), one leader in this area, Tesco, feeds 
+meteorological forecasts into special software to anticipate future 
+consumer-buying needs and then works with its suppliers to have those items on 
+the store shelves.
+
+The 'omnichannel' challenge
+
+As more consumers shop online and expect home delivery, retailers find 
+themselves having to support supply chains for both physical and virtual 
+stores. When e-commerce first began, many retailers set up separate 
+distribution centers, dedicated to either online orders or physical stores.
+
+Lately, many retailers have sought to create a "common pool of inventory" such 
+that no matter where the product is held, be it in a store or a warehouse, it 
+can be used to fulfill online shopping requests. Picking online orders from 
+stores has proven demanding as store employees must multi-task, switching back 
+and forth from customer service to order picking. In addition, unlike 
+distribution centers, most stores simply don't have the granular level of 
+visibility as to what items are available on the shelf. One UK retailer, John 
+Lewis, is taking an innovative approach to the omnichannel challenge by 
+developing hybrid distribution centers designed to fill individual orders for 
+both retail stores and online sales.
+
+Along with advances in software, new manufacturing technology involving 3D 
+printing and robots will make it even easier for companies to undertake rapid 
+restructuring of their supply chains in the future. To win in the marketplace 
+companies of tomorrow will have little choice but to create protean supply 
+chains.
+
+James Cooke is the editor of CSCMP's Supply Chain Quarterly 
+<http://www.supplychainquarterly.com/> and the author of the new book: Protean 
+supply chains: Ten dynamics of supply and demand alignment 
+<http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118759664.html>.
+
+The supply chain hub is funded by Fairtrade Foundation. All content is 
+editorially independent except for pieces labelled advertisement feature. Find 
+out morehere <https://www.theguardian.com/sponsored-content>.
+
+Join the community of sustainability professionals and experts. Become a GSB 
+member <https://register.theguardian.com/sustainable-business/> to get more 
+stories like this direct to your inbox
+ 

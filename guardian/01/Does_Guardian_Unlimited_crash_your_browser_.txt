@@ -1,0 +1,18 @@
+
+I've had a couple of letters from people who say the new-style Guardian 
+Unlimited Web site layout crashes their browser, and I'd be interested to hear 
+(1) if you have had the same problem and (b) if you've found a fix for it. Also 
+(iii) I've just noticed my numbering is inconsisent.
+
+I noticed a dramatic increases in browser crashes with the arrival of IE7, 
+most of them incriminating Flash. Most of these stopped after I went to Manage 
+Add-ons (on the Tools menu) and disabled the Browser Helper Object for 
+getflash.dll, used by the FlashGet download manager. There is no connection 
+between Adobe Flash and FlashGet, except a coincidence of naming.
+
+Sites that use Adobe Flash still seem by far the most likely to crash IE7, but 
+I suspect this due to a combination of factors involving Adobe, Microsoft and 
+other software, rather than being a general problem. Also, this means Ask Jack 
+(which, unfortunately, uses Flash for headings) seems at least as likely to 
+crash IE and Firefox as the new GU front.
+ 

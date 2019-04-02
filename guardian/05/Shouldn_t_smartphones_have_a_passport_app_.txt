@@ -1,0 +1,63 @@
+
+Nothing matches that instant of cold fear when you realise you’re a long way 
+from an essential item that you’ll need imminently. “You’ve brought some 
+identification, haven’t you?” asked my wife as we headed off to the premiere of
+Spectre (where the presence of royalty might mean proving your identity before 
+entering the premises).
+
+Ah. Well, that depends. I had tickets, a credit card and a smartphone. Would 
+any of those count as “identity”? And what on earth is identity these days?
+
+The tickets? Not a proof of identity, only of ownership; I might have mugged 
+someone, Bond-style, to infiltrate the inner circle of 5,000 at the Albert 
+Hall. The credit card? Ditto. The smartphone? Slightly different. In there – 
+protected by a passcode and/or fingerprint – were my Twitter and Facebook 
+accounts, and a login identity, and photos. Would those details be enough to 
+verify my identity? I suspect that for the low-ish bar needed that night, they 
+would. Show a photo; log in on Facebook and show the profile photo; show the 
+Twitter account, perhaps send a tweet.
+
+None of that would really be proof against a determined intruder; assuming 
+they’d got past the passcode or fingerprint, they could have prepared fake 
+photos, change the profile photos, passwords. But that’s assuming they get past 
+the passcode/fingerprint challenge. And that isn’t so simple. You can set very 
+long passcodes that will take forever to slog through or pick a fingerprint 
+that is trickier to counterfeit, such as your little finger, to unlock your 
+phone (though most will use a thumb). That’s effectively our identity, even if 
+a royal protection officer might not agree.
+
+But the smartphone is increasingly becoming our principal identity. Besides 
+holding photos social networks, emails, and phone numbers it’s also becoming a 
+mobile wallet, capable of buying things just as easily as a credit or debit 
+card, and access to a bank account via an app.
+
+So why hasn’t the smartphone taken the next step, and replaced the physical 
+passport? In 2012, a Canadian man crossed into the US using only a scan of his 
+passport, which he displayed on his iPad. The guards who let him across were 
+reprimanded: a scanned copy of a passport “is not a secure document”, pointed 
+out an MP.
+
+But this is the crux. What is a passport for? In general, to prove you are who 
+you say you are; to get one, you have to pass various cumbersome identity 
+checks such as parentage, birth certificate and so on. Then you’re given a 
+small book of paper or card (with an embedded NFC chip, in the UK and about 60 
+other countries). Couldn’t that go in a smartphone?
+
+A passport is valid for up to a decade, whereas we often replace smartphones. 
+Wouldn’t the next step be to have a verified “passport” app on our phones – 
+which has had all the same checks as a real passport – that could only be 
+unlocked by our fingerprint?
+
+The important point is that the government wouldn’t get our fingerprint; that 
+stays on the phone. The passport app would hold the same details – photo and 
+other details – as the physical one. Obvious objection: what if someone steals 
+your phone, hacks it, and changes the fingerprint used to unlock it, and then 
+the details in the passport? Clearly we’d need more defence; perhaps encrypt 
+the passport app using data points from an image of your face, confirmed by an 
+official.
+
+But this is like carrying around an ID card — something we’ve fought in the UK 
+for years. The difference though is that it would be optional, not obligatory. 
+The aim is convenience, not surveillance. You only have to watchSpectre to know 
+we don’t want too much of the latter.
+ 

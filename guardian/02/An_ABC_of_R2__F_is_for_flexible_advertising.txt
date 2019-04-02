@@ -1,0 +1,35 @@
+
+Today F, for flexible advertising... which was one of the key goals of the 
+project. This exposes one of the significant aspects of R2: it was neither 
+editorially driven, nor technically driven, nor commercially driven. It was 
+driven by a unity of needs right across the company, and it needed to be 
+successful in all these areas.
+
+There are a few ways in which we've added flexibility to our advertising 
+system, but I'll mention just a couple here.
+
+One form of flexibility is in the use of our ad slots. Our pages have been 
+designed to display ads of various sizes, and reshape themselves accordingly. 
+This is most obvious on some of the right hand ad slots -- sometimes you'll 
+find them displaying an ad that's a squareish rectangle, sometimes you'll 
+return to the same page and find another that's markedly taller. In theory 
+that's a trivial piece of work, and HTML and CSS can handle that with ease. But 
+in practice, of course, it's more challenging. One of those challenges is 
+trying avoid using an iframe container which ensures ads don't unduly interfere 
+with the rest of the page, but which force you define their size before the ad 
+server has had a chance to tell what size the ad needs to be.
+
+Another, related, form of flexibility is in our non-use of ad slots. You'll be 
+able to see this on the theguardian.com home page which sometimes has ads on 
+it, and sometimes doesn't. In the early stages of R2 the ad sales team made a 
+decision I've always admired: not to fill certain ad slots just because they 
+could, and ensure there were periods when the theguardian.com home page was 
+ad-free. Apart from any other advantages this means that when ads do appear 
+they have more impact, and of course it increases the value of advertising on 
+the home page.
+
+I like the work we've done on advertising less because of the technical 
+achievements, but much more because it shows we've used R2 as a chance to 
+rethink how we approach our business and break away from some conventional 
+thinking.
+ 

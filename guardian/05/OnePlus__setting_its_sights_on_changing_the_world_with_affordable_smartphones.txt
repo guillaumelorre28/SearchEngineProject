@@ -1,0 +1,104 @@
+
+Carl Pei has an ambition: to have 100 million users of his OnePlus 
+smartphones. But he says it’s not just self interest which is driving him, he 
+wants to create a platform that will help its users to do good.
+
+“If there’s an earthquake, we can nudge them to donate money, or help in some 
+other way, to get free credits on their OnePlus account. Or some other 
+incentive,” he says.
+
+This might smack of a head in the clouds idea but OnePlus co-founder Pei – who 
+turns 26 in September, and is calling from Skype on a visit to Bangalore – 
+firmly has his feet on the ground. “We’re still worrying about whether or not 
+we’re going to survive … when we have 100 million users, then I think the game 
+will change, and we can start negotiating and charting our own way. But at this 
+point it’s premature – as a startup you really need to focus on what you have 
+to do this year.”
+
+There’s certainly a long way to go to that hundred million. OnePlus, formed in 
+2013, only released its first phone – the OnePlus One – in May 2014, using an 
+invite system that both amped up the excitement among those who were on the 
+list (who were then allowed to pass on invites to others) and simplified the 
+challenge of supplying to a new audience.
+
+From whispers on Weibo, the Chinese version of Twitter, the message that a 
+company was aiming to produce ahigh-spec smartphone 
+<https://www.theguardian.com/technology/2014/aug/11/oneplus-one-phone-review-hitting-the-sweet-spot>
+ – equivalent to flagships from Samsung, Apple or HTC – at a much lower cost 
+quickly spread through a carefully targeted PR campaign.
+
+In all, about 1m units were sold by the end of 2014, a long way ahead of the 
+100,000 the team had expected. Now they’re ramping up for their next model, the 
+OnePlus 2, which will be shown off on 27 July via virtual reality, using 
+Google’s Cardboard app and DIY visor.
+
+The first phone’s introduction was part of what is being seen as the third 
+wave of change 
+<http://www.visionmobile.com/blog/2013/08/evolution-of-the-handset-business-from-source-of-profits-to-distribution-channel/>
+ washing over the smartphone industry, in which startup companies can launch 
+globally yet keep prices low by selling and shipping directly to different 
+countries, or through e-commerce sites such as India’s Flipkart, which take a 
+small slice of the price. “We cannot work with offline stores such as [US 
+chain] Best Buy,” says Pei. “If they wanted a 20% margin on the device – we 
+don’t have 20% margins in total, so it’s impossible.”
+
+But global sales are feasible: non-China sales were about 65% of business in 
+2014, rather than the expected 10%.
+
+The key to those “third wave” companies such as Xiaomi, OnePlus, Oppo and 
+Meizu is that they can piggyback on the rapid improvements coming out of 
+China’s Shenzhen – fingerprint readers, photo sensors, screens – and build a 
+phone around them. They don’t have to sell at big margins, nor produce phones 
+in gigantic numbers, to realise their ambitions. They build on open-source 
+Android, using OSs such as CyanogenMod (OnePlus is now moving to one called 
+Oxygen), and install Google’s mobile services outside China.
+
+This year OnePlus aims to sell between 2.5m and 3m units, generating $800m to 
+$1bn in revenue, followed by 5m-7m in 2016 and 10m or more in 2017. “I think 
+when, in three years, we have 15 million active users, that starts to get 
+really, really interesting.”
+
+Pei wants OnePlus’s system to entice users in, and keep them in – something 
+that’s so far been difficult for Android manufacturers, where brand loyalty is 
+generally low. “We rather believe if you have a valuable platform with 10m or 
+100m people on Oxygen, then we can find ways to work with the best-in-class 
+companies, the best in the internet of things, but also the best apps and 
+services companies like Dropbox, like Uber. The barrier of switching between 
+one smartphone to another currently is pretty low, so we will definitely have 
+to build in switching costs into our platform, and also a network effect, to be 
+able to maintain the platform advantage once we have this.”
+
+So how will he make staying on OnePlus attractive? “Let’s say in the future we 
+have a platform of 10 million users, and we have OnePlus credits, and you take 
+an Uber, you open the Uber app, you log in with your OnePlus account and you’re 
+logged in. And because we own the end-to-end user experience on e-commerce, we 
+can capture their address, their credit card information, even their biometric 
+information.”
+
+Why? “So we can log them in to their device before they actually receive their 
+device.” Pei is speaking more quickly now, accelerating into the future. “So 
+next time, with the OnePlus 4 or 5 a few years down the line, when they receive 
+the phone it’s already logged in and already has everything set up according to 
+their preferences, already has their biometric information. The entire friction 
+of making a purchase or a customisation just decreases so much more. This will 
+lead to higher engagement.” And, perhaps in time, to the earthquake-donation 
+reaction he suggested earlier.
+
+But for now, the challenge is simply staying profitable: “it gets more 
+difficult as you scale up. On one hand, component prices drop, because you can 
+negotiate better terms. But on the other hand it gets much more difficult to 
+plan how many phones you’re going to make, so if you miss your target and end 
+up with inventory [unsold stock], you’ll have to write it off as a loss. That’s 
+what a lot of hardware companies are facing. That’s what a lot of software 
+companies underestimate, the risks involved in scaling up hardware. As soon as 
+they start dabbling in hardware, they almost always fail in the very beginning 
+when it comes to inventory.”
+
+Everything remains to be proved by the OnePlus 2 – but Pei at least knows that 
+the business model works. Now he just needs the third wave to sweep more widely 
+through the smartphone business. “We believe in every period of time in every 
+era there’s one main point of connection between the user and the internet,” 
+says Pei. “Today that has become the smartphone.”
+
+ * Xiaomi: it’s China’s Apple, though you’ve probably never heard of it 
+<https://www.theguardian.com/technology/2015/jan/16/xiaomi-chinas-equivalent-to-apple> 

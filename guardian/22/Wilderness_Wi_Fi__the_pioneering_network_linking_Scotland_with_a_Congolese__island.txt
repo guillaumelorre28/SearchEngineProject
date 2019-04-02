@@ -1,0 +1,129 @@
+
+A Congolese king has introduced a specialised Wi-Fi network to a remote island 
+after testing it in a similarly rugged and windswept environment: an estate in
+Scotland <https://www.theguardian.com/uk/scotland> managed by a representative 
+of Queen Elizabeth.
+
+An estimated 250,000 people live the island of Idjwi in the Democratic 
+Republic of the Congo <https://www.theguardian.com/world/congo> (DRC), which 
+has been referred to as a “forgotten population” by the world’s media.
+
+There is no broadband infrastructure. Its benefits would be limited in any 
+case: fewer than 10 homes on the island in the centre of Lake Kivu have a 
+computer, while the cost of 3G and smartphones mean mobile internet is too 
+expensive for most citizens, many of whom live on just a dollar a day.
+
+But since May, 10,000 islanders have been able to access the free Wi-Fi being 
+beamed across the lake by a powerful antenna. It’s a system otherwise known as 
+“mesh Wi-Fi”, which starts with one connection – in this case in the town of 
+Bukavu on the mainland 40 miles (60km) away – and then the signal is 
+transmitted by a series of masts.
+
+The new Wi-Fi supplies a kiosk in Bugarula, the island’s biggest village, 
+which has five tablets and four computers. People can also pick up a signal 
+within 100 metres of each mast. Unlike broadband, mesh Wi-Fi doesn’t require 
+cables to be installed and people can makehomemade antennae 
+<https://www.fjordnet.com/workdetail/bringing-the-internet-to-africas-forgotten-island/>
+ out of scrap metal to share the connection.
+
+The system was recently heralded Kevin Kelly, executive editor of Wired 
+magazine, as atechnology to “shape our future 
+<http://observer.com/2016/06/kevin-kelly-wants-people-to-embrace-the-futures-technological-promise/>
+”.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Foct%2F07%2Fmesh-wi-fi-the-pioneering-network-linking-scotland-with-a-congolese-island%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fffefe765eeee5b946909369fca8b61665f944487%2F183_0_1317_790%2F1317.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Wilderness%20Wi-Fi%3A%20the%20pioneering%20network%20linking%20Scotland%20with%20a%20Congolese%20island&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Foct%2F07%2Fmesh-wi-fi-the-pioneering-network-linking-scotland-with-a-congolese-island%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Wilderness%20Wi-Fi%3A%20the%20pioneering%20network%20linking%20Scotland%20with%20a%20Congolese%20island&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Foct%2F07%2Fmesh-wi-fi-the-pioneering-network-linking-scotland-with-a-congolese-island%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fffefe765eeee5b946909369fca8b61665f944487%2F183_0_1317_790%2F1317.jpg>
+ Equipment for mesh Wi-Fi arrives. Photograph: Fjord/First Light 
+The Scottish test 
+
+Fjord, the innovation consultancy company based in the UK 
+<https://www.fjordnet.com/> and Ensemble Pour La Difference 
+<https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ensemblepourladifference.org_&d=DQMFaQ&c=eIGjsITfXP_y-DLLX0uEHXJvU8nOHrUK8IrwNKOtkVU&r=DGERBqedq3OrbUodKhBUitwxQWhqUyneBjUS1YGQ0FI&m=uSXO7EHXwagS3z07Pof-kXavTRH1pr9ZrQG3MDLG2YM&s=DevzplHY-aVZbxwheKhb6ZdCrhFkMs6gyJhwu1l1N4M&e=>
+, a social incubator based in Bukavu that are delivering the project for the 
+Idjwi king Gervais Rubenga, wanted to test the system before shipping it out to 
+east Africa, which is where the Brahan estate near Inverness comes in.
+
+It was the ideal testing ground, thanks to the remoteness and limited 
+interference from other signals, and the fact thatthe nephew of Lord-Lieutenant 
+of Ross and Cromarty 
+<https://www.fjordnet.com/workdetail/bringing-the-internet-to-africas-forgotten-island/>
+, who manages the land, had already set up a mesh Wi-Fi system for her 
+community.
+
+The wind, rain and terrain were similar too, so much so that Patrick Byamungu, 
+who leads the project in Idjwi for Ensemble Pour la Différence and travelled to 
+Scotland for the test, says he could have been back in DRC. “It helped that the 
+people were kind, friendly and keen to help,” he says.
+
+After successfully setting up a mesh system that delivered fast internet, the 
+Fjord team drew up a plan to install a tower that would take the internet from 
+Bukavu across the lake directly to the centre of the island.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fvimeo.com%2F173611176&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fvimeo.com%2F173611176>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Fvimeo.com%2F173611176&media=>
+ The system is tested in Scotland. 
+Up and running in May, the new connection has has brought many changes to 
+Idjwi. An online public display system in the local market has been installed 
+and shares up-to-date news, health information and messages, all sent directly 
+by Rubenga from his Android phone.
+
+Traders have to travel to the mainland to sell coffee and fish, the island’s 
+two biggest exports. Now they look up which markets will give them the best 
+price and, crucially, check the weather forecast to see if it is safe to cross 
+the lake.
+
+The connection also helps people access news about the latest security 
+situation in DRC which,according to Chatham House 
+<https://www.chathamhouse.org/expert/comment/democratic-republic-congo-heading-another-civil-war>
+, is locked in aslow-burning political crisis 
+<https://www.theguardian.com/world/2016/sep/19/democratic-republic-congo-demonstrations-banned-police-killed-joseph-kabila-etienne-tshisekedi>
+. This is information that previously could have taken weeks to reach the 
+island, explains Byamung, who lives in Bukavu but travels to Idjwi at least 
+twice a month.
+
+Euan Millar, who is leading the project for Fjord, is also hopeful islanders 
+may escape internet censorship imposed on the rest of the country. “The 
+government is very controlling. If you apply for a phone contract you have to 
+tell the names and numbers with all of your friends,” he says. On Idjwi, 
+islanders can access the internet without having to disclose any personal 
+details to the government, he adds.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Foct%2F07%2Fmesh-wi-fi-the-pioneering-network-linking-scotland-with-a-congolese-island%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F95f8f8c945e72ad536e87ea86f30f3cc8e82a419%2F0_226_1500_900%2F1500.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Wilderness%20Wi-Fi%3A%20the%20pioneering%20network%20linking%20Scotland%20with%20a%20Congolese%20island&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Foct%2F07%2Fmesh-wi-fi-the-pioneering-network-linking-scotland-with-a-congolese-island%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Wilderness%20Wi-Fi%3A%20the%20pioneering%20network%20linking%20Scotland%20with%20a%20Congolese%20island&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Foct%2F07%2Fmesh-wi-fi-the-pioneering-network-linking-scotland-with-a-congolese-island%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F95f8f8c945e72ad536e87ea86f30f3cc8e82a419%2F0_226_1500_900%2F1500.jpg>
+ The Highlands of Scotland? No, the island of Ijdwi in DRC. Photograph: 
+Fjord/First Light 
+Idjwi is not the first place to benefit from mesh networking. It has been set 
+up invillages in Brazil 
+<https://webwewant.org/news/mesh-network-for-village-internet-access-in-brazil/>
+, in rural areas from Scotland to Italy, and in Hong Kong, where protesters 
+have used it tocommunicate out of the reach of government censors 
+<https://www.newscientist.com/article/dn26285-hong-kong-protesters-use-a-mesh-network-to-organise/>
+. It’s “particularly scaleable” in the developing world where people can’t 
+afford individual connections, Millar says.
+
+Full access to the internet is free on Idjwi, funded by Fjord and Ensemble 
+Pour la Différence, but the next stage is to make the project financially 
+sustainable. The king and the UK team want to keep basic health information and 
+news available free by charging residents $2 a month to browse Facebook, 
+YouTube and other sites.
+
+For Fjord, the ultimate goal of the project is to hand full ownership to the 
+residents. However, while they are introducing new technologies “it will take a 
+little time for people to find their feet”, Byamungu says.
+
+While Byamungu says that accurate weather information has been the most 
+immediate and obvious benefit of the project, he has also been encouraged to 
+see everyone from young people to traders and teachers connecting with the 
+world. “When I travel I see that everyone has this luxury, it should be the 
+same on the island,” he says.
+
+ 

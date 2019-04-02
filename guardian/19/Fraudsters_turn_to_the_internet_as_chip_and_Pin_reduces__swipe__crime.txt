@@ -1,0 +1,93 @@
+
+Six months on from the mandatory introduction of chip and Pin cards, 
+increasing theft on the internet is forcing banks and retailers to trial new 
+technology to combat card fraud.
+
+Although counterfeiting of cards and ID theft has fallen, fraudsters have 
+continued to concentrate their efforts on 'card-not-present' (CNP) fraud - by 
+phone, internet and mail - and are increasingly defrauding UK cardholders 
+overseas, according to the Association of Payment Clearing Services (Apacs). 
+Last year CNP fraud soared 21 per cent to £183m, according to Apacs, which 
+compiles the figures, and continued to rise in the first half of this year.
+
+'Chip and Pin has had an impact on domestic fraud in the first six months of 
+the year with the number of losses from counterfeit cards and lost and stolen 
+cards continuing to fall,' says Katy Worobec, head of fraud control at Apacs. 
+'Fraudsters are, however, migrating to other areas, in particular 
+'card-not-present' as well as non-chip and Pin environments outside of the UK.'
+
+In an effort to combat the growing problem of online fraud, a number of 
+high-street banks will start to offer customers hand-held devices early next 
+year for use online. These will electronically generate a one-off password to 
+be used in addition to the normal security checks carried out by a bank or 
+retailer when someone logs into their account or shops online.
+
+'The cardholder will put their card into a handheld reader, key in their Pin, 
+the reader will then generate a one-time password to the retailer which the 
+retailer can check with the card issuer,' says Worobec. 'These devices will be 
+built to an industry standard so that card holders can use it with any bank.'
+
+Barclays said last week that it was ready to roll out its version of the card 
+reader in early 2007, and indications are that LloydsTSB, which has been 
+trialling a similar device, will do the same.
+
+Figures from Apacs show that 11 million chip and Pin cards were still to be 
+issued by the end of June, only one million fewer than on 14 February. Unlike 
+holders of chip cards, users of the old-style magnetic-stripe-only cards have 
+no protection against 'skimming', when fraudsters clone the card at a cash 
+machine equipped with a false front. However, even chip and Pin card holders 
+are not protected against fraud once the duplicate card leaves the UK. 
+'Fraudsters are now taking the cloned cards to use overseas in countries where 
+chip and Pin has not been introduced,' says Jemma Smith, spokeswoman for Apacs.
+
+Despite an overall reduction in fraud, the introduction of chip and Pin has 
+raised fears of 'shoulder surfing'. This is when fraudsters look over someone's 
+shoulder while they input their Pin number and later steal their card.
+
+Boots is trialling a new device that its University of Warwick designers say 
+will combat this problem as well as making entering a Pin number easier for the 
+visually impaired. The device looks similar to existing card readers except for 
+a hood which incorporates a magnifying glass. Crucially, the device distorts 
+the view available from any other angle by a casual observer or hidden cameras.
+
+'We observed the point of sale and noticed how long people took to look for 
+their glasses,' said Neil Radford, an Enterprise Fellow at the University of 
+Warwick and co-designer of the product. 'For every additional second at the 
+point of sale there is a net cost to the retailer, so if they can make that 
+faster it can save them money.'
+
+A major oil company has also agreed to trial the device, as has a UK bank.
+
+Many cardholders with visual impairments or who are otherwise disabled are 
+eligible for a 'chip and signature' card. The number of chip and signature 
+cards in issue has increased by 10,000 since February, but some of the 
+charities representing the elderly and those with disabilities complained last 
+February that card issuers were not making customers aware they may be eligible 
+for these cards, though this situation appears to have improved. 'We are 
+representing one gentleman who approached the Norwich and Peterborough building 
+society at the beginning of the year to get a chip and signature card - he is 
+having to wait until September. We were having similar problems last year with 
+a couple of the major banks, but these have been resolved,' says a spokesperson 
+for the RNIB. N&P says it is launching chip and signature cards to all of its 
+eligible customers next month.
+
+Since the roll-out of chip and Pin there are also signs that banks and 
+building societies are getting tougher on customers affected by fraud. 'We have 
+seen a rise in the number of cases where a card provider is not willing to 
+settle a dispute because they think in some way the consumer is involved,' said 
+Emma Parker of the Financial Ombudsman Service. 'The additional technology 
+inherent in chip and Pin has given banks more confidence that they can win a 
+case.'
+
+Often cases revolve around customers who have given someone their Pin as a 
+one-off and that person has continued to use the card. Customers are often 
+found negligent in these cases but the situation will depend on whether the 
+card is a debit or credit card. Anyone who is a victim of fraud while using 
+their credit card, even if negligent, is not liable for anything more than the 
+first £50 of losses under the Consumer Credit Act.
+
+Apacs says it is going to alter the Banking 
+<https://www.theguardian.com/business/banking> Code next year so it includes an 
+industry standard set of guidelines on how customers should be treated if they 
+claim they have been a victim of fraud.
+ 

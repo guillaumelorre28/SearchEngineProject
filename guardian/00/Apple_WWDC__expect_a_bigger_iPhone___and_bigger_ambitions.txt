@@ -1,0 +1,327 @@
+
+Apple's Worldwide Developers Conference (WWDC) is over for another year - with 
+the developers now leaving San Francisco and digesting what they learnt there.
+If you agree with Stefan Constantine 
+<http://tabdump.com/blog/2014/2/18/two-days> that there are only two important 
+events in the annual technology calendar - Apple's WWDC and Google's I/O - then 
+the first half is done.
+
+The first big question people have asked: where were the gadgets? Apple 
+<https://www.theguardian.com/technology/apple> has released hardware at WWDC in 
+the past - notably, iPhones, during the device's early years. This year? 
+Nothing.
+
+On the big screen
+
+Make no mistake - Apple is clearly working on phones with larger screens. It's 
+part of a drive to close every gap withAndroid 
+<https://www.theguardian.com/technology/android> for users and developers, 
+while retaining the differences that have attracted existing users and business 
+users, who demand complete security.
+
+Apple's wants to make iOS hugely attractive to developers, while not 
+particularly helping those developers to write for Android. It wants to make 
+iOS attractive for users, offering apps and features that people can't get on 
+Android or don't want to forsake from Android, and extra features so that 
+people will stay with the iOS ecosystem.
+
+A bigger phone
+
+The clues were right there in a functionality called "adaptive display" - 
+which appeared for a moment in a slide, but isn't mentioned in thepublic 
+details about what's new in iOS 8 for developers 
+<https://developer.apple.com/ios8/>. Hidden a little deeper is the "
+UIAdaptivePresentationControllerDelegate 
+<https://developer.apple.com/library/prerelease/ios/documentation/UIKit/Reference/UIAdaptivePresentationControllerDelegate_protocol/index.html#//apple_ref/doc/uid/TP40014283>
+" which "works with a presentation controller to determine how to respond to 
+size changes in your app". If it sounds abstruse, it's meant to - it's the key 
+to a bigger display.
+
+Developers at WWDC told me that adaptive display is new this year, and that it 
+does just what Android does: scales up vector assets so that they will fit a 
+screen of undetermined size. That should mean that when Apple introduces one or 
+more phones with larger screens, there won't be a long pause while developers 
+resize icons and so on to take advantage of it, as happened with the 
+introduction of theiPhone <https://www.theguardian.com/technology/iphone> 5 in 
+2012.
+
+The mood music from Apple's executives is slightly different too. Early last 
+year questions about screen size (which even then seemed like something where 
+Android was beginning to split away) drew responses like "we're quite happy 
+with our screen sizes" (which doesn't preclude a change, but doesn't exactly 
+presage one either). Now it's "we've never said we're against larger screens, 
+but we don't want to compromise on quality."
+
+Apple has always been picky about what's called the "white point" of its 
+screens - which is how true on-screen colours are to real life. It has also 
+fretted about the effects on a larger screen on battery life (though a larger 
+screen should mean longer battery life, because proportionally more of the 
+phone can be devoted to the battery while the chips to provide the phone and 
+computing functionality don't change in size.)
+
+The "swipe" functionality introduced in iOS 7 - which always suggested larger 
+screens were on the way, and that this was a training ground for them - seems a 
+clear signal of larger iPhones in the autumn. There's no consensus onhow large. 
+A 4.7in screen seems likely as it's a popular size in the Android market.
+
+But a 5.5in device, which would be classed as a "phablet" by analysts, seems 
+possible. Ben Bajarin of Creative Strategies points out that Apple will 
+struggle to compete effectively for sales in China unless it has a device 
+tailored to that market - and Chinese phone users really like phablets. He 
+thinks that a China-only launch for a phablet-sized iPhone is possible; the 
+fact that it would create a grey market (in which those would be unofficially 
+exported from China to other countries) is just a neat irony, given how many 
+iPhones were brought to China by grey imports.
+
+With a bigger iPhone, Apple would be able to close one of the gaps that has 
+been a key advantage for Android - that some people like larger screens, and 
+that using one tends to have a ratchet effect: once you've done it, you don't 
+go back.
+
+Coming attractions: keyboards, extensions and widgets
+
+A year ago, the British company Swiftkey was quietly confident that 
+third-party keyboards would be allowed into iOS 7 - the first time that Apple 
+had allowed another product to replace a system-wide one.
+
+It didn't happen, and Apple indicated to me last year that it had concerns 
+about security 
+<https://www.theguardian.com/technology/2013/jul/09/apple-iphone-keyboard-default-apps>
+. But this week, Apple said that third-party keyboards will be allowed in iOS 8 
+- subject to the proviso that they can't send data to the cloud without first 
+getting the user's explicit permission.
+
+That's only the half of it. As Swiftkey's Joe Braidwood pointed out to me, 
+Apple's preliminary support documentation 
+<https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html#//apple_ref/doc/uid/TP40014214-CH16-SW1>
+ (which, it should be noted, could change) on third-party keyboards has all 
+sorts of spaces where they can't play.
+
+For instance, the section "System Keyboard Features Unavailable to Custom 
+Keyboards" includes password text fields, and phone number fields in the 
+Contacts app. (Apple says its system keyboard will pop up for those.) Nor can 
+they access the clipboard with its contents from Cut, Copy or Paste actions. 
+And third-party keyboards can't show "key artworks" - which seems to mean word 
+suggestions - in the top line above the keyboard, unlike the iOS 8 keyboard.
+
+Taken together, that's maximum security. Braidwood is hopeful that things will 
+relax as the release comes closer in the autumn. But it's clear from that 
+document that Apple definitely hasn't gotten over its concerns about security. 
+I'm told that there are extra protections built into iOS 8 - and the bans on 
+password (officially, "secure text") fields may be part of it.
+
+How big will third-party keyboards be? There's an assumption by some people 
+that because they use one, everyone else in the world is desperate to. But the 
+evidence from the Google Play Store is less clear. Here are some third-party 
+keyboards and their download numbers:
+
+ * Swype Keyboard Free 
+<https://play.google.com/store/apps/details?id=com.nuance.swype.trial>: 1m-5m 
+downloads 
+ * Swype paid 
+<https://play.google.com/store/apps/details?id=com.nuance.swype.dtc> (£2.42): 
+0.5m-1m downloads
+
+ * Google Keyboard 
+<https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin>
+: 10m-50m downloads. The latest update includes "Improved suggestions and 
+corrections using data from Google apps and services", which means it would 
+have a tricky time initially on iOS.
+
+ * Swiftkey Free 
+<https://play.google.com/store/apps/details?id=com.touchtype.swiftkey.phone.trial>
+: 10m-50m downloads
+
+ * Swiftkey paid 
+<https://play.google.com/store/apps/details?id=com.touchtype.swiftkey> (£2.99): 
+1m-5m downloads
+
+ * ai.type Keyboard free 
+<https://play.google.com/store/apps/details?id=com.aitype.android>: 10m-50m 
+downloads
+
+ * Fleksy 
+<https://play.google.com/store/apps/details?id=com.syntellia.fleksy.kb> (offers 
+in-app purchases): 0.5m-1m downloads
+
+ * TouchPal X 
+<https://play.google.com/store/apps/details?id=com.cootek.smartinputv5> (offers 
+in-app purchases): 10m-50m downloads
+
+Add these together and third-party keyboards seem a significant business, yet 
+an examination of the reviews suggests that many people try out multiple 
+keyboards before settling on one - so many of these downloads aren't active. 
+The aggregate of the figures above is between 43m and 211m downloads (taking 
+the upper and lower limits of each figure); the higher figure would suggest 
+that 1 in every 5 Android devices has a third-party keyboard on it - which 
+seems unlikely. Given the propensity to download multiple different ones, a 
+more realistic market on Android is somewhere between 50m and 60m devices.
+
+That's nothing to sneeze at - but forecasting the size on iOS is harder, 
+because Apple is simultaneously upgrading its keyboard in iOS 8 to give it a 
+prediction system.
+
+Extensibility
+
+Apple is finally allowing different apps to communicate their ability to deal 
+with data from other apps 
+<https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/index.html#//apple_ref/doc/uid/TP40014214-CH20-SW1>
+. While Android has had "intents" forever, so that apps can indicate that they 
+deal with text, or photos, or video, and offer to take output from other apps 
+that generate those sorts of content, or let you direct that content to them, 
+Apple has always bound apps more tightly.
+
+The capability to do this has been around in iOS for a couple of years now, 
+but Apple held back from implementing it - perhaps last year because there was 
+enough upheaval for developers in the swipe-based redesign of iOS 7.
+
+
+With extensions, apps will be able to indicate that they can perform certain 
+functions,such as adding a filter to a photo 
+<https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/Photos.html#//apple_ref/doc/uid/TP40014214-CH17-SW1>
+. That will be registered with the system, and those extensions will then show 
+up via iOS's "sharing" button. So if you take a photo and then want to apply a 
+filter or effect from one app, and then share that photo on Instagram and/or 
+Twitter and/or Facebook, you'll call up the filter/effect extension, apply it, 
+and then call up the Instagram/Twitter/Facebook extensions, and use those to 
+send the modified photo - all while staying in the Photos app.
+
+It's a lot simpler than the multi-app dance that Apple has forced on people so 
+far.
+
+Yet - security! - those apps applying the effects and sending the data will be 
+sandboxed from the ones they're interacting with: the filter/effect app won't 
+get access to all of your photos, only the one being handled.
+
+Again, Apple's closing the gap with what Android has offered - providing a way 
+to tempt people over from Android so that they aren't frustrated by what they 
+can't do on iOS. Or, alternatively, it's a way to win back iOS users who might 
+have left the platform.
+
+Widgets
+
+Widgets on iOS 
+<https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/ExtensibilityPG/NotificationCenter.html#//apple_ref/doc/uid/TP40014214-CH11-SW1>
+ aren't quite the same as on Android, where they are mini-apps such as the 
+weather or clock which reside on the home screen and update in real time. On 
+iOS, they are mini-apps, but they run in the slide-down Notifications panel, 
+and specifically in the "Today" part (which also contains the calendar).
+
+One difference from Android widgets is that iOS won't let them update all the 
+time. Instead, it will only update the widget when the Today view is opened - 
+that's because of the concern about draining battery life again. (Widgets on 
+Android are notorious juice-suckers.) But they're a "nice to have", and part of 
+the way in which the Notifications panel is becoming ever more complex - and 
+yet useful.
+
+
+Cloud
+
+Google's cloud powers the back end of Android. Now Apple is going all-in on 
+cloud features in iOS 8, with explicit features like iCloud Drive (which offers 
+file system navigation for people who can't get enough of file trees) but also 
+background data transfer. Developers can now store data directly into iCloud, 
+and photos and changes will be stored too. Charges for users are minimal; 
+charges for developers are fractional. Apple is making cloud storage (including 
+photos and edits of photos) part of what it does naturally.
+
+As to whether Apple's iCloud is really Apple's storage and processing, or 
+whether it's just rented from another company, I was told by authoritative 
+sources that Apple doesn't "white label" or buy in any of iCloud: it's all 
+Apple's own equipment running it.
+
+
+As Benedict Evans of Andreessen Horowitz comments 
+<http://ben-evans.com/benedictevans/2014/6/4/digesting-wwdc-cloudy>:
+
+The whole of WWDC is full of cloud. A very large proportion of the new 
+user-facing features touch the cloud in some way, as a conduit or as storage. 
+And the ones that don’t use what you might call the personal cloud - the 
+Bluetooth LE/Wifi mesh around you (such as HealthKit or HomeKit). So edit a 
+photo and the edits are on all your devices, run out of room and your photos 
+stay on the cloud but all but the previews are cleared off your phone, tap a 
+phone number on a web page on your Mac and your phone dials it. But none of 
+this says ‘CLOUD™’ and none of it is done in a web browser. Web browsers are 
+for web pages, not for apps. Hence one could suggest that Apple loves the 
+cloud, just not the web (or, not URLs). This is obviously a contrast with 
+Google, which has pretty much the opposite approach.
+
+iMessage
+
+According to Craig Federighi, Apple's software chief, the Messages app is the 
+one that people spend the most time in per day. Apple is thus enhancing it to 
+tie people more closely to it by allowing users to:
+
+• send self-destructing voice and video messages (they are wiped once 
+consumed, unless the receiver chooses to keep them)
+• see a quick view of photos exchanged during a conversation
+• name conversations
+• silence a multi-person conversation
+• temporarily share present location with the people you're messaging
+• permanently share location with others in a conversation
+
+None of those is going to immediately stop people using Snapchat, WhatsApp, 
+voicemail or location-sharing apps such as Glympse. But that's not the idea, as 
+Jan Dawson of Jackdaw Researchpoints out 
+<http://www.beyonddevic.es/2014/06/05/what-winning-means-for-apple/>. The idea 
+is to make the iOS Messages app more attractive than those on other platforms, 
+so that people who are on iOS are held to it, and those who aren't are bugged 
+by their iOS-using friends to switch. (Peer pressure matters to the 
+iMessage-using demographic, one guesses.)
+
+
+That's something Samsung has recognised with its own ChatOn messaging service, 
+whichhad 100m users last September 
+<http://www.cnet.com/uk/news/samsungs-chaton-tops-100-million-users-threatens-bbm/>
+: if you can tie people to your platform with your messaging app, they're 
+likely to stay there.
+
+That gives the broad shape of Apple's battle plan in the software and services 
+side of the smartphone market, which is approaching saturation (and hence the 
+point where further growth has to be won from rival platforms).
+
+The desktop computer stuff
+
+Most of the changes coming to OS X, codenamed "Yosemite", won't affect most 
+computer users - because there are only 80m Mac OS X users, and only half of 
+those are on the latest version of OS X ("Mavericks"). But Apple's strategy is 
+clear here too: encourage people who have an iPhone (a far larger number than 
+Mac owners) to get a Mac too, because there are useful things it can do.
+
+The most notable is "Handoff" and "Connectivity", which lets you route phone 
+calls and text messages (not just iMessages) to your OS X computer. For some 
+people, that's going to be invaluable - apart from anything, it's faster typing 
+on a dedicated keyboard than a phone keyboard.
+
+Yes, you can do the SMS-routing between Android and Windows with MightySMS 
+phone to PC and Mac 
+<https://play.google.com/store/apps/details?id=com.texty.sms> - but not many 
+people have as yet; it has between 1m and 5m downloads. Itsterms of service 
+<http://mightytext.net/tos> also say that "MightyText may need to store message 
+content on its servers to facilitate the transmission of the messages to your 
+devices" - which might give some pause for thought.
+
+
+Data protection
+
+A theme - never made explicit, but alluded to many times - was that Apple is 
+pushing its data privacy angle in comparison to Google and Facebook. Yes, they 
+are there as services on iOS - but it's also introducing DuckDuckGo, which 
+doesn't store any user data at all, as an optional search engine on both iOS 
+and OS X. It's the first time DuckDuckGo has had any mobile presence, and a big 
+win for it. Apple is slowly but surely pushing Google away from iOS: Siri 
+search doesn't use Google, but Bing and Wolfram Alpha. Google+ isn't an option 
+anywhere. You get to decide app permissions, rather than having to accept them 
+in a lump.
+
+This is just the consumer-facing stuff - we haven't touched on Apple's new 
+computer language, Swift 
+<https://www.theguardian.com/technology/2014/jun/06/swift-developers-guide-apple-programming-language-wwdc>
+, developed in complete secrecy since 2010, or its Metal API for faster 
+graphics performance.
+
+So now we await Google I/O. It should be interesting.
+
+• Apple previews new mobile software at WWDC 2014 
+<https://www.theguardian.com/technology/2014/jun/02/apple-previews-new-mobile-software-ios-8-at-wwdc-2014>
+ 

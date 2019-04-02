@@ -1,0 +1,52 @@
+
+What is this?
+
+A CAPTCHA is something that protects websites against automated attacks by 
+generating and tests that typically humans can pass, but current computer 
+programs cannot. For example, humans can read distorted text like the ones 
+shown above, but current computer programs cannot easily.
+
+(The term CAPTCHA stands for Completely Automated Public Turing test to tell 
+Computers and Humans Apart. For more background information, please look at the 
+following website:http://www.captcha.net <http://www.captcha.net>/ )
+
+Why do you use CAPTCHAs?
+
+Because our services are on the public internet, it is possible for those with 
+malicious intent to write software that automatically fills in forms on our 
+site, for example to automatically create user accounts.
+
+Automated scripts otherwise known as "bots" could be used by people trying to 
+penetrate the Guardians systems, subvert them, or otherwise put your personal 
+data and our systems at risk. Therefore for some of our services, we attempt to 
+detect automation, and in these case we display a CAPTCHA that must be 
+completed.
+
+I am not a computer, so why am I seeing one?
+
+We have tried hard to ensure that only on rare occasions will anyone see a 
+CAPTCHA. If you do see one, it means that we are currently seeing higher than 
+normal activity from your IP address to the service being protected. Filling in 
+the CAPTCHA correctly should stop you from seeing further CAPTCHAs.
+
+The other case where me may use CAPTCHAs is where we are currently seeing 
+higher than normal levels of activity to a service as a whole. In this case, 
+all users need to complete CAPTCHAs until the activity levels return to 
+normality.
+
+Are your CAPTCHAs accessible?
+
+The CAPTCHAs we are using come equipped with an accessible audio version.
+
+I'm still having problems.
+
+Please contact us at userhelp@theguardian.com <> and we'll look into it for 
+you.
+
+How is the CAPTCHA produced?
+
+We use the recaptcha.net <http://recaptcha.net> service, which is run by 
+Google. The words that you see (or hear) in the CAPTCHA come from digitised 
+images of books, newspapers and old radio shows. By filling in the words you 
+are helping, in a small way, to digitize these valuable archives.
+ 

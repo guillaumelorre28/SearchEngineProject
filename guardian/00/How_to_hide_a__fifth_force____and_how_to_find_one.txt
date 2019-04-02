@@ -1,0 +1,129 @@
+
+Einstein’s General Relativity provides an elegant description of how space, 
+time and matter affect one another. It makes precise predictions of 
+gravitational effects, which have been verified by many measurements.
+
+But if we use the theory to try to understand the motion of galaxies, we get 
+the wrong answer, unless we invent a new form of so-called ‘dark’ matter. This 
+is not a small correction – there needs to be much more of the Dark Matter than 
+normal matter, and what is more, it doesn’t seem to be made up of quarks and 
+electrons like all other matter. In fact it doesn’t seem to be made up of any 
+of the particles in the Standard Model of particle physics.
+
+
+Furthermore, the universe is expanding at an increasing rate, rather than – as 
+you might expect if it started of with a big bang and then gravity takes over – 
+slowing down. This effect we ascribe to something we call ‘Dark Energy’. Dark 
+Energy can be accommodated within General Relativity, but only by adding an 
+absurdly precise ‘cosmological constant’, which looks very weird, or 
+“unnatural” as a theoretical physicist would put it.
+
+the first plausible theory I have come across in which the LHC can to 
+contribute to understanding Dark Energy
+
+It gets worse. Dark Energy is a sort of ‘energy in empty space’, and particle 
+physics also predicts this kind of energy, due to quantum fluctuations of the 
+Standard Model – including and especially theHiggs boson 
+<https://www.theguardian.com/science/higgs-boson>. But these fluctuations would 
+naively lead to so much Dark Energy that atoms themselves (never mind 
+theoretical physicists) would never form in the first place.
+
+That’s wrong, obviously.
+
+And then there’s the nagging, possibly connected, fact that we don’t have a 
+way of making General Relativity and quantum theory work together at very high 
+energies.
+
+Since gravity is a common thread here, all of these problems might seem to 
+imply that General Relativity needs to be modified in some way. That’s a 
+thought that has occurred to many physicists. However, General Relativity is so 
+subtle, and so, well,General, that replacing it, or even successfully tweaking 
+it, is a very hard thing to do.
+
+Still, physicists are persistent, and there are new ideas coming forward all 
+the time. One possible tweak is to postulate a new particle which carries a 
+‘fifth force’ (the other four forces being electromagnetism, the weak and 
+strong interactions, and gravity).
+
+Consider a pointillist painting. At short distances, dots. Further away, a 
+picture. Further away still, a dot again.
+
+To explain Dark Energy, this force has to affect all matter – as gravity 
+itself does – and operate over large distances. Such forces have been looked 
+for already, and if they affect the motion of the planets in the solar system, 
+for example, they have to be enormously more feeble than gravity, otherwise we 
+would have seen them already. But if they are enormously more feeble than the 
+gravity between stars and galaxies, they won’t make any difference to the Dark 
+Energy or Dark Matter problems, so that’s a waste of time.
+
+
+Dark Matter: Did we just hear the most exciting phrase in science?
+ Read more  
+<https://www.theguardian.com/science/life-and-physics/2016/oct/02/dark-matter-did-we-just-hear-the-most-exciting-phrase-in-science>
+One way potential way around this conundrum is a process called ‘screening’, 
+in which the strength of a force depends upon the environment it is in. Arecent 
+paper <https://arxiv.org/abs/1604.06051> from a group at the University of 
+Nottingham describes a model in which the force is screened by matter itself. 
+In dense regions of the universe (like the Earth, for instance) the force is 
+hidden, while in empty space, the force can operate. In the case of the Dark 
+Energy problem, which is what the theory was aiming for, this can provide 
+exactly what the data need. The force can make the universe accelerate at large 
+distances, while having no measurable effect on the orbit of the planets. As a 
+bonus, this new force can also have asignificant impact on the way galaxies 
+rotate <https://arxiv.org/abs/1610.07529>, which might at least partially solve 
+the dark matter issue as well.
+
+To a physicist, the way this new force works is reminiscent of the way the 
+theory of Brout, Englert and Higgs gives mass to fundamental particles. It 
+involves a scalar boson – a particle like the Higgs boson, which has no spin – 
+and it involves the idea of symmetry breaking¹. But I am aware that using the 
+Higgs as an analogy to explain something to a general audience is not a winning 
+strategy, so here’s a better attempt, I hope. Consider a pointillist painting:
+ Paul Signac Femmes au puits 1892 (détail couleur) Photograph: By Piscis13 
+[Public domain], via Wikimedia Commons 
+ * When averaged over dense regions of space, a symmetry hides the fifth 
+force. This is like looking at the picture above from a metre or so away. The 
+dots are hidden in the colours and landscape of the painting.
+
+ * Close to the painting, the dots are visible. In the same way, for things 
+the size of atoms or smaller, the averaging doesn’t happen, so the fifth force 
+may show up.
+
+ * And on very long distance scales, space is empty, so the density is low and 
+again the force reappears. Similarly, a very long way from the painting, it is 
+just a single dot again. 
+All this is speculative, of course. Speculative ideas are one thing we expect 
+from theorists. Another thing we expect is testable predictions, and this model 
+seems to be testable in an excitingly wide range of experiments. Upcoming 
+observatories, such as the European Space AgencyEUCLID 
+<http://sci.esa.int/euclid/> mission and the Dark Energy Spectroscopic 
+Instrument 
+<https://www.ucl.ac.uk/silva/mathematical-physical-sciences/maps-news-publication/desi>
+, will characterise gravity and dark energy on astrophysical scales. Precise
+atomic physics experiments <https://arxiv.org/abs/1408.1409> could measure the 
+effect of the fifth force on atoms, and most interestingly to me personally 
+(since I work on it), this is the first plausible theory I have come across in 
+which theLarge Hadron Collider <https://arxiv.org/abs/1604.04299> can 
+contribute to the understanding Dark Energy.
+
+This article was prompted and informed by an outstanding seminar by Clare 
+Burrage, at UCL on Friday. Here she is talking about some of the background to 
+this work in one of the excellentSixty Symbols  
+<https://www.nottingham.ac.uk/news/pressreleases/2016/july/sixty-symbols-institute-of-physics-kelvin-prize-for-outstanding-public-engagement.aspx>
+videos:
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDsBACIstuTI&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDsBACIstuTI>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDsBACIstuTI&media=>
+ ‘Screening’ is one of the ways of making ‘Chameleon Particles’- one of the 
+ways a fifth force can hide 
+¹ See equations 4 & 5 of their paper <https://arxiv.org/abs/1604.06051> if you 
+are keen. It’s neat.
+
+J <https://twitter.com/jonmbutterworth>on Butterworth 
+<https://twitter.com/jonmbutterworth>’s book Smashing Physics 
+<https://www.theguardian.com/books/2014/may/02/smashing-physics-jon-butterworth-review-cern-higgs-boson-particle>
+is available as “Most Wanted Particle” in Canada & the US.
+ 

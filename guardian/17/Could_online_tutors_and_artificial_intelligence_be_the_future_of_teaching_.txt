@@ -1,0 +1,126 @@
+
+Ambar presses her hand to her forehead, nose crinkled in concentration as she 
+considers the question on her screen: how many sevens in 91? The ten-year-old 
+has been grappling with it for about a minute when she smiles: “13!”.
+
+Her tutor responds by posting a large smiley cat picture on her screen – the 
+virtual equivalent of a pat on the back. He is sitting on the other side of the 
+world in an online tutoring centre in India.
+
+Ambar, who attends Pakeman primary school in north London, is one of nearly 
+4,000 primary school children in Britain signed up for weekly one-to-one maths 
+sessions with tutors based in India and Sri Lanka. The lessons, provided by a 
+company calledThird Space Learning <https://www.thirdspacelearning.com/>, are 
+targeted at pupils struggling with maths – particularly those from 
+disadvantaged backgrounds.
+
+Can technology replace teachers? You asked Google – here’s the answer | 
+Harpreet Purewal
+ Read more  
+<https://www.theguardian.com/commentisfree/2016/dec/07/can-technology-replace-teachers-google>
+From next year, the platform will become one of the first examples of 
+artificial intelligence (AI) software being used to monitor, and ideally 
+improve, teaching.
+
+Together with scientists at University College London (UCL), the company has 
+analysed around 100,000 hours of audio and written data from its tutorials, 
+with the goal of identifying what makes a good teacher and a successful lesson.
+
+Tom Hooper, the company’s CEO, said: “We’re looking to optimise lessons based 
+on the knowledge we gain. We’ve recorded every lesson that we’ve ever done. By 
+using the data, we’ve been trying to introduce AI to augment the teaching”.
+
+Initially, the company’s 300 tutors will receive real-time, automated 
+interventions from the teaching software when it detects that a lesson may be 
+veering off-course.
+
+Pupils on the programme have a 45-minute session with the same tutor each 
+week. They communicate through a headset and a shared “whiteboard” (they can’t 
+see each other). The lessons at Pakeman school are tailored to the individual, 
+including visual rewards linked to the child’s interests. Premier League 
+strikers for nearby Arsenal, cute animals and pink, iced doughnuts flash up on 
+the screens of Ambar’s classmates.
+
+In addition to the raw audio data, each lesson has various success metrics 
+attached: how many problems completed, how useful the pupil found the session, 
+how the tutor rated it. Using machine learning algorithms to sift through the 
+dataset, the UCL team has started to look for patterns.
+
+An early analysis found, perhaps unsurprisingly, that when tutors speak too 
+quickly, the pupil is more likely to lose interest. Leaving sufficient time for 
+the child to respond or pose their own questions was also found to be a factor 
+in the lesson’s success, according to Hooper. These observations are likely to 
+form the basis of the initial prompts that the tutors will receive, probably in 
+the form of messages flashing up on their screen.
+
+“We’re going to be drip-feeding it in in relatively simple ways to start 
+with,” said Hooper.
+
+As the technology evolves, the interventions could become more sophisticated 
+and the software might play a more active role in teaching, raising questions 
+about the extent to which intelligent software could replace human teachers.
+
+Rose Luckin, a professor of learner centred design at University College 
+London, who is collaborating with Third Space Learning on the project, said: 
+“What we are very interested in is the right blend of human and artificial 
+intelligence in the classroom – identifying that sweet spot.”
+
+According to Luckin, AI provides a unique opportunity to assess which teaching 
+strategies are working and to individualise teaching.
+
+“It would be able to say, for this child at the moment, Jolly Phonics 
+<https://www.theguardian.com/education/teacher-blog/2013/apr/01/phonics-teaching-resources-schools>
+ is working well,” she said. “You would be able to look back over their reading 
+process and see which interventions worked. The potential for the use of AI to 
+make education tractable and visible is huge.”
+
+However, she predicts that the insights gleaned from AI will often be applied 
+by human teachers. “What I’m really concerned about is that people don’t run 
+away with the idea that kids have to be plugged into the computer,” she said. 
+“It’s about so much more than that.”
+
+Hooper agreed that the aim is not to replace teachers with robots. “There’s a 
+slightly dubious conversation about how AI will make humans irrelevant, but 
+it’s not at all about replacing humans,” he said. “Our whole belief is that for 
+children disengaged with the subject, who are lacking in confidence, people is 
+what matter. An algorithm can’t provide that.”
+
+He said he does not expect his tutors, most of whom are science graduates, 
+will be concerned about the automated feedback. “We’ll need to be considerate 
+about it,” he said, adding that it would not be “a bossy algorithm barking 
+orders at people”.
+
+Shazli Mahroof, 27, a tutor team leader based in Colombo, Sri Lanka, said he 
+was not worried about being replaced by a teaching robot in the near future. 
+“It’s not the computer who is going to teach,” he said.
+
+Online students and teachers are no different from the rest of academia
+ Read more  
+<https://www.theguardian.com/higher-education-network/blog/2013/may/08/online-teachers-learning-higher-education>
+The tutors already have one lesson each week assessed by supervisors, and it 
+is fairly obvious, subjectively, when things are progressing well, according to 
+Hooper.
+
+“We’re asking ‘how do we promote those teaching events at scale?’” he said.
+
+Companies entering this sphere also need to convince parents and teachers that 
+the data being collected is both secure and will ultimately benefit pupils. A 
+previous data analytics project in New York state schools, run by the company 
+InBloom,collapsed in 2014 
+<https://www.bloomberg.com/news/articles/2014-05-01/inbloom-shuts-down-amid-privacy-fears-over-student-data-tracking>
+ after becoming embroiled in privacy concerns.
+
+“The whole thing became toxic,” said Luckin. “It’s really important that we do 
+it right.”
+
+At Pakeman primary, it is the last maths session before the Christmas 
+holidays. An infant class in the school hall is rehearsing a performance and 
+the school has an end-of-term feeling in the air, but the atmosphere in the 
+online learning session is one of hushed focus.
+
+
+After finishing the lesson, Ambar said that maths used to make her anxious, 
+but since starting the weekly tutorials in Year 5, she has started enjoying it. 
+“When they give you horrible sums, they help you,” she said. “I was scared to 
+do it, but it was actually fun.”
+ 

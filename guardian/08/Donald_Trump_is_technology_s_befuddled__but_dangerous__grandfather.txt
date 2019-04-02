@@ -1,0 +1,130 @@
+
+Technology? Bah humbug: “I think we ought to get on with our lives,” said 
+Donald Trump on Wednesday, summing up his take on the complex problem of
+apparently Russian phishing attacks 
+<https://www.theguardian.com/technology/2016/jul/29/cozy-bear-fancy-bear-russia-hack-dnc>
+ on multiple Democratic party groups during the 2016 election.
+
+As the White House’s current resident prepared to impose sanctions on Russia 
+<https://www.theguardian.com/us-news/2016/dec/29/barack-obama-sanctions-russia-election-hack>
+ for hacking, Trump said: “I think that computers have complicated lives very 
+greatly. The whole age of computer has made it where nobody knows exactly 
+what’s going on.”
+
+It’s not the first time the president-elect has been stumped by the digital 
+world, like a technophobe who unwrapped a computer-operated nuclear arsenal on 
+Christmas morning. And the trouble isn’t that nobody knows exactly what’s going 
+on in the “age of computer” – it’s that technology poses some of the most 
+complex problems in human history to the incoming administration. And its 
+leader is a man who refers to “the cyber 
+<https://www.washingtonpost.com/news/the-fix/wp/2016/09/27/the-answer-that-best-exemplifies-how-badly-donald-trump-was-out-of-his-depth-in-the-debate/?utm_term=.406e8ff65ecd>
+” and seems more concerned about the weight of the hacker, or possibly the bed –
+his syntax is mysterious 
+<http://www.rollingstone.com/politics/features/19-wtf-moments-from-the-first-presidential-debate-w442029>
+ – than about who broke into the Democratic National Committee.
+
+It could also be lots of other people. It also could be somebody sitting on 
+their bed that weighs 400 pounds, OK?
+Trump on the DNC hack during the second presidential debate 
+US authorities spent 2016 attempting to chart new territory even beyond the 
+DNC, DCCC and Clinton campaign hacks 
+<https://www.theguardian.com/technology/2016/oct/07/us-russia-dnc-hack-interfering-presidential-election>
+: how can Americans protect their infrastructure from attacks on the 
+foundations of the internet, such as theMirai botnet siege 
+<https://www.theguardian.com/technology/2016/oct/21/ddos-attack-dyn-internet-denial-service>
+ in October that took down some of the biggest, and most sophisticated, tech 
+companies in the world? How can the nation’s patchwork of electoral authorities 
+repair voting systems prone to massive, potentially catastrophic error? How 
+should the government treat open-source encryption? Trump remains silent on the 
+details of digital policy as the leader-to-be of a government in desperate need 
+of consistent guiding principles.
+
+Instead, Trump appears to regard technology as a contact point for the same 
+obsessions that drove his campaign. He is blase about warrantless surveillance 
+– he has said it “would be fine 
+<http://www.washingtontimes.com/news/2015/dec/2/donald-trump-nsa-phone-snooping-program-i-err-side/>
+” to restore the NSA’s bulk data collection programs, a position his pick for 
+CIA director, Mike Pompeo, also endorses, as does Trump’s attorney general 
+nominee, Jeff Sessions. He is far more actively concerned about appearing 
+stronger than his predecessor, Barack Obama, and as always about Chinese 
+activity in cyberspace:
+Donald J. Trump (@realDonaldTrump) 
+I would bet that we have many great American technology companies that would 
+build and fix the pathetic ObamaCare website for ZERO dollars!
+ <https://twitter.com/realDonaldTrump/status/392060841346215936> October 20, 
+2013 <https://twitter.com/realDonaldTrump/status/392060841346215936> Donald J. 
+Trump (@realDonaldTrump) 
+China 'scorns' US cyber espionage charges--China does not respect us 
+http://t.co/HwMz5NEa <http://t.co/HwMz5NEa> and feels Obama is a "dummy"
+ <https://twitter.com/realDonaldTrump/status/132507368171900928> November 4, 
+2011 <https://twitter.com/realDonaldTrump/status/132507368171900928> 
+Especially when they start “cyber hacking us”:
+Donald J. Trump (@realDonaldTrump) 
+China controls North Korea. So now besides cyber hacking us all day, they are 
+using the Norks to taunt us. China is a major threat.
+ <https://twitter.com/realDonaldTrump/status/322792909780963328> April 12, 2013
+ <https://twitter.com/realDonaldTrump/status/322792909780963328> 
+He also occasionally made time during the campaign to mock opponent Hillary 
+Clinton for getting sick and getting hacked:
+Donald J. Trump (@realDonaldTrump) 
+Mainstream media never covered Hillary’s massive “hacking”
+or coughing attack, yet it is #1 trending. What’s up?
+ <https://twitter.com/realDonaldTrump/status/773181751749402624> September 6, 
+2016 <https://twitter.com/realDonaldTrump/status/773181751749402624> Donald J. 
+Trump (@realDonaldTrump) 
+VERY IRONIC: "In 2010 video, Clinton lectured underlings on cybersecurity and 
+guarding ‘sensitive information’"https://t.co/dL7VDMqSLy 
+<https://t.co/dL7VDMqSLy>
+ <https://twitter.com/realDonaldTrump/status/789589818581848064> October 21, 
+2016 <https://twitter.com/realDonaldTrump/status/789589818581848064> 
+Trump has been general, albeit chilling, on the topic of what exactly his 
+administration will do: as an extension of Trump’s ideology, information 
+gathering will serve to do the unthinkable – his own word. “We’re going to have 
+to do things that we never did before,” hetold 
+<https://www.yahoo.com/news/donald-trump-has-big-plans-1303117537878070.html> 
+Yahoo News. “And some people are going to be upset about it, but I think that 
+now everybody is feeling that security is going to rule. And certain things 
+will be done that we never thought would happen in this country in terms of 
+information and learning about the enemy. And so we’re going to have to do 
+certain things that were frankly unthinkable a year ago.”
+
+Peter Thiel, who gave $1.25m to Trump, has called date rape 'belated regret'
+ Read more  
+<https://www.theguardian.com/technology/2016/oct/21/peter-thiel-support-donald-trump-date-rape-book>
+The apparent lack of interest in the minutiae of his own positions has left 
+his administration’s tech strategy in the hands of Peter Thiel, the 
+thin-skinned billionaire founder of PayPal whoquietly bankrolled 
+<https://www.theguardian.com/media/2016/may/26/paypal-co-founder-peter-thiel-admits-bankrolling-hulk-hogan-gawker-lawsuit>
+ former pro wrestler Hulk Hogan’s annihilating lawsuit against news outlet 
+Gawker, apparently in retaliation for an article about Thiel’s sexual 
+orientation.
+
+Earlier this month, Thiel indulged Trump’s own grudge against Twitter during 
+the president-elect’s “tech summit” at Trump Tower, shutting out the 
+organization that provides Trump with his loudest megaphone reportedly because 
+Twitter refused to add an emoji to the Trump campaign’s #CrookedHillary 
+sponsored hashtag during the election. Another of Thiel’s companies, 
+data-mining firm Palantir, already plays a powerful role: the company’s 
+services are likely to be used in any effort todeport undocumented immigrants 
+<https://theintercept.com/2016/12/12/transition-adviser-peter-thiel-would-directly-profit-from-mass-deportations/>
+, according tomultiple reports 
+<http://www.theverge.com/2016/12/21/14012534/palantir-peter-thiel-trump-immigrant-extreme-vetting>
+.
+
+But for the president-elect himself, technology appears to be yet another 
+venue for increasingly dangerous hobbies including threats to cut programs that 
+benefit US allies, brinksmanship with China and unraveling Obamacare.
+Donald J. Trump (@realDonaldTrump) 
+We should tell China that we don't want the drone they stole back.- let them 
+keep it!
+ <https://twitter.com/realDonaldTrump/status/810288321880555520> December 18, 
+2016 <https://twitter.com/realDonaldTrump/status/810288321880555520> 
+Trump calls net neutrality 
+<https://www.theguardian.com/technology/net-neutrality> “a top-down power grab” 
+that “will target conservative media”; he has often repeated his support for a 
+registry of American Muslims, and generally demonstrates not merely a lack of 
+proficiency in technology but a contempt for expertise. But like every rich guy 
+who wants to stay that way, he keeps a couple of eggheads around, and between 
+him and them, when it comes to tech policy they will make America … something. 
+Possibly not great.
+ 

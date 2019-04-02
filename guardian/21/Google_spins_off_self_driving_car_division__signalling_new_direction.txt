@@ -1,0 +1,114 @@
+
+Google’s self-driving cars have graduated from the company’s “moonshot division
+ 
+<https://www.theguardian.com/technology/2016/feb/05/x-projects-alphabet-moonshot-ventures-change-world-robots>
+”, X labs, to become a full-blown subsidiary of umbrella group Alphabet, called 
+Waymo.
+
+The new company, headed by X alumni John Krafcik, is charged with turning the 
+self-driving car technology thatGoogle 
+<https://www.theguardian.com/technology/google> has been developing behind 
+closed doors into a viable business for the future.
+
+How that will actually happen, though, Waymo has apparently not yet decided. 
+Mooted revenue streams include Uber-style driverless ride sharing, disrupting 
+the trucking and logistics sector, fitting self-driving technology into public 
+transit vehicles, improving the “last mile” of postal delivery or even simply 
+licensing the software to car manufacturers who will sell cars to end users.
+
+“Self-driving technology is awesome in all these categories,” said Krafcik at 
+an event to announce the launch of Waymo. But one thing Waymo won’t be doing is 
+building its own cars – a step back in ambition from the highest goals of the X 
+labs team.
+
+“We are a self-driving technology company,” Krafcik said. “We’ve been really 
+clear that we’re not a car company, although there’s been some confusion on 
+that point. We’re not in the business of making better cars. We’re in the 
+business of making better drivers.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F14%2Fwaymo-google-self-driving-car-division%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fa7f3529742c1f495711e6f5240427bace5fe94d2%2F0_100_3000_1800%2F3000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Google%20spins%20off%20self-driving%20car%20division%2C%20signalling%20new%20direction&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F14%2Fwaymo-google-self-driving-car-division%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Google%20spins%20off%20self-driving%20car%20division%2C%20signalling%20new%20direction&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F14%2Fwaymo-google-self-driving-car-division%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fa7f3529742c1f495711e6f5240427bace5fe94d2%2F0_100_3000_1800%2F3000.jpg>
+ The small, purpose-built ‘Koala cars’ that Google currently uses for testing 
+its self-driving technology are unlikely to evolve into an actual product that 
+consumers can buy. Photograph: Eric Risberg/AP 
+That means the small, purpose-built “Koala cars” that Google currently uses 
+for testing its self-driving technology are unlikely to evolve into an actual 
+product that consumers can buy. Instead, the best hope for someone who wants to 
+get their hands on Google’s software looks to be Fiat Chrysler, who signed a 
+deal with Google in May to put its self-driving tech in a small fleet of the 
+company’s Pacifica minivans. If that deal expands into a full-blown 
+partnership, Fiat Chrysler could be the first company selling Google tech to 
+end users.
+
+If not Fiat Chrysler, Waymo will have to pair with someone, because Google is 
+fast becoming a victim of its own success. When the company first initiated its 
+self-driving product at X Labs, it was almost alone inSilicon Valley 
+<https://www.theguardian.com/technology/silicon-valley> in thinking that 
+self-driving cars were a solvable problem. But as the years progressed, others 
+joined the field, some directly inspired by Google’s success: Uber’s Travis 
+Kalanick has spoken about how he was inspired to enter the self-driving car 
+business by a ride in one of Google’s prototypes. He promptly hired a 
+substantial portion of Carnegie-Mellon university’s ground-breaking robotics 
+lab.
+
+Conventional auto manufacturers have also entered the fray: as well as Tesla 
+Motors, whoseAutopilot 
+<https://www.theguardian.com/technology/2016/sep/11/tesla-self-driving-cars-autopilot-update>
+ system is one of the most advanced driver-assist features on the market, older 
+businesses like Ford, BMW and Nissan have all pushed their own automation 
+systems onto the market.
+
+Part of the reason for Google losing its lead in the market was the company’s 
+insistence on only pursuing full automation. “The system we have built is aimed 
+at full autonomy, and it is therefore much more complicated than a lot of these 
+other systems,” X labs engineer Andrew Chathamtold the Guardian in August 
+<https://www.theguardian.com/technology/2016/aug/22/google-x-self-driving-cars>
+. “This is not the engineeringly efficient or cost-effective way to build 
+something that just helps you stay in your lane.”
+
+It is unclear whether Waymo will continue that all-or-nothing goal. Google 
+proudly trumpeted a previously secret milestone it had achieved in the summer 
+of 2015, when a blind man, Steve Mahan, had “driven”, unaccompanied, one of its 
+Koala cars on the public roads of Austin, Texas. That trip was the world’s 
+first fully driverless trip on public roads.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F14%2Fwaymo-google-self-driving-car-division%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F522744c0a5f4cb9f389045b2d6bf315f459f3926%2F0_158_3000_1800%2F3000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Google%20spins%20off%20self-driving%20car%20division%2C%20signalling%20new%20direction&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F14%2Fwaymo-google-self-driving-car-division%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Google%20spins%20off%20self-driving%20car%20division%2C%20signalling%20new%20direction&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F14%2Fwaymo-google-self-driving-car-division%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F522744c0a5f4cb9f389045b2d6bf315f459f3926%2F0_158_3000_1800%2F3000.jpg>
+ Steve Mahan, who is blind, stands by the Waymo driverless car during a Google 
+event. Photograph: Eric Risberg/AP 
+But behind the scenes, reports suggest that Waymo might pull the trigger on 
+the technology earlier than the company intended to when it was simply a 
+research lab. On Monday,industry news site The Information reported 
+<https://www.theinformation.com/articles/google-scaled-back-self-driving-car-ambitions>
+ the groundbreaking partnership with Fiat Chrysler had represented one step 
+towards that intermediary goal, to the concern of some of Google’s self-driving 
+engineers.
+
+Some of those engineers have left the company since the new direction was 
+decided at the start of 2016. Chris Urmson, the former head of the division, 
+quit this summer to start a new company, less than a year after Krafcik was 
+hired.Anthony Levandowski 
+<https://www.theguardian.com/technology/2016/aug/19/self-driving-car-anthony-levandowski-uber-otto-google>
+, one of the industry’s pioneers, left in early 2016 to found aself-driving 
+truck startup, Otto 
+<https://www.theguardian.com/technology/2016/may/17/self-driving-trucks-otto-startup>
+, which has since been acquired by Uber. Jiajun Zhu, a founder member of the 
+team, and software engineering manager Dave Ferguson left in the summer to 
+co-foundautonomous car company Nuro 
+<http://www.recode.net/2016/9/15/12921542/google-self-driving-startup-nuro>. In 
+total, 14 members of the team are known to have left in 2016 alone.
+
+As a fully standalone unit, Waymo will have more power within the wider 
+Alphabet <https://www.theguardian.com/technology/alphabet> hierarchy to set its 
+priorities and decide its own future. But that power also comes with 
+responsibility: for the first time, Google’s self-driving cars will have a 
+bottom line, and an expectation that, at some point, it will start paying its 
+own way. Simply making the best technology isn’t the only requirement to making 
+money in the car industry – Waymo also needs to make friends.
+ 

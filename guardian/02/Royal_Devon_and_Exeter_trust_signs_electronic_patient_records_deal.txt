@@ -1,0 +1,34 @@
+
+Royal Devon and Exeter foundation trust has signed a deal with technology firm 
+Atos <https://www.theguardian.com/society/atos> that will see existing 
+patients' records scanned and stored electronically.
+
+Atos' partner Fortrus will be responsible for providing the software, which 
+works by using the latest Adobe technologies and will allow Royal Devon and 
+Exeter to integrate all of its existing IT systems. This includes the use of 
+Adobe LiveCycle, which is a suite of software that will provide workflow, 
+systems integration, eForms and forms, PDF rendering and distribution. Web 
+conference and e-learning components also form part of the package.
+
+The system application, called Mobius, that clinicians will see on their 
+desktop, aims to bring together all the underlying patient record-related 
+technology and information into one portal. The scanning function of paper 
+records will use Kodak Capture.
+
+A spokeswoman for the trust told GGC: "Electronic document management 
+technology creates a digital information repository from existing paper case 
+notes or medical records. The contract provides software and services which 
+will achieve integration of electronic copies of paper files with patient 
+information held electronically.
+
+"This three-year programme should improve efficiency, enable us to be 'paper 
+light' and support clinical care at the point of delivery across the whole 
+organisation when it is first adopted at the end of this year."
+
+The trust did not disclose the value of the five year contract.
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Government 
+Computing Network here. 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+ 

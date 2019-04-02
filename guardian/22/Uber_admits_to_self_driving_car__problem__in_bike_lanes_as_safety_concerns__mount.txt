@@ -1,0 +1,132 @@
+
+Uber has admitted that there is a “problem” with the way autonomous vehicles 
+cross bike lanes, raising serious questions about the safety of cyclists days 
+after the company announced it wouldopenly defy California regulators 
+<https://www.theguardian.com/technology/2016/dec/16/uber-defies-california-self-driving-cars-san-francisco>
+ over self-driving vehicles.
+
+
+An Uber <https://www.theguardian.com/technology/uber> spokeswoman said on 
+Monday that engineers were working to fix a flaw in the programming that 
+advocates feared could have deadly consequences for cyclists.
+
+Uber began piloting its self-driving vehicles in its home town of San 
+Francisco last week, despite state officials’ declaration that the ride-share 
+company needed special permits to test its technology. On day one, numerous 
+autonomous vehicles – which have a driver in the front seat who can take 
+control – werecaught running red lights 
+<https://www.theguardian.com/technology/video/2016/dec/15/uber-self-driving-car-drives-through-red-light-in-san-francisco-video>
+ and committing a range of traffic violations.
+
+Self-driving cars: Uber's open defiance of California shines light on brazen 
+tactics
+ Read more  
+<https://www.theguardian.com/technology/2016/dec/16/uber-self-driving-cars-california-illegal-unethical-tactics>
+Despite threats of legal action from the department of motor vehicles 
+<https://www.theguardian.com/technology/2016/dec/14/uber-self-driving-cars-run-red-lights-san-francisco>
+ (DMV) andCalifornia’s attorney general, Kamala Harris 
+<https://www.theguardian.com/technology/2016/dec/16/uber-defies-california-self-driving-cars-san-francisco>
+, Uber refused to back down on Friday, claiming its rejection of government 
+authority was “an important issue of principle 
+<https://www.theguardian.com/technology/2016/dec/16/uber-defies-california-self-driving-cars-san-francisco>
+”.
+
+Concerns are mounting about how the cars behave in dense urban environments, 
+particularly in San Francisco, where there are an estimated82,000 bike trips 
+<http://www.sfexaminer.com/annual-bike-count-shows-commutes-sf-nearly-9-percent/>
+ each day across more than200 miles of cycling lanes 
+<https://www.sfmta.com/about-sfmta/blog/san-francisco%E2%80%99s-surge-biking-continues>
+.
+
+The San Francisco Bicycle Coalition has released a warning about Uber’s cars 
+<http://www.sfbike.org/news/a-warning-to-people-who-bike-self-driving-ubers-and-right-hook-turns/>
+ based on staff members’ first-hand experiences in the vehicles. When the car 
+was in “self-driving” mode, the coalition’s executive director, who tested the 
+car two days before the launch, observed it twice making an “unsafe 
+right-hook-style turn through a bike lane”.
+
+That means the car crossed the bike path at the last minute in a manner that 
+posed a direct threat to cyclists. The maneuver also appears toviolate state law
+ <https://www.sfbike.org/news/bike-lanes-and-right-turns/>, which mandates that 
+a right-turning car merge into the bike lane before making the turn to avoid a 
+crash with a cyclist who is continuing forward.
+
+“It’s one of the biggest causes of collisions,” said coalition spokesman Chris 
+Cassidy, noting that the group warned Uber of the problem. Company officials 
+told the coalition that Uber was working on the issue but failed to mention 
+that the self-driving program would begin two days later without permits, he 
+said.
+
+“The fact that they know there’s a dangerous flaw in the technology and 
+persisted in a surprise launch,” he said, “shows a reckless disregard for the 
+safety of people in our streets.”
+
+The fact that they know there’s a dangerous flaw in the technology and 
+persisted … shows reckless disregard for safety
+Chris Cassidy, San Francisco Bicycle Coalition 
+Uber spokeswoman Chelsea Kohler told the Guardian in an email that “engineers 
+are continuing to work on the problem”, and said that the company has 
+instructed drivers to take control when approaching right turns on a street 
+with a bike lane. She did not respond to questions about how the cars, Volvo 
+XC90s, detect cyclists and what kind of training and testing the firm conducted 
+before implementation.
+
+Linda Bailey, executive director of the National Association of City 
+Transportation Officials, which has raised formal objections topartially 
+automated vehicles 
+<http://nacto.org/2016/06/23/nacto-releases-policy-recommendations-for-automated-vehicles/>
+, said research raises serious alarms about the ability of drivers to properly 
+intervene in semi-autonomous cars.
+
+“It’s very clear that people are not good at paying attention,” she said, 
+adding, “We’re waiting for enough people to die for something to happen. It’s 
+not a great way to make policy.”
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2016%2Fdec%2F15%2Fuber-self-driving-car-drives-through-red-light-in-san-francisco-video&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=Uber%20self-driving%20car%20drives%20through%20red%20light%20in%20San%20Francisco%20%E2%80%93%20video&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2016%2Fdec%2F15%2Fuber-self-driving-car-drives-through-red-light-in-san-francisco-video>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Uber%20self-driving%20car%20drives%20through%20red%20light%20in%20San%20Francisco%20%E2%80%93%20video&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2016%2Fdec%2F15%2Fuber-self-driving-car-drives-through-red-light-in-san-francisco-video&media=>
+Uber self-driving car drives through red light in San Francisco 
+<https://www.theguardian.com/technology/video/2016/dec/15/uber-self-driving-car-drives-through-red-light-in-san-francisco-video>
+Local advocates noted that the Uber cars have been caught doing four out of the
+top five causes 
+<http://sfgov.org/scorecards/percentage-citations-top-five-causes-collisions> 
+of collisions or injuries in the city – running red lights, going through stop 
+signs, unsafe turns and failing to yield to pedestrians.
+
+“These behaviors we’re seeing,” said Nicole Ferrara, executive director of 
+advocacy group Walk San Francisco, “are some of the most dangerous behaviors in
+San Francisco <https://www.theguardian.com/us-news/san-francisco> that lead to 
+traffic deaths and severe injuries.”
+
+Carlo Ratti, Massachusetts Institute of Technology professor and director of 
+the Senseable City Lab, noted that the only way to expand self-driving 
+technology is to start testing cars in the real world. But he said the programs 
+must be done in cooperation with regulators, especially considering that the 
+vehicles have to makecomplex ethical 
+<https://www.theguardian.com/technology/2016/jun/23/self-driving-car-safety-study-pedestrian-crashes>
+ andmoral decisions 
+<https://www.theguardian.com/technology/2016/aug/22/self-driving-cars-moral-dilemmas>
+.
+
+“It’s important that government has a say into how the car is programmed,” he 
+said.
+
+Imperfect self-driving vehicles could still be significantly safer 
+<http://www.cnbc.com/2014/09/08/self-driving-cars-safer-than-those-driven-by-humans-bob-lutz.html>
+ than traditional cars, said Jeffrey Tumlin, director of Oakland’s department 
+of transportation.
+
+But he also noted that “bike lanes present a unique challenge for driverless 
+technology”, because cyclists are agile and can travel at high speeds. “It can 
+be more difficult to predict their behavior,” he said, explaining that 
+engineers are already struggling to navigate vehicle responses to pedestrians, 
+which tend to be simpler.
+
+Tumlin said the technology could help improve safety in the long run, but 
+added, “I get uncomfortable with private industry doing their experimentation 
+in the public right of way without first collaborating with the public.”
+
+Contact the author: sam.levin@theguardian.com
+ 

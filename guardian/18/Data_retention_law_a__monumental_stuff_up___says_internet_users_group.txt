@@ -1,0 +1,99 @@
+
+The peak body for internet users in Australia has formally requested that a 
+review of the attorney general’s data retention scheme be brought forward, 
+calling the legislation a “monumental stuff-up” as the government seeks to 
+expand access to include civil lawsuits.
+
+
+Laurie Patton, the chief executive of Internet Australia (IA), has written to 
+the parliamentary joint committee on intelligence and security to request that 
+the review of the Data Retention Act be held sooner owing to “continuing 
+disquiet” over its effectiveness and implementation.
+
+The legislation was passed in 2015 with the stated aim of combating terrorism. 
+The committee is due to review the data retention scheme in late 2018.
+
+Patton said the review of the law was more urgent given the request from the 
+Attorney General’s Department for submissions on a proposal to expand the 
+scheme to grant access to litigants in civil lawsuits, which could include 
+divorce cases or even copyright infringement.
+
+Data retention black hole: no one knows how many ISPs Australia has, say 
+experts
+ Read more  
+<https://www.theguardian.com/australia-news/2016/dec/07/data-retention-isps-australia-counter-terrorism-laws-advocates>
+As the law now stands, only specified security and intelligence agencies 
+<https://www.ag.gov.au/NationalSecurity/DataRetention/Pages/Frequentlyaskedquestions.aspx#data>
+ can request metadata collected under the scheme. The joint committee 
+recommended in its report on the legislation that civil litigants be prohibited 
+from being able to access the data.
+
+
+But the AGD said in its consultation paper there was “the risk that 
+restricting parties to civil proceedings’ access to such data could adversely 
+impact the effective operation of the civil justice system”.
+
+It appealed to “stakeholders with an interest in the civil justice system and 
+privacy”to make submissions on the issue 
+<https://www.ag.gov.au/Consultations/Pages/Access-to-telecommunications-data-in-civil-proceedings.aspx>
+ in mid-December and it will receive them until 27 January.
+
+Patton told Guardian Australia that the review needed to be brought forward 
+because of the call for submissions and the encroaching deadline for industry 
+compliance.
+
+“What we’re saying is let’s not wait another year – firstly because it’s a 
+debacle in its own right and secondly, if the government or the AGD has this 
+idea of expanding it to include civil litigation, then that really should go 
+back to the PJCIS.”
+
+IA gave evidence to the committee’s original inquiry into the law in late 
+2014, arguing that the proposed legislation was “fundamentally flawed” and 
+drafted by lawyers who did not fully understand the internet.
+
+
+“Our fears have already been proven prescient,” wrote Patton in his letter 
+addressed to Michael Sukkar, the Liberal party MP and committee chair, on 
+Tuesday. The committee and the AGD have been contacted for comment.
+
+Under the act, specified telecommunications providers, primarily internet 
+service providers, are required to have systems in place by April 2017 to 
+retain all their customers’ metadata for two years.
+
+But even then, Patton and IA believe it will be unlikely to achieve its 
+purported purposes.
+
+Discrepancies in how those providers are meeting their obligations, as well as 
+questions over how compliance will be monitored, means the scheme is arguably 
+“of dubious benefit for its stated purpose of combating terrorism”, according 
+to Patton.
+
+IA believes there to be more ISPs in Australia 
+<https://www.theguardian.com/australia-news/2016/dec/07/data-retention-isps-australia-counter-terrorism-laws-advocates>
+ than the 180 that were granted funding from the AGD to help meet their costs 
+of compliance, and that there are therefore hundreds of providers not known to 
+the department and who will not be collecting and storing data as required to 
+under the law.
+
+It has clearly failed to deliver what the law enforcement agencies had sought 
+for so long
+Laurie Patton 
+“If we must have data retention, then surely we should aim to have legislation 
+that will work?”
+
+Patton reiterated IA’s concerns to Sukkar that the costs of the scheme will be 
+passed on to consumers, with PricewaterhouseCoopers’ estimate of the $738m cost 
+of compliance to the industry over 10 years thought to be based on incomplete 
+data.
+
+Security agencies had sought a data retention scheme for more than a decade 
+but successive attorney generals had resisted, he said.
+
+“This exercise has become a monumental stuff-up. Not only is it causing 
+confusion amongst ISPs, it has clearly failed to deliver what the law 
+enforcement agencies had sought for so long.”
+
+A spokesman for the AGD told Guardian Australia that its 2015-16 annual report 
+on the use of telecommunications interception and access was still being 
+prepared.
+ 

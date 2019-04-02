@@ -1,0 +1,348 @@
+
+The most eagerly awaited iPhone since the last one, the Apple’s iPhone 7 
+<https://www.theguardian.com/technology/iphone-7> has arrived. Much has been 
+said about its design, the absent headphone socket, and the fact that it’s now 
+waterproof, but is it actually any good?
+
+Following on from the iPhone 6 was a tall order, which the iPhone 6S struggled 
+to live up to, with fewer sales and less consumer enthusiasm. Two years on, the 
+question is whether those iPhone 6 buyers will bite and upgrade tothe most 
+expensive iPhone yet 
+<https://www.theguardian.com/technology/2016/sep/09/apple-smartphone-iphone-7-pre-orders>
+, its price in the UK inflated thanks to the Brexit referendum result.
+
+The same but now waterproof
+ The back of the matt black iPhone 7. Photograph: Samuel Gibbs for the Guardian
+On the outside the iPhone 7 is so similar to the iPhone 
+<https://www.theguardian.com/technology/iphone> 6 and 6S you might think 
+nothing has changed other than a new paint job: it’s now available in black and 
+a shiny jet black, as well as rose gold, gold and silver from last year, but no 
+space grey.
+
+The antenna lines – the plastic inlays into the metal body – are slightly less 
+visible on the back having been shunted to the top, the glass front is the 
+same, with the most obvious change being the lack of a 3.5mm headphone socket 
+in the bottom.
+
+It’s a tried and trusted, but ageing design. While other manufacturers have 
+shrunk the bezels around their screens and generally made the display more of 
+the front of the phone, the iPhone has stayed static. That doesn’t mean the 
+build quality or fit and finish is anything other than excellent, but others 
+including Samsung have similar manufacturing prowess.
+
+The 4.7in iPhone 7 is 7.1mm thick and 138g (5g lighter than the iPhone 6S), 
+while rival the 5.1in Samsung Galaxy S7 is 7.9mm thick and weighs 152g and 
+Huawei’s 5in P9 is 7mm thick and weighs 144g.
+ The sim card tray now has a rubber gasket around it to stop water ingress. 
+Photograph: Samuel Gibbs for the Guardian 
+The iPhone 7 is now waterproof to IP67 standards, which means up to 1m deep in 
+fresh water for up to 30 minutes. In comparison, Samsung’s Galaxy S7 is rated 
+to IP68 standards, which are at least 1.5m deep for at least 30 minutes. It 
+means that while going swimming with the iPhone 7 isn’t recommended, it will 
+survive a drop into the washing up bowl or down the toilet. And you can wash it.
+
+ * How waterproof are the iPhone 7, Samsung Galaxy S7 and smartwatches? 
+<https://www.theguardian.com/technology/2016/sep/08/how-waterproof-iphone-7-samsung-galaxy-s7-smartwatches>
+The screen’s colour and brightness is excellent for an LCD. It isn’t quite as 
+vibrant with deep inky blacks as some high-end OLED screens fitted to Samsung 
+devices, neither is it as pixel dense as all Apple’s rivals or even the iPhone 
+7 Plus, meaning it isn’t as pin-sharp and you can see the individual pixels. It 
+is better than last year’s model and feels as good as LCD can get.
+
+The 4.7in screen is also quite small for today’s smartphones and makes some 
+things a bit fiddly on poorly optimised websites. Not anywhere near as fiddly 
+as the 4in iPhone SE of course. The small size also means that it’s relatively 
+easy to keep hold of compared to the big-screen phablets with displays over 
+5.5in.
+
+New for this year is a pair of stereo speakers, one of which is the 
+front-facing earpiece loudspeaker, the other the bottom-firing speaker from 
+previous models. Together they are louder, but lack any sort of stereo 
+separation and couldn’t be described as room-filling.
+ The antenna lines have been shunted to the top only and are much less visible 
+on the black models. Photograph: Samuel Gibbs for the Guardian 
+Specifications
+
+ * Screen: 4.7in 1334x750 (326ppi) 
+ * Processor: Apple A10 Fusion 
+ * RAM: 2GB of RAM 
+ * Storage: 32/128/256GB 
+ * Operating system: iOS 10 
+ * Camera: 12MP rear camera, 7MP front-facing camera 
+ * Connectivity: LTE, Wi-Fiac, NFC, IR, Bluetooth 4.2, Lightning and GPS 
+ * Dimensions: 138.3 x 67.1 x 7.1mm 
+ * Weight: 138g 
+Snappy performance
+ iPhone 7 review Lightning only Photograph: Samuel Gibbs for the Guardian 
+The iPhone 7 has Apple’s latest processor the A10 Fusion, which, like most 
+processors used in Android smartphones, has four processing cores split into 
+two pairs. One is a high-performance pair of cores the other is a pair of 
+energy efficient cores.
+
+When the user does something demanding, such as 3D gaming, photo processing or 
+similar, the two big cores fire up, but when just chewing through email or 
+sending a text the two power efficient cores run the show. The idea is that 
+most of the time only the more power efficient cores are required, which helps 
+extend battery life but doesn’t sacrifice performance.
+
+The iPhone 7 is snappy, feeling slightly faster than the iPhone 6S in general 
+use. Some things, such as photo processing, particularly in something like 
+Prisma, are also faster. It chews through games without issue and is capable of 
+dealing with pretty much everything you could throw at it.iOS 
+<https://www.theguardian.com/technology/ios> 10 also feels faster, with more 
+quick actions, which helps the phone feel faster.
+
+Battery anxiety
+
+Battery life, however, is poor. Using it as my primary device with three hours 
+of app usage and browsing, hundreds of emails and push notifications, a couple 
+of photos, five hours of music over Bluetooth headphones and the odd game of 
+Jetpack Joyride during my one hour and 20 minute train commute to and from 
+work, it lasted an average of just over 14 hours between charges, meaning it 
+didn’t survive past 9.30pm.
+
+Rather than having better battery life in my testing, the iPhone 7 has worse 
+battery life than the iPhone 6S when new 
+<https://www.theguardian.com/technology/2015/oct/06/apple-iphone-6s-review-camera-3d-touch-screen-faster-processor-fingerprint-sensor-rubbish-battery-life>
+. No single app caused significant battery drain,I do not have the Facebook app 
+installed 
+<https://www.theguardian.com/technology/2016/feb/08/uninstalling-facebook-app-saves-iphone-battery-life>
+ and Low Power Mode made no appreciable difference in my testing when enabled 
+at 20%.
+
+If I had needed it to navigate me home or snap some pictures at night I would 
+have to make sure I did a good charge before leaving the office. If I used it 
+for maps for any walking or driving, battery life was much shorter.
+
+To get through 24 hours, you’ll be forced to have a power adapter close by, 
+shove it in a battery pack or charge at your desk, which means you won’t be 
+able listen to music at the same time via cabled headphones – more on that 
+later.
+
+To make matters worse, the iPhone 7 has the worst of all worlds: short battery 
+life and tediously slow charging. Even using the 12W charger that came with the 
+iPad Pro it took well over two hours to fully charge the iPhone 7.
+
+iOS 10
+ Widgets are the new hotness in iOS 10. Photograph: Samuel Gibbs for the 
+Guardian 
+Every year Apple releases a new version of iOS for its newest iPhone and older 
+models. This year’s iOS 10 makes some significant changes to the usability of 
+the software, modernising its approach to notifications, which have become the 
+lifeblood of our increasingly connected world. It followsthe approach taken by 
+Google’s Android 
+<https://www.theguardian.com/technology/2016/aug/22/android-7-nougat-review-battery-life-multitasking-operation-notifications-facial-recognition-android>
+.
+
+Notifications are now rich, with previews and quick replies, speeding up the 
+whole experience. Tap to launch the app, press to pop up a quick preview or 
+widget with options to reply, delete or similar. You can also clear all 
+notifications by pressing on the clear button, rather than be limited to 
+clearing a day at a time.
+
+Widgets are now a much bigger thing on the iPhone. The left-most pane on the 
+home screen or the lockscreen now shows a bunch of widgets that were confined 
+to the pull down shade before. While many of them feel superfluous it’s worth 
+curating them to create an at-a-glance screen full of information like the 
+current weather conditions, your next appointment, whether your commute is 
+going to be a nightmare, that kind of thing.
+
+Widgets also show up when you force press on an icon of certain apps, along 
+with a load of quick settings. They’re still available in the pull-down shade 
+too.
+
+While most of the changes have made the software experience faster, the 
+two-pane Control Centre does not. You have to swipe between quick settings and 
+music controls, which were combined on one pane in iOS 9.
+
+It remembers which pane you last used, but isn’t smart enough to go back to 
+quick settings when you’re not playing music. Also, while you can press on the 
+torch icon to change the intensity of the beam, you can’t do the same for 
+Wi-Fi, Bluetooth or Do not disturb. You can’t even get to the Settings app from 
+Control Centre. You have to bounce back to the home screen and launch the app.
+
+iOS is now starting to look and feel a bit dated compared with what Google is 
+doing with Android, which is a bit of a role reversal for the two companies. 
+But if you liked iOS on pretty much any other iPhone before, you’ll love this, 
+because it’s the same just with 3D touch functions if you’re upgrading from 
+something older than an iPhone 6S.
+
+Touch ID, Home button and Taptic Engine
+ The home button doesn’t move and which it doesn’t feel like a traditional 
+home button, the Taptic Engine really does make it feel like the whole of the 
+bottom half of the phone depresses like a giant single mouse button. 
+Photograph: Samuel Gibbs for the Guardian 
+The fingerprint scanner is the same as that fitted to the iPhone 6S and is 
+fast and accurate, although not quite the best in the industry. The home 
+button, however, has changed.
+
+Instead of being a real button it’s now a pressure sensitive pad. It doesn’t 
+depress, but you have to push it rather than tap it to activate it as a home 
+button. In response to your pressure there’s a little haptic feedback, which is 
+more taping than vibration.
+
+It doesn’t feel anything like pressing the old home button, more like pressing 
+the mouse button on a Magic Mouse or Apple’s Magic Trackpad; it feels like the 
+whole end of the phone depresses.
+
+Apple <https://www.theguardian.com/technology/apple> first used the technology 
+in its MacBook laptop for the solid-state trackpad. It didn’t move but the 
+little Taptic Engine made it feel like it did. The home button isn’t anywhere 
+near as good a replication of the original home button’s feel. Some will love 
+it, some will hate it, most will just get on with it.
+
+The Taptic Engine as a whole, for notifications and general feedback, such as 
+the little taps as you scroll through the timer’s wheel like notches on 
+something mechanical, is excellent. It is genuinely the best thing Apple has 
+created in years.
+
+Camera
+ The single camera on the back of the iPhone 7 now has optical image 
+stabilisation and is a big step up over previous models. Photograph: Samuel 
+Gibbs for the Guardian 
+The iPhone 7’s camera is greatly improved over the iPhone 6S. It has a much 
+faster, brighter f/1.8 lens, optical image stabilisation and takes photos that 
+are a lot sharper even for shaking hands.
+
+Images produced in good light are fairly detailed, but can often be a bit dull 
+and washed out while not being quite pin-sharp in some areas losing fine detail 
+in the process. Low-light performance is much improved over the iPhone 6 and 
+6S, while no fancy software is needed to create pleasing bokeh effects as a 
+shallow depth of field is a function of the f/1.8 lens. The rear camera is one 
+of the best available, but not quite the best, outperformed on fine detail by 
+Samsung’s Galaxy S7 series.
+
+The front-facing 7-megapixel selfie camera is one of the best in the business, 
+creating detail rich and colour accurate photos even under difficult artificial 
+lightning conditions.
+
+Headphone jack
+ To listen to music you’ll need wireless headphones or you can use the 
+included Lightning EarPods or the Lightning to 3.5mm adapter. Photograph: 
+Samuel Gibbs for the Guardian 
+The iPhone 7 will be remembered for Apple killing the headphone jack. Straight 
+up: the removal of the 3.5mm headphone socket is not a good thing. It makes it 
+harder to use the phone with conventional headphones and it seems unnecessary.
+
+How much the loss will affect you depends on what you use to listen to music 
+on your smartphone. If it’s just Apple’s EarPods - which have absolutely no 
+isolation and are pretty average on sound quality - then you won’t notice when 
+listening to your phone. The Lightning socket works fine, the only problem is 
+the cable doesn’t twist, so I ended up with twisting cords and youcan’t charge 
+and listen to your iPhone 7 
+<https://www.theguardian.com/technology/2016/sep/09/iphone-7-listen-music-charge-adapter-headphones>
+, say at your desk in an open-plan office.
+
+The problem comes when you try to plug the new EarPods included in the box 
+into anything else, because you can’t. Your computer doesn’t have a Lightning 
+socket, neither does your stereo, your TV or Game Boy, which may have found a 
+new spot in your life post Pokémon Go.
+
+Instead you can forget the Lightning EarPods and use a Lightning to 3.5mm 
+adapter - one is included in the box - for your normal, analogue headphones. If 
+they have an iPhone-compatible in-line controller, volume and pause/play 
+commands are passed through using the adapter.
+
+The Lighting-to-3.5mm has a digital-to-analogue converter embedded in it, 
+which makes your headphones reliant on Apple’s cheapest accessory costing £9, 
+thankfully it sounds decent, if a little heavier on the bass than the headphone 
+socket on the iPhone 6S.
+
+Better is to go Bluetooth. I cut the cable about five years ago and haven’t 
+looked back. Most Bluetooth headphones come with an optional 3.5mm cable, so 
+you can plug them into your computer easily and just rely on Bluetooth for the 
+phone.
+
+Bluetooth earbuds, however, are a more difficult proposition. There are some 
+decent ones with a small cable linking the pair, but completely wireless 
+earbuds are a bit hit and miss. Most struggle to maintain a connection between 
+your ears. Hopefully that’ll be solved in the near future. Apple has a set 
+planned, but the AirPods are essentially EarPods without the cable and so will 
+likely have the same acoustic characteristics.
+
+You can record audio using a phone mic or pickup plugged into the Lightning to 
+3.5mm adapter, but for some you’ll end up with two adapters plugged into each 
+other just to record audio.
+
+Observations
+ Fluffy gets stuck in the antenna bands on the back, which you probably 
+wouldn’t notice on a silver phone, but sticks out like a sore thumb on back. 
+Photograph: Samuel Gibbs for the Guardian 
+ * The matt black colour looks good but appears a bit like plastic until you 
+touch it
+
+ * The matt metal body is pretty slippery to hold, but doesn’t slide off tables
+
+ * The home button needs skin contact to work 
+<https://www.theguardian.com/technology/2016/sep/19/iphone-7-home-button-gloves-sports-armbands>
+, rendering sport armbands and some touchscreen gloves useless
+
+ * You can’t unlock the phone without first activating the Home button
+
+ * Bluetooth performance is better, holding a more stable connection with less 
+interference with relatively weak devices such as wireless earbuds than the 
+iPhone 6S and some competitors
+
+ * With the antenna lines the most hidden and the screen black when off, the 
+matt black colour is the best-looking
+
+ * The jet black glossy finish scratches relatively easy, so to keep it 
+looking like new you’ll need a case 
+ * The new antenna bands trap fluff in them, which is very difficult to remove 
+Price
+
+The iPhone 7 costs £599 for 32GB, £699 for 128GB or £799 for 256GB in rose 
+gold, gold, silver, black or jet black.
+
+For comparison, the HTC 10 costs £570 
+<https://www.theguardian.com/technology/2016/apr/27/htc-10-review-up-there-with-samsungs-best>
+, the 32GB Samsung Galaxy S7 costs £500, theLG G5 costs £500 
+<https://www.theguardian.com/technology/2016/may/11/lg-g5-review-power-users-friend-that-just-misses-mark>
+, the 32GBHuawei P9 costs £449 
+<https://www.theguardian.com/technology/2016/apr/18/huawei-p9-review-smartphone-leica-camera-fingerprint-scanner-emui-software>
+, the16GB iPhone SE costs £359 
+<https://www.theguardian.com/technology/2016/apr/13/apple-iphone-se-review-too-small-for-most-people>
+ and last year’siPhone 6S cost £539 
+<https://www.theguardian.com/technology/2015/oct/06/apple-iphone-6s-review-camera-3d-touch-screen-faster-processor-fingerprint-sensor-rubbish-battery-life>
+ now £499 for 32GB of storage.
+
+Verdict
+
+The iPhone 7 is a missed opportunity. Apart from a bit of fluff retention the 
+fit and finish, the cameras, fingerprint scanner, snappy performance and 
+waterproofing are all great. But what does it matter how good it is when the 
+battery is dead?
+
+The battery life just isn’t good enough to last one day, let alone two when so 
+many other smartphones do. And when the iPhone 7 is dead it takes ages to 
+charge it up again. It’s really poor.
+
+Then there’s the headphone jack, which wasn’t really an issue for me having 
+adopted Bluetooth headphones years ago. But it is a pain in the neck if you 
+attempt to use the Lightning EarPods and ever connect your headphones to 
+anything else other than the iPhone or an iPad, or you lose that stupid little 
+Lightning adapter dongle. Oh and you can’t charge and listen to music via cable.
+
+Is this the best iPhone? Probably. Should you buy it? Not if you care about 
+battery life. At the end of the day, this is the iPhone you’ll probably end up 
+buying, but not the one you deserve.
+
+Pros: waterproof, great cameras, good fingerprint scanner, premium build, good 
+in-hand feel, Taptic Engine
+
+Cons: no headphones port, cannot unlock the phone with gloves or within an 
+armband case, expensive, no removable battery, no memory expansion, can’t 
+charge and listen to cabled headphones, poor battery life, slow charging
+
+Other reviews
+
+ * OnePlus 3 review: flagship phone at mid-range price 
+<https://www.theguardian.com/technology/2016/jun/14/oneplus-3-review-flagship-phone-at-mid-range-price>
+ * Honor 8 review: Huawei’s cheaper smartphone is just short of brilliant 
+<https://www.theguardian.com/technology/2016/sep/15/huawei-honor-8-review-value-smartphone-dual-cameras-sim-microsd-card-slot-battery-life-software>
+ * HTC 10 review: up there with Samsung’s best 
+<https://www.theguardian.com/technology/2016/apr/27/htc-10-review-up-there-with-samsungs-best>
+ * Huawei P9 review: aiming for the big boys but just missing on software 
+<https://www.theguardian.com/technology/2016/apr/18/huawei-p9-review-smartphone-leica-camera-fingerprint-scanner-emui-software>
+ * LG G5 review: a power user’s friend that just misses the mark 
+<https://www.theguardian.com/technology/2016/may/11/lg-g5-review-power-users-friend-that-just-misses-mark> 

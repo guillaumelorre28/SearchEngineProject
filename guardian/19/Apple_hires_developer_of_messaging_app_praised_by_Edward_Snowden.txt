@@ -1,0 +1,37 @@
+
+Apple <https://www.theguardian.com/technology/apple> has hired a lead 
+developer of encrypted messaging app Signal to work on its security team.
+
+Frederic Jacobs, who worked on Signal as a security engineer for two-and-a 
+half years, will be joining Apple in an internship position for this summer, 
+where he says he will be working “with the CoreOS security team”.
+Frederic Jacobs (@FredericJacobs) 
+I'm delighted to announce that I accepted an offer to be working with the 
+CoreOS security team at Apple this summer.
+ <https://twitter.com/FredericJacobs/status/702802104960860160> February 25, 
+2016 <https://twitter.com/FredericJacobs/status/702802104960860160> 
+Developed by Open Whisper Systems, an open-source development house spun out 
+of Twitter in 2013, Signal is a favoured communications tool of 
+security-conscious users worldwide. It has been endorsed by users including NSA 
+whistleblowerEdward Snowden <https://www.theguardian.com/us-news/edward-snowden>
+, journalist Laura Poitras and and security researcher Bruce Schneier.
+
+Compared to other encrypted messaging apps, which include WhatsApp, Telegram 
+and Apple’s own iMessage, Signal has earned plaudits for the comprehensiveness 
+of its own security, as well as its ease-of-use. While security breaches can 
+occur through bugs in applications, user error is just as frequently at fault, 
+and Signal is widely praised for avoiding the common pitfalls in design that 
+lead to users inadvertently exposing their communications.
+
+Jacobs will be joining Apple as the company squares off against the FBI over 
+whether or not it can be mandated to write software to help the bureau hack 
+into seized iPhones. The standoff hasreportedly prompted Apple to work on 
+security upgrades 
+<http://www.nytimes.com/2016/02/25/technology/apple-is-said-to-be-working-on-an-iphone-even-it-cant-hack.html>
+ to its operating system and services that would prevent it from being able to 
+comply with future demands.
+
+The hiring doesn’t seem to be directly related to that effort, but Apple’s 
+security team is gaining a higher profile with the rest of the world than it 
+ever has before.
+ 

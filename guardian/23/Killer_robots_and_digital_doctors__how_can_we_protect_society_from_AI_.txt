@@ -1,0 +1,76 @@
+
+Elon Musk <https://www.theguardian.com/technology/elon-musk>, founder of 
+SpaceX, Tesla and PayPal, is worried about killer robots. “You know those 
+stories where there’s the guy with the pentagram and the holy water, and he’s 
+sure he can control the demon?” he has warned. “Doesn’t work out.”
+
+That “unfriendly AI”, as it is known in tech circles, would not be a boon for 
+humanity is an easy cause to get behind. But unlike Musk – a tech entrepreneur 
+who stands to make huge financial gains from AI in the short term – most of us 
+don’t have the luxury of taking the long view.
+
+
+AlphaGo: its creator on the computer that learns by thinking
+ Read more  
+<https://www.theguardian.com/technology/2016/mar/15/alphago-what-does-google-advanced-software-go-next>
+The defeat, last week, of one of the world’s strongest Go players, Lee Sedol, 
+demonstrates the qualitative leap in AI that has already taken place. The 
+programme, developed byGoogle <https://www.theguardian.com/technology/google> 
+DeepMind, was not preprogrammed with killer moves, nor did it win by dint of an 
+ability to crunch through all the possible moves at lightning speed.
+
+AlphaGo, learned by playing millions of games against itself, developing such 
+an individual style of play that its own human creators were “pretty shocked” 
+by some of its moves. It could be this is the turning point for AI.
+
+Google has made no secret of its ambition to turn the same type of 
+deep-learning software to significant real-world applications such as 
+healthcare, transport and climate change research. The new insights that AI 
+would bring to these areas could be considerable, but policy-makers need to 
+ensure that the technology benefits society at large and not just the elite 
+owners of robots.
+
+George Osborne is expected to announce 
+<https://www.theguardian.com/uk-news/2016/mar/12/george-osborne-driverless-car-trials-budget>
+ in this week’s budget that driverless cars will be tested on Britain’s 
+motorways as soon as next year. Yet the laws around liability for autonomous 
+cars remain hazy. If an obstacle appears suddenly in the road, will Google’s 
+vehicle be able to distinguish a plastic bag, a pigeon and a child? In a lethal 
+accident, who will be to blame – the car owner, the manufacturer, or even the 
+robot itself?
+
+George Osborne to back driverless car trials on UK motorways
+ Read more  
+<https://www.theguardian.com/uk-news/2016/mar/12/george-osborne-driverless-car-trials-budget>
+Lord Martin Rees, astronomer royal and co-founder of the Centre for the Study 
+of Existential Risk <http://cser.org/> at the University of Cambridge, 
+predicts: “The number of accidents will probably go down, but litigation will 
+go up. People are less forgiving towards machines.”
+
+Similar questions arise around medical diagnosis and care. Software is already 
+being introduced to remind patients to take their medication via text message 
+or to process repeat prescriptions. It is only a matter of time before machine 
+intelligence is being used more widely to improve diagnosis and treatment for 
+everything from cancer to dementia.
+
+Safeguards will be needed to make sure that these changes benefit patients and 
+are not simplyused as cost-saving measures by stretched public health services. 
+These tools need to be scrutinised ethically as well as scientifically – would 
+we be comfortable with a diagnostic tool that saved lives overall, say, but 
+discriminated against certain groups of patients? Should doctors be compelled 
+to conform to the advice provided by a robot?
+
+AI is already rapidly creating jobs, while destroying others – it is not yet 
+clear how this will balance out in the long run. Robots could soon surpass 
+humans at routine legal work, language translation and medical diagnosis, for 
+instance, but gardeners, plumbers and physiotherapists may be harder to replace.
+
+“We may need massive social redistribution of wealth so the benefits don’t 
+just go to the elite owners of robots,” says Prof Rees. “Public service jobs 
+that are under-resourced and underpaid need to be upgraded.”
+
+The threats of job insecurity and the need for regulation of AI may lack the 
+apocalyptic quality of Musk’s warnings about robots gone rogue. But these 
+issues need tackling now to ensure that we place human values above money and 
+convenience when applying this powerful new technology.
+ 

@@ -1,0 +1,191 @@
+
+Why do some crosswords look different to others on theguardian.com? <>
+Which crosswords are published online? <>
+How do I print a crossword? <>
+What happened to the PDF version of a crossword? <>
+Why can't I view the crossword grid's vertical lines on my print out? <>
+How do I contact the crossword editors? <>
+What are the technical requirements? <>
+How do I give feedback or get further technical information? <>
+Are you able to comment on crosswords? <>
+What is the blind and PS version? <>
+Which crosswords have competitions? <>
+How do I enter the Prize crossword competition? <>
+How do I enter the Genius crossword competition? <>
+How do I enter the Everyman crossword competition? <>
+How do I enter the Azed crossword competition? <>
+When can I see the solutions for crosswords that have winners and prizes? <>
+
+ <>Why do some crosswords look different to others on theguardian.com?
+
+In February 2010, we changed the way we present some of our crosswords. The 
+Prize, Cryptic, Quick, Quiptic, Everyman and Speedy are in the new format. Azed 
+and Genius will remain in their current format for the foreseeable future.
+
+ <>Which crosswords are published online?
+
+• Prize
+This cryptic crossword appears in the Guardian Saturday edition.
+
+• Quick 
+This appears every weekday in G2, part of the Guardian.
+
+• Cryptic
+This appears every weekday in the Guardian.
+
+• Quiptic
+A web-only crossword, part-cryptic and part-quick. It is added to the site 
+every Monday.
+
+• Genius 
+This web-only prize crossword is published on the first Monday of the month. 
+You can fill it in on theguardian.com and submit your prize entry online.
+
+• Azed
+This appears every Sunday in the Observer.
+
+• Everyman 
+This appears every Sunday in the Observer.
+
+• Speedy
+This appears every Sunday in the Observer.
+
+ <>What happened to a PDF version of the crossword?
+
+For all newspaper-published crosswords that appear online from Wednesday 10 
+February 2010 a PDF version will appear beneath the crossword's title and 
+alongside the Print version and the Blind & PS version.
+
+The PDF option will still show if it was available on the old crosswords 
+before they were moved over to our new platform.
+
+ <>How do I print a crossword?
+
+Crosswords can now be printed by clicking the link to the print version.
+
+We have added black lines to the print version to make it clearer, while 
+retaining the grey squares so less ink is used when printing (something many 
+users have requested).
+
+We know people are experiencing issues with printing so we have outlined some 
+details here that should help.
+
+• Select the print button at the top of the crosswords page, this will take 
+you to a print version.
+• Then select file and print preview. 
+• Here can you make your selection. In the scaling if you select 90% this will 
+be big enough to the fit the page but not too big to make it roll over to page 
+2.
+
+These steps should be followed in all cases. 
+
+However, there are a few exceptions where an extra step must be done.
+
+• Printing on Firefox
+Windows Users:File - > Page Setup - > Format and Options
+Tick "Print Background (colors & images)
+
+Mac Users: File -> Print
+Tick both "Print Background Colors" and "Print Background images"
+ Crossword printing instructionns for mac 
+• Printing on Safari
+Mac users: File - > Print 
+Tick "Print backgrounds"
+
+• Printing on IE6,IE7,IE8
+Tools - > Internet Options - > Advanced (Tab)
+Scroll down to Printing
+Tick "Print background colors and images"
+
+ <>Why can't I view the crossword grid's vertical lines on my print out?
+
+In your print options turn on background images and you should be able to see 
+the grid.
+
+ <>How do I contact the editors of the crosswords?
+
+If you wish to contact the editor of Speedy, Everyman and Azed crosswords email
+crossword.editor@observer.co.uk <mailto:crossword.editor@observer.co.uk>.
+
+If you wish to contact the editor of Quick, Cryptic, Prize, Quiptic and Genius 
+crosswords emailcrossword.editor@theguardian.com
+ <mailto:crossword.editor@theguardian.com>
+
+ <>What are the technical requirements?
+
+The crossword tools run on most standard browsers. In order to complete the 
+crossword online and use some of the features described below you will need to 
+be logged into theguardian.com and have Javascript enabled on your PC.
+
+To use Azed and Genius you will also need Java enabled. If you can't get Java 
+to work on your machine, please contact the manufacturer of the computer or the 
+helpdesk for the browser you are using. If you have trouble using the online 
+tool then you can click the 'Print Version' link for a printed pdf of the 
+crossword.
+
+ <>How do I give feedback or get further technical information?
+
+If you need help or have a technical query, please email 
+subshelp@theguardian.com <mailto:subshelp@theguardian.com>.
+
+ <>Are you able to comment on crosswords?
+
+You are able to comment on most crosswords for the first seven days after 
+publication. There is a warning for users. Do not scroll down if you want to 
+avoid the risk of seeing any of the answers. We will not have comments enabled 
+for the Prize, Everyman, Genius or Azed crosswords as these are competitions.
+
+ <>What is the blind and PS version?
+
+This is designed for blind or partially-sighted users. It is a stripped down 
+text version, which should be easily read by a screen reader.
+
+ <>Which crosswords have competitions?
+
+Everyman, Prize, Azed and Genius
+
+ <>How do I enter the Everyman crossword competition?
+
+Competition entries for the latest Everyman crossword must be postmarked not 
+later than Saturday night. The first three correct solutions opened will 
+receive a set of stylish Penguin Dictionaries, worth £30 and perfect for anyone 
+who revels in the English language. £15 book tokens for the first five correct 
+solutions opened. Completed Everyman crosswords should be printed out and sent 
+to: The Observer PO Box 6604, Birmingham, B26 3RW.
+
+ <>How do I enter the Prize crossword competition?
+
+Competition entries for the latest Prize crossword must be received by the 
+first post on the Friday after the puzzle appears. The first five correct 
+entries drawn will win a copy of Guardian Style and Secrets of the Setters. 
+Completed Prize crosswords should be printed out and sent to: The Guardian 
+Crossword, PO Box 6603, Birmingham, B26 3PR or fax to 0121 742 1313.
+
+ <>How do I enter the Azed crossword competition?
+
+Details on how to enter the Azed crossword appear on the printable PDF. The 
+Azed Slip, containing details of successful competition entries and Azed's 
+comments, is available on subscription at £13 a year for 13 issues (£16 for 
+overseas subscribers). Cheques payable to the Azed Slip, should be sent to The 
+Azed Slip, Coombe Farm, Awbridge, Romsey SO51 0HN. To receive a sample slip, 
+please send an sae to this address. For much more information on the Azed Slip, 
+visitandlit.org.uk
+ <http://www.andlit.org.uk>
+
+ <>How do I enter the Genius crossword competition?
+
+You need to be registered with theguardian.com to enter the Genius crossword. 
+To register, you need to tell us the email address you want to sign in with, a 
+password, and your country of residence. UK and US users must also give us 
+their postcode or zip code. See ourregistration page 
+<https://profile.theguardian.com/signin>.
+
+ <>When can I see the solutions for crosswords that have winners and prizes?
+
+Azed solutions will be available three weeks after they are published.
+Everyman solutions will be available one week after they are published.
+Prize solutions will be available one week after they are published.
+Genius solutions will be available one week after they are published.
+To view the solutions click on the solution button alongside the crossword's 
+grid.
+ 

@@ -1,0 +1,102 @@
+
+Australia is on the move.
+
+The continent drifts in a north-north-east direction at rate of 7cm a year. 
+But, from this year, its recorded latitude and longitudewill move 1.8 
+<https://www.theguardian.com/science/2016/aug/03/mind-the-gap-australias-latitude-and-longitude-to-shift-2m-next-year>
+ metres – a scheduled update to the local coordinate system to reflect the 
+movement of the Earth’s tectonic plates.
+
+The transition to the new datum, overseen by Geoscience Australia, will be 
+gradual over the next two years. But for the 10,000 or so Australians who use 
+coordinates for geocaching, it has sparked much discussion.
+
+Geocaching began in the early 2000s as a sort of real-world treasure hunt, or 
+high-tech orienteering, in which players hunt for registered “caches” hidden 
+and recorded by other players.
+
+The cache itself is a box, often a reusable food container, though the only 
+requirement is that it is watertight and large enough to hold a logbook. A 
+player hides it and records its location with enough detail for it to be found 
+by another player, who will then take something out of the box and replace it 
+with an item of equal or greater value.
+
+James Finger, a forensic scientist and president of Geocaching NSW, says it 
+combines “bushwalking and geeky technology”.
+
+“The old axiom is ‘Geocachers: We use multi-billion dollar satellite 
+technology to hunt for boxes in the bush. What’s your hobby?’”
+
+Related: Mind the gap: Australia's latitude and longitude to shift 2m next year
+ 
+<https://www.theguardian.com/science/2016/aug/03/mind-the-gap-australias-latitude-and-longitude-to-shift-2m-next-year>
+
+Since 2009, he has made about 5,800 finds, which he says puts him “at about 
+the middle of anyone who’s taking it seriously”. He managed just over 400 this 
+year, but backpacking through Europe “in a previous life”, he racked up a 
+streak of more than 1,000 days.
+
+With between six and eight million players (and 2.8 million caches) registered 
+around the world, the game has grown as the technology has become more 
+accessible. In 2000, a top-of-the-line, over-the-counter GPS unit could take a 
+player to within 20m of the hidden cache, Finger says.
+
+“But now your new smartphones have got comparable accuracy – if you know how 
+to use them – with a basic bushwalkers’ unit. That’s what’s spurred the 
+popularity. You no longer have to buy a dedicated piece of kit, you can do it 
+on your smartphone.”
+
+Though the change of Australia’s latitude and longitude has “sparked some 
+conversation amongst the community”, he says it will have little impact on 
+geocachers, who use the global World Geodetic System – not the Australian datum.
+
+When GPS systems on most web-enabled smartphones, such as Apple maps or Google 
+maps, take you to between 10-20m from the cache – “so a 1.8m shift is not 
+really significant” anyway.
+
+Finding a cache also depends on the accuracy of the coordinates recorded by 
+the person who hid it – which could be as much as 30m out from its true 
+location, depending on factors such as nearby buildings or power lines that 
+might have compounded the reading.
+
+Related: Clockmaker John Harrison vindicated 250 years after ‘absurd’ claims 
+<https://www.theguardian.com/science/2015/apr/19/clockmaker-john-harrison-vindicated-250-years-absurd-claims>
+
+“When the numbers on your screen say you’re about 10m away, you generally put 
+this thing away in your pocket, and you start looking around, and you rely on 
+your own experience and intuition,” Finger says.
+
+The game has changed in the best part of two decades, he says: with most 
+players introduced to geocaching through their smartphones, its links to 
+orienteering skills and geographic systems have become more nebulous.
+
+Discussion of the technology involved – even of latitude and longitude – is 
+more interesting for “the old guard”.
+
+Related: AI, self-driving cars and cyberwar – the tech trends to watch for in 
+2017 
+<https://www.theguardian.com/technology/2016/dec/25/ai-self-driving-cars-and-cyberwar-the-tech-trends-to-watch-for-in-2017>
+
+“Your modern generation of geocachers may not know there is such a thing as a 
+dedicated GPS handheld device,” he says. “It’s like trying to explain to your 
+kids the days when mobile phones did not have the internet.”
+
+Most geocachers simply interact with the game at face value, as they would 
+Pokémon Go <https://www.theguardian.com/technology/pokemon-go>, to which it’s 
+often compared. (“Except it’s been around 15 years. It’s as old as the original 
+Pokémon games are, in fact.”)
+
+
+Finger predicts that games and interests incorporating GPS technology will 
+only increase. “It’s basically a free thing for the public and game developers 
+to utilise, and it’s one the average person is now familiar with and 
+comfortable with.
+
+“Nearly everyone who owns a smartphone will use Google maps: they know what it 
+is, they know vaguely what it can do for them. Turning that into a hobby or 
+interest is not as massive a step as it was to those first bushwalkers who were 
+told to trust instructions to find a hidden box.”
+
+ * This article was corrected on 3 January to distinguish between Geocentric 
+Datum of Australia, which is changing, and the World Geodetic System, which is 
+not  

@@ -1,0 +1,64 @@
+
+Unconfirmed reports suggest that two people in Toronto have killed themselves 
+over the Ashley Madison hack, local police said in a briefing providing details 
+about the beginning of the leak.
+
+“As of this morning, we have two unconfirmed reports of suicides that are 
+associated because of the leak of Ashley Madison customers’ profiles,” Toronto 
+police service staff superintendent Bryce Evans said at a press conference on 
+Monday.
+
+Evans said the nature of the dating site for married people was “of no 
+interest to us as the investigative teams”.
+
+Security analyst Brian Krebs said last week 
+<https://www.theguardian.com/technology/2015/aug/19/ashley-madison-hack-outcome>
+ he feared exactly that outcome. “There’s a very real chance that people are 
+going to overreact. I wouldn’t be surprised if we saw people taking their lives 
+because of this, and obviously piling on with ridicule and trying to out people 
+is not gonna help the situation,” Krebs,who first reported the hack 
+<http://krebsonsecurity.com/2015/08/was-the-ashley-madison-database-leaked/>, 
+said on Wednesday.
+
+The hack, in which some 33m profiles from the service were published online 
+<https://www.theguardian.com/technology/2015/aug/19/ashley-madison-hackers-release-10gb-database-of-33m-infidelity-site-accounts>
+, has been the focus of extortion and phishing attempts. Among them are “hack 
+checking” websites that compile the emails of the curious entered into them and 
+then send malicious software to those emails.
+
+Evans also said that a new scam, claiming to erase names from the Ashley 
+Madison database in order to preserve users’ privacy, had sprung up in the few 
+days since the hack.
+
+“By clicking on these links, you are exposing your computer to adware, 
+spyware, malware and viruses,” Evans said. “Multiple sites have now downloaded 
+[the Ashley Madison user database] and are present. Nobody is going to be able 
+to erase that information. There are confirmed cases of people trying to extort 
+Ashley Madison clients.”
+
+On 12 July, Evans told reporters, workers at the Toronto-based company logged 
+into their computers and were greeted with “a threatening message” read over 
+AC/DC’s Thunderstruck by hackers (or hacker) the Impact Team. The hack was made 
+public on 20 July by the Impact Team alongside a note demanding Ashley Madison 
+cease operation; on 20 August, Impact Team released all the information onto a 
+deep-web site with a message that began “Time’s up!” Information from Ashley 
+Madison’s sister site, Established Men, has not been released.
+
+“When reporting these events to the police, Avid Life Media advised that the 
+suspects had already made good on the threat by releasing the information on 
+two Ashley Madison clients, one from Mississauga, Ontario, and the other from 
+Brockton, Massachusetts, through the internet, which happened on July the 
+19th,” Evans said.
+
+Avid Life Media, the company behind Ashley Madison, has offered 
+<http://www.nbcnews.com/tech/security/ashley-madison-offers-500k-reward-info-hackers-n414841?cid=sm_tw&hootPostID=0c4a7a9b493755716f2e08ec18c97865>
+ a $500,000 Canadian dollar ($380,000 US) reward for information leading to the 
+arrest of the hackers.
+
+• In the US and Canada, the National Suicide Prevention Hotline is 
+1-800-273-8255 <>. In the UK, the Samaritans can be contacted on 08457 90 90 
+90. In Australia, the crisis support service Lifeline is on 13 11 14. Hotlines 
+in other countriescan be found here 
+<http://www.suicide.org/international-suicide-hotlines.html>.
+
+ 

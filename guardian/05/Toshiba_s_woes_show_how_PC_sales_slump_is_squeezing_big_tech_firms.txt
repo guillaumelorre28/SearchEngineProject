@@ -1,0 +1,118 @@
+
+Losing your chief executive is bad enough. But for Toshiba, which has just 
+admitted to a billion-dollar inflation of its profits since 2008 
+<https://www.theguardian.com/world/2015/jul/21/toshiba-boss-quits-hisao-tanaka-accounting-scandal>
+, the news could get worse. In the wake of the resignation of Hisao Tanaka last 
+week, it has restated historical profits and as a result may have to close or 
+sell its PC business, where sales have been sagging over the past five years, 
+and which was one source of the overstatement.
+
+The losses there could have been piling up for some time. And few would be 
+surprised by Toshiba’s likely exit from PCs, which have become a shrinking 
+business increasingly dominated by a handful of players that extract economies 
+of scale – and all the available profits. “The PC market in recent quarters has 
+been a bloodbath,” says Tim Coulling, senior analyst at tech consultancy 
+Canalys. “Typical mainstream PC makers expect low single-digit percent 
+operating margins. It’s razor-thin. If you get to the low-cost machines, then 
+they’re scrabbling for dollars on products.”
+
+The squeeze on margins is so fierce that even Lenovo, the world’s largest PC 
+maker, tried to boost profits by bundling a software program called Superfish 
+on some of its PCs. It said the aim was“to improve the [user’s] shopping 
+experience” <http://news.lenovo.com/article_display.cfm?article_id=1929>. 
+Instead, itexposed users to a security risk – potentially revealing bank 
+transactions, for instance – 
+<https://www.theguardian.com/technology/2015/feb/19/lenovo-accused-compromising-user-security-installing-adware-pcs-superfish>
+, and had to uninstall it. It is whispered among some analysts that only the 
+preinstallation of third-party antivirus programs – which try to get users to 
+sign up to subscriptions – keeps some PC makers afloat at all, owing to the 
+fees they receive from antivirus software firms.
+
+It was the PC business that triggered the current turmoil at the Japanese 
+giant, after an internal auditor asked in late January to look at the accounts 
+for the company’s laptop business. That eventually concluded with an 
+examination by an external panel, whose 294-page report noted “inappropriate 
+accounting” in various business segments, including those “relating to 
+component transactions” in the PC business.
+
+In a statement on 21 July 
+<http://www.toshiba.co.jp/about/ir/en/news/20150720_1.pdf> it said that 111bn 
+yen (£580m) of assets in the PC business in the past six financial years were 
+“under consideration” for re-evaluation. That could affect its financial 
+results, which will be finalised by 31 August. But even in its most recent 
+quarterly report, before any restatement, Toshiba said that its PC business 
+recorded restructuring costs of 46bn yen in the previous three quarters, and 
+that otherwise it “would have recorded positive operating income over three 
+consecutive quarters”. Coulling remarks that Toshiba’s traditional PC market 
+share has been “on the slide for a number of years”.
+
+The truth may be that Toshiba’s PC business was far from profitable. Even 
+thoughToshiba <https://www.theguardian.com/business/toshiba> is the world’s 
+seventh- largest PC maker, shipping about 22m computers in 2014 according to 
+analysis company IDC, it is struggling, along with a dwindling group of others 
+outside the top six manufacturers – Lenovo, HP, Dell, Asus, Acer and Apple – to 
+eke a profit from a sector that has deflated dramatically.
+
+The worldwide PC market has fallen back so far from its peak in 2011, when 
+361m units were sold, that analysts now doubt it will pass 300m units this 
+year. That is despite the launch this Wednesday of the new version of 
+Microsoft’s Windows, which has traditionally increased PC sales.
+
+But whereas 20 years ago Windows 95 was launched amid midnight store openings, 
+a Rolling Stones-themed ad blitz and a Bill Gates-led roadshow, this time it 
+will happen silently. Millions of PCs will be updated for free via the 
+internet. Neither analysts nor the chipmaker Intel, which provides the 
+essential chips for PCs, expects a significant rise in sales.
+
+The PC business is shrinking because the market is saturated, and has moved to 
+a replacement phase where sales come only from switching old PCs with new 
+models. With about 1.5bn PCs in use around the world, split roughly 
+half-and-half between businesses and consumers, people now tend to spend money 
+on smartphones or tablets, and delay replacing their PC.
+
+As sales have dropped, the big six have been increasing dominance through 
+using their scale to buy components more cheaply and dominate sales to 
+retailers and businesses. Since 2011, their share of the PC market has grown 
+from 60% to 71%. More importantly, the “others” in the business have seen the 
+total number of PCs they ship more than halve, from 36m per quarter in mid-2011 
+to 17.4m in the quarter from April to June. And as that tide goes out, the 
+minnows are increasingly exposed. As Coulling points out, they are being 
+squeezed for profit because the success of Windows has brought with it the 
+commoditisation of PCs, and constantly falling prices. Since 2010 the world 
+average selling price for a PC from the big five Windows PC makers – excluding 
+Apple – has dropped from $600 to $500, and dragged profits down with it. 
+Companies and consumers are generally unwilling to splash out $1,000 or more on 
+ultrathin laptops, touchscreen models, or devices that can double up as PCs or 
+tablets, which yield more profit.
+
+The odd one out is Apple, which commands premium prices for its computers – 
+averaging over $1,200 (£775) for more than a decade – and yet has seen its 
+market share rise steadily for 10 years, even while the rest of the market has 
+commoditised. Why? “Because it’s not just a hardware player. They make the 
+hardware and have their own operating system, so you either buy a Mac or 
+don’t,” says Coulling. Some analysts estimate Apple’s operating margin on its 
+Macs at more than 15% – which suggests it grabs more than half of all the 
+profits in the whole PC industry.
+
+The pressure on the rest has told in different ways. Dell went private in 
+September 2013 
+<https://www.theguardian.com/technology/2013/sep/12/michael-dell-buys-back-pc-company-founded>
+ as it tried to focus more on software and services and play down its PC 
+business, which is still the world’s third largest. Japan’s Sonywithdrew from 
+PCs altogether in 2014 
+<https://www.theguardian.com/technology/2014/feb/06/sony-vaio-laptop-losses-bravia-tv>
+, unable to make its well-regarded but expensive Vaio line profitable amid 
+falling sales. Samsung withdrew from Europe last autumn, and now concentrates 
+on South Korea, the US, Brazil and China, while Fujitsu concentrates on Japan 
+and Germany.
+
+Loren Loverde, senior PC analyst at IDC, says that beyond Samsung and Fujitsu, 
+the two companies ranking below Toshiba, “most vendors are specialised in a few 
+countries, or specific vertical [market], and volume is more volatile. They 
+certainly feel the pressure from the large players.”
+
+With the dollar strong, and the market still falling, Toshiba’s exit might 
+only be a matter of time. But that still leaves the others to compete for its 
+tiny share. So it looks bleak for the “others”? “Yes,” says Canalys’s Coulling. 
+“That’s a fairly widely held view within the industry.”
+ 

@@ -1,0 +1,154 @@
+
+The Afghan war logs story has proved to be a global journalistic phenomenon. 
+The Guardian, the New York Times and Der Spiegel last week made history by 
+simultaneously releasing stories about this huge classified US military archive.
+
+The logs hold 92,000 field reports, many of them ugly and grim. The three 
+papers mined revelations about the cruel toll on civilians in the nine-year 
+conflict, and about futile firefights which have cost the lives of so many 
+western soldiers.
+
+The media trio did this work while WikiLeaks 
+<https://www.theguardian.com/media/wikileaks>, a hitherto little-known 
+organisation, simultaneously posted virtually the entire raw archive online, 
+holding back only a small number of files which it thought might endanger local 
+informants.
+
+The project appeared to take the Pentagon by surprise. As the revelations 
+swamped the world's headlines, calls grew for investigations into the civilian 
+killings. There were diplomatic storms over allegations of Pakistan backing for 
+the Taliban. Damage control efforts by the White House did not improve until 
+the weekend. We then saw the spectacle of generals, with gallons of innocent 
+civilian blood on their hands, orating that WikiLeaks had potentially failed to 
+do enough to protect local Afghans.
+
+Some media organisations, who had not got the story themselves, then joined 
+in. One disappointed paper deliberately provided the Taliban with a to-do list: 
+it drew their attention to specific Wikileaks documents they might inspect in 
+order to take reprisals. The low point was perhaps reached by Channel 4 News, 
+which respectfully quoted a "spokesman" for the bearded murderers, as he 
+uttered promises of revenge on alleged informants. It felt like PR for the 
+Taliban.
+
+There are, however, legitimate questions about how we got this unprecedented 
+story, and how we handled it. We have no secrets to hide about how it was done: 
+and indeed, it was perhaps a transformative moment in modern journalism, worth 
+a bit of study.
+
+Did we serve as agents for WikiLeaks, a group called "information vandals"? No 
+we didn't. What actually happened was that my Guardian colleague Nick Davies, 
+in an inspired moment, tracked down nomadic WikiLeaks founder Julian Assange, 
+in Brussels, about a month ago.
+
+In six hours of intensive talks, Davies established three things that could 
+never have happened before the internet age.
+
+One, that the US army had built a huge database with six years of sensitive 
+military intelligence material in it. Two, that many thousands of US soldiers 
+had access to this electronic archive, and some had been able to download 
+copies.
+
+And three, WikiLeaks now had one copy which it proposed to publish immediately 
+online, via a series of uncensorable global servers.
+
+Many of WikiLeaks' supporters believe in the hacker creed – that everything 
+residing in other people's computers is fair game, particularly if it helps 
+subvert the world's oppressive empires and corporations. Davies eventually 
+persuaded Assange to let the Guardian examine the material first. Other media 
+organisations were included from the start.
+
+There were some things as professional journalists that we were clear about. 
+We would all write independently. That's why the New York Times, for example, 
+had a different emphasis from the Guardian on Pakistani intelligence 
+activities. WikiLeaks didn't have any role in writing any of our articles. And 
+secondly, it went without dispute from the outset that we would not, if we 
+could help it, publish raw data that might endanger individuals back in 
+Afghanistan.
+
+Wikileaks was in a rather different position. Assange says that they 
+subsequently responded to a White House request in advance, passed back via the 
+New York Times, to redact informant material. They asked the Pentagon for 
+assistance, but got no response. As a result, he says, WikiLeaks did their best 
+with their own resources.
+
+Meanwhile, a secret "bunker" was set up on the fourth floor of the Guardian's 
+London office at Kings Place. Behind locked doors, our own database was 
+improvised by developer Harold Frayman to enable us to interrogate what had 
+arrived as an enormous spreadsheet. Eric Schmitt, from New York, and John 
+Goetz, from Der Spiegel in Berlin, flew over a team of almost a dozen that 
+ended up working on the project in the Guardian, including librarians to decode 
+hundreds of baffling military acronyms, and a data visualiser, Alastair Dant, 
+to produce cutting-edge interactive maps.
+
+We traditional journalists and war correspondents had a crash course in 
+computer-assisted reporting. A painful early discovery was that Excel 
+spreadsheets, the basic tool of many businesses, didn't like this particular 
+job. It transpired that Excel will only handle 65,000 rows at a time. We'd 
+"lost" 26,000 other files without realising it.
+
+I suspect we'll go faster next time, as we hone our electronic skills.
+
+David Leigh is the Guardian's investigations editor
+
+How others saw the Wikileaks expose
+
+Jay Rosen, NYU professor of journalism 
+<http://journalism.nyu.edu/pubzone/weblogs/pressthink/2010/07/26/wikileaks_afghan.html#reactions>
+
+If you go to the WikiLeaks Twitter profile, next to "location" it says: 
+Everywhere. Which is one of the most striking things about it: the world's 
+first stateless news organisation. In media history up to now, the press is 
+free to report on what the powerful wish to keep secret because the laws of a 
+given nation protect it. But WikiLeaks is able to report on what the powerful 
+wish to keep secret because the logic of the internet permits it. This is new. 
+Also, can we agree that a news organisation with a paywall wouldn't even be in 
+contention?
+
+Alexis Madrigal, a senior editor for TheAtlantic.com 
+<http://www.theatlantic.com/science/archive/2010/07/wikileaks-may-have-just-changed-the-media-too/60377/>
+
+While the impact of the documents and newspaper reportage on the war in 
+Afghanistan will take a while to suss out, the publication of these documents 
+will be seen as a milestone in the new news ecosystem. This story – and the 
+organisation behind it – is obviously singular. It's being described as one of 
+the largest leaks in US military history. (Though it's worth noting that the 
+value of the information is not totally clear yet.) But it also fits into a 
+broader trend. Traditional media organisations are increasingly reaching out to 
+different kinds of smaller outfits for help compiling data and conducting 
+investigations.
+
+Farhad Manjoo, Slate's technology columnist <http://www.slate.com/id/2262066> 
+
+Is radical transparency compatible with total anonymity? If we don't know who 
+the leaker is, why he's leaking, and how he came upon his information, can we 
+really know the full story the document tells? More importantly, how can we 
+know that the information is authentic? Look deeply into WikiLeaks' efforts at 
+radical transparency and you find complete opacity; WikiLeaks wants to shine a 
+light on the world, but only by keeping itself shrouded in secrecy. Consider 
+the Afghanistan war logs. The fact that the leaker wants to minimise harm 
+suggests that he, like most whistle-blowers, has some sort of agenda. That 
+agenda is a part of the story, and it could provide valuable context for all of 
+this data. If WikiLeaks really is legally bound to never release the identity 
+of its leakers, can't it still find out, for itself, the identity of its 
+sources – if only as a way to more thoroughly check out their leaks. Perhaps 
+this would put WikiLeaks in some kind of legal or physical jeopardy; maybe 
+Julian Assange [below] or his staff could be jailed or harassed for not 
+identifying their sources. According to Assange, though, that's already the 
+case. These risks he takes to protect his sources are probably one of the main 
+reasons the leakers trust WikiLeaks with their information. Given the site's 
+track record, would many leakers balk if WikiLeaks began asking them simple 
+questions? Let me offer a few suggestions: Who are you, how did you find this 
+document, and why are you leaking it now?
+
+Jeff Jarvis, from buzzmachine <http://www.buzzmachine.com/>
+
+The Afghan war logs story is a case study in what Alan Rusbridger would call 
+the mutualisation of journalism. I'd call it collaboration. The leakers and 
+their medium – that is, their mediator, Wikileaks – did what they did and the 
+paper's journalists added value: digging through the data, giving it 
+perspective, editing out dangerous pieces, getting reaction, and then giving it 
+audience and attention. When you don't add value and someone else can perform 
+the task as stenographer or leaker or reporter – and you can link to it – then 
+that means you save resources and money. This means journalists need to look at 
+where they add maximum value.
+ 

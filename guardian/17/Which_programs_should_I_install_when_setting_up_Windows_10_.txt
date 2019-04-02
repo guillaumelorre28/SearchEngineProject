@@ -1,0 +1,176 @@
+
+My daughter has asked for a Windows laptop for Christmas, for schoolwork and 
+games. I used to follow the same procedure when setting up a PC for the first 
+time: I’d install AVG anti-virus, Zone Alarm, CCleaner, Spybot Search and 
+Destroy etc. I’m a Mac user and haven’t set up aWindows 
+<https://www.theguardian.com/technology/windows> machine for many years so I’d 
+appreciate any advice … except “get her a Mac/Linux” from below the line!Stuart
+
+Windows 10 already includes almost everything the average PC user needs, with 
+three different types of software. First, there are traditional Windows 
+programs such as WordPad. Second, there are new-style apps such as Mail and 
+Sticky Notes. Third, there are in-browser programs that work with your log-on 
+email address, which is your Microsoft Account.
+
+Traditional programs are usually the most powerful but also the most 
+dangerous. They should only be downloaded from the original source (the 
+software company) or a trusted alternative, such asMajor Geeks 
+<http://www.majorgeeks.com/mg/topdownloads/index.html> or Ninite 
+<https://ninite.com/>. 
+
+New-style apps are downloaded and maintained from a trusted source, the 
+Windows Store, and they run in sandboxes that prevent them from doing bad 
+things. There are apps for Facebook, Messenger, Instagram, Netflix, Shazam, 
+Deezer, Pinterest, Twitter, TuneIn Radio etc (but not Snapchat), plus loads of 
+games.
+
+Online apps are useful if you have a good internet connection. Windows 10 
+includes online versions of OneNote, Word, Excel and PowerPoint from Microsoft 
+Office. The online programs often have their own apps as well, including apps 
+for Android and Apple smartphones and tablets.
+
+In general, it’s only worth installing things that are better than the bundled 
+programs, but it depends on personal preferences and circumstances. For 
+example, I used to recommend Evernote and Dropbox, and now I don’t. Today, 
+OneNote is better than Evernote, and OneNote is widely used in schools. Dropbox 
+is better than OneDrive, but OneDrive offers more free storage (5GB vs 2GB) and 
+is good enough. Of course, many people already have data in Evernote and 
+Dropbox, but for the rest of us, they’re optional.
+
+Windows 10 security
+
+Security has been a major concern because some earlier versions of Windows – 
+especially XP – were very insecure. That has changed. Windows 10’s security has 
+improved so much that theUS Defense Department 
+<https://www.defense.gov/News/Article/Article/688721/dod-wide-windows-10-rapid-deployment-to-boost-cybersecurity>
+ is moving to it as quickly as possible.
+
+Windows 10 is safe enough to use without any extra security software, if you 
+keep the latest default settings. These include SmartScreen filter, which 
+checks web addresses for known malware, and a cloud-based service, which was 
+turned on by default in the Anniversary Update edition. If Defender sees a 
+suspicious file that it does not recognise, it refers it to the cloud service, 
+which uses heuristics, automated file analysis and machine learning to decide 
+whether or not to block it. This is important with things like ransomware 
+attacks.
+
+People who block Windows 10’s background security and telemetry communications 
+– perhaps in a misguided attempt to protect their privacy – risk compromising 
+their security. If so, they should install an alternative anti-virus program 
+that makes exactly the same checks, and uses its own cloud services for exactly 
+the same purposes.
+
+The combination of Defender, SmartScreen and cloud-based heuristics should be 
+OK for users who don’t have dangerous surfing habits, especially if they use 
+secure browsers, such as Microsoft Edge or Google Chrome. My wife is in this 
+category. I’m paranoid so I supplement Defender withMalwareBytes Anti-Malware 
+<https://www.malwarebytes.com/> and occasional scans with Adware Cleaner 
+<http://www.majorgeeks.com/files/details/adwcleaner.html>, Hitman Pro 
+<https://www.hitmanpro.com/en-us/hmp.aspx> and GMER <http://www.gmer.net/>. 
+(They’ve not found anything yet.)
+
+There are, of course, better anti-virus products than Defender, both free and 
+paid-for. I usually installAvast <https://www.avast.com/windows-10-antivirus> 
+on other people’s PCs after removing a virus, but Avira, Bitdefender and 
+Kaspersky are good alternatives. (Avast now owns AVG.) Kaspersky and 
+Bitdefender seem to be the best paid-for AV suites.
+
+I also install Flexera’s free Personal Software Inspector 
+<https://www.flexerasoftware.com/enterprise/products/software-vulnerability-management/personal-software-inspector/>
+. This monitors your PC’s software and tells you which programs are insecure 
+and need updating. In some cases, it will even update them for you.
+
+PSI is important because most vulnerabilities are now in third-party programs 
+such as Adobe Reader, Flash, Oracle Java and so on, not in Windows. A PC may 
+have dozens of programs from dozens of suppliers, and even if you knew which 
+ones needed security patches, it would be tedious to update them. PSI solves 
+that problem nicely.
+
+Browser choice
+
+Windows 10 includes two browsers: the new Edge and the old Internet Explorer 
+11. Edge is a good browser: it’s secure, fast and light. However, it still has 
+some weird omissions (can’t save pages!) andvery few extensions 
+<https://developer.microsoft.com/en-us/microsoft-edge/extensions/> (about 20). 
+IE11 is best avoided, unless a website only works in IE. So, you probably need 
+another browser....
+
+The main alternatives are Google Chrome 
+<https://www.google.co.uk/chrome/browser/desktop/> and Firefox 
+<https://www.mozilla.org/en-GB/firefox/new/>. Chrome is more secure but it 
+guzzles memory, resources and battery power, so I generally use Firefox with the
+Ghostery <https://www.ghostery.com/try-us/download-browser-extension/> and 
+uBlock Origin <https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/> 
+extensions. Instead of Chrome, I useVivaldi <https://vivaldi.com/?lang=en>, 
+which is slow to load, a bit geeky – sorry, aimed at “power users” – and still 
+being developed. Vivaldi is, like Chrome, based on the open sourceChromium 
+browser <https://www.chromium.org/getting-involved/download-chromium>, and it 
+runs most Chrome extensions.
+
+There are lots of Chromium-based browsers 
+<https://www.raymond.cc/blog/chromium-browser-alternatives-with-extra-features/>
+, including Opera.
+
+Useful utilities
+
+There are a few free programs that I install on most PCs because they’re 
+generally useful. These are: Unchecky, Search Everything, Paint.net, 
+PIXresizer, FreeFileSync, and the K-Lite codec pack. Windows 10’s much improved 
+Task Manager (WinKey-X, T) means there’s less need forProcess Explorer 
+<https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx>. To 
+those, I might add CCleaner, Revo Uninstaller or SlimCleaner, but I usually 
+don’t.
+
+Unchecky <https://unchecky.com/> is a simple program that unchecks tick-boxes. 
+When you download a free Windows program, the supplier will often try to foist 
+some unwanted software on you, such as Google Chrome. It’s how they make money. 
+Unchecky unchecks all the boxes in case you miss them.
+
+Search Everything <https://www.voidtools.com/> is a fast way to find and open 
+files if you can’t quite remember their names or where you put them. It doesn’t 
+search inside files, so it doesn’t spend a lot of time and resources on 
+indexing.
+
+Paint.net <http://www.getpaint.net/index.html> is a replacement for Microsoft 
+Paint, and it’s good for editing photos and images. It can, of course, resize 
+images too, but Bluefive’sPIXresizer 
+<http://bluefive.pair.com/free_computer_software.htm> is super-efficient at 
+reducing file sizes. It also does batch conversions so you can process whole 
+folders of photos before uploading them to Facebook, or whatever.
+
+FreeFileSync <http://www.freefilesync.org/> is a fast way to synchronise two 
+sets of files: one on your PC and the other on an external hard drive or other 
+target. It doesn’t replace full backups, but it’s a really useful way to keep 
+uncompressed, instantly accessible copies of important photos and documents.
+
+The K-Lite codec pack <https://www.codecguide.com/download_kl.htm> is a bundle 
+of decoders that will play most of the video and audio files you can find on 
+the net. The standard version includes a lightweight media player – Media 
+Player Classic Home Cinema (MPC-HC) – that looks like an old Microsoft product 
+but isn’t. The main alternative isVLC 
+<http://www.videolan.org/vlc/download-windows.en_GB.html>, which also runs on 
+MacOS and Linux.
+
+CCleaner <https://www.piriform.com/ccleaner/download>, Revo Uninstaller 
+<http://www.revouninstaller.com/revo_uninstaller_free_download.html> and 
+SlimCleaner <https://www.slimwareutilities.com/slimcleaner.php> all include 
+clean-up routines and utilities to uninstall programs and manage hard drives. 
+Such programs were popular with Windows XP users, but they’re not as useful 
+with Windows 10, unless you need to recover some disk space in a hurry. If so, 
+they’ll delete old logs, cookies, temporary internet files and so on. Just make 
+sure you have backups, that you know all your log-on IDs and passwords, and 
+that you’ve saved your browser tabs with, for example,Session Manager 
+<https://addons.mozilla.org/en-GB/firefox/addon/session-manager/>.
+
+Of the three, I’d pick Revo Uninstaller, but they all need to be used with 
+care.
+
+There’s a long and honourable tradition of messing about with Windows, and 
+some versions have needed it. But the days of Windows 95 and XP have long gone. 
+Windows 10 generally works perfectly well if left to do its thing, and the less 
+tinkering, the better. If it goes badly wrong, you can simplyre-set it 
+<https://support.microsoft.com/en-gb/help/12415/windows-10-recovery-options>.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

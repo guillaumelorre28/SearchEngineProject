@@ -1,0 +1,74 @@
+
+The FBI is investigating a cyber intrusion at the Democratic Congressional 
+Campaign Committee (DCCC) that may be related to anearlier hack at the 
+Democratic National Committee 
+<https://www.theguardian.com/technology/2016/jul/26/dnc-email-leak-russian-hack-guccifer-2>
+, said four sources familiar with the matter on Thursday.
+
+The previously unreported incident at the DCCC, which raises money for 
+Democrats running for seats in the USHouse of Representatives 
+<https://www.theguardian.com/us-news/house-of-representatives>, may have been 
+intended to gather information about donors, rather than to steal money, the 
+sources said.
+
+The breach and its potential ties to Russian hackers are likely to sharpen 
+concern, so far unproven, that Moscow is attempting to meddle in US elections. 
+The issue hasclouded this week’s Democratic national convention 
+<https://www.theguardian.com/us-news/2016/jul/25/debbie-wasserman-schultz-booed-dnc-fbi-email-hack>
+ in Philadelphia.
+
+The DCCC intrusion could have begun as recently as June, two of the sources 
+told Reuters.
+
+That was when a spoof website was registered with a name closely resembling 
+that of a main donation site connected to the DCCC. For some time, internet 
+traffic associated with donations that was supposed to go to a company that 
+processes campaign donations instead went to the spoof site, two sources said.
+
+The sources said the internet protocol address of the spurious site resembled 
+one used by a Russian government-linked hacking group, one of two such groups 
+suspected in the breach of the DNC, the nationwide strategy setting and 
+money-raising body for the Democratic party.
+
+The DCCC had no immediate comment. Donation processing company ActBlue had no 
+immediate comment.
+
+The FBI referred questions to a statement it made on Monday on the DNC hack: 
+“The FBI is investigating a cyber intrusion involving the DNC and are working 
+to determine the nature and scope of the matter. A compromise of this nature is 
+something we take very seriously, and the FBI will continue to investigate and 
+hold accountable those who pose a threat in cyberspace.”
+
+While private cyber experts and the government were aware of the DNC hack 
+months ago, embarrassing emails were leaked last weekend by the WikiLeaks 
+anti-secrecy group just as the party prepared to anoint Hillary Clinton as its 
+presidential candidate for the 8 November election.
+
+The revelation of the DCCC breach is likely to further stoke concerns among 
+Democratic party operatives, many of whom have acknowledged they fear further 
+dumps of hacked files that could harm their candidates. WikiLeaks has said it 
+has more material related to the US election that it intends to release.
+
+The DNC chair, Debbie Wasserman Schultz, resigned after the leaked emails this 
+past weekend showed party leaders favoring Clinton over her rival in the 
+nomination campaign, Senator Bernie Sanders. The committee is supposed to be 
+neutral.
+
+Cybersecurity experts and current US officials, who asked not to be 
+identified, have said there is strong evidence that Russia was responsible for 
+the DNC breach.
+
+The director of national intelligence, James Clapper, said on Thursday the US 
+intelligence community was not ready to “make the call on attribution” as to 
+who was responsible for the DNC hack. The White House said earlier the FBI had 
+not disclosed any information about who was behind the hack.
+
+Clapper, speaking at the Aspen Security Forum, acknowledged that “there’s just 
+a few usual suspects out there” who might be responsible for the cyber 
+intrusion, suggesting it was the work of a state actor rather than an 
+independent hacking group.
+
+Russian officials have dismissed the allegations of Moscow’s involvement. “It 
+is so absurd it borders on total stupidity,” said Kremlin spokesman Dmitry 
+Peskov.
+ 

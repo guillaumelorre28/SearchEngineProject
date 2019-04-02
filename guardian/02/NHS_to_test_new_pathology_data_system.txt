@@ -1,0 +1,86 @@
+
+NHS will soon test the National Laboratory Medicine Catalogue (NLMC) – a 
+unique data set which will standardise the way pathology tests are requested 
+and reported electronically in hospitals, clinics and labs across the UK. It 
+will address a number of quality and patient safety issues in both requesting 
+and reporting, and improve the reliability and effectiveness of pathology 
+services.
+
+NLMC has been developed by pathologists, working under the direction of the 
+Royal College of Pathologists and in collaboration with the Department of 
+Health and NHS Connecting forHealth 
+<https://www.theguardian.com/government-computing-network/health>. It is the 
+first sophisticated system of its kind and size in the world.
+
+Pathology services underpin almost all aspects of clinical care: most 
+decisions on diagnosis or treatment involve pathology investigations and, 
+often, expert interpretation of the results.
+
+It is therefore vital that any laboratory system for transmitting pathology 
+test requests and results does so in a reliable and reproducible way, linked to 
+nationally agreed standards. Such systems also require the capacity to fulfil 
+the needs of the service both in the immediate and longer terms.
+
+Pathology Bounded Code Lists (PBCL) is the current method of transferring 
+electronic messages between clinical laboratories and GP/consultant systems. 
+But it does have its limitations and they are becoming more pronounced as 
+laboratory data needs to be shared more widely between multidisciplinary teams, 
+clinical networks and disease registers (eg cancer).
+
+It also needs to support transfer of data electronically (GP2GP) when patients 
+change their GP. New names, units of measurement and reference ranges for both 
+existing analytes and novel tests and have, over the life of PBCL, confounded 
+what was originally a robust system.
+
+Additionally, the NHS landscape has also moved forward and so the need for 
+information exchange is greater than simply local laboratory to GP.
+
+PBCL needs to evolve in order to enable coding, laboratory processing, as well 
+as reporting, and to do this across all pathology disciplines.
+
+NLMC represents this evolution and provides an opportunity for laboratories to 
+re-think their IT needs in a way that allows interaction with requesting 
+clinicians and advances the wider use of anonymised data for research and 
+service development.
+
+The move to network pathology services to serve the needs of much larger 
+communities is also stimulating the standardisation of methods, codes, units of 
+measurement and reference ranges used to help with result interpretation. We 
+now need greater standardisation in order to manage the way in which different 
+testing methods – all appropriate but sometimes varying — may generate 
+different values for the same sample.
+
+The solution lies in NLMC. Its data model, developed by the Department of 
+Health in conjunction with the Royal College of Pathologists and NHS Connecting 
+for Health, contains uniquely defined pathology test requests and associated 
+report items (analytes, specimens, methods of collection and other information 
+used for laboratory processing). These are validated for use within and by the 
+NHS. .
+
+These standardised and codified test requests and outcome reports cover all 
+NHS pathology specialities.
+
+The process of checking analyte names with codes, sample types, methods of 
+collection, units of measurement and data combination codes for some 3,500 
+items requires the input of a wide range of subspecialists in pathology and 
+that is why the NLMC now needs peer review, prior to gaining approval by the 
+Information Standards Board for uptake by laboratories and system suppliers.
+
+This first release focuses on the requesting of laboratory investigations and 
+will be followed by report items once they have been approved for review by the 
+NLMC governance board hosted by the Royal College of Pathologists.
+
+Pathologists and industry professionals now have an opportunity to test the 
+NLMC as it is rolled out for review next month.
+
+• For further information and to enrol to review the NLMC please contact 
+cfh.nationalcatalogues@nhs.net <mailto:cfh.nationalcatalogues@nhs.net>.
+
+Dr Ian Barnes is the National Clinical Director for Pathology at the 
+Department of Health. Dr Gifford Batstone is the National Clinical Lead for 
+Pathology for NHS Connecting for Health.
+
+This article is published by Guardian Professional. Join the healthcare network
+ <http://reg.guardian.managemyaccount.co.uk/healthcare/start.php> to receive 
+regular emails and exclusive offers.
+ 

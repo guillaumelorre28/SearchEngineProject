@@ -1,0 +1,46 @@
+
+Microsoft <https://www.theguardian.com/technology/microsoft> is set to become 
+the latest tech giant to provide adblocking features for its users, providing 
+further concern for publishers dependent on revenue from online ads.
+
+
+The tech company, according to ZDNet 
+<http://www.zdnet.com/article/microsoft-plans-to-build-ad-blocker-into-its-microsoft-edge-browser/>
+, plans to build adblocking features into its Microsoft Edge browser, which is 
+replacing Internet Explorer.
+
+This move would mean that users of Edge would no longer have to add adblocking 
+extensions such as Adblock Plus to their browsers.
+
+According to Microsoft’s website 200m devices are running Windows 10, which 
+introduced Microsoft Edge.
+
+The move adds to the woes of digital publishers, which in the past year have 
+seen several large technology companies introducing measures making it easier 
+to block ads.
+
+In September, Apple began allowing third-party apps to block ads in its Safari 
+web browser, and Samsung earlier this week began rolling out an update to its 
+smartphone browser that automatically blocks ads.
+
+There was also the controversial announcement by mobile network Three 
+<https://www.theguardian.com/media/2016/feb/19/mobile-operator-three-ad-blocking>
+ that it plans to introduce adblocking across its UK and Italian networks, 
+making it the first European operator to do so.
+
+It said the move was not an attempt to “eliminate” all mobile advertising but 
+merely a move to “give customers more control, choice and greater transparency 
+over what they receive”.
+
+The fifth most popular desktop browser, Opera, recently revealed it is 
+introducing built-in adblocking.
+
+According to ZDNet, Microsoft’s plans were revealed at its Build 16 conference 
+in San Francisco on Wednesday.
+
+It was included on a list on slide from a session titled “Microsoft Edge: 
+what’s next for Microsoft’s new browser and web platform”.
+
+Google, which makes more than 90% of its revenue from internet advertising, 
+has not revealed any plans for in-built adblocking.
+ 

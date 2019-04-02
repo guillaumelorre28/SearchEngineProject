@@ -1,0 +1,157 @@
+
+Aim
+
+"To make provision 
+<http://www.opsi.gov.uk/acts/acts2000/ukpga_20000023_en_1#Legislation-Preamble> 
+for and about the interception of communications, the acquisition and 
+disclosure of data relating to communications, the carrying out of 
+surveillance, the use of covert human intelligence sources and the acquisition 
+of the means by which electronic data protected by encryption or passwords may 
+be decrypted or accessed; to provide for commissioners and a tribunal with 
+functions and jurisdiction in relation to those matters, to entries on and 
+interferences with property or with wireless telegraphy and to the carrying out 
+of their functions by the security service, the Secret Intelligence Service and 
+the Government Communications Headquarters"
+
+Main provisions
+
+• Regulates the circumstances and methods by which public bodies may carry out 
+covert surveillance.
+• Lays out a statutory framework to enable public authorities to carry out 
+covert surveillance in compliance with the requirements of theHuman Rights Act 
+<http://www.guardian.co.uk/commentisfree/libertycentral/2009/jan/14/human-rights-act>
+.
+• Defines five broad categories of covert surveillance: directed surveillance 
+(includes photographing people); intrusive surveillance (includes bugging); the 
+use of covert human intelligence sources (informants and undercover officers, 
+including watching and following people); accessing communications data (record 
+of emails sent, telephone calls made) and intercepting communications (ie 
+reading content of emails, listening to calls).
+• Allows the secretary of state to issue an interception warrant to examine 
+the contents of letters or communications on the grounds of national security, 
+and for the purposes of preventing or detecting crime, preventing disorder, 
+public safety, protecting public health, or in the interests of the economic 
+well-being of the United Kingdom. This is the only part of the act thatrequires 
+a warrant 
+<http://www.opsi.gov.uk/acts/acts2000/plain/ukpga_20000023_en#pt1-ch1-pb1-l1g5>.
+• Prevents the existence of interception warrants, and any and all data 
+collected with them from being revealed in court.
+• Allows the police, intelligence services, HM Revenue and Customs (and 
+several hundred more public bodies, including local authorities and a wide 
+range of regulators) to demand telephone, internet and postal service providers 
+to hand over detailed communications records for individual users. This can 
+include name and address, phone calls made and received, source and destination 
+of emails, internet browsing information and mobile phone positioning data that 
+records user's location. These powers are self-authorised by the body 
+concerned, with no external or judicial oversight.
+• Enables the government to demand that someone hands over keys to protected 
+information; and makes it a criminal offence to refuse to supply actual 
+encrypted traffic or refuse to disclose an encryption key.
+• Enables the government to force internet service providers to fit equipment 
+to facilitate surveillance.
+• Allows the government to demand an ISP provider provide secret access to a 
+customer's communication.
+• Makes provisions to establish an oversight regime, creates an investigatory 
+powers tribunal andappoints three commissioners 
+<http://www.theregister.co.uk/2008/01/29/interception_communications_commissioner/>
+.
+
+Background
+
+The government argued the Regulation of Investigatory Powers Act was essential 
+to allow law agencies to catch up technologically with the increasingly 
+sophisticated tools used by terrorists, drug smugglers and organised criminal 
+gangs.
+
+The act granted public bodies wide-ranging powers to conduct surveillance 
+including intercepting emails, accessing private communications data, and 
+planting and monitoring surveillance devices. The government was keen to push 
+the bill through parliament before the Human Rights Act became law in October 
+2000 in order to ensure that law agencies had a framework for covert 
+surveillance that was compliant with the European convention on human rights.
+
+Jack Straw, home secretary, claimed the bill merely formalised existing 
+powers. "Covert surveillance by police 
+<http://news.bbc.co.uk/1/hi/sci/tech/638041.stm> and other law enforcement 
+officers is as old as policing itself," Straw said. "What is new is that for 
+the first time the use of these techniques will be properly regulated by law."
+
+The most controversial elements of the bill were the lack of oversight for the 
+powers and the government's decision to require ISPs to fit equipment that 
+would allow the police and security services to monitor internet traffic and 
+intercept email.
+
+After peers raised concern about the bill's implications for business and 
+privacy, the government made a series of concessions tightening definitions 
+about the kind of information that police can obtain without a warrant
+
+The bill's lack of detail alarmed members of the House of Lords. Liberal 
+Democrat Lord McNally suggested the general powers the bill granted lacked 
+sufficient safeguards and the bill would "if misused, would certainly infringe 
+on civil liberty".
+
+In response to these fears the government agreed an amendment that required 
+them to have detailed codes of practice approved by resolutions in both houses 
+of parliament.
+
+When the government sought approval for the order related to communication 
+data in 2002, privacy campaigners were dismayed to discover that it proposed
+extending access 
+<http://www.guardian.co.uk/politics/2002/jun/12/security.humanrights> to 
+communications data to hundreds of public bodies including every local 
+authority in the country, fire authorities, Jobcentres, the Gaming Board and 
+the Charity Commission.
+
+Privacy lobbyists were outraged by the proposal, which they nicknamed the 
+"snooper's charter.Simon Davies 
+<http://www.guardian.co.uk/Archive/Article/0,4273,4431109,00.html>, the 
+director of the campaign group Privacy International, said: "The Home Office 
+has absolutelybreached its commitment 
+<http://www.guardian.co.uk/media/2002/jun/11/privacy.politics> that this law 
+would not become a general surveillance power for the government."
+
+The proposed measures were denounced as disproportionate by a cross-party 
+campaign of opposition.
+
+Lord Strathclyde, the Tory leader in the Lords, urged the government to 
+withdraw the draft order. He added: "We support the war on terrorism. We oppose
+district councils and quangos 
+<http://www.telegraph.co.uk/news/uknews/1584808/Council-spy-cases-hit-1%2C000-a-month.html>
+ being given power to survey private communications."
+
+In the face of sustained opposition 
+<http://www.guardian.co.uk/technology/2000/jun/25/internet.comment> the 
+government withdrew the order and presented arevised version 
+<http://www.guardian.co.uk/technology/2003/mar/12/internet.comment> to 
+parliament the following year. The new order restricted the types of 
+information to which public bodies could have access and the reasons they could 
+request such data.
+
+Criticism
+
+Civil liberties groups and privacy campaigners claim the act fails to provide 
+adequate safeguards to protect individual privacy and offers no way for an 
+individual to obtain effective redress if the powers are abused.
+
+When the act was passed in 2000, only nine organisations, including the police 
+and security services, were allowed access to communications records but 
+privacy campaigners say that too many public bodies now have access to the 
+information. In 2007, there were519,260 requisitions 
+<http://www.guardian.co.uk/commentisfree/2008/aug/13/privacy.privacy> of 
+communications data from telephone companies and ISPs.
+
+The nickname "snooper's charter 
+<http://www.guardian.co.uk/politics/2008/jun/05/freedomofinformation>" has 
+clung to the act amid widespread public anxiety about the misuse of these 
+powers. Concern was heightened in June 2008, when 121 councils revealed they 
+had used the legislation during a 12-month period to monitor behaviour by 
+examining the private communications of residents.
+
+James Welch, legal director for Liberty, said: "It's one thing to use covert 
+surveillance in operations investigating terrorism and other serious crimes, 
+but it has come to a pretty pass when this kind of intrusive activity is used 
+to police school catchment areas.
+
+"This is a ridiculously disproportionate use of RIPA and will undermine public 
+trust in necessary and lawful surveillance."
+ 

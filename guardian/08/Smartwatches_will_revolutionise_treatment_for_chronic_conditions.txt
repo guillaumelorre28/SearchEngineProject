@@ -1,0 +1,107 @@
+
+In 2007, editors of Wired magazine coined the phrase "Quantified Self" 
+<http://www.wired.com/tag/quantified-self/>. They predicted a world where 
+people would seek self-knowledge through self-monitoring. That world is now a 
+reality with the advancements in wearable technology, specifically smartwatches 
+and their biosensors. Health and technology are converging to become ubiquitous 
+in patients' and physicians' lives. This intersection of health and technology 
+is changing how long-term chronic conditions can be monitored and treated. 
+Google, Apple, and Samsung are racing to develop devices and platforms that 
+track, aggregate and monitor a wide range of biometrics.
+
+Exponential growth
+
+In 1972, the first digital watch was created; it could store 24 digits – a 
+first in user programmable memory. Today's smartwatches can monitor and store 
+fitness statistics, check vital signs and even remind you to take medication. 
+Smartwatches have explosive potential in the healthcare space thanks to their 
+sensors, ability to sync to mobile health platforms and transmit sensor data to 
+the cloud.Smartwatches <https://www.theguardian.com/technology/smartwatches> 
+will start to go beyond just monitoring and tracking personal wellness and will 
+help to predict and diagnose disease.
+
+According to IMS Research <https://technology.ihs.com/>, the wearables market 
+is poised to grow from 14m devices shipped in 2011 to as many as 171m units 
+shipped by 2016. And in a more recent estimate,ABI Research 
+<https://www.abiresearch.com/> foresees the wearables market at 485m annual 
+devices shipped by 2018.
+
+The urge for wearables and smartwatches is fuelled by the more than 75% of all 
+patients expected to use digital services in the future. And according to 
+McKinsey, it's a myth that only young people want to use digital services. Its 
+research shows that patients from all age groups are willing to use digital 
+services for healthcare.
+
+More specifically, according to BI Intelligence, 35% of consumers are 
+interested in smart sensor-enabled wrist wear and 40% are interested in medical 
+devices that transmit data.
+
+Nikefuel band, fitbit and jawbone were some of the early activity trackers, as 
+well as platform services such as Tictrac that came on the scene to aggregate 
+health data into dashboards for users. The dashboard showcases such information 
+as activity, heart rate and sleep.
+
+The next generation of smartwatches will employ additional technology 
+including the accelerometer, magnetometer, gyroscope, compass, heart-rate 
+monitor, altimeter and an ambient light sensor, to name a few. Inside their 
+wearables,Samsung <https://www.theguardian.com/technology/samsung> and Google 
+are already detecting body temperature as well as location, and integrating 
+voice commands. Apple's vision is to find a way to load more into its new 
+devices and platforms.
+
+Google Fit/Google Wear <https://developers.google.com/fit/>
+
+Google announced and introduced the Google Fit platform at its 2014 Google I/O 
+conference. Its focus is to aggregate health data from wearables, trackers and 
+health apps and put it in one central repository. This data will be aggregated 
+through open APIs which allow sharing of information.Google 
+<https://www.theguardian.com/technology/google> fit may also be built into 
+Android Wear – its operating system for smartwatches.
+
+Apple iWatch/Healthkit <http://www.apple.com/ios/ios8/health/>
+
+All indications point towards Apple 
+<https://www.theguardian.com/technology/apple> putting a huge push behind 
+digital health and the forthcoming iWatch/Healthkit. Analysts are predicting 
+that this could be the next iPhone/iPad. According to MacRumors, the iWatch 
+will deliver an impressive number of advanced health-related capabilities. The 
+iWatch is said to include 10 different sensors to track health and fitness, 
+providing a comprehensive picture of health and making the health-tracking 
+experience far more accessible to the broader population. The iWatch in 
+conjunction with healthkit will aggregate as many as 50 to 60 different 
+biometrics, providing statistical analysis, graphs and trends.
+
+Samsung Simband/Sami <http://vimeo.com/96830740>
+
+Samsung has already invited developers to help to create hardware and software 
+for its new health initiative, the Samsung Simband/Sami. Simband's proof of 
+concept sensors include photo sensing, pulse, EKG and blood data (eg blood 
+oxygen levels and blood flow), respiration, galcinic skin response (GSR) and 
+body temperature. All this information can then be integrated into its 
+cloud-based data platform Sami.
+
+Self-tracking is becoming part of the overall treatment paradigm. Patients are 
+sharing and monitoring health data more than ever before with their clinicians. 
+And the percentage of physicians who report patients sharing their health 
+measurement data has already hit an all-time high. Physicians all around the 
+world are "prescribing" mhealth apps. Similarly, smartwatches will be the 
+natural evolution in patients taking on a more active role with their health 
+and helping physicians to diagnose illness and perhaps even curb chronic 
+conditions through monitoring real-time biometric data. Smartwatches are going 
+to be essential to the future of health and wellness.
+
+Chris Duffey is senior vice president and group creative director at 
+healthcare communications network Sudler & Hennessey
+
+This article is part of the Beveridge Revisited 
+<https://www.theguardian.com/society-professionals/2014/jul/07/-sp-beveridge-report-revisited-where-now-for-the-welfare-state>
+ series from Guardian Society Professionals, revising Sir William Beveridge's 
+five great social evils for the 21st century.Click here to find out what the 
+evils are and read more from the Beveridge Revisited series 
+<https://www.theguardian.com/society-professionals/series/beveridge-revisited-21st-century-evils>
+.
+
+Are you a member of our online community? Join the Healthcare Professionals 
+Network <https://register.theguardian.com/healthcare-professionals/> to receive 
+regular emails and exclusive offers.
+ 

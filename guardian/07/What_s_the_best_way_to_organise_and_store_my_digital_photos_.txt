@@ -1,0 +1,156 @@
+
+I store my photos on a six-year-old MacBook Pro, which still has a traditional 
+hard drive. My next laptop will probably have a 512GB or smaller SSD, so I will 
+need another way to store them. I would like to share a database with my 
+husband, so we can store family and travel photos from phones and cameras. I’m 
+still uncomfortable with the thought of all my family photos being online 
+somewhere, which I accept may be a little illogical as I do use cloud back up 
+for other items.
+
+
+The next part of the question is how best to manage photos. I use iPhoto (now 
+Photos) and briefly looked at Adobe Lightroom, but didn’t really need the pro 
+features for the handful of times I shoot in RAW. However, iPhoto/Photos was/is 
+creaking with the amount of photos I have.Jan
+
+When storing digital photos, aim to have at least three copies of everything, 
+preferably more. Ideally, all three sets of photos should be on different 
+media, and one copy should be “off site”, not in your home.
+
+There are lots of different ways to store photos. These include SD cards, USB 
+thumb drives, DVD or Blu-ray discs, external hard drives, NAS (Network Attached 
+Storage) boxes, and online (cloud) services. It depends how many photos you 
+have, how often you need to access them, and how much you are willing to pay.
+
+The best option for individuals is an external hard drive, connected to your 
+PC via a USB or Thunderbolt port. Powered USB 3 drives are big, fast, 
+reasonably priced, and generally reliable. At the moment, 3TB drives are 
+probably your best bet, but you can choose from 2TB to 5TB drives. It depends 
+on the size of your photo collection, and how fast it’s growing. Estimate how 
+much space you will need in, say, five years.
+
+You will need two external hard drives, so that one provides a backup. What I 
+do is copy all the media files (photos, music, movies etc) on my desktop PC – 
+the master database – to an external hard drive. This is synced to an identical 
+external hard drive viaFreeFileSync <http://freefilesync.sourceforge.net/>, but 
+there are plenty ofalternative programs 
+<http://alternativeto.net/software/freefilesync/>.
+
+This approach has two problems. First, it doesn’t provide an off-site backup. 
+Second, it doesn’t offer a simple way to share photos that are not on the PC.
+
+In your case, the cheapest solution is to buy his-and-hers external hard 
+drives. You copy all your photos to your EHD, your husband copies all his 
+photos to his EHD, and then you sync the two drives. Obviously this must be a 
+two-way sync, so each drive ends up with both sets of photos. (A mirror sync 
+will delete all the photos that are on one drive but not on the other.)
+
+With this system, you will have at least two copies of each photo, and 
+possibly more (if your PC or Time Capsule has copies). Each of you will have 
+easy access to the other’s photos, as long as you’re at home.
+
+Get a NAS
+
+A more flexible, but more expensive, approach is to buy a NAS box. A NAS is 
+basically a small computer with its own processor, memory and operating system. 
+but it’s packaged as an appliance for storing and sharing files.
+
+You could both store all your photos on the NAS, and access them at any time 
+via Wi-Fi. The NAS makes it easy to look at photos on smartphones and tablets 
+as well as on PCs. NAS boxes can be accessed from any operating system 
+including macOS (OS X), iOS, Windows, Android and Linux, and you can access them
+remotely 
+<https://turbofuture.com/computers/How-to-Remotely-connect-to-your-NAS-device>.
+
+NAS boxes are usually supplied without any storage. You can buy a 2-bay, 4-bay 
+or larger NAS and then installsuitable hard drives 
+<https://www.amazon.co.uk/HGST-Deskstar-inch-Internal-Drive/dp/B00HE7HG2C/>. If 
+you run out of space, you can replace the NAS hard drives with larger ones. 
+Look at Synology and QNAP devices to see what you need, and can afford. As a 
+Mac user, you will want AirPlay support.
+
+Set up your NAS to use RAID 1 
+<http://www.thegeekstuff.com/2010/08/raid-levels-tutorial/>, so you have two 
+hard drives installed, and one is a mirror image of the other. This will 
+provide a backup if one hard drive fails. You can also back up the NAS to 
+another external hard drive, which you can store somewhere else. (At your 
+office, a friend’s house, a bank vault or whatever.)
+
+For more information, see my earlier answers: Which NAS should I buy to store 
+files? 
+<https://www.theguardian.com/technology/askjack/2014/mar/07/which-nas-should-i-buy-to-store-files>
+ andHow do I set up a media server to share photos with phones and tablets? 
+<https://www.theguardian.com/technology/askjack/2014/jul/31/how-do-i-set-up-a-media-server-to-share-photos-with-phones-and-tablets>
+
+Cloud backup
+
+Nowadays, it’s easy to get an off-site back up by uploading files to the 
+cloud. For photos, I recommend Flickr, which has been one of the best solutions 
+for a decade. During that time, many other services have disappeared, such as 
+Everpix, or changed the way they work, often for the worse. Flickr lets you 
+share photos if you want, and it also has iPhone and Android apps.
+
+Flickr provides 1TB of free photo storage 
+<https://www.flickr.com/account/upgrade/pro> with photo editing and management 
+tools. Two accounts will provide 2TB.
+
+The best alternative is SmugMug <https://www.smugmug.com/plans/basic>, which 
+provides unlimited storage of photos for $40 a year. SmugMug is aimed at 
+professional photographers, who can set up websites and sell photos and prints 
+online. However, it’s easy enough for anyone to use, and you can 
+password-protect folders, galleries, pages, or your whole site.
+
+There are dozens of cloud services that don’t specialise in hosting images. 
+There are also online backup services that will back up whole hard drives, 
+including Backblaze, CrashPlan, Carbonite, and Mozy. I don’t have the space to 
+go into all of them here. However, there are significant differences between 
+sites that are serious about storing original photos online, and sites that 
+just store files.
+
+Photo organisers
+
+The major task is to organise all your photos in one folder called Photos or 
+something similar, so you can back them up. It’s easiest to store images in the 
+sub-folders that were created in the camera. However, I suggest you open 
+folders for each year (2013, 2014, 2015 etc) and then sub-folders for each 
+month or each quarter. After that, you can have topic folders, such as Vienna 
+trip, or Alice’s wedding, with a General folder for the leftovers.
+
+You can also have separate folders for topics such as holidays or weddings, 
+which you remember by name rather than by year. I have separate folders for 
+family photos, which would otherwise be widely dispersed across the past decade.
+
+Once you have a logical, expandable structure in place, you can use software 
+to catalogue your photos and make individual pictures easier to find.
+
+There are dozens of photo organizers 
+<http://alternativeto.net/software/adobe-lightroom/>, but I recommend Adobe 
+Lightroom 
+<https://www.amazon.co.uk/Adobe-Photoshop-Lightroom-PC-Mac/dp/B00M3YAIC6>. Most 
+people see it as a way of processing images, and it’s very good at that. It’s 
+also a great way to organise the photos on your hard drive. You can sort them 
+using EXIF data, move them into new folders, and rename them easily. See, for 
+example,How to Organize Photos in Lightroom 
+<https://photographylife.com/how-to-organize-photos-in-lightroom>, and the 
+YouTube video,Image Management in Lightroom 
+<https://www.youtube.com/watch?v=dBhVvU8ZD4w>.
+
+Lightroom is ubiquitous in serious photographic circles so there are dozens of 
+tips andtutorials <https://helpx.adobe.com/lightroom/tutorials.html>, it can 
+handle professional work volumes in a professional way, and – unlikeApple’s 
+Aperture 
+<https://techcrunch.com/2014/06/27/apple-to-cease-development-of-aperture-and-transition-users-to-photos-for-os-x/>
+ – it’s not going to be abandoned. It’s very reasonably priced by Adobe 
+standards, and you can buy a standalone version without signing up for Adobe’s 
+Creative Cloud.Adobe Elements 
+<https://www.amazon.co.uk/Adobe-Photoshop-Elements-14-Mac/dp/B013UNN9N8/> is a 
+cheaper alternative
+
+Mylio <http://mylio.com/> (from “My life is organised”) is a different sort of 
+alternative: it catalogues and organises photos wherever they happen to be 
+stored, whether on PCs, smartphones, or online services. But for long-term 
+backup purposes, it’s better to do the work up front and consolidate your 
+photos in one place.
+
+Have you got a question? Email it to Ask.Jack@theguardian.com
+ 

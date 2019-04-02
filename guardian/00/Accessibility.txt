@@ -1,0 +1,26 @@
+
+This site uses the same content management system as Guardian.co.uk, and 
+shares several of that site's accessibility features.
+
+Text resizing
+
+This can be activated through the 'Text larger / smaller' links at the top of 
+the page. When the text size reaches 20px a new wide layout is triggered 
+ensuring that the layout is not compromised. (Please note, our text resizing 
+feature is dependent on javascript being turned on.)
+
+Where our text resizing feature is not available, you can achieve the same 
+result independently by following these instructions:
+
+• PC / Internet Explorer 6 From the top menu bar, select View and point to 
+Text size
+
+• PC / Internet Explorer 7 From the menu bar underneath the search field, 
+select Page and point to Text size
+
+• PC / other browsers Increase text size: Hold down the CTRL key and press + 
+Decrease text size: Hold down the CTRL key and press -
+
+• Mac / all browsers Increase text size: Hold down the Command key and press + 
+Decrease text size: Hold down the Command key and press -
+ 

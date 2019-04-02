@@ -1,0 +1,112 @@
+
+A quick burst of 10 links for you to chew over, as picked by the Technology 
+team
+
+A weekend at work with an iPad >> The 23x blog 
+<http://blog.23x.net/766/a-weekend-at-work-with-an-ipad.html>
+
+
+Jared Earle: "Could I recommend that other photographers ditch the laptop for 
+an iPad? I think so, as long as they have a workstation at home for the 
+post-event editing. The iPad cannot replace a computer, but it can lighten the 
+load while photographing al fresco, and that means more space for bigger lenses 
+in the camera bag."
+
+Pincus Faceoff With Zuckerberg Shows Fearsome Prelude to Zynga's IPO >> 
+Bloomberg 
+<http://www.bloomberg.com/news/2011-12-11/pincus-faceoff-with-zuckerberg-shows-fearsome-prelude-to-zynga-s-ipo-tech.html>
+
+
+A profile of Zynga chief Mark Pincus
+
+No Copyright Intended >> Waxy.org 
+<http://waxy.org/2011/12/no_copyright_intended/>
+
+
+"How pervasive is it? There are about 489,000 YouTube videos that say "no 
+copyright intended" or some variation, and about 664,000 videos have a 
+"copyright disclaimer" citing the fair use provision in Section 107 of the 
+Copyright Act."
+
+Amazon Kindle Fire Faces Critics and Remedies Are Promised >> NYTimes.com 
+<http://www.nytimes.com/2011/12/12/technology/personaltech/amazons-fire-some-say-may-become-the-edsel-of-tablets.html?_r=1&pagewanted=all>
+
+
+"A few of their many complaints: there is no external volume control. The off 
+switch is easy to hit by accident. Web pages take a long time to load. There is 
+no privacy on the device; a spouse or child who picks it up will instantly know 
+everything you have been doing. The touch screen is frequently hesitant and 
+sometimes downright balky"
+
+Is Apple using patents to hurt open standards? >> Ars Technica 
+<http://arstechnica.com/tech-policy/news/2011/12/is-apple-is-using-patents-to-hurt-open-standards.ars>
+
+
+"Haavard identifies three separate occasions, twice in 2009, and again in 
+2011, where Apple has disclosed patents and not offered royalty-free licensing. 
+In the first 2009 patent claim, Apple said that it had a patent covering W3C's 
+"widget" specification. A PAG [Patent Action Group] was formed, and determined 
+that Apple's patent was not relevant. In the second 2009 claim, Apple claimed 
+to have two patents covering W3C's widget security specification. A PAG was 
+again formed. It decided that one patent was not relevant, and the other didn't 
+apply. With both 2009 claims, Apple waited until the last minute to disclose 
+its patents." But how many PAGs are in progress, or have been convened? That's 
+what is unclear, and slides past whether this is bad behaviour, or quite normal.
+
+Asus puts delay rumor to rest, confirms Transformer Prime is on schedule >> 
+SlashGear 
+<http://www.slashgear.com/asus-puts-delay-rumor-to-rest-confirms-transformer-prime-is-on-schedule-10201473/>
+
+
+"Apparently online retailer NCIX sold out of the Prime and after canceling 
+multiple orders a few rumors came out that their response was ASUS had delayed 
+the hotly anticipated tablet due to WiFi issues. Here at SlashGear we've 
+already had extensive time with the Prime and you can see our in-depth review 
+here. At no point did our unit experience any WiFi issues. After reaching out 
+to our sources from ASUS here is what they had to say in response:" ...that 
+it's on schedule. Suggestions that it had been delayed because of Wi-Fi issues 
+are being squelched.
+
+Indonesian government threatens to ban BlackBerry services if it can't spy on 
+users >> Engadget 
+<http://www.engadget.com/2011/12/11/indonesian-government-threatens-to-ban-blackberry-services-if-it/>
+
+
+We feel that we've heard this story before in a slightly different context. 
+What if the Egyptian or Syrian government were to demand it? Would that be 
+different?
+
+Tech Company War Propaganda Posters >> Laughing Squid 
+<http://laughingsquid.com/tech-company-war-propaganda-posters/>
+
+
+Splendid execution. Notice: no Microsoft.
+
+HP tosses WebOS out of frying pan into the open-source fire >> CNET News 
+<http://news.cnet.com/8301-30685_3-57340499-264/hp-tosses-webos-out-of-frying-pan-into-the-open-source-fire/>
+
+
+Really smart analysis by Stephen Shankland. Lists all those open-sourced OSs 
+and projects you'd forgotten about. Why had you forgotten about them? One guess.
+
+Why developers need a Mac >> Tim Anderson's ITWriting 
+<http://www.itwriting.com/blog/5164-why-developers-need-a-mac.html>
+
+
+Tim Anderson is a very experienced Windows user: "Fourth, and this is the most 
+difficult point to make, it is valuable to spend some time on a Mac to avoid 
+bad assumptions about usability. One example that comes to mind is version 
+control. On Windows there is no problem using Git, or Subversion, or any number 
+of systems including Microsoft's Team Foundation Server installed either 
+locally or on its own server. There is some setup involved though. On a Mac 
+with the latest Xcode, you will find a checkbox in the new project wizard. "It 
+is built-in. There is nothing more to do other than check [a] box. And yes, I 
+know it is pretty easy to use Subversion or Git on Windows - though I would 
+never describe a Team Foundation setup as trivial - but I am talking about the 
+usability of a single checkbox. If you are thinking about the design of your 
+own UI then spending some time on a Mac is though-provoking and likely to be 
+beneficial."
+
+You can follow Guardian Technology's linkbucket on delicious 
+<http://delicious.com/guardianista>
+ 

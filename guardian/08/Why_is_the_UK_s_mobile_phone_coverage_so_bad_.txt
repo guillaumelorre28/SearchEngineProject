@@ -1,0 +1,89 @@
+
+Is the UK’s 4G mobile phone coverage really worse than Romania, Albania and 
+Peru, as a report suggested last week?
+Yes and no. The report by the National Infrastructure Commission 
+<https://www.theguardian.com/money/2016/dec/14/uk-4g-coverage-worse-than-in-romania-and-peru-watchdog-finds>
+ used data on how much of the time a person’s mobile is connected to 4G. On 
+that measure, the UK scores worse than 53 countries, many of which we might 
+expect to have far worse mobile networks – not just Romania, Albania and Peru, 
+but also Georgia, Latvia and Mexico. UK phones were connected to 4G barely half 
+the time.
+
+But the rankings didn’t measure geographical coverage, ie where you can get a 
+signal, or speeds, which will vary even on a solid 4G connection. According to 
+the same researchers who produced the data on availability, the UK ranks 29th 
+globally for average speed, and in terms of4G 
+<https://www.theguardian.com/technology/4g> coverage of where people live and 
+work, in 2015 Ofcom put the UK ahead of all the EU’s largest economies except 
+Germany.
+
+So is there actually a problem?
+Yes, because people are still spending a lot of time unable to get fast 
+internet connections. The full NIC report cited figures showing that around 20% 
+of buildings in cities and towns, and almost 80% of those in rural areas, don’t 
+have 4G. Roads are also often “digital deserts”, with just 8% of A and B roads 
+fully covered, and almost half having none at all.
+
+Why isn’t the UK better at making sure I can get a good signal?
+The report cites the UK’s comparatively late auction of the 4G spectrum – 
+whereby mobile operators and networks bid for space on the airwaves used to 
+carry calls, texts and data – as one of the reasons coverage isn’t up to 
+scratch. While the US held its auction in 2008, the UK took until 2013 (though 
+EE was allowed, controversially, to repurpose some of its spectrum earlier). 
+One explanation for the delay was that the spectrum up for sale was previously 
+in use by analogue TV services, which weren’t fully switched off until 2012.
+
+But while this did delay the 4G rollout, there are a range of other factors 
+that have held back better coverage. The type of frequency band within the 
+spectrum the operators have, and how they use it, is one. Lower-frequency 
+bands, particularly under 1GHz, travel further and are better at penetrating 
+buildings, while higher-frequency bands carry more data. The ideal situation 
+for any mobile phone company (and its customers) is to have a range of bands so 
+it can provide both wide coverage and fast speeds. However, the UK government 
+has been criticised for not doing enough to make sure each operator got a large 
+slice of lower-frequency bands.
+
+So all we need to do is shift some frequency bands around?
+Unfortunately not, because the other big issue for improving coverage is even 
+more thorny – the UK’s planning laws.
+
+The closer to a mobile mast you are, the better and more reliable your 
+connection, and the more masts an operator has, the better the coverage they 
+can offer. But rules such as how high a mast can be, and where it can be built, 
+make life difficult for operators and the companies they pay to manage their 
+network.
+
+Add in local concerns about the (unproven) health impacts of living near a 
+mast, and occasionally belligerent landowners charging fees for access or 
+denying it altogether, and the process of putting up more masts can be lengthy 
+and costly.
+
+Will 5G solve the problem?
+Not really. 5G, which will be rolled out after 2020, will make mobile data 
+connections faster – probably much faster. But similar limitations imposed by 
+what frequency bands it travels over, and where the masts are, will apply. As 
+the NIC’s chair, Andrew Adonis, said about the 5G rollout when the report was 
+released, “none of this will matter unless we bring our mobile network up to 
+speed”.
+
+UK 4G coverage is worse than in Peru. We need a minister for the internet | 
+Charles Arthur
+ Read more  
+<https://www.theguardian.com/commentisfree/2016/dec/14/poor-mobile-4g-coverage-peru-minister-internet-government>
+So what needs to be done to make sure I get better mobile signal?
+Things are already set to improve in coming years. More of the low-frequency 
+spectrum that is good at providing wider coverage is being used, and the EU’s 
+recent freeing up of some of the 700MHz band currently used for digital TV is 
+likely to help further.
+
+Ofcom has set a target that all indoor premises will have more than 98% 4G 
+coverage by end of 2017, from at least one mobile network (though there are 
+doubts about whether that will be achieved), and the NIC has recommended 
+universal service obligation for operators for no later than 2025. How Ofcom 
+handles the 5G auction, and the distribution of frequency bands, could also 
+make a difference.
+
+Planning issues are likely to be tougher to deal with and in some cases that 
+will mean people deciding which they value more, the video on their smartphone 
+or the view out of their window.
+ 

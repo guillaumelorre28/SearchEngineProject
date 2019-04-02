@@ -1,0 +1,101 @@
+
+No doubt nearly everyone is familiar with the story 
+<https://www.theguardian.com/world/malaysia-airlines-flight-mh370>. In early 
+2014, Malaysian flight MH370 left Kuala Lumpur Malaysia, on a flight to China. 
+The flight disappeared from communication and was never found; despite great 
+search efforts.
+
+It isn’t that there is no evidence of the crash. In July of last year, a 
+portion of a wing was found near Madagascar and Reunion Island in the Indian 
+Ocean. Since then, other debris has been found in the Western Indian Ocean.
+
+Using the location of where the wing debris were found, oceanographers from 
+University of Santiago de Compostela (Spain), the United States National 
+Oceanographic and Atmospheric Administration (NOAA), the University of Miami, 
+University of Hawaii, and the Commonwealth Science Industrial and Research 
+Organization (CSIRO) in Australia have a lead. Their hypothesis is published in 
+the Journal of Operational Oceanography and can be foundhere 
+<http://www.tandfonline.com/doi/full/10.1080/1755876X.2016.1248149>.
+
+The authors used two sets of data to help track the possible paths of the 
+debris. First, they took advantage of observations from NOAA’sGlobal Drifter 
+Array <http://www.aoml.noaa.gov/phod/dac/index.php>. These drifters have a 
+surface float and an anchor or drogue that extend to 15m deep, and a suite of 
+sensors that communicate via satellite their location and parameters like ocean 
+currents, surface ocean temperature, pressure, wind, and salinity. In the 
+Indian Ocean alone, there are approximately 400 of these drifters at any time, 
+providing continuous ocean measurement information. At some point the drifters 
+loose their drogue and these are the ones used in this study as they better 
+simulate debris dynamics.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fdec%2F14%2Foceanographers-offer-clues-to-malaysian-airlines-crash%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F6bf9fef7e1c4b8d63877b05ad7515928e3b0581a%2F0_0_1200_1000%2F1200.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Oceanographers%20offer%20clues%20to%20Malaysian%20airlines%20crash%20%7C%20John%20Abraham&url=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fdec%2F14%2Foceanographers-offer-clues-to-malaysian-airlines-crash%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Oceanographers%20offer%20clues%20to%20Malaysian%20airlines%20crash%20%7C%20John%20Abraham&url=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fdec%2F14%2Foceanographers-offer-clues-to-malaysian-airlines-crash%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F6bf9fef7e1c4b8d63877b05ad7515928e3b0581a%2F0_0_1200_1000%2F1200.jpg>
+ Deployment of a drifter. Photograph: NOAA 
+The authors tracked drifters that were released or that traveled near the 
+search area in the southeastern Indian Ocean. Several of these drifters 
+traveled across the Indian Ocean to the final destination near Reunion Island, 
+very near where the wing debris was found, and the duration it took the 
+drifters to make their trek was similar to that of the debris.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fdec%2F14%2Foceanographers-offer-clues-to-malaysian-airlines-crash%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F35e3e4b102f29cd7436b08cb6fc05cf248d64c62%2F0_0_679_891%2F679.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Oceanographers%20offer%20clues%20to%20Malaysian%20airlines%20crash%20%7C%20John%20Abraham&url=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fdec%2F14%2Foceanographers-offer-clues-to-malaysian-airlines-crash%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Oceanographers%20offer%20clues%20to%20Malaysian%20airlines%20crash%20%7C%20John%20Abraham&url=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fdec%2F14%2Foceanographers-offer-clues-to-malaysian-airlines-crash%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F35e3e4b102f29cd7436b08cb6fc05cf248d64c62%2F0_0_679_891%2F679.jpg>
+ Diagram of a drifter. Illustration: NOAA 
+In addition, the authors used a computer model of ocean currents from the 
+University of Hawaii <http://apdrc.soest.hawaii.edu/projects/SCUD/>. This model 
+incorporated the surface ocean winds and provided a realistic simulation of 
+ocean currents during and after the plane crash. Using these computer-derived 
+currents, the scientists released thousands of replica drifters to see where 
+they traveled.
+
+By combining the real trajectories from actual instruments with the simulated 
+trajectories, scientists were able to identify the location where a crash was 
+most likely, shown in the image below.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fdec%2F14%2Foceanographers-offer-clues-to-malaysian-airlines-crash%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fb5487b15a95252c0fc000eeb24dfb1991d342847%2F0_0_757_285%2F757.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Oceanographers%20offer%20clues%20to%20Malaysian%20airlines%20crash%20%7C%20John%20Abraham&url=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fdec%2F14%2Foceanographers-offer-clues-to-malaysian-airlines-crash%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Oceanographers%20offer%20clues%20to%20Malaysian%20airlines%20crash%20%7C%20John%20Abraham&url=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fdec%2F14%2Foceanographers-offer-clues-to-malaysian-airlines-crash%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2Fb5487b15a95252c0fc000eeb24dfb1991d342847%2F0_0_757_285%2F757.jpg>
+ Trajectories calculated from computer simulations. Illustration: NOAA 
+More recent debris discoveries confirm the general westward drift predictions 
+from the computer program and analysis. While the assessments from this study 
+are interesting in that they are related to the MH370 accident, the techniques 
+that the researchers developed can be used for other ocean-debris scenarios and 
+are useful both for basic research as well as more tangible applications for 
+societal benefits, such as search and rescue efforts, oil spills, and fish 
+larval transports.
+
+I contacted author Joaquin Trinanes to ask about the difficulties of this 
+project and its importance. He told me:
+
+There are many factors that affect the trajectories and distribution of ocean 
+debris. A critical aspect is related to the exposure of the floating objects to 
+the wind, which can greatly impact the forecast of the location of the debris. 
+It is challenging to solve but imperative with the advance in the developments 
+of the observational and modeling efforts.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fdec%2F14%2Foceanographers-offer-clues-to-malaysian-airlines-crash%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2F011a031bb15d1ca992b3775b523704a3deaa4e59%2F0_0_2910_3424%2F2910.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Oceanographers%20offer%20clues%20to%20Malaysian%20airlines%20crash%20%7C%20John%20Abraham&url=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fdec%2F14%2Foceanographers-offer-clues-to-malaysian-airlines-crash%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Oceanographers%20offer%20clues%20to%20Malaysian%20airlines%20crash%20%7C%20John%20Abraham&url=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fdec%2F14%2Foceanographers-offer-clues-to-malaysian-airlines-crash%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2F011a031bb15d1ca992b3775b523704a3deaa4e59%2F0_0_2910_3424%2F2910.jpg>
+ Dr. Joaquin Trinanes 
+His colleague, Gustavo Goni added, 
+
+Studies like the one carried out here shows the value of maintaining a global 
+ocean observing system to monitor different parameters in the oceans, such as 
+ocean currents in this case, but of others like sea surface temperature, winds, 
+salinity, oxygen, etc.; which are key to understand how the ocean is linked to 
+weather, climate, and ecosystems. In addition, this monitoring also serves for 
+other direct applications, such as debris tracking, oil spill monitoring, 
+fisheries stock assessments, sea level rise, etc.
+
+I think it is really great to solve a basic research problem but also to 
+connect it to practical applications. Great work, folks.
+ 

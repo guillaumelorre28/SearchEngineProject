@@ -1,0 +1,166 @@
+
+A quick burst of 9 links for you to chew over, as picked by the Technology team
+
+I used a Samsung Chromebook for two weeks - here's what I learned >> CITEworld 
+<http://www.citeworld.com/cloud/21300/samsung-chromebook-review?page=0>
+
+Ron Miller: 
+
+The machine is ideally suited to someone who uses a lot of Google 
+<https://www.theguardian.com/technology/google> services, which I do, so from 
+that perspective it's a good choice for me. But you can use any cloud-based or 
+browser-based app that works in Chrome. I have to say there are aspects of this 
+diminutive laptop that I've really enjoyed, but the drawbacks were so many, and 
+the hardware so cheap, and I can't see buying one of these as constructed.
+
+ The lightness and price are a plus; not being able to create a new 
+spreadsheet or presentation while offline isn't.
+
+How Anonymous got Westboro to back off Aaron Swartz's funeral >> The Atlantic 
+Wire 
+<http://www.theatlanticwire.com/national/2013/01/anonymous-westboro-baptist-church-aaron-swartz-funeral/61036/>
+
+The story doesn't really explain how it did, or why Westboro backed off; only 
+that it did. But the conclusion makes a good point:
+
+As we've seen with the ongoing impact 
+<http://www.theatlanticwire.com/national/2013/01/local-leaks-steubenville-files/60720/>
+ of their involvement in the Steubenville rape case 
+<http://www.theatlanticwire.com/national/2013/01/inside-anonymous-hacking-file-steubenville-rape-crew/60502/>
+, Anonymous in 2013 is transforming from notorious to notable, and more than 
+just the hacker community or close watchers of online controversies are 
+starting to take notice on a wider scale. Perhaps Westboro didn't want to deal 
+with that, especially after their plans to picket the death of some of the 
+children murdered in Newtown, led to the hacking of Westboro spokesperson 
+Shirley Phelps Roper's Twitter feed theleaking 
+<http://www.theatlanticwire.com/national/2012/12/anonymous-hack-westboro-makes-its-leaders-look-nice-people-again/60061/>
+ of personal information of its members. When Anonymous wins 
+<http://www.theatlanticwire.com/technology/2012/12/twitter-suspends-anonymous-account-over-post-newtown-hack-westboro/60172/>
+, it seems, their enemies just keep losing.
+
+Apple's New Reality >> LinkedIn 
+<http://www.linkedin.com/today/post/article/20130115152801-29478030-apple-s-new-reality>
+
+Herb Greenberg: 
+
+My bottom line: As good as the iPhone is, the average consumer always wants 
+something new and better. They don't just want the same car after three years. 
+It had better look different or have better features inside. It's human nature. 
+Phones and computers are at that point now. And what's hot, especially with 
+teens and 20-somethings/trendsetters, can go old - no matter how good it is. 
+Apple's saving grace is that it has created an eco-system of iMessage, music 
+and photos that some people may be loathe to give up. Personally, I believe 
+we're at a point that phone and computers are reaching the point of flat-screen 
+TVs and old landline phones: Appliances that, for all but early adopters, we 
+will increasingly keep longer than we used to. The moral of the story for 
+Apple: As great as it may be, it's still merely mortal.
+
+Post Office wants to get to bottom of IT system allegations >> Computer Weekly 
+<http://www.computerweekly.com/news/2240176122/Post-Office-wants-to-get-to-bottom-of-IT-system-allegations>
+
+A troublesome IT system that set out to modernise the Post Office in 1996 is 
+under the spotlight as the Post Office investigates claims that its Horizon 
+accounting system is error prone.
+
+ Over the years, dozens of postmasters have been charged and even jailed for 
+accounting shortfalls, while others have had to make up cash discrepancies 
+following prosecutions (see case studies below).
+
+ Despite years of allegations that the Horizon system - which was developed by 
+ICL/Fujitsu Services - is at fault for many accounting shortfalls, the Post 
+Office has unrelentingly defended it.
+
+ Troubling.
+
+Stats: Twitter's relationship with TV revealed >> Econsultancy 
+<http://econsultancy.com/uk/blog/61871-stats-twitter-s-relationship-with-tv-revealed>
+
+There are more than 10m Twitter users in the UK, of which 80% access the 
+platform using a mobile device.
+
+ 60% of Twitter users access the social network while watching TV.
+
+ 40% of all UK Twitter traffic around peak time is about TV.
+
+ More than 90% of online public conversations about TV are on Twitter.
+
+ Includes graphs showing relevant tweets about Homeland, and X Factor, and 
+other shows. The tweets around Homeland follow a bathtub shape - start and end, 
+almost silent in between. X-Factor, everyone's shouting all the time.
+
+Google flags ad network isocket for alleged malware; Chrome blocks TechCrunch, 
+Cult of Mac, others (Updated) >> The Next Web 
+<http://thenextweb.com/google/2013/01/15/google-flags-ad-network-isocket-for-alleged-malware-chrome-blocks-techcrunch-cult-of-mac-others/>
+
+Google blocked Chrome and Firefox users who were headed over to a number of 
+big sites, including Techcrunch. The denouement:
+
+"So far we have zero indications of malware actually being distributed by our 
+ad server, and zero traces of any breaches to our industry-standard security," 
+isocket Founder & CEO John Ramey told TNW in a statement. "Google's malware 
+system is often contradictory and prone to false positives that inappropriately 
+cripple good websites. We are vigorously investigating what the issue may have 
+been and trying to get our publishers back online. It'd be nice if Google was 
+as quick to fix a false positive as they were to cripple good businesses."
+
+Here's why Surface Pro is less portable than an Ultrabook >> ZDNet 
+<http://www.zdnet.com/heres-why-surface-pro-is-less-portable-than-an-ultrabook-7000009890/>
+
+Matthew Bater-Reynolds points out that the Surface Pro, even though it runs 
+full-fat Windows 8, points out that its design - heavy screen, light keyboard, 
+stand stuck out the back. And then he looks at some use cases for that. They 
+aren't promising. He sums up:
+
+So at this point we have:
+
+ - Surface on a desk. Fine (but the screen is too small).
+
+ - Surface on a lap. If you're under 5'7", you will likely not be able to fit 
+it on your lap. And if you are 5'7" or over, it really is a case of proactively 
+balancing with a much higher risk of it falling to the ground than a laptop.
+
+ - Surface on a plane or train table. Your mileage may vary, but it's likely 
+to be much less usable than an Ultrabook with a similarly-sized screen.
+
+ The benefits of the detachable keyboard on the Surface Pro might be 
+outweighed by the problem of actually using it. Any Surface owners able to 
+comment?
+
+Samsung smartphones gaining momentum while iPhone has levelled off >> Forbes 
+<http://www.forbes.com/sites/chuckjones/2013/01/16/samsung-smartphones-gaining-momentum-while-iphone-has-leveled-off/>
+
+Chuck Jones, on a US-based survey: 
+
+While Apple <https://www.theguardian.com/technology/apple> still has almost a 
+2.5x higher purchase intention vs. Samsung (50% vs. 21%) Samsung's result was 
+even greater in the December quarter than the June quarter when the Galaxy SIII 
+became available (21% vs. 19%). Also the percentage of people who are planning 
+on purchasing Samsung has increased over 4x from just 5% in the September 2011 
+quarter to 21% in the December 2012 quarter.
+
+ The more worrying thing, as he points out, is that when you combine the 
+intent to buy an Apple or Samsung handset, it's around 70% - which doesn't 
+leave much room for HTC, Motorola, RIM or Nokia to make any money. (Thanks 
+@rquick for the link.)
+
+Google sends invites for first Project Glass hackathons, coming January and 
+February >> The Next Web 
+<http://thenextweb.com/google/2013/01/16/google-sends-invites-for-first-two-project-glass-hackathons-coming-in-january-and-february/>
+
+They're being held in San Francisco (natch) and New York: 
+
+Both events will include an introduction to the Glass product, the Mirror API 
+and development, with a host of Google engineers present to help out with 
+questions and details as the developers get to work building things. The second 
+days will include demos and as-yet-unnamed guest judges will make appearances.
+
+ While developers won't be given a Project Glass device free of charge, they 
+will get one to play with while they are at the events, Google's invitation 
+explains.
+
+ Wearable is going to be big. (Thanks @modelportfolio2003 for the link.)
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/u:guardiantech>. To suggest a link, either add it below or 
+tag it with @gdntech on the freeDelicious <http://www.delicious.com/> service.
+ 

@@ -1,0 +1,162 @@
+
+Download size
+
+How much data do I need to download to install Windows 10 
+<https://www.theguardian.com/technology/windows-10>? Brian
+
+The download size depends on the version and varies from PC to PC. Windows 10 
+Home is currently around 2.6GB, but 3GB is a good round number. Updates, 
+patches and apps will add to that.
+
+Time taken
+
+How long does the upgrade take to install? G James
+
+It depends on the version, the speed of the PC and, especially, the speed of 
+the hard disk or SSD (solid state drive). It may take from 30 to 90 minutes, 
+but typically it takes about an hour.
+
+Saving files
+
+When Windows 10 is installed, will it keep everything I have in Windows 7 or 
+do I need to make a backup disk? Bryan
+
+Almost all your old files and downloads will remain in place, unless something 
+goes wrong. For that reason, you should backup your files to DVD or an external 
+USB hard drive. (You should make a backup even if you don’t move to Windows 
+10.) Otherwise, see my earlier answer:How should I prepare my PC for the 
+upgrade to Windows 10? 
+<https://www.theguardian.com/technology/askjack/2016/may/05/how-should-i-prepare-my-pc-for-the-upgrade-to-windows-10>
+
+I said “almost all” because some Windows features will be removed: see Feature 
+deprecation 
+<https://www.microsoft.com/en-us/windows/windows-10-specifications#featdep> for 
+full details. Also note that “Windows Media Center” is a completely different 
+program from Windows Media Player, and the Media Player is not removed. (You 
+probably don’t know what Windows Media Center does, and hardly anyone used it.)
+
+Direct downloads
+
+I reserved Windows 10 ages ago, and I received an email with a link to 
+upgrade. The upgrade button does absolutely nothing. Where do I go from here, 
+please? Cary
+
+Go to the Windows 10 Upgrade page 
+<https://www.microsoft.com/en-gb/windows/windows-10-upgrade> and click the 
+button that says “Download now”. It should upgrade your Windows 7 to Windows 
+10. If not, see the next answer....
+
+Direct upgrades
+
+Can I install Windows 10 from an ISO using a Windows 7 product key? I lost 
+Windows 7 when my hard disk failed. James
+
+Yes, that should work. At launch, Windows 10 did not recognise old product 
+keys, but it does now.
+
+You can download a “media creation tool” and an ISO 
+<https://en.wikipedia.org/wiki/ISO_image> of Windows 10 and install it from a 
+DVD or USB device.Start here 
+<https://www.microsoft.com/en-gb/software-download/windows10>.
+
+Activation keys
+
+I got the free upgrade of Windows 10, but I did not get an activation key. Cora
+
+Windows 10 does not use individual activation or product keys. When you 
+install Windows 10, Microsoft creates a hash from your hardware and stores the 
+number online. Your PC should activate automatically when you connect to the 
+internet.
+
+Try again
+
+I installed the Windows 10 upgrade and reverted to Windows 7 after a brief 
+period. Can I install it on my computer again? papawnana
+
+When you upgraded, Microsoft stored your PC’s hash code on its activation 
+server. You can now upgrade to Windows 10 whenever you like, even after the 
+free upgrade offer ends.
+
+Saving emails
+
+I upgraded a few months ago and all my Outlook emails were gone, so I reverted 
+back. Now it appears to make sense to move forward with upgrading to Windows 
+10. Any suggestions on backing up the emails properly? Josh
+
+You can back up your emails by finding the Mail app’s folder and copying the 
+contents to an external hard drive or USB thumb drive, then copying them back 
+later if necessary. The folder is hidden so you will have to change the View 
+option toshow hidden files and folders 
+<http://windows.microsoft.com/en-us/windows/show-hidden-files>.
+
+If a search doesn’t find Mail, you will have to dig for it by going to the 
+Users folder, your user name, and then Appdata etc. The full address will 
+include some unique random names, for security, but it will be something like 
+C:\Users\Username\Appdata\Local\packages\microsoft.Windowscommunicationsapps\Localstate\Indexed\Livecomm\randomname\randomname\Mail
+
+The same approach will work with emails saved by the Windows Live Mail program.
+
+Note that are different types of email service. If you are using a POP3 (Post 
+Office Protocol) service then emails are downloaded to your PC and deleted from 
+the server. If you are using an IMAP (Internet Message Access Protocol) 
+service, the emails are retained on the server, so you can download them again.
+
+Whither Vista?
+
+I have an HP Compaq 6720 running Windows Vista Business. Is there a free 
+upgrade to a newer operating system such as Windows 7 or 10 or even something 
+else? Miguel
+
+Sorry, you cannot upgrade directly from Windows Vista to Windows 10, even if 
+you pay. You can, however, install a free alternative in the form of, for 
+example,Linux Mint 17.3 <https://www.linuxmint.com/download.php>. However, 
+Linux does not run popular Windows software including Microsoft Office, Adobe 
+Photoshop and Lightroom, Apple iTunes,most games and so on.
+
+If you want to continue with Windows, you will have to upgrade to Windows 7 
+first, then to Windows 10 before July 29. Unfortunately, you missed the chance 
+to buy a cheap upgrade but you can shop around for deals on Windows 7. 
+Otherwise, see my earlier answer:When and how should I upgrade my old Windows 
+Vista laptop? 
+<https://www.theguardian.com/technology/askjack/2016/jan/07/when-and-how-should-i-upgrade-my-old-windows-vista-laptop>
+
+There is no guarantee that Windows 10 will work on an old PC, so search the 
+web for your specific make and model to see how others have fared. A quick look 
+suggests you should be OK.
+
+Enterprise problems
+
+I am currently running Windows 7 Enterprise and would like to upgrade to 
+Windows 10. What would be the most efficient way to do this?Gary E
+
+The free upgrade offer only applies to PCs running the Home and Pro editions 
+of Windows 7/8/8.1, not the Enterprise versions, which are only available via a
+Microsoft Volume License 
+<https://www.microsoft.com/en-us/Licensing/worldwide.aspx>.
+
+You – or the company that took out the volume licence – will have to upgrade 
+it via theVolume Licensing Service Center 
+<https://www.microsoft.com/licensing/servicecenter/default.aspx>. You will need 
+a valid Enterprise product key.
+
+You can do an upgrade but you cannot do an in-place downgrade from an 
+Enterprise edition to a Home or Pro version. That would need a clean 
+installation from an ISO.
+
+Stopping the upgrade
+
+Bonus answer: I couldn’t find a recent email asking this question. However, 
+the current answer is: look for the line of text under the date that says 
+“Click here to change upgrade schedule or cancel scheduled upgrade.” If you 
+want to reverse the upgrade within 30 days, go to Settings, select Update & 
+Security, and then Recovery. Click the option that says “Go back to Windows 7” 
+or whatever.
+
+If you want to block Windows 10 from being installed, download GRC’s free 
+utility,Never10 <https://www.grc.com/never10.htm>. This is not a program. It 
+simply changes the settings following Microsoft’s instructions, which people 
+either don’t know about or can’t follow.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

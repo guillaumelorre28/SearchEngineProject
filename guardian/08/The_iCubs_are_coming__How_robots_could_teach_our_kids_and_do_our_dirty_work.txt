@@ -1,0 +1,172 @@
+
+A bedside table on wheels is practising three-point turns around the room, 
+rising up and down and cheekily cocking its head as it glides, while a furry 
+white creature emits plaintive mews from the room next door, flapping its 
+flippers for attention. Nearby, hundreds of wiry insects buzz about on a glass 
+tray like angry cockroaches awaiting their lunch, while a team of drones whirs 
+to life in the corner. You have to watch your step in the basement lab of
+Sheffield Robotics <http://www.sheffieldrobotics.ac.uk>, where even the 
+furniture has a mind of its own.
+
+“We were wondering what would be an appropriate way for a table to talk to 
+you,” says Tony Prescott, the centre’s director and a professor of cognitive 
+neuroscience at the University ofSheffield 
+<https://www.theguardian.com/uk/sheffield>, as the balletic bedside table comes 
+to a halt, like an obedient dog called to heel. “But it might actually be 
+better if it didn’t talk and just got on with its job. Maybe your table doesn’t 
+need to have a personality.”
+
+Such existential questions have occupied Prescott and his researchers for the 
+past four years, while working on everything from assistive robots, geared to 
+helping the elderly, to whole swarms of them for search-and-rescue missions. 
+But what really drives Prescott, whose background is in psychology, is the 
+ultimate quest: to build a robot with a sense of its own self.
+
+He introduces me to iCub <http://www.icub.org>, a toddler-size humanoid with a 
+streamlined plastic head from which two huge doe-eyes emerge, complete with 
+seductively drooping eyelids. Little red lights then blink behind its mute 
+white mask, displaying a downturned mouth and a severe frown. It appears I may 
+have angered the robo-baby. Was it something I said to the table? “That’s his 
+working face,” says Prescott. “He’s still in the early stages of learning. 
+He’ll smile when he achieves a task or gets something right.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2015%2Fmay%2F20%2Ficub-robots-teach-kids-work-dance-swear-snog%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-1%23img-1&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F5%2F20%2F1432136065893%2F9317a234-ce4c-4d89-9d93-44d69dd41554-2060x1749.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20iCubs%20are%20coming!%20How%20robots%20could%20teach%20our%20kids%20and%20do%20our%20dirty%20work&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2015%2Fmay%2F20%2Ficub-robots-teach-kids-work-dance-swear-snog%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-1%23img-1>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20iCubs%20are%20coming%21%20How%20robots%20could%20teach%20our%20kids%20and%20do%20our%20dirty%20work&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2015%2Fmay%2F20%2Ficub-robots-teach-kids-work-dance-swear-snog%3Fpage%3Dwith%3Aimg-1%23img-1&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F5%2F20%2F1432136065893%2F9317a234-ce4c-4d89-9d93-44d69dd41554-2060x1749.jpeg>
+ Zeno robots, designed to show motorised facial expressions 
+Sheffield is one of a small group of European universities testing out the 
+possibilities of this £250,000 robot, developed by the Italian Institute of 
+Technology as an open-source vehicle for investigating human cognition and 
+artificial intelligence. It is one of the most advanced humanoids of its kind, 
+with 53 degrees of movements in its limbs, a sense of touch and hand-eye 
+coordination, allowing it to grasp objects, play catch andeven dance to music 
+<https://www.youtube.com/watch?v=cJbEjfYfFto>.
+
+When I reach out to touch it, a monitor shows exactly where and how hard my 
+fingers are pressing. When its voice is switched on, it gets a bit creepy. “I 
+like when you touch me in this way,”he says 
+<https://www.youtube.com/watch?t=39&v=RW425vW4BtQ>, in a matter-of-fact 
+monotone. “Please, caress me again.” And he’s a bit sweary, as three-year-olds 
+go. When he misses the ball in a game of Pong, he cries: “Bloody hell! That 
+isn’t fair!”
+
+Sheffield’s iCub is run by a system modelled on the cognitive architecture of 
+the human brain, so it can “think” and learn from the world around it, as a 
+toddler would. Over the past couple of years, the team has been developing 
+iCub’s object-recognition skills and its sense of its body, all the time 
+building up a kind of autobiographical memory to start creating its sense of 
+“self”.
+
+“The next stage is giving him understanding, consolidating his experiences for 
+future prediction,” says Prescott. “But we probably don’t want to let him 
+evolve his own motivation and drives. That’s a bit of a risk.”
+
+The grave results of giving robots free will has been shown all too well in 
+countless sci-fi films 
+<https://www.theguardian.com/culture/gallery/2015/jan/08/the-top-20-artificial-intelligence-films-in-pictures>
+ – from the sinister plotting of 2001: A Space Odyssey’s cyclopean HAL, to the 
+freedom-seeking Ava in Ex Machina, the sentient machines rarely fail to ensure 
+that their creators come to a sticky end. But it’s not only Hollywood that’s 
+worried about AI.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2015%2Fmay%2F20%2Ficub-robots-teach-kids-work-dance-swear-snog%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fdbd1466e7396fe412e290d329e42c3df1cc78cb6%2F0_243_5760_3456%2F5760.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20iCubs%20are%20coming!%20How%20robots%20could%20teach%20our%20kids%20and%20do%20our%20dirty%20work&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2015%2Fmay%2F20%2Ficub-robots-teach-kids-work-dance-swear-snog%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20iCubs%20are%20coming%21%20How%20robots%20could%20teach%20our%20kids%20and%20do%20our%20dirty%20work&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2015%2Fmay%2F20%2Ficub-robots-teach-kids-work-dance-swear-snog%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fdbd1466e7396fe412e290d329e42c3df1cc78cb6%2F0_243_5760_3456%2F5760.jpg>
+ The iCub Research Robot with Prof Tony Prescott, at Sheffield University. 
+Photograph: David Sillitoe for the Guardian 
+Stephen Hawking, at once enrapt and alarmed by the power of his latest 
+speech-synthesis system,has declared that the development of full artificial 
+intelligence <http://www.bbc.co.uk/news/technology-30290540> “could spell the 
+end of the human race”. He has been joined by the future-embracing inventor and 
+serial entrepreneurElon Musk <https://www.theguardian.com/technology/elon-musk>
+, who thinks AI is “our biggest existential threat 
+<https://www.theguardian.com/technology/2014/oct/27/elon-musk-artificial-intelligence-ai-biggest-existential-threat>
+” describing further research into giving machines intelligence as “summoning 
+the demon”. Is Sheffield’s lab, where boffins busy themselves with propellors 
+and remote controls, really a front for a techno-Wicca cult that could spell 
+the end of humanity?
+
+
+“I think we project on to robots our fears about ourselves,” says Prescott. 
+“Ultimately, the benefits hugely outweigh the risks, from using assistive 
+robots to help our ageing population, to using them for repetitive menial tasks 
+in agriculture and industry. They’ll be working alongside humans, combining our 
+ability to think imaginatively with the computer’s capacity for memory, 
+precision and speed.”
+
+But is there a danger they might outperform us? Might the next generation of 
+robo-workers find themselves in the sights of Ukip, coming to the UK and taking 
+our jobs? “Yes, they’ll take some aspects of our jobs, but it will be the dirty 
+and dangerous jobs, letting us focus on the things we are better at. And we’ll 
+be wealthier, giving us the time to do what we want to do. They’ll also be 
+going places we can’t, with teams of cooperative robots sent into hazardous 
+environments too dangerous for people – whether on Mars or to a post-nuclear or 
+earthquake disaster zone.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2015%2Fmay%2F20%2Ficub-robots-teach-kids-work-dance-swear-snog%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F5%2F20%2F1432136229927%2F24a0855f-4ed6-45e3-866b-6d430be3bd87-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20iCubs%20are%20coming!%20How%20robots%20could%20teach%20our%20kids%20and%20do%20our%20dirty%20work&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2015%2Fmay%2F20%2Ficub-robots-teach-kids-work-dance-swear-snog%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20iCubs%20are%20coming%21%20How%20robots%20could%20teach%20our%20kids%20and%20do%20our%20dirty%20work&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2015%2Fmay%2F20%2Ficub-robots-teach-kids-work-dance-swear-snog%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F5%2F20%2F1432136229927%2F24a0855f-4ed6-45e3-866b-6d430be3bd87-2060x1236.jpeg>
+ Best pet ever … Paro, the harp seal robot  <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2015%2Fmay%2F20%2Ficub-robots-teach-kids-work-dance-swear-snog%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F5%2F20%2F1432136309686%2Fcfddc9fb-72c9-4f2f-9143-85eac1098dba-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20iCubs%20are%20coming!%20How%20robots%20could%20teach%20our%20kids%20and%20do%20our%20dirty%20work&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2015%2Fmay%2F20%2Ficub-robots-teach-kids-work-dance-swear-snog%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20iCubs%20are%20coming%21%20How%20robots%20could%20teach%20our%20kids%20and%20do%20our%20dirty%20work&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2015%2Fmay%2F20%2Ficub-robots-teach-kids-work-dance-swear-snog%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F5%2F20%2F1432136309686%2Fcfddc9fb-72c9-4f2f-9143-85eac1098dba-2060x1236.jpeg>
+ Super-organisms … swarm robots 
+The table of creatures buzzing behind us is a test for exactly this kind of 
+application. The 900 “kilobots 
+<https://www.theguardian.com/technology/2014/aug/15/harvard-kilobot-swarm-future-of-robotics>
+” are busy modelling the swarming behaviour of a colony of fire ants, with 
+“lead entities” sending out infrared signals that the worker ants follow, 
+shuffling around to form clusters in different parts of the table. They make up 
+a “super-organism”, potentially capable of working together on anything from 
+construction sites to disaster response and mining.
+
+“The benefit is that they can teach each other and then work together 
+autonomously,” says Roderich Gross, who leads the research here into such 
+self-organising systems, watching as a team of larger robots gang together to 
+shunt a big blue object across the room towards a red one. “That’s collective 
+decision-making in action,” he says proudly, as if watching his own children 
+push a toy across the lab floor.
+
+SociBot: the 'social robot' that knows how you feel
+ Read more  
+<https://www.theguardian.com/artanddesign/2014/apr/11/socibot-the-social-robot-that-knows-how-you-feel>
+The white furry thing is still mewing away in the corner, so I go over and 
+give it a stroke. It writhes with joy and emits ecstatic squeaks. Another 
+loving squeeze and the whole thing shudders with delight. Developed in Japan as 
+a companion for the elderly and infirm, this isParo 
+<https://www.theguardian.com/society/2014/jul/08/paro-robot-seal-dementia-patients-nhs-japan>
+, an avatar of a baby harp seal and the most easily gratified pet I’ve 
+encountered. “If someone is distressed or has dementia, the repetitive 
+behaviour helps to calm them down,” says Prescott. “And it helps people to 
+socialise, giving them something to talk about.” The little seal is packed with 
+sensors, receptive to touch, light, sound, temperature and orientation, making 
+it seem a good deal more advanced than some dopey real-life pets – and without 
+the added mess. It learns your behaviour, too: “It will adapt if you like rough 
+play,” says Prescott, as I spin it upside down, to a slightly alarmed squeal.
+
+Which brings us to a branch of robotic development unspoken of here, but which 
+Prescott says is likely to be one of the key forces that drives the robotics 
+industry, namely the X-rated world of “digital intimacy”. Last year at 
+Sheffield’s Festival of the Mind, professor Adrian Cheok from City University 
+London presented his “Kissinger 
+<http://motherboard.vice.com/read/i-made-out-with-a-robot-mouth-so-i-could-kiss-my-girlfriend-through-the-internet>
+” device, a set of pressure-sensitive artificial lips that can transmit a kiss 
+from a real mouth to a similar device owned by a partner who might be thousands 
+of miles away, ushering forth a world of people slurping into their phones. He 
+is also working on a “chat agent”, I-Friend, capable of striking up sexually 
+charged conversations, to be integrated into afuture generation of sex robots 
+<http://www.newsweek.com/2014/10/31/sex-robots-278791.html> and automated chat 
+lines. Let’s just hope that intelligent bedside table doesn’t get too frisky.
+
+• Meet the robots at Fear of Missing Out 
+<https://www.ica.org.uk/whats-on/seasons/fear-missing-out>, a talks event at 
+the ICA, London, 29-31 May.
+ 

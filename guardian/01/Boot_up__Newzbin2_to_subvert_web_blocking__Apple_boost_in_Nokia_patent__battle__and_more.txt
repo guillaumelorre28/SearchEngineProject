@@ -1,0 +1,134 @@
+
+A quick burst of 13 links for you to chew over, as picked by the Technology 
+team
+
+iPad 2: Out of stock by Saturday >> Fortune Tech 
+<http://tech.fortune.cnn.com/2011/03/27/ipad-2-out-of-stock-by-saturday/>
+
+"Reports are still drifting in, but it seems likely that most of the 25 
+countries where Apple (AAPL) launched the iPad 2 on Friday had run out of 
+product by Saturday afternoon."
+
+iPad 2 Users Report FaceTime Issue >> Huffington Post 
+<http://www.huffingtonpost.com/2011/03/24/ipad-2-problems-facetime-_n_840043.html>
+
+"Several customers on the Apple forums have been reporting that the FaceTime 
+application, which supports video chat via the iPad's front-facing camera, has 
+been freezing while in use."
+
+Newzbin2 Uses TOR To Kill Domain Blocking Before It Even Happens >> 
+TorrentFreak 
+<http://torrentfreak.com/newzbin-uses-tor-to-stop-domain-blocking-before-it-even-happens-110327/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Torrentfreak+%28Torrentfreak%29>
+
+Someone, somewhere in the Thamesside bowels of communications regulator Ofcom, 
+there is a harassed researcher trying hurriedly to see whether Tor can be 
+combated. They may wish to consult the Egyptian government.
+
+Color Keeps Digging >> Daring Fireball Linked List 
+<http://daringfireball.net/linked/2011/03/25/color-digging>
+
+"So it's a data mining trojan horse. Well, that changes everything. Who 
+wouldn't love that?" I think John Gruber just set fire to the $14m that venture 
+capitalists gave Color. Um.
+
+Apple Wins U.S. Trade Ruling in Patent Fight Brought by Nokia Over Phones >> 
+Bloomberg 
+<http://www.bloomberg.com/news/2011-03-25/apple-wins-u-s-trade-ruling-in-patent-fight-brought-by-nokia-over-phones.html>
+
+Hugely important for Apple. "Nokia had claimed Apple was infringing patents 
+that the Finnish company described as 'pioneering innovations' related to 
+cameras, battery life, touch-screens, speakers and messaging. It sought an 
+order barring imports of the iPhone. "The two mobile-phone makers have been 
+embroiled in litigation since October 2009, when Nokia filed a lawsuit accusing 
+Apple of infringing 10 patents and demanding royalties on the millions of 
+iPhones sold since the device's introduction in 2007. Each company has since 
+accused the other of infringing an increasing number of patents." Apple's 
+lawsuit against Nokia is still outstanding, but this is a key win for the US 
+company: it means it doesn't have to pay a slice of each sale to Nokia. 
+Disadvantage Finland.
+
+Is Samsung's New Galaxy Tab Fibbing About Its Figure? And About Those Galaxy 
+Tab Fans 
+<http://technologizer.com/2011/03/25/is-samsungs-new-galaxy-tab-fibbing-about-its-figure-and-about-those-galaxy-tab-fans/>
+
+"Me, I was confused about a different aspect of Samsung's event (which you can 
+watch here). Much of it was devoted to video clips from the 'Samsung Galaxy Tab 
+Interview Project,' which the opening titles said took place on March 3rd in 
+New York, and which was shown to involve inviting busy, successful New Yorkers 
+to try the Galaxy Tab of their choice and share their opinions. The New Yorkers 
+in question were identified as freelance travel writer Joan Hess, independent 
+filmmaker Karl Shefelman, and leading real estate CEO Joseph Kolinksi." 
+McCracken then commits an act of journalism and discovers that they are in fact 
+actors. We're starting to get a bad feeling about Samsung's Galaxy Tab.
+
+Acer warns first quarter sales to fall short >> Financial Times 
+<http://www.ft.com/cms/s/2/5f1c89d2-56e0-11e0-9c5c-00144feab49a.html?ftcamp=rss#axzz1HcmQP5j6>
+
+"Acer, the Taiwanese PC maker, on Friday warned sales in the first quarter 
+would fall short of expectations, highlighting the continued weakness in demand 
+in Europe and the US and the growing popularity of new mobile devices like 
+tablets. "With just a week to go before the end of the quarter, the company 
+said its PC revenues were 10% less than in the fourth quarter, during whichAcer 
+<https://www.theguardian.com/technology/acer> had already suffered an 11% 
+year-on-year fall in revenues." Don't worry - tablets are a fad. But: "Acer is 
+likely not alone in having a disappointing first quarter. February revenue 
+numbers from the top contract PC manufacturers in Taiwan, who account for 90% 
+of global production, were all down roughly a fifth from January. Even Hon Hai, 
+which makes Apple products and desktops for Dell, saw an 18% decline."
+
+Introducing Spanner: From Documents to Linked Data Apps – Clark & Parsia: 
+Thinking Clearly <http://weblog.clarkparsia.com/2010/12/14/introducing-spanner/>
+
+"TLDR? Spanner is a new product that automagically turns documents (of any 
+kind) into a full-featured semantic web – or, if you prefer, 'Linked 
+Data' – application that is easily customized or extended via JavaScript." 
+There must be black magic or the sacrifice of goats involved here.
+
+The iPad is 99% more open than any other computer >> JP Teti 
+<http://jpteti.com/post/4072771125/the-ipad-is-99-more-open-than-any-other-computer>
+
+The blog tagline: "A 14 year old web designer & developer's blog." A 
+14-year-old who is better at enunciating an argument (even if you disagree with 
+it) than 99% of those we've seen discussing computing. In fact, we may have to 
+do some age verification on this.
+
+F**K CAPTCHA >> 90 Per Cent 
+<http://www.90percentofeverything.com/2011/03/25/fk-captcha/>
+
+You want to stop spam, you need a captcha, right? No. Elegant explanation of 
+why the spam problem shouldn't be foisted on users, and can be overcome without 
+the use of captchas.
+
+Acer locates 'missing' tablet strategy >> The Register 
+<http://www.reghardware.com/2011/03/25/acer_iconia_w500_a500_tablets/>
+
+"The W500 will be available in Wi-Fi and Wi-Fi + 3G versions, and will be sold 
+either separately or with a docking keyboard. It's this keyboard that rather 
+captures the imagination as the W500 looks every inch a netbook when attached 
+to it. However, it doesn't close up in the way you would expect: the tablet 
+needs to be removed, and the hinged docking latch and interface folded away. 
+Then the keyboard can function as a protective lid, held in place with a 
+combination of a latch and magnetism. "Clumsy and inelegant? Yes, and heavy 
+too." Hang on - a latch *and* magnets? How tightly do they need the lid shut?
+
+Steal This E-Book >> Forbes.com 
+<http://www.forbes.com/forbes/2011/0411/focus-tim-oreilly-media-e-book-antipiracy-steal-this.html>
+
+"Jon Bruner: On all your titles you've dropped digital-rights management 
+(DRM), which limits file sharing and copying. Aren't you worried about piracy? 
+"Tim O'Reilly: No. And so what? Let's say my goal is to sell 10,000 copies of 
+something. And let's say that if by putting DRM in it I sell 10,000 copies and 
+I make my money, and if by having no DRM 100,000 copies go into circulation and 
+I still sell 10,000 copies. Which of those is the better outcome?" True - 
+though what if you only sell 100, and there are 100,000 out there? Does the 
+author or the publisher bear the brunt?
+
+What is this mystery icon? >> Nelson's Weblog 
+<http://www.somebits.com/weblog/tech/bad/what-is-this-mystery-icon.html>
+
+Interesting: the younger the idea on which a piece of iconography is based, 
+the more quickly it becomes outdated.
+
+You can follow Guardian Technology's linkbucket on delicious 
+<http://delicious.com/guardianista>
+ 

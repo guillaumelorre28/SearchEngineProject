@@ -1,0 +1,163 @@
+
+
+
+
+
+I’m trying not to get my personal details, er, hijacked if my laptop is 
+stolen. Is there any way I can protect myself, assuming a decent password is no 
+defence? I’m runningWindows 7 <https://www.theguardian.com/technology/windows-7>
+ Pro. Steve
+
+How much security do you need, and how much are you willing to pay for it? The 
+answers will depend on what kind of information you want to protect, where the 
+information is stored and who you are protecting it from.
+
+For example, if you have thousands of secret government documents and the CIA, 
+FBI and MI5 are on your tail, then you will need to takeserious precautions 
+<https://theintercept.com/2015/11/12/edward-snowden-explains-how-to-reclaim-your-privacy/>
+. These will cover your email communications and browsing data, as well as the 
+physical security of your laptop.
+
+People in the medical and financial industries also have to take extreme care 
+of laptops that contain other people’s personal data, because they can be fined 
+for losing it. But if your laptop is for personal use only, what’s the actual 
+risk, and how can you minimise it?
+
+My own approach has changed over the years. In the 1990s, my laptops had most 
+of the same software and data as my desktops. Nowadays, I take the view that a 
+laptop can be more or less empty, apart fromMicrosoft 
+<https://www.theguardian.com/technology/microsoft> Office and certain 
+utilities. If I need more data, I can store it in the cloud, or log on to my 
+desktop PC remotely.
+
+International travellers, especially journalists, are easy targets for police 
+state operations, including theUK 
+<https://www.theguardian.com/world/2013/aug/18/glenn-greenwald-guardian-partner-detained-heathrow>
+’s.You basically have no rights 
+<https://www.muckrock.com/news/archives/2015/apr/09/you-have-no-right-electronic-privacy-when-you-cros/>
+, and you’re unlikely to get any legal advice. I prefer to be in a position 
+where I have nothing to hide, and if my £150-to-£350 Windows laptop is 
+confiscated or stolen, I really don’t have to care. I can easily buy another, 
+log on with my Windows Account, and say: “set it up like this” (picking the 
+stored profile of the old one).
+
+Passwords and encryption
+
+If someone has physical possession of your laptop, passwords are not much 
+help. They can use a guest account (unless you disabled it), boot your PC with 
+a different operating system (Linux), or remove the hard drive and install it 
+in another PC. Encryption is the only viable defence.
+
+For many years, most geeks used TrueCrypt 
+<https://en.wikipedia.org/wiki/TrueCrypt> for this purpose. More recently, many 
+switched toVeraCrypt <https://www.idrix.fr/Root/>, which is based on TrueCrypt 
+7.1a.DiskCryptor <https://diskcryptor.net/wiki/Main_Page> is a viable 
+alternative.
+
+The Intercept has a useful article, Encrypting Your Laptop Like You Mean It 
+<https://theintercept.com/2015/04/27/encrypting-laptop-like-mean/>, which 
+covers Windows, macOS/OS X and Linux. It points out that full disk encryption 
+(FDE) doesn’t protect you against malicious websites and viruses, nor does it 
+stop internet surveillance. Even a fully encrypted laptop can be hacked using, 
+for example, the“evil maid” attack 
+<https://www.schneier.com/blog/archives/2009/10/evil_maid_attac.html>.
+
+Of course, if you go for FDE, you must remember your password, or you lose 
+access to your PC. It may therefore be safer to encrypt important files and 
+folders, which you will obviously have backed up somewhere else.
+
+You can do this with Windows <https://www.theguardian.com/technology/windows> 
+7 Pro’s built-in encrypting file system. Right-click the file or folder, select 
+properties, and click the advanced button to bring up the sheet called 
+“advanced attributes”. The bottom half offers two options: “Compress contents 
+to save disk space” and “Encrypt contents to secure data”. This doesn’t ask for 
+a password: it uses a file encryption certificate, which you have to back up to 
+a USB key or similar. Messing around with certificates is tedious ...
+
+You can also do the job with VeraCrypt, or – my preference – with a file 
+compression/archiving program such as 7-Zip, PeaZip, WinRAR and so on. For 
+maximum security, you should use a recent archiver that supports 256-bit AES 
+encryption. Manchester University has a handy guide to using 7-Zip (PDF 
+<http://documents.manchester.ac.uk/display.aspx?DocID=9621>).
+
+As the university points out, you should use Microsoft Office’s built-in 
+encryption <http://documents.manchester.ac.uk/display.aspx?DocID=9622> for 
+Office files.
+
+Biometrics and authentication
+
+Governments and large corporations often use biometrics and two-factor 
+authentication (2FA) to increase security. Some laptops have had built-in 
+fingerprint readers since the turn of the century, and AuthenTec shipped 100m 
+fingerprint sensors before Apple bought the company. Various laptops have also 
+shipped with face- or iris-recognition programs that use built-in webcams.
+
+Ideally, the biometric should be linked to the encryption system. For example, 
+Dell’sDigital Persona Fingerprint Suite 
+<http://www.dell.com/support/article/us/en/19/SLN146739> provides one-touch 
+log-ons and also adds the option to encrypt and decrypt files.
+
+Today, face- and fingerprint-based authentication are included in Windows 
+Hello, which is an important part of Windows 10. It’s part of the increased 
+security that prompted the US Defense Department to start moving to Windows 10 
+<http://www.defense.gov/News-Article-View/Article/688721/dod-wide-windows-10-rapid-deployment-to-boost-cybersecurity>
+ as rapidly as possible. If your laptop doesn’t have an Intel 
+RealSense-compatible camera or suitable fingerprint sensor, this will not help 
+you, but it’s worth bearing in mind if you upgrade.
+
+Two-factor authentication is becoming increasingly popular. It is usually 
+based on something you have, plus something you know. The most familiar example 
+is a bank card and a pin. For many years, some business laptops have used 
+slot-insmartcards <https://technet.microsoft.com/en-us/library/cc962052.aspx> 
+for extra security, or small gadgets that generate the required pin.
+
+Today, 2FA is often based on using a smartphone. For example, to confirm a 
+Microsoft, Google or a Twitter account, the company sends you a passcode in an 
+SMS message.
+
+The obvious next step would be to use a smartphone to secure your laptop. One 
+example is theRohos Logon Key 
+<http://www.rohos.com/2013/12/login-unlock-computer-by-using-smartphone/>, 
+which works on Windows PCs and Macs.
+
+Rohos also offers a system that lets you log on to your laptop using a USB 
+thumb drive 
+<http://www.rohos.com/support/rohos-logon-key-support/access-your-windows-computer-by-using-a-hardware-usb-security-token/>
+ as a security token. Alternative systems includeKeyLock 
+<https://brabonet.com/?q=keylock> and USB Raptor 
+<https://sourceforge.net/p/usbraptor/wiki/Home/>. However, I’ve never used any 
+of these. Worse, I’ve never seen anyone else use them either.
+
+Email and web security
+
+If there’s any compromising data on your laptop, you can remove, encrypt or 
+otherwise hide it. The problem is that someone who can access your laptop may 
+also have access to your email and all the websites you use, including 
+Facebook, Twitter and Amazon.
+
+This problem is usually that passwords are stored, for convenience, in the 
+browser. The solution is to remove them and either remember passwords 
+separately, or use a master password or password manager. For instructions, 
+search for “manage passwords” and the name of your browser.
+
+Email is also risky. Your mailbox probably contains lots of information that 
+would be useful for identity theft. It may include emails containing plain text 
+passwords, and someone with access to your email address can get other account 
+passwords reset. Further, your email password may provide direct access to many 
+other services including cloud drives (OneDrive, Gdrive etc), camera rolls, 
+blog sites and other personal stuff.
+
+You may be able to avert the worst even if your laptop is stolen. For example, 
+Prey <https://preyproject.com/> is a free program that lets you track the 
+location of a stolen Windows or Linux PC, a Mac or Android device. The paid-for 
+Personal version also allows “remote wipe” for three devices for $5 (£3.80) a 
+month.
+
+Windows 10 includes “find my device” tracking as standard, but it doesn’t have 
+“remote wipe”. Also, it won’t stop the thief from doing a factory reset then 
+selling your laptop, though that may be the least bad outcome from your point 
+of view.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

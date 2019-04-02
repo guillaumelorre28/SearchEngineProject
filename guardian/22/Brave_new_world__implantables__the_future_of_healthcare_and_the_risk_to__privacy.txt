@@ -1,0 +1,188 @@
+
+Every day tens of thousands of Australians have to take a syringe, prick their 
+skin with a needle and then inject themselves with insulin. Imagine if every 
+one of those diabetes sufferers had a device fitted inside their body that 
+measured their sugar levels and automatically released insulin as and when 
+required.
+
+ That’s one of several projects on the go in a research partnership between the
+Australian Research Council Centre of Excellence for Electromaterials Science 
+<http://www.electromaterials.edu.au/> and Dublin City University in Ireland. 
+Other initiatives include aSweatch <http://doras.dcu.ie/21115/> watch that 
+measures levels of sodium ion in your sweat and a “smart tattoo” that tracks 
+the status of dermatological diseases.
+
+The medical possibilities for intelligent, internet-enabled medical devices is 
+vast, with onerecent estimate 
+<http://www.marketsandmarkets.com/PressReleases/iot-healthcare.asp> expecting 
+the global market to be worth US$163bn by 2020. To date, the so-calledwearables 
+<https://www.theguardian.com/technology/wearable-technology> market (think 
+Fitbit, Apple Watch and so forth) has made the most of the early running. But 
+the scientific value – and potential commercial returns – for next-generation
+implantables 
+<https://www.theguardian.com/media-network/2016/jan/13/future-eat-digesting-next-generation-wearable-tech>
+ represents a different level of magnitude.
+
+“The possibility for harvesting real-time health data from an implantable 
+device is huge,” says Aoife Morrin, principal investigator at Dublin City 
+University’s National Centre for Sensor Research. “A wearable typically has 
+access to the outer layers of skin whereas an implantable can potentially look 
+into internal organs and deeper tissues inside the body.”
+
+
+Breakthrough market 
+
+ It’s not only medical researchers that are growing excited at the prospect of 
+knowing more about our insides. Predictably, pharmaceutical firms have been 
+quick to seize on the technology’s potential. Automated systems get around the 
+problem of patients failing to take their medication or not replacing it (a 
+habitual problem that hits Big Pharma’s sales hard). As importantly, ongoing 
+real-time diagnostic data helps corroborate a drug’s effectiveness, thus 
+increasing the likelihood of that drug being prescribed.
+
+The future of healthcare: AI, augmented reality and drug-delivering drones
+ Read more  
+<https://www.theguardian.com/sustainable-business/2016/nov/01/the-future-of-healthcare-ai-augmented-reality-and-drug-delivering-drones>
+ Consider Proteus Discover <http://www.proteus.com/>, the brainchild of the US 
+healthcare firm Proteus Digital Health. Discover is a microscopic sensor 
+contained within an ingestible pill. The sensor activates on contact with 
+stomach acids and then starts relaying clinical health data to a replaceable 
+patch worn on the patient’s torso. The technique is initially being used 
+primarily for patients with cardiovascular and metabolic diseases, such as 
+hypertension and Type 2 diabetes.
+
+ The patch also registers the time that the medication was taken and a 
+patient’s subsequent behavioural patterns (sleep, exercise, etc). All this 
+information is then loaded up wirelessly to an app on the patient’s smartphone 
+and then to the Proteus Cloud.
+
+ “By turning the high frequency act of medication taking into a digital event, 
+Proteus is directly integrating therapies with greater measurement, feedback 
+and behaviour cues,” says Andrew Thompson, Proteus’ chief executive. 
+
+Healthcare investors appear to share his enthusiasm. In April, the biotech 
+firm secured US$50m in its latest funding round, adding to the US$172m it 
+raised in 2014.
+
+Another company making inroads in the implantable market is Microchips Biotech 
+<http://microchipsbiotech.com/>. The US firm has created an electronic device 
+that employs “micro-reservoir” technology first developed by the Massachusetts 
+Institute of Technology to deliver therapeutic doses of a variety of drugs from 
+within.
+
+ A physician can alter the pre-programmed frequency or quantity of the dose 
+via wireless communications. Alternatively, sensors embedded in the device can 
+release the drug automatically in response to physiological or metabolic 
+changes. Last year, the Israeli drug firm Teva Pharmaceuticals invested US$35m 
+as part of a partnership with Microchips.
+
+
+Cultural barriers
+
+For all the hype around new-generation implantable technology, the market 
+remains in its infancy. Most ideas are still at prototype stage, if that. Even 
+assuming the technology can be cracked and proven to be safe, several important 
+hurdles still stand in the way of implantables revolutionising medical care.
+
+The first is cultural. Wearing a watch that monitors your heart rate or a 
+bracelet that measures your sleep is one thing; having an electromagnetic 
+sensor inserted permanently inside you is quite another. That said, few think 
+twice now about surgically implanted pacemakers or hearing aids, say, so maybe 
+time will overcome the initial ick factor.
+
+ Less certain is the cultural aversion many have towards data privacy. The 
+critical difference with a pacemaker or hearing aid, of course, is that 
+implantables “talk” back. An endless supply of high personal data, always being 
+generated, never stopping – and potentially going who knows where and for who 
+knows what purpose.
+
+ Device manufacturers, pharmaceutical firms and healthcare providers are 
+naturally at pains to say patient data is protected by standard 
+patient-physician confidentiality. Proteus, for instance, asserts that data is 
+only passed on to healthcare providers with the patient’s explicit consent and 
+with the sole purpose of “informing personalised treatment decisions”.
+
+What about cybersecurity breaches, however? If hackers can infiltrate the 
+medical records of sports stars such as British cyclistBradley Wiggins 
+<https://www.theguardian.com/sport/2016/sep/18/bradley-wiggins-world-anti-doping-agency-hackers-russian-leak>
+ and the US gymnastSimone Biles 
+<https://www.theguardian.com/sport/2016/sep/13/wada-russian-cyber-attack-espionage-group>
+, what’s to say biometric information from your implantable might somehow find 
+its way to your health insurance provider or to a tech company like Google 
+(which is currently experimenting with a“smart” contact lens 
+<https://www.theguardian.com/technology/2014/jan/17/google-tests-smart-contact-lens-diabetics>
+)?
+
+ While such fears are not without reason, Erin Byrne, the chief client officer 
+at the US healthcare communications firm Grey Health Group, insists that 
+“proactive” measures can ease patient concerns. “If companies follow the 
+governance regulations that are in place and communicate truthfully, then I 
+think people recognise the benefit to them and that data is a propeller of good 
+health.”
+
+
+There’s also the question around who will pay to have a new-generation 
+implantable inserted. If current implantable devices are anything to go by, 
+Australians could find themselves having to reach deeper into their own 
+pockets. Last month, thehealth department removed 2,500 pacemakers, artificial 
+hips and other implantable products 
+<https://www.theguardian.com/money/2016/oct/19/cutting-medical-device-and-prostheses-costs-should-lower-health-premiums-says-minister>
+ from its official prostheses register. The move will reduce how much private 
+insurance firms have to contribute towards the fitting of such devices in the 
+future.
+
+Data-driven spinning class? How tech is revolutionising fitness
+ Read more  
+<https://www.theguardian.com/media-network/2016/nov/15/data-driven-spinning-class-tech-fitness>
+Joining the dots 
+
+ The promise of better health – both for individual patients and, in the event 
+their data is used for medical research, for the wider population – certainly 
+serves as a powerful counterbalance to privacy concerns. But will implantables 
+really deliver?
+
+ Therein lies the second big hurdle: efficacy. The main selling point for 
+implantables is that they can create “more accurate, more timely” information 
+quicker than ever before, says Adrian Downing, the director of healthcare at 
+the UK advisory firm Concentra Analytics. “But that suggests that clinicians 
+have time to look at the data and, if they do, that they trust it and 
+understand its full context,” he says.
+
+ Implantables promise to usher in a patient-data led form of healthcare that 
+discomfits many medical practitioners, which see it as a loss of their 
+traditional control. Downing cites doctors’ reticence about allowing the 
+development of a single database for patients’ medical information in the UK. 
+The ill-fated scheme eventuallygot scrapped 
+<https://www.theguardian.com/technology/2016/jul/06/nhs-to-scrap-single-database-of-patients-medical-details>
+ because of low uptake by the medical profession.
+
+ “The critical question governing implantables’ effectiveness is how the data 
+is used within existing healthcare services,” Downing says. “Even now with 
+wearables, none of the information is going to GPs [general practitioners]. The 
+system is simply stopping it.”
+
+ Joanne Hackett concurs. As chief commercial officer at Precision Medicine 
+Catapult, a UK firm promoting the commercialisation of data-driven medicine, 
+she stresses the need for patient’s information to “follow them” through the 
+health system.
+
+ She points to Sweden as a good example of a liberal, “linked-up” approach to 
+patient data. The system stems for a very particular mentality, she adds. 
+“Every patient is considered a research patient, so people don’t think twice 
+about being included in a clinical trial.”
+
+She also singles out Australia for its promotion of “person-controlled” 
+electronic health records 
+<https://myhealthrecord.gov.au/internet/mhr/publishing.nsf/content/home>. 
+Earlier this year, the Australian Health Association issued arevised policy 
+statement 
+<https://ama.com.au/position-statement/shared-electronic-medical-records-revised-2016>
+ that called for a “simple consent mechanism” that would allow doctors across 
+the healthcare service to access patients’ records.
+
+ “All healthcare providers involved in providing clinical care to a patient 
+should have access to the core clinical information, provided their registered 
+health profession board has a policy on electronic health records covering 
+conditions for such access by their members,” the AMA argues.
+
+ 

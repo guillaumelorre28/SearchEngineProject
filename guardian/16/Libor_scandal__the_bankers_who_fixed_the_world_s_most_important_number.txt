@@ -1,0 +1,510 @@
+
+At the Tokyo headquarters of the Swiss bank UBS, in the middle of a deserted 
+trading floor, Tom Hayes sat rapt before a bank of eight computer screens. 
+Collar askew, pale features pinched, blond hair mussed from a habit of pulling 
+at it when he was deep in thought, the British trader was even more dishevelled 
+than usual. It was 15 September 2008, and it looked, in Hayes’s mind, like the 
+end of the world.
+
+Hayes had been woken up at dawn in his apartment by a call from his boss, 
+telling him to get to the office immediately. In New York,Lehman Brothers was 
+hurtling towards bankruptcy 
+<https://www.theguardian.com/business/2013/sep/13/lehman-brothers-collapse-five-years-later-shiver-spine>
+. At his desk, Hayes watched the world processing the news and panicking. As 
+each market opened, it became a sea of flashing red as investors frantically 
+dumped their holdings. In moments like this, Hayes entered an almost 
+unconscious state, rapidly processing the tide of information before him and 
+calculating the best escape route.
+
+Hayes was a phenomenon at UBS, one of the best the bank had at trading 
+derivatives. So far, the mounting financial crisis had actually been good for 
+him. The chaos had let him buy cheaply from those desperate to get out, and 
+sell high to the unlucky few who still needed to trade. While most dealers 
+closed up shop in fear, Hayes, with a seemingly limitless appetite for risk, 
+stayed in. He was 28, and he was up more than $70 million for the year.
+
+Now that was under threat. Not only did Hayes have to extract himself from 
+every deal he had done with Lehman, he had also made a series of enormous bets 
+that in the coming days interest rates would remain stable. The collapse of 
+Lehman Brothers, the fourth-largest investment bank in the US, would surely 
+cause those rates, which were really just barometers of risk, to spike. As 
+Hayes examined his trading book, one rate mattered more than any other: the 
+London interbank offered rate, orLibor 
+<https://www.theguardian.com/business/libor>, a benchmark that influences $350 
+trillion of securities and loans around the world. For traders such as Hayes, 
+this number was the Holy Grail. And two years earlier, he had discovered a way 
+to rig it.
+
+Libor was set by a self-selected, self-policing committee of the world’s 
+largest banks. The rate measured how much it cost them to borrow from each 
+other. Every morning, each bank submitted an estimate, an average was taken, 
+and a number was published at midday. The process was repeated in different 
+currencies, and for various amounts of time, ranging from overnight to a year. 
+During his time as a junior trader in London, Hayes had got to know several of 
+the 16 individuals responsible for making their bank’s daily submission for the 
+Japanese yen. His flash of insight was realising that these men mostly relied 
+on inter-dealer brokers, the fast-talking middlemen involved in every trade, 
+for guidance on what to submit each day.
+
+Brokers are the middlemen in the world of finance, facilitating deals between 
+traders at different banks in everything from Treasury bonds to 
+over-the-counter derivatives. If a trader wants to buy or sell, he could 
+theoretically ring all the banks to get a price. Or he could go through a 
+broker who is in touch with everyone and can find a counter-party in seconds. 
+Hardly a dollar changes hands in the cash and derivatives markets without a 
+broker matching the deal and taking his cut. In the opaque, over-the-counter 
+derivatives market, where there is no centralised exchange, brokers are at the 
+epicentre of information flow. That puts them in a powerful position. Only they 
+can get a picture of what all the banks are doing. While brokers had no 
+official role in setting Libor, the rate-setters at the banks relied on them 
+for information on where cash was trading.
+
+Because of Hayes’s intimacy with numbers, his co-workers reminded him he was 
+not like them. They called him Rain Man
+
+Most traders looked down on brokers as second-class citizens, too. Hayes 
+recognised their worth. He saw what no one else did because he was different. 
+His intimacy with numbers, his cold embrace of risk and his unusual habits were 
+more than professional tics. Hayes would not be diagnosed with Asperger’s 
+syndrome until 2015, when he was 35, but his co-workers, many of them savvy 
+operators from fancy schools, often reminded Hayes that he wasn’t like them. 
+They called him “Rain Man”.
+
+By the time the market opened in London, Lehman’s demise was official. Hayes 
+instant-messaged one of his trusted brokers in the City to tell him what 
+direction he wanted Libor to move. Typically, he skipped any pleasantries. 
+“Cash mate, really need it lower,” Hayes typed. “What’s the score?” The broker 
+sent his assurances and, over the next few hours, followed a well-worn routine. 
+Whenever one of the Libor-setting banks called and asked his opinion on what 
+the benchmark would do, the broker said – incredibly, given the calamitous news 
+– that the rate was likely to fall. Libor may have featured in hundreds of 
+trillions of dollars of loans and derivatives, but this was how it was set: 
+conversations among men who were, depending on the day, indifferent, optimistic 
+or frightened. When Hayes checked the official figures later that night, he saw 
+to his relief that yen Libor had fallen.
+
+Hayes was not out of danger yet. Over the next three days, he barely left the 
+office, surviving on three hours of sleep a night. As the market convulsed, his 
+profit and loss jumped around from minus $20 million to plus $8 million in just 
+hours, but Hayes had another ace up his sleeve. ICAP, the world’s biggest 
+inter-dealer broker, sent out a “Libor prediction” email each day at around 7am 
+to the individuals at the banks responsible for submitting Libor. Hayes 
+messaged an insider at ICAP and instructed him to skew the predictions lower. 
+Amid the chaos, Libor was the one thing Hayes believed he had some control 
+over. He cranked his network to the max, offering his brokers extra payments 
+for their cooperation and calling in favours at banks around the world.
+
+By Thursday, 18 September, Hayes was exhausted. This was the moment he had 
+been working towards all week. If Libor jumped today, all his puppeteering 
+would have been for nothing. Libor moves in increments called basis points, 
+equal to one one-hundredth of a percentage point, and every tick was worth 
+roughly $750,000 to his bottom line.
+
+For the umpteenth time since Lehman faltered, Hayes reached out to his brokers 
+in London. “I need you to keep it as low as possible, all right?” he told one 
+of them in a message. “I’ll pay you, you know, $50,000, $100,000, whatever. 
+Whatever you want, all right?”
+
+“All right,” the broker repeated.
+
+“I’m a man of my word,” Hayes said.
+
+“I know you are. No, that’s done, right, leave it to me,” the broker said.
+
+Hayes was still in the Tokyo office at 8pm when that day’s Libors were 
+published. The yen rate had fallen 1 basis point, while comparable money market 
+rates in other currencies continued to soar. Hayes’s crisis had been averted. 
+Using his network of brokers, he had personally sought to tilt part of the 
+planet’s financial infrastructure. He pulled off his headset and headed home to 
+bed. He had only recently upgraded from the superhero duvet he’d slept under 
+since he was eight years old.
+
+Hayes’s job was to make his employer as much money as possible by buying and 
+selling derivatives. How exactly he did that – the special concoction of 
+strategies, skills and tricks that make up a trader’s DNA – was largely left up 
+to him. First and foremost he was a market-maker, providing liquidity to his 
+clients, who were mostly traders at other banks. From the minute he logged on 
+to his Bloomberg terminal each morning and the red light next to his name 
+turned green, Hayes was on the phone quoting guaranteed bid and offer prices on 
+the vast inventory of products he traded. Hayes prided himself on always being 
+open for business no matter how choppy the markets. It was his calling card.
+
+Hayes likened this part of his job to owning a fruit and vegetable stall. Buy 
+low, sell high and pocket the difference. But rather than apples and pears, he 
+dealt in complex financial securities worth hundreds of millions of dollars. 
+His profit came from the spread between how much he paid for a security and how 
+much he sold it for. In volatile times, the spread widened, reflecting the 
+increased risk that the market might move against him before he had the chance 
+to trade out of his position.
+
+All of this offered a steady stream of income, but it wasn’t where the big 
+money came from. The thing that really set Hayes apart was his ability to spot 
+price anomalies and exploit them, a technique known as relative value trading. 
+It appealed to his lifelong passion for seeking out patterns. During quiet 
+spells, he spent his time scouring data, hunting for unseen opportunities. If 
+he thought that the price of two similar securities had diverged unduly, he 
+would buy one and short the other, betting that the spread between the two 
+would shrink.
+
+Everywhere he worked, Hayes set up his software to tell him exactly how much 
+he stood to gain or lose from every fraction of a move in Libor in each 
+currency. One of Hayes’s favourite trades involved betting that the gap between 
+Libor in different durations would widen or narrow: what’s known in the 
+industry as a basis trade. Each time Hayes made a trade, he would have to 
+decide whether to lay off some of his risk by hedging his position using, for 
+example, other derivatives.
+
+Hayes’s dealing created a constantly changing trade book stretching years into 
+the future, which was mapped out on a vast Excel spreadsheet. He liked to think 
+of it as a living organism with thousands of interconnected moving parts. In a 
+corner of one of his screens was a number he looked at more than any other: his 
+rolling profit and loss. Ask any decent trader and he will be able to give it 
+to you to the nearest $1,000. It was Hayes’s self-worth boiled down into a 
+single indisputable number.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2017%2Fjan%2F18%2Flibor-scandal-the-bankers-who-fixed-the-worlds-most-important-number%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2511443fbb5befcab1ebab87e12cac0509b64f26%2F0_267_4000_2400%2F4000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Libor%20scandal%3A%20the%20bankers%20who%20fixed%20the%20world%E2%80%99s%20most%20important%20number%20%7C%20Liam%20Vaughan%20and%20Gavin%20Finch&url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2017%2Fjan%2F18%2Flibor-scandal-the-bankers-who-fixed-the-worlds-most-important-number%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Libor%20scandal%3A%20the%20bankers%20who%20fixed%20the%20world%E2%80%99s%20most%20important%20number%20%7C%20Liam%20Vaughan%20and%20Gavin%20Finch&url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2017%2Fjan%2F18%2Flibor-scandal-the-bankers-who-fixed-the-worlds-most-important-number%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F2511443fbb5befcab1ebab87e12cac0509b64f26%2F0_267_4000_2400%2F4000.jpg>
+ Tom Hayes was a phenomenon at UBS, one of the best the bank had at trading 
+derivatives. Photograph: Bloomberg via Getty Images 
+By the summer of 2007, the mortgage crisis in the US caused banks and 
+investment funds around the world to become skittish about lending to each 
+other without collateral. Firms that relied on the so-called money markets to 
+fund their businesses were paralysed by the ballooning cost of short-term 
+credit. On 14 September,customers of Northern Rock queued for hours 
+<https://www.theguardian.com/business/2007/sep/14/money2> to withdraw their 
+savings after the bank announced it was relying on loans from the Bank of 
+England to stay afloat.
+
+After that, banks were only prepared to make unsecured loans to each other for 
+a few days at a time, and interest rates on longer-term loans rocketed. Libor, 
+as a barometer of stress in the system, reacted accordingly. In August 2007, 
+the spread between three-month dollar Libor and the overnight indexed swap – a 
+measure of banks’ overnight borrowing costs – jumped from 12 basis points to 73 
+basis points. By December it had soared to 106 basis points. A similar pattern 
+could be seen in sterling, euros and most of the 12 other currencies published 
+on the website of the British Bankers’ Association each day at noon.
+
+Everyone could see that Libor rates had shot up, but questions began to be 
+asked about whether they had climbed enough to reflect the severity of the 
+credit squeeze. By August 2007, there was almost no trading in cash for 
+durations of longer than a month. In some of the smaller currencies there were 
+no lenders for any time frame. Yet, with trillions of dollars tied to Libor, 
+the banks had to keep the trains running. The individuals responsible for 
+submitting Libor rates each day had no choice but to put their thumb and 
+forefinger in the air and pluck out numbers. It was clear that their “best 
+guesses” were unrealistically optimistic.
+
+A game of brinkmanship had developed in which rate-setters tried to predict 
+what their rivals would submit, and then come in slightly lower. If they 
+guessed wrong and input rates higher than their peers, they would receive angry 
+phone calls from their managers telling them to get back into the pack. On 
+trading floors around the world, frantic conversations took place between 
+traders and their brokers about expectations for Libor.
+
+Nobody knew where Libor should be, and nobody wanted to be an outlier. Even 
+where bankers tried to be honest, there was no way of knowing if their 
+estimates were accurate because there was no underlying interbank borrowing on 
+which to compare them. The machine had broken down.
+
+Vince McGonagle, a small and wiry man with a hangdog expression, had been at 
+the enforcement division of the Commodity Futures Trading Commission (CFTC) in 
+Washington for 11 years, during which time his red hair had turned grey around 
+the edges. A practising Catholic, McGonagle got his law degree from Pepperdine 
+University, a Christian school in Malibu, California, where students are 
+prepared for “lives of purpose, service and leadership”.
+
+While his classmates took highly paid positions defending companies and 
+individuals accused of corporate corruption, McGonagle opted to build a career 
+bringing cases against them. He joined the agency as a trial attorney and was 
+now, at 44, a manager overseeing teams of lawyers and investigators.
+
+McGonagle closed the door to his office and settled down to read the daily 
+news. It was 16 April, 2008, and the headline on page one of the Wall Street 
+Journal read: “Bankers Cast Doubt on Key Rate Amid Crisis”. It began: “One of 
+the most important barometers of the world’s financial health could be sending 
+false signals. In a development that has implications for borrowers everywhere, 
+from Russian oil producers to homeowners in Detroit, bankers and traders are 
+expressing concerns that the London interbank offered rate, known as Libor, is 
+becoming unreliable.”
+
+The story <http://www.wsj.com/articles/SB120831164167818299>, written at the 
+Journal’s London office near Fleet Street, went on to suggest that some of the 
+world’s largest banks might have been providing deliberately low estimates of 
+their borrowing costs to avoid tipping off the market “that they’re desperate 
+for cash”. That was having the effect of distorting Libor, and therefore 
+trillions of dollars of securities around the world.
+
+The journalist’s sources told him that banks were paying much more for cash 
+than they were letting on. They feared if they were honest they could go the 
+same way asBear Stearns 
+<https://www.theguardian.com/business/2008/may/29/bear.stearns>, the 
+85-year-old New York securities firm that had collapsed the previous month.
+
+The big flaw in Libor was that it relied on banks to tell the truth but 
+encouraged them to lie. When the 150 variants of the benchmark were released 
+each day, the banks’ individual submissions were also published, giving the 
+world a snapshot of their relative creditworthiness. Historically, the 
+individuals responsible for making their firm’s Libor submissions were able to 
+base their estimates on a vibrant interbank money market, in which banks 
+borrowed cash from each other to fund their day-to-day operations. They were 
+prevented from deviating too far from the truth because their fellow market 
+participants knew what rates they were really being charged. Over the previous 
+few months, that had changed. Banks had stopped lending to each other for 
+periods of longer than a few days, preferring to stockpile their cash. After 
+Bear Stearns there was no guarantee they would get it back.
+
+With so much at stake, lenders had become fixated on what their rivals were 
+inputting. Any outlier at the higher – that is, riskier – end was in danger of 
+becoming a pariah, unable to access the liquidity it needed to fund its balance 
+sheet. Soon banks began to submit rates they thought would place them in the 
+middle of the pack rather than what they truly believed they could borrow 
+unsecured cash for. The motivation for low-balling was not tied to profit – 
+many banks actually stood to lose out from lower Libors. This was about 
+survival.
+
+Ironically, just as Libor’s accuracy faltered, its importance rocketed. As the 
+financial crisis deepened, central bankers monitored Libor in different 
+currencies to see how successful their latest policy announcements were in 
+calming markets. Governments looked at individual firms’ submissions for clues 
+as to who they might be forced to bail out next. If banks were lying about 
+Libor, it was not just affecting interest rates and derivatives payments. It 
+was skewing reality.
+
+There was no inkling at this stage that traders such as Hayes were pushing 
+Libor around to boost their profits, but here was a benchmark that relied on 
+the honesty of traders who had a direct interest in where it was set. Libor was 
+overseen by the British Bankers Association (BBA). In both cases, the body 
+responsible for overseeing the rate had no punitive powers, so there was little 
+to discourage firms from cheating.
+
+When McGonagle finished reading the Wall Street Journal article, he emailed 
+colleagues and asked them what they knew about Libor. His team put together a 
+dossier, including some preliminary reports from within the financial 
+community. In March, economists at the Bank for International Settlements, an 
+umbrella group for central banks around the world, had published a paper that 
+identified unusual patterns in Libor during the crisis, although it concluded 
+these were “not caused by shortcomings in the design of the fixing mechanism”.
+
+A month later, Scott Peng, an analyst at Citigroup in New York, sent his 
+customers a research note that estimated the dollar Libor submissions of the 18 
+firms that set the rate were 20 to 30 basis points lower than they should have 
+been because of a “prevailing fear” among the banks of “being perceived as a 
+weak hand in this fragile market environment”.
+
+While there was no evidence of manipulation by specific firms, McGonagle was 
+coming around to the idea of launching an investigation.
+
+In 2009, Hayes was lured away from UBS to join Citigroup. The head of 
+Citigroup’s team in Asia, the former Lehman banker Chris Cecere, a small, 
+goateed American with a big reputation for finding new ways to make money, had 
+been given millions of dollars to attract the best talent – and Hayes was his 
+round-one pick.
+
+It wasn’t just the $3m signing bonus that had won Hayes over. The promise of a 
+fresh start at one of the world’s biggest banks, with him at centre stage in 
+its aggressive expansion into the Asian interest-rate derivatives market, had 
+proved too tempting to resist. After persuading him to join, Cecere boasted to 
+colleagues that he’d found “a real fucking animal”, who “knows everybody on the 
+street”.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2017%2Fjan%2F18%2Flibor-scandal-the-bankers-who-fixed-the-worlds-most-important-number%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fad43f83a9e3d635c8c44ae6717b4f83401fa35cf%2F0_0_5014_3009%2F5014.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Libor%20scandal%3A%20the%20bankers%20who%20fixed%20the%20world%E2%80%99s%20most%20important%20number%20%7C%20Liam%20Vaughan%20and%20Gavin%20Finch&url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2017%2Fjan%2F18%2Flibor-scandal-the-bankers-who-fixed-the-worlds-most-important-number%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Libor%20scandal%3A%20the%20bankers%20who%20fixed%20the%20world%E2%80%99s%20most%20important%20number%20%7C%20Liam%20Vaughan%20and%20Gavin%20Finch&url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2F2017%2Fjan%2F18%2Flibor-scandal-the-bankers-who-fixed-the-worlds-most-important-number%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fad43f83a9e3d635c8c44ae6717b4f83401fa35cf%2F0_0_5014_3009%2F5014.jpg>
+ Citigroup in Canary Wharf, London Photograph: DBURKE / Alamy/Alamy 
+Cecere set in motion plans for Citigroup to join the Tibor (Tokyo interbank 
+offered rate) panel which, Hayes would crow, was even easier to influence than 
+Libor because fewer banks contributed to it. Hayes wanted to hit the ground 
+running when he started trading, and being able to influence the two benchmarks 
+that helped determine the profitability of the bulk of his positions was an 
+important step. Another was bringing Citigroup’s own London-based Libor-setters 
+on board.
+
+On the afternoon of 8 December, Cecere was at his desk on the Tokyo trading 
+floor. He had an office but seldom used it, preferring to be amid the action. 
+He believed that six-month yen Libor was too high. After checking the 
+submissions from the previous day, he was surprised to see that Citigroup had 
+input one of the highest figures.
+
+Cecere contacted the head of the risk treasury team in Tokyo, Stantley Tan, 
+and asked him to find out who the yen-setter was and request that he lower his 
+input by several basis points. It turned out the risk treasury desk in Canary 
+Wharf was responsible for the bank’s Libor submissions.
+
+“I spoke to our point man in London,” Tan wrote back to Cecere that afternoon. 
+“I have asked him to consider moving quotes [lower]”.
+
+Cecere checked the Libors again later that night and was annoyed to see that 
+Citigroup had only reduced its six-month rate by a quarter of a basis point.
+
+He wrote to Tan, “Can you speak with him again?”
+
+The following day, Tan went back to the treasury desk in London as requested. 
+He also forwarded the message chain to Andrew Thursfield, Citigroup’s head of 
+risk treasury in London. The response he got back from his UK counterpart left 
+little room for misinterpretation: it was a thinly veiled warning to back off.
+
+Hayes, who sat just behind his boss, was not on the email chain, but Cecere 
+sent it to him.
+
+Thursfield was a straitlaced man in his forties who had spent more than 20 
+years in risk management at Citigroup after joining as a graduate trainee. He 
+saw himself as the guardian of the firm’s balance sheet and didn’t take kindly 
+to being told how to do his job by a pushy trader who knew nothing of the 
+intricacies of bank funding.
+
+Rather than lowering the inputs, Thursfield’s team increased its submission 
+days later, pushing the published Libor rates higher. Hayes would have to try a 
+different tack. On 14 December he sent an email to his London counterpart, 
+asking him to approach the rate-setters directly.
+
+“Do you talk to the cash desk and did we know in advance?” Hayes asked, 
+referring to the bank’s decision to bump up its Libor submissions. “We need 
+good dialogue with the cash desk. They can be invaluable to us. If we know 
+ahead of time we can position and scalp the market.”
+
+What Hayes didn’t realise was that no amount of schmoozing was going to get 
+the rate-setters onside. Unlike some banks, Citigroup was taking the CFTC’s 
+investigation into Libor seriously. In March 2009, Thursfield had personally 
+delivered an 18-page presentation via video link to investigators on the 
+rate-setting process. The cash traders weren’t about to risk their necks for 
+someone they didn’t know who worked on the other side of the world.
+
+It wasn’t just that they knew they were being watched. Thursfield was not only 
+a stickler for the rules but had taken a personal dislike to Hayes when the 
+pair had met three months earlier. It was October 2009, shortly after Hayes had 
+accepted the job at Citigroup, and his boss had sent him to London to meet the 
+bank’s key players.
+
+“Good to meet you. You can help us out with Libors. I will let you know my 
+axes,” Hayes said by way of an opening gambit when he was introduced to 
+Thursfield.
+
+Unshaven and dishevelled, Hayes told the Citigroup manager how the cash desk 
+at UBS frequently skewed its submissions to suit his book. He boasted of his 
+close relationships with rate-setters at other banks and how they would do 
+favours for each other. Hayes was trying to charm Thursfield, but he had badly 
+misjudged the man and the situation. The following day Thursfield called his 
+manager, Steve Compton, and relayed his concerns.
+
+“Once you stray on to talking about Libor fixings, I mean we just paid another 
+$75,000 bill to the lawyer this week for the work they’re doing on the CFTC 
+investigation,” Thursfield said. “Whoever is the desk head, or whatever, 
+[should] have a close watch on just what he’s actually doing and how publicly. 
+It’s all, you know, very much barrow-boy-type [behaviour].”
+
+The knock on Hayes’s door came at 7am on a Tuesday, two weeks before Christmas 
+2012. Hayes padded down the bespoke pine staircase of his newly renovated home 
+in Woldingham, Surrey, to let in more than a dozen police officers and Serious 
+Fraud Office investigators. A year before, he had been fired from Citigroup, 
+and shortly afterwards returned to the UK, where he married his girlfriend 
+Sarah Tighe.
+
+Hayes stood at his wife’s side as the officers swept through the property, 
+gathering computers and documents into boxes and loading them into vehicles 
+parked at the end of the gravel driveway. The couple had only moved in a 
+fortnight before. Their infant son was upstairs in bed. Traffic was heavy by 
+the time the former trader was led to the back of a waiting car. The 20-mile 
+crawl from Surrey to the City of London passed in silence.
+
+Bishopsgate police station is a grey, concrete building on one of the 
+financial district’s busiest thoroughfares. In a formal interview, Hayes was 
+told he had been brought in to answer questions relating to allegations that 
+between 2006 and 2009 he had conspired to manipulate yen Libor with two of his 
+colleagues. Hayes responded that he planned to help but would need time to 
+consider the 112 pages of evidence so would not be answering any questions that 
+day. It was late when he arrived back in Surrey.
+
+In June, Barclays had become the first bank to reach a settlement 
+<https://www.theguardian.com/business/2016/aug/08/barclays-libor-100m-us-settlement>
+ with authorities, admitting to rigging the rate and agreeing to pay a 
+then-record £290 million in fines. From the moment Barclays had settled, 
+sparking a political firestorm that burned for weeks, Hayes’s destiny had been 
+leading to this point. The Serious Fraud Office (SFO), which had previously 
+resisted launching a probe into Libor rigging, was forced to reverse its 
+position and on 6 July issued a statement announcing it would be undertaking a 
+criminal investigation. That week the government launched its own review into 
+the scandal. The British public and its politicians were out for scalps.
+
+On 19 December, eight days after his arrest, Hayes was at home on his computer 
+when a news bulletin popped up with a link to a press conference in Washington. 
+As cameras flashed, Attorney General Eric Holder and Lanny Breuer, head of the 
+Justice Department’s criminal division, took turns outlining the $1.5bn 
+settlement the authorities had reached with UBS over Libor. The Swiss bank, 
+they explained, had pleaded guilty to wire fraud at its Japanese arm. Then came 
+the sucker punch.
+
+Hayes was the star attraction, the 'Jesse James of Libor', as he would later 
+tell it
+
+“In addition to UBS Japan’s agreement to plead guilty, two former UBS traders 
+have been charged, in a criminal complaint unsealed today, with conspiracy to 
+manipulate Libor,” said Breuer. “Tom Hayes has also been charged with wire 
+fraud and an antitrust violation.” Neither Tan nor Cecere has ever been charged 
+with wrongdoing.
+
+At that moment the full horror of the situation hit Hayes for the first time. 
+The two most powerful lawyers in the US planned to extradite him on three 
+separate criminal charges, each carrying a 20–30 year sentence. Less than 24 
+hours later, a member of Hayes’s legal team was on the phone to the SFO to 
+discuss cutting a deal.
+
+Fighting the charges seemed futile: the UBS settlement made reference to more 
+than 2,000 attempts by Hayes and his colleagues to influence the rate over a 
+four-year period. He was the star attraction, the “Jesse James of Libor”, as he 
+would later tell it. The US authorities had yet to issue extradition papers, 
+but it was only a matter of time.
+
+RBS, Barclays and other banks fined in Swiss franc Libor case
+ Read more  
+<https://www.theguardian.com/business/2016/dec/21/rbs-barclays-banks-fined-swiss-franc-libor>
+So began a race to convince the SFO to take on Hayes as a sort of chief 
+informant, who in return would receive leniency and, more importantly, an 
+agreement that he would be dealt with in the UK.
+
+To secure this arrangement Hayes had to agree to tell the SFO everything he 
+knew and promise to testify against everybody involved. Crucially, he also had 
+to plead guilty to dishonestly rigging Libor. It was not enough to admit trying 
+to influence the rate. He had to confess that he knew it was wrong.
+
+During two days of so-called scoping interviews to test his knowledge of the 
+case, Hayes talked openly about his campaign to rig Libor, for the first time 
+in his life. At the SFO’s offices near Trafalgar Square he admitted he had 
+acted dishonestly and brought the investigators’ attention to aspects of the 
+case they knew nothing about. The interviews covered everything from his entry 
+into the industry and his trading strategies to how the Libor scheme began and 
+the various individuals who helped him rig the rate. They barely had to prod to 
+get him to talk. Hayes seemed to relish reliving moments from his past. His 
+voice sped up when he talked about heady days piling into positions, squeezing 
+the best prices from brokers and playing traders off against each other.
+
+“The first thing you think is where’s the edge, where can I make a bit more 
+money, how can I push, push the boundaries, maybe you know a bit of a grey 
+area, push the edge of the envelope,” he said in one early interview. “But the 
+point is, you are greedy, you want every little bit of money that you can 
+possibly get because, like I say, that is how you are judged, that is your 
+performance metric.”
+
+Paper coffee cups piled up as Hayes went over the minutiae of the case. At one 
+stage,Hayes 
+<https://www.theguardian.com/business/2016/may/04/tom-hayes-jailed-libor-criminal-cases-review-commission>
+ was asked about how he viewed his attempts to move Libor around. The exchange 
+would prove crucial.
+
+“Well look, I mean, it’s a dishonest scheme, isn’t it?” Hayes said. “And I was 
+part of the dishonest scheme, so obviously I was being dishonest.”
+
+Main photograph: Tom Archer/Barcroft Media
+
+• This article is adapted from The Fix: How Bankers Lied, Cheated and Colluded 
+to Rig the World’s Most Important Number 
+<https://bookshop.theguardian.com/fix-485998.html?utm_source=editoriallink&utm_medium=merch&utm_campaign=article>
+ by Liam Vaughan and Gavin Finch (Wiley, £19.99). To order a copy for £16.99, 
+go tobookshop.theguardian.com <https://bookshop.theguardian.com/> or call 0330 
+333 6846
+
+ 

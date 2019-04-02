@@ -1,0 +1,17 @@
+
+Jamie Andrews and Eugene Bolshakov explain what they built and how they built 
+it ina guest blog post on the Open Platform web site 
+<https://www.theguardian.com/open-platform/blog/local-content-for-local-travel>:
+
+We started building Loco2's journey planning application 
+<http://loco2travel.com/journeyplanner> because we wanted to make it much 
+easier for environmentally-aware travellers to find viable alternatives to 
+flying. Taking the train instead of the plane can save up to 90% of CO2 for 
+European journeys, but travelling beyond Paris or Brussels can seem a little 
+daunting.
+
+Once we have verified that the location name is recognised by Geonames we post 
+it to the Guardian API. We search for all articles that have the location name 
+in the body, and then filter the results to discard everything except those 
+tagged with 'travel'.
+ 

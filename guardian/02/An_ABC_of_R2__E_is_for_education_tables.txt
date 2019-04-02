@@ -1,0 +1,26 @@
+
+Today E, for education tables... which is one of the features central to the 
+Eduction section. An example isthis page of GCSE results 
+<https://www.theguardian.com/education/table/2008/oct/16/schooltables-gcses>.
+
+Education tables are a great example of how one specialist requirement can 
+reap rewards for so many others. We decided the Education section couldn't be 
+launched until we had created the ability to display and manage tables, and 
+that's one reason why we waited until August 2008 to launch it -- there were a 
+lot of other features to build before we got to tables.
+
+Since launching tables for the Education section we've extended them for wider 
+use. For example, they now feature more flexible formatting and the ability to 
+click on a column for sorting. They're also being used in other sections, such 
+as in the Media section to displaynewspaper circulation 
+<https://www.theguardian.com/media/table/2008/nov/07/abcs-pressandpublishing>, 
+and the Football section tocompare recent Spurs managers 
+<https://www.theguardian.com/football/table/2008/oct/26/tottenham-hotspur-managers>
+.
+
+Journalism used to be about writing articles; these days it includes not just 
+text, nor just audio and video, but also -- as people likeAdrian Holovaty 
+<https://www.theguardian.com/media/pda/2008/jun/06/futureofjournalismadrianh> 
+andJeff Jarvis <http://www.buzzmachine.com/2008/07/04/data-are-news/> have long 
+said -- managing and exposing data. This is one example of how that can happen.
+ 

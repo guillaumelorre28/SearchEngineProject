@@ -1,0 +1,178 @@
+
+Google's former chief executive Eric Schmidt 
+<https://www.theguardian.com/technology/eric-schmidt> told jurors on Tuesday 
+that he was confident that the Android smartphone platform was developed 
+legally, and that top executives at Sun Microsystems did not object to the 
+project now at the centre of a high-stakes court battle.
+
+"My understanding was what we were doing was permissible," he said. "From the 
+sum of my experiences and interactions, I was very sure what we were doing was 
+legally correct."
+
+Schmidt, now Google's executive chairman, took the stand in the trial of 
+Oracle against Google over the use and development ofAndroid 
+<https://www.theguardian.com/technology/android>, which now powers around 300m 
+smartphones and tablets around the world.
+
+Oracle, which acquired Sun in 2010 after bidding for it in 2009, sued Google 
+in August 2010, saying Android infringed on its copyrights and patents for the 
+Java programming language.Google <https://www.theguardian.com/technology/google>
+ countered that it does not violate Oracle's patents and that Oracle cannot 
+copyright certain parts of Java, an open source software language.
+
+In court on Tuesday, Oracle <https://www.theguardian.com/technology/oracle> 
+lawyer David Boies showed Schmidt a 2005 presentation given to Google's top 
+managers that said Google must take a licence from Sun. Schmidt said he could 
+not recall being told that was the case.
+
+Schmidt said at one point that Google derived enough advertising revenue from 
+Android to fund the operating system and a whole bunch more.
+
+"The goal was to get as many users as we could on a powerful new platform that 
+could exploit the Web," Schmidt said of Android.
+
+But Schmidt did not specify how much money Google gets from Android; the 
+company has fought to keep that figure out of the glare of the courtroom 
+spotlight, although US District Judge William Alsup, presiding over the case, 
+has said that such data is not off-limits and can be demanded in evidence.
+
+So far Oracle's lawyers have not sought to elicit it, although that might 
+emerge in any damages claim later in the case.
+
+Greater ease
+
+Unlike Google chief executive Larry Page, who testified last week, Schmidt 
+appeared much more at ease while parrying questions from Boies about the 
+development of Android.
+
+Reports from the courtroom suggested that he was able to hold the jury's 
+interest far more effectively than previous witnesses, including Page and 
+Android chiefAndy Rubin <https://www.theguardian.com/technology/andy-rubin> – 
+who preceded him on the stand – in explaining the sometimes deeply complex 
+topic of program code and classes, and application programming interfaces 
+(APIs).
+
+Oracle claims that Google has infringed 37 Java APIs in Android. Judge Alsup 
+ruled earlier this week thathe will decide on whether APIs can be copyrighted, 
+but said it would be up to the jury to decide whether Google's use of the APIs 
+in Android – which have essentially identical names and, apparently, functions 
+as those in Java – are fair use of a limited amount of a copyrighted work, or 
+infringement.
+
+Schmidt said that Google did not need a licence from Sun to create its own 
+version of Java. Boies pointed out that Google was the only company yet cited 
+which used Java's APIs without a licence.
+
+Schmidt said that Google had planned to use Java from the start of the project 
+– but disagreed on the characterisation of the computer language and platform.
+
+"An interface is a specification. A name," he said. "There's a collection of 
+those names that forms the standard that Java uses. We – Google – implemented 
+those interfaces in our own way."
+
+Challenged on whether Google had copied the 37 APIs, Schmidt responded: "We 
+used the interface names, which is how one does this, and then did our own 
+implementation of those services."
+
+Oracle has pointed to lines of code that are the same in Android's source and 
+in Java as evidence of direct copying rather than a clean room implementation 
+of the language, and suggested that makes Google liable to license Java.
+
+"Are you saying the only thing you copied was the names?" asked Boies.
+
+"Yes," said Schmidt.
+
+Final exam
+
+Boies's examination of Schmidt was the final part of Oracle's case on 
+copyright.
+
+At one point, Schmidt asked Boies to repeat a question, saying he wanted to be 
+sure he answered it truthfully. "I want you to answer truthfully," Boies 
+replied, prompting Schmidt to laugh.
+
+Boies had been less happy earlier in the day with Rubin. Boies had cited an 
+email from Rubin at the time when Google was developing Android in which Rubin 
+wrote: "I think a clean room implementation is unlikely because of prior 
+knowledge … anyone with specific knowledge especially those from Sun are 
+tainted and would be bad."
+
+Google has hired a number of former Sun staff in recent years, including for 
+the Android project.
+
+But courtroom observers described Rubin as having sidestepped questions from 
+Boies, who wanted to show that Google knew developing its own version could 
+fragment Java. Rubin said he didn't recognise the lawyer's use of the word 
+fragmentation.
+
+Rubin then testified to Google's lawyer that the team had considered using 
+Javascript, Python and Lua to implement Android.
+
+But he said that his experience from his first mobile startup, Danger 
+(subsequently sold to Microsoft after Rubin had left it) had highlighted the 
+benefits of Java – it was a well-known brand name with wide compatibility, and 
+was taught at many universities worldwide.
+
+He said he had led preliminary negotiations with Sun about implementing Java 
+on Android in 2005.
+
+In one telling email to a Java licensing account manager at Sun, Rubin wrote 
+that allowing Android to go open source could mean a really close partnership. 
+"As discussed, the two companies [Google and Sun Microsystems] are aligned 
+against a common industry bully" – apparently a reference to Microsoft.
+
+Google then called Schmidt straight back to the stand as its first defence 
+witness, where he was questioned by Google lawyer Robert Van Nest.
+
+Schmidt told him that in 2006 Sun wanted roughly $30m (£18.6m) to $50m to 
+develop a mobile platform jointly with Google. Such a deal would have saved 
+Google time in getting Android to market, Schmidt said.
+
+"We would have paid that simply to resolve it," he said. The period predated 
+Apple's release of the iPhone, though Schmidt may have been aware of its 
+development because he then sat on Apple's board.
+
+Instead, Schmidt said: "It's hard to relate to that now, but we were very 
+concerned Microsoft's mobile strategy would be successful."
+
+Microsoft at the time was driving hard with its Windows Mobile platform, which 
+was attracting a growing number of handset makers, leaving Nokia, Microsoft, 
+Palm and BlackBerry maker RIM as the key platforms in the market.
+
+Microsoft's power in the mobile market has since withered in the face of the 
+onslaught of Android, which now powers more than 50% of smartphone handsets 
+being sold worldwide.
+
+But, Schmidt said, negotiations between the two companies faltered. 
+
+Rubin later testified that while Google wanted to make the software platform 
+open source, Sun wanted to impose restrictions to which Google was opposed.
+
+Alone with Android
+
+After Google developed Android on its own and announced it at the end of 2007, 
+Schmidt said he had multiple meetings with Sun chief executive Jonathan 
+Schwartz, who never expressed any disapproval about Android.
+
+Google has argued that Oracle launched the lawsuit only after Oracle decided 
+it would be unable to develop a smartphone on its own.
+
+The trial, expected to last at least eight weeks, has been divided into three 
+phases: copyright liability, patent claims, and – if the jury determines that 
+there has been infringement by Google – damages.
+
+Early in the case, estimates of potential damages against Google ran as high 
+as $6.1bn. But Google successfully narrowed Oracle's patent claims and reduced 
+the possible award. Oracle is seeking roughly $1bn in copyright damages.
+
+The jury will deliberate on copyright liability before moving on to hear 
+evidence about patent infringement.
+
+Since the start of the trial, the US Patent Office has upheld one of the 
+patents that Google had contested; that means that Oracle will be able to 
+assert three rather than two patents during the second part of the case.
+
+Judge Alsup may also decide some of the copyright issues.
+
+Updated to clarify that Alsup will rule on whether APIs can be copyrighted.
+ 

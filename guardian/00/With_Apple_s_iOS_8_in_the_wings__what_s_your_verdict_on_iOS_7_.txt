@@ -1,0 +1,98 @@
+
+In October 2013, we asked whether you loved or loathed iOS 7 
+<https://www.theguardian.com/technology/2013/oct/08/apple-ios-7-update-iphone-problems-headaches>
+, which was then the brand-new look for Apple's mobile software.
+
+Its introduction had caused a huge stir: it was the first time Jonathan Ive 
+<https://www.theguardian.com/technology/jonathan-ive>, formerly in charge of 
+hardware design at Apple, had given his imprimatur to software. Primary 
+colours, "flat" design, thinner text, gesture-based operation: it was a radical 
+shakeup of the previous seven years' design.
+
+Yet uptake was quick: even by last October, two-thirds of compatible devices - 
+iPhones, iPads and iPod Touches - were already running it. Now the figure is 
+88%,according to Apple's figures <https://developer.apple.com/support/appstore/>
+, with 10% on iOS 6, and 2% on older versions. (In the US the figure is 91.75%,
+according to Mixpanel <https://mixpanel.com/trends/#report/ios_7>, with 7.10% 
+running iOS 6, and 1% running older versions.)
+
+In a few days, Apple <https://www.theguardian.com/technology/apple> will 
+preview some of the new features of iOS 8 at its Worldwide Developer Conference 
+(WWDC) in San Francisco. That's ahead of the software release, expected in 
+autumn.
+
+Happy, sad, indifferent?
+
+But are people happier now about what they weren't happy about then? On the 
+other hand, have niggles surfaced from continued use that weren't obvious 
+before? Have the bright primary colours and lack of skeuomorphism grown on you? 
+Or do they grate even more?
+
+It's time for some stocktaking: what's the verdict on iOS 7, as it hits its 
+prime?
+ Airdrop in iOS 7: doyou use it? Photograph: Apple 
+What about the features added in iOS 7 - such as "Airdrop", which lets you 
+pass files (such as photos) between devices - do you use it? Or the unlimited 
+number of pages in Safari (andReading List, which lets you view offline)?
+
+Or how about swiping - between pages in Safari (to go back and forward through 
+pages you've visited), messages in Mail (swipe right to get a menu including 
+delete; swipe left in a message to go back to the mailbox), or pages in apps 
+such as Echofon or Train Times (where if you're reading an individual page, 
+swiping left takes you back to the previous one - no more reaching to the top 
+left for "Back")?To me, it signals a larger phone screen in the works 
+<https://www.theguardian.com/technology/2013/sep/18/ios-7-review-apple> (so iOS 
+7 is getting you used to how to use it) - but do you use that action?
+ The 'frosted glass' effect from the Control Center overlay in iOS 7. Like it? 
+Photograph: Apple 
+Is the "frosted glass" in the transparency layers useful or annoying? Do you 
+wish you could change the elements in theControl Center (which you reach by 
+swiping up from the bottom) - so for example it would contain your favourite 
+apps, not just the clock, torch, calculator and camera?
+
+Do you use "Frequent places" (which can give you travel time estimates between 
+"Home" and "Work" and other subsidiary locations you frequently visit? IsSiri 
+any better? Or (dare one ask)Maps? 
+
+Down deeper
+
+What about the deeper technologies that were introduced, such as the Multipeer 
+Connecitivity Framework, which enables "off grid" chatting through apps such as 
+Firechat <https://itunes.apple.com/gb/app/firechat/id719829352?mt=8>? Do you 
+use it? There's also better multitasking, with the option to let some apps run 
+all the time in the background. Helpful? Or battery vampire?
+
+With security on many peoples' minds, have you used the iCloud Keychain, which 
+looks after your website logins, credit card info, Wi-Fi network logins, and 
+account information - essentially, a password manager?
+
+Then there's the "iCloud activation" locking (whereby if the phone is stolen, 
+and someone tries to wipe it and resell it, they won't be able to activate it 
+without the Apple ID and password originally used to set it up). Has it helped? 
+The "Trusted Devices" setting (which wasn't much mooted) asks whether to trust 
+a computer if you connect it while the phone is unlocked. (If the phone is 
+locked, then it won't trust a device by default.)
+
+Pass, friend?
+
+Passbook (Apple's method for storing electronic airline tickets and so on) 
+also added a QR scanner. Ever used it? How aboutFacebook Audio, effectively 
+Apple's VOIP offering?
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fmay%2F29%2Fapple-ios8-ios7-iphone-ipad-wwdc%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F5%2F29%2F1401363571856%2F42a63ad4-8d30-45d8-912e-f9916f73ad69-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=With%20Apple's%20iOS%208%20in%20the%20wings%2C%20what's%20your%20verdict%20on%20iOS%207%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fmay%2F29%2Fapple-ios8-ios7-iphone-ipad-wwdc%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=With%20Apple%27s%20iOS%208%20in%20the%20wings%2C%20what%27s%20your%20verdict%20on%20iOS%207%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fmay%2F29%2Fapple-ios8-ios7-iphone-ipad-wwdc%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F5%2F29%2F1401363571856%2F42a63ad4-8d30-45d8-912e-f9916f73ad69-2060x1236.jpeg>
+ The iPhone 5S includes Touch ID for fingerprint unlocking. Photograph: Justin 
+Sullivan/Getty Images 
+Finally, there's Touch ID - not a feature of iOS 7 itself, but of the iPhone 
+5S. Do you use it to unlock your phone and make iTunes Store purchases? Or is 
+it just an annoyance?
+
+Let us know your considered thoughts on your use of iOS 7 in the comments.
+
+And one more thing: what's the single new feature you'd most like to see in 
+iOS 8? Only one - so make it a good one.
+
+ 

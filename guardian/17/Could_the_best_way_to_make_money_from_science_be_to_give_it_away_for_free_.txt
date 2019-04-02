@@ -1,0 +1,113 @@
+
+With the help of Tanenbaum’s gift of 20 million Canadian dollars (£12million) 
+the ‘Neuro’, the Montreal Neurological Institute and Hospital, is setting up an 
+experiment in experimentation, anOpen Science Initiative 
+<http://www.sciencemag.org/news/2016/01/montreal-institute-going-open-accel-erate-science>
+ with the express purpose of finding out the best way to realise the potential 
+of scientific research.
+
+It is hard to be against ‘open science’. Openness – the public sharing and 
+challenging of knowledge – is held up as one of the foundational ideals of 
+science. During the cold war, Niels Bohr was not alone in arguing that this 
+principle should apply to politics too: ‘The best weapon of a dictatorship is 
+secrecy, but the best weapon of a democracy should be the weapon of openness’. 
+For much of its history, science has been ahead of the curve when it comes to 
+openness. However, as access to online information has exploded, scientific 
+research, much of which is hidden behind paywalls, looked like a closed shop.
+
+
+As open access 
+<https://www.theguardian.com/science/open-access-scientific-publishing> to the 
+pdfs produced by scientists begins to gain momentum, some have begun to 
+question whether this goes far enough. Evgeny Morozov is critical of rhetorical 
+nods to openness 
+<http://www.nytimes.com/2013/03/17/opinion/sunday/morozov-open-and-closed.html?_r=0>
+, which he calls ‘the latest opiate of the (iPad-toting) masses… “open” has 
+become the new “green.”’ A 2012report from the Royal Society 
+<https://royalsociety.org/topics-policy/projects/science-public-enterprise/report/>
+ argued for meaningful, ‘intelligent openness’ rather than blanket transparency.
+
+One area in which openness threatens to be truly meaningful is intellectual 
+property, and it is here that the Montreal Open Science Initiative is 
+disruptive. It will be built on a hypothesis that could overturn our 
+assumptions about the value of science to the economy. Rather than capturing 
+the potentially lucrative intellectual property from basic and clinical 
+neuroscience, the Neuro will be giving it away.
+
+Governments in science-rich countries are increasingly concerned that they do 
+not appear to reaping the economic returns they feel they deserve from 
+investments in scientific research. Their favoured response has been to try to 
+bridge what they see as a‘valley of death’ 
+<http://www.publications.parliament.uk/pa/cm201213/cmselect/cmsctech/348/348.pdf>
+ between basic scientific research and industrial applications. This has meant 
+more funding for ‘translational research’ and the flowering of technology 
+transfer offices within universities.
+
+In 1980, the US Congress cemented this new approach with the Bayh-Dole act, 
+granting universities the right to make money from the intellectual property of 
+their researchers. There are some success stories, particularly in the life 
+sciences.Patents from the work of Richard Axel at Columbia University 
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2750841/> at one point brought 
+the university almost $100 million per year. The University of Florida received 
+more than $150 million for inventing Gatorade in the 1960s. The stakes are high 
+inthe current battle between Berkely and MIT/Harvard 
+<https://www.bloomberg.com/graphics/2016-university-patents/> over who owns the 
+rights to the CRISPR/Cas9 system that has revolutionised genetic engineering 
+and could be worth billions.
+
+Policymakers imagine a world in which universities pay for themselves just as 
+a pharmaceutical research lab does. However, for critics of technology 
+transfer, such stories blind us to the reality of university’s entrepreneurial 
+abilities.
+
+For most universities, evidence of their money-making prowess is, to put it 
+charitably, mixed. Arecent Bloomberg report 
+<https://www.bloomberg.com/graphics/2016-university-patents/> shows how quickly 
+university patent incomes plunge once we look beyond the megastars. In 2014, 
+just 15 US universities earned 70% of all patent royalties. British science 
+policy researchersPaul Nightingale and Alex Coad 
+<http://quarterly.demos.co.uk/article/issue-2/innovation-and-growth/> conclude 
+that ‘Roughly 9/10 US universities lose money on their technology transfer 
+offices… MIT makes more money from selling T-shirts than it does from 
+licensing’. Areport from the Brookings institute 
+<https://www.brookings.edu/research/university-start-ups-critical-for-improving-technology-transfer/>
+ concluded that the model of technology transfer ‘is unprofitable for most 
+universities and sometimes even risks alienating the private sector’. In the 
+UK, the situation is even worse. Businesses who have dealings with universities
+report that their technology transfer offices are often unrealistic in 
+negotiations 
+<http://www.publications.parliament.uk/pa/cm201213/cmselect/cmsctech/348/348.pdf>
+. In many cases, academics are, like a small child who refuses to let others 
+play with a brand new football, unable to make the most of their gifts. And 
+areas of science outside the life sciences are harder to patent than medicines, 
+sports drinks and genetic engineering techniques. Trying too hard to force 
+science towards the market may be, to use the phrase of science policy 
+professor Keith Pavitt, like pushing a piece of string.
+
+Science policy is slowly waking up to the realisation that the value of 
+science may lie in people and places rather than papers and patents. It’s an 
+idea that the Neuro, with the help of Tanenbaum’s gift, is going to test.By 
+sharing data and giving away intellectual property 
+<http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2001259>, 
+the initiative aims to attract new private partners to the institute and build 
+Montreal as a hub for knowledge and innovation. The hypothesis is that this 
+will be more lucrative than hoarding patents.
+
+This experiment is not wishful thinking. It will be scientifically measured. 
+It is the job of Richard Gold, a McGill University law professor, to see 
+whether it works. He told me that his first task is ‘to figure out what to 
+counts… There’s going to be a gap between what we would like to measure and 
+what we can measure’. However, he sees an open-mindedness among his colleagues 
+that is unusual. Some are evangelists for open science; some are sceptics. But 
+they share a curiosity about new approaches and a recognition of a problem in 
+neuroscience: ‘We haven’t come up with a new drug for Parkinson’s in 30 years. 
+We don’t even understand the biological basis for many of these diseases. So 
+whatever we’re doing at the moment doesn’t work’. There are plenty of issues to 
+work out, including how young scientists can progress while giving away the 
+fruits of their labour and how patient privacy should be protected, but Gold is 
+sanguine about this shared experiment in open science: ‘Even if we’re wrong, 
+we’re contributing to our knowledge of how science works’.
+
+This article was updated after launch to correct Larry Tanenbaum’s name.
+
+ 

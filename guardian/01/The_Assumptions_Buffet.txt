@@ -1,0 +1,122 @@
+
+The assumptions buffet is a technique that a number of teams have used here at 
+the Guardian as part of product discovery. The methodology is designed to 
+challenge and test our underlying assumptions by exposing users to several 
+different concepts in one session. It’s the equivalent of speed dating for UX 
+researchers and users.
+
+In one day, you can test three or four concepts with roughly a dozen users. 
+Give it a go - we promise you will learn a surprising amount and gather the 
+evidence needed to validate or invalidate your core assumptions quickly.
+
+Running an assumptions buffet successfully can be tricky - good planning and 
+practice are rewarded with more robust insights.
+
+Preparing for your buffet
+
+The assumptions buffet sounds grander than it is. The concept is actually 
+quite simple, but unfortunately does not involve any sausage rolls.
+
+Before the day:
+
+ * Define the objective of the session. Choose your theme and what assumptions 
+you’re planning to test 
+ * Prepare your concepts and if needed break these down further to raw 
+assumptions. Create concept prototypes that articulate the assumptions clearly 
+without any distractions 
+ * Create an interview script designed to elicit evidence that will confirm or 
+invalidate each assumption. Remember not to use leading questions 
+ * Recruit team members to conduct user interviews and take notes 
+ * Recruit users that will be able to answer your questions and reflect your 
+target audiences 
+ * Plan and schedule the interviews
+
+Example schedule:
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Finfo%2Fdeveloper-blog%2F2016%2Fdec%2F17%2Fthe-assumptions-buffet%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F5d6fa8cd9b0848df9c26d7f231980c6cc9c7d2ea%2F0_0_1017_225%2F1017.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20Assumptions%20Buffet&url=https%3A%2F%2Fwww.theguardian.com%2Finfo%2Fdeveloper-blog%2F2016%2Fdec%2F17%2Fthe-assumptions-buffet%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20Assumptions%20Buffet&url=https%3A%2F%2Fwww.theguardian.com%2Finfo%2Fdeveloper-blog%2F2016%2Fdec%2F17%2Fthe-assumptions-buffet%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F5d6fa8cd9b0848df9c26d7f231980c6cc9c7d2ea%2F0_0_1017_225%2F1017.jpg>
+ An assumptions buffet schedule 
+On the day:
+
+ * Set up a number of stations in the same room - each station will display a 
+single concept 
+ * If you have the facilities, ensure that cameras and microphones are set up 
+at each station 
+ * Have one person interviewing and another person taking notes at each station
+ * Interview participants individually for approximately 15 minutes at each 
+station 
+ * After the time is up, the user moves to the next station 
+ * Once each participant has been to each station, the session is over 
+ * Squeeze as many sessions into the day as you can 
+After the buffet:
+
+ * Synthesise your findings and insights. The assumptions you’ve validated 
+turn into building blocks that you can use to derive more polished designs for 
+future product discovery work 
+ * Share your findings with stakeholders, teammates, and others 
+Conducting user interviews
+
+The interviewer ideally is a trained researcher. Failing that, someone with 
+experience in user interviews, such as product manager, can conduct the 
+interviews instead. If the interviewer does not follow good user interview 
+practices (by asking leading questions and such), the results and insights may 
+be biased.
+
+The art of the design sprint
+ Read more  
+<https://www.theguardian.com/info/developer-blog/2016/dec/02/the-art-of-the-design-sprint>
+At the start, the interviewer and note-taker make the user feel comfortable by 
+introducing themselves and their roles, the purpose of the session and why 
+they’re conducting the interview.
+
+
+The initial line of questioning is light - asking the user who they are, what 
+they do for a living, and their association with the product.
+
+The concept is then presented to them with a prop. This can take several 
+forms, but commonly consist of low-fidelity paper prototypes of landing pages. 
+The prop should be crafted for the session to expose the underlying 
+assumptions. The interviewer spends the 15 minutes using the prop to ask a set 
+of open questions. The note-taker is jotting down both what the user has said 
+and any further observations about the user’s interaction with the prop.
+
+Example questions:
+
+ * “What’s your take on what [x] means?” 
+ * “Is there any kind of [x] you would be interested in?” 
+ * “How do you feel about what you’re seeing?” 
+ * “What would you do if you encountered this?” 
+ * “What does the word ‘[x]’ mean to you?” 
+ * “How do you feel about paying for [x]?” 
+ * “How would you compare [x] to [y]?” 
+What’s great about this technique?
+
+ * You will interrogate the core assumptions on a number of your concepts in a 
+short period of time 
+ * Patterns will emerge when you aggregate the answers that your users have 
+given. These patterns will be evidence to whether your assumptions were correct 
+or not 
+ * Interviewees will go for on some tangents - these can be great nuggets of 
+insight 
+ * It will inspire the team to generate more ideas or lines of inquiry 
+ * Most importantly, you will receive feedback on ideas without building 
+anything 
+What to bear in mind?
+
+
+ * The process needs heavy staffing on the day. A standard session requires 3+ 
+trained user interviewers, 3 good note takers, and a facilitator 
+ * Be sure to recruit the right participants and make sure you structure the 
+initial interview questions to check this. Flag any participant if they seem 
+biased 
+ * Don’t underestimate the preparation needed for the session. It takes a lot 
+of time. How the concepts are presented needs to be thought through 
+ * The output is rich qualitative and attitudinal insight from a small number 
+of people, and needs to be further validated during the later discovery process 
+ * The results are not statistically significant and should be weighted with 
+that in mind 
+ * With the results, you need to be mindful of possible bias and validate 
+insights with existing data or future live data testing.  

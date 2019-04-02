@@ -1,0 +1,214 @@
+
+The hardest puzzle on the internet is not, perhaps, something to be attempted 
+on whim during a quiet January afternoon.
+
+But ever since I first heard about Cicada 3301, a mysterious event somewhere 
+at the intersection of a game, a competition and a job interview, I'd wanted to 
+test my mettle. It couldn't be that hard, right?
+
+Wrong.
+
+Cicada 3301 first appeared in January 2012, with a picture posted on 4Chan, 
+the notorious message board which has given birth to everything from Lolcats to
+Anonymous <https://www.theguardian.com/technology/anonymous>.
+
+In white text on a black background, the posted message read: "Hello. We are 
+looking for highly intelligent individuals. To find them, we have devised a 
+test.
+
+"There is a message hidden in this image.
+
+"Find it, and it will lead you on the road to finding us. We look forward to 
+meeting the few that will make it all the way through.
+
+"Good luck."
+
+It was signed "3301".
+ The puzzles have been going since 2011. This duck was one of the first. 
+Photograph: Cicada 3301 
+That message led to a series of puzzles, each harder than the last. The first 
+few were just about solvable by a canny individual working alone, requiring 
+little more than mild coding ability and wordplay to get past. But as 
+participants fell deeper into the rabbit hole, the references became less 
+obvious – one clue involved a poem from a collection of medieval Welsh 
+manuscripts, another a quote from a William Gibson book which was only released 
+on 3.5 inch floppies.
+
+Co-operating on chatrooms and message boards, a growing collection of puzzle 
+solvers broke the codes, one by one. When the game moved into the real world 
+– a series of GPS co-ordinates were posted, leading to QR codes attached to 
+lampposts over five different nations, from Poland to Australia – it was clear 
+that no single person could hope to solve everything.
+
+But as quickly as the co-operation was encouraged, it was snuffed out. The 
+final puzzle directed players to an address for a website on Tor, the anonymous 
+browser now best known for its use by the Silk Road black market. But only the 
+fastest movers ever got to see what was on the page: it was shortly blanked, 
+and replaced with the statement "We want the best, not the followers." For 
+those deemed "followers", Cicada was over.
+
+Repetition
+
+Then, on January 5 2013, exactly a year and a day after the first posting, a 
+new image was uploaded onto 4chan's /b/ message board. "Hello again. Our search 
+for intelligent individuals now continues," it began. Again, the image led to a 
+series of puzzles; again, the puzzles eventually pointed to locations in the 
+real world; and again, the trail was abruptly closed off to all but the best 
+players.
+
+Those who had failed two years in a row had no choice but to wait and hope the 
+pattern would repeat itself.
+
+It did.
+
+This year's puzzle began slightly differently. Rather than an image posted on 
+4chan, a Twitter feed which had been involved in 2013's hunt sprang to life 
+again,sharing yet another image of white text on a black background  
+<https://twitter.com/1231507051321/status/420087183957966849>– albeit one with 
+more gnomic text than ever before.
+
+"Hello. Epiphany is upon you. Your pilgrimage has begun. Enlightenment awaits."
+
+This year, I tried to join in the hunt. So far, it hasn't gone well.
+
+In fact, it couldn't have started any worse. There are two messages buried in 
+the image file. The first is easy enough to get at: the black of the image 
+isn't actually pure black. Instead, in very dark grey, is the image of a 
+cicada. A couple of seconds messing with the colour levels in Photoshop, and 
+I'd made it visible. Success!
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F10%2Fcicada-3301-i-tried-the-hardest-puzzle-on-the-internet-and-failed-spectacularly%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-1%23img-1&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F1%2F10%2F1389353918411%2F4b8250aa-6915-4893-b65f-3bec0897b1d2-1020x530.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Cicada%203301%3A%20I%20tried%20the%20hardest%20puzzle%20on%20the%20internet%20and%20failed%20spectacularly&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F10%2Fcicada-3301-i-tried-the-hardest-puzzle-on-the-internet-and-failed-spectacularly%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-1%23img-1>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Cicada%203301%3A%20I%20tried%20the%20hardest%20puzzle%20on%20the%20internet%20and%20failed%20spectacularly&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F10%2Fcicada-3301-i-tried-the-hardest-puzzle-on-the-internet-and-failed-spectacularly%3Fpage%3Dwith%3Aimg-1%23img-1&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F1%2F10%2F1389353918411%2F4b8250aa-6915-4893-b65f-3bec0897b1d2-1020x530.jpeg>
+ Change the exposure on the image, and the cicada is revealed. Photograph: 
+Cicada 3301 
+Unfortunately, the actually important message was harder to get.
+
+As with the previous two years, the image included text hidden with 
+steganography, a technique which lets users bury information in seemingly 
+innocuous files. To get the information out required me to use a program called 
+OutGuess. To install OutGuess, I need to compile the program from source. To do 
+that, I need to install Xcode, the Mac OS X developer tools, create a new 
+command line project based on the source code I downloaded, reconfigure the 
+program for Mac, deal with any dependency issues, build it, and then run it 
+from the terminal.
+
+What I actually do is spend the better part of an hour clicking around in 
+Xcode, desperately trying to find a magic button to click which will make 
+everything work without requiring me to learn how to code in an afternoon. 
+There is no such button. This may be harder than I thought.
+
+Out of desperation, I turn to the community. Apparently I'm a few days behind 
+the curve; they've already extracted the text and solved the puzzle. As I look 
+at the solution, my hope begins to melt. It really is mind-bogglingly obtuse.
+
+Solution
+
+The text which can be extracted from the image is split into three parts. The 
+third is just a signature, proof that the image really does come from Cicada 
+and that it hasn't been tampered with. But above it is the next step of the 
+puzzle.
+
+The first part reads like a poem: "The work of a private man/ who wished to 
+transcend,/ He trusted himself, / to produce from within." That's followed by a 
+series of numbers, separated by colons: "1:2:3:1/3:3:13:5/45:5:2:3," and so on, 
+capped by the word ".onion". That last bit means that the solution, when found, 
+will be the url to another website on Tor – following the pattern of the 
+previous years.
+
+So how is it solved? The numbers give a clue: the code probably involves a 
+book. That format is a relatively well-known way of using a book as a key to a 
+code. The first digit is the paragraph, the second is the sentence, the third 
+is the word, and the fourth is the letter. But which book?
+ A message from a community co-ordinator helping to solve the Cicada puzzle. 
+Photograph: /Cicada 3301 
+The answer is contained in the poem. Sort of. It's like the most frustrating 
+cryptic crossword ever, with no conventions, no help as to length, and no way 
+of checking whether you've got the right answer beyond seeing whether the url 
+works.
+
+The answer, apparently, is American author Ralph Waldo Emerson's essay "
+Self-Reliance <http://www.math.dartmouth.edu/~doyle/docs/self/self.pdf>". 
+Here's the community's explanation as to why:
+
+• Poem references transcendentalism
+
+• Emerson is a noted transcendentalist author
+
+• "he trusted himsef" refers to "trust thineself", which is a theme throughout 
+Self-Reliance, as is producing from within
+
+I do not think I would have got that on my own.
+
+Community
+
+There's only been one trustworthy piece of information as to who lies behind 
+Cicada. It comes from an email, leaked by one of the 'winners' of the 2012 
+challenge. It's impossible to verify fully, because the leaker was forced to 
+remove the signature to keep their identity secret, but others who received the 
+same email indicated that the contents were legitimate.
+
+"You have all wondered who we are," it reads in part, "and so we shall now 
+tell you. We are an international group. We have no name. We have no symbol. We 
+have no membership rosters. We do not have a public website and we do not 
+advertise ourselves. We are a group of individuals who have proven ourselves, 
+much like you have, by completing this recruitment contest, and we are drawn 
+together by common beliefs. A careful reading of the texts used in the contest 
+would have revealed some of these beliefs: that tyranny and oppression of any 
+kind must end, that censorship is wrong and that privacy is an inalienable 
+right."
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F10%2Fcicada-3301-i-tried-the-hardest-puzzle-on-the-internet-and-failed-spectacularly%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F1%2F10%2F1389353964158%2F1687f462-12df-4da8-8cbd-e679a4651dbc-bestSizeAvailable.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Cicada%203301%3A%20I%20tried%20the%20hardest%20puzzle%20on%20the%20internet%20and%20failed%20spectacularly&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F10%2Fcicada-3301-i-tried-the-hardest-puzzle-on-the-internet-and-failed-spectacularly%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Cicada%203301%3A%20I%20tried%20the%20hardest%20puzzle%20on%20the%20internet%20and%20failed%20spectacularly&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fjan%2F10%2Fcicada-3301-i-tried-the-hardest-puzzle-on-the-internet-and-failed-spectacularly%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F1%2F10%2F1389353964158%2F1687f462-12df-4da8-8cbd-e679a4651dbc-bestSizeAvailable.png>
+ Part of a Cicada puzzle. Photograph: /Cicada 3301 
+It seems unbelievable, but the number of other possibilities is fast 
+shrinking. At the end of the first Cicada, it was possible that the whole thing 
+was a game, or publicity stunt. Before the launch of Halo 2, Microsoft did 
+something similar, launching an "alternate reality game" called ILoveBees. But 
+that game ran for just three months before it ended with an invitation to play 
+the game; Cicada is now in its third year.
+
+Similarly, the security services have been known to recruit through puzzles 
+and games. But when GCHQ invited people to solve a code to get a job, they did 
+so on a site plastered with their branding 
+<http://grahamcluley.com/2013/09/gchq/>. And it beggars belief that they or the 
+NSA would seriously start a hunt for spies on 4chan.
+
+At the same time, Cicada must be the work of more than one person, with some 
+hefty resources. So far, physical artefacts from the group have appeared in 8 
+nations and 11 US states; it has bought phone numbers; paid for server up time; 
+and offered something to the winners which has earned their silence.
+
+Last chance
+
+I decided to have one last try at solving a puzzle. To stave off the 
+temptation to cheat, I would try and solve the most recent cypher, a 70 
+character code reading "IDGTK UMLOO ARWOE RTHIS UTETL HUTIA TSLLO UIMNI TELNJ 
+7TFYV OIUAU SNOCO 5JI4M EODZZ" which had been found by combining two previously 
+discovered answers.
+
+Eavesdropping on the chat channel, I see someone point out that the Enigma 
+code was formatted in the same way. They link to an Engima simulator, and I 
+give it a go. The most common version of the Enigma has a key of four letters, 
+so there are a little less than half a million combinations.
+
+After half an hour of trying ever four-letter phrase I can think of that 
+Cicada may have picked, based on every previous clue, I give up and go to bed.
+
+In the morning, when I check again, the puzzle has been solved. It involved 
+putting the letters into 13 columns and shuffling the order around until a 
+legible sentence appeared. The Enigma theory does not even warrant a mention.
+
+The answer leads to another darkweb site, with another image, and more 
+puzzles, which remain incomprehensible to me. When I leave the chatroom, they 
+are discussing a large chunk of data found between two images on yet another 
+darkweb site. I give up, and do the G2 crossword instead.
+
+• Just who is playing who in ARGs? 
+<https://www.theguardian.com/technology/2007/jul/26/games.comment>
+ 

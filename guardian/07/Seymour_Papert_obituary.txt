@@ -1,0 +1,123 @@
+
+Seymour Papert, who has died aged 88, had a profound impact on education, and 
+pioneered the use of computers as an aid to learning. Papert’s visionary 
+research put robot turtles into tens of thousands of schools. He also 
+co-authored the Logo programming language, and was involved with the One Laptop 
+Per Child (OLPC) project, which delivered education-oriented laptops to 
+children across the less-developed world. Decades of working with the toy 
+companyLego <https://www.theguardian.com/lifeandstyle/lego> on Lego/Logo, which 
+linked the world of Lego construction with the world of Logo programming, led 
+to the launch in 1998 of the Lego Mindstorms range of robotics toys, which was 
+named to honour Papert’s most influential book, Mindstorms: Children, 
+Computers, and Powerful Ideas (1980).
+
+The influence went both ways. Scratch <https://scratch.mit.edu/>, the leading 
+programming environment for children, is based on enabling children to snap 
+together encapsulations of computer code on their screens in much the same way 
+as they would snap Lego bricks together in the physical world.
+
+Son of Betty and Jack Papert, Seymour was born in Pretoria, South Africa, 
+where his father was an entomologist. He took a BA in philosophy before earning 
+PhDs in mathematics at the University of the Witwatersrand in 1952 and then at 
+Cambridge University in 1959. What changed his life was his next position, at 
+the University of Geneva, where he spent four years researching mathematics and 
+children’s education under the psychologistJean Piaget 
+<http://www.simplypsychology.org/piaget.html>, whose work revolutionised 
+education.
+
+Child’s play had been considered largely inconsequential, but Piaget saw that 
+it was an essential part of a child’s cognitive development. Children were 
+“learning by doing”. Today’s educational toy industry started from there.
+
+Papert understood that mathematics was abstract and theoretical, and that was 
+how it was taught to children. That was why most of them did not understand it. 
+The answer, he thought, was to give children a physical way to think of 
+mathematical ideas. The floor turtle – originally developed in the late 1940s 
+by William Grey Walter – was a start, and Papert created a Logo turtle that 
+could be controlled from a computer.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fvimeo.com%2F143620419&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fvimeo.com%2F143620419>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Fvimeo.com%2F143620419&media=>
+ Video: How the collaboration between Seymour Papert and Lego began. 
+A floor turtle obeys simple instructions that tell it to go forward, stop, 
+reverse, turn by a certain angle, and so on. When it moves, its built-in pen 
+draws a line.A turtle can draw complex patterns 
+<https://upload.wikimedia.org/wikipedia/commons/0/07/Turtle_draw.jpg> by 
+following simple instructions, while sets of instructions form subroutines that 
+can be infinitely repeated. Of course, the Logo language could do the same 
+things with a dot of light on a computer screen. However, floor turtles were 
+easier for small children to grasp, and they also enabled discussion, 
+experimentation and group learning.
+
+Piaget developed a theory of education, which he called constructivism. Papert 
+had his own version, which he called constructionism. This was not so much 
+“learning by doing” as “learning by making”. Papert said: “Learning is most 
+effective when part of an activity the learner experiences as constructing a 
+meaningful product.” He could therefore be considered the father of today’s 
+“maker” movement as well.
+
+As always, chance played a part. In 1960, Papert attended a cybernetics 
+conference in London where he met ProfessorMarvin Minsky 
+<https://www.theguardian.com/technology/2016/feb/03/marvin-minsky-obituary>, 
+co-founder of the artificial intelligence group at MIT, the Massachusetts 
+Institute of Technology. Papert moved to MIT in 1963 and, with Minsky, 
+co-authored Perceptrons (1969), an important book on developing artificial 
+intelligence through neural networks. The two of them were so close they could 
+finish each other’s sentences.
+
+Papert, Minsky and Nicholas Negroponte were the three original faculty members 
+when Negroponte founded the MIT Media Lab in 1985. After that, Papert worked on 
+numerous Media Lab projects, including Negroponte’s OLPC, and Mitchel Resnick’s 
+Scratch. The Media Lab’s playful style of learning was and still is based on 
+Papert’s ideas, and Resnick’s group is called Lifelong Kindergarten.
+
+Papert became involved with Lego in 1984, after the company’s owner, Kjeld 
+Kirk Kristiansen, saw him on a Danish TV programme 
+<http://dailypapert.com/it-all-starts-with-seymour-papert/> talking about 
+turtles and learning through play. He said: “We have to get in contact with 
+him.” What he did not know was that Papert and Resnick were already working on 
+ways to connect Lego bricks to computers.
+
+Negroponte said that “Kjeld and Seymour really hit it off”, and the two 
+organisations started a close association that lasted for more than 30 years. 
+The company sponsored what is now called theLego 
+<https://www.theguardian.com/lifeandstyle/lego> Papert chair at MIT, which 
+Papert occupied from 1989 until 1996, when he handed the reins to Resnick.
+
+As electronics became smaller, lighter and cheaper, Papert and Resnick 
+envisioned an “intelligent brick”, so devices would no longer need to be 
+attached to computers. In about 1990, they started showing Kristiansen 
+prototypes, which MIT researchers had already tested with children. A later 
+design was commercialised and launched as Lego Mindstorms, initiating today’s 
+wide range of products.
+
+Papert was softly spoken and retained a slight South African accent, and his 
+views on equality were strongly held. While at university, he had been an 
+activist in the anti-apartheid movement, and metNelson Mandela 
+<https://www.theguardian.com/world/2013/dec/05/nelson-mandela-obituary>. When 
+he moved to the UK, he became something of a revolutionary socialist, and 
+contributed to the magazineSocialist Review <http://socialistreview.org.uk/>.
+
+After becoming an emeritus professor and semi-retiring from MIT, Papert moved 
+to Maine, where he set up the Learning Barn and a Learning Lab to educate and 
+inspire troubled teenagers. On that and other projects, Papert worked with his 
+fourth wife, the Russian scholar and authorSuzanne Massie 
+<http://www.suzannemassie.com/>.
+
+In 2006, while attending a conference on mathematical instruction in Hanoi, 
+Papert was hit by a motorcycle 
+<https://www.theguardian.com/technology/blog/2007/jan/03/latenewsseymo>. He 
+suffered serious brain injuries, and fell into a coma. It took him several 
+years to recover.
+
+He is survived by Suzanne, whom he married in 1992; by his daughter, Artemis, 
+from his second marriage, to Androula Henriques, which ended in divorce; by 
+three stepchildren Robert, Susanna and Elizabeth; and by his brother, Alan, and 
+sister, Joan.
+
+• Seymour Aubrey Papert, computer scientist, born 29 February 1928; died 31 
+July 2016
+ 

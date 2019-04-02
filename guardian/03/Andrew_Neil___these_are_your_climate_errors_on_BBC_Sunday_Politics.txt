@@ -1,0 +1,217 @@
+
+On last week's BBC show Sunday Politics, Andrew Neil hosted UK Energy and 
+Climate Change Secretary Ed Davey for a discussion about climate science and 
+policy.Neil subsequently requested 
+<https://twitter.com/afneil/status/356450708377182209> that people provide him 
+with examples of the factual errors in this interview. Given that he began the 
+show with several errors aboutthe paper I co-authored finding a 97 percent 
+consensus 
+<http://www.guardian.co.uk/environment/climate-consensus-97-per-cent/2013/may/16/climate-change-scienceofclimatechange>
+ in the peer-reviewed literature that humans are causing global warming (the 
+inspiration for the name of our blog), I would be happy to oblige.
+
+Claims #1–4
+
+"That [97% consensus] survey has of course been substantially discredited ... 
+35 percent of the abstracts were misclassified, and they were classified to the 
+pro-global warming side. Professor Richard Tol ... has disassociated himself 
+from that and said it's not reliable."
+
+Verdict: False on all counts.
+
+All of Neil's claims here refer to comments economist Richard Tol has made 
+about our paper on his personal blog. He submitted those comments to the 
+journal that published our paper, Environmental Research Letters, whose editor 
+promptly rejected his submission.The editor noted 
+<http://richardtol.blogspot.co.uk/2013/06/draft-comment-on-97-consensus-paper.html>
+ that in addition to being "written in a rather opinionated style" and reading "
+more like a blog post than a scientific comment," most importantly,
+
+
+"I do not see that the submission has identified any clear errors in the Cook 
+et al. paper that would call its conclusions into question."
+
+The claim that we "misclassified" 35 percent of abstracts is simply based on 
+Tol's preference that our survey be less precise and make more sweeping 
+generalizations. Our team read and categorized every abstract based on what 
+they said about the causes of global warming, whereas Tol believes that every 
+paper discussing the impacts of climate change should be placed in the 'no 
+opinion' category. We classified these abstracts correctly based on the 
+categories established in our study. Let's just take one quick example, from (
+Soulé 1992 <http://www.sciencedirect.com/science/article/pii/S0953985992712182>
+):
+
+"Humans are engaged in an uncontrolled experiment in planetary heating. Each 
+decade, the concentration of CO2, methane and other greenhouse gases in the 
+atmosphere is increasing by about 4%. All signs point toward unprecedented 
+rates of warming and climate change."
+
+We categorized that as an explicit endorsement of human-caused global warming. 
+Tol would call it "no opinion". You be the judge as to who's misclassified it.
+
+Additionally, when we compared our abstract ratings to the authors' 
+self-ratings based on their full papers, contrary to Neil's claim, we found 
+that we had classified them more in the 'no opinion' category and less in the 
+pro-human caused global warming categoriesthan the authors themselves 
+<http://skepticalscience.com/Consensus-Project-self-rating-data-now-available.html>
+.
+ Histogram of Abstract Rating (expressed in percentages) minus Self-Rating. 
+1–3 = endorsed human-caused global warming, 4 = no expressed position, 5–7 = 
+rejected human-caused global warming. Green bars are where self-ratings have a 
+higher level of endorsement of human-caused global warming than the abstract 
+rating. Red bars are where self-ratings have a lower level of endorsement of 
+human-caused global warming than the abstract rating. 
+Regarding Neil's claim that Tol has disassociated himself from our study: Tol 
+has never been associated with the analysis of our study. He was one of 29,083 
+authors of studies that we examined, and one of 1,200 authors who participated 
+in the self-rating phase. So the statement that he has disassociated himself is 
+meaningless. His opinions about how his own papers should be categorized are 
+included in the 97 percent consensus in self-rated papers.
+
+Those author self-ratings are a key component of our study and conclusions. In 
+both the abstract ratings and author self-ratings, we found the same 97 percent 
+consensus result. Tol has only criticized the abstract ratings survey; even if 
+you disregard those results, the 97 percent self-ratings consensus remains.
+
+This is why our results remain widely accepted. Neil's assertion that they 
+have been "widely discredited" is simply a repetition of baseless claims made 
+on climate contrarian blogs. If Neil relies on contrarian blogs for his climate 
+information, that may explain why he is woefully misinformed on the subject.
+
+Graph #1
+
+In justifying only showing global surface temperatures from 1980 to the 
+present day, Neil showed a faulty graphic of data from the UK Met Office and 
+Hadley Centre (HadCRUT4 
+<http://www.metoffice.gov.uk/hadobs/hadcrut4/data/current/download.html>). It 
+appears to be a graph of the decadally smoothed HadCRUT4 data, but smoothed out 
+even further to eliminate all the 'plateaus' before the year 2000.
+
+Aside from the excessive smoothing, the graph is invalid after the year 2007. 
+Using this decadal smoothing method, each temperature data point is the average 
+of the surrounding decade. So for example, the temperature in 2012 is the 
+average of the temperatures in 2007 through 2017.Problem: lacking a TARDIS 
+<http://en.wikipedia.org/wiki/TARDIS>, we don't yet know the temperature in 
+2017.The Met Office explains 
+<http://www.metoffice.gov.uk/hadobs/hadcrut4/faq.html>,
+
+"Ideally the smoothing should stop before the filter 'runs off' the end of the 
+series, but a series that has been shortened in this way appears not to be 
+up-to-date ... Extending the data series can be done in a number of ways, but 
+the method used for HadCRUT4 is simply to continue the series by repeating the 
+final value."
+
+To sum up, the graph presented by Neil is excessively smoothed, and half of 
+the 'plateau' that was the main focus of the show is artificial.
+
+Verdict: Neil's graph should be totally disregarded and thrown out.  Here is 
+an accurate representation of global surface temperatures, which shows that 
+these sorts of 'plateaus' happen frequently.
+ Average of NASA GISS, NOAA NCDC, and HadCRUT4 monthly global surface 
+temperature anomalies from January 1970 through November 2012 (green) with 
+linear trends applied to the timeframes Jan '70 - Oct '77, Apr '77 - Dec '86, 
+Sep '87 - Nov '96, Jun '97 - Dec '02, and Nov '02 - Nov '12. 
+Claim #5
+
+When addressing his misleading 'plateau' graphic, Neil also claimed,
+
+"The IPCC report says that the real CO2 emission rising temperatures really 
+clicked in after 1980."
+
+Verdict: False.
+
+You can see from this figure 
+<http://www.ipcc.ch/ipccreports/tar/wg1/fig9-13.htm> in the 2001 IPCC report 
+that human-caused global warming really kicked into gear around 1970, but rose 
+steadily throughout the early- and mid-20th century.
+
+Question #1
+
+"Isn't that [global surface temperature] plateau a bit of a puzzle ... Is 
+there at least the possibility - I put it no higher than that - that there is a 
+disconnect now between CO2 emissions and temperatures?"
+
+Answer: We don't yet know exactly how much each factor (e.g. low solar 
+activity, more pollutants in the atmosphere, more ocean warming) has 
+contributed to the slowed global surface warming, but we do know they have 
+contributed to it. As Davey correctly noted,climate models predict 
+<http://www.guardian.co.uk/environment/climate-consensus-97-per-cent/2013/jun/07/global-warming-puzzle-pieces-assembled>
+ that there will be decades with less surface warming and more ocean warming, 
+which isexactly what we're currently seeing 
+<http://www.guardian.co.uk/environment/climate-consensus-97-per-cent/2013/jun/24/global-warming-pause-button>
+.
+
+Davey also did a good job pointing out that Neil was focusing on air 
+temperatures, but 90 percent of global warming goes into the oceans. When we 
+account for all the heat the Earth is accumulating, it's warming at a rate
+equivalent to 4 Hiroshima atomic bomb detonations per second 
+<http://www.guardian.co.uk/environment/climate-consensus-97-per-cent/2013/jun/24/global-warming-pause-button>
+. There is no disconnect there - the planet is continuing to accumulate heat 
+along with the rise in atmospheric carbon dioxide.
+ Source: Climate Nexus 
+Claim #6
+
+"...the Arctic ice melt did not happen other than normally this year."
+
+Verdict: Misleading
+
+The veracity of this claim cannot be evaluated for two reasons. First, it's 
+July. The annual Arctic sea ice melt season continues through September. 
+There's still a good 2 months to go. Second, what exactly is "normal"? Since 
+1980, the Arctic haslost three quarters of its ice mass 
+<http://www.skepticalscience.com/feb-2013-sea-ice-spiral.html>. This year's 
+melt is consistent with thatnew normal of extreme summer sea ice melt, and so 
+far it's eventoward the lower end of the emaciated sea ice extent record 
+<http://nsidc.org/arcticseaicenews/> over the past three decades.
+
+Claim #7
+
+"...the IPCC central forecast of almost 3 percent rise in temperatures. If it 
+turned out, sometimes climate scientists are saying that it's actually going to 
+be 1 percent..."
+
+Verdict: False and confused.
+
+It's difficult to figure out what Neil is referring to here, because he seems 
+to have said "percent" where he meant "degrees Celsius". However, the IPCC 
+projects a range of possible future global warming scenariosdepending on the 
+amount of greenhouse gases humans emit over the next century 
+<http://www.skepticalscience.com/monckton-myth-3-linear-warming.html>.
+
+A 3°C average global surface warming above pre-industrial levels would be a 
+fairly middle-of-the-road scenario. However, the planet has already warmed 
+0.8°C above pre-industrial levels, and we are committed to another half a 
+degree Celsius just from the greenhouse gases we have already emitted. No 
+serious climate scientist believes we can limit warming to 1°C by 2100 without 
+radical greenhouse gas emissions reductions. On the contrary, Neil is 
+suggesting we should do less to reduce emissions, which would commit us to the 
+higher global warming scenarios. Davey again was right to say that we can only 
+limit global surface warming to 2°C if we aggressively reduce greenhouse gas 
+emissions.
+
+The Final Verdict
+
+Ed Davey deserves kudos for doing a very nice job explaining the science to 
+Neil throughout the show. He also debunked Neil's exaggerations of the cost of 
+reducing greenhouse gas emissions. On that point it's important to note that a 
+valid economic analysis must consider both the costs and the benefits of a 
+given policy. According toa recent study by Chris and Mat Hope 
+<http://www.guardian.co.uk/environment/climate-consensus-97-per-cent/2013/jul/12/climate-change-expensive-economy>
+, a ton of carbon dioxide emissions today costs us over $100. We reap economic 
+benefits by reducing those emissions and avoiding the climate damages they 
+cause.
+
+As Davey noted, throughout the show Neil focused only on the bits of evidence 
+that seemed to support his position. He focused exclusively on the slowed 
+global surface warming while ignoring the warming oceans, melting ice, and 
+rising sea levels. He focused on and exaggerated the costs of climate policy 
+while ignoring their benefits. And he focused on attacks on our consensus paper 
+by climate contrarian blogs while ignoring the fact that the 97 percent finding 
+was the result of two independent methods, and alsoconsistent with several 
+previous similar surveys 
+<http://www.skepticalscience.com/global-warming-scientific-consensus-intermediate.htm>
+.
+
+True skepticism requires considering all the available evidence, not just that 
+which seems to support your desired conclusion.
+ 

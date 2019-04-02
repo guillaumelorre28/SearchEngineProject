@@ -1,0 +1,213 @@
+
+One of the big stories to come out of this year’s E3 video games conference 
+was that virtual reality was definitely there. Not hiding in little booths at 
+the peripheral of the main halls, but there, front and centre, with big 
+publishers and big franchises on board.
+
+We saw demos of Resident Evil 7 (RE7) and Fallout 4 running in VR, we saw 
+standalone VR experiences in the form of Star Trek: Bridge Crew and Batman: 
+Arkham VR and we had the promise of virtual reality modes for major releases 
+such as Final Fantasy XV and Star Wars: Battlefront. Meanwhile, Sony promised 
+that 50 titles would be available for itsPlayStation 
+<https://www.theguardian.com/technology/playstation> VR headset by the end of 
+the year, showing that its (comparatively) accessible, wallet-friendly device 
+had major developer support. Suddenly, over the course of four hot June days in 
+Los Angeles, we seemed to have the killer apps that every consumer technology 
+needs and that VR had arguably been missing.
+
+Or did we?
+
+Reactions to E3 as a showcase for the potential of VR gaming have been mixed – 
+especially from those working within the sector. We spoke to a number of 
+virtual reality specialists about the demos shown at the LA Convention centre 
+last month, and while there is a general consensus that mainstream support for 
+the medium is positive, there were plenty of reservations.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F22%2Fvideo-games-virtual-reality-e3-2016%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fcb0b24a5b1e58d8987998cee47f1479a16efed51%2F38_0_1799_1080%2F1799.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=If%20the%20future%20of%20video%20games%20is%20VR%2C%20it%20needs%20to%20stop%20making%20us%20feel%20sick&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F22%2Fvideo-games-virtual-reality-e3-2016%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=If%20the%20future%20of%20video%20games%20is%20VR%2C%20it%20needs%20to%20stop%20making%20us%20feel%20sick&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F22%2Fvideo-games-virtual-reality-e3-2016%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fcb0b24a5b1e58d8987998cee47f1479a16efed51%2F38_0_1799_1080%2F1799.jpg>
+ The Resident Evil 7 VR demo created an excellent sense of place, and didn’t 
+rely too heavily on jump shocks, which are more invasive in VR. But its 
+movement system made some E3 attendees feel sick. Photograph: PR Company Handout
+“It’s brilliant to see VR being taken seriously by large publishers and 
+developers that are not making their own hardware,” says Katie Goode, a veteran 
+virtual reality game developer at small studio, Triangular Pixels. “It means 
+big IP within VR, with Fallout 4 possibly being the most interesting and 
+exciting announcement. For us smaller VR devs, it could also mean there’s more 
+chance of getting funding for our titles from major publishers. However, quite 
+a lot that was shown seems to ignore all the work and research the VR developer 
+community has been sharing and shouting about for some time.”
+
+A key example here is Capcom’s RE7 demo. The game will be playable in VR in 
+full when it arrives next January, but the version shown at E3, while 
+impressively creepy, relied heavily on traditional movement controls. Although 
+players could turn their head to look around, they also needed to use the 
+analogue stick for fine-tuning, and this separation of physical head movement 
+from in-game motion led to nausea for a lot of attendees.
+
+“It’s not as simple as just turning on the ‘make it VR’ switch in your leading 
+IP,” says Tom Gillo, VP of development at UK-based VR developer,nDreams 
+<http://www.ndreams.com/>. “Any of us that have been in VR development these 
+past three years know that comfort is a huge issue and, in particular, 
+traversal in VR is notoriously tricky. I wasn’t surprised to read about VR 
+sickness being reported by many after playing RE7 VR; it seems they haven’t 
+reworked the control scheme to account for virtual reality and they - or rather 
+players of the demo – paid the price.
+
+“This, though, is the challenge that VR presents. It’s just not good enough to 
+simply take an existing control scheme and expect it to work – the rulebook 
+changed with the new medium and developers really need to spend the time – and 
+money – to figure out conceits that work well and then design controls to 
+support that conceit.”
+
+So if using the left-stick to provide artificial locomotion is a fast lane to 
+motion sickness, what’s the solution? For the past few years, VR developers 
+have been experimenting with alternative methods of simulating movement and 
+many – such as nDreams with its VR title The Assembly andOculus 
+<https://www.theguardian.com/technology/oculus> with its own project Damaged 
+Core – have gone for something very different: teleportation. The player looks 
+at a space in the virtual world and hits a button on their controller to move 
+there. Judging by the very limited E3 demo, this is what Bethesda is 
+experimenting with in its VR version of Fallout 4, while Batman: Arkham VR 
+provides specific points in the scene that the player can select and move to. 
+Both, however, are a little clunky: “player disorientation and breaking 
+immersion are big issues with that system,” says Goode.
+
+Tom Gillo claims that nDreams has already refined beyond this approach to 
+something more subtle. “While we do offer a traditional first-person control 
+scheme, by default players are presented with our ‘blink mode’ – a 
+line-of-sight based movement scheme that enables players to transition from 
+point-to-point within the game literally in the blink of an eye,” he says. 
+“It’s too fast to make a person sick, but just slow enough to register as 
+movement rather than a teleport. We spent a lot of time refining and testing 
+the scheme and we’re very confident that the vast majority if people will not 
+feel unwell when playing. This system has enabled us to build a full five-hour 
+game.”
+
+He also points to Bullet Train 
+<https://www.unrealengine.com/blog/introducing-bullet-train-new-vr-experience>, 
+a virtual reality project from Unreal developer Epic Games, which uses a 
+similar hybrid system that sits between traditional motion and teleportation. 
+“It demonstrates that they absolutely get it,” says Gillo. “Epic, arguably the 
+seminal FPS developer, hasn’t shoe-horned in standard FPS controls, but instead 
+built a new locomotion and control system to support VR and touch controls from 
+the ground up.”
+
+Elsewhere, Electronic Arts has bypassed the issue by setting its Battlefront: 
+X-Wing VR mission 
+<http://starwars.ea.com/starwars/battlefront/news/x-wing-vr-mission-announce> 
+in the cockpit of a spacecraft, while Ubisoft (which has invested heavily and 
+relatively early in VR experimentation) has discovered thatnarrowing the 
+player’s field of vision 
+<http://uploadvr.com/eagle-flights-solution-to-vr-movement-looks-incredible/> 
+in its interesting sim Eagle Flight reduces instances of nausea. “Exploring a 
+scene with your hands rather than your legs seems to give better results at 
+this stage,” says Dave Ranyard, an independent virtual reality developer who 
+previously headed up Sony’s VR division. “My advice to developers is to avoid 
+navigation at the moment and concentrate on immersion. I truly believe someone 
+will crack navigation in the next year, but I haven’t seen it yet.”
+
+What E3 also showed is that there’s uncertainty in the mainstream industry 
+about what format virtual reality projects should take. While both Resident 
+Evil 7 and Fallout 4 will let players take on a major narrative adventure in 
+VR, Star Trek: Bridge Crew and Batman: Arkham VR feel much more like heavily 
+mediated short-form experiences, designed to introduce users to the virtual 
+reality proposition.
+
+That’s not necessarily a negative. Star Trek: Bridge Crew is a co-op 
+challenge, which gives four players different roles on the bridge of a USS 
+starship, requiring them to collaborate on a series of mission objectives. 
+Resembling a high-tech version of the award-winning mobile game Space Team, it 
+assumes you’ll be able to find three friends with VR set-ups (the game will 
+supportHTC <https://www.theguardian.com/technology/htc> Vive, Oculus Rift and 
+PlayStation VR when it arrives in the autumn), but it’s interesting in that it 
+introduces social dynamics to the virtual space.
+
+“I’m super excited for Bridge Crew,” says virtual reality developer, Joe 
+Radak. “I think of all the VR games announced by the major publishers at E3, 
+this one showed the best use of VR and the Rift/Touch capabilities. It’s 
+social, it uses the hand motion controllers very well in ways that you can’t do 
+in traditional media and on top of that, it looks immersive and fun. It showed 
+that there are some AAA companies that really took time to research what works 
+and what doesn’t.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F22%2Fvideo-games-virtual-reality-e3-2016%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe00ac1661db83755b22160447cf202651a14fe58%2F63_0_1799_1080%2F1799.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=If%20the%20future%20of%20video%20games%20is%20VR%2C%20it%20needs%20to%20stop%20making%20us%20feel%20sick&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F22%2Fvideo-games-virtual-reality-e3-2016%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=If%20the%20future%20of%20video%20games%20is%20VR%2C%20it%20needs%20to%20stop%20making%20us%20feel%20sick&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F22%2Fvideo-games-virtual-reality-e3-2016%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe00ac1661db83755b22160447cf202651a14fe58%2F63_0_1799_1080%2F1799.jpg>
+ In Star Trek: Bridge Crew, players get to use the Rift and Vive motion 
+controllers to make frantic arm gestures at each other during heated moments. 
+Photograph: Ubisoft 
+In the Batman Arkham VR demo, players had to modes to chose from. A simple “be 
+the Batman” option let you descend from Wayne Manor into the Batcave then try 
+on the suit as well as toy with a few bat gadgets. It’s basic, but it provides 
+a powerful sense of embodiment, the PlayStation Move controllers giving players 
+expressive use of Batman’s arms and really inhabit the costume, and the role. A 
+second mode provides a short narrative involving an attack on Nightwing, which 
+leaves the hero sprawled in an alley. The player, as Batman, has to run through 
+recorded witness footage to work out what happened. There’s little action as 
+such, and it feels like a virtual reality take on the detective mode from the 
+other Arkham titles. But again, it’s the work of a developer prodding at the 
+technology.
+
+The question is, are mainstream publishers and developers exploring lessons 
+that the VR sector has already mastered? “We’d have loved it if these new 
+titles were more like a long-form, fully-fledged game rather than more limited 
+mini experiences, especially as that’s not what gamers have come to expect from 
+those IPs,” says nDreams co-founder, Patrick O’Luanaigh.” It does feel as 
+though some of these developers haven’t been paying attention to a lot of the 
+advances made and best practice techniques established by the VR development 
+community over the last 18 months.”
+
+Radak agrees. “The E3 demos showed that a lot of the AAA companies are still 
+learning VR’s capabilities and that they’re behind the indie developers right 
+now,” he says. “That’s not to say that the indies have fully discovered all of 
+VR’s capabilities yet either, but the AAA companies are making mistakes that 
+almost all the indie developers have already made, learned from and shared with 
+each other – specifically looking at locomotion methods and what makes ‘fun’ VR 
+gameplay. If the AAA publishers took some time to talk with small indie devs, 
+like those behind Fantastic Contraption, Chronos, Budget Cuts, Cosmic Trip and 
+many others, that would go a long way for the industry”.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F22%2Fvideo-games-virtual-reality-e3-2016%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F948f24e03e63906b33fae7b0d4fcffe98230694f%2F181_0_5397_3240%2F5397.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=If%20the%20future%20of%20video%20games%20is%20VR%2C%20it%20needs%20to%20stop%20making%20us%20feel%20sick&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F22%2Fvideo-games-virtual-reality-e3-2016%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=If%20the%20future%20of%20video%20games%20is%20VR%2C%20it%20needs%20to%20stop%20making%20us%20feel%20sick&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F22%2Fvideo-games-virtual-reality-e3-2016%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F948f24e03e63906b33fae7b0d4fcffe98230694f%2F181_0_5397_3240%2F5397.jpg>
+ Concept art from Edge of Nowhere, an innovative third-person virtual reality 
+adventure from Insomniac Games. Photograph: Insomniac Games 
+Of course, it’s too simplistic to suggest that all virtual reality innovation 
+is going to come from indies, while mainstream publishers trundle along behind 
+attempting to retro-fit their most profitable IPs with VR titbits. Ubisoft is 
+clearly innovating in the VR space, and projects like Epic’s Bullet Train and 
+Insomniac’s promisingEdge of Nowhere 
+<http://www.insomniacgames.com/games/edge-of-nowhere/>, a Lovecraftian horror 
+adventure set in the Antarctic, show that big, traditional studios are just as 
+likely to successfully exploit this burgeoning technology.
+
+“For me one of the highlights of the E3 was seeing Double Fine announcing 
+their VR title, Psychonauts in the Rhombus of Ruin,” says VR developer Daniel 
+Ernst. “They have a history of story-driven games with heart and character. For 
+me one of the most attractive characteristics of a point and click adventure is 
+lack of pressure: no deaths, no push to get from A to B … instead you can let 
+the world sink in. This focus on story and experiencing unique spaces works so 
+incredibly well in VR.”
+
+Perhaps what E3 really showed was that the idea of virtual reality as a 
+“genre” rather than a “platform” is a mistaken one. Developers will need to 
+forge new game styles and new conventions and these will serve a wide variety 
+of experiences that may not resemble those that we’ve been having for the last 
+40 years. The biggest mistake the industry could make now would be to rush VR 
+translations of successful properties on to the market. Video game consumers 
+will forgive a lot of things, but nausea is not one of them.
+
+
+ * 11 video game trends that will change the future of the industry 
+<https://www.theguardian.com/technology/2016/jul/21/11-video-game-trends-that-will-change-the-future-of-the-industry>
+
+ * Scorpio rising: Microsoft’s plans for Xbox One and the future of video games
+ 
+<https://www.theguardian.com/technology/2016/jul/11/scorpio-microsoft-xbox-one-s-future-video-games> 

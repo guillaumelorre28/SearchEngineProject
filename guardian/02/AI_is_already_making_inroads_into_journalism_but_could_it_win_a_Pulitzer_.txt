@@ -1,0 +1,105 @@
+
+Look closely at what many journalists write about artificial intelligence – 
+from AlphaGo’s triumph at the ancient Chinese board game Go to Microsoft’s 
+accidentally racist Twitter bot – and you might detect some smugness. Research 
+by Oxford University has predicted that journalism is among the jobs least 
+likely to be replaced by a machine in the near future. And yet, as Columbia 
+University prepares to celebrate 100 years of the Pulitzer prize, intelligent 
+robots will publish financial reports, sports commentaries, clickbait and 
+myriad other articles formerly the preserve of trained journalists.
+
+“A machine will win a Pulitzer one day,” predicts Kris Hammond from Narrative 
+Science, a company that specialises in “natural language generation”. “We can 
+tell the stories hidden in data.”
+
+Recent advances mean that AI can now write readable, flowing copy, and churn 
+out repetitive articles faster than the most caffeinated hack.
+
+“With automation, we now follow and produce quarterly earnings reports for 
+4,000 companies,” says Justin Myers fromAssociated Press 
+<https://www.theguardian.com/media/associated-press>, the world’s first and 
+thus far only automation editor. “Previously we covered 400.”
+
+He insists that having robots handle the drudge work frees up journalists for 
+higher-minded pursuits. “You can take a step back and tell me instead what you 
+noticed, what was interesting, something personal.”
+
+The wire service plans to launch football recaps later this year, joining the 
+likes of Yahoo who report on Fantasy Football leagues using the same tech. 
+Powering the coverage is Wordsmith, a program able to churn out thousands of 
+reports almost instantly. Elsewhere the software has been applied to everything 
+from obituaries to Game of Thrones: “It’s the year 299,” begins one report, 
+“and we catch up with our dastardly group along the rippling waters of the 
+Riverlands.” Automated Insights, the company behind it, “wrote” 1.5bn articles 
+last year. With only 50 employees, it claims to be the largest producer of 
+content in the world.
+
+Wordsmith consults the data and makes the same decisions every journalist 
+faces when filing copy, such as when has a team suffered a “thrashing” and not 
+just a “loss”? In fact, Wordsmith is so good at instant punditry it’s moving 
+into the hyperbolic world of politics. “One outlet wants us to report on polls 
+as they come in, to give it a persona and see if people think it is a person or 
+not,” says founder Robbie Allen.
+
+Thomson Reuters also publishes machine-written articles, using its own 
+in-house technology. One experimental next-gen engine was so impressive that, 
+“in a blind taste test, the machines actually came out as more readable than 
+the humans”, according to Reg Chua, who oversees innovation at the company.
+
+Automated journalism isn’t just about volume, but also targeting. “If one of 
+our customers is a paper in a small to medium-sized city, and they want reports 
+on a major employer in their town, we now have something for them,” says Myers. 
+Chua goes further: “For 150 or more years, news has focused on stories of the 
+most interest to the most people. But now a financial report could include a 
+paragraph telling you how your own portfolio is doing: ‘the market is up, but 
+you are down, and if you hadn’t sold your IBM stocks last week you would be so 
+much higher right now’.”
+
+A different strain of hypertargetting can be seen in ultraspecific “clickbait” 
+articles like “27 secrets only a chiropractor will know”, or “The 10 most Jeff 
+moments in every Jeff’s life”. “You could replace the name Jeff with any name 
+procedurally and it would still work,” says Lars Eidnes, a 29-year-old 
+developer from Norway. “Clickbait is pretty formulaic.”
+
+Eidnes’ Click-o-Tron website analysed 2m articles from the likes of BuzzFeed, 
+Gawker and the Huffington Post, and now “guesses” new clickbait articles into 
+existence. It’s a silly joke prone to gibberish, but the best examples have a 
+nightmarish logic. “New President Is Hours Away From Royal Pregnancy”, says one 
+headline. “Kim Kardashian’s Child is a Bear”, claims another. “I wanted to 
+destroy clickbait,” Eidnes laughs.
+
+Researchers are also trying to find ways to use AI to find stories that humans 
+couldn’t. “Most natural language systems simply describe an event. But most 
+journalism is not descriptive, it’s event-driven,” says David Caswell, a fellow 
+at the Donald W Reynolds Journalism Institute at the University of Missouri. 
+“Things happen to people in different locations, and the core narrative 
+structure is the cause and effect between those events.” To put it in old 
+journalistic terms: who, what, where and when?
+
+In Caswell’s system, Structured Stories, the “story” is not a story at all, 
+but a network of information that can be assembled and read as copy, 
+infographics or any other format, almost like musical notes. Any bank of 
+information – from court reports to the weather – could eventually be plugged 
+into a database of this kind. The potential for such systems is enormous.
+
+“It’s complete speculation,” he says, “but if no one had detected the break-in 
+at the Watergate Hotel, and in the election the committee to re-elect the 
+president had used information they’d gleaned, an algorithm could look at the 
+series of events and say ‘these people had secret knowledge somehow’.”
+
+But what about Hammond’s prediction that a robot would someday win a Pulitzer? 
+Myers “absolutely believes” a machine will win, “because it already did”. Bill 
+Dedman won a Pulitzer for his investigation into racist mortgage lending – a 
+computer-assisted story - way back in 1988.
+
+Chua calls robo-Woodward and auto-Bernstein “a stretch” but does see 
+potential. “I think it may well be that in the future a machine will win not so 
+much for its written text, but by covering an important topic with five high 
+quality articles and also 500,000 versions for different people.”
+
+Imagine an article telling someone how local council cuts will affect their 
+family, specifically, or how they personally are affected by a war happening in 
+a different country. “I think the results might show up in the next couple of 
+years,” Caswell agrees. “It’s something that could not be done by a human 
+writer.”
+ 

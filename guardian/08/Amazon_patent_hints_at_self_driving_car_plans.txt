@@ -1,0 +1,54 @@
+
+Amazon is working on self-driving cars, according to a new patent 
+<http://pdfpiw.uspto.gov/.piw?PageNum=0&docid=09547986&IDKey=8303676DC9C8&HomeUrl=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3FSect2%3DPTO1%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D%2Fnetahtml%2FPTO%2Fsearch-bool.html%2526r%3D1%2526f%3DG%2526l%3D50%2526d%3DPALL%2526S1%3D9547986.PN.%2526OS%3DPN%2F9547986%2526RS%3DPN%2F9547986>
+ that deals with the complex task of navigating reversible lanes.
+
+The patent, filed in November 2015 and granted on Tuesday, covers the problem 
+of how to deal with reversible lanes, which change direction depending on the 
+bulk of the traffic flow. This type of lane is typically used to manage 
+commuter traffic into and out of cities, particularly in the US.
+
+Autonomous vehicles, the patent warns, “may not have information about 
+reversible lanes when approaching a portion of a roadway that has reversible 
+lane”, leading to a worst-case scenario of them driving headfirst into oncoming 
+traffic.
+
+More generally, the inability to plan for reversible lanes means cars and 
+trucks can’t optimise their routes by getting into the correct lane well in 
+advance, something that could otherwise prove to be one of the benefits of 
+self-driving cars.
+
+Amazon’s solution to the problem could have much larger ramifications than 
+simply dealing with highway traffic in large cities. The patent proposes a 
+centralised roadway management system that can communicate with multiple 
+self-driving cars to exchange information and coordinate vehicle movement at a 
+large scale.
+
+Autonomous cars and trucks could prove to be a key part of Amazon’s in-house 
+logistics division in the future. The patent doesn’t give much away about 
+Amazon’s strategic goals in the self-driving sector, however, but the company 
+has long been rumoured to be working on technology that can augment, or 
+replace, its human drivers. Oddly, the division of Amazon leading its research 
+into the area is its autonomous drone project, Prime Air:according to Recode 
+<http://www.recode.net/2017/1/17/14294498/amazon-self-driving-roads-patent>, 
+one of its co-inventors, Jim Curlander, is the technical adviser at Amazon’s 
+Prime Air.
+
+Amazon has slowly been taking more direct control of its delivery network over 
+recent years, starting with the creation ofAmazon 
+<https://www.theguardian.com/technology/amazon> Logistics in 2012 to handle 
+local deliveries in the UK. That has expanded to a worldwide service, and has 
+come to include a fleet of 40 planes, and goals for a cargo shipping network of 
+similar size.
+
+ Self-driving trucks and vans would be a natural progression for the company, 
+which is already working on automating its distribution centres thanks to its
+purchase of robotics firm Kiva Systems in 2012 
+<https://www.theguardian.com/technology/2014/dec/01/amazon-robots-online-orders-customers>
+.
+
+ * Amazon claims first successful Prime Air drone delivery 
+<https://www.theguardian.com/technology/2016/dec/14/amazon-claims-first-successful-prime-air-drone-delivery>
+
+ * Amazon drivers admit to speeding due to tight delivery schedule 
+<https://www.theguardian.com/business/2016/nov/11/amazon-logistics-drivers-speeding-minimum-wage> 

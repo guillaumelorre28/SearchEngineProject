@@ -1,0 +1,112 @@
+
+As the crossword craze gripped the UK in the 1930s, prime minister Stanley 
+Baldwin remarked: "I should think that 90% of the people believe that there was 
+but one Roman emperor, and that his name was Nero."
+
+Nero is the emperor most beloved of crossword setters, since the placement of 
+that E, and in particular that O, make him handy when you really need a word 
+with those vowels to fit with the other entries. That's not something you can 
+say of Quintillus, Pertinax or Constantius Chlorus.
+
+And of course, it's not just Nero. The vocabulary of crosswords is a version 
+of the English language skewed in peculiar directions, where words find favour 
+for completely different reasons from those that apply in literature or speech.
+
+How different? As of this week, we have a better idea. At the Guardian Data 
+Blog isa post by developer Noah Veltman 
+<https://www.theguardian.com/news/datablog/2013/feb/04/calculating-crossword-answers>
+ about the words used in the New York Times puzzles.
+
+Taking a newly published database <https://github.com/donohoe/nyt-crossword> 
+of NYT clues and answers from 1996 to 2012, Veltman compared the frequency with 
+which words appear in that paper's puzzle with how often they crop up in 
+another context:Google's database of 20m books <http://books.google.com/ngrams>.
+
+One word that doesn't seem to appear 
+<http://books.google.com/ngrams/graph?content=crosswordiness&year_start=1800&year_end=2013&corpus=15&smoothing=3&share=>
+ in any of those 20m books is "crosswordiness", Veltman's splendid term to 
+describe the quality of appearing more often in a crossword than in real life 
+(or at least, one measure of real life).
+
+The word with the highest crosswordiness rating 
+<https://www.theguardian.com/news/datablog/2013/feb/04/calculating-crossword-answers#list>
+ is ASEA, defined by Collins as "in a seaward manner or at or on the sea", 
+followed by SMEE (a duck or a Peter Pan character) and URSA (as in the 
+"extensive conspicuous constellation") and there ismuch more detail at 
+noahveltman.com <http://noahveltman.com/crossword/>.
+
+What's refreshing about this piece – and good data journalism in general – is 
+the lack of judgment. Crosswordiness is not necessarily a quality to be 
+avoided. Words such as EGAD ("a mild oath or expression of surprise") might not 
+be recorded frequently in text, but they're useful, memorable and most 
+importantly enjoyable. Veltman says that OLEO and OLIO are sentimental 
+favourites of his because he hadn't met them before he started solving and so 
+had to make sure he kept them in his head.
+
+"I'm also fascinated by celebrities who achieved lasting fame by virtue of 
+having a really crossword-friendly name," he adds, citingARLO Guthrie 
+<https://www.theguardian.com/music/artist/b8efe8ac-45db-4a71-bb51-c1503986172f> 
+andEERO Saarinen 
+<http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9781938461019>
+. "I'm sureESAI Morales 
+<https://www.theguardian.com/culture/tvandradioblog/2009/jul/24/comic-con-battlestar-galactica-stargate>
+ has had a reasonably successful acting career, but in the crossword universe 
+he's Tom Hanks.BELLA Abzug 
+<https://www.theguardian.com/global-development/poverty-matters/2012/jun/19/rio20-bring-change-women>
+ really had a good gig all to herself until Twilight came out. Clearly the 
+lesson for parents is: if you want to give your child a shot at pointless, 
+perpetual, minor fame as a crossword answer, give them a short, rare first name 
+with a lot of vowels." I was certainly pleased to see ALAN is the 25th 
+crosswordiest word in the New York Times.
+
+Another delightful high-scorer is PSST ("an exclamation of beckoning, esp one 
+made surreptitiously"), which seems likely would come up more frequently in the 
+non-crossword world if we were measuring that in terms of spoken rather than 
+written English. There's no record of that, yet; to Veltman, the prospect of a 
+dataset of the spoken word calls to mindthe Lewis Carroll character who exclaims
+ <http://archive.org/details/sylviebrunoconcl00carriala>: "We actually made a 
+map of the country, on the scale of a mile to the mile!"
+
+"But in the real world," Veltman explains, "you usually can't get the data you 
+want, so half the process is identifying the best proxy you can actually use. 
+In the same way that Google Books content is a decent proxy for written 
+language, I imagine you could get something similar for spoken language by, 
+say, compiling YouTube closed captioning text in large quantities. It wouldn't 
+be perfectly representative, but you could do lots of interesting stuff with 
+that (and I wouldn't be surprised if Google already is)."
+
+The prospect of Google making a record of everything we've said is no less 
+chilling than it is plausible. For the moment, though, those 20m books are a 
+very interesting yardstick for this kind of comparison and the UK solver is 
+bound to start wondering what the equivalent results might be for the Guardian, 
+Times, Telegraph, Independent and FT.
+
+The developer Mark Longair <http://longair.net/mark/> has done some very 
+interesting analysis of Guardian crosswords 
+<http://www.mythic-beasts.com/~mark/random/guardian-crossword-trivia/> looking 
+for a different quality among the answers: how often they appear in Guardian 
+crosswords as a whole.
+
+And, of course, some solvers keep stores of their own clues and answers – 
+Rufus's is legendary 
+<https://www.theguardian.com/crosswords/crossword-blog/2012/feb/22/meet-the-setter-rufus>
+ in the crosswording world andlast December's Archive on 4 
+<http://www.bbc.co.uk/programmes/b01p2wd0> took us to Crispa 
+<https://www.theguardian.com/profile/crispa>'s archive of a quarter of a 
+million clues.
+
+It all makes you wonder whether UK crosswords would benefit from some common 
+standard for storing clue, answer, grid, date, publication and setter. I 
+suspect that nicely structured data would help to make crosswords accessible to 
+those with visual impairments. It would certainly be of benefit to those of us 
+who get obscenely excited at the kind of data produced by Veltman and Longair.
+
+And it would help to decide which – by various measures – are the "easier" 
+puzzles, in terms of setter, day or publication when would-be new solvers ask 
+where to start. And this centenary year of the crossword, is a good time for 
+that kind of evangelism.
+
+PS: On Tuesday 5 February, Newsnight broadcast a feature on Araucaria 
+<http://www.bbc.co.uk/news/uk-21347467>, including Stephen Smith's interview 
+with the setter.
+ 

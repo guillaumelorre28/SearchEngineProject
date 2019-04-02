@@ -1,0 +1,74 @@
+
+The decision by authorities in California to halt ride-hailing company Uber 
+from operating a fleet of self-driving cars 
+<https://www.theguardian.com/technology/2016/dec/14/uber-self-driving-cars-run-red-lights-san-francisco>
+ on the streets of San Francisco is a welcome move. Technology must not race 
+ahead of the society in which it was created. It did not help that Uber’s cars 
+were filmed jumping red lights. It’s not just that the values embedded in the 
+car’s computer system appear skewed. Regulators said Uber did not have the 
+right permits to test “autonomous vehicles”. But this is just the beginning. 
+Carmaker Ford is planning to launch driverless models in 2021. Volvo claims by 
+that year no onewill die in its smart cars 
+<http://www.csmonitor.com/Technology/2016/0121/Volvo-s-2020-pledge-No-one-will-die-in-our-cars>
+. A noted hacker isgiving away software 
+<http://www.reuters.com/article/us-selfdriving-commaai-idUSKBN13P2T0> to 
+convert stupid cars into intelligent ones.Google is the pioneer 
+<https://www.theguardian.com/technology/2016/aug/22/google-x-self-driving-cars>
+, posting a video of a blind man in 2011 being driven by an onboard computer to 
+collect his dry cleaning. Its new subsidiary Waymo will focus solely 
+on self-driving cars.
+
+What is happening is the culmination of a number of powerful trends. One is 
+that computers can be coded so that they are not just good at following rules, 
+but smart enough to recognise patterns. Processing power means computers can 
+ingest and simultaneously make quick decisions about a large volume of 
+fast-changing information dealing with traffic, route and people around a car. 
+The second is a more vexed question, raised half a century ago by philosophers: 
+the trolley problem. This asked how to make a decision when all the proffered 
+options are bad. Does a driverless car hit the wayward cyclist, or swerve and 
+crash into a pedestrian instead? What would the calculation be if the cyclist 
+was a young, poor child and the person on foot a billionaire banker who brought 
+down a great City name? Would a computer programmed with social democratic 
+leanings give a different answer to one with Whiggish inclinations?
+
+In October a Mercedes-Benz executive 
+<http://fortune.com/2016/10/15/mercedes-self-driving-car-ethics/> gave a simple 
+answer to this complex moral question: self-driving cars would choose passenger 
+lives over bystanders. Google similarly seemed unbothered by the thorny thought 
+experiment, telling the Guardian in the summer: “The answer is almost always
+‘slam on the brakes’. 
+<https://www.theguardian.com/technology/2016/aug/22/self-driving-cars-moral-dilemmas#>
+” Neither seem particularly reassuring. The forward march of technology might 
+herald a better world. Driverless cars promise to reduce traffic fatalities, 
+reduce congestion and reduce carbon emissions. For some the time devoted to 
+driving a car feels like a waste when they could be working. For parents having 
+a computer deal with the stress of the school run might offer calm in a busy 
+day.No surprise then this month the US state of Michigan, home of the American 
+car industry, has passed rules allowing vehicles without drivers, pedals or 
+steering wheels to be trialled on its roads 
+<https://www.ft.com/content/58324438-be39-11e6-8b45-b8b81dd5d080>.
+
+But we should apply the brakes. The big questions are less technological than 
+societal. There have already been anumber of deaths 
+<https://www.theguardian.com/technology/2016/jun/30/tesla-autopilot-death-self-driving-car-elon-musk>
+ involving autopilot systems.Little is said about determining who is 
+responsible in the case of a self-driving car accident or malfunction 
+<http://www.bbc.co.uk/news/technology-38058600>. Would it be the (non-)driver? 
+The firm operating the vehicle? The software programmer who coded the car? The 
+designer of the algorithm? It feels like a moral decision, and yet no one is 
+setting up these rules. We are also woefully underprepared for the amounts of 
+information collected by intelligent vehicles – and how networked such cars 
+will be.Google’s self-driving cars collect 1 gigabyte a second 
+<http://uk.businessinsider.com/how-googles-self-driving-cars-see-the-world-2015-10?r=US&IR=T/#googles-self-driving-vehicles-first-establish-their-location-by-using-mapping-and-sensor-data-1>
+ – registering where a vehicle went, how fast it travelled and using cameras to 
+record surroundings. All this would be useful to hackers and pose big questions 
+about mass personal data collection by US-based technocorps. Little is said 
+about such things. As automation arrives in automobiles,what will happen to 
+Uber’s 1 million drivers 
+<https://www.bloomberg.com/news/features/2016-08-18/uber-s-first-self-driving-fleet-arrives-in-pittsburgh-this-month-is06r7on>
+? Maybethey will be paid to sit in the driver’s seat 
+<http://www.cityam.com/255614/london-uber-drivers-target-salesforce-fresh-protests>
+ to make sure passengers behave. We will need debate to reach consensus over 
+such matters. What is obvious is that the answers to these questions will 
+involve more than just improvements in engineering.
+ 

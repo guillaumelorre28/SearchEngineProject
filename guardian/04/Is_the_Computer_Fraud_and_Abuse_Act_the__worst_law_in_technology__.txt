@@ -1,0 +1,129 @@
+
+Is the Computer Fraud and Abuse Act the "worst law in technology", as Columbia 
+Law School's Tim Wu calls 
+<http://www.newyorker.com/online/blogs/newsdesk/2013/03/fixing-the-worst-law-in-technology-aaron-swartz-and-the-computer-fraud-and-abuse-act.html>
+ the statute? I think there are worse laws for the technology industry and its 
+customers, but the CFAA is more than bad enough – a vague, outdated and 
+Draconian law, abused by the government in several high-profile cases – to have 
+spurred calls for repeal.
+
+As Wu and many others (including me) have pointed out over the years, the 
+vagueness of the CFAA <http://www.law.cornell.edu/uscode/18/1030.html> has 
+given prosecutors a tool that should worry everyone. This is because the 
+government contends that the statute's ban on "unauthorized access" to someone 
+else's computer is a felony, period, with potential penalties you'd associate 
+with serious violent crime.
+
+The late Aaron Swartz <https://www.theguardian.com/technology/aaron-swartz> 
+has been the highest-profile target of overreaching federal prosecutors relying 
+in large part on the CFAA, in a case where he downloaded hundreds of thousands 
+of academic papers from an organization that didn't want him prosecuted and 
+ultimately decided to make the material freely available. There's little 
+question that his suicide was spurred, in part, by the government's escalating 
+threats, made possible thanks to prosecutors' ability to use the CFAA as 
+sledgehammer.
+
+But he wasn't the first. The Bush administration relied on the CFAA to 
+prosecute the easy-to-dislike Lori Drew, who was among several people who 
+created a bogus MySpace account of a fictitious teenaged boy who wooed and 
+rejected the daughter of Drew's neighbor in suburban St Louis. The girl killed 
+herself. When Missouri prosecutors said they had no relevant state law to 
+prosecute Drew and her admittedly heartless helpers in this scheme, a federal 
+prosecutor in Los Angeles hauled Drew there to face charges under the CFAA.
+
+The case boiled down to Drew's misstatements in her MySpace profile. 
+(Shamefully, MySpace supported the prosecution.) The jury convicted Drew of one 
+charge, but the judge in the case wisely overturned it, pointing out that the 
+government would have made everyone who's ever violated a "terms of service" 
+agreement, no matter how minor the violation, at risk for criminal charges.
+
+The threat of this law is not just from government prosecution. It's been 
+stretched widely <https://www.techdirt.com/articles/20100305/0404088432.shtml> 
+incivil cases, as well 
+<https://en.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act#Notable_cases_and_decisions_referring_to_the_Act>
+. Wu says the way to fix this intolerable situation is to persuade President 
+Obama to fix it:
+
+"The Computer Fraud and Abuse Act is egregiously over-broad in a way that has 
+clearly imposed on the rights and liberties of Americans. With just one speech, 
+the president can set things right."
+
+But no, he can't. At least, not in a way we could trust.
+
+First, presidential dispensation is useful, but it's not remotely permanent. 
+White House occupants change. A more authoritarian chief executive than Obama 
+won't be bound by what he does.
+
+Presidents also change, or their positions do. That's the second big problem 
+with Wu's suggestion: wishful thinking. Obama's record on civil liberties and 
+executive power is simply abysmal – worse than George W Bush's in many ways, 
+and better in only a few (such as gay rights).
+
+Obama's Justice Department has made clear it believes the CFAA gives it the 
+power to go after anyone. That includes you and me, assuming you've ever 
+violated a terms of service in any way, as you undoubtedly have done.
+
+Banana republics have lots of laws designed to be widely broken, providing 
+leverage for prosecution of people either not liked by the government or who do 
+otherwise legal things that annoy the leaders. So, even though you and I are 
+exceedingly unlikely to become targets of the CFAA, wecould be – and that's why 
+the law is intolerable as it stands.
+
+Wu doubts, fairly, that this Congress in particular can be persuaded to act on 
+almost anything. And it's no exaggeration to say that lawmakers are terrified 
+in general of doing anything that might cause them to be accused of being soft 
+on crime. But like it or not, this is ultimately an issue for Congress, which 
+writes the laws.
+
+The lawmakers' tendency to favor vagueness has some merit – it gives the 
+people who carry out enforcement and make regulations the ability to adjust to 
+changing circumstances – but in cases like this, where the abuse by the 
+executive branch is blatant, Congress should take the risk of doing its job.
+Representative Zoe Lofgren, a California Democrat, has proposed an "Aaron's 
+Law" 
+<http://news.cnet.com/8301-1023_3-57564193-93/new-aarons-law-aims-to-alter-controversial-computer-fraud-law/>
+ that would help redress the current imbalance.
+
+Reforming CFAA is also an issue for the press – or would be, if we had more 
+journalists who took seriously their duty to hold power accountable. 
+Journalists in aggregate have two problems with this law: a superficial 
+understanding, at best, and an ongoing deference to government positions on 
+criminal justice and security. Even when journalists are directly threatened by 
+overreaching, as they are in the WikiLeaks case, they still demonstrate a 
+reluctance to take a stand.
+
+If enough news organizations put the Obama civil liberties record under the 
+spotlight it deserves, perhaps the American people would care more about what 
+they're losing. Or maybe, we're willing to live in a more banana-like republic 
+all the time; but I hope not.
+
+I said earlier that the CFAA, bad as it is, isn't the worst law relating to 
+technology. At least one, by my reckoning, is worse: the increasingly harsh 
+copyright regime that has already turned countless millions of Americans into 
+lawbreakers and deterred countless innovators.
+
+Copyright in America started life in the US constitution as a way to promote 
+innovation by giving creators of works strong rights for limited periods. It 
+has metastasized into a system that has perverts the founders' intent and given 
+giant corporations overwhelming – and increasing – power over not just 
+entertainment but everything that contains information, including software, 
+which is now part of almost everything.
+
+In a rare defeat for the Copyright Cartel, the supreme court has upheld the 
+"first sale doctrine" 
+<http://arstechnica.com/tech-policy/2013/03/thai-student-protected-by-first-sale-supreme-court-rules/>
+ – the principle that once you buy a book or CD, you can resell it – in a 
+closely watched case. The court's rationale was that Congress didn't mean to 
+create a different standard for works bought overseas as opposed to ones bought 
+in the US. But the same court also just refused to hear an appeal of a 
+Minnesota woman who's been ordered to pay more than $220,000 for downloading 
+two-dozen songs – a testament to Congress' gift to Hollywood and its allies in 
+the form of absurdly stiff penalties for minor infringement.
+
+In the end, people who want change in bad laws have to work for it. This is 
+doubly hard given Congress' pay-to-play system of legal bribery, where dollars 
+translate into votes. Maybe that will have to change first, asthe "United 
+Re:Public" coalition says <http://unitedrepublic.org>, but we need to get 
+started or get used to a system that puts everyone at risk. We could begin by 
+calling our legislators and insist they get behind "Aaron's Law".
+ 

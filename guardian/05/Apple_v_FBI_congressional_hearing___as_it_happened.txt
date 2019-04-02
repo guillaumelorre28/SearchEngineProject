@@ -1,0 +1,1166 @@
+
+11.17pm GMT 23:17  <> 
+
+The end of a five-hour hearing
+
+That’s the end of this liveblog. To recap: A grueling five-hour hearing 
+revealed an unusual antipathy toward the Department of Justice in the usually 
+FBI-friendly house of representatives judiciary committee.
+
+Lawmakers didn’t merely accuse the FBI 
+<https://www.theguardian.com/us-news/fbi> of undermining cybersecurity. Ranking 
+committee member John Conyers attacked bureau director James Comey, saying that 
+using the case of the iPhone belonging to the San Bernardino killer Syed Farook 
+had undermined the remit of the legislature itself.
+
+“Can you appreciate my frustration with what appears to be little more than an 
+end-run around this committee?” asked Congressman Conyers. California 
+representative Zoe Lofgren, whose district includes part of Silicon Valley, 
+called the quest to provide entry into encryption exclusively for law 
+enforcement “a fool’s errand”.
+
+ Photograph: Justin Lane/EPA 
+Farook, with his wife Tashfeen Mailk, killed 14 people and wounded 22 in a 
+shooting spree on 2 December, after which agents retrieved two destroyed cell 
+phones, one useless laptop and Farook’s locked iPhone.Apple 
+<https://www.theguardian.com/technology/apple> has said it will not open the 
+phone despite the government’s acquisition of a court order under the 
+227-year-old All Writs Act by the Department of Justice attempting to compel 
+the company to write a tool that will break its password security measures.
+
+Law-and-order conservatives including committee chairman Jim Sensenbrenner 
+told Comey they supported his efforts, some invoking arguments ranging from 
+Isis to the nuclear holocaust.
+
+Trey Gowdy told Apple general counsel Bruce Sewell he was unimpressed with the 
+company’s contributions to lawmaking and demanded the company draft a bill to 
+address what he characterized as a technology problem. “We draft it and then 
+your army of government relations folks opposes it, so I’m just trying to save 
+us time,” he said. “Why don’t you propose it? Tell us what you could agree to.”
+
+For perhaps the first time, Comey summarized the Department of Justice’s 
+argument without the disingenuous claim that the San Bernardino case was 
+limited in scope: “It’s not [Apple’s] job to watch out for public safety,” he 
+said. “That’s our job.”
+
+Sewell said that the company did want to help with public safety and said the 
+company held the rights as a private citizen, among them its first amendment 
+right to free speech and thirteenth amendment right to deny forced labor.
+
+The government’s argument in the San Bernardino case “makes my blood boil,” he 
+told the committee. “To say that it’s a marketing ploy, to say that it’s about 
+PR really diminishes a very serious conversation that should be about security 
+of the American people.””
+
+Susan Landau, a security expert who has worked with Google and the National 
+Security Agency, offered perhaps the most daring take of the lengthy hearing: 
+the FBI needs to get real about technology and start trying harder to break 
+encryption. “While the NSA has the right to break into a system, nobody ever 
+guaranteed that it would be easy to do so,” she says. “TheFBI 
+<https://www.theguardian.com/us-news/fbi> needs to take a page from the NSA.”
+
+We’ve written a summary of the full hearing 
+<https://www.theguardian.com/technology/2016/mar/01/apple-fbi-congress-hearing-iphone-encryption-san-bernardino>
+; follow the Guardiantechnology <https://www.theguardian.com/us/technology> 
+section and national security editorSpencer Ackerman 
+<https://www.theguardian.com/profile/spencerackerman> for more on the 
+developing story.
+
+Updated at 11.28pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d621a1e4b054e3a47b4e34%23block-56d621a1e4b054e3a47b4e34>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d621a1e4b054e3a47b4e34%23block-56d621a1e4b054e3a47b4e34>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d621a1e4b054e3a47b4e34%23block-56d621a1e4b054e3a47b4e34&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d621a1e4b054e3a47b4e34%23block-56d621a1e4b054e3a47b4e34>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d621a1e4b054e3a47b4e34%23block-56d621a1e4b054e3a47b4e34>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d621a1e4b054e3a47b4e34%23block-56d621a1e4b054e3a47b4e34&amp;hl=en-GB&amp;wwc=1>
+close 
+10.30pm GMT 22:30  <> 
+
+Landau, answering a question from Congresswoman Lofgren, says that everything 
+is connected to the internet and treating it like it isn’t will lead to 
+trouble. TheFBI <https://www.theguardian.com/us-news/fbi> is asking for login 
+credentials, she says, which would set an especially dangerous precedent.
+ Professor Susan Landau of Worcester Polytechnic Institute Photograph: 
+Nicholas Kamm/AFP/Getty Images 
+“Whether you’re talking about the power grid, the water supply, whatever, 
+we’re connected in disastrously insecure ways and the best way to get in is 
+login credentials,” says Landau.Encryption 
+<https://www.theguardian.com/technology/encryption>, she said, was a serious 
+problem. “What law enforcement is asking for is going to preclude those strong 
+solutions.”
+
+“Director Comey said we’ve talked to everyone who’ll talk to us, but I was at 
+an event held by the FCC, and some senior people from DOJ were there and I said 
+‘Well NSA has skill X and skill Y’ and they said ‘They don’t share them with us 
+except in extraordinary circumstances.’”
+
+“Law enforcement don’t have the skills and they need to develop them,” she 
+says.
+
+Updated at 10.38pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d6163de4b0d0eebca0592f%23block-56d6163de4b0d0eebca0592f>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d6163de4b0d0eebca0592f%23block-56d6163de4b0d0eebca0592f>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d6163de4b0d0eebca0592f%23block-56d6163de4b0d0eebca0592f&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d6163de4b0d0eebca0592f%23block-56d6163de4b0d0eebca0592f>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d6163de4b0d0eebca0592f%23block-56d6163de4b0d0eebca0592f>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d6163de4b0d0eebca0592f%23block-56d6163de4b0d0eebca0592f&amp;hl=en-GB&amp;wwc=1>
+close 
+10.13pm GMT 22:13  <> 
+
+Gowdy on encryption legislation: 'We draft it - and then your army of 
+government relations folks opposes it'
+
+One of Sewell’s better rhetorical flourishes is immediately undercut by Gowdy, 
+who out-yells committee chairman Sensenbrenner.
+
+“Is it right to make our society overall less safe in order to solve crime?” 
+Sewell asks softly; Gowdy immediately leaps in to demand “a fact-pattern” in 
+which Gowdy would comply with the order.
+
+Sewell: “Congressman, we will follow the law.”
+
+Gowdy: “I’m asking you for a fact-pattern.”
+
+Sewell: “I don’t, uh –”
+
+Gowdy: “Can you give me a fact pattern where you would agree with what the 
+bureau is asking you to do in California, whether it be nuclear weapons or a 
+terrorist plot?”
+
+
+Sewell: “I can’t imagine such a fact pattern.”
+
+Gowdy: “Can you submit legislation, to Chairman Sensenbrenner’s question, that 
+you would wholeheartedly support?”
+
+Gowdy goes on to make one of the better points against Apple 
+<https://www.theguardian.com/technology/apple>, which is that they already have 
+quite a bit of influence congressionally and the legislature’s inaction on 
+encryption doesn’t exactly have nothing to do with Apple’s interests. “We draft 
+it and then your army of government relations folks opposes it, so I’m just 
+trying to save us time. Why don’t you propose it? Tell us what you could agree 
+to.”
+
+“We’re willing to and we’ve offered to engage in this process,” Sewell says.
+
+Updated at 10.45pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d611d2e4b054e3a47b4e14%23block-56d611d2e4b054e3a47b4e14>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d611d2e4b054e3a47b4e14%23block-56d611d2e4b054e3a47b4e14>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d611d2e4b054e3a47b4e14%23block-56d611d2e4b054e3a47b4e14&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d611d2e4b054e3a47b4e14%23block-56d611d2e4b054e3a47b4e14>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d611d2e4b054e3a47b4e14%23block-56d611d2e4b054e3a47b4e14>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d611d2e4b054e3a47b4e14%23block-56d611d2e4b054e3a47b4e14&amp;hl=en-GB&amp;wwc=1>
+close 
+9.59pm GMT 21:59  <> 
+
+Congressman Lofgren, who represents Silicon Valley, is pretty contemptuous of 
+Comey. “It’s a fool’s errand,” she says. “We’ll never be able to do what’s 
+being asked of us by theFBI <https://www.theguardian.com/us-news/fbi>.”
+
+Again, strange bedfellows 
+<https://www.theguardian.com/technology/2016/feb/29/apple-fbi-encryption-battle-supporters-technology-politics>
+ here: Ted Poe (again, a Texan Republican, and also a former judge) reiterates 
+New York Democrat Jerrod Nadler’s point earlier that there’s a distinct 
+possibility that Congress might simply tell Apple it can’t have encryption of 
+the type it wants. “I actually agree with Mr Nadler; I know that’s going to 
+bother him a little bit.”
+
+Updated at 10.32pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d60e92e4b054e3a47b4e0f%23block-56d60e92e4b054e3a47b4e0f>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d60e92e4b054e3a47b4e0f%23block-56d60e92e4b054e3a47b4e0f>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d60e92e4b054e3a47b4e0f%23block-56d60e92e4b054e3a47b4e0f&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d60e92e4b054e3a47b4e0f%23block-56d60e92e4b054e3a47b4e0f>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d60e92e4b054e3a47b4e0f%23block-56d60e92e4b054e3a47b4e0f>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d60e92e4b054e3a47b4e0f%23block-56d60e92e4b054e3a47b4e0f&amp;hl=en-GB&amp;wwc=1>
+close 
+9.46pm GMT 21:46  <> 
+
+Apple: code is protected under first amendment
+
+Sewell tells Nadler he believes ordering Apple 
+<https://www.theguardian.com/technology/apple> to unlock the iPhone both 
+violates both the first amendment to the US constitution and the thirteenth 
+(which abolished slavery in 1865).
+
+“This is a compelled speech by the government for the purposes of the 
+government which is absolutely a first amendment problem, and it is speech that 
+Apple does not want to make,” he says. “And it is conscription; forced labor.”
+ New York district attorney Cyrus Vance testifying before the House Judiciary 
+Committee, seated next to encryption expert professor Susan Landau Photograph: 
+Nicholas Kamm/AFP/Getty Images 
+Darrell Issa makes a more utilitarian argument, echoing the point former FBI 
+counterterrorism agent Mike German madeearlier in this blog 
+<https://www.theguardian.com/technology/live/2016/mar/01/apple-fbi-congressional-hearing-live?page=with:block-56d5e2d8e4b0d0eebca058af#block-56d5e2d8e4b0d0eebca058af>
+. “Have you ever ordered a shredding company to put paper back together?” he 
+asks Vance.
+
+Vance has to concede. “Of course I haven’t.”
+
+Updated at 10.06pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d60c5ee4b023cfa49eba50%23block-56d60c5ee4b023cfa49eba50>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d60c5ee4b023cfa49eba50%23block-56d60c5ee4b023cfa49eba50>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d60c5ee4b023cfa49eba50%23block-56d60c5ee4b023cfa49eba50&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d60c5ee4b023cfa49eba50%23block-56d60c5ee4b023cfa49eba50>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d60c5ee4b023cfa49eba50%23block-56d60c5ee4b023cfa49eba50>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d60c5ee4b023cfa49eba50%23block-56d60c5ee4b023cfa49eba50&amp;hl=en-GB&amp;wwc=1>
+close 
+9.38pm GMT 21:38  <> 
+
+Republican Jim Sensenbrenner, chairman of the judiciary committee, yells at 
+Sewell for not bringing a bill with him to Congress.
+
+“We have the iPhone of a dead terrorist!” he says. “You’ve come to us to ask 
+us to do something, but you don’t know what you want us to do.” He theatrically 
+yields his time in disgust, then Sewell tries to answer, then Sensenbrenner 
+yells at him and yields his time again. It’s less impressive the second time.
+ Congressman James Sensenbrenner Photograph: Chip Somodevilla/Getty Images 
+“I assume Apple will have legislative suggestions for us after the court makes 
+its decision and Apple likes orApple 
+<https://www.theguardian.com/technology/apple> doesn’t like it,” Jerrold 
+Nadler, a Democrat from New York, says after Sensenbrenner yields for real. He, 
+too, isn’t happy with the one-device argument, and lights into Manhattan 
+district attorney Cyrus Vance over it.
+
+Vance has said he has 175 iPhones waiting to be unlocked, but the number has 
+now risen to 205.
+
+ * Thanks to reader Kevin Lee, who points out that Jerrold Nadler is from New 
+York, not California, as previously stated
+
+Updated at 10.21pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d60af7e4b054e3a47b4e06%23block-56d60af7e4b054e3a47b4e06>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d60af7e4b054e3a47b4e06%23block-56d60af7e4b054e3a47b4e06>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d60af7e4b054e3a47b4e06%23block-56d60af7e4b054e3a47b4e06&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d60af7e4b054e3a47b4e06%23block-56d60af7e4b054e3a47b4e06>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d60af7e4b054e3a47b4e06%23block-56d60af7e4b054e3a47b4e06>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d60af7e4b054e3a47b4e06%23block-56d60af7e4b054e3a47b4e06&amp;hl=en-GB&amp;wwc=1>
+close 
+9.34pm GMT 21:34  <> 
+
+Here’s an interesting exchange highlighting one of the odd contours of the 
+debate:there’s been a lot of discussion about cryptography that seems to 
+suggest that there’s a difference between “breaking encryption,” whatever that 
+means (sharing super-secret prime numbers? Unclear.) and weakening the passcode 
+so that it can be brute forced, as Comey describes below, inless than half an 
+hour 
+<https://www.theguardian.com/technology/live/2016/mar/01/apple-fbi-congressional-hearing-live?page=with:block-56d5f964e4b0d0eebca058ea#block-56d5f964e4b0d0eebca058ea>
+.
+
+Conyers gets at this asks by asking Sewell what the functional difference is 
+between asking Apple to break its own encryption, and askingApple 
+<https://www.theguardian.com/technology/apple> to weaken the passcode 
+protections.
+
+“Functionally there is no difference,” Sewell says. “What we’re talking about 
+is an operating system in which the passcode is an inherent and integrated part 
+of the decryption system. That passcode is a cryptographic key.” So that’s your 
+cryptography 101 lesson: you participate in encryption on an incredibly 
+sophisticated level every time you punch in your passcode.
+
+Back to the hearing: “I was hoping you’d go in that direction,” Conyers 
+replies.
+
+Sewell says that it is “absolutely false” that Apple no longer works with law 
+enforcement. “The relationship with law enforcement falls within my shop at 
+Apple and I’m incredibly proud of the work we do. We have dedicated individuals 
+available around the clock.”
+
+“This is not about the San Bernardino case,” Sewell tells Conyers. “This is 
+about the safety and security of every iPhone.”
+
+
+It’s probably safe to stop talking about the “one device” argument, made by 
+Josh Earnest, among others, but Sewell kicks it one more time to make sure it’s 
+stopped moving permanently: “There’s no distinction between a 5C and a 6 in 
+this case. It is extensible, it is common, it is effectively the same.”
+
+Updated at 10.19pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d608f1e4b054e3a47b4dfa%23block-56d608f1e4b054e3a47b4dfa>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d608f1e4b054e3a47b4dfa%23block-56d608f1e4b054e3a47b4dfa>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d608f1e4b054e3a47b4dfa%23block-56d608f1e4b054e3a47b4dfa&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d608f1e4b054e3a47b4dfa%23block-56d608f1e4b054e3a47b4dfa>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d608f1e4b054e3a47b4dfa%23block-56d608f1e4b054e3a47b4dfa>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d608f1e4b054e3a47b4dfa%23block-56d608f1e4b054e3a47b4dfa&amp;hl=en-GB&amp;wwc=1>
+close 
+9.24pm GMT 21:24  <> 
+
+Apple's general counsel: ' Hearing that this is a marketing issue makes my 
+blood boil'
+
+Goodlatte asks Sewell whether Comey’s assertion that Apple’s position is 
+informed by its business model is “a fair contrast”.
+
+“It’s by no means a fair contrast, Mr Chairman,” Sewell tells Goodlatte. He 
+says he does not, in fact, agree with the characterization and says that 
+hearing this described as a marketing issue “makes my blood boil”.
+
+“I’ve heard this raised before. It was raised in New York, it was raised in 
+San Bernardino. This is not a marketing issue, that’s a way of demeaning our 
+argument. We don’t take out billboards for our security. We don’t take out ads 
+for our encryption. We’re doing this because we think it’s the right thing to 
+do. To say that it’s a marketing ploy to to say that it’s about PR really 
+diminishes a very serious conversation that should be about security of the 
+American people.”
+
+It’s not quite true that Apple doesn’t advertise based on its security, but it 
+is true thatApple <https://www.theguardian.com/technology/apple> advertises its 
+security as being non-annoying, rather than, say, so hard to break that you can 
+sell drugs with impunity.
+
+Sewell goes on to cites Orenstein’s decision from yesterday finding Apple 
+“conscientious,” and says that in fact Apple is at war toimprove public safety. 
+“We see ourselves as being in an arms race with crminals, cyberterrorists and 
+hackers,” Sewell said.
+
+Updated at 9.39pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d60711e4b0d0eebca0590d%23block-56d60711e4b0d0eebca0590d>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d60711e4b0d0eebca0590d%23block-56d60711e4b0d0eebca0590d>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d60711e4b0d0eebca0590d%23block-56d60711e4b0d0eebca0590d&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d60711e4b0d0eebca0590d%23block-56d60711e4b0d0eebca0590d>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d60711e4b0d0eebca0590d%23block-56d60711e4b0d0eebca0590d>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d60711e4b0d0eebca0590d%23block-56d60711e4b0d0eebca0590d&amp;hl=en-GB&amp;wwc=1>
+close 
+9.14pm GMT 21:14  <> 
+
+Apple's testimony begins
+
+The second panel is finally up. 
+
+Bruce Sewell, general counsel for Apple, reads the statement released yesterday
+ 
+<https://www.theguardian.com/technology/2016/feb/29/apple-lawyer-fbi-bruce-sewell-more-crime>
+, telling the committee that he “appreciate[s] your invitation and the 
+opportunity to a part of the conversation on this issue.”
+
+Sewell doesn’t say much to put Comey’s mind at ease, given his earlier remarks 
+on what Comey sees as Apple’s attempt to usurp the FBI’s remit. “We share their 
+goal of creating a safer world,” Sewell says, adding that the company 
+cooperates often with law enforcement.
+ Bruce Sewell, Apple general counsel, at the hearing Photograph: Joshua 
+Roberts/Reuters 
+Susan Landau, a former privacy analyst for Google, gives a very interesting 
+testimony. Among other observations, she says that “smartphones are 
+increasingly wallets” and points out that “NSA will tell you that stealing 
+login credentials is the easiest way into a system,” a direct contradiction to 
+the FBI’s assertion that what it’s asking is less harmful than to break 
+encryption.
+
+Landau also quotes words of wisdom she attributes to a former NSA colleague: 
+“While the NSA has the right to break into a system, nobody ever guaranteed 
+that it would be easy to do so,” she says. “TheFBI 
+<https://www.theguardian.com/us-news/fbi> needs to take a page from the NSA.”
+
+Updated at 9.40pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d602fde4b0d0eebca058ff%23block-56d602fde4b0d0eebca058ff>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d602fde4b0d0eebca058ff%23block-56d602fde4b0d0eebca058ff>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d602fde4b0d0eebca058ff%23block-56d602fde4b0d0eebca058ff&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d602fde4b0d0eebca058ff%23block-56d602fde4b0d0eebca058ff>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d602fde4b0d0eebca058ff%23block-56d602fde4b0d0eebca058ff>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d602fde4b0d0eebca058ff%23block-56d602fde4b0d0eebca058ff&amp;hl=en-GB&amp;wwc=1>
+close 
+9.00pm GMT 21:00  <> 
+
+FBI concludes argument: 'Public safety is not Apple's job'
+
+Finally, after three hours of condescending to the House of Representatives 
+and being sniped at in return,FBI <https://www.theguardian.com/us-news/fbi> 
+director James Comey is getting around to saying what he actually thinks about 
+five minutes before he leaves the panel.
+
+Hakeem Jeffries from Queens presses Comey on whether the Department of 
+Justice’s characterization of Apple’s position as driven entirely by marketing 
+and PR was as contemptuous as it sounded to Jeffries.
+
+Comey responds that he thinks Apple’s market power “is not an illegitimate 
+motive,” but he doesn’t like what they’re selling, because it essentially 
+privatizes law enforcement. “It’s not their job to watch out for public 
+safety,” he says shortly. “That’s our job.”
+
+Comey also manages to state the opposition’s case very succintly in pushing 
+back on a question from Jeffries about breaking into the phone; he also 
+identifies where he takes issue with it: “I don’t agree with your framing,” he 
+tells Jeffries. “It sounds like you’re saying you either have privacy or you 
+have unfettered access and I don’t agree with that.”
+ Congressman David Cicilline, speaking at a news conference on the 
+Trans-Pacific Partnership in October 2015 Photograph: J. Scott Applewhite/AP 
+Rhode Island democrat David Cicilline asks Comey if encryption law ought to 
+come from the legislative branch rather than case law. “Do you agree that the 
+authority has to come from Congress?” he asks.
+
+Comey, for perhaps the first time, gives a flat negative. “No, I don’t agree 
+with that.”
+
+Updated at 9.11pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5ff32e4b0d0eebca058f8%23block-56d5ff32e4b0d0eebca058f8>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5ff32e4b0d0eebca058f8%23block-56d5ff32e4b0d0eebca058f8>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5ff32e4b0d0eebca058f8%23block-56d5ff32e4b0d0eebca058f8&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5ff32e4b0d0eebca058f8%23block-56d5ff32e4b0d0eebca058f8>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5ff32e4b0d0eebca058f8%23block-56d5ff32e4b0d0eebca058f8>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5ff32e4b0d0eebca058f8%23block-56d5ff32e4b0d0eebca058f8&amp;hl=en-GB&amp;wwc=1>
+close 
+8.43pm GMT 20:43  <> 
+
+Comey’s case in a nutshell is that he does not want Apple 
+<https://www.theguardian.com/technology/apple> to destroy its security and that 
+the distinction is not a hairsplitting one.
+
+We’re asking Apple to take the vicious guard dog away and let us pick the lock.
+
+Suzan DeIbene tells Comey that the tension is not between privacy and security 
+but between security and security, Comey replies, “You’ve said that very well, 
+between privacy and security.”
+
+
+“It’s not a technological problem - it’s a business model problem,” he said.
+
+Updated at 8.50pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5fe4ee4b023cfa49eba18%23block-56d5fe4ee4b023cfa49eba18>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5fe4ee4b023cfa49eba18%23block-56d5fe4ee4b023cfa49eba18>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5fe4ee4b023cfa49eba18%23block-56d5fe4ee4b023cfa49eba18&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5fe4ee4b023cfa49eba18%23block-56d5fe4ee4b023cfa49eba18>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5fe4ee4b023cfa49eba18%23block-56d5fe4ee4b023cfa49eba18>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5fe4ee4b023cfa49eba18%23block-56d5fe4ee4b023cfa49eba18&amp;hl=en-GB&amp;wwc=1>
+close 
+8.40pm GMT 20:40  <> 
+
+Cedric Richmond, Democrat from Louisiana’s second district, representing New 
+Orleans, is present to discuss the case of a pregnant woman murdered by an 
+unknown assailant; investigators have asked for access to her phone but have 
+run up against encryption – she is believed to have kept a detailed diary on 
+it. Comey has mentioned the case several times.
+
+“We balance public safety and criminal justice; are we in danger of creating 
+an underground criminal sanctuary for some very disturbed people?” Richmond 
+asks Comey.
+
+
+“Until this, there was no closet in America, no safe in America, no bank in 
+America that could not be entered with a judge’s order. Until we drift to that 
+place, we gotta talk about it.”
+
+The case is not one that has been regularly mentioned up to this point; there 
+is a case similar to the one described that was reported on in Louisiana last 
+year.
+
+Updated at 8.51pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5fccbe4b054e3a47b4dd2%23block-56d5fccbe4b054e3a47b4dd2>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5fccbe4b054e3a47b4dd2%23block-56d5fccbe4b054e3a47b4dd2>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5fccbe4b054e3a47b4dd2%23block-56d5fccbe4b054e3a47b4dd2&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5fccbe4b054e3a47b4dd2%23block-56d5fccbe4b054e3a47b4dd2>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5fccbe4b054e3a47b4dd2%23block-56d5fccbe4b054e3a47b4dd2>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5fccbe4b054e3a47b4dd2%23block-56d5fccbe4b054e3a47b4dd2&amp;hl=en-GB&amp;wwc=1>
+close 
+8.32pm GMT 20:32  <> 
+
+FBI <https://www.theguardian.com/us-news/fbi> director James Comey:
+
+“They’ve set out to make a phone that they can’t get into and they’re darn 
+near succeeding. I think with the 6 and beyond, they would have succeeded. That 
+doesn’t make them bad people.”
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5fc23e4b054e3a47b4dce%23block-56d5fc23e4b054e3a47b4dce>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5fc23e4b054e3a47b4dce%23block-56d5fc23e4b054e3a47b4dce>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5fc23e4b054e3a47b4dce%23block-56d5fc23e4b054e3a47b4dce&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5fc23e4b054e3a47b4dce%23block-56d5fc23e4b054e3a47b4dce>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5fc23e4b054e3a47b4dce%23block-56d5fc23e4b054e3a47b4dce>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5fc23e4b054e3a47b4dce%23block-56d5fc23e4b054e3a47b4dce&amp;hl=en-GB&amp;wwc=1>
+close 
+8.30pm GMT 20:30  <> 
+
+FBI could access the San Bernardino phone in 26 minutes - if Apple helped with 
+the password
+
+An interesting note from Comey: a brute force attack on the phone would take 
+26 minutes, were Apple’s password-entry security measures defeated (again, see
+our explainer 
+<https://www.theguardian.com/technology/2016/feb/20/apple-fbi-iphone-explainer-san-bernardino>
+ for a little more detail on how this works).
+
+And then Comey tells the committee he blames one man for his current 
+predicament: Edward Snowden.
+
+“Since Mr. Snowden’s revelations, terrorist tradecraft changed.” Terrorists 
+tried to “wrap their lives in encryption,” he says, and as a result, “we’re 
+looking for needles in a haystack, and the most important needles turn 
+invisible.”
+
+
+Steve King of Iowa brings up the Isis activity on Twitter, possibly, though 
+his syntax is a little hard to decipher. “I’m interested in how the parameters 
+that have been examined thoroughly by all the lawyers on this panel might apply 
+to Isis, or any of their affiliates or subordinates that might be necessary if 
+we’re going to defeat that ideology.”
+ Congressman Steve King, seen with Republican presidential candidate Ted Cruz 
+Photograph: Mark Kauzlarich/Reuters 
+King’s opinion appears to be that San Bernardino is small potatoes and that 
+the American public ought to be more worried about “radical Islam” than even 
+the constant discussion of Isis around Farook/Malik murders has made them.
+
+“I think it’s known that Isis or Isil are seeking a nuclear device,” King 
+tells Comey. “If that became part of the American consciousness, do you think 
+that would change this debate?”
+
+Comey does the thing he’s done so beautifully during the FBI’s messaging to 
+the public, which is to plead for reasoned debate while reminding everybody 
+that theFBI <https://www.theguardian.com/us-news/fbi> stands between them and 
+anarchy. “I do worry that it’s hard to have nuanced complicated conversations 
+like this in the wake of a disaster, which is why I think it’s so important 
+that we have this conversation now.”
+
+The director also rejects the contention that the FBI already has the 
+technology and just wants precedent. “If we could have done this quietly and 
+privately, we would have done it.”
+
+Updated at 9.01pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5f964e4b0d0eebca058ea%23block-56d5f964e4b0d0eebca058ea>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5f964e4b0d0eebca058ea%23block-56d5f964e4b0d0eebca058ea>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5f964e4b0d0eebca058ea%23block-56d5f964e4b0d0eebca058ea&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5f964e4b0d0eebca058ea%23block-56d5f964e4b0d0eebca058ea>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5f964e4b0d0eebca058ea%23block-56d5f964e4b0d0eebca058ea>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5f964e4b0d0eebca058ea%23block-56d5f964e4b0d0eebca058ea&amp;hl=en-GB&amp;wwc=1>
+close 
+8.14pm GMT 20:14  <> 
+
+Congressman Gowdy backs the FBI
+
+James Comey has a friend! Trey Gowdy, the mind behind the Benghazi hearings, 
+says that “I confess up front that my bias is toward public safety” when it 
+comes to the need to balance the various rights conferred by the US 
+constitution.
+
+“You just can’t go in these categories [of device] unless somebody consents, 
+really?” Gowdy asks, appalled. Comey agrees wholeheartedly with Gowdy’s outrage.
+
+“I love privacy too but I want my fellow citizens to understand that we also 
+love our bodies,” Gowdy says.
+ Congressman Trey Gowdy Photograph: Corbis & Getty Images 
+“If you have a bullet from an officer who was shot in a defendant, you can go 
+to a judge and ask the defendant to anesthetize a patient and remove a that 
+bullet from the body.” If that’s not unreasonable search and seizure, the South 
+Carolina Republican asks, what is?
+
+Gowdy is 100% wrong on this. 
+
+The incident to which he appears to refer is a well-known Supreme Court case 
+called Winston v Lee in which it was decided that the use of a previous high 
+court decision, Schmerber v California, to mandate surgery to recover bullets 
+against the will of a defendantwas unreasonable search and seizure.
+
+“The proposed surgery would violate respondent’s right to be secure in his 
+person and the search would be ‘unreasonable’ under the Fourth Amendment,”said 
+the court <https://supreme.justia.com/cases/federal/us/470/753/case.html>.
+
+Updated at 8.59pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5f4c8e4b0d0eebca058dc%23block-56d5f4c8e4b0d0eebca058dc>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5f4c8e4b0d0eebca058dc%23block-56d5f4c8e4b0d0eebca058dc>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5f4c8e4b0d0eebca058dc%23block-56d5f4c8e4b0d0eebca058dc&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5f4c8e4b0d0eebca058dc%23block-56d5f4c8e4b0d0eebca058dc>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5f4c8e4b0d0eebca058dc%23block-56d5f4c8e4b0d0eebca058dc>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5f4c8e4b0d0eebca058dc%23block-56d5f4c8e4b0d0eebca058dc&amp;hl=en-GB&amp;wwc=1>
+close 
+7.58pm GMT 19:58  <> 
+
+Comey no longer seems at ease; when quizzed on the nature of the Fourth 
+Amendment (which secures Americans against unreasonable search and seizure) he 
+continually says he’s not a constitutional scholar, though he was district 
+attorney for the southern district of New York. He then says that he thinks the 
+framers of the constitution “wouldn’t have imaginedany box or storage area or 
+device that couldn’t be entered <https://www.youtube.com/watch?v=TUVScBf8Znw>.”
+
+He’s also clearly getting annoyed with the line of questioning. “People keep 
+asking ‘Why didn’t you come to Congress?’” he says. “Well, because we’re in the 
+middle of a terrorism investigation. I think the courts will resolve this 
+faster than any legislative body could.”
+
+
+He further takes the opportunity of being criticized for seeking judicial 
+redress when he ought to have come to Congress in the opinion of the committee 
+to praise the judiciary. “I have a number of friends who are magistrate judges, 
+and they’re awesome and they think well and they rule well.”
+
+“The world I imagine is a world in which people comply with warrants,” Comey 
+says. “How they do it is up to them.”
+
+Updated at 9.11pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5f279e4b054e3a47b4da4%23block-56d5f279e4b054e3a47b4da4>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5f279e4b054e3a47b4da4%23block-56d5f279e4b054e3a47b4da4>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5f279e4b054e3a47b4da4%23block-56d5f279e4b054e3a47b4da4&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5f279e4b054e3a47b4da4%23block-56d5f279e4b054e3a47b4da4>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5f279e4b054e3a47b4da4%23block-56d5f279e4b054e3a47b4da4>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5f279e4b054e3a47b4da4%23block-56d5f279e4b054e3a47b4da4&amp;hl=en-GB&amp;wwc=1>
+close 
+7.48pm GMT 19:48  <> 
+
+Congressman Chaffetz: the FBI already seriously overreaches
+
+We’re back, and the committee has resumed queuing up around Room 2141 of the 
+Rayburn House Office Building to spank the director of theFBI 
+<https://www.theguardian.com/us-news/fbi>.
+
+Jason Chaffetz of Utah asks Comey when historically the government has been 
+able to compel a company to create a product to help it. Comey says he doesn’t 
+know but cites one of the cases in the DoJ’s brief, New York Telephone. Comey 
+is fairly short with him.
+ Congressman Jason Chaffetz Photograph: Cliff Owen/AP 
+Chaffetz then tells Comey he thinks the FBI already overreaches to a serious 
+extent. “We can’t even see the degree to which you’re using Stingrays, or the 
+requirements [to use them].” Chaffetz points out that the devices areapparently 
+being supplied to the IRS 
+<https://www.theguardian.com/world/2015/oct/26/stingray-surveillance-technology-irs-cellphone-tower>
+ without any congressional oversight. What is the occasion of their use, he 
+asks. “Is it articulable suspicion? Is it probable cause?”
+
+“I don’t have a great answer,” Comey responds. “I like the idea of giving as 
+much transparency as possible.”
+
+The Guardian has repeatedly attempted to use the Freedom of Information Act to 
+acquire records on the use of Stingrays from law enforcement and the documents 
+received have without exception been redacted to remove all mention of the 
+device.
+
+Updated at 8.56pm GMT 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5efd9e4b0d0eebca058c9%23block-56d5efd9e4b0d0eebca058c9>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5efd9e4b0d0eebca058c9%23block-56d5efd9e4b0d0eebca058c9>
+Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5efd9e4b0d0eebca058c9%23block-56d5efd9e4b0d0eebca058c9&amp;hl=en-GB&amp;wwc=1>
+ Share Share this post  Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Ablock-56d5efd9e4b0d0eebca058c9%23block-56d5efd9e4b0d0eebca058c9>
+ Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20v%20FBI%20congressional%20hearing%20%E2%80%93%20as%20it%20happened&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Ablock-56d5efd9e4b0d0eebca058c9%23block-56d5efd9e4b0d0eebca058c9>
+ Google plus  
+<https://plus.google.com/share?url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Flive%2F2016%2Fmar%2F01%2Fapple-fbi-congressional-hearing-live%3FCMP%3Dshare_btn_gp%26page%3Dwith%3Ablock-56d5efd9e4b0d0eebca058c9%23block-56d5efd9e4b0d0eebca058c9&amp;hl=en-GB&amp;wwc=1>
+close  
+That’s the end of this liveblog. To recap: A grueling five-hour hearing 
+revealed an unusual antipathy toward the Department of Justice in the usually 
+FBI-friendly house of representatives judiciary committee.
+
+Lawmakers didn’t merely accuse the FBI 
+<https://www.theguardian.com/us-news/fbi> of undermining cybersecurity. Ranking 
+committee member John Conyers attacked bureau director James Comey, saying that 
+using the case of the iPhone belonging to the San Bernardino killer Syed Farook 
+had undermined the remit of the legislature itself.
+
+“Can you appreciate my frustration with what appears to be little more than an 
+end-run around this committee?” asked Congressman Conyers. California 
+representative Zoe Lofgren, whose district includes part of Silicon Valley, 
+called the quest to provide entry into encryption exclusively for law 
+enforcement “a fool’s errand”.
+
+ Photograph: Justin Lane/EPA 
+Farook, with his wife Tashfeen Mailk, killed 14 people and wounded 22 in a 
+shooting spree on 2 December, after which agents retrieved two destroyed cell 
+phones, one useless laptop and Farook’s locked iPhone.Apple 
+<https://www.theguardian.com/technology/apple> has said it will not open the 
+phone despite the government’s acquisition of a court order under the 
+227-year-old All Writs Act by the Department of Justice attempting to compel 
+the company to write a tool that will break its password security measures.
+
+Law-and-order conservatives including committee chairman Jim Sensenbrenner 
+told Comey they supported his efforts, some invoking arguments ranging from 
+Isis to the nuclear holocaust.
+
+Trey Gowdy told Apple general counsel Bruce Sewell he was unimpressed with the 
+company’s contributions to lawmaking and demanded the company draft a bill to 
+address what he characterized as a technology problem. “We draft it and then 
+your army of government relations folks opposes it, so I’m just trying to save 
+us time,” he said. “Why don’t you propose it? Tell us what you could agree to.”
+
+For perhaps the first time, Comey summarized the Department of Justice’s 
+argument without the disingenuous claim that the San Bernardino case was 
+limited in scope: “It’s not [Apple’s] job to watch out for public safety,” he 
+said. “That’s our job.”
+
+Sewell said that the company did want to help with public safety and said the 
+company held the rights as a private citizen, among them its first amendment 
+right to free speech and thirteenth amendment right to deny forced labor.
+
+The government’s argument in the San Bernardino case “makes my blood boil,” he 
+told the committee. “To say that it’s a marketing ploy, to say that it’s about 
+PR really diminishes a very serious conversation that should be about security 
+of the American people.””
+
+Susan Landau, a security expert who has worked with Google and the National 
+Security Agency, offered perhaps the most daring take of the lengthy hearing: 
+the FBI needs to get real about technology and start trying harder to break 
+encryption. “While the NSA has the right to break into a system, nobody ever 
+guaranteed that it would be easy to do so,” she says. “TheFBI 
+<https://www.theguardian.com/us-news/fbi> needs to take a page from the NSA.”
+
+We’ve written a summary of the full hearing 
+<https://www.theguardian.com/technology/2016/mar/01/apple-fbi-congress-hearing-iphone-encryption-san-bernardino>
+; follow the Guardiantechnology <https://www.theguardian.com/us/technology> 
+section and national security editorSpencer Ackerman 
+<https://www.theguardian.com/profile/spencerackerman> for more on the 
+developing story.
+ 
+Landau, answering a question from Congresswoman Lofgren, says that everything 
+is connected to the internet and treating it like it isn’t will lead to 
+trouble. TheFBI <https://www.theguardian.com/us-news/fbi> is asking for login 
+credentials, she says, which would set an especially dangerous precedent.
+ Professor Susan Landau of Worcester Polytechnic Institute Photograph: 
+Nicholas Kamm/AFP/Getty Images 
+“Whether you’re talking about the power grid, the water supply, whatever, 
+we’re connected in disastrously insecure ways and the best way to get in is 
+login credentials,” says Landau.Encryption 
+<https://www.theguardian.com/technology/encryption>, she said, was a serious 
+problem. “What law enforcement is asking for is going to preclude those strong 
+solutions.”
+
+“Director Comey said we’ve talked to everyone who’ll talk to us, but I was at 
+an event held by the FCC, and some senior people from DOJ were there and I said 
+‘Well NSA has skill X and skill Y’ and they said ‘They don’t share them with us 
+except in extraordinary circumstances.’”
+
+“Law enforcement don’t have the skills and they need to develop them,” she 
+says.
+ 
+One of Sewell’s better rhetorical flourishes is immediately undercut by Gowdy, 
+who out-yells committee chairman Sensenbrenner.
+
+“Is it right to make our society overall less safe in order to solve crime?” 
+Sewell asks softly; Gowdy immediately leaps in to demand “a fact-pattern” in 
+which Gowdy would comply with the order.
+
+Sewell: “Congressman, we will follow the law.”
+
+Gowdy: “I’m asking you for a fact-pattern.”
+
+Sewell: “I don’t, uh –”
+
+Gowdy: “Can you give me a fact pattern where you would agree with what the 
+bureau is asking you to do in California, whether it be nuclear weapons or a 
+terrorist plot?”
+
+
+Sewell: “I can’t imagine such a fact pattern.”
+
+Gowdy: “Can you submit legislation, to Chairman Sensenbrenner’s question, that 
+you would wholeheartedly support?”
+
+Gowdy goes on to make one of the better points against Apple 
+<https://www.theguardian.com/technology/apple>, which is that they already have 
+quite a bit of influence congressionally and the legislature’s inaction on 
+encryption doesn’t exactly have nothing to do with Apple’s interests. “We draft 
+it and then your army of government relations folks opposes it, so I’m just 
+trying to save us time. Why don’t you propose it? Tell us what you could agree 
+to.”
+
+“We’re willing to and we’ve offered to engage in this process,” Sewell says.
+ 
+Congressman Lofgren, who represents Silicon Valley, is pretty contemptuous of 
+Comey. “It’s a fool’s errand,” she says. “We’ll never be able to do what’s 
+being asked of us by theFBI <https://www.theguardian.com/us-news/fbi>.”
+
+Again, strange bedfellows 
+<https://www.theguardian.com/technology/2016/feb/29/apple-fbi-encryption-battle-supporters-technology-politics>
+ here: Ted Poe (again, a Texan Republican, and also a former judge) reiterates 
+New York Democrat Jerrod Nadler’s point earlier that there’s a distinct 
+possibility that Congress might simply tell Apple it can’t have encryption of 
+the type it wants. “I actually agree with Mr Nadler; I know that’s going to 
+bother him a little bit.”
+ 
+Sewell tells Nadler he believes ordering Apple 
+<https://www.theguardian.com/technology/apple> to unlock the iPhone both 
+violates both the first amendment to the US constitution and the thirteenth 
+(which abolished slavery in 1865).
+
+“This is a compelled speech by the government for the purposes of the 
+government which is absolutely a first amendment problem, and it is speech that 
+Apple does not want to make,” he says. “And it is conscription; forced labor.”
+ New York district attorney Cyrus Vance testifying before the House Judiciary 
+Committee, seated next to encryption expert professor Susan Landau Photograph: 
+Nicholas Kamm/AFP/Getty Images 
+Darrell Issa makes a more utilitarian argument, echoing the point former FBI 
+counterterrorism agent Mike German madeearlier in this blog 
+<https://www.theguardian.com/technology/live/2016/mar/01/apple-fbi-congressional-hearing-live?page=with:block-56d5e2d8e4b0d0eebca058af#block-56d5e2d8e4b0d0eebca058af>
+. “Have you ever ordered a shredding company to put paper back together?” he 
+asks Vance.
+
+Vance has to concede. “Of course I haven’t.”
+ 
+Republican Jim Sensenbrenner, chairman of the judiciary committee, yells at 
+Sewell for not bringing a bill with him to Congress.
+
+“We have the iPhone of a dead terrorist!” he says. “You’ve come to us to ask 
+us to do something, but you don’t know what you want us to do.” He theatrically 
+yields his time in disgust, then Sewell tries to answer, then Sensenbrenner 
+yells at him and yields his time again. It’s less impressive the second time.
+ Congressman James Sensenbrenner Photograph: Chip Somodevilla/Getty Images 
+“I assume Apple will have legislative suggestions for us after the court makes 
+its decision and Apple likes orApple 
+<https://www.theguardian.com/technology/apple> doesn’t like it,” Jerrold 
+Nadler, a Democrat from New York, says after Sensenbrenner yields for real. He, 
+too, isn’t happy with the one-device argument, and lights into Manhattan 
+district attorney Cyrus Vance over it.
+
+Vance has said he has 175 iPhones waiting to be unlocked, but the number has 
+now risen to 205.
+
+ * Thanks to reader Kevin Lee, who points out that Jerrold Nadler is from New 
+York, not California, as previously stated
+ 
+Here’s an interesting exchange highlighting one of the odd contours of the 
+debate:there’s been a lot of discussion about cryptography that seems to 
+suggest that there’s a difference between “breaking encryption,” whatever that 
+means (sharing super-secret prime numbers? Unclear.) and weakening the passcode 
+so that it can be brute forced, as Comey describes below, inless than half an 
+hour 
+<https://www.theguardian.com/technology/live/2016/mar/01/apple-fbi-congressional-hearing-live?page=with:block-56d5f964e4b0d0eebca058ea#block-56d5f964e4b0d0eebca058ea>
+.
+
+Conyers gets at this asks by asking Sewell what the functional difference is 
+between asking Apple to break its own encryption, and askingApple 
+<https://www.theguardian.com/technology/apple> to weaken the passcode 
+protections.
+
+“Functionally there is no difference,” Sewell says. “What we’re talking about 
+is an operating system in which the passcode is an inherent and integrated part 
+of the decryption system. That passcode is a cryptographic key.” So that’s your 
+cryptography 101 lesson: you participate in encryption on an incredibly 
+sophisticated level every time you punch in your passcode.
+
+Back to the hearing: “I was hoping you’d go in that direction,” Conyers 
+replies.
+
+Sewell says that it is “absolutely false” that Apple no longer works with law 
+enforcement. “The relationship with law enforcement falls within my shop at 
+Apple and I’m incredibly proud of the work we do. We have dedicated individuals 
+available around the clock.”
+
+“This is not about the San Bernardino case,” Sewell tells Conyers. “This is 
+about the safety and security of every iPhone.”
+
+
+It’s probably safe to stop talking about the “one device” argument, made by 
+Josh Earnest, among others, but Sewell kicks it one more time to make sure it’s 
+stopped moving permanently: “There’s no distinction between a 5C and a 6 in 
+this case. It is extensible, it is common, it is effectively the same.”
+ 
+Goodlatte asks Sewell whether Comey’s assertion that Apple’s position is 
+informed by its business model is “a fair contrast”.
+
+“It’s by no means a fair contrast, Mr Chairman,” Sewell tells Goodlatte. He 
+says he does not, in fact, agree with the characterization and says that 
+hearing this described as a marketing issue “makes my blood boil”.
+
+“I’ve heard this raised before. It was raised in New York, it was raised in 
+San Bernardino. This is not a marketing issue, that’s a way of demeaning our 
+argument. We don’t take out billboards for our security. We don’t take out ads 
+for our encryption. We’re doing this because we think it’s the right thing to 
+do. To say that it’s a marketing ploy to to say that it’s about PR really 
+diminishes a very serious conversation that should be about security of the 
+American people.”
+
+It’s not quite true that Apple doesn’t advertise based on its security, but it 
+is true thatApple <https://www.theguardian.com/technology/apple> advertises its 
+security as being non-annoying, rather than, say, so hard to break that you can 
+sell drugs with impunity.
+
+Sewell goes on to cites Orenstein’s decision from yesterday finding Apple 
+“conscientious,” and says that in fact Apple is at war toimprove public safety. 
+“We see ourselves as being in an arms race with crminals, cyberterrorists and 
+hackers,” Sewell said.
+ 
+The second panel is finally up. 
+
+Bruce Sewell, general counsel for Apple, reads the statement released yesterday
+ 
+<https://www.theguardian.com/technology/2016/feb/29/apple-lawyer-fbi-bruce-sewell-more-crime>
+, telling the committee that he “appreciate[s] your invitation and the 
+opportunity to a part of the conversation on this issue.”
+
+Sewell doesn’t say much to put Comey’s mind at ease, given his earlier remarks 
+on what Comey sees as Apple’s attempt to usurp the FBI’s remit. “We share their 
+goal of creating a safer world,” Sewell says, adding that the company 
+cooperates often with law enforcement.
+ Bruce Sewell, Apple general counsel, at the hearing Photograph: Joshua 
+Roberts/Reuters 
+Susan Landau, a former privacy analyst for Google, gives a very interesting 
+testimony. Among other observations, she says that “smartphones are 
+increasingly wallets” and points out that “NSA will tell you that stealing 
+login credentials is the easiest way into a system,” a direct contradiction to 
+the FBI’s assertion that what it’s asking is less harmful than to break 
+encryption.
+
+Landau also quotes words of wisdom she attributes to a former NSA colleague: 
+“While the NSA has the right to break into a system, nobody ever guaranteed 
+that it would be easy to do so,” she says. “TheFBI 
+<https://www.theguardian.com/us-news/fbi> needs to take a page from the NSA.”
+ 
+Finally, after three hours of condescending to the House of Representatives 
+and being sniped at in return,FBI <https://www.theguardian.com/us-news/fbi> 
+director James Comey is getting around to saying what he actually thinks about 
+five minutes before he leaves the panel.
+
+Hakeem Jeffries from Queens presses Comey on whether the Department of 
+Justice’s characterization of Apple’s position as driven entirely by marketing 
+and PR was as contemptuous as it sounded to Jeffries.
+
+Comey responds that he thinks Apple’s market power “is not an illegitimate 
+motive,” but he doesn’t like what they’re selling, because it essentially 
+privatizes law enforcement. “It’s not their job to watch out for public 
+safety,” he says shortly. “That’s our job.”
+
+Comey also manages to state the opposition’s case very succintly in pushing 
+back on a question from Jeffries about breaking into the phone; he also 
+identifies where he takes issue with it: “I don’t agree with your framing,” he 
+tells Jeffries. “It sounds like you’re saying you either have privacy or you 
+have unfettered access and I don’t agree with that.”
+ Congressman David Cicilline, speaking at a news conference on the 
+Trans-Pacific Partnership in October 2015 Photograph: J. Scott Applewhite/AP 
+Rhode Island democrat David Cicilline asks Comey if encryption law ought to 
+come from the legislative branch rather than case law. “Do you agree that the 
+authority has to come from Congress?” he asks.
+
+Comey, for perhaps the first time, gives a flat negative. “No, I don’t agree 
+with that.”
+ 
+Comey’s case in a nutshell is that he does not want Apple 
+<https://www.theguardian.com/technology/apple> to destroy its security and that 
+the distinction is not a hairsplitting one.
+
+We’re asking Apple to take the vicious guard dog away and let us pick the lock.
+
+Suzan DeIbene tells Comey that the tension is not between privacy and security 
+but between security and security, Comey replies, “You’ve said that very well, 
+between privacy and security.”
+
+
+“It’s not a technological problem - it’s a business model problem,” he said.
+ 
+Cedric Richmond, Democrat from Louisiana’s second district, representing New 
+Orleans, is present to discuss the case of a pregnant woman murdered by an 
+unknown assailant; investigators have asked for access to her phone but have 
+run up against encryption – she is believed to have kept a detailed diary on 
+it. Comey has mentioned the case several times.
+
+“We balance public safety and criminal justice; are we in danger of creating 
+an underground criminal sanctuary for some very disturbed people?” Richmond 
+asks Comey.
+
+
+“Until this, there was no closet in America, no safe in America, no bank in 
+America that could not be entered with a judge’s order. Until we drift to that 
+place, we gotta talk about it.”
+
+The case is not one that has been regularly mentioned up to this point; there 
+is a case similar to the one described that was reported on in Louisiana last 
+year.
+ 
+FBI <https://www.theguardian.com/us-news/fbi> director James Comey:
+
+“They’ve set out to make a phone that they can’t get into and they’re darn 
+near succeeding. I think with the 6 and beyond, they would have succeeded. That 
+doesn’t make them bad people.”
+ 
+An interesting note from Comey: a brute force attack on the phone would take 
+26 minutes, were Apple’s password-entry security measures defeated (again, see
+our explainer 
+<https://www.theguardian.com/technology/2016/feb/20/apple-fbi-iphone-explainer-san-bernardino>
+ for a little more detail on how this works).
+
+And then Comey tells the committee he blames one man for his current 
+predicament: Edward Snowden.
+
+“Since Mr. Snowden’s revelations, terrorist tradecraft changed.” Terrorists 
+tried to “wrap their lives in encryption,” he says, and as a result, “we’re 
+looking for needles in a haystack, and the most important needles turn 
+invisible.”
+
+
+Steve King of Iowa brings up the Isis activity on Twitter, possibly, though 
+his syntax is a little hard to decipher. “I’m interested in how the parameters 
+that have been examined thoroughly by all the lawyers on this panel might apply 
+to Isis, or any of their affiliates or subordinates that might be necessary if 
+we’re going to defeat that ideology.”
+ Congressman Steve King, seen with Republican presidential candidate Ted Cruz 
+Photograph: Mark Kauzlarich/Reuters 
+King’s opinion appears to be that San Bernardino is small potatoes and that 
+the American public ought to be more worried about “radical Islam” than even 
+the constant discussion of Isis around Farook/Malik murders has made them.
+
+“I think it’s known that Isis or Isil are seeking a nuclear device,” King 
+tells Comey. “If that became part of the American consciousness, do you think 
+that would change this debate?”
+
+Comey does the thing he’s done so beautifully during the FBI’s messaging to 
+the public, which is to plead for reasoned debate while reminding everybody 
+that theFBI <https://www.theguardian.com/us-news/fbi> stands between them and 
+anarchy. “I do worry that it’s hard to have nuanced complicated conversations 
+like this in the wake of a disaster, which is why I think it’s so important 
+that we have this conversation now.”
+
+The director also rejects the contention that the FBI already has the 
+technology and just wants precedent. “If we could have done this quietly and 
+privately, we would have done it.”
+ 
+James Comey has a friend! Trey Gowdy, the mind behind the Benghazi hearings, 
+says that “I confess up front that my bias is toward public safety” when it 
+comes to the need to balance the various rights conferred by the US 
+constitution.
+
+“You just can’t go in these categories [of device] unless somebody consents, 
+really?” Gowdy asks, appalled. Comey agrees wholeheartedly with Gowdy’s outrage.
+
+“I love privacy too but I want my fellow citizens to understand that we also 
+love our bodies,” Gowdy says.
+ Congressman Trey Gowdy Photograph: Corbis & Getty Images 
+“If you have a bullet from an officer who was shot in a defendant, you can go 
+to a judge and ask the defendant to anesthetize a patient and remove a that 
+bullet from the body.” If that’s not unreasonable search and seizure, the South 
+Carolina Republican asks, what is?
+
+Gowdy is 100% wrong on this. 
+
+The incident to which he appears to refer is a well-known Supreme Court case 
+called Winston v Lee in which it was decided that the use of a previous high 
+court decision, Schmerber v California, to mandate surgery to recover bullets 
+against the will of a defendantwas unreasonable search and seizure.
+
+“The proposed surgery would violate respondent’s right to be secure in his 
+person and the search would be ‘unreasonable’ under the Fourth Amendment,”said 
+the court <https://supreme.justia.com/cases/federal/us/470/753/case.html>.
+ 
+Comey no longer seems at ease; when quizzed on the nature of the Fourth 
+Amendment (which secures Americans against unreasonable search and seizure) he 
+continually says he’s not a constitutional scholar, though he was district 
+attorney for the southern district of New York. He then says that he thinks the 
+framers of the constitution “wouldn’t have imaginedany box or storage area or 
+device that couldn’t be entered <https://www.youtube.com/watch?v=TUVScBf8Znw>.”
+
+He’s also clearly getting annoyed with the line of questioning. “People keep 
+asking ‘Why didn’t you come to Congress?’” he says. “Well, because we’re in the 
+middle of a terrorism investigation. I think the courts will resolve this 
+faster than any legislative body could.”
+
+
+He further takes the opportunity of being criticized for seeking judicial 
+redress when he ought to have come to Congress in the opinion of the committee 
+to praise the judiciary. “I have a number of friends who are magistrate judges, 
+and they’re awesome and they think well and they rule well.”
+
+“The world I imagine is a world in which people comply with warrants,” Comey 
+says. “How they do it is up to them.”
+ 
+We’re back, and the committee has resumed queuing up around Room 2141 of the 
+Rayburn House Office Building to spank the director of theFBI 
+<https://www.theguardian.com/us-news/fbi>.
+
+Jason Chaffetz of Utah asks Comey when historically the government has been 
+able to compel a company to create a product to help it. Comey says he doesn’t 
+know but cites one of the cases in the DoJ’s brief, New York Telephone. Comey 
+is fairly short with him.
+ Congressman Jason Chaffetz Photograph: Cliff Owen/AP 
+Chaffetz then tells Comey he thinks the FBI already overreaches to a serious 
+extent. “We can’t even see the degree to which you’re using Stingrays, or the 
+requirements [to use them].” Chaffetz points out that the devices areapparently 
+being supplied to the IRS 
+<https://www.theguardian.com/world/2015/oct/26/stingray-surveillance-technology-irs-cellphone-tower>
+ without any congressional oversight. What is the occasion of their use, he 
+asks. “Is it articulable suspicion? Is it probable cause?”
+
+“I don’t have a great answer,” Comey responds. “I like the idea of giving as 
+much transparency as possible.”
+
+The Guardian has repeatedly attempted to use the Freedom of Information Act to 
+acquire records on the use of Stingrays from law enforcement and the documents 
+received have without exception been redacted to remove all mention of the 
+device.
+ 

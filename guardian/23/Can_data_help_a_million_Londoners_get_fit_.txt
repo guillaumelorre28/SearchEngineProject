@@ -1,0 +1,108 @@
+
+As the UK faces an obesity <https://www.theguardian.com/society/obesity> 
+epidemic, fitness experts believe open data can play a vital part in getting 
+the nation off the couch and into exercise. The belief is fitness is due its “
+Uber <https://www.theguardian.com/technology/uber> moment”, where booking a 
+tennis court or fitness activity is as simple as pressing a button on a 
+smartphone.
+
+A fledgling service that aims to make this happen will be launched by London 
+Sport <https://londonsport.org/> in time for the Rio Olympics this summer. The 
+sporting body was set up to deliver on Boris Johnson’s policy of making London 
+thefittest city in the world 
+<https://www.london.gov.uk/press-releases/mayoral/london-aims-to-be-the-most-physically-active-city>
+ by encouraging a million Londoners to get more active.
+
+Its CEO, Peter Fitzboydon, believes connecting sporting capacity with demand 
+is crucial to achieving this goal. “If you want to help people get fit, you’ve 
+got to release the data on how they can access opportunities to be active,” he 
+says.
+
+“Everyone’s come across the situation where they want to have a game of squash 
+or tennis with a friend but they’re not sure how to book it. If you find the 
+number for your local leisure centre and it’s booked, you’re not sure what the 
+options are. But if you have an online service and an app that gives you 
+availability and, if there isn’t a slot, tells you where else you could book at 
+the press of a button, that would open up so many more opportunities to get 
+fit.”
+
+Olympic standard
+
+So far only the Olympic Park <http://queenelizabetholympicpark.co.uk/> is on 
+board, agreeing to open up booking information and availability information to 
+the new site. However, atImin.co <http://www.imin.co/>, a startup which will be 
+powering the data on the new London Sport site, co-founder Nishal Desai 
+believes there is cause for optimism. His company has been set up to be a 
+repository of open data through which leisure centres and sports clubs can make 
+booking information available to the public.
+
+To that end, the company has set up Openactive <https://www.openactive.io/>, 
+an open data project that fitness data owners are invited to join so their 
+calendars can be openly shared. “We’re at the early stages of getting an open 
+data standard so leisure centres and clubs across the country can make their 
+booking information available,” says Desai.
+
+“We’re having lots of very good discussions with leisure centre groups but 
+they’re not all set up to make their data available at the moment. That’s why 
+we’re establishing a standard which many boroughs are telling us they’ll ensure 
+will be written in to future contracts to ensure centres have to open their 
+data up.”
+
+Desai believes this release of data will fuel many websites and apps that will 
+make booking an activity far easier by either offering available sessions or 
+suggesting viable nearby alternatives if there is no availability. The 
+intention is that Imin will be the source of data these multiple apps can tap 
+into to power their services.
+
+On the right route
+
+The power of open data in fitness is already being explored by running and 
+cycling appStrava <https://www.strava.com/>. It allows people to plan cycle and 
+running routes, which can also be shared on social media sites. When users sign 
+up for the free app, they give permission for their anonymised data to be 
+pooled. The result is freely availablestatistics 
+<http://insights.strava.com/en-us/?unit=imperial&activity=ride> on cycling and 
+running in major cities as well as “heat”maps 
+<http://labs.strava.com/heatmap/#13/-0.11124/51.48732/orange/bike> that help 
+people plan better routes, according to popularity, as well as inform local 
+authorities where people are cycling and exercising the most, as Gareth 
+Nettleton, vice-president of marketing at Strava, explains.
+
+“We have millions of routes logged all around the world so when we combine 
+them we can provide a really useful service to cyclists and runners,” he says. 
+“They can look at the most popular routes and so incorporate them in to their 
+plans. We’ve also got details about climbs which cyclists can check to see if 
+they want to incorporate. You might know your area really well but we can 
+provide suggested routes nearly anywhere in the world.”
+
+This open data is not only of use in encouraging cyclists and joggers to try 
+new routes, via the free app, it is also being licensed by local transport 
+bodies to help them plan through Strava’sMetro <http://metro.strava.com/> 
+service.
+
+“We’re in the early days of working with TfL to show them where people are 
+cycling the most,” Nettleton says. “I suspect we’ll be able to help them plan 
+cycle routes around where cyclists are going but also where they’re avoiding. 
+I, for example, avoid the Elephant and Castle huge roundabout in London because 
+it’s massive and, to me, it appears dangerous.
+
+“If we can show that, we might be able to help TfL decide how to plan cycle 
+routes around it. We’ll also probably be able to show them where cyclists go 
+when roads are closed or so they can fully understand the impact of road works. 
+That’s what we’ve been doing for Brisbane in Australia, they’ve been using our 
+data to plan better cycle routes for the past three years.”
+
+It is by freeing up the data of what happens when we exercise as well as where 
+and when there are opportunities to exercise that open data experts believe 
+fitness levels will increase. By showing people how, where and when they can 
+get fitter, there will be that extra nudge to get couch potatoes on their local 
+tennis courts or pounding the streets on a popular, scenic route.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media & Tech Network content is editorially independent except 
+for pieces labelled “Paid for by” – find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

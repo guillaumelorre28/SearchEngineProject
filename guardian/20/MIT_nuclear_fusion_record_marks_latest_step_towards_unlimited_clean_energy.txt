@@ -1,0 +1,91 @@
+
+A nuclear fusion world record has been set in the US, marking another step on 
+the long road towards the unlocking of limitless clean energy.
+
+A team at the Massachusetts Institute of Technology (MIT) created the highest 
+plasma pressure ever recorded 
+<http://news.mit.edu/2016/alcator-c-mod-tokamak-nuclear-fusion-world-record-1014>
+, using its Alcator C-Mod tokamak reactor. High pressures and extreme 
+temperatures are vital in forcing atoms together to release huge amounts of 
+energy.
+
+Nuclear fusion powers the sun and has long been touted as the ultimate 
+solution to powering the world while halting climate change. But, as fusion 
+sceptics often say, the reality has stubbornly remained a decade or two away 
+for many years.
+
+Now MIT scientists have increased the record plasma pressure to more than two 
+atmospheres, a 16% increase on the previous record set in 2005, at a 
+temperature of 35 million C and lasting for two seconds. The breakthrough was 
+presented at theInternational Atomic Energy Agency’s fusion summit in Japan on 
+Monday 
+<http://www-pub.iaea.org/iaeameetings/48315/26th-IAEA-Fusion-Energy-Conference>.
+
+Successful fusion means getting more energy out than is put in and this 
+requires the combination of pressure, temperature and time to pass a critical 
+value at which point the reaction becomes self-sustaining. This remains elusive 
+but the MIT record shows that using very high magnetic fields to contain the 
+plasma may be the most promising route to practical nuclear fusion reactors.
+
+“This is a remarkable achievement,” said Dale Meade, former deputy director at 
+the Princeton PlasmaPhysics <https://www.theguardian.com/science/physics> 
+Laboratory. “The record plasma pressure validates the high-magnetic-field 
+approach as an attractive path to practical fusion energy.”
+
+Prof Riccardo Betti, at the University of Rochester, New York, said: “This 
+result confirms that the high pressures required for a burning plasma can be 
+best achieved with high-magnetic-field tokamaks such as Alcator C-Mod.”
+
+However, the world record was achieved on the last day of the MIT tokamak’s 
+operation, because funding from the US Department of Energy has now ended. The 
+US, along with the EU, China, India, South Korea, Russia and Japan, are now 
+ploughing their fusion funding into ahuge fusion reactor called ITER 
+<https://www.iter.org/>. 
+
+The giant, seven-storey-high tokamak is being built in southern France, with 
+magnetsweighing about the same as a Boeing 747 
+<http://gizmodo.com/our-best-shot-at-nuclear-fusion-needs-magnets-weighing-1765662769>
+. The volume of ITER’s tokamak will be 800 times bigger than the MIT vessel. 
+ITER should be completed in 15-20 years and aims to deliver 500MW of power, 
+about the same as today’s large fission reactors. But the project has been 
+hampered by delays.
+
+In the meantime, there are numerous private companies hoping to develop small 
+scale nuclear fusion reactors. One isTokamak Energy 
+<http://www.tokamakenergy.co.uk/>, a spin-off from the UK’s national fusion lab 
+<http://www.ccfe.ac.uk/>, which uses high-temperature superconductors to create 
+the magnetic field to contain the fusion plasma. The MIT tokamak used copper 
+magnets, which require use more power.
+
+Dr David Kingham, chief executive of Tokamak Energy, said the important aspect 
+of the MIT world record was that it showed extreme conditions can be created in 
+small tokamaks: the volume of the MIT device is just one cubic metre. “The 
+conventional view is that tokamaks have to be huge [like ITER] to be powerful,” 
+he said. “The MIT people disagree with that view, as do we.” Kingham’s target 
+is for his company’s compact reactors toproduce their first electricity by 2025 
+<https://www.theguardian.com/environment/2016/mar/24/nuclear-fusion-needs-a-wright-brothers-moment-says-firm-closing-on-the-target>
+.
+
+Rival companies also backing small fusion reactors include Lockheed Martin’s 
+famous Skunk Works team 
+<https://www.theguardian.com/environment/2014/oct/16/has-lockheed-martin-really-made-a-breakthrough-on-nuclear-fusion>
+. In 2014 said they would produce a truck-sized fusion plant in a decade but 
+attracted criticism for providing few details.
+
+Others in the field include Tri Alpha Energy <http://www.trialphaenergy.com/>, 
+which harnesses particle accelerator technology and is backed by Paul Allen, 
+Microsoft’s co-founder.General Fusion <http://www.generalfusion.com/>, which 
+uses a vortex of molten lead and lithium to contain the plasma, is backed by 
+Amazon’s Jeff Bezos.Helion Energy <http://www.helionenergy.com/>, First Light 
+Fusion <http://firstlightfusion.com/> and the University of Washington’s Dynomak
+ 
+<http://www.washington.edu/news/2014/10/08/uw-fusion-reactor-concept-could-be-cheaper-than-coal/>
+ are all also chasing the fusion dream.
+
+Prof Dennis Whyte, director of MIT’s Plasma Science and Fusion Center, said 
+small, non-tokamak approaches, though less familiar, could be promising: 
+“Compact, high-field tokamaks provide an exciting opportunity for accelerating 
+fusion energy development, so that it’s available soon enough to make a 
+difference to problems like climate change and the future of clean energy, 
+goals I think we all share.”
+ 

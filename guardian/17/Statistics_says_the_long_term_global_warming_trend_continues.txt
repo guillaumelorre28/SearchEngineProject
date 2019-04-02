@@ -1,0 +1,77 @@
+
+A new study has just been prepared for an upcoming climate meeting of the US 
+Climate Variability and Predictability Program <http://www.usclivar.org/>. This 
+group has an annual summit and this year will have a special science session 
+with papers and presentations devoted to the so-called “hiatus 
+<http://www.usclivar.org/sites/default/files/documents/2015/Variations2015Summer-1_0.pdf>
+”. The “hiatus” has taken many meanings. In the popular press, it is often used 
+to falsely claim that global warming stopped. As I’ve written many times, 
+global warming has not stopped; the Earth has been continuing to gain energy 
+because of human emissions of greenhouse gases.
+
+In other cases, the “hiatus” refers to a reported slowdown in temperature 
+increases. This too is not seen in the ocean data or in sea level rise. It is 
+only seen in surface temperatures (temperatures of the surface of land and 
+ocean regions 
+<https://www.theguardian.com/environment/climate-consensus-97-per-cent/2015/jul/31/climate-models-are-even-more-accurate-than-you-thought>
+).
+
+
+What my colleague and I wanted to know was, is this slowdown real or not? 
+Specifically, we wanted to know whether it passed mathematical tests for 
+statistical significance. My colleague, who is an expert is statistics, and 
+operatesa climate website <https://tamino.wordpress.com/>, downloaded the 
+surface temperature data from NASA and detrended it (removed the long term 
+increase in temperatures). The difference between the red trendline and the 
+black dots is called the residual. We wanted to increase the odds that we would 
+find a “hiatus” by stopping our analysis in 2013 (omitted the hottest year on 
+record, 2014).
+ NASA temperature anomalies from Foster and Abraham, 2015. 
+If you plot the residual over this time period, it looks like the image below.
+ NASA temperature residuals from Foster and Abraham, 2015. 
+We wanted to know whether there is any trend in these residuals. If the global 
+warming trend had slowed recently, you would expect residuals to become more 
+negative. We found that there was no statistically significant change to the 
+residuals since 1970.
+
+Next, we grouped years together into groups that ranged from 3 years long to 
+20 years long and searched for changes to the residuals in those groups. Again, 
+we found no significant change. Our findings are best summarized by our 
+concluding paragraphs.
+
+A barrage of statistical tests was applied to global surface temperature time 
+series to search for evidence of any significant departure from linear increase 
+at constant rate since
+
+1970. In every case the evidence not only failed to establish a trend change 
+with statistical significance, it failed by a wide margin.
+
+Our results show that the widespread acceptance of the idea of a recent 
+slowdown in the increase of global average surface temperature is not supported 
+by analytical evidence. We suggest two possible contributors to this. First, 
+the natural curiosity of honest scientists strongly motivates them to 
+investigate issues which appear to be meaningful even before such evidence 
+arrives (which is a very good thing). Second, those who deny that man-made 
+global warming is a danger have actively engaged in a public campaign to 
+proclaim not just a slowdown in temperature increase, but a complete halt to 
+global warming. Their efforts have been pervasive, so that in spite of lack of 
+evidence to back up such claims, they have effectively sown the seeds of doubt 
+in the public, the community of journalists, and even elected politicians.
+
+An unfortunate habit in public discourse has been to graph only the data since 
+the supposed “pause” began and state only the trend estimate since that moment, 
+in order to avoid having to show that such a practice implicitly models 
+temperature with a “broken” trend like that of Figure 3. Claims based on 
+failing to reveal what happened before a purported trend change, are inevitably 
+misleading.
+
+It is certainly possible that some change in the trend has occurred since 
+1970, and it is very beneficial to look for causes, whether it is present or 
+not. But we suggest that scientists should stop speaking of a slowdown in 
+temperature increase as though it were a known fact, when it simply isn’t. 
+
+
+Our paper is freely available here 
+<http://www.usclivar.org/sites/default/files/documents/2015/Variations2015Summer-1_0.pdf>
+.
+ 

@@ -1,0 +1,140 @@
+
+If civil libertarians who are disappointed with the proposals Obama outlined 
+last week 
+<https://www.theguardian.com/world/2014/jan/17/obama-nsa-surveillance-reforms-speech-live>
+had to write a wish list for what kind of restraints they'd like to see on 
+National Security Agency data-gathering, what might that include? Here's an 
+educated guess:
+
+Individual Control: The right to exercise control over what personal data 
+organizations collect from them and how they use it.
+Transparency: The right to easily understandable information about privacy and 
+security practices.
+Focused Collection: The right to reasonable limits on the personal data that 
+organizations collect and retain.
+Accountability: The right to have personal data handled by organizations with 
+appropriate measures in place to assure they adhere to the Bill of Rights.
+
+Nevermind that the Obama administration has endorsed 
+<http://arstechnica.com/tech-policy/2012/02/white-house-announces-new-privacy-bill-of-rights-do-not-track-agreement/>
+ all of those rights. Almost two years ago, actually. What's more, they got 
+Google, Microsoft, Yahoo and AOL to agree to observe them. The bad news: these 
+rights apply only to web-browsing data gathered by companies that deploy 
+"behavior-based marketing". You know, the kind of tracking that means a search 
+for "white wedding" will serve of ads for The Knot (even if you were looking 
+for Billy Idol).
+
+In February of 2012, the White House issued a white paper outlining a "
+Consumer Privacy Bill of Rights 
+<http://www.whitehouse.gov/the-press-office/2012/02/23/we-can-t-wait-obama-administration-unveils-blueprint-privacy-bill-rights>
+" that is arguably more comprehensive than the one that's supposed to rein in 
+government. It outlined the rights above and tasked the Federal Trade 
+Commission with enforcing them; the first concrete action was to be the 
+development of a "Do Not Track" standard, allowing consumers to simply shake 
+their electronic tail. So, second piece of bad news: The Consumer Privacy Bill 
+of Rights has been almost as ineffective at preventing data collection as the 
+original.
+
+In addition to everything else they know about us, the corporations that 
+agreed to the Consumer Privacy Bill of Rights know that modern Americans feel 
+significantly more discomfort about Big Shopping than they do about Big 
+Brother. Even without a standardized "Do Not Track" feature, the percentage of 
+internet users who opt out of tracking is growing rapidly. Among Firefox users, 
+it went from around 4% at the time of the white paper toalmost 12% a year later 
+<http://www.nytimes.com/2013/03/04/technology/amid-do-not-track-effort-web-companies-race-to-look-privacy-friendly.html?pagewanted=all>
+ (14% among mobile users). Among all browsers, it's about 8% 
+<http://www.futureofprivacy.org/2013/12/18/tracking-do-not-track-new-ad-network-data-shows-that-8-percent-of-users-have-dnt-on/>
+. This may seem like a tiny percentage, but it's enough of one that marketers 
+are fighting every attempt to make opting out easier.
+
+An astounding 71% of those polled 
+<http://consumerist.com/2012/04/03/consumer-reports-survey-confirms-that-were-worried-about-online-privacy/>
+ say they are "very concerned" about "companies selling or sharing their 
+information about them without their permission". Imagine if those people knew 
+there were, or are supposed to be, ways to prevent it.
+
+Increasing awareness about marketers' peeping and user attempts to escape it 
+are probably why the consortium of "stakeholders" (media companies and privacy 
+advocates) that was to come up with the "Do Not Track" standard actually voted 
+todisband 
+<http://thehill.com/blogs/hillicon-valley/technology/188713-do-not-track-talks-will-continue-over-objections>
+ last fall. Marketers and developers would not give an inch, even on such 
+seemingly simple issues as to where the "switch" to turn tracking off might be. 
+Privacy advocates wanted it to exist as part of the browser installation, as 
+much a part of the process as downloading the software itself. Developers and 
+advertisers wanted it to be in the browser settings, next to the default 
+homepage you probably haven't changed.
+
+When privacy advocates balked at that, a lawyer for the Digital Advertising 
+Alliancesoothed: 
+<http://bits.blogs.nytimes.com/2013/05/03/do-not-track-talks-could-be-running-off-the-rails/>
+
+By putting it in a browser setting, you create a little bit of friction so 
+that you make it simple enough for people who want to find it … But you don't 
+treat it as if it's a matter of national security, because it's not.
+
+Of course, it is. Last month, the latest release 
+<http://www.washingtonpost.com/blogs/the-switch/wp/2013/12/10/nsa-uses-google-cookies-to-pinpoint-targets-for-hacking/>
+ of NSA documents showed that the agency uses exactly those cookies that 
+"deliver and improve" our online experience to fish out individual users from 
+the sea of data they collect and, further, to mark potential targets for 
+"remote exploitation".
+
+This revelation obviously highlights the irony of the Obama administration's 
+agitation for consumer privacy; it should draw attention to a larger if more 
+subtle issue as well: the synchronicity between how marketers think of us and 
+how the government does.
+
+Obama's speech Friday 
+<https://www.theguardian.com/world/2014/jan/17/obama-speech-nsa-surveillance-reforms-full-text>
+ repeatedly emphasized that the data the government collects is "bulk". That 
+probably goes over better than saying "mass". "Mass" means you are swept up 
+with everyone else; "bulk" implies your files are tossed haphazardly in a 
+drawer. The way the program is supposed to work, he explained, is that we just 
+have this huge file lying around and then, when the government finds out about 
+a specific threat, and then they look at it.
+
+Citizens are supposed to be comforted that the data is some huge impersonal 
+block of numbers. It's not data, it'smetadata! But the problem with mass data 
+collection isn't that those who have it can find out about any one individual's 
+private life, it's that if you have enough data, you don't have to find out 
+about any one individual's life.
+
+Marketers have learned that more quickly than the government. Foot-dragging 
+about "Do Not Track" aside, commercial interests don't want to know aboutyou, 
+they want to know aboutpeople like you. One of the largest purveyors of 
+consumer intelligence,BlueKai 
+<http://www.nytimes.com/2012/12/02/magazine/who-do-online-advertisers-think-you-are.html?pagewanted=all>
+, has privacy protections that sound a lot like what Obama outlined Friday: 
+they put a time limit on how long they track users and they keep all profiles 
+anonymous (bulk!); they also limit the data available in the profiles (no 
+financial data, no healthcare data, nothing about sex or religion). It is a 
+form of metadata.
+
+Their information is still incredibly valuable, because the data they collect 
+and distribute isn't intended to track a single person; it's intended to help 
+marketers find a group of people who can be coaxed into sharing a single 
+interest – their product.
+
+Massive amounts of data about millions of people allows commercial interests 
+to sort users into categories, and then marketers can tailor that category's 
+online experience to push its members as firmly as possible in the direction of 
+its product. No one's privacy has been violated in the sense of having a secret 
+revealed; it's almost the opposite, and it's almost worse: we're being 
+manipulated in a way that makes us less individual, less unique, less capable 
+of having secrets to begin with.
+
+The masters of modern spycraft have learned from the masters of marketing the 
+science of predicting human behavior. One of the main reasons for "bulk" 
+collection, one that seems less alarming on its surface, is to watch forpatterns
+ <http://www.huffingtonpost.com/2013/06/12/nsa-big-data_n_3423482.html> of 
+behavior that indicate possible terrorist activity. But when an organization is 
+sufficiently skilled at predicting human behavior, the next phase, almost 
+inevitably, is to try to influence it.
+
+We need to update our vision of what an Orwellian use of bulk data might be. 
+We probably don't have to worry about federal agents knocking down doors in the 
+middle of the night. Tyranny can be a lot more insidious than that. It can be 
+the limitation of options, the curbing of ambitions, or the gentle nudging 
+forward down a path you thought you choose.
+ 

@@ -1,0 +1,94 @@
+
+Jaakko Iisalo, designer
+
+Rovio <https://www.theguardian.com/technology/rovio> only had enough money to 
+make one game. It was 2009 and, as the company’s sole designer, I had to start 
+coming up with ideas. I’ve always been keen on drawing animals, so I sat at my 
+computer and drew a bunch of birds, giving them beaks, a rounded shape – and 
+angry eyebrows. I had this idea of an angry flock of birds, running around 
+destroying things.
+
+The first concept was very different to how Angry Birds 
+<https://www.theguardian.com/technology/angry-birds> turned out, though. There 
+was a queue of birds and when you tapped the first one, it would just attack 
+some simple colour-coded structures. By the time we got to a prototype, there 
+was still no catapult: the birds would just jump at, say, a castle. When we 
+tried it out on people, they’d no idea what they were supposed to do. We 
+realised we needed a recognisable mechanism to launch the birds. I came up with 
+the slingshot, but it seemed too obvious, too easy, so we tried different 
+things for a while, even a swing. But with the slingshot, players just 
+understood what they were meant to do immediately.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Ffeb%2F23%2Fhow-we-made-angry-birds%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F048c1fb1dfd3fe97cc803668ddbab0c7296ddf06%2F1133_34_1722_1923%2F1722.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20we%20made%20Angry%20Birds&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Ffeb%2F23%2Fhow-we-made-angry-birds%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20we%20made%20Angry%20Birds&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Ffeb%2F23%2Fhow-we-made-angry-birds%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F048c1fb1dfd3fe97cc803668ddbab0c7296ddf06%2F1133_34_1722_1923%2F1722.jpg>
+ Jaakko Iisalo’s bird designs. Photograph: Alamy 
+We realised the game needed enemies, but the schedule was tight, so obviously 
+I just drew an animal – a pig thing I’ve been drawing since I was 10, according 
+to my mum. Everything had to be super simple, so I picked a prime colour for 
+each bird. Since the main character is red, I chose green – the complementary 
+colour – for the pigs, who have stolen the birds’ eggs and are sheltering in 
+the structures.
+
+Angry Birds was out for three months before we got featured by Apple. They 
+gave us this tiny banner on the front page of the App Store – and suddenly the 
+game went viral. People were coming into the office and saying there’d been a 
+million downloads. Peter Vesterbacka, brought intoRovio 
+<https://www.theguardian.com/technology/rovio> as business development 
+director, said his goal was to reach 100m sales. We shook our heads and 
+thought: “This guy’s crazy.” Then we hit two billion.
+
+Even now, I have a hard time understanding its success. Shigeru Miyamoto 
+<https://www.theguardian.com/technology/2015/sep/15/super-mario-maker-review-nintendo-wii-u-designable-shigeru-miyamoto>
+, the designer of Super Mario Bros, was asked what game he wished he’d made – 
+and he said Angry Birds.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Ffeb%2F23%2Fhow-we-made-angry-birds%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fd1a888f89b746db96522598cd5e73fa04484cb79%2F0_0_1103_583%2F1103.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20we%20made%20Angry%20Birds&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Ffeb%2F23%2Fhow-we-made-angry-birds%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20we%20made%20Angry%20Birds&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Ffeb%2F23%2Fhow-we-made-angry-birds%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fd1a888f89b746db96522598cd5e73fa04484cb79%2F0_0_1103_583%2F1103.jpg>
+ The bird launcher … ‘Players understood it immediately’ Photograph: PR Image 
+Tuomo Lehtinen, programmer
+
+I was working on something that let you sling balls around, then I added some 
+blocks for them to collide into. When we got the birds from Jaakko, things all 
+started to come together. But the aiming mechanism wasn’t working: the birds 
+didn’t fly where you expected them to, which wasn’t fun – players had to be 
+able to figure out where they had failed.
+
+Jaakko spent a lot of time tweaking the blocks, too, so that when there was a 
+hit, things broke in a way that was satisfying: they couldn’t collapse too 
+easily, couldn’t wobble too much. We initially had a castle much closer to the 
+slingshot – you could see both on screen – but when we moved it further away, 
+the extra flight time meant the anticipation and excitement grew.
+
+
+Previously, whenever we’d shown our games to friends and family, they’d look 
+and say “OK, well, it’s a phone game” and hand the mobile back. But with Angry 
+Birds, they wouldn’t let go. We were all playing it at work too: we had a 
+spreadsheet with all our scores.
+
+We got to number one on the App Store in our home country, Finland, but the 
+market was so small, we could have just told all our friends to download it and 
+we’d have been number one. Then it took the top spot in Sweden because a famous 
+downhill skier,Anja Pärson <https://www.youtube.com/watch?v=XZaEe4oZ1O8>, told 
+a newspaper that she played the game to relax before competitions. By April 
+2010, we were top of the US charts and then we had only one target: to be the 
+biggest game in the App Store. That happened two months later when we passed 
+Doodle Jump.
+
+I remember us drinking champagne and celebrating when we reached one million 
+and then 10 million downloads. Those were big numbers back then. And now 
+there’s a movie coming out. Who’d have thought a mobile game could be this big? 
+It’s awesome.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1U2DKKqxHgE&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1U2DKKqxHgE>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1U2DKKqxHgE&media=>
+Watch a trailer for The Angry Birds Movie 
+<https://www.theguardian.com/film/filmblog/2015/sep/23/the-angry-birds-movie-trailer-the-hottest-film-of-2012-is-coming> 

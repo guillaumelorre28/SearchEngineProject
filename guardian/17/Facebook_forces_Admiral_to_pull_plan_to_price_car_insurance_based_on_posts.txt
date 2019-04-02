@@ -1,0 +1,111 @@
+
+Admiral has been forced to scrap plans to use Facebook posts to analyse the 
+personalities of car owners 
+<https://www.theguardian.com/technology/2016/nov/02/admiral-to-price-car-insurance-based-on-facebook-posts>
+ and set the price of their insurance after the social media company said the 
+scheme breached its privacy rules.
+
+In an embarrassing U-turn, the insurance firm pulled the product less than two 
+hours before it was due to officially launch on Wednesday. The product, called 
+firstcarquote, was launched later with “reduced functionality”: users can log 
+in to the product withFacebook <https://www.theguardian.com/technology/facebook>
+ but it will no longer analyse their data.
+
+Facebook said protecting the privacy of its users was of the “utmost 
+importance” and that it had clear guidelines about how information obtained 
+from the site should be used.
+
+Section 3.15 of Facebook’s platform policy 
+<https://developers.facebook.com/policy/> states that the site’s data should 
+not be used to “make decisions about eligibility, including whether to approve 
+or reject an application or how much interest to charge on a loan”.
+
+
+Admiral <https://www.theguardian.com/business/admiralgroup> and Facebook 
+remain in talks about trying to revive the product, with industry insiders 
+arguing about who was to blame for the last-minute climbdown. Facebook is 
+understood to have known about firstcarquote for months and the product has 
+been operational on the internet for weeks in a test form.
+
+Privacy campaigners welcomed Admiral’s reversal but said that it was only the 
+start of other companies trying to use personal data in a similar way.
+
+Simon Morrissey, head of data and privacy at law firm Lewis Silkin, said: 
+“This is the tip of a very large iceberg that consumers and businesses are 
+increasingly going to encounter. The challenge with these sorts of solutions is 
+that users may find it increasingly difficult to avoid opting in as the 
+financial disadvantage in doing so becomes so significant that users have no 
+other option but to hand over access to their data.”
+
+Admiral to price car insurance based on Facebook posts
+ Read more  
+<https://www.theguardian.com/technology/2016/nov/02/admiral-to-price-car-insurance-based-on-facebook-posts>
+Admiral planned to analyse the Facebook accounts of first-time car drivers or 
+owners to look for personality traits linked to safe driving. These drivers 
+would be offered discounts of up to £350 a year.
+
+Under the scheme, the company would identify personality traits through 
+examining posts and likes by Facebook,although not photos 
+<https://www.theguardian.com/technology/2016/oct/18/facebook-hoax-private-photos-public-tomorrow>
+, and looking for certain habits. Facebook users who write in short, concise 
+sentences, use lists, and arrange to meet friends at a set time and place, 
+rather than just “tonight”, would be identified as conscientious. In contrast, 
+those who frequently use exclamation marks and phrases such as “always” or 
+“never” rather than “maybe” could be overconfident.
+
+The scheme would be voluntary and not apply price increases to drivers deemed 
+to be more risky.
+
+Firstcarquote has been in testing for months but Facebook insists on a final 
+review of applications that use information from its site and the product fell 
+at this hurdle.
+
+Open Rights Group, the digital rights campaigning organisation, said Admiral’s 
+scheme was “intrusive”.
+
+
+Jim Killock, executive director of Open Rights, said: “We need to think about 
+the wider consequences of allowing companies to make decisions that affect us 
+financially or otherwise, based on what we have said on social media.
+
+“Such intrusive practices could see decisions being made against certain 
+groups based on biases about race, gender, religion or sexuality – or because 
+their posts in some way mark them as unconventional. Ultimately, this could 
+change how people use social media, encouraging self-censorship in anticipation 
+of future decisions.
+
+“Young people may feel pushed into such schemes because of financial 
+constraints. The right to keep things private shouldn’t be the preserve of 
+those who can afford it.”
+
+Social media has us under surveillance – big business is the new Big Brother | 
+Jonathan Freedland
+ Read more  
+<https://www.theguardian.com/commentisfree/2016/nov/02/big-business-surveillance-admiral-insurance-facebook>
+A Facebook spokesperson said: “Protecting the privacy of the people on 
+Facebook is of utmost importance to us. We have clear guidelines that prevent 
+information obtained from Facebook from being used to make decisions about 
+eligibility.
+
+“We have made sure anyone using this app is protected by our guidelines and 
+that no Facebook user data is used to assess their eligibility. Facebook 
+accounts will only be used for login and verification purposes.
+
+“Our understanding is that Admiral will then ask users who sign up to answer 
+questions which will be used to assess their eligibility.”
+
+Admiral said that young car drivers will still receive a discount for signing 
+up for insurance through firstcarquote. However, this will now be a flat amount 
+across all customers and the company did not disclose how big the discount will 
+be.
+
+An Admiral spokesperson said: “Firstcarquote, which will allow first-time 
+drivers to voluntarily share some social data with insurers for a simple and 
+discounted quote, is currently a beta product.
+
+“Admiral does not have access to customers’ Facebook data and does not hold 
+social media data to set prices for its customers. Following discussions with 
+Facebook the product is launching with reduced functionality, allowing 
+first-time drivers to log in using Facebook and share some information to 
+secure a faster, simpler and discounted quote.”
+ 

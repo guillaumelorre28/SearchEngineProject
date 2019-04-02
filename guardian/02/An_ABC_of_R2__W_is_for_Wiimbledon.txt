@@ -1,0 +1,34 @@
+
+Today W, for Wiimbledon... which was a semi-regular event of Wii tennis in the 
+office, but a very useful part of our R2 work, too.
+
+Each launch required a small army of technologists to be on-hand: to run the 
+various scripts, check the results, and deal with any problems that might 
+arise. We needed to arrange these teams carefully because launches happened 
+overnight, so we'd need an overnight team and another team in early the next 
+day to pick up any remaining issues.
+
+All this was fine, but after a while someone realised we'd missed a trick. I 
+think he actually wanted to be part of the overnight team (it's always exciting 
+to see these thngs go live) but wasn't actually on it. So he arranged with 
+others to bring in some games consoles, and wired one up to a big screen, the 
+others to projectors. It was a big draw, and a great way to have an extra group 
+of techies staying late in case the need arose.
+
+Still, we couldn't be cavalier with this. For example, we made sure the gamers 
+were located far from the launch team -- the launch team had a serious job to 
+do and didn't need distraction. But that didn't prevent the benefits: every so 
+often a gamer would slip out of Guitar Hero and wander over to the launch team 
+to check up on progress, offering some advice and support if necessary. One 
+time a critical SQL script was running worryingly slowly and a call came 
+through to see if someone could contribute to the investigation; a couple sat 
+down at a machine a few feet from the Mario Kart players, traced the problem, 
+and suggested a change to the script which was agreed and did the job. That 
+night it made the difference between "go" and "abort".
+
+If there's a general lesson to be drawn from this I don't think it's to keep a 
+Wii console in the stationery cupboard along with the paperclips and envelopes. 
+But exploiting opportunities that are specific your particular situation is 
+probably a good thing to do, even if they aren't enshrined in official company 
+policy.
+ 

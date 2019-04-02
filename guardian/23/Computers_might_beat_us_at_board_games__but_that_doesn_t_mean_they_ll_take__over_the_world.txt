@@ -1,0 +1,70 @@
+
+‘AlphaGo” is the sort of supercomputer name a pulp science fiction novelist 
+might come up with. Nevertheless, the achievements of this Google DeepMind 
+machine are only too real. It has become the first computer program to beat a 
+professional human player of the Chinese strategy game Go, without handicaps, 
+on a full‑sized 19×19 board.
+
+It shouldn’t surprise us when computers beat humans at board games. They can, 
+after all, store and rapidly analyse hundreds of millions of moves, and work 
+out the implications of strategies hundreds of moves ahead, something no merely 
+human player can manage. But AlphaGo is different. Experts in Go strategy 
+report that it (I initially wrote “he” …) played in non‑obvious ways, making 
+unusual, sly and even bizarre moves that only belatedly revealed themselves as 
+tactically worthwhile.
+
+It’s this that makes AlphaGo’s achievement so exciting. Being able to crunch 
+numbers, even to crunch huge numbers really quickly, is not the same thing as 
+intelligence, and certainly not the same thing as sentient self-consciousness. 
+The ability to intuit, to make leaps of comprehension – not just to extrapolate 
+according to pre-programmed rules but to speculate – is a lot closer to the 
+Holy Grail of properAI 
+<https://www.theguardian.com/technology/artificialintelligenceai>, and 
+AlphaGo’s achievement is more modest. Still, as Arthur C Clarke once noted: 
+advances that seem modest and trivial in the short term can lead to drastic 
+change in the long.
+
+SF has a long tradition of dramatising artificial intelligence. Sometimes this 
+is benign: Isaac Asimov’s self-aware robots are constrained from harming 
+individuals by their built-in “three laws”, and eventually intuit an extra 
+“zeroth” law that requires them to protect the whole of humanity. But usually 
+SF imagines more alarming possibilities.2001: A Space Odyssey 
+<https://www.theguardian.com/film/2001-a-space-odyssey>’s HAL 9000 has no 
+qualms in murdering its entire human crew. Alastair Reynolds’sRevelation Space 
+<https://bookshop.theguardian.com/revelation-space-2.html> novels include 
+terrifying machine intelligences called The Inhibitors that travel the galaxy 
+destroying organic life. If computers become better than us at all games, then 
+that peculiar and deadly game we call “war” assumes alarming new dimensions.
+
+In James Cameron’s The Terminator 
+<https://www.theguardian.com/film/the-terminator> and the Wachowskis’ Matrix 
+<https://www.theguardian.com/film/the-matrix> trilogy, artificial intelligence 
+has made apocalyptic war on humanity and enslaved the survivors. But though the 
+sentient machines are relentless and brutal, their eventual defeat stems from 
+key human players doing something that computers cannot: falling in love, Kyle 
+Reese with Sarah Connor, Neo with Trinity. This flatters our sense that there 
+is something special about us, slow and squishy though we may be, and that this 
+specialness will win out in the end. But perhaps thinking so is just another, 
+more deadly sort of hubris. In Alex Garland’s subtle filmEx Machina 
+<https://www.theguardian.com/film/ex-machina> the clever AI inside Eva 
+manipulates human Caleb into falling in love with “her”, so as to be able to 
+kill her human captors and escape.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2Fvideo%2F2016%2Fmar%2F16%2Fartificial-intelligence-we-should-be-more-afraid-of-computers-than-we-are-video&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=We%20should%20be%20more%20afraid%20of%20computers%20than%20we%20are%20%E2%80%93%20video&url=http%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2Fvideo%2F2016%2Fmar%2F16%2Fartificial-intelligence-we-should-be-more-afraid-of-computers-than-we-are-video>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=We%20should%20be%20more%20afraid%20of%20computers%20than%20we%20are%20%E2%80%93%20video&url=http%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2Fvideo%2F2016%2Fmar%2F16%2Fartificial-intelligence-we-should-be-more-afraid-of-computers-than-we-are-video&media=>
+ We should be more afraid of computers than we are – video 
+Might some future version of AlphaGo decide to play Go on a global scale, with 
+bombs instead of black and white stones? It’s doubtful. The great Polish SF 
+writer Stanislaw Lem’sGolem XIV concerns a vast military supercomputer that 
+achieves self-awareness, but the novel’s twist is that instead of trying to 
+destroy us it decides humanity is a cosmic irrelevance and disappears into 
+higher dimensions in search of ultimate knowledge. Quite the snub: at least 
+Skynet thinks we’re worth attacking! But in another sense it captures a deeper 
+truth. Maybe AlphaGo’s descendants, waking into proper self-awareness, will 
+find more stimulating and more profound things to do with their vast 
+computational powers than blowing up humanity. They may end up playing Go with 
+the architecture of reality itself.
+ 

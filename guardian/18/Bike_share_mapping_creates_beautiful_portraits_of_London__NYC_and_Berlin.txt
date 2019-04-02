@@ -1,0 +1,73 @@
+
+Bike sharing programmes have grown from just 24 cities worldwide a decade ago 
+to more than 800 cities today, but how has a 200-year-old device suddenly 
+become the next big thing in urban transport? The key is digital information, 
+the real-time GPS technology that allows the bikes to be tracked and secured, 
+and lets cities monitor how and where they are being used.
+
+Some cities have also begun posting this GPS data online, allowing the public 
+to come up with their own innovative uses. One fascinating example comes by way 
+of two visual design researchers in Potsdam, Germany: Till Nagel and 
+Christopher Pietsch have used bike sharing GPS data from three global cities to 
+create living, breathing portraits of the cities themselves.
+
+The cf. city flows <https://uclab.fh-potsdam.de/cf/> interactive installation 
+is hosted by Potsdam’sUrban Complexity Lab <https://uclab.fh-potsdam.de/>. 
+Three high-resolution screens let visitors compare flows of urban mobility in 
+London, New York City and Berlin, as seen through the journeys of shared bikes.
+
+As soon as you compare these cities’ patterns of movement, several 
+distinguishing features become apparent. As noted on the project’s website, 
+some visitors pointed out the barrier between Middle Manhattan and Central 
+Park, as well as the inner-city area in Berlin. Others noted the contrast 
+between New York’s neatly ordered street grid and the idiosyncratic, 
+organically-grown layouts of Berlin andLondon 
+<https://www.theguardian.com/uk/london>.
+
+
+How an open data blogger proved the NYPD issued parking tickets in error
+ Read more  
+<https://www.theguardian.com/cities/2016/jul/26/open-data-blogger-parking-tickets-new-york-nypd>
+The bike trajectories are visualised as coloured droplets flowing through the 
+street grid, popping in and out of existence from one bike station to another. 
+Visitors can view each city’s bike journeys at three different levels:
+
+ * The citywide view gives the broadest perspective. In this view, the 
+movement of all bike sharing trips are shown, overlaid on a map of the city. 
+ * The small-multiple view zooms in on three select bike sharing stations, 
+each of which explodes into four different views that separate incoming (green) 
+from outgoing (orange) journeys and morning (left) from afternoon/evening 
+(right) journeys. 
+ * The station view shows only the bike journeys to and from a single station. 
+Likewise, incoming trips are shown in green while outgoing trips are shown in 
+orange. 
+The most obvious difference between the cities is the vastly different number 
+of bike sharing trips in Berlin as compared to London and New York City – whose 
+bike sharing systems are comparable in size, each with about 35,000 trips 
+represented in the animation.
+
+In contrast, Berlin’s bike sharing trips number less than 2,000. As explained 
+on the cf. city flows website: “While cycling indeed is more common in Berlin 
+than in London, Berlin’s bike-sharing scheme is mostly used for tourist and 
+leisure activities, as most riders have their own bikes.”
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fvimeo.com%2F173885050&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fvimeo.com%2F173885050>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Fvimeo.com%2F173885050&media=>
+ Exploring the complex ‘edge bundling’ methodology behind the interactive 
+Perhaps the most impressive aspect of cf. city flows is the technical work 
+that went into its planning and design. To get a sense of the complexity 
+involved in condensing tens of thousands of disparate bike journeys into 
+simple, coherent patterns, see the video above. It covers the creators’ use of 
+“edge bundling”, just one of many complex methods used in the project’s 
+exploratory design process to find and highlight patterns in the data.
+
+You can find more information about the installation, the methodology, and 
+even the origin of the cf. city flows name on theproject’s website 
+<https://uclab.fh-potsdam.de/cf/>.
+
+Follow Guardian Cities on Twitter <https://twitter.com/guardiancities> and 
+Facebook <https://www.facebook.com/guardiancities> to join the discussion
+ 

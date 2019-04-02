@@ -1,0 +1,97 @@
+
+We at music tech company Tonara <http://tonara.com/> are a relatively small 
+setup – 15 people to be precise. But together we have more than 250 years of 
+music playing, composing and teaching between us. We’re all equally passionate 
+about both music and innovation, and we have a chief music officer instead of a 
+chief marketing officer. So it should come as no surprise that every product 
+we’ve developed uses the massive potential of technology to connect more people 
+to the wonder and beauty of classical music, and the value of music education.
+
+How we made Artory, the what’s on app for Plymouth | App story
+ Read more  
+<https://www.theguardian.com/culture-professionals-network/2015/feb/06/artory-culture-plymouth-app-story>
+Our music education app, Wolfie <http://www.wolfiepiano.com/> – (nick)named 
+after prolific composer Wolfgang Amadeus Mozart – grew out of an understanding 
+that the process of studying music could be lonely and unappealing for today’s 
+generation of children.
+
+Classical music education might be alive and well in China, but in the US and 
+to a lesser extent Europe, the field of study is declining. Perhaps this isn’t 
+surprising. For a generation of children who are tablet native, the idea of 
+sitting down with an analogue object can seem boring when compared to an hour 
+on a device that gives you access to worlds of information and entertainment.
+
+Instead of fighting the rising dominance of apps and tablets, our response was 
+to use precisely those tools to bring kids back to music study. We believe that 
+studying to play an instrument is a valuable, enjoyable and rewarding 
+experience, so we wanted to create a technological bridge to help a younger 
+generation access that. Wolfie was designed as a music education tool that 
+would speak the language of today’s generation of children: technology.
+
+Our first step in doing this was to find a way to help younger students focus 
+and concentrate – a tall order when, according to the National Centre for 
+Biotechnology Information, the average human attention span is shorter than 
+that of a goldfish.
+ A screenshot from the app. 
+After an hour’s lesson with a teacher, finding the self-motivation to practise 
+alone can be hard. That’s why our first and most important feature of Wolfie 
+was the patentedMagic Cursor <http://www.wolfiepiano.com/#!magic-cursor/c32n>, 
+which follows music being played by students in real-time on the score itself. 
+This helps students focus their attention on the music, learn notes more 
+effectively and improve their rhythm.
+
+It works for any instrumentation, any style and any level of complexity, 
+demonstrating a level of technological innovation that was previously unheard 
+of. With the Magic Cursor we’ve created a digital technology that is able to 
+really “hear” music.
+
+Once we had built the first version of the app, we needed to test it in the 
+real world. We initially trialled Wolfie at theSpecial Music School 
+<http://www.kaufmanmusiccenter.org/sms/> (SMS) in New York. As part of the 
+pilot, we worked closely with teachers and students to make changes to the 
+platform based on their feedback.
+
+This process was instrumental in helping us refine our offering and the SMS 
+has continued to use the app even after the pilot programme ended. This told us 
+we were on the right track with giving teachers and students what they need to 
+teach and learn more effectively.
+
+One of our biggest ongoing challenges is ensuring Wolfie has an extensive 
+catalogue of scores to keep up with the needs of any music teacher or student. 
+Our mandate is to make it as easy as possible for young people to get excited 
+about learning to play music, so we can’t afford not to have a score that a 
+student might want to learn to play. In order to do that we had to partner with 
+different music publishers to build a score catalogue for music students at 
+every level. We’ve been lucky so far in partnering with major music publishers 
+like Schott, but this is an ongoing process and we’re constantly adding new 
+scores.
+
+So far we’ve managed to make the process of studying music approximate other 
+digital experiences young students today are having. Wolfie is getting kids to 
+sitat the piano with the same technology that was pulling them away from it. 
+Our next steps will be to continue improving the product – we’ve got a major 
+update coming soon – and increasing our exposure with music teachers, who are 
+the gatekeepers to the music teaching experience.
+
+App facts
+
+Length of the project: 12 months from start to finish
+Companies involved: Tonara <http://tonara.com/>
+Size of the team: one algorithm developer, three software developers, three 
+musicians and one designer/product manager
+
+More App stories
+
+• How we made the DeviantArt Mobile App 
+<https://www.theguardian.com/culture-professionals-network/2015/jan/23/how-we-made-deviantart-mobile-app>
+• How we made Artory, the what’s on app for Plymouth 
+<https://www.theguardian.com/culture-professionals-network/2015/feb/06/artory-culture-plymouth-app-story>
+• How we made the Hidden Newcastle app 
+<https://www.theguardian.com/culture-professionals-network/2015/jan/09/hidden-newcastle-app-culture-heritage>
+
+Guy Bauman is CEO of Tonara <http://tonara.com/>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+ 

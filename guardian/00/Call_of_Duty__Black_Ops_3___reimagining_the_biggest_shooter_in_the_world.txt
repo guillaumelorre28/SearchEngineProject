@@ -1,0 +1,221 @@
+
+“I read the other day about these bio-hackers who are injecting their eyeballs 
+with some bioluminescent fluid that gives them night vision – it’s crazy.”
+
+
+Dan Bunting, lead multiplayer designer at Treyarch, is talking about the news 
+stories that have influenced Black Ops 3 during the game’s three-year 
+development cycle. Set 50 years in the future, with a new Cold War as its 
+backdrop, the latest CoD battlefield is a very different place. Widescale Drone 
+warfare has been neutralised through the development of powerful air defence 
+systems, so the emphasis is back on ground infantry once again.
+
+But the soldiers themselves have changed. The invention of direct neural 
+interfacing between the human brain and computer technology has led to a new 
+era of bio-augmentation and cybernetic enhancement. In Black Ops 3, the player 
+is part of an experimental unit fitted with bionic limbs and a wealth of other 
+future-tech improvements that blend mind and machine. According to Treyarch a 
+lot of this is closer to science than fiction.
+
+“You make an estimate of where you think technology will be in the 2060s, then 
+a few months later you hear that the foundations of that technology are 
+happening today,” says campaign director and senior executive producer Jason 
+Blundell. “We take ideas from medical research and scientific advancements, 
+from wearable computing, bio-augmentation and robotics. We talk to specialists 
+in certain fields and discuss their theories. But look at some of the stuff 
+that [Google-owned engineering firm] Boston Dynamics is already doing with its 
+robots – they have prototypes that are running at 50mph ...”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fapr%2F28%2Fcall-of-duty-black-ops-3-biggest-shooter-in-world%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F4%2F27%2F1430134960814%2Fff8d1d57-5bda-4b0f-8df8-22d72f4ed105-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Call%20of%20Duty%3A%20Black%20Ops%203%20%E2%80%93%20reimagining%20the%20biggest%20shooter%20in%20the%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fapr%2F28%2Fcall-of-duty-black-ops-3-biggest-shooter-in-world%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Call%20of%20Duty%3A%20Black%20Ops%203%20%E2%80%93%20reimagining%20the%20biggest%20shooter%20in%20the%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fapr%2F28%2Fcall-of-duty-black-ops-3-biggest-shooter-in-world%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F4%2F27%2F1430134960814%2Fff8d1d57-5bda-4b0f-8df8-22d72f4ed105-2060x1236.jpeg>
+ A street battle during the Ramses mission in Black Ops 3, showing off the 
+ever-present dropcraft and mini-drones, as well as major firepower 
+installations that players will be able to hack and control Photograph: 
+Activision 
+During a press visit to the Treyarch studio in Santa Monica, the team shows 
+off a demo of one Black Ops 3 campaign mission, which takes place at Cairo’s 
+Ramses station. It’s pretty recognisableCall of Duty 
+<https://www.theguardian.com/technology/call-of-duty> fare, a chaotic maelstrom 
+of swarming ground troops, explosive air support and yelling NPCs. However, the 
+high-tech stuff soon arrives. A dropship deposits a self-building “mobile wall” 
+into the street to cordon off the area. Later, the player’s squad is attacked 
+by a duo of giant robotic balls covered in spikes that zoom in and splatter 
+their way through the forces (these devastating gadgets – weirdly reminiscent 
+of the alien weaponry in the Battleships movie – are called Robotic 
+Anti-Personnel Sentry Droids, and are available as a scorestreak in the 
+multiplayer). Then, a cloud of mini-drones immolate a soldier. The scene ends 
+with one allied operative using a tablet to select a whole area of the 
+battlefield before seemingly causing it to blow apart through 
+cybernetically-enhanced telekinesis.
+
+In gameplay terms, the most obvious impact of this technological leap into 
+bio-augmentation is the new movement system. Player soldiers wear upgradeable 
+cyber-suits that allow them to double jump onto rooftops, run along walls and 
+powerslide along the floor, chaining moves together to traverse the environment 
+in a smooth, streamlined dance. Objects can be mantled without loss of speed or 
+firing potential and soldiers can sprintforever: “There is no marathon perk, 
+there is no lightweight perk, it just works that way,” says studio design 
+director David Vonderhaar. “This is really important. It’s the glue that holds 
+everything else together. You can continue to stay guns-up. The aim is to wind 
+the combat loop as tight as possible.”
+
+Of course, comparisons with both Call of Duty: Advanced Warfare and rival 
+sci-fi shooter Titanfall are inevitable. The latter made a big deal of its 
+enhanced boost jumps and vertical sprinting, and given the fact that developer 
+Respawn Entertainment emerged from Call of Duty creator Infinity Ward in the 
+most controversial of circumstances, criticisms and conspiracy theories are 
+going to cloud this aspect of the game.
+
+And they won’t finish there. The new “specialists” feature in Black Ops 3 
+allows players to take part in multiplayer bouts as one of nine elite spec-ops 
+warriors, each with their own powerful special weapons and abilities. These are 
+only available when an onscreen meter powers up, and they are intended as a 
+mid-point between regular combat and the scorestreaks that tend only to be 
+accessible to more skilled players. It all sounds extremely similar to the 
+Titan system in Respawn’s game, where a timer counts down to the point at which 
+players get to call in their giant mech.
+
+Naturally, Treyarch doesn’t broach this directly – but it does address 
+questions about how familiar the system seems. “It’s not to be confused with 
+the [Advanced Warfare] exo jump; mechanically, it works extremely differently,” 
+says Vonderhaar. “Ours has nothing to do with verticality – our maps have a 
+height limit of two storeys and staying in the combat frame [i.e. being able to 
+always see the opponent] are keys to our design strategy. But we did want to 
+remove the obstacles that slow the player down. Ladders in [multiplayer] suck. 
+They’re not fun to get on and climb up.”
+
+Then studio head Mark Lamia chimes in with a comment seemingly laser targeted 
+at any Titanfall references. “To be fair, wedid make Spider-Man,” he says, 
+referring to the company’s acclaimed, parkour-influenced super hero tie-in from 
+2002. “We had some amazing movement systems in that game. We showed Black Ops 3 
+to the Tony Hawk’s Pro Skater developers and said ‘you guys should get this’. 
+And they did.”
+
+At the demo event, we get to play three new multiplayer maps. Combine is set 
+in a labyrinthine farming research facility in the Egyptian Sahara, with an 
+open courtyard providing a frenetic kill zone in the centre. Stronghold is a 
+Swiss chateau which mixes tight interiors with open areas that offer long sight 
+lines. Hunted is the biggest map in the game, a picturesque mansion complete 
+with a waterfall, pool and underwater tunnel.
+
+It’s the latter that proves most interesting. Treyarch has apparently been 
+trying to add swimming to its CoD games for years, but has finally mastered the 
+feature. Now you can dive into the water, move about freely in the aquatic 
+environment, and even use your gun. A pre-demo video shows players shooting out 
+of the water at passersby moving along the water’s edge.
+
+Elsewhere, the movement system does handle very differently to Advanced 
+Warfare. The controls are more subtle, so that it feels less like a turbo boost 
+into the air, and more like a controlled ascent. Wall runs are easy to set up 
+via an angled sprint toward a vertical surface and a deft tap on the jump 
+button. When connected with a wall, you can then leap on to another surface, 
+and even jump out, pull back on the analogue stick and reverse the movement, so 
+you’re suddenly going backwards. It’s a great evasive move, and it suggests 
+that head-to-head encounters are going to be less about who has the fastest 
+trigger finger.
+
+Jump out again, then press the “crouch” button and you hit the ground in a 
+power slide, which can be directed around corners. It’s complex yet accessible 
+and within minutes players are chaining moves together, turning the environment 
+into a pro-skater playground. We’re having a lot of fun.
+
+But we’re also aware that this is not unique and it’s not, in itself, 
+innovative: rocket jumps and special ability pick-ups have been part of 
+first-person shooter design since the beginning. Before CoD, before Titanfall, 
+id Software littered its levels with limited availability weapons and armour; 
+Crysis brought us cyber suits and timed abilities. This has always been a genre 
+that has supported the evolution and sub-division of feature-sets. But Treyarch 
+is going to have to be on the defensive. And it will need to reassure gamers 
+who prefer the traditional CoD experience that its flights of spatial fancy 
+won’t be too disruptive. “We don’t force anything on players,” says Bunting. 
+“If they don’t want to use thrust jump or wall-running they don’t have to. Most 
+encounters will still be boots-on-the floor.”
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fapr%2F28%2Fcall-of-duty-black-ops-3-biggest-shooter-in-world%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F4%2F27%2F1430135168023%2F787a33b4-90a8-46f1-ac6d-7d3c5c7ca189-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Call%20of%20Duty%3A%20Black%20Ops%203%20%E2%80%93%20reimagining%20the%20biggest%20shooter%20in%20the%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fapr%2F28%2Fcall-of-duty-black-ops-3-biggest-shooter-in-world%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Call%20of%20Duty%3A%20Black%20Ops%203%20%E2%80%93%20reimagining%20the%20biggest%20shooter%20in%20the%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fapr%2F28%2Fcall-of-duty-black-ops-3-biggest-shooter-in-world%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F4%2F27%2F1430135168023%2F787a33b4-90a8-46f1-ac6d-7d3c5c7ca189-2060x1236.jpeg>
+ A soldier heads into action sporting one of the new guns – all of which can be 
+personalised in detail thanks to a new “paint job” feature, replacing the old 
+emblem design system Photograph: Activision 
+Really though, perhaps the biggest change to Call of Duty is happening away 
+from multiplayer, and away from movement controls. It is the campaign mission 
+design. Not only will this mode be playable in co-op with up to three friends, 
+but Treyarch says that the game will abandon the corridor approach and provide 
+much larger, more explorable environments. “We’re allowing you to go off the 
+rails,” says Blundell. “You will really be able to explore the space, to decide 
+how you engage the area and to move through it.”
+
+Apparently, the areas are so open that players simply won’t be able to see 
+everything in one playthrough – if they choose an approach, there will be 
+sections they won’t see. Also, in classic RPG style, players will be able to 
+upgrade their characters with a range of special abilities as they gain XP. 
+These aren’t the static pre-set soldiers of traditional CoD, these are 
+personalised avatars who progress. According to Treyarch there are around 40 
+“cyber core” abilities, like drone hacking for example, that players earn as 
+they go and can use when they like. And as players gain new abilities they get 
+to show these off in the dedicated safe house area visited between missions, 
+where soldiers are customised and where participants can personalise their 
+bunks with medals and achievement markers.
+
+Blundell says this concept of freeform character customisation has forced 
+changes to the narrative structure. Black Ops 2 brought in branching story 
+elements with several different endings. Black Ops 3 gains longevity in a 
+different way. “Due to the type of game it is, and the type of story we wanted 
+to tell, rather than having a branching storyline, we’ve gone for a design 
+that’s more like peeling back layers of an onion – that’s the most tactical way 
+I can describe it,” explains Blundell. “This is definitely a story that needs 
+multiple replays; there are different perspectives, things that you learn as 
+you play, so you may want to go back later to re-experience certain moments in 
+a fresh way.”
+
+
+Call of Duty: Black Ops 3 introduces co-op campaign and cyber-soldiers
+ Read more  
+<https://www.theguardian.com/technology/2015/apr/26/call-of-duty-black-ops-3-co-op-campaign-movement-announcement>
+Treyarch also reckons that this move to open environments and customisable 
+player-characters has demanded major changes to the artificial intelligence 
+system too. “As the spaces get bigger, the AI needs to be able to make 
+intelligent decisions in that space,” says Blundell. “So we’ve created a new 
+animation system and a goal-orientated AI that supports over 20 different types 
+of archetypes – bipedal robots, humans, rolling balls of death – they decide 
+how they engage you and how they move through space. For the first time they 
+also communicate together and move into formations based on where you are and 
+your abilities.”
+
+Once again, it’s nothing new for the genre, but it’s certainly new for Call of 
+Duty. True, this is still a game about shooting people in the face, and the 
+setup remains a macho fantasy of specialist warriors going in and clearing up 
+when science and military-industrial complexes drop the fucking ball, dude. But 
+the Black Ops series has always toyed with the fundaments of the series, and 
+this is an interesting step toward something slightly more complicated. The 
+role-playing elements, the reactive AI and the slick traversal systems 
+represent a climb out of CoD’s self-imposed ghetto of immediate, gutsy action 
+and twitch-core simplicity.
+
+So while non-believers will wince and hurl accusations, long-term fans will be 
+intrigued. Call of Duty, always the totem of unapologetic blast-em-up action, 
+is also sometimes a subversive presence – witness the legendary nuclear death 
+scene in Modern Warfare or the stomach-churning No Russian mission in Modern 
+Warfare 2. Treyarch is promising a gritty messed-up story with Black Ops 3, and 
+it says it has big plans for the Zombie mode (which is set to have its own 
+dedicated XP progression system) but it’s the systemic changes that could prove 
+most interesting and disruptive to this vast money-making edifice.
+
+“In game development, if you feel totally comfortable you’re not doing it 
+right,” says Bunting. “This is our first time on the new console technology, 
+we’ve had a three-year cycle, so we took bigger risks from the outset. We 
+wanted to go for something new and fresh.”
+
+I guess we’re about to find out what new and fresh looks like when there’s a 
+billion dollars riding on the result.
+
+
+ * Keith Stuart attended a press trip to Los Angeles with other journalists 
+from Europe. Activision met the transport and accommodation costs.
+ 

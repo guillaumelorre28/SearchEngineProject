@@ -1,0 +1,80 @@
+
+You’re on holiday and you hand over your card to pay for a restaurant meal, 
+hotel bill, car hire or pricey souvenir, only to be told: “I’m sorry but your 
+card has been declined.” Your account might be in good order, but your card 
+issuer thinks it’s detected unusual spending patterns, so has swung into action.
+
+This is something that has doubtless happened to many of us while on holiday, 
+but a new initiative will hopefully put an end to the hassle and embarrassment 
+of having genuine transactions declined or your card blocked.
+
+Over the next few months, technology is set to be rolled out that allows an 
+individual’s bank and mobile phone to “talk” to each other in an attempt to 
+combat card fraud. In what is being described as a “world first”, mobile network
+O2 <https://www.theguardian.com/business/o2> has teamed up with credit card 
+provider MBNA to pilot the initiative with 3,000 of the card company’s UK 
+customers.
+
+Figures issued by Financial Fraud Action UK in October 
+<http://www.financialfraudaction.org.uk/news-article.asp?genre=media&Article=3019&page=2>
+ show that overseas fraud losses on UK cards is a growing problem, jumping 14% 
+in 12 months to reach £82m during the first six months of 2015. Fuelled by 
+criminals taking advantage of less secure payment systems in other countries, 
+the figure is more than double the £39m racked up during the same period in 
+2011.
+
+To protect against this, banks put stringent security in place, which can 
+result in legitimate transactions being declined or a block put on your card, 
+particularly if you did not tell your bank or card issuer you were heading 
+abroad.
+
+But O2 has been trialling a system called Travel Alerts, which is set to be 
+rolled out to all MBNA customers. When an individual travels to another 
+country, O2 will send an alert to their card company to say that he or she has 
+arrived. When the person uses their card, for example in a shop or restaurant, 
+their card company sends an encrypted request to O2 to confirm whether the 
+customer’s phone is in the same location as the transaction. O2’s systems 
+decrypt the bank’s request and reply “yes” or “no”, before automatically 
+deleting the request so that no data is held. If the answer comes back “no”, 
+the card provider is likely to decline the transaction and contact the customer.
+
+The service is free, works with all phone handsets and does not involve the 
+customer downloading an app, says Robert Franks, managing director of O2’s 
+digital commerce business. All that customers need to do is opt in to the 
+service and leave their phone on.
+
+Franks says the trial has resulted in a “significant” reduction in cards being 
+incorrectly declined, and in fraud, as well as removing the hassle of having to 
+contact a bank or card company before going abroad. He adds: “The bare minimum 
+information is exchanged. This is governed by a very strict legal agreement 
+between ourselves and the banks.”
+
+O2 wants to extend the service to all its customers, and to all bank customers 
+in the UK. It is also working on bringing other mobile networks such as 
+Vodafone and EE on board. O2 already has a partnership with MasterCard, which 
+is said to be pushing for the technology to be widely adopted. Franks says: 
+“We’d like to get to a position where this becomes a bit like anti-virus 
+software – it’s just what most of us do.”
+
+Phil Weston, head of mobile and digital communications at MBNA, says the firm 
+is delighted with the results from the trial: “By using their phone to update 
+us in real time, customers no longer have to contact us each time they travel, 
+and are less likely to be inconvenienced when using their card abroad. We look 
+forward to rolling Travel Alerts out to all customers in the near future.”
+
+Many banks and card companies advise customers to let them know if they are 
+travelling abroad, as overseas transactions are one of the most common fraud 
+indicators. More than 75% of holidaymakers who have had their credit card 
+declined had failed to notify their bank that they would be going overseas, 
+according to a survey published by TSB in 2014.
+
+However, not all card issuers advise their customers to tell them about their 
+travel plans. Barclaycard, with 10.5 million UK customers, says: “You don’t 
+need to notify us. We have full confidence in our systems, and that we’ll be 
+able to pick out anything that isn’t you.”
+
+However, make sure a company has your up-to-date contact details, particularly 
+if you’ve changed your mobile number during the past year or two. If it has any 
+doubts about a transaction your card company will hopefully call or text to 
+check it is genuine.
+ 

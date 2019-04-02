@@ -1,0 +1,394 @@
+
+The latest Black Mirror series from Charlie Brooker presents, despite its 
+transition to Netflix, anotherunsettling collection of future shock nightmares 
+<https://www.theguardian.com/tv-and-radio/2016/oct/25/reflections-on-black-mirror-by-those-for-whom-science-fiction-became-reality>
+ drawn from consumer technology and social media trends. The second episode, 
+Playtest, has an American tourist lured to a British game development studio to 
+test a new augmented-reality horror game that engages directly with each 
+player’s brain via a biorobotic implant. The AI program mines the character’s 
+darkest fears and manifests them into the real-world as photorealistic 
+graphics. Inevitably, terror and mental breakdown follow.
+
+The idea of a video game that can analyse a player’s personality and change 
+accordingly may seem like the stuff of outlandish sci-fi to someBlack Mirror 
+<https://www.theguardian.com/tv-and-radio/black-mirror> viewers.
+
+But it isn’t. This could well be where game design is heading.
+
+The game that judges you
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F26%2Fblack-mirror-episode-playtest-predicted-future-video-games-augmented-reality%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F1ef7dcc572c9535505e50c44958708e0578d3d68%2F0_21_720_432%2F720.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Has%20a%20Black%20Mirror%20episode%20predicted%20the%20future%20of%20video%20games%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F26%2Fblack-mirror-episode-playtest-predicted-future-video-games-augmented-reality%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Has%20a%20Black%20Mirror%20episode%20predicted%20the%20future%20of%20video%20games%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F26%2Fblack-mirror-episode-playtest-predicted-future-video-games-augmented-reality%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F1ef7dcc572c9535505e50c44958708e0578d3d68%2F0_21_720_432%2F720.jpg>
+ Horror game Silent Hill: Shattered Memories presents players with 
+psychological profile, then changes content according to the results 
+Eight years ago, video game writer Sam Barlow had a new idea about how to 
+scare the crap out of video game players. Working on the survival horror 
+adventureSilent Hill: Shattered Memories 
+<https://www.theguardian.com/technology/2010/feb/14/silent-hill-shattered-memories-review>
+, Barlow introduced a character named Dr Kaufmann, a psychotherapist whose 
+role, ostensibly, was to evaluate the mental wellbeing of protagonist Harry 
+Mason.
+
+But that’s not really why he was there. Dr Kaufmann’s actual role was to 
+psychologically assess the player.
+
+At key points throughout the terrifying narrative, the game provided a 
+questionnaire inspired bythe “Big Five” personality test 
+<https://en.wikipedia.org/wiki/Big_Five_personality_traits>, a method used by 
+academic psychologists for personality research. Players would be asked things 
+like: Are you a private person? Do you always listen to other people’s 
+feelings? In this way it was building a psychological profile of the player. At 
+the same time, the system was also drawing data from how players interacted 
+with the game world: how long they spent exploring each area before moving on; 
+whether they strayed from clearly marked paths; whether they faced non-player 
+characters while they talked. Every action had an effect on the narrative.
+
+“Most scenes in the game had layers of variation – in the textures and colour, 
+the lighting and the props,” explains Barlow. “Characters also had multiple 
+appearances and personality differences. All phone calls, voicemails and 
+readable materials had multiple variations according to different profile 
+slices. As you approached a door to a new room, the game was spooling in the 
+assets, testing your profile and loading up the custom asset packages to 
+assemble your own version.”
+
+The idea was to draw in and then unsettle the player as much as possible based 
+on their psychological traits. Characters, monsters and environments would all 
+be subtly changed to reflect their own fears of aggression, enclosure or 
+darkness.
+
+It was a personalised nightmare.
+
+Game designers have been attempting to learn, assess and react to player types 
+since the days of Dungeons and Dragons. Richard Bartle, co-creator of the 
+original MUD roleplaying game, formeda taxonomy of players 
+<https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types> in 1996, and 
+his types – Achievers, Explorers, Socialisers, and Killers – have often been 
+often used by designers to try to pre-empt and entice different player types.
+
+
+Over the last decade, however, the concept of truly reactive “player 
+modelling”, in which the game learns in real time from each individual player, 
+has become an important part of academic research into artificial intelligence 
+and machine learning. In 2004, AI researchers Georgios Yannakakis and John 
+Hallam published a seminal paper 
+<http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.60.6629&rep=rep1&type=pdf>
+ detailing their work on Pac-Man. They created a modified version of the 
+popular arcade game with the ghosts controlled by an evolutionary neural 
+network that adjusted their behaviour based on each player’s individual 
+strategies. In the same year, PhD student Christian Thurau presentedhis own 
+player modelling system 
+<http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.551.2301&rep=rep1&type=pdf>
+ that used pattern recognition and machine learning techniques to teach AI 
+characters how to move in a game world, based on watching humans play Quake II.
+
+In short: games were beginning to watch and learn from players.
+
+Many other other studies followed. In 2007, researchers at the University of 
+Alberta’s Intelligent Reasoning Critiquing and Learning group (under Vadim 
+Bulitko) developedPaSSAGE (Player-Specific Stories via Automatically Generated 
+Events) <http://www.aaai.org/Papers/AIIDE/2007/AIIDE07-008.pdf>, an AI-based 
+interactive storytelling system that could observe and learn from player 
+activities in a role-playing adventure. As the game progressed, the program 
+sorted players into five different types (based on theRobin’s Laws of Dungeons 
+& Dragons <http://www.sjgames.com/robinslaws/>) and then served them game 
+events from a library of pre-written mini-missions. If they seemed to like 
+looking for items in the game world, they were given a quest to find an object; 
+if they liked fighting, they were given events that involved combat.
+
+Super Mario gets personal
+
+That system was interesting (and is still being evolved in the department), 
+but it relied on hand-designed set-piece events, and only had a limited grasp 
+on who the player was. Matthew Guzdial, a PhD student at the Georgia Institute 
+of Technology’s School of Interactive Computing, is currently working on a more 
+adaptable evolution of this concept – a version of Nintendo’s Super Mario Bros 
+platformer that features a neural network capable ofobserving player actions 
+and builds novel new level designs 
+<http://www.cc.gatech.edu/news/418041/georgia-tech-researchers-train-computer-create-games-watching-youtube>
+, based on this data.
+
+“We’ve successfully been able to demonstrate that the generator creates levels 
+that match a learned play style”, says Guzdial who collaborated with Adam 
+Summerville from the University of California, Santa Cruz. “Put simply, if a 
+player likes exploring, it creates levels that must be explored; if a player 
+speed-runs, it makes levels that are suited to speed-runing.”
+
+Super Mario, it turns out, is a popular test-bed for AI researchers. It’s 
+familiar, it allows lots of different player actions in a constrained 
+environment, and its source code is easily available. At the University of 
+Copenhagen, AI researchers Noor Shaker, Julian Togelius and the aforementioned 
+Yannakakis developed a slightly different experiment based on the game. This 
+time players were asked to provide emotional feedback on each play-through, 
+giving scores for fun, challenge and frustration; this input was combined with 
+data drawn from watching them play (how often the player jumped, ran or died, 
+how many enemies they killed, etc), and the AI program constructed new levels 
+as a result.
+
+Over the last decade, Yannakakis and colleagues over at the University of 
+Malta’s Institute of DigitalGames <https://www.theguardian.com/technology/games>
+, where he currently works as an associate professor, have explored various 
+forms of machine learning to estimate a player’s behavioural, cognitive and 
+emotional patterns during play. They have combined deep-learning algorithms, 
+which build general models of player experience from massive datasets, with 
+sequence-mining algorithms, which learn from sequences of player actions (like 
+continually choosing health pick-ups over ammo). They have also explored 
+preference learning, which allow an AI system to learn from player choices 
+between particular content types (for example, preferring levels with lots of 
+jumping challenges over those with lots of enemies).
+
+Not only have they used behavioural data gathered during play, they’ve also 
+used age, gender and other player details to inform their systems. Their aim 
+isn’t just to make interesting games, however – the AI techniques they’re 
+exploring may well be used in educational software or as diagnostic or 
+treatment tools in mental health care.
+
+“Given a good estimate of a player’s experience, AI algorithms can 
+automatically – or semi-automatically – procedurally generate aspects of a game 
+such as levels, maps, audio, visuals, stories, or even game rules,” says 
+Yannakakis. “The estimate can be used to help designers shape a better 
+experience for the player. By tracking their preferences, goals and styles 
+during the design process, AI can assist and inspire designers to create 
+better, more novel, more surprising game content.”
+
+For Julian Togelius, one of the foremost experts on AI games research now 
+based at NYU, the next step is active player modelling – he envisages an AI 
+level designer that doesn’t just react to inputs, but is actually curious about 
+the player and their preferences, and wants to find out more.
+
+“There is this machine learning technique called active learning, where the 
+learning algorithm choses which training examples to work on itself,” he 
+explains. “Using this technique, you could actually have a game that chooses in 
+what way to explore you, the player: the game is curious about you and wants to 
+find out more, therefore serving you situations where it does not know what you 
+will do. That’s something that will be interesting for the player too, because 
+the game has a reasonably good model of what you’re capable of and will create 
+something that’s novel and interesting to you.”
+
+The games that feels your emotions
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F26%2Fblack-mirror-episode-playtest-predicted-future-video-games-augmented-reality%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2e2e5d7001d3d4b1dcf27685e2e550c3c13c8f0c%2F0_48_1920_1152%2F1920.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Has%20a%20Black%20Mirror%20episode%20predicted%20the%20future%20of%20video%20games%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F26%2Fblack-mirror-episode-playtest-predicted-future-video-games-augmented-reality%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Has%20a%20Black%20Mirror%20episode%20predicted%20the%20future%20of%20video%20games%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F26%2Fblack-mirror-episode-playtest-predicted-future-video-games-augmented-reality%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F2e2e5d7001d3d4b1dcf27685e2e550c3c13c8f0c%2F0_48_1920_1152%2F1920.jpg>
+ The Left 4 Dead games feature an AI Director that alters enemy types and 
+threat levels depending on player actions. Photograph: Valve Software 
+Of course, in many ways we’re already seeing this kind of player modelling 
+happening in the conventional games industry. Valve’s critically acclaimed 
+zombie shooterLeft 4 Dead  
+<https://www.theguardian.com/technology/2008/dec/02/left4dead-review-xbox-pc>
+features an AI director that varies the type and threat level of undead enemies 
+based on player activities in the game so far. With the arrival of free-to-play 
+digital games on social media platforms and mobile phones, we also saw the 
+emergence of a whole new game design ethos based on studying player data and 
+iterating games accordingly.In its prime 
+<https://www.theguardian.com/technology/2011/dec/02/facebook-games-zynga-ipo>, 
+Zynga was famed for its huge data science department that watched how players 
+interacted with titles such as Farmville and Mafia Wars, worked out where they 
+were getting bored or frustrated, and tweaked the gameplay to iron out those 
+kinks. The analysis of player metrics quickly became a business in itself with 
+companies such as Quantic Foundry and GameAnalytics set up to help smartphone 
+developers garner information from the activities of players.
+
+But these systems are commercially motivated and based around making game 
+design bets on the activities of thousands of players – they’re not about 
+actually understanding players on an individual emotional level.
+
+That concept is definitely coming. Some AI researchers are shifting away from 
+machine learning projects that watch what players do and toward systems that 
+work out what they feel. It’s possible to get an idea about a player’s 
+excitement, engagement or frustration from analysing certain in-game actions – 
+is the player hammering the jump button, are they avoiding or engaging enemies, 
+are they moving slowly or quickly? Simple actions can give away a lot about the 
+player’s state of mind. In 2014,Julian Togelius 
+<https://www.theguardian.com/technology/gamesblog/2009/jan/21/artificial-intelligence-ai-game>
+ found he was able to make informed assumptions about key character traits of 
+test subjects by watching how they played Minecraft. “We asked them questions 
+about their life motives then analysed the logs from the game,” he says. 
+“Traits like independence and curiosity very strongly correlated with lots of 
+things that happened in the game.”
+
+So could an AI program study that data and change a game to tweak those 
+feelings? “The major challenge is to relate content and [player] behaviour to 
+emotion,” says Noor Shaker, a researcher at the University of Copenhagen who 
+completed a PhD in player-driven procedural content generation. “Ultimately, we 
+want to be able to identify the aspects of games that have an impact on how 
+players experience them.”
+
+Shaker is using a variety of methods for this purpose: neuroevolution 
+<https://www.theguardian.com/books/2016/jun/09/the-ancient-origins-of-conciousness-todd-feinberg-and-john-mallet-review>
+, random decision forests, multivariate adaptive spline models are all complex 
+machine learning toolsets that enable neural networks to gradually learn from 
+and adapt to different player behaviours.
+
+“My work recently revolves around building more accurate models of experience, 
+implementing interactive tools that allow us to visualise the expressive space 
+of players’ emotions,” says Shaker. “Most of the work I have seen so far, such 
+as adaptation in Left 4 Dead, focuses on game difficulty and adjusting the 
+behaviour of the NPCs according to relatively simple metrics of player’s 
+behaviour. I believe there are many other aspects to experience than difficulty 
+and there are many more elements that can be considered to manipulate player 
+experience than the behaviour of the NPCs. Recent research has shown that 
+emotions such as frustration, engagement and surprise can be detected and 
+modelled by machine learning methods.
+
+Shaker then, is interested in developing a video game AI system that 
+understands not just how the player plays, but how the player is feeling as 
+they play. Imagine a game that learns a player’s emotional state and generates 
+non-player characters and story fragments that it knows will hit them right in 
+the heart. “I believe data-driven automatic content personalisation is doable,” 
+says Shaker.
+
+
+The game that stalks you
+
+So far, much of this research has concentrated on how the player behaves 
+within the game world. But that’s not the only place to gather data. As 
+consumers in the digital era, we’re used to being profiled by major 
+corporations: Facebook, Amazon, Microsoft and Google all use behavarioural 
+targeting techniques to serve personalised ads and content to users. Advanced 
+algorithms track our web-browsing activities via cookies and web beacons and 
+learn our preferences. The data is all out there, and there’s no reason why 
+games makers couldn’t use it too.
+
+
+In fact, AI researchers are already creating games that mine information from 
+popular websites and bring it back for use in the narrative. Gabriella Barros 
+is working on the concept of “data adventures” with Julian Togelius, in which 
+the AI gathers information from sites like Wikipedia and OpenStreetMaps to 
+create globe-trotting point-and-click adventures in the style ofWhere in the 
+World is Carmen Sandiego 
+<https://en.wikipedia.org/wiki/Where_in_the_World_Is_Carmen_Sandiego%3F_(1985)> 
+– except they’re based in real locations and populated by real people. These 
+data games are just the beginning, argues Michael Cook an AI researcher at 
+Falmouth University.
+
+“Right now they’re interested in huge, open data platforms like Wikipedia or 
+government statistics,” he says. “But you can imagine in the future a game 
+which takes your Facebook feed instead of a Wikipedia database, and populates 
+the game world with people you know, the things they like doing, the places 
+they visit and the relationships people have with one another. Whether or not 
+that sounds like a scary idea is another question, but I can definitely see it 
+as a natural extension of [the data game concept]. We already open our lives up 
+to so many companies every day, we might as well get a bespoke, commissioned 
+video game out of the deal.”
+
+Copenhagen’s Noor Shaker points out that privacy issues are a bottleneck with 
+social media data – but then it’s a bottleneck that Google and co have deftly 
+circumnavigated. “Once we have the data, and depending on the source and type, 
+natural language processing methods such as sentiment analysis could be used to 
+profile and cluster players according to their opinion about different social, 
+cultural or political matters,” she says. “Statistics could also be collected 
+about games, books, or songs they already purchased, liked or expressed opinion 
+about. All this information could feed powerful machine learning methods such 
+as neural networks or standard classification techniques that learn profiles, 
+discover similarity or predict personality traits.”
+
+
+So now we’re getting closer to the Black Mirror concept. Imagine something 
+like The Sims, where the pictures on your apartment walls are photos from your 
+Facebook wall, where neighbours are your real-life friends. Or, on a darker 
+tangent, imagine a horror adventure that knows about your relationships, your 
+Twitter arguments, your political views; imagine a horror game that knows what 
+you watch on YouTube. “It is only natural to expect that game data can be fused 
+with social media activity to better profile players and provide a better 
+gaming experience,” says Yannakakis.
+
+The game that reads your mind – and body
+
+Researchers can envisage a game that builds a detailed psychological and 
+social profile of a player, from both their in-game actions and online 
+footprint – but there’s still a gap between this, and the horror game posited 
+in Black Mirror, which performs an invasive neurological hack on the player.
+
+Brain-computer interfacing of this sort is still the stuff of bleeding edge 
+medical research and science fiction. However, we’re already seeing the use of 
+devices – both in research and in consumer production – that can measure 
+physiological states such as skin conductance and heart-rate variability to 
+assess a player’s emotional reaction to game content.
+
+Konami’s 1997 arcade dating game Oshiete Your Heart, for example, featured a 
+sensor that measured the player’s heart rate and skin conductance to influence 
+the outcome of each romantic liaison.Nevermind 
+<http://www.flyingmollusk.com/nevermind/>, released by by Flying Mollusk last 
+year, is a biofeedback-enhanced horror adventure that increases the level of 
+challenge based on the player’s stress readings. Yannakakis and other 
+researchers are also using off-the-shelf smart camera technologies likeIntel 
+RealSense 
+<http://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html>
+ and the emotion recognition softwareAffectiva <http://www.affectiva.com/> to 
+track a player’s facial expressions and monitor their heartbeat – both 
+indicators of a variety of emotions. Noor Shaker has studied how tracking a 
+player’s head pose while they take part in a game can tell us about the 
+experience they’re having.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fvimeo.com%2F187755518&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fvimeo.com%2F187755518>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Fvimeo.com%2F187755518&media=>
+Right now, these physiological inputs are mostly confined to research 
+departments, but that may change. Valve, the company behind games like Portal 
+and Half-Life and the HTC Vive VR headset has been experimenting with biometric 
+inputs for years. FounderGabe Newell predicted in 2011 
+<http://www.eurogamer.net/articles/digitalfoundry-valve-biometrics-blog-entry> 
+that we would one day see game controllers with built in heart-rate and skin 
+response detectors. A game supported by these sensors could easily present each 
+player with different items, concepts or options to gauge a heart or skin 
+response, adapting content on the fly depending on the reaction. Imagine a VR 
+headset with sensors that measure skin heat response and heart rate. People are 
+alreadyhacking this sort of thing together 
+<https://diyhacking.com/digitising-human-emotions-virtual-reality/>.
+
+The game that loves you
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DA_edkWos2BY&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DA_edkWos2BY>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DA_edkWos2BY&media=>
+This all sounds terrifying, but it needn’t be used in the way the Black Mirror 
+episode does. There are benevolent, perhaps even beautiful, possibilities in 
+the idea of games learning from players. One company looking into this 
+potential is Mobius AI, a New York and UK-based starup developing a cognitive 
+AI engine for developers. Co-founder Dr Mitu Khandaker-Kokoris is more 
+interested in the potential relationships that could occur between players and 
+AI characters who have the ability to identify and learn from individual 
+players.
+
+“What games really lack is that serendipitous kind of connection we feel when 
+we meet someone in the real world that we get along with,” she says. “One of 
+the ways this will happen is through games featuring AI-driven characters who 
+truly understand us, and what we as individual players are expressing through 
+the things we are actually saying and doing in the game.
+
+“Imagine, for instance, that you were the only one in the world who an 
+AI-driven character could trust fully because the game could infer that you 
+have similar personalities. This character could then take you down a unique 
+experience, which only you have access to. It’s a fascinating problem space, 
+and a great challenge to think about how games could truly work you out – or 
+rather, who you are pretending to be – by paying attention to not only what 
+you’re saying, but how you’re saying it.”
+
+Interestingly, Khandaker-Kokoris, who is also working on procedural 
+storytelling gameLittle Invasion Tales <http://www.littleinvasiontales.com/>, 
+is more skeptical about the role of personal data mining in the future of game 
+design. “We play games, often, to be someone who would have a different online 
+history than our own,” she says. “But then, we are partly always ourselves, 
+too. We have to work out what it would mean in terms of role-play and the idea 
+of a permeable magic circle.”
+
+What’s certain though, is that game creators and AI researchers are moving in 
+the same direction: toward systems that provide content based on individual 
+player preferences and activities. Games now cost many millions to produce – 
+the assumption that enough players will react favourably to a single narrative, 
+and a single experience, is becoming prohibitively risky. We live in an age of 
+behavioural modelling and data science, an age in which Amazon is capable of
+building personalised video adverts in real-time 
+<http://www.bbc.co.uk/news/technology-36773409> based on viewer preferences 
+mined from the web. In this context, games that know you – that learn from you, 
+that are curious about you – are almost inevitable.
+ 

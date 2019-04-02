@@ -1,0 +1,120 @@
+
+Anybody who has been overcharged by an insurance company, denied a claim or 
+given the runaround by an insurer’s customer disservice should shudder at the 
+idea of insurers learning how to deploy the internet as a way of monitoring 
+customers and using their online data to determine how much they should pay.
+
+The latest, inevitable news is that Admiral, one of the UK’s biggest insurers, 
+is touse customers’ Facebook data 
+<https://www.theguardian.com/technology/2016/nov/02/admiral-to-price-car-insurance-based-on-facebook-posts>
+ to help calculate how much car insurance they should pay.
+
+Insurers are always looking for new ways 
+<http://www.propertycasualty360.com/2015/02/03/4-technologies-that-are-revolutionizing-the-insura?page=4&page_all=1&slreturn=1475010598>
+ to strengthen their position and sell their services. And while social media 
+might seem to indicate personality traits associated with safe driving, a new 
+seam of far more personal and invasive monitoring is opening up in the Internet 
+of Things (IoT) – thousands of internet-connected devices that monitor our 
+lives at home, work and in transit.
+
+Each device is a window into part of your life, and insurers want to be the 
+ones pressing their face against the glass
+
+Consulting firm AT Kearney says the IoT will “disrupt traditional insurance 
+models, while opening new frontiers for growth” – a common enough mantra for 
+businesses exploiting new technologies. The problem comes when this disruption 
+means new methods for squeezing more out of its customers andshirking 
+obligations 
+<http://www.cbsnews.com/news/60-minutes-life-insurance-investigation-lesley-stahl/>
+ to pay us. Take, for instance, the unfair (even illegal) practice of “price 
+optimisation 
+<http://www.ibamag.com/news/auto-insurers-overcharging-loyal-customers-insurance-commissioner-says-21473.aspx>
+”, which means analysing non-risk-related data, such as shopping habits, to 
+target people with personalised prices that reflect how much they will pay, not 
+their risky behaviours.
+
+Many analysts <http://insuranceblog.accenture.com/tag/internet-of-things> 
+predict 
+<http://www.theregister.co.uk/2014/05/23/the_internet_of_things_helps_insurance_firms_reward_punish/>
+ that insurance could be the major business model underpinning the IoT, similar 
+to howadvertising bankrolls 
+<http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/>
+ many web platforms. Corporations clearly smell the money; Dell computers’ 
+consulting arm opened an “insurance accelerator 
+<http://www.dell.com/learn/us/en/id/press-releases/2015-11-17-dell-services-launch-of-internet-of-things>
+” in 2015, andMicrosoft 
+<https://news.microsoft.com/2014/06/17/microsoft-and-american-family-insurance-launch-startup-accelerator-focused-on-home-automation/>
+ has also partnered with American Family Insurance to start a similar incubator 
+program.
+
+'Smart' devices 'too dumb' to fend off cyber-attacks, say experts
+ Read more  
+<https://www.theguardian.com/technology/2016/oct/22/smart-devices-too-dumb-to-fend-off-cyber-attacks-say-experts>
+Insurers are already designing and deploying internet-connected devices. 
+Progressive Insurance’s “Snapshot <https://www.progressive.com/auto/snapshot/>” 
+plugs into your car to track how and when you drive, while other insurers are 
+partnering with IoT firmNest <https://nest.com/insurance-partners/> – which 
+makes smart thermostats and smoke alarms – and fitness trackerFitbit 
+<http://www.computerworld.com/article/2911594/insurance-company-now-offers-discounts-if-you-let-it-track-your-fitbit.html>
+ to offer discounts for allowing data reports about your behaviour.
+
+If insurance does become the financial underbelly of the Internet of Things, 
+what does that mean for how these technologies are developed, how they affect 
+our lives and how they spread throughout society?
+
+The tradeoff of control for convenience – dataveillance for discounts – may 
+seem innocuous now. But when insurers exert influence over the IoT, they will 
+have access to powerful monitoring abilities. By design, smart devices record 
+and report information about our behaviours, lifestyles and preferences. Each 
+device is like a window into a different part of your life, and insurers want 
+to be the ones pressing their face against the glass.
+
+Nothing will escape their notice. Every sugary drink or fatty food you indulge 
+in will affect your premium. Every hour you go without replacing the batteries 
+in that chirpingNest Protect <https://nest.com/insurance-partners/> alarm means 
+added points to your risk score. “Hard braking”, or driving at odd hours. 
+Insurers will already send you a tracking device for free so that they can tap 
+all the valuable data you produce.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F02%2Fadmiral-facebook-data-insurers-internet-of-things%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fb372d9d492f1d5f921bf8cf5c71c171e70b7c4cb%2F0_0_4281_2569%2F4281.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Alarmed%20by%20Admiral's%20data%20grab%3F%20Wait%20until%20insurers%20can%20see%20the%20contents%20of%20your%20fridge&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F02%2Fadmiral-facebook-data-insurers-internet-of-things%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Alarmed%20by%20Admiral%27s%20data%20grab%3F%20Wait%20until%20insurers%20can%20see%20the%20contents%20of%20your%20fridge&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F02%2Fadmiral-facebook-data-insurers-internet-of-things%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fb372d9d492f1d5f921bf8cf5c71c171e70b7c4cb%2F0_0_4281_2569%2F4281.jpg>
+ With devices such as smart thermostats and lighting, the IoT offers real 
+potential for improving our lives. But that all depends on who the technology 
+is built for. Photograph: Samuel Gibbs for the Guardian 
+Second, the IoT can help insurers manipulate our behaviour, through policy 
+conditions and incentives. Discounts can quickly become penalties once 
+expectations about data disclosure shift from novel to normal. As surveillance 
+by insurers “becomes more accepted”,argues 
+<http://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=1157&context=nulr>
+ law professor Scott Peppet, “it will give rise to its own stigma: when 
+disclosure becomes low-cost and routine, those who hold out are suspect”. 
+Impeding the flow of data – and grasping for privacy – “may carry with it the 
+presumption that one is hiding information”.
+
+So unless you can afford the financial and social cost of suspicion, you are 
+left with no real choice but to comply with insurers’ demands for data.
+
+Internet of things: the greatest mass surveillance infrastructure ever?
+ Read more  
+<https://www.theguardian.com/technology/2015/jul/15/internet-of-things-mass-surveillance>
+The IoT will also open up new avenues for monetising customers. Insurers claim 
+that the IoT will allow them to charge more accurate prices, thus ensuring that 
+people pay what they should. Their hypothetical examples are always about a 
+client getting unexpected discounts, and that will be true for some people.
+
+Yet there is little reason to believe that the industry overall won’t use risk 
+monitoring and personalised prices to increase their own revenues. If data 
+analytics are used to smuggle in unfair discrimination and price optimisation, 
+we have even less ability to understand and contest these practices.
+
+By providing us with new and better ways of doing things, the IoT offers real 
+potential for improving our lives. But that all depends on who the technology 
+is built for. We would be remiss if we allow a new generation of 
+internet-connected devices to be designed to benefit insurance companies. When 
+industrieseagerly embrace innovation 
+<https://www.theguardian.com/commentisfree/2016/aug/07/silicon-valley-health-finance>
+, it isn’t because they will be the ones disrupted.
+ 

@@ -1,0 +1,55 @@
+
+If you want to know what's happening in the world, then Memorandum 
+<http://www.memeorandum.com/> will tell you – at least in a couple of areas. 
+It's an automated news clipping service, known in the trade as a "news 
+aggregator". It provides headlines and short texts updated every few minutes, 
+with links to the original sites, much like Google News.
+
+Memeorandum is based on the idea of "memes" or ideas that spread across the 
+web (along with a pun on memorandum). Someone publishes an interesting story, 
+other people find it, discuss it, and link to it. That's how the web works. 
+Small stories come and go quickly, while big ones generate lots of comment and 
+dominate the page for hours.
+
+The developer, Gabe Rivera, says it's all done in software. He provides a list 
+of publications as "seeds," but the software still finds stories on sites he's 
+never heard of. It's just a question of following links, and then trying to 
+assess the contents. The algorithms are, obviously, secret.
+
+Google also follows links and assesses content, but Memeorandum is 
+embarrassingly better than Google News. Google reckons that the more coverage a 
+story gets, the more important it is. Unfortunately, broad coverage takes a 
+long time to develop, soGoogle <https://www.theguardian.com/technology/google> 
+News can run hours or even a day behind Memeorandum. This is fine for casual 
+consumers, but if you're a news junkie – or a journalist – it's hopeless.
+
+There are, however, two major problems with Memeorandum: it doesn't cover many 
+topics, and it doesn't cover much of the world.
+
+So far, Memeorandum covers news and politics on the main page, with separate 
+sites for technology news (Techmeme <http://www.techmeme.com/>), celebrity 
+gossip (WeSmirch <http://www.wesmirch.com/>) and baseball (Ballbug 
+<http://www.ballbug.com/>). Another dozen topics would be useful, but 
+Memeorandum has only a couple of staff and not much money.
+
+Also, the sites mainly cover the US, and Techmeme inevitably ends up focused 
+on California: it's where the action is. But if you're interested in news from 
+Europe or Japan, for example, it's the wrong place to go.
+
+Fortunately, a lot of news nowadays is of global interest, whether it's 
+Britney Spears appearing on The X Factor, terrorists murdering people in 
+Mumbai, or Microsoft trying to do a deal with Yahoo. (I'm not sure I can make a 
+case for "Tampa Bay Rays plan extra rest for pitchers after long season".)
+
+Another complaint is that the Memeorandum sites now give far too much coverage 
+to mainstream sources such as the New York Times, Washington Post, CNN, the BBC 
+and the Guardian. Memeorandum used to discover and promote unknown bloggers, 
+critics claim. Perhaps the balance has shifted, but so has the web.We're all 
+blogging now <https://www.theguardian.com/tone/blog>.
+
+Tech.memeorandum was launched in September 2005, so the biggest mystery of all 
+is why a rich global corporation has not made Gabe an offer he can't refuse and 
+globalised his system. He's had offers, but he values his freedom and says: "I 
+don't want to be accountable to organisations that appear clueless about the 
+future of news."
+ 

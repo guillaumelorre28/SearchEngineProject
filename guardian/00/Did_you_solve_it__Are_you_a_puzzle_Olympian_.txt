@@ -1,0 +1,88 @@
+
+Earlier today I set you the following puzzles 
+<https://www.theguardian.com/science/2016/aug/15/can-you-solve-it-are-you-a-puzzle-olympian>
+:
+
+1) The 100m final
+
+Early this morning Usain Bolt won gold in the 100m.
+
+Let’s assume that Bolt won the race by 10m from the second placed runner, 
+Justin Gatlin. And now let’s run the final again, but this time Bolt will start 
+10m behind the start line. If both Bolt and Gatlin run at the same constant 
+speed in the second race as they did in the first, who wins?
+
+Solution
+
+Bolt wins the second race. 
+
+When Bolt has run 100m, Gatlin has run 90m, so the men are in level positions 
+10m from the finish line. Since Bolt has a higher speed, he will run that final 
+10m quicker than his rival.
+
+2) The mystery games
+
+(For the purposes of this puzzle, any resemblance to real persons, living or 
+dead, and Olympic sports, actual or obsolete, is purely coincidental.)
+
+Nafissatou, Jessica, and Brianne are taking part in an athletics competition 
+that involves at least two events. In each event the winner gets G points, 
+second placed gets S points and third place gets B points, where G, S and B are 
+whole numbers, nonzero, and G> S>B. No event is tied. Nafissatou scores 22 
+points in total. Jessica and Brianne score 9 points each in total. Jessica wins 
+the 100m hurdles. Who is second in the javelin? How many events are there?
+
+Solution
+
+To solve this puzzle we need to write down clearly what we know and then 
+gradually deduce the answer.
+
+We know that the number of points awarded at each event is G + S + B, and we 
+know the total number of points given out is 22 + 9 + 9 = 40. We also know that 
+the smallest possible number of points awarded at each event is when G = 3, S = 
+2 and B = 1, in which case G + S + B = 6.
+
+G + S + B cannot be exactly 6, since 6 does not divide into 40, the total 
+number of points. So G + S + B must be either 8, 10, 20 or 40, since these are 
+the only numbers greater than 6 that do divide 40. Which means that there are 
+either 5, 4, 2 or 1 events, since 40/8 = 5, 40/10 = 4, 40/20 = 2 and 40/40 = 1.
+
+Jessica wins the hurdles, and has a total score of 9, so G is at most 9. 
+Nafissatou scores 22 points, so there must be more than two events since 
+otherwise how could she possibly reach that number? So, we know that either 
+there are 5 events and G + S + B = 8, or there are are 4 events and G + S + B = 
+10.
+
+Let’s suppose that there are 4 events. G must be 6 or more, since if it was 5 
+or below Nafissatou would never reach 22. The only way Jessica, who wins the 
+hurdles, and has a total score of 9, could reach that number is if G = 6, B = 
+1, and she is third in each of the other three events. So, S = 3. However, even 
+if Nafissatou is second in the hurdles but wins all the other events, her total 
+is 6 + 6 + 6 + 3 = 21. Which contradicts the statement of the question.
+
+So, there must be 5 events, and G + S + B = 8. G must be 5 or more, since if 
+it was 4 or below Nafissatou would never reach 22. If G = 5, then the only way 
+Jessica, who wins the hurdles, and has a total score of 9, could reach that 
+number is if G = 5, B = 1, and she is third in each of the other four events. 
+So, S = 2. The only way for Nafissatou to make up 22 is for her to win every 
+event but place second in the hurdles, since 5 + 5 + 5 + 5 + 2 = 22. SoBrienne 
+is last in the hurdles, but second in all other events, including the javelin. 
+
+These two puzzles were adapted from problems in My Best Mathematical and Logic 
+Puzzles by Martin Gardner, and Which Way did the Bicycle Go? By Joseph D.E. 
+Konhauser, Dan Velleman and Stan Wagon.
+
+I post a puzzle here on a Monday every two weeks. If you want to propose a 
+puzzle for this column, pleaseemail me <mailto:bellospuzzle@gmail.com> I’d love 
+to hear it.
+
+I’m the author of three popular maths books including Alex’s Adventures in 
+Numberland <http://amzn.to/24xBFW0>. My new book Football School: Where 
+Football Explains the World <http://amzn.to/2bqxfYt> is for children and out on 
+Sept 1.You can check me out on Twitter <https://twitter.com/alexbellos>, 
+Facebook <https://www.facebook.com/pages/Alex-Bellos/326738482347?ref=bookmarks>
+,Google+ <https://plus.google.com/u/0/100349853927591455618/posts>, my personal 
+website <http://www.alexbellos.com/> or my Guardian maths blog 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>.
+
+ 

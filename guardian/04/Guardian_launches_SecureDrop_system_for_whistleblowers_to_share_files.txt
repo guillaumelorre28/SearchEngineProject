@@ -1,0 +1,103 @@
+
+The Guardian <https://www.theguardian.com/media/theguardian> has launched a 
+secure platform for whistleblowers to securely submit confidential documents to 
+the newspaper’s reporters.
+
+The launch comes a year to the day since the Guardian posted the first of a 
+series of NSA documents 
+<https://www.theguardian.com/world/2013/jun/06/nsa-phone-records-verizon-court-order>
+ leaked by former NSA contractor Edward Snowden, sparking a worldwide debate on 
+surveillance, privacy, and civil liberties.
+
+Free speech and privacy groups alongside popular sites including Reddit, 
+BoingBoing and Imgur, are marking the day with a Reset the Net campaign, 
+encouraging internet users to take direct action to secure their privacy 
+online. Several technology companies are also expected to announce new steps to 
+protect users’ privacy over the course of the day.
+
+The SecureDrop open-source whistleblowing platform provides a way for sources, 
+who can choose to remain anonymous, to submit documents and data while avoiding 
+virtually all of the most common forms of online tracking.
+
+It makes use of well-known anonymising technology such as the Tor network and 
+the Tails operating system, which was used by journalists working on the 
+Snowden files.
+
+The New Yorker, the US not-for-profit investigative newsroom ProPublica, and 
+the Pierre Omidyar-backed startup The Intercept are among the newsrooms already 
+making use of the SecureDrop system.
+
+The SecureDrop platform was initially developed by the US developer and 
+activistAaron Swartz <https://www.theguardian.com/technology/aaron-swartz>, who 
+killed himself in 2013 when facing charges under the Computer Fraud and Abuse 
+Act for the mass downloading of academic articles.
+
+The platform was finished after Swartz’s death, and is now maintained and 
+promoted by the not-for-profit Freedom of the Press Foundation.
+
+Sources who wish to consider using the system to contact the Guardian can find 
+information on how to use the SecureDrop platform at
+https://securedrop.theguardian.com <https://securedrop.theguardian.com/>.
+
+This page is hosted on a separate server from the main Guardian site, includes 
+no tracking cookies, and takes no logs. Like almost all other news 
+organisations, regular Guardian webpages use tracking cookies to keep track of 
+users’ login details and to serve advertising.
+
+How to contact the Guardian securely
+ Read more  
+<https://www.theguardian.com/help/2016/sep/19/how-to-contact-the-guardian-securely>
+“Protecting sources is at the core of journalism, and as the Guardian’s 
+revelations from the Edward Snowden documents over the last year have shown, 
+it’s getting ever more difficult,” said Alan Rusbridger, the editor-in-chief of 
+the Guardian.
+
+“We’re pleased to be able to use the best technology available to make sure 
+we’re doing everything we can to let sources talk to our journalists securely, 
+and hope as many other outlets as possible do the same”
+
+The Guardian’s SecureDrop system is installed outside of the UK. Last year, 
+the UK government was criticized by international press freedom organisations 
+for applying pressure to the Guardian over its publication of the NSA documents 
+leaked by Snowden, leading to the news organization relocating its reporting on 
+the files to the USA, and destroying all copies of the documents stored in its 
+UK headquarters.
+
+Trevor Timm, the director of the Freedom of the Press Foundation, said the 
+development of SecureDrop was part of a wider response to government crackdowns 
+on journalists and whistleblowers in the US and across the world.
+
+“In an age where governments are increasingly using surveillance to uncover 
+sources and chill investigative journalism, technology can help whistleblowers 
+and reporters safely get important stories to the public,” he said.
+
+“SecureDrop is designed specifically for news organizations so they can 
+receive tips and documents in a much more anonymous and secure way than email 
+or phone calls.”
+
+SecureDrop was given an extensive security audit by a team of cryptographers 
+in July 2013, and updated in response to many of the concerns raised at the 
+time. The system was also updated to address the widely reported Heartbleed 
+security vulnerability.
+
+While the system is far more secure than, for example, emailing information to 
+a reporter, SecureDrop specifically does not promise 100% security.
+
+“[A]ny organization or product that promises 100% security is not telling the 
+truth,” says the Freedom of the Press Foundation website. “SecureDrop attempts 
+to create [a] significantly more secure environment for sources to get 
+information than exists through normal digital channels, but there are always 
+risks.”
+
+The steps taken by the system include secure browsing advice to potential 
+sources, making use of the Tor network, which anonymises internet traffic by 
+bouncing it through a series of intermediate computers, requiring “air-gapped” 
+– a term mean disconnected from all networks – computers to open documents, and 
+use of secure operating systems to analyse any documents.
+
+The system also allows for secure two-way communication between sources and 
+journalists after the initial contact is made, if the source so wishes.
+
+• Find out more details of how to securely contact the Guardian at 
+https://securedrop.theguardian.com <https://securedrop.theguardian.com/>.
+ 

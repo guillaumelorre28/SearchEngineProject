@@ -1,0 +1,85 @@
+
+A caveat before you read any further: this is not one of those articles based 
+on 'sources close to'Apple <https://www.theguardian.com/technology/apple>. I 
+haven't 'run checks' with made-up Taiwanese components suppliers, nor have I 
+stumbled across Tim Cook's WWDC briefing notes in a San Francisco bar.
+
+What follows is pure, unsourced, unrequited wishlistery, based on a.) being a 
+parent of children who enjoy using apps, and b.) writing a fair bit about the 
+burgeoning number of apps aimed at them. It's what I'd like to see at some 
+point – and if that's in an iOS 6 reveal at WWDC 2012, so much the better.
+
+But yes. A bit of context first. iOS wasn't Apple's first brush with the games 
+industry by any means, but it's fair to say the popularity of games from day 
+one - Super Monkey Ball, anyone? - was something of a surprise.
+
+As time went on, though, Apple responded by making more APIs available to 
+games developers, launching the Game Center community platform, and giving 
+games more prominent placement in its keynote events. It recognised an 
+important apps category emerging on its platform, and put more focus on serving 
+it.
+
+So, kid-apps now are arguably where games were in those early days of iOS. 
+Lots being made, from big brands and innovative indie developers alike, and 
+lots of parents and children using them - but room for improvement on Apple's 
+part in how it approaches the category.
+
+As the banners have started to go up around San Francisco's Moscone Center 
+venue for WWDC, which kicks off on 11 June, a couple of developer friends 
+noticed that icons for some kid-apps featured prominently in the poster 
+collages.
+
+It got me thinking, if Apple was planning to do more in this area in iOS 6, 
+what might it do?
+
+Two quick wins would be a proper Kids Mode for iOS devices, triggered by a 
+single switch in Settings (like Airplane Mode) locking up everything but 
+pre-set Kids apps folders; and a dedicated Kids category on the App Store, 
+gathering the apps that are currently scattered between Books, Games, Education 
+and Entertainment.
+
+More ambitiously, though, what about a Game Center-style platform for these 
+apps to tie into? A mix of social features – the social being between children 
+and their parents / family members, obviously – and achievement/reward 
+mechanisms.
+
+For example, features that help parents see how their children are progressing 
+through apps, which ones have engaged their attention most, and the ability for 
+children to easily share creations digitally with family members who aren't 
+with them at that particular moment. Teachers too, potentially.
+
+A bonus would be accurate recommendations of other apps that the child might 
+like, based on their habits, and maybe even the ability to sign up for push 
+notifications when favourite publishers bring out a new app.
+
+All of this is possible right now, of course, in individual apps and in the 
+platforms of an emerging clutch of startups (FingerPrint Digital 
+<http://www.fingerprintplay.com/>, Yogiplay <http://www.yogiplay.com/>, Ruckus 
+Reader <http://www.ruckusreader.com/>, KinderTown <http://www.kindertown.com/> 
+andSmarTots <http://www.smartots.com/> being just five examples) who all have 
+designs on being a social/progress/recommendations apps wrapper for children's 
+apps – or at least one or two of the three.
+
+Why should Apple build its own version, or buy one of these companies? To 
+create a standard – a way that these features can work in the same way across 
+children's apps on iOS, rather than fragmenting the progression data and 
+expecting kids to learn different user interfaces for the sharing features.
+
+Not every parent would go for it, and a platform that involves storing and 
+making use of data on children's app usage is fraught with sensitivities 
+– although this is possibly another argument for Apple centralising the idea.
+
+Big brands (Sesame Street, Disney, Lego and so on) might also prefer their own 
+branded platforms, but that's a similar discussion to the one Apple has had 
+with big games publishers like EA, which is currently balancing its own Origin 
+community with Game Center.
+
+A Game Center for children, then. It may not be announced at WWDC 2012, but 
+it's a thought for the future. And if Apple needs any more motivation, how 
+about the prospect of Android getting there first thanks to apps likeFamigo 
+SandBox <http://www.famigo.com/sandbox/>?
+
+Being the most child-friendly smartphone and tablet OS hasn't been a 
+high-profile selling point until now. As more parents consider their children's 
+usage of apps, though, this could change.
+ 

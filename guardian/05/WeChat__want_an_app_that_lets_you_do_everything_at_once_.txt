@@ -1,0 +1,89 @@
+
+Would you want to be able to book a taxi from your email program? How about 
+being able to send emails from your music organiser? Or maybe you’d like to be 
+able to order a pizza while using your dating app?
+
+Unlikely scenarios, all three; and yet many of the apps that we use would like 
+to be able to encompass functionalities as diverse as that. It was part of the 
+integrated approach that Microsoft’s Windows Phone introduced in 2010 with its 
+“People Hub” idea. That didn’t have much success, arguably because it was too 
+early and the implementation wasn’t great. But the idea that when you 
+communicate, you want to be able doall sorts of communication – whether via 
+Facebook or Twitter or text or email – is one that is catching on in a big way.
+
+As a result, some apps are beginning to suffer from a sort of late-teenage 
+bloat. Apple’s iTunes on the desktop is the poster child for this. Having 
+startedas software to rip CDs and play MP3s 
+<http://www.apple.com/pr/library/2001/01/09Apple-Introduces-iTunes-Worlds-Best-and-Easiest-To-Use-Jukebox-Software.html>
+, it has added functionality so that now it enables you to (deep breath) buy or 
+stream a huge catalogue of songs, albums, podcasts, TV shows and films, and 
+also to buy and download mobile apps – though the need to do the latter barely 
+arises, since you can just add them to your device.
+
+Can you do ‘real work’ on an iPad?
+ Read more  
+<https://www.theguardian.com/technology/2015/dec/07/ipad-pro-review-tablet-versus-computers-work>
+But iTunes wasn’t the first. Email programs have long been able to display 
+photos, videos and documents; Microsoft did it first and most thoroughly in 
+Outlook. In the same way Slack, the app that many look on as email’s better 
+replacement (because it obviates the blizzard of separate emails in favour of 
+chat spaces and links), has expanded to include the ability to show all sorts 
+of content natively. Others are getting into the multifunction app. Facebook 
+and Twitter have done it for a while: they’re not just text platforms but also 
+photos and videos. Facebook is taking it further by having Facebook Messenger, 
+and including in that Facebook M, its “assistant” to help you with various 
+tasks.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F15%2Fmultifunction-apps-charles-arthur%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fd77a062119b05fa6d7f428c94ccb7fffb2b48b16%2F0_323_3200_1921%2F3200.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=WeChat%3A%20want%20an%20app%20that%20lets%20you%20do%20everything%20at%20once%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F15%2Fmultifunction-apps-charles-arthur%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=WeChat%3A%20want%20an%20app%20that%20lets%20you%20do%20everything%20at%20once%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F15%2Fmultifunction-apps-charles-arthur%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fd77a062119b05fa6d7f428c94ccb7fffb2b48b16%2F0_323_3200_1921%2F3200.jpg>
+ Wechat in action. Photograph: Imaginechina/Corbis 
+Every app, after all, wants to be the one where you spend all your time. But 
+on mobile, the risks associated with overloading the user interface (user 
+confusion and complexity of updates) mean that established products tend to 
+splinter instead.
+
+Facebook has added news, video, audio and messaging; more recently it took the 
+brave decision on mobile tosplit Messenger  
+<https://www.theguardian.com/technology/2014/apr/10/facebook-messenger-app-removing-chat>
+(for person-to-person contact) off as a separate app. Similarly on iOS, Apple 
+has parcelled out the functions of the desktop iTunes to five apps – Music, 
+Podcasts, Films, iTunes Store and App Store.
+
+Yet not all take that approach. WeChat <http://www.wechat.com/en/>, a Chinese 
+messaging app, dwarfs most western products both in scale – it has around 700 
+million active accounts – and ambition: despite being first released only in 
+January 2011 as a text/voice/photo-sharing app, it has expanded to provide 
+functionality so that you can order cabs, buy film tickets, play games, check 
+in for flights, pay bills … the list goes on and on. Connie Chan of venture 
+capital firm Andreessen Horowitz wrote anastonished blogpost 
+<http://a16z.com/2015/08/06/wechat-china-mobile-first/> about its capability, 
+noting that “while Facebook and WhatsApp measure growth by the number of daily 
+users on their networks, WeChat cares more about how relevant and central [it] 
+is in addressing the daily, even hourly, needs of its users”.
+
+BT hasn’t put the money into broadband because it hasn’t been forced to
+ Read more  
+<https://www.theguardian.com/technology/2015/sep/14/bt-broadband-fibre-optic-slow-speeds>
+So why don’t we have a WeChat in the west? Facebook comes closest, but as 
+noted above, it’s splitting apart on mobile. Possibly it’s because we tore apps 
+apart on the desktop; Outlook’s ability to show documents was exploited by 
+scripting viruses such asILOVEYOU <https://en.wikipedia.org/wiki/ILOVEYOU>, so 
+historically there’s caution around having too much capability inside an app. 
+China, WeChat’s home ground, never went through the same desktop evolution – it 
+jumped direct to mobile, where apps are more rigorously “sandboxed” in their 
+interaction with other phone functions. We tend to praise apps that “do one 
+thing well” – and then grumble because they can’t do some specific thing thatwe 
+alone want to do.
+
+This desire to be everything to everyone marks WeChat out – but it’s obvious 
+that Facebook and WhatsApp want to do the same; in India, WhatsApp already 
+serves some commercial functions as a link between businesses. Global ambition 
+may mean globally large app functionality, rather than siloed mobile apps with 
+single functions like Uber. In a few years, individual apps may have been 
+swallowed into bigger ones. Need a cab? In the future it might be as easy as 
+opening your camera app;Uber is already part of Messenger 
+<https://newsroom.uber.com/messengerlaunch/> in some US cities.
+ 

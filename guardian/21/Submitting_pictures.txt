@@ -1,0 +1,28 @@
+
+You should ensure that your CRN is attached to the Original Transmission 
+Reference (OTR) field for each picture you submit. If you are using Adobe 
+Photoshop, insert the CRN into the OTR field using the following procedure 
+(this must be done for each picture) and send to the appropriatecopywire address
+ 
+<http://image.theguardian.com/sys-files/Guardian/documents/2006/06/05/Copyin200606.xls>
+:
+
+1 Select File > File info ...
+2 Under Section, choose Origin.
+3 Type the CRN into the OTR field.
+4 Make any other changes and click on OK.
+
+Should you not have email, your CRN should be displayed prominently on all 
+prints. Prints should be sent to your commissioning editor at Guardian News and 
+Media Ltd, Kings Place, 90 York Way, London N1 9GU.
+
+With new GPS and camera technology it is now possible to embed geographical 
+locations in the camera File Information fields. GNM requests that this 
+technology is disabled or the information removed before filing pictures from 
+assignments commissioned by us. It is especially important where identification 
+of a source is an issue. It is not enough to pixilate a face; you must make 
+sure you are not using a camera with this technology enabled.
+
+If the technology has been enabled on material sent to us on spec, we must be 
+notified of this - preferably on the picture caption.
+ 

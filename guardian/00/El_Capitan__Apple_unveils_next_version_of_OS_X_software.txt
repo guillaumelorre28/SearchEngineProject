@@ -1,0 +1,39 @@
+
+Apple <https://www.theguardian.com/technology/apple> announced the latest 
+update to its OS X desktop software on Monday, which the company says will make 
+it faster and easier to use.
+
+OS X 10.11 El Capitan, named after a mountain within Yosemite national park, 
+will be available as a free update in the autumn.
+
+Apple iOS 9 to give four extra hours of iPhone battery life
+ Read more  
+<https://www.theguardian.com/technology/2015/jun/08/apple-ios-9-speed-size-battery-life-wwdc>
+Apple’s Craig Federighi said it was going to be the fastest version of OS X to 
+date: “It’s up to 1.4x faster and we’ve seen it twice as snappy switching 
+between apps.”
+
+The company has rewritten parts of the operating system to optimise it, 
+extending battery life and making existing computers feel faster. It will be 
+able to open PDF documents four times faster, for instance.
+
+Apple brought its Metal graphics system from its iOS to the Mac, which Epic 
+Games, developers of the Unreal graphics engine used by many of today’s top 
+games, said was significantly faster and less processor intensive for rendering 
+intensive graphics.
+
+Spotlight, Apple’s search engine, also so an upgrade with semantic searches.
+
+“Users can search for “documents I worked on last June” and it will find all 
+the documents created in June last year on your Mac,” said Federighi.
+
+Apple has improved window management in El Capitan, including the ability to 
+size windows to half the screen, something Microsoft’s Windows has had baked in 
+for years but requires a third-party app such as Moom or manual rearrangement 
+on Yosemite.
+
+Federighi said the company had made many hundreds of small changes to the rest 
+of Apple’s core apps, including Safari which can now pin tabs within the tab 
+bar in the corner and can load instantly.
+
+ 

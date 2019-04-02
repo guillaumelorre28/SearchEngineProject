@@ -1,0 +1,92 @@
+
+It's been one year since Edward Snowden revealed he was the source of the 
+leaked details on the NSA's Prism surveillance programme 
+<https://www.theguardian.com/world/video/2013/jun/09/nsa-whistleblower-edward-snowden-interview-video>
+. His revelations massivelyrocked public trust in the internet 
+<https://www.theguardian.com/media-network/media-network-blog/2014/feb/18/cloud-computing-nsa-privacy-breaches-crisis-confidence>
+ and shocked even the most cynical of conspiracy theorists. The aftershocks 
+have been felt worldwide, particularly bytech giants 
+<https://www.theguardian.com/world/2013/aug/08/nsa-revelations-fears-cloud-computing>
+ and politicians.
+
+With headline after headline detailing such high-profile repercussions, it 
+begs the question: how has Snowden changed the attitude of ICT decision-makers 
+towards the cloud?
+
+NTT Communications sought to find some answers and carried out a study of 
+1,000 ICT decision-makers in large companies in the UK, France, Germany, Hong 
+Kong and the US. It found that there arefour areas where businesses have felt 
+the shocks 
+<http://nsaaftershocks.com/wp-content/themes/nsa/images/NTTC_Report_WEB.pdf>, 
+all of which have led them to rethink the way they store and manage sensitive 
+commercial data:
+
+1) Data sovereignty tops the agenda
+In the post-Snowden world, data sovereignty – where data is physically hosted 
+– is now a hugely contentious subject for businesses. There are now very few 
+ICT decision-makers that believe location is irrelevant when it comes to 
+storing company data. This is because keeping sensitive information in a 
+country where the authorities can access or monitor it without consent 
+constitutes a significant business risk. As a result, many European 
+organisations (97%) that are looking to adopt cloud are now choosing providers 
+located in their own region. This trend also applies to businesses already 
+using cloud services – some are now choosing to move their data to a location 
+where they know it will be safe.
+
+2) Training to keep up to date on compliance and regulation
+ICT decision-makers are now much more aware of the need to have a detailed 
+knowledge oflegislation affecting their data 
+<https://www.theguardian.com/media-network/media-network-blog/2013/dec/16/data-protection-cloud-computing-2014>
+. More than four fifths of CIOs (84%) feel they need more training on data 
+protection laws. For companies that operate in the legal or financial sector 
+this is particularly important. Despite the fact that surveillance can occur 
+without their consent or knowledge, they're still required to adhere to the 
+strict data regulations. Therefore, the NSA allegations have prompted many of 
+these organisations to rethink the training programmes they carry out.
+
+3) Changing procurement and delaying projects
+Snowden is compelling ICT decision-makers to be tighter in their due 
+diligence. Just over half (52%) of ICT decision-makers are now carrying out 
+checks in greater detail on cloud providers during the procurement process, 
+which includes researching the physical location of the data centre, its 
+security credentials and who actually owns the company. However, there are some 
+ICT decision-makers going even further, deciding to abandon, delay or even 
+avoid the cloud completely as a direct result of the revelations. These are 
+obviously natural reactions, but businesses need to remember that provided they 
+scrutinise cloud providers, they can alleviate security fears and still reap 
+the benefits of cloud computing.
+
+4) Looking to alternatives for data security
+82% of all ICT decision-makers globally agree with proposals made by German 
+chancellor Angela Merkel for separating data networks 
+<http://www.datacenterknowledge.com/archives/2014/02/17/germanys-merkel-calls-separate-european-internet/>
+. In theory, this should work, but in practice it is near-impossible as it 
+raises serious questions for businesses trading outside of Europe and the 
+individual levels of risk and security each EU country is willing to shoulder.
+
+This suggestion has sparked a discussion about alternative methods for 
+securing data, with encryption emerging as the most viable option. However, 
+there has been a debate on whether theNSA 
+<https://www.theguardian.com/us-news/nsa> could crack some of the encryption 
+coding causing more fears about data surveillance. This could present market 
+opportunities for vendors to fill the gaps and offer enterprise-grade 
+encryption with their current offerings.
+
+Prism has shaken businesses and changed their attitudes towards cloud 
+computing – and understandably so. But confidence can be rebuilt. Encryption is 
+now being discussed more than ever as a counter-measure. In the short-term, the 
+most effective solution is partnering with cloud providers that can keep 
+information in-country. This way, businesses can still harness the benefits of 
+cloud computing while keeping their valuable data safe.
+
+Len Padilla is vice president product strategy at NTT Europe 
+<http://www.ntt.com/index-e.html>
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media Network content is editorially independent except for 
+pieces labelled 'Advertisement feature'. Find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

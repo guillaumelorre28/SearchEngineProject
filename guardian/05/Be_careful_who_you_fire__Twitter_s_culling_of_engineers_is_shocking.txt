@@ -1,0 +1,94 @@
+
+Twitter’s new chief executive, Jack Dorsey, must hope that none of the 336 
+peopleabout to be let go 
+<https://www.theguardian.com/technology/2015/oct/13/twitter-job-losses-global-restructuring-plan-jack-dorsey>
+ by the struggling company are as valuable as John Bauer.
+
+In 2002, Bauer was a programmer at Google who tweaked some code and turned the 
+company it into a cash-generating machine. The tweak allowed key words typed 
+into the search engine to appear in bold when they flashed up in adverts, 
+alongside the search results. It more than quadrupled the number of times 
+people clicked on the ads, and ensured Google’s financial future.
+
+Noting Bauer’s success, Dorsey could certainly use a simple software 
+alteration that would suddenly turn the social network profitable. But it is 
+the software engineers – normally the most venerated at any Silicon Valley 
+company – who are being hit hardest in Dorsey’s layoffs: almost all of the cuts 
+from the 4,100 strong workforce are coming from its “product and engineering” 
+division, rather than in marketing or sales.
+
+“We feel strongly that engineering will move much faster with a smaller and 
+nimbler team, while remaining the biggest percentage of our workforce,” Dorsey 
+told employees in an email. Almost at the same time as cutting staff,Twitter 
+<https://www.theguardian.com/technology/twitter> rolled out its “Moments” 
+service that aims to collect tweets and links about noteworthy news events, and 
+is considering tweets where links and names aren’t included in its 
+140-character limit.
+
+But culling engineering jobs is a shocking act in a field where poaching is 
+commonplace, such is the intense competition for staff. Ego-pumped rivals try 
+hard to dismiss any loss they suffer to a competitor. Or in the case of Elon 
+Musk, founder of the electric vehicle maker Tesla, a rival such as Apple is 
+downgraded to jumped-up rival. “They have hired people we’ve fired,” Musk said 
+recently about Apple havingpoached a number of 
+<https://www.theguardian.com/technology/2015/oct/09/elon-musk-apple-graveyard-fired-tesla-staff>
+ key members of his staff. “We always jokingly call Apple the ‘Tesla 
+graveyard’. If you don’t make it at Tesla, you go work at Apple.
+
+It is no accident that Musk sounds like a football manager cutting loose 
+disappointing players via transfer deals. Top programmers are now the Premier 
+League footballers of the computing world. And the reach of the computing world 
+is extending everywhere, from phones to cars to buildings, which fosters demand 
+for software programmers.
+
+Like footballers, top programmers are getting used to being mollycoddled: 
+according to jobs site Glassdoor, which tracks salaries, a software engineer 
+starting at Twitter, Facebook, Apple or Google could expect to be paid at least 
+$127,000 (£82,000) annually, with medical insurance, free canteen food and 
+holidays thrown in, as well as share options that could boost their income by 
+50%. For senior software engineers, the starting figure can be $153,000 
+(£98,000), which pushes beyond $250,000 (£161,000) after cash and stock 
+bonuses. By contrast, salaries at Microsoft and Amazon, further up the coast in 
+near Seattle, begin at around $100,000 (£64,000).
+
+Despite the high pay levels, however, only the very best make a significant 
+difference to a company’s performance. Studies fromas far back as 1968 
+<http://www.construx.com/10x_Software_Development/Productivity_Variations_Among_Software_Developers_and_Teams__The_Origin_of_10x>
+ have found that the best programmers produce code that runs up to 10 times 
+faster than an alternative offered by an average yet experienced programmer.
+
+Sometimes, according to Steve McConnell of Construx Software, one person can 
+make all the difference. When he was at Boeing in the mid-1980s, he says, a 
+critical project with 80 coders was near to missing its deadline. According to 
+company lore, “they moved most of the 80 people off that project and brought in 
+one guy who finished all the coding and delivered the software on time,” he 
+says.
+
+But another interpretation of the Twitter cuts is that they they represent a 
+peak for programmer power. If Silicon Valley is heading for a crashas 
+valuations for companies like Snapchat soar 
+<https://www.theguardian.com/technology/2015/mar/12/snapchat-worth-15bn-after-alibaba-invesment>
+, then there will be consequences for its star employees. After the dot-com 
+bust in 2000, the market for programmers cratered; many left the area 
+altogether.
+
+There is no danger of a repeat, insists Michael Solomon, managing partner at 
+10X Management in New York, a talent agency for top programmers. “We’re looking 
+at a shortage that’s projected into the future as a growing, growing problem,” 
+he says.
+
+“Just yesterday we had a call with a significantly growing startup that was 
+looking for us to bring in seven people because they just can’t fill the gaps. 
+Twitter might be changing its focus, but there’s no glut.”
+
+Solomon says that the problem is compounded because there’s still no easy way 
+to identify one of those “10x” programmers, other than rigorously looking at 
+work they’ve done. “It’s like building a house,” he says. “Some people make it 
+beautiful - but it’s a year late. Some finish on time – but it doesn’t hold up. 
+I would like there to be a magic test. But there isn’t.”
+
+That points to Dorsey’s problem – and opportunity: if he keeps the right 
+people, Twitter might improve much faster than it has for years and all with 
+just a few lines of code. Provided Twitter’s equivalent of John Bauer is not on 
+the redundancy list.
+ 

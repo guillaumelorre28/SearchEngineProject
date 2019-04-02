@@ -1,0 +1,144 @@
+
+The PC market remains in the doldrums worldwide, shrinking by about 1% 
+year-on-year to about 79m units shipped in the three months to the end of 
+September according to new figures from research firms IDC and Gartner.
+
+
+The data also shows that the biggest six companies are tightening their grip 
+on the market, taking making up a record high of more than 70% of all shipments 
+as smaller players are squeezed out – and more consolidation is expected.
+
+Differences in the data collected by the two research firms also suggests that 
+Taiwan-based Asus is seeing the most success in shipping 2-in-1 devices. 
+Detachable keyboards such as theLenovo 
+<https://www.theguardian.com/technology/lenovo> Yoga are classed by Gartner as 
+“ultramobiles” but by IDC as “tablets” – and so not included in its PC shipment 
+figures.
+
+IDC put total shipments at 78.5m units, down 1.7% year-on-year; Gartner at 
+79.4m, down 0.5% <http://www.gartner.com/newsroom/id/2869019>.
+
+IDC’s classification of 2-in-1s as “tablets” means that Asus doesn’t figure in 
+its top five manufacturers 
+<http://www.idc.com/getdoc.jsp?containerId=prUS25187214> by shipment, putting 
+Apple in fifth place for the first time in more than 20 years, with an 
+estimated 4.98m computers shipped.
+
+But Gartner says Asus <https://www.theguardian.com/technology/asus> shipped 
+5.77m devices in the quarter – which suggests that if it shipped fewer desktops 
+and laptops than Apple’s 4.98m, it must have shipped at least 780,000 2-in-1 
+devices. “Asus has been concentrating on that segment,” said a Gartner 
+spokesman.
+
+Dave Lindhout <http://twitter.com/Info_Dave> has charted 
+<http://info-tran.com/asus.png> the difference between Gartner’s and IDC’s 
+measure of Asus’s “PC” shipments, showing the growing gap between their 
+measures – and so the rising number of 2-in-1 shipments from Asus.
+ Chart showing the difference between Gartner and IDC measure of Asus ‘PC’ 
+shipments - because Gartner counts 2-in-1 ‘detachable keyboard’ devices as PCs, 
+but IDC counts them as ‘tablets’. Photograph: Info-tran 
+However, the figures are not definitive; variations in how the two companies 
+measure shipments, and differences in how companies report data to them, mean 
+that IDC and Gartner both reckon that Lenovo, the largest PC company, shipped 
+15.7m PCs - even though Gartner’s figure should include the Yoga while IDC’s 
+excludes them.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Foct%2F09%2Fpc-market-still-shrinking-with-smaller-firms-squeezed-out%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F10%2F9%2F1412864159876%2F8b8a07f1-9c81-42ca-a7f1-e7cc373a494b-1020x504.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=PC%20market%20still%20shrinking%2C%20with%20smaller%20firms%20squeezed%20out&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Foct%2F09%2Fpc-market-still-shrinking-with-smaller-firms-squeezed-out%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=PC%20market%20still%20shrinking%2C%20with%20smaller%20firms%20squeezed%20out&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Foct%2F09%2Fpc-market-still-shrinking-with-smaller-firms-squeezed-out%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F10%2F9%2F1412864159876%2F8b8a07f1-9c81-42ca-a7f1-e7cc373a494b-1020x504.png>
+ Worldwide PC shipments by quarter (blue columns) and four-quarter moving 
+average (red line). Source: IDC. Photograph: Guardian/IDC 
+The PC market shows little sign of overall recovery. While sales rose 
+year-on-year in developed markets, which were the earliest to adopt PCs, they 
+fell in emerging markets, where PC penetration is lower.
+
+Corporate buyers are still replacing PCs following the end of Windows XP’s 
+support in April, providing an ongoing uplift for sales there: “The continued 
+growth in the EMEA PC market reflects the end of official support for Windows 
+XP and the need to replace older PCs,” said Ranjit Atwal, research director at 
+Gartner.
+
+Mikako Kitagawa, principal analyst at Gartner, said: “Consumers’ attention is 
+slowly going back to PC purchases as tablet adoption peaked with mainstream 
+consumers. The transition from PCs to tablets has faded as tablet penetration 
+has reached the 40-50% range.”
+
+But the ongoing slow sales in emerging markets showed that consumers there who 
+could afford PCs were in effect satisfied – and that those without PCs would 
+choose cheap tablets instead. “This is a one of the major reasons for the slow 
+growth in PC shipments in the emerging market,” said Kitagawa.
+
+For smaller PC players, the major concern is that the shrinking number of PC 
+sales means that larger players are grabbing more share – especially as 
+businesses now purchase the majority of PCs and seek trusted sources. The sum 
+of the top five vendors’ shipments was two-third of the market – and more than 
+70% includingApple <https://www.theguardian.com/technology/apple> – and all 
+grew more than the industry average.
+
+That will mean further withdrawals from the market, analysts say. This year 
+Sony sold off its PC business to a private equity company, Toshiba announced it 
+will withdraw from selling to consumers, and Samsung pulled out of selling both 
+Windows PCs and Chromebooks in Europe.
+
+Vizio, best known in the TV market, said in July 
+<http://www.pcworld.com/article/2453843/vizio-rethinking-pc-strategy-in-weak-market.html>
+ that it was “rethinking” its attempt to break into the PC market; its 
+“computing” page on its website is nowdead <http://www.vizio.com/computing/>.
+
+Loren Loverde, of IDC’s worldwide PC tracker group, said that more would 
+follow: “In addition to pressures like slower growth, lower prices and margins, 
+and competition from other devices, the shift to portable PCs and the expansion 
+in emerging markets (not just total PC volume, but more channels, growth in 
+smaller cities and lower income segments) also leaves less room for smaller 
+players.
+
+Loverde added: “There are some other Asian/emerging market players such as 
+Tongfang, Positivo, Haier, LG Electronics, MSI, and Panasonic. Within desktops, 
+vendors outside the top 10 still account for almost 40% of the market – sold 
+through lots of smaller local vendors, value-added resellers, and assemblers. 
+For portables that number is now less than 10%.”
+
+However desktops make up only about 40% of worldwide shipments, meaning that 
+many small players are competing for business – which also drives down margins 
+and sustainability.
+
+Apple’s surprise appearance
+
+Apple’s appearance in IDC’s list of the top five PC makers is not that 
+surprising, said Loren Loverde, of IDC’s worldwide PC trackers division. While 
+IDC and Gartner both name only the top five companies, “the difference between 
+fifth and sixth is not always large– as in this case,” Loverde said.
+
+“PC shipments for the two vendors were also fairly close a year ago – but 
+Apple has been growing faster, so the rank change is not so surprising from a 
+growth perspective.”
+
+Apple also cut prices and benefited from generally higher sales growth in the 
+US, Loverde said. “Asus was harder hit [in PC shipments] by its shift to 
+alternate devices like tablets, including 2-in-1s and smartphones, and has 
+essentially stabilised its PC business over the past year. Our results for the 
+just-past quarter show Asus growing again, but still falling behind Apple.”
+
+Both IDC and Gartner say that Apple was the third-largest PC vendor in the US 
+during the quarter, shipping almost half its worldwide total there and so 
+benefiting from a slight uplift in sales.
+
+Motherboards: no salvation
+
+Sales of motherboards – used either to build PCs or repair existing ones – 
+have not escaped the squeeze on the PC market.
+
+The market is dominated by Asus and Gigabyte of Taiwan, which mainly produce 
+them for companies assembling them commercially, but also sell some to 
+hobbyists and professionals.
+
+According to Sandler Research, the market is roughly steady at about 38m units 
+each quarter, but Asus and Gigabyte are taking a growing share of that as 
+prices are forced down. About 40% of Gigabytes exports go to Asia, particularly 
+China, and 40% to Europe, with the remainder going to the US.
+
+• Breaking HP up isn’t hard to do – but PC and printing arms will be left 
+behind <http://v>
+ 

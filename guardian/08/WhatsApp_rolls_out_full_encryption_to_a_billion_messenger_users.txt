@@ -1,0 +1,105 @@
+
+WhatsApp <https://www.theguardian.com/technology/whatsapp> is updating its 
+messenger app so that every text and voice call on one of the world’s most 
+popular apps will be protected with strong encryption – potentially putting 
+millions more conversations outside the purview of authorities.
+
+The development at the messenger company, which is owned by Facebook, is 
+striking givenSilicon Valley’s recent staredown with authorities over user data 
+privacy 
+<https://www.theguardian.com/technology/2016/mar/28/apple-fbi-case-dropped-san-bernardino-iphone>
+.
+
+The FBI dropped a court battle with Apple over its iPhone encryption, and 
+Brazilian police recently arrested aFacebook 
+<https://www.theguardian.com/technology/facebook> executive because WhatsApp 
+couldn’t provide messages sent by a criminal suspect.
+
+None of that appears to have deterred WhatsApp founder Jan Koum, who grew up 
+in Soviet-era Ukraine amid surveillance fears and has said that he often heard 
+his mother say things like, “This isn’t a telephone conversation.”
+
+“The desire to protect people’s private communication is one of the core 
+beliefs we have at WhatsApp, and for me, it’s personal,” Koum wrote in ablog 
+post <https://blog.whatsapp.com/10000618/end-to-end-encryption?> published 
+Tuesday. “I grew up in the USSR during communist rule and the fact that people 
+couldn’t speak freely is one of the reasons my family moved to the United 
+States.”
+
+The Guardian reported 
+<https://www.theguardian.com/technology/2016/mar/14/facebook-google-whatsapp-plan-increase-encryption-fbi-apple>
+ on WhatsApp’s plans in March.
+
+All of WhatsApp’s 1 billion users, when running the latest version of the app 
+on iPhone, a Google Android device, Nokia or Blackberry, will send and receive 
+messages, attachments and voice calls that engineers say can only be deciphered 
+by the intended recipient, saidMoxie Marlinspike 
+<http://www.wsj.com/articles/moxie-marlinspike-the-coder-who-encrypted-your-texts-1436486274>
+, an encrypted messaging developer at Open Whisper Systems, whose technology 
+forms the backbone of WhatsApp’s encryption.
+
+This means WhatsApp shouldn’t be able to facilitate a wiretap of the contents 
+of users’ messages, even if faced with a court order. It’s unclear if the 
+company will be able to help authorities intercept data on when they use 
+WhatsApp or with whom they communicate.
+
+Additionally, WhatsApp will take the unusual step for a consumer app of 
+notifying users if messages are encrypted, Marlinspike said.
+
+If several users are trading texts in a group message and one of the users is 
+running an older version of the app that doesn’t support encrypted group 
+messages, the others will be able to tell which person is causing the session 
+to remain unencrypted.
+
+This is a departure from other mainstream technology companies, which have 
+typically not highlighted security features for fear of provoking authorities 
+or irritating disinterested consumers.
+
+WhatsApp appears to be betting that three years after Edward Snowden’s 
+revelations rekindled a global debate over digital surveillance 
+<https://www.theguardian.com/us-news/the-nsa-files>, consumers do care about 
+data security as a deciding issue in which apps they will use.
+
+Telegram, a Berlin-based messaging service that has grown dramatically since 
+2013, has made similar bets as it offers privacy features. Meantime, Google and 
+Snapchat both are exploring their own encrypted messaging services.
+
+WhatsApp and Facebook representatives did not immediately return requests for 
+comment.
+
+WhatsApp began adding strong encryption as a default for some messages in late 
+2014, but it only worked for users on certain phones or in certain situations. 
+Users also did not know if the encryption was or was not engaged, making the 
+technology undependable for those most concerned about digital privacy, such as 
+human rights works, dissidents and whistleblowers.
+
+WhatsApp has spent 18 months discreetly expanding encryption throughout its 
+service.
+
+Marlinspike is a San Francisco-based developer who runs Signal, an encrypted 
+messaging app similar to WhatsApp and popular among privacy advocates. He 
+described the challenge as stark, being recruited to help WhatsApp’s 
+engineering team add complicated encryption features to a service used by one 
+billion people.
+
+The programmer said he plans to help other apps add his encryption in the 
+future, though he declined to state who he may or may not be working with. 
+“We’re going to keep doing stuff like this,” he said.
+
+There is also some irony in WhatsApp’s move given the current political debate.
+
+Marlinspike developed his encryption tools with a grant from Radio Free Asia, 
+which is funded by Congress.
+
+On Monday, Senator Richard Burr, chairman of the Senate intelligence 
+committee, said he planned to soon unveil legislation that would regulate 
+encrypted communications.
+
+In the blog post, Whatsapp acknowledged the recent controversy around 
+encryption but downplayed any political implications of its most recent update. 
+Rather, it said it was trying to protect consumers from hackers and “oppressive 
+regimes.”
+
+“All you need to know is that end-to-end encrypted messages can only be read 
+by the recipients you intend,” the company said.
+ 

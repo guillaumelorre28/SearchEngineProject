@@ -1,0 +1,60 @@
+
+Take a look at the two shapes in the image above. Imagine they were real-world 
+objects that you’d found, and you had to give them a name – one has to be 
+called ‘bouba’, and the other has to be called ‘kiki’. Which name would you 
+assign to which object?
+
+It probably makes intuitive sense to assume that the way that we map sounds 
+onto objects, with the exception ofonomatopoeias 
+<https://en.wikipedia.org/wiki/Onomatopoeia>, is arbitrary. Take the word 
+‘ball’ for example - at face value, there’s nothing obvious that links the 
+actual spherical object with the name that we’ve assigned to it. But is this 
+mapping truly, completely random?
+
+In 2001, UCSD scholars VS Ramachandran and Edward Hubbard 
+<http://cbc.ucsd.edu/pdf/Synaesthesia%20-%20JCS.pdf> asked a group of 
+participants a similar question to the one posed above, in which they had to 
+guess which of the two figures was a Martian ‘bouba’, and which was a ‘kiki’. 
+95% of those participants picked the left object for kiki, and the right object 
+for bouba, even though these were completely novel words being matched with 
+drawings that they had never seen before.
+
+What’s going on?
+
+The bouba/kiki effect actually finds its origins in much earlier work, by 
+German psychologist Wolfgang Köhler in 1929. The experimental setup was 
+essentially the same. Köhler showed people shapes similar to the ones above, 
+and asked them which was a ‘takete’ and which was a ‘malumba’. By now you can 
+guess what the majority of participants said.
+
+Ambiguous figure illusions: do they offer a window on the mind?
+ Read more  
+<https://www.theguardian.com/science/head-quarters/2016/oct/03/ambiguous-figure-illusions-do-they-offer-a-window-on-the-mind>
+Why this phenomenon occurs isn’t entirely clear, but Ramachandran and Hubbard 
+have speculated that it may be due to the nature of the connections that exist 
+between sensory and motor areas of the brain. For example, the visual shape of 
+the object - either round or spiky - is linked to the shape that our lips make 
+when we say that corresponding word - either open and rounded, or narrow and 
+wide. In turn, this is linked to the way that our tongue moves in order to 
+generate the word itself; kiki requires you to make a ‘sharp’ movement of the 
+tongue on your palate, where as bouba involves a more ‘rounded’ movement. These
+similarities <https://en.wikipedia.org/wiki/Multisensory_integration> all 
+increase the likelihood that bouba will be linked to the rounded object, and 
+kiki to the sharper, spikier object. In later work in 2003, Ramachandran and 
+Hubbard provided supporting evidence for this theory. In that paper, they found 
+that damage to an area of the brain important for language called theangular 
+gyrus <https://en.wikipedia.org/wiki/Angular_gyrus> resulted in a person being 
+much less likely to match the rounded object with the word bouba.
+
+The effect is interesting, because it helps us to shed light on the potential 
+evolutionary origins of language. The fact that so many people, andeven young 
+children 
+<http://onlinelibrary.wiley.com/doi/10.1111/j.1467-7687.2006.00495.x/abstract>, 
+tend to consistently assign a sharp word to a spiky object suggests that, at 
+least in some situations, the way that we map sounds onto objects isn’t random. 
+Instead, there’s some sort of natural constraint or system in place that helps 
+us to build those maps. And while having that sort of framework on its own 
+might not be fully sufficient for language to have originally developed, it may 
+at least have provided a building block for the emergence of verbal 
+communication.
+ 

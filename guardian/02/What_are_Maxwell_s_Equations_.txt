@@ -1,0 +1,80 @@
+
+Maxwell's Equations first appeared in "A dynamical theory of the 
+electromagnetic field", Philosophical Transactions of the Royal Society of 
+London, in 1865. These are the equations of light, the mathematical 
+relationships that showed us how to electrify our world and transmit energy and 
+information through the air.
+
+At the start of the 19th century, we lit our homes and offices with candles 
+and oil lamps. Communications took the form of handwritten letters that took 
+days to travel across the country, and several weeks across oceans. Today we 
+use electricity to power everything and radio waves to talk to each other, 
+anywhere around the world, instantaneously.
+
+The seeds of that enormous change were planted in the 1830s, when the British 
+physicist Michael Faraday built electric motors and showed that two natural 
+forces, electricity and magnetism, were related. He proposed that these forces 
+existed as "fields" that permeated space. In the latter half of the 19th 
+century, the Scottish physicist James Clerk Maxwell formulated the equations 
+that described these fields.
+
+Maxwell modelled the fields as if they were invisible fluids that filled 
+space. At each point in space, the electric field has a direction and a 
+strength that can be measured if you put something there that can feel the 
+effects of the field – an electron, say. If you could somehow measure the field 
+at every point in space, you would know how it flowed and changed.
+
+The two equations on the left in the picture show that the net flow of 
+electric (E) and magnetic (H) field out of a closed volume of space, away from 
+any electrical charges or magnetic materials, is zero. The triangle and dot 
+symbol in front of the field symbols (called the "divergence" operator) is a 
+mathematical way to measure if a field behaves as a source or a sink at a 
+specific point in space.
+
+The equation for the magnetic field (H) stays the same even when there's a 
+magnet around – think of a bar magnet, the magnetic field lines around it start 
+at the north pole and circle their way around to the south pole. And these 
+field lines will always stop and start at a magnetic object, they do not appear 
+or disappear in empty space.
+
+The equation for the electrical field (E) is slightly different, though, when 
+there are electrical charges around. A positive charge is a net source of 
+electric fields and a negative charge is a sink. In that case, the net amount 
+of field coming out of or into a volume is proportional to the charge contained 
+within it.
+
+The two equations on the right explain what happens when you move an 
+electrical or magnetic field. The "curl" operator (the triangle and x symbol in 
+combination) on the left of each equation is a way to measure a field moving in 
+a tiny circle. A changing electric field (E) produces a changing magnetic field 
+(H). And vice versa. The curly d/dts on the right measure a rate of change, a 
+tiny change in a field (E or H) divided by a tiny change in time (t).
+
+These equations are the basis of electromagnetic induction, the idea that if 
+you move a magnet near an electrical conductor (or vice versa), you generate 
+electricity. The electricity you use every day is made like this, using 
+generators that work according to these equations.
+
+Which leaves us with the letter "c" on the right side of the second two 
+equations. This is a constant with a value of about 300,000 kilometres per 
+second, which just happens to be the speed of light.
+
+Bear in mind Maxwell did not put this in there because he was studying light; 
+the number just popped out, unexpectedly, from the mathematics of the materials 
+he was studying.
+
+Maxwell had started by examining the properties of electricity and magnetism 
+and stumbled upon a much deeper truth about them: the electromagnetic field was 
+a medium for waves that, like ripples across the surface of a pond, travelled 
+at a speed "c". And the light we see is one of those electromagnetic waves.
+
+That meant there should be other electromagnetic waves. The wavelengths we can 
+detect with our eyes appear to us as colours. Shorter wavelengths of light 
+include UV and gamma rays.
+
+Longer wavelengths include heat (infra-red waves), microwaves and radio waves. 
+The latter, of course, are the communications method of the 20th century – 
+everything from radios to televisions to radar to mobile phones are based on 
+our manipulation of the electromagnetic field, as described by Maxwell's 
+equations.
+ 

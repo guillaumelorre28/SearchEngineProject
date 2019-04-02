@@ -1,0 +1,20 @@
+
+Daniel Vydra explains his experiment on the InsideGuardian blog 
+<https://www.theguardian.com/help/insideguardian/2010/mar/26/random-guardian>:
+
+
+"During a presentation yesterday about the future of news media with Clay 
+Shirky, the idea of "a chatroulette for news" was jokingly mentioned...
+
+This is the result: http://random-guardian.appspot.com 
+<http://random-guardian.appspot.com>
+
+...this is the product of about 3 hours of hacking...It was written in Python 
+<http://www.python.org/>, pulling data from our content API 
+<https://www.theguardian.com/open-platform>, and running on Google app engine 
+<http://code.google.com/appengine>."
+
+Try adding a section name at the end of the URL to see random articles from 
+today on that topic such ashttp://random-guardian.appspot.com/random/media 
+<http://random-guardian.appspot.com/random/media>. It's frighteningly addictive.
+ 

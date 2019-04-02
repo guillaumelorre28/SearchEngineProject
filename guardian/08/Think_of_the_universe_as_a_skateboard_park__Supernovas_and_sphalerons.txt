@@ -1,0 +1,137 @@
+
+Last week I spent a couple of days in Abingdon discussing particle physics, 
+and specifically where we might be headed with the high-energy collision data 
+from theLarge Hadron Collider 
+<https://www.theguardian.com/science/large-hadron-collider> (LHC) at CERN. 
+Whatever it may be remembered for in terms of celebrity deaths and politics, 
+2016 has been a great year for the LHC, with more collision data delivered than 
+ever before, at the highest energy so far.
+
+I shared a taxi from Didcot Parkway with John Ellis and Nick Mavromatos, two 
+particle theorists from King’s College London (though John has spent much of 
+his career at CERN). Whenever two or more scientists get together these days, 
+they will discuss Brexit and/or Trump. But (probably desperate to change topic) 
+we also talked about some relatively recent evidence for pieces of supernova 
+impacting the Earth about 2.5 million years ago. This article is written in a 
+similar spirit.
+
+The supernova evidence was reported on by Tim Radford in April 
+<https://www.theguardian.com/science/2016/apr/06/radioactive-debris-from-supernova-blasts-discovered-in-ocean-crust>
+, but John and colleagues wrote apaper <https://arxiv.org/abs/astro-ph/9605128> 
+in 1996 suggesting the method that was used, and he has given talks on the 
+whole area recently.
+
+The ultra-violent origins of gold
+ Read more  
+<https://www.theguardian.com/science/life-and-physics/2016/jan/16/the-ultra-violent-origins-of-gold>
+It is a marvellous fact that the heavy elements on Earth were all created in 
+violent astrophysical cataclysms, but the story of this supernova is especially 
+specific, because the actual atoms can be dated (at least statistically). An 
+isotope of iron, Fe60, was measured at a particular depth in the ocean’s crust. 
+The position in the crust sets the date, and the presence of the isotope 
+betrays the supernova.
+
+Sphalerons are very exotic, but they are a prediction of the Standard Model of 
+particle physics
+
+The word “isotope” comes from the Greek, “iso” meaning the same, and “topos” 
+meaning place, because different isotopes of the same element occupy the same 
+place in the periodic table. Atomic nuclei contain protons, with positive 
+charge, and neutrons, which are neutral. Isotopes of an element differ from 
+each other only by the number of neutrons. This has no effect on the chemical 
+properties of the element, because it is the number of protons that determines 
+the number electrons that must bind to it in a neutral atom, and the electrons 
+in turn determine the chemistry. Hence the same slot in the periodic table.
+
+The mass will be different though, and this can, with care, be measured. Also, 
+since the neutrons are important in holding the nucleus together, many isotopes 
+are unstable, and decay to lighter elements over times ranging from fractions 
+of a second, to millions of years.
+
+Iron has 26 protons, and the most stable, and therefore most common, isotopes 
+of iron have between 28 and 32 neutrons. The “60” in Fe60 is there because it 
+has 34 neutrons, making the total of neutrons plus protons equal to sixty – the 
+atomic mass.
+
+If you have a sample of Fe60, after 2.6 million years, half of it will have 
+decayed. Since the Earth is about 4.5 billion years old, any Fe60 it might have 
+started with has long gone, and the abundances measured in a specific layer of 
+the ocean crust can only have come from outer space. And they match the 
+predictions Ellis and others made for delivery from a nearby (by astronomical 
+standards) supernova, one which would have been easily visible, and perhaps as 
+bright as the moon.
+
+By particle physics standards, twenty years (1996 to 2016) between a 
+prediction and a measurement isn’t too bad. The Higgs boson took nearly 50 
+years, but the impact on physics of that discovery is still being felt. The 
+meeting in Abingdon was full of examples of this impact, and one of them 
+highlights another connection between things we can hold in our hands and 
+potentially mind-blowing physics, over timescales much longer than 50 years, or 
+even the millions of years since the supernova.
+
+Could the Higgs boson have been discovered by accident?
+ Read more  
+<https://www.theguardian.com/science/life-and-physics/2016/sep/18/could-the-higgs-boson-have-been-discovered-by-accident>
+This connection involves weird objects called sphalerons, and probably 
+explains not just how the chemical elements got here, but how the particles 
+they are made of – electrons, and the quarks inside the protons and neutrons – 
+came to be. Every time I hear about them, I need to have sphalerons explained 
+to me again, which is a sign that I don’t thoroughly understand them. But it 
+goes something like this.
+
+Sphalerons are very exotic, but they are a prediction of the Standard Model of 
+particle physics, not something beyond it. And now we know the Higgs exists, we 
+know they should exist too¹.
+
+To get an idea of what a sphaleron is, you have to think of the way we 
+describe particles, using something called ‘perturbation theory 
+<https://www.theguardian.com/science/life-and-physics/2011/oct/11/1>’. Try 
+this. Imagine the empty universe, with no energy, sitting at the bottom some of 
+some valley, say on a skateboard park.
+
+Adding a bit of energy corresponds to allowing skateboarders to zip up and 
+down the sides. If the energy is small, they will roll back down again, go up 
+the other side, and oscillate like that. These oscillations correspond to 
+particles in perturbation theory, rippling along through space-time in their 
+merry quantum way.
+
+But if you add a lot of energy, the skateboarder can zip over the wall of the 
+valley, into the next door valley on the park. That’s a sphaleron, sort of.
+
+They would have been around in the early universe, because the energy density 
+was very high then. And they seem to have played a crucial role, as follows: 
+There are various things which don’t change in perturbation theory, things that 
+are conserved. One thing, in our skateboard universe, is the average position 
+of the boarders. They spend as much time on one side of the valley as they do 
+on the other side; the average is the bottom of the valley.
+
+But if a boarder sphalerons his or her way over the wall into the next valley, 
+their average position has moved – to the centre of the next valley. The 
+conservation law has been violated. Sphalerons in the early universe violate 
+conservation laws too, and one that they violate is the number of particles². 
+They can add more quarks and leptons to the universe. This is an essential part 
+of how the stuff we are made of got here at all.
+
+So not only are many of the heavier atomic nuclei around us made in 
+supernovae, the electrons orbiting them are the result of sphalerons.
+
+I’m aware that “think of the universe as a skateboard park” is a a bit Douglas 
+Adams, but it’s the best I can do. And in difficult times, this kind of
+interconnectedness 
+<https://www.theguardian.com/science/life-and-physics/2016/jan/23/neutrinos-antimatter-and-science-as-a-holistic-detective-agency>
+ can be strangely comforting.
+
+¹We even know the energy at which they should exist – about 10 TeV. This is 
+higher than we can observe in LHC collisions, because even though these go up 
+to 13 TeV, the energy isshared between many quarks and gluons 
+<https://www.theguardian.com/science/life-and-physics/2015/feb/21/what-goes-on-inside-a-proton>
+, and so isnot all available 
+<https://www.theguardian.com/science/life-and-physics/2012/feb/18/1> for making 
+new objects, but it is not ridiculously high.
+
+² Strictly, the baryon number plus the lepton number number.
+
+Jon Butterworth <https://twitter.com/jonmbutterworth>’s book Smashing Physics 
+<https://www.theguardian.com/books/2014/may/02/smashing-physics-jon-butterworth-review-cern-higgs-boson-particle>
+is available as “Most Wanted Particle” in Canada & the US.
+ 

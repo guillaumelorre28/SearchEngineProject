@@ -1,0 +1,85 @@
+
+Intel has unveiled its next evolution of virtual-reality goggles Project Alloy 
+<https://newsroom.intel.com/chip-shots/intel-unveils-project-alloy/> for 
+so-called mixed reality, which drags real-world objects into the virtual realm 
+using 3D cameras.
+
+
+The new head-mounted display consists of a set of goggles that resemble the 
+likes of Facebook’s Oculus Rift or HTC’s Vive VR headsets, but they do not need 
+to be connected by a series of cables to a computer. Instead, they contain the 
+computing power needed to run the headset in the headset.
+
+The headset uses Intel’s RealSense cameras, which have depth-sensing 
+capabilities, to allow, without the need for additional sensors, objects such 
+as the user’s hands to be tracked and entered into the virtual world displayed 
+within the goggles. Most other VR headsets, including Sony’s upcoming PSVR, 
+require a series of cameras, sensors and accessories to be placed about a room 
+or held in the hand to enable similar functions.
+
+Intel’s chief executive, Brian Krzanich, said 
+<https://medium.com/@bkrunner/merged-reality-the-best-of-all-worlds-f6d1480b855d>
+: “Merged reality delivers virtual-world experiences more dynamically and 
+naturally than ever before – and makes experiences impossible in the real world 
+now possible.
+
+“Pick up your real-world tennis racket in your living room and step virtually 
+on to the court at Wimbledon. Be the ultimate concert master – fully unplugged. 
+Plan your virtual visit to the Sistine Chapel while never leaving the office. 
+Experience a sporting event, a concert or a film scene from any point of view – 
+and from any position.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F17%2Fproject-alloy-intel-wireless-virtual-reality-goggles%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F551ec57a4d3b9972b8ae4d03e98874ed2d18a8b4%2F65_0_833_500%2F833.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Project%20Alloy%3A%20Intel%20unveils%20new%20generation%20of%20wireless%20virtual%20reality%20goggles&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F17%2Fproject-alloy-intel-wireless-virtual-reality-goggles%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Project%20Alloy%3A%20Intel%20unveils%20new%20generation%20of%20wireless%20virtual%20reality%20goggles&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F17%2Fproject-alloy-intel-wireless-virtual-reality-goggles%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F551ec57a4d3b9972b8ae4d03e98874ed2d18a8b4%2F65_0_833_500%2F833.jpg>
+ The Project Alloy headset will not require a tether to a computer. Photograph: 
+Intel 
+Intel is keen to place itself at the heart of the next stage of VR technology, 
+having missed out on the mobile space now dominated by designsdeveloped by 
+rival ARM 
+<https://www.theguardian.com/technology/2015/nov/29/arm-cambridge-britain-tech-company-iphone>
+. The US chip giant recently pulled out of the smartphone chip market, unable 
+to gain traction after starting late and failing to meet the power efficiency 
+and capability of ARM designs made by Samsung, Qualcomm, Apple and others used 
+in billions of mobile devices world wide. It alsoannounced a deal 
+<https://newsroom.intel.com/editorials/accelerating-foundry-innovation-smart-connected-world/>
+ to manufacturer ARM designs in its plants.
+
+While Facebook’s Oculus, HTC and Google, with its Cardboard 
+<https://www.theguardian.com/technology/2015/jun/12/google-cardboard-virtual-reality-vr-headset>
+ smartphone-powered VR system, have a head start, Intel hopes itswork with 
+companies Daqri 
+<https://www.theguardian.com/technology/2016/jan/06/intel-daqri-smart-helmet-realsense-ar-augmented-reality-x-ray-glasses-ces>
+, its RealSense 3D cameras and processor technology will become essential to 
+the next generation of VR and AR systems currently in development.
+
+Intel has backing from Microsoft, which announced it will support Project 
+Alloy with its Windows Holographic system. The software is in development with 
+Microsoft’s own AR solution,Hololens 
+<https://www.theguardian.com/technology/2015/jan/21/microsoft-hololens-holograms-headset>
+.
+
+VR and AR systems, yet to go mainstream, are held back by capability, cost and 
+the social stigma displayed towards devices such asGoogle’s Glass smartglasses 
+<https://www.theguardian.com/technology/2015/jan/16/my-week-in-google-glass>. 
+This year should see more affordable yet capable systems, includingSony’s PSVR 
+<https://www.theguardian.com/technology/2016/mar/15/sony-october-playstation-vr-virtual-reality-headset>
+ andGoogle’s Daydream 
+<https://www.theguardian.com/technology/2016/may/19/google-io-2016-what-you-need-to-know-from-allo-to-daydream>
+, enter the market, attracting users put off by the high price of theOculus Rift
+ 
+<https://www.theguardian.com/technology/2016/jan/06/oculus-rift-virtual-reality-headset-finally-available-for-pre-order-at-600>
+ andHTC Vive 
+<https://www.theguardian.com/technology/2016/feb/29/htc-vive-vr-headset-price>, 
+which both require a plethora of sensors and a very powerful Windows PC to 
+power them.
+
+But given the failure of technology with similar burdens of having to wear 
+glasses or apparatus, such as 3D TV, whether VR and AR systems will become a 
+mass-market item remains to be seen.
+
+ * Google’s vision for VR: YouTube, smartphones and a ‘virtual hand’ 
+<https://www.theguardian.com/technology/2016/may/19/google-virtual-reality-headset-smartphone-youtube>
+ 

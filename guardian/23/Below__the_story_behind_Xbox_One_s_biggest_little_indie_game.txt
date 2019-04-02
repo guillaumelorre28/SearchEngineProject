@@ -1,0 +1,183 @@
+
+In the early 1980s, two computer science students Michael Toy and Glenn 
+Wichman released a program on to the University of California’s Unix mainframe 
+that would eventually inspire the most important genre in independent video 
+game development. Named Rogue: Exploring the Dungeons of Doom, Toy and 
+Wichman’s project was a fantasy adventure, in which players crept through a 
+series of visually sparse underground locations, battling monsters and 
+collecting loot. The unique aspect was that these dungeons were procedurally 
+generated, meaning that every time the player loaded up the program, the layout 
+was different. It was like playing a new game every time.
+
+Over three decades later and the roguelike genre has become a staple of the 
+indie scene. The basic elements – exploration, looting, procedurally generated 
+environments and the concept of permadeath (ie no lives: once you’re dead, the 
+game is over) – can be found informing hundreds of titles, fromSpelunky 
+<https://www.theguardian.com/technology/2012/jul/22/spelunky-games-review-xbox> 
+to Nuclear Throne to Don’t Starve.
+
+Four years ago, however, roguelike games were something of a forgotten relic, 
+an idiosyncratic offshoot of the role-playing game genre that would flourish 
+with more forgiving, visually rich titles like Final Fantasy and Legend of 
+Zelda. But it was a style of game that still intrigued a handful of designers, 
+one of whom was Kris Piotrowski, creative director at Capybara Games, the 
+Toronto studio responsible for gently subversive RPGSword and Sworcery. 
+<https://www.theguardian.com/technology/2011/apr/17/sword-and-sworcery-ipad-review>
+ Heavily inspired by the cult roguelike Dwarf Fortress, he saw the potential 
+for a new, more visually complete take on the conventions.
+ Dwarf Fortress: with its basic visuals and complex, open systems the game 
+typified the roguelike feel. Photograph: Bay 12 
+“I was really into what was then a forgotten genre,” he says. “I felt like 
+there was a whole missing type of roguelike which didn’t look like ASCII or 
+basic art. Roguelikes are generally focused on system design as opposed to 
+aesthetics; I wanted to make something that had roguelike gameplay but was also 
+pleasing to the eye. When we started the game, rogue-likes weren’t that popular 
+- it was a super original idea.”
+
+The resulting project was Below, a roguelike set on a mysterious island 
+riddled with tunnels, caverns and, of course, monsters. With minimal narrative 
+intervention, the player comes ashore from a boat and starts to explore; while 
+the surface geography is always the same, the subterranean areas are 
+procedurally generated to be slightly different each time you begin. Your 
+character carries a backpack to store useful items, and can collect various 
+plants and foodstuffs to create soups – the game’s version of classic RPG 
+potions, providing a variety of health and strength bonuses.
+
+But what first hits you about the game is its visual style. The painterly 
+environments use brush-like washes of muted colour, so that it feels like 
+you’re exploring an acrylic artwork. Importantly, the camera is zoomed right 
+out, so your character is a tiny spec amid a dark, desolate landscape.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmay%2F26%2Fbelow-xbox-one-toronto-indie-developer-capy-games%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F46be8c1b49cb14daff8c37e99f147c32ae148dd3%2F60_0_1799_1080%2F1799.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Below%3A%20the%20story%20behind%20Xbox%20One's%20biggest%20little%20indie%20game&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmay%2F26%2Fbelow-xbox-one-toronto-indie-developer-capy-games%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Below%3A%20the%20story%20behind%20Xbox%20One%27s%20biggest%20little%20indie%20game&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmay%2F26%2Fbelow-xbox-one-toronto-indie-developer-capy-games%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F46be8c1b49cb14daff8c37e99f147c32ae148dd3%2F60_0_1799_1080%2F1799.jpg>
+ Below draws the camera way out so that the character is almost a speck on the 
+landscape, symbolising your vulnerability in the world Photograph: Capy Games 
+“I was really interested in the idea of exploring small-scale aesthetics,” 
+says Piotrowski. “I was a big fan of the Pixel Junk series – games like Pixel 
+Junk Eden used the capacity of the new HD TVs but in a very different way, not 
+to show off high detail, high res 3D graphics, but to create these whole worlds 
+that you were a tiny part of.
+
+“Modern HD televisions could capture all these beautiful little details, and I 
+saw the potential for a game with a nice overhead dungeon-crawling perspective 
+but with the camera zoomed out quite a bit further, so the full level you’re 
+exploring is a single screen. That was the main idea with Below: we wanted to 
+make a single-screen roguelike. Right now, when you zoom out to 100%, each area 
+fits right into a screen – that’s how the game is broken up. It’s classic 
+Zelda, in that you explore screen by screen. We just want to make something 
+beautiful.”
+
+Adding to this visual style is the use of tilt shift photography techniques – 
+the screen even blurs a little at the edges, simulating a sort of peripheral 
+vision effect. “We’re using a genuine tilt shift,” says Piotrowski. “It’s two 
+planes and the focal plane shifts with the character. When I was researching 
+what the game should look like, I thought tilt shift photography was just the 
+neatest looking thing. When you apply it to a game, it makes you feel like 
+you’re staring at a tiny model world, it felt really natural. Also from a 
+gameplay perspective, it does focus the player a bit; it also makes you explore 
+the space. You have to come close to things to have them come into focus.”
+
+
+Along with exploration, combat is a key element. The player encounters a range 
+of weird beasts throughout the game, and there’s crafting system that lets you 
+build new weapons – but the emphasis is on keeping these intrinsic systems 
+delicate and straightforward.
+
+“We’re taking a minimal approach, we’re trying to do as little as we can with 
+it,” says Piotrowski. “You can find and use materials to create helpful things 
+like arrows, bandages and torches, but it’s a supportive system: the interface 
+is very small and the combinations are simple. I hope it just becomes part of 
+the ebb and flow of the game: you explore, fight a couple of creatures, find 
+some things, take off your backpack, play this little crafting game ... and in 
+between, you find fires, which are the only places you can cook soup. That’s 
+how the game is bookmarked. You can craft tools anywhere, through your 
+backpack, but you need to find a fire so you can sit down and prepare your 
+food.”
+
+What the game feels like then, is a quiet, almost mournful take on Don’t 
+Starve, with elements of Dark Souls, especially in its use of restorative 
+spaces where players can sit and contemplate the adventure. It looks cute and 
+playful, but just below the surface, with its player crafting and procedural 
+dungeons, it has all the clockwork systems of the genre.
+
+“I think the philosophy behind roguelikes is very interesting to explore – and 
+there’s still a lot more to draw out,” says Piotrowski. “They’re the most gamey 
+of games. They’re really about meat-and-potatoes system exploration, and I 
+think that’s fascinating. Roguelikes started out as things that were just about 
+the mechanics, the bare minimum of visual representation and everything else 
+lives in your imagination. With Dwarf Fortress, there’s so much functionality 
+in that game, so many interesting things that can happen, and the reason is the 
+aesthetics are completely pared down so you can focus entirely on system 
+design.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmay%2F26%2Fbelow-xbox-one-toronto-indie-developer-capy-games%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F01483d7b4ca6c5d5b340c4a32c44c487eb3735ea%2F128_82_1365_820%2F1365.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Below%3A%20the%20story%20behind%20Xbox%20One's%20biggest%20little%20indie%20game&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmay%2F26%2Fbelow-xbox-one-toronto-indie-developer-capy-games%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Below%3A%20the%20story%20behind%20Xbox%20One%27s%20biggest%20little%20indie%20game&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmay%2F26%2Fbelow-xbox-one-toronto-indie-developer-capy-games%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F01483d7b4ca6c5d5b340c4a32c44c487eb3735ea%2F128_82_1365_820%2F1365.jpg>
+ According to Piotrowski, Journey was a key influence on the look and feel of 
+the game Photograph: Capybara Games 
+Although Below adds visual beauty to the blueprint, it retains a key element: 
+narrative scarcity. Like Rogue, like Dark Souls, there is little in the way of 
+plot or story – players have to figure a lot out for themselves, and much of 
+this will come from reading the scenery. “There’s no narrative per se, it’s 
+more of a history,” says Piotrowski. “It’s about figuring out what the island 
+is, what it’s purpose is. It’s a very solitary experience, it’s about exploring 
+the world and finding secrets. I hope players leave the game filled with 
+interesting questions rather than expecting to find the end of a narrative arc. 
+I hope they find cool areas, or see this strange device and ask themselves 
+what’s happening here, what’s it about? The procedurally generated areas are 
+sort of the river of the game; the flow changes but there will be these ‘rocks’ 
+that are always in the same spot and once you know where things are you can 
+navigate through the randomness to the areas you’re looking for. Discovering 
+those little hidden pockets will tell you bits of the story and the history of 
+the world.
+
+“I personally love games that are about exploration - I hope this comes 
+through in Below. I hope people think, I just saw this weird rock with 
+something written on it, I have to go back and find that. It’s like the classic 
+Zelda games, the Dark Souls series: I love this kind of stuff. That’s why I’m 
+so pumped aboutNo Mans Sky 
+<https://www.theguardian.com/technology/2014/oct/28/no-man-sky-creator-we-wanted-to-build-a-universe>
+. I don’t care about anything else in that game, I just want a spaceship and 
+planets.”
+
+What’s interesting about Below is that it’s this kind of beautiful, insular 
+little experience which is being projected onto a much larger stage. The game 
+was unveiled as part of Microsoft’s Xbox One press conference at the 2013 E3 
+event, focusing mass attention on the project. Capy has been around for a 
+while, working on critically acclaimed experimental titles like Sword & 
+Sworcery andSuper Time Force 
+<https://www.theguardian.com/technology/2014/jun/24/super-time-force-review-xbox>
+, but this was a whole new level of attention.
+
+Piotrowski and his team aren’t perturbed. “With Below, it’s a little bit 
+easier for us to think about the core audience because there are some very 
+traditional things about it, even though they’re being approached in a vague, 
+mysterious convoluted way. The foundation of it is something that most gamers 
+should be able to appreciate – you still have a sword and a shield and the 
+combat is inspired by Legend of Zelda: Wind Waker. There’s a whole bunch of 
+stuff that you can bring your vocabulary and knowledge to, which will help you. 
+The game audience is much more intelligent and mature than most marketing folks 
+give them credit for.”
+
+The thing is, we’re living in an era where digital distribution and the easy 
+availability of tools have led to a huge increase in the number of game 
+releases. To Piotrowski, part of game development right now is accepting the 
+idea of appealing to a niche audience. Which is why Below can be beautiful and 
+lonely and difficult, and not cede to more conventional demands. “Something we 
+talk a lot about in the studio is the idea of making games for smaller 
+audiences,” he says, “games that aren’t for everybody – that won’t find a mass 
+market but are perfect for the people who love them. You just need to accept 
+the fact that if you’re making a strange game and you’re experimenting with 
+mechanics or aesthetics – well, that it’s OK.
+
+“It is liberating when you allow yourself to just work on a project knowing 
+that it may not be for everyone. For the people who get it, it can be really 
+special.”
+
+ * Below is released on Xbox One and PC later this summer
+ 

@@ -1,0 +1,101 @@
+
+What on earth qualified me to judge the Turing test 
+<https://www.theguardian.com/technology/2014/jun/09/what-is-the-alan-turing-test>
+, thegold standard for artificial intelligence 
+<https://en.wikipedia.org/wiki/Turing_test> (AI)? I’ve been sceptical – but I 
+hope open-minded – about the whole idea for years. But then, I am human 
+(mainly). I did write a short biography of Alan Turing himself. And it was 
+Turing, in 1950, who first suggested a mathematical proof that computers would 
+one day assume a kind of humanity.
+
+What is the Turing test? And are we all doomed now?
+ Read more  
+<https://www.theguardian.com/technology/2014/jun/09/what-is-the-alan-turing-test>
+Public interest in this isn’t just down to rising interest in Turing himself. 
+The test he set out is the basis for the controversial idea of “singularity”, 
+the moment when AI comes of age and computers start thinking and learning for 
+themselves.
+
+Turing said that, when you were convinced you couldn’t tell the computer and 
+human apart during a conversation, then the test would have been passed.
+
+No computer program seemed close to passing so, in 1990, the inventor Hugh 
+Loebnerfounded the prize <http://www.loebner.net/Prizef/loebner-prize.html> 
+that bears his name, a kind of Turing test lite. This culminates in the top 
+four computer programs talking to the judges individually via a screen for 25 
+minutes each, while each judge is simultaneously having a conversation with a 
+human. At the end of each session, the judges have to decide which was which.
+
+I felt surprised, but hugely privileged, to be asked to be one of four judges 
+last weekend, and presented myself fashionably late at Bletchley Park, where 
+the Loebner prize has been held in recent years (it began in Massachusetts), 
+and where Turinghelped crack the Nazi Enigma code 
+<https://www.theguardian.com/world/2015/jul/29/bletchley-park-codebreakers-first-world-war-exhibition>
+.
+
+The other judges included a branding expert, a Sky News technology journalist 
+and a robotics expert describing herself as a “robot psychiatrist 
+<http://www.robot.md/>”.
+
+I had a moment of nerves a few minutes into the process when my fellow judges 
+made noises to indicate they knew which was which in their conversations, and I 
+was not completely sure about mine (I was in fact engaged with this year’s 
+winner, Steve Worswick’sMitsuku program <http://www.mitsuku.com/>).
+
+In the event, one of the four programs was malfunctioning, spouting stuff 
+about not understanding the letter “a”. That left three, and it became clear to 
+me pretty quickly that the sheer perfection of the answers from the robots – 
+perfectly spelled and grammatical – gave them away. The real humans 
+demonstrated their authenticity by their imperfections, second thoughts, 
+hesitations and mis-typings.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fsep%2F22%2Frobots-pass-humans-turing-test-loebner-prize%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fa7b00436669378348736d41fb7e92f154b1313be%2F0_124_3778_2268%2F3778.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=What's%20the%20difference%20between%20robots%20and%20humans%3F%20It's%20my%20newt%20%7C%20David%20Boyle&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fsep%2F22%2Frobots-pass-humans-turing-test-loebner-prize%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=What%27s%20the%20difference%20between%20robots%20and%20humans%3F%20It%27s%20my%20newt%20%7C%20David%20Boyle&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fsep%2F22%2Frobots-pass-humans-turing-test-loebner-prize%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fa7b00436669378348736d41fb7e92f154b1313be%2F0_124_3778_2268%2F3778.jpg>
+ Films about Alan Turing such as The Imitation Game in 2014 starring Benedict 
+Cumberbatch have fuelled interest in the codebreaker who pioneered artificial 
+intelligence. Photograph: Black Bear Pictures/Sportsphoto Ltd./Allstar 
+One program reflected back my own mistakes – I wrote “tecah” instead of 
+“teach” – which was clever but not quite human either. Nor, in the end, was the 
+program we all judged the best shot, which required a strategy for avoiding 
+questions it couldn’t answer. When I asked which part of San Francisco it came 
+from, the robot replied: “Why don’t we talk about that later?” But then, 
+arguably, my question wasn’t really fair either – it would have been like 
+asking how many sandwiches were left in their room (I asked that and was told 
+later that it was “borderline sneaky”).
+
+We judges needed strategies too. I asked about loving and hating the same 
+person at the same time, an idea I thought might be alien to robots. I also 
+told the old cracker joke about why French people have only one egg at 
+breakfast (answer: because one is un oeuf).
+
+One of the robots told me the joke about Tiny the newt (why is it called Tiny? 
+Because it’s my newt). I asked why it was funny. It sidestepped the question.
+
+The programs we talked to were huge achievements. Their non sequiturs and 
+rapid changes of subject certainly seemed human in a Pinter-esque way. But in 
+the end, they were trying to trick us into thinking they were human rather than 
+communicating on an equal basis.
+
+The experience has convinced me that AI is not going to produce thinking 
+robots any time soon, and I have a feeling that by the time they have cracked 
+the human question, we will have changed it.
+
+It isn’t the infallibility of people that makes them human, after all. Quite 
+the reverse; it is their sheer fallibility – their ability to make mistakes, be 
+quirky, make relationships, love and care. It is more unnerving, not more 
+reassuring, to be phoned by a robot that is nearly human than it is to be 
+phoned by an obvious machine.
+
+It may be that computers will be able to do all that one day, but I noticed 
+that I had built some kind of relationship with all four human beings I talked 
+to through a screen, but not with any of the robots, though we had talked just 
+as much.
+
+In the meantime, I tend to fall back on the CS Lewis maxim: “When you meet 
+anything that is going to be human and isn’t yet, or used to be human once and 
+isn’t now, or ought to be human and isn’t, you keep your eyes on it and feel 
+for your hatchet.”
+ 

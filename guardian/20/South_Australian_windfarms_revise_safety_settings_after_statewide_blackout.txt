@@ -1,0 +1,90 @@
+
+Several windfarm operators in South Australia have already revised their 
+settings to allow them to ride through larger network disruptions, following t
+he storm in September that caused a statewide blackout 
+<https://www.theguardian.com/australia-news/2016/sep/28/south-australia-braces-for-storm-that-could-be-most-severe-in-50-years>
+, according to an update by the Australian Energy Market Operator (Aemo).
+
+New information released by Aemo on Wednesday morning reveals nine of 13 
+windfarms in the state “tripped” after freak winds blew over several major 
+transmission lines in the state.
+
+The loss of the power lines caused six “voltage disturbances” in the network. 
+Generators, including windfarms, have safety settings which automatically 
+disconnect from the grid when there are more than a set number of such 
+disturbances.
+
+It appeared almost a third of the state’s windfarms had settings that allowed 
+them to ride through the six disturbances, as did all the state’s thermal 
+generators.
+
+Aemo said it was working with both windfarm operators and turbine 
+manufacturers to better understand these “voltage ride-through” settings.
+
+South Australia's blackout explained (and no, renewables aren't to blame)
+ Read more  
+<https://www.theguardian.com/australia-news/2016/sep/29/south-australia-blackout-explained-renewables-not-to-blame>
+“Several windfarms have already implemented revised settings, allowing them to 
+ride through a higher number of disturbances,” Aemo saidin a statement 
+<http://www.aemo.com.au/Media-Centre/Update-to-report-into-SA-state-wide-power-outage>
+.
+
+When the nine windfarms disconnected, they removed 445 MW of generation from 
+the network, causing a surge of power to be drawn from the Heywood 
+interconnector with Victoria. That caused another automatic safety trip, 
+shutting down the interconnector. In turn, that caused trips at the state’s 
+thermal generators, resulting in the statewide blackout.
+
+The new information was sure to reignite a campaign being launched against 
+renewable energy.
+
+Energy expert Dylan McConnell, from the Melbourne Energy Institute, told 
+GuardianAustralia <https://www.theguardian.com/weather/australia> it was likely 
+windfarms needed more conservative “voltage ride-through” settings than coal or 
+gas generators.
+
+But he said the fact that a number of windfarms did ride through the event 
+suggested their disconnection from the grid inSouth Australia 
+<https://www.theguardian.com/australia-news/south-australia> was not a 
+fundamental issue with wind power, but rather an issue with the choice of 
+settings.
+
+However, McConnell said the voltage disruptions were very severe, and 
+potentially big enough to cause damage to generators that remained connected.
+
+The report noted that voltage levels were usually required to be maintained 
+within 10% of a line’s rating. “If voltage levels are not maintained within 
+this range, damage can occur to the network or customer-connected equipment, 
+and power system protection equipment might not operate correctly,” it said.
+
+But three of the disruptions ahead of the blackout involved voltage dropping 
+to 60% below the line’s rating.
+
+McConnell said: “There are obviously questions about whether the preset limit 
+(for voltage ride-through) was too conservative. But there is also a question 
+of whether it [is] reasonable to think that a generator should ride a voltage 
+collapse all the way down.”
+
+McConnell also pointed out that if South Australia had fewer windfarms, this 
+particular event was likely to have played out exactly the same way.
+
+The large number of windfarms in the state was a factor in the shutting of the 
+Northern coal-fired power generator in Port Augusta. If that generator was 
+still running, it would have been cut off from the grid by the downed power 
+lines, creating a similar disruption to the tripped windfarms.
+
+“Yes, if there was gas generator or coal generator in Adelaide 
+<https://www.theguardian.com/australia-news/adelaide>, then yes it might have 
+ridden through the fault. But if you’re comparing the current situation to one 
+where there was a coal generator in Port Augusta, you would have had a 
+significant loss of generation,” he said.
+
+McConnell said although the storm was a freak event, the resulting analysis 
+could help network operators, market operators and policymakers create a more 
+robust network.
+
+“There’s a question about having a diversity of renewable energy resources,” 
+he said.
+
+Aemo was continuing to investigate the event.
+ 

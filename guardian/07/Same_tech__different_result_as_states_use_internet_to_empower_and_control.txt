@@ -1,0 +1,131 @@
+
+Expectations that the internet would automatically unlock equality and 
+democracy in developing nations may have been utopian but the web can still be 
+a powerful accelerator of change if combined with traditional pillars of 
+development such as a favourable business climate and good governance.
+
+This was the conclusion drawn by a group of World Bank experts who examined 
+the potential and limitations of the internet 
+<https://www.theguardian.com/technology/2016/jan/13/internet-not-conquered-digital-divide-rich-poor-world-bank-report>
+ in a recent report,Digital Dividends 
+<http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2016/01/13/090224b08405ea05/2_0/Rendered/PDF/World0developm0000digital0dividends.pdf>
+.
+
+Can democracy spread at the push of a button? | Stephen Abbott Pugh
+ Read more  
+<https://www.theguardian.com/global-development/datablog/2016/feb/24/can-democracy-spread-data-monitor-governments-africa>
+“I don’t think we should be disappointed. I think the hype was too much. We’ll 
+get lots of the benefits but it will not take five years, but 50 years,” said 
+Deepak Mishra, one of the co-authors of the report.
+
+Because the internet first emerged and took hold in developed countries, where 
+governments were already quite accountable and education was relatively 
+widespread, it was heralded as an accelerator of growth and creator of jobs.
+
+“There was this optimism that the same would happen in developing countries 
+but some developing countries did not have … the same levels of education, they 
+did not have regulations that create competition and allow entry of new 
+businesses, they did not have such accountable governments, so it needs more 
+work,” said Mishra.
+
+“The internet is an amplifier,” says Uwe Deichmann, another co-author. 
+
+“If you have a willing government, the internet can make it more efficient and 
+improve service delivery in all areas. What we haven’t seen so much is the 
+internet managing to make unwilling governments more accountable,” he said.
+
+Perhaps surprisingly, the spread of the internet has coincided with a decline 
+in what might be termed pure democracy. But while tech is clearly not a 
+guarantor of fair elections, there is some correlation between tech-friendly 
+societies and credible polls, says Mishra.
+The spread of democracy 
+<https://interactive.guim.co.uk/uploader/embed/2016/02/democracy-spread/giv-271678ZowXKyAyv0R>
+“If you look today, there are more democracies in the world … but the number 
+of elections that are free and fair has actually declined. So [countries] are 
+becoming nominal democracies … The elections are more sham, but if you look at 
+the countries that are using tech in normal day-to-day life, they tend to have 
+more credible elections,” he said.
+
+Both autocratic and democratic governments often embrace new technology, just 
+for very different reasons. There is, of course, an economic imperative to be 
+online.
+
+“The autocratic regimes are using [the internet] more to control citizens and 
+increase surveillance 
+<https://www.theguardian.com/technology/datablog/2012/apr/16/internet-censorship-country-list>
+, while democratic countries are using it more to empower citizens. It’s the 
+same tech but it can have a completely different effect, depending on the 
+accountability of the government,” Deichmann said.
+
+Governments know they cannot ignore the web because that would isolate them 
+from the global information economy. As a result, some have become more 
+sophisticated in calibrating their control.
+
+Despite these efforts, the world is likely to still experience a turbulent 
+period because of the spread of information via the internet, Mishra says.
+
+
+“We think in the next few years, we will have more Arab springs because people 
+have access to information and they are not seeing the changes, because the 
+politicians are unwilling to give citizens political space to become more 
+empowered,” he said, adding this would continue until a new equilibrium was 
+reached with politicians becoming reconciled to the digital age.
+
+Another issue is that millions of people are still living outside the grid 
+<https://www.theguardian.com/global-development/2016/feb/22/secret-formula-bridging-digital-divide-1-for-2-alliance-for-affordable-internet-access>
+.
+Access to ICT 
+<https://interactive.guim.co.uk/uploader/embed/2016/02/technology-access/giv-27167Zz99kRzGTEFT>
+While the number of internet users has more than tripled over a decade – from 
+1 billion in 2005 to an estimated 3.2 billion at the end of 2015 – billions 
+more remain shut out: some 4 billion people do not have any internet access, 
+nearly 2 billion do not own a mobile phone, and almost half a billion live 
+outside areas with a mobile signal.
+
+
+With nearly one fifth of the world’s population unable to read and write 
+<http://www.worldbank.org/en/news/press-release/2016/01/13/digital-technologies-huge-development-potential-remains-out-of-sight-for-the-four-billion-who-lack-internet-access>
+, it is clear that the spread of digital technology alone will not be enough to 
+bridge the global knowledge divide.
+
+In developed economies, the internet can bring formerly marginalised groups in 
+from the cold. But this can only happen if pre-existing biases – such as lack 
+of education and low income – are eradicated. For the most vulnerable, the net 
+can actually increase isolation by replicating real-world exclusion.
+
+When online voting was used in a ballot on municipal budget proposals in 
+Brazil’s Rio Grande do Sul state, voter turnout increased by eight percentage 
+points, but there were biases, the World Bank report showed.
+
+Democrats v autocrats in Africa: is there a winning formula? – podcast
+ Read more  
+<https://www.theguardian.com/global-development/audio/2016/feb/25/democrats-autocrats-africa-winning-formula-uganda-podcast>
+“With the ability to vote over the internet, there is higher participation 
+certainly but that participation is very strongly biased to those who are 
+already better off, more educated, more connected and richer,” said Deichmann, 
+noting this can be overturned if the authorities invest in education for the 
+most marginalised.
+
+Despite the limitations, technology can and has delivered real gains: nearly 
+900 million Indians have been issued withdigital IDs 
+<http://articles.economictimes.indiatimes.com/2016-01-14/news/69765565_1_world-bank-group-aadhaar-identification-system>
+ in the past five years. This has enabled them to open bank accounts, as well 
+as allowing the government to monitor attendance of civil servants and identify 
+recipients of subsidies, the report said. In Nigeria, the advent of e-IDs led 
+to the unmasking of 62,000 “ghost workers 
+<http://www.chronicle.co.zw/nigeria-to-probe-civil-servants-over-salary-scam/>
+”, ultimately saving the state $1bn annually.
+
+
+For Deichmann, the real tech revolution will be piecemeal: “You have to start 
+small – start with connectivity, and simple services that are not controversial 
+for governments, like SMS reminders to take medicine … things that governments 
+cannot object to, and then you gradually build up and once you have 
+connectivity generally and build this new generation that is used to doing 
+things online … You will gradually be able to push governments more and more.”
+
+
+For those hoping for a digital quick-fix to decades of corruption, unfair rule 
+and exploitation in Africa, he is clear: “We really have to fix the 
+institutions before we can leverage the technology.”
+ 

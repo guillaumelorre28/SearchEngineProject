@@ -1,0 +1,104 @@
+
+Even rocket scientists, I would wager, are befuddled by airline pricing. One 
+minute, a flight you’re looking at costs £400; 30 seconds later it has 
+increased by £100. Panic sets in; you buy a ticket before it ascends out of 
+your price range.
+
+I experienced this fluctuation frustration recently while trying to buy a 
+ticket home to London from New York for Christmas. After about a gazillion 
+visits to British Airways’ website, I decided finally to book something. 
+Immediately, the price went up. That’s OK, I thought, trying to console myself. 
+I read on Twitter thatLondon has gone all Islamic 
+<http://www.huffingtonpost.co.uk/entry/us-author-london-islamic-prompts-hilarious-twitter-backlash_uk_584559d5e4b061fb97e6091b>
+ anyway and Christmas has been banned. Probably nothing to go home to any more, 
+just ritual stonings and sharia. Then I remembered a rumour that clearing your 
+browser cookies could get you a cheaper flight. I gave it a go and, voila,the 
+flight reverted to its earlier, cheaper price 
+<https://twitter.com/ArwaM/status/805490795872710656>.
+
+The thinking behind the cookies trick is that airlines can tell from your 
+browser history when you’re particularly interested in a flight – and thus 
+willing to pay a higher price – and take advantage of this. Whether this is 
+true is known only to a few (whenthe Guardian asked BA about this in 2010 
+<https://www.theguardian.com/money/blog/2010/aug/07/computer-cookies-booking-online>
+, it said it didn’t use cookies in this way). What is clear, however, is that 
+airlines – and many other companies – are increasingly moving towards 
+“personalised pricing”. Sometimes called “differential pricing” or “price 
+discrimination”, this means charging customers different prices for the same 
+product based on how much they think people are willing to pay.
+
+Price discrimination, to be clear, is not the same as “dynamic pricing”. 
+Airlines have practised dynamic pricing for a long time: there are a set number 
+of prices available, and you get a different fare based on factors including 
+when you book and the availability of seats on the flight. Prices, however, are 
+starting to get more personal. In 2014, a US regulator approvedan industry-wide 
+system 
+<https://verdict.justia.com/2015/05/13/personalized-pricing-in-the-air-why-consumers-should-be-wary-of-a-new-airline-pricing-proposal>
+, the implementation of which started only recently, that allows airlines and 
+travel agencies to collect personal data – information such as marital status, 
+address and travel history – and use that data to offer you “more agile pricing 
+and more personalised offerings”. So, if an airline can see that you live in a 
+fancy neighbourhood and regularly fly business-class, it may offer you a higher 
+fare than it would someone whom it believes is more price-sensitive. As 
+technology grows more sophisticated, companies may be able to serve you higher 
+prices based on factors such as your emotional state.
+
+Businesses are already using customised pricing online based on information 
+they can glean about you. It is hard to know how widespread the practice is; 
+companies keep their pricing strategies closely guarded and are wary of the bad 
+PR price discrimination could pose. However, it is clear that a number of large 
+retailers are experimenting with it. Staples, for example,has offered 
+discounted prices based on whether rival stores are within 20 miles of its 
+customers’ location 
+<http://www.wsj.com/articles/SB10001424127887323777204578189391813881534>. 
+Office Depothas admitted to using its customers’ browsing history 
+<https://books.google.co.uk/books?id=A0W_BAAAQBAJ&pg=PA158&lpg=PA158&dq=office+depot+browsing+history&source=bl&ots=rwxvP0OKrE&sig=LQbC0LmkrgnvTyVS1g7PYN7laaY&hl=en&sa=X&ved=0ahUKEwiv7LnWk-DQAhUkCMAKHT1dAMgQ6AEISTAI#v=onepage&q=office%20depot%20browsing%20history&f=false>
+ and location to vary its range of offers and products.A 2014 study from 
+Northeastern University 
+<http://www.northeastern.edu/news/2014/10/ecommerce-study/> found evidence of 
+“steering” or differential pricing at four out of 10 general merchandise 
+websites and five out of five travel websites. (Steering is when a company 
+doesn’t give you a customised price, but points you towards more expensive 
+options if it thinks you will pay more.) The online travel company Orbitz 
+raised headlines in 2012 when it emerged that the firm waspointing Mac users 
+towards higher-priced hotel rooms than PC users 
+<http://www.wsj.com/articles/SB10001424052702304458604577488822667325882>.
+
+Price discrimination doesn’t happen only online. Supermarkets have used 
+personalised pricingbased on information gleaned from loyalty cards and 
+shopping habits 
+<https://www.bloomberg.com/news/articles/2013-11-14/2014-outlook-supermarkets-offer-personalized-pricing>
+. Broadly speaking, economists tend to think of price discrimination as a good 
+thing for businesses and customers. Essentially, it is algorithms robbing from 
+the rich to subsidise the poor, all while growing a company’s market.
+
+There is the potential for this to go further still and for customised pricing 
+to help reduce some of the inequities in society. In Finland,speeding tickets 
+are linked to income 
+<https://www.theguardian.com/news/datablog/2015/mar/04/finland-speeding-progressive-punishment-motorist-fine>
+, a system known as progressive punishment. Could we not have progressive 
+pricing, a system where the cost of necessities such as bread and milk is 
+linked to your ability to pay for them?
+
+However, it seems more likely that companies will exploit the increasing 
+amounts of data they have about us to our detriment. Take Uber, for example. 
+Its much-hated “surge pricing” is an example of dynamic pricing: prices change 
+according to supply and demand. They don’t change according to how desperate 
+you, as an individual, are to get a cab, but this may not be the case for long. 
+Uber knows a hell of a lot about you – including, for example, how low the 
+battery is on your phone. It also has data that shows people are more likely to 
+pay surge pricing when their phone battery is low. “We absolutely don’t use 
+that ... but it’s an interesting kind of psychological fact of human behaviour,”
+a behavioural economist at Uber said 
+<http://www.npr.org/templates/transcript/transcript.php?storyId=478266839> 
+earlier this year. This may be true, but why do you think Uber employs 
+behavioural economists? It is not simply to marvel at the psychology of human 
+behaviour.
+
+As airlines become more adept at gathering and exploiting data, I shudder to 
+think what “interesting facts” of human behaviour they will start to factor 
+into their pricing strategies. Fares will stop being linked to variables such 
+as seats already sold and start fluctuating according to how many times your 
+mum has texted you to ask if you’ve bought your ticket yet, and how guilty you 
+feel that you haven’t. Good luck trying to clear your cookies to fix that.
+ 

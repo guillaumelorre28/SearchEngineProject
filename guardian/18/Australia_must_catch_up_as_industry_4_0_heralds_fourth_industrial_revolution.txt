@@ -1,0 +1,151 @@
+
+The Swiss town of Davos might seem like an unlikely place for a revolution but 
+that was the hot topic for those there to attend theWorld Economic Forum  
+<https://www.theguardian.com/business/davos>last month.
+
+“We stand on the brink of a technological revolution that will fundamentally 
+alter the way we live, work and relate to one another,”wrote the economist, 
+engineer and founder of the World Economic Forum, Klaus Schwab 
+<http://www.weforum.org/agenda/2016/01/the-fourth-industrial-revolution-what-it-means-and-how-to-respond>
+. “In its scale, scope, and complexity, the transformation will be unlike 
+anything humankind has experienced before.”
+
+Dubbed the fourth industrial revolution or industry 4.0, it is a term to 
+describe a world in which machines interact and respond intelligently to the 
+physical environment. The Internet of Things, artificial intelligence and data 
+science are current technologies that will play major roles in the revolution.
+
+“What people can start expecting is a more responsive environment,” says Kevin 
+Bloch, the chief technology officer at the tech company Cisco Australia. “It’s 
+responsive because we’re measuring and collecting data then making decisions on 
+that data to change the actual city itself.”
+
+Bloch says people monitoring real-time traffic conditions on Google Maps, 
+technology that’s already readily available, is an early and small example of 
+responsive technology. With computers integrated into every piece of physical 
+infrastructure, machines adapt to human behaviour and physical conditions to 
+provide convenience, feedback and efficiency.
+
+An emerging example is traffic lights automatically adjusting to divert 
+vehicles to less congested areas. Human behaviour feeds into machines, machines 
+respond and human behaviour is altered – a system that Bloch calls a “closed 
+loop”.
+
+“Today we’re in very much an open loop – something happens, a human makes a 
+decision and that’s it,” he says. “In the future, we’re moving to what I call a 
+closed loop environment, where the human will have data coming to it telling 
+you – don’t go this way, go that way, or panic, somebody’s just died over here 
+– all sorts of things can start coming to you without actually humans 
+intervening in it.
+
+Davos 2016: it's time to talk about gender inequality
+ Read more  
+<https://www.theguardian.com/women-in-leadership/2016/jan/28/davos-2016-its-time-to-talk-about-gender-inequality>
+“You go to watch a sports game. Because there are 70,000 people all going to 
+the one stadium, the cost of parking will dynamically go up.
+
+“At the end of that afternoon, because it knows that people are leaving, the 
+cost of parking will dynamically drop.
+
+“The actual city itself starts telling you [how to optimise] rather than you 
+just blindly doing what you’ve been doing for the last 100 years.
+
+“That’s what they call cognitive systems, autonomous intelligence or 
+artificial intelligence, which starts making the city even smarter than, 
+perhaps, humans are.”
+
+Energy consumption and pollution are ripe for reduction with responsive 
+technology. For example, smart street lights would intelligently work out the 
+number of people in close proximity and what they’re doing to adjust how much 
+illumination is required.
+
+Driverless cars would drive with efficiency unmatched by humans, who have 
+pesky tendencies to accelerate fast, brake hard, lose concentration and be 
+distracted by the children.
+
+At home, plants would receive exactly the correct amount of water needed, with 
+the pot keeping track of the state of the soil, atmospheric conditions and time 
+of day. Water wastage would be minimised with an entire city of smart plants.
+
+There are already examples of smart cities around the world that demonstrate 
+the fruits of the fourth industrial revolution. Barcelona’sCityOS 
+<http://ibarcelona.bcn.cat/en/o-government/city-os> technology platform 
+constantly uses real-time data feedback from the urban environment to regulate 
+resources energy consumption, water use and waste management. South Korea’s
+Songdo <http://songdoibd.com/> business district was created from scratch to 
+have intelligence built into all its infrastructure.
+
+But, Bloch says, Australian cities need to “giddy-up” to compete 
+internationally, with bureaucracy and inertia threatening innovation.
+
+“It’s a people and business model problem,” he says. “That is why it takes a 
+bit more time. For example, in Sydney, who wants the problem? Who’s going to 
+lead?
+
+“What we’re finding is, actually, the people who are running ahead of the 
+small councils and who are more autonomous and can make decisions, likeAdelaide 
+<https://www.theguardian.com/australia-news/adelaide> for example, made 
+decisions quite quickly and pulled their various people together.”
+
+Cisco, as part of its push for smart cities, designated Adelaide a “lighthouse 
+city” 
+<http://www.theleadsouthaustralia.com.au/industries/technology/cisco-names-adelaide-as-first-lighthouse-city-in-australia/>
+ last year. Adelaide city officials and businesses now have access to resources 
+from the tech company to accelerate the automation of urban infrastructure.
+
+With the government’s blessing, the private sector has been actively deploying 
+responsive technology in Adelaide. The US firm Sensity has piloted 
+sensor-enabled parking and smart street lighting, while Australian internet 
+provider iiNet will roll out public Wi-Fi. In November,Cisco opened a Smart 
+City Studio 
+<http://www.iothub.com.au/news/cisco-launches-smart-city-studio-in-adelaide-412336>
+ in the heart of the central business district that will “identify and generate 
+commercial opportunities ... and support their endeavours to build compelling 
+smart city solutions”, according to Adelaide city council.
+
+At the CSIRO, a group of industry 4.0 experts are excited about the 
+possibilities for Australia.
+
+Dr Elliot Duff, a product program manager at the CSIRO, compares the way his 
+field of expertise, robotics, has changed with the arrival of the fourth 
+industrial revolution.
+
+“The new generation of manufacturing, which is the agile manufacturing of the 
+future, is about mass customisation rather than mass production,” Duff says. 
+“You’re not building the same thing over and over again. You may even be 
+building one-offs.”
+
+A senior research scientist at the CSIRO, Nico Adams, says customised and 
+intelligent manufacturing is an issue for all industries and lessons learnt 
+from the multinationals could help small to medium-sized Australian businesses 
+grappling with industry 4.0.
+
+“We found very, very similar problems replicated no matter where we looked,” 
+Adams says. “That led us to take a more general look into how Australian 
+companies use ICT [information and communications technology] in their 
+business.”
+
+We can’t allow the tech giants to rule smart cities
+ Read more  
+<https://www.theguardian.com/commentisfree/2015/oct/25/we-cant-allow-the-tech-giants-to-rule-smart-cities>
+There could be drawbacks to the revolution. Just as previous industrial 
+revolutions provoked fear about loss of jobs to technology, deterioration in 
+human relationships, urban decay and environmental degradation in the 19th 
+century, similar anxieties are also stoked by the fourth industrial revolution.
+
+Schwab warns that “inequality represents the greatest societal concern 
+associated with the fourth industrial revolution” as the biggest beneficiaries 
+are the ones with contributing “intellectual and physical capital – the 
+innovators, shareholders, and investors”. Those purely providing labour may 
+find themselves dispensable and vulnerable.
+
+Surprisingly, technology executive Bloch says all the worries are justified.
+
+“We should fear it,” he says. “Because if you don’t fear it, then you do 
+nothing about it. You get complacent and then, all of a sudden, you get 
+surprised. It’s a healthy paranoia.
+
+“Inform people that this is happening and it’s got major implications. Maybe 
+not tomorrow but over the next 10 years it’s got major implications – it 
+doesn’t matter who you are or what you do.”
+ 

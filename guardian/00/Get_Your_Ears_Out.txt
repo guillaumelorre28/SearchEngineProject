@@ -1,0 +1,13 @@
+
+http://london.musichackday.org/index.php?page=7digital+and+Guardian+news+mashup
+ 
+<http://london.musichackday.org/index.php?page=7digital+and+Guardian+news+mashup>
+"About the hack - A website plugin to provide relevant 7digital MP3 streaming 
+and Guardian Music News to users. The plugin searches for known music artists 
+within any website's content, and adds links to streaming MP3 and Music News 
+content via a little overlay box.
+
+Why did you create it? - To test out the 7digital and Guardian news APIs, and 
+build something that may be useful to users, and to website owners as an easy 
+way to integrate 7digital MP3 links, potentially a nice revenue generator!"
+ 

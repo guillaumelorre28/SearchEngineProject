@@ -1,0 +1,102 @@
+
+If technology companies have their way, the buzz of a drone will soon be as 
+ubiquitous as the glint of a smartphone screen. Facebook aims to deliver 
+internet access fromdrones high in the stratosphere 
+<https://www.theguardian.com/business/2016/jul/21/facebook-solar-powered-internet-plane-test-flight-aquila>
+, Google wants to drop piping hot food at your door via quadcopter, and Amazon 
+has just patented a shoulder-mounted drone to help police officers.
+
+
+Today’s commercial drones carry lightweight radios and cameras, and pack 
+powerful lithium ion batteries whose flight times last minutes rather than 
+seconds.
+
+But that is nothing compared to what could be coming soon. The change that 
+Silicon Valley is working towards, and that many people fear, is drones 
+harnessing the growing power of automation and artificial intelligence. When 
+drones no longer need humans to control them, their usefulness will improve 
+exponentially.
+
+How drones are sparking a transport revolution – in pictures
+ Read more  
+<https://www.theguardian.com/sustainable-business/gallery/2016/jun/25/drones-transport-revolution-dominos-amazon-deliveries-aid-drops>
+Deliveries of small packages, medicines and takeaway food, all of which have 
+already happened, are only the tip of the iceberg. Why put up scaffolding to 
+paint your house when an intelligent drone could do it in a flash? Drones could 
+swarm into agriculture, industry and sports. They could hunt for missing 
+hikers, respond to burglar alarms, and act as mobile speed cameras. Uber thinks 
+that autonomous drones will one day even transport people around cities.
+
+What’s holding drones back?
+
+Such is the hype. But for every tech company with its head in the clouds, 
+there are problems to bring them back down to earth. “There are big technical 
+challenges,” says Ryan Calo, a law professor at the University of Washington. 
+“There’s a bunch of PhD theses that need to be completed before you can build a 
+drone to autonomously police an area, find intruders, and use facial 
+recognition to know who is meant to be there. Plus, having these things stay 
+aloft beyond a few minutes is non-trivial.”
+
+The problems get larger still when you think of a drone having to avoid 
+obstacles: weather, birds, manned aircraft and all the other drones zipping 
+around. Nasa isdeveloping 
+<http://www.nasa.gov/feature/ames/first-steps-toward-drone-traffic-management> 
+an automatic low altitude air traffic control system called UTM but is not due 
+to complete its research until 2019. Any real-world deployment of such a 
+network is still many years off.
+
+In the meantime, there is growing tension between drone enthusiasts who want 
+flying robots filling our skies, and some regulators, pilots, politicians and 
+the public who are less than excited at the prospect. New rules this summer 
+from America’s Federal Aviation Administration (FAA), calledPart 107 
+<https://www.faa.gov/news/fact_sheets/news_story.cfm?newsId=20516>, made it 
+easier for commercial drone users to get airborne but stopped short of giving 
+comprehensive guidance.
+
+“Privacy is the biggest unanswered question,” says Arthur Holland Michel, 
+director of the Centre for the Study of the Drone at Bard College, in New York. 
+“The FAA has no hard rules relating to privacy or data collection and use, nor 
+does it have any rules regarding overflights of private property.” While the 
+federal government dithers, some American states and cities have passed their 
+own laws, creating a patchwork of legislation that could frustrate future 
+commercial services.
+
+Drones and the transport revolution
+ Read more  
+<https://www.theguardian.com/sustainable-business/ng-interactive/2016/nov/16/drones-and-the-transport-revolution>
+There is also uncertainty about when or even whether hi-tech operations, 
+including flights without human operators, will be allowed. “At the end of the 
+day, I just don’t know whether or not the FAA has the internal expertise to 
+sign off on some of the more interesting uses,” says Calo.
+
+
+Which country is leading on drones?
+
+Little surprise, then, that some of the world’s biggest tech companies are 
+testing their drones elsewhere. Last month, Amazon founder Jeff Bezos told a 
+conference in Seattle: “We’re getting really good cooperation from the British 
+equivalent of the FAA, the CAA [Civil Aviation Authority]. It’s incredible. 
+It’s really cool.” Amazon isdeveloping and testing its Prime Air delivery drones
+ 
+<https://www.theguardian.com/technology/2016/jul/25/amazon-to-test-drone-delivery-uk-government>
+ in the fields around Cambridge.
+
+Despite the UK’s enthusiasm for Amazon 
+<https://www.theguardian.com/technology/amazon>, and similarly permissive test 
+flights elsewhere in Europe, Canada and Australia, “no single country stands 
+out as being aeons ahead of everyone else,” says Holland Michel. “Though they 
+may vary on the details, all countries are grappling with the same concerns. 
+The deciding factor will be how flexible and responsive their regulations are.”
+
+Public opinion will also play a role, especially in the use of controversial 
+devices like police drones. Drones are already used by fire services and police 
+forces to carry out aerial surveillance, but Amazon imagines a small personal 
+drone acting as an all-seeing body-cam for the police.
+
+Even armed drones are possible. “We are very likely to see drones equipped 
+with less-than-lethal weapons, like sound cannons or tear gas canisters,” says 
+Holland Michel. “The idea of weaponised drones will make a lot of people 
+uncomfortable but if one of these drones saves lives, say by resolving an 
+active shooter situation, that could change minds at both the regulatory and 
+the popular level.”
+ 

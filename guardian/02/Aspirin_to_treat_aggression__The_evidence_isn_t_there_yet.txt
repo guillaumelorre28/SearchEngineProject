@@ -1,0 +1,69 @@
+
+The Telegraph front page 
+<http://www.telegraph.co.uk/news/newstopics/howaboutthat/10526771/Uncontrollable-rage-could-be-cured-by-drugs-like-aspirin.html>
+ on Thursday reported that aspirin could be a cure for intermittent explosive 
+disorder. IED, characterised by bouts of extreme and disproportionate rage, is 
+thought to affect 2-3% of the population of the USA, according to the research 
+paper.
+
+It’s a pretty serious disorder, not to be confused with mere ‘bad behaviour’. 
+These are impulsive, hard-to-control aggressive outbursts, and the condition is 
+linked to a number of other adverse health outcomes.
+
+But can aspirin really cure it? I went to the study in question 
+<http://archpsyc.jamanetwork.com/article.aspx?articleid=1790358> and had a 
+look. For a start, there’s no mention of aspirin, or any anti-inflammatory 
+drug, anywhere in the peer-reviewed article.
+
+The scientific research looks at the relationship between aggression, in 
+particular IED symptoms, and levels of two inflammatory markers found in blood 
+plasma – C-reactive protein, and interleukin 6. The study is a case-control 
+design, which means people are chosen to be included in the study because of 
+their aggression status.
+
+They recruited fewer than 200 people, which for studies of this design is 
+quite a small number, and then further split these people into three groups to 
+compare. People with IED are likely to be different from people without it in a 
+number of ways, so usually for observational studies like this you’d want a 
+larger sample size.
+
+Not only this, but the measures of aggression and the measures of inflammatory 
+marker levels were taken at the same time as each other. This means that even 
+if an association between the two is seen, as it was here, there is no way of 
+knowing the direction of causation.
+
+Aside from the possibility that the association seen is due to other 
+differences between people with or without IED, it could be that aggression 
+leads to rises in inflammatory markers, or that increases in these markers lead 
+to an increase in IED. If the former is true, then no amount of aspirin would 
+help, as causation is the wrong way round.
+
+Which brings me to my next question: can aspirin actually change the levels of 
+these markers? Evidence suggests not. The main marker investigated is 
+C-reactive protein (also known as CRP). Because it is relatively easy to 
+measure, and stability in level, it’s often used as a marker of inflammation, 
+with rises in levels associated with diseases such as diabetes, cardiovascular 
+disease and potentially even some cancers.
+
+However, there’s very little evidence that aspirin can change levels of CRP. 
+Althoughthis study 
+<http://content.onlinejacc.org/article.aspx?articleid=1127121> suggests that 
+aspirin might differentially affect risk for unstable angina depending on CRP 
+levels, the levels themselves weren’t greatly affected by aspirin use.Other 
+<http://content.onlinejacc.org/article.aspx?articleid=1127255> studies 
+<http://www.ncbi.nlm.nih.gov/pubmed/10590187> have found no effect on CRP 
+levels after aspirin use.
+
+Also, it’s important to remember that aspirin is not a harmless drug. In fact 
+a recent review <http://www.journalslibrary.nihr.ac.uk/hta/volume-17/issue-43> 
+suggests that for healthy people, there’s not enough evidence that the 
+potential benefits would outweigh the risks of daily aspirin. Regular aspirin 
+use can increase health risks such as bleeding in the brain or stomach, and as 
+yet there’s not enough evidence to advise healthy people to take aspirin as 
+regularly as daily.
+
+For a newspaper to suggest that aspirin could treat this disorder, a claim 
+that wildly extrapolates from the findings they are referring to, is not only 
+misleading in terms of the findings of the research, but also potentially could 
+harm people who might think they should begin self-medicating with aspirin.
+ 

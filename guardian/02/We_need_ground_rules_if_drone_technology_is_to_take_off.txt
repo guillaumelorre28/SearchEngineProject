@@ -1,0 +1,87 @@
+
+Everybody has seen them, in parks, at sporting events and even filming current 
+events. Drones are becoming commonplace and have reached a maturity in their 
+control where they can be sold as toys that don’t need an expert to fly them. 
+TheEU select committee in the House of Lords 
+<http://www.publications.parliament.uk/pa/ld201415/ldselect/ldeucom/122/12202.htm>
+ has recommended caution in the regulation of drones – especially important, it 
+suggests, if public confidence is to increase to a point where they are 
+accepted as solutions for tasks such asdelivering parcels for Amazon 
+<https://www.theguardian.com/technology/2013/dec/02/amazon-trialling-the-use-of-drones-for-parcel-delivery>
+, spraying crops or providing security at large events.
+
+Media reports do not help the cause. When a quadcopter lowered a flag during 
+an international football match betweenSerbia and Albania 
+<https://www.theguardian.com/football/2014/oct/15/football-league-premier-league-drone-copycats-civil-aviation-authority>
+, the Premier League was prompted to ask for advice on similar incidents. And 
+when aDJI Phantom was flown on to the south lawn of the White House 
+<https://www.theguardian.com/world/2015/jan/26/security-alert-white-house-device-drone-found>
+, it caused a lockdown and full investigation. A collection of unexplained 
+drone flights over Paris earlier in March also causedalarm. 
+<https://www.theguardian.com/world/2015/mar/04/drone-sightings-paris-seine-concorde-invalides>
+
+Britain could become a leader in the billion-pound drone industry
+ Read more  
+<https://www.theguardian.com/media-network/2015/jan/16/drone-law-uk-amazon-delivery>
+As the numbers of vehicles sharply increases, the number of incidents like 
+these will, inevitably, rise. The expansion of this technology throws up 
+considerable legal implications. Who, for example, will be responsible when an 
+incident occurs? Will it be the drone owner, the operator, the pilot or the 
+software developer? Lawyers and engineers need to sit together to establish the 
+legal ground rules to ensure technology develops at pace with regulation to 
+ensure safety and security are never playing catch-up.
+
+The public is right to be cautious. After all, it takes little imagination to 
+see that these vehicles can be used for both good and nefarious purposes. A 
+drone flying under control from GPS, for example, provides a delivery platform 
+for any terrorist organisation, being able to fly to a given point and endanger 
+safety. Regulation is clearly necessary, but before we can put effective rules 
+in place, we need additional technology that can mitigate these risks, and 
+enable clear strategies that can increase confidence and ultimately allow the 
+benefits of safe autonomous flying vehicles to be delivered.
+
+The recommendations of the select committee call for users of drones to be 
+registered. This should be a basic requirement of future legislation. However, 
+a clear distinction needs to be drawn between a simple drone and a toy. This 
+could be based on weight: drones over 4kg or a self-built drone over 1kg should 
+be registered and require a flying licence that links a pilot to a drone, which 
+should then be stored onboard. While regulation will provide a deterrent, it 
+does not provide comprehensive protection as many operators are unaware, or are 
+willingly ignoring regulation, as the spate of recent arrests for drone 
+incursion has shown.
+
+The problem is that the rapid growth and interest in drones has outpaced the 
+technology available to support effective regulation. The use of geo-fencing, 
+partitioning an area off using GPS co-ordinates as a virtual boundary, is an 
+excellent idea, but most off-the-shelf quadcopters like theDJI Phantom 
+<http://www.dji.com/product/phantom> or Parrot AR Drone 
+<http://ardrone2.parrot.com/> don’t include GPS as standard and can easily be 
+modified to remove it. A no fly zone is not compatible with common 
+off-the-shelf hobbyists platforms. Future platforms should include GPS as a 
+non-removable component.
+
+Geo-fencing restrictions would also have to be dynamic, flexible and managed 
+to protect high-profile events such as football games or music festivals from 
+drones not flown through licensed agencies. We would need to be able to create 
+rapidly changing regions of managed airspace to prevent operation of unknown 
+drones.
+
+The development and successful application of this technology rests on 
+understanding the behaviour of autonomous systems. Research should be directed 
+not just to understand what a vehicle can do but to determine what a vehicle 
+will never do, for example not entering a geo-fenced area, even under human 
+control. By reliably understanding these boundaries of operation we can impose 
+useful ground rules that will keep us safe around these vehicles.
+
+Jonathan Aitken is a research fellow in robotics at the University of Sheffield
+ <http://www.sheffield.ac.uk/>
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media Network membership 
+<https://register.theguardian.com/media/>.
+
+
+All Guardian Media Network content is editorially independent except for 
+pieces labelled ‘Advertisement feature’. Find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

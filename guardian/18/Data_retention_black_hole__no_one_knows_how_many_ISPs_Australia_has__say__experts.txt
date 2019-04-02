@@ -1,0 +1,179 @@
+
+Data retention laws passed nearly two years ago on the grounds of an urgent 
+need to combat terrorism have still not been successfully implemented, 
+highlighting fundamental flaws in the “dysfunctional” legislation, advocates 
+say.
+
+By April internet service providers must have systems in place to retain 
+customers’ metadata for a two-year period, but the law is still not 
+operational, and experts warn its coverage may never be comprehensive.
+
+
+Laurie Patton, the chief executive of the not-for-profit peak body Internet 
+<https://www.theguardian.com/technology/internet> Australia, said not all of 
+Australia’s ISPs were known to the Attorney General’s Department (AGD), and not 
+all of them would necessarily be collecting and storing the metadata they were 
+required to by the law.
+
+Mandatory data retention: eight out of 10 telcos not ready for start of scheme
+ Read more  
+<https://www.theguardian.com/australia-news/2015/oct/13/almost-nine-out-of-10-telcos-not-ready-for-start-of-mandatory-data-retention>
+ISPs – defined as “any person who supplies, or proposes to supply, an internet 
+carriage service to the public” – are not required to be licensed, even under 
+the new legislation, so the government does not know how many there are.
+
+The Bureau of Statistics had recorded 66 ISPs with more than 1,000 subscribers 
+as at June 2016. Internet Australia estimates there are at least 250, and 
+perhaps more than 500.
+
+The AGD has received applications from 210 ISPs for funding to help them meet 
+the costs of compliance, of which 180 were approved. If Internet Australia’s 
+estimate is accurate, that suggests there may be dozens of ISPs that are 
+unknown to the department.
+
+“But we don’t know, that’s the point,” Patton said. “We really don’t know. It 
+could be 40, it could 50, it could be 100.
+
+“It’s extraordinary that the government didn’t ask the obvious question right 
+upfront: how many are we talking about?”
+
+One small-scale provider, who did not want to be identified, said there were 
+“plenty who couldn’t be bothered applying for the money because of the hoops 
+which need to be jumped through”.
+
+
+The list of 180 “eligible providers” granted funding by the department – 15 
+withdrew their applications, and a further 15 were found to be ineligible – was
+made public in August 
+<https://www.ag.gov.au/NationalSecurity/DataRetention/Pages/Data-retention-industry-grants-programme.aspx>
+.
+
+Patton suggested the list defeated the law’s intended purpose of 
+counter-terrorism.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2Fvideo%2F2015%2Fmar%2F17%2Fmetadata-explainer-australia-explained-whistleblowing-brandis-abbott-video&picture=http%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F17%2F1426569489376%2FPaul-Farrell-metadata-001.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Metadata%3A%20Australian%20government's%20data%20retention%20plans%20explained%20%E2%80%93%20video&url=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2Fvideo%2F2015%2Fmar%2F17%2Fmetadata-explainer-australia-explained-whistleblowing-brandis-abbott-video>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Metadata%3A%20Australian%20government%27s%20data%20retention%20plans%20explained%20%E2%80%93%20video&url=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2Fvideo%2F2015%2Fmar%2F17%2Fmetadata-explainer-australia-explained-whistleblowing-brandis-abbott-video&media=http%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F17%2F1426569489376%2FPaul-Farrell-metadata-001.jpg>
+Metadata: Australian government’s data retention plans explained 
+<https://www.theguardian.com/australia-news/video/2015/mar/17/metadata-explainer-australia-explained-whistleblowing-brandis-abbott-video>
+“By a process of elimination, they’ve identified the ones that will be handing 
+over their data. Anyone that’s not on their list – there’s your loophole.”
+
+A senior figure within another ISP noted with frustration that the “crappy law 
+… is literally trivial for anyone to work around” given that Google, as an 
+overseas company, was not required to store metadata. “If you were the dumbest 
+terrorist in the world and signed up for a Gmail address, you’re golden.”
+
+He agreed with Patton’s assessment that attempting to comply with the law had 
+proved a “nightmare”.
+
+
+Though service providers were required to begin retaining metadata from 13 
+October 2015 
+<https://www.theguardian.com/technology/2015/oct/13/easier-access-data-starts-here-mandatory-retention-begins>
+, those with implementation plans approved by the AGD could take until 12 April 
+2017.
+
+Internet Australia had earlier warned that smaller, independent providers, 
+particularly in regional areas, would struggle – and that costs would 
+inevitably be passed onto the consumer.
+
+“The legislation was so complex that even Telstra asked for extra time to work 
+out what it all meant,” Patton said. A spokesman for Telstra said it was 
+confident of meeting the April deadline.
+
+PricewaterhouseCoopers estimated the cost of compliance to the industry at 
+$738m over the first 10 years of operation. But Patton questioned how that 
+figure was reached when the total number of ISPs was not known.
+
+
+A pool of grant funding up to $128.4m had been made available to help ISPs 
+comply with the act – $70m short of the $198.5m anticipated by the 180 
+providers.
+
+
+Patton said nearly 10 months after applications closed, many grant recipients 
+had not yet been paid, leaving them “scrambling” to meet the April deadline. 
+“The funding is nowhere near enough. They’re all out of pocket and they’re 
+unhappy.”
+
+The full burden of the scheme on the taxpayer was not clear because of the 
+unknown cost of government agencies requesting and accessing the data from 
+service providers, he said.
+
+Easier access to your data starts here as mandatory retention becomes law in 
+Australia
+ Read more  
+<https://www.theguardian.com/technology/2015/oct/13/easier-access-data-starts-here-mandatory-retention-begins>
+Questions remained as to how those requests would even be overseen. “Our 
+concern is that the legislation is fundamentally flawed, and drafted by lawyers 
+who don’t understand how the internet works.
+
+“Consumers will ultimately pay for a flawed piece of legislation … that was 
+apparently urgently required, and had to be rushed through the parliament 
+without a great deal of public debate.”
+
+Internet Australia has resisted the Telecommunications (Interception and 
+Access) Amendment (Data Retention) Act 2015 since its introduction in October 
+2014, and made a submission to a parliamentary inquiry.
+
+Academics and privacy advocates also questioned the basis on which it was 
+founded, while the Office of the Australian Information Commissioner raised 
+serious concerns about its implications for privacy laws.
+
+The AGD had said it had been necessary to combat terrorism, with incomplete 
+metadata “degrading the investigative capabilities of law enforcement and 
+security agencies”.The bill passed on 26 March 2015. 
+<https://www.theguardian.com/media/2015/mar/19/australias-new-improved-data-retention-laws-how-will-they-work>
+
+
+David Vaile, the co-convenor of the cyberspace law and policy community at the 
+University of New South Wales, told Guardian Australia that the benefits of the 
+law “were not substantiated”, and claims about the data’s usefulness to 
+agencies were not subjected to any “doubt or scepticism”.
+
+John Stanton, the chief executive of Communications Australia, said the 
+government had not provided evidence of a widespread trend of ISPs retaining 
+less data, for shorter periods.
+
+He said agencies and service providers had had a functioning relationship 
+before the law change, and storing two years’ data was “disproportionate” when 
+most requests were for that from within the last six months.
+
+The AGD told Guardian Australia that the new legislation simply standardised 
+the process and introduced safeguards to ensure its effectiveness. It said it 
+continued to “collaborate with service providers to help them fully comply” by 
+April.
+
+The law is enforceable by the Australian Communications and Media Authority, 
+and service providers may face fines and infringement notices for 
+non-compliance.
+
+Metadata: Australians’ phone and internet details accessed 334,658 times in 
+2013-14
+ Read more  
+<https://www.theguardian.com/news/datablog/2015/jun/19/metadata-australians-phone-and-internet-details-accessed-334658-times-in-2013-14>
+Stanton had asked the AGD to “show some regulatory forbearance” towards ISPs 
+that may not make the April deadline, given that it held some responsibility 
+for the delays. “They’ve not committed to that. I hope certainly that they will 
+behave reasonably when the time comes.”
+
+He said there was some confusion around the scope of the law, and was in 
+favour of at least a “tidy-up to get the definitions right and provide clarity”.
+
+The parliamentary joint committee on intelligence and security will review the 
+data retention scheme “within three years of [its] being fully implemented”. 
+The AGD told Guardian Australia that the first annual report was currently 
+being prepared.
+
+ The Australian Communications and Media Authority confirmed in its annual 
+report, published November 
+<http://www.acma.gov.au/~/media/Research%20and%20Analysis/Report/pdf/ACMA%20Communications%20report%202015-16%20pdf.pdf>
+, that no service providers had been referred for enforcement action on their 
+data retention obligations.
+
+When that was put to the senior ISP figure, he laughed. “Well, I’m not 
+compliant. I haven’t really even started on the work.”
+ 

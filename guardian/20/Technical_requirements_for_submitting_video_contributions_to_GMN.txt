@@ -1,0 +1,68 @@
+
+When delivering finished master files to the guardian, we require an “English 
+version” and an “international version” described below:
+
+A) ENGLISH VERSION (for Guardian launch and English language distribution 
+partners)
+
+Picture
+Include all text, i.e. titles & credits, subtitles, name supers, graphics 
+text, etc. and ensure that all the text is title safe.
+
+Audio
+Full mix audio levels must comply with the ITU-R BS.1770-3 standard. With an 
+average loudness of -23 LUFS and a true peak of -3dBfs.
+
+B) INTERNATIONAL VERSION (for foreign distribution partners, or for clean 
+unbranded versions)
+
+Picture
+Ensure a completely clean picture is provided, i.e. without titles & credits 
+(save on black) name supers (Astons), lower thirds, subtitles, or other screen 
+text.
+
+Audio
+Full mix audio levels must comply with the UBU R128 standard. With an average 
+loudness of -23 LUFS and a true peak of -3dBfs. Please supply the following 2 
+STEREO audio tracks, preferably embedded in the International film file:
+
+ * Full mix (including narration/voice-over) 
+ * Full mix minus narration/voice-over (un-dipped) 
+Please also supply the following ‘split’ audio as separate stems (.wav or 
+.aiff, PCM, 48KHZ, 16 or 24bit)
+
+ * Narration/Voice over only 
+ * Dialogue & Sync (e.g. interviews and camera grabs) 
+ * SFX 
+ * Music 
+NOTE: Undipped audio should only be undipped in respect to 
+voice-over/narration. All undipped tracks should have identical levels to ‘full 
+mix’ in all other respects.
+
+Supporting Materials
+
+ * Ensure a full time coded transcript is provided, with all interviews, 
+voiceover and screen text included, electronically in .doc (Word) or .PDF 
+format via email or on CD. 
+ * Music rights sheet detailing the publishing company, composer, recording 
+company, etc. in respect of each piece of utilised music 
+ * Third party footage providers 
+ * Synopsis 
+ * Credits list
+
+TECHNICAL INFORMATION FOR SUBMITTING VIDEO MASTERS
+
+1. The required format for submitting video master files is AS-11(.mxf) or 
+ProRes(.mov):
+
+
+Format: AS-11 (.MXF)
+Resolution: 1920x1080p 25fps
+Video Codec: AVC-Intra Class 100 1080
+Quality: Maximum Render Quality and Maximum Depth
+Audio: Uncompressed, 48 Hz, 24 bit, 4 channel
+
+Format: Quicktime ProRes (.MOV)
+Resolution: 1920x1080p 25fps
+Video Codec: Apple ProRes 422 HQ
+ 

@@ -1,0 +1,94 @@
+
+App: Halifax Home Finder <http://mobile.halifax.co.uk/finder>
+
+By: The app was built by design company Grapple (which we wrote about here 
+<https://www.theguardian.com/money/2011/mar/05/working-life-app-developer>)
+
+Price: Free
+
+Available on: iOS 4.0 or later, and Android 
+<https://www.theguardian.com/technology/android>
+
+What is it?
+
+An app to find property for sale and compare recent sale prices in a given 
+area. It also has mortgage calculator tools.
+
+Is it easy to use?
+
+The homepage is a little busy, with the Halifax logo, a search box, a 
+scrolling demonstration section and all the usual navigation buttons making for 
+a confusing mix. Things are clearer once you drill down into individual 
+sections.
+
+You can search for property – using a search powered by Findaproperty.com 
+<http://www.findaproperty.com/> – by postcode or using your current location, 
+and refine your search in the same way you can on most other property searches: 
+ie, by type, number of bedrooms and, most importantly, price. Similarly, you 
+can display the results by price, distance or date the property was listed.
+
+When you select a property you can view photos, estate agents' descriptions, 
+and local area information, and you can "favourite" the property – so far, so 
+normal. The innovations lie in users being able to check recent sale prices for 
+that area, using Land Registry data, and calculators telling you how much you 
+would repay if you took out a mortgage on that property (you can tweak the 
+deposit amount, interest rate and length of mortgage) and how much you could 
+borrow. You can also add notes and photos and rate the rooms of your favourite 
+properties.
+
+To have the triumvirate of property search engine, house prices data and 
+mortgage finance tools in one place is like having some kind of 
+property-related Swiss army knife in your pocket.
+
+Is it fun?
+
+Of course it's fun. Whether you're looking to buy or are already on the 
+ladder, it's intriguing to check out what is for sale in areas you like or, if 
+you're like me, to see how much your friends' and neighbours' homes last sold 
+for.
+
+If you're a serious property hound, the ability to rate individual rooms, add 
+your own photos and add viewing notes is incredibly handy. No longer will you 
+have to try to remember which house was the one with the appalling kitchen – 
+you know, the kitchen the estate agent failed to include a photograph of when 
+listing it.
+
+Is it pretty?
+
+The homepage may be a little busy, but once you get used to it this is the 
+queen of property apps. The design is highly professional and offers little 
+surprises here and there, like the corkboard on which Halifax has written handy 
+property-buying tips.
+
+Should you download it?
+
+Yes. There are, of course, quibbles. We were admittedly viewing only a trial 
+version of the app, but the Land Registry data did not seem complete compared 
+with sold prices listed on the Land Registry website itself. Also, when using 
+the mortgage repayment calculator, you can only raise or lower the interest 
+rate in 0.25 percentage point amounts (annoying when there are plenty of 
+mortgages at, for example, 4.69% rather than 4.5% or 4.75%). But these 
+distractions may well be ironed out or improved in future versions and should 
+not put you off.
+
+The calculator telling you how much you can borrow is based on Halifax's 
+lending criteria, but otherwise this feels like a genuinely useful app rather 
+than a sales exercise.
+
+The rivals Check out our reviews of some other house hunting apps:
+
+Kirstie and Phil's House Hunter 
+<https://www.theguardian.com/money/2011/jul/01/kirstie-phil-house-hunter-app>
+
+Tepilo 
+<https://www.theguardian.com/money/2011/mar/24/tepilo-consumer-app-of-week>
+
+Mortgage assistant 
+<https://www.theguardian.com/money/2011/feb/16/mortgage-assistant-app-of-week>
+
+Zoopla 
+<https://www.theguardian.com/money/2011/jan/17/zoopla-consumer-app-of-week>
+
+Rightmove 
+<https://www.theguardian.com/money/2010/oct/18/rightmove-app-of-the-week>
+ 

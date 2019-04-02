@@ -1,0 +1,106 @@
+
+At first, Twitter <https://www.theguardian.com/technology/twitter> was 
+changing the timeline, and then it was not changing the timeline, and then not 
+changing the timeline next week.
+
+But Twitter has now confirmed it has introduced a new feature that does change 
+the way users view messages in their timeline, pushing algorithmically selected 
+“best” tweets to the top.
+
+
+Some users responded badly to reports of the new feature over the weekend, 
+saying Twitter should prioritise bugs and dealing with harassment on the site. 
+But Twitter’s senior director of product, Jeff Siebert, said reports about the 
+timeline were wrong because the change would not “insert tweets throughout the 
+timeline or completely shuffle them so there’s no order”.
+
+It will be called “show me the best tweets first”, and the selection will show 
+in reverse chronological order at the top of the timeline. All other tweets 
+will show in the next section, again in reverse chronological order. The 
+feature will be accessible on the web and on Twitter’s iOS and Android apps.
+
+Twitter is replacing favourites with likes – but does anyone heart it?
+ Read more  
+<https://www.theguardian.com/technology/2015/nov/03/twitter-replacing-favourites-with-likes-does-anyone-heart>
+When a user opens the app, it will select what it thinks are the most 
+important tweets and show those at the top of the timeline. The number and type 
+of tweet depends on the user’s behaviour, how long they have been away and how 
+often they tweet. Twitter says that in testing, it encouraged more users to 
+tweet and retweet posts.
+
+The new feature has been launched to all users as a new option, but after 
+several weeks it will be on by default. It canstill be switched off 
+<https://www.theguardian.com/technology/2016/feb/10/twitter-how-to-turn-off-best-tweets-feature>
+ in settings, Siebert said.
+
+
+“We set out to solve a very special problem on Twitter. Hundreds of thousands 
+of users say Twitter is an essential and engaging part of their daily life, but 
+when they wake up on a Monday or come out of the gym, there’s a lot to catch up 
+on. We heard that, and felt that users were missing important tweets.”
+
+Siebert said he anticipated the new feature would be greeted much the same as 
+theintroduction of hearts, which replaced stars 
+<https://www.theguardian.com/technology/2015/nov/03/twitter-replacing-favourites-with-likes-does-anyone-heart>
+ to mark out favourite tweets on the service. “People didn’t like it at the 
+time but it has been a massive success, and millions of people who had never 
+used the favourite feature have now used hearts.”
+
+Some Twitter users reacted in characteristically colourful language to the 
+introduction of hearts as well as rumours of changes to the timeline, the 
+latter prompting the hashtag#RIPTwitter 
+<https://www.theguardian.com/technology/2016/feb/08/jack-dorsey-riptwitter-timeline-twitter>
+.
+YasmineVanWilt (@YasmineVanWilt) 
+I understand you need to monetize, but turning @twitter 
+<https://twitter.com/twitter> into @facebook <https://twitter.com/facebook> so 
+you can flog more ads alienates me & many others.#RIPTwitter 
+<https://twitter.com/hashtag/RIPTwitter?src=hash>
+ <https://twitter.com/YasmineVanWilt/status/696541126774366209> February 8, 
+2016 <https://twitter.com/YasmineVanWilt/status/696541126774366209> 
+Siebert said: “We’re honoured to have a customer base that cares so deeply 
+about the product, and that can use our own platform to give us feedback on the 
+product.” Siebert said feedback would be combined with data and the experiences 
+of a group of test users who have been using the new feature for several 
+months, though he would not say how many had used it.
+
+Twitter has been under huge pressure from investors frustrated by lack of user 
+growth.
+
+The service had 320 million monthly users in September 2015 – the last month 
+for which Twitter released figures – but grew from only 284 million in the last 
+quarter of 2014 to 307 million a year later. Rampant growth among Twitter’s 
+rivals has made investors question the advertising and product strategies of 
+its leadership:Facebook has 1.59 billion users 
+<https://www.theguardian.com/technology/2016/jan/28/how-much-are-you-worth-to-facebook>
+ and Instagram 400 million every month, and Snapchat at least 100 million every 
+day.
+
+Unlike Instagram, whose aesthetic has quickly attracted advertisers, Twitter 
+has been relatively cautious in its implementation of advertising, offering 
+promoted tweets, promoted trends and promoted ads. Its revenues have been 
+healthy, with advertising up 58% to $569.2m for the third quarter of 2015.
+
+Twitter planning 'regular and consistent action' to curb harassment and abuse
+ Read more  
+<https://www.theguardian.com/technology/2016/feb/09/twitter-online-abuse-harassment-nick-pickles>
+Other changes have been mooted by CEO Jack Dorsey, including increasing the 
+character limit from 140 to 10,000 characters 
+<https://www.theguardian.com/technology/2016/jan/05/twitter-shares-plummet-rumor-10000-character-tweets-jack-dorsey>
+. Dorsey said Twitter had noticed users posting pictures to post longer 
+messages but the information could not be searched or analysed in image form. 
+Siebert would not comment on the character limit but agreed that it could 
+present challenges to both Twitter’s design and navigation, as well as make 
+more data accessible and searchable.
+
+In its latest initiative, Twitter tackled one of its most controversial 
+issues, establishing a new safety council to help develop its management of 
+complex harassment and safety issues of its users.The council includes 
+<https://blog.twitter.com/2016/announcing-the-twitter-trust-safety-council> the 
+Samaritans, the Internet Watch Foundation and Feminist Frequency.
+
+In another new development, Twitter is also introducing a new ad format that 
+drops a video ad 
+<http://techcrunch.com/2016/02/09/timing-is-everything-twitter-unveils-first-view-ads-videos-at-the-top-of-your-timeline/>
+ at the top of a user’s feed.
+ 

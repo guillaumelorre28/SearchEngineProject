@@ -1,0 +1,109 @@
+
+A quick burst of 10 links for you to chew over, as picked by the Technology 
+team
+
+Acer's AcerCloud unveil is a blatant iCloud ripoff | The Verge 
+<http://www.theverge.com/2012/1/8/2692245/acers-acercloud-unveil-looks-a-little-familiar>
+
+
+"Which is which? Acer just showed off its AcerCloud service, something that 
+already sounded suspiciously like Apple's iCloud. Even the "PicStream" element 
+sounds a lot like Photo Stream. Still not convinced?Acer 
+<https://www.theguardian.com/technology/acer> basically ripped off Apple's 
+slide wholesale, outside of the font, which is a simulacrum of Apple's font of 
+yore. Check out both slides below." The slides are indeed a ripoff, though it's 
+hard to argue that the idea of having a cloud storage system is unique to 
+Apple. Although the key point here is that this isn't connected to Google, and 
+it's like Apple's iCloud in that it abstracts the file system away - you have 
+photos and you have documents.
+
+Microsoft, defying image, has a design gem in Windows Phone >> NYTimes.com 
+<http://www.nytimes.com/2012/01/08/technology/microsoft-defying-image-has-a-design-gem-in-windows-phone.html>
+
+
+Microsoft's team draw an interesting analogy with the plight of the hiker who 
+got his arm trapped under the boulder and had to cut it off.
+
+The Restart Page - Free unlimited rebooting experience from vintage operating 
+systems <http://www.therestartpage.com/#>
+
+
+Does what it says. Amazing. This is what the web was made for. Or something.
+
+Real QR Statistics from TfL >> Terence Eden 
+<http://shkspr.mobi/blog/index.php/2012/01/real-qr-statistics-from-tfl/>
+
+
+People have been scanning the QR code to get live bus updates. Helpfully, TfL 
+has used a public shortener, which means the platform (haha) and other 
+statistics are available.
+
+Steve Yegge: how to present to Jeff Bezos (without dying) >> Google+ 
+<https://plus.google.com/110981030061712822816/posts/AaygmbzVeRq>
+
+
+Entertaining description of what it's like to present to Bezos (ie very 
+scary). He is one of the least-profiled people around.
+
+Yahoo seeking new board members >> WSJ.com 
+<http://online.wsj.com/article_email/SB10001424052970203513604577145130908913886-lMyQjAxMTAyMDAwNjEwNDYyWj.html>
+
+
+"Yahoo Inc. is searching for several new board candidates to replace possible 
+outgoing directors and has hired executive search firm Heidrick & Struggles 
+International Inc. to assist in that effort, people familiar with the matter 
+said. "The search for board candidates is aimed at possibly replacing directors 
+who have been on the board for a long time, the people said." Just go back and 
+check whether the first letter of each paragraph spells out R-O-Y-B-O-S-T-O-C-K 
+and J-E-R-R-Y-Y-A-N-G.
+
+Motorola Mobility says Holiday quarter wasn't so jolly >> AllThingsD 
+<http://allthingsd.com/20120106/motorola-mobility-warns-on-q4-earnings/?mod=tweet>
+
+
+"Motorola Mobility on Friday warned that fourth-quarter sales won't be what 
+many were expecting. "The cellphone maker said it estimates its sales totaled 
+$3.4bn, and that it will post 'modest profitability', excluding various items. 
+Motorola said it shipped about 10.5m mobile devices in the quarter, just over 
+half of which were smartphones. "WhileMotorola 
+<https://www.theguardian.com/technology/motorola> itself hadn't given a 
+forecast for the quarter, analysts were expecting sales to be a lot closer to 
+$3.9bn." Its last of four quarters as an independent company? (And: giving out 
+mobile phone figures? How declasse.)
+
+Windows 8 Storage Spaces: pooling redundant disk space for all >> Ars Technica 
+<http://arstechnica.com/microsoft/news/2012/01/windows-8-storage-spaces-detailed-pooling-redundant-disk-space-for-all.ars>
+
+
+"When Microsoft killed Windows Home Server's "Drive Extender" technology, we 
+mourned its loss but held up hope that the company would persevere with the 
+concept. The company has done just that with a new Windows 8 feature called 
+Storage Spaces, described in a lengthy post to its Building Windows 8 blog. 
+"With Storage Spaces, physical disks are grouped together into pools, and pools 
+are then carved up into spaces, which are formatted with a regular filesystem 
+and are used day-to-day just like regular disks. "Unlike RAID systems of old, 
+but in common with other modern storage technologies such as Solaris' ZFS and 
+Linux's btrfs, pools can use disks of different interface technologies--USB, 
+SATA, Serial Attached SCSI--and different, mismatched sizes. New disks can be 
+added to a pool at any time. Pools can also include one or more hot spares: 
+drives allocated to a pool but kept in standby until another disk in the pool 
+fails, at which point they spring into life." That's very cool.
+
+Join the fight against phishing >> Phishtak 
+<http://www.phishtank.com/index.php>
+
+
+Worthy, but one feels that it needs a bigger, more automated effort to make it 
+effective.
+
+The Nielsen Company & Billboard's 2011 Music Industry Report >> Yahoo! Finance 
+<http://finance.yahoo.com/news/The-Nielsen-Company-Billboard-bw-3137090198.html>
+
+
+"Total [US] Album sales were up for the first time since 2004 (1.3%) with 
+sales totaling 330.6 million, compared to 326.2 million in 2010." You have 
+Adele and the internet to thank for that.
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/u:guardiantech>
+ 

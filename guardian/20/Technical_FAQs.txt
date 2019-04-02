@@ -1,0 +1,51 @@
+
+• Why does the stream keep pausing?
+
+If the stream keeps pausing, buffering or stops altogether, try switching to a 
+lower quality setting on the player.
+
+The setting you should use depends on the speed of your internet connection. 
+There are three different settings on the bottom right of the player - Hi, Mid 
+and Lo.
+
+The high quality setting requires a minimum connection speed of 2Mbps.
+The medium quality setting requires a minimum connection speed of 1Mbps.
+The low quality setting requires a minimum connection speed of 512k.
+
+You can check your broadband speed here:
+http://www.speedtest.net/ <http://www.speedtest.net/>
+
+• Can I watch the concert on my iPad?
+The live stream uses a Flash player, which will not work on iOs devices. 
+However, we will be making the video available to watch on demand in the week 
+following the live broadcast, and this will be iOs compatible. Visit
+theguardian.com/bolivarlive <https://www.theguardian.com/bolivarlive> for more 
+information
+
+• Can I watch the concert on the Guardian's mobile site, m.theguardian.com?
+The live stream will not be available to watch on m.theguardian.com. If you 
+have a Flash-compatible smartphone you should be able to watch the live stream 
+by accessing the desktop site on your device.
+
+• Why can't I see the live stream? There is just a blank space where the 
+player should be
+If you are watching on an iOs device, please see above.
+
+If you are watching on a Flash-compatible device, please make sure you have 
+downloaded Flash. (You can download Flash here 
+<http://www.adobe.com/support/flashplayer/downloads.html>)
+
+If you still experience problems, please check that you have not installed any 
+plugins that could be blocking Flash.
+
+• Can I watch in full screen?
+Yes, just click the full-screen icon on the bottom left of the player, next to 
+the volume control.
+
+• Can I comment on the live stream?
+We will be running an open thread especially for people to discuss the live 
+stream. To post a comment on the performance, simply visit the open thread and 
+use your Guardian, Twitter or Facebook account details to sign in.
+
+You can also join the conversation on Twitter using the #bolivarlive hashtag.
+ 

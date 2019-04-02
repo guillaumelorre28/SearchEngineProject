@@ -1,0 +1,54 @@
+
+A link to a video, which when watched slows down any iPhone until it crashes, 
+is being used as the latestiPhone 
+<https://www.theguardian.com/technology/iphone> crash prank.
+
+
+The video from the Sina Weibo-backed video-sharing app Miaopai plays normally 
+in the iPhone’s video player, but once the video is finished it can take up to 
+a minute for the iPhone to lock up, requiring a forced reboot to recover it.
+
+Most people are unaware anything has happened, continuing to use their 
+smartphone until it either won’t turn back on or locks up in an app, the home 
+screen or with a spinning loading logo on a black screen.
+
+The bug, which appears to involve the media handling functions of iOS, affects 
+versions of the operating system as far back as iOS 5 and devices from the 
+iPhone 4 to theiPhone 7 <https://www.theguardian.com/technology/iphone-7>. The 
+older the smartphone, the faster the lockup occurs.
+
+The lockup is not permanent, but requires a soft reset or forced reboot to 
+recover the functionality of the iPhone.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DB15nBZ7pjLs&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DB15nBZ7pjLs>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DB15nBZ7pjLs&media=>
+ Video demonstrating the bug with various versions of the iPhone and iOS. 
+On an iPhone 7 or 7 Plus users will need to hold down the power and down 
+volume buttons until they see the Apple logo. On theiPhone 6S 
+<https://www.theguardian.com/technology/iphone-6s>, 6S Plus or older Apple 
+smartphones, users need to hold down the power and home buttons until they see 
+the Apple logo.
+
+Once the iPhones reboot, everything appears to function as normal.
+
+Apple’s iPhone has a history of strange links and bugs crashing the device as 
+a prank. In January, a link sent to an iPhone user andopening in Safari would 
+crash the browser 
+<https://www.theguardian.com/technology/2016/jan/25/sending-link-to-website-lets-you-crash-safari-and-anyones-iphone>
+ and force the smartphone to reboot. The bug also affected Android devices and 
+computers, although to a lesser extent.
+
+Perhaps the most prolific crash bug prank for the iPhone used the “effective 
+power” text message 
+<https://www.theguardian.com/technology/2015/may/27/iphone-crash-bug-text-imessage-ios>
+ that caused the recipients’ smartphone to crash without needing to be opened.
+
+Apple <https://www.theguardian.com/technology/apple> has not replied to a 
+request for comment.
+
+ * Wi-Fi hack creates ‘no iOS zone’ that cripples iPhones and iPads 
+<https://www.theguardian.com/technology/2015/apr/22/wi-fi-hack-ios-iphone-ipad-apple>
+ 

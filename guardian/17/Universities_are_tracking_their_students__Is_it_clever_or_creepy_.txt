@@ -1,0 +1,132 @@
+
+What could be more normal that heading to the university library, swiping your 
+card and logging in to a computer?
+
+University data can be a force for good
+ Read more  
+<https://www.theguardian.com/higher-education-network/blog/2013/nov/27/university-data-student-engagement-retention>
+Most students wouldn’t think twice about it. But what they may not realise is 
+that this mundane series of events leaves a unique data pattern that can be 
+recorded, logged and reviewed, in a practice known as “learning analytics”. And 
+now data analysts are using this information to predict whether students will 
+struggle with their courses, or drop out.
+
+“We’re trying to use data to improve our understanding of how students learn,” 
+says Dr Bart Rienties, director of thelearning analytics programme at the Open 
+University 
+<http://www.open.ac.uk/iet/main/research-innovation/learning-analytics>. “We 
+want to understand the story behind that data.”
+
+Such techniques look set to become an integral part of university life in the 
+future, much to the delight of advocates. “Learning analytics can provide a 
+more personal learning experience, rather than a one-size-fits-all solution,” 
+Rienties says. He was part of anew study <http://oro.open.ac.uk/45383/> – which 
+analysed data from more than 113,000 students at the Open University – looking 
+at drop-out rates and how usage patterns of online learning resources can be an 
+early indicator of academic performance.
+
+At Aston University, experts are using learning analytics to try to lower the 
+number of drop-outs. But the university’s achievement enhancement adviser, 
+James Moran, is keen to emphasise that the programme is coming “firmly from a 
+position of providing support and pastoral care, rather than tracking students”.
+
+He says: “If a student had been expected to come to a library session, meet a 
+personal tutor or a career adviser, and they hadn’t appeared, that might send a 
+flag to the personal tutor saying it might be worth giving them a ring.”
+
+The university’s deputy vice-chancellor, Helen Higson, explains that the move 
+came from practical considerations. “We have a big student database where we 
+collect everything about them, from enrolment to when they leave,” she says. 
+“We started monitoring VLE [virtual learning environment] data because the visa 
+requirements for overseas students mean that we have to demonstrate every two 
+weeks that a student is engaging.”
+
+The long view
+
+How universities are using data to stop students dropping out
+ Read more  
+<https://www.theguardian.com/guardian-professional/2015/jun/30/how-universities-are-using-data-to-stop-students-dropping-out>
+ But Nick Hillman, director of the Higher Education Policy Institute, warns 
+that it’s too early to say what effect this approach will have in the long run.
+
+“I think it has a lot of potential, but you have to be very careful. You don’t 
+want a massive security breach, or for the data to be used in a way that some 
+students think is inappropriate.”
+
+Dr Richard Tynan, a technologist at Privacy International 
+<https://www.privacyinternational.org/>, has other concerns. “All data has the 
+potential to betray you,” he warns. “We need much more honesty, about what data 
+is being collected and about the inferences that they’re going to make about 
+people. We need to be able to ask the university ‘What do you think you know 
+about me?’”
+
+Tynan argues that legislation should be updated to reflect changing approaches 
+to the collection of personal data. “The problem with data protection law is 
+that it was from an era when people went to technology,” he says. “Now, 
+technology is coming to the individual, whether they like it or not.”
+
+The Data Protection Act <http://www.legislation.gov.uk/ukpga/1998/29/contents> 
+distinguishes between “anonymous data” and data that identifies an individual. 
+But Tynan points out that seemingly anonymous data can be pieced together to 
+identify individuals behind the numbers.
+
+Students <https://www.theguardian.com/education/students> can make a subject 
+access request (Sar) for the data their university holds about them – but this 
+doesn’t necessarily allow students to find out what conclusions have been drawn 
+from it.
+
+Meanwhile, the data collected by universities can be shared with third 
+parties, meaning that students have little idea how far information about them 
+could be travelling.
+
+“Data is incredibly valuable, and many systems pay for themselves just in the 
+data they collect,” Tynan says . “What happens when the student leaves – is the 
+system going to retain this data forever? How are they protecting it? Students 
+need to know what the consequences are now and in the future.”
+
+Student mental health: a new model for universities
+ Read more  
+<https://www.theguardian.com/higher-education-network/2016/mar/02/student-mental-health-a-new-model-for-universities>
+Ultimately it should be for the student to decide whether or not they are 
+tracked, he says. “Sometimes data tracking is good, sometimes it’s bad. But 
+students need to be able to opt out.”
+
+Emotional data
+
+The next frontier for learning analytics is feelings. Research is already 
+probing therole of emotions 
+<http://www.laceproject.eu/publications/learning-analytics-and-emotions.pdf> in 
+a student’s university experience, and analysts are developing theories about 
+how this “emotional data” can be captured.
+
+Mobile phones can be used to monitor eye movements and body pose, for example, 
+and this data could be used to tailor individual educational programmes based 
+on the teaching methods that elicit the greatest positive emotional response.
+
+But it could, of course, be seen as a massive invasion of privacy. The Open 
+University has consulted 100 students about its use of analytics, which 
+Rienties says generated mixed responses.
+
+“Some students are concerned about us continuously monitoring in a Big Brother 
+fashion. But at the same time, many students were surprised that we weren’t 
+using it to a fuller degree already.”
+
+The Open University’s learning analytics programme is governed by an ethics 
+policy 
+<http://www.open.ac.uk/students/charter/sites/www.open.ac.uk.students.charter/files/files/ecms/web-content/ethical-use-of-student-data-policy.pdf>
+ and currently only shares its data with select third parties – for example, 
+agencies such as the Higher Education Statistics Agency (Hesa).
+
+Ultimately, Rienties concludes, the key is to find a happy medium. “You have 
+to get a balance between providing good instructional support to students, but 
+not overwhelming them.”
+
+Join the higher education network 
+<http://preview.gutools.co.uk/higher-education-network#https://register.theguardian.com/higher-education/?CMP=dis_57>
+ for more comment, analysis and job opportunities, direct to your inbox. Follow 
+us on Twitter@gdnhighered <https://twitter.com/GdnHigherEd>. And if you have an 
+idea for a story, please read ourguidelines 
+<https://www.theguardian.com/higher-education-network/2015/oct/16/share-your-ideas-how-to-write-for-the-higher-education-network>
+ and email your pitch to us athighereducationnetwork@theguardian.com 
+<mailto:highereducationnetwork@theguardian.com>
+ 

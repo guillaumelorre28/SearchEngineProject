@@ -1,0 +1,140 @@
+
+
+
+
+
+Since Windows Mail is going out, what would you recommend for another free 
+email server? What about Gmail? I haveWindows 
+<https://www.theguardian.com/technology/windows> 10. Thanks, Laurel
+
+I answered a topical question about Microsoft’s changes to Windows Live Mail 
+<https://www.theguardian.com/technology/askjack/2016/jun/02/microsoft-killing-windows-live-mail-what-should-i-do-hotmail-msn-outlook>
+, which I fondly imagined answered everybody’s questions. The result was 
+roughly three dozen confused emails. I’ve tried to cover most of the points 
+raised, but apologise for picking on Laurel. She sent the shortest question, 
+not, by a long way, the most confused one.
+
+Most of the confusion is Microsoft’s fault. Once upon a time, it wanted people 
+to use Windows Live Mail to collect mail from its Windows Live email service. 
+Well, it should be easy if they both had the same name, right? Now it wants 
+people to use Outlook (a Windows or smartphone app) or Outlook (a Microsoft 
+Office program) to collect their email from outlook.com (a mail service), which 
+is even more confusing. It’s no wonder people get them mixed up.
+
+In fact, no version of Windows Mail is going away, and nobody needs to change 
+to a different email service. Even Windows Live Mail 2012 is still available, 
+though it doesn’t follow Microsoft’s modern finger-friendly style, and the 
+Windows Live Essentials suite is being phased out.
+
+Yes, you may need to change your email settings, but ONLY if you use Windows 
+Live Mail 2012 (the PC email program) with a Microsoft email service such as 
+Hotmail, Live, or outlook.com.
+
+If you use Windows Live Mail 2012 with any other email service – for example, 
+if you have a BT, Virgin, Comcast, Yahoo, Gmail or other email address – then 
+you don’t need to change anything. You are not affected. This does not concern 
+you.
+
+How we got here
+
+Microsoft started this mess by writing to people who used Windows Live Mail 
+with Microsoft email accounts to say that Windows Live Mail would stop working 
+by 30 June 2016. It was moving all the Microsoft Hotmail and Live Mail accounts 
+to a new version of outlook.com, which Windows Live Mail would not support. 
+Microsoft said users could switch to Outlook, the free email app, or Outlook, 
+the Microsoft Office email program, which it offered free for one year.
+
+My answer said that people with Hotmail and Live Mail email addresses could 
+still use Windows Live Mail 2012 with outlook.com if they changed the settings 
+to use the IMAP mail protocol.
+
+Well, the deadline has gone, and there’s at least one case where Windows Live 
+Mail 2012 is still working unchanged after an upgrade to Windows 10. I know 
+this because my wife has an old Hotmail.co.uk address, and I’m still waiting 
+for her Windows Live Mail to break.
+
+If yours has broken, you will get Server error 3219 and Windows Live Mail 
+error 0x8DE00005, and you will be unable to send or receive messages. This 
+means your mail service has been moved to a new outlook.com server, and you 
+will have to change your email settings manually, or switch to a different 
+email program.
+
+Some people changed the settings in Windows Live Mail 2012 to work with the 
+IMAP protocol, as I suggested in June. However, one reader – Gerry from Sweden 
+– says this has stopped working: he can receive email but not send it.
+
+If you’re in a similar position, with non-working email, the best answer is to 
+change the settings to POP3. Helpful reader Terry Hewitt recently wrote in to 
+say that Microsoft had enabled POP3, so you just have to log on tooutlook.com 
+<https://www.outlook.com/> (the website) and turn it on.
+
+To do this, click the cogwheel, select Options, and click “POP and IMAP” in 
+the left hand menu (see photo). Click Yes to “Let devices and apps use POP” but 
+don’t allow them to delete messages. Save your changes and hit the back arrow.
+
+After enabling POP3, open Windows Live Mail 2012, create a new account for 
+your old email address, and check the box that says “Manually configure server 
+settings”. For “Incoming server information” select POP with the server address 
+pop-mail.outlook.com and Port: 995 with a secure connection (SSL). For the 
+“Outgoing server information” use smtp-mail.outlook.com and Port: 25, or Port: 
+587 if 25 is blocked. These settings work for me with a hotmail.com address and 
+Windows Live Mail 2012 running in Windows 10.
+
+Where’s the problem?
+
+If you have an email problem, it could be in the mail server on the internet, 
+which receives and stores your email, or in the email program on your PC, which 
+collects it from the server. Here’s a brief guide to which does what.
+
+First, the email service provides your email address and hosts your inbox. 
+Most consumer email addresses include the name of the mail service. Examples 
+include gmail.com, yahoo.com, fastmail.com and any local variations such as 
+hotmail.co.uk. (Laurel: Gmail is a great alternative email service, if you 
+don’t mind changing your email address.)
+
+Second, an email client program collects your emails from the server, and 
+sends any replies. Nowadays you can access most email services directly, via a 
+web browser, so you don’t have to use a program to do it. However, many people 
+prefer to use client programs, which can handle two or more email services at 
+the same time. They can also provide more powerful sorting, filing and back-up 
+options, and they work even when you are not online. They may be faster, too.
+
+Email client programs include Windows Live Mail, Microsoft Office Outlook, 
+Mailbird, eM Client, Mozilla Thunderbird, Pine and many more. You can use 
+whichever you like. Most popular email clients already know the settings for 
+most popular email servers, though sometimes you may have to enter them 
+manually.
+
+Third, there’s the operating system, which doesn’t matter. As long as you use 
+a standard client program, email services don’t care which OS you use.
+
+Almost everybody uses email, so almost every major operating system comes with 
+a usable email client. This includes Windows, macOS (Mac OS X), Linux, Apple 
+iOS, Google Android and so on. Of course, if you don’t like the bundled email 
+client, you can usually download an alternative.
+
+PC manufacturers used to ship Windows Live Mail as the client program on 
+machines running Windows 7, and now they ship the Outlook mail app with Windows 
+10. But Windows Live Mail still runs perfectly well on Windows 8.x and 10, so 
+you can still use it: you just have todownload it 
+<https://support.microsoft.com/en-gb/help/17779/download-windows-essentials>.
+
+If you have a copy of the Outlook program from Microsoft Office 2007, 2010 or 
+later, that will also work on all supported versions of Windows.
+
+However, if you log on to Windows 10 with a Microsoft Account, the Outlook 
+mail app will check your email automatically even if you don’t tell it to. It 
+will also show details of new emails in the Mail tile in Windows 10’s Start 
+menu, without downloading them. The built-in Outlook mail app is therefore the 
+easiest way to start using email in Windows 10, but it’s not compulsory. You 
+can use whatever you like.
+
+Either way, if you’re going to write in with an email question, please 
+distinguish between Windows Live (the email service) and Windows Live Mail 2012 
+(the email program); and between outlook.com (the email service), Outlook (the 
+Windows app) and Microsoft Office Outlook (the email program). It saves time in 
+the long run.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

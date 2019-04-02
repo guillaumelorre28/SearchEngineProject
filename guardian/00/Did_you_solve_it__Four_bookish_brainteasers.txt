@@ -1,0 +1,98 @@
+
+Earlier today I set you these four questions 
+<https://www.theguardian.com/science/2016/sep/12/can-you-solve-it-four-bookish-brainteasers>
+:
+
+1) Volumes I, II and III of a dictionary are stacked vertically side by side 
+on a shelf, in that order and with spines visible in the normal way. The 
+thickness of the pages in each volume is 6cm, and the thickness of the cover of 
+each volume is 5mm.
+
+What is the horizontal distance from the first page of Volume I to the final 
+page of Volume III?
+
+Solution: 8cm
+
+Now this is embarrassing - only 25.06 per cent of you got this one right! More 
+than half – 54.68 per cent – said 20cm. And you may have worked out why you 
+made the mistake as soon as you saw the answer.
+
+When books are stacked in volumes, the first page of each volume ends up on 
+the right side (as you face the shelf) and the last page is on the left side. 
+So to get from the first page of Vol 1 to the last page of Vol 3, you need to 
+count only the thickness of the (front) cover of Vol 1, the (back) cover of Vol 
+2, the pages of Vol 2, the (front) cover of Vol 2 and the (back) cover of Vol 
+3. Which is 5mm + 5mm + 6cm + 5mm + 5mm = 8cm
+
+2) Count upwards from ZERO thinking about the letters used in the names of 
+numbers. The letter F appears for the first time inFOUR. The letter A first 
+appears in ONE HUNDREDAND ONE.
+
+Keep on counting, noting the first appearance of each letter in the names of 
+numbers. What is the final letter that you will note down? In other words, when 
+counting upwards, what is the final letter to appear in the name of a number?
+
+Solution: C
+
+By the time we get to 101, we have used 19 letters of the alphabet - leaving 
+B, C, J, K, M, P and Q. Lets tick them off:
+
+MILLION, BILLION, QUADRILLION, SEPTILLION, OCTILLION
+
+So C is the last one to appear. J and K never appear in the name of any 
+number. (Kazillion doesn’t count).
+
+Again, most people got this one wrong. Your favourite choice was Q, with 22.74 
+per cent, then C (19.72), B (19.44), J (11.95), P (7.65), Y (6.76), M (5.23), K 
+(4.23), and D (2.29).
+
+3) The following statement is correct
+
+< F is the first and the seventh letter of this sentence.>
+
+Using the sentence above as a model, fill in the gap in the following sentence 
+to make it correct:
+
+<C is the first and the [...] letter of this sentence.>
+
+Solution: 
+
+C is the first and the forty-sixth letter of this sentence.
+
+4) Reorganise the letters of READING SLOW to form a single word.
+
+Solution:
+
+A SINGLE WORD
+
+Not really a trick question, but required some lateral thought... 
+Congratulations to Andy Knott, who has won a copy of my puzzle bookCan You 
+Solve My Problems? 
+<https://bookshop.theguardian.com/can-you-solve-my-problems.html/?utm_source=editoriallink&utm_medium=merch&utm_campaign=article>
+ for answering the problem correctly.
+
+I hope you enjoyed these puzzles, I’ll be back on September 26.
+
+I post a puzzle here on a Monday every two weeks. If you want to propose a 
+puzzle for this column, pleaseemail me <mailto:bellospuzzle@gmail.com> I’d love 
+to hear it.
+
+Thanks to Eric Angelini for puzzles 3 and 4 today.
+
+
+I’m the author of several books on maths, as well as the kids book Football 
+School: Where Football Explains the World <http://amzn.to/2bqxfYt> which uses 
+football to explain subjects like maths, English, geography, physics, music, 
+fashion, biology and more.
+
+My puzzle book Can You Solve My Problems? is out in November, but you can 
+preorder it here already at a discount 
+<https://bookshop.theguardian.com/can-you-solve-my-problems.html/?utm_source=editoriallink&utm_medium=merch&utm_campaign=article>
+.
+
+You can check me out on Twitter <https://twitter.com/alexbellos>, Facebook 
+<https://www.facebook.com/pages/Alex-Bellos/326738482347?ref=bookmarks>, Google+
+ <https://plus.google.com/u/0/100349853927591455618/posts>, my personal website 
+<http://www.alexbellos.com/> or my Guardian maths blog 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>.
+ 

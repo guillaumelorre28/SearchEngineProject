@@ -1,0 +1,69 @@
+
+The company that owns the infidelity site Ashley Madison, which suffered a 
+mass privacy breach 
+<https://www.theguardian.com/technology/2015/aug/19/ashley-madison-hackers-release-10gb-database-of-33m-infidelity-site-accounts>
+, has agreed to court-enforceable improvements in handling personal information.
+
+A joint Australian and Canadian privacy commissioner investigation into how 
+the details of millions of users were published online by hackers has released 
+a “highly critical” report of the website’s privacy.
+
+Among the users were hundreds of Australian government employees and thousands 
+of citizens,including some who had paid Ashley Madison to delete their accounts 
+<https://www.theguardian.com/technology/2015/aug/19/ashley-madisons-paid-delete-option-left-data-identifying-users-post-claims>
+.
+
+Ten questions Ashley Madison needs to answer
+ Read more  
+<https://www.theguardian.com/technology/2015/aug/21/ten-questions-ashley-madison-needs-to-answer>
+The hacked data, released on the dark web last year, included credit card 
+details, email accounts and home addresses.
+
+The joint report investigated the privacy practices of Ashley Madison’s parent 
+company Avid Life Media, and found it did not have an adequate information 
+security framework.
+
+In the first joint Australian-Canadian privacy investigation, the 
+commissioners investigated ALM’s retention of personal information after 
+profiles were deactivated.
+
+They also looked at ALM’s practice of not confirming the accuracy of users’ 
+email addresses and its transparency over handling of personal information.
+
+The report made a series of recommendations, all of which ALM has agreed to 
+implement.
+
+They include reviewing protections of personal information, advising staff of 
+security procedures, stopping retention of information from deactivated 
+accounts and no longer charging users to delete their information.
+
+The hackers, who called themselves the Impact Team, demanded the site be shut 
+down 
+<https://www.theguardian.com/technology/2015/jul/20/ashley-madison-hacked-cheating-site-total-shutdown>
+ before releasing the data in retaliation.
+
+The commissioners say the report contains important lessons for other 
+organisations that hold personal information.
+
+“The findings of our joint investigation reveal the risks to businesses when 
+they do not have a dedicated risk management process in place to protect 
+personal information,” the Australian privacy commissioner, Timothy Pilgrim, 
+said.
+
+Companies must think beyond IT systems to staff training, policies, oversight 
+and clear lines of authority, he said.
+
+Life after the Ashley Madison affair
+ Read more  
+<https://www.theguardian.com/technology/2016/feb/28/what-happened-after-ashley-madison-was-hacked>
+The commissioner also used the report to warn customers to guard their 
+personal data.
+
+“While ALM fell well short of the requirements we would expect for an 
+organisation managing personal information, breaches can occur in the best-run 
+companies,” Pilgrim said.
+
+“Be clear about what you are providing, the value you are getting in exchange, 
+and understand that no organisation is breach-proof.”
+
+ 

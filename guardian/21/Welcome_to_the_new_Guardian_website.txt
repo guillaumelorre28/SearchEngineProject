@@ -1,0 +1,162 @@
+
+The Guardian has a history stretching back almost 200 years of creating 
+world-class journalism. In more recent times, the Guardian has also become one 
+of the world’s most influential news organisations with newsrooms in the UK, 
+the US and Australia.
+
+The Guardian has reached more than 110 million unique browsers worldwide in a 
+month, while our readership in the UK also continues to grow. On any given day, 
+Guardian readers are using thousands of different types of devices to read, 
+view, discuss and share our journalism with each other. The amount of device 
+types on which you can access the Guardian will only continue to increase so we 
+want to make sure that we always provide you with a consistent, fast-loading, 
+familiar and pleasurable experience, whatever your screen size.
+
+Today we are launching a new site which has been built and designed from the 
+ground up by the Guardian’s in-house team of designers, journalists, 
+user-experience architects, product managers, developers and software engineers.
+
+The new Guardian site presents you with a more compact view of the news agenda 
+as it changes throughout the day and night. The new design will also give you 
+more visual clues about each story’s relative importance and its editorial 
+tone, whether it is a breaking news story or a live blog, a piece of analysis, 
+a piece of opinion, a feature or a review.
+
+Our videos, photo galleries and interactives are now more seamlessly 
+integrated into everything we publish, instead of treating them as separate 
+areas of the site. Videos can now be embedded and played anywhere within our 
+homepages and articles.
+
+And where we own the necessary rights to them, you can embed Guardian videos 
+into your own site or blog.
+ Playable video on our Sport homepage. 
+
+Our new photo galleries 
+<https://www.theguardian.com/world/gallery/2010/sep/21/aerial-views-of-new-york>
+ allow you to either scroll through the images, swipe through them on mobile 
+devices or to view them in an opulent full-screen mode while using your 
+keyboard’s arrow-keys to browse through them. You can also choose to view all 
+the images in one story in gallery view.
+ A comment featured on the right-hand side of a Guardian article. 
+Your comments in discussion threads can now also be presented in the first 
+screen 
+<https://www.theguardian.com/commentisfree/2015/jan/22/paris-attacks-right-to-offend>
+of an article and not only below the fold.
+
+And within each article, our editors now have many new ways of recommending 
+related material to you so that you can more easily find the most pertinent 
+analysis or opinion piece that refers to a news report or vice versa.
+ Our editors now have new ways of displaying links to our journalism in 
+article pages. 
+We have also made our topic pages easier to browse by grouping content by 
+date, either by day or month depending on the amount of stories we have 
+published. You can see some exampleshere 
+<https://www.theguardian.com/artanddesign/photography> and here 
+<https://www.theguardian.com/world/greece>.
+
+
+Our new live blogs 
+<https://www.theguardian.com/business/live/2015/jan/28/greek-government-privatisation-programme-alexis-tsiptas-live>
+ make it much easier to stay up-to-date during an unfolding news or sports 
+event. A bullet point list gives you the essence of the story, while a separate 
+list of key events allows you to quickly scan what has happened since you have 
+visited that blog last. And if you like football, you might have noticed 
+already that our new match stats and league tables are now integrated into the 
+live blogs.
+
+The Guardian’s journalists are voracious readers themselves and often know 
+where to find the most interesting pieces of journalism from our competitors 
+each day. “Why not share these insights with our readers?”we thought, and have 
+added a collection of daily recommendations to our new homepage, called “what 
+we are reading <https://www.theguardian.com/uk#what-we're-reading>”. 
+
+The new site’s navigation contains a personalised element which allows you to 
+quickly visit the areas of the site you go to most often. You can access these 
+personal links by clicking on the “browse all sections” button on your desktop 
+computer or the “all” button on your mobile screen. Apreferences page 
+<https://www.theguardian.com/preferences> allows you to edit or to deactivate 
+these personalised links.
+
+A third of all visits to the Guardian each month contain a view of the 
+homepage or one of our section homepages and the more loyal a reader becomes, 
+the more often she or he tends to visit the homepage, which is why we have also 
+invested a good amount of time into studying how our readers are actually using 
+our homepage.
+ Recently visited links. 
+From personally interviewing our readers around the world and from anonymised 
+data analysis, we learned that there are three main motives to visit our 
+homepage. We call them “update”, “extend” and “discover”.
+
+“Update” is by far the most frequent motive and describes the journey of 
+readers who visit the Guardian – often many times a day – to find out about the 
+news-agenda in general, or about news from their area of interest, whether it 
+is sports, culture, the economy or any other topic the Guardian covers each day.
+
+“Extend” describes the motivation to then gain a deeper understanding of a 
+specific story which usually demands more time than a quick news update.
+
+The third motive, “discover”, is rather a whole group of motives, such as the 
+wish to find inspiration and surprise, new perspectives, interesting debates 
+with other readers or entertainment.
+
+These research insights have guided us in testing and developing homepages and 
+section pages that are not just reflections of a newsroom’s internal 
+organisation – foreign, home, business, culture, sport and so on – but 
+reflections of our readers’ typical journeys and needs.
+
+To make sure we are getting this right, we developed the new site completely 
+out in the open. Starting in early 2014, we introduced a prototype of the new 
+site to 5% of our desktop readers around the world and asked them for their 
+feedback. And if you are a developer and want to take a closer look at the 
+site’s inner working, most of our code is ongithub <https://github.com/guardian>
+, a publicly accessible code repository.
+
+ Thousands of readers took part in this project and have provided us with more 
+than 130,000 pieces of detailed feedback . In addition, we have personally 
+interviewed hundreds of readers in the UK, the US and Australia and have also 
+analysed how millions of our anonymous readers were using our new site each day 
+while we were constantly releasing new versions of it. (If you are interested 
+in a more detailed account of what we learned from your feedback and what we 
+have done about it, please read thisblogpost 
+<http://next.theguardian.com/blog/your-feedback-latest-updates/> by Nick Haley, 
+the Guardian’s director of user experience.)
+
+After studying what was really happening on our beta homepage each day, we 
+then decided to take a new route and have developed a set of building blocks 
+whichwe call “containers” 
+<http://next.theguardian.com/blog/container-model-blended-content/>. 
+
+The new homepages and each article page are made up of various such containers 
+or modules. These do exactly what their slightly technical name suggests. They 
+“contain” words, pictures, videos, graphics and data. Our editors can group 
+them together flexibly and within minutes by topic, by story type, by tone or 
+by importance.
+
+So instead of building one big page according to a rigid template – news here, 
+features there – our editors can create modular homepages and article pages to 
+create a representation of what is important each and every day and then also 
+embed these collections directly in other article pages so that the majority of 
+readers who won’t visit the homepage can still get the most out of the Guardian.
+
+While designing, building and testing the Guardian’s new site, our in-house 
+team has also built a new set of editorial tools for our journalists to create 
+and publish their stories. These new tools will give our journalists many new 
+capabilities to publish with much more ease and to enrich their journalism with 
+original material from the web whenever this can provide more context to a 
+story.
+
+Our team will continue to develop this new site and will keep releasing little 
+changes to it every day.
+
+We are aware of how different this new site is from what our most loyal 
+readers have been used tosince our last relaunch in 2007 
+<https://www.theguardian.com/news/blog/2007/may/10/newlookforgu>. The Guardian 
+owes a lot to its old site and to the brilliant team that built and maintained 
+it for so many years. Yet we also realised – across all departments and teams – 
+that the time had come to completely renew the site so it can support the 
+Guardian’s and the Observer’s mission in the years to come and serve you, 
+wherever you are in the world and whichever device you are using.
+
+We thank you all for your continued feedback and we hope you will enjoy the 
+new site and come back often.
+ 

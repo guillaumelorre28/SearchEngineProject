@@ -1,0 +1,121 @@
+
+When Kevin Poulsen, a former hacker who now edits at Wired magazine, came up 
+with the idea two years ago of creating an open-source drop box for leaked 
+documents along the lines ofWikiLeaks 
+<https://www.theguardian.com/media/wikileaks>, he could not have imagined that 
+its launch would coincide with one of the most aggressive US government 
+assaults on press freedom in a generation.
+
+Deaddrop <http://deaddrop.github.io/> unveiled itself to the world on 
+Thursday, three days afterAssociated Press revealed 
+<https://www.theguardian.com/world/2013/may/13/america-government-associated-press-phone-records>
+ that it had been subjected to a "massive and unprecedented intrusion" into its 
+news gathering by the Justice Department. Leak investigators had obtained phone 
+records of more than 20 telephone lines used by AP journalists, without the 
+news agency being informed of the violation.
+
+For Poulsen, this week's coincidental confluence of events underlines the 
+potential value and importance of the DeadDrop project. "With the risks now so 
+high – not just from the US government but also the Chinese government that is 
+hacking newsrooms in the West – it's crucial that news outlets find a secure 
+route for sources to come to them."
+
+But this week's AP saga has also underscored the perils involved for anyone 
+brave enough to try and leak information. As a further reminder of the dangers, 
+Bradley Manning will go on trial next month facing possible life in military 
+custody with no chance of parole for having been the source of the huge 
+WikiLeaks trove of US state secrets.
+
+The Manning trial has a further relevance to the launch of DeadDrop, Poulsen 
+believes. In a pre-trial hearing in February,Manning disclosed 
+<https://www.theguardian.com/world/2013/feb/28/manning-washington-post-new-york-times?INTCMP=SRCH>
+ that before making contact with WikiLeaks he had attempted to hand his 
+enormous mountain of digital documents to the Washington Post, New York Times 
+and Politico but failed to find a way into any of those organisations.
+
+"This is the important lesson here. There was no natural route for Manning to 
+gain entry, and it was a simple idea from WikiLeaks of creating a web forum 
+where documents could be securely uploaded that led to their huge scoops."
+
+DeadDrop relies on code that was written by the open data campaigner Aaron 
+Swartz <https://www.theguardian.com/technology/aaron-swartz> and completed just 
+a month before he committed suicide in January. It will be open for any person 
+or institution to use and develop. Poulsen expects that some people will spin 
+off their own versions – or "fork the code" as it's known in the business – 
+while a canonical top copy will be maintained that can be constantly updated 
+and improved.
+
+The first major use of the code has been pioneered by the New Yorker, Wired's 
+sister magazine within Condé Nast, which has posted its version on its website 
+under the titleStrongbox <http://www.newyorker.com/strongbox/>. Nicholas 
+Thompson, editor ofnewyorker.com <>, hopes that the new anonymous information 
+sharing service will help redress the imbalance in what he calls the "data arms 
+race".
+
+"Technology for surveillance and data capture by companies monitoring our 
+behaviour has developed at such a pace that data privacy has failed to keep up. 
+It's an arms race between data capture and data privacy, and data capture is 
+winning."
+
+The drop box is already a leap ahead of the technology used by WikiLeaks in 
+that it allows for a two-way communication between source and journalist, and 
+not just a one-way handing over of information. Sources are able to upload 
+documents anonymously through the Tor network onto servers that will be kept 
+separate from the New Yorker's main computer system. Leakers are then given a 
+unique code name that allows New Yorker reporters or editors to contact them 
+through messages left on Strongbox.
+
+Early reviews of the service have generally been favourable. Jonathan Stray of 
+the Overview Project praises 
+<http://source.mozillaopennews.org/en-US/articles/strongbox-reactions-part-ii/> 
+the use of the Tor network as the "gold standard for anonymous online 
+communication".
+
+But Stray warns potential leakers against being lulled into a false sense of 
+safety: "I think we need to understand it is far from a complete solution to 
+the problem of source security."
+
+Strongbox may be secure, but if journalist and source are tempted to step 
+outside its boundaries and communicate in other ways – by phone or email, for 
+instance – they will leave behind a trail that can be traced. "Whether or not 
+this is a problem depends on who you are trying to keep secrets from – as the 
+recent secret DOJ subpoena of AP phone records shows," Stray writes.
+
+That danger was neatly illustrated by Bradley Manning. He was undone not 
+through any breach in the secure channels through which he uploaded information 
+to WikiLeaks, but because he engaged in a web-chat with the former hacker 
+Adrian Lamo who then shopped him to the authorities.
+
+Paradoxically, the transcript of those web chats were first published by 
+Wired, having been brought to the magazine by Kevin Poulsen.
+
+So far, experimentation with the creation of drop boxes to facilitate 
+anonymous digital leaking has failed to reach the dizzy heights that WikiLeaks 
+attained in 2010. Since 2011, WikiLeaks and its founder Julian Assange have 
+been so beleaguered by legal and financial problems that they have closed their 
+secure uploading channel altogether; the only way currently to pass information 
+to the organisation is through direct contact with one of its small inner 
+coterie.
+
+An attempt by WikiLeaks defector Daniel Domscheit-Berg to create a spin-off 
+called OpenLeaks has failed to make much impression. Similarly disappointing 
+results have been experienced by mainstream news organisations attempting to 
+take on the mantle of WikiLeaks.
+
+The Wall Street Journal came under heavy criticism for the technical glitches 
+contained in its anonymous drop box,SafeHouse <https://www.wsjsafehouse.com/>, 
+launched in 2011 that analysts said could have put leakers at risk of 
+detection. The service is still available on wsj.com, but the Journal declined 
+to comment about it suggesting it has been less than an unqualified success.
+
+The New York Times also considered setting up a leakers' drop box in 2011, but 
+decided not to go ahead. A spokeswoman said: "As with any potential reporting 
+tool, we'll likely revisit the idea in the future as our reporting needs 
+evolve."
+
+Jay Rosen, media critic at New York university, said the patchy record of such 
+innovations told their own story. "It's obvious the difficulties are greater 
+than we thought. Since WikiLeaks, the authorities have become much more 
+aggressive in prosecuting, and we're still a long way from offering confidence 
+in this system."
+ 

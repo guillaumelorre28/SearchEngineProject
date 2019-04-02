@@ -1,0 +1,91 @@
+
+Facebook <https://www.theguardian.com/technology/facebook> is starting to 
+bypass adblockers on its desktop website, in the company’s first major foray 
+into the war between advertisers and those who would see an internet without 
+any advertising at all.
+
+Between them, Facebook and Google control an astonishing 64% 
+<http://www.bloomberg.com/news/articles/2016-04-22/google-and-facebook-lead-digital-ad-industry-to-revenue-record>
+ of the digital advertising market, but that doesn’t mean the two companies are 
+immune to the prevailing trend, which has seen usage of adblockersdouble in 
+just over two years 
+<https://www.theguardian.com/media/2016/apr/20/adblocking-uk-web-users>.
+
+But their approaches to the problem has been very different. Google has become 
+the key member of the “acceptable ads” programme run by Adblock Plus, the 
+leading desktop adblocker. That programme allows selected adverts through its 
+mesh provided they are unintrusive and technically secure – and provided the 
+advertiser (if they’re above a certain size) pays Adblock Plus a cut of the 
+revenue. That has seen the programme branded “extortion” by some, including 
+German publishers Zeit Online GmbH and Handelsblatt GmbH,who lost a court case 
+<https://pagefair.com/blog/2015/german-court-clears-adblock-plus-of-extortion-charge/>
+ on just that claim.
+
+In Britain, culture secretary John Whittingdale described adblocking 
+<https://www.theguardian.com/media/2016/mar/02/adblocking-protection-racket-john-whittingdale>
+ as a “modern-day protection racket”, widely interpreted as a reference to the 
+Adblock Plus whitelist.
+
+In its blogpost announcing the change 
+<http://newsroom.fb.com/news/2016/08/a-new-way-to-control-the-ads-you-see-on-facebook-and-an-update-on-ad-blocking/>
+, Facebook also made a sideswipe at the acceptable ads programme. “Some 
+adblocking companies accept money in exchange for showing ads that they 
+previously blocked – a practice that is at best confusing to people and that 
+reduces the funding needed to support the journalism and other free services 
+that we enjoy on the web,” wrote Andrew Bosworth, the company’s advertising 
+head.
+
+“Facebook is one of those free services, and ads support our mission of giving 
+people the power to share and making the world more open and connected. Rather 
+than paying adblocking companies to unblock the ads we show – as some of these 
+companies have invited us to do in the past – we’re putting control in people’s 
+hands with our updated ad preferences and our other advertising controls.”
+
+The company will only be bypassing adblockers on the desktop version of its 
+website for now, meaning users of mobile adblockers will continue to experience 
+an ad-free version. But the vast majority of Facebook’s mobile users use the 
+company’s apps, which are largely immune to adblockers.
+
+The new controls allow users to manually remove certain preferences from their 
+Facebook profile, ensuring that, for instance, they can opt-out of adverts on 
+catseven if the site has profiled them as being a cat lover 
+<https://www.theguardian.com/lifeandstyle/2016/aug/08/cat-people-versus-dog-people-facebook-study>
+. Users can also now manually opt-out of certain customer lists, ensuring that 
+“liking” a page doesn’t saddle you with adverts from that firm forever.
+
+Facebook hopes that those new controls will sweeten the bitter pill for former 
+adblocking users. But the company, which hasn’t disclosed how it will be 
+bypassing the adblockers’ technology, is likely to find itself embroiled in an 
+arms race with adblocking firms themselves.
+
+Adblock Plus suggested as much 
+<https://adblockplus.org/blog/oh-well-looks-like-facebook-just-got-all-anti-user>
+ in its response to the announcement, saying that Facebook’s decision was “an 
+unfortunate move, because it takes a dark path against user choice”.
+
+The firm’s founder, Till Faida, added that “circumvention of adblockers 
+happens every day: since the invention of spam filters, spammers have always 
+tried to work around them. So far I haven’t seen anything that was hard to 
+tackle.”
+
+Adblock Plus also hit back at Facebook where it hurts: the company’s bottom 
+line. “It’s hard to imagine Facebook or the brands that are being advertised on 
+its site getting any sort of value for their ad dollar here: publishers (like 
+Facebook) alienate their audience and advertisers (the brands) allow their 
+cherished brand name to be shoved down people’s throats.”
+
+That assessment has come on a bad day for Facebook’s own ad business, with 
+Proctor and Gamble, the world’s biggest advertiser, announcing plans to scale 
+back Facebook adverts that target specific customers.
+
+“We targeted too much and we went too narrow,” the company’s head of marketing 
+told the Wall Street Journal 
+<http://www.wsj.com/articles/p-g-to-scale-back-targeted-facebook-ads-1470760949>
+, “and now we’re looking at: What is the best way to get the most reach but 
+also the right precision?”
+
+P&G won’t yet scale back overall spending on Facebook, but will instead switch 
+to the company’s more traditional display adverts, and only use targeted 
+adverts when it makes total sense – for instance, baby products for expecting 
+mothers.
+ 

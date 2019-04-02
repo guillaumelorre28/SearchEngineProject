@@ -1,0 +1,150 @@
+
+Now that Apple Macs have gone up rather steeply in price, they are finally out 
+of my price range. I would like to replace my MacBook Pro with a PC that 
+matches it as closely as possible: well-built, robust, reliable, fast, and with 
+a good, sharp screen. I use my Mac for all the usual surfing, watching videos, 
+listening to music and so on. I also use Adobe Photoshop pretty heavily and 
+video-editing software more lightly. I’m open to either a laptop or a desktop. 
+Patrick
+
+As the old saying has it: “Good, cheap, fast – pick any two.” This is 
+particularly true forWindows <https://www.theguardian.com/technology/windows> 
+laptops, where dozens of companies are competing mainly on price.
+
+Things are different for Apple. As the only supplier of MacBooks it can do 
+what it likes. This includes doing things its users don’t like, such as 
+soldering SSD and memory chips to motherboards and dropping MagSafe, SD slots 
+and standard USB 3 ports from its latest MacBook Pros. This would be suicidal 
+in the Windows market, where buyers can switch suppliers in seconds.
+
+Of course, different users want different things, so the big suppliers – 
+Lenovo, Dell, HP, Asus, Acer etc – have different ranges for different market 
+segments. Dell, for example, makes three ranges for consumers (Inspiron, XPS, 
+Alienware), three ranges for business users (Latitude, OptiPlex, Precision), 
+and the Vostro range for the soho (small office/home office) market. It 
+therefore caters to budget/price-sensitive buyers (Inspiron and Latitude), 
+prestige/quality conscious buyers (XPS, OptiPlex), and performance-oriented/pro 
+buyers (Alienware games machines, Precision workstations).
+
+MacBooks don’t fit this kind of scheme. They’re over-engineered consumer 
+laptops with enough performance for most professional purposes. Not many 
+Windows laptop manufacturers can charge pro prices for consumer designs, though 
+Microsoft is having a go.
+
+As a result, you will have to compromise. However, you can find Windows 
+laptops that are comparable to MacBooks in many respects, but cheaper. Just 
+look for the various “prestige” consumer ranges such as Dell’s XPS, HP’s 
+Spectre and Asus’s ZenBook.
+
+Apple prices
+
+Apple has just released new MacBook Pro laptops. There are three versions of 
+the 13in MacBook Pro with Intel Core i5 processors and 8GB of memory at £1,449, 
+£1,749 and £1,949. There are also new 15in MacBook Pros with Core i7 processors 
+and 16GB of memory for £2,349 and £2,699. All prices include VAT but not port 
+adaptors or AppleCare support.
+
+You haven’t given me a budget, but halving Apple’s cheapest new MacBook Pro 
+prices would suggest a range of £725 to £1,200. This is in the same ballpark as 
+the survivors from the old ranges – 13in MacBook Airs at £949 and £1,249, plus 
+the MacBook at £1,249 – which I assume you will also consider.
+
+Laptop options
+
+The Dell XPS 13 and 15 are the most obvious alternatives to MacBooks. 
+Unfortunately, they are at the top of this price range. You can still get an 
+old-modelXPS 13 (9350) 
+<http://www.dell.com/uk/p/xps-13-9350-laptop/pd?ref=PD_OC> for £899, but that 
+has a Core i5-6200U with only 4GB of memory. The latest9360 version 
+<http://www.dell.com/uk/p/xps-13-9360-laptop/pd?ref=PD_OC> has a 2.5GHz Core 
+i5-7200U, 8GB of memory and a 128GB SSD for £999. If you go for a 512GB SSD at 
+£1,099, you’re only saving £400 on a new 2.0GHz MacBook Pro.
+
+The Dell XPS 15 <http://www.dell.com/uk/p/xps-15-9550-laptop/pd?ref=PD_OC> is 
+better value. You get a Core i7-6700HQ, 8GB of memory, Nvidia GeForce GTX 960M 
+graphics with 2GB of video memory, and a 256GB SSD for £1,249. It has a 
+Thunderbolt 3 port, two USB 3.0 ports, HDMI and an SD card slot. It’s also 
+small and light for a machine with a 15in screen. It measures 357 x 235mm 
+(roughly 14 x 9in) and weighs 1.78kg (3.9lbs). This compares with 349 x 241mm 
+and 1.83kg (4.02lbs) for the new “thinner and lighter” MacBook Pro 15, which 
+costs £1,100 more.
+
+HP’s Spectre x360 range 
+<http://store.hp.com/UKStore/Merch/Offer.aspx?p=c-spectre-x360> offers similar 
+features to Dell’s XPS range, except that all the x360 laptops have touch 
+screens that you can rotate to enable “tent” (eg for movie viewing) or tablet 
+operation.
+
+The cheapest model is the HP Spectre x360 13-4126na. This has a 13in screen, a 
+Core i5-6200U processor, 8GB of memory and a 256GB SSD for £999. You can 
+upgrade to an HP Spectre x360 13-4129na with better screen resolution – 2560 x 
+1440 instead of 1920 x 1080 – plus a 2.5GHz Core i7-6500U and 512GB SSD for 
+£1,199. Again, this is not much cheaper than a 2.0GHz MacBook Pro 13.
+
+Yet again, the 15in HP Spectre x360 15-ap007na 
+<http://store.hp.com/UKStore/Merch/Product.aspx?sel=NTB&id=T1D64EA&opt=ABU&p=c-spectre-x360>
+ is better value. For only £100 more, you get a 4K (3840 x 2160) screen, a Core 
+i7-6560U with Intel Iris Graphics 540, 16GB of memory, and a 512GB SSD in a 
+1.82kg machine. Even at £1,299, it’s still £1,050 cheaper than the new MacBook 
+Pro 15.
+
+Cheaper and cheaper
+
+You could also look at the Lenovo ThinkPad T560 
+<http://shop.lenovo.com/gb/en/laptops/thinkpad/t-series/t560/>, which is a 
+robust, professional 15.6in laptop that starts at £751.19. The main attraction 
+is that you can customise it from a menu with a huge range of options. You 
+could get one with a Core i5-6200U, 8GB of memory, Nvidia GeForce 940MX with 
+2GB, a 256GB SSD and Windows 10 Home for £901.19 – and that includes three 
+years of on-site service. Upgrading the second battery from 47WHr to 72WHr 
+would add another £12. Upgrading the RAM to 16GB would add £52.80. Upgrading 
+the CPU to a Core i7-6600U would add £260.
+
+The Asus ZenBooks <https://www.asus.com/uk/Notebooks/ASUS-ZenBook-UX330UA/> 
+may also appeal because of their Apple-style aluminium unibody construction, 
+though they’re really aimed at MacBook and MacBook Air users. TheZenBook 
+UX330UA-FB025T 
+<https://www.amazon.co.uk/ASUS-UX330UA-FB025T-Notebook-i5-6200U-Bluetooth/dp/B01LYTPQKT/>
+ with a 3200 x 1800 screen, Core i5-6200U, 8GB of memory and 256GB SSD is good 
+value at £749.99. PC World has the similarUX310UA for £649.99 
+<http://www.pcworld.co.uk/gbuk/computing/laptops/laptops/asus-zenbook-ux310ua-13-3-laptop-grey-10146532-pdt.html>
+, and you can find many other models if you shop around.
+
+Possibly the cheapest just-about-viable option is the 14in Lenovo IdeaPad 510S 
+<http://shop.lenovo.com/gb/en/laptops/ideapad/500-series/510s-14-inch/>, which 
+is a step down from the ZenBooks. All the various models have 1920 x 1080-pixel 
+screens and 8GB of memory. The cheapest on Lenovo’s website has a 2.4GHz Core 
+i3-7100U and a 128GB SSD for £509.99, while the most expensive has a 2.9GHz 
+Core i5-6267U and a 256GB SSD for £599.99. However,John Lewis 
+<http://www.johnlewis.com/lenovo-ideapad-510s-laptop-intel-core-i7-8gb-ram-256gb-ssd-14-full-hd/p2839973?keepBundleLink=true&_requestid=10290792>
+ has a silver one with a Core i7-6567U for £599.99, so that might be worth a 
+look.
+
+Of course, there are hundreds of cheaper Windows laptops, starting at less 
+than £150 <http://www.argos.co.uk/product/5163519>. It just depends how far you 
+are willing to drop your standards. Chips cost money, so below a certain point, 
+price reductions may be coming from compromises on the quality of the case, 
+keyboard, trackpad and screen. If they break, you just buy another.
+
+Why not a desktop?
+
+You mention that you’re “open to either a laptop or a desktop”. If so, you 
+could get more power and better ergonomics by buying a desktop. I covered this 
+last week inWhich desktop PC should I buy for working from home? 
+<https://www.theguardian.com/technology/askjack/2016/nov/10/which-desktop-pc-should-i-buy-for-working-from-home>
+ If you went for a Lenovo ThinkCenter M800, you would have many of the same 
+options as when configuring a ThinkPad T560 laptop. You would also be able to 
+add your own upgrades immediately or after another five years or whatever.
+
+If you don’t need to replace your laptop in a hurry, you could wait to see 
+whether Apple brings out a new version of theMac Mini 
+<http://www.apple.com/uk/shop/buy-mac/mac-mini> next year. The current model 
+was launched in 2010 and hasn’t been updated for more than two years. It’s not 
+really expandable – the memory is soldered in – and not very good value (£479 
+to £949), but it’s small and it runs MacOS. A21.5in iMac 
+<http://www.apple.com/uk/shop/buy-mac/imac> (£1,049 to £1,449) could be an 
+option too.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

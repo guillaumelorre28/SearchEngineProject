@@ -1,0 +1,229 @@
+
+Think of a world where more new medicines are available more quickly, more 
+safely and with few, if any, animals used in research. Think of a world where 
+you know for sure that the drug you are prescribed is safe for you. This is 
+what researchers at some of the world's leading universities are trying to 
+bring about.
+
+Academics from disciplines as far apart as computer science and biology are 
+growing mini-human hearts in a lab or creating a model of the human biological 
+system on a common computer chip. Their aim is to bring to an end to what has 
+been called the "pharmaceutical ice age", an era of ever more research but 
+fewer medicines reaching the shelves of Boots.
+
+According to the Association of the British Pharmaceutical Industry, it can 
+take up to 12 years and £1.15bn before a new medicine reaches the high street. 
+For that one medicine, 25,000 chemicals will have been tested, 25 potential 
+drugs will have had human clinical trials, perhaps five will have been passed 
+by the regulators and only one will have been marketed by a drugs company. Even 
+after that, a good number of drugs have to be withdrawn owing to previously 
+undetected side-effects.
+
+For some, the fault for this freeze is due to the pharmaceutical industry's 
+obsession with mergers and acquisitions or a culture that inhibits innovation. 
+For others, it is a sign that perhaps there just aren't many chemical compounds 
+that can interact with the body and have a positive effect; or even that the 
+tools scientists use during discovery and early-stage testing mean the wrong 
+drugs go to human trials.
+
+While animal testing is a regulatory requirement for any new drugs, it remains 
+a fairly unpredictable guide to how a drug will react in humans. Testing drugs 
+on cells in a petri dish allows much higher dosages than with an animal, but is 
+an unreliable guide as to how they might interact with the human body. Virtual 
+computer models of the likely impact of a drug have also, up to now, largely 
+been based on the reactions of a single cell.
+
+Now scientists are trying to use new technology to make drug testing faster, 
+cheaper – and more accurate – by modelling more closely how a chemical 
+interacts with the human body. They hope to do this to the point where a drug 
+could be declared safe for a certain section of the population or even 
+personally safe for you.
+
+"Over the past 15–20 years, there has been a dramatic increase in results from 
+biomedical research," says Richard Seabrook, head of business development at 
+the Wellcome Trust. "However, this hasn't led to an equally dramatic increase 
+in new medicines approved.It has been pretty static in Europe and the US. This 
+might be because it is a relatively rare event for a small chemical to interact 
+with the human body and have a positive effect."
+
+Dr Kathryn Chapman <http://www.nc3rs.org.uk/dr-kathryn-chapman>, head of 
+innovation and translation atNC3Rs <http://www.nc3rs.org.uk/>, the National 
+Centre for the Replacement, Refinement and Reduction of Animals in Research, 
+says: "There has been a pharmaceutical ice age over the last 20–25 years. So 
+people have been trying to find new ways of doing things, as the old ways don't 
+work, and the money is there for this. The issue with all these technologies is 
+how to add on the complexity."
+
+"The problem has been that the discovery of new drugs hasn't been given as 
+much like-by-like value by analysts as the development of drugs that can shift 
+the share price," saysProfessor S John Lyon 
+<http://www.wbs.ac.uk/about/person/john-lyon> of Warwick Business School. "The 
+development of new drugs also has to follow strict regulations laid down by 
+bodies like the FDA."
+
+The tag line for the Wyss Institute at Harvard is "biologically inspired 
+engineering". ProfessorDonald Ingber 
+<http://wyss.harvard.edu/viewpage/121/donald-e-ingber>, the institute's 
+founding director, is fulfilling this aim by being one of the pioneers of the 
+concept of an "organ on a chip", which involves placing the human cells and 
+fluids necessary to mimic the complexity of human physiology on a single, tiny 
+piece of see-through, flexible silicone rubber the size of a USB stick. In his 
+new startup, Emulate, these chips will be mass-produced for the first time.
+
+The chips have fluid flowing through them, so you can connect them to each 
+other, creating a "human on a chip" where lungs, livers, intestines, skin, 
+kidneys and eyes can be integrated to simulate how a whole body would interact 
+with a new drug.
+
+"You could write a 2,000-word article just on this pharmaceutical ice age 
+alone," laughsTED speaker Dr Geraldine A Hamilton 
+<https://www.ted.com/talks/geraldine_hamilton_body_parts_on_a_chip> who works 
+with Ingber to develop the technology and commercialise it, and who move to 
+become president and CSO of Emulate in the coming months.
+
+"The structures you find yourself working in can stifle innovation. Every time 
+companies merge, productivity goes down. Then there has been a problem with the 
+tools they use during testing. Often, cells are put in a simple petri dish, but 
+they live in a complex dynamic organic environment with each other. Animals can 
+fail to predict in humans how drugs will work. Different animal species may 
+give you different answers as to whether a drug is toxic for humans. Which one 
+do you trust? Many good drugs are lost at that point.
+
+"So we recreate the conditions the cells find themselves in by using 
+micro-engineering to provide them with all the cellular integration, fluids and 
+even mechanical forces that they are used to, such as breathing in and out. We 
+can also connect them in our human bioemulation platform to model and better 
+understand diseases, and to study how humans respond to drugs."
+
+Until now, the complexity of chips meant they had to be made by hand, limiting 
+their numbers. It also introduced variability, whereas they need to be 
+reproducible and robust. So, in partnership with Sony, the team has worked on 
+ways of scaling up the manufacture. This is the key to translating this 
+technology to industry, Hamilton believes.
+ Illustration by Dale Edwin Murray. 
+Meanwhile, in the labs of Abertay University, Dundee, Professor Nikolai Zhelev 
+<> has mass produced thousands of miniature hearts 1mm across that can beat 30 
+times a minute. "This is the first time it's been possible to induce diseases 
+in them, so it's an exciting area of research," says Zhelev. "After they start 
+beating, we use chemicals to make the cells become hypertrophic – enlarged – 
+and then we test different compounds and drugs on them to see if we can prevent 
+them from becoming hypertrophic or even everse the damage.'
+
+Biosensors or markers enable his team to track individual molecules to see 
+which cause the hearts to become enlarged so they can target new drugs just at 
+these molecules. The implications of this are important. For example, they are 
+developing a cancer drug that is already in human trials and initial tests 
+suggest it could work on full-size hearts as well.
+
+"Mini hearts are much better than using animals to test drugs – they are 
+closer to the real thing and they should speed up the time it takes to move 
+towards clinical trials," says Zhelev.
+
+"Our mini hearts are a real biological system providing relevant answers to 
+drug screening efforts. Virtual drug testing faces enormous challenges in such 
+complex systems. However, this is an area which is advancing rapidly with the 
+development of mathematical and computational modelling approaches."
+
+Far away from the petri dishes and lab coats, but just around the corner from 
+Oxford University's animal testing laboratory and the protesters outside it, 
+researchers in the Department of Computer Science believe that they have made a 
+breakthrough in the use of virtual computer models to simulate heart cells and 
+eventually skin, brain cells, and whole organs, for the faster and more 
+accurate testing of the toxicity of drugs at an early stage. Their researchto 
+develop the Virtual Assay software <http://www.cs.ox.ac.uk/ccs/tools> has been 
+funded by the Engineering and Physical Science Council.
+
+Rather than moving their research into the private sector, they have decided 
+to stay within the university and will release their software free for 
+academics in September and in due course it may be licensed as an app-style 
+product to the pharmaceutical industry.
+
+"It is exciting to feel that you are exploring a genuine frontier," says PhD 
+student Oliver Britton <https://www.youtube.com/watch?v=FzlGOI7_oyk>, one of 
+five finalists in the Transforming Society category of the 2014 UK ICT Pioneers 
+ <http://www.epsrc.ac.uk/newsevents/news/ukictpioneers2014/>competition and on 
+whose research this project is based.
+
+Virtual computer models comprise a large collection of equations that describe 
+how components of a cell interact with one another and with physical quantities 
+such as the voltage of the cell's membrane or concentrations of chemicals such 
+as calcium and potassium.
+
+"We solve these equations using computers and doing this allows us to simulate 
+how a heart cell might behave in different conditions," says Britton.
+
+"A lot of scepticism about the accuracy and usefulness of virtual models comes 
+from a misunderstanding of how they should be used," saysBlanca Rodriguez 
+<http://www.cs.ox.ac.uk/people/blanca.rodriguez/>, Wellcome Trust senior 
+research fellow in basic biomedical sciences. "If you ask a model to do 
+something and it can't then you will be disappointed." In the past, she 
+explains, a model might use one cell so when you did the computational 
+experiment you got an output that corresponded to just one cell. "If you did an 
+actual experiment, you would never trust the outcome of just one cell because 
+there is a high degree of variability."
+
+"So we came up with this idea of using a population of varied models," says 
+Britton. "This was the key step, as we can achieve more accurate results by 
+first generating lots of different models of a human heart cell, then 
+simulating how they would behave in control conditions and then discarding 
+those that don't fit the range of experimental data we have available."
+
+"The challenge is to understand the limitations of the model such as in terms 
+of what it can predict and then start to refine it," says Rodriguez. "The 
+success of it will depend on how easy it is to use."
+
+Seabrook warns that it is "a long way off" before any of these technologies 
+are accepted instead of animals. "There needs to a lot of very good evidence 
+that the result of using these technologies is predictive of what is happening 
+in the human body."
+
+The problem, he says, is that predictions about the impact of a new drug are 
+built on existing evidence. "So you don't know what you don't know, and you 
+don't know how a chemical will behave in a body until you do it."
+
+"If you think about it, a pill is swallowed to get into the intestine, 
+absorbed through the gut and then has to get to where the disease is, whether 
+in the brain, eye or lungs. So during this process chemicals are exposed to 
+proteins, enzymes and cells so it is hard for any technology to predict 
+reliably how it will interact with human body."
+
+He accepts these technologies mean we should get there quicker and so the more 
+technology is available the quicker the process will be, and the easier it will 
+be, to put your effort into promising candidates for new medicines. "If you are 
+going to fail, fail early," he says.
+
+The drive to melt the ice age has also encouraged the development of new 
+approaches such as those that use DNA and human proteins. Kathryn Chapman 
+agrees that the technology is as yet unproven and years of data will be needed 
+before you can use it to really start to reduce the number of experiments on 
+animals.
+
+"There is a powerful cultural mindset about how you do drug development. It is 
+the courtroom argument. Would you be happy standing up in a court of law to 
+explain why you hadn't tested this drug on animals?
+
+"Still, if the process changes and allows the technology to be taken up then 
+the outcome will hopefully be better drugs and faster."
+
+In June, the US Food and Drug Administration (FDA) proposed changes to how 
+molecular entities are assessed that could open the door to new tools such as 
+VirtualAssay. Ultimately, new techniques may allow the personalisation of 
+medicine, so "you may even be able to use your own stem cells to test 
+side-effects on you. That will be a massive shift," says Seabrook.
+
+For Bina Rawal 
+<http://www.abpi.org.uk/media-centre/biographies/Pages/bina-rawal.aspx>, 
+research director at the Association of the British Pharmaceutical Industry, 
+this is all part of a "tremendous acceleration" in new approaches to testing. 
+This is indicative of "a cultural shift within pharma too," she says. "The 
+model has been adapted to be all about collaborations, working together and 
+open innovation. This industry is traditionally very competitive, but now in 
+the pre-commercial stage there is more sharing to stop everyone going up a 
+blind alley."
+
+Perhaps the ice age is ending.
+
+* When this article was first published it included an incorrect figure for 
+the cost of developing a new medicine, the correct figure is £1.15bn, this was 
+amended on 27 August 2014.
+ 

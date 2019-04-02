@@ -1,0 +1,88 @@
+
+Earlier today I set you the following puzzle 
+<https://www.theguardian.com/science/2017/jan/16/can-you-solve-it-the-whisky-puzzle-that-will-have-you-on-the-rocks>
+:
+
+A full whisky bottle has a height of 27cm and a diameter of 7cm, and contains 
+750 cubic centimetres of whisky. It has a dome-like indentation at the bottom 
+like many bottles do.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F16%2Fdid-you-solve-it-the-whisky-puzzle-that-will-have-you-on-the-rocks%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-1%23img-1&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fa1c49afe82b35a6f465475ff040ac8ff5e136367%2F40_412_1891_1134%2F1891.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20The%20whisky%20puzzle%20that%20could%20have%20you%20on%20the%20rocks&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F16%2Fdid-you-solve-it-the-whisky-puzzle-that-will-have-you-on-the-rocks%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-1%23img-1>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20The%20whisky%20puzzle%20that%20could%20have%20you%20on%20the%20rocks&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F16%2Fdid-you-solve-it-the-whisky-puzzle-that-will-have-you-on-the-rocks%3Fpage%3Dwith%3Aimg-1%23img-1&media=https%3A%2F%2Fmedia.guim.co.uk%2Fa1c49afe82b35a6f465475ff040ac8ff5e136367%2F40_412_1891_1134%2F1891.jpg>
+Whisky <https://www.theguardian.com/lifeandstyle/whisky> was drunk. Now the 
+bottle only has 14cm of whisky left in it. When you turn the bottle over, it 
+has 19cm of whisky.How much whisky is still in the bottle, in cubic centimetres?
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F16%2Fdid-you-solve-it-the-whisky-puzzle-that-will-have-you-on-the-rocks%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F0586db223b68e0a3379750f1a65e1f726dd1a3e4%2F130_202_1716_1203%2F1716.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20The%20whisky%20puzzle%20that%20could%20have%20you%20on%20the%20rocks&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F16%2Fdid-you-solve-it-the-whisky-puzzle-that-will-have-you-on-the-rocks%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20The%20whisky%20puzzle%20that%20could%20have%20you%20on%20the%20rocks&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F16%2Fdid-you-solve-it-the-whisky-puzzle-that-will-have-you-on-the-rocks%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F0586db223b68e0a3379750f1a65e1f726dd1a3e4%2F130_202_1716_1203%2F1716.jpg>
+Solution
+
+This is a beautiful puzzle. It’s nicest solution is brief and elegant, relying 
+on a single insight. If you used simultaneous equations, like many who 
+commented or shared the puzzle on social media, you were overcomplicating the 
+matter.
+
+Bernardo Recamán, the Colombian maths educator who suggested it to me, says 
+that his students always find the solution a surprise.
+
+“When they ask for a hint, I tell them to drink some of it, though not so much 
+to blur their minds.”
+
+How much should they drink?
+
+Exactly 3cm. And here’s why.
+
+When the upright bottle has 14cm of whisky, there is 13cm above it with no 
+whisky.
+
+If I drink 3cm of the whisky, leaving 11cm, there would now be 16cm above it 
+with no whisky.
+
+And if we upturned the bottle, it would now have 19 –3 = 16cm of whisky. In 
+other words, the volume of whisky in the bottle is equal to the volume with no 
+whisky, meaning the bottle ishalf full.
+
+So, the whisky in the bottle is equal to half the bottle’s volume plus 3cm of 
+whisky.
+
+The full bottle is 750cc, so half the bottle is 375cc. 
+
+The volume of 3cm of whisky is πr2 x 3cm, where r is the radius of the bottle. 
+Since the diameter is 7cm, the radius is 3.5, so the volume of 3cm is:
+
+3.14 x (3.5)2 x 3 = 115 cc (approximately).
+
+The whisky left in the bottle = 375 +115 = 490 cc approx.
+
+Lovely. No equations. 
+
+Chin chin!
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F16%2Fdid-you-solve-it-the-whisky-puzzle-that-will-have-you-on-the-rocks%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20The%20whisky%20puzzle%20that%20could%20have%20you%20on%20the%20rocks&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F16%2Fdid-you-solve-it-the-whisky-puzzle-that-will-have-you-on-the-rocks%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20The%20whisky%20puzzle%20that%20could%20have%20you%20on%20the%20rocks&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2017%2Fjan%2F16%2Fdid-you-solve-it-the-whisky-puzzle-that-will-have-you-on-the-rocks%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+I set a puzzle here every two weeks on a Monday. I’m always on the look-out 
+for great puzzles. If you would like to suggest one,email me 
+<mailto:bellospuzzle@gmail.com>.
+
+
+It is believed today’s puzzle, which has appeared on The Math Forum 
+<http://mathforum.org/wagon/2014/p1191.html>, was originally devised by the US 
+mathematician Robin Hartshorne.
+
+My most recent book Can You Solve My Problems? A Casebook of Ingenious, 
+Perplexing and Totally Satisfying Puzzlesis available from the Guardian Bookshop
+ 
+<https://bookshop.theguardian.com/can-you-solve-my-problems.html?utm_source=editoriallink&utm_medium=merch&utm_campaign=article>
+ andother retailers <http://amzn.to/2fFUeCA>. My children’s book Football 
+School: Where Football Explains The World <http://amzn.to/2h1Xj2o> was recently 
+shortlisted for the Blue Peter Book Award 2017.
+ 

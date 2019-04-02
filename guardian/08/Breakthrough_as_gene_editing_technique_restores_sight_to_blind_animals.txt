@@ -1,0 +1,76 @@
+
+Blind animals have had their vision partially restored using a revolutionary 
+DNA editing technique that scientists say could in future be applied to a range 
+of devastating genetic diseases.
+
+The study <http://nature.com/articles/doi:10.1038/nature20565> is the first to 
+demonstrate that agene editing tool, called Crispr 
+<https://www.theguardian.com/science/2015/sep/02/genome-editing-how-to-modify-genetic-faults-and-the-human-germline>
+, can be used to replace faulty genes with working versions in the cells of 
+adults - in this case adult rats.
+
+Previously, the powerful procedure, in which strands of DNA are snipped out 
+and replaced, had been used only in dividing cells - such as those in an embryo 
+- and scientists had struggled to apply it to non-dividing cells that make up 
+most adult tissue, including the brain, heart, kidneys and liver.
+
+The latest advance paves the way for Crispr to be used to treat a range of 
+incurable illnesses, such as muscular dystrophy, haemophilia and cystic 
+fibrosis, by overwriting aberrant genes with a healthy working version.
+
+
+Professor Juan Carlos Izpisua Belmonte, who led the work at the Salk Institute 
+in California, said: “For the first time, we can enter into cells that do not 
+divide and modify the DNA at will. The possible applications of this discovery 
+are vast.”
+
+The technique could be trialled in humans in as little as one or two years, he 
+predicted, adding that the team were already working on developing therapies 
+for muscular dystrophy.
+
+Crispr, a tool sometimes referred to as “molecular scissors”, has already been 
+hailed as a game-changer in genetics because it allows scientists to cut 
+precise sections of DNA and replace them with synthetic, healthy replacements.
+
+In stable cells in living organisms, however, the DNA is less accessible, and 
+scientists had not managed to achieve the same “cut and paste” editing. This 
+meant that while Crispr could potentially be used to remove genetic mutations 
+from embryos it not clear whether it also could be harnessed as a therapy for 
+children and adults with genetic disorders.
+
+The latest study, published in the journal Nature, demonstrates that adult 
+rats that had been engineered to have a genetic form of blindness called
+retinitis pigmentosa 
+<https://www.theguardian.com/lifeandstyle/2014/nov/09/glimmer-of-hope-for-children-facing-blindness-retinitis-pigmentosa>
+ could be treated using Crispr gene therapy.
+
+The condition, which affects about one in 4,000 people, occurs when a faulty 
+gene causes retinal cells to gradually die off, leading to blindness. The 
+scientists targeted the retinal cells by injecting a virus, carrying a package 
+of gene-editing instructions, into the eyes of blind three-week-old rats.
+
+When the rats were eight weeks old, the animals were shown to respond to light 
+- although their vision was not fully restored - and they passed several tests 
+indicating healing in their retinal cells.
+
+“We were able to improve the vision of these blind rats,” said co-lead author 
+Reyna Hernandez-Benitez, also of the Salk Institute. “This early success 
+suggests that this technology is very promising.”
+
+The treatment could be improved by being administered earlier, when less 
+damage had been done, the scientists said. Before being used in humans, it 
+would also need to be made more efficient, as only about 5% of cells had their 
+faulty DNA replaced, the study found.
+
+
+Professor Robert MacLaren, who works on gene therapy at the University of 
+Oxford and was not involved in the research, said: “Getting the DNA into cells 
+that are not dividing is quite an advance. This has got huge potential.”
+
+However, he said that the authors’ predicted timeline for clinical trials was 
+“extremely optimistic”, suggesting that more extensive safety studies would be 
+essential first. “The potential drawback is that you’ve got something that goes 
+around in cells snipping DNA. Assuming that safety studies show Crispr doesn’t 
+damage healthy DNA, I think we could see this in clinical trials within five 
+years.”
+ 

@@ -1,0 +1,176 @@
+
+‘I paid to delete my Ashley Madison account but I’m still on the database’ – 
+Anonymous
+
+I joined Ashley Madison <https://www.theguardian.com/technology/ashley-madison>
+ this year, during a very, very stressful period, both personally and 
+professionally. But my intentions were never actually to meet another woman, 
+and I quickly realised that this was not going to be a good way of meeting new 
+people.
+
+In total, I used the site for a single month, getting almost zero responses. 
+Once I realised that it was going nowhere, and that I would have never left my 
+family behind, I decided to just quit. So I paid my€19 (£15) 
+<https://www.theguardian.com/technology/2015/aug/19/ashley-madisons-paid-delete-option-left-data-identifying-users-post-claims>
+ to get rid of everything, deleted the mobile app and removed everything: email 
+accounts, messages, etc.
+
+A month later, I learned about the leak from Brian Krebs 
+<http://www.krebsonsecurity.com/>. I have been working in the IT field since I 
+left university back in 1999, and when the dump was finally made public, well: 
+curiosity killed the cat. I decided to download the files.
+
+I felt a cold sweat when I saw my details in the dump. It was me, I knew that; 
+it was not a hack, or a fake account. Needless to say, I opened all the 
+databases up and started searching for more details, trying to see how deep 
+they got. My credit card transactions were there, which linked to other tables 
+with my full name, and even my GPS location. So much for the “full delete” – if 
+Ashley Madison charged for a service they didn’t provide, I would like to know.
+
+Over the last few days, my feelings have changed from fear to anger. Ethics 
+aside, why did I get charged for deletion and then [was] still on the database? 
+Why can they not just delete your fucking profile as if it never happened?
+
+Then I decided to contact customer service and ask why I was there. A couple 
+of days later, they told me:
+
+“Our records indicate that your account was deleted using the Full Profile 
+Deletion option on 7 July, 2015.
+
+“At Ashley Madison your privacy is of the utmost importance to us. Rest 
+assured that the feature you chose is the best way to make sure your profile is 
+completely removed from our service… It is like you were never even here.”
+
+So why is my name in their database?
+
+I plan to claim damages, if there are more like me. I definitely expect some 
+money from them. What I did to my family is on me, but what they have done to 
+me is wrong. And they won’t write a letter to my wife saying I never signed up, 
+will they?
+
+I haven’t told my wife. I don’t even know if I should.
+
+Ten questions Ashley Madison needs to answer
+ Read more  
+<https://www.theguardian.com/technology/2015/aug/21/ten-questions-ashley-madison-needs-to-answer>
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2015%2Faug%2F20%2Fradio-presenters-woman-husband-cheated-ashley-madison-live-on-air-audio&picture=http%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Faudio%2Fvideo%2F2015%2F8%2F20%2F1440065884644%2FKP_397381_crop_640x480.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Radio%20presenters%20tell%20woman%20her%20husband%20was%20Ashley%20Madison%20user%20live%20on%20air%20%E2%80%93%20audio&url=http%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2015%2Faug%2F20%2Fradio-presenters-woman-husband-cheated-ashley-madison-live-on-air-audio>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Radio%20presenters%20tell%20woman%20her%20husband%20was%20Ashley%20Madison%20user%20live%20on%20air%20%E2%80%93%20audio&url=http%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2015%2Faug%2F20%2Fradio-presenters-woman-husband-cheated-ashley-madison-live-on-air-audio&media=http%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Faudio%2Fvideo%2F2015%2F8%2F20%2F1440065884644%2FKP_397381_crop_640x480.jpg>
+ Breakfast show hosts on Australian radio stationNova FM 
+<http://www.novafm.com.au/> reveal to a woman, live on air, that her partner 
+was registered with Ashley Madison 
+‘It felt awful finding his address on there’ - Lydia, Albany, New York
+
+
+I looked up my fiance’s email 
+<https://www.theguardian.com/technology/2015/aug/21/should-you-look-up-your-partners-details-in-the-leaked-ashley-madison-profile-list>
+ address yesterday, mostly out of curiosity and also a nagging feeling that 
+something wasn’t quite right. He’s been better recently, but in the past he’s 
+been super secretive with his phone.
+
+The first email I tried said that his name wasn’t on the list, and his 
+information hadn’t been found. I felt a huge sense of relief. But then I 
+remembered he has a second email address. I plugged that email in and, really, 
+I was more expecting it to not be found than confirmed. But it came up as being 
+on the list. My fiance’s a smart guy and I thought that at least he’d make up a 
+new email address.
+
+I think he will deny things. He may say that he created it before we got 
+together three and a half years ago. But it’s a known site for people seeking 
+affairs. This means he either cheated on me or he encouraged someone else to 
+cheat on their partner. It’s a violation of trust, and once it’s gone it’s gone.
+
+He may say that someone used his email and that someone else set it up. But I 
+don’t think someone would have done that. It’s not like he’s a high-profile 
+politician or athlete. It just seems highly unlikely that someone would be out 
+to get your average Joe by setting up a fake profile.
+
+It felt awful finding his address on there. I still feel awful. We are engaged 
+and planning a wedding. I’m really confused about why he would do it. I was 
+trying to get him to have sex with me more. Why he would seek out affairs with 
+other women I have no idea.
+
+I’m planning on confronting him but not yet. I don’t have much support around 
+me. Now, I’m looking for a job in my home town where my family lives and if I 
+find one I’ll move back. We don’t have any property together, but we do have a 
+few bank accounts that I’ll have to organise.
+
+If he wants to win back my trust, he could log in and show me the account. I’m 
+quite sure that like most sites that require an email, they offer a password 
+retrieval system by sending a forgotten password to the email address on file. 
+Then together, we could look at the page. I think that then it would be pretty 
+obvious if it was a real or fake profile.
+
+Hackers release new Ashley Madison data targeting site's CEO and operators
+ Read more  
+<https://www.theguardian.com/technology/2015/aug/20/hackers-new-ashley-madison-data>
+‘I didn’t do anything to deserve the judgment and ridicule’ - Erin, 30 
+
+
+A few years ago I found out my husband was trying to have an affair. He had 
+created a profile on Ashley Madison. I was devastated. Of course I only told my 
+closest friends. Now the names of Ashley Madison members could be posted online 
+or made public. Mylocal radio station is even going to list  
+<https://www.theguardian.com/technology/2015/aug/20/radio-hosts-tell-woman-live-on-air-her-husband-had-ashley-madison-account>
+the names of local people. Some would say my husband deserves this as a 
+consequence of his actions. But do I? My name is attached to his. I didn’t do 
+anything to deserve the potential judgment and ridicule by my friends and 
+family who aren’t aware.
+
+We don’t have any kids at this time so I dodged a bullet there. Children with 
+parents in similar circumstances definitely do not deserve it. This is an issue 
+I feel like isn’t getting enough attention amongst all the media buzz right now.
+
+My husband and I are still doing the best we can. Of course having to deal 
+with this reminds me of all the hurt and pain caused when I found out he was 
+trying to cheat a few years ago. Right now all we can do is just wait and see 
+if the names become public and if people will actually post lists that people 
+we know will read. If that happens and people we love and care about find out, 
+I can only hope they will love and care about us enough to know not to be harsh 
+and try to be understanding.
+
+‘I heard the site was mostly fake women, this proves it’ – Anonymous, 40, New 
+Jersey
+
+I looked up my husband’s email and he was on there. I confronted him and he 
+denied it. We both went to the Ashley Madison site together and there was an 
+option to reset the password. We entered his email and lo and behold we 
+received a link to reset the password.
+
+When we reset the password and logged in, his account was for a woman, and 
+very attractive woman with a fake photograph.
+
+I had heard that the website was mostly fake women, and this proves it. I 
+think a lot of emails were stolen and used to create accounts, as my husband’s 
+was.
+
+‘Just because your email is on it doesn’t mean you’re an adulterer’ – 
+Anonymous, 31, London
+
+I signed up years ago, when they first launched in the UK. I had a girlfriend 
+at the time, but wasn’t looking to cheat. I just wanted to see what it was all 
+about as there were lots of articles in the papers about it at the time and I 
+couldn’t quite believe it existed.
+
+But I saw it for what it was, which is a smattering of pretty sad people and a 
+vast trawl of evidently fake accounts and prostitutes. After about 10 minutes I 
+found out they wouldn’t delete your account without paying, so I just logged 
+off and forgot about it. I didn’t have a profile, so didn’t give them my credit 
+cards, photos or anything like that, just my email address that was needed to 
+access the site.
+
+When the hack happened I checked to see if my email address was still there. 
+It is on the list. The irony that the hack was protesting the lack of a delete 
+function is not lost on me. The trouble for me is that I’m now married with 
+kids. I’m pretty scared that my wife, or someone else, will check my email 
+address and assume I signed up much more recently than I did.
+
+I think it’s pretty abysmal. It also doesn’t tell the full story. Email being 
+present means you’re an adulterer is just wrong. I’m sure that the vast 
+majority of people who signed up were just like me, but they’re not being 
+reported on. Headlines such as ‘1.2m UK adulterers’ ID leaked’ are just not 
+accurate.
+ 

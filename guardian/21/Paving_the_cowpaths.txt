@@ -1,0 +1,93 @@
+
+Websites are full of compromises. They provide a general view that caters for 
+the majority. However, we know you don’t always want what the majority wants.
+
+Your interests are different from your neighbour’s, and probably different 
+from your partner’s, friends’ or family’s. We also know that if we update the 
+navigation on our site, then finding your regular topics again can be 
+frustrating as you learn where everything is – particularly for those of you 
+changing from our old site to the new one.
+
+We want to embrace different tastes, so we’ve introduced “recently visited” 
+links under ‘all sections’ that help you find the topics you’ve visited in the 
+past. If you’re not already using the beta, you can see this byswitching to our 
+beta site 
+<https://www.theguardian.com/preference/platform/mobile?page=http%3A%2F%2Fwww.theguardian.com%2Fuk%3Fview%3Dmobile%23opt-in-message>
+.
+
+
+Here are my own recently visited links:
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2015%2Fjan%2F23%2Fpaving-the-cowpaths-recent-history%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F1%2F23%2F1422024094164%2F50eac197-222c-49bd-bb52-e9a28b2b39b5-bestSizeAvailable.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Paving%20the%20cowpaths&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2015%2Fjan%2F23%2Fpaving-the-cowpaths-recent-history%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Paving%20the%20cowpaths&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2015%2Fjan%2F23%2Fpaving-the-cowpaths-recent-history%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F1%2F23%2F1422024094164%2F50eac197-222c-49bd-bb52-e9a28b2b39b5-bestSizeAvailable.png>
+ Recently visited links on theguardian.com 
+Yours probably look a lot different, but that’s ok!
+
+
+How does this work?
+
+As you read articles and navigate to different topics across the Guardian 
+site, we ask your browser to keeps a record of the sections you visit.
+
+We display up to 10 of these topics back to you, as shortcuts to return to 
+easily.
+
+
+I’ve never visited that stuff!
+
+Do you share a computer with someone else? If so, you might get mixed results. 
+We will explore ways in which we can link this to your signed-in account in the 
+future. You can remove the links you don’t like by clicking the ‘x’ on each one.
+
+I don’t like them. Can I switch them off?
+
+You can. Just click on the ‘edit’ button or visit the preferences 
+<https://www.theguardian.com/preferences> page. Delete them individually or 
+switch the feature off entirely.
+
+Please tell us why you don’t like them as well; leave a comment below. Are 
+they showing the wrong content, or are they just not useful? Drop a note to
+userhelp@theguardian.com <mailto:userhelp@theguardian.com> with any issues.
+
+
+I love them. How can I let you know?
+
+Feel free to comment below or drop me a tweet!
+
+What about my privacy?
+
+We respect your privacy and your shortcuts will never be made public. You can 
+easily remove individual items or turn the functionality off completely. If you 
+clear your browser cookies and storage, then these will automatically 
+disappear. Read more about ourcookie policy here 
+<https://www.theguardian.com/info/cookies>.
+
+What’s this about cowpaths?
+
+‘Paving the cowpaths’ is a term initially used to describe making common paths 
+easier to travel along. Folklore suggests it comes from the urban planning, or 
+apparent lack thereof, inBoston 
+<http://www.celebrateboston.com/strange/cow-paths.htm>. It suggests the 
+scrambled road system through the city was implemented by simply paving the 
+most common routes.
+
+Whether that’s true or not, it’s a term that’s used commonly in describing a 
+good user experience practice. This can also be described as a ‘desire path 
+<http://en.wikipedia.org/wiki/Desire_path>’ or ‘desire line 
+<http://www.adaptivepath.com/ideas/desire-lines-the-metaphor-that-keeps-on-giving/>
+’.
+
+
+When we’re designing for our users we want to provide paths that are natural 
+to each individual visitor and we don’t want you to have to re-learn the site 
+if it changes. If you have already navigated to a particular subject area, we 
+want you to be able to find it again easily.
+
+
+Our navigation reflects the subjects we think are important, but we also know 
+that everyone has their own preferences. We try to cater for both.
+ 

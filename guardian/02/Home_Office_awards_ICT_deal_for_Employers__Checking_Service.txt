@@ -1,0 +1,50 @@
+
+The Home Office has awarded Atos <https://www.theguardian.com/society/atos> IT 
+Services a contract for a range of services to support the Employers' Checking 
+Service (ECS) programme, including a web-based interface, data storage, 
+biometric chip reading technology and related support services.
+
+The ECS is run by the UK Border Agency 
+<http://www.ukba.homeoffice.gov.uk/business-sponsors/preventing-illegal-working/support/ecs/>
+ and enables employers to check the eligibility of potential employees to work 
+in the UK.
+
+According to a notice in the Official Journal of the European Union, the 
+four-year deal will include "optional future services" to allow remote checks, 
+which include biometric chip-reading technology for download and biometric chip 
+reading hardware for sale/rent.A tender notice published by the Home Office in 
+August 2011 
+<https://www.theguardian.com/government-computing-network/2011/aug/08/employers-checking-service-technology-tender>
+ said the contract would be worth £40m, although no value has been attached to 
+the award notice.
+
+Atos is expected to provide a high availability interface to handle data 
+gathering and staging, and the secure transfer of data to and from the UKBA in 
+"near real time". The contract also involves the display of return data, 
+history management checks and maintaining data in storage. Atos will also be 
+responsible for producing regular management information and managing payments 
+from customers.
+
+The notice goes onto say that the deal may be made available to other 
+government departments and agencies. The Home Office also expects time may be 
+needed to develop the technology.
+
+"UKBA anticipates a period of technological and service development and 
+testing after the award of concession and before the service is offered to the 
+public," it says.
+
+A spokesman for the Home Office told Guardian Government Computing that the 
+government's decision tosplit the UKBA in two 
+<https://www.theguardian.com/uk/2012/feb/20/border-agency-split-vine-report?intcmp=239>
+ is "unlikely to affect the ECS since it relates to those employees already in 
+the UK". He also said that the agency plans to roll out the biometric residence 
+permit for all non-European Economic Area migrants later this year.
+
+"Would be employers will be able to use these with the ECS to make sure 
+foreign nationals have the right to work in the UK," he added.
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Guardian Government 
+Computing network here. 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+ 

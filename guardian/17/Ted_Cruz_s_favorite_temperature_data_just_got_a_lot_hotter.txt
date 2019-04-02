@@ -1,0 +1,104 @@
+
+In a new paper 
+<http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0744.1?af=R&>, Carl 
+Mears and Frank Wentz at Remote Sensing Systems (RSS) have revised their data 
+set estimating the temperature of the Earth’s atmosphere. At his recent 
+congressional hearing, Ted Cruz presented the RSS datato incorrectly claim 
+<https://www.theguardian.com/environment/climate-consensus-97-per-cent/2016/jan/18/ted-cruz-fact-check-which-temperature-data-are-the-best>
+ that there’s been no global warming in over 18 years.
+
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8BnkI5vqr_0&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8BnkI5vqr_0>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8BnkI5vqr_0&media=>
+ Video explaining the satellite temperature record, by Peter Sinclair. 
+As I noted at the time 
+<https://www.theguardian.com/environment/climate-consensus-97-per-cent/2016/jan/18/ted-cruz-fact-check-which-temperature-data-are-the-best>
+, RSS had the only data that could remotely support Senator Cruz’s argument. 
+Surface and ocean temperatures have warmed, ice has melted, sea levels have 
+risen, species have been forced to migrate, spring has begun earlier, and so on.
+
+
+Even other estimates of the atmospheric temperature, of the same satellite 
+data by scientists at the University of Alabama at Huntsville (UAH), and by 
+weather balloons, indicate that the atmosphere is warming.Ted Cruz 
+<https://www.theguardian.com/us-news/ted-cruz> cherry picked RSS because it was 
+the lone outlier that seemed to support his preferred argument against the need 
+to take action to mitigate the risks posed by human-caused global warming.
+
+
+That’s no longer the case. In their new paper, Mears and Wentz detail the 
+revised RSS method to account for drift in the time of day at which satellites 
+measure the same location on Earth (known as “diurnal drift”, discussed by 
+Mears at the 0:47 mark in the above video). They applied a method suggested by 
+Stephen Po-Chedley and colleagues at the University of Washington in an 
+importantpaper covered by John Abraham last year 
+<https://www.theguardian.com/environment/climate-consensus-97-per-cent/2015/mar/25/one-satellite-data-set-is-underestimating-global-warming>
+. As a result, the new version of RSS (v4.0) shows about 60% more warming than 
+the previous version (v3.3) since the record began in 1979.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fmar%2F03%2Fted-cruzs-favorite-temperature-data-just-got-a-lot-hotter%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fd81f9436040d3eb10901c17bd70e425c95e09b2d%2F0_0_903_452%2F903.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Ted%20Cruz's%20favorite%20temperature%20data%20just%20got%20a%20lot%20hotter%20%7C%20Dana%20Nuccitelli&url=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fmar%2F03%2Fted-cruzs-favorite-temperature-data-just-got-a-lot-hotter%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Ted%20Cruz%27s%20favorite%20temperature%20data%20just%20got%20a%20lot%20hotter%20%7C%20Dana%20Nuccitelli&url=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fmar%2F03%2Fted-cruzs-favorite-temperature-data-just-got-a-lot-hotter%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fd81f9436040d3eb10901c17bd70e425c95e09b2d%2F0_0_903_452%2F903.jpg>
+ RSS mid-troposphere temperature, v3.3 and v4.0. Illustration: Mears & Wentz 
+(2016), Journal of Climate. 
+This new adjustment also helps to reconcile the divergence between atmospheric 
+temperature estimates from satellites and weather balloons 
+<https://tamino.wordpress.com/2015/12/11/ted-cruz-just-plain-wrong/>. Over most 
+of the temperature record, the estimates using the two different types of 
+instruments have been similar, and the satellite data are calibrated with the 
+weather ballon data. However, over the past decade, the weather balloons had 
+shown significantly more atmospheric warming than the satellite estimates. RSS 
+v4.0 goes a long way toward bringing these measurements into closer agreement.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fmar%2F03%2Fted-cruzs-favorite-temperature-data-just-got-a-lot-hotter%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F3201b404ce196ea146b70ebf6f7b1705acc36529%2F0_0_677_461%2F677.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Ted%20Cruz's%20favorite%20temperature%20data%20just%20got%20a%20lot%20hotter%20%7C%20Dana%20Nuccitelli&url=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fmar%2F03%2Fted-cruzs-favorite-temperature-data-just-got-a-lot-hotter%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Ted%20Cruz%27s%20favorite%20temperature%20data%20just%20got%20a%20lot%20hotter%20%7C%20Dana%20Nuccitelli&url=https%3A%2F%2Fwww.theguardian.com%2Fenvironment%2Fclimate-consensus-97-per-cent%2F2016%2Fmar%2F03%2Fted-cruzs-favorite-temperature-data-just-got-a-lot-hotter%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F3201b404ce196ea146b70ebf6f7b1705acc36529%2F0_0_677_461%2F677.jpg>
+ Mid troposphere temperature estimates and linear trends (2006–2015) from RSS 
+v3.3, RSS v4.0, UAH v6.0, and weather balloons (RATPAC). Illustration: Dana 
+Nuccitelli 
+As Joe Romm noted at Climate Progress 
+<http://thinkprogress.org/climate/2016/03/02/3755715/satellites-hottest-february-global-warming/>
+, Roy Spencer and John Christy at UAHspeculated over 4 years ago 
+<http://www.drroyspencer.com/2011/07/on-the-divergence-between-the-uah-and-rss-global-temperature-records/>
+ that the RSS diurnal drift correction method was introducing a cool bias into 
+their record.
+
+my UAH cohort and boss John Christy, who does the detailed matching between 
+satellites, is pretty convinced that the RSS data is undergoing spurious 
+cooling because RSS is still using the old NOAA-15 satellite which has a 
+decaying orbit, to which they are then applying a diurnal cycle drift 
+correction based upon a climate model, which does not quite match reality.
+
+This new paper and latest RSS adjustment once again highlight the challenges 
+scientists face in converting measurements of atmospheric microwave emissions 
+by satellites in orbit into a synthetic temperature estimate. It’s a 
+complicated process that requires a complex model with large uncertainties 
+involved, and as Carl Mears has noted, it’s certainly unwise to rely 
+exclusively on these estimates of one small component of the Earth’s climate to 
+evaluate global warming.
+
+Nevertheless, Spencer has just reported that February 2016 was the hottest 
+month on record 
+<http://www.drroyspencer.com/2016/03/uah-v6-global-temperature-update-for-feb-2016-0-83-deg-c-new-record/>
+ in the UAH data set;the same is true of RSS 
+<http://data.remss.com/msu/graphics/TMT_v40/time_series/RSS_TS_channel_TMT_Global_Land_And_Sea_v04_0.txt>
+, and weather balloons are also registering record hot atmospheric 
+temperatures, as the above chart shows.
+
+It’s now clear that Senator Cruz has been hoisted by his own petard. He and 
+his hearing witnesses claimed that the satellite data from RSS represent our 
+best measurement of global warming. Whilethat’s not true 
+<https://www.theguardian.com/environment/climate-consensus-97-per-cent/2016/jan/18/ted-cruz-fact-check-which-temperature-data-are-the-best>
+, this latest correction to the RSS record shows that global warming continues, 
+in the atmosphere as with every other component of the Earth’s climate, at 
+record hot levels. Instead of congressional hearings denying the existence of 
+global warming, we need hearings to debate the best way to solve the problem.
+
+ 

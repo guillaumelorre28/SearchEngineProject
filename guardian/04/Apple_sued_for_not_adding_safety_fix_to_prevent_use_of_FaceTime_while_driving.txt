@@ -1,0 +1,98 @@
+
+A couple whose five-year-old daughter was killed after a distracted driver 
+drove into their car is suing Apple for failing to introduce aniPhone 
+<https://www.theguardian.com/technology/iphone> safety feature it patented in 
+2014 to discourage people from using FaceTime while driving.
+
+The lawsuit, filed in Santa Clara superior county court, relates to an 
+incident that took place on Christmas Eve 2014, when a driver allegedly using 
+the FaceTime video chat application on his iPhone 6 Plus drove into the car of 
+Bethany and James Modisette. The couple, along with their daughters Isabella 
+and Moriah, were injured in the accident, and Moriah later died in the hospital 
+from her injuries.
+
+In their complaint, highlighted by Courthouse News 
+<http://courthousenews.com/family-sues-apple-over-wreck-caused-by-facetime/>, 
+the Modisettes claim that Apple should be held accountable for the accident 
+because the smartphone manufacturer had a patent for a safer version of 
+FaceTime designed to prevent people from using the video and voice call 
+application while driving.
+
+Despite filing the patent, Apple chose not to introduce the technology to its 
+iPhones. The patent in question, granted in April 2014, describes alock-out 
+mechanism 
+<https://www.theguardian.com/technology/2014/apr/24/apples-iphone-lock-out-patent-could-end-texting-while-driving>
+ that disables the mobile device from performing certain functions, such as 
+texting, while driving.
+
+The Modisettes allege 
+<http://courthousenews.com/wp-content/uploads/2016/12/FaceTime.pdf> that 
+Apple’s failure to introduce the patented feature, or warn users that using 
+FaceTime while driving could be dangerous, was a “substantial factor” in 
+causing their injuries and Moriah’s death.
+
+The case is not the first of its kind. Earlier this year, while checking her 
+iPhone for messages, Ashley Kubiakcrashed her truck 
+<http://www.nytimes.com/2016/09/25/technology/phone-makers-could-cut-off-drivers-so-why-dont-they.html?_r=0>
+ into another vehicle in Texas, killing its driver and leaving a child 
+paralyzed. The families of the victims also filed a case against Apple, 
+contending the company knew its phones would be used for texting and did not 
+prevent Kubiak from texting dangerously.
+
+Kubiak was convicted of negligent homicide and sentenced to five years on 
+probation.
+
+“Plaintiffs are saying to manufacturers: if your product unnecessarily diverts 
+the driver’s attention away from the road in the moment before a collision, you 
+may be on the hook,” said Nora Freeman Engstrom, a Stanford law professor.
+
+“If the plaintiffs were to prevail, the case could have sweeping implications, 
+not just for handheld devices, but for navigation systems, car radios – 
+potentially even fast food purchased at drive-through windows.”
+
+However, it will be difficult for the plaintiffs to show that it was the 
+iPhone that caused the accident when there is another actor – the distracted 
+driver – who could be labelled as a “superseding cause”.
+
+“A superseding cause breaks the causal chain, and here would relieve the 
+iPhone manufacturer of liability,” Engstrom said.
+
+A complicating factor in both of these cases is that the accidents took place 
+in Texas, where it’s mostly legal for drivers tomake phone calls 
+<http://www.txdot.gov/driver/laws/cellphones.html> while driving and there’s no 
+state-wideban on texting while driving 
+<http://www.jrlawfirm.com/blog/texas-texting-and-driving-laws-by-city/>, 
+although many cities have outlawed the practice.
+
+“Ordinarily if a manufacturer is being sued for an illegal use of their 
+product, they shouldn’t be liable,” said Eric Goldman, a professor at Santa 
+Clara University school of law.
+
+However, if the company knew that its devices could be used illegally and had 
+a way to prevent it, there may be grounds for liability – although such 
+liability would hinge on whether the technical solution (in this case, the 
+patented lock-out feature) was feasible.
+
+“There’s currently no way to determine whether or not the person using the 
+phone is driving. They could be the passenger,” said patent lawyer Mark Terry. 
+“I don’t think they have a sound legal premise.
+
+“A tragedy has happened and they are looking for a deep pocket. Apple 
+<https://www.theguardian.com/technology/apple> has a deep pocket so if anyone 
+can find a reason to hit them at all, they will,” he added.
+
+Goldman agrees. “This is what personal injury lawyers do,” he said.
+
+“They sue not only the person who caused the harm – the driver – and then 
+everyone else they can think of who might have contributed to the accident.”
+
+That’s not to say that cases like these won’t cause problems for device 
+manufacturers in the future.
+
+ “The patent proves that Apple knows, and has long known, that phone use and 
+driving is widespread and is dangerous,” Engstrom said. “Apple’s inaction in 
+the face of that knowledge may not trigger liability here. But it may well 
+expose Apple to liability down the road.”
+
+Apple did not respond to a request for comment.
+ 

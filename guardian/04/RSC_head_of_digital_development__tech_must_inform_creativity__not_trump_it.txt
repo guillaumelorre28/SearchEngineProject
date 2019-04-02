@@ -1,0 +1,139 @@
+
+Hi Sarah, what can you tell me about the Royal Shakespeare Company and your 
+role there?
+
+The Royal Shakespeare Company <http://www.rsc.org.uk/> (RSC) creates theatre 
+at its best, made in Stratford-upon-Avon and shared around the world. Everyone 
+at the RSC – from the actors and armourers to the musicians and technicians – 
+plays a part in creating the world you see on stage. All our productions start 
+at our Stratford workshops and theatres, before we bring them to the widest 
+possible audience through our touring, residencies, live broadcasts and online 
+activity. So wherever you experience the RSC, you experience work made in 
+Shakespeare’s home town. As head of digital development, I create new artistic 
+digital initiatives and partnerships. I also have responsibilities for digital 
+activity throughout the company.
+
+Your session at today’s Digital Utopias 
+<http://www.artscouncil.org.uk/jobs-and-conferences/conferences/digital-utopias/>
+ event will be about designing performance. How is performance at the RSC being 
+enhanced by new tech?
+
+Digital is not just online and virtual; it’s also personal and everyday. 
+Technology has changed our workforce, relationships, maps, economies and 
+priorities. However, artists can invert this so the technology itself becomes 
+changed, enabling new thinking. Performance design can challenge technology to 
+dance with an actor on stage: an email becomes a story; a text becomes a killer 
+line; anInstagram <http://instagram.com/> shot becomes a painting; a Vine 
+<https://vine.co/> becomes a scene; an LED gauze becomes a cloak of 
+invisibility. Digital is the live conversation of the day and the arts is the 
+crucible where we come together to shape, evolve and make sense of what is 
+before us.
+
+At the event I’ll be referencing several key examples from our online space, 
+myShakespeare <http://myshakespeare.rsc.org.uk/>, where we commissioned 
+artists, poets, technologists, coders, writers, musicians and students to 
+create new work that interpreted Shakespeare online. We created a data 
+aggregator calledBanquo <http://myshakespeare.rsc.org.uk/banquo/>, which showed 
+us Shakespeare’s world through Twitter,Flickr <https://www.flickr.com/> and eBay
+ <http://www.ebay.co.uk/>. We also turned Shakespeare quotes into news 
+headings. Platforms such asTumblr <https://www.tumblr.com/> and YouTube 
+<https://www.youtube.com/> became a canvas for writers. Video mapping traced an 
+actor’s movements on stage. We placed sensors around the building to bring it 
+alive online and tell the story.
+
+Another example happened in 2013, when we explored what A Midsummer Night’s 
+Dream would look like online andthrough social media <http://dream40.org/>. It 
+was an ambitious experiment that saw us commission a group of artists to work 
+with a wider online community, who uploaded user-generated content. The 
+performance took place over three days. More than 3,000 pieces of content were 
+shared (one-third of which were created by the public) and reached 30 million 
+people on social media.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fculture-professionals-network%2F2015%2Fjan%2F20%2Frsc-digital-development-tech-shakespeare%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-1%23img-1&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F1%2F20%2F1421754196017%2F8dbc5205-e31c-4bf1-88dc-88a6c9c8c8a2-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=RSC%20head%20of%20digital%20development%3A%20tech%20must%20inform%20creativity%2C%20not%20trump%20it%20%7C%20Arts%20head&url=https%3A%2F%2Fwww.theguardian.com%2Fculture-professionals-network%2F2015%2Fjan%2F20%2Frsc-digital-development-tech-shakespeare%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-1%23img-1>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=RSC%20head%20of%20digital%20development%3A%20tech%20must%20inform%20creativity%2C%20not%20trump%20it%20%7C%20Arts%20head&url=https%3A%2F%2Fwww.theguardian.com%2Fculture-professionals-network%2F2015%2Fjan%2F20%2Frsc-digital-development-tech-shakespeare%3Fpage%3Dwith%3Aimg-1%23img-1&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F1%2F20%2F1421754196017%2F8dbc5205-e31c-4bf1-88dc-88a6c9c8c8a2-2060x1236.jpeg>
+ A Raspberry Pi unit 
+We also recently produced a prototype theatre book with creative duo Davy and 
+Kristin McGuire, funded byReact <http://www.react-hub.org.uk/>. It’s a 
+beautifully-crafted physical object that uses the structure of a pop-up book, 
+so when you turn the page, the story comes to life with pinpoint 
+projection-mapped accuracy through carefully positioned mirrors and 
+micro-projectors connected byRaspberry Pi 
+<http://www.raspberrypi.org/help/what-is-a-raspberry-pi/> computer units.
+
+What are the challenges in combining performance with digital platforms and 
+technology?
+
+Although some technologies, such as those involving devices, have become 
+cheaper, there are still considerable costs involved. Projection mapping, 
+coding and programmer time – technical expertise found outside the arts sector 
+– are often far greater than an arts budget can afford. I think that will 
+change as more technology skills are developed in-house and within the sector, 
+but it’s a challenge for now.
+
+Guaranteeing the functionality and reliability of new technologies are also 
+challenges. RSC productions are performed every day in theatres around the 
+world, so the technology needs to be robust, reliable and fixable.
+
+Is there ever a danger the tech can trump the creative elements of a 
+performance?
+
+You have to ask yourself: is it a performance or a showcase? Are you telling a 
+story or presenting a piece of tech and need a story to support it? Why are we 
+using this technology to do this job? Could it be done by something else? So 
+long as the tech is there to inform the creativity, rather than the other way 
+round, it shouldn’t be a problem.
+
+Do you think arts organisations could do more to embrace digital?
+
+Yes, organisations are doing more to embrace digital and we should keep 
+encouraging them to do so. A wave of early adopters and digital pioneers within 
+organisations did a huge amount to create the conditions we have now.Digital 
+<https://www.theguardian.com/culture-professionals-network/digital> is a 
+mainstream conversation for the arts and we’re mapping that landscape together. 
+Support and development still have a way to go, but we’re at a different stage 
+to what we were a few years ago.
+
+I’ve seen a lot of great practice over the past few years from a wide range of 
+organisations:Watershed <http://www.watershed.co.uk/>, Tate 
+<http://www.tate.org.uk/>, the V&A <http://www.vam.ac.uk/>, Storythings 
+<http://storythings.com/>, Caper <http://wearecaper.com/>, Culture 24 
+<http://www.weareculture24.org.uk/>,  <http://www.blasttheory.co.uk/>Abandon 
+Normal Devices <http://www.andfestival.org.uk/>, Blast Theory 
+<http://www.blasttheory.co.uk/>, Coney <http://coneyhq.org/h/> and Pilot Theatre
+ <http://pilot-theatre.net/> are all – in their own ways – shaping, questioning 
+and defining digital narratives in the arts. There are also plenty of 
+individual innovators in the sector with exploration in their DNA. They are 
+essential and need a different framework for their findings to come through, 
+which organisations can support.
+
+Digital will open up fantastic possibilities but also bring challenges. An 
+over-reliance on digital as a solution will create an imbalance and won’t bring 
+people with you. It’s important that we don’t try to create a one-size-fits-all 
+digital doctrine for the arts or reduce the cultural value debate to hits 
+online. We are in the digital age and it’s people’s imaginations and ingenuity 
+that can use technology to turn this into something amazing.
+
+Find out more about the Digital Utopias conference here  
+<http://www.artscouncil.org.uk/jobs-and-conferences/conferences/digital-utopias/>
+
+Sarah Ellis is head of digital development at the Royal Shakespeare Company  
+<http://www.rsc.org.uk/>
+
+More like this
+
+• Rifco chief: ‘Diversity does not always mean cost’ 
+<https://www.theguardian.com/culture-professionals-network/2015/jan/13/rifco-theatre-pravesh-kumar-interview>
+• Mary Rose Trust chief: from commanding officer to museum CEO 
+<https://www.theguardian.com/culture-professionals-network/2015/jan/06/mary-rose-trust-museum-john-lippiett>
+• More from our Arts head series 
+<https://www.theguardian.com/culture-professionals-network/series/arts-head>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+
+• The headline of this article was amended on 20 January 2015
+ 

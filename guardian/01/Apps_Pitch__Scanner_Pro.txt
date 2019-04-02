@@ -1,0 +1,105 @@
+
+The latest Apps Pitch comes from Ukrainian publisher Readdle, for its Scanner 
+Pro <http://itunes.apple.com/gb/app/scanner-pro-scan-multipage/id333710667?mt=8>
+ app for iOS. Originally released for iPhone in 2009, it was recently updated 
+with a native iPad version too.
+
+What does your app do?
+
+Scanner Pro transforms your iPhone or iPad 
+<https://www.theguardian.com/technology/ipad> into a portable scanner. The app 
+allows you to scan any document, receipt, whiteboard or paper note and converts 
+it into a good-looking PDF file.
+
+The special algorithm improves the quality of a scan by detecting the borders, 
+fixing geometry and removing the shades. The documents can be e-mailed or 
+shared instantly via Dropbox and Google Docs, or faxed.
+
+What platform(s) is it on, and what plans do you have for any others?
+
+Scanner Pro is a universal application, available both for iPhone and iPad. 
+Please note, only the new iPad has a decent camera to produce good results, 
+whereas the iPad 2 has only 0.7 MP camera.
+
+At Readdle, we primarily focus on the iOS platform. At the same time we keep 
+an eye on other platforms like Android and Windows Phone.
+
+What's the business model and why did you choose it?
+
+The business model is pretty straightforward: Scanner Pro is a paid 
+application, which does one great thing – scans documents and converts them 
+into PDFs. And the app does it well. We have created a value-based product, 
+rather than a pack of nice features. When you think about the amount of time 
+you can save with Scanner Pro, the price of £4.99 is already a bargain.
+
+We believe that such straightforward model works best for productivity apps. 
+Focusing on the main task is vital for a business tool, this is why we want to 
+keep our users free from various distractions (which are usually present in 
+free apps).
+
+Why is the app innovative - what are the key features that you think set it 
+apart and/or make best use of the platform?
+
+Looking back into 2009, it is clear that Scanner Pro had defined the whole 
+concept of scanning apps in the App Store. The idea of scanning with the iPhone 
+camera was great, because people always have their iPhones with them. Scanner 
+Pro took this technology to a whole new level, making really complex image 
+processing easy and fun.
+
+In less than a minute, you can scan and e-mail a 7-page agreement right from 
+your iPhone. The files can easily be shared via Dropbox or Google Drive. For 
+those who worry about privacy, password protection makes your app safe and 
+reliable.
+
+What's the competition like - what else is out there in this area?
+
+With 350,000 downloads and 80,000 monthly active users, Scanner Pro is one of 
+the most successful business apps out there. The competition is inevitable from 
+both hardware and software sides. However, the market is not saturated and we 
+want to help people discover the great things they can do with their iOS 
+devices.
+
+The main competitor for us is a traditional approach of using hardware 
+scanners by the majority of people. Of course, there are a few scanning apps in 
+the App Store. Each time we add something new to Scanner Pro, other apps add 
+similar features within several weeks. But until we are ahead of the 
+competition, copycats do not worry us that much.
+
+What are your future plans?
+
+We received a tremendous amount of feedback and knowledge from thousands of 
+our users by now, this is why Scanner Pro evolves. Finally, it is possible to 
+develop and implement this technology on a massive scale.
+
+Scanner Pro is being continuously improved. We are adding new use cases, 
+scenarios and features. For instance, an automatic sync between an iPhone and 
+iPad versions will be added soon. Once you scan something with your iPad, the 
+document will automatically appear on the iPhone (and vice-versa).
+
+At the same time, we are researching the way to do OCR properly. The new 
+version of Scanner Pro is coming out in two weeks with tons of UI improvements.
+
+Tell me about yourself and your company
+
+Readdle is a Ukrainian based company founded in 2007. We focus on creating 
+innovative business and productivity apps for iOS, which give great value for 
+those who use them.
+
+Over 4m users worldwide, top positions in the App Store, numerous awards and 
+most importantly great feedback from our users who are thankful are the things 
+that keep us going. A team of almost 30 people is currently located in Ukraine, 
+and we plan to open an office in the US this year.
+
+There are a few other popular apps from Readdle such as ReaddleDocs, PDF 
+Expert, Calendars and Printer Pro. The main goal for us is to create a new era 
+of mobile productivity.
+
+Imagine a scenario where you are away from the office scanning an agreement 
+with Scanner Pro, signing it with PDF Expert and e-mailing right away. Later 
+on, you are able to print it out with Printer Pro directly from your iOS device 
+(wirelessly).
+
+This is just one of many use cases our teams is working on. So an ultimate 
+goal for us is to lead the innovation and simplification of mobile technology 
+in business and personal productivity.
+ 

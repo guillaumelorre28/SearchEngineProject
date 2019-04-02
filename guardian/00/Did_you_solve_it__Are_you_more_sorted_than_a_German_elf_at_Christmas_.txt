@@ -1,0 +1,102 @@
+
+Earlier today I set you the following puzzle 
+<https://www.theguardian.com/science/2016/dec/19/can-you-solve-it-are-you-more-sorted-than-a-german-elf-at-christmas>
+, from a Christmas quiz set by the German Mathematical Society. About 80 per 
+cent of German 12 to 14-year-olds gave the correct answer.
+
+Below are the first four prototypes of a machine designed by elves designed to 
+sort presents by weight. Each machine sorts four presents at a time. The four 
+presents are placed in the top, and then fall through the slides. Where two 
+presents meet at a crossing, the lighter present goes to the left, and the 
+heavier one goes to the right. This is repeated until all four presents are at 
+the bottom.
+
+Four elves, Fredi (39kg), Oswald (34kg), Iphis (28kg), and Esmeralda (21kg) 
+are selected to simulate the presents in test runs. Which one of the four 
+machines sorts the elves correctly for every possible order in which the elves 
+can step into the four slides?
+
+The puzzle is asking to choose between four algorithms - so as well as being 
+seasonal, the puzzle is highly topical! As you may have read everywhere, we 
+live in a world of algorithms.
+
+SOLUTION
+
+
+The answer is Machine 4.
+
+Several thousand Guardian readers attempted this puzzle, and the results are 
+as follows:
+
+ * Machine 1: 16.3 per cent
+
+ * Machine 2: 6.1 per cent
+
+ * Machine 3: 17.3 per cent
+
+ * Machine 4: 60.3 per cent
+
+So, most of you got it right - but as a group you performed significantly less 
+well than the German children.Fröhliche Weihnachten!
+
+EXPLANATION
+
+We could solve the puzzle the boring way by simulating every possible order of 
+the four elves. There are 4 x 3 x 2 x 1 = 24 possible orders, so it might take 
+a while. Better would be to seek out orders that don’t work, since as soon as 
+we find an order that doesn’t work for any machine we can eliminate it.
+
+To make things easier let’s call the elves from lightest to heaviest A, B, C 
+and D, and call the positions 1, 2 3 and 4. The question asks us to find the 
+machine that always results in the order A, B, C, D in positions 1, 2, 3 and 4.
+
+The quickest one to eliminate is Machine 2. Imagine that A and B are put in 
+slides 1 and 2. At the first weighing, B goes to the right, which means it can 
+only end up in either 3 or 4. B must always end in 2, so this machine fails.
+
+We can also eliminate Machine 3 this way. If A and B are in slides 1 and 2, 
+then A will fall left after the first weighing and will then meet B coming down 
+slide 2. B must fall to the right, meaning that B again ends up in either 3 or 
+4. Fail.
+
+Now let’s imagine that the two heaviest elves, C and D, are put in the first 
+two slides. Consider Machine 1. After the first weighing, C goes down the left 
+slide, which means it can only end up in 1 an 2. C must always be in 3, so this 
+machine fails.
+
+We have eliminated Machines 1, 2 and 3, and so if you believe in the 
+benevolent puzzle setter, the answer must be Machine 4. However, more 
+interesting is to work out why Machine 4 is correct.
+
+Consider A, the lightest elf. No matter which position it is in to start with, 
+it must end in position 1. Likewise, no matter which position D, the heaviest 
+elf, is in, it must end in position 4.
+
+Here’s the clever bit. Since A always ends in 1 and D always ends in 4, B and 
+C must always meet each other at the most lowly weighing place to decide which 
+goes in 2 and 3. They must do this because there is nowhere else for B and C to 
+go! And once they are weighed together they will go into their correct 
+positions, B in 2 and C in 3.
+
+I hope you have enjoyed my puzzles this year - I’ll be back in two weeks.
+
+Thanks to Robert Woestenfeld of the German Mathematical Society. If you want 
+to take part in itsonline puzzle advent calendar next year here is the website, 
+<https://www.mathe-im-advent.de/> although it is currently only in German.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F19%2Fdid-you-solve-it-are-you-more-sorted-than-a-german-elf-at-christmas%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Are%20you%20more%20sorted%20than%20a%20German%20elf%20at%20Christmas%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F19%2Fdid-you-solve-it-are-you-more-sorted-than-a-german-elf-at-christmas%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Are%20you%20more%20sorted%20than%20a%20German%20elf%20at%20Christmas%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F19%2Fdid-you-solve-it-are-you-more-sorted-than-a-german-elf-at-christmas%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+I set a puzzle here every two weeks on a Monday. I’m always on the look-out 
+for great puzzles. If you would like to suggest one,email me 
+<mailto:bellospuzzle@gmail.com>.
+
+My new book Can You Solve My Problems? A Casebook of Ingenious, Perplexing and 
+Totally Satisfying Puzzlesis available from the Guardian Bookshop 
+<https://bookshop.theguardian.com/can-you-solve-my-problems.html?utm_source=editoriallink&utm_medium=merch&utm_campaign=article>
+ andother retailers <http://amzn.to/2fFUeCA>. My children’s book Football 
+School: Where Football Explains The World <http://amzn.to/2h1Xj2o> was recently 
+shortlisted for the Blue Peter Book Award 2017.
+ 

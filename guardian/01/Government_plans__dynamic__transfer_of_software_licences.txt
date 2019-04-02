@@ -1,0 +1,47 @@
+
+The Government Procurement Service (GPS) has said it wants to gain a complete 
+picture of government software and generate more flexibility in its use of 
+software licences.
+
+Last week, the Cabinet Office confirmed that a recent prior information notice 
+(PIN) for a system that would provide a centralised view of government software 
+and "dynamic management of licence transfer" was issued in error.
+
+The pre-tender for the management of government software assets and related 
+licence transfer services was originally issued on 30 May and has now been 
+cancelled.
+
+But, the Cabinet Office told Guardian Government Computing: "..while the PIN 
+has been published prematurely, we can confirm that we have undertaken some 
+early market and stakeholder engagement to define the requirement before 
+commencing full market engagement in the coming weeks.
+
+"Further information will be published in due course. We recognise the 
+importance and value of having a centralised view of government software assets 
+with the dynamic management of licence transfer."
+
+The government's recent end of first year ICT strategy report 
+<http://www.cabinetoffice.gov.uk/resource-library/one-year-on-implementing-government-ict-strategy>
+ revealed that in the 12 months from April 2011 to April 2012, the total number 
+of software licences held in the government's assets and services register was 
+18.4m. But the total number used was around 12m, suggesting that 6m software 
+licences are currently not being used.
+
+Stephen Roberts, managing director of public sector market intelligence firm 
+Kable, said: "The onus is on the government to make the most of licence 
+consolidation deals with established vendors, so revenue is linked directly to 
+the aggression with which consolidation is pursued, and the reliability of the 
+data held.
+
+"CDS, the web publishing SME which built the low-spec assets and services 
+information repository Ask ICT, hopes to include a resource description 
+framework in the next release. Perhaps the efficiency reform group plans to 
+procure something more robust? When a formal tender emerges, the important 
+questions would be quite how dynamic a licence transfer model, and what type of 
+provider, the ERG has in mind."
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Guardian Government 
+Computing network here 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>.
+ 

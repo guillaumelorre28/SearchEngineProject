@@ -1,0 +1,245 @@
+
+In 1995, four years after Estonia broke free from the USSR, Toomas Hendrik 
+Ilves read a "very Luddite" book by Jeremy Rifkin called The End of Work. "It 
+argued that with greater computerisation there would be fewer jobs," remembered 
+Ilves, then a senior diplomat,now the country's president 
+<https://www.theguardian.com/world/2011/nov/03/president-ilves-made-estonia>, 
+"which from his point of view was terrible."
+
+Ilves and many of his colleagues saw it differently. In a tiny (population: 
+1.4 million) and newly independent country likeEstonia 
+<https://www.theguardian.com/world/estonia>, politicians realised computers 
+could help quickly compensate for both a minuscule workforce and a chronic lack 
+of physical infrastructure.
+
+Seventeen years on, the internet has done more than just help. It is now 
+tightly entwined with Estonia's identity. "For other countries, the internet is 
+just another service, like tap water, or clean streets," said Linnar Viik, a 
+lecturer at the Estonian IT College, a government adviser and aman almost 
+synonymous in Estonia with the rise of the web 
+<http://www.eubusiness.com/europe/estonia/040420021538.qhs3vusx>.
+
+"But for young Estonians, the internet is a manifestation of something more 
+than a service – it's a symbol of democracy and freedom."
+
+To see why, you just have to go outside. Free Wi-Fi 
+<https://www.theguardian.com/technology/wifi> is everywhere, and has been for a 
+decade.
+
+Viik says you could walk 100 miles – from the pastel-coloured turrets here in 
+medieval Tallinn to the university spires of Tartu – and never lose internet 
+connection.
+
+"We realised that if the government was going to use the internet, the 
+internet had to be available to everybody," Viik said. "So we built a huge 
+network of public internet access points for people who couldn't afford them at 
+home."
+
+The country took a similar approach to education. By 1997, thanks to a 
+campaign led in part by Ilves, a staggering97% of Estonian schools already had 
+internet <http://www.tiigrihype.ee/?op=body&id=45>. Now 42 Estonian services 
+are now managed mainly through the internet. Last year, 94% of tax returns were 
+made online, usually within five minutes. You canvote on your laptop 
+<http://news.bbc.co.uk/1/hi/world/europe/6407269.stm> (at the last election, 
+Ilves did it from Macedonia) and sign legal documents on a smartphone. Cabinet 
+meetings have been paperless since 2000.
+
+Doctors only issue prescriptions electronically, while in the main cities you 
+can pay by text for bus tickets, parking, and – in some cases – a pint of beer. 
+Not bad for country where, two decades ago,half the population had no phone line
+ <http://news.bbc.co.uk/1/hi/world/europe/3603943.stm>.
+
+Central to the Estonian project is the ID card, introduced in 2002. Nine in 10 
+Estonians have one, and – by slotting it into their computer – citizens can use 
+their card to vote online, transfer money and access all the information the 
+state has on them.
+
+"There's nothing on the ID card itself, because that could be dangerous if you 
+lost it," says Katrin Pärgmäe, who is in charge of public awareness at RIA, the
+country's internet authority <http://www.ria.ee/en>.
+
+"It only gives you access to the database if you type in the right code."
+
+You can also present the card at the pharmacy to pick up a prescription. On 
+public transport, it doubles as a ticket.
+
+Many people also have special ID chips on their mobile sim cards that allow 
+them to pay people by text.
+
+To a British audience, the ID card will have a whiff of Big Brother. But many 
+Estonians argue the opposite: that it allows them to keep tabs on the state, 
+rather than the other way round.
+
+"You'd think, given our history, we'd have a problem with it," said Ilves, in 
+an oblique reference to the days when the KGB had an office down a cobbled 
+street in central Tallinn.
+
+"But I feel much more secure with a digital ID. If anyone goes into my files, 
+they're flagged. Whereas if my files – which would exist anyway – were made of 
+paper, no one would know who was looking at them."
+
+Every Estonian can see who has visited their data, and they can challenge any 
+suspicious behaviour. In one famous case, a policewoman was caught accessing 
+information about her boyfriend.
+
+During a recent election campaign, a candidate was swiftly punished for 
+accessing personal information about would-be constituents. "I don't know what 
+the idiot was thinking," said Viik. "You can't hide."
+
+To an outsider, it is not immediately clear why Estonia took to the internet 
+so much faster than its Baltic cousins, Latvia and Lithuania. All three won 
+independence at the same time. All three needed quick ways of revamping their 
+ailing infrastructure. But to Estonians, the reason is simple. Estonia has a 
+sizeable Russian-speaking minority, but the country's ethnic Estonian majority 
+feel Nordic, rather than Slavic or eastern European. In the early 90s, this 
+meant they looked to tech-happy Scandinavia for both inspiration and investment.
+
+Those Finnish and Swedish businesses that did invest expected their Estonian 
+counterparts to communicate by email rather than fax.
+
+And pretty soon it was the newcomers who were leading the way.
+
+"I remember when one of our banks was bought by a Swedish one, they came over 
+and said: 'And now we're going to teach you how to do computer banking'," 
+recalled Ilves. "And we said, 'well, you might want to look at what we're 
+actually doing with computer banking ourselves.'" At the last count, 99% of 
+Estonian bank transfers were online.
+
+It helped that many politicians in the early 90s were unusually quick to "get" 
+the internet. "The people in power after the collapse of the Soviet Union were 
+really young," said Jaan Tallinn, the co-founder of Skype, the Estonian 
+internet telephone company, and a co-developer of file-sharingwebsite Kazaa <>. 
+"They knew what was going on."
+
+Mart Laar was 32 when he became prime minister in 1992. Ilves is slightly 
+older, but had learned to code as a child, growing up in exile in the US.
+
+"I thought if I can do it, anyone can," he said in his strong New Jersey 
+accent. "I was completely at ease with computers."
+
+The internet was also seen as a buffer to Russia 
+<https://www.theguardian.com/world/russia>.
+
+"We were afraid that Russian armies might take down the TV tower, the central 
+radio station, or newspaper press," said Viik.
+
+"Three addresses shut down, and we would have been disconnected from the rest 
+of the world.
+
+"But the internet would still work – and so we realised that this would be a 
+great way of keeping in touch with the world in case of emergency."
+
+Ironically, when an attack did finally come, it came via the internet – and 
+promptly disconnected Estonia from the rest of the world.
+
+In 2007, the government infuriated its Russian-speaking minority by moving a 
+Soviet war memorial from central Tallinn to a cemetery on the city's outskirts. 
+Violence flared on the streets, and later reached the internet. The first 
+cyberattack was simplistic, and easily dealt with: thousands of unknown 
+individuals bombarding government, media and banking websites with "denial of 
+service" (DoS) attacks.
+
+"It was like an internet riot," said Hillar Aarelaid, who led Estonia's 
+response, at the time.
+
+But what started as an emotional backlash soon became a far larger, longer and 
+better co-ordinated assault on Estonia's very being.
+
+It lasted three weeks and could only be contained by restricting internet 
+traffic in and out of the country. It was, in effect, a cybersiege.
+
+"This is how a lot of myths were created," remembered Pärgmäe. "Those outside 
+the country couldn't access Estonian websites, but they didn't realise that 
+people inside still could."
+
+Rumours circulated about the collapse of the Estonian online banking system, 
+and how people were struggling to buy groceries. "But actually the longest 
+downtime for a bank's website was just one and a half hours."
+
+The debacle had two positive effects. First: Nato founded a cyberwarfare 
+thinktank in Estonia 
+<http://en.wikipedia.org/wiki/Cooperative_Cyber_Defence_Centre_of_Excellence>, 
+to learn from the experience. Second: the government set up theCyber Defence 
+League <https://www.eesti.ee/eng/riigikaitse/eesti_kaitsejoud/kaitsevagi>, a 
+network of 100 volunteers from the cybersector who, among other roles, will 
+form – a kind of territorial army during future strife.
+
+"Traditionally in western countries," said Ilves, "you've had a 
+weekend-warrior thing where volunteers run off into the woods and do target 
+practice. In Estonia, we have a unit of IT people from banks, software 
+companies who in their spare time for one day a week work on cyber issues."
+
+This kind of collaboration between private and public sectors was also central 
+to Estonian innovation in the 90s, Viik claims.
+
+"The government started several IT programmes as a catalyst," he said. "But 
+only in a few was it the main sponsor. From the early days, government 
+philosophy was not to hire programmers, but to use the services of private 
+companies, which in turn increased the competitiveness of the Estonian IT 
+sector."
+
+Case in point: the ID card. "It's private companies who developed and manage 
+the service – and who can now export their new-found competencies to other 
+countries."
+
+Viik argues that this benefits both the private sector and the state, who 
+otherwise would not have the resources for ID card technology.
+
+But some think the overlap between occasionally threatens Estonia's open 
+internet.
+
+For many years, each Estonian citizen had the right to a free domain name. As 
+in the UK, they could not register top-level domain names – but they could bag 
+a ".pri.ee" site, similar to a ".co.uk" site in Britain. In 2010, that changed: 
+the government outsourced the responsibility of allocating domain names to 
+private registrars. The pri.ee domains were abolished, and individuals were 
+instead given the right to top-level ".ee" websites. The only catch was a £15 
+price-tag – one of the highest rates inEurope 
+<https://www.theguardian.com/world/europe-news>.
+
+Many academics and high-profile techies were outraged 
+<http://kogukond.org/in-english/>, and some founded a pressure group – the 
+Estonian Internet Community (EIC) – that campaigns to give ordinary citizens 
+more of a say in how Estonia's internet is run. After public outcry, a new set 
+of free domain-names - era.ee - were introduced.
+
+More generally, it is feared that the same politicians who had such 
+enlightened attitudes to the internet in the 90s may be starting to lose their 
+progressive edge.
+
+"They're still in power," said Jaan Tallinn, "but I'm not sure they still 
+understand what's going on. Technology keeps progressing. Young people follow 
+the curve. But as they get older they get inertia, and they start deviating 
+from that curve."
+
+Ilves himself is fairly critical of parts of Acta 
+<http://en.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement>, the hugely 
+controversial international agreement that opponents fear will curtail the 
+rights of individual internet users.
+
+But there is a perception that other politicians could be doing more to oppose 
+its introduction.
+
+"It's difficult because it's actually an EU agreement," admitted Jaagup Irve, 
+a PhD student at the Tallinn University of Technology, and an EIC board member. 
+"But the government isn't doing enough to stopActa 
+<https://www.theguardian.com/technology/acta>."
+
+Viik says that among politicians of all stripes there has always been "a 
+silent consensus" about the importance of the internet. For many years, 
+Estonians could expect whomever they elected to have the best interests of the 
+internet at heart.
+
+But Irve thinks the public can no longer be so complacent. "People think a 
+government is like a smart missile: the thing practically flies itself," he 
+argued.
+
+"But today it's more like a bomb that we have to guide. We have to guide the 
+government, and that's what the internet society has woken up to."
+
+• Explore the seven-day special series on the Battle for the internet 
+<https://www.theguardian.com/technology/series/battle-for-the-internet>
+
+• This article was amended on 17 April 2012 to clarify details of the 
+registration and selling of domain names.
+ 

@@ -1,0 +1,95 @@
+
+“How paranoid were you before you made this movie and how paranoid are you 
+now?” That question was perhaps the only moment of levity during a conversation 
+with documentarianAlex Gibney <https://www.theguardian.com/film/alex-gibney> 
+after the credits rolled on Zero Days, a terrifying account of the cyberwar 
+that is already raging on thumb drives and mainframes from Washington to Tel 
+Aviv to Isfahan Province in Iran and anywhere else that can connect to the 
+internet.
+
+Zero Days review – a disturbing portrait of malware as the future of war
+ Read more  
+<https://www.theguardian.com/film/2016/feb/17/zero-days-review-malware-cyberwar-berlin-film-festival>
+Zero Days is a thorough look at the Stuxnet worm, a computer virus created by 
+branches of the CIA and Mossad to cripple an Iranian nuclear plant that was 
+(probably) doing more than creating civilian energy resources. There’s a lot 
+that’s fascinating about this story: from how the virus got into the relevant 
+networks, to what it actually did when it got there, to how it was discovered 
+(and whose fault that was) and the fact that no one in the United States or 
+Israel has ever acknowledged its existence. At its debut at the Berlin film 
+festival the Guardian’s Peter Bradshaw called Gibney’s latest film “intriguing 
+and disturbing” in hisfour-star review 
+<https://www.theguardian.com/film/2016/feb/17/zero-days-review-malware-cyberwar-berlin-film-festival>
+.
+
+Gibney has concluded that the sovereign nations of this pale blue dot had 
+better work hard on some sort of cyber-nonproliferation treaty if we want to 
+make it much further into this new century. “The danger is that itseems 
+innocent,” Gibney said after a recent screening in New York. “Command and 
+control machinery were never intended to be integrated with the internet in 
+such a way,” he said, referring to the fact that the Stuxnet worm didn’t just 
+clog up a bunch of email accounts, it caused actual machinery to spin out of 
+control until they were destroyed. Part of his research involved talking to 
+agency moles (whose identity the film weaves into one composite character) and 
+Zero Days explains how the US has another cyberweapon ready to launch at Iran 
+calledNitro Zeus 
+<http://www.nytimes.com/2016/02/17/world/middleeast/us-had-cyberattack-planned-if-iran-nuclear-negotiations-failed.html?_r=0>
+ that would essentially knock out all civic infrastructure. That isn’t just 
+cable television, it’s hospitals and transport.
+
+“‘We’ve got a power plant, let’s hook it up to the internet to make it more 
+convenient, but without thinking about problems 10 or 20 years hence,’” Gibney 
+mused, consider the way all industrialised nations are threatened by the new 
+age of cyberwarfare.
+
+
+Gibney, a classic iconoclast, is eager to show how the US and Israel are 
+mostly to blame for this. “Stuxnet was the first cyberweapon to cross the 
+boundary from the cyber realm to physical realm. Iran hadn’t even contemplated 
+the possibility. At first, their engineers thought they had screwed up.”
+
+
+As the film goes on, it shows how Washington and Tel Aviv didn’t exactly see 
+eye to eye, and the Israeli agency’s desire to push for increased destruction 
+was what eventually gave the game away. According to Zero Days, the Bush 
+administration agreed to create Stuxnet as a form of Israeli appeasement. 
+Without some sort of programme, the Netanyahu administration was likely to bomb 
+the nuclear facility at Natanz. “Obama inherited the programme and, as with 
+drones, cranked it up,” Gibney said.
+
+As most of Gibney’s sources are on the US side, the film doesn’t paint a rosy 
+picture of Israel’s espionage tactics. “Any criticism of Israel gets blowback,” 
+Gibney said, “but this is an important object lesson in how that alliance can 
+be problematic, especially when sharing military technology.”
+
+
+After all his research, Gibney is concerned about the future. He cited the 
+recent Iran deal 
+<https://www.theguardian.com/world/2015/jul/14/iran-nuclear-programme-world-powers-historic-deal-lift-sanctions>
+ as a ray of hope (as does the composited character of American informants) but 
+is cautiously eyeingRussia’s use of cyberweapons in Ukraine 
+<https://www.theguardian.com/technology/2016/may/13/russia-accused-international-cyber-attacks-apt-28-sofacy-sandworm>
+ and the US’s currentengagements with Isis 
+<https://www.theguardian.com/world/2016/feb/29/pentagon-admits-cyber-attacks-against-isis>
+: “This is the first time the US has admitted to using cyber. They are talking 
+about changing text, so when you send an email instead of saying, ‘I love you,’ 
+it says, ‘I hate you and I will kill you.’”
+
+
+It may somewhat harmless at first (especially if it is deployed against Isis) 
+but an attack that could lead to critical physical damage might be considered 
+an act of war.
+
+
+Then there’s also the issue of attribution. “How long were we arguing if the 
+Sony hack was from North Korea?” he asked. “We need to get to where we’re at 
+with nuclear or chemical weapons with cyber. There are no agreements on their 
+use.”
+
+
+Zero Days is a cold, two-hour, sky-is-falling case designed to make everyone 
+agree.
+
+
+ *  Zero Days is in cinemas and on VOD in the US.
+ 

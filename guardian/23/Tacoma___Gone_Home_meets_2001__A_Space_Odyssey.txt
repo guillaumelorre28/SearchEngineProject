@@ -1,0 +1,168 @@
+
+Three years ago, The Fullbright Company helped to redefine the nature of 
+narrative video game design. The tiny independent studio, based in Portland, 
+Oregon, released Gone Home, a first-person exploration drama about a young 
+woman who travels back to visit her family and finds nothing but an empty house.
+
+Wandering the hallways and rooms alone, players used environmental clues such 
+as audio recordings and notes to piece together what had happened. The game 
+cleverly employed the tropes of survival horror (an abandoned house, rumours of 
+a murder) to suggest there was a mystery or supernatural element to the story, 
+thereby hooking players familiar with gaming conventions into the experience. 
+But eventually we discover something much more human, grounded and emotionally 
+complex. Gone Home wasn’t about horror, it was about friendship, music and 
+first love.
+
+Alongside Dear Esther 
+<https://www.theguardian.com/technology/2016/apr/06/dear-esther-original-walking-simulator-playstation-4-xbox-one>
+ from UK studioThe Chinese Room 
+<https://www.theguardian.com/technology/gamesblog/2013/oct/15/horror-amnesia-a-machine-for-pigs-chinese-room>
+, Fullbright’s debut exemplified a new strain of interactive narrative 
+story-telling, which became known, rather pejoratively, as ‘the walking sim’. 
+These games relied on environmental cues, text, voice overs and music, rather 
+than traditional game mechanics like puzzles or combat, to provide a more 
+meditative, abstract experience. In the process they kicked off a debate 
+throughout the industry about the nature of game design, competition and 
+challenge; but they also inspired a host of interesting titles, all designed to 
+explore story and atmosphere in similar way. The likes of Firewatch, Fragments 
+of Him and That Dragon Cancer, all owe something to Gone Home and other 
+progenitors of this much-discussed genre.
+
+Now Fullbright is back with a second project Tacoma, set aboard a space 
+station orbiting between the Earth and moon. Until recently, the Tacoma lunar 
+transfer station had a full-time crew of six personnel, assisted by an AI 
+computer named Odin, tasked with handling all the automated systems. But before 
+the game starts there has been an incident on the station and the crew have 
+been evacuated. Now, the station’s owner, the Venturis Corporation, needs to 
+recover the sensitive data from Odin’s memory banks. As private contractor Amy 
+Ferrier, it’s the player’s job to go aboard and do just that.
+
+Once again then, this is a first-person narrative exploration game, and your 
+role is to pick up on environmental clues to discover what has happened. But 
+this time, the mechanic is very different. It turns out at that Tacoma is 
+riddled with 3D cameras that have recorded every moment of the crew’s life 
+aboard the ship – on top of that, all the crew wore augmented reality headsets 
+as their primary interfaces with the station itself – all these were also 
+recording point-of-view footage. As Amy, the player has access to snippets of 
+these recordings so is able to view three-dimensional replays of key moments. 
+Its through this AR interface that you must piece together what happened to the 
+crew and why.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F30%2Ftacoma-fullbright-company-narrative-game%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F8c3f76772a353c1fc703bd76e371e64a62134d4a%2F46_0_1799_1080%2F1799.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Tacoma%20%E2%80%93%20%20Gone%20Home%20meets%202001%3A%20A%20Space%20Odyssey&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F30%2Ftacoma-fullbright-company-narrative-game%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Tacoma%20%E2%80%93%20%20Gone%20Home%20meets%202001%3A%20A%20Space%20Odyssey&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F30%2Ftacoma-fullbright-company-narrative-game%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F8c3f76772a353c1fc703bd76e371e64a62134d4a%2F46_0_1799_1080%2F1799.jpg>
+ The Tacoma Station is is a series of habitable rings around a zero-g hub, 
+reminiscent of the space port in 2001. Photograph: Fullbright Company 
+And while Gone Home used many of the conventions of horror games to 
+acclimatise players, Tacoma is similarly toying with science fiction 
+traditions. The abandoned space station, the sinister intelligent computer, the 
+claustrophobic crew, the lone investigator – these are all hugely recognisable 
+components that SF movie and game fans will be familiar with. Furthermore, 
+Fullbright is using visual design to supplement those associations. Tacoma has 
+a centrifugal design, with a centra zero-g hub surrounded by outer rings that 
+simulate Earth gravity – an architecture clearly influenced by 2001: A Space 
+Odyssey, which also had an omniscient computer at its core.
+
+With Venturis it also has a classic psychopathic corporation in the style of 
+Weyland Yutani and Cyberdyne. When you’re stepping aboard the station, a 
+computerised voice intones, “while aboard the Tacoma station please remember 
+that all activity on this facility is monitored by AR recording. All AR 
+recordings become sole property of the Venturis Corporation”. We have that 
+familiar sci-fi model of corporate paranoia and mandatory mechanised 
+surveillance.
+
+Inside, the interiors are sterile and minimalist, hinting at Ridley Scott’s 
+designs for the Nostromo crew quarters. As Gaynor explains, “One of our big 
+focuses during the last year has been rebuilding the station in this very 
+functional way - a way that might work if people were going to live in space 
+for a long period of time. We almost wanted to allow the player access to all 
+the parts of that system so they can feel how it would all work.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F30%2Ftacoma-fullbright-company-narrative-game%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F41226698f4350e03954f7fd4ec6006ecd995a96e%2F60_0_1799_1080%2F1799.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Tacoma%20%E2%80%93%20%20Gone%20Home%20meets%202001%3A%20A%20Space%20Odyssey&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F30%2Ftacoma-fullbright-company-narrative-game%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Tacoma%20%E2%80%93%20%20Gone%20Home%20meets%202001%3A%20A%20Space%20Odyssey&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F30%2Ftacoma-fullbright-company-narrative-game%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F41226698f4350e03954f7fd4ec6006ecd995a96e%2F60_0_1799_1080%2F1799.jpg>
+ Players must view augmented reality recordings of key moments, working out how 
+the drama of the space station unfolded. Photograph: Fullbright Company 
+This is, then, a game about exploration of both time and space. You must 
+trigger AI recordings of the crew, going about their daily business, chatting 
+in the dining room, conversing with Odin; you can rewind sections and re-study 
+them, and you can also switch to different points of view. Importantly, certain 
+events happen simultaneously, so while there may be a group meeting in one 
+section of the ship, another crew member may be elsewhere. The player will get 
+the chance to see key incidents from a variety of perspectives.
+
+“It’s about these layers of public and private information and how they all 
+add up to an overall interpretation of the story as a whole,” says Gaynor. 
+“When we created Gone Home, we wanted a very solitary experience, something 
+that was just you and the environment, about what you were finding, and how 
+that added up to a story.
+
+“Our challenge to ourselves with Tacaoma was how can we give the player more 
+direct access to these events, to experience them with the characters, as they 
+happened without sacrificing control over how you engage with the setting? More 
+than anything, that’s what justified the near-future setting to us - the AR 
+technology enables the story and gameplay mechanics we wanted to explore.”
+
+So Tacoma is a game about studying the interpersonal dynamics of six people 
+thrust together in space and working out what happened to them. So did 
+Fullbright research the real experiences of people in this situation? “Nasa is 
+not exactly forthcoming with that stuff,” says fellow Fullbright co-founder 
+Karla Zimonja. “However, there have been a lot of studies done, and we’ve drawn 
+upon the experiences we’ve been able to read about. The Canadian astronaut 
+Chris Hadfield wrote an entire book about what it’s like being in space – it’s 
+very good stuff. And a lot of the ISS astronauts actually have blogs and 
+they’re really interesting.”
+
+Gaynor mentions, though, that what you don’t tend to find out about are the 
+frictions between inhabitants. “It seems that Nasa keeps the tone pretty locked 
+down,” he says. “There’s nothing like ‘Ihated this Russian guy’. Some of that 
+stuff does come out when astronauts start to write memoirs - we’re seeing those 
+from the people on the Apollo programmes; they’re like ‘well, I’m retired, I’m 
+never going back into space, so when I was trapped in a capsule with this 
+guy... what an asshole.’ A space station is like a housemate situation except 
+you literally can’t leave the house.”
+
+One thing Fullbright did learn was that astronauts often create artificial 
+calendar events in order to break up the monotony and give a sense of structure 
+in an environment where there are no day/night cycles. In the game, the crew 
+celebrate an anniversary they call Obsolescence Day: it marks the day when the 
+Venturis Corp informed all its employees that they were being replaced with 
+computerised systems. It never happened, but they ironically celebrate the 
+moment anyway. This also brings up a sense of tension between the human 
+inhabitants and that all-seeing AI.
+
+So what is the disaster that befalls the crew? We don’t know just yet – the 
+demo hints at some sort of cataclysmic system failure, limiting the available 
+oxygen – but how it happens and why are things the player must discover.
+
+But Fullbright is keen to point out that this isn’t a cold sci-fi detective 
+thriller – it’s not Outland. Like Gone Home, it’s a study of human 
+relationships and pressures – and as the investigator you’re going to gain a 
+certain perspective based on the AR artefacts you discover.
+
+“The game has these non-linear local webs of story happening in each section 
+of the station,” says Gaynor. “There are events later in the game that split 
+off from shared moments and you can follow the strands and see how certain 
+characters individually react to something everyone experiences together. It’s 
+interesting: if you follow Path A and check out these characters before you see 
+what the others were doing, your initial take may be very different than if 
+you’d known these things in a different order. There will be a process of 
+building all the perspectives of the crew into an overall picture of what 
+happened. The way the story plays out has more dynamism than Gone Home did.”
+
+Three years ago, Gone Home made a huge impact, its artful, measured 
+story-telling systems contrasting with the heft and noise of most mega-budget 
+narrative adventures. Now some of its techniques have been subsumed into the 
+wider industry, it’ll be interesting to see how Tacoma – a more expansive and 
+ambitious games – fares. Triple A titles like the Batman: Arkham titles have 
+already toyed with the analysis and manipulation of recorded events, of course. 
+But with Tacoma, you sense that the mystery – and the solution – will be very 
+different indeed.
+
+Tacoma is released on PC and Xbox One 
+<https://www.theguardian.com/technology/xbox-one> in spring 2017
+ 

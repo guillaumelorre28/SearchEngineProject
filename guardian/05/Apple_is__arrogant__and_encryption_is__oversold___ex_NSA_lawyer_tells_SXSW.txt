@@ -1,0 +1,124 @@
+
+In one of the more unusual analyses of the Apple v FBI debate, former NSA 
+general counsel Stewart Baker has comparedTim Cook 
+<https://www.theguardian.com/technology/tim-cook> to 1940s Hollywood star Doris 
+Day.
+
+Addressing an audience at SXSW young enough to have no idea who Doris Day was, 
+Baker quoted Hollywood musician and actorOscar Levant 
+<https://en.wikiquote.org/wiki/Oscar_Levant>, who said: “I remember her before 
+she was a virgin.”
+
+He then said Apple <https://www.theguardian.com/technology/apple> had only 
+recently changed its strategy in handling law enforcement requests for access.
+
+“Who remembers Tim Cook before he was a virgin? Look at his record in China,” 
+Baker said. “WhenChina <https://www.theguardian.com/world/china> asked, [Apple] 
+didn’t even tell us they were doing it. Other countries are going to request 
+access, and companies are going to give it to them once they demonstrate that 
+they really need it.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F15%2Fapple-fbi-debate-sxsw-former-nsa-lawyer-tim-cook%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fd65eb5fef9fb8df3b4a8e5dc63f14d1e1ddddf7b%2F0_0_2105_1264%2F2105.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20is%20'arrogant'%20and%20encryption%20is%20'oversold'%2C%20ex-NSA%20lawyer%20tells%20SXSW&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F15%2Fapple-fbi-debate-sxsw-former-nsa-lawyer-tim-cook%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Apple%20is%20%27arrogant%27%20and%20encryption%20is%20%27oversold%27%2C%20ex-NSA%20lawyer%20tells%20SXSW&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F15%2Fapple-fbi-debate-sxsw-former-nsa-lawyer-tim-cook%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fd65eb5fef9fb8df3b4a8e5dc63f14d1e1ddddf7b%2F0_0_2105_1264%2F2105.jpg>
+ Doris Day (she’s a film star). Photograph: Ronald Grant Archive 
+“Europe and the rest of the world hates Silicon Valley,” he said, giving the 
+example of the recent vote by theFrench assembly on an anti-terrorism bill 
+<http://en.europeonline-magazine.eu/frances-lower-house-votes-in-favour-of-anti-terrorism-bill_442938.html>
+ that expanded powers to search and detain.
+
+Baker, now a private lawyer and a regular on the conference circuit, was 
+speaking on a SXSW panel about the attempt by the FBI to order Apple to help 
+access data on a phone used by one of the San Bernardino shooters. The issue 
+has reignited discussion about whether the government should have access to 
+backdoors in encryption software, following a similar situation in the 1990s – 
+thedamaging effects of which are still being felt 
+<https://www.theguardian.com/technology/2016/mar/02/secure-https-connections-data-passwords-drown-attack>
+. Baker was general counsel at the NSA from 1992 to 1994.
+
+Baker repeatedly laid into Apple, claiming encryption was “the single most 
+oversold technology in the public sphere” and that Apple would accommodate 
+requests by the Chinese government becauseChina is now its biggest market 
+<http://www.cnet.com/news/china-passes-us-to-become-apples-biggest-iphone-market/>
+. He said that Apple had previously cooperated with intelligence requests from 
+the Chinese government and called the tech industry “arrogant”.
+
+“How about this: if you refuse to provide access to the government, the 
+government is entitled to get every disclosure you have ever made for every 
+other country. Because Apple is not telling us about China,” he said. “And if 
+Apple is assuming the benefits of the privacy it is selling, how about it takes 
+on some of the costs of crime? How about letting victims of crimes that have 
+not been solved because of encryption sue Apple for damages?”
+
+He said that Apple had spent money proving its social responsibility by making 
+sure minors were no longer employed on its third-party production lines. “So 
+for them to turn around and say that if you take pictures of kids while you are 
+molesting them, we are going to protect you as well? That’s not socially 
+responsible. They need to take into account the misuse of their technology and 
+ask how to fix it.”
+
+Slightly bemused fellow panelist Matt Blaze, associate professor of computer 
+and information science at the University of Pennsylvania, said that it was 
+irrelevant to focus on Apple’s reputation or corporate responsibility. “That’s 
+like asking if Al Gore is a nice guy relevant to climate change,” he said. 
+“It’s a sideshow.
+
+“This could charitably be described as a crisis.”
+
+Three days earlier, Barack Obama spoke at SXSW 
+<https://www.theguardian.com/us-news/2016/mar/11/barack-obama-sxsw-south-by-southwest-austin--apple-fbi>
+, urging both sides of the debate not to be absolutist and to work for a 
+constructive solution. Baker suggested that the president had taken a more 
+moderate line than others in the White House.
+
+“It was a surprise, because many people around him would come out 
+differently,” he said. “TheFBI <https://www.theguardian.com/us-news/fbi> had 
+enormous trouble pushing its agenda through the White House … so for him to 
+come out in this direction means he clearly believes it, because plenty of 
+people told him not to come out and say that.”
+
+Obama attempts to heal rift between tech world and government at SXSW
+ Read more  
+<https://www.theguardian.com/us-news/2016/mar/11/barack-obama-sxsw-south-by-southwest-austin--apple-fbi>
+Amit Yoran, president of the computer security company RSA, cautioned against 
+oversimplifying the debate as security v privacy, or Washington v Silicon 
+Valley. “We have heard resoundingly from the [intelligence community] that it 
+does not favour weakening security or encryption, so this is not really a 
+national security issue,” he said. “This is a law enforcement issue.
+
+
+“From a business and internet perspective, we’re on a shaky world stage post-
+Snowden 
+<https://www.theguardian.com/us-news/2015/nov/06/edward-snowden-democratic-debate>
+. The corporate world doesn’t have lots of trust in the US government and our 
+own citizens have all-time low trust … [the FBI order] would be a dangerous 
+move against US economic interests.”
+
+Blaze said the technology industry relies on consumers updating hardware 
+regularly so that security fixes can be rolled out, and that trust in those 
+updates could be jeopardized.
+
+“So far the choice has been law enforcement shutting down v weakening 
+encryption – I don’t think anybody wants either of those things,” he said. 
+“What alternatives are there? They could explore hacking techniques of their 
+own, or existing weaknesses in the product, or use hardware reverse engineering 
+… law enforcement has been largely reactive on a case-by-case basis.
+
+“These things require a healthy debate that we just haven’t had, and over the 
+course of two crypto-wars, we’ve made remarkably little progress.”
+
+Last week, Apple’s general counsel, Bruce Sewell, defended the company’s 
+business in China 
+<https://www.theguardian.com/technology/2016/mar/10/apple-v-fbi-encryption-case-digital-privacy-san-bernardino>
+ against claims made in the FBI’s legal case, including that the company had 
+provided data in response to 74% of 4,000 state requests.
+
+“The ridiculous section on China where an AUSA, an officer of the court, uses 
+unidentified internet sources to raise the spectre that Apple has a different 
+and sinister relationship with China. Of course that is not true, and the 
+speculation is based on no substance at all. To do this in a brief before a 
+magistrate judge just shows the desperation that the Department of Justice now 
+feels.”
+ 

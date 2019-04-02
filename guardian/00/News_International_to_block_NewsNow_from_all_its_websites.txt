@@ -1,0 +1,43 @@
+
+News International confirmed today that it will block news aggregator 
+NewsNow.co.uk <http://newsnow.co.uk/h/> from content on all its websites, 
+including Sun Online and NotW.co.uk.
+
+"We've been in communication with NewsNow for several months. We asked them to 
+remove our content repeatedly from their indexing," said a News International 
+spokesperson. "Now, we will update our files accordingly for all our titles."
+
+News International started to block NewsNow from crawling its Times Online 
+site on Friday 
+<https://www.theguardian.com/media/2010/jan/08/digital-media-newspapers>. It is 
+still possible to produce a link to its content manually,as the internet 
+consultant Malcom Cole pointed out 
+<http://www.malcolmcoles.co.uk/blog/times-newsnow-crawling-linking/>. However, 
+NewsNow is an automatic news aggregator that relies on "web crawlers" to index 
+content.
+
+"NewsNow has been using Times Online content as part of its paid-for, 
+commercial as well as free services. They have continued to do so despite our 
+direct requests for them to stop. As a result, we have taken the decision to 
+disallow their indexing of our content," the company said in a statement.
+
+"News International makes a significant investment in journalism and we 
+believe that it is entirely appropriate for us to ask that our rights are 
+respected. NewsNow has acknowledged that they require our permission to use our 
+content and, in the absence of our permission, has ceased to do so."‬
+
+There was no comment about any plans to block other news aggregators. 
+
+Struan Bartlett, the NewsNow managing director and chairma, explained on 
+Friday why NewsNow kept on crawling News International's content, despite being 
+asked to stop: "We have been trying to solicit from them their reason for 
+wanting us to stop, but not other search engines," he said. "They haven't given 
+us a reason that we understand."
+
+• To contact the MediaGuardian news desk email editor@mediatheguardian.com or 
+phone 020 3353 3857. For all other inquiries please call the main Guardian 
+switchboard on 020 3353 2000.
+
+• If you are writing a comment for publication, please mark clearly "for 
+publication".
+ 

@@ -1,0 +1,47 @@
+
+TodayA, for article editor... which is one of the first tools we built as part 
+of the project. And it's a lot more complex that most people expect, especially 
+if their main exposure to a content management system is through blogging.
+
+The main reason there's so much to it is that there's so much to the 
+organisation it operates in. On a blog, if you write an article then you don't 
+need to worry about people finding it, because it will appear at the top of 
+your homepage, which is more or less the only page that people will be watching 
+if not the RSS feeds. Furthermore, a blog is really just a single stream of 
+articles. So when you write a blog post you really only need to worry about the 
+headline, the body text, and maybe an extract to entice people in -- and you 
+certainly don't need to worry about the environment that the article appears in.
+
+On a large website such as theguardian.com, by contrast, an article generally 
+won't appear on the homepage, and it has a less than 1% chance of appearing at 
+the top of the homepage. But it will be linked from many other pages. It will 
+also most likely be only one part of a whole mesh of other pieces of content, 
+all touching on different aspects of that and much bigger stories (plural), so 
+it's important to link all these together. (This is part ofwhat Lloyd Shepherd 
+calls "slow news" <http://www.dadblog.co.uk/?p=1664>.) Therefore the article 
+editor has lots of boxes to fill in which ensure the article fits in properly 
+with the rest of the site's content. Keywords are central to link to and list 
+it on appropriate subject pages; an alternative headline is essential to allow 
+the article to be linked to from those subject pages and elsewhere (many 
+newspaper headlines only make sense on the printed page with a particular 
+layout and don't translate to the web); a one- or two-sentence explainer is 
+similarly important to go underneath the alternative headline.
+
+And side from the importance of maximising cross-linking, there are other 
+factors that explain the differences with an article editor for a blog post, 
+but they are still all consequences of working in serious organisation. Rights 
+issues mean the writer has to be identified exactly; design requirements will 
+mean that different parts of the article (most obviously the standfirst) need 
+to be separated so that they can be displayed differently; print publication 
+times mean you'll need to identify the print publication date and the web 
+publication date separately; marketing decisions may mean you need to give a 
+particular article a specific URL.
+
+A while back, Martin Stabe lamented "Why can't a newspaper CMS be as 
+user-friendly as a blog?" 
+<http://www.martinstabe.com/blog/2007/10/29/why-cant-a-newspaper-cms-be-as-user-friendly-as-a-blog/>
+ I'm sure our article editor could be more user-friendly, but I doubt we'll get 
+it to be quite as user-friendly as many blog editors simply because it does a 
+different and more complex job -- a job in an organisation with hundreds of 
+people and very sophisticated media and presentational requirements.
+ 

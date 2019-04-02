@@ -1,0 +1,55 @@
+
+The Microsoft co-founder Bill Gates 
+<https://www.theguardian.com/technology/billgates> has waded into the row 
+between Apple and the FBI, arguing that the government agency is right to 
+demand co-operation from Silicon Valley when it comes to terrorism 
+investigations.
+
+Gates also questioned Apple chief executive Tim Cook’s characterisation of the 
+case as a demand for a “back door”,the Financial Times reported 
+<http://www.ft.com/cms/s/0/3559f46e-d9c5-11e5-98fd-06d75973fe09.html>.
+
+“This is a specific case where the government is asking for access to 
+information. They are not asking for some general thing, they are asking for a 
+particular case,” Gates said.
+
+“It is no different than [the question of] should anybody ever have been able 
+to tell the phone company to get information, should anybody be able to get at 
+bank records. Let’s say the bank had tied a ribbon round the disk drive and 
+said, ‘Don’t make me cut this ribbon because you’ll make me cut it many times’.”
+
+With his intervention, Gates stands on the opposite side of the conflict to 
+many of the prominent figures in Silicon Valley 
+<https://www.theguardian.com/technology/2016/feb/18/google-whatsapp-snowden-back-apple-against-fbi>
+, including Google’s Sundar Pichai and WhatsApp’s Jan Koum, and the NSA 
+whistleblower Edward Snowden.
+
+More recently, Mark Zuckerberg also expressed support for Apple, telling the 
+Mobile World Congress conference in Barcelona that “we’re sympathetic withApple 
+<https://www.theguardian.com/technology/apple>. We believe in encryption; we 
+think that that’s an important tool”.
+
+“I don’t think requiring backdoors with encryption is either going to be an 
+effective way to increase security or is really the right thing to do for just 
+the direction that the world is going to,” Zuckerberg added.
+
+Even Gates’ own Microsoft has issued support for Apple, of a sort. The Reform 
+Government Surveillance industry lobby group, of which Microsoft is a member, 
+released a statement on Thursday saying that “technology companies should not 
+be required to build in backdoors to the technologies that keep their users’ 
+information secure.” The statement wastweeted by Microsoft’s chief legal officer
+ <https://twitter.com/BradSmi/status/700499141818880000>, Brad Smith, and then 
+retweeted by Microsoft’s CEO, Satya Nadella.
+
+The FBI <https://www.theguardian.com/us-news/fbi> has demanded that Apple 
+rewrite the software on the iPhone used by the San Bernardino shooter in order 
+to make it possible for the agency to safely attempt to guess the passcode used 
+to lock the phone, without accidentally triggering the destruction of data 
+stored on the device. The agency is investigating the murderer for links to 
+terrorist groups.
+
+In a public letter released last week <http://www.apple.com/customer-letter/>, 
+Cook suggested that such modifications would amount to inserting a “back door” 
+in iPhones, and would “undermine the very freedoms and liberty our government 
+is meant to protect”.
+ 

@@ -1,0 +1,93 @@
+
+Britain’s banks and building societies are promising a radical change to the 
+way account holders send money to other people in a bid to tackle ballooning 
+fraud and “fat finger” problems.
+
+In future, the “confirmation of payee” system will mean that when someone 
+types in a sort code and account number to transfer some money, they will 
+receive an instant message saying something like “Is ‘Fred Bloggs’ the 
+person/business you intended to send the money to?” Crucially, this will appear 
+before the money leaves the person’s account.
+
+Currently, customers only receive a confirmation that they have sent their 
+money to a specific sort code and account number. Many people also type in the 
+account name of the person they’re paying, but this is irrelevant as banks do 
+not cross-check this element when processing payments.
+
+After Tesco fraud, are other banks vulnerable to cyber-attacks?
+ Read more  
+<https://www.theguardian.com/money/2016/nov/12/tesco-bank-fraud-cyber-attack-card-readers-security>
+The result is cases where individuals enter a wrong number on the eight-digit 
+account number – dubbed a fat finger error – and the money goes to an 
+unintended recipient. In some cases the mistake can be repeated for years – and 
+the banks are not liable.
+
+In one case covered by the Guardian, a hairdresser intended to send her 
+monthly salary payment from HSBC to a joint Nationwide account with her 
+husband, but initially entered a digit incorrectly. Over two years£26,000 of 
+her pay went to another individual 
+<https://www.theguardian.com/money/2013/feb/09/26000-banking-error> with a 
+Nationwide account, and she has spent years fighting to recover it.
+
+A new-style fraud, meanwhile, is seeing criminals hijack the emails of 
+builders or solicitors. Customers are sent instructions to make future payments 
+to a new account – still in the name of the builder or solicitor – with a new 
+account number. In one case a couple wereconned into sending £25,000 to the 
+wrong account 
+<https://www.theguardian.com/money/2016/mar/04/fraud-scam-email-barclays-lloyds>
+, and their bank refused any compensation.
+
+According to the Payment Strategy Forum (PSF), which is handling the 
+implementation for the banks and building societies, the “confirmation of 
+payee” system should largely eliminate both problems. Account holders will 
+still not have to enter the intended recipient’s name, but will continue to 
+enter the sort code and account number as they do currently – crucially, 
+however, they will then receive a message matching the sort code and account 
+number with the specific account holder – such as “John Smith Builders”.
+
+One family's nightmare as fraudsters ransack Barclays account by phone
+ Read more  
+<https://www.theguardian.com/money/2016/aug/13/barclays-bank-robbery-phone-family-nightmare-criminals>
+The exact implementation date and the precise message that account holders 
+will be sent is yet to be determined, as the move requires a major systems 
+change at banks to enable them to instantly identify recipients. The PSF says 
+the latest date will be 2020, but it hopes the system could be in place for 
+launch in 2018.
+
+“The confirmation of payee system ... will allow people to avoid sending 
+payments to the wrong account, either by accident or being tricked into doing 
+so, by ensuring a confirmation of the recipient is sent to the payer before any 
+funds leave their account,” said Ruth Evans, chair of the forum, which is also 
+examining ways in which account holders can bar their regular direct debits 
+from leaving their account when they are short of money.
+
+Currently, if someone is close to their overdraft limit and, say, they have an 
+unusually large mobile phone bill that month, it could push them into hefty 
+charges when it is paid by the bank, or be bounced and leave the account holder 
+with a possible unpaid transaction fee.
+
+The forum’s proposal is for a “request to pay” system whereby the mobile phone 
+company would have to send a message to the account holder, through the bank, 
+that it is about to take payment. The account holder could then accept or 
+decline the payment.
+
+Evans said: “Request to pay will allow customers to authorise a regular 
+payment, such as a utility bill or gym membership, before the company withdraws 
+the money from their account. This will be a huge boost to people on variable 
+incomes who may struggle to settle their accounts at the same time each month.”
+
+Banks' online security is failing customers, says Which?
+ Read more  
+<https://www.theguardian.com/money/2016/oct/20/banks-online-security-is-failing-customers-says-which>
+About £75tn in payments was processed through Britain’s banks and building 
+societies last year, but it is estimated that about £755m was stolen.
+
+In September, consumer body Which? lodged a “supercomplaint 
+<https://www.gov.uk/government/publications/what-are-super-complaints/what-are-super-complaints>
+” with financial regulators demanding that UK banks do more to protect 
+customers tricked into transferring money to fraudsters.
+
+Which? said banks should “shoulder more responsibility” when someone is conned 
+into transferring money, just as they reimburse customers who lose money due to 
+scams involving debit and credit cards or fraudulent account activity.
+ 

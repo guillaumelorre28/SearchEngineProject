@@ -1,0 +1,276 @@
+
+Last year Tony Perry made mice that would have been brown-furred grow up white 
+instead <http://www.nature.com/srep/2014/141223/srep07621/full/srep07621.html>. 
+That Perry, a molecular embryologist at the University of Bath, tweaked their 
+coat colour isn’t new – scientists have been making so-called knock-out mice, 
+in which certain genes are disabled, since the technique was invented in 1989. 
+It is a long and cumbersome procedure that involves combining pieces of DNA in 
+embryonic stem cells and mouse breeding.
+
+But Perry, who published his study in December, didn’t use this method. 
+Instead he used a new genome-editing technology that has been taking the 
+scientific world by storm since it wasfirst developed from the bacterial immune 
+system <http://www.sciencemag.org/content/337/6096/816.abstract> in 2012, and 
+shown towork in human cells <http://www.sciencemag.org/content/339/6121/768> in 
+2013.
+
+The powerful tool, known as Crispr, allows the precise and easy manipulation 
+of the DNA in the nucleus of any cell. Make the manipulations in sperm, egg or 
+a one-cell embryo, which is just about to start replicating its DNA, and they 
+can become permanently sealed in the so-called germ line, to be inherited by 
+future generations. Using the procedure on the germ line, Perry inactivated a 
+key gene for mouse coat colour.
+
+But Perry’s work added a unique flourish. He did the editing not in a one-cell 
+mouse embryo – which is how most animal germ-line editing by Crispr has been 
+done to date – but earlier, during the process of fertilisation, by injecting 
+the Crispr components and the mouse sperm into the mouse egg at the same time. 
+It is the same technique – intracytoplasmic sperm injection (ICSI) – widely 
+used in IVF. And it worked. “This or analogous approaches may one day enable 
+human genome targeting or editing during very early development,” notes the 
+paper published in the journalScientific Reports. If human germ-line editing 
+were ever to be used clinically, incorporating Crispr into the ICSI phase of 
+IVF is how it might be.
+
+That prospect tantalises Perry because it raises the possibility of generating 
+offspring that carry either no risk or a reduced risk of some genetic diseases. 
+Perry suggests it might one day be possible to correct a harmful mutation in 
+the BRCA1 gene and stop someone inheriting that predisposition to breast 
+cancer. “You will be able to eradicate it from your descendants,” he says.
+
+Crispr can be thought of as a pair of molecular scissors guided by a satnav. 
+The scissors are a DNA-cutting enzyme; they snip at a precise point in the 
+cell’s DNA specified by researchers using a customised guide molecule, a single 
+short piece of RNA, DNA’s chemical cousin. The DNA-cutting enzyme is known as 
+Cas9, hence the technique is often written Crispr-Cas9.
+
+Since the 70s there has been a consensus that human germ-line modification is 
+off bounds
+
+The genome editing occurs as the cell rushes to naturally repair the break 
+made by the scissors. The cell’s repair often isn’t exact enough for the gene 
+that has been cut to keep working and the gene is effectively knocked out or 
+turned off. More complex to accomplish, though more precise, genes can also be 
+corrected or whole new genes added if a new piece of DNA is included along with 
+the Crispr machinery. It becomes patched in during the cellular repair process.
+
+Germ-line genome editing is highly controversial, even for medical purposes. 
+Since the development of genetic engineering in the 70s there has been a 
+“fairly undisturbed” consensus that human germ-line genetic modification – with 
+the worries it raises about “playing God” and “designer babies” – is off 
+bounds, says Peter Mills, assistant director of the UK Nuffield Council on 
+Bioethics and the council’s lead on genome editing. According to Unesco’s
+Universal Declaration on the Human Genome and Human Rights, 
+<http://www.unesco.org/new/en/social-and-human-sciences/themes/bioethics/human-genome-and-human-rights/>
+germ-line interventions “could be contrary to human dignity”.
+
+The UK government’s decision this February to allow mitochondrial substitution 
+<https://www.theguardian.com/politics/blog/live/2015/feb/03/william-hagues-speech-on-english-votes-for-english-laws-evel-politics-live-blog#block-54d0ecade4b0e18c5df0270f>
+ in the clinic to prevent embryos developing with mitochondrial diseases, a 
+form of germ-line therapy, was premised on the basis that the small amount of 
+DNA mitochondria contain is found outside the cell nucleus. There is no 
+modification to the DNA in the nucleus, the real stuff that makes us who we are.
+ Crispr co-developer Jennifer Doudna. 
+But there has also never before been a tool shown to be sufficiently effective 
+or reliable enough to seriously consider conducting human genetic engineering. 
+Other precise genome editing tools – Zinc Finger Nuclease (ZFN) and Talen – 
+have been around longer but Crispr is much easier and cheaper to use, 
+accelerating the science and potential applications. “The revolution is in 
+access,” says Dana Carroll, a biochemist at the University of Utah who works on 
+improving the tools. “The technology is developing very rapidly.”
+
+The potential for modifying humans weighs on the minds of some scientists, 
+particularly since thepublication last month of a Chinese paper 
+<https://www.theguardian.com/science/2015/apr/23/scientists-genetically-modify-human-embryos-in-controversial-world-first>
+ which reported using Crispr to genome-edit human embryos for the first time. 
+(The aim was to correct the gene defect that causes the blood disorder 
+beta-thalassaemia and non-viable embryos, which couldn’t have resulted in live 
+birth, were used.)
+
+In an opinion piece published in the journal Science in March, a group of US 
+scientists led by the Crispr co-developer Jennifer Doudna from the University 
+of California, Berkeleyrecommended steps be taken to “strongly discourage”  
+<http://www.sciencemag.org/content/348/6230/36.summary>any attempts at 
+germ-line modification therapy that would produce genome-edited humans while 
+the social and ethical implications are considered. They are calling for an 
+international meeting to consider the appropriate way forward for use. “Lets do 
+this now before the technology is applied in ways which people might feel very 
+uncomfortable about,” says Doudna.
+
+A second group writing in the journal Nature went further, suggesting a 
+moratorium on research 
+<http://www.nature.com/news/don-t-edit-the-human-germ-line-1.17111> where human 
+germ cells are edited for fear of where it might lead. The backlash should a 
+modified human be born could, they warn, harm work to develop genome-editing 
+therapy for adults and children where the modifications aren’t passed on. 
+“People might not prise apart the nuances,” says Edward Lanphier, the president 
+and CEO of California-based Sangamo Biosciences, which is pursuing that work.
+
+Indeed, using Crispr in non-reproductive cells – somatic cells – could cure 
+many diseases. Researchers believe it is likely to make it to the clinic 
+sooner. Those modifications can be permanent to the individual’s cells in so 
+far as those cells multiply or remain alive a long time, but they aren’t 
+inherited by future generations. “It has none of the ethical burdens these 
+steps towards germ-line modification would be shouldering,” says Dana Carroll.
+
+The downside is that using Crispr on somatic cells is far more complex: humans 
+have trillions of cells and many different cell types. The genome-tinkering 
+machinery has to be delivered to a sufficient proportion of the specific 
+problem cells to bring about a therapeutic effect.
+
+Thus far, Crispr is too new for any somatic cell editing therapy to have 
+entered clinical trials. But Jennifer Doudna expects them to begin within a few 
+years. “If they go well, I think we could see approved therapeutics within a 
+decade,” she says. In the lab meanwhile, using both human somatic cell cultures 
+and animal models, researchers are experimenting with treating diseases 
+including sickle cell anaemia, severe combined immunodeficiency (SCID), 
+beta-thalassemia, haemophilia, muscular dystrophy and cystic fibrosis. (The 
+approach for these single gene disorders is based on adding a new piece of DNA 
+to correct the faulty gene.)
+
+New companies – Editas Medicine, Crispr Therapeutics and Intellia Therapeutics 
+– have sprung up, licensing Crispr technology to develop somatic cell editing 
+for the clinic. None have yet announced which diseases they are pursuingand a 
+legal battle 
+<http://www.technologyreview.com/news/536736/crispr-patent-fight-now-a-winner-take-all-match/>
+ around who exactly owns the rights to Crispr technology rages. But Intellia 
+has a deal with pharmaceutical giant Novartis to focus on cancer and genetic 
+disorders arising in blood cells.
+
+Somatic cell editing is a sort of upgrade to an earlier technique for curing 
+single gene disorders known as gene therapy. That was first tried in the 90s 
+and hit setbacks. But in 2012 the first gene therapy in Europe – to treat a 
+disease in which a person lacks a protein needed to break down fat molecules – 
+was approved.
+
+Gene therapy introduces a whole new working copy of a gene, which randomly 
+incorporates into the genome to do the job of the faulty one. Genome editing is 
+different in that it precisely targets the existing faulty gene for knock-out 
+or correction. That means the gene’s setting doesn’t change, so doctors neither 
+have to worry that it will incorporate somewhere that causes other genes to be 
+inadvertently turned on, nor that the gene won’t work as normal, for example by 
+not producing the right amount of protein.
+
+“You are keeping everything natural,” says Jennifer Puck, a SCID expert at the 
+University of California, San Francisco, who is exploring the potential of 
+Crispr to treat the disease. Notoriously, in an early trial to treat SCID using 
+gene therapy, the replacement gene incorporated in an unfortunate location and 
+caused leukaemia in five of the 20 patients treated. That problem has been 
+fixed, but the technique can still be tricky to get right.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2015%2Fmay%2F10%2Fcrispr-genome-editing-dna-upgrade-technology-genetic-disease%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F5%2F7%2F1431013611720%2Fa87cd79d-c8b4-4492-92c6-ff78a386dd14-2060x1373.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Crispr%3A%20is%20it%20a%20good%20idea%20to%20%E2%80%98upgrade%E2%80%99%20our%20DNA%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2015%2Fmay%2F10%2Fcrispr-genome-editing-dna-upgrade-technology-genetic-disease%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Crispr%3A%20is%20it%20a%20good%20idea%20to%20%E2%80%98upgrade%E2%80%99%20our%20DNA%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2015%2Fmay%2F10%2Fcrispr-genome-editing-dna-upgrade-technology-genetic-disease%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F5%2F7%2F1431013611720%2Fa87cd79d-c8b4-4492-92c6-ff78a386dd14-2060x1373.jpeg>
+ Human embryos in the lab. Photograph: Bloomberg via Getty Images 
+One challenge shared by Crispr and gene therapy is how to get the gene – or 
+Crispr machinery – inside cells. Methods being adopted from gene therapy to 
+encapsulate and deliver it range from modified viruses to nanoparticles. All 
+are still far from perfect. “People are working hard on delivery and it is 
+problem that will be solved,” says Doudna. “But it is not solved today.”
+
+The Guardian view on the latest genetic engineering techniques: we need to 
+talk about this, Professor | Editorial
+ Read more  
+<https://www.theguardian.com/commentisfree/2015/apr/09/guardian-view-genetic-engineering-crispr-cas>
+Delivery is made easier, however, when the cells can be removed for editing. 
+Once outside the body they can be purified, expanded in culture, and checked 
+via genome sequencing to ensure the editing has been successful. That means the 
+early clinical impact of Crispr is likely to be in treating genetic diseases 
+arising in blood cells such as sickle cell anaemia, SCID and beta thalassemia. 
+Doctors are adept at extracting blood and bone marrow (rich in blood stem 
+cells, which give rise to all other blood cells), isolating particular cells 
+for manipulation, and then re-implanting them. Diseases where the cells can’t 
+be removed for treatment will require more work. That includes haemophilia, 
+muscular dystrophy, and cystic fibrosis, which predominantly arise in the 
+liver, muscle and lung cells respectively.
+
+A sense of what Crispr’s future might hold can be seen in the progress of 
+Sangamo Biosciences, which is clinically trialling a somatic cell editing 
+therapy for HIV with efficacy data anticipated by the end of the year. “The 
+goal is to have a functional cure for HIV,” says Edward Lanphier. That would 
+let a patient stop taking antiretroviral drugs for a number of years.
+
+The trial uses the older ZFN technology, for which the company holds the 
+intellectual property rights. The aim, based on replicating a rare naturally 
+occurring mutation that makes some people resistant to HIV infection, is to 
+turn off the CCR5 gene in patients’ T-cells – a type of white blood cell 
+important in the immune system. That gene produces a protein that HIV uses to 
+enter those cells and cause infection.
+
+The ZFNs are put to work outside the body on cells extracted from the 
+patient’s blood. The edited cells are returned in the hope of creating a 
+population of HIV-resistant T-cells that can fight the virus. Just like with 
+Crispr, the custom-designed ZFNs, which come as a pair where a protein 
+structure containing zinc molecules does the guiding, cut the DNA in a precise 
+location – the CCR5 gene – before the cell’s natural but inaccurate repair 
+process kicks in, knocking out the gene. “It really illustrates the power of 
+the approach for treating disease,” says Jennifer Doudna.
+
+Meanwhile, whether editing the human germ line has any clinical future will 
+depend on being able to do it accurately and safely enough, and also whether 
+society finds it acceptable. The conclusion of the Chinese study was that there 
+are still significant technical challenges to be solved before clinical 
+application of Crispr for editing embryos is possible. Problems include 
+“off-target” effects, where the DNA is also snipped at places it shouldn’t be, 
+and “genetic mosaicism”, where the result has a mixture of modified and 
+unmodified cells. Nonetheless, many believe things will improve with more 
+research. It is not safe enough yet, says Robin Lovell-Badge, a researcher who 
+studies germ-cell biology at the Francis Crick Institute, but “it is going to 
+get there fairly soon”.
+
+What specific therapeutic uses might be envisaged? For Lovell-Badge there 
+aren’t many. Pre-implantation genetic diagnosis (PGD) – embryo screening to 
+select those that don’t carry certain disease risks – is already in use for a 
+long list of genetic conditions including the BRCA1 gene, he points out. But he 
+concedes Crispr could have a place when multiple embryos are affected, such as 
+in the case of men who are infertile or sub-fertile because of mutations on the 
+Y chromosome. Any male embryos (produced by IVF) will also have that same 
+mutation.
+
+However, others see wider use. Unlike embryo screening, germ-line editing 
+would not require multiple embryos, which some couples don’t have. It could 
+deal easily with multiple genetic conditions where finding unaffected embryos 
+is a challenge. And it wouldn’t involve discarding any embryos, which some 
+people feel uncomfortable with. “There is an argument for genome engineering in 
+embryos to repair genes that clearly predispose to disease,” says Perry.
+
+Some may think it important to use Crispr to make better humans, not just 
+stamp out disease
+
+Some people may even think it important to use Crispr to make better humans, 
+not just preemptively stamp out disease. There are gene variants which confer 
+extra-strong bones, low Alzheimer’s risk or viral resistance such as to HIV. 
+Beyond that, what about enhancements such as living longer, improved cognition, 
+or altered physical attributes? “I am sure there are broader human 
+characteristics that people would like to be able to modulate,” says Dana 
+Carroll. But he adds that presently those kind of multi-genetic traits would be 
+difficult to edit in because we don’t fully understand their basis, let alone 
+what unintended consequences might result.
+
+The UK has a cautiously progressive regulatory system that would apply to 
+developments in human germ-line editing. Any research on germ cells needs to be 
+licensed by the Human Fertilisation and Embryology Authority (HFEA). 
+Parliamentary approval would be needed for therapeutic use. According to a list 
+of research projects using human embryos currently being carried out in the UK 
+provided by the HFEA, none appear to involve genome editing. But Lovell-Badge 
+says he is aware of “several groups” in Britain interested in using it to 
+“answer some basic research questions”. (Meanwhile the main public funder of 
+research in the US - the NIH - saysit won’t fund any use of gene-editing 
+technologies 
+<http://www.nih.gov/about/director/04292015_statement_gene_editing_technologies.htm>
+ in human embryos.)
+
+It is possible the consensus against modifying humans could change, says Peter 
+Mills, adding that the Nuffield Council is planning a report to consider the 
+ethics of human germ-line editing. There was a new social understanding reached 
+in the UK with the mitochondrial decision; a move from simply selecting human 
+embryos to modifying them. “You can treat [nuclear DNA] as a limit that you 
+don’t cross or a threshold that you very carefully step over,” he says.
+
+If it can be done accurately and safely, human germ-line therapy is a 
+possibility Doudna says she is certainly open to. “People get comfortable with 
+technologies,” she says, citing how over time society has become relaxed about 
+the use of IVF. “I suspect this will be the same.”
+ 

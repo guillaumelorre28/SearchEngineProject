@@ -1,0 +1,49 @@
+
+The FBI’s claims that its powers of surveillance have “gone dark” are a 
+“crock”, Apple boss Tim Cook has told Time magazine. 
+<http://time.com/magazine/us/4262476/march-28th-2016-vol-187-no-11-u-s/>
+
+Cook is currently embroiled in an escalating war of words with the US 
+authorities over Apple’s refusal to break into the iPhone of San Bernardino 
+terrorist Syed Farook.
+
+The FBI has accused Apple of posturing as “the primary guardian of Americans’ 
+privacy” and putting its brand ahead of public safety. Apple has responded by 
+accusing the FBI of deliberately intending to smear the company and “throwing 
+decorum to the winds”. 
+<https://www.theguardian.com/technology/2016/mar/10/apple-v-fbi-encryption-case-digital-privacy-san-bernardino>
+
+US authorities have long been concerned about the increasing use of encryption 
+– the basis of digital security – by tech companies. Last year the FBI 
+director, James Comey, warned increasing encryption threatened to take the 
+world to a “very, very dark place 
+<https://www.theguardian.com/technology/2015/jul/08/fbi-chief-backdoor-access-encryption-isis>
+”, leaving law enforcement unable to access information.
+
+“Going dark – this is a crock,” Cook told Time. “No one’s going dark. I mean 
+really, it’s fair to say that if you send me a message and it’s encrypted, they 
+can’t get that without going to you or to me, unless one of us has it in our 
+cloud at this point. But we shouldn’t all be fixated just on what’s not 
+available. We should take a step back and look at the total that’s available, 
+because there’s a mountain of information about us.”
+
+In the interview Cook’s dismisses the FBI’s argument that only one iPhone will 
+be affected by the Farook case. Creating a “back door” into Farook’s iPhone 
+“puts millions of people at risk”. Such software could be used by criminals and 
+other bad actors to crack into anyone’s iPhone,Apple 
+<https://www.theguardian.com/technology/apple> has argued. “It’s not about one 
+phone,” Cook told Time. “It’s very much about the future.”
+
+Cook also poured cold water on Comey’s arguments that Apple’s encryption 
+technology has left law enforcement unable to access the data of terrorists, 
+pedophiles and other bad actors.
+
+If there was a ban or a weakening placed on Apple’s encryption then “I would 
+argue that the bad guys will use encryption from non-American companies, 
+because they’re pretty smart, and Apple doesn’t own encryption”, said Cook.
+
+“The internet doesn’t have boundaries,” he said. “You can wind up getting an 
+app from eastern Europe or Russia or wherever, it doesn’t matter which country, 
+just outside the United States. And that app would give you end-to-end 
+encryption.”
+ 

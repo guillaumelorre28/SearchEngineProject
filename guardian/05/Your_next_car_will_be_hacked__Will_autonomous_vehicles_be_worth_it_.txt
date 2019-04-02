@@ -1,0 +1,96 @@
+
+You’re about to drive to work. You turn on the ignition – and a message on the 
+dash lights up. “We’ve hacked your car! Pay 10 bitcoin to get it back.”
+
+Hacking <https://www.theguardian.com/technology/hacking> into software and 
+then demanding a ransom to release it – what’s known as ransomware – is not 
+new. Finnish security expert Mikko Hypponen fully expects it to become a 
+reality as self-driving or “autonomous” cars start to become more commonplace.
+
+Already, one hacker claims to have taken control of some systems on board a 
+passenger plane he was on, getting as far as issuing a “climb command 
+<http://www.wired.com/2015/05/possible-passengers-hack-commercial-aircraft/>” 
+that he accessed through the entertainment system. Another pair of hackers 
+caused aJeep to crash 
+<https://www.theguardian.com/technology/2015/jul/21/jeep-owners-urged-update-car-software-hackers-remote-control>
+ in July 2015 by accessing some of the car’s software through another poorly 
+protected entertainment system. At the Defcon hacking conference, as far back 
+as 2011, hackers were asking if they could write a virus that would be 
+transmitted car to car.
+
+Do not try this at home: hacking your brain with electronics
+ Read more  
+<https://www.theguardian.com/culture/2016/mar/12/sxsw-neuroscientists-home-hacking-your-brain-with-electronics>
+Hypponen, chief research officer at the Finnish security firm F-Secure, told 
+an audience atSXSW <https://www.theguardian.com/culture/sxsw> that in the 25 
+years he had worked in cybersecurity, he had seen a big shift in the type of 
+people who do the hacking, as well their motivations. “When I entered this 
+field, the hackers had no real motive – they were doing it because they could.”
+
+He says there are now generally five types of hackers: 
+
+• Good “white hat” hackers, who break security so that a weakness can be 
+found, fixed and ultimately improved
+
+• Activist hackers, like Anonymous 
+<https://www.theguardian.com/technology/anonymous>, who are politically but not 
+perennially motivated
+
+• Nation-states and foreign intelligence agencies, a growing issue over the 
+past 10 years
+
+• Supporters of extremism of which Isis is the only really credible threat 
+thus far
+
+• Criminals, who Hypponen says now make as much as 95% of all malware, using 
+hacking to make millions of dollars
+
+It is the criminals motivated by money that present the biggest threat and are 
+likely to increasingly target self-driving cars; the multiple components in 
+cars and lack of rigour by carmakers has made this a pressing issue. “Legacy 
+manufacturers who build cars have a long history of safety but not of security, 
+and that’s why they are starting to learn the hard way. Now they take it 
+seriously – and last year was a wake-up call,” he said of the Jeep hack.
+
+Robert Hartwig, president of the Insurance Information Institute (III), says 
+the US market for cyber insurance is growing massively, from $2bn in 2015 to a 
+predicted $7.5bn in 2020. “This is America, and if you have a breach of 
+personal data, you are absolutely positively going to be sued. The legal fees 
+and settlement costs will be more than the cost of the attack.”
+
+The III estimates that by 2030, 25% of all cars sold will be autonomous, 
+marking a slightly slower pace than Google et al might have you believe. 
+Hartwig also said that there will be an estimated 80% fewer traffic accidents 
+because of the increased safety of autonomous cars. Data will be critical to 
+this, allowing policies to be based on precise driving habits, safety and how 
+many miles people actually drive – not just what they say they do.
+
+Jonathan Matus, CEO of the company behind the Zendrive app, explained how it 
+uses the built-in motion and positioning sensors in smartphones to monitor 
+driving, including rapid acceleration, sharp turns, stop signal compliance – 
+and phone use, which is a major factor in the number of global road deaths each 
+year. Despite car ownership peaking, the number of deaths is actually 
+increasing, he said.
+
+New cars already have complex electrical diagnostic systems that include 
+various monitoring systems – so don’t tell a cop you haven’t been speeding, 
+because your car won’t back you up, said Hartwig.
+
+He pointed out that the road might actually be the last place to be overhauled 
+for autonomous vehicles; Norway is already exploring an autonomous ferry, while 
+planes are already so automated, even for takeoff and landing, that “the skills 
+of pilots are atrophying”, Hartwig said.
+
+Human-controlled cars will eventually be forbidden to drive on the road, 
+Hypponen said, except for on racetracks. Matus said the same was certainly true 
+of horses, suggesting yet another future threat to electronically controlled 
+cars that could be harder to detect. “If you wanted to slow US GDP, all you 
+would have to do is increase the commute time in every urban environment by 15 
+minutes. Just tweak a few cars, or get one to put on the brake … even if these 
+things happen a few times, it will affect the confidence of consumers.”
+
+Even though he sees bad things happen all the time, Hypponen remains positive 
+about self-driving cars, he said. “The internet has brought us more good than 
+bad. Overall, technology improves our lives and business, even with the risks. 
+And I’ll be able to watch cat videos on YouTube while I’m ‘driving’.”
+ 

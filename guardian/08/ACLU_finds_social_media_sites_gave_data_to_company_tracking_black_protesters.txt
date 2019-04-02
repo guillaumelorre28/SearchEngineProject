@@ -1,0 +1,130 @@
+
+Facebook, Twitter and Instagram 
+<https://www.theguardian.com/technology/instagram> have previously provided 
+users’ data to a software company that aids police surveillance programs and 
+targets protesters of color, according to government records obtained by the 
+American Civil Liberties Union.
+
+The ACLU revealed 
+<https://www.aclunc.org/blog/facebook-instagram-and-twitter-provided-data-access-surveillance-product-marketed-target>
+ on Tuesday that the technology corporations gave “special access” to 
+Geofeedia, a controversial social media monitoring company that partners with 
+law enforcement and hasmarketed 
+<https://www.aclunc.org/docs/20160921-pra_content_ferguson_r.pdf.pdf> its 
+services as a tool to track Black Lives Matter activists.
+
+In response to the findings, all three companies have announced measures to 
+cut off Geofeedia’s access to certain data streams, even though critics say the 
+corporations need to adopt broader policies that prevent this kind of 
+surveillance and data sharing.
+
+The ACLU’s past records requests 
+<https://medium.com/@ACLU_NorCal/police-use-of-social-media-surveillance-software-is-escalating-and-activists-are-in-the-digital-d29d8f89c48#.w6vmk8u82>
+ in California have determined that at least 13 police agencies have used or 
+acquired Geofeedia, a Chicago-based startup that has worked with law 
+enforcement across the US. Emails between the company and police revealed that 
+Geofeedia had developer-level access to Twitter, Facebook and Instagram, which 
+means it could review streams of user content in ways that regular members of 
+the public cannot, according to the ACLU.
+
+“The fact that third parties are making big money off of the sale and trading 
+of our data with law enforcement is a huge problem and one that any social 
+media user in this country or beyond should be disgusted and surprised by,” 
+said Malkia Cyril, executive director of the Center for Media Justice, which has
+urged 
+<https://www.aclunc.org/sites/default/files/20161010_ACLU_CMJ_Color_of_Change_Joint_letter_Twitter.pdf>
+ companies toend 
+<https://www.aclunc.org/sites/default/files/20161010_ACLU_CMJ_Color_of_Change_Joint_letter_Facebook_Instagram.pdf>
+ their relationships with Geofeedia. “It clearly has a chilling effect on 
+democratic protests.”
+
+The next step is making clear, transparent, accountable policies about their 
+relationship with the police
+Malkia Cyril, executive director of the Center for Media Justice 
+Instagram had provided Geofeedia access to Instagram’s API, or application 
+programming interface, which is a feed of data from users’ public posts that 
+includes their location, ACLU said. The photo-sharing service terminated access 
+to the API last month, ACLU said.
+
+The ACLU said Facebook allowed Geofeedia to use its “Topic Feed API”, a tool 
+geared toward media companies and brands that enabled Geofeedia to obtain a 
+“ranked feed of public posts” centered around specific hashtags, events or 
+places.Facebook <https://www.theguardian.com/technology/facebook> also ended 
+this access last month.
+
+Twitter provided Geofeedia with “searchable access” to its database of public 
+tweets. In oneemail 
+<http://www.aclunc.org/docs/20161011_geofeedia_twitter_instagram_riverside_pd.pdf>
+ obtained by the ACLU, a Geofeedia representative told police it had a feature 
+that “covered Ferguson/Mike Brown nationally with great success”, a reference 
+to the Black Lives Matter protests against police brutality in Missouri.
+
+Shortly after the release of the report on Tuesday, Twitter said 
+<https://twitter.com/policy/status/785861128589025281> it was “immediately 
+suspending” Geofeedia’s commercial access to its data.
+Policy (@policy) 
+Based on information in the @ACLU <https://twitter.com/ACLU>’s report, we are 
+immediately suspending@Geofeedia <https://twitter.com/geofeedia>’s commercial 
+access to Twitter data.
+ <https://twitter.com/policy/status/785861128589025281> October 11, 2016 
+<https://twitter.com/policy/status/785861128589025281> 
+The revelations have further exposed hypocrisy in Silicon Valley 
+<https://www.theguardian.com/us-news/2016/jul/12/black-lives-matter-marc-benioff-facebook-twitter-uber>
+ where tech leaders have expressed praise for Black Lives Matter, yet appear to 
+be helping a social media monitoring company that targets protests and aids 
+police.
+
+
+“The companies have made strong public statements about supporting political 
+and social movements, including Black Lives Matter,” said Nicole Ozer, 
+technology and civil liberties policy director for the ACLU of California. “Now 
+they need to make sure their systems are living up to their commitments.”
+
+Cyril said the case highlighted the need for tech companies to actively 
+protect users against the kind of surveillance that has disproportionately 
+targeted communities of color.
+
+“Cutting ties with Geofeedia is an excellent first step, but … the next step 
+is making clear, transparent, accountable policies – policies that the public 
+understands about what your relationship is to the police and how and when they 
+will use this user data.”
+
+Ozer added: “The ACLU shouldn’t have to do a public records act request to 
+tell Facebook andTwitter <https://www.theguardian.com/technology/twitter> what 
+their developers are doing.”
+
+The ACLU previously found that Geofeedia’s marketing materials 
+<https://medium.com/@ACLU_NorCal/police-use-of-social-media-surveillance-software-is-escalating-and-activists-are-in-the-digital-d29d8f89c48#.w6vmk8u82>
+ have referred to unions and activists as “overt threats 
+<http://www.aclunc.org/docs/20160921-pra_geofeedia_overt_threats.pdf>” and that 
+the company told police its product can help track the “Ferguson situation 
+<http://www.aclunc.org/docs/20160921-pra_geofeedia_ferguson_situation_r.pdf.pdf>
+”. One California police department allegedly used the software to monitorSouth 
+Asian, Muslim and Sikh protesters 
+<http://www.eastbayexpress.com/oakland/oakland-cops-quietly-acquired-social-media-surveillance-tool/Content?oid=4747526>
+, the ACLUsaid 
+<https://medium.com/@ACLU_NorCal/police-use-of-social-media-surveillance-software-is-escalating-and-activists-are-in-the-digital-d29d8f89c48#.w6vmk8u82>
+.
+
+A spokesperson for Facebook, which owns Instagram, told the Guardian in a 
+statement that Geofeedia “only had access to data that people chose to make 
+public”, adding, “If a developer uses our APIs in a way that has not been 
+authorized, we will take swift action to stop them and we will end our 
+relationship altogether if necessary.”
+
+
+A Twitter spokesperson noted that the company prohibits the sale of user data 
+for surveillance and has a “developer policy 
+<https://dev.twitter.com/overview/terms/agreement-and-policy>” that bans the 
+use of its data to “to investigate, track or surveil Twitter users”.
+
+Geofeedia CEO Phil Harris did not address the specific allegations in a 
+statement on Tuesday, but said the company “is committed to the principles of 
+personal privacy” and has “clear policies and guidelines to prevent the 
+inappropriate use of our software”.
+
+“That said, we understand, given the ever-changing nature of digital 
+technology, that we must continue to work to build on these critical 
+protections of civil rights,” he added.
+
+ 

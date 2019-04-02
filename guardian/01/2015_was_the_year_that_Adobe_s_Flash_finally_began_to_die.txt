@@ -1,0 +1,76 @@
+
+Deaths are rarely to be celebrated, but there is one passing that certainly 
+won’t be widely mourned: that of Adobe’s Flash.
+
+2015 was the year the bug ridden security flaw finally went into terminal 
+decline. Once the darling of the new interactive web (we’re talking in the late 
+1990s), enabling video, web apps and fancy ads, Flash has become bloated and 
+dangerous, loved only by hackers on the open web.
+
+As web browsers and operating systems have become more secure, Flash has stuck 
+out like a sore thumb. It’s more of a liability than ever, accounting for a 
+considerable amount of the malware attacks website visitors are subjected to.
+Even repressive regimes 
+<https://www.theguardian.com/technology/2015/jul/13/hacking-team-ethiopia-attack-data>
+ considerFlash a primary tool 
+<https://www.theguardian.com/technology/2015/jul/08/warning-adobe-flash-vulnerability-hacking-team-leak>
+ to let them access individuals’ computers.
+
+So-called drive-by attacks, which allow hackers to take over computers when 
+users simply view a site, often use vulnerabilities in Flash. The plugin just 
+can’t be trusted anymore.
+
+At the same time improved web-native technology, in the form of HTML5 and 
+WebGL, has meant most of the common applications for Flash seen on the open web 
+can be done without it.YouTube 
+<https://www.theguardian.com/technology/2015/jan/30/flash-youtube-nostalgia>, 
+Twitch,Facebook 
+<https://www.theguardian.com/technology/2015/dec/21/facebook-ditches-flash-video-html5>
+, Google’s Chrome,Firefox 
+<https://www.theguardian.com/technology/2015/jul/14/facebook-end-adobe-flash-firefox-blocks-hacking>
+ and Amazon have all migrated away from it. Some actively block it.
+
+Flash hit by another zero-day vulnerability
+ Read more  
+<https://www.theguardian.com/technology/2015/oct/14/flash-hit-by-another-zero-day-vulnerability>
+Even advertisers, who have been slow to move away from Flash, have started 
+dumping the plugin. While 100m Flash ads were displayed year-on-year ending 
+June 2015, that number is widely expectedto be significantly lower by next year 
+<http://adage.com/article/digitalnext/flash-obsolete-time-agencies-adapt/298946/>
+ as browsers such as Chrome, used by over 57% of the desktop-using world 
+according to data from Statcounter, begin blocking certain Flash elements by 
+default.
+
+It took until December this year, but even Adobe 
+<https://www.theguardian.com/technology/adobe> has now started to distance 
+itself from its own product.
+
+Over the past few years the company – which inherited Flash as part of its 
+purchase of web software developer Macromedia in 2005 – has been working to 
+support both HTML5 and animation framework WebGL within its Flash animation 
+tools. Having noticed that more than a third of the content created within 
+Flash Professional was actually HTML5, the company decided to dump Flash from 
+the name entirely and call it Adobe Animate CC. It is still supported, but when 
+the name Flash is so toxic it’s dragging products down, the writing is on the 
+wall.
+
+There are, however, still some reasons for Flash to exist. 
+Software-as-a-service systems – those used by companies to manage employee 
+history, claimbacks and budgets – often rely on Flash to power web apps running 
+in browsers. Native apps running on the desktop could do the job just as well 
+but most businesses are unlikely to rush to change. (Those systems are also 
+part of the reasonInternet <https://www.theguardian.com/technology/internet> 
+Explorer 6 continues to exist, but that’s a story for another day.)
+
+So Flash may live on in the captive environment of company intranets for a 
+while yet, but its life in the wilds of the open web finally seems to be coming 
+to an end.
+
+Mobile devices have been Flash-free for years and they work better than most 
+desktops. That speedy, more secure experience will increasingly come to 
+desktops too. RIP Flash, we won’t miss you.
+
+ * Apple, Google and Microsoft: weakening encryption lets the bad guys in 
+<https://www.theguardian.com/technology/2015/nov/23/apple-google-microsoft-weakening-encryption-back-doors>
+ * Facebook ditches Flash video in latest blow to maligned plugin 
+<https://www.theguardian.com/technology/2015/dec/21/facebook-ditches-flash-video-html5> 

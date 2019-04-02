@@ -1,0 +1,252 @@
+
+Facebook’s (mostly) annual developer event in San Francisco has been running 
+since 2007. Over that time it has morphed from an insider code-builder’s event 
+to a high-profile launch event, and though the developers are still there 
+Facebook’s message is now rather more well honed when it comes to translating 
+their mission to the masses.
+
+This year, chatbots 
+<https://www.theguardian.com/technology/2016/apr/13/facebook-army-chatbots-messenger-news-sports>
+ and virtual reality grabbed the most attention, but there were many smaller 
+but significant announcements too. Here’s everything you need to know from this 
+year’s event.
+
+
+Messenger bots
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fapr%2F13%2Ffacebook-f8-developer-event-key-points%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F90ea1c353d451addece671383efeab4a3b15477c%2F0_118_3000_1800%2F3000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=What%20you%20missed%20at%20Facebook's%20F8%20developer%20event%20-%20at%20a%20glance&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fapr%2F13%2Ffacebook-f8-developer-event-key-points%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=What%20you%20missed%20at%20Facebook%27s%20F8%20developer%20event%20-%20at%20a%20glance&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fapr%2F13%2Ffacebook-f8-developer-event-key-points%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F90ea1c353d451addece671383efeab4a3b15477c%2F0_118_3000_1800%2F3000.jpg>
+ Mr Messenger: David Marcus, Facebook vice president of messaging products, 
+talks about bots. Photograph: Eric Risberg/AP 
+Facebook’s Messenger app, which has 900 million active monthly users, now has 
+a new platform that allows developers to build services that work inside the 
+chat tool. No messing here:Facebook 
+<https://www.theguardian.com/technology/facebook> says it is “focused on 
+facilitating messages from businesses”, whether a hotel reservations systems, 
+customer service or – Zuckerberg’s favorite plug of the day – 1-800-Flowers, 
+which can order personalized flower delivery without leaving the Messenger app. 
+Bots now include Uber and Lyft, which allow users to order cabs; Dutch airline 
+KLM, which will now issue boarding passes; Hyatt hotels which will send 
+reservation details; and clothing store Zulily, which will track orders.
+
+What seems like a fiddly novelty with no clear purpose will now very quickly 
+become a staple part of our internet experience, just as apps were before it 
+and mobile phones before that. And Facebook has a bulging revenues book to 
+demonstrate its track record in matching technology with businesses more than 
+willing to pay up.
+
+ * Facebook has a new army of chatbots – but what can you do with them?  
+<https://www.theguardian.com/technology/2016/apr/13/facebook-army-chatbots-messenger-news-sports>
+Mark Zuckerberg
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2016%2Fapr%2F12%2Fmark-zuckerberg-donald-trump-comments-immigration-video&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=Mark%20Zuckerberg%20makes%20veiled%20attack%20on%20Donald%20Trump%20%E2%80%93%20video&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2016%2Fapr%2F12%2Fmark-zuckerberg-donald-trump-comments-immigration-video>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Mark%20Zuckerberg%20makes%20veiled%20attack%20on%20Donald%20Trump%20%E2%80%93%20video&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2016%2Fapr%2F12%2Fmark-zuckerberg-donald-trump-comments-immigration-video&media=>
+‘Fearful voices building walls’: Mark Zuckerberg makes veiled attack on Donald 
+Trump. 
+<https://www.theguardian.com/technology/video/2016/apr/12/mark-zuckerberg-donald-trump-comments-immigration-video>
+Opening the event, Zuckerberg made a discreet dig at Donald Trump’s 
+<https://www.theguardian.com/technology/2016/apr/12/mark-zuckerberg-facebook-donald-trump-f8>
+ wall-building talk and stated his support for immigration as an essential part 
+of attracting talent. He demonstrated how Facebook’s live video feature can 
+film and broadcast video from different hardware using a drone to fly over the 
+heads of the audience. He previewed the latest work on Aquila, Facebook’s 
+ongoing project to use high-altitude unmanned drones to beam internet to the 
+developing world, and also queued up the most significant new products, from 
+Messenger’s chatbots to the Oculus touch controllers. And there was only the 
+briefest of mentions to the obstacles Facebook has hit in rolling out its free, 
+limited internet service around the world.
+
+
+ * Facebook F8: Zuckerberg shows off chat bots, VR ... and a dig at Donald 
+Trump 
+<https://www.theguardian.com/technology/2016/apr/12/mark-zuckerberg-facebook-donald-trump-f8>
+ * Facebook’s ‘colonial’ Free Basics reaches 25 million people – despite 
+hiccups 
+<https://www.theguardian.com/technology/2016/apr/12/facebook-free-basics-program-reach-f8-developer-conference>
+Virtual reality gets social
+
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F162707492&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F162707492>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F162707492&media=>
+ Facebook demonstrating its ‘social presence’ experiment. 
+Facebook demonstrated how two people, in entirely different places, can 
+interact in a virtual reality space, dropping themselves into a 360 degree 
+image of their choice. Both characters could adopt a caricature of their 
+choice, draw props for each other and take selfies – in this case “outside” the 
+Houses of Parliament in London. The VR team is focused on “social presence”, 
+combining the ability to interact with surroundings, and representing body 
+language as well as voice.
+
+Artificial intelligence
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fapr%2F13%2Ffacebook-f8-developer-event-key-points%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F9a094e525af7626da6a635a12af0c4db9e27209b%2F0_131_3500_2101%2F3500.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=What%20you%20missed%20at%20Facebook's%20F8%20developer%20event%20-%20at%20a%20glance&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fapr%2F13%2Ffacebook-f8-developer-event-key-points%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=What%20you%20missed%20at%20Facebook%27s%20F8%20developer%20event%20-%20at%20a%20glance&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fapr%2F13%2Ffacebook-f8-developer-event-key-points%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F9a094e525af7626da6a635a12af0c4db9e27209b%2F0_131_3500_2101%2F3500.jpg>
+ Facebook is running 50 times more AI experiments than this time last year. 
+Photograph: Stephen Lam/Reuters 
+Facebook’s applied machine learning team has built what it calls an “AI 
+backbone 
+<https://code.facebook.com/posts/804694409665581/powering-facebook-experiences-with-ai/>
+” that is used by 25% of all Facebook engineers across the company, which is 
+running 50 times more AI experiments than this time last year. One of those 
+projects is translation, which is used by 800 million people every month, 
+Facebook says, along with photo image search, “talking pictures” – which 
+recognizes natural language descriptions of photos just by analyzing the image 
+– and classification of video images according to subject, which means all your 
+cat videos can more efficiently be grouped together.
+
+Facebook live video
+
+The live video tool 
+<https://media.fb.com/2016/04/12/introducing-the-facebook-live-api/> will be 
+opened up to developers so they can build new applications around it. It can 
+combine audio and video from different sources to add effects, can access and 
+monitor comments and shares on streams and and can be integrated with other 
+hardware devices to broadcast live video from a drone, for example.
+
+Oculus touch controllers
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fapr%2F13%2Ffacebook-f8-developer-event-key-points%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F4230732993b258eed3a2e8773d7a7429bb11eb0e%2F0_20_3500_2101%2F3500.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=What%20you%20missed%20at%20Facebook's%20F8%20developer%20event%20-%20at%20a%20glance&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fapr%2F13%2Ffacebook-f8-developer-event-key-points%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=What%20you%20missed%20at%20Facebook%27s%20F8%20developer%20event%20-%20at%20a%20glance&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fapr%2F13%2Ffacebook-f8-developer-event-key-points%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F4230732993b258eed3a2e8773d7a7429bb11eb0e%2F0_20_3500_2101%2F3500.jpg>
+ Touch controllers for the Oculus Rift virtual reality headsets. Photograph: 
+Stephen Lam/Reuters 
+Facebook’s virtual reality company will launch a handset 
+<https://www.oculus.com/en-us/touch/> later in 2016 that will allow the user to 
+touch objects and interact with people in a virtual space. “This will allow a 
+whole new layer of immersion, a whole new set of social experiences across all 
+these VR platforms … experiences you can’t have with any existing platform 
+today,” said Zuckerberg, announcing the new device.
+
+Facebook 360
+
+Facebook has built a prototype system with 17 cameras 
+<https://media.fb.com/2016/04/12/facebook-360-updates/> that films high 
+quality, 3D, 360 degree ‘spherical’ video. Rather than get into the camera 
+business, Facebook is publishing the hardware and software details on GitHub 
+later this year so that technologists can build their own 360 cameras. More 
+than 20,000 videos have been filed for Facebook 360 so far.
+
+Free Basics
+
+Facebook’s ambitious but slightly troubled plan to provide a limited but free 
+selection of apps for mobile phone users in the developing world has now 
+reached 25 million users. A new simulator will allow developers to test their 
+app in an environment that mimics poor connectivity, while a new demographics 
+tool gives anonymized information about people using their app, including their 
+region and gender.
+
+Internet connectivity
+
+
+Social networking isn’t enough, and neither is beaming internet connectivity 
+from a high-altitude drone for the developing world; Facebook wants to provide 
+wireless internet for underserved urban areas in the western world too. It 
+announced theTerragraph 
+<https://code.facebook.com/posts/1072680049445290/introducing-facebook-s-new-terrestrial-connectivity-systems-terragraph-and-project-aries/>
+ project, which will provide high-speed connections at a relatively low cost . 
+The 60GHz signal can’t travel long distances, but can be easily manipulated 
+around buildings in dense urban areas. Terragraph is being tested at Facebook’s 
+Menlo Park headquarters in California, and the nearby city of San Jose.
+
+
+The second project is ARIES, a proof of concept that transmits bandwidth very 
+efficiently over a relatively small amount of spectrum. Facebook wants this 
+technology to be made available to the academic research community so it can be 
+improved, and is also interested in developing it for use in rural areas where 
+one small chunk of bandwidth has to go a long way.
+
+
+Developer tools
+
+The new “account kit 
+<https://developers.facebook.com/blog/post/2016/04/12/grow-your-app-with-account-kit/>
+” feature allows people to log in to apps more easily, with just an email or 
+phone number, and with SMS login support for 230 countries. “Profile expression 
+<https://developers.facebook.com/blog/post/2016/04/12/enabling-self-expression-with-facebooks-profile-expression-kit/>
+” allows users to add videos from third party apps to their Facebook profile 
+page, including Cinemagraph Pro and Vine.
+
+Saving articles and quotes
+
+A save button 
+<https://developers.facebook.com/blog/post/2016/04/12/share-engage-and-measure-in-new-ways/>
+ that lets people save stories, videos and products on online stores to their 
+Facebook ‘saved’ folder. A small but significant feature that spells bad news 
+for bookmarking tools like Pinboard and Pocket.
+
+ * Added to that, a new quote sharing 
+<https://developers.facebook.com/blog/post/2016/04/12/share-engage-and-measure-in-new-ways/>
+ tool lets developers build apps that format quotes nicely, and allows them to 
+easily highlight and share quotes from articles and web pages. 
+ * 
+
+New developer tools
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fapr%2F13%2Ffacebook-f8-developer-event-key-points%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fab0ad65c836b51968b42e162810a106c62a077b5%2F0_206_3500_2101%2F3500.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=What%20you%20missed%20at%20Facebook's%20F8%20developer%20event%20-%20at%20a%20glance&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fapr%2F13%2Ffacebook-f8-developer-event-key-points%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=What%20you%20missed%20at%20Facebook%27s%20F8%20developer%20event%20-%20at%20a%20glance&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fapr%2F13%2Ffacebook-f8-developer-event-key-points%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2Fab0ad65c836b51968b42e162810a106c62a077b5%2F0_206_3500_2101%2F3500.jpg>
+ Facebook vice president of platform Deb Liu on stage during at F8. Photograph: 
+Stephen Lam/Reuters 
+Also appearing in an app near you soon:
+
+ * Instant Articles 
+<https://media.fb.com/2016/04/12/instant-articles-now-open/>, the nicely 
+formatted, faster news story pages that open inside Facebook, is now open to 
+any publisher in the world. Why publish on the open web when you can publish a 
+more share-friendly, cleaner bespoke article within Facebook? There is an 
+answer to that: the open web.
+
+ * New features added to the analytics tool built for Facebook Apps 
+<https://developers.facebook.com/blog/post/2016/04/12/facebook-analytics-for-apps-adds-push-notifications-deeper-insights/>
+. Facebook says this is already used by 450,000 apps so that developers can 
+monitor the type of audience using their app. 
+ * The new rights manager 
+<https://media.fb.com/2016/04/12/introducing-rights-manager/> identifies video 
+content and helps track copyrighted material on the site. Facebook says this 
+was prioritized after feedback from publishers. A newtracking tool 
+<https://media.fb.com/2016/04/12/crossposted-videos-and-insights/> allows 
+publishers to track videos across different Facebook pages, and share videos 
+they want to publish across multiple accounts. 
+ * More features added to React Native 
+<https://code.facebook.com/posts/597378980427792/react-native-a-year-in-review/>
+, Facebook’s open source tool set that allow developers to build Facebook 
+features like login, sharing and app analytics into their apps. 
+And finally … The mysterious building 
+
+Facebook has hired Regina Dugan, former head of the US military’s technology 
+wing Darpa, who has been running the advanced technologies and projects lab at 
+Google. She’ll lead up a mysterious new project called Building 8, which 
+Zuckerberg said will work “building new hardware products to advance our 
+mission of connecting the world” and will be infused with “hundreds of people 
+and hundreds of millions of dollars”.
+
+
+Dugan’s hire represents a major investment in Facebook’s more experimental 
+hardware and software companies like Oculus. While Google’s moonshots at 
+connectivity like Project Loon are mostly years out from real deployment, 
+Facebook’s experimental projects are rolling out almost immediately.
+
+
+Dugan said on her Facebook page: “Building 8 is an opportunity to do what I 
+love most … tech infused with a sense of our humanity. Audacious science 
+delivered at scale in products that feel almost magic. A little badass. And 
+beautiful. There is much to build at Facebook … and the mission is human … 
+compelling.”
+ 

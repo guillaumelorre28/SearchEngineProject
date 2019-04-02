@@ -1,0 +1,166 @@
+
+After the US election <https://www.theguardian.com/us-news/us-elections-2016>, 
+many people feel we’re on the verge of an apocalypse. What might not be obvious 
+is that it’s an artificial intelligence apocalypse, like the ones in The 
+Terminator and The Matrix. The fact is the machines have taken over, enslaved 
+us, and may now destroy us.
+
+No, seriously. Let me explain.
+
+Here’s what an AI apocalypse looks like in broad brushstrokes:
+
+1. We carefully program AI with a well-defined goal for the betterment of the 
+human race, give it power, and set it loose.
+
+2. It develops unexpected emergent behaviours, and begins to have impacts 
+unforeseen by its creators.
+
+3. The well-defined goal is achieved. Unfortunately, the unintended 
+consequence is the downfall of humanity.
+
+Let’s compare this to current circumstances.
+
+The Nieman Foundation for Journalism at Harvard reports that nearly half of 
+all Americans get their news from Facebook 
+<http://www.niemanlab.org/2016/05/pew-report-44-percent-of-u-s-adults-get-news-on-facebook/>
+. The social media site delivers news via its algorithms, which decide what 
+stories you, as an individual user, see, and in what order. You might ask 
+what’s wrong with that, when Facebook’s mission statement is to “give people 
+the power to share and make the world more open and connected”.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fnov%2F23%2Fai-apocalypse-facebook-algorithms%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F74e7e2103a5b2d6860f11efecbba5eda4e872331%2F0_0_2207_1324%2F2207.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Click%20here%20for%20the%20AI%20apocalypse%20(brought%20to%20you%20by%20Facebook)%20%7C%20Robert%20Smith&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fnov%2F23%2Fai-apocalypse-facebook-algorithms%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Click%20here%20for%20the%20AI%20apocalypse%20%28brought%20to%20you%20by%20Facebook%29%20%7C%20Robert%20Smith&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fnov%2F23%2Fai-apocalypse-facebook-algorithms%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F74e7e2103a5b2d6860f11efecbba5eda4e872331%2F0_0_2207_1324%2F2207.jpg>
+ ‘We’re on the verge of an AI apocalypse, like the one in The Matrix.’ 
+Photograph: Cine Text/Sportsphoto Ltd /Allstar 
+But the fact is that rather than serving this goal, Facebook’s AIs are 
+servicing a far older and more well-established social goal, which was designed 
+for the betterment of mankind. This is the goal of maximising value in pursuit 
+of economic self-interest.
+
+Neoliberal economics is based on the idea that the pursuit of individual, 
+economic self-interest leads to the creation of greater value, which benefits 
+society and results in the emergent betterment of mankind.
+
+The individual self-interest being pursued in this case is that of Facebook 
+<https://www.theguardian.com/technology/facebook>, a legal person who is 
+programmed, within our economic and legal system, with a single mandated goal: 
+the delivery of maximum value to its shareholders. Facebook’s AIs are the 
+technological limbs of that person, and they must ultimately reach out into the 
+world to carry out that goal.
+
+To that end, an election cycle is a goldrush, where these value-maximising AIs 
+can reach out to mine your eyeballs. The more you check your feed, the more 
+ad-based value the AIs can generate for the shareholders.
+
+What no one foresaw was that in order to keep us clicking and sharing, 
+headlines had to work harder to grab our attention, shouting ever more 
+sensational and titillating news stories, millisecond-by-millisecond. The 
+resulting lightspeed feedback loop coupled our fears and hopes for the future 
+to the simple, relentless value system of the AIs and their corporation. It was 
+only a matter of time before humans became collaborators, or asArron Banks 
+<https://www.theguardian.com/politics/2016/mar/27/arron-banks-the-millionaire-hoping-to-bankroll-uk-into-brexit>
+, friend of Nigel Farage and financier of the Leave.eu campaign, stated in the 
+recently published account of its Brexit campaign: “The more outrageous we are, 
+the more attention we’ll get. The more attention we get, the more outrageous 
+we’ll be 
+<http://www.newstatesman.com/politics/uk/2016/11/bluster-and-blunder-birthed-new-political-era>
+.”
+
+If the outrageous headlines can get you to take action, and click through, 
+then there are even more AIs out there ready to feed their own revenue loops, 
+with highly shareable, click-baiting stories and memes. They even exploit 
+simple human foibles, with finger slips that activate ad links, and malware 
+that infects our devices to keep other AIs informed about us, so we can be 
+further targeted with material tuned to our particular trigger points. Each 
+step in this massive computational network manipulates you for a click-through, 
+generating a micropayment-driven AI ad placement feeding frenzy.
+
+Of course, it’s not just Facebook involved as an end supplier in this new 
+economic boom. Note that beneath each CNN article, every one of them sold with 
+a tempting headline, there usually appears copious paid content. This is part 
+of an algorithmically driven revenue generation strategy called “smart ad 
+placement 
+<http://www.turner.com/pressroom/cnn-international-commercial-takes-digital-advertising-next-level-%E2%80%98native-24%E2%80%99>
+” by Turner Broadcasting, the subsidiary of Time-Warner that owns CNN. Turner’s 
+site boasts of how optimising algorithms place ads “in the style of CNN 
+editorial content, with the ability to be placed directly in editorial streams 
+of content and alongside relevant CNN editorial videos and articles”. Even a 
+“pure information” site like Nate Silver’s FiveThirtyEighthas been accused of 
+warping its statistical algorithms 
+<http://www.huffingtonpost.com/entry/nate-silver-election-forecast_us_581e1c33e4b0d9ce6fbc6f7f>
+ to make the US election seem closer than it might have done, and its graphs 
+therefore more tempting for obsessive checking. Silver has defended himself 
+against these accusations, tweeting: “The reason we adjust polls for the 
+national trend is because **that’s what works best emperically** [sic]. It’s 
+not a subjective assumption.” But there is no doubt that his site is now a 
+for-profit poll predictor, owned by ESPN.
+
+Some are concerned that the problem that has developed is so-called “fake news 
+<https://www.theguardian.com/commentisfree/2016/nov/14/fake-news-donald-trump-election-alt-right-social-media-tech-companies>
+”. WhileWikipedia <https://en.wikipedia.org/wiki/News_satire> defines “fake 
+news” as a synonym for news satire, in the post-election shock it has now 
+become an umbrella term forthe uncontrolled explosion of misleading information 
+<http://www.nytimes.com/2016/11/19/business/media/exposing-fake-news-eroding-trust-in-real-reporting.html?smprod=nytcore-iphone&smid=nytcore-iphone-share&_r=0>
+ dispersed on social media during the election.Mark Zuckerberg has pledged to 
+make Facebook impede “fake” news 
+<https://www.theguardian.com/technology/2016/nov/19/facebook-fake-news-mark-zuckerberg>
+. Perhaps he’ll use real human editors, but in the recent past,his company has 
+eliminated real people in this role 
+<https://www.theguardian.com/technology/2016/aug/29/facebook-trending-news-editors-fake-news-stories>
+, in favour of algorithms, to ensure less bias in their presentation of news.
+
+A moment of truth for Mark Zuckerberg | John Naughton
+ Read more  
+<https://www.theguardian.com/commentisfree/2016/nov/20/fake-news-facebook-mark-zuckerberg-donald-trump>
+Being able to discern what is true and what is fake is not a goal that AIs can 
+achieve easily. As Zuckerberg himself has said, the problem is “complex, both 
+technically and philosophically”. This is because the “truth” is a complex 
+human concept that is very hard to programme. Witness that the websitePolitifact
+ <http://www.politifact.com/>, dedicated to fact-checking US politics, has to 
+place “truth” into six categories (only half of which are definitive) and 
+provide a detailed, carefully written analysis to explain the nuances of the 
+verity of each statement it examines. Human truths and falsehoods are not 
+simple 0s or 1s.
+
+Furthermore, the war on fake news misses the point. Regardless of whether AIs 
+present “true” or “false” news, they will still be working towards their 
+primary directive: the maximisation of value for the corporation.
+
+The unforeseen outcomes of neoliberal values coupled to highly efficient AIs 
+are ultimately emergent effects on our social fabric. AIs “personalise” 
+newsfeeds for you, but this personalisation isn’t really for your benefit, it’s 
+to place you in a tighter demographic category, making you a more targeted 
+value proposition to sell to advertisers. The effect of this is that we have 
+all been herded into digital echo chambers. And, with our emotions engaged by 
+clickbaiting, profit-generating, dubious headlines, we’ve aided the process 
+through enraged blocking and unfriending of anyone whose opinions differ from 
+our own.
+
+The truth is that Americans are no more simply Republican and Democrat than 
+news is simply true and false, and our segregation into crisp, sale-able 
+demographic packages serves only to reduce a complex human picture made up of 
+difficult social and political issues. But the vast, unsympathetic network of 
+AIs is not concerned with this complexity, it is working towards its programmed 
+goal: to maximise value. And it is doing a great job. Through the election cycle
+Facebook’s stock rose 924% faster <http://amigobulls.com/stocks/FB/stockcharts> 
+than the US stock market index, the S&P 500.
+
+The unintended consequence of this massive AI success may now be our own 
+downfall: an apocalypse, heralded not by trumpets, but by Trump/Pence. Leaders 
+who are more than willing to collaborate with our new robot overlords, 
+communicating with us through them via a series of ever more inflammatory 
+tweets. A world where we are more closed as individuals, and where we are less 
+connected as communities, the ironic opposite of the world envisioned in 
+Facebook’s mission statement.
+
+I’d write more, but right now I’ve got to go and check my Facebook feed, CNN, 
+and any other news site I can find to see what outrageous things our 
+president-elect may have done in the past few minutes. Or perhaps find 
+something to share that might help impede his progress. Perhaps a funny Joe 
+Biden meme.
+
+Somewhere an AI would smile. If it had a face.
+ 

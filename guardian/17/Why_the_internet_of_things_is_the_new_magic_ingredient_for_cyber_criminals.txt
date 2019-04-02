@@ -1,0 +1,79 @@
+
+Brian Krebs is one of the unsung heroes of tech journalism 
+<https://en.wikipedia.org/wiki/Brian_Krebs>. He’s a former reporter for the 
+Washington Postwho decided to focus on cybercrime after his home network was 
+hijacked by Chinese hackers in 2001. Since then, he has become one of the 
+world’s foremost investigators of online crime. In the process, he has become 
+an expert on the activities of the cybercrime groups that operate in eastern 
+Europe and which have stolen millions of dollars from small- to medium-size 
+businesses through online banking fraud. His reporting has identified the 
+crooks behind specific scams and even led to the arrest of some of them.
+
+Krebs runs a blog – Krebs on Security <http://krebsonsecurity.com/> – which is 
+a must-read for anyone interested in these matters. Sometimes, one fears for 
+his safety, because he must have accumulated so many enemies in the dark 
+underbelly of the net. And last Tuesday one of them struck back.
+
+The attack began at 8pm US eastern time, when his site was suddenly hit by a 
+distributed denial of service 
+<https://en.wikipedia.org/wiki/Denial-of-service_attack>(DDoS) attack. This is 
+a digital assault in which a computer server is swamped by trivial requests 
+that make it impossible to serve legitimate ones. The attack is called a 
+distributed one because the noxious pings come not from one location, but from 
+computers located all over the world that have earlier been hacked and 
+organised into a “botnet”, which can then direct thousands or millions of 
+requests at a targeted server in order to bring it down. Think of it as a 
+gigantic swarm of electronic hornets overwhelming a wildebeest.
+
+DDoS attacks are a routine weapon in the cybercriminal’s armoury. They are 
+regularly used, for example, to blackmail companies, which then pay a ransom to 
+have the hornets called off. They’re a useful tool because it’s very difficult 
+to pinpoint the individuals or groups that have assembled a particular botnet 
+army. And in the past Krebs has had to deal with DDoS attacks that were 
+probably launched by people who were not amused by the accuracy of his 
+investigative reporting.
+
+Last Tuesday’s attack was different, however – in two respects. The first was 
+its sheer scale. It got so bad that evenAkamai 
+<https://en.wikipedia.org/wiki/Akamai_Technologies>, the huge content delivery 
+network that handles 15-30% of all web traffic, had to tell Krebs that it 
+couldn’t continue to carry his blog because the attack was beginning to affect 
+all its other customers. So he asked them to redirect all traffic heading for 
+krebsonsecurity.com to the internet’s equivalent of a black hole. This meant 
+that his site effectively disappeared from the web: a courageous and 
+independent voice had been silenced.
+
+GCHQ’s plan for a Great British Firewall creates a dangerous norm | Heather 
+Brooke
+ Read more  
+<https://www.theguardian.com/commentisfree/2016/sep/15/gchq-great-british-firewall-creates-dangerous-norm-government-controls-information>
+The attack that did this damage was distinctive in another – more disturbing – 
+respect. Up to now, most botnets have been assembled by constantly roaming the 
+internet probing for PCs that are unprotected. When a vulnerable machine is 
+discovered, it is infected with malware that lies there undetected, awaiting 
+the command to start pinging the site that has been chosen for an attack. For 
+the more sophisticated cybercriminal, though, this way of doing things is 
+beginning to look obsolete. The PC market has peaked, so zombie machines will 
+become rarer and existing PCs tend to be better managed and protected from 
+intrusion than they used to be. We are getting to the point, in other words, 
+where PC-based botnets aresooo yesterday.
+
+So where is the smart online criminal going to go next? Obligingly, the tech 
+industry has provided him with the capability to assemble even bigger botnets 
+with much less effort. The new magic ingredient is the internet of things – 
+small, networked devices that are wide open to penetration. The significance of 
+the attack on Krebs is that it looks as though many of the attacks on him came 
+from large numbers of enslaved devices – routers, cameras, networked TVs and 
+the like. “Someone has a botnet with capabilities we haven’t seen before,” says
+Martin McKeay 
+<https://krebsonsecurity.com/2016/09/krebsonsecurity-hit-with-record-ddos/>, 
+Akamai’s senior security expert. The DDoS arms race has just moved up a gear.
+
+Meanwhile, Krebs is back online, courtesy of Project Shield 
+<https://jigsaw.google.com/projects/#project-shield>, a free facility run by 
+Google to help protect journalists from online censorship. Which is great, but 
+also sobering, because it shows that the only organisations that have the 
+resources to resist the kinds of DDoS attacks that silenced Krebs are the 
+industrial leviathans that now dominate the internet. Come back, Thomas Hobbes, 
+all is forgiven.
+ 

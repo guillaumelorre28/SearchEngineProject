@@ -1,0 +1,46 @@
+
+News International is blocking the news aggregator NewsNow.co.uk 
+<http://newsnow.co.uk/h/> from linking to Times Online content.
+
+News International has told the aggregator that it may no longer link to any 
+content on Times Online, and imposed a technical block by altering its 
+robots.txt, the file through which a website can ask search engines not to 
+index its pages.
+
+"News International has for some time been indicating to us that it would like 
+us to refrain from linking to their content," said Struan Bartlett, managing 
+director and chairman of NewsNow, who is sponsoringa campaign called right2link 
+<http://www.right2link.org/support-our-campaign/>.
+
+"We have been trying to solicit from them their reason for wanting us to stop, 
+but not other search engines. They haven't given us a reason that we 
+understand."
+
+The move seems to be part of Times Online's preparation for moving its content 
+behind a paywall. News Corporation chief Rupert Murdoch declared his intention 
+to charge for newspaper content online last August, and the scheme is due to 
+startwith the relaunch of Times Online in spring 
+<https://www.theguardian.com/media/pda/2009/dec/09/times-online-paywall-spring>.
+
+Another online cuttings service, Meltwater, is currently taking the Newspaper 
+Licensing Agency (NLA) to a copyright tribunal over whether or not newspapers 
+can control the use of their links. The NLA is owned by eight national 
+newspaper publishers, among them News International and Guardian News & Media, 
+which publishes MediaGuardian.co.uk.
+
+In December 2009, NewsNow decided to pull links to many national newspaper 
+websites 
+<https://www.theguardian.com/media/pda/2009/dec/15/digital-media-aggregators-newsnow-pulls-links>
+ from its subscription service following attempts by the NLA to impose a fee 
+structure. But its free news aggregation site, newsnow.co.uk, continued to 
+include the links.
+
+Yesterday the NLA announced that it is suspending invoicing for the new web 
+licences for end users that it brought into effect as of 1 January. "We are 
+confirming that licensing is effective from January 1 2010 and that charges 
+will be incurred from that date – but we are suspending invoicing until the 
+tribunal has ruled," Andrew Hughes, its commercial director, said.
+
+News International has yet to comment about any plans it may have to block 
+other aggregators.
+ 

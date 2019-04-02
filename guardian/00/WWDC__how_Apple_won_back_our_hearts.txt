@@ -1,0 +1,139 @@
+
+"For a company that was never gone, Apple sure is back." So tweeted technology 
+entrepreneur Aaron Levie. Spoiler alert: on Monday at WWDC,Apple 
+<https://www.theguardian.com/technology/apple> won back the majority of our 
+hearts at The App Business. So this review of the Keynote news will err on the 
+side of optimism. Also, it won't discuss the new (gasps) app icons.
+
+1. Say hello to Jony Ive, Editor in Chief of Apple
+
+
+If you hadn't figured that this is now the Jony Ive show from the pre-Keynote 
+soundtrack (Daft Punk, not Bob Dylan), you sure as heck knew two minutes later 
+after viewing Apple's opening 'motivational video'. In it, Ive elegantly framed 
+what innovation means at Apple, reminded us of Apple's enduring values, and 
+made us all feel a lot better about owning [Apple] products that do a lot less 
+than the competition – all with a few simple words and a beautiful animation. 
+This set up a keynote that was to be about simplification, unification and 
+integration, and – crucially – the collaboration required to execute this.
+
+2. Apple wants to enable *its developers* to take the 'moon shots'
+
+
+Apple has been heftily criticised for its failure to take wild moon shots like 
+Google's self-driving cars. But Apple's message was clear – its gift to the 
+world isn't going to be a stream of wild experiments. Apple's gift to the world 
+is a platform that lets you – the developer community – take the moonshots
+yourselves, at low cost, and with the chance of incredible reward. That's why 
+the first demo on Monday wasn't by Apple. It was by a relatively small studio 
+which had developedits own self-driving cars which run on iOS.
+
+3. "Can't innovate any more my ass!"
+
+
+Thus declaimed Apple marketing boss "Big" Phil Schiller as he provided a rare 
+sneak peak of a forthcoming Apple product: the new Mac Pro. This is the meanest 
+looking computer I've ever seen and Apple's unveiling was more akin to the E3 
+gaming conference which was taking place down the road. And while I know I 
+don't need one, I dang sure know I want one. My Twitter stream was filled with 
+people looking for a justification to buy. Take-out: Apple can still innovate 
+and Apple can still generate irrational lust out of thin air.
+
+4. iOS 7: hardware and software are finally at peace
+
+Forget the icon design hoo-ha. The breakthrough here is how Ive is 
+constructing an experience in which the software and hardware work in perfect 
+harmony. A device on which the customer doesn't separate the hardware and 
+software experience.
+
+How's he doing this? Ive and his refreshed user interface (UI) now consider 
+the phone as a singular object, with a universal law of physics governing its 
+hardware and software. The phone now consists of panes of content, stacked 
+vertically, that can come to the top and into view. He's added translucency to 
+the panes not for design flourish, but to give you a sense of location. And 
+he's added parallax effects so that the UI moves as you move the hardware, in 
+perfect harmony. Even the apps now run to the screen edges to erode that 
+division between hardware and software.
+
+Ive is clearly working towards a vision of a device that is simply a singular 
+pane of glass that really is just all content. This is an awesome vision for 
+app developers on a mission to create delightful, engaging experiences.
+
+5. Apps, apps, apps
+
+Apple clearly continues to believe that, for now, superior experiences are 
+delivered via native app software rather than via a web browser. And so, Apple 
+introduced new and updated apps for the Mac including Maps, iBooks and 
+Calendar. Each integrates deeply with internet services, much in the same way 
+Google does, but not via a browser. I don't think Apple is trying to keep 
+people away from Google per se. Rather, Apple (like us at The App Business) 
+understands that native experiences are superior experiences.
+
+6. The web is a wormhole to Google and PC audiences
+
+There was one big exception to Apple's native app strategy. Apple introduced a 
+web-based experience to patch Apple's continuing Enterprise weak spot: 
+businesses continue to prefer to do their work via Microsoft Office and Google 
+Docs. And while executives on the move might be armed with iPads, they had no 
+way to effortlessly work on docs between theiriPad 
+<https://www.theguardian.com/technology/ipad> and PC. Well, until now. 
+Yesterday Apple introduced iWork for iCloud enabling iOS users to continue 
+working on iWork documents in the browser, on their PCs.
+
+7. Apple is in the mobile payments game, big time. It's just not playing ball 
+yet
+
+
+Make no mistake, Apple is putting in place all the ingredients necessary to 
+make your iPhone a wallet. On Monday it announced it now have more accounts 
+with credit cards on file than any other internet store, shared data showing 
+that people are more than twice as likely to spend money via iOS devices than 
+Android, and unveiled a new e-commerce service,iCloud keychain 
+<http://www.apple.com/osx/preview/>. The latter enables iOS devices to securely 
+store and automatically input your credit card details when shopping via your 
+phone.
+
+8. Archaic filing systems are going away
+
+A lot of Mac OS X software was introduced, but one significant thing stood out 
+for me: the introduction of a tagging system for folders, like Gmail or 
+Evernote offer. Why is this so important? Well, Apple is trying to crack a new 
+filing system that throws out folders and branches and lets people quickly find 
+files via just search or tags. And that's exactly what Apple needs to crack in 
+order to realise mobile devices as true productivity devices that let people 
+find files fast when they don't have time or the space to browse extensive 
+filing systems. We can expect to see lots of this stuff coming to iOS soon.
+
+9. The final piece of the puzzle: integration with you
+
+Tim Cook <https://www.theguardian.com/technology/tim-cook> talks repeatedly 
+about the integration of hardware, software and services. But there is a fourth 
+unspoken component to this puzzle: you. On Monday, Apple announced a range of 
+enhancements to improve the phone's understanding of you and the value of its 
+help. For example, the phone learns which apps you use most and keeps them 
+updated for you (so no more refreshing Instagram); and the phone now knows 
+where your meeting is and marks 'travel time' in your calendar (so no more 
+being late). With wearable computing just around the corner cracking 
+integration with you, and indeed the organic-body, is critical for Apple and a 
+final piece in the puzzle.
+
+10. One more thing: "does it deserve to exist?"
+
+I just want to leave you with one final thought. Apple's executives said a lot 
+at the Keynote. They also said something pretty profound about what not to say, 
+or rather what not to do. I think it was Tim Cook who said this as one of his 
+more casual remarks during the event: "Does it deserve to exist?" Wow. That's a 
+pretty brutal question, a brutal filter for what gets signed off at Apple. And 
+it's a pretty sweet question to ensure you focus on the stuff that matters. Ask 
+it the next time you review, curate and cull ideas.
+
+An original version of this article first appeared at The App Business website 
+<http://www.theappbusiness.com/10-things-apples-keynote-can-tell-us-about-the-future-of-the-company-and-technology/>
+.
+
+Daniel Joseph, founder of The App Business, was previously European planning 
+director for Apple's private ad and media company, Media Arts Lab. He was there 
+for three years from 2007-2009, with responsibility for the launch foriPhone 
+<https://www.theguardian.com/technology/iphone>, App Store and hundreds of 
+apps, and interacted with Steve Jobs on a weekly basis
+ 

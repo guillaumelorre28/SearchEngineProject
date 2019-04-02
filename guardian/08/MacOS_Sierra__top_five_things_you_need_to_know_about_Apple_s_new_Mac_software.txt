@@ -1,0 +1,98 @@
+
+OS X is dead. Long live macOS. Apple’s new version of its Mac operating system 
+<https://www.theguardian.com/technology/2016/jun/13/mac-os-sierra-apple-os-x-siri-desktop-wwdc>
+ – Sierra – will be available for download later today.
+
+
+The free upgrade is available for almost any Mac from late 2009 and will be 
+available via the Mac App Store later today. While some might want to hold off 
+immediately updating, given the recent trouble with early updates, here are 
+five new things to be found by those who do wish to change to macOS Sierra.
+
+1. Siri
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F13c069743be6ebf3631b4cc569b8adbc00d270ea%2F0_0_2248_1349%2F2248.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=MacOS%20Sierra%3A%20top%20five%20things%20you%20need%20to%20know%20about%20Apple's%20new%20Mac%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=MacOS%20Sierra%3A%20top%20five%20things%20you%20need%20to%20know%20about%20Apple%27s%20new%20Mac%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F13c069743be6ebf3631b4cc569b8adbc00d270ea%2F0_0_2248_1349%2F2248.jpg>
+ Siri is now available on your desktop or laptop. Photograph: Apple 
+The biggest change for Sierra other than the name is Siri. The same voice 
+assistant from the iPhone and iPad is now on the Mac with similar features and 
+faults. It can find files for you using natural language as introduced with El 
+Capitan, set appointments, check spellings, play music and tell you the 
+weather, but how much you use it depends on where you work: colleagues in your 
+open-plan office aren’t going to love the fact that you just started talking to 
+your computer.
+
+2. Universal clipboard
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ff706a0b14b42e679115dc4062345d4964ea4cbc1%2F0_0_2317_1390%2F2317.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=MacOS%20Sierra%3A%20top%20five%20things%20you%20need%20to%20know%20about%20Apple's%20new%20Mac%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=MacOS%20Sierra%3A%20top%20five%20things%20you%20need%20to%20know%20about%20Apple%27s%20new%20Mac%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Ff706a0b14b42e679115dc4062345d4964ea4cbc1%2F0_0_2317_1390%2F2317.jpg>
+ Universal clipboard means you can copy on one machine and paste on another 
+without having to send any files or communications between the two. Photograph: 
+Apple 
+Have you ever wanted to paste something between two Macs or a Mac and an 
+iPhone or iPad? Now you can. Just copy something on one machine, hit paste on 
+the other and wait. Sometimes it takes a while, depending on how good your 
+connection is, but it works surprisingly well. It works for text, images and 
+most other things you might copy to the clipboard.
+
+3. iCloud drive desktop
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fcba0be4c09b3c76b41b48e33feb29ba84632a0a8%2F0_0_2333_1400%2F2333.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=MacOS%20Sierra%3A%20top%20five%20things%20you%20need%20to%20know%20about%20Apple's%20new%20Mac%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=MacOS%20Sierra%3A%20top%20five%20things%20you%20need%20to%20know%20about%20Apple%27s%20new%20Mac%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2Fcba0be4c09b3c76b41b48e33feb29ba84632a0a8%2F0_0_2333_1400%2F2333.jpg>
+ iCloud Drive transports all the files on your desktop between machines. 
+Photograph: Apple 
+While some are organised and store all their files in carefully organised 
+folders, many just have everything dumped on the desktop and locked on a single 
+machine. iCloud Drive desktop can now sync files and folders on the desktop 
+between machines and to iPhones or iPads, so everything not organised is 
+accessible from multiple machines.
+
+4. Everything is in a tab now
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2F57517b7d8904b386219354ad85c0af53bba78501%2F0_0_1380_828%2F1380.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=MacOS%20Sierra%3A%20top%20five%20things%20you%20need%20to%20know%20about%20Apple's%20new%20Mac%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=MacOS%20Sierra%3A%20top%20five%20things%20you%20need%20to%20know%20about%20Apple%27s%20new%20Mac%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2F57517b7d8904b386219354ad85c0af53bba78501%2F0_0_1380_828%2F1380.jpg>
+ View documents and other multiple-window apps in tabbed view, as watch the odd 
+video over the top at the same time with picture-in-picture display. 
+Photograph: Apple 
+The tabbed interface kickstarted by browsers has now come to more or less 
+everything in Sierra. From text editors to photos editing, budgeting apps and 
+email, hitting the “Merge All Windows” option under the Window drop down in the 
+status bar merges the windows from one app into one tabbed interface. Not 
+everything supports it immediately, and some that do have half-baked 
+implementations, but if you wanted tabs everywhere on a Mac, now’s your chance.
+
+5. Apple Pay, iOS 10 features and more
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-6%23img-6&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fd3dba346661025c1bb6de18ba5a9bd0510406079%2F0_0_2280_1368%2F2280.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=MacOS%20Sierra%3A%20top%20five%20things%20you%20need%20to%20know%20about%20Apple's%20new%20Mac%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-6%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=MacOS%20Sierra%3A%20top%20five%20things%20you%20need%20to%20know%20about%20Apple%27s%20new%20Mac%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F20%2Fmac-os-sierra-apple-new-mac-software-things-you-need-to-know%3Fpage%3Dwith%3Aimg-6%23img-6&media=https%3A%2F%2Fmedia.guim.co.uk%2Fd3dba346661025c1bb6de18ba5a9bd0510406079%2F0_0_2280_1368%2F2280.jpg>
+ View your memories within Photos. Photograph: Apple 
+Aside from big Mac features, MacOS Sierra also adds compatibility with most of 
+the new features from iOS 10. Now you can pay for things using your Touch ID 
+sensor on your iPhone on the web, you can send fancy chat things with iOS 10 
+users in Messages, view videos handled by the Quicktime Player in a floating 
+window, and even unlock your Mac using an Apple Watch, if you own one.Apple 
+<https://www.theguardian.com/technology/apple> Music in iTunes now looks more 
+like the iOS version too, and the Memories feature from the iOS Photos app is 
+now in the MacOS Sierra Photos app. MacOS also promises to free up some space 
+on your Mac by storing unused files within iCloud drive, but how much space it 
+can free up depends on what types of files are taking up your hard drive.
+
+ * iOS 10: the top 10 things you need to know about Apple’s new iPhone and 
+iPad software 
+<https://www.theguardian.com/technology/2016/sep/13/ios-10-apple-new-iphone-ipad>
+ 

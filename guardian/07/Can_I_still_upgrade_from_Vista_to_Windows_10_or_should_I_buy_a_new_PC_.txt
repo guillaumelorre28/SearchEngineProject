@@ -1,0 +1,141 @@
+
+I currently have Windows Vista. Can I upgrade to Windows 10 
+<https://www.theguardian.com/technology/windows-10>? If buying a new machine, 
+for normal personal use for email and internet, what would you recommend? 
+Laptop and desktop options would be useful. E&AB
+
+Sadly, you can’t upgrade directly from Windows Vista to Windows 10: Microsoft 
+<https://www.theguardian.com/technology/microsoft> only supports upgrades from 
+Windows 7, Windows 8 and Windows 8.1. Vista was the current version of Windows 
+from January 2007 until July 2009, so any surviving Vista PCs are presumably 
+more than seven years old. If they are laptops, they are probably due for 
+replacement. Even if they are desktops, they may not be worth the upgrade cost.
+
+The problem is that Microsoft’s offer of a free upgrade to Windows 10 expired 
+after one year, on 29 July. Vista users may now have to pay for two operating 
+system upgrades: one to Windows 7 and one to Windows 10. Worse, you don’t know 
+if the second upgrade will work. You can test your Vista PC with the Windows 7 
+Upgrade Advisor, but you have to upgrade before you can test Windows 10 
+compatibility. Even if your PC is nominally compatible with Windows 10, the 
+upgrade may still fail due to alack of software drivers 
+<https://www.microsoft.com/en-us/download/details.aspx?id=20https://www.microsoft.com/en-us/download/details.aspx?id=20https://www.microsoft.com/en-us/download/details.aspx?id=20>
+.
+
+It really depends on your specific hardware. If your machine has a slow 
+processor and 2GB or less memory, then it’s probably not worth upgrading. If it 
+has a reasonably fast processor and you can upgrade to 4GB, then it might be 
+worth upgrading but only if you can find a cheap upgrade toWindows 
+<https://www.theguardian.com/technology/windows> 7 with a valid key for not 
+much money. If the total cost of hardware and software is, say, £150-£200, it 
+would probably be better to buy a new PC.
+
+Windows 10 should improve the performance of almost any laptop that can run 
+it, but your Vista laptop will still be old and probably slow.
+
+Windows 10 still free?
+
+At the moment, it appears that you may be able to upgrade to Windows 10 
+without paying. Some writers say they have been able to install Windows 10 by 
+entering valid Windows 7 or 8.x product keys. If you tried and failed to 
+install Windows 10 earlier, it may be worth having another go.
+
+Yes, Microsoft said its deadline was 29 July, and the company is removing its 
+hated GWX (Get Windows 10) pop-ups. And if you go to download Windows 10, it’s 
+not free. But still, Microsoft wants as many PCs as possible on Windows 10, and 
+so far only around 365m have migrated. Microsoft may have left a bit of wriggle 
+room for people with valid product keys, bearing in mind that the same product 
+keys weren’t even supported when Windows 10 was launched.
+
+Further, users who need “assistive technologies” – such as the screen reader 
+provided for people with limited vision – can still upgrade. If you can answer 
+the question “Yes, I use assistive technologies and I am ready for my free 
+upgrade to Windows 10” 
+<https://www.microsoft.com/en-us/accessibility/windows10upgrade> then you can 
+get one. But if you have problems, you may end up talking to theMicrosoft 
+Disability Answer Desk 
+<https://support.microsoft.com/en-us/answerdesk/accessibility> ...
+
+Microsoft has not said when the free “assistive technologies” upgrade will 
+end, but it may be tempted to pull the plug if the facility is widely abused.
+
+Vista strategy
+
+Microsoft publishes lifecycle information well in advance, and it says Windows 
+Vista will be supported until11 April 2017 
+<https://support.microsoft.com/en-gb/lifecycle?C2=11732>. That gives you nine 
+months to upgrade to Windows 7 with Service Pack 1 – which will be supported 
+until14 January 2020 <https://support.microsoft.com/en-gb/lifecycle?C2=14019> – 
+or buy a new PC running Windows 10. One advantage of Windows 10 is that it will 
+be supported forever, which means “until your PC no longer works”.
+
+Take a hard look at your PC. Will you still want to use it next year? Will you 
+still want to use it in 2020?
+
+If it will survive until next April, you may as well stick with Vista. 
+Internet Explorer 9 is a bit of a pain but you can use Firefox instead. Save up 
+and buy a new machine just before the end of the tax year (it’s a deductible 
+expense).
+
+If you are confident that your PC will last until 2020 – when it will probably 
+be 11 years old – then it might be worth upgrading to Windows 7. If so, you 
+should kick yourself for not upgrading in 2009.
+
+If your PC is slow and increasingly painful to use, buy a Windows 10 machine 
+as soon as you can. A new version of Windows 10, the Anniversary Update, came 
+out on 2 August, and it’s a significant improvement on the one that was 
+launched last year. Regular readers will know that I was in favour of keeping 
+my main desktop PC running Windows 7, but I upgraded and now think I’ll 
+probably stick with it. Version 1607 is (touch wood) the best Windows yet.
+
+Replacement PCs
+
+You sent your email from a small business – a guest house – but only mentioned 
+“normal personal use”.
+
+If you use your PC for business, and need to print out orders, invoices and 
+receipts, then I’d recommend buying a Dell desktop PC. Desktops take up more 
+room, but they are more ergonomic than laptops, they perform better for the 
+money, they are much easier to repair and upgrade, and they last longer.
+
+You could get something like a small Dell Vostro 3250 
+<http://www.dell.com/uk/business/p/vostro-3200-series-small-desktop/pd?oc=&model_id=vostro-3200-series-small-desktop&l=en&s=bsd>
+ desktop PC with an Intel Core i3 processor for £328.80 including delivery and 
+VAT (base price, £249), or a largerVostro 3650 
+<http://www.dell.com/uk/business/p/vostro-3650-desktop/pd?oc=bdv605&model_id=vostro-3650-desktop&l=en&s=bsd>
+ (base price, £259) for slightly more. Neither comes with a monitor, but you 
+can add one from Dell or elsewhere.
+
+The key point in either case is to add four years of Pro Support and next 
+business day on-site service, which costs £100. If your PC goes wrong then, if 
+necessary, a technician will come to your house and fix it. Even if you are not 
+a business, this is a terrific deal for 50p a week.
+
+Vostro is Dell’s SoHo (small office/home office) range, which also includes 
+laptops 
+<http://www.dell.com/uk/business/p/vostro-15-3558-laptop/pd?oc=bnv5825p&model_id=vostro-15-3558-laptop&l=en&s=bsd>
+, but the four-year support costs almost twice as much (£192). You can also get 
+much the same support on consumer laptops such as theDell Inspiron 15 3000 
+<http://www.dell.com/uk/p/inspiron-15-3558-laptop/pd?oc=cn35810&l=en&s=dhs>, 
+which has a Core i3 and a 15.6in screen for £319 including delivery and VAT. 
+However, the four-year, on-site support deal costs even more (£199.20).
+
+There are, of course, hundreds of alternative laptops – and even a few 
+desktops – as you can see by visiting your local electronics retailer or 
+department store. All of them will do email and internet, as will all the 
+various smartphones, tablets, Windows 2-in-1s and convertibles, all-in-one 
+desktop PCs and even Chromebooks. I can’t cover all of them.
+
+It’s worth checking which software you actually use, including things such as 
+Apple iTunes, QuickBooks, Microsoft Office, games, photo editors and so on. How 
+many browser tabs do you open at once? You should also try to decide on things 
+such as screen size, weight and battery life. Do you want a laptop that plays 
+DVDs or one that also works as a tablet? Nowadays, there are half a dozen 
+different types of laptop.
+
+The line of least resistance is to list the features of your old PC, then buy 
+something that’s much the same, only cheaper and much faster.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+
+ 

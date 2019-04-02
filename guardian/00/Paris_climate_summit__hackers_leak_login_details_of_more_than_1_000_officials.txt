@@ -1,0 +1,45 @@
+
+Hackers have leaked the private login details of nearly 1,415 officials at the 
+UN climate talks in Paris in an apparent act of protest against arrests of 
+activists in the city.
+
+Anonymous <https://www.theguardian.com/technology/anonymous>, the hacktivist 
+movement, hacked the website of the summit organisers, the UN Framework 
+Convention on Climate Change (UNFCCC), and posted names, phone numbers, 
+usernames, email addresses, and secret questions and answers onto an anonymous 
+publishing site.
+
+From Isis to Atlantic Records: five targets of Anonymous's cyberwarfare
+ Read more  
+<https://www.theguardian.com/technology/shortcuts/2015/nov/17/isis-anonymous-targets-cyberwarfare-hacktivists-atlantic-records>
+Anonymous claimed the attack was an act of protest against the arrest of 
+protesters on a climate march 
+<https://www.theguardian.com/environment/2015/nov/29/peaceful-paris-climate-gathering-descends-into-clashes-with-police>
+ in Paris on Sunday. Climate activists organising a peaceful protest say that 
+the demonstration was hijacked by a small group of anarchists who clashed with 
+police. All public protests have been banned in the city since a state of 
+emergency was declared after the terror attacks nearly three weeks ago.
+
+Officials whose data has been leaked are from a range of countries including 
+the United Kingdom, Switzerland, Peru, France, and the US. Employees of the 
+British Council and the Department for Environment, Food and Rural Affairs are 
+among the British officials whose data is now in the public domain.
+
+
+“For the UNFCCC itself it’s embarrassing,” says Oliver Farnan, security 
+researcher at the Cyber Security Network in Oxford University. “The specific 
+attack that was used [an SQL injection attack] is a well-known vulnerability … 
+To have their entire user database compromised in this way demonstrates a lack 
+of focus on security,” he said.
+
+Farnan also said that the password encryption used by the UNFCCC appeared to 
+be an “old and weak hashing algorithm,” that should have been “phased out”.
+
+However the damage is likely to limited, and mitigated by changing the 
+passwords on any accounts that use similar passwords.
+
+“Although it’s embarrassing, it’s essential to ensure that their users don’t 
+get compromised in follow on attacks,” Farnan said.
+
+
+ 

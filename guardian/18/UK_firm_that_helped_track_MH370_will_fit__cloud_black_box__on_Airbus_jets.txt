@@ -1,0 +1,76 @@
+
+European plane maker Airbus is to install technology built by British firm 
+Inmarsat <https://www.theguardian.com/business/immarsat> that will render the 
+black box virtually obsolete and could prevent air disasters.
+
+Inmarsat <https://www.theguardian.com/business/immarsat>, the satellite 
+company thathelped Malaysia Airlines pinpoint the likely flight path 
+<https://www.theguardian.com/world/2014/mar/24/flight-mh370-inmarsat-aaib-analysis>
+ of the downed MH370 airliner, said the technology was a “gamechanger” for 
+airline safety.
+
+It beams flight information via a satellite to an airline’s control centre 
+within seconds, capturing real-time data about what is happening onboard the 
+plane.
+
+This is particularly important if an aeroplane crashes into the sea, because 
+signals sent by aflight recorder, or black box 
+<https://www.theguardian.com/world/2014/mar/31/airplane-black-box-flight-recorders-investigators>
+, typically stop within weeks as its batteries run down.
+
+This leaves investigators unable to access crucial data about the cause of an 
+accident, as in the case ofMH370 
+<https://www.theguardian.com/world/malaysia-airlines-flight-mh370>, whose black 
+box has yet to be found.
+
+Inmarsat said the new technology – called SwiftBroadband-Safety (SB-S) and 
+dubbed the “black box in the cloud” – could prevent a crash by speeding up 
+communication between the cockpit and the ground in the event of a mechanical 
+problem or terrorist incident.
+
+Airbus <https://www.theguardian.com/business/airbus> will fit SB-S technology 
+in A320 single-aisle planes and A330 wide-body aircraft from 2018 if it gets 
+regulatory approval.
+
+British defence firm Cobham <https://www.theguardian.com/business/cobham> was 
+selected by Airbus to build the onboard equipment that will be fitted on the 
+planes and connected to Inmarsat’s satellite network.
+
+A former pilot, captain Mary McMillan, who is Inmarsat’s head of safety, said 
+SB-S technology could not only help identify the cause of accidents but could 
+even prevent them.
+
+“This is a gamechanger for safety,” said McMillan, a 30-year veteran of the 
+aviation industry with more than 12,000 hours of flight time under her belt. “I 
+was flying on 9/11 and the difficulty of getting information back and forth was 
+one of the issues of that time.
+
+“There is a limited capability for aircraft to stream data depending on links 
+they are using. The difference in being able to send a small amount of data is 
+you have to pick and choose what you send.
+
+“The ability to stream large amounts of data will give us an awareness in real 
+time of a developing situation about what’s taking place on an aircraft.”
+
+She said the technology could allow staff on the ground to intervene to 
+prevent an accident, “whether it’s a response to a mechanical problem or a 
+terrorist situation”.
+
+Aircraft are already capable of sending live information, but the data is 
+often incomplete and takes longer to send due to slow speeds.
+
+Inmarsat said SB-S was a “paradigm shift” in aviation safety “due to its 
+unprecedented speed and capacity, which are several orders of magnitude greater 
+than cockpit communications systems in the market today”.
+
+Industry sources said Hawaiian Airlines has already tested the SB-S technology 
+and that it has worked well.
+
+Inmarsat was instrumental in determining the flight path of MH370, which 
+crashed on 8 March 2014 with 239 on board while flying from Kuala Lumpur to 
+Beijing.
+
+The cause of the crash has never been identified, leaving air safety firms, 
+pilots and conspiracy theorists to speculate on the events leading up to its 
+disappearance.
+ 

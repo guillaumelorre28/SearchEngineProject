@@ -1,0 +1,123 @@
+
+At Circus Starr <http://www.circus-starr.org.uk/>, our mission is to create 
+accessible community circus events throughout the UK that positively engage 
+with children with physical disabilities, learning difficulties and families 
+from disadvantaged backgrounds. One strand of what we do is to work with 
+children with autism.
+
+Since we first launched in 1987, time and again parents would tell us how 
+their autistic child, who could not usually cope with unknown situations, had 
+sat through our entire show mesmerised, or how their child who could get very 
+distressed in crowds had been dancing ringside with their light-up windmill 
+shouting: “come and boogie everyone!”
+
+Even though from the outside we appeared to break all the rules (loud music, 
+lots of people, bangs, surprises) for some reason we were naturally 
+“autism-friendly” and children felt relaxed in our big top. However, because 
+new experiences and environments can provoke anxiety in children on the 
+autistic spectrum, we also had to find a way to prepare those who were too 
+anxious to make it that far.
+
+We wanted to produce an app 
+<https://itunes.apple.com/gb/app/circus-starr-show-and-tell/id906662040?mt=8> 
+that could somehow capture and convey the essence, magic and unpredictability 
+of circus for a very literal audience. We needed to prepare a child who didn’t 
+like surprises for a show full of surprises … without ruining the surprise.
+
+With funding from the Digital R&D Fund for the Arts 
+<http://www.nesta.org.uk/project/digital-rd-fund-arts> and inspired by the 
+concept of theSocial Stories <http://en.wikipedia.org/wiki/Social_Stories> – 
+where visual stories are used to create positive visualisations that reduce 
+stress and enable the development of coping strategies – we set out to create 
+an interactive storybook where children could make their own circus story from 
+a “bank” of related images. They could then personalise these stories by 
+uploading their own images, captions and footage: a virtual, ring-side circus 
+experience without ever leaving the house.
+
+When you’ve met one person with autism, you’ve met one person with autism.
+
+We first heard those words from Mark Lever, chief executive of the National 
+Autistic Society <http://www.autism.org.uk/>, and with them ringing in our 
+ears, we knew we had to create a universal “circus experience” template that 
+could be adapted to suit the different needs of the 700,000 people with autism 
+in the UK. This also meant that many elements from our original scope ended up 
+on the cutting room floor as what seemed like a good idea at the outset turned 
+out to be “un” autism-friendly in practice.
+
+Take the Clap-o-meter. The idea was that children would tap the screen to 
+express how much they were enjoying themselves at the show, which seemed great 
+until we realised that tapping could also be a sign of anxiety, the very thing 
+we were trying to quell.
+
+The interval activities were another conundrum for us. We were aware that 
+intervals can be a cause of anxiety for children with autism as this is an 
+unstructured part of the experience. We spent days, weeks and months discussing 
+what we were going to put in our app to help keep children distracted during 
+the interval: games? Puzzles? Word-searches?
+
+You are not Candy Crush.
+
+Our learning partner Nesta offered this advice. We realised that if we did our 
+job in creating a fit-for-purpose app, we wouldn’t need any interval activities 
+to “escape” to as the child would already be relaxed, engrossed in the 
+performance and fully prepared for the 15-minute interval.
+
+Preparation, sign-posting and showing and telling our audience what to expect 
+was the key, so we introduced a series of graphic slides that explained waiting 
+times, tickets, show times and intervals. Every potential source of anxiety was 
+chronologically recorded in our visual story.
+
+Unfortunately, when we tested the app on our focus group, the children 
+unanimously chose to hide or delete our helpful graphic slides from their 
+stories; they were condemned as “too boring”. So, while not Candy Crush, nor 
+were we aiming to produce an educational tool: this was the circus after all 
+and needed to be fun.
+
+We went back to the drawing board and filmed the ringmaster giving all the 
+instructions in true visual story style and filmed 20 seconds of lowlights from 
+each act (without giving away the surprises). Early feedback from the parents 
+and children using the app for the shows on our current tour is telling us we 
+did get it right.
+
+What’s next for us? In addition to the app supporting access to the arts more 
+broadly (theatre visits, museums, galleries) many parents and teachers have 
+commented on the app’s potential for supporting transition into reception and 
+year 7 – or even helping prepare for things like the Christmas play.
+
+Show and Tell 
+<https://itunes.apple.com/gb/app/circus-starr-show-and-tell/id906662040?mt=8> 
+is currently available only on iPad and iPhone so as a priority we need to 
+secure further funding to include a version for Android users. We’re also 
+hoping the research side of things will help identify the best parts of the app 
+so we can take them forward into new developments in the future.
+
+App facts
+
+Length of the project: One year
+Companies involved: Circus Starr <http://www.circus-starr.org.uk/>, Glyndwr 
+University <http://www.glyndwr.ac.uk/>, Therapy Box 
+<http://www.therapy-box.co.uk/>, the National Autistic Society 
+<http://www.autism.org.uk/>, Briscoe Photography 
+<http://www.briscoephotography.co.uk/> and CineRobota 
+<http://www.cinerobota.com/>
+Type of finance: Supported by the Digital R&D Fund for the Arts 
+<http://www.nesta.org.uk/project/digital-rd-fund-arts> (Nesta, Arts Council 
+England and the Arts and Humanities Research Council)
+
+
+More App stories
+
+• How we made White, the theatre app for children 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/mar/21/white-theatre-app-children-stage>
+• How we made The War Poetry of Wilfred Owen app for iPad 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/aug/29/war-poetry-wilfred-owen-app-story>
+• How we made the Uneditions web app 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/jan/24/uneditions-web-app-unlimited-theatre>
+
+Cath Logan is community engagement manager at Circus Starr 
+<http://www.circus-starr.org.uk/>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/>.
+ 

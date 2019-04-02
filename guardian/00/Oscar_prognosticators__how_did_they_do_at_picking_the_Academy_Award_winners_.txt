@@ -1,0 +1,83 @@
+
+While Oscar fans spent Monday checking their pools to see if they picked more 
+winners than their friends, I was wondering whether statistics experts did a 
+good job forecasting the results.
+
+I found four websites that used a variety of statistical methods 
+<http://www.popsci.com/science/article/2013-02/best-mathematical-models-for-predicting-the-oscars>
+ to predict winners.Ben Zauzmer 
+<http://oscarforecast.wordpress.com/predictions/>, a Harvard sophomore, built a 
+model from critics' ratings and results from other awards shows.Farsite 
+<http://www.farsiteforecast.com/vanity-fair-polls-and-parties/> used data such 
+as 
+<http://www.reuters.com/article/2013/01/10/oh-farsite-oscars-idUSnPnCL40497+160+PRN20130110>
+ results from other awards shows, the total number of nominations, buzz, and 
+prior nominations for actors and actresses.Nate Silver 
+<http://fivethirtyeight.blogs.nytimes.com/2013/02/22/oscar-predictions-election-style/>
+ used awards shows as a kind ofpre-election poll average 
+<http://dartthrowingchimp.wordpress.com/2013/02/25/a-quick-post-mortem-on-oscars-forecasting/>
+.PredictWise <http://www.predictwise.com/node/1298> combined prediction markets 
+and user sentiment from games.
+
+All four are at least somewhat affected by past awards shows. The first three 
+make an index from previous awards, while PredictWise puts a lot more emphasis 
+on what everyday people (whether through betting markets or games) thought – 
+and obviously they must be heavily influenced by previous awards shows, too.
+
+None of them made any big misses. They all agreed on Daniel Day-Lewis 
+<https://www.theguardian.com/film/danieldaylewis> for best actor, Jennifer 
+Lawrence for best actress, Argo for best film and Anne Hathaway for best 
+supporting actress.
+
+The categories where they disagreed is where the errors occurred. All but 
+Farsite had Tommy Lee Jones winning best supporting actor for Lincoln. Farsite 
+correctly pegged Christophe Waltz in Django Unchained.
+
+Those who missed here recognized the difficulty. PredictWise had Jones only at 
+44% to win with Waltz just behind at 40%. Zauzmer put Jones at 43% and Waltz at 
+34%. Silver's miss was worse than either PredictWise in that he had Philip 
+Seymour Hoffman in The Master just slightly ahead of Waltz in probability. The 
+reason seems to have something to do with Hoffman garnering more nominations 
+for his role in other contests. Even so, Silver still called it the "most 
+competitive category".
+
+The worst miss in the major six was best director. Credit must go to Zauzmer 
+who had Ang Lee for Life of Pi as the favorite. The rest hadSteven Spielberg 
+<https://www.theguardian.com/film/stevenspielberg> for Lincoln. I say "worst" 
+miss because both Farsite and PredictWise had Spielberg at over 75% to win. The 
+miss was particularly bad for Farsite because it tended to be quite 
+conservative in its percentage chances to win and only had Hathaway at a 
+greater chance to win an award. Silver, to his credit, called it a tossup for 
+lack of data.
+
+Thus, the final scores were Farsite and Zauzmer five for six, and PredictWise 
+and Silver four for six. I really wouldn't read very much into these small 
+differences. It's a very small sample size, not significant to make a judgement 
+about which models are better predictors or better calibrated (ie understanding 
+uncertainty).
+
+When we expand to the 21 categories prognosticated by both Zauzmer and 
+PredictWise, they score evenly at 17 out of 21. Both had Lincoln third in best 
+production design, even though it won. In addition, Zauzmer did not get Django 
+Unchained in best original screenplay or Skyfall for best cinematography, while 
+PredictWise failed to peg Les Misérables in best makeup and hairstyling.
+
+A more important point to take away is that there was at least one statistical 
+predictor got it right in all six major categories. That suggests that a key 
+fact about political forecasting holds for the Oscars: averaging of the 
+averages works. You get a better idea looking at multiple models, even if they 
+themselves include multiple factors, than just looking at one.
+
+This average of the averages 
+<http://marginoferror.org/2012/11/08/aggregating-the-aggregates/> held among 
+the wider 21 categories. In only one, best production design, did one of the 
+four not get it. A little over 95% of the time did we have at least some idea 
+of what was coming. This is pretty comparable to election polling.
+
+The overall lesson here is that while we won't always know the winner from any 
+one model, we will rarely be too surprised so long as we take into all the 
+statistical models. My guess is that 17 out of 21 or about 80% is a pretty good 
+guide of what the best systems can do. There's no sign that anyone has cracked 
+any sort of code here. They all did about as well and together gave us a very 
+good heads-up as to who would win.
+ 

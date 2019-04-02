@@ -1,0 +1,140 @@
+
+They say that data is the new oil, and if your business has a web presence 
+then chances are you’re sitting on vast reserves of potential customer insights 
+you may not even know you had.
+
+Far from being just a tool to sell or market your products to potential 
+buyers, much of a website’s true value lies beneath the surface.
+
+There’s an array of analytics tools out there that can tell you who is 
+visiting your website, what time they’re visiting, where they are visiting 
+from, how long they spend on each page (known as bounce rate) and how they got 
+there – be it through a Google search or a Facebook link.
+
+ “Dependent on the business objectives, analytics can offer vital data for key 
+performance indicators which offer business critical decisions,” says Dr 
+Aleksej Heinze, co-director of the Centre for Digital Business atSalford 
+University’s business school <http://www.salford.ac.uk/business-school>.
+
+Getting your hands on all this information is relatively easy too – and often 
+free.
+
+Arguably the most well known and widely used is Google Analytics. 
+<https://www.google.com/analytics/analytics/features/> This free software 
+tracks how users interact with your site right down into the smallest detail, 
+from which page they click on to how long they stay and displays the 
+information in a range of charts and graphs.
+
+If you sell online it can also tell you how many people are buying and – 
+crucially – the point in the customer journey where they abandon a purchase, 
+allowing you to make changes to your strategy or website. There is also a 
+wealth offree training material <https://analyticsacademy.withgoogle.com/> and 
+videos available online to help you learn how to use it.
+
+Open Web Analytics <http://www.openwebanalytics.com/> is also free. It offers 
+many of the functions provided by Google’s platform as well as the addition of 
+heat maps, which keeps tabs on where visitors click on your site, and it can 
+also record mouse movements so you can see how many of your visitors follow 
+your calls to action.
+
+On the paid-for side, Clicky <https://clicky.com/> is an alternative to Google 
+Analytics, which provides real-time information on your website that’s both 
+straightforward to access, with a user interface that’s easy to navigate.Church 
+Analytics <http://churchanalytics.com/> also provides real-time data. Perfect 
+for anyone put off by complex graphs and charts, it has a user-friendly 
+interface that could be less daunting for beginners looking to take their first 
+steps.
+
+One firm making use of analytics is Hubble <https://hubblehq.com/>, an online 
+marketplace for finding and renting spare office space in London.
+
+“We can pinpoint exactly where customers are getting discouraged” says Varun 
+Bhanot, head of business development at the firm, “and it might indicate that 
+we need to tweak our website messaging, product offering or even something as 
+simple as a button to click or photos. For example, we realised that startups 
+were more inclined to click on offices in East London, therefore we put 
+Shoreditch office options front and centre on our search page.”
+
+Varun says the information gleaned has also been important for attracting 
+investors. “It’s meant that when we went to investors to pitch, we had a solid 
+set of data showing we really understood our customer and how they behave.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsmall-business-network%2Fkia-fleet-partner-zone%2F2016%2Fdec%2F08%2Funderstanding-your-customer-using-data-analytics%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F83c96697e30841a673d1e7ff3dcb969ed6a390e0%2F192_1530_2208_2070%2F2208.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Understanding%20your%20customer%20using%20data%20analytics&url=https%3A%2F%2Fwww.theguardian.com%2Fsmall-business-network%2Fkia-fleet-partner-zone%2F2016%2Fdec%2F08%2Funderstanding-your-customer-using-data-analytics%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Understanding%20your%20customer%20using%20data%20analytics&url=https%3A%2F%2Fwww.theguardian.com%2Fsmall-business-network%2Fkia-fleet-partner-zone%2F2016%2Fdec%2F08%2Funderstanding-your-customer-using-data-analytics%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F83c96697e30841a673d1e7ff3dcb969ed6a390e0%2F192_1530_2208_2070%2F2208.jpg>
+ Matt Deighton, managing director of Sofas by Saxon. Photograph: null/Sofas by 
+Saxon 
+“Investors are bullish on having really granular insights so no doubt it 
+helped us seal our seed investment and was critical in our latest round of 
+pitching.”
+
+With the majority of people now accessing the web via their smartphone, 
+finding out which device someone views your site on can be crucial when 
+deciding whether to invest in a website that’s optimised for mobile.
+
+Matt Deighton, managing director at Sofas by Saxon 
+<https://www.sofasbysaxon.com/>, a bespoke furniture manufacturer based in 
+Manchester, said Google Analytics revealed the company’s desktop site had a 
+high bounce rate – customers visiting the site and then leaving quickly – and a 
+low proportion of purchasing visitors. The firm realised it was down to its 
+site not being optimised for mobile.
+
+“Without a mobile-friendly site we had the key issue of site speed – as it was 
+slower than most mobile-friendly sites” says Deighton. “Potential customers 
+just weren’t willing to wait for the site to load – hence the high bounce rate. 
+And as the site was not designed for mobile initially, call to actions were not 
+clear to the user.”
+
+“Now our call to actions stand out and as a result, we have seen the 
+percentage of conversions increase as traffic is now flowing through to these 
+pages.”
+
+But once you’ve run your software and brought up all the numbers, how do you 
+turn that into action?
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsmall-business-network%2Fkia-fleet-partner-zone%2F2016%2Fdec%2F08%2Funderstanding-your-customer-using-data-analytics%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe1c954d429905a069dab57a36e1a25701d004f1a%2F0_1718_3522_3522%2F3522.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Understanding%20your%20customer%20using%20data%20analytics&url=https%3A%2F%2Fwww.theguardian.com%2Fsmall-business-network%2Fkia-fleet-partner-zone%2F2016%2Fdec%2F08%2Funderstanding-your-customer-using-data-analytics%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Understanding%20your%20customer%20using%20data%20analytics&url=https%3A%2F%2Fwww.theguardian.com%2Fsmall-business-network%2Fkia-fleet-partner-zone%2F2016%2Fdec%2F08%2Funderstanding-your-customer-using-data-analytics%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe1c954d429905a069dab57a36e1a25701d004f1a%2F0_1718_3522_3522%2F3522.jpg>
+ Caz Nicklin (left) and Lavinia Smith (right), founders Cyclechic. Photograph: 
+Andy Hall for the Observer 
+Caz Nicklin and her business partner Lavinia Smith run two companies, Cyclechic
+ <https://www.cyclechic.co.uk/> – which sells accessories to style-conscious 
+cyclists – and Faversham-based mobile picture framing websiteNowFrameIt 
+<https://nowframeit.com/#/index>. She found the statistics produced by 
+analytics packages “overwhelming” at first.
+
+“I am no data expert and there have been times I have stared at Google 
+Analytics and [been] none the wiser as to what to do about [the numbers]. What 
+I’ve learnt is to have a goal before you start digging into them.
+
+“One example is that a couple of years ago we set the goal to increase sales 
+by improving our conversion rate. When we look at the analytics we noticed our 
+returning visitors were converting better than our new visitors, so we decided 
+to offer our new customers a 10% discount code if they signed up to our 
+newsletter. This was very effective and we had a 58% increase in sales from 
+2013 to 2014.”
+
+One tried and trusted method of putting analytics’ data into practice is A/B 
+testing. Businesses make two versions of a web page, with varying details, and 
+use analytics data to see which one has proven to be the most effective. If the 
+customer stays longer on one version or – better still – buys something, you’ve 
+found your winner.
+
+But despite the wide availability of both packages and training materials, not 
+enough businesses are making use of the information at their fingertips, says 
+Dr Heinze.
+
+“Unfortunately, the number of businesses using analytics and data in general 
+is still very limited. Data is positioned as one of the five key aspects of a 
+successful digital marketing strategy [and] basic analytics knowledge is 
+relatively easy to gain.”
+
+Content on this page is paid for and produced to a brief agreed with Kia Fleet 
+<http://www.kia.co.uk/kia-business-fleet-cars.aspx>, sponsor of the Guardian 
+Small Business Network Accessing Expertise 
+<https://www.theguardian.com/small-business-network/accessing-expertise> hub
+ 

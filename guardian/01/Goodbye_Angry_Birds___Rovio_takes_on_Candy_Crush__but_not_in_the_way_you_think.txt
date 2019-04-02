@@ -1,0 +1,139 @@
+
+Smartphone gaming is a tough business – even for the companies at the very 
+top. Candy Crush Saga developer King has struggled to develop new games beyond 
+its hit “match-three” puzzler, whileRovio 
+<https://www.theguardian.com/technology/rovio> announced more than 200 lay-offs 
+in August as part of an attempt to restructure and refocus its increasingly 
+bloated business. The app stores are dominated by a handful of longstanding 
+titles, and that makes developing, marketing and launching new IPs even more 
+expensive and risky, especially as it can take several months to start seeing 
+significant returns.
+
+
+It’s a problem Rovio is about to face head-on. The Finnish company’s latest 
+title, released this week on the Apple and Google stores, is Nibblers, a 
+match-three puzzler featuring a cast of aquatic creatures. As ever, players 
+need to line up similar pieces of fruit to clear each level. Unlike the 
+company’s other recent attempts to explore new genres – including Angry Birds 
+Stella Pop andAngry Birds <https://www.theguardian.com/technology/angry-birds> 
+Go – there are no furious avian creatures or porcine antagonists. The cast – if 
+not the design concept – is entirely new.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXwvmoiFBRMo&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXwvmoiFBRMo>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXwvmoiFBRMo&media=>
+According to executive producer, Teemu Hämäläinen, the development process 
+hasn’t been straightforward, despite the familiarity of the genre. “Rovio is 
+all about the characters,” he says. “Everybody knows that Angry Birds is about 
+the birds and the piggies. We looked around and thought, what do we need to do 
+to have the characters right in the centre of a game – actually on the game 
+board itself? You see a lot of puzzle games where the characters are at the 
+very sides of the screen, but you’re not playing with them.”
+
+Last year, a small team of 10 staff started the prototyping process, toying 
+with the fundamentals of the match-three genre. “We played with ideas that let 
+us combine a game board with the characters, within a set of game mechanics 
+that balanced skill and luck,” he says. “We built more than 20 prototypes, but 
+often we just couldn’t get that balance right – it was a long journey.”
+
+Eventually, the team had the idea of including characters among the fruit as 
+gameplay elements. In Nibblers, the heroes are a bunch of amphibian creatures 
+who stumble onto a beach and find lots of delicious fruit, unaware that 
+fish-eating reptiles are watching. In each level, then, the board features not 
+just fruit to match, but also reptilian enemies who have to be dispatched by 
+matching fruit nearby. When the player matches more than three fruit in one go, 
+a friendly fish character pops up onscreen offering a power-up, which can be 
+used immediately, or saved. Match four fruits and you get Coral, who can be 
+swiped vertically or horizontally across the screen, destroying all fruit and 
+enemies in her wake. Five or more matches earns Octo, who stomps through three 
+rows of fruit in one go. Players can even unlock a giant battler called Bouncer 
+who can splat a whole screen in one landing.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fsep%2F10%2Fgoodbye-angry-birds-rovio-takes-on-candy-crush%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F9%2F10%2F1441887220709%2F90e3e792-de4b-4eee-895c-4dd4ec95444b-1020x612.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Goodbye%20Angry%20Birds%20%E2%80%93%20Rovio%20takes%20on%20Candy%20Crush%2C%20but%20not%20in%20the%20way%20you%20think&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fsep%2F10%2Fgoodbye-angry-birds-rovio-takes-on-candy-crush%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Goodbye%20Angry%20Birds%20%E2%80%93%20Rovio%20takes%20on%20Candy%20Crush%2C%20but%20not%20in%20the%20way%20you%20think&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fsep%2F10%2Fgoodbye-angry-birds-rovio-takes-on-candy-crush%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F9%2F10%2F1441887220709%2F90e3e792-de4b-4eee-895c-4dd4ec95444b-1020x612.png>
+ The huge Bouncer character can smash through vast quantities of fruit and 
+reptiles, giving players huge scoring potential in the style of an action game. 
+Photograph: Rovio 
+It’s a series of special-move mechanics taking from the fighting game genre. 
+Although it’s not exactly a revolution, it’s a neat skill-based addition, 
+accentuated by a combo mechanic that lets you combine the abilities if you have 
+multiple characters on screen at once. As you progress the enemies start eating 
+Nibbler characters and breaking up fruit chains, adding more sense of peril. 
+The game even adds end of level boss fights between different map areas, 
+including a giant snake that sucks up fruit and fish – these need to be hit 
+with multiple fruit matches to defeat. Some of the enemies also move around the 
+board, adding a timing element missing from most match-three titles. “The game 
+is full of surprises,” says Hämäläinen. “We wanted to create a living 
+environment with small movements and animations, even in the backgrounds.”
+
+So why just Nibblers? Why not Angry Birds Nibblers? “We did ask ourselves: do 
+we want to launch another Angry Birds game or do we want a new IP?” says 
+Hämäläinen. “We felt we needed to be more daring. We wanted to create a wider 
+cast of characters. In Angry Birds it’s clear that Red is the leader - we 
+wanted it to be less clear this time. It’s more about the group. We also wanted 
+characters that aren’t too childish - that are likeable but not as much 
+huggable. They’re not too cute or over-polished. But we thought a new IP would 
+allow us to take more liberties - we didn’t need to be worried about the brand 
+or other constraints.”
+
+There’s doubtless something else behind the decision, however. Through its 
+cartoon-style character design and relentless merchandising, Angry Birds has 
+become very much a kid’s brand – but the match-three genre tends to be aimed at 
+an older demographic. Candy Crush saga has proveda huge hit with female players 
+<https://www.theguardian.com/technology/2014/may/11/candy-crush-saga-games> – 
+its key demographic is women aged between 25 and 45. Nibblers had to take a bit 
+out of that sector, so its characters are cute but not childlike.
+
+The game was soft launched in Canada, Australia, New Zealand and Finland in 
+January (the latter so the development team’s friends and families could play). 
+Rovio watched how the design was appreciated, but also how well it monetised. 
+Unlike Angry Birds, a premium game with an upfront cost, Nibblers is swimming 
+straight into the free-to-play ocean, with players able to buy extra moves or 
+new characters when they’re stuck. Rovio is also toying with the currently 
+trendy “incentivised video advertising” model: if you fail a level, the game 
+asks if you want to look at a video advert in return for a free power-up at the 
+start of your next go.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fsep%2F10%2Fgoodbye-angry-birds-rovio-takes-on-candy-crush%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F9%2F10%2F1441887384676%2F69e8b9ed-beb9-45e7-bad0-a6560e2e96e9-680x1020.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Goodbye%20Angry%20Birds%20%E2%80%93%20Rovio%20takes%20on%20Candy%20Crush%2C%20but%20not%20in%20the%20way%20you%20think&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fsep%2F10%2Fgoodbye-angry-birds-rovio-takes-on-candy-crush%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Goodbye%20Angry%20Birds%20%E2%80%93%20Rovio%20takes%20on%20Candy%20Crush%2C%20but%20not%20in%20the%20way%20you%20think&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fsep%2F10%2Fgoodbye-angry-birds-rovio-takes-on-candy-crush%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F9%2F10%2F1441887384676%2F69e8b9ed-beb9-45e7-bad0-a6560e2e96e9-680x1020.png>
+ The snake is one of several boss characters that players face at key points in 
+the game. The battles are multi-stage, with characters pulling out extra moves 
+when they’re shot on health. Photograph: Rovio 
+In terms of the gameplay, the big lesson has been to introduce the fresh 
+gameplay elements slowly – match-three puzzle titles don’t usually have 
+characters that move about the board, or boss baddie encounters – these are 
+small but important shifts toward more “hardcore” gaming content.
+
+
+Apparently, the priority for the development team – now up to 20 people – is 
+to ensure a fast flow of new content. Free-to-play games have to battle for 
+retention in such a crowded market place and allowing a title to stagnate for 
+even a few weeks will see players moving on elsewhere.
+
+“We want to make sure we can produce a lot of levels in a very short time 
+frame,” says Hämäläinen. “You have to keep giving your audience more things to 
+play. We’re launching with 200 levels, and the first update will be two weeks 
+later when we’re giving an extra 60 levels, and then we’re releasing more 
+content every fortnight – more levels, new islands, new opponents or new game 
+play types. That’s why we have a big team.”
+
+Nibblers certainly resonates with typical Rovio qualities: the visuals and 
+sound are super-polished, with lots of smooth animation and the usual 
+over-the-top victory displays at the end of each stage. And the slightly more 
+complex play dynamics may well bring back match-three fans, who have grown 
+tired of the genre’s staid and limiting properties.
+
+It is, however, still fundamentally a very recognisable game type in a 
+massively overcrowded market, where everyone is using similar visual feedback 
+systems and cunning compulsion loops to ensnare bored commuters. “Competition 
+is fearsome,” admits Hämäläinen. “Launching games is not simple - we have to be 
+humble, it’s always a risk.”
+ 

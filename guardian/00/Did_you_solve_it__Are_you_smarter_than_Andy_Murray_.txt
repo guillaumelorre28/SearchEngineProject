@@ -1,0 +1,134 @@
+
+Earlier today I set you the following three puzzles 
+<https://www.theguardian.com/science/2016/jun/20/can-you-solve-it-are-you-smarter-than-andy-murray>
+:
+
+ * The men’s singles event at Wimbledon is a knockout tournament with 128 
+players. Without doing any arithmetic - i.e adding up the number of matches in 
+every round - can you work out how many matches are there in total?
+
+ * What is the minimum number of times you need to hit the ball with your 
+racket in order to win a set? 
+ * Goode, who is a good tennis player, and Poor, who isn’t, will take turns as 
+your opponent over three sets of tennis. The order for sets 1-2-3 will be 
+either Goode-Poor-Goode, or Poor-Goode-Poor? Which order of opponent do you 
+choose to maximise your chances of winning two sets in a row? 
+Question 1
+
+The answer is 127.
+
+What I didn’t want you to do was to add the 64 first round matches to the 32 
+second round matches, to the 16 third round matches, and so on, which is 64 + 
+32 + 16 + 8 + 4 + 2 + 1 = 127.
+
+Not only is this laborious but it is inelegant. 
+
+This way is neater: at the end of each match one player is the winner and one 
+is the loser. At the end of the tournament, every player has lost a matchexcept 
+the champion. So there must be one less match than there are players. There are 
+128 players so there must be 127 matches.
+
+Question 2
+
+The answer is once.
+
+Imagine if every time you serve you swing at the ball and miss. This is a 
+fault. Do this twice in a row and you lose the point. Do it eight times in a 
+row and you lose the game.
+
+Now imagine you do this for your six service games and that your opponent also 
+double faults on every serve. The score after 12 games will be 6-6 and the set 
+will enter the tiebreak.
+
+If you continue to swing at the ball and miss, and your opponent double 
+faults, neither of you will be able to win the tie-break. But depending on who 
+serves first you will either get to 6-5, or 7-6 ahead. When you you do, ace 
+that serve and you will have won the set with your racket hitting the ball only 
+once.
+
+This question may seem familiar to many of you since it is similar to one of 
+the most controversial moments on the quiz show Who Wants to be A Millionaire. 
+In an episode in 1999, a contestant was asked:
+
+Theoretically, what is the minimum number of strokes with which a tennis 
+player can win a set?
+
+His four choices were 12, 24, 36 and 48. He replied 24, was told it was 
+correct, and won that question, worth £64,000.
+
+The correct answer was 12 - four aces on each of his serves for 3 games, and 
+his opponent double faulting all his serves in 3 games. Later the programme 
+makers admitted they had made a mistake but let the contestant keep his 
+winnings.
+
+If by a ‘stroke’ we mean the racket hitting the ball, however, even 12 is 11 
+too many.
+
+Question 3
+
+The answer is Goode-Poor-Goode
+
+I love the counter-intuitive nature of the answer: in order to have the best 
+chance of winning two sets in a row you need to play the best player twice!
+
+
+This is because in order to win two sets in a row you must win the middle 
+game. You have a better chance of winning the middle set against Poor than you 
+do against Goode, so with Goode-Poor-Goode you get an easier middle set and two 
+shots at beating Goode. If you went with Poor-Goode-Poore, you only get one 
+shot at beating Goode.
+
+The insight here is to realise that even though the chances of winning any two 
+sets is better with Poor-Goode-Poor, the chance of winningtwo sets in a row is 
+better with Goode-Poor-Goode.
+
+For those who are familiar with basic probability theory, we can prove the 
+result more formally. If the probability of beating Poor isp, and the 
+probability of beating Goode isg, then the probability of two wins in a row 
+facing Goode-Poore-Goode are the sum of:
+
+win-win-win: gpg
+
+win-win-lose: gp(1 – g)
+
+lose-win-win: (1 – g)gp
+
+TOTAL: 2gp – ggp = gp(2 – g)
+
+Using a similar table for Poor-Goode-Poor, the probability of two wins in a 
+row works out asgp(2 – p).
+
+Goode is better than Poor, so the probability of beating Poor is greater than 
+the probability of beating Goode, i.ep > g.
+
+Therefore (2 – g) > (2 – p)
+
+And thus gp(2 – g) > gp(2 – p)
+
+So the chances of two wins in a row against Goode-Poor-Goode is greater than 
+the chances in a row against Poor-Goode-Poor.
+
+Sources: 1. of unknown origin. 2. Dick Hess: Number Crunching Math Puzzles 
+<http://amzn.to/1Y0uNNl>. 3. Frederick Mosteller: Fifty Challenging Problems in 
+Probability <http://amzn.to/1YyhOBf>.
+
+I post a puzzle here on a Monday every two weeks. If you are reading this on 
+the Guardian app, click where it says ‘Follow Alex Bellos’ and you’ll get an 
+alert when the next puzzle appears.
+
+
+If you want to propose a puzzle for this column, please email me 
+<mailto:bellospuzzle@gmail.com> I’d love to hear it.
+
+I’m the author of three popular maths books including Alex’s Adventures in 
+Numberland <http://amzn.to/24xBFW0> and the maths colouring book Snowflake 
+Seashell Star 
+<http://www.amazon.co.uk/gp/product/1782117881/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1782117881&linkCode=as2&tag=alebel-21>
+.
+
+You can check me out on Twitter <https://twitter.com/alexbellos>, Facebook 
+<https://www.facebook.com/pages/Alex-Bellos/326738482347?ref=bookmarks>, Google+
+ <https://plus.google.com/u/0/100349853927591455618/posts>, my personal website 
+<http://www.alexbellos.com/> or my Guardian maths blog 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>.
+ 

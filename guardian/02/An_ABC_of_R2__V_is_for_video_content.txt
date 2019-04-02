@@ -1,0 +1,43 @@
+
+Today V, for video content... which changed in the way we thought about it 
+(and implemented it) a long time after it was released.
+
+Originally any piece of content was designated as being of exactly one type: 
+it was either an article, a video, a competition, and so on. To take the video 
+content as an example, putting a video onto the site involves opening up a 
+video content editor in the CMS, referencing the appropriate asset in the 
+Brightcove system, and adding some video-specific metadata such as its source 
+and preferred display size. Clearly you aren't going to confuse that with 
+writing an article, which is why it made sense to say that each piece of 
+content was of exactly one type, no more and no less.
+
+But one day one of the editorial staff made an unusual request: she had an 
+article and wanted us to add a checkbox in the article editor marked "Display 
+on video page". This puzzled the tech team initially -- if it was an article 
+then people wanting videos wouldn't want it to appear on the video page. Also, 
+we were wary about adding a feature which would complicate the article editor 
+but be used by few people. We quickly found the good reason for her request: 
+she was creating an article with an embedded YouTube video, and the purpose of 
+the content really was to showcase the video. Anyone looking for videos on the 
+site would want to find the content, so it should appear on the video page, but 
+the video should remain outside the Guardian CMS, so the video content editor 
+wasn't appropriate.
+
+We realised this was a general need: content could fall into several 
+categories at once and editorial staff should be able to flag it as such. The 
+solution, then, was not to add a checkbox marked "Display on video page" 
+because that wouldn't solve the general problem. Instead we took an existing 
+"labelling" facility present in all the content editors, and we extended it 
+allow content-type labels to be added. Of course, we also needed to ensure the 
+system responded to these new labels, but since it was an extension of an 
+existing feature it was a more natural and reliable solution than we might 
+otherwise have implemented.
+
+The end result therefore didn't introduce any complexity for end-users -- no 
+extra buttons or checkboxes -- but it did give them the power to do what they 
+wanted.
+
+This is a good example both of how our understanding of apparently-basic 
+questions ("what is video?") can change with experience, and of how 
+understanding the source of a requirement can lead to better solutions.
+ 

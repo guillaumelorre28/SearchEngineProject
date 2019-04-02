@@ -1,0 +1,84 @@
+
+Fifteen months have passed since Edward Snowden 
+<https://www.theguardian.com/world/edward-snowden> began to explain to us how 
+our networked world works. During that time there has been much outrage, shock, 
+horror, etc expressed by the media and the tech industry. So far, so 
+predictable. What is much more puzzling is how relatively relaxed the general 
+public appears to be about all this. In Britain, for example, opinion polling 
+suggests that nearlytwo thirds of the population think that the kind of 
+surveillance revealed by Snowden is basically OK 
+<http://memex.naughtons.org/archives/2013/07/27/18825>.
+
+To some extent, the level of public complacency/concern is culturally 
+determined. Citizens of Germany, for example, appear to be significantly more 
+concerned about the Snowden revelations – and were so even before it was 
+discovered that the NSA was bugging Angela Merkel's mobile phone. Germany was 
+the European countrywhere Google's Streetview project ran into most opposition 
+<https://www.theguardian.com/technology/2010/oct/13/google-germany-street-view>
+, for example. But German wariness about comprehensive surveillance is easy to 
+understand: after all, half of the country lived for decades under the Stasi's 
+comprehensive analogue surveillance. Germans know all about being watched.
+
+The relative complacency of the British, on the other hand, is also culturally 
+determined. GCHQ emerged from Bletchley Park, and in the popular mind may still 
+surfthe slipstream of Enigma glory <http://en.wikipedia.org/wiki/Bletchley_Park>
+. The halo effect of the James Bond movies may also have something to do with 
+it, which is odd given that until comparatively recently the senior ranks of 
+007's employer harboured a nest of Soviet spies. Whenthe Regulation of 
+Investigatory Powers Act (Ripa) 
+<http://www.legislation.gov.uk/ukpga/2000/23/contents> – the statute which 
+ostensibly "legalises" everything that GCHQ & co do in cyberspace – was going 
+through parliament in 1999, those of us who campaigned against it were 
+astonished to find that no more than a handful of MPs were interested. After 
+all, their constituents weren't writing about it and they were happy to accept 
+the home secretary's assurances that he was simply updating phone-tapping 
+regulations for the digital age. This legislative indolence is a shocking case 
+study of what complacent ignorance can do to a democracy, and we are now living 
+with the consequences of it.
+
+It's tempting for tech-savvy folks to resort to elitist explanations for the 
+general public's lack of concern. The general tenor of this tech critique goes 
+something like this: the poor schmucks don't know the first thing about this 
+stuff; otherwise they wouldn't be signing up for "free" services that read 
+their email and exploit their personal data; nor would they be storing their 
+files – unencrypted – in the cloud, or enabling location services on their 
+smartphones. And so on. And if they weren't schmucks, why would they fall for 
+the official mantra that "if you have nothing to hide, then you have nothing to 
+fear"?
+
+Given that we live in a democracy, contempt for the electorate seems an unwise 
+approach to persuasion. Those of us who worry about this stuff need to think 
+differently. In particular, we need to get to the root of the problem – which 
+is that people find it hard to imagine where current technological, political 
+and economic trends could be taking us. To put it bluntly, we are heading for a 
+society that is comprehensively surveilled. And I mean comprehensively: if you 
+think it's bad now then just wait until the "internet of things 
+<https://www.theguardian.com/technology/internet-of-things>" bandwagon really 
+rolls.
+
+The problem we have, therefore, is one of imaginative failure. If people could 
+really conceive what it would be like to live in such a society, then perhaps 
+they would be more concerned about what is happening now. But most of us don't 
+have imaginations that are up to the task. Fortunately, though, there are 
+people among us who do. We call them novelists.
+
+In a previous era, the most prophetic evocations of where we were headed were 
+produced by two Old Etonian novelists – George Orwell and Aldous Huxley. Orwell 
+thought we would be destroyed by the things we fear, particularlycomprehensive 
+surveillance <http://en.wikipedia.org/wiki/Nineteen_Eighty-Four>. Huxley 
+conjectured thatwe would be destroyed by the things that delight us 
+<http://en.wikipedia.org/wiki/Brave_New_World>. As it happens, we've wound up 
+with both. NSA/GCHQ are doing the Orwellian stuff, while Google, Facebook, 
+Apple, Yahoo, Microsoft, Skypeet al are taking care of the Huxleyan side of 
+things.
+
+But now we need an updated imaginative visualisation of what lies further 
+ahead. Step forward Dave Eggers, whose novelThe Circle 
+<http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9780241146507>
+ is a vivid account of what happens when a digitalnaif enters the force field 
+of an organisation that is a mash-up of Google and Facebook.As a novel it has 
+some flaws 
+<http://www.crassh.cam.ac.uk/blog/post/the-circle-totally-transparent> but as a 
+picture of a possible future it is utterly, utterly brilliant. Put it on your 
+Xmas list now.
+ 

@@ -1,0 +1,188 @@
+
+It is the sense of scale that hits you. Despite intentionally blocky visuals, 
+the open-world building gameMinecraft 
+<https://www.theguardian.com/technology/minecraft> has always produced 
+landscapes of great diversity and beauty. To stand on a hillside and see the 
+plains extend out for miles in all directions remains a great pleasure, even 
+four years after its release.
+
+But visiting the game in virtual reality, actually standing among the craggy 
+chasms, being able to look up at the looming mountains, seeing them extend into 
+the sky far above you ... this is a new, rather breathtaking experience.
+
+In September Oculus founder Palmer Luckey 
+<https://www.theguardian.com/technology/2016/jan/07/oculus-founder-apologises-to-vr-fans-over-rift-price>
+ announced a new version of Minecraft would support his company’s VR headset, 
+the Oculus Rift. The original Java version of the game has been unofficially 
+running on the hardware for over a year thanks to the efforts of the fan 
+community, but the results have been mixed. This one is being co-developed by 
+teams at Mojang (the game’s original developer), Oculus and at Microsoft’s 
+Redmond campus, using the new Windows 10 iteration of the game, which will be 
+the default going forward.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F02%2Fminecraft-comes-to-oculus-rift-hands-on-in-the-virtual-world%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F9e830034615eb708bf8c46bd301c042399cc3a64%2F42_0_1879_1128%2F1879.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Minecraft%20comes%20to%20Oculus%20Rift%20%E2%80%93%20hands-on%20in%20the%20virtual%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F02%2Fminecraft-comes-to-oculus-rift-hands-on-in-the-virtual-world%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Minecraft%20comes%20to%20Oculus%20Rift%20%E2%80%93%20hands-on%20in%20the%20virtual%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F02%2Fminecraft-comes-to-oculus-rift-hands-on-in-the-virtual-world%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F9e830034615eb708bf8c46bd301c042399cc3a64%2F42_0_1879_1128%2F1879.jpg>
+ The sense of height and scale is accentuated in Minecraft Oculus. Tall 
+mountains and buildings are a lot more daunting. Photograph: Microsoft 
+“Just getting it on to the headset seemed hard to begin with, but that was 
+just the start of the challenge,” says Mojang’s Tommaso Checchi. “We got it 
+running in 2014, but then we had to go through and make the game actually work 
+VR. It’s hard to hit a balance where the game is comfortable but still feels 
+perfectly like Minecraft, and you can still play with other people on the same 
+server. VR has one problem – it’s hard to pull off an experience where you can 
+move and rotate freely in a vast open world.”
+
+At the Xbox spring showcase in San Francisco, Microsoft is showing off a demo 
+map, prepared especially to show off the potential of VR Minecraft. The first 
+thing you see when you put on the consumer headset, is a Minecraft-esque room 
+with a large TV screen showing the map you’ve just opened. You can actually sit 
+down and play the game like this – on a 2D virtual display within the VR 
+environment, as though you’re playing it on a normal TV. The development team 
+sees this as a crucial part of the VR ‘on ramp’. “It’s overwhelming at the 
+start,” says Microsoft’s Saxs Persson, who has also been working on theHololens 
+version of the game 
+<https://www.theguardian.com/technology/2015/jun/24/minecraft-hololens-mixed-augmented-reality-microsoft>
+. “That’s why we start it in a living room, with a screen which is showing you 
+Minecraft – because throwing you in there freezes people. This way, you get a 
+chance to situate yourself, and it calms down the sensory systems, otherwise 
+being fully immersed and moving around ... it can be uncomfortable.”
+
+What works in VR – and what doesn’t
+
+A big part of the conversion process has been learning what works and what 
+really doesn’t in a virtual reality experience. The VR development community is 
+starting to establish a few basic rules, and one of them is that there can be 
+no screen movement that isn’t instigated by the player – it’s a one way trip to 
+nausea. “We’ve done a ton of user testing,” says Persson. “At first we just 
+ported it over and put people in the world, and while it was technically 
+Minecraft it wasn’t a good experience. I lasted about five seconds and then I 
+was sick. It just isn’t made for VR: the controls, and simple things like 
+screen shake when something his you – it throws you off kilter.”
+
+According to Persson, the team went through and systematically tweaked how 
+Minecraft works: “We changed the movement: how you jump and turn, how swimming 
+feels and how hit reactions affect the screen. And we had to change the way 
+boats and mine carts worked too.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F02%2Fminecraft-comes-to-oculus-rift-hands-on-in-the-virtual-world%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F84d195006d34a02b14466656b0121812c4f657ce%2F42_0_1879_1128%2F1879.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Minecraft%20comes%20to%20Oculus%20Rift%20%E2%80%93%20hands-on%20in%20the%20virtual%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F02%2Fminecraft-comes-to-oculus-rift-hands-on-in-the-virtual-world%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Minecraft%20comes%20to%20Oculus%20Rift%20%E2%80%93%20hands-on%20in%20the%20virtual%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F02%2Fminecraft-comes-to-oculus-rift-hands-on-in-the-virtual-world%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F84d195006d34a02b14466656b0121812c4f657ce%2F42_0_1879_1128%2F1879.jpg>
+ In the the Oculus version of Minecraft, the development team has had to remove 
+the screen shake that usually accompanies being hit by a sword or arrow. 
+Photograph: Microsoft 
+Some problems have been less expected though. “One thing we found out recently 
+is that dimly lit caves can make you sick,” says Checchi. “We think it’s 
+because people try to really focus on details, but things shift and blur in the 
+darkness as you move. We’ve tried to fix that.”
+
+Once you’re ready, you can select to enter the Minecraft map, and then you 
+find yourself immersed in the blocky environment, able to look around in all 
+directions, as though it’s a real place. The game works with anXbox 
+<https://www.theguardian.com/technology/xbox> controller, which you use to move 
+around and interact with objects in the usual way – it’s just that the very 
+slick head tracking replaces the need to look around with the analogue stick. 
+It takes a little while to get used to directing the cursor with your head, 
+especially when trying to open a chest or use a crafting table, but you do 
+eventually acclimatise.
+
+The demo starts in a small field beneath a large mountain range. When you look 
+up, you see a distant castle right at the top of a vast peak. For a second it 
+seems almost impossibly distant and imposing – it feels like an epic journey 
+away; when you play Minecraft on a 2D screen, the scale of the worlds, the 
+heights, depths and lateral distances that the environment contains, are just 
+numbers, but being inside the world, suddenly the distances are palpable.
+
+Chris Smith, a Microsoft <https://www.theguardian.com/technology/microsoft> 
+developer who spent a week designing this map, is an enthusiastic guide. He 
+directs me to a minecart and when I clamber aboard the vehicle powers up and 
+takes me very quickly up a steep incline along the mountainside. It feels like 
+being on a rollercoaster simulator, and this was the only point where I began 
+to feel a little bit of motion sickness (other journalists reported mild nausea 
+at different stages in the demo). As you reach the top, you can look round in 
+all directions and get this rather unsettling feeling of height – it’s 
+something Smith plays with later, by featuring a high bridge created out of 
+glass blocks: you look down as you walk and see the valley surface seemingly 
+hundreds of metres below.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ6R7m3CmV-0&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ6R7m3CmV-0>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQ6R7m3CmV-0&media=>
+Smith also shows off some impressive red stone machines he’s made; one fires 
+TNT crates into an enormous target which explodes and reveals a massive 
+sculpture of an enderman modelled out of obsidian. We walk for a while among 
+the trees while chickens flutter about around us, looking ridiculously cute and 
+tangible in their new virtual forms.
+
+Inside the castle though, the mood is darker. I very quickly run into a 
+skeleton, which is often a slight shock in the 2D version of the game, but in 
+the virtual world, with those dead eyes staring at you as it fires arrow after 
+arrow, it’s actually pretty scary. Later, I’m rescued by some of the game’s 
+giant Iron Golems, which tower above my character. Again, it’s a whole new 
+feeling of scale and immersion – you get a sense of yourself as a rather puny 
+physical presence in the world rather than a demigod-like figure.
+
+‘You can look each other in the eye’
+
+That sense of embodiment is also going to make this game interesting from a 
+social standpoint. Players will be able to access any Minecraft server and play 
+against people using standard 2D screens onPC 
+<https://www.theguardian.com/technology/pc> and smartphone. But it’ll be 
+fascinating when groups of friends are using Oculus and meeting together in VR 
+Minecraft.
+
+“One thing we’ve seen when playing with multiple people in VR is the heads are 
+so expressive now, you can look each other in the eye - and that has certain 
+connotations,” says Persson. “Some competitive multiplayer mini-games are just 
+more fun now. Digging out underneath your buddy and then watching them looking 
+up at you as they fall with these pleading eyes. It’s so different. And acting 
+out, doing choreographed moves together, it’s super fun. It feels like you’re 
+there, so the sort of things you want to do are slightly different.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F02%2Fminecraft-comes-to-oculus-rift-hands-on-in-the-virtual-world%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F8f63c87e52427758ade5fe654a544f2253553081%2F42_0_1879_1128%2F1879.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Minecraft%20comes%20to%20Oculus%20Rift%20%E2%80%93%20hands-on%20in%20the%20virtual%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F02%2Fminecraft-comes-to-oculus-rift-hands-on-in-the-virtual-world%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Minecraft%20comes%20to%20Oculus%20Rift%20%E2%80%93%20hands-on%20in%20the%20virtual%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F02%2Fminecraft-comes-to-oculus-rift-hands-on-in-the-virtual-world%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F8f63c87e52427758ade5fe654a544f2253553081%2F42_0_1879_1128%2F1879.jpg>
+ The world’s inhabitants feel a lot more tangible in virtual reality. While 
+enemy mobs are more threatening, chickens increase in cuteness. Photograph: 
+Microsoft 
+One problem with VR Minecraft as a social platform is that it doesn’t support 
+keyboard input so it’ll be hard for people to communicate via text chat. The 
+team doesn’t see this as a barrier though. “It’ll be interesting to trying new 
+ways to communicate,” says Checchi. “For example, streaming your voice out of 
+the character’s mouth. It’s technically pretty hard, but the Oculus has a 
+microphone in it, so I guess they’re looking at that.”
+
+As this VR experience runs in Windows 10 – like the Pocket, Desktop and 
+Education iterations – it means most of the thousands of fan-made mods 
+currently available won’t work. This makes it all the more important for 
+Microsoft to start nurturing a refreshed creative community around its new 
+Minecraft era. There are amazing possibilities here for completely innovative 
+mini-games and adventures, but these will mostly come from amateur teams rather 
+than Microsoft or Mojang – and most of those teams are still working on Java.
+
+But for Persson, this is still early days for Minecraft VR and for virtual 
+reality games in general. “There’s still so much to learn about how to make a 
+good VR experience,” he says. “You have to unlearn a whole bunch of the simple 
+things that you used to just take for granted. Then it’s one step at a time – 
+that’s the fun part of it.
+
+“With VR you can give people a new way to experience a world - which is what 
+we set out to do. Very few developers have attempted open-world navigation in a 
+VR space like this, but we’ve been forced to with this game. It’s exciting to 
+be blazing trails. I’m not sure we have the answers to anything, but we’re 
+further along the path than most.
+
+“Just getting people immersed in Minecraft is the big step. We’ll see what 
+happens after that.”
+
+• Keith Stuart attended a press event in San Francisco, with travel and 
+accommodation costs met by Microsoft.
+ 

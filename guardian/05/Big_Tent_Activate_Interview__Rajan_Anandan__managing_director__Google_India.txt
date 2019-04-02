@@ -1,0 +1,165 @@
+
+Estimates suggest that by the year 2020 India will have more than 600 million 
+citizens online - twice as many as the United States. Ahead of the inauguralBig 
+Tent Activate Summit 
+<https://www.theguardian.com/media-network/media-network-blog/2013/mar/05/guardian-google-activate-india-delhi>
+ next week, Activate curator Robin Hough speaks to Google India head Rajan 
+Anandan on the need for improved broadband infrastrucure, greater foreign 
+direct investment in business and how the Internet is an "economic force 
+multiplier" in India.
+
+One of the sessions at the Big Tent Activate 
+<https://www.theguardian.com/media-network/activate> Summit will focus on the 
+need to transform India's information infrastructure - where do you think this 
+transformation needs to happen in order for India to have a fit for purpose 
+information infrastructure?
+
+India is already the third largest internet user market in the world with 150 
+million Indians connected to the web, so there's a large internet user market 
+already. But only 12% of the entire population are connected today. So what is 
+required to get the next 300 million and 500 million Indians online? The issue 
+is one of connectivity - India lacks broadband. Of the 150 million Indians 
+online we only have 10 million households with broadband connectivity and even 
+that is a very generous definition of broadband. And on the mobile side we have 
+100 million mobile connected users but less than 10 million are connected on 
+3G. So the crying need of the country is really broadband infrastructure.
+
+Another session on the agenda will focus on the role of technology for good, 
+and how the internet can be used to tackle some of the most pressing political, 
+economic and social problems facing India. How do you see the internet's role 
+and impact in addressing said issues?
+
+The most important area to start with is the economy. The GDP growth rate in 
+India has essentially halved over the last three years, from over 9% to around 
+4.5%, and what we have to do is figure out how to get the growth back to 7% or 
+8% plus. What's clear is that the Internet can play a very central role in 
+accelerating our GDP growth.A study that McKinnsey has done 
+<http://www.mckinsey.com/client_service/high_tech/latest_thinking/impact_of_the_internet_on_aspiring_countries>
+ suggests that the Internet today accounts for about 1.8% of GDP growth in 
+India. If we can get this right and build out the right Internet infrastructure 
+to enable growth in businesses, then the Internet could account for as much as 
+5% of GDP growth by 2020. The Internet acts as an economic force multiplier and 
+this aspect is the single most important way in which the Internet can impact 
+India as a whole.
+
+Then when you actually look at other aspects of India, at the social problems 
+that we have, there are a large set of opportunities in areas like education 
+and healthcare, and the Internet offers a great way to help solve some of these 
+problems. India simply cannot produce enough high quality teachers to be able 
+to educate at world class levels the 300 million plus students that we have. 
+But if we leverage the internet as a platform and get distance learning right 
+we can significantly improve the quality of education that we can deliver to 
+remote parts of India.
+
+Similarly on healthcare we are never going to have enough hospitals or doctors 
+for us to take affordable healthcare to the very last village. If we can get 
+the internet infrastructure scaled out to the very last village, then remote 
+healthcare becomes a reality.
+
+In terms of politics, the Internet is without question the best medium to 
+engage in a one-to-one or one-to-many dialogue with citizens around the 
+country. Today you have a medium that enables different political parties and 
+politicians to directly engage with 150 million Indians at this point. If you 
+look at young India which historically has not posted the number of voters we 
+would like, this next election provides a great opportunity for all the 
+political parties to leverage the internet to mobilise young India to go out 
+there and vote and take an interest in politics.
+
+It's predicted that by 2020 India will have more than 600 million people 
+online - what does a connected society of that size and scale look like? Where 
+are the opportunities and what are the challenges?
+
+There are 600 million people in Western Europe today, so you're talking about 
+all of Western Europe being connected but it being in one country. With 600 
+million connected people in India, the Internet will be twice the size of the 
+number of users in the United States. You can imagine the kind of new business 
+opportunities that this would create. India will have many billion dollar 
+Internet and mobile Internet companies that are going to get built because of 
+this very large domestic user base, and with that scale of connectivity, 
+everything that we do, from day to day citizen services to education to 
+healthcare right through to how we interact with friends and family across 
+cities and regions will change. So imagine an internet economy that is twice 
+the size of the US and that is what India will be by the year 2020 and I think 
+it's just mind-boggling what will happen when we get there.
+
+Where is web-based innovation coming from within India? Are the established 
+players leading the way or has the Internet, as you could argue it has 
+elsewhere, enabled bottom up innovation from SMEs, start ups and entrepreneurs?
+
+What's very interesting about India is it has the best of both worlds. On the 
+one hand it is a level playing field where any global company can actually 
+compete on the same set of rules in India. But on the other hand most of the 
+companies that are leaders in their space in India are Indian companies and 
+that goes to show the amazing capabilities of Indian entrepreneurs. For 
+example, the largest player in the jobs space isInfo Edge 
+<http://www.infoedge.in/>, with over 65% market share in the online job space, 
+a market capitalisation of close to $1bn and by far the market leader in the 
+job space. While several of the global brands have been in India for more than 
+a decade in some instances, the number one player remains an Indian company. 
+The other space that's interesting is online travel. So the top three players 
+are all Indian companies -MakeMyTrip <http://www.makemytrip.com/> is number 
+one, number two isYatra <http://www.yatra.com/?redirect=no&origin=UK>, and 
+ClearTrip <http://www.cleartrip.com/> is number three. So what we're seeing 
+here is as this very large domestic user base continues to grow very, very 
+rapidly it's creating these unprecedented opportunities for Indian 
+entrepreneurs to build companies. And we're seeing these companies come from 
+both seasoned entrepreneurs as well as very young founders - the founders of 
+the online bus ticketing serviceredBus <http://www.redbus.in/> are all of 26-27 
+years old - and you're finding with this ecommerce boom that's happening right 
+now - whether it'sFlipKart <http://www.flipkart.com/>, whether it's Myntra 
+<http://www.myntra.com/> - these are all founders below the age of 30. On the 
+other hand there are companies that are being built by executives who are 
+leaving their day jobs to go out and actually build companies but the great 
+thing we are seeing about India is that market leading internet businesses 
+across many many verticals are being built by Indian entrepreneurs.
+
+What is the investment landscape like in India for digital entrepreneurs? How 
+is it evolving?
+
+It is evolving. It is still early days but what we do have is, if you look at 
+the world's top ten venture capital funds, seven of them are in India. 
+Companies like Secoa and Tiger are the most aggressive investors around the 
+world and they come from India. To give you one sector that caught a lot of 
+investment - ecommerce. Over a period of 24 months, $700m of investment has 
+gone into about 50 ecommerce companies. This year we think over another 
+$1billion will go into this vertical from venture capital companies. That being 
+said, if you're going to have an Internet economy that is going to generate 
+several hundred billion dollars of revenue, then clearly we need to have many 
+billions more of investment. So today it's early but we do have some of the big 
+brand names who are here who are writing big cheques. That being said, the 
+country is going to need a lot more capital and it's important to have a stable 
+investment regime and stable tax laws to encourage more foreign direct 
+investment to come into this sector.
+
+Is India open for business? What do international partners looking to work in 
+India and with Indian companies have to consider when engaging with the 
+territory?
+
+India is absolutely open to business. It is the third largest internet market 
+in the world and in a period of three years or so it will be twice as large as 
+the US so it's not only open to business but I think people who want to own 
+media need to get here pretty quickly. The good thing is India has been very, 
+very open to foreign investment and very open to partnering with multinational 
+companies from the US, from Europe, from Japan and Korea etc for a long period 
+now so I think what's important is to get here and then figure out whether your 
+companies wants to build from scratch, whether they want to partner, whether 
+they want to do joint ventures and so on. The good news is India is a very open 
+and has a very open-for-business mindset and Indian companies and Indian 
+entrepreneurs are very open to, and experienced in, doing business around the 
+world. In that sense it's a reasonably easy place to do business.
+
+And finally, what are you most looking forward to at the Big Tent Activate 
+Summit 
+<https://www.theguardian.com/media-network/media-network-blog/2013/mar/05/guardian-google-activate-india-delhi>
+ on the 21st?
+
+I'm excited about every single session. I think we have a blockbuster agenda 
+and I think every single one of the sessions we're going to have is going to be 
+massively interesting.
+
+Get more articles like this sent direct to your inbox by signing up for free 
+membership <http://reg.guardian.managemyaccount.co.uk/media-network/start.php> 
+to theGuardian Media Network <http://theguardian.com/media-network> – this 
+content is brought to you byGuardian Professional 
+<https://www.theguardian.com/guardian-professional>. 
+ 

@@ -1,0 +1,46 @@
+
+Today D, for domain driven design... which we have written about extensively 
+before <http://www.infoq.com/articles/ddd-evolving-architecture>, However, for 
+this piece let me say this...
+
+When you have a huge number of people for whom you are building software (1500 
+staff, 20 million unique users, and an entire wired economy influencing which 
+way you should go next) then simply following instructions is insufficient, 
+because your users' demands will change and evolve over time -- even if not 
+during the current project then certainly before Version Two. So to minimise 
+the cost of those changes you need to understand the way your users are 
+thinking.
+
+That's where domain driven design (DDD) comes from. It's about taking the 
+concepts in your users' heads and embedding them straight into the software 
+you're writing. And then when those concepts evolve and change the cost of 
+changing your software is directly proportional to the mental shift that your 
+users are making. When your users say "I want to make a small change" then 
+usually it's a small cost; if they propose a big change then they should 
+understand when you walk them through all the implications.
+
+For the R2 project we used DDD from the start, and it was key to many of our 
+successes: when we discovered new opportunites which arose only from direct use 
+of what we had implemented, then DDD allowed us to realise them.
+
+Take, for example, the idea of "tone" -- the principle that we should be able 
+to categorise content by its "voice" or "style" (well, its tone). Its tone 
+might be obituary, blog post, match report, and so on. The vague notion of this 
+had been around since the start of the project, but we hadn't settled on many 
+details, let alone how to implement them. But after a few releases, and when 
+the software started getting real use, it became apparent that applying a tone 
+should be very like applying a keyword. Suddenly things fell into place. The 
+functional requirements were clear, as were the implementation details. Tone 
+has become a very powerful feature (here areall our obituraries 
+<https://www.theguardian.com/tone/obituaries>, all our blog posts 
+<https://www.theguardian.com/tone/blog>, all our match reports 
+<https://www.theguardian.com/tone/matchreports>,...) yet it was a relatively 
+straightforward piece of work because it was, in the end, a relatively 
+intuitive idea.
+
+Of course, domain driven design has a lot more to it than I've described here, 
+and our use of it has been much deeper than feature implementation. If you're 
+lucky enough to be going toQCon San Francisco <http://qconsf.com/> then today 
+you can see our software architect Phil Wills presenting a lot more detail 
+there.
+ 

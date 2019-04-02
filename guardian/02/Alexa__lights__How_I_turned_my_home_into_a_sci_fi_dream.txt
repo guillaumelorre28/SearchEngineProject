@@ -1,0 +1,220 @@
+
+The Internet of Things is here, they cried. Great, but do I really have to 
+pull out my smartphone to do everything? Pushing a button was so much easier. 
+Can’t I just talk to my house now? Can I scream “red alert” and have my lights 
+flash red? The Star Trek dream.
+
+For decades we’ve been shown that voice is the future. From Star Trek’s 
+computer to Iron Man’s Jarvis, science fiction has put voice control at the 
+forefront of man-machine interaction. But until recently the best we could do 
+was shout at a smartphone and hope for the best.
+
+Now there’s a new breed of AI butler available: the in-home, always-listening 
+speakers – of which, theAmazon Echo 
+<https://www.theguardian.com/technology/2016/nov/21/amazon-echo-review-the-best-combined-speaker-and-voice-assistant-in-the-uk>
+ andEcho Dot 
+<https://www.theguardian.com/technology/2016/nov/28/amazon-echo-dot-review> are 
+currently the pinnacle in the UK. So what is it really like to turn your house 
+into the starship Enterprise and be able to make likeCaptain Jean Luc Picard 
+<https://en.wikipedia.org/wiki/Jean-Luc_Picard> and simply shout “Computer, 
+lights!”? I installed five Echo Dots and one Echo speaker in my house to find 
+out.
+
+The first step to inviting my new sultry-voiced AI partner into my home was to 
+decide where to put her receptacles and what I actually wanted her to do. What 
+you don’t realise when you start an Echo up for the first time is that you’re 
+genuinely giving life to your house.
+
+It’s life, Jim, but not as we know it
+
+Alexa sounds like a person, or a house pretending to be a person, and the more 
+you use it the more you start to think about her being built into the walls. 
+But she isn’t. So the first job was to start dotting the Dots about the place 
+so she practically is. Rooms are easy, hallways not so much.
+
+Wall-mounting was the only option. After a trip to the local DIY shop for the 
+largest drill bit I could find, I had a hole in the wall, an Echo Dot stuck to 
+it about chest height and the microUSB cable hooked up. A ring of lights lit up 
+and she breathed her first words.
+
+“Hello.” My house was alive.
+
+Out of the box, Alexa has got the basics. Weather, news, timers, and facts are 
+all covered. Asking for news gives you a Sky News flash briefing: that was the 
+first thing that had to be changed – what would my editor think?
+
+Adding skills to Alexa is easy. Fire up the Alexa app, wait a bit, tap a few 
+buttons and Bob’s your uncle. In my mind it happens a bit like in the Matrix: 
+plug in, stick in a disc, get the operator to hit a button and hey presto “I 
+know kung fu!”
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6vMO3XmNXe4&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6vMO3XmNXe4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6vMO3XmNXe4&media=>
+ I know kung fu. 
+Skills added, it was time to weave Alexa’s tendrils into the various devices 
+about my home. Lights are the obvious thing. With a bunch of Philips Hue bulbs 
+and strip lights dotted about the home turning on the lights was a breeze. That 
+was until you realise that the rest of your family doesn’t speak the same dork 
+language as you.
+
+Each device has to have a unique name, and one you can remember without 
+looking at an app or list.
+
+“Alexa, turn on the living room light”
+
+“I’ve found multiple lights called living room, which one did you want”
+
+“Err, that one”
+
+That’s not going to work.
+
+The problem is that what’s a logical name to you might not be to your 
+significant other.Even the brains behind Facebook, Mark Zuckerberg, struggled 
+with that one 
+<https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10154361492931634/>
+. You might call it the living room, someone else the lounge, maybe even the 
+“TV room”. When you ask for a room that doesn’t exist in Alexa’s log of groups 
+you get, “I cannot find a device or group called lounge” and blood starts to 
+boil.
+
+To save mine and my family’s sanity I ended up creating as many different 
+group names as I could think of. Lounge, living room, TV room and front room 
+all contain the living room lights. Say any of them and Alexa knows what you 
+mean. But there’s nothing quite as satisfying as creating a group called 
+“bloody” for those odd occasions when you can’t figure out quite the right word 
+combo. “Turn on the bloody lights!”
+
+And then what about the different lights in each room?
+
+Alexa struggles with numbers, so my colleague Alex Hern suggested using the 
+Nato phonetic alphabet: alpha, bravo, charlie, delta, etc. Best to skip Echo, 
+but the rest work. Bedroom light one, two and three became bedroom light alpha, 
+bravo and charlie. It works, but admittedly it sounds like I’m in the middle of 
+one of Tom Clancy’s Rainbow Six games:
+
+“Alexa, turn on bedroom light charlie delta one-niner. Op bedtime is now in 
+operation. I repeat, bedtime is a go.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F23%2Falexa-lights-how-i-turned-my-home-into-a-sci-fi-dream%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F7f55d15853440c3fd5e2aafc89a6c3a6c54d8215%2F0_0_3849_2304%2F3849.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Alexa%2C%20lights!%20How%20I%20turned%20my%20home%20into%20a%20sci-fi%20dream&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F23%2Falexa-lights-how-i-turned-my-home-into-a-sci-fi-dream%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Alexa%2C%20lights%21%20How%20I%20turned%20my%20home%20into%20a%20sci-fi%20dream&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F23%2Falexa-lights-how-i-turned-my-home-into-a-sci-fi-dream%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F7f55d15853440c3fd5e2aafc89a6c3a6c54d8215%2F0_0_3849_2304%2F3849.jpg>
+ Rainbow Six: Siege. Photograph: Ubisoft 
+Of course, nothing beats the awkwardness of trying to whisper commands to your 
+house. In the dead of night you need the landing light on to see where you’re 
+going, so you use your inside voice to try and turn on the lights, forgetting 
+that even if you do manage it, Alexa will confirm your action at whatever 
+volume level was set last time you used it.
+
+“Alexa, turn on the landing light”
+
+“OK!” she screams, or better yet shouts the equivalent to “I CAN’T HEAR YOU” 
+when your softest tones simply don’t cut it.
+
+Do that a couple of times and you’ll end up getting snuffed out in the middle 
+of the night as your family seeks revenge. A button is certainly the way 
+forward here, and the Logitech Pop switches, which like Alexa can basically 
+control everything, are the answer, although Philips has its own switches too.
+
+Shields up, red alert!
+
+Alexa can command the lights to control brightness, colour and set scenes, but 
+you quickly realise that simplicity is the key. I still can’t for the life of 
+me remember what I called that “I’m trying to relax in the evening, but also 
+not kill my eyes as the night draws in” mode.
+
+Perhaps my new intelligent home’s best trick came with the combination of 
+IFTTT (If this then that), Alexa and some coloured Hue bulbs. If you’ve ever 
+wanted to truly live the Star Trek dream, now you can.
+
+“Alexa, trigger red alert.”
+
+And the whole house is turned into what looks like a brothel, or a starship 
+under attack. I haven’t hooked up a siren yet, so more brothel.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwV30YwXaKJg&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwV30YwXaKJg>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwV30YwXaKJg&media=>
+ Shields up, arm torpedos. Warp factor 8. Engage. 
+OK, so you’ve got the lights down pat, what else can you do with your voice? 
+Logitech’s Harmony Hub 
+<https://www.theguardian.com/technology/2016/apr/04/logitech-harmony-elite-review-remote-control-home-nest-smartthings-tv-sky>
+ can be plugged into Alexa to turn on your TV, change the channel and that kind 
+of thing. It works too, in a similar manner to control of an Echo speaker, that 
+is until you “ask Harmony to turn up the volume” and you inadvertently jump 
+15dB from a comfortable level to ear-splittingly loud.
+
+Then there’s the heating. If you happen to have a Nest 
+<https://www.theguardian.com/technology/2016/jun/03/google-nest-learning-thermostat-third-generation-home-gadget-smart-heating>
+ or similar smart thermostat you can set the heat via voice, if you can 
+remember what it’s called (hint: it’s the place you put it rather than the 
+thing if you’re using a Nest).
+
+So this is Christmas
+
+It gets better if you happen to have a SmartThings Hub lying around 
+<https://www.theguardian.com/technology/2016/feb/08/samsung-smartthings-hub-review-internet-of-things>
+. Anything you attach to it, which is basically anything “smart”, can be hooked 
+up to Alexa for a bit of voice action. When is a Christmas tree not just a 
+Christmas tree? When it can be controlled with the power of voice thanks to a 
+smartplug.
+
+Add a Sonos system into the mix and with a bit of hacking with the Harmony hub 
+and SmartThings you can even start Merry Christmas by Slade to really round off 
+the Christmas cheer, and drive the neighbours potty.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcWgwTe01kMU&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcWgwTe01kMU>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcWgwTe01kMU&media=>
+ Forgive me. 
+For the most part Alexa is good enough to know when she’s not required, but 
+occasionally you’re having a conversation about something entirely unrelated 
+and she’ll start up. The ring of lights pulsates, either shutting off when she 
+realises that it’s not all about her, or interrupting with a seemingly random 
+action or quizzing you about precisely what it was you wanted.
+
+“Shut up, Alexa!” and she gets the hint. You end up scolding her like you 
+might an unruly child. And when you’re trying to talk about her, unless you’ve 
+hit the mute button you end up going further. “She who should not be named” is 
+what Alexa goes by in my house, but I’ve seen some spell her out like you would 
+a sensitive subject around a child. In this case though, Alexa can’t spell, or 
+at least can’t work out that you’re talking about her.
+
+Inviting an AI assistant to run my home has been one of the most rewarding 
+tech experiments I’ve done to date, unifying the cluttered landscape of 
+disparate devices and bringing my home to life. But it’s also caused the most 
+grief in my family, not because it doesn’t work, or because it’s not useful, 
+but because when you set it up, you know how to use it. The rest of your family 
+doesn’t want to know until it becomes useful for them, and it only becomes 
+useful when they start experimenting with it, which they won’t if it doesn’t do 
+what they expect the first time round.
+
+Alexa is a massive leap forward, and is clearly the future of smart homes, 
+just make sure you hook everything up in as many ways as you can, or you might 
+find a couple of Echo Dots ripped from the wall and an axe through your smart 
+speaker.
+
+ * How to use technology to sleep better 
+<https://www.theguardian.com/technology/2016/apr/25/how-to-sleep-better-with-technology>
+
+ * Amazon Echo review: the best combined speaker and voice assistant in the UK 
+<https://www.theguardian.com/technology/2016/nov/21/amazon-echo-review-the-best-combined-speaker-and-voice-assistant-in-the-uk>
+ * Samsung SmartThings Hub review: an Internet of Things to rule them all? 
+<https://www.theguardian.com/technology/2016/feb/08/samsung-smartthings-hub-review-internet-of-things>
+
+ * Amazon Echo Dot review: as good as the Echo for one-third of the price 
+<https://www.theguardian.com/technology/2016/nov/28/amazon-echo-dot-review> 
+ * Nest Learning Thermostat third-gen: the simple, effective heating gadget 
+<https://www.theguardian.com/technology/2016/jun/03/google-nest-learning-thermostat-third-generation-home-gadget-smart-heating>
+
+ * Logitech Harmony Elite review: easy to use remote that takes charge of your 
+home 
+<https://www.theguardian.com/technology/2016/apr/04/logitech-harmony-elite-review-remote-control-home-nest-smartthings-tv-sky> 

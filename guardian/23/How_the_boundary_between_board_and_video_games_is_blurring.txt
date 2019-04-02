@@ -1,0 +1,130 @@
+
+It’s easy to paint board games and video games as natural enemies. At one end 
+of the stereotype are thetraditional gamers 
+<https://www.theguardian.com/technology/series/board-games-are-back> arguing 
+over increasingly obscure interpretations of the rules and turning to manuals 
+thicker than a phone book to arbitrate; at the other end are thevideo gamers 
+<https://www.theguardian.com/technology/games>, dazzled by bright lights, 
+surrounded by mountains of technology, and winning by virtue of reaction times 
+rather than any actual thinking.
+
+Of course, both stereotypes are wrong, and the overlap between board gamers 
+and video gamers is huge. And for good reason: each medium provides its own 
+unique joys.
+
+A good board game sees you and some friends crowded around a table, while 
+themes and gameplay combine to make you architects of your own stories; a good 
+video game presents you with a fully-realised world, a set of rules for how you 
+interact with it, and a fluidity which enables pure escapism.
+
+Really, both are far two broad to sum up in any single stereotype. The 
+differences between an essentially abstract, tightly constrained and dizzyingly 
+competitive board game like chess and a deeply thematic, sprawling co-operative 
+game like Eldrich Horror are only matched by the differences between something 
+like impressionistic wandererProteus 
+<https://www.theguardian.com/technology/gamesblog/2013/feb/04/proteus-review> 
+and space simulationElite: Dangerous 
+<https://www.theguardian.com/technology/2014/sep/29/elite-dangerous-combat-trading-and-exploration-beyond-the-stars>
+.
+
+But increasingly too, crossover games have been nibbling away at the 
+differences between board and video games. On the one hand, video games have 
+been learning lessons from board games; and on the other, board games have been 
+incorporating automation and technology to make them more fun and easier to 
+play.
+
+Neither of those trends are new. After all, you could play Monopoly on your 
+Atari if you wanted board games mixed in with your video games, and tech-led 
+gimmicks have never been far from the board game shop (remember Dream Phone?) 
+The difference now is that they’re good.
+
+Cardboard to screen …
+
+Perhaps the most obvious example of the crossover is the growing number of 
+really good tablet versions of board games.Ticket to Ride 
+<https://www.theguardian.com/technology/blog/2014/oct/27/all-aboard-how-ticket-to-ride-helped-save-table-top-gaming>
+, Lords of Waterdeep andPandemic 
+<https://www.theguardian.com/technology/2014/nov/25/board-games-internet-playstation-xbox>
+, to name just a few, all take games of moderate complexity, with plenty of 
+small pieces and a relatively important set of rules to keep track of and fit 
+them perfectly on an iPad or Android tablet.
+
+The immediate advantage is to replicate the “travel editions” of simpler 
+games, and offer up a version of the game that can be played on a train, while 
+flying, or in a car. Passing an iPad around airline-style seats is much easier 
+than setting up a board, after all.
+
+But the ports, as these versions are known, have also served to introduce a 
+whole new group of people to the games, with their low costs, strong tutorials 
+and single player modes (ideal for learning the game) all serving to boost the 
+accessibility of the games.
+
+And the success of the ports has led to a whole new wave of board-game style 
+games coming to tablets and other devices, led by Blizzard’sHearthstone 
+<https://www.theguardian.com/technology/2014/may/05/hearthstone-review-card-game>
+, a collectible card game for iPads and PCs.
+ A game of Hearthstone in action. Photograph: Blizzard 
+Hearthstone takes the core concept of a creature combat card game and presents 
+it in a slick free-to-play format, letting players collect cards using either 
+in-game currency or real money, before building decks and duelling an AI or 
+other humans.
+
+In classic Blizzard style, the core game is actually remarkably conservative, 
+borrowing most of its mechanics from the twenty-year-old Magic: The Gathering. 
+But the level of polish on the game (and the fact that it costs nothing to 
+start playing) makes it much more welcoming to new players than the 
+often-impenetrable card game does, and a smattering of systems which would be 
+impossible to carry out with paper cards makes the case for it being a truly 
+hybrid game.
+
+For instance, there is a card which copies a random card from the opponent’s 
+deck; a card which enters play as one of 8 other random cards; and best of all, 
+a card which limits turns to just 15 seconds while it is in play, turning a 
+previously leisurely game into a hectic scramble to do everything needed.
+
+… and back again
+
+But the exchange isn’t a one-way street. Video games have lessons to impart to 
+board games as well, and increasingly board game designers are paying attention.
+
+To be fair to the designers, the history of incorporating technology in 
+tabletop games is rather less positive than the history of making digital 
+versions of board games. In the latter camp, the worst you would see is the 
+occasional shoddy adaptation, but the former led to some true abominations.
+
+Take Sony’s Eye of Judgement, an early game for the PlayStation 3 which used 
+the console’s camera accessory to let players play a collectible card game over 
+the web. When a card was played onto the nine-by-nine grid the game was built 
+on, the camera would recognise it, and an animated version of the monster it 
+represents would show up on screen.
+
+But the game was beset with issues from launch: a poor online multiplayer 
+service and no local multiplayer made it a hassle to play games, while an 
+anti-cheat system ensured that building and registering new decks was a chore.
+ The XCom board game – and companion app. Photograph: Fantasy Flight Games 
+A generation later, and things look rosier. Part of the reason is that, as the 
+barrier to entry for good hardware has dropped, the ability to incorporate tech 
+features has been opened up to smaller games designers, rather than being 
+something only affordable to companies expecting sales in the hundreds of 
+thousands of units.
+
+Golem Arcana, for instance, is a miniatures game along the lines of Warhammer 
+or X-Wing, letting players set up small skirmishes with richly detailed 
+figures. The game combines with a tablet and a bluetooth stylus to push almost 
+all the rules decisions and randomisation – of which there is much – to the 
+device, letting players get on with actually having fun.
+
+It doesn’t work perfectly, because you end up in the odd position of having to 
+replicate the game state twice over, once on screen and once on the table, but 
+unlike the first attempts to do a hybrid game, the technology feels like it 
+adds to the fun, rather than getting in the way of it.
+
+The forthcoming XCom board game gets the balance right, letting four players 
+co-operate in saving the world from an alien invasion while a companion app 
+tosses an element of randomisation into the mix – and lets one player pretend 
+they’re hooked into the global defence network for real.
+
+Video games and board games are never going to blur into one, and nor should 
+they. But if the stage is set for each to learn lessons from the other, a 
+golden age for both could be ahead.
+ 

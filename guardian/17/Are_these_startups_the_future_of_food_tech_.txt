@@ -1,0 +1,103 @@
+
+The ability to forecast tomorrow’s weather is something farmers have at their 
+fingertips in many parts of the world, but in some regions weather forecasting 
+is much trickier.
+
+“In the tropics, weather processes are faster and up to a thousand times 
+smaller than up here,” says Liisa Petrykowska, managing director of Ignitia, a 
+Stockholm-based startup. “The weather forecasting systems developed by western 
+governments haven’t focused on the tropics.”
+
+
+Existing next-day forecasts are accurate less than half the time, she says, 
+making them next-to-useless for farmers. Ignitia has built its ownatmospheric 
+models <http://www.ignitia.se/?page_id=51> to deliver forecasts that are right 
+up to 85% of the time, and sends them out as simple text messages costing just 
+4 cents (2p) a day.
+
+“Many farmers were sceptical at first,” says Petrykowska, “But we quickly 
+built up trust. Now 90% of Ghanaian farmers who receive them say the forecasts 
+have helped them to make the correct decisions about planting, sowing, spraying 
+and transportation.”
+
+Indoor LED farms
+
+Ignitia was one of a number of food tech startups that gathered in Stockholm 
+last week for the Future ofFood <https://www.theguardian.com/environment/food>, 
+an event organised by the Nobel Foundation. The startups believe applying 
+technologies such as machine learning, advanced materials and open-source 
+practices can revolutionise food production.
+
+“What happens in the next 50 years will determine what happens to society over 
+the next 10,000,” Johan Rockström, professor of environmental science at 
+Stockholm University, told the conference. “Food is the deciding factor. Food 
+is the primary cause behind loss of diversity, the largest user of fresh water, 
+and is responsible for30% of all greenhouse gas emissions 
+<http://www.nature.com/news/one-third-of-our-greenhouse-gas-emissions-come-from-agriculture-1.11708>
+. If we get it right on food, we are likely to get it right for planet Earth.”
+
+Caleb Harper, director of Open Agriculture <http://openag.media.mit.edu/> at 
+the Massachusetts Institute of Technology, thinks sensor-controlled hydroponic 
+and aeroponic growing systems are part of the answer. “We are slaves to climate 
+in agriculture. But what if we could give every country access to good 
+weather?” he said.
+
+#colors courtesy of the #foodserver. #openag #peppers #hotpeppers #mitmedialab 
+#foodcomputer #hydroponics <https://www.instagram.com/p/_kQXu7kMHP/>
+
+A photo posted by Open Agriculture Initiative (@mitopenag) on Dec 21, 2015 at 
+12:00pm PST
+
+In his lab, plants grow under LED lights and the watchful gaze of dozens of 
+sensors – collecting more than 3m data points for every plant. Harper claims 
+his crops grow five times faster than they would outdoors, and need 90% less 
+water while doing so. Everything his lab discovers is then made freely 
+available through open source hardware and software websites. “The open food 
+movement gives access to biology, in the same way that HTML gave us access to 
+the internet,” says Harper.
+
+The fish farm of the future - interactive
+ Read more  
+<https://www.theguardian.com/sustainable-business/ng-interactive/2015/oct/29/the-fish-farm-of-the-future-interactive>
+Fish farms and reuseable chill bags
+
+Aside from weather, another big topic at the event was the shift away from 
+raising animals for meat, which is responsible for a disproportionate share of 
+the land, water and energy used in food production. “Americans eat four times 
+as much beef as all seafood combined, but aquaculture is emerging as a possible 
+solution,” says Peter Tyedmers of Dalhousie University in Canada.
+
+He has been evaluating new, floating semi-closed fish farming tanks 
+<http://agrimarine.com/> that can recycle fish waste as fertiliser and avoid 
+contaminating nearby water systems. One drawback is that they need more energy 
+than traditional open-water farms, meaning they might increase carbon emissions 
+even as they reduce pollution.
+
+Tyedmers also warns that fish food should be sourced from low-impact 
+agricultural crops rather than other marine organisms. “Aquaculture is not a 
+panacea but it can be a key wedge in moving away from land-fed livestock to the 
+sea,” he says.
+
+Food technology is also giving us solutions at home. As more people use online 
+grocery or meal services, there has been a growing demand for refrigerated 
+lorries, together with expensive Styrofoam boxes and gel packs to keep food hot 
+or cold on that last mile.
+
+The Food Climate Research Network estimates 
+<http://www.fcrn.org.uk/research-library/frost-bitten-refrigeration-dependence-uk-food-chain>
+ around half a percent of the UK’s greenhouse gas emissions come from mobile 
+refrigeration units moving chilled food around the country.iFoodbag 
+<http://ifoodbag.se/>, another Stockholm startup, aims to replace traditional 
+delivery methods with reusable, recyclable bags made from laminated paper.
+
+The bag can keep chilled groceries from becoming dangerously warm for around 
+five hours, which its makers think is long enough to use a normal van (or 
+presumably a drone, in the future) for delivery. Adding a frozen gel pack 
+extends the time to eight hours, and the bag can be reused up to seven times.
+
+Sign up to be a Guardian Sustainable Business 
+<https://register.theguardian.com/sustainable-business/> member and get more 
+stories like this direct to your inbox every week. You can alsof 
+<https://twitter.com/GuardianSustBiz>ollow us on Twitter 
+<https://twitter.com/GuardianSustBiz>.
+ 

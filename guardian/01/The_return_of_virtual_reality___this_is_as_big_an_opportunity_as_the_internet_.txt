@@ -1,0 +1,222 @@
+
+Dr Jonathan Waldern is standing in a meeting room in Silicon Valley 
+<https://www.theguardian.com/technology/silicon-valley>, wearing a lab coat and 
+grinning from ear to ear. “There will be people crying in this, people falling 
+in love, people falling over. For all sorts of reasons, this strikes at the 
+core of being a human being. It’s so compelling … this is as big an opportunity 
+as the internet.”
+
+He’s talking about virtual reality (VR), the immersive systems that cover your 
+eyes (and ideally ears) and fool your brain into thinking you’re somewhere, or 
+even someone, else. Waldern, 54, is a veteran of the business: in the 90s, his 
+company Virtuality was a pioneer in commercial VR, offering an arcade game 
+experience in which a bulky headset transformed the room into a prehistoric 
+scene in which pterodactyls swooped over and around you, and you tried to shoot 
+them with your gun.
+
+The last time I saw Waldern was in the UK, more than 20 years ago. Virtuality, 
+which he had brought to the London stock market, was in talks with Atari to 
+bring its ambitious Jaguar headset to consumers. But the deal fell apart, and 
+then so did Virtuality. The market for VR shrank to zero almost overnight; its 
+speed and completeness foreshadowed the dot-com boom and bust of 2000-2001.
+
+But, just as the dot-coms evolved and returned like mammals emerging from a 
+meteor strike, VR has come back too. And that’s what Waldern, who now runs a 
+Silicon Valley company called Digilens, is excited about. He sees the field 
+enjoying a resurgence, its long hibernation is over. And survivors like him are 
+emerging to capitalise on the new boom.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmay%2F28%2Fjonathan-waldern-return-virtual-reality-as-big-an-opportunity-as-internet%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F5%2F26%2F1432649933260%2Fad102258-d7e4-4e79-b152-e0a41d08886c-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20return%20of%20virtual%20reality%3A%20'this%20is%20as%20big%20an%20opportunity%20as%20the%20internet'&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmay%2F28%2Fjonathan-waldern-return-virtual-reality-as-big-an-opportunity-as-internet%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20return%20of%20virtual%20reality%3A%20%27this%20is%20as%20big%20an%20opportunity%20as%20the%20internet%27&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmay%2F28%2Fjonathan-waldern-return-virtual-reality-as-big-an-opportunity-as-internet%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F5%2F26%2F1432649933260%2Fad102258-d7e4-4e79-b152-e0a41d08886c-2060x1236.jpeg>
+ Oculus Rift Development Kit 2 at the Consumer Electronics Show, Shanghai. 
+Photograph: STR/AFP/Getty Images 
+“It’s a very small community [in VR] around here,” Waldern continues, 
+referring to the west coast. (Though it transpires that when he says “small”, 
+he means “in the thousands, but geographically close”.) “The cost of 
+development in this realm is so high that very few corporations would take it 
+on. Only the big three – Microsoft, Google,Facebook 
+<https://www.theguardian.com/technology/facebook>. Apple is the fourth, but 
+isn’t so prominent.”
+
+Does that mean Apple is looking at VR too? “I couldn’t possibly comment,” says 
+Waldern, and grins. (Apple filed a patent in September 2008 
+<https://www.theguardian.com/technology/2015/feb/18/apple-patent-virtual-reality-iphone-carrying-headset>
+ for putting an iPhone into a headset, and another in 2014 
+<https://www.google.co.uk/patents/US20140098009>, but there’s been little other 
+sign of activity on that front from the company.)
+
+Even if it isn’t, the presence of the other three big companies in this space 
+shows how hot VR has suddenly become. Oculus Rift, bought by Facebook for $2bn 
+<https://www.theguardian.com/technology/2014/mar/25/facebook-buys-virtual-reality-gaming-firm-oculus>
+ in March 2014, has been the poster child for the new face of this technology; 
+the company now aims to launch a headset for consumers in 2016 
+<https://www.theguardian.com/technology/2015/may/06/facebook-oculus-rift-virtual-reality-2016>
+. It will have challengers though. Sony is working on Project Morpheus, which 
+has the same aim 
+<https://www.theguardian.com/technology/2015/mar/04/sony-morpheus-playstation-4-ps4-virtual-reality-headset-to-launch-2016>
+, and HTC has built Vive, unveiled at Mobile World Congress in March 
+<https://www.theguardian.com/technology/2015/mar/02/htc-vive-developers-react-to-valve-virtual-reality-headset>
+, which will work with the Valve system for downloadable games. Samsung has its 
+own Gear VR, developed with Oculus. Even Google’s Cardboard, a DIY system which 
+you literally fold together from a cardboard template before sticking your 
+smartphone into a slot a few inches from your eyes, has had around 1.2m 
+downloads since Google introduced it at its I/O developer conference in May 
+2014.
+
+Meanwhile the parallel development of “augmented reality” (where objects and 
+data are overlaid on to the scene you see in front of you) is growing quickly, 
+too, with Microsoft’s Hololens the most promising offering to date, along with 
+Google-funded Magic Leap. (Google Glass, which is undergoing a rethink, is like 
+a subset of AR.)
+
+But it’s VR that has everyone excited. In March 2014, Chris Dixon, a partner 
+at the increasingly influential venture capital company Andreessen Horowitz,
+observed <http://cdixon.org/2014/03/25/oculus/> that using an early version of 
+Oculus Rift the year before was one of “a handful of technology demos in my 
+life that made me feel like I was glimpsing into the future” – and his list ran 
+back as far as the Apple II computer from the 70s.
+
+VR, he noted, “has long been a staple of science fiction” (of which Star Trek: 
+the Next Generation’s “holodeck” was only the most recent) but hardware was now 
+cheap enough, and engineers keen enough to explore a new frontier, that it 
+could finally deliver on the science fiction promise. (Dixon’s team cashed out 
+on Facebook’s acquisition of Oculus Rift.)
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2Imyn6QSq9s&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2Imyn6QSq9s>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2Imyn6QSq9s&media=>
+ Virtuality promo film 
+In the 90s, VR certainly felt like SF. Waldern’s company relied on top-end 
+Silicon Graphics systems with six-figure price tags. There’s a video of him 
+from 1994 <https://www.youtube.com/watch?v=2Imyn6QSq9s> at W Industries, 
+showing how pixellated the experience was. “Our system used some of the very 
+first Sony LCDs, with 300 by 200 pixels,” Waldern recalls. “Today you get 
+1,080p [1,080 horizontal lines] minimum, and by the launch next year you’ll 
+probably have 4K by 4K. And the computational power is transformational – we 
+were working on about a megaflop, and each machine cost about $70,000, which is 
+a massive barrier to adoption. Now with an Nvidia GPU you’re talking about a 
+teraflop.”
+
+VR is a complex real-time computing problem. Ideally, the fictional scene 
+should show no individual pixels, fill your field of view – which in normally 
+sighted people covers 180 degrees – and change without any lag, no matter how 
+quickly you move your head. That means the system has to be able to calculate 
+what the scene will look like at any point, and incorporate the movement of 
+your head, reported from the helmet, into its computation, and update the 
+screens quickly enough to give the sensation of realistic movement.
+
+Measurement of head movement is done using accelerometers and gyroscopes; the 
+screens can now offer millions of pixels just inches from your eyes; computing 
+power aims to cut lag and latency. The latter can quickly induce nausea if the 
+scene isn’t redrawn quickly enough as the body’s balance system disagrees with 
+what the eyes tell it they’re seeing; that was a key problem with early VR 
+systems.
+
+But those are being overcome, thanks to the rapid growth of the smartphone 
+industry. That has made accelerometers and gyroscopic chips cheap, plentiful 
+and fast, while also pushing the quality of displays to a level where you can’t 
+distinguish pixels even in screens a few inches from your eyes. That though 
+requires graphics processors that can handle huge numbers of floating point 
+operations per second (flops) – but, as Waldern says, that’s available.
+
+Among those eagerly exploiting that space is Professor Bob Stone, chair of 
+interactive multimedia systems at the University of Birmingham, and another 
+British veteran of the 1990s boom and bust. After another 20-year gap, I caught 
+up with him as he travelled from a location where he had been using a drone to 
+create a 3D “point cloud” of a church and archaeological dig in Wiltshire; in 
+just five minutes of flight it captured enough data to create a realistic 3D 
+model that one could “fly” through at leisure.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmay%2F28%2Fjonathan-waldern-return-virtual-reality-as-big-an-opportunity-as-internet%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F5%2F26%2F1432647505617%2F0358ec1e-29cf-4d5b-8a6a-44a66f3a1a3a-bestSizeAvailable.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20return%20of%20virtual%20reality%3A%20'this%20is%20as%20big%20an%20opportunity%20as%20the%20internet'&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmay%2F28%2Fjonathan-waldern-return-virtual-reality-as-big-an-opportunity-as-internet%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20return%20of%20virtual%20reality%3A%20%27this%20is%20as%20big%20an%20opportunity%20as%20the%20internet%27&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmay%2F28%2Fjonathan-waldern-return-virtual-reality-as-big-an-opportunity-as-internet%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F5%2F26%2F1432647505617%2F0358ec1e-29cf-4d5b-8a6a-44a66f3a1a3a-bestSizeAvailable.jpeg>
+ Image, ‘point cloud’ and reconstructed image captured by drone for virtual 
+reality overview of archaeological dig by Prof Bob Stone. Photograph: Dropbox 
+When we spoke, Stone initially seemed unimpressed by Oculus’s offering, 
+suggesting that “it’s not much different from the headsets of the late 1990s”. 
+He cited “pixel bleed” (where the pixels don’t appear sharp) and limits on the 
+field of view. “We’re using Oculus Rift development kit 2 [the latest version] 
+in defence projects, because it’s the best of a bad bunch,” he said. Why bad? 
+Stone feels that if you have to wear something, “you aren’t really experiencing 
+total immersion”; he thinks ideally VR should simply feel like life. “More than 
+20 years on, shouldn’t we be further ahead than this?” he asks.
+
+
+But later he emails, relenting on his apparent negativity: “VR has been my 
+career for over 28 years now, and I genuinely believe in what VR can deliver 
+when the technologies are applied appropriately and with the needs of the end 
+users and end organisations well and truly in mind. As I said, it seems that 
+every seven years we see the same old issues and hype coming through (these 
+days via the web, YouTube, etc) that people out there seem to believe without 
+question!”
+
+The original bust in VR came when first-generation products were crushed by 
+the weight of expectations. So what led to the renaissance of VR – and why has 
+it taken so long?
+
+Waldern reckons a key reason is that games, which were the main 
+consumer-facing use for VR, shifted to a different set of genres. “There are 
+periodic cycles in the games industry, for technologies and genres. People want 
+change from time to time.” After a couple of decades of 2D and pseudo-3D 
+offerings (think of Nintendo’s games, and Quake and Doom), gamers are ready for 
+an “immersive” experience, he argues.
+
+Digilens’s work involves building optical waveguides, so that projected images 
+can fill or overlay the field of vision. Most of the uses on the company site 
+involve business, rather than consumer, application, but Waldern sees all sorts 
+of potential. “Why do you think Microsoft bought Minecraft?” he asks. “Hololens 
+is perfect for it.”
+
+Touchy subject: a breakthrough for gaming and virtual reality
+ Read more  
+<https://www.theguardian.com/technology/2015/may/01/ultrahaptics-gaming-technology-feel-invisible-objects-oculus-rift>
+Stone agrees: “One thing that saved VR was that while we were running around 
+talking about headsets and gloves, the gaming community was coming up 
+underneath, and came up with software and hardware in the quest for the best 
+quality games. That drove down the cost of computing with graphics, and also 
+made available a number of toolkits for games-quality virtual worlds that 
+people could sympathise with.” Games drove costs down: “Things that in the late 
+1990s cost six-figure sums you can now do on an £800 laptop.”
+
+Brian Blau, research director at analysis company Gartner, forecast in March – 
+before Oculus’s announcement of a tentative release date – that there would be 
+2m VR headsets sold in 2016, rising to 8m in 2018; in all he thinks there could 
+be 25m in use within a few years.
+
+That doesn’t sound quite like the gigantic opportunity that Waldern described. 
+But VR is seeing a growing number of uses in commercial spaces, where the 
+ability to train people, or give them a new perspective, is valuable.
+
+Virtual reality offers NBA and NFL fans a more immersive experience
+ Read more  
+<https://www.theguardian.com/media-network/2015/may/19/virtual-reality-nba-nfl-nancy-bennett>
+But it’s not the military, or even games, which might be the most effective 
+users of VR. One can imagine scores of scenarios where it would be 
+transformative. Planning your next holiday? Why not “visit” the alternatives 
+first, via a headset? Games, exploration, psychiatry and many other fields 
+could all be revolutionised. “Sex, of course,” says Stone. “We’ve seen some 
+crazy devices coming out of Japan.” He points to healthcare, education and 
+training as other fields that are most likely to take it up quickly.
+
+Facebook’s purchase of Oculus, though, suggests that it sees the capability to 
+transform how we interact with friends – which is what Waldern is thinking of 
+when he talks about it potentially being bigger than the internet.
+
+“Even back at the start, the biggest kick we got was when we used ISDN lines 
+between Berlin and London, and we linked players up in a game. It was amazing: 
+you could meet, play, talk with people. Now, games have been doing that 
+virtually for a while. But when you can feel you’re really meeting someone, 
+right there, as a jolly alien or Robin Hood …” He stretches for the words. 
+“Immersivity is the main thing. This has many years to run, and we have to get 
+to where we are totally convinced – but we’re looking at something which has 
+transformational capability for society.”
+
+
+ 

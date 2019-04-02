@@ -1,0 +1,57 @@
+
+Update: on 16 September Apple <https://www.theguardian.com/technology/apple> 
+announced that it had fixed its connectivity problem.
+
+Telecom company T-Mobile has warned iPhone 
+<https://www.theguardian.com/technology/iphone> customers not to download 
+Apple’s latest software update, adding to an already long list of complaints 
+about the iOS10 system.
+
+“Do not download iOS10,” the carrier tweeted 
+<https://twitter.com/tmobile/status/776466023193030657> on Thursday to 
+customers who use the iPhone 6, 6+ and 5SE models. “We are getting reports of 
+connectivity issues [and] Apple is working on a fix.”
+
+T-mobile later reported that Apple had fixed the problem, but the warning from 
+a major wireless carrier was just the latest problem to flummox the release of 
+iOS10. Customers have already complained that the update hasleft iPhones and 
+iPads inoperable 
+<https://www.theguardian.com/technology/2016/sep/14/apples-ios-10-iphone-update-causes-issues-for-some-users>
+ and sometimes trapped in a cycle of rebooting on and off.
+
+In a statement on Wednesday, Apple 
+<https://www.theguardian.com/technology/apple> confirmed a “brief issue with 
+the software update process affecting a small number of users during the first 
+hour of availability”. The company claimed that the problem had been fixed, but 
+has also recommended customers back up their devices and download the update 
+through iTunes.
+
+Apple billed its software update as its “biggest iOS 
+<https://www.theguardian.com/technology/ios> release ever” on Tuesday, but 
+customers soon complained of a number of problems. Some found that after 
+installing the software through Wi-Fi, they were asked to connect it to a 
+computer with iTunes – and then the device became inoperable.
+
+To recover their phones, users must connect and then reset the devices by 
+holding down the home and power buttons.
+
+Other users have found the software drains their batteries faster or suffers 
+connectivity problems with Bluetooth and Wi-Fi, though these problemswill 
+probably be resolved <http://www.trustedreviews.com/news/ios-10-problems> as 
+the device updates and telecom carriers adjust. But some users have discovered 
+problems within specific apps, for instance the newly updated Messages app.
+
+As part of its updates, iOS10 has added a range of animations and images to 
+the Messages app, which Apple hopes will compete with Facebook Messenger and 
+other services. But when users searched for an image or animation of the word 
+“butt”, the app suggested a sexualized gif  
+<https://www.theguardian.com/technology/2016/sep/15/apples-messages-app-my-little-pony-porn-gif-ios-10>
+of a My Little Pony character that pulls down its underwear. The app now blocks 
+that word, as well as searches for “pornography”, “sex” and other explicit or 
+anatomical words, but not the word “drugs”. The company has also disabled 
+searches for the word “huge” after explicit images were returned.
+
+The new software is meant to upgrade a range of iPhone and iPad functions, 
+including photography settings, enhanced intelligence for the keyboard and new 
+notification screen and more uses for the voice-activated assistant Siri.
+ 

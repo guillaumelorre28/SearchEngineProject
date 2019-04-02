@@ -1,0 +1,173 @@
+
+Last year the Foreign and Commonwealth Office (FCO) set out its intention to 
+shave 30-40% from its IT budget. With two highly significant reprocurements - 
+Prism and Firecrest - expected out of the FCO in the coming weeks, alongside an 
+ongoing overhaul of key network infrastructure, if the department is to deliver 
+on its planned cost cutting, this could be its best chance to do so.
+
+The tender for Firecrest, the desktop infrastructure that underpins the FCO's 
+operations worldwide, was initially expected to be published in autumn 2011. 
+However, it's still yet to appear.
+
+"We're later than we intended to be, with that said, we have time on our side 
+– there's no looming contractual deadlines that cause me any concern," the 
+FCO's chief information officer (CIO) David Meyer told Guardian Government 
+Computing.
+
+Firecrest may be, according to Meyer, "not broken, but it can always be 
+improved". Once the successor to the current Firecrest is in place, those 
+improvements will begin: the FCO is hoping to deliver both a cut in the 
+department's carbon footprint and improvements in functionality, including 
+better mobile access, through the reprocurement.
+
+However, the most important thing the FCO wants from the reprocurement is a 
+continuity of service, Meyer says. "Given we don't have a burning platform, I 
+want on day one of the new arrangement exactly what I had on last day of the 
+predecessor contract."
+
+Firecrest is, according to the FCO's ICT strategy 2011-2015 
+<http://www.fco.gov.uk/resources/en/word/5029385/who-we-are/ict-strategy>, 
+"generally providing a reliable service to users across the network", although 
+"somewhat flaky in posts with telecommunications connections that are less than 
+robust".
+
+It is a situation that the strategy foresees will be tackled through better 
+telecoms under Project Echo.
+
+Project Echo, the telephony and WAN deal that went to Cable and Wireless 
+Worldwide and which kicked off with pilot sites in Accra, Dublin and Freetown 
+in January 2011, is still in the process of rolling out to FCO sites across the 
+globe.
+
+The rollout, however, is taking longer than planned. "On big IT projects for 
+us, suppliers tend to find the world is slightly larger than they realised. Are 
+we where we wanted to be? No, but we've got a good cutover rate at the moment," 
+Meyer said, with about 12 sites a week.
+
+Echo is shortly to hit its 100th site on the FCO's global network and it is, 
+according to itsCIO 
+<https://www.theguardian.com/government-computing-network/cio>, delivering 
+savings in excess of those predicted in the ICT strategy.
+
+"We're in a good position on this and I'm still very comfortable with the 
+target savings, given level of flexibility we're prepared to introduce about 
+how it's delivered," Meyer said – flexibility, that is, in terms of striking a 
+"clearer balance between security and functionality".
+
+"In updating our infrastructure we're willing to make changes that will reduce 
+the total cost of ownership which some of my predecessors going back five to 10 
+years would probably have been somewhat cagey about… [it's] just a willingness 
+to look at other options, and to assess risk, and to be prepared to consider 
+taking sensible risk opens up the opportunities for significant changes and 
+significant savings."
+
+This shift in attitude has been prompted by both the straightened economic 
+times and a change in the technology-savviness of senior staff.
+
+"There's a growing appreciation within Whitehall outside the ICT area that we 
+have tended by default to be more conservative in this area than is actually 
+justified.
+
+"Why is it changing now? Partly because there's a generation of senior 
+officials – by which I mean permanent secretaries – who I think are generally 
+increasingly familiar with information technology from their own personal 
+experience.
+
+"In addition, we've got the challenge of new [departmental] settlements which 
+mean we've got to eke out every penny we possibly can from infrastructure 
+projects. That provides me with an incentive to go back and say 'well, you're 
+giving me x per cent less than in the past, one of the key areas I need to make 
+savings is in this and I believe it can be done safely, here's how I plan to do 
+it'," he said.
+
+Could the appetite for carefully considered risk one day take the FCO into 
+'bring your own device' territory, and allow the department's staff to use 
+their own hardware to carry out departmental tasks?
+
+Under the current ICT strategy, which lasts until 2015, the FCO CIO imagines 
+the majority of the department's hardware will be bought by the department 
+itself, despite a line that hints "staff will be able to access information 
+where and when they want including, towards the end of the period, on their own 
+choice of devices".
+
+Not a wholesale adoption of bring your own device, then, but rather a hint of 
+a future where it might be the norm.
+
+"I don't think bring your own device will be a foreign concept in five years' 
+time. Take a tablet – I could not currently be sufficiently assured about the 
+security aspect of connection into our network to allow people to use it but 
+that changes on a monthly basis, if not weekly, or day by day."
+
+Allowing staff to bring in tablets or smartphones of their choosing would 
+represent a sea change at the FCO, which is only just moving its hardware 
+estate over to BlackBerrys and laptops – the latter prompted by both a need to 
+embrace mobile working to deal with disruption resulting from the Olympics and 
+as a way of facilitating estate rationalisation.
+
+But, with staff expecting a greater say in what technology they're given, it's 
+a trend that will only gather pace.
+
+Elsewhere in the FCO, staff are getting a greater say in their technology – 
+the board in change of determining the shape of the department's ERP system, 
+Prism, is headed up by the department's chief operating officer and has 
+"serious engagement" from its senior management.
+
+"It's a good position to be in – I think many CIOs would envy me," said Meyer.
+
+Prism is currently based on Oracle e-Business Suite 11.5, and with extended 
+support for the package set to run out in 2013, the FCO is getting its ERP 
+ready for an overhaul - and one that might create new ways of working at the 
+department.
+
+"We are not ruling out significant change in business process as part of our 
+review of ERP strategy," Meyer said.
+
+"We've come up with a vision, and we're in process of adding details to that 
+at the moment, which ultimately will lead us to a new blueprint. There's 
+clearly going to be a connection to what we've done in past because we need a 
+transition from old to new over time, but we're up for change on it," he added.
+
+The aim of the ERP update is to improve transaction costs around the FCO's 
+corporate service centre, and to improve support to central finance and HR.
+
+The Prism overhaul could also see the FCO's foreign estate added to its ERP 
+system for the first time - a task made significantly more complex by the 
+different currencies, exchange rates, inflation rates and other variables that 
+are brought to bear on its oversees network.
+
+A greater level of inclusion is also likely to figure higher on the Prism 
+agenda as the FCO seeks to build in the potential for other public sector 
+bodies to use its ERP.
+
+"DFID [Department for International Development] has an entirely separate 
+enterprise resource planning support system from the Foreign Office and we're 
+not planning within the reprocurement to change that except in one respect, 
+which is that we will build into what we do for ourselves in this area the 
+ability for key partners elsewhere in government to come and join us."
+
+DFID, however, has already joined the FCO's technology infrastructure by using 
+Echo. "The foreign secretary has made a clear priority that the Foreign Office 
+should provide the platform of choice for UK government overseas – that's what 
+we're seeking to do, we're seeking to make what we do for ourselves as well 
+suited to what others want as possible. The choice of whether they join us is 
+theirs."
+
+Thanks to the concurrency of a number of reprocurements – a datacentre refresh 
+is also on the agenda – the FCO's IT department will have its work cut out over 
+the coming months.
+
+"These projects are not big by wider government standards in terms of value 
+but they're big to us given the global dispersion of the Foreign Office," said 
+Meyer.
+
+"We've got for each of the components a set of processes with which I'm 
+comfortable. There is the recognition that this time around this is going to be 
+something that the Foreign Office will run for itself rather than looking to 
+the IT [department] community to do it for either them or, more worryingly 
+perhaps, to them."
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Guardian Government 
+Computing network here 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>.
+ 

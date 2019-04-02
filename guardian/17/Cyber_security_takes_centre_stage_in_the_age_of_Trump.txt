@@ -1,0 +1,149 @@
+
+In 2016 cyber hacking repeatedly made the front page: from the revelation that 
+hackers hadstolen personal information associated with half a billion Yahoo 
+accounts 
+<https://www.theguardian.com/technology/2016/sep/23/yahoo-questinos-hack-researchers>
+, to Donald Trumpasking Russia to hack Hillary Clinton’s email 
+<https://www.nytimes.com/2016/07/28/us/politics/donald-trump-russia-clinton-emails.html?_r=0>
+.
+
+
+So, was it chance that Alex van Someren set up Europe’s first accelerator 
+focused on cyber security in 2015? “How do I give a non-smug sounding answer?” 
+he laughs. “No of course it wasn’t chance. My co-founders and I have been 
+working in this domain for a long time. I’m not ashamed to say that we 
+successfully anticipated what turned out to be a particularly intense year in 
+the cyber security world.”
+
+
+I don’t invent cures for cancer, but I know something about IT security.
+Alex van Someren 
+He points out that he started his own cryptography business 17 years ago. 
+“It’s just something I’ve been doing for a long time. I’m no good at baking 
+cakes, I don’t invent cures for cancer, but it happens I know something about 
+IT security.”
+
+
+It is an area where the UK has excellent research credentials but few major 
+companies. Van Someren says: “In terms of commercialising the intellectual 
+capability of the UK, we’re probably underachieving slightly. That’s the 
+original impetus behind establishingCylon <https://cylonlab.com/>. We felt 
+there was this latent capability not being brought to market as quickly or 
+easily as it should be.”
+
+
+The accelerator was set up with funding from corporate sponsors, including BAE 
+Systems and investment firm Winton, which provides the office space where it 
+takes place. Cylon invests £15,000 in each of the companies that takes part in 
+the programme, in exchange for a 3% stake.
+
+Cyber security is a tough area for startups to enter because target customers 
+are often wary of testing new products. Kerri-Lynn Hauck is the founder of 
+Fabric, a secure, internal, communications system for large organisations, and 
+took part in Cylon’s second programme, which finished in March last year.
+
+
+“You can’t put a product in use which is 98% secure,” she says. In other 
+areas, companies might try out a number of different products while deciding 
+which one to use, but that doesn’t work in cyber security. “So there is a 
+hurdle in cyber security, that of proving a product.”
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsmall-business-network%2F2017%2Fjan%2F16%2Fcyber-security-centre-stage-age-trump-investment-hackers%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F078c191f9b3600293d17ca6415d2c90c4640bd55%2F0_14_1064_1330%2F1064.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Cyber%20security%20takes%20centre%20stage%20in%20the%20age%20of%20Trump&url=https%3A%2F%2Fwww.theguardian.com%2Fsmall-business-network%2F2017%2Fjan%2F16%2Fcyber-security-centre-stage-age-trump-investment-hackers%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Cyber%20security%20takes%20centre%20stage%20in%20the%20age%20of%20Trump&url=https%3A%2F%2Fwww.theguardian.com%2Fsmall-business-network%2F2017%2Fjan%2F16%2Fcyber-security-centre-stage-age-trump-investment-hackers%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F078c191f9b3600293d17ca6415d2c90c4640bd55%2F0_14_1064_1330%2F1064.jpg>
+ Kerri-Lynn Hauck, founder of Fabric. 
+Fabric had developed a minimum viable product before applying to Cylon and 
+Hauck says she benefited most from connections made during the programme. “It 
+gave us a lot more interaction with a lot more customers early, in order to 
+refine our product and market fit in an area where it would have taken a long 
+time to gain access to those potential customers and partners.”
+
+
+Fabric has raised just over £700,000 from angels and investors since inception 
+in 2013. Hauck, a seasoned entrepreneur, is full of praise for Cylon but says 
+the programme could have educated their cohort better with regards to 
+fundraising.
+
+
+“Everyone has this expectation that demo days are the be all and end all. 
+Funding relationships are far more complex and nuanced. There is a lack of 
+skillset, usually, in the companies that go through fundraising. That’s 
+something [accelerators] can help with; all different classes of investors and 
+timelines of different investors.”
+
+
+Raising money for cyber security companies is particularly difficult. Van 
+Someren, who is managing partner at venture capital firm Amadeus Capital 
+Partners, says: “Investors generally try to make sure they have some reasonable 
+degree of understanding, in good conscience, of what they are investing in. The 
+number of people who have experience of working in cyber security, and who are 
+also investors, is small.”
+
+
+But things are changing, he says. “We are starting to see another generation 
+of investors emerge who have a perfectly good maths degree or have worked in 
+other parts of IT and are interested and capable.”
+
+
+Cylon is one of a host of new accelerators tackling a niche area. Tim Sadler, 
+chief executive ofCheck Recipient <http://checkrecipient.com/>, which took part 
+in the programme last year, says that specialisation is helpful for the 
+startups involved.
+
+
+Sadler says dedicated accelerators allow participants to collaborate more 
+effectively, sharing their network and experience. “You are all trying to sell 
+to the same people. The challenges you face are far more similar than if you 
+were part of [a more generalist accelerator] when you might have a handful of 
+B2C companies building apps for millennials, and a handful of B2B companies who 
+are trying to sell to FTSE 100 companies.”
+
+Is Manchester about to become a global digital leader?
+ Read more  
+<https://www.theguardian.com/small-business-network/2016/sep/30/is-manchester-about-to-become-a-global-digital-leader>
+Check Recipient has developed technology to ensure employees do not mistakenly 
+send confidential data to the wrong address. Launched in 2013, it already had a 
+product and paying customers before entering the accelerator, making it one of 
+Cylon’s later stage companies. Sadler says he too benefited most from the 
+connections he made through the programme.
+
+
+“Having that affiliation with Cylon means that entering into conversations 
+with new potential customers is just far more frictionless. So it’s credibility 
+and then also the introductions and the networks that it brings.”
+
+
+What was lacking from the programme was a tangible success story, he says. 
+“Something I find the biggest driver and motivator is looking at other 
+entrepreneurs and companies that have successfully navigated the market. The 
+challenge Cylon has is it is such a new programme, it doesn’t have the 
+blockbuster success stories of other accelerators.”
+
+
+He says the result is that mentors on the programme were either investors or 
+potential customers. “That missing link for me was the connection with 
+entrepreneurs who have walked in your footsteps.”
+
+
+Sadler is something of an expert, having been through three accelerators. “We 
+are often invited to apply because accelerators want to have the most 
+high-profile companies and the companies they think will be breakout 
+successes.” Accelerators are, after all, investors. “They are there to take 
+small equity stakes in lots of companies that will give a strong return.” Check 
+Recipient has turned other accelerators down and says entrepreneurs should 
+evaluate how much time a programme will take up. “Ultimately you’ve got the 
+company to run, you can’t just plough everything into the accelerator.”
+
+He says Cylon is pragmatic so companies are not required to attend every 
+session. “Some other accelerators have a more strict approach where you are 
+expected to attend everything. That can actually be a problem. It can really 
+detract from what you’re trying to do.”
+
+
+Sign up to become a member of the Guardian Small Business Network here 
+<https://register.theguardian.com/small-business/> for more advice, insight and 
+best practice direct to your inbox.
+ 

@@ -1,0 +1,77 @@
+
+Computers have inevitably changed the world of crosswords. Software for 
+cruciverbalists is now widely available on the market and, let's face it, makes 
+the job both of compiling and solving puzzles much easier.
+
+For the compiler, the laborious first part of the task is filling a given 
+solution grid with acceptable answers. Using the same basic format as a 
+computer's spellchecker, programs will now, at the press of a button, fill any 
+grid you care to offer them. Alternatively, if the compiler has filled most of 
+the grid the old way by brain and eye, the program can greatly speed the final 
+difficult part of the process by offering up alternatives for the remaining 
+bits.
+
+The limitation of these programs lies precisely in the fact that, like 
+spellcheckers, they rely on the thesaurus they have stored in. So, if that is 
+limited, then so will be the range of words used as solutions. Thus, neither 
+"Blair Babes", nor "Sir Roger de Coverley", nor "nom de plume", nor anything 
+else a bit unusual, is likely to turn up in puzzles compiled in this way.
+
+These programs, because of the way they are written, also tend to throw up the 
+same pattern of words again and again. Many also use American spellings. 
+However, they represent a huge saving in time and money to publishers of 
+standard quick crosswords and downmarket puzzles books.
+
+There was even a persistent rumour put about by the compilers involved, though 
+eventually denied by their crossword editor, that another London broadsheet was 
+intending to cut costs by filling its daily cryptic crossword by computer with 
+words already stored in its database and simply inviting its compilers to 
+submit individual words and clues for them.
+
+There is no doubt that such a system could be made to work and would save 
+money. It is even possible that the solvers of the paper's puzzles, which carry 
+no nom de guerre, would not notice that anything had changed - at least for a 
+while. But I find it hard to believe that within a short time the result would 
+not be a more banal output. I am happy to say that even the idea of such a 
+thing would not be given room at the Guardian.
+
+For those interested in computerised crosswords, though, the market leader in 
+the UK seems to be Anthony Lewis. I say this not on the basis of information 
+about his or anyone else's sales figures, but because many of those who send in 
+puzzles to me on spec, hoping to become Guardian compilers, are clearly using 
+his programs: he upgrades regularly and his layouts have characteristics that I 
+have come to recognise.
+
+A number of our regular compilers also use his software or some other as an 
+aide, not least because the formats can be saved and then sent in as an email 
+attachment. The Lewis program is available atcrossword-compiler.com 
+<http://www.crossword-compiler.com>.
+
+While in the business of giving the game away, I should point out that 
+crossword-compiler.com <http://www.crossword-compiler.com> can obviously be 
+used in reverse ascrossword-solver.com <http://www.crossword-solver.com>. If 
+you are stuck on a final corner of a puzzle, all you have to do is to fill the 
+grid with the letters you already have and the program will make you offers for 
+the missing solutions, until you find one that fits.
+
+Alternatively, the Lewis program and others on the market offer a facility for 
+finding words that fit a pattern - for example, Z??DO? (6). Provided always, of 
+course, that the thesaurus in the system has the word you are looking for.
+
+Whether you, the solver, use such a shortcut to complete a puzzle is your 
+choice. It is a free world and, after the initial investment in the software, 
+cheaper than ringing the daily helplines that all papers now so considerately 
+provide at 60p a minute.
+
+But, without wishing to seem purist or sound pious, I can't see the point of 
+using such artificial aids in what is a recreational activity. For Bill 
+Shankly, football may have been more important than life and death, but I still 
+think of a crossword as just a crossword. To my mind, using a computer to find 
+the missing answers is like cheating at patience, or going for a walk and 
+taking a taxi for half the distance.
+
+But maybe I am just revealing a failure to understand the nature of real 
+addiction, which makes it impossible to wait until the morrow for the answer.
+
+·  Hugh Stephenson is the Guardian's crossword editor.
+ 

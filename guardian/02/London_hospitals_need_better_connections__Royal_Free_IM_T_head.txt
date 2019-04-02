@@ -1,0 +1,84 @@
+
+The NHS needs to improve co-operation on a local basis, Will Smart, Royal Free 
+Hampstead trust's director of IM&T, has told an event in London.
+
+In December, Royal Free and partner University College London Hospitals (UCLH) 
+trust launched a joint procurement for an Oracle finance system worth up to 
+£20m.
+
+However, Royal Free has no connection to records used by UCLH, despite the 
+finance plans and the trusts being closely linked through both the UCL Partners 
+academic health science partnership and the University College London medical 
+school, Smart said.
+
+"We need to connect up the health economy," he told an event run by supplier 
+OpenText in London. "That's our challenge."
+
+Establishing joint working and connectivity presents significant difficulties, 
+according to Smart: when Royal Free compared its ICT infrastructure to that 
+used by other London acute trusts, it found that 95% of systems were different. 
+Another challenge comes from trusts competing for business: "The NHS is a small 
+world, so we do tend to know our peers," he said. "But it does tend to be 
+opportunistic."
+
+The health service has historically had a tranche of management that could 
+facilitate local co-operation between trusts. That level of management was 
+partially removed when the last government combined 28 strategic health 
+authorities into 10, and has been cut further under this government with 
+strategic health authorities (SHAs) being combined into four clusters, covering 
+the north, Midlands, south ofEngland 
+<https://www.theguardian.com/healthcare-network/england> and London. The SHA 
+clusters will be abolished in April 2013, although the NHS Commissioning Board 
+plans to retain the four zones.
+
+Smart criticised the National Programme for IT, which had aimed to establish 
+common systems for the health service allowing connections between trusts. 
+Royal Free uses Cerner's Millennium patient record suite, provided through the 
+National Programme: "It works for us. It saves people's lives," he said. "It's 
+just delivered under a framework that is barking mad."
+
+Royal Free experienced "a significant number of problems" introducing 
+Millennium in 2008 
+<http://www.smarthealthcare.com/royal-free-hampstead-cerner-01may09>, with the 
+software's introduction needed far more resourcing than expected.
+
+The trust plans to improve its own patient records through a pilot a document 
+scanning system in its infectious diseases department.
+
+The trial will start in March, with the hope of using the system to phase out 
+the 30m paper records in the hospital's basements. The trust is using agile 
+methods to run a quick pilot of an OpenText system, with which it signed a 
+memorandum of understanding in November. According to Smart, the trial will 
+focus on creating an easy to use interface – something he said had been a 
+problem with other systems used by trust.
+
+Budget cuts
+
+Saving money also remains a focus at the trust: it is cutting £120m from its 
+£556m annual budget over five years, with £30m going from the budget in this 
+financial year alone, Smart said. "That clearly can't be done by managing 
+agency costs or being harder on suppliers," he added. "It's got to be done 
+fundamentally changing acute care."
+
+As part of this, Royal Free is reducing the number of elderly patients it 
+admits, and discharging them more quickly. This depends on ensuring there is 
+appropriate care in the community, Smart said, which the trust is doing through 
+working with partners including the London boroughs of Barnet and Camden and 
+their equivalent primary care trusts, rather than by taking over provision of 
+such care itself.
+
+"We're beginning to look at the world as a supply chain," said Smart, adding 
+that through this process the trust has prevented 640 elderly patients being 
+admitted through this work, and cut the readmittance rate from 24% to 7%, which 
+has allowed the trust to close a ward in its main hospital.
+
+Smart told the audience that suppliers wanting to work with his trust, and 
+with the NHS in general, do not need direct healthcare experience, but must be 
+able to show how they can create savings rapidly, rather than two years after 
+deployment.
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Government 
+Computing Network here <http://reg.guardian.managemyaccount.co.uk/gov-computing>
+.
+ 

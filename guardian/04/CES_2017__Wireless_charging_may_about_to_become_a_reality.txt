@@ -1,0 +1,60 @@
+
+Over the past few years, wires have been cut for everything from internet 
+connections to earphones – but still, almost every device needs to be plugged 
+in at least once a day to charge. That may be about to change.
+
+
+At CES <https://www.theguardian.com/technology/ces> this year, Dell unveiled 
+the Latitude 7285, a convertible two-in–one Windows 10 computer that gets its 
+power from a desktop wireless charging pad, and Ford announced it would be 
+conducting tests of wireless vehicle charging. But it was Energous that 
+revealed the most interesting development.
+
+The four-year-old company, a CES regular, had something to show of its WattUp 
+wireless system, which beams power to devices using radio frequencies, rather 
+than the magnetic induction used in the the contactless charging of certain 
+smartphones of the past few years. Magnetic induction can’t be used over larger 
+distances, radio frequencies potentially can.
+
+Energous had six companies showing off devices with WattUp technology powering 
+them. From Bluetooth trackers, hearing aids and styluses, to a small module you 
+can plug into other things, WattUp’s tentative steps into the real world with 
+products you may actually be able to buy are encouraging with one small caveat: 
+it only works over a few centimetres.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6INH8o6GLec&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6INH8o6GLec>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6INH8o6GLec&media=>
+ Energous promotional video 
+Energous claims that these devices will be able to “seamlessly transition from 
+being charged by small, contact-based, portable transmitters, to forthcoming 
+larger transmitters that offer charging at-a-distance of up to 15 feet (4.6m)”.
+
+How long before that switch to power at a distance greater than a few 
+centimetres takes is unknown, but one of the WattUp devices is capable of 
+providing 700mAh of power to any microUSB port, a level of power greater than 
+minimum expected of traditional USB supplied power from a computer.
+
+While 700mAh is certainly not enough power for something large, yet, it should 
+be easily capable of powering portable devices and the burgeoning Internet of 
+Things ecosystem instead of requiring a USB cable or replaceable battery.
+
+Energous also signed a undisclosed deal last year to supply its wireless power 
+system to “one of the largest consumer electronic companies in the world” 
+according to the Energous chief executive, Steve Rizzone,talking to the Verge 
+<http://www.theverge.com/2017/1/4/14124938/energous-truly-wireless-charging-apple-ces-2017>
+. The companyalso claimed 
+<http://venturebeat.com/2016/09/15/proof-that-apple-is-working-with-energous-on-wireless-charging-is-hidden-in-plain-sight/>
+ that its technology was going through “Apple compliance testing” suggesting 
+that it might have inked a deal with the Cupertino-based company.
+
+Wireless power is still in its infancy, but CES 2017 has marked a significant 
+milestone for the technology. To leap out of the pages of science fiction and 
+into the real world products you might actually buy will need a large 
+electronics firm to put the technology into its products. A company such as 
+Apple orSamsung <https://www.theguardian.com/technology/samsung>, which was an 
+early adopter of wireless charging technology, may just be catalyst needed to 
+make it happen.
+ 

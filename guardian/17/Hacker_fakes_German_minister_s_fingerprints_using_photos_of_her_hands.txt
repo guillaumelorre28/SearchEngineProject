@@ -1,0 +1,71 @@
+
+It’s an old cliché of security researchers: fingerprints might appear more 
+secure than passwords. But if your password gets stolen, you can change it to a 
+new one; what happens when your fingerprint gets copied?
+
+That’s no longer an abstract fear: a speaker at the Chaos Communication 
+Congress, an annual meeting of hackers inGermany 
+<https://www.theguardian.com/world/germany>, demonstrated his method for faking 
+fingerprints using only a few high-definition photographs of his target, German 
+defence minister Ursula von der Leyen.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fdec%2F30%2Fhacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-1%23img-1&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F12%2F30%2F1419940788063%2Fb361a9a9-c604-4612-b58f-a0f34dfec895-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Hacker%20fakes%20German%20minister's%20fingerprints%20using%20photos%20of%20her%20hands&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fdec%2F30%2Fhacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-1%23img-1>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Hacker%20fakes%20German%20minister%27s%20fingerprints%20using%20photos%20of%20her%20hands&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2014%2Fdec%2F30%2Fhacker-fakes-german-ministers-fingerprints-using-photos-of-her-hands%3Fpage%3Dwith%3Aimg-1%23img-1&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F12%2F30%2F1419940788063%2Fb361a9a9-c604-4612-b58f-a0f34dfec895-2060x1236.jpeg>
+ German Defence Minister Ursula von der Leyen Photograph: Hannibal 
+Hanschke/Reuters 
+Jan Krissler, known in hacker circles as Starbug, used commercial software 
+calledVeriFinger <http://www.neurotechnology.com/verifinger.html> and several 
+close-range photos of von der Leyen, including one gleaned from a press release 
+issued by her own office and another he took himself from three meters away, to 
+reverse-engineer the fingerprint.
+
+“After this talk, politicians will presumably wear gloves when talking in 
+public,” he joked.
+
+Also reported at the conference was another security hole seemingly straight 
+out of science-fiction: a so-called “corneal keylogger”. The idea behind the 
+attack is simple. A hacker may have access to a user’s phone camera, but not 
+anything else. How to go from there to stealing all their passwords?
+
+One way, demonstrated on stage, is to read what they’re typing by analysing 
+photographs of the reflections in their eyes. Smartphone cameras, even 
+front-facing ones, are now high-resolution enough that such an attack is 
+possible.
+
+Starbug is no stranger to taking on biometric security. In a high profile 
+stunt in 2013,he spoofed Apple’s TouchID sensors <http://vimeo.com/75324765> 
+within 24 hours of the release of the iPhone 5S. Using a smudge on the screen 
+of an iPhone, he printed a dummy finger using wood glue and sprayable graphene, 
+which successfully unlocked a phone registered to someone else’s thumb.
+
+For that hack, he had to have physical access to the phone he stole the 
+fingerprint from, in order to get a high resolution scan of the print. His 
+latest demonstration suggests that it may be possible to unlock a phone using a 
+fingerprint stolen without ever touching a person or their property – although 
+actually getting hold of the phone is still needed for the last stage, of 
+actually unlocking it.
+
+The increasing number of successful attacks against biometric identification 
+has led to some security researchers advising that people change the way they 
+think about security measures such as fingerprints and photo ID. Rather than 
+treating them as a replacement for passwords, they should instead be used as a 
+second factor of authentication, or even as something similar to a username: a 
+publicly known piece of information which must be linked to a password before a 
+user can log in.
+
+As the ACLU’s Jay Stanley told the Washington Post 
+<http://www.washingtonpost.com/blogs/the-switch/wp/2014/10/17/the-biometrics-revolution-is-already-here-and-you-may-not-be-ready-for-it/>
+, “Biometrics are not secrets… Ideally, they’re unique to each individual, but 
+that’s not the same thing as being a secret.”
+
+And Starbug agrees, telling Zeit in 2013 that 
+<http://www.zeit.de/digital/datenschutz/2013-09/iphone-fingerabdruck-hack-starbug>
+ “I consider my password safer than my fingerprint… My password is in my head, 
+and if I’m careful when typing, I remain the only one who knows it.”
+
+ * iPhone 5S fingerprint sensor hacked by Germany’s Chaos Computer Club 
+<https://www.theguardian.com/technology/2013/sep/22/apple-iphone-fingerprint-scanner-hacked>
+ 

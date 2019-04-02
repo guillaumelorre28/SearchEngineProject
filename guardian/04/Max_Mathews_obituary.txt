@@ -1,0 +1,70 @@
+
+Max Mathews, who has died aged 84, wrote the first computer music program and 
+influenced the conception of HAL 9000, the computer in Stanley Kubrick's film
+2001: A Space Odyssey <https://www.theguardian.com/film/2001-a-space-odyssey>. 
+In the 1968 film, HAL gives a memorable rendering of an old song about a 
+bicycle built for two. This was the result of a series of coincidences.
+
+Mathews had been working on synthetic speech at AT&T's Bell Laboratories, in 
+New Jersey, where a song entitledDaisy Bell 
+<http://www.youtube.com/watch?v=41U78QP8nBk> had an obvious appeal. The 
+researchers at Bell Labs used their IBM 704 computer and a vocoder (voice 
+synthesiser) to sing it, withMathews programming the musical accompaniment 
+<http://www.youtube.com/watch?v=qoqEC2mLYyE>. Although this was serious 
+research, the output was also used to entertain visitors, including Arthur C 
+Clarke, who used the idea in his novel, and the screenplay, for 2001, in which 
+the astronaut David Bowman shuts HAL down as it sings the song. The scene 
+became part of cinema history and popular culture.
+
+People had been using computers to play tunes for a few years, but Mathews was 
+the first to write a computer music program. He said that "computer performance 
+of music was born in 1957 when an IBM 704 played a 17-second composition on the 
+Music I program, which I wrote". At the time, computers were too slow to play 
+compositions in "real time". It took an hour to create 17 seconds of music. 
+Mathews recorded it to tape and then speeded up the tape to play it back.
+
+He wrote improved versions of his software, up to Music V, which he created 
+"to give the musician the tools to make his own instruments". He also developed 
+Groove, the first computer system for live performance, and Radio Baton, a 
+system for controlling music in standard Midi (musical instrument digital 
+interface) format. Radio Baton used two "wands", prefiguring the sort of 
+controller now used with Nintendo Wii games. Later, Max, a widely used visual 
+programming language for music, was named in his honour.
+
+Mathews was born in Columbus, Nebraska, the son of college teachers. After 
+graduating from high school, he joined the navy, where he trained as a radio 
+technician. He gained a degree in electrical engineering at the California 
+Institute of Technology in 1950, and a doctorate from the Massachusetts 
+Institute of Technology in 1954. He joined Bell Labs, and served as director of 
+its acoustical and behavioural research centre from 1962 to 1985.
+
+While at Bell Labs, Mathews worked with a number of composers, including 
+Edgard Varèse and John Cage, and in the 1970s he helped Pierre Boulez set up 
+the avant-gardeInstitut de Recherche et Coordination Acoustique/Musique 
+<http://www.ircam.fr/> in Paris. He also contributed short pieces to a Bell 
+Labs record, Music from Mathematics, and to Decca's Voice of the Computer: New 
+Musical Horizons.
+
+His paper The Digital Computer As a Musical Instrument was published in the 
+journal Science in 1963. He joined Stanford University's music department as 
+professor of music (research) in 1987, and made San Francisco his home.
+
+During a conference panel on the future of musical instruments at the SF 
+MusicTech Summit in 2010 
+<http://www.youtube.com/watch?v=Mi9ZikB_BUA&feature=player_embedded>, Mathews 
+said: "When I first got some – I won't call it music – sounds out of a computer 
+in 1957, they were pretty horrible. Almost all the sequence of samples – the 
+sounds that you produce with a digital process – are either uninteresting, or 
+disagreeable, or downright painful and dangerous. It's very hard to find 
+beautiful timbres. A violin may be beautiful but it always will sound like a 
+violin. The computer can sound like anything."
+
+Mathews was a keen amateur violinist and developed a number of electric 
+violins, including one made of sheet metal. One of his instruments appeared on 
+the cover of Playboy magazine's "sex and music" issue in 1998.
+
+Mathews is survived by his wife, Marjorie, their sons, Vernon, Guy and Boyd, 
+and six grandchildren.
+
+• Max Mathews, computer programmer, born 13 November 1926; died 21 April 2011
+ 

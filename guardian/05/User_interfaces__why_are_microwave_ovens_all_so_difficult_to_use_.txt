@@ -1,0 +1,64 @@
+
+Visited anyone recently and tried to use their microwave oven? Of all the 
+familiar devices in a house, the microwave has long been the laggard in 
+usability. The “science oven”, as it is so wonderfully described in the 
+1970s-set filmAmerican Hustle, pre-dates the digital era (the first came out in 
+1967); and the advent of programmes and digital buttons hasn’t helped much 
+since. So when you buy one, or go to someone’s house and use theirs, you will 
+almost certainly be confronted by an unfamiliar interface. How powerful is it? 
+Do I have to set the heat or time first? If I have to press digital buttons to 
+set the heating time, will it interpret them as hours? If I need to set a 
+heating time of more than an hour, do I enter the minutes, or is there an 
+“hour” setting?
+
+Meanwhile, since the “science oven” came along, we’ve got used to smartphones 
+and tablets whose interfaces have undergone a flurry of interbreeding. Even in 
+rival mobile interfaces, you expect to find apps offered as an array of icons; 
+to have notifications about events in a sliding layer at the top; and get easy 
+access to key functions such as Wi-Fi and Bluetooth from any screen. If 
+microwave interfaces had standardised to the same extent, we’d be able to 
+operate almost any on sight. Instead, they still can’t tell whenyou’ve put 
+metal in them <https://www.youtube.com/watch?v=eIGPvPRzEaQ>.
+
+The extent of the variation was pointed out in a 2013 post that recently 
+resurfaced in which bloggerTimothy Ellis wondered about the awfulness of the 
+interfaces 
+<http://timandjeni.com/blog/why-do-most-microwaves-have-such-a-terrible-user-interface/>
+. He looked at an LG model with 31 buttons, and a Jenn-Air one with 34 buttons, 
+“when all I want to do is heat up food for a specified time”. On the Jenn-Air, 
+he noted: “The vast majority of the time, I use exactly two of these buttons: 
+‘add 30 sec’ (which also starts the heat) and ‘Stop/Cancel’.” So 94% of the 
+buttons are wasting space.
+
+In some ways, microwave interfaces have gone backwards. Older models had two 
+dials: power and time. They were intuitive: more clockwise, more power/time. 
+Then digital timers arrived, as did tapping a button to enter time, rather than 
+turn a dial. This favoured the cool factor over usability: a dial provides its 
+own feedback and is easily grasped (literally and figuratively) by old and 
+young.
+
+The infatuation with digital became another part of the problem. A discussion 
+on Stack Exchange 
+<http://ux.stackexchange.com/questions/28006/why-do-microwave-oven-uis-fail> on 
+the topic points to a book by Alan Cooper, who says that if you mix a computer 
+with another thing, the result is still a computer. This leads to “feature 
+creep”: Microsoft Office has a bazillion more options for formatting pages than 
+you want, because someone somewhere might use it occasionally, so things such as
+chaos defrost 
+<http://eng.faq.panasonic.com/app/answers/detail/a_id/10689/~/what-is-chaos-defrost%3F>
+ become a selling point. In fact, “chaos defrost” can cut defrost time by up to 
+60%. Our microwave has it. But we bought it based on price and volume, not 
+“features”.
+
+In the end, I think there’s a simple reason why these interfaces have not 
+merged more rapidly: life-spans. It’s not unusual for these machines to last 10 
+or 15 years, their interfaces frozen in time, while designers think of smarter 
+ideas. The “30 seconds” top-power button is becoming increasingly common, but 
+it’ll probably be 10 years before you can go into someone’s kitchen and be 
+confident of seeing it on the microwave. Sometimes, even great user interface 
+ideas are held back by simple problems: the products just don’t wear out fast 
+enough for new stuff to come through.
+
+If you’ve ever complained about your smartphone’s short life, look at it this 
+way – at least you’re not trying to operate it with an interface from 2005.
+ 

@@ -1,0 +1,67 @@
+
+Plans by the Child Maintenance and Enforcement Commission to cut spending are 
+risky and rely too much on the introduction of a new IT system, according to a 
+report from the National Audit Office (NAO).
+
+The commission has committed to cutting its budget to £428m in 2014-15 – 
+although this is £44m higher than than its original estimate – from a 2010-11 
+budget of £560m.
+
+"Faced with a challenging but achievable target for reducing its spending, the 
+Child Maintenance and Enforcement Commission is relying heavily on the 
+introduction of fees to parents, underpinned by a new IT system. This is a high 
+risk approach with no contingencies if it goes awry," said NAO head Amyas Morse.
+
+While the child maintenance administration system was envisaged as a way of 
+saving money, its own price tag has risen since it was conceived. In January 
+2011 its cost was estimated at £149m, by October of that year it had risen to 
+£275m. "The commission cannot afford the cost of its new child maintenance 
+scheme to increase further," according to the NAO's report, Child Maintenance 
+and Enforcement Commission: cost reduction.
+
+The system is intended to replace two existing ones, which each underpin a 
+separate child maintenance scheme. Due to flaws in the IT systems for each 
+scheme, some 100,000 cases have had to be removed from the system and managed 
+manually by clerical staff at a cost of £48m, according to the NAO.
+
+The delivery date of the system has slipped three times from full delivery in 
+April 2010, to implementation in two phases in October 2012 and July 2013.
+
+"Ministers have stated that introducing fees depends on the commission 
+implementing a new, effective child maintenance scheme from October 2012. The 
+[commission's predecessor, the Child Support] Agency did not have a good track 
+record in delivering IT systems. Our analysis suggests that the commission 
+could repeat some of the agency's mistakes. The original plans were optimistic 
+and the commission lacked sufficient internal resources to understand fully how 
+the IT system would be developed," the report said.
+
+According to the document, among the mistakes made by the Child Support Agency 
+that the commission is at risk of repeating include having sufficient internal 
+technical resources to be an intelligent customer of the contractor.
+
+"The commission initially used elements of both an 'agile' (iterative) 
+approach and a traditional approach to build the new system. Its mix and match 
+approach meant there were two distinct routes for specifying requirements and 
+resulted in duplicated, conflicting and ambiguous specifications. The 
+commission did not have previous experience of using the agile approach," the 
+report notes.
+
+"The Office of Government Commerce (OGC) concluded in July 2011 that the 
+commission's ability to act as an intelligent customer contributed to slippage 
+in the programme."
+
+Along with the introduction of an agile approach, undertaken in mid-2011, the 
+commission has improved on existing government measures, such as the use of 
+'project review gates' which stop design work proceeding from one stage to the 
+next without being ratified by all main stakeholders.
+
+"It is not yet clear whether such remedial actions have sufficiently addressed 
+the earlier problems. An external review rated the programme as 'amber' in July 
+2011. The commission must undertake critical testing in parallel with programme 
+delivery to meet the implementation date," the NAO report adds.
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Guardian Government 
+Computing network here 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>.
+ 

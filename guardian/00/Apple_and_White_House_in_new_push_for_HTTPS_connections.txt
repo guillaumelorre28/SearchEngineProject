@@ -1,0 +1,84 @@
+
+Both Apple <https://www.theguardian.com/technology/apple> and the White House 
+have announced new policies aimed at boosting the use of encrypted connections 
+on the internet, suggesting that the days of insecure internet connections 
+could be numbered.
+
+On Monday, Apple revealed the latest version of its mobile operating system, 
+iOS <https://www.theguardian.com/technology/ios> 9, at the company’s Worldwide 
+Developer Conference.
+
+Hidden among the changes in the update is a confirmation that the company will 
+encouraging developers to “exclusively” use HTTPS, the secure way of connecting 
+to web addresses, over the older and insecure HTTP.
+
+The same day, the White House published a memo requiring all federal websites 
+and web services to provide service only through a secure connection.
+
+Like Apple, it recommends that that connection be through the HTTPS standard, 
+which it calls “the strongest privacy and integrity protection currently 
+available for public web connections”.
+
+The rationale for both changes is the same: over recent years, the 
+understanding of where encryption is necessary has shifted. It used to be that 
+HTTPS was only expected for websites where “sensitive information” was 
+exchanged, such as usernames, passwords, or credit card details.
+
+But increasingly, wider use of encrypted connections has become popular. Sites 
+such as Google, Facebook and Twitter now offer HTTPS connection as default, and 
+the Electronic Frontier Foundation’sHTTPS Everywhere 
+<https://www.eff.org/https-everywhere/> tool lets users connect through the 
+most secure channel wherever possible.
+
+In its note mandating the use of secure connections, the White House explains 
+that “all browsing activity should be considered private and sensitive”.
+
+“Federal websites that do not convert to HTTPS will not keep pace with privacy 
+and security practices used by commercial organisations, and with current and 
+upcoming internet standards. This leaves Americans vulnerable to known threats, 
+and may reduce their confidence in their government.”
+
+Apple’s advice to developers is similar. Encryption, it writes 
+<https://developer.apple.com/library/prerelease/ios/releasenotes/General/WhatsNewIniOS/Articles/iOS9.html#//apple_ref/doc/uid/TP40016198-SW1>
+, “prevents accidental disclosure, provides secure default behaviour, and is 
+easy to adopt”.
+
+“If you’re developing a new app, you should use HTTPS exclusively. If you have 
+an existing app, you should use HTTPS as much as you can right now, and create 
+a plan for migrating the rest of your app as soon as possible.”
+
+Compared to unsecured connections, HTTPS offers a number of benefits. The 
+service encrypts information sent between the user and the website at the other 
+end, ensuring that no third party can intercept the communications.
+
+That means, for example, a third-party intercepting an e-commerce order cannot 
+steal credit card details, which is why encrypted connections have been the 
+norm for online shopping and banking for more than a decade.
+
+But encryption also provides security against other sorts of online attacks: 
+malware that injects advertisements into webpages cannot do so if the sites are 
+encrypted; phishing sites which attempt to trick a user into giving up personal 
+details cannot forge a security certificate; and attempts to hijack domains 
+will fail if the security certificate is wrong.
+
+As well as the security benefits, encrypted connections also offer users 
+privacy benefits. While the protocol cannot protect the identity of the 
+specific site being browsed, it can hide what specific page is being viewed 
+from simple attacks.
+
+The EFF explains that “ideally, this provides some protection against an 
+attacker learning the content of the information flowing in each direction — 
+for instance, the text of email messages you send or receive through a webmail 
+site, the products you browse or purchase on an e-commerce site, or the 
+particular articles you read on a reference site”.
+
+Ironically, given the support of the White House, part of the impetus for 
+wider use of HTTPS for internet security was the revelations of state 
+surveillance contained in the files leaked by Edward Snowden.
+
+In September 2013, the Guardian revealed 
+<https://www.theguardian.com/world/2013/sep/05/nsa-gchq-encryption-codes-security>
+ that the NSA has capabilities against HTTPS encryption, but the service is not 
+believed to be able to perform “dragnet”-style surveillance against encrypted 
+connections.
+ 

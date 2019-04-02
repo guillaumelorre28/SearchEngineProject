@@ -1,0 +1,215 @@
+
+On the set of ITV’s costume drama Mr Selfridge, in a quiet moment between 
+takes, actor Greg Austin is a world away from his co-stars. Although dressed as 
+an Edwardian gentlemen, he is glued to hisiPhone 
+<https://www.theguardian.com/technology/iphone>, and to one game in particular. 
+Hearthstone.
+
+“I got into it somewhat late, about a year after its release,” he says. “But 
+since then I’ve been playing avidly. It is easy to learn, which means anyone 
+can play it and enjoy themselves, but it is also difficult to master.” Austin 
+loves the game so much, he now has his own dedicated YouTube gaming channel,
+EuphAuric <https://www.youtube.com/channel/UC1Hn3XTvusU08qb68WR0hOA>, posting 
+regular Hearthstone videos.
+
+He is not alone with this obsession. A year after its release on PC and iPad 
+<https://www.theguardian.com/technology/ipad>, Hearthstone boasts over 30 
+million registered players, and together with online shooter Destiny, drew in 
+$850m (£540m) of revenue for Activision last year. It is one of the most 
+watched titles on the video game streaming site Twitch, and professional gamers 
+can earn tens of thousands of pounds in dedicated tournaments. One reviewer for 
+influential US games site Polygon wrote simply: “It’s kept me rapt longer than 
+any games I’ve played in years.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F25%2Fhearthstone-blizzard-strategy-trading-cards-greg-austin%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F6%2F23%2F1435059831597%2Fdd8fcf51-ea6b-46f5-b241-9fb90ea03b2b-1020x612.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Hearthstone%3A%20how%20a%20game%20developer%20turned%2030m%20people%20into%20card%20geeks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F25%2Fhearthstone-blizzard-strategy-trading-cards-greg-austin%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Hearthstone%3A%20how%20a%20game%20developer%20turned%2030m%20people%20into%20card%20geeks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F25%2Fhearthstone-blizzard-strategy-trading-cards-greg-austin%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F6%2F23%2F1435059831597%2Fdd8fcf51-ea6b-46f5-b241-9fb90ea03b2b-1020x612.jpeg>
+ A Priest takes on a Paladin in this Heathstone match. The Hero characters are 
+at the top and bottom of the screen with the minions meeting in the middle of 
+the board. Photograph: Activision 
+For those yet to be indoctrinated, Hearthstone is a turn-based strategy game 
+based in an esoteric fantasy universe and inspired by complex collectible 
+trading card sets like Magic: The Gathering. Players select one of nine 
+character classes such as hunters, warriors and priests, then build decks of 
+soldiers called Minions, each with their own abilities and weaknesses. These 
+mini armies are pitched against an opponent on a table-top warzone, with a 
+resource named mana governing how many cards a participant is able to play in 
+their turn. The aim is to destroy your opponent’s main Hero character by 
+playing stronger Minion cards at the right times, and making effective use of 
+special spell cards that add force to compatible moves.
+
+It sounds complicated and geeky, which is perhaps why so many industry 
+insiders were caught off guard by its sudden and phenomenal success – 
+including, it turns out, the game’s own developer. To Blizzard Entertainment, 
+Hearthstone was supposed to be a niche project, an experimental diversion. But 
+then something weird happened. Everybody loved it.
+
+The Blizzard way
+
+Based in a sprawling campus facility in Irvine, California, Blizzard is the 
+veteran studio behind acclaimed strategy simulation titles Starcraft and 
+Warcraft, and the massively multiplayer online game, World of Warcraft (WoW). 
+Its games are the very definition of “hardcore”: deep, demanding and riddled 
+with complex mechanics. In 2008, however, the company’s directors looked at how 
+they were relying exclusively on three key brands – the action role-playing 
+adventure Diablo, the strategy simulation sequel Starcraft II, and WoW – and 
+they were concerned. In some ways it was fine, the games were, after all, doing 
+spectacularly well. Starcraft was about to get its Wings of Liberty add-on and 
+work was progressing on the long-awaited Diablo III.
+
+Elsewhere, however, something big was happening in the games industry. A group 
+of idiosyncratic independent projects like Braid and World of Goo had 
+kickstarted a new era of experimental game design. The arrival of digital 
+download platforms like Xbox Live and the Apple App Store, together with the 
+increasing availability of broadband internet, meant that suddenly small teams 
+were able to get interesting offbeat projects to potentially huge audiences.
+Games <https://www.theguardian.com/technology/games> didn’t have to be burned 
+onto discs and sold in stores anymore, they could be created by small teams 
+then made available on the internet or on smartphones. The culture of the 
+industry was shifting. Blizzard wanted to shift too.
+
+“We realised we didn’t have a competency here at the company to be a little 
+bit more experimental, a little more nimble,” recalls Hearthstone co-creator 
+and production director, Jason Chayes. “Some of our executives got together and 
+said, we need to start up a small team, kind of a scrappy team, that can, with 
+few resources, find ways to do more experimental types of games. We wanted to 
+try out different ideas and platforms – things we don’t usually do because our 
+teams are focused on those key franchises.”
+
+The studio pulled a small group of experienced designers together, including 
+Jason Chayes and designer Eric Dodds, and gave them the codename Team Five. The 
+brief was effectively, go create something. “We started where we always do, by 
+asking each other about the games we really love ,” says Chayes. “We discussed 
+the games we played in our lunch breaks or with our friends in a pub on a 
+Friday evening. For about twenty years, a lot of us had been playing 
+collectible card games (CCGs) together. The coupling of a small team and an 
+online CCG felt like a natural fit. That’s where Hearthstone began.”
+
+
+A magic gathering 
+
+Although there have been trading cards with simple gaming mechanics for many 
+years, it was the 1993 release of Magic: The Gathering that revolutinised the 
+CCG concept. Published by veteran fantasy game creator Wizards of the Coast, 
+and set in a Dungeons and Dragons-style fantasy world, it featured a starter 
+pack of creature, spell and artifact cards all with different strengths and 
+weaknesses, as well as random booster packs allowing players to build their own 
+custom decks. Part of the fun was simply purchasing packs and amassing a 
+collection, enjoying the exotic creature descriptions and fantasy art. But 
+being able to sit down and play a highly tactical game added to the appeal. 
+Magic became a smash hit, selling out its initial 2.6m print run almost 
+immediately and going on to build a community of over 10m active players. It 
+wasn’t long before it earned the nickname cardboard crack.
+
+Team Five was looking into what made a compelling collectible card game – and 
+that meant playing them. A lot of them. They played endless rounds of Magic, as 
+well as subsequent CCG hits – Battletech, Netrunner, Legend of the Five Rings 
+and Rage – learning the flow, the interplay, the conventions of the genre. “We 
+thought, well, what does a card game need to give it interesting depth?” says 
+Chayes. “We wanted a style of play where minions could duke it out against each 
+other – a very quick, dynamic engaging experience. There was a process of 
+working out what sort of things would facilitate that form of gameplay.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F25%2Fhearthstone-blizzard-strategy-trading-cards-greg-austin%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F6%2F24%2F1435164401284%2F453ecd8e-dabd-401e-b398-ea82bce48ffe-1020x612.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Hearthstone%3A%20how%20a%20game%20developer%20turned%2030m%20people%20into%20card%20geeks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F25%2Fhearthstone-blizzard-strategy-trading-cards-greg-austin%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Hearthstone%3A%20how%20a%20game%20developer%20turned%2030m%20people%20into%20card%20geeks&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F25%2Fhearthstone-blizzard-strategy-trading-cards-greg-austin%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F6%2F24%2F1435164401284%2F453ecd8e-dabd-401e-b398-ea82bce48ffe-1020x612.jpeg>
+ Hearthstone’s Tavern Brawl mode. Photograph: Blizzard 
+And of course, they borrowed from the World of Warcraft card trading game 
+produced by Upper Deck in 2006. This hugely successful spin-off from Blizzard’s 
+massively multiplayer online game was a massive success on the CCG market, with 
+over 20 expansion sets and a lively competitive scene. It has similar hero 
+classes, it duplicates a lot of the minion cards, and card art, and many of the 
+systems are the same. And when Hearthstone was nearing completion, Blizzard 
+ended its licensing agreement with Upper Deck, effectively killing the physical 
+Warcraft card game in favour of its digital counterpart.
+
+But Team Five was also looking back to the origin of the Warcraft titles and 
+its universe, the dark fantasy realm known as Azeroth, swarming with warriors, 
+elves and orcs. As Chayes explains, “We thought about the various classes that 
+are represented there – hunter, mage, paladin, all of these – and discussed 
+what it is that people think about when they consider what a paladin is, the 
+buffs they may use, or the burst energy spell of a mage. We looked for ways to 
+introduce those mechanics into a card game. That was a key influence: how we 
+could be faithful to that source material?”
+
+The Starcraft experience
+
+A year after work started, the team had developed a simple Flash prototype – a 
+very basic digital card game with no real visual identity; it was just a set of 
+mechanics, based around the nine classes of hero from the Warcraft real-time 
+strategy titles. At this critical point, several of the staff were temporarily 
+moved on to Starcraft II – and far from being a disruption, this proved an 
+important element in Hearthstone’s development. “There were 10 or 11 months 
+where the two people on the design team – Eric Dodds and Ben Brode – were free 
+to do a lot of fast iteration,” says Chayes. “They were actually making and 
+using physical playing cards.”
+
+
+Meanwhile, the others learned a lot from Starcraft, especially the asymmetric 
+nature of the races. “That definitely carried over into Hearthstone,” says 
+Chayes. “The idea that each of the classes needs to remain balanced but at the 
+same time has to have its own flavour and feel. When the team started 
+reconverging, having done our tour of duty on Starcraft, that’s when things 
+started to migrate into a very robust example of where we wanted Hearthstone to 
+go.”
+
+Behind it all were two guiding principles: accessibility and charm. It had to 
+be funny, it had to be warm and it had to be intuitive. “When we first started 
+working on it, the most important thing was that this would be a game for 
+everybody,” says Dodds. “That idea quickly spread throughout the entire game. 
+We wanted to make it feel good to drag cards, to attack, we wanted it to look 
+fun if you just watched it over someone’s shoulder.
+
+“We talked about the text on the cards - we wanted to make it very readable. 
+We have a rule when we’re building a card that if someone reads the text for 
+the first time and they don’t immediately understand what the card does, we 
+need to change that power or re-word it – that is critical.”
+
+Indeed, the game is so intuitive, players are able to effectively let it play 
+itself. There are pre-built card decks for each class so players don’t have to 
+make their own. But if they do decide to make custom decks, the game will make 
+suggestions, or even build the whole deck based on the cards available. Then, 
+when you’re in the game, the user interface highlights all the cards that you 
+can play in any one turn. As with casual puzzle titles like Candy Crush Saga, 
+you can just do what the game tells you.
+
+“It’s very apparent that Blizzard wanted the game to be quick, and reasonably 
+easy,” says keen player and eSports writer, Kevin Hovdestad. “Turns are short, 
+games are short, and you can’t act in any way during your opponent’s turn. 
+Strategically, each class has inherently valuable cards that fit it 
+thematically, so the game sort-of guides players towards certain natural 
+synergies.”
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU0oj8FnqQW8&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU0oj8FnqQW8>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU0oj8FnqQW8&media=>
+Dodds agrees. “It’s important that you don’t have to spend a lot of time 
+understanding the rules to play the game, the depth grows as you go,” he says. 
+“A number of players will just drag the card that goes green onto the board – 
+they’re sort of playing the game, sort of not. But as they progress they start 
+to think, ‘no, I’m going to play a different way’.
+
+“Really, throughout the design, the interface, the experience, Hearthstone is 
+designed to say ‘the first time you see this, you know how to play, you know 
+how to use it’”.
+
+Meanwhile, back on the set of Mr Selfridge, Austin regularly finds himself 
+showing off the game to other cast members as they mill about on set. For him, 
+performance is part of its appeal. “It is extremely watchable,” he says. “The 
+other actors are always asking what I’m doing, and I’ll tell them about the 
+game and get them to have a go. That’s how I really started to learn the finer 
+details – by watching popular streamers and YouTubers likeTrump and Kripparian 
+<https://www.youtube.com/watch?v=U0oj8FnqQW8>. There’s always more to learn and 
+understand with Hearthstone, and watching other people is one of the best ways 
+of getting better. I wouldn’t be surprised if I’ve managed to get a few of the 
+other actors into it.”
+
+Part Two: the design process, and how Hearthstone evolved into an eSport  
+<https://www.theguardian.com/technology/2015/jun/26/hearthstone-how-one-game-developer-turned-30m-people-into-geeks-part-two>
+ 

@@ -1,0 +1,145 @@
+
+On any given sunny day during this past summer, Lauri Love could be found 
+playing music in Abbey Gardens in Bury St Edmunds, inside the ruins of an 11th 
+century abbey. He’d strap a sound system to a bike, and sometimes add lasers 
+and instruments. “Like busking, but without the money,” he said of his pastime.
+
+As he played, he knew these might be his last days outside enjoying the warm 
+sunshine for some time. Love, a 30-year-old engineering student from Suffolk 
+with a history of mental health issues, is wanted for extradition by the United 
+States under the notorious US Computer Fraud and Abuse Act (CFAA).
+
+The FBI has stated that he could face 12 years in prison if convicted, though 
+there are relatively few precedents for hacking convictions; the most recent 
+conviction under the act was of former Reuters journalistMatthew Keys 
+<http://www.sfweekly.com/thesnitch/2015/10/08/local-journalist-could-face-25-year-prison-sentence-for-defacing-la-times-website>
+, who could face 25 years in prison on lesser charges than Love faces.
+
+The US alleges Love is a “sophisticated computer hacker” loosely affiliated 
+with theAnonymous <https://www.theguardian.com/technology/anonymous> hacker 
+collective, and that he “secretly infiltrated” computer systems used by a long 
+list of government agencies including the Federal Reserve, Nasa, the Department 
+of Energy and the FBI between October 2012 and August 2013, “publicly 
+disseminating confidential information found on those servers”.
+ Love protesting at the University of Glasgow in September 2011. Photograph: 
+Jamie McFayden/Lauri Love 
+The request for extradition describes Love as “part of a community of so 
+called ‘hactivists’,” who seek to infiltrate the computer networks of major 
+companies and government entities and steal confidential or protected 
+information ... and then publicly disclose that information in order to 
+embarrass the company or government entity.”
+
+The US government doesn’t like being embarrassed, and in recent years has 
+cracked down especially hard on people engaging in computer crimes to advocate 
+for social change. Love’s case marks the first time the US has sought the 
+extradition of an alleged member of Anonymous, but observers worry it will not 
+be the last, if it is successful.
+
+We met for the first time in a chatroom on Internet Relay Chat, where I asked 
+Love to describe the nature of the extradition case against him.
+
+“There is no obligation to the United States to present prima facie evidence,” 
+he explained, referring to a controversial change introduced by the 2003 US/UK 
+Extradition Treaty. This means Love will not be able to argue against 
+extradition by disproving any of the evidence in the indictments. “So, my 
+argument in court will revolve around the legal blocks to extradition. Of which 
+there are several,” he said.
+
+
+“First, there are jurisdiction and venue issues, which is covered by what’s 
+called the ‘forum bar’. That is, investigations and prosecutions should occur 
+in the country where offences are committed, especially if the requested person 
+is not a citizen of the requesting country.”
+
+Love has never set foot in the United States. He claims the US Department of 
+Justice should not have charged him before the British NationalCrime 
+<https://www.theguardian.com/uk/ukcrime> Agency (NCA) because it is considered 
+a breach of “etiquette” for one country’s legal system to “step on the toes” of 
+another’s.
+ Love, front left, faces charges under the US Computer Fraud and Abuse Act. 
+Photograph: Beatrixx Kiddo/Lauri Love 
+Love’s lawyer, Karen Todner, however, says that an NCA investigation against 
+him is closed.
+
+The NCA detained Love in July 2013 
+<https://www.theguardian.com/world/2013/oct/28/us-briton-hacking-charges-nasa-lauri-love>
+ and confiscated 29 of his family’s items, including all the computers in the 
+house. One year later, in July 2014, the Crown Prosecution Service notified the 
+crime agency they couldn’t find enough evidence to lay a charge, and the NCA 
+released Love from bail. Love proceeded to sue the agency for the return of the 
+29 items.
+
+The NCA still hasn’t returned six of those items because they haven’t been 
+able to decrypt them. Love sees that as proof they are still interested in 
+pressing charges against him, and believes the threat of extradition is being 
+used to force him to comply with the UK investigation.
+
+For Todner, the strongest argument against Love’s extradition will be the 
+compassionate one: Love’s mental health can’t handle what he’d face in the 
+American prison system. “Lauri has a long history of mental health issues that 
+are well documented but that he’s never received the proper diagnosis for,” 
+Todner said. “He’s not someone who could cope with extradition. He’s not 
+someone who could face time in prison in America. Frankly, he’s not someone who 
+could face time away from his family.”
+
+Love was studying at the University of Glasgow but stopped attending in late 
+2011 after he went through a period of homelessness and illness. His parents, a 
+Baptist vicar and an adult educator, had to drive from Suffolk to Scotland to 
+find him and collect him after he was hospitalized twice. He tells me he spent 
+the rest of 2012 and 2013 “cocooned”, convalescing at home. He is alleged to 
+have committed the intrusions against the US government during that period of 
+convalescence.
+
+One of Todner’s previous clients is alleged computer hacker Gary McKinnon, 
+whose 10-year battle against extradition ended in 2012 when UK home secretary 
+Theresa May blocked the extradition on humanitarian grounds. McKinnon has 
+Asperger’s, and May determined he was “seriously ill” and at risk of suicide if 
+extradited.
+
+Humanitarianism is not something the American legal system is known for. 
+During his hearing, Love intends to present evidence on the treatment in prison 
+of Anonymous hacktivists Jeremy Hammond and Barrett Brown. Hammond has served 
+one and a half years of a 10-year sentence, and Barrett Brown is completing a 
+sentence of five years and three months.
+
+“I am afraid that if Lauri Love is extradited to the US, he will end up like 
+Barrett Brown and Jeremy Hammond, who are serving time for Anonymous-related 
+convictions and are being subjected to stays in solitary whenever they attempt 
+to speak out against their conditions - punishments that are designed to break 
+their spirits and institutionalize their personalities,” said Michael Ratner, a 
+lawyer at the Center for Constitutional Rights in New York.
+
+Like the charges faced by Hammond and Brown, Love is being pursued under the 
+CFAA. The act is known for its extreme punishment scheme for non-violent 
+offenses. Hammond received a 10-year sentence for hacking the security firm 
+Stratfor as part of an Anonymous campaign to disclose alleged illegal activity 
+by the firm, but his sentence was longer than all of those of his UK-based 
+co-defendants combined.
+ Love, who has been loosely affiliated with the hacking collective Anonymous, 
+has said he will never go to the US willingly. Photograph: Hannah 
+Birtwistle-Craine/Lauri Love 
+Hanni Fakhoury, a staff attorney for the San Francisco-based Electronic 
+Frontier Foundation, says the CFAA is “a very broad statute” that “can be 
+stretched to fit all sorts of behaviour”.
+
+The EFF has long advocated for reform of the law, which it calls draconian 
+<https://www.eff.org/deeplinks/2013/06/jeremy-hammond-case-demonstrates-draconian-nature-cfaa>
+. Fakhoury wrote a letter to the judge in the Hammond case advocating for 
+lenient sentencing in consideration of the political motivations of the crime. 
+His letter to the judge was ignored: Hammond was sentenced to serve the maximum.
+
+Love expects that if he is forced into the American judicial system, things 
+will go no differently for him. “It’s clearly problematic that as a direct 
+consequence of there being insufficient evidence even to bring a charge in the 
+UK, I am facing a fate that I consider worse than any possible sentence given 
+in the UK. If I were ever taken to the USA and refused to plead guilty, that 
+number would go up significantly, until it were many times larger than the 
+number of years I have left to live.”
+
+He thinks the extradition case against him is being used by British law 
+enforcement officials to pressure him into giving up evidence against himself 
+and others. Love presents his case to a British court on 10 and 11 December.
+
+When I ask him how many years of jail he thinks he’d face, he replies: “It’s 
+all academic. I will never go to America except in a bodybag.”
+ 

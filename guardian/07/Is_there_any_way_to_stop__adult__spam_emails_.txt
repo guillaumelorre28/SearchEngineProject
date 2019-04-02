@@ -1,0 +1,130 @@
+
+For some time now, I have been receiving from five to 20 unwanted “adult” 
+emails per day. I followed Yahoo’s advice on how to block these emails, but I 
+still am receiving them. I contacted Yahoo again, but within the blink of an 
+eye, I received a standard response email stating that my case was closed. I 
+have also emailed the CEO of Yahoo UK, and I am angry with the complete 
+indifference thatYahoo <https://www.theguardian.com/technology/yahoo> has shown.
+
+How can I stop these emails? I was thinking of sending them back to the 
+sender, but I’m wondering if it will have any impact. Ruth
+
+Adult emails are spam – and you can’t stop spam. Anybody who has your home or 
+office address can send you letters and anybody who has your email address can 
+send you spam. You don’t get much junk mail because it costs a lot to send. You 
+will get lots of junk email because it costs nothing to send.
+
+Email service providers such as Yahoo, Google and Microsoft 
+<https://www.theguardian.com/technology/microsoft> filter out billions of spam 
+emails per day. Only a few get through, and five to 20 per day is not an 
+unusual number.
+
+However, the ones that get through should arrive in your spam folder. If you 
+are seeing obvious adult spam emails in your inbox then either the filtering is 
+turned off –which isn’t easy to do in Yahoo Mail 
+<https://c-command.com/spamsieve/help/turning-off-the-yahoo-m> – or the filters 
+are failing.
+
+Unfortunately, spam filtering is a tricky business. If the filters are loose, 
+you will see a few spam emails in your inbox. If the filters are too fierce, 
+then legitimate emails will end up in your spam box.
+
+A few services offer better control. Plus.net, for example, lets you select 
+the aggressiveness of the spam filter 
+<https://www.plus.net/help/email-guides/spam-protection-guide/> on a scale from 
+1 to 5. I haven’t seen this option on free email services such as Google’s 
+Gmail, Microsoft’s Outlook and Yahoo Mail.
+
+In my experience, Yahoo’s filtering is a little loose, while Gmail is so 
+fierce that it produces a lot of false positives. Which you prefer is a matter 
+of taste, but if you want aggressive spam filtering, you could switch to Gmail. 
+The drawback is that you may have to look in your spam folder every day or two 
+or you could miss some important emails.
+
+Switching to an alternative free email service such as Gmail or Outlook has an 
+obvious disadvantage: you will have to tell all your contacts to use a 
+different email address. However, both Gmail and Outlook will collect all your 
+old emails from Yahoo, so switching is not as difficult as it sounds.
+
+The main drawback with Gmail is the miserly amount of free storage space. I am 
+using 98% of Gmail’s 15GB but only 1.6% of Yahoo Mail’s free 1TB (ie 16GB). 
+Outlook free storage just expands as you use it.
+
+Spam filtering
+
+All email filters need some training, and it takes a while to build up a 
+profile. This will be based, to some extent, on the emails you mark as spam. 
+You should therefore keep reporting all the adult emails that reach your inbox.
+
+However, never open these emails to see what’s in them. Spam emails may 
+contain invisible “web beacons <https://en.wikipedia.org/wiki/Web_beacon>” that 
+tell the sender you have opened the email, so this is an active account. The 
+result will be more spam. By contrast, the correct way to handle unwanted but 
+legitimate emails – newsletters, marketing offers etc – is to open the email 
+and click the “unsubscribe” or “change preferences” link. Don’t just put them 
+in the spam folder.
+
+You can also set up your own filters to block emails from particular senders 
+or about specific topics. In Yahoo’s case, select an email in the inbox or spam 
+folder then click on the down arrow next to the word “more”. The drop-down menu 
+should – but does not always – include the option to “Filter emails like this 
+... ” Selecting this option pops up a dialog box with entries such as From, 
+Subject and Body. You could, for example, filter out all emails that include 
+words such as Viagra, Cialis and porn in the body of the email.
+
+Sadly, there’s no point in trying to block specific email senders. Spammers 
+use millions of From addresses, which are ridiculously easy to fake.
+
+Other matters
+
+You may be inadvertently opening spam emails. If your email system has a 
+“preview pane”, every email will be opened automatically when you select it or 
+even scroll through it.
+
+To turn off Yahoo Mail’s preview pane, click the cogwheel in the top right 
+corner, and select Settings. When the page opens, select “viewing email” and 
+look down the middle column for “preview pane”. Set the option to “none”.
+
+Note also that spam blocking doesn’t actually delete spam emails. When the 
+service filters spam emails, and when you report them as spam, they are moved 
+to theSpam <https://www.theguardian.com/technology/spam> or Junk mail folder. 
+If you check that for legitimate emails, you will see them there.
+
+If you go through the often-cumbersome process to auto-delete spam emails when 
+they arrive, they’ll be diverted to the bin or trash folder. You’re unlikely to 
+see them, but again, they’re still there. They will only be deleted when you 
+empty the trash folder, which your email service provider will do on a regular 
+basis.
+
+Otherwise, don’t bother trying to send spam emails back to their source, or 
+retaliate against the sender. As mentioned, the From addresses may well be 
+spoofed, and it would take some effort reading the headers to work out their 
+actual source. And if the spammers have used a real person’s email address, 
+you’ll just be adding to the burden inflicted on some hapless bystander.
+
+Support problems
+
+There’s no point in getting upset about Yahoo’s perceived lack of support. 
+First, the company is trying to stop spam. If it’s failing in one particular 
+area, you can help by reporting the spam emails that get through. However, 
+remember its spam filters have to work for hundreds of millions of people, not 
+just for you.
+
+Second, Yahoo Mail is a free service, and it’s uneconomic to provide human 
+support to millions of people. This is also true for Google, Microsoft and 
+other high-volume online service providers. The cost of an average “support 
+incident” probably starts at around £25 for phone support and maybe £10 for 
+email support. The only viable option is online help pages that you have to 
+figure out for yourself.
+
+If you want personal support, you should sign up for a paid service, such as 
+FastMail <https://www.fastmail.com/>. This starts at $3 per month or $30 per 
+year with only 2GB or storage. The mainstream service provides 25GB of storage 
+for $5 per month or $50 per year, and is cheap at that price.
+
+For other tips, see my earlier answer: How can I stop spam emails? 
+<https://www.theguardian.com/technology/askjack/2016/feb/18/how-can-i-stop-spam-emails>
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

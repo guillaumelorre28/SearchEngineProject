@@ -1,0 +1,171 @@
+
+In this series, I hope that newcomers can equip themselves with the tools of 
+the solver's trade, while aficionados can enjoy some prime examples of the art 
+of setting.
+
+We've looked at hidden answers 
+<https://www.theguardian.com/crosswords/crossword-blog/2011/oct/06/cryptic-crosswords-beginners-hidden-answers>
+,double definitions 
+<https://www.theguardian.com/crosswords/crossword-blog/2011/nov/17/cryptic-crosswords-for-beginners-double-definitions>
+ andsoundalikes 
+<https://www.theguardian.com/crosswords/crossword-blog/2011/dec/08/cryptic-crosswords-for-beginners-soundalikes>
+; now it's time for initial letters.
+
+If you've been following the series, you may be wondering why we haven't yet 
+tackled the staple diet of the setter: the anagram. But the anagram can wait. 
+And nervous newcomers should remember that here we're looking at clues in 
+isolation; in a genuine puzzle environment, you'd have some letters from other 
+clues, considerably lightening the solving load.
+
+How it works
+
+So. We're looking at a device which asks you as solver to take the initial 
+letters of a string of words in the clue. Remember, a cryptic clue typically 
+gives you two chances to get the answer: adefinition found either at the 
+beginning or the end, and somewordplay; sometimes the wordplay is made up 
+entirely of this process of decapitating words and gathering together the heads.
+
+Here's an example, from Rufus 
+<https://www.theguardian.com/crosswords/cryptic/25293>:
+
+12ac Starts to serve time in Russian prison (4)
+
+The start to "serve" - its first letter - is "S". And so the starts to "serve 
+time in Russian" are S, T, I and R for STIR - a synonym for prison and not a 
+word in the clue wasted.
+
+Such clues don't always start with "Starts to..." - and where would be the 
+challenge in that? But you might find "start" slightly hidden somewhere else in 
+the clue, as withOrlando's 
+<https://www.theguardian.com/crosswords/cryptic/25513>...
+
+22d Black and white lamb starts to cry (4)
+
+...where if you take the "starts" of the previous four words, you should be 
+having a BAWL.
+
+You should also keep a lookout for variants of "start", as with Brummie's clue 
+<https://www.theguardian.com/crosswords/cryptic/25453>...
+
+29d Never offer drunk eggnog starters, bud! (4)
+
+...for NODE and for other words with a similar sense, as with Bunthorne's clue 
+<https://www.theguardian.com/crosswords/cryptic/23570>...
+
+23d Does he lead prayer for openers? Is Mohammed a Muslim? (4)
+
+...for IMAM.
+
+It's not always that simple
+
+As we explore the types of cryptic clues, we often find at this point that the 
+device we're getting used to might be used backwards. So it is with initial 
+letters and here'sa clue from the Times 
+<https://www.crosswordclub.co.uk/puzzle/crossword/4028e7312e7d07b1012ff8a563c801ec/print_solution/3>
+ in which the hint that this is happening is wittily concealed:
+
+6ac Face protection racket or swindle in village: heads must roll! (5)
+
+So we're taking the first letters of "racket", "or", "swindle", "in" and 
+"village" and rolling them back to give us VISOR.
+
+And of course, many clues use more than one device to get you to the answer. 
+Here's Philistine <https://www.theguardian.com/crosswords/cryptic/25534>:
+
+19ac I forgot to mention at the start, so try and pay attention! (4)
+
+Before we get to the initial letters, we have "I forgot to mention", which you 
+might indicate by writing "PS" at the end of a message. Then we're asked for 
+the starting letters of "so" and "try", S and T. Whack them together and you 
+get an expression for "pay attention": PSST.
+
+I know what you're thinking now: "Hey, perhaps those clues which use more than 
+one device can work in back-to-front way too! Am I right?"
+
+As Paul proves <https://www.theguardian.com/crosswords/cryptic/25408>, you are 
+right:
+
+26ac Sporting arenas support all temporary staff, initially, in retirement (6)
+
+The definition comes first this time. Then we take a word for "support", AID 
+and the first letters of "all", "temporary" and "staff", ATS. Finally we 
+"retire" or reverse the lot to give us STADIA.
+
+For the next clue, "macaroni" is an old term for a dandy, by the way, 
+especially one who's travelled abroad and eaten poncy foreign food - but we 
+don't need to worry about that to see how the "initial letters" device works 
+differently here.
+
+So here's another twist: on the basis of what we've seen so far, you'd expect 
+"starts to manage estate" to indicate ME. Not inthis Times clue 
+<https://www.crosswordclub.co.uk/puzzle/crossword/4028e7312e7d07b1012f97d5e3cd016f/print_solution/3>
+:
+
+17d Old dandy starts to manage estate for example on island (8)
+
+This one should be read as "starts to manage" giving the two letters at the 
+start of "manage". We then add CAR (of which an estate is an example), ON 
+(obligingly clued by itself) and an abbreviation for island to get MACARONI.
+
+The idea of taking more than one letter in this way is what sometimes passes 
+in the crosswording world for an anarachic innovation. Likewise, crossword 
+setters of the school they tore down to build the old school might insist that 
+each part of a clue be 100% grammatically correct. So while "maiden's head 
+would be a kosher way of cluing an M, "Maidenhead" would not.
+
+In a genuine puzzling environment in 2012, however, you might find it 
+difficult to avoid setters who are a little more playful in how they ask you to 
+find the first letters. In other words, keep a look out for Birkenhead, 
+Leatherhead and others of that ilk, even if they irk.
+
+How to spot them
+
+Well, you should of course be alert to any phrases like "heads", "starts", 
+"tips" and so on.
+
+If a clue seems very long, it's worth looking to see if you're being asked to 
+find initial letters. Sometimes a solver wonders: how on Earth are all these 
+words in the clue going to be used to indicate one little one in the answer? It 
+may be that many of the words in the clue are each contributing only one letter 
+to the solution.
+
+Also, setters and more seasoned solvers might be able to answer: do clues 
+using initial letters tend to come more often towards the end of the down clues 
+- or is it my imagination?
+
+How to enjoy them
+
+Everyone loves an acrostic - from Lewis Carroll 
+<http://books.google.co.uk/books?id=77kcKHmLZXIC&lpg=PP1&pg=PA15#v=onepage&q&f=false>
+ to James May, who wasapparently fired from Autocar for including a rude one 
+<http://www.theage.com.au/news/tv--radio/captain-slow-takes-the-fast-lane/2008/06/18/1213468491019.html>
+. So it goes with crosswords.
+
+Since it's not exactly difficult to think of a train of words beginning with 
+certain letters, the setter will often up his or her game and offer a phrase 
+that gives extra value through wit, charm or appositeness.
+
+For example, here's a clue from Chifonie 
+<https://www.theguardian.com/crosswords/cryptic/25499>...
+
+19d Prophet starts to imagine Saint Augustine is against heathens (6)
+
+...that paints a fittingly pious picture of ISAIAH. And here's one from Viking 
+<http://media.ft.com/cms/485bfc62-0cf6-11df-a2dc-00144feabdc0.pdf> that's so 
+appropriate, it doesn't need a definition, since the whole clue effectively 
+works as one...
+
+12ac Natty, elegant and trim, primarily (4)
+
+...for NEAT. 
+
+Over to you
+
+To the beginners: any other questions? To the addicts: any much-loved examples 
+to share? My own favourite isa Telegraph clue 
+<http://puzzles.telegraph.co.uk/site/search_puzzle_number?id=15160>...
+
+17d First of all, did you not ask me if the event is explosive? (8)
+
+...that is quite simply DYNAMITE.
+ 

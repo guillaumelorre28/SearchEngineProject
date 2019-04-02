@@ -1,0 +1,109 @@
+
+Germany's Chaos Computer Club says it has cracked the protection around 
+Apple's fingerprint sensor on its newiPhone 5S 
+<https://www.theguardian.com/technology/iphone-5s>, just two days after the 
+device went on sale worldwide.
+
+In a post on their site 
+<http://www.ccc.de/en/updates/2013/ccc-breaks-apple-touchid>, the group says 
+that their biometric hacking team took a fingerprint of the user, photographed 
+from a glass surface, and then created a "fake fingerprint" which could be put 
+onto a thin film and used with a real finger to unlock the phone.
+
+The claim, which is backed up with a video 
+<http://www.youtube.com/watch?v=HM8b8d8kSNQ>, will create concerns for 
+businesses which see users intending to use the phone to access corporate 
+accounts. While it requires physical access to the phone, and a clean print of 
+one finger which is one of those used to unlock the phone, it raises the risk 
+of a security breach.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHM8b8d8kSNQ%3Fwmode%3Dopaque%26feature%3Doembed&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHM8b8d8kSNQ%3Fwmode%3Dopaque%26feature%3Doembed>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FHM8b8d8kSNQ%3Fwmode%3Dopaque%26feature%3Doembed&media=>
+
+"This demonstrates – again – that fingerprint biometrics is unsuitable as 
+access control method and should be avoided," said the Chaos Club's blogpost 
+author, "Starbug". "In reality, Apple's sensor has just a higher resolution 
+compared to the sensors so far. So we only needed to ramp up the resolution of 
+our fake. As we have said now for more than years, fingerprints should not be 
+used to secure anything. You leave them everywhere, and it is far too easy to 
+make fake fingers out of lifted prints."
+
+The group does not claim to have extracted the fingerprint representation from 
+the phone itself, whereApple <https://www.theguardian.com/technology/apple> 
+says it is held on a secure chip. Instead it relies on capturing a high-quality 
+fingerprint elsewhere, and having access to the phone.
+
+"Relying on your fingerprints to secure a device may be okay for casual 
+security – but you shouldn't depend upon it if you have sensitive data you wish 
+to protect,"commented 
+<http://grahamcluley.com/2013/09/hackers-bypass-iphones-touch-id-fingerprint-scanner/>
+ security specialist Graham Cluley.
+
+Apple did not respond to a request for comment on the hack.
+
+The revelation is the third security failing discovered since the phone and 
+its iOS 7 software were released last week. First, a hacker found that they 
+could use a flaw in iOS 7's Control Centre feature on theiPhone 
+<https://www.theguardian.com/technology/iphone> 4S and 5 to access photos and 
+send emails. Another found that the Emergency Call screen can be used to place 
+a call to any number.
+
+The Chaos Club details its methods for the fingerprint hack 
+<http://dasalte.ccc.de/biometrie/fingerabdruck_kopieren?language=en>, which 
+begins with a high-quality fingerprint lifted from a glass, doorknob or glossy 
+surface. The print, which essentially consists of fat and sweat, is made 
+visible using graphite powder or a component of superglue, and then 
+photographed at high resolution to create a 2400 pixel-per-inch scan. That is 
+then printed onto an overhead projector plastic slide using a laser print, 
+forming a relief. That is then covered with wood glue, cut and attached to a 
+real finger.
+
+Apple introduced Touch ID, as it calls the fingerprint system, on its top-end 
+iPhone 5S, unveiled earlier in the month. The technology uses a scanner built 
+into the home button of the phone to take a high-resolution image from small 
+sections of the fingerprint from the sub-epidermal layers of the skin. Apple 
+says "Touch ID then intelligently analyses this information with a remarkable 
+degree of detail and precision."
+
+Users can choose to use up to five fingerprints - which can be changed - to 
+unlock the phone and optionally pay for iTunes Store purchases. They have first 
+to create a passcode of at least four digits, and then "enrol" fingerprints 
+separately. Apple says that the process creates a mathematical representation 
+of the fingerprint representation, and that it is only stored on the phone.
+
+Apple's own notes about its Touch ID system 
+<http://support.apple.com/kb/HT5949> on its site say that Touch ID will 
+incrementally add new sections of your fingerprint to your enrolled fingerprint 
+data to improve matching accuracy over time. Touch ID uses all of this to 
+provide an accurate match and a very high level of security."
+
+The company says that "Every fingerprint is unique, so it is rare that even a 
+small section of two separate fingerprints are alike enough to register as a 
+match for Touch ID. The probability of this happening is 1 in 50,000 for one 
+enrolled finger. This is much better than the 1 in 10,000 odds of guessing a 
+typical 4-digit passcode. Although some passcodes, like "1234", may be more 
+easily guessed, there is no such thing as an easily guessable fingerprint 
+pattern."
+
+It notes that after five unsuccessful attempts to match the fingerprint, the 
+user has to enter their passcode, and the fingerprint unlock will not work.
+
+Speaking to BusinessWeek just after the iPhone 5S was unveiled, Craig 
+Federighi, Apple's head of software, emphasised that the fingerprints would not 
+leave the phone. He said that making a finger unlocking and purchasing system 
+"sounds like a simple idea, but how many places could that become a bad idea 
+because you failed to execute on it? We thought, 'Well, one place where that 
+could be a bad idea is somebody who writes a malicious app, somebody who breaks 
+into your phone, starts capturing your fingerprint. What are they doing with 
+that? Can they reuse that in some other location? Can they use it to spoof 
+their way into other people's phones?'"
+
+He said that Apple's focus had been to make sure that "no matter if you took 
+ownership of the whole device and ran whatever code you wanted on the main 
+processor [you]could not get that fingerprint out of there. Literally, the 
+physical lines of communication in and out of the chip would not permit that 
+ever to escape."
+ 

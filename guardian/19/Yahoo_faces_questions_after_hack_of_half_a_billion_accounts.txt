@@ -1,0 +1,96 @@
+
+Yahoo’s admission that the personal data of half a billion users has been 
+stolen by “state-sponsored” hackers 
+<https://www.theguardian.com/technology/2016/sep/22/yahoo-hack-data-state-sponsored>
+ leaves pressing questions unanswered, according to security researchers.
+
+Details, including names, email addresses, phone numbers and security 
+questions were taken from the company’s network in late 2014. Passwords were 
+also taken, but in a “hashed” form, which prevents them from being immediately 
+re-used, and the company believes that financial information held with it 
+remains safe.
+
+Yahoo hack: what to do to protect your account
+ Read more  
+<https://www.theguardian.com/technology/2016/sep/23/yahoo-hack-what-to-do-to-protect-your-account>
+The company confirmed the breach in a statement on Thursday night, but its 
+statement, and a follow-up notification sent out to customers on Friday 
+morning, raised as many questions as it answered.
+
+Chief among them was why disclosure took so long, both from the date of the 
+hack, almost two years ago, and from the first appearance of the dumped data on 
+the dark webalmost two months ago 
+<https://motherboard.vice.com/read/yahoo-supposed-data-breach-200-million-credentials-dark-web>
+ where it was being sold by a user named “Peace of Mind”, who had also sold 
+dumps of data from MySpace and LinkedIn. Jeremiah Grossman, head of security 
+strategy at infosec firm SentinelOne, said: “While we know the information was 
+stolen in late 2014, we don’t have any indication as to when Yahoo first 
+learned about this breach. This is an important detail in the story.”
+
+Grossman, who ran information security for Yahoo’s engineering department 
+until 2001, added that the company’s claims that the attacker was 
+“state-sponsored” also need additional scrutiny. “State-sponsored adversaries 
+don’t typically publicly share stolen data or sell it, like profiteer hacker 
+‘Peace of Mind’. Peace of Mind was all about selling stolen Yahoo account data, 
+so it’s unlikely he was state-sponsored. And if so, this means it’s possible 
+we’re looking at two differentYahoo 
+<https://www.theguardian.com/technology/yahoo> breaches with two different 
+hacking groups in their system.”
+
+Chris Hodson, EMEA chief information security officer at enterprise security 
+firm Zscaler, agrees. “With no technical details included in Yahoo’s report 
+about how the data was exfiltrated, just that it was, it’s impossible to assess 
+credibility of the ‘state sponsored’ claim.
+
+“It might well be that Yahoo has had support from government departments and 
+that attribution has been possible but equally, ‘state-sponsored’ is often 
+prefixed to ‘actor’ in an effort to suggest sophisticated and surreptitious 
+means of data exfiltration. We simply do not know.”
+
+Equally unclear is the extent to which passwords were protected. Yahoo has 
+confirmed the passwords were hashed, a one-way transformation which allows the 
+site to check that an entered password is correct without needing to store the 
+actual password.
+
+The company added that “the vast majority” were hashed with bcrypt, a 
+particularly secure method which incorporates a “salt” ensuring that two 
+identical passwords still have different entries in the database. That’s 
+important for protecting the hundreds of thousands of users who will all have 
+picked “password” as a password, since it ensures that they don’t all stand out 
+– but it’s unclear whether the minority of users whose passwords weren’t hashed 
+in this way have similar protections.
+
+The breach also highlights a strong problem with “security questions”, the 
+common practice of letting users reset passwords by answering questions about 
+their first house or mother’s maiden name. Yahoo did not encrypt all the 
+security questions it stored, and so some are readable in plaintext. While it 
+may be irritating to have to change a stolen password, it is somewhat worse to 
+have to change a stolen mother’s maiden name.
+
+One other question raised by the breach is also unanswered: what happens to 
+the company’s multi-billion dollar merger with Verizon now? Kevin Cunningham, 
+president and founder at identity company SailPoint, argues that the breach 
+should already be priced in – but only if Verizon’s due diligence was thorough 
+enough. “Mergers are complicated endeavors, and the scrutiny under which both 
+companies will reside during the course of the transaction only increases the 
+stress to keep what should be sensitive information protected. Verizon 
+certainly took on a calculated level of risk in acquiring Yahoo!, particularly 
+because of its massive user base.
+
+“The question of whether this breach will affect the sale price depends on how 
+extensively it performed due diligence on Yahoo’s security controls. It’s a 
+perfect illustration of the fact that this due diligence should include not 
+just network security controls, but also identity governance controls, because 
+as we’ve seen with LinkedIn, Dropbox and countless others, breaches very often 
+result from compromised employee credentials.”
+
+For users with Yahoo accounts, though, many of these questions are moot. The 
+advice remains the same either way: they need to change their Yahoo password 
+and security questions as soon as possible, and also change the password 
+anywhere else they may have re-used that information. Ideally, they should stop 
+re-using passwords altogether.
+
+Since Yahoo is a major webmail provider, there’s one extra problem: any 
+further service which has password reset emails sent to a Yahoo Mail account 
+should also be considered compromised, and passwords accordingly changed.
+ 

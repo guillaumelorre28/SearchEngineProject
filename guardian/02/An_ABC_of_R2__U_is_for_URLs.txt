@@ -1,0 +1,38 @@
+
+Today U, for URLs... whose structure we worked hard to get right as part of 
+the project. This was an important part of weaving ourselves into the fabric of 
+the web: to ensure our referencing system had a useful structure to those 
+outside our organisation.
+
+Previously our URLs looked like this:
+
+http://politics.theguardian.com/tonyblair/story/0,,2075005,00.html
+
+
+today the same piece of content is referenced like this:
+
+http://www.theguardian.com/politics/2007/may/10/tonyblair.labour3
+
+
+There are two obvious changes here. First, the obscure numbers have gone -- a 
+legacy of our old Vignette StoryServer 
+<http://seo2.0.onreact.com/top-10-url-design-failures-of-famous-websites> 
+software, and utterly useless to anyone who happens to be a human being. 
+Second, we've included the date in a friendly format, to provide some sense of 
+orientation, and particularly useful if you happen to be looking at several 
+URLs at a time.
+
+There are other changes, too. The "politics" reference has come out of the 
+domain name and into the path, to reflect the fact that all our content is part 
+of the theguardian.com site. A couple of keywords also appear in the URL, 
+partly to convey what the content is about, and partly to distinguish it from 
+any other content that appeared in the same section on the same day. As it 
+happens, quite a lot was written about Tony Blair and Labour on that day, so 
+the "3" adds a further unique identifier.
+
+In some ways URL structure is an obscure topic, but getting it right opens up 
+access to more of our content in more ways to more people. Further examples 
+have been given byMatt McAlister in his discussion of the RSS feeds 
+<https://www.theguardian.com/help/insideguardian/2008/oct/22/full-fat-rss-feed-upgrade>
+.
+ 

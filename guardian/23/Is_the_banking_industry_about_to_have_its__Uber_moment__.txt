@@ -1,0 +1,127 @@
+
+For the past few years banking has been facing what former Barclays chief 
+executive, Antony Jenkins, predicted would be its“Uber moment” 
+<https://www.theguardian.com/business/2015/nov/25/banking-facing-uber-moment-says-former-barclays-boss>
+ as technological advances loosen providers’ grip on customers and their 
+financial records.
+
+If one moment could underline this fast-approaching technological reckoning, 
+it was theannouncement 
+<http://opendata.institute/news/uk-open-banking-working-group-publishes-report> 
+on 8 February that the Open Banking Working Group is developing an industry 
+standard to free customer data.
+
+When the standard is launched, possibly next year, customers will be free to 
+empower any financial services provider to access their accounts so applying 
+for mortgages and loans will not mean photocopying bank statements.
+
+They will also be able to move banks and take their data with them as easily 
+as if they were switching their telephone or gas provider. A single view of all 
+their finances will be pooled from different organisations into one dashboard, 
+where income and expenditure can be examined and impartial money-saving 
+recommendations offered.
+
+In fact, this is already starting to happen and one of the early beneficiaries 
+will be the startups behind personal finance management apps. Often dubbed 
+“screen scrapers” in the banking world, they offer customers a single view of 
+multiple accounts with different providers on one screen.
+
+Why open data doesn't mean open government
+ Read more  
+<https://www.theguardian.com/media-network/2015/dec/02/china-russia-open-data-open-government>
+Steve Tigar, chief executive of Money Dashboard 
+<https://www.moneydashboard.com/>, says this is currently done against the 
+wishes of customers’ banks, but when the high street names are on board with a 
+secure open banking standard, it will revolutionise how people manage their 
+finances.
+
+“The banks have been warning against services like ours for several years 
+because they don’t like us allowing their customers to pool together their 
+finances in one service, through which we can offer advice that doesn’t come 
+from the bank itself,” Tigar says.
+
+“They’re now seeing that they can’t hold this back. They realise there is a 
+service to be offered in providing a view of someone’s finances, showing where 
+their money is going and how they could make better use of it. Moving forward, 
+open banking will free up so much data that we’ll be able to suggest bank 
+accounts where people would get a better deal. It would even allow us to 
+suggest which energy or broadband tariffs they should sign up for and where 
+they should shop for their groceries.”
+
+The other beneficiary of open data will be any bank that is looking to tempt 
+customers away from their normal banking arrangements. That could mean high 
+street banks, building societies and challenger banks luring customers with new 
+current accounts, saving deals and mortgages.
+
+According to Sophie Guibaud, vice-president of European expansion at German 
+bankFidor <https://www.fidorbank.uk/>, which recently launched 
+<https://www.theguardian.com/money/2016/jan/21/german-bank-fidor-current-account-debit-card>
+ in the UK, the opportunity is massive.
+
+
+“It’s going to make it a lot easier to switch banks because you’ll be able to 
+take your data with you,” she says. “It also means a new bank will know a lot 
+more about you. That’ll make it a lot easier to apply for a loan, a credit card 
+or mortgage with another provider rather than relying on endless form-filling 
+and photocopying bank statements.”
+
+As far as the high street banking industry is concerned, there is no reason 
+why the established names cannot be among those leading the charge to open 
+banking. Matt Hammerstein, co-chair of the OpenBanking 
+<https://www.theguardian.com/business/banking> Working Group and head of client 
+and customer experience at Barclays, admits that some banks have resisted 
+change, but insists that all are now focussed on an open banking standard 
+because it will allow them to offer more value-added services.
+
+OpenAI won't benefit humanity without data-sharing
+ Read more  
+<https://www.theguardian.com/media-network/2015/dec/14/openai-benefit-humanity-data-sharing-elon-musk-peter-thiel>
+“It’s fair to say banks have been working at different speeds on this but open 
+data is happening and we’re better off leading and being proactive than just 
+following and being reactive,” Hammerstein says.
+
+“Customers already release their banking information, whether it’s through 
+photocopied statements or Excel files, so we just need to make it easier for 
+them to do it properly and safely. The bonus for us is that we will be able to 
+process applications a lot quicker and efficiently, and we’ll also be able to 
+offer value-added services, such as financial services recommendations that are 
+better suited to a customer’s financial position.”
+
+Banking customers should be excited that the big names in financial services 
+have moved from a position of seemingly dragging their heels to encouraging an 
+open banking standard, according to Gavin Starks, chief executive of theOpen 
+Data Institute <http://theodi.org/> and also co-chair of the Open Banking 
+Working Group. He believes the industry will change at breakneck speed.
+
+“It’s good for banks because they can save costs on administration but it’s 
+also great for consumers because they are going to be far better placed to find 
+products that suit them best because an aggregator they trust will be able to 
+have full access to their entire financial position,” he says.
+
+“Access to the vast array of services on offer is going to be a lot easier and 
+applying for products and switching is going to have most of the friction taken 
+out it – anyone who’s had to apply for a mortgage will know how excruciating 
+the process is. This is bringing banking into the 21st century, so it’s going 
+to be interesting to see who the pioneers and which laggards get left behind.”
+
+Much work still needs to be done on the standard, particularly around the 
+informed consent its proposers vow it will adhere to. This means telling 
+consumers explicitly who will have access to which parts of their data and for 
+what purpose. Those working on the standard are also committed to setting up an 
+independent body that will certify which organisations are trustworthy enough 
+to receive a person’s banking data and handle it securely, respecting their 
+right to privacy.
+
+Nevertheless, both Hammerstein and Starks agree that next year the technology 
+will be in place to allow customers to take their data with them when they 
+switch bank. This will be the first move in paving the way for an open banking 
+transformation of the industry.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media & Tech Network content is editorially independent except 
+for pieces labelled “Paid for by” – find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

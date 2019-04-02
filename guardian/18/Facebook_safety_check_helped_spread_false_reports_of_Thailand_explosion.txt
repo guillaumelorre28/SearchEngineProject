@@ -1,0 +1,119 @@
+
+A Facebook <https://www.theguardian.com/technology/facebook> safety check for 
+Bangkok, which the company claimed was prompted by a one-man protest near the 
+prime minister’s office, helped spread a fake news report of an explosion in 
+the city.
+
+The incident is the latest example of the social media platform’s algorithms 
+failing to distinguish between reliable and faulty news sources.
+
+Fake news: an insidious trend that's fast becoming a global problem
+ Read more  
+<https://www.theguardian.com/media/2016/dec/02/fake-news-facebook-us-election-around-the-world>
+Facebook’s safety check tool, which allows users to mark themselves safe in 
+the event of a disaster or crisis, was activated in Bangkok on26 December 
+<https://www.facebook.com/safetycheck/bangkok-thailand-explosion-dec27-2016/?uid=533916541>
+, citing “media sources” as confirmation of an explosion.
+
+A Facebook spokesperson subsequently shared local media reports of a man 
+protesting on a roof, throwing “ping pong bombs 
+<http://www.khaosodenglish.com/news/crimecourtscalamity/2016/12/27/man-tosses-small-bombs-gov-house-justice/>
+” or “giant firecrackers 
+<http://www.bangkokpost.com/news/security/1169340/man-creates-chaos-demands-justice-at-govt-house>
+” in the direction of Government House, where the prime minister works. No one 
+was injured, according to theBangkok Post 
+<http://www.bangkokpost.com/news/security/1169340/man-creates-chaos-demands-justice-at-govt-house>
+.
+
+Facebook’s activation of the feature sowed confusion, however, because the 
+platform also promoted a link to a false news report of a major “explosion”.
+
+A screenshot of the feature shared by Saksith Saiyasombut, a local journalist, 
+shows that Facebook promoted a 26 December article by BangkokInformer.com in 
+conjunction with the safety check.
+
+That article consisted of a link to 17 August 2015 BBC video 
+<https://www.youtube.com/watch?v=am5a0zI65io> about the bombing of the Erawan 
+Shrine, according to acopy of the article 
+<http://web.archive.org/web/20161227114426/http://bangkokinformer.com/190721/thailand-explosion-rocks-central-bangkok-bbc-news-bangkok-video/>
+ preserved by the Internet Archive.
+Saksith Saiyasombut (@SaksithCNA) 
+The "source" of the @Facebook <https://twitter.com/facebook> Safety Check for 
+Bangkok: A fake news site that scrapped stuff from elsewhere…!
+pic.twitter.com/i6Q2k8XBxP <https://t.co/i6Q2k8XBxP>
+ <https://twitter.com/SaksithCNA/status/813757830788366336> December 27, 2016 
+<https://twitter.com/SaksithCNA/status/813757830788366336> 
+“No, there was not a massive explosion Bangkok on Tuesday night,” wrote the 
+local English-language newspaper Khaosod English in anarticle 
+<http://www.khaosodenglish.com/news/2016/12/27/fake-news-prompts-facebook-bangkok-bomb-scare/>
+ attempting to clarify the situation.
+
+BangkokInformer.com is part of a network <http://bigcityinformer.com/> of 
+local “news” websites that appear to simply repost articles from other sources. 
+The company did not respond to a request for comment from the Guardian.
+
+Facebook defended its activation of the safety check feature. 
+
+“As with all safety check activations, Facebook relies on a trusted third 
+party to first confirm the incident and then on the community to use the tool 
+and share with friends and family,” a spokesperson said in a statement.
+
+
+When the safety check tool was launched in October 2014 
+<http://newsroom.fb.com/news/2014/10/introducing-safety-check/>, it was only 
+used for natural disasters. It was first used for a terrorist attack during the 
+November 2015 Paris attacks. The company facedcriticism 
+<https://www.theguardian.com/technology/2015/nov/18/facebook-activates-safety-check-nigeria-bombing>
+, however, for its decision to activate the feature in some cases and not in 
+others.
+
+In November, the company announced 
+<http://newsroom.fb.com/news/2016/11/facebooks-social-good-forum/> that it 
+would no longer directly control the feature, instead relying on alerts of 
+incidents from a “third-party source”. The company’s explanation of the changes 
+suggest that the feature is now controlled by algorithms detecting whether 
+“people in the area are talking about the incident”.
+
+
+2016: the year Facebook became the bad guy
+ Read more  
+<https://www.theguardian.com/technology/2016/dec/12/facebook-2016-problems-fake-news-censorship>
+The company declined to name its third-party source for incident reports.
+
+Facebook has faced considerable criticism 
+<https://www.theguardian.com/technology/2016/nov/10/facebook-fake-news-election-conspiracy-theories>
+ over its role in the dissemination of false information, especially following 
+the US presidential election, in which news hoaxes and partisan propaganda ran 
+rampant on the site.
+
+
+On 15 December, the company announced 
+<https://www.theguardian.com/technology/2016/dec/15/facebook-flag-fake-news-fact-check>
+ that it would begin working with third-party fact checkers to flag viral fake 
+news stories. Five fact-checking organizations are participating in a pilot 
+program to combat fake news on the platform, but thepilot is limited 
+<https://www.theguardian.com/technology/2016/dec/16/facebook-fake-news-system-problems-fact-checking>
+ by the staff capability of the independent organizations.
+
+The pilot also requires the fact-checkers to address each false story 
+individually – a challenge given that fake news stories can rapidly multiply 
+across numerous websites.
+
+The BangkokInformer.com article, for example, was subsequently copied on to 
+msn.com 
+<http://www.msn.com/en-ph/news/world/thailand-explosion-rocks-central-bangkok-%C3%A2%E2%82%AC%E2%80%9C-bbc-news/ar-BBxBHna>
+, creating another misleading headline featured on the safety check tool.
+
+A Facebook spokeswoman, Anna White, pushed back against the idea that the tool 
+was connected to the company’s fake news problem.
+
+“Safety Check the product is in no way connected with any news articles – real 
+or fake,” White told the Guardian by email. “People seeing that [the 
+BangkokInformer.com article] at the end of the product flow may have gotten old 
+information but that information did not trigger the activation in the first 
+place like some outlets are reporting.”
+
+The false BangkokInformer.com article remains the top search result for 
+Facebook users searching for “Thailand explosion”. It has not been flagged as a 
+fake news story by the independent fact checkers.
+ 

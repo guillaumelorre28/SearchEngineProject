@@ -1,0 +1,128 @@
+
+Barack Obama <https://www.theguardian.com/us-news/barack-obama>, in one of his 
+final acts on national security, has permitted US intelligence and law 
+enforcement agencies far greater access to raw communications data 
+warrantlessly collected on foreign targets, a move that has alarmed privacy 
+advocates.
+
+Under an executive order, the CIA, FBI 
+<https://www.theguardian.com/us-news/fbi> and other security agencies will be 
+able to access unfiltered surveillance aimed at foreigners abroad, before 
+information identifying or revealing Americans they may be in contact with gets 
+censored out.
+
+US government collecting social media information from foreign travelers
+ Read more  
+<https://www.theguardian.com/world/2016/dec/26/us-customs-social-media-foreign-travelers>
+A copy of the 23-page unclassified rulebook was obtained and published on 
+Thursday bythe New York Times 
+<https://www.nytimes.com/2017/01/12/us/politics/nsa-gets-more-latitude-to-share-intercepted-communications.html?smprod=nytcore-iphone&smid=nytcore-iphone-share>
+. The document stated that the changes were being made to enable US 
+intelligence agencies “to conduct their national security missions more 
+effectively”.
+
+
+The rules do not change the scope of the NSA’s foreign-oriented surveillance 
+dragnets, but they now permit greater unfiltered access to the massive 
+communications databases. Nor do they apply to surveillance conducted under the 
+Foreign IntelligenceSurveillance 
+<https://www.theguardian.com/world/surveillance> Act (Fisa), a law 
+circumscribing the conduct and reach of surveillance aimed at people inside the 
+United States.
+
+
+Instead, the rule change applies to surveillance under a highly influential 
+and mostly secret Reagan-era executive order, known as 12333, which sets rules 
+governing exclusively foreign-focused intelligence collection.
+
+
+Privacy advocates and whistleblowers have long pointed to broad latitude 
+presented within 12333 
+<https://www.theguardian.com/world/2014/jul/23/nsa-surveillance-reform-reagan-order>
+ that they contend provides a way of avoiding the ostensibly court-ordered 
+surveillance of Fisa. Some said that the new rule change underscores their 
+fears.
+
+
+“This development is very troubling for Americans’ privacy,” said John Napier 
+Tye, a former state department official turned surveillance whistleblower. 
+“Most people don’t realize this, but even our purely domestic email and text 
+messages are often stored on servers outside the United States. And theNSA 
+<https://www.theguardian.com/us-news/nsa> has written extremely permissive 
+rules for itself to collect data outside US borders.
+
+“So in operations overseas, the NSA is scooping up a lot of purely domestic 
+communications. And now, with these new rules, many different federal agencies 
+can search and read the domestic communications of normal Americans, without 
+any warrant or oversight from Congress or the courts.”
+
+
+The changed rules will be inherited by the administration of Donald Trump 
+following his inauguration next week, which comes in the wake of an 
+extraordinarypublic dispute between the president-elect and the US intelligence 
+agencies 
+<https://www.theguardian.com/us-news/2017/jan/11/us-intelligence-trump-dossier-leak>
+ that concluded he was the beneficiary of interference by Russia in the 
+presidential election.
+
+They mean that NSA officials are no longer required to filter out information 
+about innocent people whose identities have been scooped up before passing the 
+intercepted communications to officials from other agencies, who will now be 
+able to search through raw caches of data.
+
+
+The rules state the head of another agency must make a written request for the 
+intercepted communications that sets out how the agency will use and safeguard 
+the data, how the data would further a particular mission and why it cannot be 
+obtained another way. The NSA may, however, flag up potentially interesting 
+data to other agencies “on its own initiative”.
+
+
+Under the new procedures, a “high-level” NSA official will be tasked with 
+evaluating requests from sister intelligence agencies for access to the raw 
+surveillance.
+
+The listed criteria for approving a request include the reasonableness of the 
+request, a lack of available alternatives to acquire equivalently valuable 
+information, and the ability of the requesting agency to “protect and handle 
+raw [communications data] properly” – a significant concern within the 
+intelligence agencies after recent mass leaks.
+
+
+But the procedural changes do not set ironclad prohibitions for accessing raw 
+data on Americans.
+
+Donald Trump's truce with spy agencies breaks down over Russia dossier
+ Read more  
+<https://www.theguardian.com/us-news/2017/jan/11/us-intelligence-trump-dossier-leak>
+While US intelligence agencies may not search through the raw data using query 
+terms “intended to select domestic communications”, analysts are permitted 
+under certain circumstances to examine foreign communications “to, from or 
+about a US person or a person located inside the United States if they are 
+already subject to a Fisa court-authorized order”.
+
+Additionally, the US attorney general or an intelligence agency chief can 
+permit such searches against agents of a foreign power; a hostage or captive of 
+a foreign power or terrorist; or to “acquire significant foreign intelligence 
+or counterintelligence information”.
+
+Similarly, the rules prohibit the intelligence agencies from using search 
+terms “likely to result” in retrieving Americans’ communications, “unless there 
+is reason to believe that foreign intelligence or counterintelligence will be 
+obtained by the use of such selection term”.
+
+
+Under the rules of the 12333 order, intelligence officials are permitted to 
+analyze all metadata – details such as who emailed whom, and from where – from 
+Americans’ communications that were gathered in the dragnet, but not the 
+contents of the email or other electronic intercepts themselves.
+
+In a statement, Neema Singh Guliani, a legislative counsel for the ACLU, said 
+the protections contained “grossly inadequate” safeguards for personal data.
+
+“This raises serious concerns that agencies that have responsibilities such as 
+prosecuting domestic crimes, regulating our financial policy, and enforcing our 
+immigration laws will now have access to a wealth of personal information that 
+could be misused,” said Singh Guliani. “Congress needs to take action to 
+regulate and provide oversight over these activities.”
+ 

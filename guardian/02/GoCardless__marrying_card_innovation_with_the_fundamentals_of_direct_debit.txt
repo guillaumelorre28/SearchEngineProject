@@ -1,0 +1,71 @@
+
+Ahead of the Activate London Summit 2014 
+<https://www.theguardian.com/media-network/2014/may/02/activate-london-2014-programme>
+, Matt Robinson, co-founder of GoCardless, spoke to us about innovation in the 
+fintech sector and what the future of payments may look like.
+
+Can you tell us a little about your role at GoCardless?
+I'm heavily involved in all areas of the business, however, I have spent the 
+last year building our sales and marketing teams from scratch. Now that we have 
+pretty robust systems and processes in place for each it's become a case of 
+scaling those and other parts of the business so I spend 50%+ of my time hiring.
+
+What were your reasons for founding it?
+Max Levchin said "Being an entrepreneur is not about being in love with an 
+idea, it's about being in love with running a company" and that is completely 
+true for us. Whilst we had experienced some of the problems of payments prior 
+to starting, the idea was not the driving force, it was a desire to build 
+something that helped a large number of people and simultaneously to build an 
+organisation where great people could go to do great work.
+
+How does GoCardless differ to other online payment platforms?
+We use direct debit which means that we are far better for recurring payments. 
+We're marrying all the great innovation seen in the card world over the past 
+few years (great APIs, instant set-up and approvals) with the strong 
+fundamentals of direct debit (incredibly low fees and failure rates and 
+complete control over payment collection).
+
+You've recently raised $7m in Series B funding 
+<https://gocardless.com/blog/series-b-funding/>. How is GoCardless planning to 
+use this?
+Expanding the team. There are a number of incredibly exciting opportunities 
+for us to attack in order to build a massive business, however, we do not have 
+the bandwidth to do so right now. Chief amongst these are developing our 
+offering for large enterprise clients (organisations doing 100,000 – 10m 
+recurring payments per month) and expanding across Europe.
+
+What does the future of payments look like?
+Arguably payments are ultimately going to become a homogenous good, and over 
+time you will see a constant erosion of transaction fees down to zero. As a 
+result companies will look to make money in new ways, chiefly through data. For 
+example, through intelligent cross-selling (imagineAmazon 
+<https://www.theguardian.com/technology/amazon>'s recommendation service across 
+the web) or allowing companies to use that data to make better decisions 
+(exposing more granular financial data to credit providers in order to help 
+consumers get better interest rates).
+
+Finally, what is your message for the delegates attending the Guardian's 
+Activate London Summit?
+To consumers of financial services: don't accept mediocre products, services 
+or experiences. There is so much innovation in this space whether it be 
+business-to-business, business-to-consumer (Nutmeg <http://www.nutmeg.com/>, 
+Stripe <https://stripe.com/gb>) or consumer-to-consumer (TransferWise 
+<https://transferwise.com/>).
+
+To entrepreneurs: the barriers to entry for new startups in the financial 
+space may seem high, but once overcome there is so much opportunity for 
+disruptive innovation. Pick one of the many mediocre products or services 
+provided by incumbents and find a way to do it better.
+
+Matt Robinson will be speaking at this year's Activate London Summit 
+<https://www.theguardian.com/media-network/activate-london> taking place on 17 
+July.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media Network content is editorially independent except for 
+pieces labelled 'Advertisement feature'. Find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

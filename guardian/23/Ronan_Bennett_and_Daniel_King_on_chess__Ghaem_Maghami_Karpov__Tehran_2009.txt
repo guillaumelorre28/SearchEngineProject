@@ -1,0 +1,42 @@
+
+Ghaem Maghami-Karpov, Tehran 2009. White to play.
+
+DK Over the last few weeks we have been looking at the process of elimination 
+as a way of finding the correct continuation. Is it appropriate to use that 
+method here?
+
+In short, no. The process of elimination is mainly used in situations where 
+there is a clear problem that needs solving - one side might be trying to force 
+a pawn through in an endgame, or stave off mate when the king is under attack. 
+Typically, there would be a limited number of moves to consider, and a 
+systematic look at the options is required - just like a computer. In this 
+position White does not have a clear goal and there are so many plausible 
+continuations that you'd lose on time if you attempted to examine them all. 
+Here, we have to think in a more human way, and that means using our experience 
+to narrow down the options.
+
+The two strong central pawns would convince me that White should be pressing 
+forward and looking for a tangible advantage.
+
+I would first consider a straightforward central advance: 1 gxf5 exf5 2 d5, 
+forcing the knight away, 2...Na5, and now 3 Nd4. That knight has a tremendous 
+range - the e6 square in particular looks inviting. On the downside, the d-pawn 
+is blockaded, and there is a bit of pressure on the c4 pawn. I'll come back to 
+this if there is nothing better.
+
+But does White need to commit his central pawns? White has a useful move on 
+the kingside: 1 g5. I would like to chip away at the king's pawn cover: 
+experience tells me that a central breakthrough will be more difficult to deal 
+with when the king is exposed.
+
+But everyone thinks in a different way. In the game, White played 1 c5 bxc5 2 
+dxc5 Qf4 3 gxf5 exf5 4 Rbd1. This is another good practical continuation: White 
+has created a passed pawn and the rooks control the central files.
+
+Very little actual calculation is involved in the decision on this turn. This 
+is all about weighing up positional factors. There is not one continuation that 
+is clearly best but, whichever move one chooses, sketching out a plan is 
+necessary.
+
+chess@guardian.co.uk <mailto:chess@guardian.co.uk>
+ 

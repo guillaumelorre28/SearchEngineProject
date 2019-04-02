@@ -1,0 +1,104 @@
+
+In a world where technology use among children and young people (and the rest 
+of us) is high and continuing to rise, children’s services’ use of tech to 
+engage with young people has barely begun to catch up.
+
+Services are constrained by grit in their wheels: poor hardware, risk averse 
+security considerations and cultures of social work practice that find it hard 
+to embrace new digital products. Social workers are under pressure to deliver 
+vital services that keep children safe, and under the strain it’s not 
+surprising if they resort to familiar and trusted ways of working.
+
+For the last three years I’ve been implementing Mind Of My Own (Momo 
+<http://www.mindofmyown.org.uk/>) – an app that helps young people communicate 
+with their social care team – into children’s services. In this time, I’ve seen 
+plenty of success and failure across many tech products. Here’s what I’ve seen 
+grease the wheels of change.
+
+Your software has got to be simple for everyone to use
+
+By that I mean bulletproof simple and accessible. Social workers have so many 
+things to think about they don’t want to have to think about how to use new 
+things. Commercial software needs to be accessible – otherwise people won’t use 
+it. In the social care world, exactly the same standards should apply. If your 
+product isn’t accessible it’s a non-starter.
+
+WhatsApp is a good example of a smooth and accessible product. It works on 
+multiple mobile devices, interfaces easily with other messaging products and 
+includesend-to-end encryption <https://www.whatsapp.com/faq/en/general/28030015>
+, meaning it’s far more secure and private than texting, a Skype call or using 
+Facebook Messenger.
+
+How interviewing successful care leavers taught young people to dream big
+ Read more  
+<https://www.theguardian.com/social-care-network/2016/oct/03/interviewing-successful-care-leavers-taught-young-people-to-dream-big>
+Build confidence and competence
+
+Social workers are trained and experienced in working with young people. 
+However, the social work curriculum doesn’t yet include the creative use of 
+technology. This doesn’t make sense when you consider that frontline 
+professionals spend 70% of their working week on a computer.
+
+Don’t expect social workers to be naturally confident using tech at work 
+because most won’t be. Some will even feel intimidated by young people’s 
+proficiency.
+
+At Momo we’ve found the best way to increase social worker confidence and help 
+them feel competent is to get them hands-on with the app. This changes Momo 
+from something hypothetical, that they have only heard about, into something 
+they have got to know well through use. We’ve greased this wheel further by 
+building ademo version <https://app-demo.mindofmyown.org.uk/#/> that performs 
+like the real app.
+
+Give social workers decent hardware
+
+If you were a social worker three years ago you were lucky to get a laptop, 
+let alone one that could connect to a wireless network outside the office. No 
+wonder using tech with young people never seemed a possibility.
+
+But worker access to hardware is changing. We’ve talked to social workers in 
+Havering and East Sussex who are using hybrid Windows devices to make use of 
+Microsoft OneNote with children. Independent reviewing officers in Surrey and 
+Hertfordshire all have iPads and workers in Buckinghamshire and Bedford have 
+iPhones big enough to co-use with a child or young person. Worker confidence is 
+increasing because of this. Having a good piece of well-oiled web-connected kit 
+empowers them to use it in creative and modern ways.
+
+Understand change fatigue
+
+It’s no good expecting a great new product to gain traction simply because 
+your staff have access, have been trained, and have a new device to use it on. 
+It can still butt up against the rough wall ofchange fatigue 
+<http://www.communitycare.co.uk/2016/07/12/forcing-constant-change-social-workers-risks-illusion-progress/>
+, because as a general rule tired staff aren’t open to trying new things.
+
+As an independent reviewing officer, children’s services, says: 
+
+When you are in this job there are constant new agendas and new directions. 
+You’re constantly being involved in change. You do get to the point where you 
+go: Oh god, can we just not do it the usual way, do I have to wheel around or 
+fill in another bit of paper?”
+
+If you want your product to be given a chance it needs to offer something 
+meaningful to workers too. I’ve seen this achieved through storytelling, 
+sharing positive stories that celebrate the work they do and the successes they 
+achieve. Recognition of good practice and effort invested in using new digital 
+tools pierces the fatigue wall because it makes people feel good.
+
+In summary
+
+Make it simple but expect change fatigue to make even the simplest products 
+hard to implement. Give social workers the hardware to use apps, then get them 
+hands on so they feel confident about doing so. Finally, back all of this up 
+with continued support to keep those change wheels running smoothly.
+
+Joe Roberson is director and founder at Mind Of My Own 
+<http://www.mindofmyown.org.uk/>, a multi-award winning app for children and 
+young people in the social care system.
+
+Join the Social Care Network <https://register.theguardian.com/social-care/> 
+to read more pieces like this. Follow us on Twitter (@GdnSocialCare 
+<https://twitter.com/GdnSocialCare>) and like us on Facebook 
+<https://www.facebook.com/guardiansocialcarenetwork> to keep up with the latest 
+social care news and views.
+ 

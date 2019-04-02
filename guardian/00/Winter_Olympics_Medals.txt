@@ -1,0 +1,15 @@
+
+"I got very excited when I came across the Guardian data set of Winter Olympic 
+Medals published as an Excel document for me to play with...
+
+Seeing the data released, I thought to myself: "Wouldn't it be cool to have an 
+interface where I can explore the history of medals won when I need it"? And 
+thus, I took the data provided by the Guardian, and built 
+http://winterolympicsmedals.com in a few hours. This interface allows you to 
+analyze the medals data by games, country, sport, discipline and medal type - 
+and it was dead easy to build."
+
+Via a guest post by Christian Heilmann on the Open Platform Blog 
+<https://www.theguardian.com/open-platform/blog/winterolympicsmedals-turning-open-data-into-website>
+.
+ 

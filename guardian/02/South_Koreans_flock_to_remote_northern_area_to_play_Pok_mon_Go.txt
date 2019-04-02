@@ -1,0 +1,69 @@
+
+South Korean Pokémon Go <https://www.theguardian.com/technology/pokemon-go> 
+players have been forced to leave their home towns and flock to a remote city 
+close to the North Korean border in order to play because of the country’s 
+mapping restrictions.
+
+
+As a location-based game augmented reality game, Pokémon Go 
+<https://www.theguardian.com/technology/2016/jul/12/pokemon-go-review-it-may-not-be-a-good-game-but-its-a-great-experience>
+ relies on data from Google Maps to function, but South Korean security 
+restrictions on mapping data have blocked Google from providing map features 
+across a significant proportion of the country, including realtime information, 
+3D maps, personal transport directions and indoor maps.
+
+“Due to government restrictions on maps data, it’s impossible for Pokémon Go 
+to work properly using Google Maps service inSouth Korea 
+<https://www.theguardian.com/world/south-korea>,” a person familiar with the 
+matter told Reuters.
+
+Local map providers use government-issued maps that have sensitive areas 
+excluded, but a law that prevents export of government-supplied mapping data 
+stops Google from using it, despite having been seeking a license for the data 
+since 2008. Googlerecently publicly challenged the law 
+<http://www.wsj.com/articles/google-challenges-south-korea-over-mapping-restrictions-1463478584>
+.
+
+However, a city close to the border with North Korea, called Sokcho, has not 
+been classified as a South Korean territory 
+<https://en.wikipedia.org/wiki/Sokcho> and therefore has the mapping data 
+required to make Pokémon Go function.
+
+One user posted on an internet message board: “I didn’t go to some big tourist 
+attraction; all I did was walk around for tens of kilometres to play a game. 
+But I’m more satisfied with this than any other trip. I would still be in 
+Sokcho had it not been for an urgent issue.”
+
+Bus tickets from the capital, Seoul, to the city have sold out, according to 
+reports <http://www.koreaherald.com/view.php?ud=20160713000873>. 
+
+Sokcho, which sits on the eastern coast adjacent to the Seoraksan National 
+Park, has been quick to capitalise on its unusual status, sharing maps of free 
+Wi-Fi areas and advertising itself on social media as “the onlyPokémon 
+<https://www.theguardian.com/technology/pokemon> Go holy land on the peninsula”.
+
+South Korea is the world’s fourth-biggest gaming market after China, the US 
+and Japan, according to research firm Newzoo, potentially representing a big 
+opportunity loss for Niantic and the Pokémon Company.
+
+
+The smash-hit game has yet to be officially launched 
+<https://www.theguardian.com/technology/2016/jul/11/uk-rollout-of-pokemon-go-halted-heres-how-to-get-it-on-iphone-and-android-now>
+ outside of Australia, New Zealand and the US, with Nianticstruggling to meet 
+the server demands 
+<https://www.theguardian.com/technology/2016/jul/12/pokemon-go-australian-users-report-server-problems-due-to-high-demand>
+ of existing players, but plays across the world have resorted to circumventing 
+the region lock by sideloading the app on Android or downloading it with a US 
+iTunes account on an iPhone.
+
+It has been downloaded between 10m and 50m times from the Google Play Store 
+alone, while the app has been downloaded from a third-party Android app hosting 
+service over 5m times.
+
+ * UK rollout of Pokémon Go delayed – here’s how to get it on iPhone and 
+Android now 
+<https://www.theguardian.com/technology/2016/jul/11/uk-rollout-of-pokemon-go-halted-heres-how-to-get-it-on-iphone-and-android-now>
+
+ * 14 essential tips to get you started in Pokémon Go 
+<https://www.theguardian.com/technology/2016/jul/12/pokemon-go-14-tips-to-get-you-started-on-your-creature-collecting-adventure>
+ 

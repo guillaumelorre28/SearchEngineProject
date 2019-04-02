@@ -1,0 +1,76 @@
+
+Lord Drayson, the millionaire businessman, Labour party donor and former 
+science minister, has released a pollution monitor that he hopes will drive 
+efforts to improve air quality around the world.
+
+The gadget is designed to be carried in a pocket and is powered by a new 
+technology which constantly harvests energy from the ambient radio waves that 
+mobile phone and wireless networks emit. As such, its battery never needs 
+replacing.
+
+
+Lord Drayson takes on UK air pollution crisis with new smart sensor
+ Read more  
+<https://www.theguardian.com/environment/2015/aug/10/lord-drayson-takes-on-uk-air-pollution-crisis-with-new-smart-sensor>
+It works with a mobile phone app called CleanSpace <https://our.clean.space/> 
+to record local air pollution levels, and pools the data with that from others 
+to create a high-resolution, dynamic map of pollution hotspots and areas where 
+the air is cleaner.
+
+
+“We can use this to create a much more detailed map of air pollution across 
+the country and around the world,” Lord Drayson said at the Royal Institution 
+in London on Wednesday. “We want to use this to create a social movement for 
+cleaner air.”
+
+Drayson believes that giving people live readings of local air pollution will 
+alert them to the worst air quality they encounter, and put pressure on 
+councils and governments to clean up the air in their regions.
+
+
+The £50 CleanSpace tag, as the device is known, records levels of carbon 
+monoxide, one of the many gases released by vehicles that run on petrol or 
+diesel. It has an internal lithium ion battery that is constantly recharged by 
+energy gathered from radiowaves in the air.
+
+Drayson, who lives in London, suffers from asthma, as do four of his children. 
+The condition is exacerbated by air pollution which irritates the air ways. He 
+said air pollution had become one of the most serious threats to public health, 
+an issue made more acute by the recent revelations that VW subverted emissions 
+tests on some of its diesel cars. Air pollution exacerbates respiratory and 
+heart disease, and is responsible for about 2 million deaths a year, according 
+to the WorldHealth <https://www.theguardian.com/society/health> Organisation.
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2015%2Fsep%2F30%2Flord-drayson-launches-pollution-sensor-powered-by-radio-waves%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F9%2F30%2F1443627542155%2F314cb0bc-a646-47f1-805a-fb642846c240-1041x2040.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Lord%20Drayson%20launches%20pollution%20sensor%20powered%20by%20radio%20waves&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2015%2Fsep%2F30%2Flord-drayson-launches-pollution-sensor-powered-by-radio-waves%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Lord%20Drayson%20launches%20pollution%20sensor%20powered%20by%20radio%20waves&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2015%2Fsep%2F30%2Flord-drayson-launches-pollution-sensor-powered-by-radio-waves%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F9%2F30%2F1443627542155%2F314cb0bc-a646-47f1-805a-fb642846c240-1041x2040.png>
+ CleanSpace app Photograph: PR 
+Software built into the CleanSpace app works out when people are walking, 
+running or cycling, rather than taking the car, and notches up “CleanMiles”, 
+that users can cash in for rewards, such as bicycle accessories or money off 
+gym membership.
+
+
+The energy harvesting system at the heart of Drayson’s pollution monitor 
+cracks a problem that scientists have been puzzling over for years. The 
+difficulty has been extracting useful amounts of power from weak radio waves 
+that are nearly always in the air because of mobile phone and other wireless 
+networks.
+
+
+Drayson Technologies, the firm Lord Drayson runs, worked with Imperial College 
+in London, to create its device, calledFreevolt <http://www.getfreevolt.com/>. 
+It uses an antenna to capture radio waves, and an efficient rectifier to 
+convert the alternating currents from the waves into direct electrical 
+currents. A power management system picks out the highest-power waves in the 
+air and locks on to them.
+
+Even so, the FreeVolt device can harvest only a tiny amount of power from the 
+airwaves. At best, it can run a 2 mW electrical device, such as a simple 
+sensor. Drayson sees the technology powering smoke alarms, simple cameras, and 
+even smart bins that know when they need to be emptied.
+
+ 

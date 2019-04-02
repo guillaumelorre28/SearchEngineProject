@@ -1,0 +1,103 @@
+
+Think of a cake. When you put it in the oven, it starts off at a particular 
+volume and then, an hour later, it has risen to perhaps double its size. It is 
+obvious what has happened – the air bubbles that you have carefully folded into 
+the mixture during the preparation and the little bubbles of carbon dioxide 
+created by the baking powder have expanded as they are heated in the oven, 
+taking the rest of the cake with it. All this time, the pressure of the air 
+inside those bubbles has stayed the same (you know that because cakes don't 
+usually explode when you slice them after cooking).
+
+It is an intuitive idea that bubbles of air will expand if you heat them, as 
+long as the pressure remains constant. It is also a fundamental component of 
+the ideal gas laws, first written down in the early 19th century by theFrench 
+natural philosopher Joseph Louis Gay-Lussac 
+<http://www.chemheritage.org/discover/online-resources/chemistry-in-history/themes/early-chemistry-and-gases/gay-lussac.aspx>
+. He was working on the relationship between the volume and temperature of a 
+gas, building on work carried out several decades earlier by theinventor and 
+mathematician Jacques Charles <http://en.wikipedia.org/wiki/Jacques_Charles> 
+who had shown that volume and temperature were proportional – heat a gas and 
+its volume will increase and vice versa, as long as the pressure remains 
+constant.
+
+The first piece of the ideal gas puzzle came in the 17th century. Robert Boyle 
+<https://www.theguardian.com/science/2010/jun/03/robert-boyle-royal-society-wishlist>
+ had been carrying out experiments with air, which he proposed was full of 
+particles connected by tiny invisible springs. He found that the pressure of a 
+gas had an inverse relationship to its volume. If the volume doubled, its 
+pressure halved and vice versa, when the temperature is held constant.
+
+As well as the volume/temperature relationship, Gay-Lussac extended the work 
+and experiments, from a century earlier, of theinventor Guillaume Amontons 
+<http://en.wikipedia.org/wiki/Guillaume_Amontons> to show that, in a fixed 
+volume of gas, pressure was directly proportional to absolute temperature.
+
+With the three relationships between pressure, volume and temperature measured 
+and written down,French engineer Benoît Paul Émile Clapeyron 
+<http://en.wikipedia.org/wiki/Beno%C3%AEt_Paul_%C3%89mile_Clapeyron>, one of 
+the founding fathers of thermodynamics, combined the work of Boyle, Charles and 
+Gay‑Lussac into the combined ideal gas equation above, in 1834.
+
+In short, the ideal gas law shows the relationship between the four properties 
+of a gas that you need to know in order to predict how it will behave: 
+pressure, temperature, volume and the number of particles of gas (ie atoms or 
+molecules) present. It is "ideal" because the law is a model that assumes the 
+particles are infinitely small points and do not interact with each other. All 
+collisions between ideal gas particles are elastic, which means they do not 
+lose any energy when they rebound off each other.
+
+In practice, real gas particles do have measurable sizes and sometimes attract 
+or repel each other. Nevertheless, the ideal gas equation is a highly 
+successful way to understand how gases shift and change depending on their 
+surroundings.
+
+The law states that the product of the pressure (P) and volume (V) of a gas is 
+directly proportional to its absolute temperature (T, measured in kelvin). On 
+the right-hand side of the equation is the number of moles of gas present (n) 
+in the system, where a mole is equal to 6.02214129×1023 particles, a number 
+known as the Avogadro constant. Also on the right is the universal gas constant 
+(R), equal to 8.3145 joules per mole kelvin.
+
+The ideal gas equations can be used to work out how much air inside a cake 
+will expand (though it's unlikely to be used for that) but it also applies to 
+plenty of other situations. Ever noticed a bicycle pump get hot when you fill a 
+tyre with air? That's because you're quickly putting energy into the air inside 
+the pump by pushing the piston and reducing the volume at the same time, which 
+causes the molecules to bounce around faster in a smaller volume and the gas 
+heats up.
+
+Refrigeration works in the opposite way to the bicycle pump. If you release a 
+gas very quickly from high pressure (inside a storage tank, say) to a region of 
+lower pressure (outside air at atmospheric pressure), then the gas will expand. 
+The energy required to do this will come from the molecules of gas themselves 
+and so the overall temperature of the gas will drop. You can see this in action 
+when pressurised carbon dioxide inside a fire extinguisher turns instantly into 
+a frost when it is released through the nozzle and on to a fire. More 
+prosaically, the same mechanism keeps your food cold in a refrigerator.
+
+The relationships between these so-called "state properties" of a gas make 
+sense intuitively. But the ideal gas law can also be derived mathematically, 
+from first principles, by imagining particles bouncing around a box. About two 
+decades after Clapeyron wrote it down, August Krönig and Rudolf Clausius 
+independently looked at the statistical distribution of speeds (and hence 
+energy) among the particles to work out how pressure, volume and temperature 
+related to each other in a gas – an approach known as statistical mechanics. In 
+essence, this meant looking at the properties of huge numbers of tiny 
+components or particles inside a system in order to calculate the macroscopic 
+results. In other words, a box containing a gas will have trillions of 
+particles flying around inside it in random directions, bouncing off each other 
+and off the walls.
+
+In this model, the kinetic energy of the particles is proportional to the 
+temperature of the gas. Particles hitting the sides of the box translate in to 
+the pressure of the gas.
+
+In this "kinetic" version of the ideal gas law, the right-hand side is written 
+slightly differently. Instead of "nR" are terms for the number of molecules in 
+the gas and the Boltzmann constant (k) equal to 1.38065×10-23 joules per kelvin.
+
+The two versions of the equation describe identical things. Whether it is 
+cakes, bicycle pumps, refrigerators or even when modelling the behaviour of 
+stars (which are, in essence, just clouds of hydrogen gas), you can use these 
+simple relations work out how what the gases are doing.
+ 

@@ -1,0 +1,66 @@
+
+Are wanted posters no longer wanted? They may have been serving America’s 
+fight against outlaws since the days of the wild west, but this week they were 
+finally overtaken by technology. As police hunted a man suspected of being 
+involved in the bombings in New York at the weekend, which injured 29 people, 
+millions of people’s phones in the city began bleeping.
+
+Since 2012, the US has been using what is known as the Wireless Emergency 
+Alerts (WEA) system 
+<https://www.fema.gov/frequently-asked-questions-wireless-emergency-alerts> 
+sending texts to phones in specific areas. Sometimes it is weather alerts – 
+warning of hurricanes or winter storms – but they have also been used to tell 
+people to “shelter in place” during a terrorist attack, such as during the 
+Boston bombing in 2013, or to raise the alarm about child kidnappings.
+
+Monday’s alert, which read “WANTED: Ahmad Khan Rahami, 28-year-old male. See 
+media for pic. Call 9-1-1 if seen,” is thought to be the first time it had been
+used to find a suspected criminal 
+<http://www.nytimes.com/2016/09/20/nyregion/cellphone-alerts-used-in-search-of-manhattan-bombing-suspect.html>
+. But according to the city’s mayor, it won’t be the last: “This is a tool we 
+will use again in the future,”Bill de Blasio 
+<https://www.theguardian.com/us-news/bill-de-blasio> was reported to have said. 
+“No more wanted posters on the precinct house wall. This is a modern approach 
+that really engaged a whole community.”
+
+Alerts are sent from the Federal Emergency Management Agency to mobile phone 
+networks, to “push” the message through the mobile masts in the alert zone, so 
+only (WEA enabled) phones in the area covered by the mast receive it. Because 
+they use a different “channel” on the mobile masts they don’t get stuck if the 
+networks are busy. The alerts appear like text messages, and as long as your 
+phone is compatible (some older phones may not be), you will get a unique 
+bleeping and vibration to help those with vision or hearing impairments. Users 
+can opt out of all the messages sent to them - with the exception of a message 
+from the US president, although such a message has not yet been sent.
+
+But experts in early warning systems of this nature warn there are dangers to 
+using the technology in this way.
+
+Zehra Zaidi, a researcher at UCL’s Institute of Risk and Disaster Reduction, 
+says “Public confidence [in the warning] is very important; it determines the 
+response. If you send out too many messages there is a danger of public fatigue 
+– if the alert is too early, or too late, or not the right message.” The 
+systems are used to “pre-empt, prevent or protect” people from harm, and can be 
+useful in emergencies but only if the government has enough information, 
+explains Zaidi. During the Nice attack, for instance, “people heard noises and 
+gunfire and ran in the wrong direction …” and therefore WEA could have been 
+useful – but only if the agencies involved knew exactly where the attacker was.
+
+In the UK, although there are initiatives to create smaller-scale systems 
+around issues such as flooding, an early warning system is not seen as a 
+priority – in part because we have fewer natural disasters, but also because 
+the focus is on controlling the event itself, rather than the public reaction 
+to it.
+
+Giving people information they don’t know how to respond to can be 
+problematic, too. A recentstudy 
+<http://onlinelibrary.wiley.com/doi/10.1111/1468-5973.12108/abstract> suggested 
+that in the case of an unfamiliar event, such as a dirty bomb, the messages 
+could create panic and confusion. “As someone who works in the field, this is 
+not what the system is made for,” says Zaidi. “It’s not an emergency alert, 
+it’s a call for information. People don’t know how to respond and feel panicked 
+when they don’t need to.”
+
+And the stakes, she says, could be high: “The next time there is a real 
+emergency, people might not take it as seriously.”
+ 

@@ -1,0 +1,58 @@
+
+Desktop Google <https://www.theguardian.com/technology/google> searches could 
+end up slightly out of date compared to those done via smartphones, as the 
+company begins to push mobile search.
+
+Google is fully splitting its search index into two distinct versions: a 
+rapidly updated mobile one, and a separate, secondary search index for the 
+desktop web.
+
+The change will hit within “months”, according to a Google webmaster trends 
+analyst, Gary Illyes, speaking at digital marketing conference Pubcon in Las 
+Vegas, and will leave the desktop version of the index less up to date than the 
+mobile one.
+
+It’s the culmination of a long-running push by Google 
+<https://www.theguardian.com/technology/2015/apr/20/google-mobilegeddon-will-shake-up-mobile-search-results>
+ to encourage webmasters to prioritise mobile-friendly versions of their sites. 
+The search engine already promotes sites that work well on mobile devices over 
+ones that don’t, a change introduced in April 2015. Criteria for that promotion 
+include features such as text size and how easily tappable links are on 
+smartphone touchscreens.
+
+Maintaining a fully separate index would allow Google to expand the push by 
+judging sites with alternate mobile and desktop sites very differently, putting 
+an end to the sort of situation where clicking through from a search result 
+leads to a mobile site that has none of the promised information.
+
+Barry Schwartz of Search Engine Land said 
+<http://searchengineland.com/google-divide-index-giving-mobile-users-better-fresher-content-261037>
+: “The most substantial change will likely be that by having a mobile index, 
+Google can run its ranking algorithm in a different fashion across ‘pure’ 
+mobile content rather than the current system that extracts data from desktop 
+content to determine mobile rankings.”
+
+It’s not the first time Illyes has mentioned the split, having discussed it at 
+the SMX conference in September last year, but webmasters are taking note of 
+the proposed date for the transition.
+
+Joost de Valk, who runs search optimisation firm Yoast.com 
+<https://www.yoast.com/>, said that the change is “the logical next step” for 
+the search engine.
+
+“It makes sense to me that they’d have two separate indexes and treat them as 
+equals, but now they’ve got a primary one. That makes sense too, because it’s 
+probably the fastest way for them to grow their index,” de Valk said.
+
+“I think in part it is about pushing people to change their sites to be 
+responsive rather than having a separate desktop and mobile site. By saying 
+that their mobile index is more important, it will push people to focus on 
+their mobile sites.”
+
+In a statement, Google said “[we] are always experimenting with different 
+approaches to keep search index as relevant and useful as possible, but we 
+don’t have any new developments to announce”.
+
+ * Google’s ‘mobilegeddon’ will shake up search results 
+<https://www.theguardian.com/technology/2015/apr/20/google-mobilegeddon-will-shake-up-mobile-search-results>
+ 

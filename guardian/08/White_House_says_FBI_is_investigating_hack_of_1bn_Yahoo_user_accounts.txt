@@ -1,0 +1,97 @@
+
+The FBI is investigating the attack on Yahoo that compromised at least 1bn 
+user accounts 
+<https://www.theguardian.com/technology/2016/dec/14/yahoo-hack-security-of-one-billion-accounts-breached>
+, the White House said on Thursday.
+
+Speaking to reporters at the daily White House press briefing on Thursday, 
+spokesman Josh Earnest said he could not comment on the scope of material that 
+may have been compromised in the hack, the largest data breach in history, which
+Yahoo <https://www.theguardian.com/technology/yahoo> believes was 
+state-sponsored. “What I can say is that the FBI is investigating this matter,” 
+Earnest said.
+
+Security experts: 'No one should have faith in Yahoo at this point'
+ Read more  
+<https://www.theguardian.com/technology/2016/dec/15/security-experts-yahoo-hack>
+“There was a previously reported breach that the FBI 
+<https://www.theguardian.com/us-news/fbi> had previously indicated that they 
+were investigating and they’re investigating this situation as well, so I’ll 
+let them speak to what they have found over the course of that investigation 
+thus far.”
+
+
+Before the FBI made an announcement about who was responsible for the breach, 
+Earnest added, it would want to be certain that going public would not 
+undermine the investigation.
+
+
+The attack on Yahoo’s systems took place in 2013 but was only revealed on 
+Wednesday; Yahoo discovered it after investigating another breach of 500m 
+accounts in 2014,which the company revealed in September 
+<https://www.theguardian.com/technology/2016/sep/22/yahoo-hack-data-state-sponsored>
+. On Wednesday evening,Bloomberg reported 
+<https://www.bloomberg.com/news/articles/2016-12-15/stolen-yahoo-data-includes-government-employee-information>
+ that the victims of the billion-user hack include FBI, CIA, NSA and White 
+House workers.
+
+Virginia senator Mark Warner joined technical analysts in expressing 
+disappointment in the company. “This most-recent revelation warrants a separate 
+follow-up and I plan to press the company on why its cyber defenses have been 
+so weak as to have compromised over a billion users,” Warner wrote in a 
+statement.
+
+Some experts have questioned Yahoo’s claim that the attack was 
+“state-sponsored”; Michael Mimoso of security firm Kaspersky Labsuggested 
+<https://threatpost.com/yahoo-challenged-on-claims-breach-was-state-sponsored-attack/120975/>
+ “a criminal operation was behind the attack and sold the data to an eastern 
+European government”, resulting in the confusion.
+
+Security researcher Brian Krebs said Yahoo’s security was especially bad 
+“because of pseudo-security features (like secret questions) that tend to end 
+up weakening the security of accounts”, andrecommended users stay away 
+<https://krebsonsecurity.com/2016/12/yahoo-one-billion-more-accounts-hacked/> 
+from the company.
+
+Six US senators demanded Yahoo explain 
+<https://www.theguardian.com/technology/2016/sep/27/yahoo-leak-500-million-accounts-senate>
+ exactly when it had detected the theft of user data in a letter to the company 
+after the September revelations; the company did not comply in its response. In 
+its November quarterly results report, though, Yahoo hinted that there was 
+worse to come: “On November 7, 2016, law enforcement authorities began sharing 
+certain data that they indicated was provided by a hacker who claimed the 
+information was Yahoo user account data,” company spokespeople told investors.
+
+Yahoo now believes the hackers stole proprietary code from the company and 
+used it to build falsified “session cookies” – bits of code that tell Yahoo’s 
+servers that a computer has already logged in, so that users don’t have to keep 
+entering passwords every time they open a new window. With the “forged 
+cookies”, as Yahoo chief information security officer put it on the company 
+blog, the hackers could peer into emails without a password.
+
+
+US telecoms giant Verizon has signed a deal to acquire Yahoo for $4.85bn. 
+Citing “people familiar with the matter”,Bloomberg reported 
+<https://www.bloomberg.com/news/articles/2016-12-15/verizon-said-to-explore-lower-price-or-even-exit-from-yahoo-deal>
+ in the wake of the historic data breach that Verizon now wants either a steep 
+discount or to abandon the deal altogether. Shares of Yahoo fell 6.5% on the 
+news.
+
+Yahoo’s woes continued as Germany’s cybersecurity authority, the Federal 
+Office for Information Security (BSI), advised German consumers to consider 
+switching to safer alternatives for email, and criticized Yahoo for failing to 
+adopt modern encryption techniques to protect users’ personal data.
+
+“Considering the repeated cases of data theft, users should look more closely 
+at which services they want to use in the future and security should play a 
+part in that decision,” the BSI’s president, Arne Schoenbohm, said in a 
+statement.
+
+
+The company’s legal situation may worsen: In response to Yahoo’s revelations 
+in September, 23 consumer class action lawsuits have been filed against the 
+firm in US federal and state courts. The lawsuit tally is from a filing with 
+the US securities and exchange commission in November, over a month before 
+Yahoo’s 500m-user breach became only the second-biggest-ever hack.
+
+ 

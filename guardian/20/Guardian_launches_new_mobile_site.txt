@@ -1,0 +1,89 @@
+
+Use of mobiles and tablets is increasing fast with almost 30% of visits to 
+theguardian.com now coming through handheld devices. We want our mobile and 
+tablet readers to have the best possible experience when using the Guardian 
+website on smaller screens. Therefore, after several months of development, we 
+are delighted to announce the launch of our new responsivemobile website 
+<http://m.theguardian.com>. 
+
+We have rebuilt our mobile site from the ground up, focusing on improving user 
+experience, reliability and download speed. Our aim is to provide the best user 
+experience for reading our content, whatever your device. The new mobile 
+website is a major first step towards thatresponsive 
+<https://www.theguardian.com/help/developer-blog/2012/oct/18/responsive-design-guardian-introduction>
+ goal, though it is currently only optimised for smaller screens: smartphones 
+and tablets up to seven inches. If you view the site on an iPad or anything 
+larger, you will still see the desktop site.
+
+Experience
+
+
+The site is designed to provide a better reading experience, with a focus on 
+simplicity. On any mobile device, you will be presented with a clear view of 
+the news with minimal distraction.
+
+On our new homepage and the main section pages, we hope providing more detail 
+for each of the main stories in the form of a headline, explanatory text and an 
+image will provide more context on the news and make it easier for you to find 
+the stories you are interested in exploring further.
+
+We've switched from standard webfonts to our bespoke Guardian Egyptian 
+typeface and increased the size which we think provides a great reading 
+experience. From each story you'll find related articles to allow you to easily 
+continue your exploration of a specific story. Images within stories will also 
+increase in size as you view with larger screens.
+
+If you follow our live blogs, you'll find these now auto-update every minute 
+and football fans will find we've improved ourlive scores 
+<http://m.theguardian.com/football/live> page to update every 10 seconds. 
+
+Speed and reliability
+
+
+Overall you will find the site fast to use, as we've optimised the code to 
+make it more efficient to download. We've used the very latest technologies to 
+allow us to deliver content quicker, while also ensuring the site is accessible 
+to all and functionally rich. Our new architecture allows the site to be much 
+more robust during high-traffic periods.
+
+Responsive across devices
+
+
+Rather than designing one size for all mobile devices, you'll find our new 
+site isresponsive 
+<https://www.theguardian.com/help/developer-blog/2012/oct/18/responsive-design-guardian-introduction>
+ and will scale up on mobiles and smaller tablets. The site is optimised for up 
+to seven inch devices, but you can still use it at any size.
+
+We're continuing to work on the design, functionality and user interface, and 
+we are committed to learning from how you use the site so it evolves to best 
+serve all web experiences. The site still sits at m.theguardian.com and 
+m.guardiannews.com and will continue to do so for the near future, but our end 
+goal is to have all platforms on the same web address.
+
+Evolution of functionality
+
+
+Rather than release a site with every feature built, you'll find this site 
+will continue to grow and evolve. We've released beta versions of this site 
+early and will continue to push out updates often to continue to test and 
+improve it.
+
+This means you're seeing the benefits as early as possible, but also means 
+you're seeing just the first steps toward a much better overall experience. We 
+are working hard to add features such as search and the ability to write 
+comments to match desktop website functionality.
+
+As an improvement to our old mobile site, you'll already find we now have much 
+improved swipe-through photo galleries and you can watch videos on your mobile 
+device.
+
+Feedback
+
+
+We'd really like your feedback. Please visit the link at the bottom of the 
+page on a mobile and let us know what you think. You can also leave a comment 
+below or tweet us at@guardianmobile <https://twitter.com/guardianmobile>. We 
+hope you enjoy the site, but if you have any technical difficulties please email
+userhelp@theguardian.com <mailto:userhelp@theguardian.com>.
+ 

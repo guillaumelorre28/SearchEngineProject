@@ -1,0 +1,111 @@
+
+So is Apple fighting for everyone’s liberty? It is defying the US government’s 
+request that it must help open up theiPhone 
+<https://www.theguardian.com/technology/2016/feb/19/fbi-apple-san-bernardino-shooter-court-order-iphone>
+ of the terroristSyed Rizwan Farook 
+<https://www.theguardian.com/us-news/2015/dec/03/san-bernadino-shooting-suspects-syed-rizwan-farook-tashfeen-malik>
+, who killed 14 people in San Bernardino, because the software so created will 
+compromise the integrity of every iPhone. Or is it another example of a hi-tech 
+company bogusly invoking the threats to privacy mounted by the new digital age 
+as a marketing strategy – and carelessly putting the lives of every citizen a 
+little more at risk?
+
+The US is riven by the argument, with the need for security counterbalanced 
+with the need for personal privacy. Donald Trump has called for a boycott of 
+Apple products, while most – but not all – of California’s tech giants have 
+lined up behindApple <https://www.theguardian.com/technology/apple>. It is an 
+argument that Britain needs to have with no less urgency. These issues confront 
+us too, in a country perhaps far too ready to trade off personal freedom before 
+any call for security.
+
+The FBI wants the details of Farook’s last months of calls for obvious 
+reasons: it will reveal the extent to which he and his accomplices were lone 
+operators or part of a terrorist network operating in the US; if the latter, 
+there could not be a more vital interest than knowing who they are. The trouble 
+is that the iPhone is so encrypted that the call history cannot be disclosed 
+without the right password and will close down once 10 wrong passwords are 
+entered. It will need special software, written by Apple, to get at what the 
+justice and police authorities need so desperately.
+
+The FBI and Justice Department have been careful to insist that they don’t 
+want general software. They are targeting the iPhone of just one terrorist and 
+need Apple’s one-off support to open it. President Obama, steering a path 
+between the needs of privacy and his government’s appetite for surveillance 
+revealed by Edward Snowden, has on this case come down on the side of security. 
+A federal judge has backed the FBI and ruled, following the All Writs Act of 
+1789, that the rule of law is everyone’s business: the young American republic 
+wanted to establish it was a republic of laws and thus it was the duty of any 
+person or any business, even if not involved directly in a case, to ensure 
+court orders were executed. The court has ruled that Apple help the FBI in the 
+name of the rule of law .
+
+But Apple CEO, Tim Cook, in a letter <http://www.apple.com/customer-letter/> 
+to his customers that everyone should read sets out powerful reasons why his 
+company should not create what would in effect be a back door not just to 
+Farook’s iPhone but to everyone’s. Smartphones have become our civilisation’s 
+indispensable personal data treasure trove – details of our contacts, finances, 
+health and private conversations are all housed in one device. As he writes: 
+“The government suggests this tool (special software to open the phone) could 
+only be used once, on one phone. But that’s simply not true. Once created, the 
+technique could be used over and over again, on any number of devices. In the 
+physical world, it would be the equivalent of a master key, capable of opening 
+hundreds of millions of locks – from restaurants and banks to stores and homes. 
+No reasonable person would find that acceptable.”
+
+The All Writs Act has transmuted from an assertion of the rule of law in the 
+analogue world to a menace to personal freedom in our digital times. “The 
+government could extend this breach of privacy and demand that Apple build 
+surveillance software to intercept your messages, access your health records or 
+financial data, track your location or even access your phone’s microphone or 
+camera without your knowledge,” he writes. Apple has co-operated fully so far, 
+but on this, declares Cook, it will resist.
+
+So are you with Donald Trump, Barack Obama and almost all the British press – 
+or withEdward Snowden  <https://www.theguardian.com/us-news/edward-snowden>and 
+theNew York Times, agreeing with Tim Cook that a backdoor to the iPhone is a 
+step too far, opening up the risk of surveillance not just from the US 
+government but from organised crime and foreign intelligence services? The FBI 
+can already access online data on iCloud and Google’s Gmail, along with records 
+of phone calls and text messages. Does it really need a back door to one iPhone?
+
+When I began this article, I was inclined to side with the FBI: the 
+information it wants is an imperative, it needs Apple’s help and it is 
+democratically accountable in a way that Apple is not. The hi-tech companies, 
+great advocates of personal liberty, also need to recognise they have 
+obligations to society, especially to counter terrorism. But reading Cook’s 
+letter brought me up short. Does that obligation go as far as creating a master 
+key that in the hands of anyone – government or corporation – could access all 
+our data at will?
+
+Yet while Cook is persuasive and raises fundamental issues, what happens to 
+data should not be determined by Apple alone. Suspicion of the Big Brother 
+state is partly alleviated by my knowledge that at the limit it is subject to 
+democratic checks and balances – and there is a terrorist threat. There are no 
+such checks and balances on Apple. VW sold diesel cars for years with embedded 
+secret technology falsifying emissions; as matters stand, none of us has any 
+certainty about how our data is being used or could be used. There can be 
+little confidence or trust in corporations that go to such vast lengths to 
+avoid their civic obligations, notably paying tax.
+
+Yet the situation is unsustainable. Back doors to smartphones are menacing. The
+Big Innovation Centre <http://www.biginnovationcentre.com/> (declaration: I 
+chair its steering group) has long called for an EU-wide privacy charter 
+setting out what can and cannot be done with personal and business data, on the 
+starting assumption that all data is personal property.
+
+There needs to be a parallel recasting of company law so that companies are 
+obliged to disclose how they collect and use personal data. But above all we 
+should require a new covenant with the UK government about how it is held to 
+held to account for the vast array of surveillance powers it has acquired. As 
+matters stand, the UK would be the first user of any back-door access to 
+smartphones – and nobody would know.
+
+Yet Britain by itself has little leverage over how digital technology is going 
+to develop – and how the balance between security and personal liberty will be 
+struck. Apple does not give a fig about Britain, but it does care what happens 
+in Brussels and Washington, which is where power lies. The EU matters not only 
+for jobs and the future of the west – it is the only means we have to shape our 
+digital future, otherwise in the hands of Donald Trump, the US Justice 
+Department and west coast hi-tech giants. To have any voice, Europe has to 
+stand together.
+ 

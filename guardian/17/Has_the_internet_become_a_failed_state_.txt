@@ -1,0 +1,307 @@
+
+Here are some stories about the world we now inhabit…
+
+• In February this year, Bangladesh Bank was hit by the biggest bank robbery 
+in historywhen thieves got away with $101m 
+<https://www.wired.com/2016/05/insane-81m-bangladesh-bank-heist-heres-know/>. 
+The heist was accomplished not by tunnels or explosives, but by acquiring the 
+access codes for theSwift global messaging system 
+<https://en.wikipedia.org/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication>
+, which is what banks use to securely pass payment orders to one another. The 
+criminals used Swift to instruct the US Federal Reserve to transfer money to 
+their accounts. Then they cunningly erased their digital fingerprints by 
+modifying the bank’s software.
+
+• In June 2015, the US Office of Personnel Management 
+<https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach> 
+revealed that its computer systems had been hacked and that the hackers had 
+stolen the social security numbers, names, dates and places of birth, and 
+addresses of 21.5 million people, including some who had undergone background 
+checks for sensitive government posts.
+
+• In October 2015, nearly 157,000 customers of the UK telco TalkTalk had their 
+personal data stolen 
+<https://www.theguardian.com/business/2015/nov/06/nearly-157000-had-data-breached-in-talktalk-cyber-attack>
+ in a massive intrusion into the company’s computer systems. Police later 
+arrested six teenage boys in connection with this cyber attack.
+
+• In the past two years, hospitals worldwide have found themselves on the 
+receiving end of a vicious type of cyber attack. Medical staff suddenly find 
+that their hospital’s computer systems are locked and inaccessible to them 
+because they have been secretly infiltrated. They then receive a message 
+telling them that their data will be unlocked on payment of a ransom in 
+Bitcoins. The European police agency Europol now reckonsthat the threat from 
+“ransomware” 
+<http://phys.org/news/2016-09-europol-ransomware-cybercrime-threat.html> has 
+eclipsed all other forms of online theft and extortion.
+
+Over the past year, someone has been probing the defences of the companies 
+that run critical pieces of the internet
+
+• Two months ago, a young Italian woman killed herself 
+<http://www.independent.co.uk/news/world/europe/tiziana-cantone-sex-tape-suicide-internet-meme-revenge-porn-naples-a7307041.html>
+ because she was traumatised by online abuse after an intimate video that she 
+had sent to a friend was widely “shared” across the web. As soon as the images 
+went viral, she was subjected to jeering comments, Photoshopped screenshots and 
+cruel parodies that, in the end, tipped her over the edge.
+
+• In June, it was revealed that two agencies of the Russian government had 
+hacked into the computer systems 
+<http://motherboard.vice.com/read/all-signs-point-to-russia-being-behind-the-dnc-hack>
+ of the Democratic National Committee. Shortly before the Democratic convention 
+that nominated Hillary Clinton, WikiLeaksreleased thousands of emails and 
+attachments 
+<https://motherboard.vice.com/read/guccifer-2-claims-responsibility-for-dnc-email-dump>
+ stolen during the breach, some of which were distinctly unhelpful to Clinton 
+and useful to Donald Trump.
+
+• On 21 October, a series of distributed denial-of-service (DDoS) attacks 
+<https://www.theguardian.com/technology/2016/oct/21/ddos-attack-dyn-internet-denial-service>
+ caused widespread disruption of internet activity in the US. The attacks 
+involved directing huge amounts of bogus traffic at servers belonging to Dyn, a 
+company that is a major provider of domain name services (DNS) to other 
+companies. For a time this severely affected major websites – including 
+Twitter, Pinterest, Reddit, GitHub, Etsy, Tumblr, Spotify, PayPal, Verizon, 
+Comcast and the PlayStation network. The attack was conducted using a huge 
+botnet of unsecured “internet of things” devices such as home webcams and 
+broadband routers.
+
+• According to Bruce Schneier, a leading security expert, over the past year 
+or so, someone has been probing the defences of the companies that run critical 
+pieces of the internet. These probes,Schneier says 
+<https://www.schneier.com/blog/archives/2016/09/someone_is_lear.html>, “take 
+the form of precisely calibrated attacks designed to determine exactly how well 
+these companies can defend themselves, and what would be required to take them 
+down. We don’t know who is doing this, but it feels like a large nation state. 
+China or Russia would be my first guesses.”
+
+Welcome to cyberspace.
+
+It didn’t used to be like this. In the first decade after the internet we use 
+today was switched on, in January 1983, cyberspace was a brave new world – a 
+glorious sandpit for geeks and computer science researchers. There was, in that 
+magical virtual world, no crime, no spam, no commercial activity and little 
+concern about security – largely because “netizens 
+<https://www.amazon.co.uk/Netizens-History-Impact-Usenet-Internet/dp/0818677066/ref=as_li_ss_tl?ie=UTF8&qid=1480030203&sr=8-1&keywords=Hauben+Netizens&linkCode=sl1&tag=meme11-21&linkId=72ceed6e8550246e640708e6dfaf9ecf>
+” (for that is what they were called) knew one another, or at least knew what 
+their institutional affiliations were. Discussion groups (then called 
+newsgroups) were formed around every conceivable topic, no matter how arcane. 
+(Early on, there was a vigorous argument about whether there should be a 
+discussion group on sex, and when one finally appeared, someone else insisted 
+that logically there should therefore also be newsgroups on drugs and 
+rock’n’roll. So those were set up too.) Codes of conduct, etiquette and social 
+norms evolved to regulate – or at least moderate – online behaviour, reduce 
+“flame wars”, and so on. It was, in a way, a kind of wonderland, and it gave 
+rise to the techno-utopianism embodied in John Perry Barlow’s “Declaration of 
+the independence of cyberspace <https://www.eff.org/cyberspace-independence>”, 
+which began: “Governments of the industrial world, you weary giants of flesh 
+and steel, I come from cyberspace, the new home of mind. On behalf of the 
+future, I ask you of the past to leave us alone. You are not welcome among us. 
+You have no sovereignty where we gather...”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F27%2Fhas-internet-become-failed-state-crime-cyberspace%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F530dacea26678d05989811e5e53f05fb3ad88808%2F0_40_4168_2500%2F4168.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Has%20the%20internet%20become%20a%20failed%20state%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F27%2Fhas-internet-become-failed-state-crime-cyberspace%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Has%20the%20internet%20become%20a%20failed%20state%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F27%2Fhas-internet-become-failed-state-crime-cyberspace%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F530dacea26678d05989811e5e53f05fb3ad88808%2F0_40_4168_2500%2F4168.jpg>
+ In June, Russian agencies hacked into the computers of the Democrat National 
+Committee, accessing emails that damaged Hillary Clinton and helped Donald 
+Trump. Photograph: USA/Rex/Shutterstock 
+What it came down to was this: in the decade 1983-93, cyberspace and 
+“meatspace” (Barlow’s term for the real, physical world) were effectively
+parallel universes. They existed side by side, and for the most part the 
+inhabitants of meatspace knew nothing of the virtual world.
+
+But from 1993 onwards, all that began to change. The main catalysts were the 
+world wide web, theMosaic browser 
+<https://en.wikipedia.org/wiki/Mosaic_(web_browser)> and AOL. The web provided 
+non-geeks with an answer to the question: what is this internet thing for? 
+Mosaic, the first modern browser, showed them what the web could do and, more 
+importantly, what it could become. Demand for access to the internet exploded.
+AOL <https://en.wikipedia.org/wiki/AOL> met the demand by providing a reliable, 
+easy-to-configure, dial-up service for millions of people, and so brought the 
+“redneck hordes” – ie people unfamiliar with the mores and customs of the 
+netizen era – on to the internet. Scenting profits, companies and pornographers 
+scrambled for a piece of the action, closely followed by scammers and spammers 
+and all kinds of other undesirables.
+
+The result was that the parallel universes gradually merged, and we wound up 
+with the composite networked world we now inhabit – a world that has the 
+affordances of both cyberspace and meatspace. Which helps to explain why we are 
+having such trouble coming to terms with it.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F27%2Fhas-internet-become-failed-state-crime-cyberspace%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe40ade4f1095f265488b49c4c4320f1687a2402b%2F0_197_4782_2870%2F4782.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Has%20the%20internet%20become%20a%20failed%20state%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F27%2Fhas-internet-become-failed-state-crime-cyberspace%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Has%20the%20internet%20become%20a%20failed%20state%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F27%2Fhas-internet-become-failed-state-crime-cyberspace%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe40ade4f1095f265488b49c4c4320f1687a2402b%2F0_197_4782_2870%2F4782.jpg>
+ In October 2015, nearly 157,000 TalkTalk customers had their personal details 
+stolen by six teenage boys. Photograph: Zmeel Photography/Getty Images 
+This blended universe is a strange place, simultaneously wonderful and 
+terrifying. It provides its users – ordinary citizens – with services, delights 
+and opportunities that were once the prerogative only of the rich and powerful. 
+Wikipedia, the greatest store of knowledge the world has ever seen, is 
+available at the click of a mouse. Google has become the memory prosthesis for 
+humanity. Services such as Skype and FaceTime shrink intercontinental distances 
+for families and lovers. And so on.
+
+But at the same time, everything we do on the network is monitored and 
+surveilled by both governments and the huge corporations that now dominate 
+cyberspace. (If you want to see the commercial side of this in action, install
+Ghostery <https://www.ghostery.com/> in your browser and see who’s snooping on 
+you as you surf.) Internet users are assailed by spam, phishing, malware, fraud 
+and identity theft. Corporate and government databases are routinely hacked and 
+huge troves of personal data, credit card and bank account details are stolen 
+and offered for sale in the shadows of the so-called “dark web 
+<https://bookshop.theguardian.com/darkmarket.html>”. Companies – and public 
+institutions such as hospitals – are increasingly blackmailed byransomware 
+<https://en.wikipedia.org/wiki/Ransomware> attacks, which make their essential 
+IT systems unusable unless they pay a ransom. Cybercrime has already reached 
+alarming levels and, because it largely goes unpunished, will continue to grow 
+– which is why in some societies old-style physical crime is reducing as 
+practitioners move to the much safer and more lucrative online variety.
+
+“All human life is there” was once the advertising slogan for the now-defunct 
+News of the World. It was never true of that particular organ, which 
+specialised mostly in tales of randy vicars, celebrity love triangles, the 
+foolishness of lottery winners and similar dross. But it is definitely true of 
+the internet, which caters for every imaginable human interest, taste and 
+obsession. One way of thinking about the net is as a mirror held up to human 
+nature. Some of what appears in the mirror is inspiring and heart-warming. Much 
+of what goes on online is enjoyable, harmless, frivolous, fun. But some of it 
+is truly repellent: social media, in particular, facilitate firestorms of 
+cruelty, racism, hatred and hypocrisy – as liberals who oppose the Trump 
+campaign in the US have recently discovered. For a crash course in this darker 
+side of human nature, read Jon Ronson’s bookSo You’ve Been Publicly Shamed 
+<https://bookshop.theguardian.com/so-you-ve-been-publicly-shamed.html> and weep.
+
+S o we find ourselves living in this paradoxical world, which is both 
+wonderful and frightening. Social historians will say that there’s nothing new 
+here: the world was always like this. The only difference is that we now 
+experience it 24/7 and on a global scale. But as we thrash around looking for a 
+way to understand it, our public discourse is depressinglyManichean 
+<https://en.wikipedia.org/wiki/Manichaeism>: tech boosters and evangelists at 
+one extreme; angry technophobes at the other; and most of us somewhere in 
+between. Small wonder thatManuel Castells <http://www.manuelcastells.info/en>, 
+the great scholar of cyberspace, once described our condition as that of 
+“informed bewilderment”.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F27%2Fhas-internet-become-failed-state-crime-cyberspace%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F005ef1ae828e1c0f3649e717849f927111b2d15b%2F0_216_5187_3111%2F5187.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Has%20the%20internet%20become%20a%20failed%20state%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F27%2Fhas-internet-become-failed-state-crime-cyberspace%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Has%20the%20internet%20become%20a%20failed%20state%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F27%2Fhas-internet-become-failed-state-crime-cyberspace%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F005ef1ae828e1c0f3649e717849f927111b2d15b%2F0_216_5187_3111%2F5187.jpg>
+ According to IT journalist Sean Gallagher, the internet ‘looks a lot’ like New 
+York of the late 70s: ‘There is a cacophony of hateful speech, vice of every 
+kind… and policemen trying to keep a lid on all of it’. Photograph: Alain Le 
+Garsmeur/Getty Images 
+One way of combating this bewilderment is to look for metaphors. The idea of 
+the net as a mirror held up to human nature is one. But recently people have 
+been looking for others. Sean Gallagher, the IT editor of Ars Technica, for 
+example, reaches for an urban reference. “In the New York City of the late 
+1970s,”he writes 
+<http://arstechnica.com/information-technology/2015/02/fear-in-the-digital-city-why-the-internet-has-never-been-more-dangerous/>
+, “things looked bad. The city government was bankrupt, urban blight was 
+rampant, and crime was high. But people still went to the city every day, 
+because that was where everything was happening. And despite the foreboding 
+feelings hanging over New York at the time, the vast majority of those people 
+had at most minor brushes with crime.”
+
+“Today,” he continues, “we all dabble in some place that looks a lot like 
+1970s New York City – the internet. (For those needing a more recent simile, 
+think the Baltimore ofThe Wire.) Low-level crime remains rampant, while 
+increasingly sophisticated crime syndicates go after big scores. There is a 
+cacophony of hateful speech, vice of every kind... and policemen of various 
+sorts trying to keep a lid on all of it – or at least trying to keep the chaos 
+away from most law-abiding citizens. But people still use the internet every 
+day, though the ones who consider themselves street smart do so with varying 
+levels of defences installed. Things sort of work...”
+
+They do. But the weakness of the NYC metaphor is that the city was eventually 
+cleaned up and a kind of order restored. So in that sense, it’s an unrealistic, 
+optimistic scenario for the net. Consequently, those who fear that humanity 
+will struggle to get a grip on cyberspace reach for more alarming metaphors. 
+Could it, for example, become some kind of “failed state” like contemporary 
+Somalia, with, as Gallagher puts it, “warring factions destroying the most 
+fundamental of services, ‘security zones’ reducing or eliminating free 
+movement, and security costs making it prohibitive for anyone but the most 
+well-funded operations to do business without becoming a ‘soft target’ for 
+political or economic gain”?
+
+Our dilemma is that while the future of cyberspace is unknowable, we need to 
+think about it because it affects us all
+
+The Fragile States Index <https://en.wikipedia.org/wiki/Fragile_States_Index>, 
+an annual report published by the US thinktank the Fund for Peace and the 
+magazineForeign Policy, defines a fragile state as one “whose central 
+government is so weak or ineffective that it has little practical control over 
+much of its territory; non-provision of public services; widespread corruption 
+and criminality; refugees and involuntary movement of populations and sharp 
+economic decline”.
+
+Some, but not all, of this maps neatly on to cyberspace. There is, for 
+example, no central government that has effective control over the network’s 
+“territory” (though the US, for historical reasons, has had more influence over 
+it than any other nation, much to the annoyance of the Russians and the 
+Chinese). In fact, one of the central problems posed by the network is that it 
+is a global system in aWestphalian 
+<http://culturalrelations.org/Pages/he_4.html> world of sovereign states and 
+local laws.
+
+Our dilemma is that while the future of cyberspace is unknowable, we need to 
+think about it because it affects us all. The standard method that large 
+corporations and governments use for this purpose is by imagining a set of 
+possible futures or scenarios and assessing the implications of each one. The 
+aim is not to “predict” the future, but to try and sketch the range of 
+possibilities that we might have to deal with.
+
+As far as cyberspace is concerned, the most interesting set of scenarios I’ve 
+seen come from a US thinktank, theAtlantic Counci 
+<http://www.atlanticcouncil.org/>l. Its analyst, Jason Healey, sets out 
+<http://www.atlanticcouncil.org/images/files/publication_pdfs/403/121311_ACUS_FiveCyberFutures.pdf>
+ five candidates:
+
+• Status quo: a continuation of what we now have. “Cyberspace is generally a 
+safe place in which to do business and to communicate with others, even though 
+criminals continue to engage in multimillion-dollar heists and steal millions 
+of people’s personal details; national foreign intelligence agencies poke and 
+prod for military and industrial secrets.”
+
+• Conflict domain: essentially an extrapolation of the militarisation of 
+cyberspace that we are already seeing – a world in which cyberwarfare becomes 
+common.
+
+• Balkanisation: cyberspace has broken into national fiefdoms: there is no 
+single internet, just a collection of national internets.
+
+• Paradise: cyberspace becomes an overwhelmingly secure place where espionage, 
+warfare and crime are rare.
+
+• Cybergeddon: cyberspace degenerates into a virtual failed state with all 
+that that implies. Think modern-day Mogadishu.
+
+Some of these are more implausible than others. Healey’s “paradise” scenario 
+is pure fantasy. And the power of internet corporations – plus the reach and 
+dominance of national intelligence agencies such as the NSA – suggest that some 
+kind of (possibly repressive) order would be restored long before “cybergeddon” 
+would be reached.
+
+So we’re left with two real possibilities – some blend of Balkanisation and 
+inter-state conflict, both extrapolations of trends that we can already observe.
+
+If this is indeed how things pan out, I know one scholar, a distinguished 
+professor of international relations, who won’t be in the least surprised. 
+Sixteen years ago, in a conversation about the internet, he asked me if I 
+really believed that the internet represented a fundamental challenge to 
+established power structures. I replied vehemently in the affirmative – 
+because, in my techno-utopian fervour, I did believe. He smiled but said 
+nothing, and so eventually I asked him what he thought. “We’ll see, dear boy,” 
+he replied. “We’ll see.”
+
+He’s still around, as wise as ever. And I am a recovering utopian.
+
+John Naughton’s most recent book, From Gutenberg to Zuckerberg: What You 
+Really Need to Know About the Internet 
+<https://bookshop.theguardian.com/from-gutenberg-to-zuckerberg.html>, is 
+published by Quercus
+ 

@@ -1,0 +1,98 @@
+
+The idea to produce a digital programme came about as part of a larger 
+campaign for our autumn season tour in 2012, for which we tested a 
+majority-digital approach to marketing. It felt only right that if we were 
+cutting down on paper (by 80%) we shouldn't be producing a paper-based souvenir 
+programme.
+
+Without the budget or the skills in-house to achieve what we wanted, we sought 
+and obtained funding, which in turn led to a collaboration with theUniversity 
+of Strathclyde <https://www.strath.ac.uk/cis/> and the creation of a HTML 
+version of the programme.
+
+It was well received by our audience, and while our original plan was to take 
+the HTML version, manage the content in-house and develop new digital 
+programmes for each production thereafter, we found it had limitations and 
+reallywhat we wanted was an app <http:>.
+
+We spent the next few months finding the money, but also refining precisely 
+what the app would do. We discussed the need for it to be flexible while not 
+costing the earth, but also for it to be something we might sell to other arts 
+organisations who have similar requirements and might benefit from a simple, 
+effective and tailor-made product.
+
+Knowing the appetite of our audience for what goes on behind the stage curtain 
+– the planning, costumes, sets, design, music, choreography and dancers – the 
+ambition was to create an app that provided an insight into the making of a 
+ballet and to give behind the scenes access
+
+The brief was to develop an app that could:
+
+• Be a sales tool for forthcoming shows by linking immediately to online 
+tickets
+• Be insightful but not repeat content that was already online 
+• Offer alternative content from the printed souvenir programmes (which 
+audiences cherish)
+• Be easy to update with new information as a tour progressed (eg new 
+photographs)
+• Automatically refresh new content / notify those who have already downloaded 
+the app
+• Be an app that audiences want to share with friends via social media 
+• Notify audiences there is a new issue available and hence a new show coming 
+(forward selling)
+
+We partnered with Dog Digital <http://www.dogdigital.com/>, who helped us find 
+the solution – aNewsstand app 
+<https://itunes.apple.com/gb/genre/ios-newsstand/id6021?mt=8> for iPad. The 
+notification of a new issue was critical to the long-term use of the app and 
+the opportunity to be a valuable sales tool for us and other organisations.
+
+We ruled out a phone version due to three factors. The first was that our 
+audience access stats indicated a higher proportion of iPad users on our 
+website. The second (and most important) factor was cost; creating an app for 
+both iPhone and iPad wasn't an option. Finally, our beautiful ballet production 
+images are best viewed on a larger screen.
+
+We expected the app might be a bit of a slow burn and we didn't have any 
+budget left after the build to heavily promote it. We launched it to those most 
+engaged with the company via our e-newsletter database and expected that social 
+media interest would weave its magic. We've not been disappointed so far.
+
+Content has been a challenge, primarily as we were creating the app for a 
+brand new production with no photography in existence. Fortunately, our poster 
+image for the show lent itself to creating beautiful pages with intertwining 
+forest and sweet themes. We used a mixture of rehearsal images and costume 
+fittings before adding a further gallery of production shots during the week of 
+opening, a result (and benefit) of being able to add and remove pages with 
+in-house access to the back-end.
+
+We also created short films based on the interviews that were being conducted 
+for the souvenir programme articles. They served as teaser film versions of the 
+printed articles, giving snippets that encourage readers to also buy the 
+souvenir programme at the performance for a full version.
+
+In terms of future shows, the app has given us a framework that we can 
+customise with page length choices and text placement options, combined with 
+images, films or galleries, zoom functions, share functions and audio excerpts.
+
+In the first issue we opted to restrict the advertising pages to Scottish 
+Ballet's own products – merchandise, memberships and so on. For the next app, 
+the advertising opportunities will be developed to provide an income stream now 
+that we have user stats for the first edition.
+
+Why was the app free? The app is a means for us to share what goes on here at 
+ScottishBallet <https://www.theguardian.com/stage/ballet> with our most loyal 
+audiences and, to be honest, we were a little concerned that charging a 
+fee-to-access insight into what we do would be counterproductive. However, we 
+do hope this app makes them feel inspired to book tickets and keep supporting 
+us.
+
+Kirsten Cockburn is head of marketing and corporate sponsorship at Scottish 
+Ballet <http://www.scottishballet.co.uk/> – follow the company on Twitter 
+@scottishballet <https://twitter.com/scottishballet>
+
+This content is brought to you by Guardian Professional 
+<http://theguardian.com/guardian-professional>. To get more articles like this 
+direct to your inbox, sign up free to become amember of the Culture 
+Professionals Network <https://register.theguardian.com/culture-professionals/>.
+ 

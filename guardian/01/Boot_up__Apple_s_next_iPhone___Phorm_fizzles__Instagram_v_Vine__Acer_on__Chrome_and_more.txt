@@ -1,0 +1,155 @@
+
+A quick burst of 9 links for you to chew over, as picked by the Technology team
+
+Beijing government releases official air quality monitoring app >> Tech In Asia
+ 
+<http://www.techinasia.com/beijing-government-releases-official-air-quality-monitoring-app/>
+
+Boy, has the government come a long way when it comes to air pollution. Just 
+half a year ago, if you wanted to know how dangerous the air was in Beijing, 
+your only real option was the US Embassy's @BeijingAir twitter feed, and the 
+Chinese government was desperately trying to stop you from reading that. Now, 
+not only is the Beijing government publishing real-time numbers for the air's 
+PM2.5 (deadly particles) count, it hasreleased a smartphone app 
+<http://tech.sina.com.cn/t/2013-01-25/19298016688.shtml> so that users can 
+check pollution stats while on the go.
+
+ OK, good. But - would you trust it to be telling you the truth?
+
+New details on Apple's budget iPhone 5 >> iLounge Backstage 
+<http://www.ilounge.com/index.php/backstage/comments/new-details-on-apples-budget-iphone-5/>
+
+This new model is actually a cross between the iPhone 5, fifth-generation iPod 
+touch, and... wait for it... the iPod classic. Yes, really. It will have a 4" 
+screen, like the iPhone 5, a bottom like the latest iPod touch, and a shape 
+that's most similar to the iPod classic.
+
+The budget iPhone's raw dimensions are just barely larger than the iPhone 5's. 
+It is around a half-millimeter taller and a half-millimeter wider--nearly 
+imperceptible differences--as well as almost a millimeter thicker. Beyond 
+shifting from glass and metal to a substantially plastic chassis, the most 
+significant changeApple <https://www.theguardian.com/technology/apple> will 
+make is in the curves.
+
+ iPhone 5P for Plastic?
+
+Cash worries hit Phorm shares >> FT.com 
+<http://www.ft.com/cms/s/0/26e472ee-6720-11e2-8b67-00144feab49a.html#axzz2JJMYcw38>
+
+Phorm was a sharp faller this week as fears grew that the maker of internet 
+traffic monitoring software would need a rescue fundraising.
+
+ The group, which has been focused on emerging markets after facing criticism 
+from privacy campaigners 
+<http://www.ft.com/cms/s/2/ee73168e-6a09-11de-ad04-00144feabdc0.html>, dropped 
+39.8% even after announcing a rollout into two new Chinese provinces. "The 
+company is likely to run out of cash around March absent funding," said Liberum 
+Securities. "Recent share price weakness is potentially unhelpful and reflects 
+financial worries, not progress in the business."
+
+ Remember Phorm? (Subscription required to view article.)
+
+Moving to 64-bit Twitter User IDs >> Twitter Developers 
+<https://dev.twitter.com/blog/64-bit-twitter-user-idpocalypse>
+
+Every entity represented in Twitter's API has an ID associated with it. As we 
+allocate larger and larger numbers for these IDs, the space required to store 
+them must grow in turn. For example, we migrated Tweet IDs from 32-bit to 
+64-bit integers back in2009 <https://twitter.com/twitterapi/status/2048207316>, 
+then did the same for direct message IDs in2011 
+<https://dev.twitter.com/blog/direct-messages-going-snowflake-on-sep-30-2011>. 
+We expect to start allocating user IDs in a 64-bit integer space sometime this 
+year.
+
+ This means that if you currently use signed 32-bit integers to track user IDs 
+in your system, you should update your code to use 64-bit integers as soon as 
+you can. To be safe, and to provide a date to aim for, we recommend making this 
+change by July 1, 2013. This includes statically typed variables in your 
+application code and column types in your database code.
+
+ Twitter is thinking big.
+
+iMac shipments fall over 40% in 4Q12, say Taiwan makers >> Digitimes 
+<http://www.digitimes.com/news/a20130125PD214.html>
+
+There were an estimated 578,000 new iMacs shipped in the fourth quarter of 
+2012, dropping 42.8% on quarter and 54.8% on year mainly due to delayed 
+supplies of key components, especially panels, according to Taiwan-based supply 
+chain makers. As the supply of key components began to significantly increase 
+in November 2012, iMac shipments are expected to rebound in the first quarter 
+of 2013, the sources said.
+
+ Pretty much what Tim Cook said.
+
+New BlackBerry World for BlackBerry 10 to Include extensive catalogue of 
+songs, latest movies and TV shows 
+<http://press.rim.com/newsroom/press/2013/new-blackberry-world-for-blackberry-10-to-include-extensive-catalogue-of-songs-latest-movies-and-tv-shows.html>
+
+BlackBerry® World(TM) storefront (formally BlackBerry App World(TM)) for 
+BlackBerry 10 will offer one of the most robust music and video catalogs in 
+mobile today. The new BlackBerry World will include an extensive catalog of 
+songs as well as movies and TV shows, with most movies coming to the store the 
+same day they are released on DVD, and next day availability of many current TV 
+series. The competitive offering will feature content from all major studios, 
+music labels and top local broadcast networks. Customers will be able to 
+preview tracks and access the content using multiple payment options.
+
+Instagram v Vine >> Willa's World 
+<http://www.willa.me/2013/01/instagram-vs-vine.html>
+
+Says it all. Requires six seconds, but no video.
+
+Acer sees success in Chrome; Windows 8 fails to drive sales >> Bloomberg 
+<http://www.bloomberg.com/news/2013-01-27/acer-sees-success-in-chrome-pcs-as-windows-fails-to-drive-sales.html>
+
+Chrome-based models accounted for 5% to 10% of Acer's US shipments since being 
+released there in November, President Jim Wong said in an interview at the 
+Taipei-based company's headquarters. That ratio is expected to be sustainable 
+in the long term and the company is considering offering Chrome models in other 
+developed markets, he said.
+
+Acer <https://www.theguardian.com/technology/acer>, which last week announced 
+a NT$3.5bn ($120m) write-off on the value of its Gateway, Packard Bell and 
+eMachines brands that pushed it into losses, is looking for alternatives as 
+Windows-based computers struggle amid rising popularity of tablets and 
+smartphones. Global computer industry shipments dropped 6.4 percent in the 
+fourth quarter despite Microsoft's latest operating system being released 
+during the period, according to IDC Corp.
+
+ "Windows 8 itself is still not successful," said Wong, whose company posted a 
+28% drop in fourth-quarter shipments from a year earlier. "The whole market 
+didn't come back to growth after the Windows 8 launch, that's a simple way to 
+judge if it is successful or not."
+
+ Also: won't release any Windows RT devices before autumn. Instead, it's 
+getting into the smartphone business.
+
+False beliefs persist, even after instant online corrections 
+<http://www.eurekalert.org/pub_releases/2013-01/osu-fbp012413.php>
+
+It seems like a great idea: Provide instant corrections to web-surfers when 
+they run across obviously false information on the Internet.
+
+ But a new study suggests that this type of tool may not be a panacea for 
+dispelling inaccurate beliefs, particularly among people who already want to 
+believe the falsehood.
+
+ "Real-time corrections do have some positive effect, but it is mostly with 
+people who were predisposed to reject the false claim anyway," said R. Kelly 
+Garrett, lead author of the study and assistant professor of communication at 
+Ohio State University....
+
+ In fact, it has already been attempted: A team from Intel and the University 
+of California, Berkeley, developed Dispute Finder, a plug-in for web browsers 
+that was released in 2009 and would alert users when they opened a webpage with 
+a disputed claim. That project has ended, but Garrett said similar efforts are 
+under way.
+
+ Idées fixes are all very well until a lion chews off your head. You'd think 
+evolution might have sorted this out. Or maybe it's not an evolutionary 
+disadvantage?
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/u:guardiantech>. To suggest a link, either add it below or 
+tag it with @gdntech on the freeDelicious <http://www.delicious.com/> service.
+ 

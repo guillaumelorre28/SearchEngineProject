@@ -1,0 +1,96 @@
+
+A museum app that uses the collections of other museums; a treasure hunt that 
+takes you everywhere but our own venue; a mobile guide to a world that no 
+longer exists – it's fair to say that Wellcome Collection'sMagic in Modern 
+London 
+<http://www.wellcomecollection.org/explore/play/magic-in-modern-london.aspx> is 
+not your typical museum app.
+
+The app is a geolocated treasure hunt for the amulet collection of the amateur 
+Edwardian folkloristEdward Lovett 
+<http://www.wellcomecollection.org/whats-on/exhibitions/charmed-life/edward-lovett.aspx>
+, who paced London by night, buying curious objects from the city's mudlarks, 
+barrow men and sailors, at the same time collecting stories about the 
+superstitions to which they were attached (red coral for life and health, 
+necklaces of blue beads to ward off bronchitis).
+
+In the app's story, Lovett's amulets have been scattered throughout London 
+<https://www.theguardian.com/uk/london> and the player must scour the city, 
+phone in hand, searching for the lost charms. Entering "areas of enchantment" 
+that relate to the fears of Edwardian Londoners, clues lead towards amulets 
+that are added to a virtual collecting case.
+
+Magic in Modern London (also the title of Lovett's treatise on London 
+folklore) had its genesis in an exhibition calledCharmed Life 
+<http://www.wellcomecollection.org/whats-on/exhibitions/charmed-life.aspx> at 
+Wellcome Collection. Artist Felicity Powell worked with a collection of amulets 
+formerly belonging to Lovett, and her exhibition arranged them within a 
+beautiful horseshoe-shaped installation. We were inspired and intrigued by the 
+history of these amulets and what they meant for the Londoners who carried them 
+for protection against an uncertain new twentieth-century world.
+
+We also wanted to develop our programme of game commissions. We'd had a huge 
+hit with a Flash-based game about smuggling calledHigh Tea 
+<http://hightea.wellcomeapps.com/>, but wanted to explore the possibilities of 
+mobile phones for gaming.Martha Henson <https://twitter.com/marthasadie> (my 
+co-producer at Wellcome Collection) and I met Alex Butterworth ofAmblr 
+<http://www.amblr.net/> at one of Frank Boyd's Crossover Labs 
+<http://www.xolabs.co.uk/>, which brought together creative practitioners and 
+museum curators for a week of intensive idea development. The idea for Magic in 
+Modern London wasn't born there and then, but Amblr's pioneering work in 
+geolocation-based storyscapes caught our eye and Alex, with his talented team, 
+was just the kind of technologist-storyteller with whom we wanted to work.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7RJ77Q-uiKw%3Fwmode%3Dopaque%26feature%3Doembed&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7RJ77Q-uiKw%3Fwmode%3Dopaque%26feature%3Doembed>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Fwww.youtube.com%2Fembed%2F7RJ77Q-uiKw%3Fwmode%3Dopaque%26feature%3Doembed&media=>
+As a treasure hunt, the app is played across the whole of London. Areas of 
+enchantment are related to local features in London – the site of a former 
+chest hospital, for example, might relate to the fear of Tuberculosis. The 
+treasure hunt is also dynamic: with many more areas of enchantment than amulets 
+to collect, the app assigns amulets to the areas dynamically, meaning that 
+different users won't all experience the app in the same way and follow 
+different paths through the city.
+
+We also set out to create more than just a treasure hunt. We wanted a 
+narrative, an evocation of the Edwardian period, and a sense of character. 
+Voice actors Michael Maloney and Emily Woof brought Lovett and the fears of 
+Londoners to life. The combination of Alex Hocking's photography (including the 
+interior ofEmery Walker's House in Hammersmith <http://emerywalker.org.uk/>) 
+and music and soundscapes by Daniel Williams and Chris Wood created immersive 
+experiences using only the screen of a phone and a pair of headphones.
+
+We encountered some interesting problems in the build. For navigation, the app 
+uses a 1908 street map laid over a standard Google Maps interface, with a 
+slider allowing the player to fade between the two. Standards of mapping were 
+not then what they are now, however, and there was considerable frustration 
+trying to make the two align correctly. In the end, at our designer's 
+suggestion, we filled in with a ragged "edge of map" effect, adding atmosphere 
+to the game as well as solving the problem.
+
+Inevitably with an app this complex, there were also a few glitches. One user 
+got in touch to tell us that an amulet near The Mall was accessible only from 
+the roof of a police station.
+
+In many ways, Magic in Modern London still feels ahead of its time for a 
+geolocation-based app. As a tool for research into the capabilities of mobile 
+as a medium for games – and its ability to reach audiences – the app has been 
+invaluable.
+
+Alex and Amblr are currently working on Box of Delights 
+<http://www.oxfordaspiremuseums.org/blog/delighting-oxford-box-delights-part-1>
+, weaving museum objects into a fantastical citywide fiction. At Wellcome 
+Collection, we're using the evidence provided by the app and our other games to 
+develop a digital-wide commissioning strategy.
+
+Danny Birchall is digital manager at Wellcome Collection 
+<http://www.wellcomecollection.org/> – follow him on Twitter at @dannybirchall 
+<https://twitter.com/dannybirchall>
+
+This content is brought to you by Guardian Professional 
+<http://theguardian.com/guardian-professional>. To get more articles like this 
+direct to your inbox, sign up free to become amember of the Culture 
+Professionals Network <https://register.theguardian.com/culture-professionals/>.
+ 

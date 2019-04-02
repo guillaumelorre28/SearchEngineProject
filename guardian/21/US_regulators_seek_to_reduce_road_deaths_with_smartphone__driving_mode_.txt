@@ -1,0 +1,84 @@
+
+US regulators are seeking to reduce smartphone-related vehicle deaths with a 
+new driving-safe mode that would block or modify apps to prevent them being a 
+distraction while on the road.
+
+
+The US National Highway Traffic Safety Administration (NHTSA) are to issue 
+voluntary guidelines for smartphone makers, which will seek to restrict the 
+apps and services accessible on a smartphone being used by a driver.
+
+US transport secretary Anthony Foxx told the New York Times 
+<http://www.nytimes.com/2016/11/22/business/auto-safety-regulators-seek-a-driver-mode-to-block-apps.html>
+: “Your smartphone becomes so many different things that it’s not just a 
+communication device. Distraction is still a problem. Too many people are dying 
+and being injured on our roadways.”
+
+The NHTSA is hoping that Apple, Samsung 
+<https://www.theguardian.com/technology/samsung> and other popular smartphone 
+manufacturers will adopt the guidelines in future smartphone and software 
+releases. The so-called driving mode will block distractions such as social 
+media, messages or email, stop the use of the keyboard for communication 
+activities and also restrict access to websites, video and distracting graphics.
+
+The intention is that the driving mode will be adopted in a similar manner to 
+the airplane mode common to most smartphones and connected devices, which 
+restricts radio communications while airborne. Airplane mode has been a feature 
+of smartphones since 2007.
+
+While the NHTSA cannot force manufacturers to follow the guidelines, previous 
+guidelines concerning the design and use of navigation and entertainment 
+systems built into cars have seen wide adoption and implementation.
+
+The guidelines for smartphones call for features able to differentiate between 
+drivers and passengers within cars, so that only the driver is shown a 
+simplified and restricted view. They also request a connection between 
+smartphones and in-car controls such as steering wheel buttons, to remove the 
+need to interact with the screen.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F23%2Fus-regulators-reduce-road-deaths-smartphone-driving-mode-apple-samsung%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F699623e189db2fc4836581eed1fbe36332517182%2F0_0_5400_3240%2F5400.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=US%20regulators%20seek%20to%20reduce%20road%20deaths%20with%20smartphone%20'driving%20mode'&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F23%2Fus-regulators-reduce-road-deaths-smartphone-driving-mode-apple-samsung%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=US%20regulators%20seek%20to%20reduce%20road%20deaths%20with%20smartphone%20%27driving%20mode%27&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F23%2Fus-regulators-reduce-road-deaths-smartphone-driving-mode-apple-samsung%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F699623e189db2fc4836581eed1fbe36332517182%2F0_0_5400_3240%2F5400.jpg>
+ Data from the NHTSA shows that 3,179 people were killed and 431,000 were 
+injured in crashes involving distracted driving in 2014 in the US. Photograph: 
+Christof R Schmidt/Getty Images/F1online RM 
+Such driving modes are already implemented within certain Android smartphones, 
+including Samsung models, but they are not compulsory and are up to the users 
+to activate.
+
+Simplified driving mode interfaces are also a feature of several smart 
+in-vehicle mounting options, which aim to collect navigation, music and other 
+driving orientated features into a large button interface that is easier to at 
+arms length and less distracting.
+
+One example isn Google’s Android Auto, which was until recently restricted to 
+dedicated built-in systems but is now available for many Android smartphones.
+Apple’s CarPlay, 
+<https://www.theguardian.com/technology/2014/mar/03/what-is-apple-carplay-siri-iphone>
+ which connects an iPhone to the car’s built-in infotainment system, restricts 
+app use to features involved in navigation and music.
+
+In the UK, use of a mobile phone and other handheld devices while driving is 
+prohibited, but the law is less clear over the use of navigation devices. It 
+states that drivers “must exercise proper control of their vehicle at all 
+times” and that they should “not be distracted by maps or screen-based 
+information (such as navigation or vehicle management systems) while driving”.
+
+In the US, accidents caused by distracted driving are considered to be on the 
+rise as the attraction of using apps, games and messaging while on the road has 
+grown.
+
+Data from the NHTSA shows that 3,179 people were killed and 431,000 were 
+injured in crashes involving distracted driving in 2014 in the US, while the 
+number of people texting or using handheld devices while driving is increasing 
+reaching 2.2% of drivers.
+
+While legislation can go some way to curbing use, action from technology 
+companiesis thought to be crucial to both educate drivers and provide a viable 
+alternative to stop distracted driving.
+
+ * Siri, stop distracting me’: controlling smartphones while driving is 
+dangerous, study finds 
+<https://www.theguardian.com/technology/2014/oct/08/siri-stop-distracting-me-controlling-smartphones-while-driving-is-dangerous-study-finds> 

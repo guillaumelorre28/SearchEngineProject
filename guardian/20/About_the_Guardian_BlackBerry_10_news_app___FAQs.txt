@@ -1,0 +1,107 @@
+
+What is the Guardian app for BlackBerry 
+<https://www.theguardian.com/technology/blackberry> 10?
+
+The Guardian app for BlackBerry 10 delivers all the best content from 
+theguardian.com to your phone. Read the latest news, sport, comment and 
+reviews, watch video, listen to podcasts and browse stunning picture galleries 
+while on the move.
+
+What features does it have?
+
+- navigate by section, topic or contributor 
+- browse our award-winning audio and video content
+- swipe through stunning full-screen picture galleries
+- share articles and galleries via built-in BlackBerry share options 
+- view content in portrait or landscape orientation
+- choose UK or US edition
+- swipe from the left to ‘peek’ back a step; hold the back button and swipe 
+from the left to return to the homescreen
+
+Will it work on my phone?
+
+The app will work on BlackBerry 10 smartphones only.
+
+How much does it cost?
+
+The app is free.
+
+Where is the app available?
+
+The app is available now from BlackBerry World in all locations worldwide.
+
+How do I customise the homescreen or create favourites?
+
+We haven’t built customisation into this version of the app, but hope to 
+enable it in future versions.
+
+What content is available offline?
+
+The app stores content in the cache so you will be able to read a certain 
+amount of stories while offline. In the settings menu, you can choose whether 
+to include images and galleries.
+
+How do I share content?
+
+From an article or gallery page, tap the share icon at the bottom of the 
+screen. This will bring up a list of options based on the applications 
+installed on your phone. You can potentially share content via BBM, email, 
+Twitter, Facebook and more.
+
+Why don’t I see any images, even when the articles have appeared?
+
+The app downloads pictures after text to ensure you get a better all-round 
+experience. When using Wi-Fi or 3G you should see pictures appearing instantly. 
+If the connection speed is too slow, however, pictures will be prevented from 
+loading altogether.
+
+Can I use the Guardian app when I’m abroad?
+
+We advise checking with your operator prior to using the app abroad as most 
+monthly plans charge extra for data roaming when outside your home country. As 
+this can often be expensive, either use wi-fi or contact your service provider 
+for details of how to purchase cut-price roaming tariffs.
+
+Why isn’t my content being updated?
+
+The app needs a connection when opened to retrieve the latest content (unless 
+you’ve recently synched it). Without a connection the app will display the 
+latest content it can find. When connected, by default the home page will check 
+for the latest content every time it is opened or after every 10 minutes of 
+use, though you can adjust this in the settings menu. There is also a manual 
+refresh option at the top-right of the screen if you want to update more 
+frequently.
+
+How do I change the font size?
+
+From an article page, press the text size (Aa) link at the bottom of the 
+screen. Use the slider to select the text size you would like to view. This 
+will be saved for future articles.
+
+How do I choose the US/UK Edition?
+
+The edition of the app can be selected using the Settings option in the menu 
+(by swiping down from the top of the screen).
+
+How do I remove the app?
+
+On the installed apps page, hold down your finger on the app icon until a 
+delete badge is displayed - then tap the delete badge to remove the app from 
+your smartphone.
+
+How do I switch off auto-rotate?
+
+It is not possible to switch off auto-rotate for individual apps. To switch it 
+off for all applications, swipe down from the top bezel on the home screen of 
+your smartphone and tap the Rotation Lock icon in order to toggle auto-rotate.
+
+How do I give you feedback/ideas on how the app can be improved?
+
+We’d like to hear from you if you have any problems or suggestions on how we 
+can improve the app. To send feedback, while using the app, go to “Help” from 
+the menu, then select “About this app” and “Send feedback”. You can also get in 
+touch via email at userhelp@theguardian.com or our Twitter account 
+@guardianmobile where you can get news from the Guardian mobile team including 
+updates to the BlackBerry 10 app. Please note that queries will be answered by 
+the Userhelp team during UK office hours, Sunday - Friday 8am-6pm BST/GMT.
+ 

@@ -1,0 +1,78 @@
+
+App: Speedtest.net Mobile Speed Test 
+<http://itunes.apple.com/gb/app/speedtest.net-mobile-speed/id300704847?mt=8>
+
+By: Ookla
+
+Price: Free
+
+Available on: iOS and Android <https://www.theguardian.com/technology/android>
+
+What is it?
+
+An app to test the speed of your broadband, be it in the home or office, 
+allowing you to determine if you are obtaining a good service from your 
+internet provider.
+
+What does it promise?
+
+Ookla is a "global leader in broadband speed testing and web-based network 
+diagnostic applications", while the app itself claims to be the "most popular 
+broadband testing tool on the internet. With millions of tests performed every 
+month across hundreds of servers, Speedtest.net is the ultimate resource for 
+bandwidth testing and related information."
+
+Is it easy to use?
+
+It's child's play. Simply tap the huge "Begin test" button in the centre of 
+the screenand the app will download something and upload something to determine 
+the speed of your connection.
+
+Is it fun?
+
+It is surprisingly satisfying to see your broadband connection tested and your 
+long-held belief in the quality of your internet provider confirmed. In my 
+case, my Orange broadband was clocking up speeds of 8Mbit/s for downloads and 
+6Mbps for uploads – the advert promises speeds of up to 20Mbps.
+
+Is it pretty?
+
+It's lovely – full of metallic surfaces and glowing blue neon buttons, while 
+the speedometer-like testing dial adds a flash of scarlet to the proceedings. 
+Shame about the pop-up adverts though.
+
+Should you download it?
+
+It can be a useful way of checking whether you are receiving the service 
+you're paying for – you wouldn't fork out for dodgy food in a restaurant, so 
+why pay for sub-standard broadband?
+ Speedtest code2 
+The problem with this kind of heavy-tech product is that the end-user doesn't 
+really know whether the results are accurate. Moreover, some may find the app's 
+general lack of helpful information frustrating – for example, there is nothing 
+to help users determine how the results they obtain compare with, say, the UK 
+average or rival providers. (For background: the average broadband speed, 
+according to Ofcom, is now about 7Mbps, though most providers quote speeds of 
+up to 20Mbps. A handful – BT and Virgin among them – now offer super-fast 
+broadband at up to 30-40Mbps, though you'll pay for the privilege.)
+
+Also, the app carries out a "ping" test, but does not explain what this is and 
+why it is doing it.
+
+If the app shows that you have a poor connection speed you should carry out 
+the test again at different times of day, and also run it closer to your 
+wireless router in case thick walls in your home or distance are having an 
+effect.
+
+Then, armed with the results of your test, you should get in touch with your 
+provider to see if it can help speed-up the connection – it might check your 
+line for faults, for example. If not, you might consider switching to a 
+different provider.
+
+Ofcom's code of practice insists customers are given an indication of the 
+typical range of speeds they can expect their line to support. During the first 
+three months of their contract, if their line speed falls significantly short 
+of those estimates and the ISP cannot resolve the problem, customers must have 
+the option to leave their contract without penalty. So perhaps this app is 
+best-used in the early months of a new broadband contract.
+ 

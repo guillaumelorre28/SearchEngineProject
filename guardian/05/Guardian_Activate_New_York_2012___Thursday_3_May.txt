@@ -1,0 +1,651 @@
+
+9am: Hello and good morning from the Paley Center for Media in New York. The 
+16-storey building boasts two entrances, one on the left for office staff and a 
+main entrance for the general public 
+<http://en.wikipedia.org/wiki/Paley_Center_for_Media#Buildings>. The Guardian 
+comes to you live from the large basement-level theater.
+
+But enough of my extensive knowledge of the Paley Center. Today marks the 
+secondGuardian Activate New York conference 
+<https://www.theguardian.com/activate/new-york>, with some of the media 
+industry's big players due to speak.
+
+In no particular order, Emily Bell, Arianna Huffington, Jeff Jarvis, Clay 
+Shirky, Jonah Peretti, The Guardian's Very Own Alan Rusbridger, The Guardian's 
+Very Own Kath Viner and many more are on the bill.(Full listings here). 
+<https://www.theguardian.com/activate/new-york-speakers-2012>
+
+We'll see presentations from speakers, panel discussions and Q&As through the 
+day. This morningEmily Bell <https://www.theguardian.com/activate/emily-bell>, 
+director of the Tow Center for Digital Journalism at Columbia's Graduate School 
+of Journalism and former multiple-award-winning Guardian guru will chair a 
+discussion on openness on the web, with the Guardian editor-in-chief, and my 
+boss,Alan Rusbridger <https://www.theguardian.com/activate/alan-rusbridger> and 
+Twitter'sAdam Sharp <https://www.theguardian.com/activate/adam-sharp> among 
+those set to weigh in.
+
+This afternoon there's a keynote speech from Arianna Huffington 
+<https://www.theguardian.com/activate/arianna-huffington>, president and 
+editor-in-chief of the AOL Huffington Post Media Group, then a Q&A with 
+Guardian US editor-in-chief, and my other boss, Janine Gibson, beforeClay Shirky
+ <https://www.theguardian.com/activate/clay-shirky>, professor at New York 
+University's interactive telecommunications program, andJeff Jarvis 
+<https://www.theguardian.com/activate/jeff-jarvis>, director at City University 
+of New York's Tow-Knight center for entrepreneurial journalism see us home.
+
+Enough names for you? Good. On with the show.
+
+9.15am: Jeff Jarvis, who is acting as "chairman" today, takes to the stage to 
+introduce the Activate summit and dismiss his "chairman" title. He says the 
+Brits love to inflate titles. I, for one, am introducing myself as "Lord of the 
+Blog" to people here.
+
+The internet is "brand new", Jarvis says. While some people believe the 
+internet is changing things very quickly, Jarvis thinks we're going through 
+change "at a very slow pace". But today, we have a chance to explore that 
+change, with representatives present from journalism, technology and 
+government. The merging of journalism and technology matters, Jarvis says. He 
+believes that "government must become open by default and secret only by 
+necessity", which will be discussed later.
+
+Introducing the Guardian's editor-in-chief, Jarvis says Alan Rusbridger 
+<https://www.theguardian.com/media/alanrusbridger> is the "best newspaper 
+editor in the world". If you're reading, "I agree Alan!" (#suckup).
+
+9.50am: Reid Hoffman, co-founder and executive chairman of LinkedIn, is the 
+subject of a Q&A with Jeff Jarvis.
+
+Jarvis kicks off by asking about "openness", and what Hoffman understands by 
+that. It's the freedom to develop, freedom to speak, freedom to act, Hoffman 
+says. Openness is important in government as well as journalism.
+
+Platforms for journalism are important, Hoffman says. In terms of actually 
+making money from journalism, "nobody's seen a content model that works," he 
+adds.
+
+Hoffman and Jarvis talk KickStarter as an example of openness and a way of 
+testing whether a market exists. Hoffman says companies aren't as restrained by 
+capital as people think. He says although Kickstarter is used as a way of 
+financing projects, which might not be able to be launched through businesses, 
+those products could spark into companies.
+
+We see many threats to openness, Jarvis says. Does Hoffman see a threat to the 
+open internet?
+
+There's three different areas, according to Hoffman. One is government, 
+because people think they are better architects than they are, the second area 
+is that we have to watch out for businesses try to go to a state where they 
+have dominance. That can adversely affect the ecosystem. The third is consumer 
+dependent. Consumers don't approach the web with the philosophy "I'm doing 
+what's best for the ecosystem", they do what is best for them, now.
+
+We finish with some questions from the audience. A man named Nathan says he 
+feels we're at the beginning of social. What does Hoffman reckon?
+
+Hoffman agrees. We're "just at the beginning". It will get deeper and richer. 
+One of the things that's difficult about predicting the future is "it's always 
+sooner" than you think.
+
+Now a question about volunteering – LinkedIn has recently added a volunteering 
+aspect to its service.
+
+Every organisation that can should think about doing a "for good mission" and 
+a "for profit mission", Hoffman says. LinkedIn has added a volunteering aspect 
+to its service recently, one example being finding professionals with certain 
+expertise who can serve as board members for non-profit organisations. He 
+thinks all corporations should do that.
+
+10.10am: Edward DeSeve, president of the global Public Leadership Institute 
+and a former special advisor to President Obama, is on next, discussing open 
+government. The biggest obstacle to openness in government is fear, DeSeve says.
+
+"If the people know, this will be bad," is the philosophy among civil 
+servants, according to DeSeve. He says when he started out in government he was 
+told "the opposite" of the old adege "trust the people".
+
+So why are civil servants opposed to openness? "They're afraid," DeSeve says. 
+Afraid of the unknown.
+
+"We don't know what might happen" if government's ran openly, DeSeve says. 
+Government is all about networks, but some people in government are afraid of 
+participating in networks because they feel they might risk getting promoted.
+
+DeSeve talks about how states should be publishing information "from a 
+systemic point of view", which is interesting. Instead of a state taking its 
+information on road traffic and conditions, then processing that before giving 
+out information and advisories, why not just open up its internal system and 
+let people see, and use, the information themselves?
+
+10.35am: Alfred Spector, vice president of research and special initiatives at 
+Google, says that Google uses "hybrid intelligence", where systems 'learn' from 
+people.
+
+An example is how search terms use spell correction, Spector says. Google 
+doesn't employ language experts, instead computers monitor search traffic and 
+look for patterns where people type a word, don't get the search results they 
+wanted, type it again and do. Computer systems are then able to use this 
+'knowledge' to suggest search terms. Spector gives the example of the incorrect 
+spelling of "Barack" when President Obama shot to prominence. Google is now 
+also doing this with speech recognition.
+
+Openness is important, Spector says, but with large amounts of data, it is not 
+just sufficient for systems to be able to process it. We need to make it 
+understandable to users.
+
+Open data enables Google to respond to searches for real-time events better, 
+Spector says, giving the example of searches for 'tsunami' on Google maps 
+shortly after a tsunami warning was issued last year. The searches brought up 
+tsunami museums and centres, instead of warnings and mapping of where the 
+tsunami may hit. Open data on tsunami warnings incorporated by Google has 
+enabled them to have a "Google alert" system, showing locations that could 
+potentially be affected by a tsunami.
+
+Spector is asked about Google's translation technology. It is "imperfect", but 
+"you generally get the correct gist" of an article you try to translate. Google 
+has been adding linguistic queues, and parsing, as we heard are being used to 
+help users search for terms, into its translate function, Spector says, which 
+helps with languages which have a different sense of verb placement.
+
+11.10am: Adam Sharp, senior manager, government, news and social innovation at 
+Twitter, is up next. He begins by comparing Twitter use from election day 2008 
+to today.
+
+On election day 2008, 1.8m tweets were sent. That many tweets are now sent 
+every eight minutes, Sharp says. Continuing along the same theme, he says more 
+tweets have been sent this week than had ever been sent before Barack Obama was 
+sworn in as president. Impressive.
+
+This volume has led to changes, Sharp says. Politicians and presidential 
+campaigns had shifted to a "broadcast method" of campaigning. But billboards, 
+television advertising etc had led to the loss of a "one on one" connection 
+with voters that you get from door-to-door campaigning. However with Twitter 
+that "one on one" relationship is returning.
+
+This also leads to a "democratization of access", Sharp says, where everyone 
+can have a soapbox – which helped the growth of the Tea Party and the Occupy 
+movement.
+
+Social media has also changed the news cycle, Sharp says. Voters now have a 
+"real time", "direct connection" to events. He uses the example of how Barack 
+Obama's trip to Afghanistan broke on Twitter as an example of how the news 
+cycle has changed.
+
+"There's a tremendous opportunity in the news media to do what journalists do 
+best, which is to provide context," Sharp says. As well as providing context, 
+tools like Twitter can be used to find and tell stories.
+
+Hilary Rosen's comments on Ann Romney "never having worked a day in her life" 
+would have traditionally played out over "days", Sharp says. He also gives a 
+example of people following debates on Twitter, using "answer" or "#dodge" to 
+assess whether a candidate answered questions. It is this which leads to the 
+idea that a candidate fared well or poorly in a debate, Sharp says. Twitter 
+also gives a "real-time index to the election".
+
+Question: news of Obama's trip to Afghanistan did slip out on Twitter, and the 
+administration then asked key journalists to delete tweets. How does Twitter 
+deal with things like this?
+
+Sharp says Twitter and its employees "do not want to be subject to arrest". If 
+content is in violation of laws in a certain country, it will be deleted in 
+that country and replaced by a box saying it has been deleted at the request of 
+the government. Users in the rest of the world can see that tweet. In terms of 
+deleting a tweet, a court order is required because Twitter wants a judge to 
+have asked for deletion, not just government spokespeople.
+
+Here's a picture of the panel here from my colleague Greg Chen...
+
+Panel: Are we winning the battle for an open Internet? #ActivateNYC12 
+<https://twitter.com/search/%2523ActivateNYC12> twitter.com/ChenGreg/statu… 
+<http://t.co/plcYIYVY>
+
+— Greg Chen (@ChenGreg) May 3, 2012 
+<https://twitter.com/ChenGreg/status/198083608324476928>
+
+11.45am: Swift recap – Eli Pariser, MoveOn.org author and author of The Filter 
+Bubble, spoke about how we create an internet that matters. He said too many 
+media organisations think of it as a "stage model" where everyone looks at, or 
+consumes, what one organisation puts out. With social media, that doesn't work, 
+Pariser says. Everyone now has their say.
+
+Media organisations need to build trust, Parise said, and we need to make 
+internet shaped content about stuff that matters, Pariser says. We need to make 
+sure that the "news that really matters" finds the "people that need it".
+
+Yochai Benkler, co-director of Harvard University's Berkman Center for Internet
+ <https://www.theguardian.com/technology/internet> and Society, followed with a 
+detailed analysis of the SOPA/PIPA debate and how the way internet users 
+altered the decision making process offers "a unique insight into the dynamics 
+of what the future of democratic participation could become".
+
+The talk was fascinating, but unfortunately I am not a Harvard-level expert on 
+Internet and Society so would advise you to watch Benkler's talk in video form, 
+rather than read any analysis of mine. I'll embed the video when it is 
+published online.
+
+12.10am: The morning's panel discussion now. Emily Bell is chairing a 
+discussion about the battle for an open internet, with Alan Rusbridger, John 
+Sviokla, Edward DeSeve, Adam Sharp and Yochai Benkler.
+
+
+Bell asks Sharp, from Twitter, about barriers to a growing, "networked world". 
+"Twitter degrades" very well, Sharp says. You can be an active participant by 
+text message. You don't need a smartphone. Still, there are populations which 
+don't have access to that, Sharp says. He sees openness as "everyone having a 
+microphone", as well as data. Openness also means the ability for people to 
+build their own tools ontop of existing things.
+
+Is more data really made public than ever before, Bell asks? She wonders if 
+closed data is still a significant problem.
+
+Sviokla, the principle and business leader for strategy and innovation at PwC, 
+says companies would like to share data more, "but it's expensive" and "it's 
+really hard to get at". Different data types can make it hard to publish data.
+
+Another problem is around property rights. There are fundamental questions, 
+"like who owns my behaviour", Sviokla says.We need to articulate the nature of 
+those property rights, as hstorically the more we have articulated the nature 
+of property rights, the more there has been an opportunity for openness.
+
+Sviokla says some organisations definitely do want to keep some things closed. 
+Some for competitive reasons, some for regulatory reasons. "There is a vast 
+amount of information we cannot share due to regulation," at PwC, he says, and 
+the company would be in a great deal of trouble if it did share it.
+
+Bell says journalism sits in a position of wanting things to be open, but then 
+wanting secrecy for competitive purposes.
+
+Alan Rusbridger says there is still a fight for open vs closed models. The 
+most closed model is the Times of London, for which it is impossible to see if 
+it is a success. The Guardian is "more at the extreme of the open model", 
+Rusbridger says. "Nobody can yet prove that economic salvation is going to lie 
+at one polarity or the other."
+
+Sviokla says who pays for it and what do they pay for?
+
+The Guardian is a mixture between a membership model and advertising, 
+Rusbridger says, mentioning the Guardian's recent "open weekend" in London, 
+when 6,000 readers were invited into the Guardian offices. It enabled people to 
+become "members in what we're doing".
+
+12.25pm: Emily Bell moves the discussion on to how internet change is 
+understood. Do we really understand what is going on when change is happening 
+at this pace?
+
+Rusbridger says the Guardian opened its API, which was "a big decision 
+moment". But he thinks debates are now happening so fast that a lot of news 
+managements don't have time to think things through.
+
+Sviokla says the speed of change is accelerating. "The only human way" to 
+address that is to "make sure you're talking to people who know what they're 
+talking about". The primary thing is social, he says.
+
+"Are we winning the battle for an open Internet?" @arusbridger 
+<https://twitter.com/arusbridger>, @AdamS <https://twitter.com/AdamS>, @
+emilybell <https://twitter.com/emilybell> et al at #activatenyc12 
+<https://twitter.com/search/%2523activatenyc12> twitter.com/AdamGabbatt/st… 
+<http://t.co/jaSepzSR>
+
+— Adam Gabbatt (@AdamGabbatt) May 3, 2012 
+<https://twitter.com/AdamGabbatt/status/198089656913506304>
+
+Everybody needs some privacy around something, Bell says. How does the open 
+web conversation have a sensible public debate about that.
+
+Benkler says to distinguish between transparency and privacy, you have to 
+understand power. Is the person being gazed at weak, and the gazer powerful, or 
+the other way round? Openness is fundamentally about destabilisation between 
+power and control. If you understand that, then you will not be wrong about 
+where privacy requires "constrain" and where power requires openness. When 
+asked, he says it would be possible for this to be translated into a legal 
+framework.
+
+You are able to say privacy is about people's information when it is in a 
+"non-public context", Benkler says. The distinguishing line needs to come from 
+what is happening in society and then be translated into online.
+
+12.30pm: Some tweets from the crowd here:
+
+@emaleigh on Adam Sharp's assertion that news is still essential as a product:
+
+Quality information is still a life sustaining force, same as food and water 
+are, and people seek that. -Twitter's Adam Sharp#activateNYC12 
+<https://twitter.com/search/%2523activateNYC12>
+
+— Emaleigh Doley (@emaleigh) May 3, 2012 
+<https://twitter.com/emaleigh/status/198085820333309953>
+
+@PCrysdale picks up a great quote from Sviokla on openness/social and why it 
+is important.
+
+"If your network is an old-world network, I can guarantee you are out of the 
+loop. The future is social." - John Sviokla#activatenyc12 
+<https://twitter.com/search/%2523activatenyc12>
+
+— Peter Crysdale (@PCrysdale) May 3, 2012 
+<https://twitter.com/PCrysdale/status/198086062134931457>
+
+1.45pm: Lunch over here at the Paley Center, and the audience is currently 
+enjoying a performance from "virtual magician" Marco Tempest, CEO of Newmagic 
+Communications inc.
+
+"Virtual magician" Marco Tempest at #activatenyc12 
+<https://twitter.com/search/%2523activatenyc12> twitter.com/AdamGabbatt/st… 
+<http://t.co/7yxCIKc1>
+
+— Adam Gabbatt (@AdamGabbatt) May 3, 2012 
+<https://twitter.com/AdamGabbatt/status/198106450520846337>
+
+2.10pm: Arianna Huffington, president and editor-in-chief of AOL Huffington 
+Post Media Group and Janine Gibson, editor-in-chief of Guardian US, now take 
+the stage.
+
+Gibson says Huffington was described to her recently as "the Madonna of our 
+industry", before Huffington gives a run-down of what HuffPo does.
+
+The HuffPo looks at politics and how to cover under-reported stories that 
+matter to people's lives, she says. It was this that won them a Pulitzer.
+
+Another HuffPo obsession is "how to reduce stress in people's life". 
+Huffington says the search to discover how to reduce stress in people's live 
+began when she fainted from stress five years ago. This led to the Post's 
+'healthy living' section and many articles about how to deal with stress, 
+including an app which will help people to cope.
+
+Another obsession is "making a difference". The Post has a dedicated section 
+on good news. A lot of monetisation comes from brands targeting people around 
+this area, Huffington says.
+
+Asked about the White House correspondents dinner and President Obama's joke 
+that the Huffington Post won its Pulitzer for copy and pasting, Huffington 
+says: "Any time the president of the United States makes a joke about your 
+Pulitzer, that's a great joke for me."
+
+What is the Huffington Post's role in trying to "dampen down post-truth 
+rhetoric", Gibson asks.
+
+Huffington says the debate is narrowed by talking in terms of left and right. 
+The state of the middle class are not just something that concerns liberals.
+
+HuffPo was born in the George W Bush era and disagreed with many things he 
+stood for, Huffington says, but HuffPo has been very critical of Obama as well.
+
+Gibson asks about Murdoch's criticism that the HuffPo has been "quite clever" 
+at stealing stories from newspapers. Huffington says the organisatione employs 
+more than 500 full time journalists. She says to call what the HuffPo does 
+"stealing" is to not be aware of the new way of doing things. If the HuffPo 
+includes a story from the New York Times, or a small blog, they get traffic 
+which they can monetise.
+
+The idea of saying: "I want to launch a site where people can come and see my 
+stuff, that train has left the station a long time ago," Huffington says. Now 
+it is about creating content that can be shared across many websites.
+
+"You were described as the Madonna of journalism, is there the possibility of 
+a Lady Gaga appearing and possibly stealing or repurposing some of your earlier 
+work?"
+
+Huffington says there is room for Madonna and Lady Gaga, which is good news...
+
+2.25pm: Jonah Peretti, CEO of Buzzfeed, begins his talk by saying Google is 
+about "connecting people with information they want". 
+
+Facebook is more about "expressing yourself", Peretti says, while Buzzfeed is 
+about treating social at a starting point. He shows a picture of two Basset 
+Hounds running that was shared 121,000 times on Facebook and had over 1m page 
+views.
+
+"It wasn't so much about the content, it was about the social experience."
+
+Buzzfeed is organised around that idea, Peretti says.
+
+People also want to get involved, Peretti continues, quoting a Buzzfeed 
+campaign against the injustice of Bradley Cooper being named sexiest man alive 
+"when it was clearly the year of Ryan Gosling".
+
+He talks about "informational value, but also emotional value", showing a 
+picture of 45 powerful news images from around the world. More than half of the 
+9m views that article received came from Facebook, Peretti says.
+
+He goes on to talk about Buzzfeed Politics under Ben Smith, and how it got its 
+first scoop by revealing John McCain would endorse Mitt Romney.
+
+Peretti ends by talking about the "social dynamics", and how people like to 
+share things wih friends that can educate them and make them feel better – he 
+ends with a run through of Buzzfeed's"13 simple steps to get you through a 
+rough day article" 
+<http://www.buzzfeed.com/mjs538/13-simple-steps-to-get-you-through-a-rough-day>.
+
+2.40pm: Andy Mitchell, strategic partner manager, platform partnerships at 
+Facebook is up next. The live stream is turned off because, as perthis Read 
+Write Web article 
+<http://www.readwriteweb.com/archives/blissful_silence_facebook_enters_sec-mandated_quie.php>
+, "The Securities and Exchange Commission requires a "quiet period" for any 
+company preparing to go public".
+
+What does the "quiet period" actually entail? Companies are allowed to make 
+forward-looking statements, factual progress reports on products and updates to 
+critical infrastructure. For example, if Facebook is down for millions of 
+users, the company can tell people why and how they are fixing it. 
+Communications to developers, such as is made through its developer blog, are 
+permitted.
+
+"Non-reporting issuers are, at any time, permitted to continue to publish 
+factual business information that is regularly released and intended for use by 
+persons other than in their capacity as investors or potential investors," the 
+SEC explainer page on the quiet period states.
+
+In plainer English, that means that investors do not get any information 
+regarding the financial performance and critical infrastructure of a company. 
+Communications with non-investor entities is permitted.
+
+4pm: The afternoon's panel now, "How can the open web further the 
+sustainability agenda?" Jo Confino, Guardian executive editor, moderates, with 
+Georg Kell, executive editor, UN Global Compact; Hannah Jones, vice president, 
+sustainable business and innovation, Nike Inc; David Jones, global CEO, Havas; 
+Toby Daniels, co-founder and CEO, Crowdcentric.
+
+Hannah Jones shows off her sustainably made Nike trainers to begin – they only 
+contain one thread – and says that businesses thinking they have to keep things 
+secret is "totally counterintuitive".
+
+"We got wrapped up in secrecy. But in an age of transparency, that doesn't 
+make sense."
+
+She says in years previous as a company, you would never tell anyone where 
+your supply chain was. But in 2006 Nike broke with that tradition and disclosed 
+all its factory locations. Now they collaborate with others to improve 
+conditions in their factories.
+
+Daniels says collaboration is actually "incredibly difficult" to do. It has to 
+start with understanding how to build an infrastructure or framework, rather 
+than when many people talk about crowdsourcing, they think of just putting an 
+open platform for people to work on and share. Crowdsourcing is actually about 
+putting incentives in place for people to "actually want to get involved".
+
+David Jones says social media has created "radical transparency". 
+
+"People can find out anything about companies," he says, and then decide if 
+they want to give that company their business. Now we're heading toward an age 
+where if a business does not conduct itself well, people can bring it down.
+
+"People have an amazing ability to hold business to account," Jones adds, 
+before giving a killer quote. In the social age, "the new price of doing well, 
+is doing good".
+
+"Why did we just have the meltdown?," he says. "Because we had a model built 
+on the idea of profit for profit's sake."
+
+Hannah Jones says we're seeing a tectonic plate shift in transparency. "What 
+was a whisper is a shout." Transparency in business is now becoming the norm.
+
+Confino asks Georg Kell about this theory of the "fear of protectionism". 
+We're seeing the challenge of fear – from water scarcity and food scarcity. Is 
+it easier to collaborate when things are going well?
+
+Kell says there are still a lot of short-term business models which hold back 
+change. The challenge is to bring corporate sustainability "to maturity". But 
+out of necessity innovation can occur.
+
+After the second world war the majority of world leaders agreed we needed to 
+collaborate, Kell says. But he fears over the last couple of years "the 
+caretaking of the collaborative space that enables innovation to travel fast" 
+has not progressed as it should have. New divides have emerged during the 
+global financial crisis, and the world is "neglecting" the sharing of 
+innovation.
+
+David Jones says he's an optimist. Young people, who he refers to as 
+millenials, now are "unbelievably socially responsible".
+
+"Naturally, as the world gets each decade over, it is going to head in the 
+right direction."
+
+Kell says one problem with openness and sustainability is that we haven't come 
+to grips yet with the issue of interdependence – "air travels across 
+boundaries, water travels across boundaries".
+
+David Jones agrees. He says business needs to deliver, because government "is 
+not a system that delivers any more". Business, technology have gone global, 
+but each leader of a country is trapped by thinking nationally".
+
+Talking of the current climate, Daniels says "most change comes when fear is 
+being felt". It forces us to explore solutions more aggressively, he says.
+
+4.45pm: Om Malik, founder and editor-in-chief of GigaOM Network, talks about 
+how he hates the word "content". He says we're in the information business. But 
+he has some bad news for established media companies – he thinks media industry 
+innovation can't happen there. He cites Buzzfeed as an innovator and gives an 
+example of how a start-up magazine might look today...
+
+If you had no history and asked how a gourmet food magazine would look today, 
+I would give you @foursquare <https://twitter.com/foursquare> or @yelp 
+<https://twitter.com/yelp> - @om <https://twitter.com/om> #activatenyc12 
+<https://twitter.com/search/%2523activatenyc12>
+
+— Zachary McCune (@zmccune) May 3, 2012 
+<https://twitter.com/zmccune/status/198148661346189312>
+
+What Facebook did to MySpace, Instagram was doing to Facebook, Malik says. He 
+says as long as Facebook has Mark Zuckerberg at the helm he will be fine. Only 
+a company founder can understand the panic of a start-up, he says.
+
+Malik says Google is doing "unnatural things" by trying to expand beyond its 
+search aspect. Google is threatened by Facebook's rise, he says. Malik does not 
+use Google+ anymore.
+
+"Google News is this machine" doing everything, he says. They never really 
+thought about people.
+
+.@om <https://twitter.com/om> hates the word content. "We are in the business 
+of information." Says it just sounds more promising#activatenyc12 
+<https://twitter.com/search/%2523activatenyc12> twitpic.com/9gvsjn 
+<http://t.co/VcFdOOn7>
+
+— Craig Kanalley (@ckanal) May 3, 2012 
+<https://twitter.com/ckanal/status/198148184952930304>
+
+5.10pm: Nancy Lublin, CEO of Do Something, says young people are not the 
+future. They're running multi-billion companies now. (Queue pics of Mark 
+Zuckerberg et al).
+
+Lublin talks about texting, and its sometimes overlooked power. It has a "100% 
+open rate", she says. If you get a text, you read it.
+
+Do Something texts 200,000 kids a week. The opt out rate is only 0.6%. Now she 
+explains some of Do Somethings projects.
+
+"Teens for jeans" is one, designed to clothe homeless children. The campaign 
+collected more than 1m pairs of jeans in just three weeks. The use of mobile is 
+crucial to Do Something's success.
+
+However she says the challenge of using texting is "how to make this social". 
+It's "an inherently one-on-one technology", and that's what they're looking at 
+now.
+
+5.30pm: Clay Shirky, professor at NYU's interactive telecommunications program 
+and famed internet guru, is up now. He's the last speaker of the day.
+
+Shirky says he and others are working on a study on the future of news from 
+journalists' perspective. He begins by talking about how when Zuccotti Park was 
+cleared out in November an AP journalist was among those arrested. When a 
+colleague tweeted about it, AP famously put out procedures for using Twitter 
+saying journalists should not tweet before a story has gone on the wires.
+
+Shirky says if a "ragtag group of amateurs" – he's talking about citizen 
+journalists at Occupy protests I think – can upstage AP, what does that mean 
+for the industry?
+
+Says @cshirky <https://twitter.com/cshirky> uses #ows 
+<https://twitter.com/search/%2523ows> eg as a 'rag tag' band that 'can spread 
+the news faster than the AP'. What is PROCESS of journalism?#ActivateNYC12 
+<https://twitter.com/search/%2523ActivateNYC12>
+
+— emily bell (@emilybell) May 3, 2012 
+<https://twitter.com/emilybell/status/198159906145177601>
+
+He says processes such as AP inplemented following the tweet tend to come from 
+stupidity. Any time checks are in place to prevent something bad happening, and 
+Shirky gives the example of a confidential email accidentally having been sent 
+out to a client, they are in place because mistakes have been made previously.
+
+RT @Rasiej <https://twitter.com/Rasiej>: @cshirky <https://twitter.com/cshirky>
+ mentions @homicidewatch <https://twitter.com/homicidewatch> an amazing 
+journalistic platform built"As if the net existed"#activatenyc12 
+<https://twitter.com/search/%2523activatenyc12>
+
+— Scott Stadum (@ScottinDC) May 3, 2012 
+<https://twitter.com/ScottinDC/status/198161642834497536>
+
+But "for the news industry defending against past mistakes produces future 
+mistakes", Shirky says, because that industry isn't the same anymore.
+
+That means we should see much smaller organisations outperform bigger 
+organisations, because they don't have to go through processes, Shirky 
+continues. UsingHomicide Watch DC <http://homicidewatch.org/> as an example 
+(check the link), he says the site covers exclusively murders in the Washington 
+DC area, with each murder victim getting a unique URL.
+
+"This is a news site that's designed as if the web exists", Shirky says, to 
+laughter. The site operates "more like a database than a news wire".
+
+The site is run by just two people, and one of those only works part time, yet 
+it does a better job at covering homicides issue than major news organisations, 
+Shirky argues, at a dramatically lower cost.
+
+RT @Rasiej <https://twitter.com/Rasiej>: @cshirky <https://twitter.com/cshirky>
+ mentions @homicidewatch <https://twitter.com/homicidewatch> an amazing 
+journalistic platform built"As if the net existed"#activatenyc12 
+<https://twitter.com/search/%2523activatenyc12>
+
+— Scott Stadum (@ScottinDC) May 3, 2012 
+<https://twitter.com/ScottinDC/status/198161642834497536>
+
+"They've taken the risk out of the equation." They've proven you can work this 
+way.
+
+Now the people behind Homicide Watch DC are taking this cheaper model to 
+newspapers. But "not one single newspaper" has taken them up on it.
+
+"It isn't that newspapers don't have the resources to do this," Shirky says. 
+It's that if they did it they would have to rethink their business from the 
+ground up.
+
+"What would it take for a traditional organisation to actually change its 
+process?" Shirky says.
+
+He says the New York Daily News "completely scrapped" its traditional way of 
+repurposing a newspaper for a website when Hurricane Irene was due to strike. 
+They sent their reporters everywhere. Their homepage became completely live and 
+constantly updating.
+
+What did it take to get them to do this?
+
+One, it took Hurricane Irene, Shirky says. The Daily News couldn't have 
+reporters at its HQ under a city ruling. But their content management system 
+only worked from in the building, so their hand was forced.
+
+Secondly, all the senior executives were on vacation, Shirky says, adding that 
+now we know what it takes for news institutions to change.
+
+"One, you have to believe your news room is about to be blown out to see. 
+Second, your senior newspaper activities have to be completely AWOL."
+ 

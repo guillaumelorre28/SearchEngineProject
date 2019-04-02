@@ -1,0 +1,116 @@
+
+With the Cabinet Office soon to announce 
+<https://www.theguardian.com/government-computing-network/2012/feb/03/gcloud-intent-to-award>
+ the initial batch of suppliers for its G-Cloud framework, talk of cloud 
+services is rife among Whitehall and suppliers alike.
+
+Adoption of cloud services is often framed within discussions on saving money. 
+For South Lanarkshire council's head of ICT and Socitm VP Kay Brown, the 
+assumption that cloud equals lower costs is one that should be challenged.
+
+"It's not always a way to save money. Yes, you get shot of the hassle of 
+having your own infrastructure if you want, but from an application provision 
+[perspective], it's not cheaper," she says.
+
+Cloud's positive associations around cutting costs have also seen the term 
+co-opted by IT staff and vendors alike, and applied to services that may appear 
+similar but are not true cloud.
+
+"Not everybody understands what it means," says Brown who, in a discussion an 
+individual from the Cabinet Office, was told: "You IT guys have always got to 
+find a new word for something you've had for years".
+
+"I understand cloud, but in line with what somebody else in the Cabinet Office 
+said, and this is a very naïve view in my opinion, they said, 'It's just 
+software or hardware provisioning remotely,' so it's almost as if there is 
+nothing new," she adds.
+
+South Lanarkshire's own dalliances with the cloud came with a recent 
+implemention of Jadu's Weejot mobile app publishing software, which allows the 
+council to automatically produce and update mobile web apps aimed at citizens. 
+Using the software as a service platform the council is able to pick from 
+Jadu's range of ready-made apps, which can be customised to the council's needs 
+and then published, or build its own bespoke apps using Jadu's SDK with secure 
+connections to its back office systems.
+
+To date, the council has made eight apps from the ready-made palette, 
+including an events calendar and an app notifying parents of school closures. 
+By using jQuery mobile and HTML5, the apps can be accessed by any smartphone 
+with a browser.
+
+The council rolled out Weejot in four weeks for just under £2,000, with an 
+additional annual running cost of £3,500.
+
+"It was a very good solution for us without any capital investment in hardware 
+and it meets the growing needs of our citizens, as we're finding that fewer and 
+fewer of them are using fixed-line telephony. Research has shown interestingly 
+enough that by 2014, more people will access the internet via a mobile device 
+than from a desktop device," says Brown.
+
+Software <https://www.theguardian.com/government-computing-network/software> 
+is not being universally used across the council, however. Last year South 
+Lanarkshire looked at cloud provisioning of both software and hardware for an 
+IT toolkit, based on Microsoft Project.
+
+"Overall it was less expensive, as you just have the cost as long as you are 
+continuing to use it, but we did have the occasional learning problems with it, 
+in that it didn't always do what we expected it to do," says Brown. "We 
+expected in some ways that it would respond slightly quicker if, for example, 
+you needed more space, but that was maybe our naivety and it was early days."
+
+As well as looking to the cloud, some councils are also exploring bring your 
+own device.Recent research by Socitm 
+<https://www.theguardian.com/government-computing-network/2012/jan/20/byod-staff-cuts-socitm>
+ indicated that there has been a change in attitude about local public service 
+staff using their own technology to undertake business tasks - a trend Brown is 
+witnessing.
+
+"It's prevalent, and we're getting a lot of requests from people saying, 'I 
+want to use an iPhone.' It's fine, you can use an iPhone, but you just can't 
+use it on my [council] network," she says.
+
+The reason for such a ban is that devices used for council work must be code 
+of connection compliant with the GCSX network 
+<http://www.ngssecure.com/services/compliance/gcsx-code-of-connection.aspx>. 
+The only devices that meet code of connection standards are BlackBerrys, "which 
+isn't what everybody has, so there are some issues there", she adds.
+
+Brown believes that in theory bring your own device is a great idea, but says 
+the security risks need to be fully considered. To protect an organisation, 
+"huge amounts" of money may need to be invested on firewall products to allow 
+devices such as iPads and iPhones to be used over a local authority's network, 
+she says.
+
+Bring your own device also poses what could be a greater challenge for 
+councils - as employers, they are expected to provide all of the material staff 
+need to carry out their duties. "How can you force people, especially if 
+they're low paid, to bring their own device?" she asks.
+
+Bring your own device may be some years off for the council, but it has other 
+means of generating efficiences in the meantime: the council has just completed 
+its second deployment of a electronic document and records management system 
+(EDRMS), which has "shown up substantial financial savings".
+
+The council is also looking at how it can work on suggestions made in last 
+year'sMcClelland review 
+<https://www.theguardian.com/government-computing-network/2011/oct/24/scotland-ict-strategy-mclelland>
+ of ICT infrastructure in Scotland's public sector, like the majority of public 
+services across the country. It also plans to continue looking at ways it can 
+share its services where possible - it currently owns a datacentre, which is 
+used by seven public sector organisations.
+
+Despite the financial pressures facing local authorities across the UK, Brown 
+says she is hopeful that these tough times will provide an opportunity for IT 
+professionals to "step up to the mark" and deliver more business benefits for 
+their organisations, whether that be through cloud, bring your own device, or 
+alternative ways.
+
+"We also have to learn to say no but nicely. Occasionally, we get asked to do 
+things which are just stupid, and we just have to learn to say, 'No I don't 
+really think that that's a good idea,'" she adds.
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Guardian Government 
+Computing network here. 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+ 

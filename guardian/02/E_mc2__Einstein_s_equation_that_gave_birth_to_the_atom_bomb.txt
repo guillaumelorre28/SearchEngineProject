@@ -1,0 +1,91 @@
+
+This is the most famous equation in the history of equations. It has been 
+printed on countless T-shirts and posters, starred in films and, even if you've 
+never appreciated the beauty or utility of equations, you'll know this one. And 
+you probably also know who came up with it – physicist and Nobel laureateAlbert 
+Einstein <https://www.theguardian.com/science/alberteinstein>.
+
+The ideas that led to the equation were set down by Einstein in 1905, in a 
+paper submitted to theAnnalen der Physik called "Does the Inertia of a Body 
+Depend Upon Its Energy Content?". The relationship between energy and mass came 
+out of another of Einstein's ideas, special relativity, which was a radical new 
+way to relate the motions of objects in the universe.
+
+At one level, the equation is devastatingly simple. It says that the energy 
+(E) in a system (an atom, a person, the solar system) is equal to its total 
+mass (m) multiplied by the square of the speed of light (c, equal to 186,000 
+miles per second). Like all good equations, though, its simplicity is a 
+rabbit-hole into something profound about nature: energy and mass are not just 
+mathematically related, they are different ways to measure the same thing. 
+Before Einstein, scientists defined energy as the stuff that allows objects and 
+fields to interact or move in some way – kinetic energy is associated with 
+movement, thermal energy involves heating and electromagnetic fields contain 
+energy that is transmitted as waves. All these types of energy can be 
+transformed from one to another, but nothing can ever be created or destroyed.
+
+In relativity theory, Einstein introduced mass as a new type of energy to the 
+mix. Beforehand, the mass of something in kilograms was just a measure of how 
+much stuff was present and how resistant it was to being moved around. In 
+Einstein's new world, mass became a way to measure the total energy present in 
+an object, even when it was not being heated, moved or irradiated or whatever 
+else. Mass is just a super-concentrated form of energy and, moreover, these 
+things can turn from one form to the other and back again. Nuclear power 
+stations exploit this idea inside their reactors where subatomic particles, 
+called neutrons, are fired at the nuclei of uranium atoms, which causes the 
+uranium to split into smaller atoms. The process of fission releases energy and 
+further neutrons that can go on to split more uranium atoms. If you made very 
+precise measurements of all the particles before and after the process, you 
+would find that the total mass of the latter was very slightly smaller than the 
+former, a difference known as the "mass defect". That missing matter has been 
+converted to energy and you can calculate how much using Einstein's equation.
+
+Despite the tiny discrepancy in mass between the uranium atom and its 
+products, the amount of energy released is big and the reason why is obvious 
+when you look at the c² term in the equation – the speed of light is a huge 
+number by itself and its square is therefore enormous. There is a lot of energy 
+condensed into matter — 1kg of "stuff" contains around 9 x 10^16 joules, if you 
+could somehow transform all of it into energy. That is the equivalent of more 
+than 40 megatons of TNT. More practically, it is the amount of energy that 
+would come out of a 1 gigawatt power plant, big enough to run 10 million homes 
+for at least three years. A 100kg person, therefore, has enough energy locked 
+up inside them to run that many homes for 300 years.
+
+Unlocking that energy is no easy task, however. Nuclear fission is one of 
+several ways to release a tiny bit of an atom's mass, but most of the stuff 
+remains in the form of familiar protons, neutrons and electrons. One way to 
+turn an entire block of material into pure energy would be to bring it together 
+with antimatter. Particles of matter and antimatter are the same, except for an 
+opposite electrical charge. Bring them together, though, and they will 
+annihilate each other into pure energy. Unfortunately, given that we don't know 
+any natural sources of antimatter, the only way to produce it is in particle 
+accelerators and it would take 10 million years to produce a kilogram of it.
+
+Particle accelerators studying fundamental physics are another place where 
+Einstein's equation becomes useful. Special relativity says that the faster 
+something moves, the more massive it becomes. In a particle accelerator, 
+protons are accelerated to almost the speed of light and smashed into each 
+other. The high energy of these collisions allows the formation of new, more 
+massive particles than protons – such as theHiggs boson 
+<https://www.theguardian.com/science/higgs-boson> – that physicists might want 
+to study. Which particles might be formed and how much mass they have can all 
+be calculated using Einstein's equation.
+
+It would be nice to think that Einstein's equation became famous simply 
+because of its fundamental importance in making us understand how different the 
+world really is to how we perceived it a century ago. But its fame is mostly 
+because of its association with one of the most devastating weapons produced by 
+humans – the atomic bomb. The equation appeared in the report, prepared for the 
+US government by physicist Henry DeWolf Smyth in 1945, on the Allied efforts to 
+make an atomic bomb during the Manhattan project. The result of that project 
+led to the death of hundreds of thousands of Japanese citizens in Hiroshima and 
+Nagasaki.
+
+Einstein himself had encouraged the US government to fund research into atomic 
+energy during the second world war but his own involvement in the Manhattan 
+project was limited because of his lack of security clearances. It is unlikely 
+that Einstein's equation was much use in designing the bomb, beyond making 
+scientists and military leaders realise that such a thing would be 
+theoretically possible, but the association has stuck.
+
+This article has been amended to correct an equation
+ 

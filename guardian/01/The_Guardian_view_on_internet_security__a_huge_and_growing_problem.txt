@@ -1,0 +1,61 @@
+
+The phone in your pocket gives you powers that were hard to imagine even five 
+years ago. It can talk to you, listen, and give sensible answers to questions. 
+It knows your fingerprint and recognises your face and those of all your 
+friends. It can buy almost anything, sell almost anything, bring you all the 
+news you want, as well as almost all the books, films and music you might want 
+to look at. What’s more, it will even allow you to talk to your friends and to 
+communicate with almost anyone.
+
+The problem is that these powers are not yours – at least they don’t belong to 
+you alone. They belong to whoever controls the phone and can be used to serve 
+their purposes as well as yours. Repressive governments and criminal gangs are 
+all contending to break into phones today, and this kind of hacking will 
+increasingly become the preferred route into all of the computer networks that 
+we use – the ones we don’t call “phones”.
+
+Apple’s sudden forced upgrade 
+<https://www.theguardian.com/technology/2016/aug/25/apple-ios-update-arab-activists-iphone-spyware>
+ to the iPhone operating system last week was a response to these anxieties. A 
+dissident in the UAE appears to have had his iPhone hijacked by a very 
+sophisticated piece of malware produced by a security company and sold legally, 
+if in secret, to regimes that want to spy on their enemies. This offers its 
+controllers complete knowledge of anything the infected phone is privy to: 
+that’s all the contacts, all the messages of any sort, whether chats, texts or 
+emails, all the calendars and even, potentially, any voice conversation that it 
+overhears. It’s difficult to imagine a more assiduous or intimate spy. And once 
+one phone has been subverted, it becomes a tool for spying into all other the 
+networks to which it or the owner has access.
+
+This is not exclusively Apple’s problem. The much more widespread Android 
+system 
+<https://www.theguardian.com/technology/2015/aug/06/google-stagefright-megabug-patch-nexus-phones-samsung-android>
+ is reasonably secure only on some Samsung and LG models and Google’s 
+own-branded Nexus phones, which are updated frequently and automatically to 
+keep abreast of security vulnerabilities. Other manufacturers have access to 
+the updates but few get them installed in a timely fashion. In the poorer parts 
+of the world, where Android has an overwhelming market share, the problem 
+is especially acute. The Iranian secret police bug their dissidents using a 
+tool (in the jargon of the trade, an Android RAT) calledKrakenAgent 
+<http://blog.rigotechnology.com/2016/08/25/increased-use-of-android-malware-targeting-journalist/>
+.
+
+Beyond rogue nation states there is an unpleasant and insufficiently regulated 
+market of legal firms that specialise in finding security vulnerabilities and 
+selling them to the highest legal bidder, which normally means oppressive 
+regimes; then there is a second tier of entirely illegal operators who sell 
+tools to criminal gangs. Little of this is used for spying (though there is a 
+market among jealous and abusive men for software that will enable to them to 
+track their partners, one reason why some women’s shelters are reluctant to 
+allow smartphones inside). Much more damage is done by “ransomware”, which 
+encrypts and in effect steals all of a user’s data, to be released only on 
+payment. Such assaults are becoming increasingly common. Twenty-nine NHS trusts
+were targeted 
+<http://www.information-age.com/technology/security/123461928/nhs-ransomware-revelation-reality-check>
+ by them last year. This is a global problem now. Since almost every country 
+will want these powers for its own security services, if for no one else, what 
+is developing is something like an international arms trade. International 
+efforts to police it are urgently needed and the companies that sell us these 
+powerful phones must also be pressed to live up to their responsibilities to 
+keep them safe so that their power is not easily turned against their owners.
+ 

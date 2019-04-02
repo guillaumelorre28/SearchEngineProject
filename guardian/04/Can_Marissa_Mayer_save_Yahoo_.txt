@@ -1,0 +1,283 @@
+
+Marissa Mayer <https://www.theguardian.com/technology/marissa-mayer> has just 
+one year to turn Yahoo into a thriving, growing prospect - or else the 
+venerable business will become an acquisition target.
+
+That’s the thinking of Nicholas Carlson, a journalist whose book Marissa Mayer 
+and the Fight to Save Yahoo! 
+<http://www.hachettebookgroup.com/titles/nicholas-carlson/marissa-mayer-and-the-fight-to-save-yahoo/9781478900672/>
+ explores the company’s struggle under its charismatic new chief executive, 
+appointed in 2012 to try to turn around a business that seemed to be sinking 
+into despond.
+
+The risk to Yahoo, now in its 20th year, is that once its shareholding in 
+China’sAlibaba <https://www.theguardian.com/business/alibaba> is subtracted 
+from its overall capitalisation, you’re left with zero, or even negative, net 
+value. Obviously that is not quite the case - the company is profitable and 
+generates cash, but it indicates that Mayer faces an ongoing uphill struggle.
+
+Mobile future
+
+Adam Cahan, Yahoo’s vice-president of mobile and emerging, was already there 
+when Mayer arrived following the acquisition of his companyIntoNow 
+<http://venturebeat.com/2011/11/02/intonow-for-ipad/> in 2011. Mayer faced two 
+intertwined problems: Yahoo’s relevance was dwindling because it was still 
+stuck in a desktop age, showing big banner ads to people checking their email, 
+even while the world had gone mobile. Further, its internal culture was too 
+inward-looking.
+
+According to Cahan, Mayer shifted the focus to mobile, and on the people who 
+were doing it - Yahoo’s users. “She talked about where she saw a platform shift 
+- very specifically, that users were going to mobile andYahoo 
+<https://www.theguardian.com/technology/yahoo> was underinvested in mobile. She 
+took time to say how many people are focused on mobile - which was 50 out of 
+between 12,000 and 13,000 staff.”
+
+As Cahan describes it, Yahoo was essentially dithering over mobile in 2012. 
+“There was the worry about cannibalisation - it took away desktop ad revenues, 
+but nobody was going to make money in mobile because the display ads were too 
+small; even Facebook didn’t advertise on mobile then. There just wasn’t a 
+business model on mobile. And secondly, there was the technical debate: should 
+we build in HTML5, or native apps? Not a lot of progress was being made.”
+
+“Marissa came in and was incredibly insightful,” Cahan says. “She focused on 
+the users. She said ‘look, the users are going there [to mobile], so we have to 
+go there and monetise it later’. And as for the arguments about technology - if 
+you cut through it, it boiled down to HTML5 being a benefit for developers, but 
+native apps were the highest-performing. Marissa said ‘focus on the users. We 
+aren’t here to solve developers’ problems’.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F18%2Fcan-marissa-mayer-save-yahoo%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F18%2F1426692281195%2F14125451814_57e76d182c_o-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Can%20Marissa%20Mayer%20save%20Yahoo%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F18%2Fcan-marissa-mayer-save-yahoo%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Can%20Marissa%20Mayer%20save%20Yahoo%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F18%2Fcan-marissa-mayer-save-yahoo%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F18%2F1426692281195%2F14125451814_57e76d182c_o-2060x1236.jpeg>
+ Yahoo mobile boss Adam Cahan 
+Mayer is Cahan’s direct manager and he says she brings three qualities to the 
+work: “A tremendous amount of user empathy - so, for example, she’d say ‘why do 
+you have pull-to-refresh? Why not just refresh automatically?’ And she has this 
+pattern recognition - so she’s not just data-driven, there’s testing plus 
+intuitive insight. Finally, she has tremendous decisiveness.”
+
+Mayer created a new group called mobile and emerging products, oversaw the 
+acquisition of Tumblr for $1.15bn, and drove the development and release of new 
+mobile-focused apps for Android and iOS.
+
+She also focused the company on new fast-growth and potential high revenue 
+sectors - mobile, video, native apps and social, which were shoehorned into the 
+acronym “MaVeNS”. Mayer makes much of the “Mavens”: presenting Yahoo’s most 
+recent quarterly results in January, she insisted that the 4% decline in 
+display ad revenues will eventually be offset by “the strong growth in our 
+Mavens business” and that those businesses are “not cannibalistic” to 
+traditional PC advertising (on the desktop).
+
+Yahoo’s identity crisis: media, or tech?
+
+Cahan says that Mayer also changed the culture. Before she arrived, “Yahoo was 
+very inwardly focused. Marissa, by focussing on the users, made it externally 
+focused. And that shifted the nature of the culture and really amplified some 
+of the cultural elements that were there. Yahoo has a tremendous culture of 
+collaboration and joy and fun, which maybe comes from our name.”
+
+To anyone who has followed Yahoo’s travails over the past few years, Cahan’s 
+suggestion that the halls rang with collaboration, joy and fun will sound odd. 
+Yahoo had been manifestly dysfunctional for years, getting through five chief 
+executives between 2009 and 2012 - partly because it had always struggled with 
+the question of whether it was a technology or a media company.
+
+Begun in March 1995 by Jerry Yang and David Filo, Yahoo was initially just a 
+directory for the nascent web: it would tell you what the “cool site of the 
+day” was, and let you find existing sites via a tree-structure directory. In a 
+time before search engines, when you could enumerate the number of new sites 
+per day, that was feasible.
+
+That quickly became unfeasible, and Yahoo shifted to being a portal for news, 
+weather, and (from 1997) email. In fact email remains the principal reason for 
+people to visit Yahoo; there are around 280m accounts. Once there, users ads 
+and are led towards other parts of the site.
+
+But was Yahoo about selling ads, or about cutting-edge tech? Its purchase in 
+2005 of the photo-sharing service Flickr and link-sharing service Delicious 
+suggested it was about user-generated content - a technology site. Yet it 
+focused on display ads and TV-style services, hiring former Warner Brothers 
+chair Terry Semel in 2001 in a move that seemed to say Yahoo was competing with 
+Google by distinguishing its media credentials.
+
+As Tom Foremski points out 
+<http://www.siliconvalleywatcher.com/mt/archives/2015/03/marissa_mayer_marks_y.php>
+, being a technology company means that a single programmer’s work can boost 
+the company’s profit for years. In a media company, one person’s work gets 
+noticed perhaps for a day, and then vanishes in the stream of fresh news.
+
+The difference in emphasis had had its clearest expression a few years 
+earlier, when Larry Page and Sergey Brin visited Jerry Yang to demonstrate 
+their search technology in the hope that Yahoo would buy it. They showed Yang 
+how “Backrub”, as it was then called, could find the desired search result in 
+the first page.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F18%2Fcan-marissa-mayer-save-yahoo%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F18%2F1426691690506%2F7061efbd-5756-4204-b6d3-101594762e9f-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Can%20Marissa%20Mayer%20save%20Yahoo%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F18%2Fcan-marissa-mayer-save-yahoo%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Can%20Marissa%20Mayer%20save%20Yahoo%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F18%2Fcan-marissa-mayer-save-yahoo%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F18%2F1426691690506%2F7061efbd-5756-4204-b6d3-101594762e9f-2060x1236.jpeg>
+ Former Yahoo chief executive Jerry Yang at the Consumer Electronics Show in 
+Las Vegas in January 2008. Photograph: Paul Sakuma/AP 
+Yang turned them away: “We make our money from people being shown ads, so we 
+want them to click through a couple of pages,” he explained. Page and Brin 
+sought seed capital instead; the rest is Google history. Yahoo has also missed 
+out on chances to buy Facebook (it tried to lower the price), YouTube, Twitter 
+and LinkedIn.
+
+“In the beginning, Yahoo was the user-friendly interface to the web,” Carlson 
+told me. “It was a Disney-like friendly brand that provided things people 
+wanted, all in one place - from calendars to file-sharing to shopping for 
+flowers.
+
+“But over time, people began to trust companies that did one thing well: eBay 
+for auctions, Google for search, and so on. When she came in, Mayer said ‘let’s 
+get Yahoo back to the future’. Make products that people want to use to do 
+everything on the web, which I think is a big mistake,” Carlson says.
+
+Mayer made Yahoo’s apps good, but who for?
+
+The author thinks that her aim to “ride the paradigm shift” to mobile in 2012 
+was misplaced. “Apple and Google had been doing that for longer already. This 
+is a different world where people trust no-name brands to do something - Uber, 
+Snapchat, Meerkat. I don’t think it’s working extremely well [for Yahoo]. When 
+[Mayer] got there, they didn’t have any good [mobile] apps, and she spotted 
+that even those they did have were extremely poor. She made them good and up to 
+industry standard. But on ads and usage - people don’t use them.”
+
+So what are Cahan’s milestones for the next five years? “One metric is growth 
+- returning this iconic company to growth,” he says. “The Mavens are seeing 
+100% year-on-year growth. The question is when will we see the growth 
+businesses, which are growing at 20% annually, exceeding the traditional legacy 
+business, where the display ad business is seeing 1% to 2% growth.”
+
+In 2008, Microsoft made an unsolicited $44bn bid for the company. Yang, then 
+chief executive, rejected it despite it being worth almost two thirds more than 
+the company’s market value. He defended the move to the board on the basis of 
+internal projections that suggested the company would be worth far more quite 
+soon. Instead, the global crash came and Yahoo’s value plummeted.
+
+Staff now trust management
+
+Yang was fired and replaced by Carol Bartz, an experienced and blunt outsider 
+who cut costs and tussled with the board, and was then replaced in 2011 as the 
+board rifled through Tim Morse, Scott Thompson and interim chief executive Ross 
+Levinsohn before the surprise appointment of Mayer in July 2012.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F18%2Fcan-marissa-mayer-save-yahoo%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F18%2F1426692484348%2F57201f96-588e-42dd-959c-06c924671014-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Can%20Marissa%20Mayer%20save%20Yahoo%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F18%2Fcan-marissa-mayer-save-yahoo%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Can%20Marissa%20Mayer%20save%20Yahoo%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F18%2Fcan-marissa-mayer-save-yahoo%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F18%2F1426692484348%2F57201f96-588e-42dd-959c-06c924671014-2060x1236.jpeg>
+ Former Yahoo chief executive Carol Bartz speaking in March 2010. Photograph: 
+Robert Galbraith/Reuters 
+Veteran journalist Kara Swisher had a string of stories so insightful on 
+Yahoo’s internal ructions it sometimes seemed she had been inside the 
+boardroom. Since Mayer joined, the big stories have dried up, largely due, she 
+says, to Yahoo being less interesting, doing few innovative products yet having 
+improved morale among developers.
+
+Cahan says before Mayer, the company wasn’t “transparent” - that changes 
+weren’t communicated through the company, and it was hard to get information 
+from executives. That, he suggests, is why journalists like Swisher had a field 
+day: people whispered and leaked to see the reaction, and find out more from 
+counter-leaks.
+
+Mayer, though, installed a number of former Googlers in senior positions. 
+Every Friday afternoon there is an “FYI” session where she and other executives 
+can be quizzed by staff - a replica of the Friday canteen sessions that Page 
+and Brin used to run before Google floated.
+
+The culture of leaking has been replaced by one of trust, Cahan says. “If 
+you’re in a company where you don’t trust the leadership, then often you don’t 
+feel proud of being at the heart of it. And people respond by leaking.”
+
+After Alibaba and Yahoo Japan, is there any other revenue?
+
+Yahoo’s key problem is true of many media companies - its desktop-based 
+display business is wilting, but the mobile side of the business isn’t growing 
+fast enough. But Yahoo is buoyed by a stake in Alibaba, the Chinese e-commerce 
+company that recently floated in New York and is worth more than $200bn (Yahoo 
+is worh $40bn). Selling its stake in Alibaba will generate a windfall of almost 
+$200m by September 2015 - about 20% of Yahoo’s predicted annual profits.
+
+One-off sales and licensing of patents and intellectual property in Yahoo 
+Japan, of which Yahoo owns 35%, will make up another large chunk of revenues. 
+In factEric Jackson, at Forbes, calculates 
+<http://www.forbes.com/sites/ericjackson/2015/03/01/yahoos-incredible-shrinking-profitability-in-its-core-business/5/>
+ that leaving those numbers off, Yahoo will only make an operating profit of 
+$590m from its core business - in its website and apps - this year.
+
+That erosion of profitability - obscured by its stake in Alibaba - has many on 
+Wall Street worried. One activist investor, Starboard, has been pressing for a 
+merger with tech/media company AOL.
+
+Mayer might be forced into a marriage because she has not taken radical action 
+to cut costs. Marc Andreessen publicly told her in 2012 that she should cut the 
+headcount by about 10,000 to get costs under control and focus the company.
+
+She did not take his advice. “Mayer forewent that plan, and introduced 
+‘quality performance reviews’ which are close to stack ranking [as used 
+disastrously at Microsoft], to try to control costs,” says Carlson. (Stack 
+ranking assigns a rank to the performance of each employee in a group; the 
+lowest-performing are usually let go.)
+
+“Now Yahoo has as many employees as it ever did, though probably fewer 
+overseas. The cost per employee is still very high.”
+
+He says Mayer is instead taking the wrong approach - “messy morale-draining 
+layoffs where a few go every week. If you’d asked me six months ago … I’d have 
+said morale was much higher, and the products better than when she joined. Now 
+I would say the products are better, even if they’re not popular, but I get the 
+feeling morale is being drained … they aren’t communicating with employees 
+about these cuts.”
+
+“She has to tell a story that Wall St believes within the next few quarters, 
+or Yahoo will be a tasty acquisition target.” It generates $1bn in cash every 
+year, Carlson points out: “a strong legacy business”. That could be one reason 
+why its shares have risen by 10% over the past 12 months.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F18%2Fcan-marissa-mayer-save-yahoo%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F18%2F1426692781311%2F7f4ff5bd-962c-4fce-9121-2ec9503e627c-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Can%20Marissa%20Mayer%20save%20Yahoo%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F18%2Fcan-marissa-mayer-save-yahoo%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Can%20Marissa%20Mayer%20save%20Yahoo%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F18%2Fcan-marissa-mayer-save-yahoo%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F18%2F1426692781311%2F7f4ff5bd-962c-4fce-9121-2ec9503e627c-2060x1236.jpeg>
+ Yahoo’s logo in July 2006. Photograph: Don Ryan /Associated Press 
+Will Yahoo get the Apple search deal?
+
+Meanwhile Mayer has notably increased Yahoo’s visibility, and revenue, through 
+its deal with Mozilla 
+<https://www.theguardian.com/technology/2014/nov/20/yahoo-replace-google-search-firefox-us>
+ to make it the default search on Firefox in the US. Another enticing prospect 
+lies ahead: that she will persuade Apple to make Yahoo the default search 
+engine on the iPhone, replacing Google, which has been there since the iPhone’s 
+inception in 2007. The contract is up for renewal in the summer. Apple has 
+already dropped Google Maps and YouTube as default services; might Yahoo get 
+the gig?
+
+Swisher comments: “If she gets something like an Apple search deal, she will 
+have done a Hail Mary” - the phrase for a desperate long-range pass in American 
+football to win the game. Sources inside Apple do not sound encouraging. But 
+then, it didn’t look likely that Yahoo would outbid Google for Firefox either.
+
+Carlson, however, thinks hopes of a sudden revival are probably overplayed. 
+“Everybody wonders why it can’t turn around like Apple did back in 1997. But 
+the thing is, Steve Jobs did what Mayer didn’t do. He cut products back to 
+four, and he cut the workforce, and controlled costs, in one big swoop. She 
+hasn’t scrapped products, hasn’t controlled costs, hasn’t improved morale 
+long-term and hasn’t done drastic cuts that are needed long-term.”
+
+His pessimistic view is that Yahoo will be undervalued by Wall Street, and 
+then grabbed by a private equity company - as Dell was a couple of years ago - 
+for its cash-generating capability. “It could be that nobody can fix Yahoo,” he 
+says. “She may have just walked into a meat grinder.”
+
+But why? “Yahoo solved a problem of the early web being confusing. But the web 
+outgrew that solution, and people tried new things.” Carlson pauses, and adds: 
+“It doesn’t solve a problem better than anybody else solves it today.”
+
+ * Review: Marissa Mayer and the Fight to Save Yahoo 
+<https://www.theguardian.com/books/2015/jan/05/marissa-mayer-and-fight-to-save-yahoo-review> 

@@ -1,0 +1,112 @@
+
+Police <https://www.theguardian.com/uk/police> use of data extraction 
+equipment to download information from suspects’ mobile phones should require a 
+search warrant, according to privacy campaigners.
+
+The practice is becoming increasingly routine across most forces but is 
+inadequately regulated and being carried out by insufficiently trained officers,
+Privacy <https://www.theguardian.com/world/privacy> International claimed.
+
+Digital forensic equipment has been used under counter-terrorism powers at 
+ports and airports to download data from mobile phones for several years. 
+Concerns over the practice were first raised by theindependent reviewer of 
+terrorism legislation 
+<https://terrorismlegislationreviewer.independent.gov.uk/wp-content/uploads/2013/07/Report-on-the-Terrorism-Acts-in-2012-FINAL_WEB1.pdf>
+, David Anderson QC, in 2012.
+
+
+The technology has now spread to other police forces. A report by the police 
+and crime commissioner for North Yorkshire in 2015 
+<http://www.northyorkshire-pcc.gov.uk/content/uploads/2016/01/7ae-Mobile-Phone-Examination.pdf>
+, uncovered bythe Bristol Cable magazine 
+<https://thebristolcable.org/2017/01/phone-cracking-tech/>, checked on 50 
+mobile phone examinations and warned that: “There is a risk that possibly 
+sensitive data may have been lost or misappropriated and this raises wider 
+issues around the overall security of extracted data.”
+
+
+It found six files containing information downloaded on to disks had gone 
+missing. The report also found that data was not being encrypted and questioned 
+whether officers were receiving adequate training.
+
+A Metropolitan police procurement document 
+<https://www.documentcloud.org/documents/3280381-MPS-Digital-Cyber-and-Communications-Forensics.html>
+ obtained by Privacy International says that “self service kiosks” are being 
+installed across all London boroughs. It states: “The key objective is to 
+enable frontline officers [to obtain] faster and easier access to digital 
+information … The use of digital information for intelligence and as evidence 
+in gaining criminal convictions is vital.”
+
+
+It also refers to: “The ingestion of data from tens of thousands of digital 
+devices annually at dozens of different locations introduces a complex data 
+management challenge. [The Met police] needs the capability to effectively and 
+efficiently manage data through its life cycle, this will vary from deletion 
+within days of capture to maintenance for an indefinite period extending for 
+many years.”
+
+Mobile phone data can contain an enormous amount of private information, 
+including photographs. Privacy International points to a landmark US case in 
+2014, Riley v California, which ruled that it was illegal to search or seize 
+the contents of a mobile phone without a warrant.
+
+
+Millie Graham Wood, legal officer at Privacy International, said: “The North 
+Yorkshire <https://www.theguardian.com/uk-news/yorkshire> report suggests local 
+police forces are not yet ready to handle these highly intrusive tools and it 
+raises questions about whether other police forces have adopted these 
+technologies appropriately.
+
+
+“The police have lost files, undermined serious investigations and failed to 
+safeguard people’s personal data. Across the country the police have expanded 
+their use of mobile phone extraction on the quiet, and it is unclear what 
+effective oversight exists.
+
+
+“The bigger issue is whether traditional search practices, where no warrant is 
+required, should be applied to mobile phones, which can contain a massive 
+amount of highly personal data. Modern mobile phones are not just phones, but 
+mini computers, cameras, video players, calendars, recorders, libraries, 
+diaries, albums, maps all in one,” Graham Wood said.
+
+“Thus, searching a mobile phone cannot accurately be compared to a search of 
+the home, let alone a physical search. It is far more exhaustive. They have 
+immense storage capacity, can hold thousands of pictures, videos and apps, all 
+of which can reveal so much about your, and potentially your contacts’, 
+political, sexual and religious identity. They hold location data, and even 
+deleted data as indicated by the Home Office contract.”
+
+
+Under the Police and Criminal Evidence Act 1984 (PACE), officers can search, 
+seize and retain data from a mobile phone belonging to anyone who has been 
+arrested on suspicion of committing an offence.
+
+Any data seized can only be kept for the purpose of a criminal investigation 
+and if it is required for use as evidence at trial, or for forensic examination 
+or investigation in connection with an offence.
+
+
+National Police Chiefs’ council lead for digital forensics, Deputy Chief 
+Constable Nicholas Baker, said: “Mobile phone kiosks are an invaluable digital 
+forensic tool used by police forces to improve the quality of early 
+investigations, protect victims, witnesses and the public at large. Authorised 
+users are trained to use a controlled approach to extract specific data which 
+is invaluable to progressing those early investigations.
+
+“Data extraction from mobile phones is legal under provisions of the Police 
+and Criminal Evidence Act, which enables officers to review information stored 
+electronically on suspects’ devices while in custody and often leads to 
+suspects being charged, preventing further harm and helping to safeguard 
+victims.
+
+“We work with the forensic science regulator and associated network of experts 
+to ensure that police forces have the necessary guidance to deploy these tools 
+effectively and within the provisions of the law. Attaining accreditation and 
+improving standards for digital forensics is a top priority for the police 
+service that we will continue to work towards.”
+
+
+
+
+ 

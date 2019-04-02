@@ -1,0 +1,89 @@
+
+Over the past couple of months, the apps team at the Guardian have been 
+discussing, designing, experimenting, testing, and building a new experience:
+Moments from the Guardian App. Crafted specially for Apple Watch 
+<https://www.theguardian.com/technology/apple-watch>, it’s a new, personal, and 
+delightful way to discover our journalism. As a team we wanted to take a bit of 
+time to describe it.
+
+Timely, simple, glanceable - Tom Grinsted
+
+Moments is a simple, glanceable, and instantly personal experience. Instead of 
+generic lists of content that aren’t well suited to a watch, it recommends a 
+single moment: a tailored experience at any given time. Combining insight from 
+our editorial teams with the customisable homepage of the Guardian app, 
+recommendations delivered to Apple Watch make any moment in the day richer.
+
+We’ve created moments that are tailored for the time of day, and day of week. 
+So in the morning you can expect a quick briefing to catch up with the news, a 
+beautiful gallery to distract you while the kettle boils for your afternoon 
+tea, a match update if your favourite football (soccer) team is playing, or a 
+reminder in the evening for an article you saved to read later. Moments are 
+always fresh, compelling, and useful. Combined with our breaking news alerts - 
+now optimised for Apple Watch with actionable notifications -Moments keep you 
+up to date with serendipitous and delightful content.
+
+Editorial on your wrist - Subhajit Banerjee
+
+We wanted the editorial offering to be informative, delightful and to span 
+across multiple formats to showcase the breadth of the journalism we produce. 
+Along with the top news story of the moment and push alerts for breaking news, 
+you will also see the best photos of the day chosen by our experts, glimpses of 
+our well loved feature content such as recipes, life and relationship advice, 
+music and film reviews, science and technology podcasts and a lot more. The 
+tone for the weekend will be different from the week, matching the pace and 
+variations of the two. Of course, this is our first pass at a content 
+proposition for an entirely new platform, and based on feedback we receive we 
+hope to make changes and improvements as we go along.
+ Guardian Moments: from a glance to more information 
+Reading on your wrist - Helene Sears
+
+We know our readers have core needs around getting fast updates, extending 
+their knowledge and discovering new content. So we designed for three key 
+aspects: notifications, glances and a full Watch app experience. Notifications 
+are a richer version of alerts giving our readers updates on breaking news - or 
+anything else they follow in the app. The glance feature offers a snapshot of 
+the Moment available, with the option to tap through for more on the Watch app 
+itself. At any time the reader can handoff to their phone for the full iPhone 
+app experience of what they were looking at, ensuring a seamless reading 
+experience optimised for the users context and behaviour.
+
+If a reader wants more, they can turn to our phone app to get the full story.
+Frank Hulley-Jones 
+Design on your wrist - Frank Hulley-Jones
+
+We wanted to stick to the principle of keeping interactions light and focused. 
+Reviews are a great example of this, as the headline and star rating tell you 
+the minimum you need to know. If a reader wants more, they can turn to our 
+phone app to get the full story. We used this to influence the look and feel of 
+the watch app whilst keeping it consistent with the tones and branding used 
+across the Guardian. It’s important that readers instantly recognise that 
+they’re reading Guardian content, no matter what device they’re using.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2015%2Fmar%2F09%2Fintroducing-moments-from-the-guardian-app-built-for-apple-watch%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F9%2F1425910800799%2F1379ac28-4d8e-4563-8e29-4c2a7f4980ef-1020x574.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Introducing%20Moments%20from%20the%20Guardian%20App%2C%20built%20for%20Apple%20Watch&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2015%2Fmar%2F09%2Fintroducing-moments-from-the-guardian-app-built-for-apple-watch%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Introducing%20Moments%20from%20the%20Guardian%20App%2C%20built%20for%20Apple%20Watch&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2015%2Fmar%2F09%2Fintroducing-moments-from-the-guardian-app-built-for-apple-watch%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F9%2F1425910800799%2F1379ac28-4d8e-4563-8e29-4c2a7f4980ef-1020x574.jpeg>
+ Examples of how different content types will look on Apple Watch Photograph: 
+The Guardian 
+Engineering on your wrist - Petr Krojzl
+
+
+With wearables, there’s the challenge that you won’t be able to do much more 
+than breaking news alerts. But after spending time experimenting, we were 
+excited to be able to achieve so much from the launch of Apple Watch. To give 
+our readers the best possible experience, we’ve very much made use of all the 
+technology available and tried to push it right to the limit.
+
+What now?
+
+We’re constantly looking for new and interesting ways to bring our content to 
+readers and our work on Apple Watch is another exciting example of this. We’ll 
+be updating the Guardian app soon to includeMoments. So simply download it from 
+the App Store <https://itunes.apple.com/gb/app/the-guardian/id409128287?mt=8> 
+and make sure to keep it up to date.
+
+As always, we’d love to hear your thoughts. So tweet us @guardianmobile or 
+leave a comment below.
+ 

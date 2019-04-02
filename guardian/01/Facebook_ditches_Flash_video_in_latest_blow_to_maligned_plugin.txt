@@ -1,0 +1,43 @@
+
+Has Facebook <https://www.theguardian.com/technology/facebook> finally struck 
+the fatal blow in the long, slow demise of Flash by switching to HMTL5 video by 
+default?
+
+
+The social network has switched to HTML5 for all Facebook web video, meaning 
+videos you upload or publish on your profile or fly through on your news feed 
+will no longer require Flash. The experience will mirror that seen on mobile 
+devices and the Facebook apps.
+
+In a damning indictment of the much maligned Flash, Daniel Baulig, engineer at 
+Facebook,said <https://code.facebook.com/posts/159906447698921>: “Not only did 
+launching the HTML5 video player make development easier, but it also improved 
+the video experience for people on Facebook. Videos now start playing faster. 
+People like, comment, and share more on videos after the switch, and users have 
+been reporting fewer bugs. People appear to be spending more time with video 
+because of it.”
+
+Facebook continues to support Flash-based games, which titles such as 
+Farmville and others typically require, but for video and adverts Flash is now 
+dead to the social network.
+
+Following YouTube’s switch to HTML5 video, Facebook’s dumping of Flash for its 
+8bn video views a day means that the majority of web video watched is now 
+Flash-free. A few other video-streaming sites still use the plugin, but the 
+number holding out is shrinking fast.
+
+Even Adobe is moving away from Flash. Like Microsoft with Windows XP, Adobe 
+<https://www.theguardian.com/technology/adobe> has been trying to migrate 
+companies away from using its own tools while putting out fires left, right and 
+centre. Recently it dumped “Flash” from the name of its creative tools, which 
+shows just how toxic the Flash brand has become.
+
+For Facebook users it will be business as usual, for the most part, just a 
+little faster and without having to worry about vulnerabilities in an ageing 
+outdated video system.
+
+ * Warning over Adobe Flash vulnerability revealed by Hacking Team leak 
+<https://www.theguardian.com/technology/2015/jul/08/warning-adobe-flash-vulnerability-hacking-team-leak>
+ * Flash is dying a death by 1,000 cuts, and that’s a good thing 
+<https://www.theguardian.com/technology/2015/aug/24/adobe-flash-dying-amazon-google-chrome>
+ 

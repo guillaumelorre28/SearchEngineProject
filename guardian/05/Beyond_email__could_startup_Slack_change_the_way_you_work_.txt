@@ -1,0 +1,314 @@
+
+Erica Baker likes poker. So did many of the engineers she spent 10 years 
+working with atGoogle <https://www.theguardian.com/technology/google>, in the 
+California headquarters of one of the world’s most valuable technology 
+companies. When she was eventually invited to a poker night with other 
+engineers, the group of white, male colleagues fell silent as she walked into 
+the room. “That did not feel good,” she says. “I get that it’s comfortable to 
+be around people like you, but it’s also pretty important to be around people 
+who are not like you – it helps one grow as a human being. That was the point 
+where I started to get fed up with Google.”
+
+Around the same time, in late November 2014, Baker joined a local Black Lives 
+Matter <https://www.theguardian.com/us-news/black-lives-matter-movement> 
+protest after the shooting of a black teenager by a white police officer. When 
+she posted a photo toTwitter <https://mobile.twitter.com/ericajoy?lang=en-gb>, 
+Stewart Butterfield <https://en.wikipedia.org/wiki/Stewart_Butterfield>, the 
+co-founder ofSlack 
+<https://www.theguardian.com/technology/2014/nov/03/why-slack-is-worth-1bn-work-chat-app>
+, a new chat tool for use at work, sent her a message: “Stay safe.” She says, 
+“I just thought, ‘Holy crap – that’s a tech CEO!’ ” She left Google to join 
+Slack as an engineer in May 2015.
+
+'Everyone could know what I was doing': the millennials not using social media
+ Read more  
+<https://www.theguardian.com/us-news/2016/feb/01/millennials-not-on-social-media-twitter-facebook-instagram>
+Silicon Valley <https://www.theguardian.com/technology/silicon-valley> has 
+developed plenty of folklore around tech CEOs; like Page, they tend to start 
+out in a garage, drop out of college, and within a few years metamorphose from 
+boychild prodigy to omnipotent genius.
+
+Butterfield’s story is a little different. He was born on a hippy commune in 
+Canada and christened Dharma Butterfield. He studied philosophy at Cambridge 
+University and, after various design and product development roles, 
+accidentally came up with the photo-sharing siteFlickr <https://www.flickr.com/>
+ while trying to build a game. (Slack came up in the same way, a side project 
+of a game called Glitch.)
+
+Slack <https://slack.com> is part of a wave of technologies trying to change 
+the way we communicate, enabling continuous, fluid, more natural conversations 
+to replace restrictive and time-consuming emails. Already, more than 2.3 
+million people use it every day, sending 1.5bn messages every month. Despite 
+being just two years old, Slack is already valued at $2.8bn, a figure that 
+makes itthe fastest-growing business-to-business company in history 
+<http://www.techinsider.io/fastest-companies-to-reach-a-2-billion-valuation-2015-5>
+.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F25%2Fslack-butterfield-emoji-chat-nasa-harvard-silicon-valley%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F4d6c0faab7bd2f4154f96013269f7a2c91081739%2F644_2309_2330_1397%2F2330.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Beyond%20email%3A%20could%20startup%20Slack%20change%20the%20way%20you%20work%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F25%2Fslack-butterfield-emoji-chat-nasa-harvard-silicon-valley%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Beyond%20email%3A%20could%20startup%20Slack%20change%20the%20way%20you%20work%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F25%2Fslack-butterfield-emoji-chat-nasa-harvard-silicon-valley%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F4d6c0faab7bd2f4154f96013269f7a2c91081739%2F644_2309_2330_1397%2F2330.jpg>
+ ‘It’s important to be around people who are not like you,’ says engineer Erica 
+Baker. ‘It helps one grow as a human being.’ Photograph: Winni Wintermeyer for 
+the Guardian 
+Cut the formality 
+
+When I meet Butterfield, wearily hunched over a meeting room desk, he swears 
+he’ll never attempt to design another game. The California sun is pouring into 
+Slack’s spacious, quiet office, the odd emoji balloon hovering above the desks.
+
+Perhaps unusually for a CEO, Butterfield doesn’t think a business should be 
+all about making money: “People don’t work for money. It’s a way of 
+establishing the health of the machine, of diagnosing how the machine is 
+performing, but it’s not necessarily the goal. They get a lot of purpose and 
+identity from work, yet most people are unhappy there. They feel work isn’t 
+taking advantage of everything they have to offer, that they are more 
+resourceful, intelligent, creative or capable. The formality of how people 
+speak to each other is a constraint, so their job doesn’t let them be their 
+whole self.”
+
+Email is hierarchical, it's great for political maneuvering, but how often is 
+there deep collaboration and sharing?
+Dr Leah Reich 
+Slack is sometimes described as an email killer, which might be as much an 
+ardent prayer as anything else.Research by the Radicati Group 
+<http://www.radicati.com/wp/wp-content/uploads/2015/02/Email-Statistics-Report-2015-2019-Executive-Summary.pdf>
+ estimated that nearly 2.6 billion people used email worldwide as of 2015, each 
+sending and receiving an average of 122 emails a day at work alone. Email is 
+frequently cited as a major drain on productivity; Slack claims its users 
+report receiving 48.6% less internal email after they start using the tool.
+
+Dr Leah Reich <http://www.leahreich.com>, a sociologist and Slack’s user 
+researcher, argues that email represents an older generation of workers and an 
+outmoded way of communicating: “Email is hierarchical and compartmentalized, 
+and great for political maneuvering.” Blind copying, or the bcc, is an example 
+of that: your boss could be silently copied into an email chain. Email allows 
+the sender to choose who to send information to, and who to exclude. It is also 
+loaded with letter-writing conventions, expectations that we must reply and 
+include a formal greeting. We should cut that formality and replace it with 
+fast exchanges of ideas, Reich says. “How often is there deep collaboration and 
+sharing on email? That weird overlapping feeling of ideas and iteration and 
+design thinking? That’s still new to a lot of people. It’s radical 
+collaboration, a different way of working and thinking.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F25%2Fslack-butterfield-emoji-chat-nasa-harvard-silicon-valley%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F7d952fa0cd7b38fa725c9d7497981a0d354b2d1a%2F0_1548_3900_2344%2F3900.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Beyond%20email%3A%20could%20startup%20Slack%20change%20the%20way%20you%20work%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F25%2Fslack-butterfield-emoji-chat-nasa-harvard-silicon-valley%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Beyond%20email%3A%20could%20startup%20Slack%20change%20the%20way%20you%20work%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F25%2Fslack-butterfield-emoji-chat-nasa-harvard-silicon-valley%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F7d952fa0cd7b38fa725c9d7497981a0d354b2d1a%2F0_1548_3900_2344%2F3900.jpg>
+ ‘The formality of how people speak to each other is a constraint, so their job 
+doesn’t let them be their whole self,’ says Slack CEO Stewart Butterfield. 
+Photograph: Winni Wintermeyer for the Guardian 
+Reich has been using online chat since 1992, when she inhabited some fairly 
+niche chat rooms on the east coast dedicated to raves. She argues that the 
+workforce today includes a generation who are used to less hierarchical 
+communication and very good at chat. “They are simply not entrenched in email 
+the same way we are,” she says. “Companies realize they need to have the tools 
+people are used to using.”
+
+Facebook Messenger 
+<https://www.theguardian.com/technology/2014/apr/10/facebook-messenger-app-removing-chat>
+, Google Chat,WhatsApp <https://www.theguardian.com/technology/whatsapp> and 
+many other messaging applications have changed the way we communicate; WhatsApp 
+alone has 1 billion monthly users.Research in 2014 by Pew 
+<http://www.pewinternet.org/2015/08/06/teens-technology-and-friendships/> found 
+that 49% of teens used texting as their primary way of talking to their closest 
+friend, compared with 20% on social media and only 13% by phone. Texting and 
+chat messaging may once have been the domain of the young, but those teenagers 
+are growing up – and companies want to look progressive to attract young 
+talent. Slack aims to create a new norm for how we communicate at work: a 
+ubiquitous, informal chat that feels like an extension of the reflexive 
+personalities we construct on our social media accounts; all that is seeping 
+into work now, too.
+
+People get a lot of purpose and identity from work, yet most people are 
+unhappy there
+Stewart Butterfield 
+Slack is nothing like conventional work software; it is bright, fast and 
+stuffed with emojis. Most users receive an invite from someone else at work to 
+join a “team”, and once they have Slack’s app on their desktop or mobile, 
+they’ll see channels dedicated to different topics, private channels for 
+invited groups, and direct messages. There is typically one main channel that 
+acts like a common room, and offshoots for groups or projects. Slack’s own 
+corporate team has 1,064 channels for its 356 staff, including the novelty 
+channels #happyplace for pictures of cute animals, #theoldgodsandthenew for 
+Game Of Thrones and TV chat, and #socks for pictures of the day’s footwear. 
+Users can also send files and emojis, and add any of the 280 tools that can be 
+plugged into Slack, including proofreading, to-do lists, calendars and Skype; 
+you can even order an Uber through a chat message.
+
+
+Ardent users praise Slack’s warmth and humor, credited largely to editorial 
+director Anna Pickard 
+<https://twitter.com/annapickard?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor>
+, a former Guardian journalist who has used her master’s degree in dramaturgy 
+to “specialize in giving things a voice”. From its marketing and advertising to 
+error messages, Slack has a gentle, accessible humor that isn’t topical or 
+ingratiating, and doesn’t use in-jokes. One error message reads: “We’ve seen 
+this problem clear up with a restart of your browser, a solution which we 
+suggest to you now only with great regret and self-loathing.”
+
+Breaking the boys’ club 
+
+The technology is gaining popularity largely because curious, tech-inclined 
+people start using it, and convince their bosses to pay for an upgrade the 
+whole firm can use. This bottom-up strategy looks risky on paper, but is 
+working beyond anyone’s expectations. Clients now include the Wall Street 
+Journal, Samsung, Harvard and Nasa’s Jet Propulsion Laboratory.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F25%2Fslack-butterfield-emoji-chat-nasa-harvard-silicon-valley%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F80c953f7a6582f4f039e0bac35f9f6fa578470ea%2F446_1349_2849_3886%2F2849.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Beyond%20email%3A%20could%20startup%20Slack%20change%20the%20way%20you%20work%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F25%2Fslack-butterfield-emoji-chat-nasa-harvard-silicon-valley%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Beyond%20email%3A%20could%20startup%20Slack%20change%20the%20way%20you%20work%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F25%2Fslack-butterfield-emoji-chat-nasa-harvard-silicon-valley%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F80c953f7a6582f4f039e0bac35f9f6fa578470ea%2F446_1349_2849_3886%2F2849.jpg>
+ Sociologist Dr Leah Reich thinks we should cut the formality of email and 
+replace it with fast exchanges of ideas. Photograph: Winni Wintermeyer for the 
+Guardian 
+Despite being founded by four white men, Slack has defied Silicon Valley’s 
+self-reinforcing recruitment patterns to create probably the most diverse 
+company in tech’s top tier. It feels like a company run by grownups; there is 
+no ping pong at its San Francisco HQ, and its brand of conscientious, 
+thoughtful culture has attracted staff such as Erica Baker.
+
+Baker is very active in promoting diversity; she requested that Slack remove 
+the requirement of 10 years’ experience from job specs because it has been 
+proven to deter women from applying, and pushed for the inclusion of emojis 
+with different skin tones. Baker has been working in technical roles for 15 
+years, and now advises the Bay Area’sHack the Hood <http://www.hackthehood.org/>
+ project on helping kids from low-income families work towards jobs in 
+technology, and is a mentor forBlack Girls Code <http://www.blackgirlscode.com/>
+.
+
+Butterfield is well known in the tech industry for being a charismatic CEO, 
+but less well known for being propelled by a team of formidable women.Anne Toth 
+<https://mobile.twitter.com/clean_freak?lang=en-gb>, head of Slack’s people and 
+policy, was the first person in Silicon Valley to be employed to work on the 
+complex legal and policy issues around privacy back in 1996 atYahoo 
+<https://www.theguardian.com/technology/yahoo>. She met Butterfield in 2005, 
+when Yahoo boughtFlickr <https://www.theguardian.com/technology/flickr>. He now 
+says he regrets selling, his eyes rolling when he talks about Yahoo’s corporate 
+culture, in his view rife with executives consumed by power battles. He stayed 
+running Flickr until July 2008 and then spent eight months on a break; his 
+LinkedIn profile of the time says “Unemployed person – the great outdoors”. 
+Many Slack staff have similar stories of enduring unhappy or unfulfilling work 
+environments, but Toth says they have shaped how they wanted the company to 
+grow: “We want to build the kind of company we want to work at. To show that 
+you can break a mould and be successful.”
+
+When she joined, Toth encouraged the executive team to make a plan about 
+company values, which might seem like the kind of nauseating marketing exercise 
+no one takes any notice of, but which Slack has done with great sincerity. 
+“When you walk into a company and see words such as ‘excellence’ and 
+‘integrity’ on the wall, it doesn’t feel authentic,” Toth says. “We didn’t want 
+it to feel like marketing.” Slack was recruiting rapidly and needed to define a 
+sensibility that, until then, had been “osmotically transmitted” from the 
+personality of the founders; they came up with craftsmanship, courtesy, 
+playfulness, thriving, solidarity and empathy. Those ideals inform how 
+management makes decisions every day, from prioritizing broken code 
+(craftsmanship) to making sure everyone leaves work on time (thriving).
+
+Rather than reinforce the idea engineers look like Mark Zuckerberg, we 
+introduce powerful women who happen to be black
+Anne Toth 
+As Slack’s senior staff recruited, they wanted to challenge any unconscious 
+bias, Toth explains. “Some people think you make better products if you have a 
+more diverse workforce, some think you get better business results with a more 
+diverse workforce, and some think it is more a matter of social justice, that 
+it is our obligation. Rather than reinforce the notion that an engineer looks 
+likeMark Zuckerberg <https://www.theguardian.com/technology/mark-zuckerberg>, 
+we can introduce four powerful women who happen to be black. It changes the 
+idea of what an engineer looks like.”
+
+The company’s latest diversity report 
+<https://www.theguardian.com/technology/2016/feb/04/slack-diversity-report-silicon-valley>
+ showed that 43.1% of the staff are female, 43% of senior management are 
+female, 13% of staff identify as LGBT and 7.8% of staff in engineering roles 
+identify as black. It’s not designed to be self-congratulatory, they say, 
+because these numbers still don’t reflect the real world, but it is a 
+significant improvement on the biggest tech companies: Google, Facebook and 
+Twitter all report that 1% of engineers are black.
+
+I, narcissist – vanity, social media, and the human condition
+ Read more  
+<https://www.theguardian.com/world/2016/mar/17/i-narcissist-vanity-social-media-and-the-human-condition>
+Slack may be small – less than 1% of the number of employees of Google – but 
+its slightly older, more experienced management team is instinctively 
+challenging recruitment processes they know haven’t worked.Merci Grace 
+<https://twitter.com/merci?lang=en>, Slack’s group product manager for growth, 
+recently worked alongside an external recruiter who asked which three colleges 
+she should recruit from. “I had to explain that we don’t do that, because all 
+you are doing is pulling people out of a funnel of privilege. We want people 
+who are kind and empathetic and smart.” Grace is one of many senior Slackers 
+with an arts degree, and started her own games company. She felt ground down by 
+the implicitly masculine culture, she says; one hiring manager said he hadn’t 
+given a job to a woman because he wanted “an alpha dog”. Along with many others 
+on the staff (Slack typically hires people in their early 30s rather than their 
+20s), Grace has been through the phase of working 18-hour days and sleeping 
+under the desk, and come out the other side. Yet the pervasive culture of 
+working extreme hours persists. “Just because your ass is on a seat doesn’t 
+mean you’re working. If you’re brain dead after 6pm, go home. You can work like 
+that for only so long.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F25%2Fslack-butterfield-emoji-chat-nasa-harvard-silicon-valley%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2F8beff44fe259c5e0344bf90cf0727accdb55486e%2F0_364_5400_3240%2F5400.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Beyond%20email%3A%20could%20startup%20Slack%20change%20the%20way%20you%20work%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F25%2Fslack-butterfield-emoji-chat-nasa-harvard-silicon-valley%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Beyond%20email%3A%20could%20startup%20Slack%20change%20the%20way%20you%20work%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F25%2Fslack-butterfield-emoji-chat-nasa-harvard-silicon-valley%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2F8beff44fe259c5e0344bf90cf0727accdb55486e%2F0_364_5400_3240%2F5400.jpg>
+ ‘When people come here, we expect them to have a life,’ says Anne Toth, 
+Slack’s head of people and policy. ‘We hired someone from Facebook and he 
+couldn’t believe that the place emptied out at 6pm.’ Photograph: Winni 
+Wintermeyer for the Guardian 
+Part of that process of recruiting has been gently to pick at the valley’s 
+culture of machismo. There are no “rock star” developers or “ninjas” at Slack. 
+They do not “crush it”, and they do not call everyone “guys”, because not 
+everyone is a guy – they prefer the term “sibs”, as in siblings. Ali Rayl, 
+Slack’s director of customer experience, points out that Slack’s “work hard and 
+go home” culture is also better for women. “It allows them to say, ‘I can do 
+this job. I can emulate the founders in the way I work and not get punished for 
+it. And I can take care of my family.’ When people come here, we expect them to 
+have a life. We hired someone from Facebook and he couldn’t believe that the 
+place emptied out at 6pm.”
+
+What comes next?
+
+Slack is high on the giddy enthusiasm of Silicon Valley investors and early 
+adopting techies. But everyone is painfully aware that this is a very young 
+company in a very aggressive industry, and things could all change. Many of the 
+staff are unusually candid in describing this intense pressure; Rayl says it’s 
+a “constant low-grade terror that I might screw something up”; Butterfield 
+tells staff it will never get better than this. Slack is the flavor of 2016, 
+but could it become more than that?
+
+We have a system that encourages people to think of themselves as soloists… 
+that success requires someone’s failure
+Margaret Heffernan 
+Anil Dash <http://anildash.com/about.html>, a writer and entrepreneur who has 
+followed Slack since it began, says one of its biggest challenges will be 
+navigating the “ordinary dysfunction” of large companies. Having used Slack to 
+co-ordinate projects with 20 different companies, Dash observes that companies 
+in crisis typically use more private messages and less open discussion. Rather 
+than shape the way we communicate, technology reflects our existing 
+insecurities and behavior. The more confident workers feel, the more happy they 
+are to engage in discussion and collaboration out in the open.
+
+Entrepreneur and author Margaret Heffernan 
+<http://www.mheffernan.com/index2.php> questions whether software could ever 
+solve what is fundamentally a human problem. “We have an education system that 
+encourages people to think of themselves as soloists – their success actually 
+requires someone else’s failure.” These soloists create friction and 
+competitiveness, she says, which often takes precedence over collaboration.
+
+Slack needs buy-in from corporate America if it is to succeed, and while 
+Silicon Valley has always been hugely influential in working culture, from 
+open-plan offices and standing desks to free perks and bonding sessions, is the 
+business world really ready to upgrade its social skills? Isn’t radical 
+collaboration one step too far?
+
+Erica Baker doesn’t think so. I ask her what she might tell her nieces about 
+her work in 50 years’ time. “I’d say your auntie helped change an industry. And 
+that she doesn’t have to work any more,” she says, with the confidence of a 
+woman who senses a public offering over the horizon. “Well, we’re the 
+fastest-growing enterprise company in the world, so there’s a good chance. 
+That’s just honest.”👌🏽
+ 

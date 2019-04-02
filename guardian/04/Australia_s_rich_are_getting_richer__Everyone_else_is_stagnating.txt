@@ -1,0 +1,118 @@
+
+The latest figures for Australian household incomes and wealth released last 
+week showed that income inequality has risen in the past two years. The average 
+annual income of the richest 20% rose by 7%, while median households saw their 
+income rise by just 1.3% in the same period.
+
+Politicians love to justify economic policy by referring to “middle 
+Australians” or the average household. So Australia’s median income is 
+important.
+
+But deciding who is wealthy and who’s an average battler generally comes down 
+to whether the politicians are being generous or making cuts. For example Tony 
+Abbott, when defending his childcare subsidyearlier this year 
+<https://www.pm.gov.au/media/2015-05-10/joint-press-conference-sydney>, 
+suggested that “in a city like Sydney, a $185,000 family income is not 
+especially high”.
+
+While there is some good data on household incomes by organisations such as the
+National Centre for Social and Economic Modelling 
+<http://www.natsem.canberra.edu.au/>, every two years the Australian Bureau of 
+Statistics releases its survey of Household Income and Wealth 
+<http://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/6523.0Main+Features12013-14?OpenDocument>
+.
+
+The latest release shows that the median gross household income in 2013-14 was 
+$80,704, and the average of all households was $107,276:
+
+As you might imagine, these figures are a bit misleading. 
+
+Yes, if you live in a household that brings in more than $80,704 yours is in 
+the richest 50% of all households, but such figures don’t account for 
+differences in household size. The gross income figures effectively treats a 
+household with a family of five the same as that of a single person.
+
+So saying you live in a household that brings in $80,000 doesn’t tell us much. 
+If you are living alone, you’re clearly doing a lot better than another 
+household on the same income that has two adults and three kids.
+
+This is why the ABS uses “equivalised” household incomes. This measure allows 
+us to compare households like for like – by firstly looking at disposable 
+income, which gives a better indication of the income a household has available 
+to meet its needs, and then by allowing for differences of household sizes.
+
+The formula adds 50% to an income for each adult and 30% for each child under 
+15. So, for example a single person earning $1,000 a week would be on the same 
+equivalised income as a household with a single parent with one child who 
+earned $1,300.
+
+Using this measure the median annual disposable income for a single person is 
+$43,836 and for a family of two adults and two children it is $92,056:
+
+It’s a bit hard to work out what you’d need to earn before tax to hit that 
+median, assuming your income comes via work and not government benefits, which 
+is rarely the case. But for a single person to take home $43,836 after income 
+tax and the Medicare levy has been paid, they’d need to be on about $53,800.
+
+For a family of two it is even harder to estimate, given we need to know the 
+split of incomes earned. But assuming a 70/30 split of income (ie one partner 
+earns 70% of the household’s income), one partner would need a job paying 
+$85,900, while the other earned $30,000, for a total pre-tax income of $115,900.
+
+Interestingly, the amount at which a household with two kids under 12 stops 
+receiving anyFamily Tax Benefit A 
+<http://www.humanservices.gov.au/customer/enablers/centrelink/family-tax-benefit-part-a-part-b/ftb-a-income-test>
+ is $109,427 – thus a level below the median household income.
+
+Using the same split, households earning $185,000, far from being “not 
+especially high” would be in the top 25% of all households.
+
+The chart below lets you arrange the figures according to size of household:
+
+Not surprisingly, since the GFC the growth of income for all households has 
+slowed compared with during the boom years of 2002-2008.
+
+During the GFC years from 2009 to 2012 the wealthiest took the biggest hit to 
+income – due to their greater reliance on income from sources such as share 
+dividends and also because higher-paying jobs are more subject to fluctuations 
+than are those mandated by awards and minimum wages.
+
+But from 2011-12 to 2013-14 the biggest growth in incomes was for the 
+wealthiest. Those in the top 20% saw their household income rise on average by 
+7% over those two years (3.5% annually) compared with a mere 1.3% growth for 
+median income households in that period:
+
+This above-average growth for the richest 20% has effectively undone the 
+reductions in income inequality that were caused by the GFC:
+
+The boom years saw Australia’s Gini coefficient 
+<https://en.wikipedia.org/wiki/Gini_coefficient> (which measures inequality) 
+rise from 0.306 in 2003-04 to 0.336 in 2007-08. The fall in highest incomes saw 
+this drop to 0.32 in 2011-12. But now it is back up to 0.333.
+
+Effectively, Australia is now as unequal as it ever has been. The drive in 
+inequality is not so much the rich getting richer while the poor get poorer, as 
+it is the rich getting richer while everyone else stagnates.
+
+Low wages growth over the past two years has seen median incomes barely 
+increase.
+
+Increases in the minimum wage and the indexation of various pensions mean 
+lower income households have seen their incomes grow by a similar, if pitiable, 
+amount as median households since the GFC.
+
+But the picture of inequality over the past 20 years is one of Australia’s 
+welfare system keeping the incomes of the poorest households largely in line 
+with those of median income households.
+
+In 1994-95, median households earned around 2.23 times the income of the 
+poorest 20% of households. In 2013-14 it was 2.25 times – barely any change at 
+all.
+
+By comparison, in 1994-95 the average income of richest 20% was 2.13 times 
+that of median households; now it is 2.42 times:
+
+The debate of inequality generally rests on whether it is OK for inequality to 
+increase so long as everyone’s incomes rise. The “rising tide lifts all boats” 
+argument worked well during the boom, but not any more.
+ 

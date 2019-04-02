@@ -1,0 +1,128 @@
+
+Apple held a keynote event in San Francisco ahead of its Worldwide Developers 
+Conference <https://www.theguardian.com/technology/wwdc>, where it announced 
+its latest mobile and desktop operating systems.
+
+Apple CEO Tim Cook opened the event with a moment’s silence for the victims of 
+theOrlando shooting <https://www.theguardian.com/us-news/orlando-terror-attack>
+. The keynote lasted two hours, the key points are below:
+
+iOS
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fadfcb72f841877fef8c85ef50d974123699f20f0%2F295_0_2222_1333%2F2222.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=WWDC%202016%3A%20key%20points%20at%20a%20glance%20from%20Apple's%20conference&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=WWDC%202016%3A%20key%20points%20at%20a%20glance%20from%20Apple%27s%20conference&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fadfcb72f841877fef8c85ef50d974123699f20f0%2F295_0_2222_1333%2F2222.png>
+ Places arranges pictures by the geolocation information, just like it used to, 
+but now with added facial recognition. Photograph: Apple 
+For iOS <https://www.theguardian.com/technology/ios> 10, Siri has been opened 
+up to third-party developers, letting users book Ubers, send WeChat messages, 
+and watch sports, all by asking Siri to do it for them.
+
+Faces and Places have returned to the iPhone and iPad’s Photos app, after they 
+were removed when iPhoto was replaced by Photos. Places arranges pictures by 
+the geolocation information, just like it used to, but Faces has seen a boost: 
+the app now uses “advanced computer learning” to recognise, not only individual 
+faces, but also other things such as horses and objects, and to cluster 
+together events based on more than just time and location.
+
+Apple <https://www.theguardian.com/technology/apple> strongly emphasised the 
+fact that all this processing is done “locally, on the device” – a clear swipe 
+at competitor Google, which relies on uploading photos and personal data to its 
+cloud for further processing.
+
+Apple announced a “redesign from the ground up” for Apple Music, its streaming 
+service. The update cleans up the look of the already-minimalist interface, as 
+well as adding lyrics to playing songs for the app’s 15 million subscribers.
+
+The Phone app received the same treatment Music got a few years back: 
+third-party voice calling apps can now get almost the same access as the 
+built-in phone app, with a full-screen calling dialogue, and the ability to 
+pick which app – say, WhatsApp or Skype – becomes the default for calling each 
+contact.
+
+Apple also overhauled its Messages app, making emojis three times bigger and 
+adding predictive emoji. It introduced visual effects for text and pictures 
+plus inline rich linking. Messages will also be opened up to third-party 
+developers.
+
+ * Read more: iOS 10: bigger emojis, better Siri and facial recognition coming 
+to your iPhone 
+<https://www.theguardian.com/technology/2016/jun/13/apple-ios-10-emoji-siri-facial-recognition-iphone-ipad-homekit-watch-os-3>
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F05225873ec4b632b0f82495a478215348e576e7b%2F1084_473_1439_863%2F1439.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=WWDC%202016%3A%20key%20points%20at%20a%20glance%20from%20Apple's%20conference&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=WWDC%202016%3A%20key%20points%20at%20a%20glance%20from%20Apple%27s%20conference&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F05225873ec4b632b0f82495a478215348e576e7b%2F1084_473_1439_863%2F1439.png>
+ Messages will allow handwriting. Photograph: Apple 
+MacOS
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fff1ac4e699b5b93fd21927317fada3f258acfeba%2F418_485_1360_816%2F1360.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=WWDC%202016%3A%20key%20points%20at%20a%20glance%20from%20Apple's%20conference&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=WWDC%202016%3A%20key%20points%20at%20a%20glance%20from%20Apple%27s%20conference&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2Fff1ac4e699b5b93fd21927317fada3f258acfeba%2F418_485_1360_816%2F1360.png>
+ Apple unveiled, macOS Sierra, its latest desktop and laptop OS and replacement 
+for OS X. Photograph: Apple 
+MacOS replaces OS X and is called macOS Sierra 
+<https://www.theguardian.com/technology/2016/jun/13/mac-os-sierra-apple-os-x-siri-desktop-wwdc>
+ in this iteration. The naming change brings the desktop OS name inline with 
+the format of iOS, watchOS and tvOS.
+
+Siri, Apple’s personal assistant, will come to desktop and laptop computers 
+for the first time. It will answer questions on Macs and can be used for 
+messaging as well as search and music control.
+
+The new macOS will have much greater iCloud integration, with a universal 
+clipboard and automatic sharing of files from the desktop across multiple 
+devices. Apple says by deleting local content and hosting it in the cloud it 
+will free up large amount of hard drive space. It also announced Apple Pay for 
+the web, authenticated using an iPhone or Apple Watch.
+
+WatchOS 3
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2F70ad2acb072f468b8917989a6e6b6104a11b5aea%2F77_0_2234_1340%2F2234.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=WWDC%202016%3A%20key%20points%20at%20a%20glance%20from%20Apple's%20conference&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=WWDC%202016%3A%20key%20points%20at%20a%20glance%20from%20Apple%27s%20conference&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2F70ad2acb072f468b8917989a6e6b6104a11b5aea%2F77_0_2234_1340%2F2234.png>
+ A Minnie adventure? Apple have announced they are adding Minnie Mouse to their 
+Apple Watch fascia, after Mickey was added last year. Photograph: Apple 
+Announcing WatchOS 3, Apple sought to tackle some of the biggest criticisms of 
+the Apple Watch 
+<https://www.theguardian.com/technology/2016/jun/09/apple-watch-smartwatch>: 
+its slow speed, poor user interface and over-reliance on Siri. WatchOS 3 will 
+load apps into memory before they are launched – making them seven times faster 
+to launch according to Apple – and will enable background refresh so that apps 
+are already up to date the second they’re tapped.
+
+The interface is also improved with the death of Glances, the watch’s 
+confusing semi-apps that could be accessed by swiping up from the bottom. 
+Instead, the up-to-date apps can be accessed from a tap of the side button. The 
+over-reliance on Siri is tackled with a second method of text input. Users will 
+be able to write out individual letters on the screen, typing short messages if 
+they want to reply to texts or emails.
+
+And if you have a Mac as well as an Apple Watch (presumably most people who 
+own the wearable technology), you’ll be able to unlock your computer 
+automatically, just by being near it while you’re wearing the watch.
+
+tvOS
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-6%23img-6&picture=https%3A%2F%2Fmedia.guim.co.uk%2F10a7987e6aa89fdb132a78fd7adbdf9d5a0633c8%2F352_218_2421_1453%2F2421.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=WWDC%202016%3A%20key%20points%20at%20a%20glance%20from%20Apple's%20conference&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-6%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=WWDC%202016%3A%20key%20points%20at%20a%20glance%20from%20Apple%27s%20conference&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-wwdc-keynote-key-points-at-a-glance%3Fpage%3Dwith%3Aimg-6%23img-6&media=https%3A%2F%2Fmedia.guim.co.uk%2F10a7987e6aa89fdb132a78fd7adbdf9d5a0633c8%2F352_218_2421_1453%2F2421.png>
+ Apple tvOS updates are introduced at WWDC. Photograph: Apple 
+The Apple TV received a few new features for its update due this autumn. A new 
+remote app lets users control their TV through their iPhones. A new single 
+sign-on service lets them log into various TV apps with just a simple, 
+Apple-mediated screen. And Siri has been opened up to a third-party developer, 
+letting users search for YouTube videos with their voice.
+
+The Apple TV can also become a remote-control hub for the company’s smart 
+home, Internet of Things control system called HomeKit.
+ 

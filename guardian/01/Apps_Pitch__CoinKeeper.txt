@@ -1,0 +1,99 @@
+
+Third up in our Apps Pitch series is finance app CoinKeeper 
+<http://coinkeeper.me/>, which was recently released for iPhone and Android. 
+Ilya Chernetskiy, head of product group at developeriFree Innovations 
+<http://www.i-free.com/en>, explains all:
+
+What is your app called and what does it do?
+
+The app is called CoinKeeper and it's a personal finance management tool.
+Lots of people feel the need for being financially sustainable, spending less 
+and saving more, but to do that you need to record your transactions, how much 
+we spend and what for.
+
+We know how boring that can be, even if you rely on the services that track 
+your credit card spendings you still have cash and other types of different 
+accounts. So the problem that we address is making recording transactions fast 
+and sort of fun. We also make the overall view of your money and budget very 
+visual and simple.
+
+What devices is it on, and what are your plans?
+
+Right now there are iPhone and Android apps, and we plan to launch an iPad 
+version soon. Windows Phone 7,Android 
+<https://www.theguardian.com/technology/android> tablet and web interface will 
+follow later.
+
+What is the business model and why have you chosen it?
+
+We released a paid iPhone <https://www.theguardian.com/technology/iphone> app 
+first, and this is still on a paid business model (cost £1.87), but to give 
+more people an opportunity to try our approach to financial management we 
+decided to move towards a try-and-buy and freemium models.
+
+So, the Android app is free of charge with 15 days trial and three 
+subscription plans after it: 62p for 1 month, £1.87 for 6 months or £6.20 for a 
+lifetime subscription.
+
+What's innovative about the app - what sets it apart?
+
+It's amazing how little financial management tools have changed over the 
+years. Games are changing much faster and with the beginning of the iPhone era 
+they have rapidly evolved from button-controlled to touch-based, but finance 
+apps are still mostly "tables and charts" with lots of fields to fill about 
+transactions.
+
+So we took a different approach - the main screen of the app represents all 
+your income sources, accounts and expense categories in a form of coin icons.
+To make the transactions simple you drag an account icon (i.e. Cash) and move 
+it to expense category (i.e. Street food), type an amount and press "Today" (or 
+"Yesterday" or choose another date) to finish.
+
+Very fast, intuitive and a little game-like. Some people even told us they 
+tend to spend more often at first because they loved this gesture and 
+animation, of course we didn't want that to happen but still we were very happy 
+we managed to create a product which is not only useful, but also beautiful and 
+engaging.
+
+What's the competition - who else is out there in this area?
+
+There are hundreds, maybe even thousands of personal management apps on the 
+market, but none of them has the same approach as ours.
+
+There is strong competition from services which access and parse your bank 
+account, making it unnessesary to record some transactions manually, but they 
+need to make relationships with the banks, and it is almost impossible to 
+ensure coverage for all the countries and all the banks. But we certainly will 
+move in that direction too.
+
+What are your future plans for the app?
+
+We have lots of plans: most of them are in two areas. One is how to make 
+transaction recording even faster and nonintrusive – apart from parsing bank 
+accounts we are thinking of check scans, voice input and some other very 
+innovative ideas.
+
+The second issue is helping people understand what is happening with their 
+money. What's the forecast, how will their life change with current incomes and 
+spendings, and give a piece of advice on that. We don't want to overload the 
+app with dozens of charts: we want to give people clear answers.
+
+Tell us more about the company behind it?
+
+I-Free Innovations, a subsidiary of i-Free Ltd., features a unique team of 
+professionals dedicated to the development and publishing of applications and 
+games for smartphones and new network devices.
+
+We are constantly engaged in the research of new prospective technologies and 
+approaches to application development. For example, we have a large trending 
+project "Everfriends" – a virtual assistant app with fun and helpful 3D 
+characters powered by voice recognition, voice synthesis and nature language 
+processing.
+
+We also have several utility apps like Grocery Mate, a simple but handy 
+shopping list app, or Shoptimus - a mobile shopping mall. We also act as 
+publisher for games: recently we launched an addictive puzzle game Zombie 
+Granny on Android, and soon we shall be launching two beautiful Playstation 
+Network games that were adapted, or better said, re-invented for iOS: Cuboid 
+and Magic Orbz.
+ 

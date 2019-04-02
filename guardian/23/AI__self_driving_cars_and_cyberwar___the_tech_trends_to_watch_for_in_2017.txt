@@ -1,0 +1,191 @@
+
+In some ways, tech in 2017 will be a steady progression from what came before 
+it. Time marches on, and so too does the advance of technology. In other ways, 
+though, it will be just as upended as the rest of the world by the 
+unprecedented disruption that 2016 has left in its wake.
+
+Here are the trends to watch out for in the coming year:
+
+More AI, less data
+
+The artificial intelligence revolution is well and truly upon us, but so far, 
+the biggest players are venerable Silicon Valley titans such asGoogle 
+<https://www.theguardian.com/technology/google>, Amazon and Apple. That’s 
+partially because they have the money to hire teams full of PhDs at 
+seven-figure salaries, but it’s also because they have the data.
+
+That could change. One of the key areas of research for 2017 is data 
+efficiency: the problem of trying to teach machine-learning systems how to do 
+more, with less. Think about how many times your average three-year-old needs 
+to see a particular animal before they can correctly identify it, compared with 
+the thousands of images a neural network needs to ingest to perform the same 
+basic task.
+
+Solving the problem of data efficiency could dramatically open up the 
+industry, letting new startups compete on a level playing field with those who 
+have access to petabytes of customer data. And it could also change what an AI 
+can do for you, letting an assistant become far more sensitive to your personal 
+quirks and foibles, or a photo-tagging service recognise specific locations, 
+objects, or situations.
+
+Mostly-self-driving cars
+
+Self-driving cars <https://www.theguardian.com/technology/self-driving-cars> 
+exist on a scale. At one end, you’ll find technologies that are barely more 
+than fancy cruise control: lane-assist features ensure your car doesn’t drift 
+out of lane, while adaptive cruise control will maintain a steady distance from 
+the car in front. At the other end is full automation: a car that can drive 
+from a parking space outside your house to a parking space outside your office 
+with no-one touching the steering wheel, or even sitting in the car at all.
+
+The story of 2017 will be car companies racing almost all the way to that 
+final hurdle, but just stopping short. Not only the tech companies, either 
+(although expect Tesla’s own models to lead the way, closely followed by 
+Google’s sister company Waymo’s alliance with Fiat Chrysler). Conventional 
+manufacturers the likes of Nissan and BMW are jumping into the field with both 
+feet, and their systems will only get smarter. And who knows what Apple’s plans 
+are?
+
+But don’t expect anyone to make the difficult jump to full self-driving 
+capability any time soon. Not only are the regulatory and liability hurdles 
+immense, but the tech just isn’t there for the vast majority of journeys. 
+There’s a reason Google tested its first ever fully automatic trip in Texas, 
+land of wide lanes, huge highways, and car-centric development. Drop that car 
+in the middle of a busy London backstreet and it won’t do so well.
+
+The big question is whether all this automation will actually make things 
+safer. On the one hand, cars don’t get distracted, drunk, or tired, all of 
+which lie at the root of most fatalities on the road. On the other hand, if 
+people are told to supervise a car which mostly drives itself, they tend not to 
+be prepared to take over if it actually does need assistance – a problem that 
+lay behind the first self-driving fatality in May.
+
+Cyberwar
+
+Let’s not mince words: cyberwar has already begun. If it didn’t start in 2008, 
+when (probably) the Israeli and US intelligence services used the Stuxnet virus 
+to destroy Iranian nuclear centrifuges, and it didn’t start in 2015, when the 
+US Office of Personnel Management was hacked by (probably) China, stealing the 
+personal details of millions of government employees, then it certainly started 
+in 2016, when (probably) Russia hacked in to the Democratic National Congress, 
+exflitrating emails which were released with the intention of altering the 
+outcome of an election.
+
+Those “probably”s expose part of the appeal of cyberwar for nation states: 
+attribution is hard, and rock-solid attribution to not just a nation but a 
+chain of command is almost impossible. The incoming US administration is 
+already making aggressive overtures about its desire to get on the attack, 
+which will inevitably also make it a bigger target, according to security 
+expert Hitesh Sheth, head of cybersecurity firm Vectra.
+
+“US businesses and the US government should expect an increase in the number 
+and severity of cyber-attacks, led by select nation states and organised 
+political and criminal entities,” he says.
+
+The ghost of Christmas data breaches past
+
+It feels like data breaches are everywhere. But that’s often not the case; 
+while companies are indeed compromised on a regular basis, modern security 
+practices usually ensure that not much is stolen, and what does get taken isn’t 
+easy to exploit.
+
+Instead, the more dangerous trend is old breaches surfacing, like an 
+unexploded second-world-war bomb, to wreak havoc on the present. That’s what 
+happened toYahoo <https://www.theguardian.com/technology/yahoo>, twice in one 
+year, when data breaches from 2013 and 2014 resurfaced. The breaches were huge, 
+containing a billion and half a billion accounts respectively, and the 
+information within them was barely secured. Passwords were obfuscated with a 
+standard which has been known to be insecure since 2005, while other info, 
+including security questions, was in plain text.
+
+Because data breaches can happen undetected, fixing your cybersecurity in 2016 
+isn’t just locking the stable door after the horse has bolted; it’s locking the 
+stable door without even realising the horse made its escape years ago.
+
+The information in historical breaches has often been traded on the darknet 
+for some time before their existence surfaces, meaning the damage comes in two 
+waves: first, slowly, and then all at once.
+
+Meet eSports, the new sports
+
+Competitive video gaming is a huge business. In 2016, investment bank GP 
+Bullhound estimated it hit a global audience of over 250 million people, and 
+amassed a total annual revenue of $493m – and in 2017, that’s predicted to more 
+than double, making eSports a billion-dollar sector.
+
+The scale of the eSports industry is down to a number of factors, from 
+increased broadband penetration making online multiplayer gaming accessible to 
+most of the world to online streaming allowing budding eSports stars to skip 
+conventional media and go straight to their fans.
+
+But it’s now big enough to warp the very industry that spawned it, with major 
+games publishers courting the eSports community from the inception of their 
+latest releases. Blizzard, a Californian company best-known for its online game 
+World of Warcraft, has been one of the leaders in the field, with games 
+including Heroes of the Storm, Overwatch and Hearthstone all having online 
+viewerships in the millions, but the standout success is RiotGames 
+<https://www.theguardian.com/technology/games>, whose sole title League of 
+Legends had more viewers in its 2015 world championship than the final game of 
+2016’s NBA Finals.
+
+GP Bullhound says the next big wave is going to come from mobile, with games 
+like Clash Royale and Vainglory representing the fastest growing segment of the 
+global $37bn games market. Of course, this might all pass you by: over half of 
+eSports fans are millennials, by far the youngest skew of any group of sports 
+supporters.
+
+The great privacy divide
+
+The world’s most advanced surveillance operation will shortly be under the 
+direct control of a far-right demagogue who routinely attacks critics on social 
+media and uses the office of US president-elect to bolster his commercial 
+interests. That has left some people worried.
+
+As a result, many are re-examining their online privacy, switching to 
+encrypted messaging services, locking down social media accounts, and limiting 
+the amount of information they put online. Signal, an encrypted messaging app 
+recommended by Edward Snowden, saw a huge spike in downloads following Donald 
+Trump’s election, while hundreds of tech workerssigned a pledge 
+<http://neveragain.tech/> to never implement the president-elect’s proposed 
+registry of Muslims.
+
+At the same time, though, trends in AI and online monetisation have pushed 
+other tech firms to slowly chip away at the amount of privacy their users have, 
+data-mining ever more aspects of their online lives in an effort to offer 
+better services and create smarter software. Google, for instance, will now 
+train a machine-learning system on your photos, read your emails to find useful 
+information to add to your calendar, and save everything you say to it to 
+improve its voice recognition.
+
+Over 2017, this divide will only increase: companies like Apple 
+<https://www.theguardian.com/technology/apple> and Signal on the one side, and 
+Facebook and Google on the other. In the end, the market will decide. Are 
+people willing to give up the latest and greatest fruits of machine-learning to 
+limit their exposure to surveillance, or do they not really care about online 
+privacy and want everything as soon as it’s technologically possible?
+
+Chinese tech goes west
+
+The likes of Foxconn may build the world’s most premium tech, but in the west, 
+Chinese brands are still largely associated with cheap electronics: no-name 
+flat panels andcheap smartphones that spy on you 
+<http://thehackernews.com/2016/11/hacking-android-smartphone.html>. As for 
+software, the entire country can feel as if it’s seen through analogues to 
+Silicon Valley, from “China’s Google” (Baidu) to “China’s Twitter” (Sina Weibo).
+
+But an increasing number of Chinese companies have their eyes set on the 
+richer markets of Europe and America, without giving up on the customer base in 
+their own country. Shenzhen-based OnePlus, for instance, has slowly carved out 
+a niche for itself with its high-quality, low-price range of smartphones, which 
+aim to match the flagships from Apple and Samsung while offering 
+price-sensitive users savings of hundreds of pounds. Huawei, already a fairly 
+well-known brand in the west, is pushing its Honor brand as a way to drop the 
+budget image for a new demographic.
+
+And software firms are getting in the game too. Tencent, makers of WeChat 
+(that’s “China’s WhatsApp”, for those playing along at home), is pushing hard 
+into the west, taking on Facebook at its own game. The service is currently 
+most popular with Chinese expats, but it’s clear that Facebook is watching 
+closely: a number of features in Messenger are ripped wholesale from the hugely 
+influential service.
+ 

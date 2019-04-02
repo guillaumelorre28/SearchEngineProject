@@ -1,0 +1,110 @@
+
+Construction projects can often be besieged by problems. Planners typically 
+work off paper blueprints and drawings, which makes it harder to capture and 
+analyse data and share information with contractors to ensure quality control 
+and smooth running.
+
+The industry has, up to now, been one of the least digitised industries, 
+according to research 
+<http://www.mckinsey.com/industries/capital-projects-and-infrastructure/our-insights/imagining-constructions-digital-future>
+ by global consultancy firm McKinsey & Company, but digitisation allows 
+information to be shared in real-time and leads to better outcomes. For 
+instance, by overlaying virtual data and images on to a physical space, 
+potential flaws that may arise in complicated processes such as laying ceiling 
+pipes can be spotted early. Workers are able to see how a construction schedule 
+might be affected by potential problems and take measures to avoid them.
+
+Virtual reality and sport: breaking ground on and off the pitch
+ Read more  
+<https://www.theguardian.com/media-network/2016/oct/21/virtual-reality-changing-sport-game-nfl-nba>
+“The construction industry is in the midst of creative reinvention. Clients 
+are increasingly wanting to speed up their time to market, and designs and 
+systems are growing in complexity, with buildings being assembled in new ways,” 
+says Sue Klawans, a senior vice president and director of operational 
+excellence and planning atGilbane Building Company <http://www.gilbaneco.com>, 
+a Rhode Island construction management firm, which tested Microsoft’s augmented 
+reality (AR) headset HoloLens a few months ago. “We knew we needed to continue 
+offering our team members the tools and technology to support the evolution of 
+how we build.”
+
+The market for digital AR tools is growing. Earlier this year, Californian 
+startupDaqri <https://daqri.com> launched a smart helmet similar to HoloLens 
+<https://www.microsoft.com/microsoft-hololens/en-us> and designed specifically 
+for industrial settings. Meanwhile, apps likeSmartReality 
+<http://smartreality.co/> from JBKnowledge, allow users to hold a smartphone or 
+tablet over designs or plan files and see 2D drawings projected as 3D models.
+
+AR is making it easier not only for planners and architects to collaborate 
+with contractors, but to reassure clients and address any concerns they may 
+have. Klawans says its immersive nature means they can “interact with their 
+building and give feedback on the design before ground has been broken”.
+
+The technology’s capacity to deliver cost savings and reduce the chances of a 
+build falling behind schedule can also lead to less cautious investors.
+
+“Using AR to showcase a building or piece of infrastructure to potential 
+investors in its proposed real-world location will help them understand how 
+that asset will connect with its surroundings,” says Dominic Thasarathar, 
+construction industry strategist atAutodesk <http://www.autodesk.com/>, the 
+software company that provides the building visualisation data for Gilbane’s 
+system to work. “Such as what the view from the 30th floor of an apartment 
+block might be like. This will make it a more attractive prospect.”
+
+There are signs that, beyond bringing flat blueprints and designs to life in 
+front of clients, reducing on-site problems and easing investor worries, AR 
+could provide an end-to-end service. Software is being developed that enables 
+companies to show clients what the inside of a build will look like when 
+furnished a certain way or the finishing touches have been applied to the 
+outside. Of course, virtual reality allows this to be done before a project has 
+been completed and sometimes in more detail, but viewing it outside its context 
+and environment has its limitations.
+
+What does artificial intelligence mean for the creative mind?
+ Read more  
+<https://www.theguardian.com/media-network/2016/aug/10/artificial-intelligence-the-new-creative-mind>
+“The beauty of AR is, if you go to a property that’s just been built and 
+you’re not sure how your car will fit, you can stand outside the property and, 
+with your car loaded into the software, position it on the driveway,” says 
+James Barry, head of visualisation atArea Sq <http://www.areasq.co.uk>, a 
+London-based office interior design firm passionate about the benefits the 
+technology can have.
+
+Area Sq is yet to use AR commercially – it has already integrated VR into its 
+services – but is considering adopting it soon. Barry says that he expects the 
+ability for clients to picture fittings and materials in place will be 
+powerful. He adds that AR will not only be effective at bringing clients on 
+board from an early stage, but at being a pipeline tool.
+
+It makes sense. The technology is already being used to market and sell 
+products to homeowners and shoppers. Apps such asDulux Visualiser 
+<https://www.dulux.co.uk/en/articles/the-dulux-visualizer-app> enables users to 
+hold phones up to a wall and picture how they would be painted a certain 
+colour. And Ikea allows them to scan images from its catalogue and picture them 
+in their house before they decide to buy.
+
+Maximilian Doelle, the chief prototyper at Kazendi <https://www.kazendi.com>, 
+the first UK developer for HoloLens, built the HoloLiving app, which allows 
+users to virtually furnish a room, for its client Selligent. He says that the 
+furniture industry, along with the construction sector, will benefit hugely 
+from placing images and virtual objects in the real world. The caveat though is 
+that 3D graphic designers may add things that, while they look good virtually, 
+can’t be replicated in the exact same way. “There could end up being a 
+discrepancy for customers, between what they expect to see and what’s actually 
+there,” Doelle adds.
+
+A true marker of AR’s ability to innovate and provide an end-to-end service 
+may well be whether it will then be used to sell a piece of real estate. Could 
+the future showroom see prospective buyers wearing a headset or walking round 
+viewing it through a smartphone? Not as things stand, says Doelle, but as 
+visuals become more photorealistic and software more sophisticated, the 
+possibility of it being used to sell homes won’t be far off.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+
+
+All Guardian Media & Tech Network content is editorially independent except 
+for pieces labelled “Paid for by” – find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

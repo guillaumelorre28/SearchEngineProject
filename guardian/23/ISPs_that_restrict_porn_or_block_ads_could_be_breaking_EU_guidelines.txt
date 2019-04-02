@@ -1,0 +1,87 @@
+
+Internet <https://www.theguardian.com/technology/internet> service providers 
+that restrict online access to pornography or block ads could be breaking EU 
+guidelines on net neutrality even if customers opt in.
+
+ISPs Sky, BT and TalkTalk 
+<https://www.theguardian.com/business/talk-talk-telecom> already block access 
+to adult sites following pressure from the government, as do mobile operators 
+such as O2. Mobile operator Three has also recently run a trial of ad blocking 
+that asked users to opt in.
+
+EU regulations only allow providers to block content for three reasons: to 
+comply with a member state’s laws, to manage levels of traffic across a 
+network, or for security.
+
+MPs call for reforms over misleading broadband speed claims
+ Read more  
+<https://www.theguardian.com/technology/2016/apr/16/mps-calls-for-reforms-over-misleading-broadband-speed-claims>
+Blocking adult content falls into a grey area, with no clear legal framework 
+in UK legislation, and providers have relied on providing the ability to opt in 
+to protect themselves from falling foul of the rules.
+
+However, guidance on the interpretation of guidelines issued by EU body Berec 
+says that even if a person indicates they want certain content to be blocked, 
+it should be done on their device, rather than at a network level.
+
+The guidance, contained in a report issued alongside the updated guidelines 
+says: “With regard to some of the suggestions made by stakeholders about 
+traffic management features that could be requested or controlled by end-users, 
+Berec notes that the regulation does not consider that end-user consent enables
+ISPs <https://www.theguardian.com/technology/isps> to engage in such practices 
+at the network level.
+
+ “End-users may independently choose to apply equivalent features, for example 
+via their terminal equipment or more generally on the applications running at 
+the terminal equipment, but Berec considers that management of such features at 
+the network level would not be consistent with the regulation.”
+
+Interpretation of the EU guidelines falls to Ofcom, but the UK regulator must 
+take them into account when deciding if there has been a breach.
+
+An Ofcom spokesman said: “Ofcom will monitor compliance with the new rules, 
+and look into any complaints received. We will consider any potential breaches 
+as they arise in accordance with our interpretation of the regulation, and 
+drawing upon the Berec guidelines to inform our approach.”
+
+Frode Sorensen, co-chair of the Berec expert working group on net neutrality 
+refused to comment on specific cases or countries, but said the updated 
+guidance made it clear that it had found no legal basis for using customer 
+choice to justify blocking any content without national legislation or for 
+reasons of traffic management or security.
+
+David Cameron said in October last year that he had secured an opt-out from 
+the rules enabling British internet providers to introduce porn filters.
+
+However, Sorensen said he was not aware of any opt-out, and the net neutrality 
+rules introduced in November, after Cameron made his claim, said they applied 
+to the whole European Economic Area which includes the UK.
+
+The net neutrality rules are designed to ensure that internet providers to not 
+favour specific sources of content such as commercial partners, or censor 
+information that is not forbidden by laws passed by national governments.
+
+A DCMS spokesperson said the rules still allowed for internet filters, but 
+could not immediately point to the where in the legislation those were allowed 
+at a network level.
+
+A spokesperson said: “Family-friendly filters are permitted under the EU net 
+neutrality regulation. The regulations gives end-users the right to access 
+information and content of their choice, and enabling/disabling filters 
+exercises this choice.”
+
+A spokesperson for BT <https://www.theguardian.com/business/btgroup> said: “BT 
+offers filtering at both network and device level dependent on the customers 
+preferences.”
+
+“The Berec guidelines are not binding and it’s for Ofcom to consider in its 
+application and enforcement of the EU regulations.”
+
+“The UK has one of the safest online environments in the world and we believe 
+customers should be able to continue to choose to use parental filters to 
+protect children while online regardless of the technology.”
+
+•This article was amended on 1 September 2016 to correct a reference to the 
+guidance featuring in the guidelines. It was in fact in a report accompanying 
+their publication
+ 

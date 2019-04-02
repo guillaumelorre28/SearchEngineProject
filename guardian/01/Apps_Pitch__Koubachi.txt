@@ -1,0 +1,91 @@
+
+Fourth up in our Apps Pitch series is Koubachi <http://www.koubachi.com/>, one 
+of the latest apps designed to work with a hardware accessory.
+
+What does your app do?
+
+Koubachi gives your plant a voice and yourself a green thumb! For every plant 
+in our plant library, we have developed an individual care model that considers 
+the species (a ficus has different needs than an orchid), the annual season and 
+your location (climate zone).
+
+You only need to calibrate your plant once and Koubachi will provide you with 
+detailed care instructions in regards to when and how to care for your plant. 
+Koubachi tells you when you need to water, fertilize or mist your beloved 
+plants.
+
+What platform(s) is it on, and what plans do you have for any others?
+
+Koubachi is currently available as an iPhone app and as a web app (
+my.koubachi.com <http://my.koubachi.com/>). A native Android version is 
+currently in development and will be released in late summer. You can also use 
+Koubachi in Facebook as a Facebook app. We started with iOS because it had a 
+big momentum when we started with the app.
+
+What's the business model and why did you choose it?
+
+Great news - the app is actually free - and no ads or in-app purchases to 
+bother users at the moment either. We are a startup active in the field of 
+Internet of Things/Smart Objects and just launched the complementary Koubachi 
+Wi-Fi Plant Sensor that seamlessly integrates into the system.
+
+With the sensor, you will get even more precise care instructions and specific 
+alerts measuring soil moisture, light intensity and temperature. Unfortunately, 
+we can not give away the sensor for free - it retails for £99.
+
+But don't get us wrong, you can still use the app without a sensor – but only 
+with the sensor do you get real time information on the plant's vitality, the 
+most precise water instructions, light and temperature alerts.
+
+Why is the app innovative - what are the key features that you think set it 
+apart and/or make best use of the platform?
+
+Koubachi really makes plant care easy and fun. If you don't have green 
+fingers, just rely on Koubachi for your plants and enjoy healthy and blossoming 
+plants in no time.
+
+The plant care models were developed and verified in cooperation with plant 
+physiologists from the Swiss Federal Institute of Technology - drawing on this 
+model, our Plant Care Engine will calculate a care model tailored to your 
+individual plant and tell you how and when to care for it.
+
+At the moment, we have more than 400 plants in the library and we are 
+upgrading it on a continuous basis – the goal being 800-1,000 plants by the end 
+of the year.
+
+We also put a lot of emphasis on a nice and clean user interface. Device-wise, 
+we will further experiment with our ultra-low power Wi-Fi model (runs over 1 
+year with 2x AA batteries) and may think of a satellite version.
+
+What's the competition like - what else is out there in this area?
+
+There are very few plant care apps out there. However, most of them are based 
+on a simple calendar and made in quite a technical way, which might work if you 
+are already a garden aficionado. We want to give green fingers to everybody and 
+make plant care a simpler, yet more powerful and a fun user experience.
+
+What are your future plans?
+
+We'd like to integrate a plant doctor into the app as well, so that we can 
+also provide the users with alerts and information on possible diseases of your 
+plant.
+
+We also learnt that quite a few people don't know the name of the plant as 
+they may have received it as a gift. So we work on building a easy and fun game 
+into the app that provides you with the name of the plant, drawing on vast 
+community knowledge.
+
+Tell me about yourself and your company
+
+We are a startup company based in Switzerland and the team consists of 10 
+dedicated people. Koubachi was founded during the dissertation project of the 
+two founders. They furnished their office with a nice plant but did not have an 
+idea how to take care of it or forgot to care for it.
+
+As the founders were studying computer science, they thought there must be a 
+better solution for this problem and voila: Koubachi was born.
+
+Koubachi started out in 2009 and the app was then launched in Fall 2010. Our 
+newest baby, the Koubachi Wi-Fi Plant Sensor was only born, i.e. launched 
+recently.
+ 

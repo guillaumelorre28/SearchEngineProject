@@ -1,0 +1,111 @@
+
+Robots have already been put to work across a number of industries. They are 
+manufacturing cars,taking care of the elderly 
+<https://www.theguardian.com/lifeandstyle/2016/mar/14/robot-carers-for-elderly-people-are-another-way-of-dying-even-more-miserably>
+, doing housework,homework 
+<http://uk.reuters.com/video/2012/02/13/robot-sings-dances-and-helps-with-homewo?videoId=230043581>
+, andeven entering literary awards 
+<http://www.latimes.com/books/jacketcopy/la-et-jc-novel-computer-writing-japan-20160322-story.html>
+. It is not surprising then that new robots have been developed to conduct job 
+interviews.
+
+One such robot, Matlda 
+<http://recruitingtimes.org/news/16065/robots-take-job-interview/>, has been 
+programmed to conduct 25-minute interviews in which she works through a roster 
+of up to 76 questions. She records and analyses the interviewee’s responses, 
+monitors facial expressions and compares them to other successful employees 
+within the hiring company.
+
+Matlda is not much taller than a wine bottle, but her introduction could set a 
+new precedent for recruitment techniques across a range of sectors.
+
+Doing so will affect the performance of interviewees differently. “Some 
+candidates might present better in person and will be left worse off, but 
+others may be more comfortable with a remote interview,” says Martin Ford, an 
+expert on automation technology.
+
+After the robot revolution, what will be left for our children to do?
+ Read more  
+<https://www.theguardian.com/careers/2016/may/11/robot-jobs-automated-work> 
+One particular demographic that might welcome chatting to Matlda is the 
+post-millennial generation, also known asdigital natives 
+<https://www.theguardian.com/optus-business-smart-future/ng-interactive/2016/nov/29/smart-disruption-a-perspective-on-innovation-for-australian-organisations>
+, who grew up swiping the pages of digital books, using self-checkout machines 
+and asking Siri for directions. “We find that people often prefer to interact 
+with something that’s not real; it’s all about reducing the cognitive load,” 
+says Matthew Howard at King’s College London, whose students launchedKinba, a 
+robotic receptionist at the university 
+<https://www.youtube.com/watch?v=4uN-GGqJS7g&t=6s>, earlier this year.
+
+As with all forms of artificial intelligence, efficiency is a clear incentive. 
+More important, though, are claims that artificial intelligence will help 
+eliminate pre-existing prejudice within employment processes and boost 
+transparency.
+
+“Matlda’s mission is to be a service gateway for a more sustainable and humane 
+society,” says Prof Rajiv Khosla at Melbourne’s La Trobe University, which 
+developed the robot. “It’s a non-judgmental, non-threatening and non-invasive 
+means of engaging people in uninhibited interaction.”
+
+A level playing field?
+
+The main advantage of involving computers, “is a consistency in decision 
+making and the removal of some human error”, says Benedict O’Donovan, managing 
+director at Durham Applied Robotics and Technologies. “While you might get two 
+interviewers who interpret recruiting guidelines very differently, you’re never 
+going to get a computer that doesn’t follow the rules exactly or allow 
+prejudice to bias their decisions.”
+
+Humans are inconsistent where robots are incapable of being anything but 
+consistent
+
+Hiring processes, when conducted by humans at least, have always been 
+problematic because bias is so often unconscious.Personality 
+<https://www.theguardian.com/science/2016/sep/01/how-algorithms-rule-our-working-lives>
+ andpsychometric testing 
+<https://www.theguardian.com/money/shortcuts/2014/jan/29/psychometric-tests-job-interviews-what-for>
+,blind auditions 
+<https://www.theguardian.com/women-in-leadership/2013/oct/14/blind-auditions-orchestras-gender-bias>
+,webcam interviews 
+<http://www.chicagotribune.com/business/ct-careers-webcam-job-interview-20161017-story.html>
+ andnameless CVs 
+<http://uk.businessinsider.com/silicon-valley-bank-removing-names-cvs-resumes-prevent-unconcious-bias-2016-11?r=US&IR=T>
+ are on the rise, but in a face-to-face environment, anything from gender, 
+race, clothing, education and accent can provide an unwitting platform for 
+discrimination 
+<http://onlinelibrary.wiley.com/doi/10.1111/j.1468-0475.2011.00538.x/abstract?deniedAccessCustomisedMessage=&userIsAuthenticated=false>
+. Humans are inconsistent where robots are incapable of being anything but 
+consistent.
+
+The problem is that as well as putting these robots to work, humans are also 
+the onesinputting the data 
+<http://time.com/4277517/grappling-with-the-right-role-for-robots-at-work/> 
+enabling them to do that work. “There is no such thing as a neutral algorithm,” 
+says Laurel Riek, associate professor of computer science and engineering at 
+University of California, San Diego. “If the system is using some metric for 
+decision making regarding employment, who came up with that metric, what data 
+is it based on, and how is it being applied?”
+
+This problem was highlighted earlier in 2016 when Microsoft was forced to take 
+its AI chatbot Tay off Twitter just hours after its launch. Robots learn from 
+the humans they are programmed by, followed by those they interact with; it 
+wasn’t long before Tay assimilated the conversations and opinions of those 
+around her and posted a series of racist, sexist tweets anddenied the holocaust 
+<https://www.theguardian.com/technology/2016/mar/30/microsoft-racist-sexist-chatbot-twitter-drugs>
+.
+
+“Bias can creep in very easily with learning systems, and depends entirely on 
+the data they’ve been trained on,” says Prof Noel Sharkey at Sheffield 
+University. This means if an organisation is already an old boys’ network of 
+employees from similar socio-economic and educational backgrounds, a robot 
+instilled with the existing blueprint of that workforce cannot hope to make 
+much of a diversifying impact. So despite all good intentions, it seems 
+unlikely that robots like Matlda will become commonplace in the interview room. 
+We may be more biased, but until a robot is able to adjust its thinking 
+regardless of the programming it’s received – itself a contradiction in terms – 
+the most important kind of interaction will have to remain human.
+
+Looking for a job? Browse Guardian Jobs <http://jobs.theguardian.com/> or sign 
+up toGuardian Careers <https://register.theguardian.com/careers/> for the 
+latest job vacancies and career advice
+ 

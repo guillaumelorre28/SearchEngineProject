@@ -1,0 +1,134 @@
+
+Just for August, a random selection of registered, non-subscribing desktop 
+readers of theFT.com <http://ft.com/> who had downloaded ad blocking software 
+were met with an article missing a third of its words. How frustrating, 
+maddening even … until you realise that a third roughly equates to the 
+proportion of total digital earnings made up by ad revenue at the Financial 
+Times. What an ingenuous way of illustrating the impact of ad blocking software 
+on a publisher’s revenue and, consequently, content. The threat posed to 
+publishers by ad blocking software is forcing many to think in a similarly 
+lateral way.
+
+According to the Interactive Advertising Bureau [IAB] UK’s Ad Blocking Report 
+<http://www.iabuk.net/about/press/archive/iab-uk-reveals-latest-ad-blocking-behaviour>
+, published in March, 22% of British adults online were found to be using ad 
+blocking software, a rise from 18% in October 2015. And although publishers 
+will be relieved after theEU said this week 
+<https://www.theguardian.com/business/2016/aug/31/mobile-phone-networks-should-not-block-adverts-says-eu>
+ that plans by mobile phone operators to block adverts for customers across 
+their networks breached net neutrality legislation, if the use of ad blockers 
+grows the consequences could be dramatic.
+
+Google’s former general manager of marketplace development, Ben Barokas, now 
+CEO of Sourcepoint, which works with publishers to tackle the ad blocking 
+challenge, believes the number of users deploying ad blocking software averages 
+around 15%, but says some publishers are seeing upwards of 40% of their 
+audience using ad blocking tools. “For premium publishers, with large 
+audiences, the revenue risk is significant – an average ad block rate of 20% 
+could result in a loss of several million dollars a month.”
+
+
+From digital to print: the publishers bucking the online-only trend
+ Read more  
+<https://www.theguardian.com/media-network/2016/jun/27/digital-print-publishers-swipe-net-a-porter>
+Between 20 and 22% of the FT.com’s users are blocking advertising, and while 
+Jon Slade, chief commercial officer at the Financial Times says the problem is 
+not yet “material”, he is acutely aware of the future impact. “Our greatest 
+concern is where we go in the next six to 12 months because we still have 
+enough advertising to sell – just about – but if it continues to get a great 
+deal worse and the industry doesn’t address the problems in the way it needs 
+to, we can anticipate some serious problems down the line.”
+
+
+The Financial Times is currently trialling four approaches aimed at reducing 
+the number of users blocking ads. Arguably its most innovative experiment is to 
+obscure a third of an article. Slade admits that while it is a little cheeky, 
+it is intended to illustrate the necessary value exchange to readers. “This 
+solution came up as one that raised a bit of a smile but also helped people to 
+understand the impact and consequences. It was done in a thoughtful way and in 
+keeping with the Financial Times brand, which can be witty. We think it is 
+quite clever and will give us some good results.”
+
+
+Another thoughtful approach is being undertaken by Forbes, which in December 
+2015 started rewarding those who turned off their ad blocking software with an 
+ad-light experience. This sees the removal of certain types of ads, including 
+interstitial, auto-play and in-line video ads, to enhance the reader 
+experience. Mark Howard, chief revenue officer at Forbes says, “It acknowledges 
+that users have a choice and this approach respects that choice and gives them 
+the ability to choose whether they want to support our content with viewing 
+ads.”
+
+
+Figures from February 2016 revealed that four million desktop visitors to 
+Forbes – 42.3% of those asked – had either disabled their blockers or 
+whitelisted Forbes.com since the trial began. This translated into the delivery 
+of 63 million ad impressions that would have otherwise not been seen. “We 
+started seeing users whitelist us immediately and, as we measured their site 
+visits, we saw that the people participating in our ad light experience were 
+consuming 40%–plus more page views and spending over 100% more time on the 
+site,” says Howard.
+
+
+Other publishers are acting to reduce their reliance on online advertising. 
+For Car Throttle, billed as the “Lad Bible for petrol heads” – which reaches 
+100 million car enthusiasts each month – the challenge is acute.Figures from 
+the IAB 
+<http://www.iabuk.net/about/press/archive/new-iab-uk-research-reveals-latest-ad-blocking-levels>
+ in November 2015 show that ad blocking is more prevalent among men (23%) than 
+women (13%) and the propensity to block ads decreases with age – from 35% of 
+18- to 24-year-olds to 13% of people age 55 and over. “Ninety percent of our 
+audience are millennial males so we’ve always known that our users are likely 
+to be heavy users of ad blocking software (around 50% of all desktop users have 
+ad blockers turned on),” says Adnan Ebrahim, chief executive of Car Throttle. 
+“Our commercial strategy was formed with this very much in mind.”
+
+
+Algorithms are more like puppies than monsters, they want to please you
+ Read more  
+<https://www.theguardian.com/media-network/2016/jun/06/algorithms-more-puppies-than-monsters-please-you-natural-language-processing>
+Car Throttle’s approach has been to embrace branded content campaigns, which 
+now make up 80% of the site’s ad revenue. “It’s an effective way of being able 
+to offer advertisers access to users without being dependent on ‘ad-blockable’ 
+advertising.” It has run recent content campaigns with Nissan and Ford, 
+creating and distributing content to its millennial car enthusiasts. “In the 
+case of Nissan, the video we helped to distribute reached over 15 million 
+people with 5.5m views, because the advertiser message becomes part of the 
+content.”
+
+
+The International Business Times (IBT) <http://www.ibtimes.co.uk/> is 
+trialling “polite but firm” messaging such as “By having ads on our site, this 
+ensures we can offer our content to you for free. Please turn off your ad 
+blocker or whitelist us. Thanks in advance, the IBT team” to ad blocking users. 
+But the organisation is also looking to spread its risk by exploring other 
+revenue streams. IBT editor-in-chief John Crowley says the publisher is 
+“devoting increasing focus to platforms like Facebook Live, where we see new 
+revenue opportunities unaffected by ad blocking”. Facebook revealed in August 
+that it was trialling an option for publishers to insert a short ad break in 
+their Facebook Live videos.
+
+Yet those publishers who take arguably the crudest solution to the problem and 
+simply ban some readers from accessing content are also seeing results. In 
+October 2015, 20% of daily financial site City A.M.’s desktopFirefox 
+<https://www.theguardian.com/technology/firefox> users were using ad blocking 
+software. The finding prompted City A.M. to implement a ban against such 
+readers – the first UK newspaper to do so – greeting them with blurred content 
+overlaid with a message explaining that it relies on advertising to fund its 
+journalism. It has proved a successful move. “Staggeringly, 65% of desktop 
+users turn off their ad blockers when confronted with our polite message,” says 
+Emma Haslett, digital editor at City A.M. “Objections have been fairly minimal.”
+
+What works in the fight against ad blocking will depend on each publisher and 
+its audience, but finding fitting ways to educate readers about the necessary 
+value exchange is clearly a top priority.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+
+
+All Guardian Media & Tech Network content is editorially independent except 
+for pieces labelled “Paid for by” – find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

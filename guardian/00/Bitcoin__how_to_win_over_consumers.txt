@@ -1,0 +1,77 @@
+
+As bitcoin <https://www.theguardian.com/technology/bitcoin> shifts further 
+from the twilight world of hackers, beyond speculators and early adopters 
+towards the brink of "early mainstream", its proponents are confronted with a 
+problem: while merchant usage is on the rise, consumers are so far unconvinced. 
+So how to go about persuading them otherwise?
+
+To become a ubiquitous means of payment in the minds of ordinary consumers – 
+which means being seen as a better option than either credit cards orPayPal 
+<https://www.theguardian.com/technology/paypal> – bitcoin must evolve into a 
+medium of exchange, rather than just a store of value.
+
+The bitcoin ecosystem 
+<https://www.theguardian.com/news/video/2014/apr/30/bitcoin-made-simple-video-animation>
+ has advanced at breakneck speed, passing through the various growing-up stages 
+along the way: first came miners (creation), then exchanges (buy/sell), next 
+digital wallets (storage) and vaults (more storage). That got us to store of 
+value, and now we're moving to medium of exchange (ie payment service provision 
+for merchants and setting-up for transactional usage).
+
+While dollar volumes at giants like Amazon 
+<https://www.theguardian.com/technology/amazon> and eBay 
+<https://www.theguardian.com/technology/ebay> are adequately served by existing 
+systems, a major opportunity exists to create the next compelling consumer 
+payment method for the internet-era – which would be the first major innovation 
+in the space since the launch of PayPal in 1999. Bitcoin is the obvious 
+contender. However, from a user's standpoint it's still far from seamless, 
+requiring a log-in process similar to accessing an online bank account (the 
+alternative QR code method is little better.) That needs to change.
+
+I believe the best way to achieve that is to build apps with seamless 
+one-click interfaces, which make the consumer experience as straightforward as 
+possible. This is starting to happen, with consumer services mimicking 
+traditional banking apps, layered on top of state-of-the-art storage, being 
+developed by the likes ofXapo <https://xapo.com/#home>. Similarly, Apple might 
+be getting ready to embrace cryptocurrency apps 
+<http://www.coindesk.com/apples-virtual-currency-policy-update-good-bad-bitcoin/>
+, according to their WWDC statement.
+
+Above all, bitcoin needs to become an instinctive transaction mechanism 
+available at our fingertips. The protocol would be used as an invisible and 
+embedded means of transaction (with merchant acceptance deemed as standard), 
+where the consumer technology instantly acquires a bitcoin with which to settle 
+– transforming it, in effect, into the elegant rails over which the payment 
+glides.
+
+Where may these use cases emerge? One of bitcoin's distinct advantages is its 
+ability to transport cross-border payments effortlessly. If you are, say, from 
+the UK and shopping on a US site, a card transaction will entail a foreign 
+exchange fee, while your bank/card company will be likely to take a wider 
+spread on the exchange rate, plus levy a one-off charge for a foreign payment.
+
+Remittances are a derivative of cross-border payment flows, and we have been 
+meeting entrepreneurs working on such projects. Another opportunity might lie 
+in "social tipping" – that's bitcoin as a by-product of some beneficial 
+activity on the internet (perhaps sharing capacity, or webpage real estate).
+
+As with any new protocol, there are initial uncertainties. Yet over time, as 
+the wave of entrepreneurial innovation increases, I would expect to see a 
+network effect occur, similar to the evolution of email (or perhaps telephony). 
+From there on, the opportunity is almost limitless. Today, bitcoin is 
+predominantly about payments, but it's also a broader transaction mechanism, 
+whose myriad uses we can only begin to imagine.
+
+Jan Hammer is a partner at Index Ventures <http://indexventures.com/>. Index 
+Ventures are speaking at this year'sGuardian Activate London Summit on 17 July, 
+2014 
+<https://www.theguardian.com/media-network/2014/may/02/activate-london-2014-programme>
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media Network content is editorially independent except for 
+pieces labelled 'Advertisement feature'. Find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

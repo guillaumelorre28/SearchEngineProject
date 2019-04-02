@@ -1,0 +1,175 @@
+
+A quick burst of 9 links for you to chew over, as picked by the Technology team
+
+U of T neural networks start-up acquired by Google >> University of Toronto 
+Media Room 
+<http://media.utoronto.ca/media-releases/u-of-t-neural-networks-start-up-acquired-by-google/>
+
+Google <https://www.theguardian.com/technology/google> has picked up a 
+ground-breaking start-up out of the Department of Computer Science, University 
+of Toronto.
+
+ University Professor Geoffrey Hinton and two of his graduate students, Alex 
+Krizhevsky and Ilya Sutskever, incorporated DNNresearch Inc. in 2012, and the 
+company has been acquired by Google for its research on deep neural networks.
+
+ Hinton is world-renowned for his work with neural nets, and this research has 
+profound implications for areas such as speech recognition, computer vision and 
+language understanding.
+
+ "Geoffrey Hinton's research is a magnificent example of disruptive innovation 
+with roots in basic research," said U of T's president, Professor David Naylor. 
+"The discoveries of brilliant researchers, guided freely by their expertise, 
+curiosity, and intuition, lead eventually to practical applications no one 
+could have imagined, much less requisitioned.
+
+ This will all get open-sourced, for sure, won't it? (Thanks 
+@modelportfolio2003 for pointer.)
+
+Andy Rubin's email to Android partners >> WSJ Digits blog 
+<http://blogs.wsj.com/digits/2013/03/13/andy-rubins-email-to-android-partners/?mod=WSJBlog>
+
+Final paragraph: 
+
+As for me, I am an entrepreneur at heart and now is the right time for me to 
+start a new chapter within Google. I am amazed by what we have accomplished 
+from those early days (not so long ago!), and remain passionate about the power 
+of a simple idea and a shared goal -- an open source platform freely available 
+to everyone -- to transform computing for people everywhere.
+
+ That's the true transformation that Android has achieved. And that 
+transformation has barely begun.
+
+Mysterious partner buys 1 million BlackBerry 10 devices >> AllThingsD 
+<http://allthingsd.com/20130313/mysterious-partner-buys-1-million-blackberry-10-devices/>
+
+BlackBerry just won its biggest vote of confidence yet: A massive order for 
+handsets running its next-generation operating system. The company said 
+Wednesday that an "established partner" had agreed to buy 1 million BlackBerry 
+10 devices. The deal marks the largest-ever single purchase order in 
+BlackBerry's history, according to the company.
+
+ Almost certainly the US government, as was announced last November 
+<http://mobile.bloomberg.com/news/2012-11-13/rim-counts-on-wave-of-blackberry-government-upgrades.html>
+. Certainly a vote of confidence, whoever it is.
+
+In rare move, Apple goes on the defensive against Samsung >> WSJ.com 
+<http://online.wsj.com/article/SB10001424127887324077704578358760931327672.html>
+
+In a rare interview a day before Samsung Electronics announces a new flagship 
+smartphone in New York,Apple <https://www.theguardian.com/technology/apple> 
+marketing chief Phil Schiller on Wednesday played down the expected competition 
+from the device and discussed how believes such products -- which run Google's 
+Android software -- are inferior to Apple's iPhone.
+
+ He shared data on the iPhone's popularity and said Apple's own research shows 
+that four times as many iPhone users switched from Android than to Android 
+during the fourth quarter, according to company research.
+
+ Unsurprising comments, intriguing data. But the headline - how do you "go on 
+the defensive"? Surely you go on theoffensive? Which Schiller seems to have 
+done here.
+
+Will Android tablets pass iPad in 2013? >> Tech.pinions 
+<http://techpinions.com/will-android-tablets-pass-ipad-in-2013/15077>
+
+Technically, yes. But let Ben Bajarin explain: 
+
+The problem when we talk about Android market share in both smartphones and 
+tablets, is that we are not talking about market share in which a universal app 
+store medium exists. This is because Android can be taken and forked, to the 
+chagrin of Google, and used for the sole agenda of others thus not benefiting 
+Google or the Play Store developers. This is the problem we have when we look 
+at the Android growth in tablets. The greatest percentage of it is coming from 
+Amazon with their Kindle fire, and the Chinese market. The Kindle Fire runs a 
+forked version of Android and developers must use Amazon's SDK and proprietary 
+app store. 90% of Chinese Android devices sold do not come with the Google Play 
+store installed but rather have ties to dozens of local app store from local 
+service providers. Therefore to get an accurate picture of the Android market, 
+it is more helpful to break out market share by devices which have the Play 
+store and the ones that do not. If we did, then IDC's, chart would look more 
+like this.
+
+ It's a telling diagram. AOSP (forked non-Google Android) is huge - and 
+lumping AOSP and Google Android together gives a false picture of what's going 
+on. Trouble is, the AOSP numbers are very hard to acquire, despite being 
+significant.
+
+Acer President: more comfortable about Windows 8 uptake due to Microsoft's 
+support >> Fox Business 
+<http://www.foxbusiness.com/technology/2013/03/11/acer-president-more-comfortable-about-windows-8-uptake-due-to-microsoft-support/>
+
+Acer President Jim Wong told the Wall Street Journal on the sidelines of a 
+media event in Taipei that he expects sales of Windows 8 touch-based devices to 
+pick up in the second half of the year. He declined to specify what support 
+Microsoft has given Acer and PC makers. Several sources in Taiwan saidMicrosoft 
+<https://www.theguardian.com/technology/microsoft> has recently offered steep 
+discounts on Windows 8 to PC makers to boost development of touch-controlled 
+devices.
+
+ Mr. Wong said the company's operating margin had already bottomed at 0.3% in 
+the third quarter and is expected to rise this year. The company expects its 
+tablet shipments to exceed 5m units this year, with a 50% chance of reaching 
+10m, boosted by strong demand for Acer's new low-cost tablet, the Iconia B1, he 
+said.
+
+ What are the factors in that 50% each-way bet of hitting 10m? And of course 
+those aren't PCs - they're tablets running Windows 8.
+
+Windows 8 device choices baffle buyers >> Information Week 
+<http://www.informationweek.co.uk/software/windows8/windows-8-device-choices-baffle-buyers/240150267?cid=RSSfeed_IWK_ALL>
+
+Kevin Casey: 
+
+[Forrester senior analyst David] Johnson added that the differences - both 
+significant and subtle - between various Windows 8 models aren't always 
+apparent to buyers until they've had a chance to use the devices. A road 
+warrior might be better suited for a device with a built-in keyboard instead of 
+a true tablet, for example, but they might not figure that out until it's too 
+late. "This is something that we think many buyers will not fully grasp until 
+after they've made their purchase and have to live with their choice for the 
+long term," Johnson said.
+
+ That lack of practical information is, in business-speak, a barrier to entry. 
+I spoke recently with Terena Bell, CEO of the translation firm In Every 
+Language, who explained why she'd been impressed by Microsoft's extensive ad 
+campaign behind the Windows 8 launch. Yet when she decided to plunk down her 
+company's cash on a Windows 8 machine that would run upwards of $1,000, she was 
+stumped by her hardware choices and had trouble finding reliable information 
+and reviews. Microsoft's slick ads were both friend and enemy - they first got 
+Bell interested in, and later confused by, Windows 8.
+
+Eye-tracking tech will be open to iPhones and other devices >> NYTimes.com 
+<http://bits.blogs.nytimes.com/2013/03/12/eye-tracking-tech-will-be-open-to-iphones-others/>
+
+Brian Chen: 
+
+Samsung Electronics won't be the only company that gets a fancy eye-tracking 
+feature. A start-up company called uMoove, which has been developing this type 
+of technology for three years, says it will offer eye- and head-tracking to 
+anyone, including device makers like Apple and software developers who make 
+mobile apps.
+
+ Based in Israel, has been working on a technology for smartphones and tablets 
+to track eye and head movements using a device's front-facing camera. It said 
+on Tuesday that very soon it would offer a software tool kit to apply its 
+technology to applications.
+
+TripAdvisor reminds everyone why travel agencies are screwed >> Skift 
+<http://skift.com/2013/03/12/tripadvisor-report-reminds-everyone-why-travel-agencies-are-screwed/>
+
+A recent study conducted on behalf of TripAdvisor by independent research firm 
+StrategyOne found that only 7% of Brits visited a high street travel agent to 
+book their latest trip. Travelers in the UK and abroad now turn to web services 
+as their primary booking tool. Brits were most likely to book via web-based 
+travel agencies (27%) or directly on hotels' own websites (23%).
+
+ The study also found the Internet to be the most useful to travelers when 
+researching a trip. Travel review sites were regarded the most helpful with 38% 
+of respondents choosing them as their top choice, but the data could be skewed 
+given that it was administered by TripAdvisor.
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/u:guardiantech>. To suggest a link, either add it below or 
+tag it with @gdntech on the freeDelicious <http://www.delicious.com/> service.
+ 

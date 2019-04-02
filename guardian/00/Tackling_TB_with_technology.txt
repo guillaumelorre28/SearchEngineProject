@@ -1,0 +1,36 @@
+
+In a modest temple by the entrance to South Delhi's sprawling Tughlakabad 
+slum, Shammo Khan, a counsellor with NGO Operation Asha, sits with the day's 
+first patient, 16-year-old Kumar. He has been referred after being diagnosed 
+with TB at a government hospital.
+
+TB treatment is a six-month process and missing doses of medication can lead 
+to the deadly Multi-Drug-Resistant TB strain. According to a 2010 World Health 
+Organisation report, this is on the rise in India.
+
+Operation Asha aims to improve patients' adherence to drug treatment 
+programmes by using eDOTS, a low-cost biometric system that requires only a 
+basic laptop and mobile phone. Internet access isn't necessary and the system 
+is user-friendly for those with little education. It was designed in 
+collaboration with Microsoft Research India and Innovators in Health – a US 
+non-profit organisation.
+
+eDOTS terminals are available at 24 locations in Delhi, such as temples and 
+kiosks, ensuring patients only have to walk about 10–15 minutes to find one.
+
+Kumar logs in, using the biometric fingerprint reader, then collects his 
+medication and thanks Shammo before leaving for school. Details of the day's 
+visits are sent via SMS to an online server and are then downloaded at 
+Operation Asha's HQ.
+
+Shammo is alerted by SMS if a patient misses an appointment. Since its 
+inception in 2010, the system has seen a less than 1% default rate and has 
+served more than 3,000 patients.
+
+"Some patients are reluctant to take the medication because it can have 
+uncomfortable side-effects, or stop taking the medicine once they begin to feel 
+better," says Sandeep Ahuja, CEO of Operation Asha. "A counsellor then visits 
+their home within 72 hours and warns them of the dangers of defaulting. Once 
+they know, they're usually so scared they wouldn't dream of missing another 
+appointment."SC
+ 

@@ -1,0 +1,115 @@
+
+Like an embarrassed child trying to hide a broken lamp behind a curtain, Sajid 
+Javid last Thursday, hours before the Easter break,sneaked out the news 
+<https://www.theguardian.com/politics/2016/mar/24/land-registry-faces-privatisation>
+ that the government wants to privatise the Land Registry. Perhaps he hoped 
+nobody would notice.
+
+In vain. The growing number of people who rely on open government data to run 
+businesses and understand what is happening to the country weren’t fooled at 
+all. Selling the Land Registry is foolish dogma that risks creating a private 
+monopoly over what should be publicly available data. It would mean squandering 
+long-term income for short-term gain; putting vital information beyond reach of 
+the Freedom of Information Act; and creating a future where we can’t find out 
+how our country is owned without stumping up fees of unknown size.
+
+Land Registry faces privatisation
+ Read more  
+<https://www.theguardian.com/politics/2016/mar/24/land-registry-faces-privatisation>
+The idea was floated to, and blocked by, Vince Cable 
+<https://www.theguardian.com/politics/2014/jul/11/land-registry-privatisation-vetoed-vince-cable>
+ in the previous administration. It’s still a bad idea. Just ask John 
+Manthorpe, the former chief land registrar,who on the We own it website 
+<https://weownit.org.uk/blog/why-privatising-land-registry-wrong> says: “The 
+Registry’s independence from commercial or specialised interests is essential 
+to the trust and reliance placed on its activities”.
+
+The Tories’ reason for the proposed sell-off is in the second sentence of the 
+foreword of the consultation 
+<https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/510987/BIS-16-165-consultation-on-moving-land-registry-operations-to-the-private-sector.pdf>
+: “Reducing the national debt.” It then breezily suggests that the Land 
+Registry doesn’t have to be publicly owned “as long as the right protections 
+are put in place, including keeping the statutory register under government 
+ownership”. Instead, it could “continue to evolve into a high performing, 
+innovative business, delivering for customers and the wider market in a 21st 
+century, digital economy”.
+
+It’s the usual buzzword bingo. Yet the Land Registry isn’t a burden on the 
+taxpayer; it generates a profit, because everyone who buys or sells property is 
+obliged to update it, and pay a fee. More importantly, it creates a record. 
+“Enforcing land ownership is not just some random thing the state does, it’sthe 
+core thing the state does,” Francis Irving, a programmer and activist for open 
+data who co-founded the prize-winning data startup ScraperWiki, told me. “In a 
+digital age especially, registry of land and boundaries is a key part of 
+property ownership enforcement.”
+
+Making land data available to everyone for free was a key change in South 
+Africa after apartheid 
+<https://www.theguardian.com/technology/2007/mar/08/freeourdata.southafrica>: 
+it was recognised as important to make every citizen equal. So why do the 
+Tories want to put price and secrecy barriers in the way of people who want to 
+know about the country’s ownership?
+
+Why do the Tories want to put barriers in the way of people who want to know 
+about the country’s ownership?
+
+Just over 10 years ago, Michael Cross and I started the Free Our Data campaign 
+<https://www.theguardian.com/technology/2006/mar/09/education.epublic> in the 
+Guardian’s Technology section, arguing that the fees being charged for access 
+to non-personal government-held data – such as Ordnance Survey map data, 
+Environment Agency flood, river and reservoir data, company filings, even tide 
+times – were blocking the creation of a new economic sector: digital companies 
+which could create value by putting different datasets together. (ScraperWiki 
+is the sort of company that relies on such access.)
+
+The proposal wasn’t initially greeted with open arms. But following Gordon 
+Brown’s arrival in 2009, the ball began rolling: Tom Watson, then Cabinet 
+Office minister, was an enthusiastic proponent of free data inside the 
+government, and we then discovered that Sir Tim Berners-Lee, held the same 
+view, which he put to Brown at a dinner. Brown agreed. It turns out that 
+running a campaign gets easier when the inventor of the world wide web and the 
+prime minister support the idea behind it.
+
+The big breakthrough was in April 2010, when Ordnance Survey released a huge 
+amount of data 
+<https://www.theguardian.com/technology/2009/nov/17/ordnance-survey-maps-online>
+ for free commercial reuse – an idea that would have been laughable four years 
+earlier, when small web developers were fending off lawsuits over map 
+screenshots. Other departments followed. Once the Environment Agency, which had 
+resisted calls to make its data freely available because it was an “executive 
+agency”, at arm’s length from the government, caved in, I thought the fight 
+would be over. It took the 2014 floods to start getting river level data for 
+free.
+
+However the campaign’s work won’t really be done until the government stops 
+having stupid ideas about privatising the data which should be publicly held. 
+We’ve already suffered from Michael Fallon’s decision to sell off the 
+income-generating Postcode Address File (PAF) database with Royal Mail – which 
+means thegovernment had to set aside £5m 
+<https://gds.blog.gov.uk/2016/03/23/an-open-address-register/> (but will need 
+more) in the budget to create a “national address register”, with exactly the 
+same information. PAF is now an expensive private monopoly which many 
+businesses have no alternative but to rely on, .
+
+By contrast, you can download the “price paid” data from the Land Registry 
+<https://data.gov.uk/dataset/land-registry-monthly-price-paid-data> going back 
+to January 1995 for free, and use it for business. That’s open data - albeit 
+with a caveat: the address data is owned by Royal Mail, so there’s a fee 
+payable if you try to attach addresses to the price data. Another missed chance 
+by the Tories, through Fallon’s selloff. Sell the Registry off, and prices 
+could rise; as a monopoly with inside knowledge it could crowd rivals out of 
+the information market and refuse to license data.
+
+The worst part? The Tories know this already. In 2014 they tried the same 
+consultation. The first question was whether people thought a “more 
+delivery-focused organisation at arm’s length from government” would do a 
+better job for customers. Answer: 91% said no.
+
+So who wanted privatisation? As the campaigner Owen Boswarva 
+<http://owenboswarva.com/> has pointed out 
+<http://mapgubbins.tumblr.com/post/91803140720/who-supports-the-privatisation-of-land-registry>
+, not small businesses, legal representatives or councils. It was big companies 
+such as the outsourcing firm Capita, IBM, and private equity group Silver Lake 
+Europe. Are we really sure they have our best interests at heart? It’s 
+certainly not clear the Tories do.
+ 

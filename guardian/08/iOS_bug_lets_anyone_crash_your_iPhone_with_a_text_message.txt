@@ -1,0 +1,71 @@
+
+A bug in Apple’s iOS means that anyone can crash an iPhone 
+<https://www.theguardian.com/technology/iphone> by simply sending it a certain 
+string of characters in a message.
+
+
+The bug – discovered by several 
+<http://www.reddit.com/r/apple/comments/37enow/about_the_latest_iphone_security_vulnerability/>
+ Redditusers 
+<http://www.reddit.com/r/explainlikeimfive/comments/37edde/eli5_how_that_text_you_can_send_to_friends_turns/>
+ – means that when the message is received it instantly crashes the iPhone and 
+causes it to reboot, as long as the recipient is not viewing their message 
+history at the time.
+
+The attack appears to be caused by a glitch in the way Apple’s iOS 
+<https://www.theguardian.com/technology/ios> mobile operating system, which 
+runs on the iPhone, iPad and iPod touch, renders Arabic text.
+
+When the text message is displayed by a banner alert or notification on the 
+lockscreen, the system attempts to abbreviate the text with an ellipsis. If the 
+ellipsis is placed in the middle of a set of non-Latin script characters, 
+including Arabic,Marathi <http://en.wikipedia.org/wiki/Marathi_language> and 
+Chinese, it causes the system to crash and the phone to reboot.
+
+The bug requires a very specific string of text to be sent within an iMessage 
+or SMS. In attempting to confirm the bug, the Guardian went through 50 
+variations of the text string before replicating the crash.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Finstagram.com%2Fp%2F3LuZT-pMGW%2F&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Finstagram.com%2Fp%2F3LuZT-pMGW%2F>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Finstagram.com%2Fp%2F3LuZT-pMGW%2F&media=>
+ A video showing the crash in action. 
+The text string is very specific and is therefore highly unlikely to be 
+replicated by accident. Those worried about being attacked can protect their 
+iPhone from the bug by disabling notification banners. Getting notifications on 
+anApple Watch <https://www.theguardian.com/technology/apple-watch> also 
+protects the iPhone from the bug.
+
+Some users falling victim to the attack have reported that they can no longer 
+access messages.
+
+Others have reported that sending a photo to the contact via the Photos app 
+can allow them to access the message history and delete the conversation, 
+clearing the source of the crash.
+
+The bug is being used as a prank, with users taking to Twitter to vent their 
+frustration after crashes. As with any glitch like this, it is that possible 
+hackers could turn the bug into a method of attack beyond simple pranks.
+
+This is not the first bug causing similar issues on Apple 
+<https://www.theguardian.com/technology/apple> devices, including apps on Macs, 
+to be exposed.
+
+Bugs within third-party apps have also caused similar problems for iPhone 
+users,including Snapchat 
+<https://www.theguardian.com/technology/2014/feb/10/snapchat-flaw-crash-iphone-messaging-app-security>
+, which allowed attackers to flood devices with information causing them to 
+crash.
+
+“We are aware of an iMessage issue caused by a specific series of unicode 
+characters and we will make a fix available in a software update,” said an 
+Apple spokesman.
+
+• Apple finally fixes iMessage bug 
+<https://www.theguardian.com/technology/2014/nov/11/apple-finally-fixes-imessage-bug>
+
+• Wi-Fi hack creates ‘no iOS zone’ that cripples iPhones and iPads 
+<https://www.theguardian.com/technology/2015/apr/22/wi-fi-hack-ios-iphone-ipad-apple>
+ 

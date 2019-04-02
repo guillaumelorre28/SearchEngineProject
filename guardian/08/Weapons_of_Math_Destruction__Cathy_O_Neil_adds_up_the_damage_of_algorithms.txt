@@ -1,0 +1,130 @@
+
+“People keep suggesting that democracy is alive and well because we have two 
+parties that don’t agree on everything. I think that’s total bullshit.” When 
+you meet Cathy O’Neil, a data scientist and author, you quickly discover she 
+isn’t exactly convinced about the health of the US’s electoral system.
+
+A Harvard PhD graduate in mathematics and actively involved in the Occupy 
+movement, O’Neil’s experience is crucial to her new book:Weapons of Math 
+Destruction 
+<https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815>
+ describes the way that math can be manipulated by biases and affect every 
+aspect of our lives.
+
+As well as questioning the two-party system in the US, she’s also looked at 
+how mathematics has been used in the housing and banking sector to affect our 
+lives via her blogmathbabe <https://mathbabe.org/> for more than a decade. So 
+what’s her problem with good old American democracy in 2016?
+
+How algorithms rule our working lives | Cathy O’Neil
+ Read more  
+<https://www.theguardian.com/science/2016/sep/01/how-algorithms-rule-our-working-lives>
+“Democracy is more than a two-party system. It’s an informed public and that’s 
+what’s at risk,” she says. “The debates are where you would hope to find out 
+real information, but they’re just talking about their dick size … The 
+algorithms are making it harder and harder to get good information.” And 
+algorithms, rule-based processes for solving mathematical problems, are being 
+applied to more and more areas of our lives.
+
+
+This idea is at the heart of O’Neil’s thinking on why algorithms can be so 
+harmful. In theory, mathematics is neutral – two plus two equals four 
+regardless of what anyone wishes the answer was. But in practice, mathematical 
+algorithms can be formulated and tweaked based on powerful interests.
+
+O’Neil saw those interests first hand when she was a quantitative analyst on 
+Wall Street. Starting in 2007, O’Neil spent four years in finance, two of them 
+working for a hedge fund. There she saw the use of weapons of math destruction, 
+a term O’Neil uses to describe “algorithms that are important, secret and 
+destructive”. The algorithms that ultimately caused the financial crisis meet 
+all of those criteria – they affected large numbers of people, were entirely 
+opaque and destroyed lives.
+
+I left disgusted by finance because I thought of it as a rigged system and it 
+was rigged for the insiders
+
+“I left disgusted by finance because I thought of it as a rigged system and it 
+was rigged for the insiders,” says O’Neil. “I was ashamed by that – as a 
+mathematician I love math and I think math is a tool for good.”
+
+Among the many examples of powerful formulas that O’Neil cites in her book, 
+political polling doesn’t come up, even though this election cycle has made 
+polling’s power more talked about than ever before. So is it dangerous? Could 
+polling be a weapon of math destruction?
+
+
+She pauses – “I’m not sure” – then she pauses some more. “I think polling is a 
+weapon of math destruction,” she says. “Nobody really understands it, it’s 
+incredibly widespread and powerful.” We discuss the success of Nate Silver, the 
+founder and editor-in-chief of FiveThirtyEight (a site I spent almost two years 
+working at). Silver has positioned himself as one of the few people who does 
+understand polling, and as such he’s been christened as asoothsayer 
+<http://www.wweek.com/news/2016/06/29/hillary-clinton-chance-of-beating-donald-trump-in-oregon/>
+ andsavant 
+<http://www.vanityfair.com/news/2016/02/donald-trump-iowa-nate-silver>. We’re 
+desperate for math answers, which is part of the reason we ended up here, 
+according to O’Neil.
+membership callout 
+<https://interactive.guim.co.uk/embed/us-membership/truth.html> 
+“You don’t see a lot of skepticism,” she says. “The algorithms are like shiny 
+new toys that we can’t resist using. We trust them so much that we project 
+meaning on to them.”
+
+That desperation is potentially very damaging to democracy. Increasingly the 
+public is informed about polling data, not policy information, when deciding 
+who to elect. “It’s self-referential,” O’Neil explains.
+
+Like so many algorithms, political polls have a feedback loop – the more we 
+hear a certain candidate is ahead in the polls, the more we recognize their 
+name and the more we see them as electorally viable.
+
+O’Neil’s book explains how other mathematical models do a similar thing – such 
+asthe ones <https://epic.org/algorithmic-transparency/crim-justice/> used to 
+measure the likelihood an individual will relapse into criminal behavior. When 
+someone is classed as “high risk”, they’re more likely to get a longer sentence 
+and find it harder to find a job when they eventually do get out. That person 
+is then more likely to commit another crime, and so the model looks like it got 
+it right.
+
+
+And then there are those biases. Contrary to popular opinion that algorithms 
+are purely objective, O’Neil explains in her book that “models are opinions 
+embedded in mathematics”. Think Trump is a hopeless candidate? That will affect 
+your calculations. Think black American men are all criminal thugs? That 
+affects the models being used in the criminal justice system, too.
+
+
+Is an algorithm any less racist than a human?
+ Read more  
+<https://www.theguardian.com/technology/2016/aug/03/algorithm-racist-human-employers-work>
+Ultimately algorithms, according to O’Neil, reinforce discrimination and widen 
+inequality, “using people’s fear and trust of mathematics to prevent them from 
+asking questions”. The seemingly contradictory words “fear” and “trust” leap 
+out to me: how many other things do we both fear and trust, except perhaps for 
+fate or God? O’Neil agrees. “I think it has a few hallmarks of worship – we 
+turn off parts of our brain, we somehow feel like it’s not our duty, not our 
+right to question this.”
+
+But sometimes it’s hard for non-statisticians to know which questions to ask. 
+O’Neil’s advice is to be persistent. “People should feel more entitled to push 
+back and ask for evidence, but they seem to fold a little too quickly when 
+they’re told that it’s complicated,” she says. If someone feels that they some 
+formula has affected their lives, “at the very least they should be asking, how 
+do you know that this is legal? That it isn’t discriminatory?’”
+
+But often we don’t even know where to look for those important algorithms, 
+because by definition the most dangerous ones are also the most secretive. 
+That’s why the catalogue of case studies in O’Neil’s book are so important; 
+she’s telling us where to look.
+
+Weapons of Math Destruction: How Big Data Increases Inequality and Threatens 
+Democracy is out now and published by Crown
+
+ * No billionaire owner, no shareholders. Just independent, investigative 
+reporting that fights for the truth, whatever the cost. Why not support it?
+Become a Guardian US member 
+<https://membership.theguardian.com/supporter?INTCMP=gdnwb_copts_editorial_mem_USMathDestruction_footer>
+ for $49 a year, ormake a contribution 
+<https://contribute.theguardian.com/home?INTCMP=co_us_editorial_footer_USMathDestructionChalabi>
+.
+ 

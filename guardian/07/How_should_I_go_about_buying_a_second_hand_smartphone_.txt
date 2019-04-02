@@ -1,0 +1,147 @@
+
+I’m thinking of replacing my Huawei Y300 
+<http://www.gsmarena.com/huawei_ascend_y300-5386.php> smartphone, which is 
+about three years old now. I was wondering about buying a second-hand phone. I 
+believe you save a considerable amount of money buying hardware behind the 
+curve. Until now, I’ve bought most hardware new. Are there any dos and don’ts 
+when buying second hand?Robert
+
+You can save money by buying new smartphones that are “behind the curve” – 
+Amazon often has deals on new phones at close to used prices. Otherwise, the 
+savings on second-hand phones may be offset by the extra work you have to do, 
+and the extra risks. The savings may be wiped out if your phone fails, or turns 
+out to be stolen.
+
+There are actually two types of second-hand phone. The first is the usual 
+type, sold by individuals and some small dealers. The second type consists of 
+refurbished phones, which have been tested, fixed and graded by retailers. 
+Refurbished phones should always come with a guarantee, though you may only get 
+six months.
+
+Buying a refurbished phone reduces the risks involved, but generally raises 
+the prices.
+
+Refurbishers
+
+O2’s Like New <https://www.o2.co.uk/shop/like-new> online store should be one 
+of the safest places to buy refurbished. The first catch is that O2’s 
+smartphones come with a sim and a contract, butSimply Pay As You Go 
+<https://www.o2.co.uk/shop/phones/?contractType=payasyougo#condition=likenew&sort=content.sorting.featured>
+ doesn’t involve a monthly fee. The second catch is that you can only choose 
+from a small number of phones. The third catch is thatO2 Refresh 
+<http://www.o2.co.uk/refresh> offers low prices if you trade in your existing 
+phone.
+
+There are other sources of refurbished phones including eBay and Amazon 
+<https://www.amazon.co.uk/SIM-Free-Mobile-Phones-Smartphones-Second-Hand/s> 
+traders, and CeX and similar stores. There’s a list on the Money Saving Expert 
+page,Buying a refurbished mobile 
+<http://www.moneysavingexpert.com/phones/buying-refurbished-phones>
+
+If you buy from a refurbisher, you will usually be able to use a credit card 
+for payment, except on eBay. If your second hand smartphone costs more than 
+£100, you will get extra protection if something goes wrong.
+
+Checking a phone
+
+If you buy from an individual, you must check that the smartphone works 
+correctly, and that it isn’t stolen. Warn sellers in advance: they may spare 
+you the effort by selling to someone less savvy.
+
+This approach depends on meeting the seller face to face, rather than buying 
+sight-unseen from eBay, Gumtree or whatever. It also depends on you having the 
+right size sim for the phone you want to buy, but you can always pick up a 
+cheap one.
+
+You should obviously check the smartphone for scratches and other damage, 
+including corrosion around the sockets. Check the camera lens for scratches. If 
+the back opens, get the seller to open it: the smartphone should be clean 
+inside.
+
+Take along a laptop, a charging cable, earbuds or headphones, and – if 
+necessary – a microSD or SD card. Plug the smartphone into your laptop to make 
+sure it charges. Check that the headphone jack and card slot work. Use your own 
+sim to make a phone call.
+
+If the smartphone is locked to a particular network, it should be cheaper than 
+an unlocked phone. Even if you happen to use the same network, do some research 
+first, to make sure you can unlock it.
+
+Secret codes and apps
+
+Most if not all phones have “hidden codes” that provide access to extra 
+information and self-test routines. For example, on some Android phones, 
+*#*#4636#*#* will provide usage statistics and battery information, while 
+*#*#0*#*#* will run an LCD display test. I got both these codes from a post at
+Redmond Pie 
+<http://www.redmondpie.com/hidden-android-secret-codes-for-samsung-htc-motorola-sony-lg-and-other-devices/>
+, and many others are demonstrated in variousYouTube videos 
+<https://www.youtube.com/watch?v=KyQvMAKZ6qI>. You can search in advance for 
+the codes you need.
+
+An alternative is to run an app such as Phone Tester 
+<https://play.google.com/store/apps/details?id=com.mtorres.phonetester> for 
+Android orPhone Doctor Plus 
+<https://play.google.com/store/apps/details?id=com.idea.PhoneDoctorPlus> for 
+Android and Apple’s iOS. These will tell you about the actual smartphone 
+hardware, whether the sensors work, and something about the state of the 
+battery. The healthier the battery, the better – especially if it’s sealed in 
+the case.
+
+Is it stolen?
+
+Every phone has a unique IMEI (International Mobile Equipment Identity) 
+number, which it sends to the mobile network operator when you turn it on. It’s 
+a string of 15 or 16 digits. It’s usually found on the outside of the box the 
+phone came in, and it will be printed somewhere on or inside the phone, eg 
+under the battery.
+
+The IMEI should also be listed somewhere in the smartphone settings, eg under 
+“About device” on Android. If not, typing *#06# should show it on the screen.
+
+Once you have the IMEI, you can find out the phone’s history. The prime source 
+is theCheckMEND Mobile Equipment National Database 
+<https://www.checkmend.com/uk/>, which claims to be “the world’s largest source 
+of used mobile phone and device history, including data from police, insurers, 
+retailers and networks.” Unfortunately, it’s not free. A single history report 
+costs £1.99, but you can get them for less if you open an account.
+
+There’s a more expensive but possibly more convenient way to access CheckMEND. 
+Send anSMS text message <https://www.checkmend.com/uk/sms-mobile-checking> to 
+83010 with the word CHECK followed by your IMEI followed by your email address. 
+This costs £3 plus your standard network rate.
+
+CheckMEND also runs a Safe Seller <https://www.checkmend.com/uk/safe-seller> 
+scheme with UK police forces. Second hand phone retailers can sign up to get 25 
+free IMEI searches and a Safe Seller window sticker, among other things.
+
+A few sites will check IMEI numbers for nothing. For example, try the Free 
+international IMEI blacklist checker <http://www.imeipro.info/> or the 
+AustralianAMTA 
+<http://www.amta.org.au/pages/amta/Check.the.Status.of.your.Handset> website.
+
+What’s a fair price?
+
+Second-hand smartphone prices are set by the market, so the best thing you can 
+do is compare prices and see if there is a consensus. Useful websites include
+Smartphone Store.com <http://www.smartfonestore.com/>, Cash Generator 
+<http://www.cashgenerator.co.uk/mobile-phones>, Preloved 
+<http://www.preloved.co.uk/adverts/list/3600/mobile-phones.html?keyword=unlocked+smartphones+for+sale>
+ and, of course,eBay 
+<http://www.ebay.co.uk/sch/Mobile-Smart-Phones/9355/bn_450671/i.html>. If you 
+use eBay, it’s important to click “UK only” (or wherever) and to show only 
+“sold listings”. This will tell you the prices things actually sold for 
+locally, not the often-silly prices demanded.
+
+Bear in mind that the price depends on the condition of the product. Something 
+sold as BNIB (brand new in box) is going to fetch a lot more than the beat-up 
+version some careless user has kept with his keys and dropped every week.
+
+I think a fair price is one that makes both people happy. There’s no point in 
+trying to rip someone off for a few quid because you may want to contact the 
+seller later, either for advice or because something has gone wrong.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+
+ 

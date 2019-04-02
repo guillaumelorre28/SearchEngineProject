@@ -1,0 +1,103 @@
+
+Albert Einstein <https://www.theguardian.com/science/alberteinstein> is famous 
+for many things, not least his theories of relativity. The first, the special 
+theory of relativity, was the one that began the physicist's reputation for 
+tearing apart the classical worldview that had come before. Special relativity, 
+a way of relating the motion of objects in the universe, led scientists to 
+re-evaluate their assumptions about things as fundamental as time and space. 
+And it led to important revelations about the relationship between energy and 
+matter.
+
+Special relativity was published by Einstein in 1905, in a paper titled "On 
+the Electrodynamics of Moving Bodies". He came to it after picking on a 
+conflict he noticed between the equations for electricity and magnetism, which 
+the physicist James Clerk Maxwell had recently developed, and Isaac Newton's 
+more established laws of motion.
+
+Light, according to Maxwell, was a vibration in the electromagnetic field and 
+it travelled at a constant speed in a vacuum. More than 100 years earlier, 
+Newton had set down his laws of motion and, together with ideas fromGalileo 
+<https://www.theguardian.com/science/galileo> Galilei, these showed how the 
+speed of an object would differ depend on who was measuring it and how they 
+were moving relative to the object. A ball you are holding will seem still to 
+you, even when you're in a moving car. But that ball will seem to be moving to 
+anyone standing on the pavement.
+
+But there was a problem in applying Newton's laws of motion to light. In 
+Maxwell's equations, the speed of electromagnetic waves is a constant defined 
+by the properties of the material through which the waves move. There is 
+nothing in there that allows the speed of these waves to be different for 
+different people depending on how they were moving relative to each other. 
+Which is bizarre, if you think about it.
+
+Imagine someone sitting in a stationary train, throwing a ball from where he's 
+sitting to the opposite wall, a few metres further down the train from him. 
+You, standing on the station platform, measure the speed of the ball at the 
+same value as the person on the train.
+
+Now the train starts to move (in the direction of the ball), and you again 
+measure the speed of the ball. You would rightly calculate it as higher – the 
+initial speed (ie, when the train was at rest) plus the forward speed of the 
+train. On the train, meanwhile, the game-player will notice nothing different. 
+Your two values for the speed of the ball will be different; both correct for 
+your frames of reference.
+
+Replace the ball with light and this calculation goes awry. If the person on 
+the train were shining a light at the opposite wall and measured the speed of 
+the particles of light (photons), you and the passenger would both find that 
+the photons had the same speed at all times. In all cases, the speed of the 
+photons would stay at just under 300,000 kilometres per second, as Maxwell's 
+equations say they should.
+
+Einstein took this idea – the invariance of the speed of light – as one of his 
+two postulates for the special theory of relativity. The other postulate was 
+that the laws of physics are the same wherever you are, whether on an plane or 
+standing on a country road. But to keep the speed of light constant at all 
+times and for all observers, in special relativity, space and time become 
+stretchy and variable. Time is not absolute, for example. A moving clock ticks 
+more slowly than a stationary one. Travel at the speed of light and, 
+theoretically, the clock would stop altogether.
+
+How much the time dilates can be calculated by the two equations above. On the 
+right, Δt is the time interval between two events as measured by the person 
+they affect. (In our example above, this would be the person in the train.) On 
+the left, Δt' is the time interval between the same two events but measured by 
+an outside observer in a separate frame of reference (the person on the 
+platform). These two times are related by the Lorentz factor (γ), which in this 
+example is a term that takes into account the velocity (v) of the train 
+relative to the station platform, which is "at rest". In this expression, c is 
+a constant equal to the speed of light in a vacuum.
+
+The length of moving objects also shrink in the direction in which they move. 
+Get to the speed of light (not really possible, but imagine if you could for a 
+moment) and the object's length would shrink to zero.
+
+The contracted length of a moving object relative to a stationary one can be 
+calculated by dividing the proper length by the Lorentz factor – if it were 
+possible for an object to reach the speed of light its length would shrink to 
+zero.
+
+It is important to note that if you were the person moving faster and faster, 
+you would not notice anything: time would tick normally for you and you would 
+not be squashed in length. But anyone watching you from the celestial station 
+platform would be able to measure the differences, as calculated from the 
+Lorentz factor. However, for everyday objects and everyday speeds, the Lorentz 
+factor will be close to 1 – it is only at speeds close to that of light that 
+the relativistic effects need serious attention.
+
+Another feature that emerges from special relativity is that, as something 
+speeds up, its mass increases compared with its mass at rest, with the mass of 
+the moving object determined by multiplying its rest mass by the Lorentz 
+factor. This increase in relativistic mass makes every extra unit of energy you 
+put into speeding up the object less effective at making it actually move 
+faster.
+
+As the speed of the object increases and starts to reach appreciable fractions 
+of the speed of light (c), the portion of energy going into making the object 
+more massive gets bigger and bigger.
+
+This explains why nothing can travel faster than light – at or near light 
+speed, any extra energy you put into an object does not make it move faster but 
+just increases its mass. Mass and energy are the same thing – this is a 
+profoundly important result. But that is another story.
+ 

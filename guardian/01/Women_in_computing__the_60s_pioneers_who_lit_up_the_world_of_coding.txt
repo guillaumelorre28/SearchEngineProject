@@ -1,0 +1,99 @@
+
+Tuesday is Ada Lovelace Day <http://findingada.com/>. Who’s Ada Lovelace, 
+apart from someone with a truly bitchin’steampunk 
+<https://www.theguardian.com/books/2010/aug/08/steampunk-lincoln> name? Well, 
+she deserves all the brass-and-clockwork associations her name brings up 
+because she was probably the world’s first computer programmer. She was born in 
+1815, and studied maths and logic out of a deep personal interest. She 
+befriended and worked with mathematician Charles Babbage, and her ideas for how 
+Babbage’sAnalytical Engine <http://en.wikipedia.org/wiki/Analytical_Engine> 
+might work prefigure modern computer science. Ada Lovelace Day was founded to 
+celebrate the achievements of women in science, technology, engineering and 
+maths (Stem).
+
+And because Lovelace’s achievements were in programming, I want to celebrate 
+two other women who lit up the world of coding. Did you know that two of the 
+first software houses worthy of the name in the UK were founded by women, in 
+the late 1950s and early 1960s? And that they both made – and this isn’t 
+emphasised enough in lists of women’s achievements, in my view – enormous piles 
+of cash doing it? And that this wasn’t so unusual in the 1950s and 60s, because 
+there was a brief period where coding was seen as “women’s work”, as it 
+involves a lot of focus on detail and typing (coding is overwhelmingly male 
+today)? If you didn’t know these things – and I didn’t until I started digging 
+– then it’s about time we celebrated the work of Dina St Johnston and Dame 
+Stephanie “Steve” Shirley.
+
+The 1960s weren’t the sexiest years in UK computing history. Unlike the Enigma 
+machines 
+<https://www.theguardian.com/uk/the-northerner/2011/nov/25/tommy-brown-north-shields-tyneside-george-medal-enigma>
+ of the 1940s, or the 1980s personal computing revolution, the 1960s brought 
+computers to bear on far more mundane matters: train signalling, payroll 
+automation, banking systems, air-traffic control. The kind of computing we 
+never think about, but that underlies almost every aspect of our lives. The 
+kind in which – and it really can’t be emphasised frequently enough – there was 
+a lot of money to be made.
+
+Before the late 1950s, there were no “software houses”. That is, there was no 
+one actually making all the programs you might run on your home computer today. 
+If you bought a computer – and don’t think of a sleek MacBook Air, imagine one 
+of those machines the size of a room that ran on reel-to-reel spooling tape, 
+instead – it was supplied as“bare metal” 
+<http://en.wikipedia.org/wiki/Bare_machine>, and you’d have to write all the 
+programs yourself. It was thought no one but a science department or a 
+technical firm employing their own programs would want one.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2014%2Foct%2F13%2Fada-lovelace-day-women-computing-60s%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F10%2F13%2F1413212287710%2F813206a1-4caf-40c4-a1e9-8d4b3d852d75-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Women%20in%20computing%3A%20the%2060s%20pioneers%20who%20lit%20up%20the%20world%20of%20coding&url=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2014%2Foct%2F13%2Fada-lovelace-day-women-computing-60s%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Women%20in%20computing%3A%20the%2060s%20pioneers%20who%20lit%20up%20the%20world%20of%20coding&url=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2014%2Foct%2F13%2Fada-lovelace-day-women-computing-60s%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F10%2F13%2F1413212287710%2F813206a1-4caf-40c4-a1e9-8d4b3d852d75-2060x1236.jpeg>
+ Ada Lovelace: English mathematician, friend of Charles Babbage and early 
+computer programmer. Photograph: Print Collector/Print Collector/Getty Images 
+Dina St Johnston (nee Vaughan) had always had an independent streak, her 
+friend, Colin Porter, chief executive and secretary of theInstitute of Railway 
+Signal Engineers <http://www.irse.org/default.aspx>, told me. She left school 
+at 17 to join pioneering computer firm Elliot Brothers, where she learned 
+programming – and thought she had spotted a gap in the market. No programmers 
+were selling software directly to the industry or, as she put it, as quoted in 
+the Computer Journal in 2008: “There was a shortage of processor-oriented 
+people who were happy to go round a steel works in a hard hat.” Dina St 
+Johnston, however, loved working with machinery, and rejoiced in putting on the 
+hard hat; later in life she collected fast cars and drove them at enormous 
+speed around the private roads on her estate. She founded Vaughan Programming 
+Services in 1959, the first software house in the UK. They created software for 
+the BBC, Unilever, BAA, British Rail and GEC. She produced pioneering real-time 
+passenger information systems – the forerunner of those clickety-click 
+timetable boards in stations up and down the country – and flight simulators 
+for the RAF. When she died in 2007, one obituary said that she’d “left a 
+lasting contribution to both the art and science of programming” – and the 
+company she founded still exists, now as a part of GE.
+
+Stephanie “Steve” Shirley arrived in Britain as a Kindertransport child in 
+1939. “I think my ‘guilt’ about surviving the Holocaust gave me a strong urge 
+to succeed,”she has said <http://www.bbc.co.uk/news/business-19559738>, “to 
+prove that my life had been worth saving.” She took a maths degree at night 
+school and founded her software house, Freelance Programmers, from her dining 
+room table in 1962. She wanted to be able to work while raising her family, and 
+was determined to help other women do the same. Shirleyonly employed female 
+programmers until 1975 
+<http://www.bbc.co.uk/programmes/profiles/4s0xGFrTYm9GMPD1KD4Tg9S/dame-stephanie-steve-shirley>
+, when the Equal Opportunities Act meant she had to open up applications to 
+men. Her company, renamed Xansa, was listed on the FTSE-250 and sold software 
+in areas including banking, transport and telecoms. Since retiring, Shirley has 
+become a philanthropist; her late son Giles was autistic, and she takes a 
+particular interest in autism charities. I met Steve Shirley once, and told her 
+how much I admired her: for the company she created from nothing, and for her 
+philanthropy today. “Well,” she said to me, “I had a lot of fun making the 
+money, and now I’m having a lot of fun giving it away.”
+
+I’ve gone on a lot about the money in this piece. The thing is, there aren’t 
+enough messages to young women that technology is a fascinating area to work 
+in, a fast-moving field, one that rewards hard work, an area where you really 
+can change the world. And there also aren’t enough people saying to young 
+women: a million dollars isn’t cool, you know what’s cool? Selling the 
+multimillion-dollar programming company you founded and then spending the cash 
+on whatever you like, from fast cars to charitable giving. And these two 
+amazing women were two of the first people in the UK to do just that. There is 
+not a reason on Earth it couldn’t be you, or your daughter. HappyAda Lovelace 
+<https://www.theguardian.com/technology/ada-lovelace> Day.
+ 

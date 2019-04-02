@@ -1,0 +1,187 @@
+
+The supporters of an open, democratic internet, funded mainly by advertising, 
+are facing some big questions about how their vision will unfold. A freely 
+accessible digital world, where websites and social networks are open to all, 
+is the dream of many. But critics wonder if this is desirable or even possible.
+
+Brands have shifted a huge proportion of their marketing budgets into online 
+advertising in recent years, fuelling the growth of the internet and becoming 
+the main source of funding for most websites and social networks. But while 
+many campaigns hit the spot, others can be irritating, intrusive and irrelevant.
+
+How can advertisers and web publishers make sure ad campaigns are effective 
+and entertaining enough to pay the internet’s bills, while ensuring online 
+services don’t disappear behind a series of privately accessed paywalls?
+
+To discuss the future of online advertising, the Guardian teamed up with 
+advertising technology provider AppNexus to run a roundtable discussion. The 
+discussion was conducted under the Chatham House Rule, where comments were made 
+on condition that they were not attributed to the speakers, to encourage a 
+free-flowing discussion.
+
+A key point of contention in the discussion was how the internet should be 
+funded. One participant was passionate about the ad-funded model: “Largely it 
+should be free. It is a wonderful tool for accessing information, for consuming 
+information and for the distribution of brands.” But another thought that the 
+quality of content on the internet inevitably suffers “unless you have the 
+resources to fund it.” There are fears that ad revenue is insufficient to pay 
+for all the content that is needed for the web. “Generally speaking, the 
+ad-funded model puts a downward pressure on the quality of content. I have no 
+problem with subscriptions,” the speaker said, adding: “There is no reason why 
+it should be free.”
+
+Digital advertising faces some serious challenges if it is to keep the web 
+free – one of which is concerns over the ethics of tracking people’s online 
+behaviour without their consent. The success of online ad campaigns is 
+determined by the data that brands can access about internet users. How old are 
+they? What are their interests? Are they male or female, single or with 
+children? Much of this data will be collected from cookies downloaded on to 
+users’ computers. Cookie data allows web publishers to track users’ online 
+journeys and observe the actions they take on different websites. They can then 
+use this data to helps them target campaigns to different groups.
+
+The impact of data protection regulation
+
+But the forthcoming European Union General Data Protection Regulation 
+<https://www.theguardian.com/technology/2015/dec/16/eu-agrees-draft-text-pan-european-data-privacy-rules>
+ (GDPR), to be implemented in 2018, will tighten up data privacy – and this, 
+some speakers felt, could undermine the ad-funded model of the internet. The 
+stringent new rules, which force companies to get “unambiguous consent” from 
+online users to make use of their data, are expected to be adopted in the UK 
+regardless of Brexit.
+
+Some participants worried that the Directive’s clampdown on using data could 
+make it difficult for certain companies to operate on the internet or to run 
+advertising campaigns. “Some businesses may not survive,” warned one speaker.
+
+The participants also discussed whether website owners relying mainly on 
+cookie data are at a disadvantage to websites and social networks where users 
+log in and give their personal details. Facebook, for instance, has in-depth 
+login information about users – their locations, names, likes, activities and 
+friendship networks. The social network offers this data to brands, 
+facilitating highly targeted advertising campaigns.
+
+One participant spoke of an ad campaign for the launch of a new product where 
+a strong creative film was shown on Facebook. Depending on how users reacted to 
+the film – whether they watched it the whole way through, or just with the 
+sound off – more messages were served to them and these were refined in stages 
+according to each user’s reaction. The speaker said this was highly effective, 
+as it allowed the campaign to filter out those who were not interested and to 
+deliver relevant messages to potential customers.
+
+Another speaker said Facebook allows brands to constantly change their online 
+advertising as they receive new data about people’s likes and dislikes: “I 
+really feel it is only since Facebook has come along that we have had this 
+opportunity to assess data very quickly and then tweak that data.”
+
+But another pointed to a recent statement from household products manufacturer 
+Procter & Gamble (P&G), the world’s largest advertiser, that it had decided to 
+stop using Facebook’s targeting tools.
+
+“They had assumed it would be efficient to target (air freshener) Febreze to 
+families with kids and dog owners, but it proved more efficient to go broad in 
+the targeting.” P&G said it was better to promote some products to everybody 
+rather than paying for targeted audiences, as everyone uses laundry detergents 
+or washing-up liquid. Tightly targeted campaigns are more suitable for very 
+specific, niche products.
+
+Some of the speakers were concerned that online advertising places too much 
+emphasis on data and not enough on creativity and persuasion. The use of data 
+was criticised as “the tail wagging the dog” and there was a recognition that 
+some advertising creatives believe data gets in the way of making good 
+campaigns. “They feel the use of data depersonalises,” said one speaker, who 
+added the caveat that attitudes are changing. “I think people have got used to 
+the fact it is not a case of either having data or creative – it is about using 
+both together.”
+
+There was a consensus that cookie and login data works best for hard-sell 
+campaigns, encouraging people to buy now, rather than for softer-focus, 
+persuasive brand advertising.
+
+Retargeting – a waste?
+
+And speakers accepted that “retargeting” campaigns – whereby a user who has 
+visited a website, perhaps to look at some shoes, then has ads for that website 
+follow them around the internet for days, weeks or even months after – are 
+unpopular with users. “It is so frustrating as an advertiser that I am spending 
+on retargeting,” said one speaker. “I am very well aware that those advertising 
+platforms aren’t good enough and that we are overly retargeting.”
+
+The problem of retargeting was seen as a failing of automated advertising – 
+called “programmatic advertising” – where software dictates what ads people see 
+based on the data. But some thought that as programmatic technology evolves to 
+become more sophisticated, it will overcome these drawbacks and will deliver a 
+better experience for users and brands.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fmedia-network%2F2016%2Fnov%2F07%2Fcan-advertising-support-free-internet%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F0b3259a6e8a29159d391116bc496b84d09a34556%2F0_0_2400_1440%2F2400.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Can%20advertising%20support%20a%20free%20internet%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fmedia-network%2F2016%2Fnov%2F07%2Fcan-advertising-support-free-internet%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Can%20advertising%20support%20a%20free%20internet%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fmedia-network%2F2016%2Fnov%2F07%2Fcan-advertising-support-free-internet%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F0b3259a6e8a29159d391116bc496b84d09a34556%2F0_0_2400_1440%2F2400.jpg>
+ OgilvyOne’s Jo Coombs gets her point across at the Guardian roundtable event, 
+supported by App Nexus. Photograph: Sam Friedrich 
+One problem with automated online advertising is that the ads may appear on 
+any website and next to inappropriate content, for instance an ad for an 
+airline could be placed next to an article about an air crash. But one speaker 
+predicted that automated “programmatic” advertising will be able to answer this 
+problem and help brands sift through data to find the most receptive audiences 
+for their messages and identify the most appropriate places to run the ads.
+
+“Programmatic is very helpful for understanding who those people could be, 
+what their behaviour looks like and how you could go about finding them.” 
+Another compared the situation of programmatic advertising to email. “Email is 
+one of the best-performing channels. But it was tainted for a time because it 
+was abused.”
+
+The discussion turned to the use of machine learning, where software analyses 
+data to make judgements about what products, ads and content people should be 
+offered. One speaker said machine learning and robotics would revolutionise 
+marketing. “What we’ve seen in programmatic advertising is one of the earliest 
+areas where it has made inroads, but I think it will be right across the shop.”
+
+But another warned that widespread use of robotics and technology would lead 
+to a depersonalised world: “People are just turning into a kind of jelly 
+between lots of robots.”
+
+The discussion returned to the question of whether advertising will continue 
+as the main source of funding for the web. One speaker thought younger users 
+would be reluctant to ever pay for online content. But another disagreed: “We 
+cannot assume that people between the ages of 12 and 21 are going to behave and 
+operate like that for the rest of their lives. We all go through generational 
+change.”
+
+At the table
+
+ * Jasper Jackson (Chair) Assistant Media editor, the Guardian
+
+ * Sanjeevan Bala Head of data planning and analytics, Channel 4
+
+ * Romain Bertrand Managing director, eHarmony UK
+
+ * Steve Chester Director of data and industry programmes, IAB UK
+
+ * Chris Clarke Chief creative officer, international DigitasLBi
+
+ * Jo Coombs CEO OgilvyOne
+
+ * Nigel Gilbert Vice-president, strategic development, EMEA, AppNexus
+
+ * Annabel Kilner Commercial director, Made.com
+
+ * Sille Opstrup Head of digital, Pernod Ricard UK
+
+ * Giles Pavey Chief data scientist, dunnhumby
+
+ * Daniel Spears Programmatic director, the Guardian
+
+ * Bradley Love Professor of cognitive and decision sciences, UCL
+
+ * Sarah Todd CEO, Geometry Global
+
+ * Jamie West Deputy managing director, group director of advanced 
+advertising, Sky Media UK
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+ 

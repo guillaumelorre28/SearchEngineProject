@@ -1,0 +1,344 @@
+
+Every month a number of organisations publish house price indices, each based 
+on a different set of data. Sometimes the findings agree, sometimes they 
+conflict. When we report on these figures we explain what they are showing, but 
+we thought it would be useful to give a comprehensive guide to the main indices.
+
+Whether you are buying or selling a property, working in the property 
+industry, or just interested in the ups and downs of the housing market, it 
+helps to know exactly who is producing each index, what data they use, and what 
+the headline figures actually reflect.
+
+Over on the house prices blog you can tell us what you think about the 
+different indices 
+<https://www.theguardian.com/money/2012/may/03/which-house-prices-index-rate>.
+
+Click below to see the different indices:
+Halifax <>
+Land Registry <>
+LSL Property Services/Acadametrics <>
+Nationwide <>
+Office for National Statistics <>
+Rightmove <>
+Royal Institution of Chartered Surveyors <>
+
+
+
+Halifax 
+<http://www.lloydsbankinggroup.com/media1/economic_insight/halifax_house_price_index_page.asp>
+
+Who compiles it? Halifax, now part of Lloyds Banking Group, and one of the 
+UK's biggest mortgage lenders.
+
+What does it show? The average price agreed on a property being bought using a 
+Halifax mortgage, and the percentage change in the price over the month and 
+year. A quarterly survey shows regional data.
+
+What area does it cover? The whole of the UK.
+
+What time period does it cover? A full calendar month: the 1st until the last 
+day of the month.
+
+What is it based on? Mortgages approved by Halifax.
+
+How long has it been going? Halifax started publishing data in January 1983, 
+but the index in its current form began in April 1984.
+
+Is it seasonally adjusted 
+<https://www.theguardian.com/money/2012/mar/29/house-prices-down-despite-rising>
+? Yes.
+
+What else is done to the raw data? Halifax "standardises" the figures so that 
+instead of comparing the prices of one set of houses one month with another set 
+of houses the next, it tracks the price of a "typical house". It creates this 
+by giving values to certain attributes of the properties being bought – 
+including the number of rooms, how much central heating it has and whether 
+there is a garden – and using these to calculate the price. This is called the 
+"hedonic method". For its annual price change it uses an average of the last 
+three months' prices and compares this with the average for the same period of 
+the previous year.Full details are here (A4 document) 
+<http://www.lloydsbankinggroup.com/media/word/HPI/Methodologyfromweb130809.doc>.
+
+Why should I trust it? Halifax is one of the UK's largest lenders and has been 
+running the survey in the same way for almost 30 years.
+
+Why should I be sceptical? Although Halifax attempts to iron out anomalies, 
+critics say its data can be skewed in months when there are low numbers of 
+transactions, and that the bank's historical northern bias means its typical 
+house may not reflect the average UK house.
+
+
+
+Land Registry <http://www.landregistry.gov.uk/public/house-prices-and-sales>
+
+Who compiles it? The Land Registry is the government department responsible 
+for registering and recording details of land and property ownership in England 
+and Wales. It employs Calnea Analytics to actually compile the data.
+
+What does it show? The average asking price of properties bought in the past 
+month – these are the prices on completion and include cash purchases as well 
+as those funded with a mortgage. It also reports annual and monthly price 
+changes.
+
+What area does it cover? England and Wales.
+
+What time period does it cover? Calendar month.
+
+What is it based on? The prices paid in residential sales in England and Wales 
+completed during the month and reported to the Land Registry – about 35% are 
+usually reported by the month end.
+
+How long has it been going? Since 2005, although data going back to January 
+1995 has been added.
+
+Is it seasonally adjusted? Yes.
+
+What else is done to the raw data? Any property that hasn't been sold at least 
+twice since 1995 is removed from the sample – Land Registry says it has 
+slightly more than 6m identifiable matched pairs of sales – and the index is 
+based on the repeat sales regression method. The average price as at April 2000 
+is taken as the baseline price, and growth measured in each period is applied 
+to it to produce the current average price.Full details are here (pdf) 
+<http://www.calnea.net/LandRegistryIndex.pdf>. 
+
+Why should I trust it? Land Registry says its index is "the most accurate 
+independent house price index available. Using our data set of completed sales, 
+it is the only index based on repeat sales." It is the only one based on all 
+sales, mortgaged and otherwise, and on the final price achieved for the 
+property. 
+
+Why should I be sceptical? Like some of the others it is seasonally adjusted. 
+It doesn't reflect the prices paid for new-build properties or those that have 
+remained in the same hands for a long period, which means fewer than the 35% of 
+sales reported are actually used. The index is revised each month because of 
+the time lag between completions and registrations, which means it is 
+eventually very robust, but also means you are dealing with a figure which will 
+change slightly.
+
+
+
+LSL Property Services/Acadametrics 
+<http://www.acadametricstest.com/acadHousePrices.php>
+
+Who compiles it? Acadametrics, a consultancy which specialises in the 
+assessment of risk in property and mortgage portfolios, for LSL, a property 
+company which owns estate agency firms and surveyors.
+
+What does it show? The average price of a property bought and registered with 
+the Land Registry over the past month. It shows monthly and annual changes and 
+the number of sales.
+
+What area does it cover? England and Wales. A separate index for Scotland is 
+based on the Registers of Scotland.
+
+What time period does it cover? Calendar month.
+
+What is it based on? The Land Registry's house price data.
+
+How long has it been going? Since September 2003 (originally it was the FT 
+House price index), but data going back to 1995 has been added and it has been 
+back-cast to 1989.
+
+Is it seasonally adjusted? Yes.
+
+What else is done to the raw data? Land Registry gathers all of its data for 
+sales reported during a month, including sales completed in previous months, 
+and calculates average prices. These are given to Acadametrics, which mix 
+adjusts them to provide an average price which isn't skewed by changes in the 
+types of properties sold month-on-month. Because only around a third of sales 
+completed in a month are reported by the end of the month, an "index of 
+indices" model is used to calculate what the figure will be when all sales are 
+in.
+
+Why should I trust it? It is based on a big data set and refers to completed 
+sales financed with mortgages and cash, including new-build properties as well 
+as older homes. The "index of indices" calculation allows it to be more up to 
+date than the Land Registry.
+
+Why should I be sceptical? Once all sales are in it is subject to change, and 
+each month figures from previous months are updated.
+
+
+
+Nationwide <http://www.nationwide.co.uk/hpi/default.htm>
+
+Who compiles it? Nationwide, the UK's largest building society and one of the 
+biggest mortgage lenders.
+
+What does it show? The average price agreed on a property bought using a 
+Nationwide mortgage, and the percentage change in the price over the month and 
+year. A quarterly survey shows regional data.
+
+What area does it cover? The whole of the UK.
+
+What time period does it cover? Ostensibly a calendar month, but it is always 
+published before the end of the month and Nationwide will not say which date it 
+runs to, claiming the information is commercially sensitive.
+
+What is it based on? Mortgages that are at the approvals stage with 
+Nationwide, which is after the valuation has been done. Nationwide says its 
+share of the gross house purchase market has been about 10% in recent years.
+
+How long has it been going? The society has quarterly figures dating back to 
+1952 and monthly figures dating back to 1991, although it changed its 
+methodology in 1993.
+
+Is it seasonally adjusted? Yes.
+
+What else is done to the raw data? Several types of property are removed, 
+including buy-to-let and right-to-buy properties, plus very small or very large 
+homes (there are specified limits for each type of property). The society then 
+"mix-adjusts" the prices to come up with the price of a "typical house". The 
+system looks at factors such as location and number of bedrooms, and relates 
+them to the price for which the house was sold. From this the model can 
+estimate how much on average a house would cost given a set of values for these 
+characteristics.Full details are here (pdf) 
+<http://www.nationwide.co.uk/hpi/Nationwide_HPI_Methodology.pdf>.
+
+Why should I trust it? Nationwide says its index can cope with low numbers of 
+transactions: "Although it remains similar to the Halifax method we 
+substantially updated our system in 1993 following the publication of the 1991 
+census data. These improvements mean that our system is more robust to lower 
+sample sizes because it better identifies and tracks our representative house 
+price."
+
+Why should I be sceptical? Although the typical home is used, as with Halifax 
+critics say its data can be skewed in months when there are low numbers of 
+transactions and by the society's southern bias.
+
+
+
+Office for National Statistics 
+<http://www.statistics.gov.uk/hub/people-places/housing-and-households/housing-market>
+
+Who compiles it? Previously the communities and local government department, 
+now the Office for National Statistics – the government's official data 
+collectors.
+
+What does it show? The average price on completion for a property in the UK, 
+and annual and monthly changes. Data is broken down by region, type of property 
+and type of buyer.
+
+What area does it cover? The whole of the UK.
+
+What time period does it cover? A full calendar month, but there is a lag – 
+March's figures are published in May.
+
+What is it based on? Data from a sample of completed property sales provided 
+by mortgage lenders, representing about 65%-70% of homes bought with mortgages. 
+During 2007, when there were on average about 85,000 loans a month for house 
+purchase in the UK, approximately 50,000 records a month were supplied by about 
+60 lenders. In the six months to June 2011 there were an average of 37,000 
+loans a month for house purchase, and 26 lenders supplied information on about 
+21,600 sales.
+
+How long has it been going? Since February 2002.
+
+Is it seasonally adjusted? The index includes both seasonally adjusted figures 
+and untouched figures at the national level.
+
+What else is done to the raw data? It is "mix-adjusted" so it isn't skewed if 
+a lot of flats in the south-east are sold one month, then a lot of four-bed 
+homes in Scotland the next. Different characteristics of each property are 
+given values/weights, and these feed into a model of an average home. The 
+values are based on the transactions carried out during the previous three 
+years. For example, the 2012 weights are based on transaction numbers from 
+2009-2010.
+
+Why should I trust it? Because it is based on data from a large number of 
+mortgage lenders and because, unlike most of the others, it isn't seasonally 
+adjusted. The ONS says it is "one of the main house price indices used by 
+central and local government to support decision making in the UK".
+
+Why should I be sceptical? When the DCLG still managed the index it said it was
+"influenced by house price growth rates in the higher priced areas (which are 
+currently in the south) where house prices – and therefore total expenditure on 
+house buying – is highest. Similarly, regional rates of change in house prices 
+determined by the DCLG Index are more influenced by the market for the higher 
+priced properties (ie, the demand for detached houses)."
+
+
+
+Rightmove <http://www.rightmove.co.uk/house-prices.html>
+
+Who compiles it? Rightmove, a website which advertises properties being sold 
+by 90% of UK estate agents.
+
+What does it show? The average asking price for properties put on the market 
+over the past month, and the percentage change in that price over the month and 
+over the year.
+
+What area does it cover? England and Wales.
+
+What time period does it cover? The month up to the second Sunday of every 
+month – this may be four or five weeks depending on how the calendar falls. 
+March's figures will be measured on the second Sunday in March.
+
+What is it based on? The asking prices of homes newly listed on the website – 
+in a typical reporting period Rightmove says that will usually be 30,000-40,000 
+properties a week, or around 120,000 in total.
+
+How long has it been going? Records began in August 2001; reporting began in 
+August 2002.
+
+Is it seasonally adjusted? No.
+
+What else is done to the raw data? Properties with asking prices that are 
+three standard deviations above or below the mean within each region are 
+removed from the calculations. This can be several thousand homes. The data is 
+mix-adjusted so it isn't skewed if, for example, in one month many more flats 
+are sold compared to houses. That value is then used in the calculation of the 
+average national price.
+
+Why should I trust it? Rightmove says of its survey: "It is produced from 
+factual data of actual prices of properties currently on the market." The 
+sample includes "circa 90% of the market – the largest and most up-to-date 
+monthly sample of any house price indicator in the UK".
+
+Why should I be sceptical? As Rightmove admits: "It reflects asking prices 
+when properties first come on to the market, rather than those recorded by 
+lenders during the mortgage application process or final sales prices reported 
+to the Land Registry." The actual prices fetched for the properties could be 
+wildly different.
+
+
+
+Royal Institution of Chartered Surveyors <http://www.rics.org/>
+
+Who compiles it? Rics, the trade body for surveyors.
+
+What does it show? How surveyors think the property market is behaving in 
+their area.
+
+What time period does it cover? A calendar month. Surveys are sent in the 
+second week of the month and received by the end of the month.
+
+What is it based on? Responses to a monthly survey of 450-500 surveyors 
+(usually 250-300 reply). They are asked 10 questions covering changes in 
+prices, sales and interest over the previous three months and what they expect 
+to happen over the next year. They are also asked for firm figures on how many 
+homes have been sold and how many are for sale.
+
+What area does it cover? England and Wales. Information is collected across 10 
+geographical regions.
+
+How long has it been going? Since January 1978.
+
+Is it seasonally adjusted? Yes.
+
+What else is done to the raw data? It is regionally weighted using long-term 
+averages based on Land Registry figures. If an area represents 10% of sales, 
+responses from that area will be weighted to represent 10% of Rics' overall 
+figure. Numbers are crunched to produce a net balance, so instead of telling us 
+how many surveyors think prices will go up and how many think they will go 
+down, the index subtracts the proportion forecasting a fall from the proportion 
+forecasting a rise – so if 10% think prices will rise but 20% think they will 
+fall, it says -10% think there will be a fall. This does not mean a 10% fall is 
+being predicted.
+
+Why should I trust it? Figures showing how many properties are on sale and how 
+many would-be buyers are signing up can give you a good idea of what is 
+happening in the housing market.
+
+Why should I be sceptical? Because the rest of it is based on sentiment.
+ 

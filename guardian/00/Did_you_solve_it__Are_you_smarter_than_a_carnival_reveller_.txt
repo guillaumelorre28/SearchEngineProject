@@ -1,0 +1,83 @@
+
+Earlier today I set you the following puzzle 
+<https://www.theguardian.com/science/2016/aug/29/can-you-solve-it-are-you-smarter-than-a-carnival-reveller>
+:
+
+Three friends set off to carnival with a jerry can containing 1.2litres of rum 
+punch. On arrival they decide to go to three separate sound systems. So they 
+must divide the booze equally between themselves. They have brought two large 
+bottles for this purpose. But then they discover that these bottles have no 
+measurements on them.
+
+One of the friends spots an empty 50cl can of Red Stripe and an empty 15cl 
+vial of something marked ‘rave juice’ on the ground. There’s a water tap on 
+hand to clean the can and the vial.
+
+The friends are able to divide the punch into three equal portions by pouring 
+between the jerry can, the two bottles, the beer can and the vial.
+
+How do they do it?
+
+There are many ways to solve this, and they all require a minimum of 17 steps. 
+The table below shows one way, listing in cl the amount of rum punch in the 
+five receptacles - jerry can, Red stripe 50cl can, 15cl vial, two bottles - 
+after each pouring. So, when the jerry can has 1.2 litres in it, which is 
+120cl, and the rest are empty, the amounts are 120-0-0-0-0.
+
+For the first pouring we fill the 50cl can, leaving 70cl left in the jerry 
+can, and then continue pouring exact amounts as following:
+
+ * 70-50-0-0-0
+
+ * 55-50-15-0-0
+
+ * 55-50-0-15-0
+
+ * 40-50-15-15-0
+
+ * 40-50-0-30-0
+
+ * 40-35-15-30-0
+
+ * 40-35-0-45-0
+
+ * 0-35-0-45-40
+
+ * 0-20-15-45-40
+
+ * 15-20-0-45-40
+
+ * 15-5-15-45-40
+
+ * 30-5-0-45-40
+
+ * 30-0-5-45-40
+
+ * 0-30-5-45-40
+
+ * 0-50-5-25-40
+
+ * 0-40-15-25-40
+
+ * 0-40-0-40-40 
+On the seventeenth pouring the Red Stripe can and the two bottles all have 
+40cl in them each.
+
+Thanks to Jelmer Steenhuis <https://steenhuispuzzels.nl/> for this puzzle.
+
+I post a puzzle here on a Monday every two weeks. If you want to propose a 
+puzzle for this column, pleaseemail me <mailto:bellospuzzle@gmail.com> I’d love 
+to hear it.
+
+
+My latest book is out this week: Football School: Where Football Explains the 
+World <http://amzn.to/2bqxfYt> is for children and uses football to explain 
+subjects like maths, English, geography, physics, music, fashion, biology and 
+more.
+
+You can check me out on Twitter <https://twitter.com/alexbellos>, Facebook 
+<https://www.facebook.com/pages/Alex-Bellos/326738482347?ref=bookmarks>, Google+
+ <https://plus.google.com/u/0/100349853927591455618/posts>, my personal website 
+<http://www.alexbellos.com/> or my Guardian maths blog 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>.
+ 

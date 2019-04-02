@@ -1,0 +1,60 @@
+
+Saving the ash forests of Britain from the devastation of an emerging fungal 
+menace could actually be fun – if a computer game devised by botanists is a 
+success.
+
+Facebook <https://www.theguardian.com/technology/facebook> enthusiasts will be 
+able to log on from Tuesday and take part in one of the biggest experiments to 
+harness computing and brain power to discover genetic variants that could help 
+to counter ash dieback disease, caused by the fungusChalara fraxinea. If 
+thousands of people play the game, which involves matching on-screen patterns 
+that correlate with genetic data amassed by scientists in the field, the 
+results could hasten the process of breeding trees resistant to the disease 
+from 50 years or more to a decade or less.
+
+Ash trees in the UK have been attacked by the disease across wide areas, and 
+some of the country's few remaining ancient woodlands are in severe danger. 
+Afflicted trees were first discovered here last autumn, but ash dieback is 
+likely to have been in Britain for several years, having spread across northern 
+Europe since its emergence in Lithuania and Poland in the 1990s. In Denmark, 
+the disease has caused more than half of ash trees to die out over large areas.
+
+The fear is that the disease could prove as devastating in the UK, where ash 
+is one of the most important species for ancient woodlands. Some British 
+forests contain ashes up to 1,000 years old, kept alive by the practice of 
+coppicing.
+
+At present, there is little scientists can do about the disease other than 
+monitor its progress. However, laboratories are on the trail of genetic 
+variants among the ash tree population that exhibit resistance to or tolerance 
+of the disease. If they can isolate the genes responsible for conferring these 
+qualities, they might be able to cross-breed UK ash trees with resistant or 
+tolerant strains, and so save the widespread populations of ash.
+
+Scientists need to sift through tens of thousands of genes to find those most 
+likely to exhibit resistance. Researchers from the Sainsbury Laboratory, 
+University of Cambridge, have identified 100 trees from Denmark that have so 
+far not succumbed to the disease, which has felled most of their fellows. The 
+genome of these trees will be compared with those of others to identify the 
+genes most likely to encode for resistance to the fungus.
+
+This requires vast amounts of data to be crunched by computer, identifying 
+patterns that could show the DNA sequences most likely to be useful. But this 
+pattern-matching can often be done just as well by people as computers, as it 
+involves the recognition and rejection of patterns that people can quickly see.
+
+Scientists have worked with computer games experts to develop a free app that 
+will encourage people to compare patterns in order to highlight the genetic 
+sequences most likely to be of use. The game, called Fraxinus after the Latin 
+for the ash,Fraxinus excelsior, works as a puzzle, inviting players to score 
+points by matching coloured sequences of leaves on the screen. The best matches 
+score the highest points, and players will be invited to compete to identify 
+the most matches.
+
+"We are at quite an exciting moment," said Jean Webber, of Forest Research, 
+who has advised on the game. "We have the pathogen to deal with, but we have 
+tools at our disposal that we have never had before."
+
+• The game can be found through Facebook at www.apps.facebook/fraxinusgame 
+<https://www.facebook.com/appcenter/fraxinusgame?fb_source=dialog_permission>
+ 

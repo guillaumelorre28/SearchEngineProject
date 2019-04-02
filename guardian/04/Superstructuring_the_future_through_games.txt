@@ -1,0 +1,43 @@
+
+At GDC2009, Jane McGonigal introduced five challenges to game developers (read 
+about them here, in our GDC2009 coverage 
+<https://www.theguardian.com/technology/gamesblog/2009/mar/25/game-developers-conference-gdc-2009-jane-mcgonigal-arg>
+). One of the more esoteric ideas was to change the world through game 
+mechanics. True to form, the game designer behind the serious ARGWorld Without 
+Oil <http://worldwithoutoil.org/> and the group at the Institute for the Future 
+<http://www.iftf.org/>, have released the results from their most recent title, 
+Superstruct <http://www.superstructgame.org/Home1>, in which players were 
+challenged to come up with scenarios to save the world from its end.
+
+Although the threats that were posed were fictional (e.g., chemical warfare, 
+hunger), the output and analysis was thoughtful and relevant to our current 
+crises. Based on more than 1,000 stories submitted for the game by almost 8,000 
+players worldwide, the team identified three scenarios that could evolve in 
+similar situations. Fromcnet 
+<http://news.cnet.com/8301-13772_3-10225547-52.html?part=rss&tag=feed&subj=GeekGestalt>
+:
+
+First, "The Long crisis," which "plots a path of slow response, resistance to 
+change, and attempts to maintain current power relationships."
+
+Second, "Emergence," which "follows a course of rapid adaptation from the 
+bottom up, without much unifying direction."
+
+And finally, "The great transition," which "envisions a world remade by 
+technology, a challenge to the planetary dominance of humans as a species."
+
+Superstruct <http://www.superstructgame.org> is a crowdsourcing vehicle that 
+uses game mechanics across multiple platforms to engage the players and get 
+them to contribute. As McGonigal argued in her keynote, this is the most 
+powerful asset game developers have in their toolboxes. Here is an example of 
+how to implement it.
+
+Of course, it's a rather good-deedy example, one that might - in its current 
+format - inform non-profits how to use new media for their own goals. It 
+successfully extends the marketing-laden Alternate Reality Gaming genre by 
+allowing players to contribute in a meaningful way. Sure, traditional game 
+makers may not want to approach such lofty ideals, but Superstruct and other 
+games like it indicate that the know-how for engagement that's in developers' 
+heads is being applied in some strange places. Who knows where this kind of 
+thing might end up.
+ 

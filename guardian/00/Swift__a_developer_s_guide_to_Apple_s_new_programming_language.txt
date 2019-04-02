@@ -1,0 +1,112 @@
+
+Apple <https://www.theguardian.com/technology/apple> took developers by 
+surprise on Tuesday by announcing Swift, a new programming language for 
+developing apps across Apple’s platforms.
+
+Until now, most apps on Apple devices have been built using Objective-C, the 
+language almost exclusively adopted by NeXT corporation years ago and 
+subsequently by Apple.
+
+Objective-C now seems to be on its way out, superseded by a language that 
+looks to be "safe, modern and powerful", according to Apple’s engineering 
+chief, Craig Federighi. But how powerful is this new language, and what 
+difference will it make to the global community of developers building for 
+Apple products.
+
+What is Swift?
+
+Swift is Apple’s new programming language, which has been in development for 
+the past four years and which looks to replace Objective-C as the main language 
+for app development on Apple’s platforms, OSX and iOS.
+
+It’s a major departure from the syntax of Objective-C and takes a lot of cues 
+from other languages, such as Haskell, C#, Ruby and Python, which Apple 
+presumably hopes will make it appealing to bright young coders, keen on modern 
+languages.
+
+Although it’s a major departure, Apple have taken a lot of trouble to make the 
+transition to Swift as painless as possible. It is fully binary compatible with 
+existing Objective-C libraries and maintains a close relationship with the 
+Cocoa frameworks.
+
+That means that developers can introduce Swift into their apps at their own 
+pace, by writing discrete modules that should seamlessly interoperate with 
+their existing Objective-C code.
+
+But I’m good at Objective-C. Am I a dinosaur?
+
+Objective-C has been very useful for Apple because it has allowed them to 
+maintain full control of of their entire technology stack and to adapt it by 
+adding features over the years, such asAutomatic Reference Counting 
+<http://en.wikipedia.org/wiki/Automatic_Reference_Counting>. 
+
+Unfortunately, the language is rather stuck in the past – it's C, on steroids. 
+Developers that use modern languages tend not to spend time on the minutiae of 
+memory management or fixing bugs, due to referencing pointers to the wrong 
+memory address. C is inherently unsafe in these terms and this is the primary 
+thing that Swift is trying to fix.
+
+
+Safety is good, but what else is new?
+
+Apple has decided to prioritise language readability in this first release, 
+although I imagine that may change as it gets more adoption – programmers tend 
+to value short, concise code. But they have introduced a special type, the 
+"tuple", which wraps a number of values into one, addinggenerics 
+<http://en.wikipedia.org/wiki/Generic_programming>, closures 
+<http://en.wikipedia.org/wiki/Closure_(computer_programming)> and operator 
+overloading <http://en.wikipedia.org/wiki/Operator_overloading>. There are many 
+features missing that are benefits of other languages, but Swift makes a 
+convincing version one.
+
+What are the other improvements around Objective-C?
+
+Type Inference
+
+
+In Swift there is no need to annotate variables with type information as the 
+compiler can infer type based on the value a variable is being set to. Due to 
+the dynamic nature of Objective-C, type is not truly known at compile time 
+because methods may be added to existing classes, entirely new classes added or 
+instance type changed all at runtime.
+
+Type Safety
+
+With Swift, the compiler can be more helpful in catching subtle type related 
+bugs. As the compiler knows more about type in any method call, it can optimise 
+certain call sites and jump directly to the implementation using C++ style 
+vtable dispatch, rather than going through dynamic dispatch as in Objective-C. 
+This enables smart optimisations that can make code run faster.
+
+Control Flow
+
+The humble switch statement has undergone a radical overhaul in Swift and can 
+now match against ranges, list of elements, boolean expression, enums amongst 
+others. It doesn’t fall through by default, and is further enhanced by Swift’s 
+flexible pattern matching.
+
+Optionals
+
+
+An optional type is a type that might contain a value of a type. It allows you 
+to more easily convert between types and avoid null checks. Optionals can be 
+chained together to protect from exceptions when calling multiple methods or 
+properties in a chain where one call might return “nil”.
+
+Strings
+
+Strings are now easier to deal with in Swift, with a cleaner syntax than 
+Objective-C, eg: concatenate strings using “+=“.
+
+Where next?
+
+Apple have made a big step by introducing Swift, which has largely been well 
+received by developers at WWDC. The real test will be the response from 
+developers in the real world, and whether this change motivates non-Apple 
+developers to migrate. Judging by the emphasis that Apple is putting on 
+promoting this language (with lab sessions all day, every day at WWDC) they are 
+betting on it being a success.
+
+• Thank you, Basic: developers remember 50 years of creative coding 
+<https://www.theguardian.com/education/2014/apr/30/basic-developers-remember-50-years-of-creative-coding>
+ 

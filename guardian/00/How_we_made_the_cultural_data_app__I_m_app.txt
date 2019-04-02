@@ -1,0 +1,128 @@
+
+The journey into arts and culture is one we can all enjoy for free. Cultural 
+spaces up and down the country offer myriad experiences and objects to 
+appreciate, educate and inspire. But the big question is: are we, the art 
+lovers, being shortchanged in our experiences? Equally, do we shortchange the 
+organisations who work tirelessly to bring us these experiences?
+
+Coming from a background of delivering actionable customer insight to venues 
+in the ticketed world of culture, we atPurple Seven 
+<http://www.purpleseven.co.uk/> realised that we didn’t know who the millions 
+of visitors to museums, arts spaces and cultural venues actually were. We knew 
+that these visitors appreciated arts and culture, but we wanted to get to know 
+them at a deeper level. What do they really like? What do they especially 
+enjoy? How often do they visit venues? Where precisely do they visit? This was 
+a larger question than ticketed events and one the sector was not tackling 
+particularly well.
+
+We wanted to take on the challenge of plugging this knowledge gap. The key to 
+success was ensuring that while we as a sector were improving our understanding 
+of visitors, that visitors also received an enhanced experience. We wanted to 
+improve data collection, but there has to be a quid pro quo for the visitor: 
+why would any consumer share their information if not getting anything in 
+return? Simply using the visitor as a means to capture data and therefore 
+insights for arts organisations was not an option for us. Better experience in 
+the venue will create better engagement, and in turn better insights. The power 
+of data is not the amount you collect, but the insight you draw from it.
+
+We needed to build an offering that was dual-purpose, with the key objective 
+being to enrich both visitor and venue. This is when we realisedan app 
+<http://www.im-at-app.com/> would be the best way to improve the users’ 
+experience and in turn collect data for organisations.
+
+Our first step in making this happen was to research, test and understand the 
+potential of beacon technology. This tech is already being usedon the high 
+street 
+<https://www.theguardian.com/media-network/media-network-blog/2014/sep/04/beacon-technology-house-of-fraser-waitrose>
+ to push promotional offers out to consumer smartphones at a very specific 
+level, for example, very precise aisle locations in-store. This technology was 
+perfect to deliver the right content to the right people at the right time – it 
+would allow us to collect data on what content was engaged with, how visitors 
+moved around the venue, how long they spent in parts of the venue, and whether 
+they socially shared comments or content.
+
+Once we had in place the goals we wanted to achieve, we needed a brave soul to 
+test it with: a single venue with lots of ambition. At this point in time, we 
+were having many conversations regarding data withLiverpool Vision 
+<http://www.liverpoolvision.co.uk/>, who themselves had a major project with 
+the International Festival of Business (IFB <http://www.ifb2014.com/>), and so 
+the beta trial was born. Our outputs would aim to engage the business user of 
+IFB, the city visitor and the local dweller, turning that information into 
+insights.
+
+We had a city, but no venues. This changed rapidly when Liverpool Culture, FACT
+ <http://www.fact.co.uk/>, Tate Liverpool 
+<http://www.tate.org.uk/visit/tate-liverpool>, Open Eye Gallery 
+<http://www.openeye.org.uk/>, Liverpool Biennial <http://www.biennial.com/>, 
+the Bluecoat <http://www.thebluecoat.org.uk/> and the National Museums of 
+Liverpool <http://www.liverpoolmuseums.org.uk/> all signed up for the beta 
+trial. Our trial had now turned into a city-level trial, which meant delivering 
+a cross-venue app, cross-venue reporting and cross-city insight.
+
+Ready for take off, there were some issues we had to overcome: first, getting 
+the right content from the venues for the app; second, being smart about the 
+technology we use.
+
+We had the venues, but no content and six weeks to get it live. All the venues 
+gave us the content that was available, but we also set to work building video, 
+written, audio and photographic content of our own. We know that content is 
+king and we had to ensure that the visitor’s experience was more insightful and 
+enjoyable because of the app. This meant spending time with the people who make 
+these exhibitions and shows happen, turning their knowledge into a visitor 
+journey.
+
+The beacon technology was great and we also chose to use geo-fence technology 
+<http://en.wikipedia.org/wiki/Geo-fence> (virtual perimeters for real-world 
+geographic areas) to action parts of the app to welcome people to venues. This 
+was a mistake. We learned that geo-fence technology had issues with users 
+moving from the street into a building; it can distort your actual location and 
+spend time dropping in and out, which changes actions in the app. Our geo-fence 
+triggers were used to notify the user they were at the venue, deliver a welcome 
+message and take them to the content menu page for that venue. If the tech 
+could not find you it would not trigger, or in some cases, multi-trigger. We 
+should have left it to the user to go in to the app when at the venue and open 
+up the menu. It was an update we put into action very quickly as we felt it 
+distorted the user journey and reporting.
+
+Our initial objective set out to trial in a single environment with 1,000 
+people. We ended up with 10 venues and 7,000 people using the app. The findings 
+are encouraging with, on average, each user using the app across five venues, 
+the biggest age group being 25-44-years-old, and an arts and culture report 
+that allows great insight into the visitors of Liverpool and its cultural 
+organisations.
+
+Now that the beta trial is complete, we are building an updated version from 
+our learnings to go live in January 2015, with a further significant update in 
+June. This will see more cities involved, which is hugely exciting.
+
+App facts
+
+• Length of the project: two months’ research and planning, two months’ 
+building, two months’ data science and reports building
+• Companies involved: Purple Seven <http://www.purpleseven.co.uk/>, Liverpool 
+Vision <http://www.liverpoolvision.co.uk/>, Liverpool Culture, FACT 
+<http://www.fact.co.uk/>, Tate Liverpool 
+<http://www.tate.org.uk/visit/tate-liverpool>, Open Eye Gallery 
+<http://www.openeye.org.uk/>, Liverpool Biennial <http://www.biennial.com/>, 
+the Bluecoat <http://www.thebluecoat.org.uk/>, National Museums of Liverpool 
+<http://www.liverpoolmuseums.org.uk/>
+• Size of the team: one creative director/project manager, two data 
+scientists, one designer, three developers, one content manager/copywriter, 
+plus one intern
+
+More App stories
+
+• How we made the Dozens & Trails library app 
+<https://www.theguardian.com/culture-professionals-network/2014/nov/07/dozens-trails-app-library-birmingham>
+• How we made the Show and Tell circus app for children with autism 
+<https://www.theguardian.com/culture-professionals-network/2014/nov/07/dozens-trails-app-library-birmingham>
+• How we made the Centenary Connections first world war app 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/aug/08/centenary-connections-first-world-war-app>
+
+Jeff Boardman is engagement director at Purple Seven 
+<http://www.purpleseven.co.uk/>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+ 

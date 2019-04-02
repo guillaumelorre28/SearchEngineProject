@@ -1,0 +1,104 @@
+
+A quick burst of 8 links for you to chew over, as picked by the Technology team
+
+RIM slashes PlayBook price >> Loop Insight 
+<http://www.loopinsight.com/2011/11/17/rim-slashes-playbook-price/>
+
+
+"The 16GB, 32GB and 64GB models of the device will sell for $199, $299 and 
+$399". It's deja vu all over again. That's a $200 price cut against the initial 
+base price at which thePlayBook 
+<https://www.theguardian.com/technology/playbook> was introduced. These cuts 
+must be costing RIM hundreds of dollars.
+
+'Occupy Flash' movement wants Adobe's plug-in dead >> Computerworld 
+<http://www.computerworld.com/s/article/9221963/_Occupy_Flash_movement_wants_Adobe_s_plug_in_dead>
+
+
+"A small group of website and mobile app developers have kicked off an 'Occupy 
+Flash' campaign to put a stake in the heart of Adobe's popular browser 
+plug-in." Hang on, isn't it the 99% who are meant to complain about the 1%? 
+This is the wrong way round.
+
+Banks bung hard-up Acer £315m loan on Channel Register 
+<http://www.channelregister.co.uk/2011/11/17/acer_financing/>
+
+
+"Troubled Acer <https://www.theguardian.com/technology/acer> has penned a new 
+financing deal to cover working capital requirements and pay off a previous 
+loan it took out to acquire Gateway. "The firm has gone through a major 
+reshuffle of management following a loss-making year in which sluggish consumer 
+demand caught it by surprise and resulted in an inventory pile-up." Just to 
+point out that the Gateway acquisition cost £350m and completed in October 
+2007. Four years later it has to take a loan out to finish that? Sounds like an 
+unsuccessful acquisition that hasn't generated as much cash as expected.
+
+The vision behind Klout: measuring online influence >> The Official Klout Blog 
+<http://corp.klout.com/blog/2011/11/the-vision-behind-klout/#comment-363848159>
+
+
+Tom Coates comments on the soothing words from Klout's chief: "While 
+superficially that seems reasonable, pretty much any of us who have been on the 
+web a long time know what these scores result in. One way or another they'll 
+make us targets for marketing and advertising companies to try and sell their 
+products through us. "And while you talk about the ways in which you try to 
+give people a better platform to be recognized for their passions, what you're 
+actually doing (or at least this is how it seems) is to estimate which of us is 
+financially worth the most, and then you're selling access to us to 
+advertisers." That's the real vision behind it, he thinks.
+
+Walt Mossberg reviews Kindle Fire, Amazon's colour tablet >> WSJ.com 
+<http://online.wsj.com/article/SB10001424052970204190504577040110511886588.html?mod=e2tw>
+
+
+"To be clear, the Kindle Fire is much less capable and versatile than the 
+entry-level $499 iPad 2. It has a fraction of the apps, a smaller screen, much 
+weaker battery life, a slower Web browser, half the internal storage and no 
+cameras or microphone. It also has a rigid and somewhat frustrating user 
+interface far less fluid than Apple's. "But the Fire has some big things going 
+for it. First, the $199 price, though the Fire's seven-inch screen is less than 
+half the surface area of the iPad's display. Second, the Amazon and Kindle 
+brands, already known and loved for e-readers and more. Third, Amazon is the 
+only major tablet maker other than Apple with a large, famous, easy-to-use 
+content ecosystem that sells music, video, books and periodicals. The Fire can 
+be thought of as a hardware front end to all that cloud content." Suspicion: 
+the Kindle Fire will kill the 7in "official Android" market. Effect on the 
+iPad: harder to measure.
+
+Kindle Fire gets torn down - no surprises here >> TechCrunch 
+<http://techcrunch.com/2011/11/15/kindle-fire-gets-torn-down-no-surprises-here/>
+
+
+"iFixit, bless their hearts, have taken a Kindle Fire to pieces, though as it 
+turns out, there aren't too many pieces to begin with. The battery is one huge 
+unit, and all the processing and I/O occurs on a single PCB at the bottom of 
+the device. "Those expecting a carbon copy of the Playbook both outside and in 
+will be disappointed: the layout, batteries, PCB, and all the components are 
+different, making the form factor more or less the only real similarity between 
+the two devices." They share a processor. Basically, tablets are now a battery, 
+screen, and a circuit board.
+
+Coffee Time: Market Share vs Profit - journal >> minimally minimal 
+<http://www.minimallyminimal.com/journal/2011/11/16/coffee-time-market-share-vs-profit.html>
+
+
+Compares the phone models Apple sells in the US with those that Samsung sells. 
+One concludes that Samsung must have really good supply chain control, because 
+that's some SKU [stockkeeping unit, ie different piece of merchandise] 
+challenge there.
+
+Don't Be Too Disappointed By Google Music's Lackluster Debut >> TechCrunch 
+<http://techcrunch.com/2011/11/16/dont-be-too-disappointed-by-google-musics-lackluster-debut/>
+
+
+"There are two things the critics decline to acknowledge: that Google is 
+providing a simple, free service, and that all Google products start out 
+underwhelming and gradually expand. Android was a mess when it showed up. And 
+it's still a mess -- a mess blowing up to the tune of half a million devices a 
+day. We all know Google doesn't ship complete products. So why do we waste our 
+breath in day-one aspersion or praise when it's going to be a new Music down 
+the line?"
+
+You can follow Guardian Technology's linkbucket on delicious 
+<http://delicious.com/guardianista>
+ 

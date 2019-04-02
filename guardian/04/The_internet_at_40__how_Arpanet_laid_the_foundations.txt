@@ -1,0 +1,54 @@
+
+Today is the internet's 40th birthday. Well, not exactly the internet but 
+Arpanet – the Pentagon-funded research project that is the predecessor to the 
+internet. Forty years ago, a simple message "Lo" (it was supposed to be 
+"Login", but the system crashed) was sent between two computers at two 
+Californian research labs and a net was born. What happened next – the 
+development of the now global internet, the web that you are reading this on – 
+has had an impact on all of us. Last week, the Guardian published aninteractive 
+people's history of the internet 
+<http://www.guardian.co.uk/technology/interactive/2009/oct/23/internet-arpanet> 
+telling the story of how that happened and interviewing some of the people who 
+made it so.
+
+Charley Kline and Bill Duvall – who made that first connection between the 
+University of California, Los Angeles and the Stanford Research Institute – are 
+in there, as are pioneers of politics, social interaction and gaming online.
+
+Kline admits the importance was not recognised at the time. "It was neat that 
+it was working ... but nobody recognised that it was the beginning of 
+something," he says – but what would develop from that first connection has had 
+a huge influence on how we live today.
+
+It is also worth remembering the perhaps unexpected nature of those who made 
+this military-funded network. Oliver Burkeman spoke to Leonard Kleinrock, the 
+UCLA professor who led the project, for a complementary piece on howthe 
+internet changed the world for ever 
+<http://www.guardian.co.uk/technology/2009/oct/23/internet-40-history-arpanet>, 
+noting that the Arpanet's development into what we have today was never 
+inevitable.
+
+It was a crucial idiosyncrasy of the Arpanet that its funding came from the 
+American defence establishment – but that the millions ended up on university 
+campuses, with researchers who embraced an anti-establishment ethic, and who in 
+many cases were committedly leftwing; one computer scientist took great 
+pleasure in wearing an anti-Vietnam badge to a briefing at the Pentagon. 
+Instead of smothering their research in the utmost secrecy – as you might 
+expect of a cold war project aimed at winning a technological battle against 
+Moscow – they made public every step of their thinking, in documents known as
+Requests For Comments <http://www.rfc-editor.org/>.
+
+That thinking followed through and the internet – open both for people and 
+machines thanks to the run-anywhere systems at its heart – would eventually win 
+out over attempts in the 1980s to create more tightly controlled networks. It 
+is also a spirit that informed Tim Berners-Lee's later World Wide Web (not the 
+same as the internet 
+<http://www.guardian.co.uk/technology/2009/oct/23/passnotes-the-internet>) when 
+the Cern European particle physics laboratory released it royalty-free for 
+anyone to use.
+
+Lots more contributed to the internet we have today – bulletin boards, Usenet, 
+dial-up modems, innovators and hobbyists outside the research labs – butArpanet 
+<https://www.theguardian.com/technology/arpanet> was the foundation stone and 
+is worth remembering.
+ 

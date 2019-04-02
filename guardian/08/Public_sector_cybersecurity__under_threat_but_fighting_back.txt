@@ -1,0 +1,121 @@
+
+People’s reliance on the internet in their everyday lives is such that good 
+cybersecurity is not only about what individuals and organisations do to 
+protect themselves, but what governments must do to ensure that national 
+critical infrastructure is well protected.
+
+
+ Ben Gummer, the minister for the Cabinet Office, has highlighted the growing 
+vulnerability of public servicesto cyber attack 
+<https://civilservice.blog.gov.uk/2016/11/17/cyber-security-a-responsibility-for-everyone/>
+, and the chancellor, Philip Hammond, has committed £1.9bn over five years to 
+bolster cybersecurity defences. The chancellor’s announcement,a re-announcement 
+of the same figure 
+<https://www.theguardian.com/uk-news/2015/nov/17/uk-hit-back-terrorists-cyber-attacks-george-osborne-gchq>
+ by his predecessor George Osborne, is dwarfed by the amount of spending the US 
+has earmarked – in 2017 along, itplans 
+<http://searchsecurity.techtarget.com/feature/Can-cybersecurity-spending-protect-the-US-government>
+ to spend 10 times the UK sum.
+
+That said, Britain’s spend is almost twice the figure 
+<http://www.scmagazineuk.com/french-government-launches-national-cyber-security-strategy/article/447973/>
+ France has put aside over the next three years, and is slightly more than the 
+European Commission’s €1.8bninvestment 
+<http://europa.eu/rapid/press-release_IP-16-2321_en.htm> in a new 
+public-private partnership on cybersecurity.
+
+But just how will this money tackle cyber-attacks and is it effective? Cath 
+Goulding, head of IT Security at Nominet, the official registry for .uk domain 
+names, says governments are looking to invest in capabilities that are required 
+for potential cyberwars, but an offensive capability needs to be coordinated 
+and consistent and a good defensive posture is paramount.
+
+“The new NCSC [National Cyber Security Centre] has an agenda that details 
+tangible outcomes,” says Goulding, who is a former security operations manager 
+at Government Communications Headquarters. “Of course, there is no silver 
+bullet but these should make a difference when it comes to analysis and 
+defence.”
+
+
+The NCSC 
+<https://www.gov.uk/government/news/new-national-cyber-security-centre-set-to-bring-uk-expertise-together>
+, announced by then chancellor George Osborne in November last year, pools 
+cyberexpertise to tackle cybersecurity issues in the UK.
+
+The outcomes Goulding speaks about look to fix the underlying infrastructure 
+that powers the internet but that can be subverted by cybercriminals to attack 
+computers run by firms, governments and individuals.
+
+Hackers normally infect systems with malicious software, known as malware, 
+usually via an attachment on an email, which can then allow the criminals to 
+take control of systems and steal information, such as bank details. In the 
+case of countries, one country can steal intellectual property of industrial 
+targets in order to gain economic advantages. A country with a lot of 
+intellectual property will find itself a main target of such hackers.
+
+Cybersecurity consultant Dr Jessica Barker, says cyberthreats are 
+international by their nature, and so international cooperation is necessary, 
+but often hard to achieve. “The problems and their origins cross borders and so 
+solutions must, too,” she says.
+
+ International cooperation is possible. For example, the police service of 
+Northern Ireland collaborated with Romanian police, the UK National Crime 
+Agency and Europol to charge a man in Romania last month with producing and 
+distributing indecent images of children and “webcam blackmail”. Cases like 
+this show the importance of international collaboration in tackling cybercrime, 
+says Barker.
+
+But while money flows into central government efforts, are local authorities 
+getting enough protection? Andrew Rogoyski, formerly an adviser to the UK 
+government on cybersecurity issues and founder and chair of the cybersecurity 
+group of TechUK, says with local government at the sharp end of austerity 
+policies, cybersecurity spending is lower than it should be.
+
+“However, many local government organisations are starting to implement 
+digital transformation programmes, creating new efficiency savings and 
+economies of scale, providing services to citizens in new and imaginative 
+ways,” says Rogoyski. “In these cases, it is imperative to ensure that such 
+changes are designed with security built in, rather than bolted on.”
+
+Getting security wrong could mean a catastrophic loss of confidence in the new 
+services, resulting in citizens reverting to old-style manual services that 
+push costs up and responsiveness down, he warns.
+
+Rogoyski says that if it still goes ahead, the introduction of the General 
+Data Protection Regulation 
+<https://ico.org.uk/for-organisations/data-protection-reform/overview-of-the-gdpr/>
+, due to come into force in May 2018, would mean local government organisations 
+could face punitive fines if they fail to demonstrate that processes have been 
+put in place to protect their citizens’ personal information. This is “a real 
+minefield” in areas like health and social care, he adds.
+
+In the US, federal government is trying to protect local authorities through a 
+voluntary but heavily encouraged set of cybersecurity standards, developed in 
+part by non-regulatory agency the National Institute of Standards and 
+Technology, (NIST <https://www.nist.gov/>). The standards have been widely 
+adopted.
+
+“Adoption and support for these standards is a start but like most 
+compliance-driven security programs, it is often written and implemented with 
+such lag, that it does not properly stay in sync with real-time attacks and 
+techniques,” says Paul Calatayud, chief technology officer at IT security firm 
+FireMon.
+
+Rashmi Knowles, chief security architect for Europe, Middle East and Africa at 
+security company RSA, says the very nature of local government, with its large 
+quantities of sensitive data in constant transit across multiple bodies, makes 
+it difficult to defend from cyber-attacks. She cites Lincolnshire county 
+council and Dorset district council, which both fell victim toransomware attacks
+ <http://www.bbc.co.uk/news/uk-england-lincolnshire-35443434>earlier this year. 
+
+“It’s vital that authorities educate their employees and foster awareness on 
+the safe movement of data,” says Knowles. “People are the weakest link, yet 
+this element is often overlooked. It can eliminate many of the threats simply 
+by ensuring that local authority staff have been trained to understand the 
+dangers of phishing and social engineering.”
+
+Talk to us on Twitter via @Guardianpublic <https://twitter.com/guardianpublic> 
+andsign up <https://register.theguardian.com/public-leaders/> for your free 
+weekly Guardian Public Leaders newsletter with news and analysis sent direct to 
+you every Thursday.
+ 

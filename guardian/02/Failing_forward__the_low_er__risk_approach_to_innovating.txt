@@ -1,0 +1,142 @@
+
+How long does it take to get your product to market? Months, years maybe, of 
+discussions, planning, development and testing. What if you could trim that 
+down to just a few days?
+
+Welcome to the world of startup sprints. To the uninitiated, this is the 
+practice championed by the like of GV (formerlyGoogle Ventures 
+<http://www.gv.com/sprint/>) of identifying a problem, developing a solution 
+and testing it with real customers over five days.
+
+Usually the domain of tech startups, sprints are in keeping with the Silicon 
+Valley mantra: “fail fast, fail often, learn quickly”. Don’t worry about the 
+prototype being perfect; once it’s out there for your customers to use, you’ll 
+quickly see what works and what doesn’t.
+
+“We have a little bit longer than a five-day sprint. We do weekly sprint 
+planning but I think we have a deployment every two weeks,” says Charlotte 
+Pearce, founder of hand-written direct marketing companyInkpact. 
+<https://inkpact.com> “We do have [the fail fast] mentality and that is 
+something that we use: quick turnaround, you test it, you measure it, and it’s 
+ok if it didn’t work.”
+ Charlotte Pearce, founder of hand-written direct marketing company Inkpact 
+<https://inkpact.com/>, regular uses sprints to develop their products. 
+Photograph: Inkpact 
+Gearing up for Christmas, Pearce explains that Inkpact is reflecting on the 
+lessons learnt from a test carried out during last year’s festive season. “We 
+wanted to develop a very easy option for customers to send hand-written 
+Christmas cards. It wasn’t part of our product development at the time, so we 
+developed a site to test whether people wanted them.
+
+“We built it in about 10 days. It was an e-commerce site so you had to pay on 
+there and upload a database of your contacts. Parts of it worked – we knew that 
+people did want personalised Christmas cards – and parts of it didn’t; we knew 
+[the site] wasn’t enough and we didn’t have enough information.
+
+“In theory we failed, but we did get loads of learning. We had to test it 
+lean, we had to make mistakes, but we learned a lot about what the customer 
+wanted.”
+
+For a startup or SME with limited development funding, the sprint model is 
+relatively inexpensive, and with fewer people in the chain of command, it’s 
+easier to sign off on new ideas, interact with customers, and implement changes 
+efficiently. In its younger days Facebook got ahead of the competition by 
+pushing updates out quickly and worrying about glitches afterwards, however now,
+Zuckerberg has said 
+<https://www.buzzfeed.com/mattlynley/facebooks-move-fast-break-things-era-is-over?utm_term=.qq7G0EjP0#.rcMq5N4b5>
+, the company is too big to use that approach.
+
+Alex Hanson-Smith, who co-founded his mobile recruitment startup inploi.me 
+<https://www.inploi.me> in 2015 to connect employers in the hospitality 
+industry with job seekers, says testing in this way has been key to developing 
+the company’s products. “We are constantly building new evolutions of the 
+product and we use rapid prototyping to do that,” he explains. “How can we make 
+this experience better? What can we do to make it easier to build a profile, or 
+provide employers with more information about job seekers? We build really 
+quickly and then we test it on real users. That allows you to mitigate failing 
+in a real life situation, you’re failing in a closed environment.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhiscox-partner-zone%2F2016%2Fnov%2F01%2Ffailing-forward-the-lower-risk-approach-to-innovating%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F51612a8c765a07326452f4f16ed34450e97e7568%2F0_0_1204_1058%2F1204.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Failing%20forward%3A%20the%20low(er)%20risk%20approach%20to%20innovating&url=https%3A%2F%2Fwww.theguardian.com%2Fhiscox-partner-zone%2F2016%2Fnov%2F01%2Ffailing-forward-the-lower-risk-approach-to-innovating%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Failing%20forward%3A%20the%20low%28er%29%20risk%20approach%20to%20innovating&url=https%3A%2F%2Fwww.theguardian.com%2Fhiscox-partner-zone%2F2016%2Fnov%2F01%2Ffailing-forward-the-lower-risk-approach-to-innovating%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F51612a8c765a07326452f4f16ed34450e97e7568%2F0_0_1204_1058%2F1204.jpg>
+ Alex Hanson-Smith, co-founder of recruitment startupinploi.me 
+<https://www.inploi.me/>. Photograph: inploi.me 
+inploi embraces taking risks, which Hanson-Smith believes is key to success as 
+a startup, but the length of his “sprints” depend on whatever it is he’s 
+testing. A simple tweak could take a matter of hours, “but if we’re testing an 
+on-boarding flow or something like that, we’ll probably test it for a good few 
+weeks because you need to get a very varied group of people.”
+
+Part of failing fast is creating prototypes that are fairly rudimentary to 
+test the idea on customers. When trialling an idea for software to allow small 
+businesses to update their websites effectively via an automated artificial 
+intelligence system, Chris John, director at website providerSmart Little Web 
+<http://www.smartlittleweb.com/>, built a simple landing page asking interested 
+parties to enter an email address.
+
+Building the kind of algorithmic solution he had in mind – something that 
+would scrape data and redesign a website that was both highly functional and 
+looked great – would have taken about a year. As it turns out, no one was 
+interested. “We could have done it the old way – built a complete magic system 
+that did all this stuff, but even giving it away for free we couldn’t get 
+anything, so that would have been a complete waste of time,” he says.
+
+Spotting an unsuccessful project and knowing when to cut your losses is one of 
+the crucial lessons for a startup, Hanson-Smith says. “Time is your most 
+valuable resource. Being decisive has proved to be really helpful for us. In 
+the early days we were working with [a developer] who wasn’t really right for 
+our company. It became very clear early on that it wasn’t working as well as it 
+should, so we were very decisive. Even though it meant basically we lost two 
+months of time developing, we said ‘let’s start again’.
+
+“You have to make a decision and stick to it. And if it is wrong, it’s how 
+pick yourself up after that and say ‘ok why was that the wrong decision?’ 
+That’s where you’re learning.”
+
+The lessons learned in sprints often go beyond whatever it is that’s being 
+tested. John says rapid testing can show how effective a marketing strategy is, 
+for example, or let you test different advertising platforms. “Beyond the 
+actual product, there’s all the stuff that sits around it. Have you optimised 
+your Facebook adverts so they don’t cost you too much? Have you tried 
+alternative marketing tactics? Each time you learn something,” he says.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhiscox-partner-zone%2F2016%2Fnov%2F01%2Ffailing-forward-the-lower-risk-approach-to-innovating%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F3d6635e0b69660ad7b6c59ff7c693285f9b51e5b%2F0_171_1200_1029%2F1200.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Failing%20forward%3A%20the%20low(er)%20risk%20approach%20to%20innovating&url=https%3A%2F%2Fwww.theguardian.com%2Fhiscox-partner-zone%2F2016%2Fnov%2F01%2Ffailing-forward-the-lower-risk-approach-to-innovating%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Failing%20forward%3A%20the%20low%28er%29%20risk%20approach%20to%20innovating&url=https%3A%2F%2Fwww.theguardian.com%2Fhiscox-partner-zone%2F2016%2Fnov%2F01%2Ffailing-forward-the-lower-risk-approach-to-innovating%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F3d6635e0b69660ad7b6c59ff7c693285f9b51e5b%2F0_171_1200_1029%2F1200.jpg>
+ Chris John, director at website providerSmart Little Web 
+<http://www.smartlittleweb.com/>. Photograph: Smart Little Web 
+Of course, you might not get the clear answer you’d hoped for. “When you’re 
+building something, there are often times when literally 50% of people say they 
+love it, and 50% hate it,” Hanson-Smith says. “And it’s then really important 
+and sometimes painstaking to dig down into what they like about it and don’t 
+like about it.”
+
+However helpful the sprint model and fail fast mantra can be to growth, the 
+Silicon Valley mentality should be embraced with a pinch of salt. Pearce says 
+that while sprint tests have helped her company to grow, it’s important to keep 
+perspective on the bigger picture. She believes that focusing solely on sprints 
+can be discouraging to team members who prefer to take ownership of projects, 
+and it means other things that are crucial to running a successful business, 
+like team culture, get ignored.
+
+“[It] can be detrimental if it’s not managed and not reflected on in the right 
+way. I think as a company it’s just making sure you’ve got a balance of 
+everything,” she says. “ ‘Failure’ is quite a negative word ... But I think the 
+underlying assumptions of learning from everything you do should always be 
+there.”
+
+For Hanson-Smith, the sprint model and “failing fast” is inevitable as a 
+startup. “The very nature of a startup is you’re trying to push the boundaries, 
+and the incumbent risks require you to try stuff that no-one else has tried 
+before,” he says. “A lot of the time that results in failure, and it’s how you 
+deal with those failures that defines you as an organisation.”
+
+Content on this page is paid for and produced to a brief agreed with Hiscox 
+<https://www.hiscox.co.uk/>, sponsor of the Adventures in Business 
+<https://www.theguardian.com/small-business-network/series/adventures-in-business>
+ hub on the Guardian Small Business Network.
+ 

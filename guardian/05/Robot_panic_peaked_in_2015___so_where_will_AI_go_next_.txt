@@ -1,0 +1,233 @@
+
+Ever since IBM’s Deep Blue defeated then world chess champion Garry Kasparov 
+<https://www.youtube.com/watch?v=NJarxpYyoFI> in a six-game contest in May 
+1997, humanity has been looking over its shoulder as computers have been 
+running up the inside rail. What task that we thought was our exclusive 
+preserve will they conquer next? What jobs will they take? And what jobs will 
+be left for humans when they do? The pessimistic case was partly set out in the 
+Channel 4 seriesHumans <http://www.channel4.com/programmes/humans>, about a 
+near-future world where intelligent, human-like robots would do routine work, 
+or stand on streets handing out flyers, while some people worked (law and 
+policing seemed to get a pass, mostly) but others were displaced – and angry.
+
+In May, Martin Ford, author of Rise of the Robots: Technology and the Threat 
+of Mass Unemployment 
+<https://www.theguardian.com/books/2015/oct/01/the-rise-of-robots-humans-need-not-apply-review>
+, described the concern for both white- and blue-collar workers as thatHumans
+-style world approaches: “Try to imagine a new industry that doesn’t exist 
+today that will create millions of new jobs. It’s hard to do.”
+
+But there is an optimistic view of the same process: that the pairing of 
+computers and robots will free humans from drudgery and dangerous work; and 
+free people to use their imaginations and interact with each other in more 
+personal ways, and especially in ways that computers can’t, simply because they 
+are not human. “Humans [will] increasingly work side by side with robots, 
+software agents and other machines,” said JP Gownder, lead author of a report 
+calledThe Future of Jobs, 2025: Working Side by Side with Robots 
+<https://www.forrester.com/The+Future+Of+Jobs+2025+Working+Side+By+Side+With+Robots/fulltext/-/E-res119861>
+, produced for the research company Forrester in August. Gownder pointed out – 
+as many have – that throughout history, automation and technology have 
+repeatedly created more jobs overall than they have destroyed. We don’t have 
+lamplighters any more, but we have huge industries built around street lights 
+and electricity supply.
+
+But in the robotic world, will the new jobs be better jobs? In his book, 
+published in January,The Glass Cage: Where Automation is Taking Us 
+<https://www.theguardian.com/books/2015/jan/19/glass-cage-automation-nicholas-carr-book-review>
+, the writer Nicholas Carr argues thatcomputers are taking over too much from us
+ 
+<https://www.theguardian.com/books/2015/jan/17/nicholas-carr-are-we-becoming-too-reliant-on-computers>
+ – or rather, that we’re too willing to give up charge of things to machines – 
+and that jobs are becoming deskilled as a result.
+
+Steve Wozniak, co-founder of Apple, says computers will 'get rid of the slow 
+humans to run companies more efficiently'
+
+Carr points to the origins of automation, after the second world war, when the 
+Ford Motor Company was installing new machinery to do “automatic business” on 
+assembly lines. “Control over a complex industrial process had shifted from 
+worker to machine,” he notes. He points out that automation had already raised 
+its head during the second world war, through the need to get hard-to-manoeuvre 
+anti-aircraft guns to shoot down bombers by letting machinery move their aim, 
+according to targets picked by gunners from screens. The humans’ task was made 
+easier, but it was abstracted from the process and outcome.
+
+What is indisputable is that robots equipped with computer vision and paired 
+with artificial intelligence (AI) systems – often called “machine learning”, or 
+“deep learning”, or “neural network” systems – will take over more of the work 
+that humans do today. Foxconn is one of the world’s biggest manufacturers of 
+electronics, with giant factories in China which assemble phones, tablets and 
+computers for Apple and other companies. It is working on robot-driven 
+factories which will inevitably mean fewer of those jobs for humans. The Korean 
+electronics giant Samsung, meanwhile, has been given a grant by the Korean 
+government to develop high-precision robots to take over the work now done by 
+humans, also in China, where rising wages are squeezing profit margins. Which, 
+of course, leads to the question: what new jobs will those displaced factory 
+workers go on to do? Nobody knows; yet everyone is sure, despite Martin Ford’s 
+fears, that they must exist.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fdec%2F27%2Flove-robot-artificial-intelligence-elon-musk-stephen-hawking%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe384b15d488e4a01beaac44f29ad6e69498658ac%2F0_79_3500_2099%2F3500.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Robot%20panic%20peaked%20in%202015%20%E2%80%93%20so%20where%20will%20AI%20go%20next%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fdec%2F27%2Flove-robot-artificial-intelligence-elon-musk-stephen-hawking%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Robot%20panic%20peaked%20in%202015%20%E2%80%93%20so%20where%20will%20AI%20go%20next%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fdec%2F27%2Flove-robot-artificial-intelligence-elon-musk-stephen-hawking%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe384b15d488e4a01beaac44f29ad6e69498658ac%2F0_79_3500_2099%2F3500.jpg>
+ “Pepper” the concierge, who greets customers in the Mizuho bank in Tokyo. 
+Photograph: Yuya Shino/Reuters 
+Yet as we head towards that future, there are also ethical and legal reefs to 
+navigate. Isaac Asimov introduced his famous Three Laws of Robotics forRunaround
+, a science fiction story set in 2015. In July,an article appeared in the 
+science journalNature 
+<http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881?WT_mc_id=TWT_NatureNews>
+, pointing out that “working out how to build ethical robots is one of the 
+thorniest challenges in artificial intelligence”. That month, a 22-year-old
+worker installing a robot at a VW plant in Germany was killed 
+<https://www.theguardian.com/world/2015/jul/02/robot-kills-worker-at-volkswagen-plant-in-germany>
+ when it was wrongly activated. Clearly, Asimov’s laws haven’t arrived yet.
+
+But robots that kill – especially “intelligent” ones – are very much on the 
+mind of those who worry most publicly about the AI-robot combination.Stephen 
+Hawking told the BBC <http://www.bbc.co.uk/news/technology-30290540> it “could 
+spell the end of the human race” as it took off on its own and redesigned 
+itself at an ever-increasing rate. Elon Musk, the billionaire who brought us 
+PayPal and the Tesla car,called AI “our biggest existential threat” 
+<https://www.theguardian.com/technology/2014/oct/27/elon-musk-artificial-intelligence-ai-biggest-existential-threat>
+. Steve Wozniak, the co-founder of Apple,told the Australian Financial Review 
+in March 
+<http://www.afr.com/technology/apple-cofounder-steve-wozniak-on-the-apple-watch-electric-cars-and-the-surpassing-of-humanity-20150320-1m3xxk>
+ that “computers are going to take over from humans, no question” and that he 
+now agreed with Hawking and Musk that “the future is scary and very bad for 
+people… eventually [computers will] think faster than us and they’ll get rid of 
+the slow humans to run companies more efficiently”.
+
+Nick Bostrom may not have a similar claim to fame, but he is an Oxford 
+University philosopher who argues in his bookSuperintelligence 
+<https://www.theguardian.com/books/2014/jul/17/superintelligence-nick-brostrom-rough-ride-future-james-lovelock-review>
+ that self-improving AI could enslave or kill humans if it wanted to, and that 
+controlling such machines could be impossible. But there’s no sign so far of 
+inherently intelligent killer robots, or “anthropogenic AI”, as it’s also 
+called.Reviewing Bostrom’s book 
+<http://thebulletin.org/artificial-intelligence-really-existential-threat-humanity8577>
+, the scientist Edward Moore Geist suggested that it “is propounding a solution 
+that will not work to a problem that probably does not exist”.
+
+According to Murray Shanahan, professor of cognitive robotics at Imperial 
+College London, “properly general intelligence” is comparatively easy to 
+describe but hard to enact: “the hallmark of properly general intelligence is 
+the ability to adapt an existing behavioural repertoire to new challenges, and 
+to do so without recourse to trial and error or to training by a third party,” 
+he writes in his bookThe Technological Singularity 
+<https://mitpress.mit.edu/books/technological-singularity>.
+
+But to do that requires two capacities that AI tends not to display: common 
+sense and creativity. On common sense, Shanahan gives the example of finding 
+the people who normally work inside a building instead standing outside it in 
+the rain. “What are you doing?” might prompt the answer “Standing outside” from 
+a computer, whereas a human would respond “Fire alarm” – recognising the common 
+understanding that exists between the speakers. Creativity, meanwhile, can be 
+demonstrated by animals in problem solving, as well as by humans, such as a 
+crow which bent straight wires to create hooks to get food. But it’s hard to 
+say that computers have ever shown it.
+
+It might be that they will – and to that end, Musk, with the backing of Loopt 
+entrepreneurSam Altman <https://en.wikipedia.org/wiki/Sam_Altman>, has poured 
+$1bn into a new not-for-profit organisation,OpenAI.org 
+<https://openai.com/blog/introducing-openai/>, which aims to create an 
+open-sourced AI 
+<https://www.theguardian.com/technology/2015/dec/12/artificial-intelligence-elon-musk-backs-open-project-to-benefit-humanity>
+ that surpasses human intelligence but whose products are “usable by everyone, 
+instead of by, say, just Google”.
+
+Our real problem, though, seems to be that the growth in computing power – 
+which roughly doubles every 18 months, but grows geometrically because we have 
+so many more connected devices now – is outstripping our ability to reframe our 
+ethical and legal approach to computers’ decisions. Even a technology that 
+sounds innocuous and helpful, such as self-driving cars, isn’t immunefrom 
+ethical and legal questions 
+<https://www.theguardian.com/commentisfree/2015/sep/18/machines-ethics-control-artificial-intelligence-google-demis-hassabis>
+. For instance: if such a car needs to brake abruptly to save those on board, 
+is there any responsibility towards people in cars behind? If someone shunts a 
+self-driving car with nobody at the wheel into a third car, who is responsible 
+for the damage to the third car? The self-driving car’s owner? Its programmer?
+
+And the ways in which computers solve “human” problems repeatedly turn out 
+very unlike the methods humans use. Take chess: studies have found that the 
+best human players look at a narrow set of moves, which they explore in depth, 
+“pruning” among alternatives to find the best sequence. Computers, by contrast, 
+look at every possible move, and essentially use brute force to pick the best 
+at any time; they can’t decide that a particular move will surprise or upset an 
+opponent, or choose a tricky one because the other player is short on time to 
+decide. Compared with humans, chess-playing computers have no subtlety, except 
+by accident.
+
+And in June, the US Defense Advanced Research Projects Agency held a 
+competition for self-propelled robots which could work where humans cannot – 
+say, to go into nuclear reactors and shut down operations. The winners took 
+away millions; but the “blooper reel” of tumbling, stumbling, staggering robots 
+has had nearly half a million views on YouTube. Sometimes, we like robots to be 
+fools.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dxb93Z0QItVI&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dxb93Z0QItVI>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dxb93Z0QItVI&media=>
+ Watch: robots come a cropper at the US Defense Advanced Research Projects 
+Agency. 
+Nicholas Carr wrote in the New York Times 
+<http://www.nytimes.com/2015/05/20/opinion/why-robots-will-always-need-us.html?_r=0>
+ in May that while it might feel as though the best way to remove error from 
+any system is to remove the humans – because they’re the ones we hear about who 
+opened the wrong spigot, or turned off the wrong engine on the jet – in fact, 
+humans repeatedly perform “feats of perception and skill that lie beyond the 
+capacity of the sharpest computers”.
+
+For example: Google’s self-driving cars have been hit 11 times in 1.7m miles 
+of travel by dozy humans, while causing no accidents directly themselves. But 
+the humans inside them have to stay alert and at the wheel, becausethe software 
+has a glitch 
+<http://www.popsci.com/cars/article/2013-09/google-self-driving-car> every 300 
+miles’ driving or so and it hands control back to the “driver”. What hasn’t yet 
+been figured out is how much warning the human needs to take over. Is it 20 
+seconds? 10? One? Is it the same for everyone? What if the “driver” falls 
+asleep because the rest of the journey has been so boring, but there’s a crash 
+when the computer was fully in charge: is that their fault, or the computer’s, 
+or the programmers’? It’s enough to make a lawyer cry with delight.
+
+Jobs that require careful human-to-human contact – such as hairdresser or 
+surgeon – should survive the robot insurgency
+
+But there’s no doubt we have to face up to the social changes that are coming 
+our way. In November theBank of America published a lengthy report 
+<https://www.theguardian.com/business/2015/nov/07/artificial-intelligence-homo-sapiens-split-handful-gods>
+ which concluded that the “rise of the intelligent machines” constituted “the 
+next industrial revolution”, with AI-driven robots “becoming an integral part 
+of our lives as providers of labour, mobility, safety, convenience and 
+entertainment”. Sales of robots grew by 29% in 2014, with North America seeing 
+the third consecutive year of record sales. Potential long-term effects include 
+the replacement of existing jobs by automation (47% of jobs in the US could be 
+automated,the Bank of America calculated 
+<https://www.theguardian.com/technology/2015/nov/05/robot-revolution-rise-machines-could-displace-third-of-uk-jobs>
+) and the growth of inequality – as skilled workers are increasingly in demand, 
+while unskilled ones are not.
+
+Yet it’s not necessarily the low-paid jobs that will be affected – nor the 
+high-paid ones that will be safe. The World Economic Forum published a graphic 
+in November aspart of an analysis into robots and jobs 
+<https://agenda.weforum.org/2015/11/can-we-predict-which-jobs-will-be-replaced-by-robots/>
+ which suggests that chief executives’ jobs are probably safe – but so are 
+those of landscaping and groundskeeping workers, despite an order of 
+magnitude difference in their hourly payments. The emerging consensus, such as 
+it is, seems to be that jobs requiring careful human-to-human contact – 
+hairdresser, surgeon and so on – should be safest from the robot insurgency.
+
+What’s most likely is that “work” will grow in complexity as AI-based systems 
+take over the simpler tasks. “Computer” used to be a job title for humans who 
+did calculations; now their entire function can be replicated by a cell in a 
+spreadsheet. Yet jobs still exist. Losing at chess hasn’t made us stop playing 
+chess, either. Kasparov himself has run championships of “centaur chess” – 
+humans playing with the direct aid of computers during the game, which has 
+turned out sometimes to lift the humans’ chess rating above both their own and 
+that of the computer program.
+
+And if it can happen in chess, why not work?
+ 

@@ -1,0 +1,44 @@
+
+Google’s latest feature will tell you how busy a place is in real-time before 
+you set off.
+
+
+The new extension to the Popular Times feature added to Google Maps and search 
+in July 2015 has beenupgraded with a live feed 
+<https://blog.google/products/search/know-you-go-google/> of how busy a place 
+is for certain venues.
+
+With a new “Live” tag, Maps now displays a red overlay on top of the historic 
+busy period data showing whether it really is busy or quiet as usual at the 
+moment.
+
+The feature uses anonymised location data from other Google 
+<https://www.theguardian.com/technology/google> users, as well as searches, to 
+analyse how busy it is at that moment. While predicted busy times from historic 
+data is generally useful, at sales times or when transport conditions are less 
+than ideal, the flow of people might increase at normally quiet times.
+ Google live popular times data. Photograph: Google 
+The feature is being rolled out ahead of the busy Black Friday 
+<https://www.theguardian.com/business/black-friday> shopping period, but could 
+equally be useful for checking out whether a particular bar or cinema is packed 
+among other venues with variable busy times.
+
+Google Maps, like others such as CityMapper, already displays live traffic and 
+public transport congestion information pulled from both public data and other 
+Google Maps andWaze 
+<https://www.theguardian.com/media-network/2015/may/28/waze-uri-levine-tips-startup-google>
+ users. The introduction of live data is one of the big differentiators for 
+mapping apps along with indoor navigation and libraries of store and points of 
+interests data.
+
+Google has also expanded the extra information Maps displays, including data 
+on how long people generally stay in the venue or location, as well as opening 
+hours for concessions and departments within a larger store or business, which 
+are set by the individual businesses.
+
+ * Google reverses decision to ban Pixel phone resellers 
+<https://www.theguardian.com/technology/2016/nov/18/google-reverses-decision-ban-pixel-phone-resellers>
+
+ * Google commits to massive new London headquarters 
+<https://www.theguardian.com/technology/2016/nov/15/google-commits-to-massive-new-london-hq>
+ 

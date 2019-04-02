@@ -1,0 +1,119 @@
+
+Is broadband as bad as Theresa May’s party conference speech implied?
+
+Nearly. Her complaint that “half of people living in rural areas, and so many 
+small businesses, can’t get a decent broadband connection” is probably based on 
+areport produced by the regulator Ofcom 
+<https://www.ofcom.org.uk/research-and-data/infrastructure-research/connected-nations-2015>
+ last year, which is now a little out of date. Ofcom found 1.5m rural premises 
+– about half of the total – could not get the basic speed needed to watch video 
+and support multiple devices such as tablets, phones and smart TVs. The 
+regulator said it would be another three years before all these premises get 
+the 10 megabits per second (Mbps) it considers a minimum for modern users. 
+Things have improved since then, thanks to the taxpayer-funded BDUK scheme to 
+wire up the countryside. The total suffering from slow connections has fallen 
+to 25% across all rural areas, though half of those living in hamlets are still 
+below 10Mbps. Business parks have also complained of being left out. Ofcom said 
+last year that only 68% of small and medium-sized businesses have superfast, 
+with some 400,000 still waiting. The problem is not confined to rural areas. 
+BT’s superfast broadband roll-out, which has now reached 90% of all homes and 
+businesses, isbypassing those living in tall buildings 
+<https://www.theguardian.com/technology/2014/apr/06/wealthy-stranded-digital-expensive-properties-lack-fast-internet-uk>
+ – from council tower blocks to highrise luxury flats.
+
+How is the UK doing compared to other countries?
+
+Not too badly – for now. The average customer can download at a rate of 
+15Mbps, which means the UK ranks 20th in theglobal speed league 
+<https://www.akamai.com/us/en/multimedia/documents/state-of-the-internet/akamai-state-of-the-internet-connectivity-report-q2-2016.pdf>
+. But much smaller economies such as Bulgaria, Romania and Belgium are already 
+faster. South Korea is at the top of the pile, with 27Mbps, and Norway is in 
+second place with 20Mbps. The concern is that, having finished the bulk of its 
+superfast upgrade, BT does not have sufficiently ambitious plans for the 
+future. Homes are still connected to street cabinets by copper wires. The 
+company plans to extend fibre-optic cables closer to its customers’ doorsteps, 
+using a technology called G.Fast, but copper will still be used for the final 
+stretch. BT claims G.Fast will deliver speeds of up to 300Mbps, which is more 
+than most users need for now. But experts say the only future-proof network is 
+one that uses fibre cables only, all the way from the exchange to the premises. 
+Fibre to the premises, or FTTP in telecoms jargon, is at least three times as 
+fast and would ensure no fall in speeds at peak times. BT and Virgin Media, the 
+two biggest network operators, plan to connect a mere 3m premises between them 
+using FTTP. To be fair, BT says it will fill the gaps in its superfast roll-out 
+by focusing on tall buildings, business parks and high streets. But other 
+countries, including China, France, Portugal and New Zealand, have much bigger 
+plans.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Foct%2F08%2Fis-theresa-may-serious-about-sorting-out-rural-broadband%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F71fe59080e0a1418211127212bcc558616bd9327%2F543_730_3847_2308%2F3847.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Is%20Theresa%20May%20serious%20about%20sorting%20out%20rural%20broadband%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Foct%2F08%2Fis-theresa-may-serious-about-sorting-out-rural-broadband%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Is%20Theresa%20May%20serious%20about%20sorting%20out%20rural%20broadband%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Foct%2F08%2Fis-theresa-may-serious-about-sorting-out-rural-broadband%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F71fe59080e0a1418211127212bcc558616bd9327%2F543_730_3847_2308%2F3847.jpg>
+ BT boss Gavin Patterson is prepared to take on the government with legal 
+action and a halt to investment if structural separation is forced through. 
+Photograph: Michel Euler/AP 
+What would improve broadband?
+
+Rivals say BT needs to split off its infrastructure division, Openreach, into 
+a separate company. More than 560 TV and broadband resellers, including Sky and 
+TalkTalk, rent their lines from BT. And these resellers say they receive a poor 
+service, with engineers taking too long to fix faults and install new lines. In 
+July, MPs concluded that BT was“significantly under-investing” 
+<https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwi49_va8MbPAhWJtBoKHXZ9AOAQFggqMAI&url=http%3A%2F%2Fwww.publications.parliament.uk%2Fpa%2Fcm201617%2Fcmselect%2Fcmcumeds%2F147%2F147.pdf&usg=AFQjCNGMfAPkfTWe2tGP4_u-IoXd5TnvPg&sig2=Z2N4kpEtqpplLNYKPCbvKA>
+ in Openreach, to the tune of hundreds of millions of pounds a year. Funds that 
+should be going into broadband were instead being spent on football rights 
+designed to boost the newly launched BT Sports channels. A top-class TV service 
+is part of BT’s strategy to stop its customers defecting to other providers. 
+SinceBT started competing with Sky 
+<http://%20https://www.theguardian.com/football/2015/feb/10/premier-league-tv-rights-sky-bt>
+ for live football, the amount collected by clubs each season has rocketed from 
+£594m to £1.7bn. BT counters that it spends less on football than on fibre – 
+this year it will invest £1.4bn in its network, and last year it spent £544m on 
+sports rights.
+
+What are the practical hurdles?
+
+BT chief executive Gavin Patterson 
+<https://www.theguardian.com/media/gavin-patterson> has threatened 10 years of 
+litigation and a halt on network investment if the government forces through 
+structural separation. The BT pension scheme is a big obstacle. The largest 
+occupational scheme in the country, its deficit stands at almost £10bn. 
+Splitting the commitment would be a complicated and expensive business. Ofcom 
+is proposing a middle way: legal separation. Openreach would get a board of its 
+own, with control over budget, ownership of the network and a directly employed 
+workforce. If this still doesn’t work, Ofcom boss Sharon White says “we would 
+return to the option of full separation”.
+
+Is Theresa May serious about sorting rural broadband?
+
+Time will tell. Ofcom’s proposals for legal separation were published at the 
+end of July, just a couple of weeks after the new Conservative leader moved 
+into 10 Downing Street. The prime minister has not had a chance to put her own 
+stamp on the strategy, but her keynote gave no clue as to whether she will push 
+for a stronger remedy.
+
+BT willing to give broadband division more independence
+ Read more  
+<https://www.theguardian.com/business/2016/jul/25/bt-willing-to-give-broadband-division-more-independence>
+Is infrastructure spending the answer and will it happen?
+
+Labour thinks so. It has promised to raise £500bn for investment in 
+infrastructure, including broadband. The chancellor, Philip Hammond, last week 
+made a more cautious case, for “very carefully for targeted, high-value 
+investment in our economic infrastructure”. Other governments are spending in 
+this area. Singapore has already connected every home to fibre, although in a 
+720 sq km city state, this was a fairly straightforward task.
+
+In Australia, the job of wiring vast expanses of outback required special 
+measures. Structural separation was forced on the Telstra network in a 
+negotiation that took five years. The government committed A$30bn to fitting 
+FTTP to 93% of homes. Initiated under a Labour administration, the project has 
+since been scaled back.Estimates for the cost of a national all-fibre network 
+<https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjzzoWx8MbPAhVLHxoKHZMYBrsQFggcMAA&url=https%3A%2F%2Fwww.nesta.org.uk%2Fsites%2Fdefault%2Ffiles%2Fexploring_the_costs_and_benefits_of_ftth_in_the_uk_v7.pdf&v6u=https%3A%2F%2Fs-v6exp1-ds.metric.gstatic.com%2Fgen_204%3Fip%3D77.91.250.206%26ts%3D1475780912296952%26auth%3Dndatah6i3624ptoywrzyg3qaupv52oyy%26rndm%3D0.381090010381282&v6s=2&v6t=21359&usg=AFQjCNFtU4LwIlc4wWS5lOYL6owWgOwZZQ&sig2=f4EMJlQFVoceVJ3-_E7s0A&bvm=bv.134495766,d.d2s&cad=rja>
+ in the UK vary from £25bn to more than £50bn. That kind of money could 
+probably not come from the private sector alone. Campaigners argue that 
+splitting BT would not only allow government investment, but could unlock 
+private-sector spending, too. An independent Openreach would be a FTSE 100 
+company in its own right, with £5bn a year in revenues and plenty of muscle 
+with which to raise funds.
+ 

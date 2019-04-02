@@ -1,0 +1,96 @@
+
+There is a law of unintended consequences that, naturally, also applies to 
+lawmaking itself: the prohibition on the sale of alcohol in the US from 
+1920-33, for example, led to a massive increase in organised crime: manna from 
+heaven for gangsters. Or, to take another example, thefirst amendment 
+<https://www.law.cornell.edu/constitution/first_amendment> to the US 
+constitution guarantees freedom of speech. But in theCitizens United 
+<https://en.wikipedia.org/wiki/Citizens_United_v._FEC> case of 2010, the US 
+supreme court interpreted it as guaranteeing the freedom of corporations to 
+spend as much money as they liked in support of political campaigns. 
+Corporations, apparently, are legal “persons” entitled to the same rights as 
+citizens (which led Lawrence Lessig, a noted US lawyer, to declare that he 
+would only believe corporations were people when the state of Texas executed 
+one).
+
+But the same fictions apply over here too. In 2008, British American Tobacco 
+argued that companies’ freedom of speech was “protected by article 10 of the 
+European convention on human rights, which recognises free speech (including 
+commercial free speech) as a fundamental right”. The moral – for lawmakers 
+anyway – is: be careful what you legislate for. You never know where a statute 
+will wind up or whom it might eventually benefit.
+
+Here’s a cautionary tale to illustrate that. In 1996, two US congressmen, 
+Chris Cox (Republican, California) and Ron Wyden (Democrat, Oregon), drafted a 
+law that they felt was essential if the nascent internet was to grow and 
+prosper. The clause they wrote eventually found its way on to the statute book 
+as section 230 of the Communications Decency Act, part of thesprawling 
+Telecommunications Act 
+<https://en.wikipedia.org/wiki/Telecommunications_Act_of_1996>, which Bill 
+Clinton signed into law in 1996.
+
+Cox and Wyden had been troubled by the rise of libel suits against internet 
+service providers (ISPs) for defamatory content posted on websites that they 
+hosted. The key sentence in the clause that they eventually drafted read: “No 
+provider or user of an interactive computer service shall be treated as the 
+publisher or speaker of any information provided by another information content 
+provider.”
+
+This single sentence provided the legal underpinning for how the world wide 
+web has evolved. It says that companies that provide services on the internet 
+are not publishers, but conduits or intermediaries, and therefore cannot be 
+held legally responsible for any content that passes through their servers. 
+It’s why companies such as Twitter, Google andFacebook 
+<https://www.theguardian.com/technology/facebook> continue to maintain that 
+they are not really responsible for the stuff that they host: they’re merely 
+conduits – tech companies, not publishers.
+
+This is outrageous, but to counteract the smugness of hindsight we should 
+acknowledge that the Cox/Wyden clause seemed wise and judicious when it was 
+composed. Without it, the growth of the web (and therefore of the internet as a 
+whole) might have been significantly slower, with ISPs and entrepreneurs 
+cautious or paralysed by the spectre of the endless lawsuits to be expected in 
+a litigious society such as the US.
+
+Would we have had Wikipedia, for example, if Jimmy Wales and his collaborators 
+had lived in fear of every mail delivery? Or many of the campaigning and 
+empowering websites that have challenged unscrupulous corporations, 
+authoritarian leaders, corrupt officials, censors and sundry bad actors that 
+pollute the social and economic world? Without Cox/Wyden, cyberspace would be a 
+poorer, less diverse, less interesting place.
+
+But in the last decade, we have also seen an astonishing rise in hate speech, 
+harassment, bullying, revenge porn, fake news and other abuses of digital 
+technology. And, except for some limited exceptions, notably child pornography, 
+the platforms that relay this stuff have been able to avoid taking 
+responsibility for what they are hosting – by using section 230 of the 1996 act 
+as their legal backstop. So it turns out that the freedom that the two 
+congressmen were trying to protect is a double-edged sword.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2017%2Fjan%2F08%2Fhow-two-congressmen-created-the-internets-biggest-names%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fd8ce872114288b3a5a648561e7bed41f65733a76%2F0_308_4607_2764%2F4607.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20two%20congressmen%20created%20the%20internet%E2%80%99s%20biggest%20names%20%7C%20John%20Naughton&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2017%2Fjan%2F08%2Fhow-two-congressmen-created-the-internets-biggest-names%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20two%20congressmen%20created%20the%20internet%E2%80%99s%20biggest%20names%20%7C%20John%20Naughton&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2017%2Fjan%2F08%2Fhow-two-congressmen-created-the-internets-biggest-names%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fd8ce872114288b3a5a648561e7bed41f65733a76%2F0_308_4607_2764%2F4607.jpg>
+ Airbnb and others have profited from the protection afforded by section 230. 
+Photograph: Alamy 
+Now, courtesy of a terrific article 
+<https://backchannel.com/the-most-important-law-in-tech-has-a-problem-64f5464128b6#.jd3jjzx3d>
+ by tech journalist Christopher Zara, we discover that the reach of section 230 
+extends into really unexpected places, such as the “sharing economy”, for 
+example. The current seeker of its protection isAirbnb 
+<https://www.theguardian.com/technology/airbnb>, the platform that enables 
+people to list or rent short-term lodging in their homes at rents set by the 
+property owner. Airbnb takes a cut on the resulting transactions.
+
+It transpires that not all of these property owners are angels and some post 
+(shock, horror!) illegal or misleading ads on the site. So city officials in a 
+number of places are now going afterAirbnb 
+<https://www.theguardian.com/technology/airbnb>, on the grounds that if it 
+takes a commission from the proceeds of illegality, then it must take 
+responsibility (and pay fines) for the alleged misdeeds.
+
+Airbnb, naturally, demurs: it is, after all, only an intermediary. “See 
+section 230”, its lawyers say. Memo to Cox/Wyden: be careful what you legislate 
+for. You might just get it.
+ 

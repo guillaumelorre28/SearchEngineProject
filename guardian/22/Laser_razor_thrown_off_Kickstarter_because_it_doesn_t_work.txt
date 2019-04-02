@@ -1,0 +1,44 @@
+
+Bad news if you want to burn hairs off your face using a laser: Kickstarter 
+<https://www.theguardian.com/technology/kickstarter> has pulled the fundraising 
+page for the “Skarp” laser razor, despite the project having already raised $4m 
+on the crowdfunding platform.
+
+Kickstarter’s reasoning is fairly straightforward, however: the Skarp doesn’t 
+actually work.
+
+Specifically, the Skarp is “in violation of our rule requiring working 
+prototypes of physical products that are offered as rewards”. That rule was
+introduced in 2012 <https://www.kickstarter.com/blog/kickstarter-is-not-a-store>
+ after a rash of failed projects that over-promised and under-delivered. Now, a 
+company must demonstrate at the very least a working prototype for any object 
+which it is actually intending to ship to backers.
+
+Unfortunately, Skarp did not. The company made one video 
+<https://d2pq0u4uni88oo.cloudfront.net/assets/004/643/823/b152b93f5a57846bf22b8c3f54b1418e_h264_high.mp4>
+ available of what it said was a prototype, showing a device struggling to 
+remove more than a couple of hairs on the back of a man’s hand – a far cry from 
+the smooth shave the designers promised.
+
+It seems that Kickstarter agreed that the video didn’t fit the definition of 
+“working prototype”, and removed the project to prevent disappointment down the 
+line (either from the delivery potentially slipping later and later than 
+promised, or the device being shipped under par).
+
+Kickstarter aggressively polices its site, and until 2014 the company 
+pre-emptively checked every project going up to make sure it fit with the 
+stated policies. Now, the volume is too high for that, but it’s still very rare 
+for a project to hit the volume the Skarp did, raising $4m in pledges from 
+thousands of backers, and then be pulled.
+
+In an email to backers, Kickstarter emphasised that “suspensions cannot be 
+undone”, and so whatever happens next, Skarp will have to find another source 
+of funding to continue development. Whether that means returning to 
+crowdfunding on a different platform, or raising private funding some other 
+way, remains to be seen.
+
+Kickstarter told the Guardian that Skarp’s creators “would be welcome to 
+resubmit their idea to Kickstarter for review if they developed a working 
+prototype. Or they could submit a project that is focused on developing a 
+prototype, as long as they didn’t offer the razor itself as a reward.”
+ 

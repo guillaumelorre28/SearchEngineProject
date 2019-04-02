@@ -1,0 +1,65 @@
+
+The mob is turning against Flash. Mozilla has blocked every version of Adobe’s 
+Flash plugin from running within itsFirefox 
+<https://www.theguardian.com/technology/firefox> browser, while Facebook’s head 
+of security has called for Adobe to kill it off.
+
+
+The moves come following a series of vulnerabilities in Flash being actively 
+exploited, includingthose exposed 
+<https://www.theguardian.com/technology/2015/jul/08/warning-adobe-flash-vulnerability-hacking-team-leak>
+ bythe Hacking Team compromise 
+<https://www.theguardian.com/technology/2015/jul/13/hacking-team-ethiopia-attack-data>
+.
+
+Firefox users seeking to view Flash-based content, such as videos, adverts or 
+more complex web tools for uploading images and other actions, will need to 
+click again and accept a warning that “Flash is known to be vulnerable. Use 
+with caution”.
+
+That means users of Firefox cannot use Flash by default and will not be able 
+to until Adobe patches the security bugs and updates the plugin.Adobe 
+<https://www.theguardian.com/technology/adobe> has struggled to keep up with 
+the number of bugs and vulnerabilities being exposed within Flash.
+
+At the same time, Facebook’s head of security Alex Stamos, who is previously 
+credited with significantly improving the security of Yahoo’s operations, 
+called for Flash to be killed off.
+Alex Stamos (@alexstamos) 
+It is time for Adobe to announce the end-of-life date for Flash and to ask the 
+browsers to set killbits on the same day.
+ <https://twitter.com/alexstamos/status/620306643360706561> July 12, 2015 
+<https://twitter.com/alexstamos/status/620306643360706561> 
+Stamos said that a date for the decommissioning of Flash needed to be set in 
+stone so that the industry has time to switch away from the much maligned 
+plugin.
+
+“Nobody takes the time to rewrite their tools and upgrade to HTML5 because 
+they expect Flash to live forever. We need a date to drive it,”said Stamos 
+<https://twitter.com/alexstamos/status/620308114990968832>.
+
+Many alternatives have been made available to replace Flash. Several 
+high-profile video streaming services, including Sky TV and Netflix switched to 
+Microsoft’s Silverlight instead of Flash. Even Silverlight, however, has been 
+rejected by browsers including Google’s Chrome, forcing others to use HTML5.
+
+The move towards using native HTML5 for the majority of Flash uses has been 
+welcomed by most, although some services that require digital rights management 
+to secure licences have resisted the move.
+
+Should Facebook <https://www.theguardian.com/technology/facebook> ditch Flash 
+wholesale, which is still used by some of the games and apps published on the 
+social network by third-party publishers and a few of its own upload tools, it 
+would send a powerful message.
+
+The majority of the large US technology companies, including Google and Apple, 
+which famously blocked Flash from existing on its iPhone and iPad, have moved 
+towards more modern and secure technologies.
+
+Stamos and others are advocating that now is the time to put Flash out to 
+pasture.
+
+
+• Adobe issues urgent Flash patch to prevent hacking attacks 
+<https://www.theguardian.com/technology/2015/jun/29/adobe-urgent-flash-patch-hacking-attacks>
+ 

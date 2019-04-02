@@ -1,0 +1,76 @@
+
+Global epidemics have catastrophic consequences, but, with the right mobile 
+data analytics, future disease infection rates could be combated and loss of 
+life reduced.
+
+In a connected world where global mobile data traffic grew by a staggering 70% 
+last year 
+<http://www.cisco.com/en/US/solutions/collateral/ns341/ns525/ns537/ns705/ns827/white_paper_c11-520862.html>
+, mobile is a megatrend that can be harnessed for the greater good.
+
+Given the outbreaks of avian flu 
+<http://www.bmj.com/press-releases/2013/08/06/first-probable-person-person-transmission-new-bird-flu-virus-china>
+ in recent weeks across Asia, it's clear pandemics remain a real and persistent 
+threat. We believe that mobile data can be used to better understand human 
+mobility during a pandemic, to build realistic models of how infectious 
+diseases spread, and to illustrate the impact that government intervention can 
+have on the containment of a pandemic.
+
+In an attempt to understand more about the spread of such epidemics through 
+society, Enrique Frias-Martinez and Vanessa Frias-Martinez from my research 
+team recently carried out a scientific study that investigates the reality of 
+developing such a strategy. Its aim was to use this big data gathered from 
+anonymised and encrypted records to identify a methodology which could be used 
+as a blueprint today.
+
+In 2009, the flu pandemic commonly referred to as swine flu 
+<https://www.theguardian.com/world/swine-flu> was a global influenza epidemic 
+involving the H1N1 virus, thought to have broken out in Mexico. It went on to 
+kill about250,000 people around the world 
+<http://www.reuters.com/article/2012/06/26/us-swineflu-idUSBRE85O1DF20120626>, 
+although many estimates place the true figure much higher. In an attempt to 
+contain or at least slow down the spread of the disease, the Mexican government 
+took various actions aimed at limiting the movement of its citizens around the 
+country. These included the forced closures of large and popular public spaces 
+such as airports and universities.
+
+Using anonymised call detail records, Enrique and Vanessa were able to 
+estimate the number of people visiting three sample locations – a hospital, an 
+airport, and a university campus – in one of the worst affected areas. This 
+provided visibility of the population's presence in areas subjected to 
+governmental closure orders. At the university campus, call activity levels 
+dropped significantly indicating that students and teachers followed the advice 
+and stayed away. Interestingly, analysis showed that the airport received twice 
+as many visitor numbers as usual, suggesting that governmental advice was 
+ignored, potentially due to people attempting to leave the region.
+
+The next step was to emulate human behaviour via computer models, replicating 
+about two million people infected with the H1N1 virus. The progress of the 
+disease was then simulated and the impact of government alerts measured on the 
+transmission of the disease. Comparative analysis with these models showed that 
+the government's decision to shut down key infrastructure was successful. The 
+simulations revealed that the government's intervention reduced population 
+mobility by an estimated 30%, while the peak of the epidemic was postponed by 
+almost two days and the number of infections dropped by 10%.
+
+This work underlines the value of evaluating hypothetical scenarios using big 
+data. It's well within reach for public institutions around the world to 
+implement such tools and measure the impact on society of their actions. The 
+social benefits are clear to see – governments could model in real time how 
+public policy measures, such as restricting the use of public transport, affect 
+mobility flows and disease infection rates.
+
+And there's no reason why this methodology could not be applied to other cases 
+such as crop disease, mass migration and other pandemic threats. These are 
+threats that we can't prevent but can at least, with today's technology, better 
+understand, model and hopefully control.
+
+Nuria Oliver is the scientific director, user and media intelligence at 
+Telefónica Digital <http://blog.digital.telefonica.com/>.
+
+Get more articles like this sent direct to your inbox by signing up for free 
+membership <https://register.theguardian.com/media/> to the Guardian Media 
+Network <https://www.theguardian.com/media-network> – this content is brought 
+to you byGuardian Professional 
+<https://www.theguardian.com/guardian-professional>. 
+ 

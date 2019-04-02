@@ -1,0 +1,96 @@
+
+Monday’s keynote at Apple’s worldwide developers conference was fairly packed 
+<https://www.theguardian.com/technology/2016/jun/13/apple-wwdc-keynote-key-points-at-a-glance>
+. The company’s various executives spoke for two hours about the watchOS, iOS, 
+tvOS and the newly-monikered macOS, but while we were all wowed by the changes 
+to Messages, the facial recognition introduced in Photos, and, er, Swift 
+Playgrounds, Apple left almost as many interesting things unsaid as they 
+announced onstage. So here are our picks for what would lead the Keynote That 
+Never Was.
+
+You can now remove the Stocks app
+
+In fact, you can now remove almost all of the apps that come pre-installed on 
+an iPhone and iPad <https://support.apple.com/en-gb/HT204221>. The only ones 
+that are still mandatory are the App Store, Camera, Activity, Wallet, Find 
+iPhone, Health, Messages, Phone, Safari and Settings. Contacts can be removed 
+on an iPhone but is has to stay on an iPad, and News “will be removable in a 
+later version of iOS 10 beta”.
+
+Apple warns that removing the apps isn’t quite a panacea, erasing them from 
+your home screen won’t actually delete them. But if you have a folder of “Apple 
+Crap”, you might be happy to see the back of them anyway.Apple 
+<https://www.theguardian.com/technology/apple> says: “The apps built into iOS 
+are designed to be very space efficient, so all of them together use less than 
+150MB.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F14%2Fapple-wwdc-didnt-announce-apps-game-center-wake-alarm-macos%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F50b6d106e03da92fad020d7eedbcc2aafb8c0e5f%2F467_91_1533_920%2F1533.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Finally%2C%20you%20can%20remove%20the%20Stocks%20app!%20What%20Apple%20didn't%20announce%20at%20WWDC&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F14%2Fapple-wwdc-didnt-announce-apps-game-center-wake-alarm-macos%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Finally%2C%20you%20can%20remove%20the%20Stocks%20app%21%20What%20Apple%20didn%27t%20announce%20at%20WWDC&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F14%2Fapple-wwdc-didnt-announce-apps-game-center-wake-alarm-macos%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F50b6d106e03da92fad020d7eedbcc2aafb8c0e5f%2F467_91_1533_920%2F1533.jpg>
+ A little catch up on the Nasdaq before checking Twitter? No thanks, I’m fine. 
+Photograph: Marcio Jose Sanchez/AP 
+The feature doesn’t quite feel fully baked yet, though, since there’s not 
+actually any functionality built to let you mark replacements for the default 
+apps. A mailto link, for instance, will still attempt to open the Mail app; if 
+you’ve removed it, it will prompt you to reinstall, not open another mail app 
+you may have installed.
+
+RIP Game Center
+
+You probably haven’t opened it for a few years, and if you’re unlucky, it’s 
+been crashing almost every gamesince it broke for a high proportion of users 
+<http://reverttosaved.com/2016/03/16/game-center-is-still-broken-after-six-months-and-thats-not-good-enough-apple/>
+ a few months ago. Well, Game Center is dead, at least as we know it. The app 
+has disappeared from iOS 10, with users managing friend requests in settings 
+instead.
+
+Wake Alarm
+
+An extra little tab in the clock app will now help you get more sleep. Or at 
+least, that’s the plan.
+
+
+The next version of iOS lets you set a “Wake Alarm”: tell it what time you 
+want to wake up, and it will ring at the appointed hour. So far, just a normal 
+alarm, but it also asks how long you want to sleep for, and prompts you to go 
+to bed too. For thequantified self 
+<https://www.theguardian.com/science/2011/dec/02/psychology-human-biology> 
+fans, the app will also start tracking how much sleep you get, albeit just by 
+assuming you’re asleep once you stop using your phone.
+
+There’s a new file system for macOS
+
+This may seem deep in the woods of geekiness, but it’s actually a feature 
+that’s been high up the request list for developers for years.
+
+The file system of a computer refers to the way data is actually stored on the 
+hard drive. Disks on Apple Macs are currently formatted using HFS+, which was 
+invented by Apple way back in 1998. At the time, it was state-of-the-art, but 
+in the years since, it’s started to show its age: perhaps most obviously, it 
+literally cannot handle dates past 2040.
+
+So the company introduced a new file system, called Apple File System 
+(inventive name), which it touts as “optimised for Flash/SSD storage”, of the 
+kind found in most Mac laptops today. Among its new features are space sharing 
+(letting two partitions share the free space available to them, rather than 
+having to decide in advance how much each half gets), snapshots (which let the 
+system make rapid read-only backups) and cloning of files, which lets the 
+system copy files simply by rewriting the location, but pointing to the same 
+underlying data – something which should save both time and hard drive space.
+
+How does this affect you? Future Macs should feel faster, fit more files on 
+their drives, and recover more rapidly from massive crashes.
+
+Turn off read receipts for that one needy friend
+
+Some people use read receipts. Some people don’t. It’s a rather contentious 
+point 
+<https://www.theguardian.com/technology/2015/aug/17/message-read-but-what-kind-of-weirdo-keeps-read-receipts-on>
+. But if you do, and have one friend who’s just a bit too eager to ensure you 
+reply the second you’ve read their texts, you can now turn them off just for 
+that special person, or even for an individual conversation. Just tap on 
+“details” in the top right, and you’d see a new option below Do Not Disturb 
+that will let you toggle whether or not you send the read receipts.
+ 

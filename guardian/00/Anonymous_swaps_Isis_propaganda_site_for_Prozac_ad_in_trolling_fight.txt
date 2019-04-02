@@ -1,0 +1,35 @@
+
+Anonymous <https://www.theguardian.com/technology/anonymous> splinter group 
+GhostSec has taken its “war” on Isis to the darknet, replacing a propaganda 
+forum with an advert for Prozac.
+
+
+The site was only recently set up within the Tor darknet by Isis, allegedly in 
+response to Anonymous taking down hundreds of the terrorist group’s websites on 
+the open web.
+
+Along with an advert for an online pharmacy, the hackers posted a statement 
+saying: “Too Much ISIS. Enhance your calm. Too many people are into this 
+ISIS-stuff. Please gaze upon this lovely ad so we can upgrade our 
+infrastructure to give you ISIS content you all so desperately crave.”
+
+The site was first taken down by GhostSec earlier this week 
+<https://twitter.com/IsraelsACG/status/667937641225146368>, but Isis reinstated 
+the site, despite security researchers finding that the terrorist group had 
+used very poor web security to try and protect it.
+
+Anonymous “declared war” on Isis at the beginning of the year, taking the 
+terrorist group’s sites offline, butstepped up operations 
+<https://www.theguardian.com/technology/2015/nov/17/anonymous-war-isis-hacktivist-group-confirms>
+ and requested crowdsourced help in the wake of the Paris attacks.
+
+While some have said that hacktivists such as Anonymous, GhostSec and Ghost 
+Security Group hinder the investigations of security services, Home Office 
+security minister John Hayes said on Tuesday: “I am grateful for any of those 
+who are engaged in the battle against this kind of wickedness.”
+
+ * Anonymous ‘at war’ with Isis, hacktivist group confirms 
+<https://www.theguardian.com/technology/2015/nov/17/anonymous-war-isis-hacktivist-group-confirms>
+
+ * When all you have is a hammer, Isis looks like a nail 
+<https://www.theguardian.com/technology/2015/nov/20/isis-internet-copyright-anonymous-terror> 

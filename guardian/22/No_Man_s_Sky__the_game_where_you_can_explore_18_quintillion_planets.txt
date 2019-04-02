@@ -1,0 +1,380 @@
+
+Sean Murray is sweating in an Uber cab as it lurches to the staccato rhythm of 
+Los Angeles traffic. The 34-year-old video game programmer is anxious. His 
+meeting at SpaceX with Elon Musk, the American business magnate who hopes to 
+put a human on Mars within the next two decades, overran and Murray and two of 
+his colleagues are perilously late for their next appointment. It is, if not 
+the most important meeting of his life, then almost certainly the most notable 
+(and this in a week of notable meetings; before Musk, Murray met the rapper 
+Kanye West). In five minutes Murray and his colleague, David Ream, are due to 
+showNo Man’s Sky <http://www.no-mans-sky.com>, the video game he and a dozen or 
+so friends are creating half a world away in Guildford, to the film director 
+Steven Spielberg.
+
+Like Murray, Spielberg is in town for E3 <https://www.e3expo.com>, the video 
+game industry’s largest annual gathering, held in boiling LA each June, where 
+publishers show off their forthcoming titles to baying crowds of fans. The cab 
+pulls up at the Los Angeles Convention Centre, where the event takes place over 
+three days. The building is draped in advertising for next year’s blockbuster 
+titles. Murray exits the car with a slam and begins to weave through the crowd, 
+clustered around screens and fingerprint-smeared controllers. He arrives at one 
+of Sony’s cool private meeting rooms, just as Spielberg and his entourage 
+arrive. Inside, Murray, with an apologetic press of a button, loads up the 
+universe.
+
+No Man’s Sky will tick and function regardless of human interaction.
+
+As early as 1984, a computer game called Elite 
+<https://www.youtube.com/watch?v=UmCaNwBwXoQ>, created by two Cambridge 
+University students, David Braben and Ian Bell, allowed us to explore the 
+furthest reaches of the galaxy from the relative comfort of a desk chair. And 
+yetNo Man’s Sky is unprecedented. The game presents a traversable cosmos of 
+unimaginable scale: 18 quintillion life-size planets by the studio’s latest 
+count. Murray claims that, were you to visit the game’s virtual planets at a 
+rate of one per second, our own sun would have died before you’d seen them all. 
+These worlds were created, not by the hand of an artist or designer, but by 
+algorithms. As inMinecraft <https://www.youtube.com/watch?v=FaMTedT6P0I>, 
+another gigantic video game world created by an improbably small team, every 
+rock, flower, tree, creature and scene is generated rather than, as in most 
+video games, drawn or shaped by hand.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRaETTn_V6Hk&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRaETTn_V6Hk>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRaETTn_V6Hk&media=>
+ The No Man’s Sky trailer released in Feb 2015. 
+In No Man’s Sky, you play as an astronaut, piloting the kind of nimble craft 
+that once flew on the covers of Isaac Asimov paperbacks. Like those airbrushed 
+visions of space travel, the game offers a curiously nostalgic vision of the 
+future. Every player will start their journey on an undiscovered planet; they 
+will be the only person to have walked its surface. From there, you can board 
+your ship, take off, break the atmosphere and begin to tour the galaxy (all 
+without the interruption of a loading screen). The stars you see in the 
+unfathomable distance aren’t a mere illusion, like fairy lights studded into a 
+black curtain of a stage backdrop, but real orbs. Travel in their direction for 
+long enough and you can touch them. “We are attempting to do things that have 
+never been done before,” Murray told me, last year, when the project had only 
+just been made public. “No game has made it possible to fly down to a planet, 
+and for it to be planet-sized, and feature life, ecology, lakes, caves, 
+waterfalls, and canyons, then seamlessly fly up through the stratosphere and 
+take to space again.”
+
+What's next for Minecraft? Developer Mojang talks future features
+ Read more  
+<https://www.theguardian.com/technology/2015/jul/05/whats-next-for-minecraft-mojang-future-features-minecon-2015>
+While you might expect a universe created by mathematical rules rather than an 
+artist’s eye and imagination to be bland and samey,No Man’s Sky boasts 
+tremendous depth and variety. One planet is carpeted by bright orange tall 
+grass, through which antelope-esque creatures plod. The trunks of tall palm 
+trees reach upwards into a green sky, before exploding into a splay of crimson 
+fronds. Another planet is wet with mist; only the tips of a few conifers manage 
+to break the murk. There is biodiversity then, but in this game only relatively 
+few planets sustain life. The conditions will, as with Earth, need to be ideal.
+
+For example, there is a specific distance from a star at which it is likely 
+there will be moisture. From this information the game decides that there will 
+be rivers, lakes, erosion and weather, and every aspect (including the sky’s 
+hue) is dependent on the type of liquid that forms the atmosphere. Many planets 
+will be deserted, some entirely barren. As new places are discovered, 
+information such as whether they’re toxic or radioactive, or whether they 
+contain life, will be uploaded to the game’s servers along with the name of the 
+player who made the discovery. These intrepid names will be forever associated 
+with the location, like a space-bound Christopher Columbus.
+
+Unlike many video games, which are rigged to respond only to inputs and 
+otherwise rest dormant, like a musical instrument awaiting a player,No Man’s Sky
+ will tick and function regardless of human interaction. Animals have daily 
+routines that they follow. They might drink in the lowland lakes during the 
+daytime before retreating to the hills to graze. Heavy freighters will plod 
+through space to their own timetable, following trade routes and visiting 
+planets where smaller ships will peel off to gather resources. As with the 
+game’s terrains and atmospheres, all of this behaviour is based on mathematics: 
+fractal patterns that are followed with clockwork reliability.
+
+People don’t like to be told that we don’t know what will happen in our game, 
+but that’s what is exciting to us.
+Sean Murray 
+The overarching goal for players is to head toward the centre of the universe. 
+This common destination will increase the chance that people will encounter one 
+another on their journey (even if the game sells millions of copies, when your 
+playground consists of 18 quintillion planets, a single encounter is 
+statistically unlikely). But it’s an optional objective. “We don’t know whether 
+people will congregate or disperse,” said Murray. “I know that people don’t 
+like to be told that we don’t know what will happen in our game, but that’s 
+what is exciting to us.” Indeed, it’s entirely possible that a player will roam 
+for years and never meet another soul. Others may never leave their home 
+planet, instead choosing to chart its terrain, month by month. While it will be 
+possible for players to mine, trade or fight with others,No Man’s Sky will also 
+accommodate the lone, nomadic wolf.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F7%2F7%2F1436277095857%2F0af64b34-d858-49c9-92ee-4f24d1e350a4-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=No%20Man%E2%80%99s%20Sky%3A%20the%20game%20where%20you%20can%20explore%2018%20quintillion%20planets&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=No%20Man%E2%80%99s%20Sky%3A%20the%20game%20where%20you%20can%20explore%2018%20quintillion%20planets&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F7%2F7%2F1436277095857%2F0af64b34-d858-49c9-92ee-4f24d1e350a4-2060x1236.jpeg>
+ Hazel Mckendrick and Sean Murray build worlds at the Hello Games studio in 
+Guildford. Photograph: Rob Monk/Future/REX Shutterstock 
+For Murray, this kind of solitary existence defined his early childhood. His 
+“eccentric” family travelled a great deal when he was a child. He was born in 
+Ireland but, from the age of four, lived on a million-acre farm in the 
+Australian outback. The family was responsible for its own electricity, water 
+and survival. The farm was a 400-mile drive on a dust track from the nearest 
+main road. “We were completely cut off,” Murray said. This remote existence had 
+an impact that he carries, he says, through life. For one, it seeded in Murray 
+a fascination with the galaxy. “At night you could see the vastness of space,” 
+he said. Later, when his parents bought him a computer, he’d playElite as a way 
+to explore stars similar to those that he’d watch outside his window.
+
+Murray’s interest in games blossomed into a career with the multinational 
+video game publisher Electronic Arts. He formedHello Games 
+<http://www.hellogames.org> with three friends, each of whom also worked at 
+major studios, in 2009. When the team began to discuss what kind of game they 
+would like to make, Murray returned to those formative memories under the 
+stars. “Those emotions started to surface, the feelings you had as a child but 
+which are rarely displayed in video games,” he said. “We talked about wanting 
+to explore the vocations that we wanted to be when we were kids.”
+
+Hello Games’s first project, Joe Danger 
+<https://www.youtube.com/watch?v=MZP-UG8cOCg>, explored the life of one such 
+aspirational career of childhood: stuntman. The game was a major success (it 
+made its money back within an hour of release) but it also locked the 
+developers into a cycle of sequel-making that Murray and the others had formed 
+the company to escape.
+
+“We went on to make four games in the series across seven platforms,” he said. 
+“Each time you sit down to embark on a new project you start to run the 
+calculations: will this be the next five, seven, 10 years of my life working on 
+this game? It changes your mindset when a single game’s development represents 
+a significant chunk of life. You end up thinking: how many games do I have 
+left?”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F7%2F7%2F1436277408277%2Ff92d8edf-3d8a-4d79-ba5a-2b3467b90603-1020x612.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=No%20Man%E2%80%99s%20Sky%3A%20the%20game%20where%20you%20can%20explore%2018%20quintillion%20planets&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=No%20Man%E2%80%99s%20Sky%3A%20the%20game%20where%20you%20can%20explore%2018%20quintillion%20planets&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F7%2F7%2F1436277408277%2Ff92d8edf-3d8a-4d79-ba5a-2b3467b90603-1020x612.jpeg>
+ A new still from No Man’s Sky released at E3 in Los Angeles. Photograph: Hello 
+Games 
+With this existential crisis in mind, Murray decided it was time to embark on 
+the project he’d dreamed of as a child, a game about frontiership and existence 
+on the edge of the unexplored. One night, alone in the office, he began to 
+program the big bang that would lead toNo Man’s Sky’s universe. He wanted to 
+evoke the imagined feeling of landing on a planet and being the first person to 
+discover it, the sense of awe and trepidation at not knowing what secrets lay 
+within a place’s geographical folds and spires.
+
+We wanted a game where, even if you watched every YouTube video, it still 
+wouldn’t be spoiled for you,”
+Sean Murray 
+“In this era, in which footage of every game is recorded and uploaded to 
+YouTube, we wanted a game where, even if you watched every video, it still 
+wouldn’t be spoiled for you,” he said. “And we wanted those discoveries to be 
+meaningful in the sense that they could be shared with other players, all of 
+whom existed in the exact same universe, rather than inside their own random 
+dimension.”
+
+Years later, the game’s scale remains vast. But now it is matched by the 
+weight of expectation. In an industry that values bankable sequels made by 
+teams of hundreds, this is a new name in a new genre made by an implausibly 
+tiny team (it started as four and has now ballooned to 13). In both 2014 and 
+2015Sony <https://www.theguardian.com/technology/sony> made No Man’s Sky the 
+centrepiece of its E3 press conference, held in the cavernous Los Angeles 
+Memorial Sports Arena.
+
+“People say to me: there’s never been a game that’s had this much hype and 
+hasn’t disappointed everyone,” Murray said. The team at HelloGames 
+<https://www.theguardian.com/technology/games> has been careful not to 
+over-promise, or to suggest that there are elements to the experience that 
+aren’t present.
+
+“We’ve always ensured that every video and demo we put out is raw gameplay,” 
+Murray says. “Every time you seeNo Man’s Sky, it’s literally me playing, 
+wearing headphones, trying to film things that go well with the music. It’s the 
+most genuine way in which we can show the game.” Despite these efforts, people 
+seem to let their imagination run away. “They project their own idea of the 
+game onto what we’re doing. Maybe that is the nature of hype: runaway 
+excitement that can never be matched?”
+
+The team has remained true to its vision (the design hasn’t changed much since 
+the game’s inception, Murray claims) rather than seeking to accommodate the 
+endless requests from players who want to see certain features implemented. 
+While showing the game to members of the enthusiastic press, Murray has fielded 
+requests that they make it possible for players to create buildings, 
+communicate with aliens or implement land vehicles into the game. “It’s the 
+reason we haven’t done things like Kickstarter,” Murray said. “There could be 
+so much feature creep. A lot of other companies would have taken the interest, 
+taken loads of investment, grown the team massively and so on. And of course, 
+we did talk about things like that. But it felt like it wouldn’t work. We had 
+an idea for a game and we may never be able to deliver on the hype. But we can 
+deliver the game we set out to make. That has to be enough.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F7%2F9%2F1436448343824%2F57de9132-5f9a-444a-b253-5ab5731806b6-1020x574.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=No%20Man%E2%80%99s%20Sky%3A%20the%20game%20where%20you%20can%20explore%2018%20quintillion%20planets&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=No%20Man%E2%80%99s%20Sky%3A%20the%20game%20where%20you%20can%20explore%2018%20quintillion%20planets&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F7%2F9%2F1436448343824%2F57de9132-5f9a-444a-b253-5ab5731806b6-1020x574.jpeg>
+ A new still from No Man’s Sky released at E3 in Los Angeles. Photograph: Hello 
+Games 
+Murray is, at least in part, culpable for the gale of hype. Sony, whose 
+successful video game division is dedicated to funding and nurturing game 
+development talent, offered Hello Games financial support. Murray turned down 
+the funding, instead requesting a prime segment during the Japanese company’s 
+E3 2014 press conference. It was an unprecedented request for an unproven, 
+independently produced title. “I’ve worked on games that sold millions of 
+copies that were never given the chance to have a showing at E3,” Murray told 
+me. Before he took to the stage, Murray was, according to a colleague, 
+“catatonic” with fear. The fretfulness was, as is often the case for the man in 
+whom ambition and anxiety are yoked, unwarranted. Murray introduced a video 
+showing footage of the game: spaceships loop-the-looping over red planets, 
+procedurally created fish flashing across reefs, armadillo traipsing along 
+cliff edges, all played to a euphoric soundtrack composed by the band
+65daysofstatic <http://65daysofstatic.com>. The response from the audience – 
+5,000 in the room and millions more who were watching online – was ecstatic.
+
+“Personally, I don’t find the attention motivating,” said Murray. “When I’m 
+not attending these trade shows to demonstrate the game, I make a real effort 
+to block everything out. But it’s a constant hum of expectation, or like 
+something hanging over you. Sometimes something will make me aware of it and I 
+do a little shudder.”
+
+The attention can, at times, become too much. Murray recently cancelled an 
+invitation to speak at the SXSW music, film and interactive festival in Austin, 
+Texas. He deleted Twitter from his phone. “You’d think people saying ‘I’m 
+excited for your game’ would be motivational,” he said. “But actually, 
+creativity and hard work is driven by ambition. And ambition isn’t helped by 
+constant affirmation. You have to almost get to a place where you’re unhappy 
+with everything.”
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtuatlzRxKVQ&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtuatlzRxKVQ>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtuatlzRxKVQ&media=>
+ Sean Murray’s presentation at the E3 conference in June 2015 
+The insatiable curse of perfectionism was in full display at this year’s E3. 
+Again Murray took to the stage during Sony’s press conference. But this time, 
+he was playing live on stage, a ballsy move with unfinished software. “We 
+decided that I was just going to stand up and play the game,” he said. “There 
+was a lot of pressure on us to do something bombastic. I didn’t want to do 
+that. I wanted to go: this is the kind of experience you’ll have. If you’re 
+excited by that, then it’s real and we can match that. And if not, well, maybe 
+that’s OK…” As part of the demonstration, Murray wanted to show off the game’s 
+scale in more concrete terms. In front of the audience he pressed a button and 
+the world shrank into a single point on a sprawled galactic map. Another, and 
+the galaxy folded into a dot, now just a pinprick in a constellation of bright 
+markers. The crowd drew a collective breath.
+
+After he left the stage at 8pm, chased by the sound of applause, Murray 
+returned to the hotel suite Hello Games had hired across the road from the E3 
+show floor. It had become an impromptu development studio, complete with 
+networked computers and a shantytown of plastic connectors and wires. “It 
+should have been this triumphant moment,” Murray said. “Nothing had crashed! 
+Instead, I started working on the game through the night, trying to get it into 
+the best possible shape to show the press the next day. The stuff we worked on 
+that night? Nobody noticed. But, I couldn’t sleep. There’s always more to be 
+done.”
+
+The team is yet to announce a release date for No Man’s Sky, which will debut 
+simultaneously on Sony’sPlayStation 4 
+<https://www.theguardian.com/technology/playstation-4> and PC, probably next 
+year. Most blockbuster video games, like movies, announce their arrival years 
+in advance, with launch dates carefully planned to reduce the threat of 
+competition. Murray, despite pressure from fans, has opted to wait. “Ultimately 
+we will pick the date when we have a finished game,” he said.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F7%2F7%2F1436277677007%2F16ac3734-5ac4-493d-b079-8904688e8397-1020x612.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=No%20Man%E2%80%99s%20Sky%3A%20the%20game%20where%20you%20can%20explore%2018%20quintillion%20planets&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=No%20Man%E2%80%99s%20Sky%3A%20the%20game%20where%20you%20can%20explore%2018%20quintillion%20planets&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F7%2F7%2F1436277677007%2F16ac3734-5ac4-493d-b079-8904688e8397-1020x612.jpeg>
+ A new still from No Man’s Sky released at E3 in Los Angeles. Photograph: Hello 
+Games 
+“The team is so small that it’s the way it has to work. I used to work on 
+teams where 200 people were working together; it would be much more like an 
+assembly line. We’d have one level and it’s February and we’d know we’ll have 
+10 levels by May and 20 levels by August and so on. It was tightly controlled. 
+For us, we’re building this game where unless all systems work in harmony, 
+nothing really works at all.”
+
+Two days after his appearance on stage at E3 last month, Murray began the 
+private demonstration with Spielberg. The director is currently working on the 
+film version ofReady Player One, a science fiction novel by Ernest Cline in 
+which most humans spend their time playing a never-ending game inside a digital 
+utopia. In the story, players compete to find a trinket hidden by the game’s 
+late creator, concealed somewhere within the virtual expanse.
+
+For many, the quest has become an obsession. For Spielberg, it is No Man’s Sky
+’s lack of a similarly focused goal that makes Hello Games’s project so 
+interesting. “He picked up on the sense of wonder,” Murray recalled. “He said 
+the game provides something close to a meditative experience. Our game has 
+various aspects to it. Something that sometimes resonates with players is the 
+appeal of virtual tourism.”
+
+Perhaps the greatest appeal of No Man’s Sky is the way it provides us with the 
+opportunity to make the unknown known.
+
+Video game designers often seek to propel us through their worlds, laying down 
+a crumb trail of objectives designed to hold our attention. But sometimes the 
+worlds they create cause us to put down the to-do list, to stop and stare at 
+this forest, that horizon, those fields, these spaceships. Games allow us to 
+enter into the roles and vocations of people unlike us – the racing car driver, 
+the international football star, the marine – but they also enable us to visit 
+and explore places that would be unreachable any other way. Perhaps the 
+greatest appeal ofNo Man’s Sky is the way it provides us with the opportunity 
+to make the unknown known. It is the same urge that launched Elizabethan 
+explorers around the world in fat galleons, the promise of the strange animals 
+that they might find, the unpredictable tribes they might meet, the unseen 
+sights they would see, and the extraordinary pleasure of filling in a 
+previously obfuscated area of a map.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-6%23img-6&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F7%2F7%2F1436277730184%2F048d640d-c0b8-4bf2-a6da-97fce2e847f5-1020x612.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=No%20Man%E2%80%99s%20Sky%3A%20the%20game%20where%20you%20can%20explore%2018%20quintillion%20planets&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-6%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=No%20Man%E2%80%99s%20Sky%3A%20the%20game%20where%20you%20can%20explore%2018%20quintillion%20planets&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjul%2F12%2Fno-mans-sky-18-quintillion-planets-hello-games%3Fpage%3Dwith%3Aimg-6%23img-6&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F7%2F7%2F1436277730184%2F048d640d-c0b8-4bf2-a6da-97fce2e847f5-1020x612.jpeg>
+ A new still from No Man’s Sky released at E3 in Los Angeles. Photograph: Hello 
+Games 
+Today, our own, meticulously charted world rarely offers such thrills. The 
+ubiquity of the mobile phone, the terrain-gobbling tenacity of Google Earth’s 
+satellites and the way in which all of this data can be shared instantly has 
+made Earth smaller than ever.
+
+Yet video games offer to make explorers of us all again. From familiar 
+building blocks (quite literally, in the case ofMinecraft’s brick-like 
+construction) they create unfamiliar places with unfamiliar vistas that are, 
+nevertheless, somehow real. The latest game consoles have the built-in ability 
+to take and share in-game photographs, an acknowledgement that visitors will 
+want to capture a scene or a moment for posterity, to make their discoveries 
+public and shared.
+
+The game hopes to offer similar jolts of elemental wonder, all without the 
+drag of real-world travel. These vivid places are compacted into the 
+television, facilitating a kind of tourism and exploration that is both 
+convenient and peril-free. Can virtual discovery match the thrill of real-world 
+exploration? Perhaps not. But the imitation is nevertheless powerful, 
+compelling and, crucially, cheaper and more accessible than the real thing.
+
+The game hopes to offer jolts of elemental wonder, all without the drag of 
+real-world travel.
+
+A fortnight after Murray’s meeting with Elon Musk, a SpaceX Falcon9 rocket 
+carrying food and supplies to the International Space Stationexploded minutes 
+after takeoff 
+<https://www.theguardian.com/science/2015/jun/28/nasa-spacex-launch-international-space-station-wrong>
+ from Cape Canaveral, Florida. “Space is hard,” tweeted American astronaut 
+Scott Kelly in reaction to the disaster. Although, less so when encountered on 
+a widescreen television.
+
+One of Murray’s friends writes science fiction novels. The writer conjures 
+worlds from his imagination, a landscape of the future and the technology by 
+which humans will interact with that place.No Man’s Sky is also involved in 
+this long-running tradition (the alien landscapes; the hyper-drives), and yet 
+the game represents its own futuristic miracles. It squeezes 18 quintillion 
+planets on to a hard drive. It summons life from algorithms and allows 
+humanity, together, to explore and discover in a collective project.
+
+Murray caught up with his author friend recently. “He bemoaned the fact that, 
+these days, a lot of science seems quite normal,” he says. “Something he said 
+has stayed with me: ‘It’s harder to be futuristic than ever before.’”
+ 

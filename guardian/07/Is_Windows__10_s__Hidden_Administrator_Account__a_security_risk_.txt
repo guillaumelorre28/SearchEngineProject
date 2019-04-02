@@ -1,0 +1,149 @@
+
+We have two types of user accounts: local and Microsoft accounts. Over the 
+years from Windows XP through Vista, Windows 7 and up to 8.1, I have always 
+used local accounts, where you could easily control the security of your 
+operating system by using a password-protected standard user account. However, 
+to get the real benefits ofWindows 10 
+<https://www.theguardian.com/technology/windows-10> requires creating a 
+Microsoft account. (Of course, one way to ensure privacy is to create a new 
+outlook.com account and just use it for log in purposes.)
+
+From what I understand, Windows 
+<https://www.theguardian.com/technology/windows> 10 automatically generates 
+another super or elevated Administrator account during installation, and this 
+account is hidden by default for security reasons. Unlike the normal 
+Administrator account, this runs all programs with admin rights by default, 
+without that annoying UAC box appearing when you attempt to run a program. What 
+is to stop any malware installing itself on your PC?
+
+Also, is it best to enable the hidden Administrator account should it become 
+necessary to access it for any reason? Marcus
+
+The appearance of every new version of Microsoft Windows usually creates panic 
+in people who think they’ve found something new, when it’s actually something 
+old. Windows 10’s privacy settings, for example, are more or less identical to 
+the ones in Windows 8. The email-based Microsoft Account logon system was also 
+introduced four years ago, in 2012.
+
+The “Hidden Administrator Account” has been around even longer. It first 
+appeared in its current form in Windows Vista a decade ago, and has been in 
+every version of Windows since. It was even in Windows XP, but you had toboot 
+Windows in Safe Mode 
+<http://www.pcadvisor.co.uk/how-to/windows/how-gain-access-your-windows-account-if-you-lost-your-password-3433989/>
+ – or edit the registry – to see it.
+
+Windows XP was – and still is – famously insecure. One reason for its 
+insecurity was that most people logged on using what Unix users would call a 
+“root account” with the power to do anything. Unix, Linux and Unix-based Apple 
+Mac OS X users generally used less powerful accounts, which meant any malware 
+couldn’t cause as much damage.
+
+Right from the beginning, Windows XP had exactly the same design, with an 
+Admin (root) account and less powerful user accounts. Unfortunately, few people 
+used them, partly because of badly-written third-party software that could only 
+be installed from root accounts. Many programs had been converted from 
+DOS-based Windows where that was the norm: in Windows 95, Windows 98/98SE and 
+Windows ME, every user could modify everything.
+
+Enter the UAC
+
+Microsoft stopped this by introducing UAC (User Account Control) in Windows 
+Vista. This made users run a safe user account by default. If something needed 
+Admin privileges, UAC would grey the screen and pop up a box, asking you to 
+escalate to Admin level. As a result, badly written third-party software popped 
+up loads of UAC interruptions, which eventually pressurised suppliers to 
+rewrite their software to avoid them.
+
+Of course, Microsoft also provided a get-out so that impatient and arrogant 
+users could turn down the level of UACs or turn them off, making their PCs less 
+secure. But the UAC and other security improvements still led to a dramatic 
+reduction in the number of Windows virus infections in Vista and Windows 7.
+
+The “Hidden Administrator Account” has survived because it has a purpose. It 
+allows you to upgrade Windows 7 to Windows 10 or whatever without running into 
+a snowstorm of UAC pop-ups. Once the operating system is installed, the hidden 
+account is disabled. You don’t need to know it’s there, and under normal 
+circumstances, you should never need to use it.
+
+However, you should never run a copy of Windows 7 to 10 with only one Admin 
+account – which will usually be the first account you set up. If you use that 
+Admin account all the time and it gets corrupted, you’re in trouble. You might 
+be able to regain access by using the hidden admin account, but that’s turned 
+off by default, and the process is obscure and prone to failure.
+
+So, my advice is to forget all about the Hidden Administrator Account. 
+Instead, create a second Admin account that you can use if your original 
+account is corrupted, or you forget the password, or something bad happens.
+
+User accounts
+
+You already know the dangers of working with a full Admin or root account. For 
+this reason, Microsoft has providedseveral alternatives 
+<https://support.microsoft.com/en-us/help/17197/windows-10-set-up-accounts> 
+with different levels of security and control.
+
+All the adults that use a Windows 10 PC should have their own standard user 
+account. As the sole administrator of one or more PCs, you can set these up by 
+going to Start, running the Settings app and clicking Accounts. Select “Family 
+& other users” from the left hand menu, and choose whether to “Add a family 
+member” or “Add someone else to this PC”. If you choose “Add a family member”, 
+you then get two options: Adult and Child.
+
+When you add a non-family member, they should use their own MSA. That way they 
+will have access to their own apps, but they won’t have access to family 
+information. If you set up a child account, you can have it monitored: they can 
+only access websites and apps that you have approved, and you can set time 
+limits and curfews. You can also provide accounts with access to school or work 
+networks, including device management networks (MDM 
+<https://en.wikipedia.org/wiki/Mobile_device_management>).
+
+Further, you can provide “assigned access” so that a user can use only one 
+Windows Store app, such as Skype. You could use this to enable a child to play 
+a single game, or for gathering information, etc. For example, a club could use 
+it for a survey.
+
+When you limit what people can do on a PC, you limit the amount of damage that 
+they can do, and the amount of damage that malware can do.
+
+Using a Microsoft Account
+
+You are correct in saying that you need to log on to Windows 10 with a 
+Microsoft Account <https://www.microsoft.com/en-gb/account/> (MSA) to make full 
+use of its features. This applies whether the account is an Admin account, a 
+standard account, or a child account, etc, and I don’t think it makes a 
+significant difference to your security.
+
+Windows 10 is a mobile operating system delivered and maintained from the 
+cloud. Using an MSA enables Windows 10 to get your email automagically, and 
+lets you save files to your OneDrive cloud. It means apps are securely 
+installed and updated from the online Windows Store – exactly like Google 
+Android and Apple iPhone and iPad apps.
+
+It means you can “roam”, signing on with your MSA on different PCs, sync data, 
+or get a whole new PC set up like an old one, with the same apps and settings. 
+Indeed, a Microsoft Account also works across Xbox One games consoles, Windows 
+smartphones, and dozens of apps on Apple iOS and Android devices.
+
+You are correct in saying that you can open a new email account at outlook.com 
+for your log-on to Windows 10, and this does not require any personal 
+information. You don’t have to use it for email and, unlike Google, Microsoft 
+does not data-mine your emails for advertising purposes.
+
+Alternatively, you can use a non-Microsoft email address to set up your MSA, 
+but this gives Microsoft more information than it would get from a token 
+outlook.com address. If you use, say, a Gmail address, Windows 10 will still 
+work with OneDrive, Microsoft’s free online Office suite and related programs. 
+However, as soon as you click the email tab, Microsoft will create an 
+outlook.com email service that can send emails “from” your Gmail address.
+
+You can also use a purely local account, without an email link. However, you 
+will eventually end up using one with the Microsoft Store. As with the Apple 
+and Google stores, you have to log on, even if you never intend to buy anything.
+
+At least the Microsoft ecosystem supports both local and cloud-based computing 
+across all the leading platforms, stretching from USB compute sticks to giant 
+server farms. Neither Apple nor Google does that.
+
+Have you got a question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

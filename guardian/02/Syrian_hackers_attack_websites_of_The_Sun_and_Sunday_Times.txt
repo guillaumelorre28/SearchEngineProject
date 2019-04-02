@@ -1,0 +1,41 @@
+
+Two of News UK's newspaper websites - the Sunday Times 
+<https://www.theguardian.com/media/sundaytimes> and The Sun - have suffered a 
+hack attack by the Syrian Electronic Army (SEA).
+
+For some minutes the websites carried the message shown above. But the company 
+kept the disruption to a minimum, restoring their online services after only a 
+short hiatus.
+
+A News UK <https://www.theguardian.com/media/newsinternational> spokesman said 
+its digital team mobilised quickly, pinpointing the area of attack within 
+minutes and then shutting the technical window to prevent the attack continuing.
+
+"We were back up within 20 minutes of the attack," he said, "with full access 
+to all parts of the site expected to be back up in the near future."
+
+At one point, The Sun tweeted: 
+<https://twitter.com/TheSunNewspaper/status/479217983941001216> "Our website is 
+currently being hacked by the Syrian Electronic Army. To keep reading the real 
+story about Syria, buy The Sun tomorrow..."
+
+And it followed that with a typically cheeky message: 
+<https://twitter.com/TheSunNewspaper/status/479220917361721344> "Good news! Our 
+website is back up and running, which means business as usual. Kim Kardashian's 
+racy pics, anyone?" [She appears on today's Page 3 in a see-through top].
+
+The SEA is a gang of computer hackers who support the government of President 
+Bashar al-Assad <https://www.theguardian.com/world/bashar-al-assad>, although 
+it is not known whether there is a formal link to his administration.
+
+They tend to use denial of service (DoS) attacks and have targeted several 
+western websites, including news organisations and human rights groups.
+
+The group boasted on Twitter about their attack on the News UK sites 
+<https://twitter.com/Official_SEA16/status/479229118236487681>
+
+They have previously claimed responsibility for attacking the Financial Times, 
+the Daily Telegraph, BBC News, theAssociated Press 
+<https://www.theguardian.com/media/associated-press>, America's National Public 
+Radio and Al-Jazeera.
+ 

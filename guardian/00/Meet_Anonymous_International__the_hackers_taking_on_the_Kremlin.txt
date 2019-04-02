@@ -1,0 +1,200 @@
+
+Around 10am on 14 August 2014, an unremarkable man walked into a café near 
+Tishinskaya Square in Moscow. He ordered a coffee, sat down, opened up a cheap 
+laptop and launched a few applications: a text editor, an app for encrypted 
+chat, and a browser.
+
+Then, he opened Twitter <https://www.theguardian.com/technology/twitter> and 
+wrote: “I’m resigning. I am ashamed of this government’s actions. Forgive me.”
+
+
+The tweet immediately appeared on prime minister Dmitri Medvedev’s official 
+Twitter account <http://www.bbc.co.uk/news/technology-28786683>, visible to his 
+2.5m followers.
+
+Taking a sip of his coffee, he wrote a few more tweets: “I will become a 
+photographer. I’ve dreamed about it for some time”; “Vova [Putin]! You are 
+wrong!”
+
+
+The tweeter is a member of Anonymous 
+<https://www.theguardian.com/technology/anonymous> International, better known 
+as Shaltai Boltai (Humpty Dumpty in Russian), arguably the most famous hacker 
+group in the country after claiming responsibility for a series of high-profile 
+leaks.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2015%2Fapr%2F07%2Fanonymous-international-hackers-kremlin%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F4%2F2%2F1427989749320%2Ffe4d43c9-4bb2-4a37-b5a5-bf07740f7114-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Meet%20Anonymous%20International%2C%20the%20hackers%20taking%20on%20the%20Kremlin&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2015%2Fapr%2F07%2Fanonymous-international-hackers-kremlin%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Meet%20Anonymous%20International%2C%20the%20hackers%20taking%20on%20the%20Kremlin&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2015%2Fapr%2F07%2Fanonymous-international-hackers-kremlin%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F4%2F2%2F1427989749320%2Ffe4d43c9-4bb2-4a37-b5a5-bf07740f7114-2060x1236.jpeg>
+ Russia’s prime minister Dmitry Medvedev Photograph: Astakhov Dmitry/Astakhov 
+Dmitry/ITAR-TASS Photo/Corbis 
+In the past two years, they’ve gained access to documents detailing the 
+Russian state’s game plan for a supposedly “grassroots” demonstration inMoscow 
+in support of its actions in Crimea 
+<http://slon.ru/russia/kak_kovalas_pobeda_v_krymu-1095637.xhtml>; details about 
+how the Kremlin prepared Crimea’s secessionist referendum; and private emails
+allegedly belonging to Igor Strelkov 
+<http://www.themoscowtimes.com/news/article/russias-igor-strelkov-i-am-responsible-for-war-in-eastern-ukraine/511584.html>
+, who claims he played a key role in organising the pro-Russian insurgency in 
+Donetsk, Ukraine.
+
+The group also released documents about how Concord 
+<http://www.fontanka.ru/2014/05/29/170/>, a company owned by Kremlin-connected 
+restaurant owner Evgeny Prigozhin, apparently coordinates anarmy of pro-Putin 
+internet trolls 
+<https://www.theguardian.com/world/2015/apr/02/putin-kremlin-inside-russian-troll-house>
+ through an outfit called the Internet Research Agency.
+
+Last week the collective released roughly 40,000 text messages apparently 
+taken from the mobile phone of Timur Prokopenko 
+<https://meduza.io/en/news/2015/03/31/data-leaking-group-releases-thousands-of-text-messages-revealing-mechanics-of-kremlin-censorship>
+, manager of the Kremlin’s Internet policy between 2012–2014.
+
+Salutin' Putin: inside a Russian troll house
+ Read more  
+<https://www.theguardian.com/world/2015/apr/02/putin-kremlin-inside-russian-troll-house>
+Speaking about the Medvedev Twitter hack, one of Anonymous International’s 
+members said they had “monitored him for two years, but nothing interesting 
+ever happened, so we decided we’d just troll him instead”.
+
+Thirty minutes after they sent the first tweet, Putin’s press secretary, 
+Dmitri Peskov, announced to reporters, “I can say with high probability that 
+we’re looking at a hacker attack.” The government soon confirmed it: “The prime 
+minister’s Twitter account has been hacked. The last several messages posted 
+are untrue.”
+
+The first leaks
+
+On a dark and humid evening in Bangkok in early January, I met one of the 
+heads of Shaltai Boltai, where he told me the Twitter story. He wouldn’t tell 
+me his name, forbade me from recording our conversation and refuses to let me 
+describe his appearance. For the sake of convenience, I’ll call him Lewis. 
+(After all, Lewis Carroll’s Alice in Wonderland, with its inside-out logic, 
+most accurately captures the world of Russian politics,Shaltai’s members have 
+said <http://apparat.cc/world/boltai/>.)
+
+
+It took three months of emailing to arrange a meeting. At first, it was 
+supposed to take place in Istanbul, then in Kiev. I asked the group whether 
+they were changing our meetings because the police were on their trail. “We 
+don’t think so :) :) :),” they wrote. “We’ve got too many trails. Really, we’re 
+not afraid of anything, honestly :) :).”
+
+Really, we’re not afraid of anything, honestly :) :)
+Shaltai Boltai 
+Back in December 2013, Anonymous International registered its website on 
+Wordpress and later that month published the full text of Vladimir Putin’s New 
+Year’s national address – several hours before it aired on television.
+
+Over the next 12 months, they released what was mainly correspondence from 
+email accounts and mobile phones belonging to Russian politicians of varying 
+degrees of influence.
+
+
+Igor Osadchy, named in the leaked emails as the director of a project tasked 
+with placing “trolling” comments in foreign news media later sued Boltai 
+Shaltai for personal data theft. A representative at Roskomnadzor, Russia’s 
+federal agency for media oversight, then announced: “A court has determined 
+that the information [published by Shaltai] must be deleted, but the website’s 
+hosting provider has not responded to our notification. Therefore, our agency 
+has orderedInternet <https://www.theguardian.com/technology/internet> Service 
+Providers to block this blog.”
+
+
+Acting on orders from Roskomnadzor, in July Russian service providers blocked 
+access to the domain b0ltai.org. The group’s main Twitter account, @b0ltai, was 
+also blocked.
+
+Today, Shaltai’s website is accessible in Russia only via a virtual private 
+network or amirror site <http://b0ltay.blogspot.de/>. The group also runs 
+@b0ltai2 <https://twitter.com/b0ltai2>, a duplicate Twitter account still 
+unblocked in Russia that reproduces all the first account’s posts, down to its 
+retweets.
+
+In August, Anonymous International released the archives from three different 
+email accountsallegedly belonging to Dmitri Medvedev 
+<http://top.rbc.ru/society/14/08/2014/942938.shtml>, as well as correspondence 
+from Duma deputy and United Russia member Robert Shlegel about an organised 
+“troll” attack on the websites of major American and British news media 
+(including The New York Times, CNN, BBC, USA Today, and The Huffington Post).
+
+Our mission is to change the world for the better, helping to bring greater 
+freedom and social awareness
+Shaltai Botai 
+In an interview conducted over encrypted chat, Anonymous International’s press 
+secretaryclaimed 
+<http://www.lookatme.ru/mag/people/manifesto/206757-shaltay-boltay> that the 
+group publishes leaks because it is “dissatisfied with the restrictions on free 
+speech online and with Russia’s aggressive foreign policy.”
+
+It has complaints about Russian domestic policy, too: “They only let the 
+convenient candidates participate in elections,” and it’s “impossible to work 
+peacefully in a small or medium business”.
+
+Shaltai Boltai’s stated mission <http://apparat.cc/world/boltai/> is “to 
+change the world for the better, helping to bring greater freedom and social 
+awareness”.
+
+One of the group’s members quotes the 2009 film Watchmen 
+<http://spektr.delfi.lv/novosti/my-ne-slivaem-my-rasskazyvaem-pravdu.d?id=45161768>
+, saying, “We don’t do this thing because it’s permitted. We do it because we 
+have to. We do it because we’re compelled. Once a man has seen society’s black 
+underbelly, he can never turn his back on it.”
+
+‘Changing reality’
+
+With a bang of the exhaust, we come to a halt in the centre of Bangkok, where 
+Lewis suggests another ride, this time on the subway. If Lewis is to be 
+believed, leaking documents in the public interest is Shaltai Boltai’s “side 
+project”. The group’s main work is getting hired to dig up information about 
+private and public individuals.
+
+The whole company consists of a dozen people, he said. Apart from the 
+technical staff, there are Shaltai and Boltai, who manage communications with 
+the outside world, two co-founders (one of whom is Lewis), and a woman called 
+Alice. “She’s a field officer doing extremely important work,” Lewis explains.
+
+Our prices start at around $30,000. I won’t say how high they go. We earn 
+enough to live comfortably and to travel.
+Lewis 
+The company’s structure, Lewis says, resembles an “online gaming clan”: the 
+staff don’t know each other in person, but they spend hours chatting together 
+every day. No one collects a regular salary, and the size of one’s earnings 
+depends on how much he or she contributes to an operation. Fees are paid in 
+cash, and sometimes in bitcoins.
+
+
+I ask Lewis if the group has many clients? “We have a small circle of regular 
+ones,” he says. “It’s enough for us. Our prices start at around $30,000. I 
+won’t say how high they go. We earn enough to live comfortably and to travel.”
+
+Buying and selling information, the group “are hired by private individuals 
+and groups within the state, and we never work with anyone tied to the drug 
+trade. But we maintain that we’re an independent team.”
+ Lewis’ hat, somewhere in Bangkok. Photograph: Daniil Turovsky/Meduza 
+At its core, Lewis says, their job is about “changing the current reality.” 
+
+“Generally, we only release information that’s socially useful. We never share 
+personal data.” I ask him whether, if they had access to the data like that 
+Edward Snowden leaked, would they publish it? “Most likely not. Not everything 
+needs to be released.”
+
+I ask Lewis if I can photograph his laptop, or his hat. He agrees and hangs 
+his hat on a nearby fence so that none of the signs in the background are 
+visible. “It would be easy to come here later, pay someone some money, and get 
+the camera footage from this area,” Lewis says, as he buys some orange juice 
+from a street vendor.
+
+He takes a small bottle of gin out of his bag and has a sip. Then he fishes 
+out the mobile he used to phone me from his pocket. Using a handkerchief, he 
+rubs off the fingerprints and removes the sim card and battery, tossing them in 
+different bins.
+
+With that, he runs off to catch a train to the airport.
+
+A longer version of this article 
+<https://meduza.io/en/feature/2015/02/02/a-man-who-s-seen-society-s-black-underbelly>
+ originally appeared in Meduza English
+ 

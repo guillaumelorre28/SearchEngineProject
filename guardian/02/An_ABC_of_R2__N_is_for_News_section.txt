@@ -1,0 +1,55 @@
+
+Today N, for News section... which was one of the two highest priority 
+launches of project. Yet it happened around 12 months after we planned it, and 
+between the planning and the launch we also launched the theguardian.com home 
+page, video integration, and sections for Media, Technology, Business, Science, 
+Society, Money and Environment. If it was so important, why did we take that 
+seemingly roundabout route?
+
+Actually, it wasn't that indirect. In January and February 2007 planned all 
+the work that was to follow the launch of the Travel section, which had gone 
+out in November 2006. From our senior stakeholders we sought the business 
+priorities, and there were two major milestones: changing the home page of 
+theguardian.com would send the clearest public signal of intent (even though it 
+was only one page), and launching our news content in the new design would 
+demonstrate the depth, extent and utility of the transformation. So those were 
+our two major targets.
+
+But there was another major requirement running through all our launches, and 
+that is that they should be sufficiently comprehensive and largely complete at 
+the moment of launch -- there shouldn't be any obviously missing features or 
+tools. Since the news agenda is both urgent and highly volatile the news desk 
+needed a comprehensive set of tools with strong integration to be able to deal 
+with the daily demand. That included polls, improved galleries, an audio player 
+with better podcast integration, a wider range of layout templates, many more 
+navigational components, more streamlined tools, cartoon pages, very flexible 
+keyword management, and much more.
+
+It was, in total, around a year's worth of work, so getting there directly 
+would have meant no major launches -- no tangible benefits -- for a year, and 
+that just wasn't on. Agile development is about providing value early. To deal 
+with this problem we exploited that fact that many sections, such as Science 
+and Media, would benefit greatly from early launches and wouldn't need such a 
+comprehesive featureset as News from the word go. And developing those other 
+sections would help build up towards News. We then calculated that if we wanted 
+to get to the News launch with a detour through those other launches then it 
+was a difference of only 6%.
+
+Clearly there were big wins all round. Many sections were launched early so 
+those desks got the benefits early; the commercial team was able to make use of 
+the flexible advertising early; the technology going to the news desk was 
+tested and refined well ahead of launch; andthe risks normally inherent in a 
+big bang launch 
+<http://niksilver.com/2006/05/12/big-bangs-and-telegraphcouks-redesign/> were 
+drastically reduced.
+
+Speaking personally, I found the launch of the News section surprisingly 
+muted. Lots of the public excitement and discussion around the reworking of our 
+site had occurred when we launched the front page many months before, and 
+continued in varying forms with the release of each subsequent section. By the 
+time we got to the News section it was much less startling to those outside 
+looking in. But in terms of internal change so much traffic goes through the 
+News section, and it involves so many people working with it each day, it was 
+very significant. Frankly, big launches which happen with so little fuss is 
+something I'm very happy to live with.
+ 

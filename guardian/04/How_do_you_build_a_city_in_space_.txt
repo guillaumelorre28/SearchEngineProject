@@ -1,0 +1,253 @@
+
+Science fiction <https://www.theguardian.com/books/science-fiction> has 
+delivered on many of its promises. Star Trek videophones have become Skype, the 
+Jetsons’ food-on-demand is materialising through 3-D printing, and we have done 
+Jules Verne one better and explored mid-ocean trenches at crushing depths. But 
+the central promise of golden age sci-fi has not yet been kept. Humans have not 
+colonised space.
+
+For a brief moment in the 1970s, the grandeur of the night sky felt 
+interactive. It seemed only decades away that more humans would live off the 
+Earth than on it; in fact, theSpace <https://www.theguardian.com/science/space> 
+Shuttle was so named because it was intended to make 50 round trips per year. 
+There were active plans for expanding civilisation into space, and any number 
+of serious designs for building entire cities on the moon, Mars and beyond.
+
+The space age proved to be a false dawn, of course. After a sobering 
+interlude, children who had sat rapt at the sight of the moon landings grew up, 
+and accepted that terraforming space – once briefly assumed to be easy – was 
+actually really, really hard. Intense cold war motivation flagged, and the 
+Challenger and Columbia disasters taught us humility.Nasa 
+<https://www.theguardian.com/science/nasa> budgets sagged from 5% of the US 
+federal budget to less than 0.5%. People even began to doubt that we'd ever set 
+foot on the moon: in a 2006 poll, more than one in four Americans between 18 
+and 25 said they suspected the moon landing was a hoax.
+
+But now a countercurrent has surfaced. The children of Apollo, educated and 
+entrepreneurial, are making real headway on some of the biggest difficulties. 
+Large-scale settlement, as opposed to drab old scientific exploration, is back 
+on the menu.
+
+
+Space cities come in three basic models. The classic one is to terraform a 
+nearby Earth-like object, by using massive geo-engineering projects or 
+bio-domes to create a lunar or Martian metropolis. The second is the low-Earth 
+orbit model: this expands upon the currently inhabited region of space. Think 
+of theInternational Space Station 
+<https://www.theguardian.com/science/international-space-station> as a 
+government fort, around which commercial trading posts, homesteads and finally 
+urban areas develop. Then there is the free space model, basically floating 
+cylinders with artificial gravity, surviving by digesting the natural resources 
+of outer space. As the saying goes in the space community: once you’re out of 
+Earth’s gravity well, you’re halfway to anywhere.
+
+In the 1970s, Princeton physicist Gerald K O’Neill envisioned 100,000-person 
+colonies, stationed at what is known as the fifth Lagrangian libration point 
+(L5) in the moon’s orbit – like a gravitational eddy where things stay put by 
+themselves. Encouraged by fellow physicists Freeman Dyson and Richard Feynman, 
+he posited a "planar cluster" housing four billion people across 30,000km of 
+space. “It is orthodox to believe that Earth is the only practical habitat for 
+Man,” he wrote inPhysics <https://www.theguardian.com/science/physics> Today in 
+1974, but we can “build new habitats far more comfortable, productive and 
+attractive than is most of Earth.” O’Neill called the classic model of 
+colonising planets proper a “mental hang-up”, and suggested it lacked 
+imagination for the possibilities of open space.
+
+ SpaceX employees watch the launch of its Falcon rocket and Dragon module 
+In O'Neill's vision, cable cars would connect communities spaced at 200km 
+intervals. Single-family spacecraft – the minivans of the sky – would act as 
+recreational vehicles. On the inner surface of what would be rotating habitats, 
+strips of land would alternate with windows to let in sunlight. That same sun 
+would provide all of our energy needs (a much bolder statement in the 70s than 
+it is now), while the moon would be mined for aluminum and titanium to use in 
+habitat construction.Asteroids <https://www.theguardian.com/science/asteroids>, 
+containing water and other material, could be towed along behind the city in 
+the vacuum. His idea to build such cities in the moon’s L5 orbital point 
+inspired the influential L5 Society, which aimed to realise his vision by 1995. 
+Their motto: L5 in ’95!
+
+O’Neill’s dream did not come to pass – not because it was inherently flawed, 
+but because it was an idea before its time. Spaceflight infrastructure was in 
+its infancy, and costs were prohibitive. We simply didn’t know enough of the 
+basics to jump straight into urban design.
+
+The central challenge to building a city in space is to create a closed system 
+that can sustain itself for the long haul. Urban areas on Earth survive only by 
+relying on a much larger footprint than their metropolitan boundaries. The more 
+isolated a space city is – the farther from external resupply resources – the 
+more closed its oxygen, food and water loops must be. The ISS, for example, has 
+about 40% efficiency in its oxygen recycling, and even so its ambient CO2 
+levels are perpetually high. (Nasa is working on how to convert that CO2 
+directly into oxygen.) As for food, any space-based urban plan would require 
+rolling out high-yield agriculture on an unprecedented scale – though3D 
+printers could, given some fresh ingredients, print a pizza 
+<http://www.3ders.org/articles/20131009-nasa-funded-3d-food-printer-displayed-at-sxsw-eco.html>
+.
+
+The other big problem for a space city is how humans would function 
+physiologically. The neighborhood gym would be a popular destination: though 
+the human species is ill-suited for some aspects of deep space, 14 years of 
+continuous presence on the ISS have advanced our understanding of how to adapt 
+physically for a lifetime among the stars. Early astronauts paid for this 
+knowledge the hard way, as it were, with their bone density. Today's ISS crew 
+train for 2.5 hours a day on a jury-rigged zero-gravity exercise contraption in 
+order to keep their bone density at normal levels. Still, with longer stays in 
+zero gravity, new problems seem to crop up. For example, your cerebrospinal 
+fluid – the clear liquid found in the brain and spine – drifts upward, where it 
+engorges your retina and flattens your eyeball. “I lost two diopters in my 
+eyes,” recalls former astronaut Michael López-Alegría, who spent 215 
+consecutive days on the ISS. “It’s also pretty easy to get something in your 
+eye up there. You just walk into something.”
+
+City walls would be required to shield space citizens from the brutal 
+radiation bombardment of deep space. “Aluminum shielding can actually be part 
+of the problem,” says Vince Michaud, Nasa’s deputy chief health and medical 
+officer. “Radiation that makes it through takes some of the aluminum with it.” 
+Nasa spends $28m every year in radiation research alone, including 
+pharmaceutical and nutriceutical countermeasures and magnetic shielding. Bill 
+Paloski, director of Nasa’s Space Life and Physical Sciences division, believes 
+that by 2024 his team will be able to mitigate the health risks of space.
+
+As for actually getting people to the space cities in the first place, it 
+won't be using rockets – basic physics doesn’t cooperate. Rather, space 
+elevators, or “beanstalks”, promise to close that gap. Vehicles would climb out 
+of the gravity well along a cable anchored to the equator and held under 
+tension by centrifugal force on a counterweight tens of thousands of kilometers 
+high. Until now, materials science hadn’t produced the kind of tensile strength 
+required for a space elevator cable – even carbon nanotubes are too weak by 
+themselves – but in 2010 the Nobel prize in physics was awarded for experiments 
+on graphene. A one-atom sheet of pure carbon that is 100 times stronger than 
+steel, graphene is a promising candidate for space elevator cable material.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBr0vqXJ39pg&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBr0vqXJ39pg>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBr0vqXJ39pg&media=>
+ Video: the Orphans of Apollo trailer 
+“We can colonise the moon, Mars … wherever people want, really,” SpaceX chief 
+executiveElon Musk <https://www.theguardian.com/technology/elon-musk> (of Tesla 
+Motors fame) told documentary-makers on the film Orphans of Apollo. “I think 
+Mars is the logical place to go.” Musk's company, specialists in space 
+transport, are one of the most serious around; none of this conversation would 
+be happening without SpaceX, and Musk is not alone in thinking of colonising 
+Mars first. But though it may be easier to generate excitement around the Red 
+Planet, insofar as the moon feels like an achievement already under our belts, 
+several characteristics make Mars harder to colonise.
+
+Martian gravity is three-eighths that of Earth, making landings more hazardous 
+than in the moon’s one-sixth gravity. On the Apollo missions, lunar dust got 
+everywhere – the crews inhaled it and got it in their eyes, and it wreaked 
+mechanical havoc – and onMars <https://www.theguardian.com/science/mars> the 
+dust is even more problematic, because it is highly oxidised, chemically 
+reactive, electrically charged and windblown. Mars’s chlorinated soils would be 
+toxic, for example, to the human thyroid gland.
+
+There was some early speculation that a space city could be buried under the 
+Martian surface to protect its inhabitants from radiation. Pamela Conrad, an 
+astrobiologist with Mars Science Laboratory, contends that we would be digging 
+from a rock into a hard place. “Trying to drill down to shield from ionising 
+radiation might be okay for bacteria, but materials in the core are radiating, 
+too,” she warns.
+
+A lunar city, on the other hand, has the advantage of being up to a thousand 
+times closer – practically next door – and as such could participate in Earth’s 
+economy to some extent. Possible anchor industries could include space tourism 
+and titanium mining, as well as pharmaceutical factories that require 
+microgravity.The moon <https://www.theguardian.com/science/moon> is also rich 
+in helium 3, which is rare on Earth and thought to be a potential fuel source 
+for future fusion reactors.
+
+And industry is very much at the top of the agenda. Today the biggest space 
+operation in the world is neither Nasa's nor that of the US defense department, 
+butDirecTV <http://www.directv.com/>, valued at more than $48bn. Low-Earth 
+orbit is quickly becoming the realm of the private sector – including the loose 
+agglomeration of companies known collectively as NewSpace, which have shaken 
+human spaceflight progress out of a sluggish period. Using the window created 
+by the withdrawal of public funds from space programmes, NewSpace has fostered 
+trust with government and increasingly enjoys the blessing of the US State 
+Department, which controls export permits for objects being launched into 
+orbit. Public sector clients like Nasa and the Air Force Space Command purchase 
+equipment and supplies, and depend on the ingenuity and dexterity of the 
+market. Indeed, Nasa has an $800m program to develop the commercial space 
+market. Costs have come down dramatically as a result.
+
+One figure in NewSpace taking advantage of this new flexibility is hotel 
+tycoon Robert Bigelow. In 2015, the owner of Budget Suites of America will use 
+a SpaceX rocket to send one of his inflatable space habitat modules up for 
+testing at the ISS. These ingenious blow-up houses are capable of operating 
+independently as space stations, and Bigelow wants to lease them as hotel 
+suites (no surprise there), laboratories or for whatever else you might want. 
+Nasa, having no current plans of their own for a moon mission, have given their 
+blessing to Bigelow to use similar inflatable modules to build a lunar base.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fmay%2F16%2Fhow-build-city-in-space-nasa-elon-musk-spacex%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F5%2F15%2F1400168923746%2Fd2ff30e9-bb7f-4b21-a65e-1088feb0319e-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20do%20you%20build%20a%20city%20in%20space%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fmay%2F16%2Fhow-build-city-in-space-nasa-elon-musk-spacex%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20do%20you%20build%20a%20city%20in%20space%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fmay%2F16%2Fhow-build-city-in-space-nasa-elon-musk-spacex%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F5%2F15%2F1400168923746%2Fd2ff30e9-bb7f-4b21-a65e-1088feb0319e-2060x1236.jpeg>
+ Inflatable space habitats made by Bigelow Aerospace, whose founder owns the 
+Budget Suites of America hotel chain. Photograph: Nasa/Bill Ingalls/Getty 
+If he doesn’t get there soon, the Chinese may beat him to it. Whereas Russia 
+has been integrated into the global space community fairly effectively since 
+the end of the cold war, China does not partner with the other big players. 
+Instead, it plays its own game: in December of last year, as part of the 
+country's 12th Five-Year Plan, China's lunar rover Chang’e 3 made the first 
+soft landing the moon has seen since 1976. China is somewhat secretive about 
+its space progress, but among its stated goals is to establish a crewed lunar 
+base.
+
+Rick Tumlinson is head of the asteroid mining company Deep Space Industries, 
+which aims to be the gas station, building-supply centre and the air-and-water 
+provider for space settlements. In the 1970s, a young Tumlinson worked at the 
+Princeton Space Studies Institute, where he came under the influence of Gerard 
+O’Neill and science fiction author Arthur C Clark (known to them as “Uncle 
+Arthur”). He even led the New York chapter of the L5 Society. Deep Space is 
+playing the long game out of a commitment he says he made in 1986 with several 
+NewSpace entrepreneurs. According to Tumlinson, they pledged their lives and 
+fortunes to “making the human breakout into space happen in our lifetimes”.
+
+Tumlinson was one of a group that leased the Mir Space Station commercially 
+from the Russian government for a few months in 1999. Calling it MirCorp, they 
+gave their venture a countercultural, tongue-in-cheek personality, and sent up 
+a Jolly Roger flag with the first commercial cosmonauts. Nasa and the State 
+Department were not amused. They placed heavy pressure on the Russians to 
+de-orbit Mir in order to focus on the ISS, then under construction. The current 
+crop of space entrepreneurs, like Musk and Amazon's Jeff Bezos, watched Mir’s 
+firey re-entry and breakup in 2001. They have learned from this and dedicate a 
+lot of effort toward diplomacy and government cooperation.
+
+Speaking at the Humans to Mars conference <http://h2m2014.exploremars.org/> in 
+Washington last month, Nasa chief Charles Bolden laid out a vision for bringing 
+the US space programme out of its first stage, exploration, and into 
+pioneering, even homesteading. “We are, right now, an Earth-reliant species,” 
+he said. “But only multi-planet species survive for a long period of time.” 
+Nasa plans to start with an asteroid capture and redirect by 2025, then pick up 
+skills in the proving ground near Earth before venturing to a destination a 
+thousand times farther than the moon. When humans get to Mars in the 2030s (the 
+much-mocked Mars One group 
+<https://www.theguardian.com/science/2014/jan/19/mars-one-project-human-colony> 
+aims for the rather optimistic goal of a proper human settlement by 2024, or 10 
+years from now), the implication is that we will be there to stay.
+
+
+If large-scale space settlement still sounds a little crazy, consider that 
+from the passing of the Space Settlement Act 1988 until its quiet demise in the 
+Paperwork Reduction Act of 1995, establishing extraterrestrial civilisation was 
+the official goal of the US in space. The Space Settlement and Development Act 
+of 2015, currently under draft, would promote economic development in space and 
+work to reverse current strictures against property ownership in space.
+
+Which brings us to what might be the biggest obstacle close to being hurdled: 
+who would move to a city on Mars? Well, lots of people claim to be interested, 
+signing up to Mars One's non-binding longlist of candidates to emigrate to the 
+Red Planet. But López-Alegría, the former ISS resident, says that while he 
+could imagine our space presence being scalable, he wouldn’t volunteer to live 
+permanently in a space city. “The experience of being in space is magnificent," 
+he says, "but only in the context of being an Earthling and knowing that you’re 
+coming back to Earth."
+
+• A cosy little house on Mars? Cities in space – in pictures 
+<https://www.theguardian.com/cities/gallery/2014/may/16/a-cosy-little-house-on-mars-cities-in-space-in-pictures>
+
+ 

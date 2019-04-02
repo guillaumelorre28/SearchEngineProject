@@ -1,0 +1,110 @@
+
+High-energy particle beams have multiple uses. In general, a controlled beam 
+of high-energy particles can be used to smash things up – for example tumours 
+or protons – or study them at high resolution, revealing the structure of 
+molecules and materials, or indeed new fundamental physics such as the Higgs 
+boson.
+
+The challenges involved in producing a useful beam are various, and depend on 
+the type of particle and what you want to use the beam for. One common 
+limitation is the size and cost of the machine, and another is the steepness of 
+the accelerating voltage gradient.
+
+The physics of proton therapy | Jon Butterworth | Life & Physics
+ Read more  
+<https://www.theguardian.com/science/life-and-physics/2014/aug/31/ashya-king-physics-of-proton-therapy>
+The accelerating voltage in a standard battery is 12 Volts. Mains power could 
+get you 240 V. But many applications require millions or even billions of times 
+this. The Large Hadron Collider (LHC), at the current frontier of high-energy 
+physics, accelerates particles to 13TeV 
+<https://lifeandphysics.wordpress.com/about/smashing-physics/3283-2/>, more 
+than a million million times the energy that can be reached using the batteries 
+hopefully included in your Christmas presents.
+
+The voltage gradient is a measure of how much voltage can be applied over a 
+certain distance. For many accelerators¹ this is what determines the size. Can 
+you get from zero to a billion in a few centimetres, metres, or kilometres?
+
+Over the last few years, several experiments have shown that very high 
+gradients can be produced in plasmas. A plasma is a gaseous mixture of 
+positively and negatively charged particles, usually produced at high 
+temperatures. Old neon lamps contain plasma.
+
+In normal circumstances, the positively and negatively charged particles in a 
+plasma are evenly distributed. But firing a laser, or a beam of particles, into 
+a plasma, disrupts this, producing regions in the plasma of strong net positive 
+charge, and others of strong negative charge. The gradients produced between 
+these regions, in the wake of the beam, can be fantastically strong, and can be 
+used to accelerate particles.
+
+Why is the LHC tunnel so big? | Jon Butterworth | Life & Physics
+ Read more  
+<https://www.theguardian.com/science/life-and-physics/2012/jun/08/why-is-lhc-big>
+Such acceleration has already been demonstrated using lasers and electron 
+beams injected into plasma, and these offer the possibility of accelerators for 
+medical and other applications that are much smaller and cheaper than any 
+currently available. The goal of the Advanced Wakefield Experiment (AWAKE 
+<http://awake.web.cern.ch/awake/Default.htm>) at CERN² is to demonstrate plasma 
+wakefield acceleration using a proton beam.
+
+Proton beams are available at higher energies than lasers or electrons, and 
+the most energetic are at CERN. AWAKE is using protons from the Super Proton 
+Synchrotron (SPS), the final booster stage in the CERN accelerator complex 
+before the LHC (see diagram).
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2Flife-and-physics%2F2017%2Fjan%2F08%2Fa-new-cern-experiment-targets-even-higher-energies-eventually%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F918e3dddebf3d371bac797d5efe435fec330bc9d%2F0_0_1698_1244%2F1698.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=A%20new%20CERN%20experiment%20targets%20even%20higher%20energies%20(eventually)&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2Flife-and-physics%2F2017%2Fjan%2F08%2Fa-new-cern-experiment-targets-even-higher-energies-eventually%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=A%20new%20CERN%20experiment%20targets%20even%20higher%20energies%20%28eventually%29&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2Flife-and-physics%2F2017%2Fjan%2F08%2Fa-new-cern-experiment-targets-even-higher-energies-eventually%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F918e3dddebf3d371bac797d5efe435fec330bc9d%2F0_0_1698_1244%2F1698.jpg>
+ The CERN accelerator complex, showing the beamline for the AWAKE experiment 
+(red). Photograph: CERN 
+The eventual aim of AWAKE is to demonstrate the feasibility of using such a 
+high-energy proton beam in a plasma to accelerate an electron beam to higher 
+energies than ever before.
+
+It is possible you have heard of AWAKE because when beams first entered the 
+experiment in June last year, there were some wild headlines in news outlets 
+(such as the Express and The Sun), along the lines of CERN opening ‘portals’. 
+The spurious excitement seems to have been caused by somepictures of a 
+thunderstorm 
+<http://www.snopes.com/clouds-over-geneva-show-cern-opening-a-portal-to-a-new-dimension/>
+. Thunderstorms arereally, really rare 
+<https://dbffkv15yp72v.cloudfront.net/production/reports/year/000/032/402/df583f40/probability_of_precipitation_at_some_point_in_the_day_percent_pct.png>
+ around the mountains of central Europe, and a particle physics experiment 
+passing a milestone on schedule is even more unusual, so you can see how the 
+journalists involved could have got confused.
+
+Anyway, that was an important step forward, and at the end of LHC running in 
+2016, another major step was taken. The experiment for the first time measured 
+the fact that the shape of the proton beam was being modulated, or shaped, by 
+the plasma. This is a sign that indeed the desired very high gradient electric 
+fields are being produced in the plasma – the first time this has been seen for 
+a proton beam.
+
+There is some more information, and a nice 360-degree view of the experiment, 
+inthis CERN news article <http://awake.web.cern.ch/awake/Default.htm>. There is 
+a long way to go, but 2016 was a good year for protons at CERN, and not just in 
+the LHC.
+
+
+ * This article was amended on 9 January 2017 to remove a reference to certain 
+newspapers as fake news outlets.
+
+¹Though not, in fact, for the LHC 
+<https://www.theguardian.com/science/life-and-physics/2012/jun/08/why-is-lhc-big>
+.
+
+² Which is in Geneva, not Yorkshire <https://en.wikipedia.org/wiki/Wakefield>.
+
+Declaration of interest, UCL is a member of AWAKE 
+<https://www.hep.ucl.ac.uk/awake/>, though I personally am not.
+
+Weather link above from WeatherSpark 
+<https://weatherspark.com/averages/32402/Geneva-Switzerland>.
+
+J <https://twitter.com/jonmbutterworth>on Butterworth 
+<https://twitter.com/jonmbutterworth>’s book Smashing Physics 
+<https://www.theguardian.com/books/2014/may/02/smashing-physics-jon-butterworth-review-cern-higgs-boson-particle>
+is available as “Most Wanted Particle” in Canada & the US.
+ 

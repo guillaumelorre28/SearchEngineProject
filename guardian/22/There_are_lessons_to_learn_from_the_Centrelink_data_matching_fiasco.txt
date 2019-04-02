@@ -1,0 +1,166 @@
+
+The commonwealth ombudsman has launched an investigation 
+<https://www.theguardian.com/australia-news/2017/jan/09/ombudsman-launches-investigation-into-centrelink-debt-recovery-crisis>
+ into Centrelink’s automated debt-recovery system. The issue had been referred 
+afternumerous complaints 
+<https://www.theguardian.com/australia-news/2016/dec/29/government-confident-in-centrelink-debt-compliance-system-despite-reported-errors>
+ that the system, which matches income data reported to Centrelink with that 
+held by the Australian Tax Office, was issuing incorrect debt notices to 
+welfare recipients.
+
+The tax and social security systems can be seen as two sides of the same 
+process –income support payments 
+<https://www.humanservices.gov.au/customer/enablers/income-support-payment-description>
+ are a safety net funded through taxation. Both systems depend on an assessment 
+of the financial resources of the “client”, whether a taxpayer or a recipient 
+of a payment.
+
+Centrelink crisis: people targeted with inaccurate debts may be able to sue
+ Read more  
+<https://www.theguardian.com/australia-news/2017/jan/10/centrelink-crisis-people-targeted-with-inaccurate-debts-may-be-able-to-sue>
+Data matching between the two systems could seem a logical step to 
+policymakers and data analysts charged with reducing the budget deficit. But 
+there are several important differences between the tax and social security 
+systems. These include the principles and intentions underlying the two 
+systems, and differences in the data captured.
+
+The ability to pay
+
+The most important difference is to recognise the fundamental purpose of each 
+system, by revisiting the principle ofvertical equity 
+<http://www.austlii.edu.au/au/journals/JlATaxTA/2010/5.html>, that people 
+earning more should pay more tax.
+
+Our taxation system is built on this “ability to pay” principle. People who 
+report higher levels of taxable income pay progressively higher rates of 
+personal income tax (although this is eroded by the availability of tax 
+concessions includingnegative gearing 
+<https://theconversation.com/the-way-australia-taxes-housing-is-manifestly-unfair-58421>
+ andcapital gains tax discounts 
+<https://theconversation.com/is-it-time-for-australia-to-tackle-its-warren-buffett-style-tax-anomalies-10886>
+).
+
+In contrast, the purpose of income-support payments is to assist people in 
+need at the time when they most need support. The means testing applied in 
+Australiavery effectively targets welfare spending 
+<https://theconversation.com/who-really-benefits-from-australias-tax-and-social-security-system-48808>
+ to those with limited financial resources; to the extent that evenbusiness 
+organisations have called for increases 
+<http://www.bca.com.au/publications/submission-to-the-senate-inquiry-into-the-adequacy-of-the-allowance-payment-system-for-jobseekers-and-others>
+ as the current rate of payment is inadequate and presents a barrier to 
+employment.
+
+Timing and reconciliation
+
+The timing of income-support payments is critical for recipients. This is a 
+consequence of the different purpose of the payments. Income-support recipients 
+have, by definition, exhausted their financial reserves, so payments must be 
+assessed and paid on a timely basis to meet basic expenses.
+
+In contrast, although tax payable is estimated periodically 
+<https://www.ato.gov.au/General/PAYG-instalments/> under a “pay as you go” 
+(PAYG) system 
+<https://www.ato.gov.au/individuals/working/in-detail/payg-withholding/how-much-tax-should-be-taken-from-my-pay-/>
+, tax is assessed annually on a final taxable income figure. The amount owed is 
+reconciled against what has already been paid.
+
+The reporting systems implemented by Centrelink do require periodic income 
+reporting <https://www.humanservices.gov.au/customer/enablers/income-reporting>
+, but each payment is assessed and paid fortnightly with no annual 
+reconciliation. To do so would be inconsistent with the underlying principle 
+that income support is a safety net.
+
+Clearly, where a person is in casual work or is unemployed for only part of 
+the year, fortnightly income will not be consistent over the year. Data 
+matching also relies on employers providing accurate employment dates on 
+employment summaries. This is a technicality that does not have significant 
+consequences when calculating taxable income but could deny income-support 
+payments to a claimant.
+
+All of this needs to be taken into account when writing the algorithms that 
+attempt to match the income reported under the two systems.
+
+Calculation and policy differences
+
+Centrelink’s algorithms are based on the data the ATO holds in relation to 
+income, but the calculation of income-support payments is more nuanced. The 
+different roles played by the income and transfer systems cause them to record 
+and highlight different things.
+
+The principle of horizontal equity 
+<http://www.austlii.edu.au/au/journals/JlATaxTA/2010/5.html> requires that the 
+tax and social security systems take into account individual circumstances. 
+Notably, the income tax system is based on the income earned by the individual, 
+after adjustment for work-related and other expenses. Meanwhile, the social 
+security system must also recognisefamily circumstances 
+<http://www.austlii.edu.au/au/journals/eJlTaxR/2014/10.html>, through parenting 
+supplements and family tax benefits.
+
+As a result, revenue authorities are more concerned with transactions that may 
+give rise to a tax liability, while welfare authorities also need information 
+about the claimant’s circumstances to verify entitlements to benefits.
+
+Automated systems
+
+The ATO has used automated systems effectively 
+<https://www.ato.gov.au/General/Building-confidence/In-detail/Data-matching/> 
+to alert taxpayers to discrepancies in data received by the ATO against what 
+has been returned in income tax returns. Where a discrepancy is identified, 
+taxpayers are given an opportunity to dispute the information prior to the 
+issue of a notice of assessment.
+
+The issue of a notice of assessment is an important procedural step as it 
+crystallises the debt and the formal right to object against the assessment.
+
+In contrast, when Centrelink alleges that an overpayment has been made, the 
+client is issued with a debt notice. Although this can be challenged, the 
+process is far more intimidating – particularly if the recipient does not have 
+an intermediary or agent acting on their behalf to assist in resolving the 
+issue. Many recipients are turning towelfare rights organisations 
+<http://www.smh.com.au/federal-politics/political-news/what-should-you-do-if-you-get-a-centrelink-debt-letter-20170104-gtlmgl.html>
+ ormembers of parliament 
+<http://andrewwilkie.org/centrelink-debt-nightmare-continues/> for help.
+
+It is worth noting that the Australian Taxation Office has been adopting a 
+light touch 
+<https://www.ato.gov.au/Media-centre/Speeches/Other/Tax-administration-transformation--Reinventing-the-ATO/>
+ in dealing with tax debts. It is engaging with taxpayers earlier to resolve 
+issues and make it easier to comply with their obligations. Centrelink could 
+learn from this approach.
+
+Learning from our mistakes
+
+The problems inherent in using taxable income to determine periodic social 
+security payments were demonstrated following the introduction of the Family 
+Tax Benefit. In its original form, parents received fortnightly payments based 
+on an estimate of annual income. At the end of the first year, coincidentally 
+in the middle of the 2001 election campaign, income estimates were matched 
+against reported taxable income. Over500,000 clients 
+<http://www.ombudsman.gov.au/__data/assets/pdf_file/0012/26202/investigation_2003_04.pdf>
+ were asked to refund overpayments.
+
+The 2004 commonwealth ombudsman’s report 
+<http://www.ombudsman.gov.au/__data/assets/pdf_file/0012/26202/investigation_2003_04.pdf>
+ highlighted the problems in estimating income where earnings are not regular 
+and ongoing. This resulted in a redesign of Family Tax benefits and was the 
+original reason for the introduction of the annual FTB Supplement. Although 
+technology has improved since 2001, it illustrates the dangers of matching data 
+from two different systems.
+
+One of the benefits of living in Australia is that we have an income safety 
+net for those in most need. This social contract imposes an obligation on 
+recipients to accurately report income and assets to qualify for support; the 
+vast majority of income support recipients comply to the best of their ability.
+
+A properly designed income-matching system can help to identify anomalies, but 
+the information needs to be appropriate and fit for purpose. The current 
+exercise is using information in a way that it was not designed to be applied, 
+without properly adjusting for the technical and policy differences between the 
+tax and social security system. At the very least,Centrelink 
+<https://www.theguardian.com/australia-news/centrelink> could learn from the 
+ATO regarding how to engage with the client before issuing debt notices.
+
+• Helen Hodgson <https://theconversation.com/profiles/helen-hodgson-94553> is 
+an associate professor at Curtin law school and Curtin business school, Curtin 
+University
+ 

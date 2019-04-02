@@ -1,0 +1,250 @@
+
+Imagine life without ownership. You own nothing. You rent everything. You do 
+this because it’s cheaper: you pay pennies or fractions of pennies per day to 
+have a bed to sleep in, or a winter coat to keep you warm. You scale up or down 
+as needed: maybe your partner moves in, so you swap your single bed for a 
+queen, or winter ends, so you return your coat. You are always optimizing. You 
+pay for precisely what you use, when you use it – and nothing more.
+
+This is the consummate “sharing economy”, and it might be closer than you 
+think.
+
+By now, the sharing economy is nearly a decade old. The term first surfaced 
+sometime after 2007, the year that brought us both the iPhone andthe Great 
+Recession 
+<https://www.theguardian.com/business/2016/oct/11/great-recession-recovery-stories>
+. The iPhone helped put the internet and GPS in people’s pockets. The Great 
+Recession helped make them desperate and broke. These two developments 
+dovetailed to sow the seeds of the sharing economy: consumers were looking for 
+new ways to save, workers were looking for new ways to earn, and smartphones 
+gave them both new ways to transact.
+
+These days, however, the sharing economy feels a bit past its prime. After an 
+initial wave of investor enthusiasm, a few “sharing” startups such as Uber and 
+Airbnb have hit it big, but many more have fallen flat. It turns out, people 
+are happy to pay for rooms or rides but are less thrilled about renting 
+PlayStations or power tools. “The ‘Sharing Economy’ is Dead,” Fast Company
+declared 
+<https://www.fastcompany.com/3050775/the-sharing-economy-is-dead-and-we-killed-it>
+ last year, summarizing a general sense of fatigue with what now feels like a 
+wildly oversold idea.
+
+But what if the postmortems are premature? New paradigms usually don’t arrive 
+all at once, but by fits and starts. The first phase of the sharing economy 
+might have fizzled out, but new technologies may soon resurrect it in a far 
+more radical form. And if they do, the result won’t just be a new app for 
+renting power tools. It’ll be the biggest revolution in property ownership 
+since the birth of capitalism.
+
+The sharing economy: a whole new way of living
+ Read more  
+<https://www.theguardian.com/technology/2013/aug/04/internet-technology-fon-taskrabbit-blablacar>
+Smart contracts
+
+One of capitalism’s core requirements is a stable property regime. Capitalism 
+needs a reliable, enforceable record of who owns what. This means everything 
+that is owned has several layers of lawyers, legislators, judges and police 
+standing behind it. I own a piece of land, you trespass, I call the police. If 
+necessary, we go to court.
+
+The system works, but it’s slow. If you own real estate in the United States, 
+it’s typically recorded by a county records office. If you own a car, it’s 
+typically recorded by a state agency. As you might expect, these institutions 
+involve a lot of paperwork and labor. And that’s just to record the fact that 
+you own something. Actually enforcing ownership requires even greater 
+quantities of paperwork and labor, from the sheriff who carries out the 
+eviction notice to the repo man who tows away your car because you’re late on 
+your payments.
+
+The high fixed costs of the traditional property regime presents the sharing 
+economy with certain challenges. Let’s say instead of buying a house, you want 
+to buy the right to use a house for a night. Or instead of buying a car, you 
+want to buy the right to use a car for an hour. The official system isn’t set 
+up for that. So sharing companies end up keeping that information themselves: a 
+database atAirbnb <https://www.theguardian.com/technology/airbnb> or Zipcar 
+holds the record of your rental instead of the government. But these databases 
+require plenty of labor of their own to build and maintain, and they don’t 
+scale easily to a wider range of assets. Any attempt to expand the sharing 
+economy runs up against the same problem: how do you record and enforce who 
+owns what when the thing being owned is so granular and fast-moving?
+
+“A blockchain is very precisely designed to solve that problem,” Steve Randy 
+Waldman tells me. A programmer, blockchain expert and widely known economics
+blogger <http://www.interfluidity.com/>, Waldman is the rare technical 
+specialist who is used to talking to a non-technical crowd. He knows that 
+blockchain is one of those words that confuse and intimidate people, so he 
+explains it as simply as he can. “It’s a different way of keeping track of a 
+normative set of information,” he says. Instead of storing the information in 
+one central location – the county records office, say, or Airbnb’s database – 
+blockchain makes multiple copies and distributes them across all the nodes of a 
+network.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F17%2Fsharing-economy-capitalism-uber-airbnb-ownership%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe939cf12cc6c4d8a2d866b3888ffe69b3a67358c%2F0_323_4928_2957%2F4928.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20future%3A%20where%20borrowing%20is%20the%20norm%20and%20ownership%20is%20luxury&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F17%2Fsharing-economy-capitalism-uber-airbnb-ownership%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20future%3A%20where%20borrowing%20is%20the%20norm%20and%20ownership%20is%20luxury&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F17%2Fsharing-economy-capitalism-uber-airbnb-ownership%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe939cf12cc6c4d8a2d866b3888ffe69b3a67358c%2F0_323_4928_2957%2F4928.jpg>
+ A few ‘sharing’ startups such as Airbnb have hit it big. Photograph: Martin 
+Bureau/AFP/Getty Images 
+These nodes don’t have to be people. They can be things. This is what makes 
+blockchain such a potentially powerful accelerant of the sharing economy: it 
+gives property the ability to know who its owner is. Anything with an internet 
+connection can hook up to a blockchain, which means anything with an internet 
+connection can have a perfect record of who owns what. To return to our home 
+rental, what if the front door knew that you had paid for the place for one 
+night and only opened for you during that interval?
+
+This happens to be the business model of a German startup called Slock.it, 
+which builds “smart locks” that run on an advanced blockchain called Ethereum. 
+In their demos, they present the following scenario. The homeowner posts a 
+price for the rental. The renter sends the money through her smartphone. Inside 
+the front door is a very small computer connected to the internet. The computer 
+knows when the renter is allowed to enter and unlocks the door for her when she 
+pushes a button on her phone.
+
+The mechanism that makes this work is something called a “smart contract”. A 
+smart contract is simply a computer program that performs certain actions when 
+the right conditions are met. Think of it as a series of if-then statements. If 
+the renter pays up, the door opens. If the rental ends, the door locks.
+
+What’s extraordinary about a smart contract is that it gives blockchain the 
+power to not only record property rights but enforce them. Once deployed, a 
+dozen lines of computer code can fulfill the same role as the county records 
+office, the courts and the police. You can have “the function of a trusted 
+bureaucracy without the expense of putting together a trusted bureaucracy”, 
+Waldman explains. You can also cut out the middleman who extracts a fee for 
+coordinating the transaction: theoretically, your home rental could now involve 
+only the homeowner and the renter, bypassing Airbnb.
+
+The uber-loneliness of the sharing economy driver
+ Read more  
+<https://www.theguardian.com/technology/2016/feb/04/uber-protest-app-zello-sharing-economy>
+By automating away these expenses, smart contracts make a lot more goods 
+“shareable”. Humans have always been the sharing economy’s weakest link. The 
+more they’re involved, the higher the cost of each transaction. By getting rid 
+of them, smart contracts make it extremely cheap to create and enforce 
+agreements. The result is that it suddenly becomes practical to sell access to 
+virtually anything.
+
+In a talk late last year, one of Slock.it’s co-founders offered 
+<https://www.youtube.com/watch?v=49wHQoJxYPo> a few examples. Let’s say you 
+want to rent out your washing machine to the other people in your building. You 
+could link it to a “smart” power switch, which would activate the machine for 
+however many minutes a user purchases. Or you could use the same kind of switch 
+to create an impromptu charging station for electric cars: drivers would pull 
+up, plug into an outlet and buy your electricity.
+
+These examples only scrape the surface of what’s possible, however. In a world 
+where property is networked and programmable, and ultra-fast micro-payments can 
+happen automatically, and software records and enforces who owns what, the pool 
+of possible transactions is potentially infinite. If the premise of the current 
+sharing economy is that you can turn your car into a taxi or your house into a 
+hotel, the premise of the next sharing economy is that you can turn any idle 
+asset into a productive piece of capital. All you have to do is set your price, 
+and the robots will take care of the rest. What could possibly go wrong?
+
+Unbundling ownership
+
+Almost 50 years ago, Philip K Dick foresaw a future filled with things that 
+charge you for using them. The protagonist of his 1969 novel Ubik lives in a 
+crummy apartment where everything is coin-operated – the coffee machine, the 
+fridge, even the front door. One running punchline is that he’s always too 
+broke to come up with the nickel he needs to open the door and leave his 
+apartment. At one point he even gets into an argument with the door, which 
+tells him that the five-cent fee is part of the contract he signed when he 
+bought the place. When he starts unscrewing the bolt, the door threatens to sue 
+him.
+
+Dick’s scenario is funny, frightening and may someday cease to be science 
+fiction. It’s easy to imagine how today’s experiments with blockchain and 
+internet-enabled devices might lead to a world where borrowing is the norm and 
+ownership is a luxury. The sharing economy’s advocates like to talk about 
+efficiency: why own a car, for instance, when the average American automobile 
+getsused 
+<http://www.bloomberg.com/graphics/2016-merging-tech-and-cars/?utm_content=business&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social&cmpid%253D=socialflow-twitter-business>
+ only 4% of the time? But the sharing economy’s future profits aren’t likely to 
+flow merely from the things we rarely use – they’ll come from the things we use 
+all the time. And it seems probable that most us won’t be renting those 
+essential items simply because we’re trying to be efficient. Like Dick’s 
+protagonist, we’ll be renting them because we’re too poor to own them.
+
+When I put the question to Waldman, he gives me the economist’s view. “From a 
+financial perspective, the way to think about ownership as opposed to renting 
+is that if you own something, you’re pre-purchasing the future services and 
+therefore hedging the future risk of not having the use of those services,” he 
+says. When you own a door, for instance, “you’re pre-purchasing the continual 
+right to open it”.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F17%2Fsharing-economy-capitalism-uber-airbnb-ownership%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F267a19e63317554fbcb4c0c7f5008529d87d7801%2F0_97_2470_3765%2F2470.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20future%3A%20where%20borrowing%20is%20the%20norm%20and%20ownership%20is%20luxury&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F17%2Fsharing-economy-capitalism-uber-airbnb-ownership%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20future%3A%20where%20borrowing%20is%20the%20norm%20and%20ownership%20is%20luxury&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F17%2Fsharing-economy-capitalism-uber-airbnb-ownership%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F267a19e63317554fbcb4c0c7f5008529d87d7801%2F0_97_2470_3765%2F2470.jpg>
+ Imagine having to pay every time you want to open your front door. Photograph: 
+Alamy 
+Most of us don’t think about it that way, of course. But we might have to, if 
+the sharing economy succeeds in unbundling ownership into a stream of services 
+that we purchase a minute or a millisecond at a time. “That should be all gravy 
+in a world of informed optimizers,” Waldman adds. “But we obviously don’t live 
+in a world of informed optimizers.”
+
+Dystopian or not, this future probably won’t arrive right away. Everyone I 
+spoke to, whether an entrepreneur or an academic or an engineer, cautioned 
+against expecting too much too soon. “It’s the Precambrian age,” Stephan Tual, 
+a co-founder of Slock.it, told me. “The fish don’t have legs yet.”
+
+Neha Narula, the research director of the MIT Media Lab’s Digital Currency 
+Initiative, agrees. “This technology is still in its infancy,” she said. “We’re 
+still in the early days.”
+
+Currently, the biggest growing pain is security. In June, a hacker exploited a 
+vulnerability in the Ethereum blockchain tosteal 
+<https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/> $50m 
+worth of digital money from an investment fund set up by Slock.it. Before the 
+technology can go mainstream, these are the kind of rough edges that need to 
+get smoothed out.
+
+Big business is watching closely. Last year, the world’s largest financial 
+institutions came together to form a consortium called R3 devoted to blockchain 
+research and development. If the prospect of gigantic banks joining forces to 
+engineer a powerful new financial weapon fails to unleash your inner Dickian 
+paranoiac, consider this: at least one of R3’s members, Toyota Financial 
+Services, has beenexperimenting 
+<http://www.bloomberg.com/news/articles/2016-08-25/this-is-your-company-on-blockchain>
+ with a way to use blockchain to punish people who fall behind on their car 
+payments. If you miss an installment, a smart contract kicks in and your car 
+won’t start. No pleading conversations with your lender, no fist-fights with 
+the repo man. Just code, quietly killing your engine.
+
+Waldman shares my queasiness about the Toyota project – “a shitty 
+arrangement”, he calls it – but warns against technological determinism. Unlike 
+many blockchain enthusiasts, who are prone to a soldierly faith in the 
+righteousness of their cause, he accepts the possibility of non-utopian 
+outcomes – but stresses that there is nothing inevitable about them. “The 
+optimistic case is possible, too,” he explains, “and probably worth checking 
+out.”
+
+Here is the optimistic case: blockchain could help democratize the sharing 
+economy by making it cheaper to create and operate a platform. In a 
+blockchained world, many of the things that a company such as Uber does to 
+coordinate a transaction could be performed by self-executing smart contracts; 
+others could be performed at lower cost by a variety of small competing 
+providers. This might make it easier for workers to form cooperatives that have 
+the capacity to compete against the VC-backed behemoths that dominate the 
+sharing economy. Then you might get something resembling the “socialized Uber”
+proposed <https://www.thenation.com/article/socialize-uber/> by economist Mike 
+Konczal: a viable worker-owned alternative, run for the benefit of the people 
+who actually perform the work and not for a handful of rich investors.
+
+A cooperative commonwealth or a hypercapitalist nightmare of extortionary 
+smart property: we might get one or the other, or even a bit of both. What 
+seems clear is that the next phase of the sharing economy is just as likely to 
+magnify today’s inequalities as to alleviate them. As always, technologies can 
+be put to a range of purposes: a hammer might be a murder weapon or a home 
+improvement tool depending on who is holding it. Whether we get our head bashed 
+in or a slightly better place to live won’t be a technical question but, as 
+always, a political one.
+
+•An earlier version of this story misspelled the name of economist Mike 
+Konczal. This version has been corrected
+ 

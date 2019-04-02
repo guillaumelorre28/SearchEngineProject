@@ -1,0 +1,113 @@
+
+With its vast world, intricate plotting and bustling menagerie of weird, 
+wonderful characters, the latest title in BioWare’s Dragon Age series has 
+proved a critical hit since its release in November.
+
+But how did Inquisition come about? What were the key aims of the team, and 
+how such a massive role-playing adventure like this planned and executed?
+
+
+In an exclusive interview, we speak to creative director Mike Laidlaw about 
+the development process behind one of this year’s most ambitious titles.
+
+How long was Dragon Age: Inquisition in development?
+Production has been about three years, but taking in early concepting, it 
+would be four years. As our studio general manager Aaryn Flynn kindly pointed 
+out, that’s about 10% of my life.
+
+How do you feel now it’s out?
+There’s definitely a bit of exhaustion because when you’re finishing a game 
+you go into overdrive: you’re finding those last bugs, playing the game over 
+and over, and prioritising what gets fixed first.
+
+
+But there’s also a sense of pride. We’ve hauled the game into an entirely new 
+engine and one that is compatible with this generation of hardware. The engine 
+is much more capable than Eclipse, but it required us to retool all of the 
+content we’d been building up and give it a next-gen approach.
+
+
+It was a monumental challenge supporting five platforms, but the team is proud 
+of what we’ve accomplished and I’m incredibly proud of the team. This was not 
+an easy road, but it has proved very satisfying.
+
+
+With its open-world structure and redeveloped combat system, how much is the 
+game a response to the criticisms levelled at Dragon Age II?
+When Dragon Age II shipped, we did what was always do: internal post-mortems 
+and looking at all the reviews. The production team have a massive Excel sheet 
+listing the pros and cons, and we look for trends. You rarely go: “This one 
+person didn’t like this thing, we should change everything!” That would be 
+irresponsible. But you realise you used that cave a bunch of times and it was 
+inappropriate. Fair call.
+
+
+You also sit down as a team and decide where your focus should be. We know the 
+party is critical, we’re seeing that backed up by reviews, so let’s bring back 
+full armour customisation but still keep some degree of individualism for the 
+party members; finding that balance is important. Tackle feedback but don’t let 
+it dictate what you should do, let it dictate what you should discuss.
+
+
+How tricky is it to develop a game simultaneously for PC and a bunch of 
+consoles at the same time?
+From the very beginning we were aware we’d be targeting from the 360 and PS3 
+all the way up to the highest modernPC 
+<https://www.theguardian.com/technology/pc>. 
+
+
+When you know that up front it’s a challenge, but a challenge with clearly 
+defined boundaries. If the older hardware says you can’t have 100 guys on 
+screen, you don’t design your combat fundamentally around it being 100 guy 
+fights. Whatever the limitations are on memory or processor, you lock them down 
+and ask how we make an incredibly cool experience within those constraints.
+
+
+All design is at its best when there are constraints applied, be it manpower, 
+time, or specific hardware. These things inspire a degree of creativity.
+
+
+The game’s opening drops you into a high pressure situation with a lot going 
+on: returning factions, characters, and a whole world of established lore, 
+together with a big hole in the sky. How do you strike a balance between making 
+the game accessible for newcomers and still making it satisfying for fans?
+Openings are a very specific kind of gameplay. They have to hook you, teach 
+you how to play and welcome you. So rather than take a stately pace that would 
+introduce the world to newcomers – which would be alienating to folks who were 
+returning – we went with a problem that has to be solved, which is priority one 
+for the level and everybody you talk to. It’s all leading to that breach in the 
+sky.
+
+
+Then we open up the game up as quickly as possible and say it’s all on you 
+player. If you want to engage with the lore then talk to Leliana and ask her if 
+she used to know the warden from the first game; she’ll check if she did from 
+Dragon Age Keep and respond accordingly. This lets you dig into things at your 
+own pace instead of people firing it at you. Players who want to keep fighting 
+demons or see the world can do so, before coming back and exploring the lore 
+later.
+Our opening can be disorientating and targeted in its purpose, but you 
+understand the immediate danger and once you’ve completed it the game becomes a 
+sandbox.
+
+
+Isn’t it frustrating though that you have so many lines of dialogue that will 
+never be heard by 90% of the people playing? 
+In today’s world you have to look at the game as an ecosystem. That many 
+people not playing still means tens of thousands are hearing those lines. Not 
+bad. Also, for the water cooler experience of “I didn’t understand what was 
+going on with the mages”, you need to make sure the game at least has that 
+information there, so their friend can say “well I get it because I go through 
+every line of dialogue and I can give you the summary”. Players who want to go 
+digging, read the codex, talk to mages and get their take on things; it’s all 
+there if they want it.
+
+
+I look at games as an increasingly social experience where it’s okay if people 
+don’t understand 100% of what’s going on. There’s a joy in sharing that 
+experience with your friends and social circles.
+
+Part two to follow next week.
+
+ * Dragon Age: Inquisition review – a truly monumental game  
+<https://www.theguardian.com/technology/2014/nov/14/dragon-age-inquisition-review> 

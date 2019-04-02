@@ -1,0 +1,118 @@
+
+IUDs, implants, condoms and the ever-present pill: for years, contraceptive 
+methods have remained run-of-the-mill while the search for a new alternative 
+that could revolutionise the industry has come up short. Recent headlines have 
+focused on the negative aspects of traditional hormonal birth control:the pill 
+causes depression 
+<https://www.theguardian.com/society/2016/sep/28/women-taking-contraceptive-pill-more-likely-to-be-treated-for-depression-study-finds>
+ andgender mutation in freshwater fish 
+<https://www.theguardian.com/environment/2012/jun/02/water-system-toxic-contraceptive-pill>
+, while a clinical trial for amale contraceptive jab 
+<https://www.theguardian.com/society/2016/oct/27/male-contraceptive-jab-as-effective-as-female-pill-trial-shows>
+ was abandoned when the subjects began suffering side-effects already 
+well-known to women.
+
+But 50 years since it first became available, the pill remains the default 
+option, and women still shoulder the responsibility for preventing pregnancies. 
+Could software be the solution?Elina Berglund Scherwitzl 
+<https://www.linkedin.com/in/elina-berglund-scherwitzl-43b68331>, founder and 
+chief technical officer ofmobile fertility app Natural Cycles 
+<https://www.naturalcycles.com/en/> thinks so.
+
+Using a sensitive thermometer and sophisticated mathematics, Natural Cycles is 
+an old-fashioned period tracker, with extra features. The app, which launched 
+in 2014, asks users to take their temperatures in the morning, preferably 
+before getting out of bed, then input that into the app, which tells them where 
+they are in their menstrual cycle. Days when a woman can get pregnant become 
+red; “safe” days are green. So far, so low-tech. What makes Natural Cycles 
+unique, though, is the algorithm developed by Berglund.
+
+The 32-year-old from Malmö in Sweden holds a PhD in particle physics and was a 
+member of the team that discovered theHiggs boson at Cern 
+<https://www.theguardian.com/science/higgs-boson>, before developing her 
+life-changing formula.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2016%2Fnov%2F07%2Fnatural-cycles-fertility-app-algorithm-replace-pill-contraception%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F7bb3822204295bf30654705386446105b713924a%2F0_173_5184_3110%2F5184.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Could%20an%20algorithm%20replace%20the%20pill%3F&url=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2016%2Fnov%2F07%2Fnatural-cycles-fertility-app-algorithm-replace-pill-contraception%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Could%20an%20algorithm%20replace%20the%20pill%3F&url=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2016%2Fnov%2F07%2Fnatural-cycles-fertility-app-algorithm-replace-pill-contraception%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F7bb3822204295bf30654705386446105b713924a%2F0_173_5184_3110%2F5184.jpg>
+ The Natural Cycles app Photograph: Danijela Froki/Natural Cycles 
+Through daily use, the algorithm learns not just how to map an individual’s 
+ovulation but to predict it, too. That allows the five days prior to ovulation 
+to be identified in real time, alerting women to the fact that male sperm can 
+linger for that long in their bodies, ready to pounce on an egg when it is 
+released.
+
+The app fills a gap in the market, spotted by Berglund when she felt fed up 
+with the limited options on offer other than hormonal contraception. She 
+devised the algorithm and started mapping her own cycle, as well as those of 
+female colleagues at Cern. It proved so succesful that Berglund and her 
+husband, fellow physicist and Natural Cycle’s CEO Raoul Scherwitzl, decided to 
+devote more time to the app.
+
+Berglund has hired a team of researchers that includes Kristina Gemzell 
+Danielsson, a professor in obstetrics and gynaecology atKarolinska Institutet 
+<http://ki.se/en/startpage> in Stockholm. Their most recently published 
+clinical study showed that Natural Cycles, when used correctly, is as efficient 
+in preventing pregnancies as the pill. Unlike the pill, though, it doesn’t 
+offer any cover for fertile days, which means that comparing the app to medical 
+contraception can be tricky.
+
+Asking women to put faith in their phones to protect them from getting 
+pregnant is a complicated business. In Sweden, the app was criticised for 
+targeting young lifestyle bloggers and their impressionable readers. One 
+example wasBlondinbella <http://www.blondinbella.se/>, by Isabella Löwengrip 
+<https://www.instagram.com/blondinbella/?hl=en>, who is now a Natural Cycles 
+investor. (Löwengrip says that the average age of her 1.3 million weekly 
+readers is just over 30 – two years older than the typical Natural Cycles 
+subscriber.) In December last year, the Swedish Medical Products Agency also 
+banned the app from calling itself apreventivmedel – the Swedish word for 
+“contraception”, which is associated with purely medical birth control. As a 
+result, it’s now marketed as a “fertility monitoring device” that “can be used 
+to avoid pregnancies”. Berglund doesn’t seem too worried, though.
+
+“What we do is track fertility, right? And then women can use it how they want 
+– it’s a tool for them to use this information either to prevent or plan a 
+pregnancy.” Plus, she says, the company’s research shows that younger women are 
+more disciplined in using contraception on red days; their pregnancy rates were 
+much lower than those of users above the age of 35.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2016%2Fnov%2F07%2Fnatural-cycles-fertility-app-algorithm-replace-pill-contraception%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F618802328583eb0a0fd912449b6d1532130711e4%2F0_26_2430_1457%2F2430.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Could%20an%20algorithm%20replace%20the%20pill%3F&url=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2016%2Fnov%2F07%2Fnatural-cycles-fertility-app-algorithm-replace-pill-contraception%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Could%20an%20algorithm%20replace%20the%20pill%3F&url=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2F2016%2Fnov%2F07%2Fnatural-cycles-fertility-app-algorithm-replace-pill-contraception%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F618802328583eb0a0fd912449b6d1532130711e4%2F0_26_2430_1457%2F2430.jpg>
+ The Natural Cycles app Photograph: Natural Cycles 
+The ideal app user, Berglund says, is a woman in a stable relationship who is 
+planning to have children at some point, and who would like a break from 
+hormonal contraception ahead of trying. Gemzell Danielsson points out that it’s 
+not a good option for women who absolutely want to avoid a pregnancy. Nor does 
+she recommend it for anyone who has what she describes as “an irregular 
+lifestyle”, irregular menstrual cycles or lacks the motivation to stay on top 
+of their cycles. The latter of these categories might account for the 45% 
+drop-out rate that the app is currently experiencing; women who sign up but 
+fail to keep to their thermometer schedule.
+
+The most important thing about Natural Cycles, Berglund and Gemzell Danielsson 
+argue, is that it adds an alternative method to the mix. “I’m still surprised 
+that there hasn’t been such a product before,” Berglund says. “I have been 
+thinking about this since I was a teenager, because I didn’t feel well from 
+taking the pill.”
+
+Berglund is critical of the conveyor-belt style in which young women are 
+prescribed it, and the fact that birth control is still very one-sided within 
+relationships. “Sweden is supposed to be the most gender-equal country, but I 
+think when it comes to contraception … the burden is very much on the woman.” 
+Natural Cycles, she insists, is “more of a couple’s thing – the woman measures 
+her temperature and the man sometimes has to wear a condom.” ”
+
+The most important thing for the company, Berglund says, is to gain trust. 
+“That’s why we keep performing clinical studies and why we try to achieve a 
+higher ISO class of medical device status.”
+
+But before Natural Cycles can become as trustworthy a contraceptive option as 
+hormonal methods, larger-scale, independent studies will need to prove its 
+efficacy. So while the app hasn’t killed the pill just yet, it is a welcome 
+addition.
+ 

@@ -1,0 +1,33 @@
+
+East Kent hospitals university foundation trust is leading a partnership that 
+will see four trusts buy picture and archiving software from one supplier.
+
+The group has published a tender, worth £50m, for picture archiving and 
+communications systems (Pacs), radiology information systems (Ris) and vendor 
+neutral archiving software, including related hardware and managed services. 
+The chosen supplier will also be expected to supply and host domain-based 
+systems required for data sharing.
+
+East Kent is procuring the software on behalf of itself and three other 
+trusts: Dartford and Gravesham, Maidstone and Tunbridge Wells, and Medway 
+foundation trust.
+
+According to notice in the Official Journal of the European Union, the four 
+trusts have established the Kent and Medway Pacs Ris replacement programme to 
+deliver a "collaborative and integrated solution". The KentHealth 
+<https://www.theguardian.com/government-computing-network/health> Informations 
+Service is helping the trusts with the procurement.
+
+The notice tells suppliers that a number of the four trusts will require an 
+image and archive solution which is locally hosted by the trust, whereas others 
+may require it to be provided as a managed service.
+
+"The awarding authority reserves the right to remove trusts participating in 
+the procurement at any point during the procurement process prior to contract," 
+adds the notice.
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Government 
+Computing Network here. 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+ 

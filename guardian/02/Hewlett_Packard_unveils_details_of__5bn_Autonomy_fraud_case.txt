@@ -1,0 +1,105 @@
+
+Hewlett-Packard <https://www.theguardian.com/business/hewlettpackard> has 
+unveiled full details of its $5bn (£3.3bn) fraud case against the founder of 
+the UK software company Autonomy, claiming that Mike Lynch inflated the 
+revenues of his business by about $700m over a two-and-a-half-year period.
+
+HP, which bought Autonomy 
+<https://www.theguardian.com/business/autonomycorporation> in 2011 for $11bn, 
+has filed a claim against Lynch and his finance director, Sushovan Hussain, in 
+the high court in London, alleging they engaged in improper transactions with 
+software resellers and in questionable accounting practices.
+
+The filing contains new allegations, denied by Lynch, that Autonomy dismissed 
+its US chief financial officer Brent Hogenson after he raised concerns about 
+the company’s transactions to its UK based auditor, Deloitte, and UK regulator 
+the Financial Services Authority (FSA). HP has previously said it is 
+considering taking legal action against Deloitte.
+
+HP claims that Lynch and Hussain breached their fiduciary duties as directors, 
+that Lynch breached his contractual duties as an employee of Autonomy, and that 
+Hussain repeatedly misled the Autonomy audit committee.
+
+The dispute has seen the HP chief executive, Meg Whitman, who joined the 
+company after its disastrous Autonomy deal, lock horns with Britain’s most 
+successful software boss.
+
+Lynch hit back against the claims, saying HP had failed to produce a “smoking 
+gun” to support its accusation of fraud. In a statement onhis blog 
+<http://autonomyaccounts.org/#Reaction> he said: “HP’s claim is finally laid 
+bare for what it is – a desperate search for a scapegoat for its own errors and 
+incompetence. The contents of the claim are a simple rehash of previous leaks 
+and insinuations that add up to one long disagreement over accounting 
+treatments, and have nothing to do with fraud.”
+
+Lynch and Hussain, who also dispute the charges, acknowledged receiving the 
+particulars of the claim on Tuesday, allowing the full details of HP’s forensic 
+trawl through Autonomy’s accounts to become public for the first time.
+
+Between the first quarter of 2009 and the second quarter of 2011, the 
+Cambridge-based company reported revenues totalling more than $2bn. HP claims 
+that a third of that was wrongly reported, misleading Autonomy’s shareholders 
+on the London Stock Exchange and later HP.
+
+“This conduct by Lynch and Hussain was systematic and was sustained for more 
+than two years prior to the acquisition of Autonomy by HP,” the Californian 
+software group said. “Its purpose was to ensure that the Autonomy group’s 
+financial performance … appeared to be that of a rapidly growing pure software 
+company … The reality was that the group was experiencing little or no growth, 
+it was losing market share, and its true financial performance consistently 
+fell far short of market expectations.”
+
+HP’s lawyers have outlined five main sources of allegedly wrongly claimed 
+income:
+
+ * $194m of supposedly hidden hardware sales. HP said it found Autonomy resold 
+hardware such as servers made by other companies, often at a loss, and claims 
+its directors allowed investors to believe this was software revenue. 
+ * $196m in apparently wrongly reported sales of Autonomy’s core software 
+product, IDOL, to other software companies. 
+ * $205m in supposedly questionable transactions with software resellers. 
+ * $80m of claimed incorrectly reported hosting deals, in which Autonomy 
+renegotiated contracts to host other companies’ data on its own servers. 
+ * $33m in other alleged improper transactions. 
+After the release of Autonomy’s results for the first half of 2010, US 
+executive Hogenson allegedly blew the whistle. He raised concerns - about 
+reseller deals - with the FSA in an email sent on 26 July of that year. On 28 
+July 2010, HP claims, he was summarily dismissed by US chief operating officer 
+Joel Scott, “acting at the direction of Lynch”.
+
+Lawyers for Lynch said in a letter to HP’s legal team that Hogenson was 
+actually dismissed by Autonomy’s chairman. His concerns had been investigated 
+by Deloitte and UK accounting body the Financial Reporting Review Panel, they 
+said, but neither organisation had taken issue.
+
+Of particular interest are 37 deals with small IT contractors that bought 
+Autonomy’s software. Deals with these outfits, known in the industry as “value 
+added resellers”, were key to Autonomy’s ability to present itself as a 
+fast-growing software business.
+
+The resellers were presented as acquiring the rights to sell on Autonomy 
+software to end users including UBS bank, General Motors, the Vatican library, 
+accounting firm KPMG and even Hewlett-Packard itself. But HP claims many of 
+these deals were fictional in that no agreement with an end user was ever 
+concluded, and that the resellers were simply warehousing Autonomy’s software.
+
+
+Other deals were recorded as revenue too early, before the end user had agreed 
+to buy the Autonomy products.
+
+The resellers involved were located in countries including the US, Italy and 
+the UK.
+
+In a point-by-point rebuttal, Lynch and Hussain have dismissed HP’s claims, 
+saying: “Out of 23,000 deals and $2.2bn in revenue that took place at Autonomy 
+during the period, Whitman makes assertions concerning only six specific 
+reseller transactions, which add up to under $40m in revenue, and for which 
+almost all the cash was, in fact, received. Whitman provides scant supporting 
+evidence even for these few assertions.
+
+“She raises questions over fully paid hosted deals, the form of which HP’s own 
+accountants approved, and in a structure HP itself also used. She now admits 
+that hardware sales were correctly recorded as revenue and that HP was fully 
+aware of this when they valued the company at $11bn. Meg Whitman has been 
+playing a delaying game, promising a smoking gun that has never materialised.”
+ 

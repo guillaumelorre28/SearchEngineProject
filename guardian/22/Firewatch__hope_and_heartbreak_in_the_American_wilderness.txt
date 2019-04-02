@@ -1,0 +1,147 @@
+
+The outdoors in Firewatch isn’t like the outdoors in most games. It feels 
+somehow bigger. This is a game set in Wyoming’s Yellowstone national park, a 
+vast wilderness of lakes, mountains and hiking trails. When the sun began to 
+set on my first day in the park – as the lead protagonist Henry, the volunteer 
+fire lookout – it reminded me of rushing home at dusk while playing out as a 
+kid, of escaping the dark as a small person in a big world.
+
+This is all very deliberate. Firewatch is a relatively small and simple game, 
+designed to engage players emotionally with a handful of basic, believable 
+parts. It comes from a new studio, Campo Santo, though its dozen members have 
+worked on lots of other games at various other studios. The lead artist, Jane 
+Ng, worked on The Cave at Double Fine, while the writer/director pair, Sean 
+Vanaman and Jake Rodkin, led the team behind the hugely acclaimed first season 
+of The Walking Dead at TelltaleGames 
+<https://www.theguardian.com/technology/games>.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F01%2Ffirewatch-american-wilderness-campo-santo%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F0dce229a7b8c09d63adb34948d4ae4ed950795df%2F189_0_2811_1688%2F2811.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Firewatch%3A%20hope%20and%20heartbreak%20in%20the%20American%20wilderness&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F01%2Ffirewatch-american-wilderness-campo-santo%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Firewatch%3A%20hope%20and%20heartbreak%20in%20the%20American%20wilderness&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F01%2Ffirewatch-american-wilderness-campo-santo%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F0dce229a7b8c09d63adb34948d4ae4ed950795df%2F189_0_2811_1688%2F2811.jpg>
+ Firewatch Photograph: Campo Santo 
+Campo Santo exists partly because of The Walking Dead. After its success, 
+then-flatmates Vanaman and Rodkin realised if they didn’t strike out on their 
+own at that moment they probably never would. The Walking Dead had given them 
+experience of leading a team, and after 10m sales, games publishers were keen 
+to talk business. There were offers, too, some for more money than they needed, 
+but the pair were looking for an unusual level of creative control. Too much 
+money, says Vanaman, comes with “too many meetings.”
+
+In the end Campo Santo went into business with Panic, Inc, a software company 
+from Oregon, better known for its FTP clients and MP3 players. This will be 
+Panic’s first game, an unlikely departure which the company agreed to in part 
+because of what Vanaman describes as an existing “personal, professional 
+relationship.” Rodkin interrupts: “Let’s be honest about this professional 
+connection, Sean. I made skins for their MP3 player when I was in college.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F01%2Ffirewatch-american-wilderness-campo-santo%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fb36fa3e50d9012c586d8306eb0ea1336c8f91fd4%2F133_0_2811_1688%2F2811.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Firewatch%3A%20hope%20and%20heartbreak%20in%20the%20American%20wilderness&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F01%2Ffirewatch-american-wilderness-campo-santo%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Firewatch%3A%20hope%20and%20heartbreak%20in%20the%20American%20wilderness&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F01%2Ffirewatch-american-wilderness-campo-santo%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fb36fa3e50d9012c586d8306eb0ea1336c8f91fd4%2F133_0_2811_1688%2F2811.jpg>
+ Firewatch Photograph: Campo Santo 
+It all adds to the slightly unusual mix. Campo Santa seems a particular kind 
+of place – with creative control written into its contract, the studio is happy 
+to be completely open with its publisher (Panic has access to the team’s 
+internal Slack chat) and development has been, if not without the odd bump, at 
+least unfettered. The British artist Olly Moss, a friend of Rodkin and Vanaman, 
+came on board early, and his artwork helped to explain the project to other 
+prospective members of the team. They were looking for experienced developers 
+who recognised the risk of a start-up (“If anyone ever said ‘This sounds 
+perfect!’ I would stop them,” says Vanaman “It will not be perfect.”) and 
+though there were some fixed ideas about the game Firewatch would eventually 
+become, it was also shaped by who else joined the studio. “You design by 
+hiring, sometimes” says Vanaman.
+
+What Firewatch became is a first-person game primarily about exploration and 
+story, rather than action or combat, nudging at the edges of a genre 
+established by games like Dear Esther and Gone Home. Firewatch is not really 
+about watching for fires, but what happens to Henry when his life reaches a 
+point where the isolation of a lookout tower makes more sense than anything 
+else. It’s a narrative game, with a mystery to unravel, though little is known 
+beyond the fact that Henry finds evidence that something strange is going on 
+out there. Deepening the interactivity of the experience are classic adventure 
+game-style mechanics (picking up, inspecting and using items) and the game’s 
+dialogue options, something carried over from Vanaman’s work on The Walking 
+Dead. As Ng points out, at this level of production, and for a studio’s first 
+game, it makes sense “to do what you’re good at.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F01%2Ffirewatch-american-wilderness-campo-santo%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F44ea768b7870435efabfa2fb21dc197fd78bd591%2F71_0_1799_1080%2F1799.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Firewatch%3A%20hope%20and%20heartbreak%20in%20the%20American%20wilderness&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F01%2Ffirewatch-american-wilderness-campo-santo%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Firewatch%3A%20hope%20and%20heartbreak%20in%20the%20American%20wilderness&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F01%2Ffirewatch-american-wilderness-campo-santo%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F44ea768b7870435efabfa2fb21dc197fd78bd591%2F71_0_1799_1080%2F1799.jpg>
+ Firewatch Photograph: Campo Santo 
+In Firewatch these dialogue options shape what is, along with the American 
+wilderness, another of the game’s key fixtures - the relationship between Henry 
+and his unseen, distant supervisor, Delilah. Actually they start before that, 
+in a text-only prologue sequence that, in a few economical minutes, establishes 
+the reason Henry has volunteered for the Forest Service, devastates the player 
+emotionally in a confoundingly straightforward way, and makes that first breath 
+of mountain air seem like welcome escape from a decade-long slide into shadow.
+
+It works. We totally get why Henry needs this job, why he’s quiet, and why the 
+friendly Delilah – who he contacts via walkie-talkie and is his only contact 
+with HQ and the world – is so appealing to him (and to us).
+
+Vanaman stresses the importance of naturalistic writing to this kind of 
+investment, with which he wants to “play on your emotions as an actual person.” 
+Firewatch’s drama is all the more compelling precisely because its parts are 
+unremarkable. There’s that feeling of the outdoors, the lack of a safety net 
+afforded by streetlights and civilisation (there are no mobile phones in 
+Firewatch’s 1989, and all in-game navigation is done with map and compass). And 
+there’s the comfort and precariousness of the relationship with Delilah, who 
+gains a certain power from being Henry’s only point of contact. The 
+walkie-talkie through which they communicate is the focus of the game’s 
+interaction, with Henry reporting objects and observations to her. She becomes 
+his world - a subtle, human feeling of dependence that can easily shift into 
+vulnerability (at one point I choose an undiplomatic response and Delilah steps 
+away from her walkie-talkie, leaving me bereft).
+
+Delilah and the walkie-talkie weren’t always this central. At one point, Ng 
+says, Henry was going to interact with various people – other hikers, for 
+example – but in terms of resources and time, having other characters 
+physically appear in your game is “really expensive”. The realisation seems 
+similar to that of UK developer The Chinese Room which adopted an equally 
+lonely setting for its own rural drama, Everybody’s Gone to the Rapture.
+
+Without physical interaction, Campo Santo re-focused on what was really 
+important, a process of design by subtraction. “Sometimes when you accept your 
+constraints completely, and design within them, you forget whether it was the 
+constraint or the idea that drove it first,” says Vanaman. Henry and Delilah’s 
+relationship now seems to be “what this is fundamentally about.”
+
+Because of this, finding a voice for Henry was always going to be crucial. 
+It’s not enough for the dialogue to read realistically, Vanaman says, it’s got 
+to be spoken that way, too. The team drew up a wishlist of names, some based on 
+the notion that the actor should resemble Henry physically - a stocky, Fred 
+Flinstone type - and somewhere near the top was Mad Men’s Rich Sommer. Sommer, 
+it turned out, is a big fan of board games, and followed Campo Santo’s 
+programmer Patrick Ewing - who runs a blog about board games - on twitter. 
+“Patrick said ‘I could just DM him…’” remembers Ng. He came in and impressed. 
+“He’s energetic, interesting, fun to be around,” says Vanaman, who laughs about 
+the sadsack on-screen image Sommer gained from Mad Men. “In street clothes, 
+he’s the best-looking guy in the room.”
+
+Vanaman and another member of the team, Nels Anderson, grew up in different 
+parts of Wyoming, and there’s a glow of nostalgia to the game’s toasted 
+sunsets, its stylised, airbrushed past. But setting Firewatch somewhere real 
+and specific also made the storytelling easier, Vanaman says, and to help the 
+team grasp the size and character of Yellowstone Campo Santo took a work field 
+trip to the much closer Yosemite National Park. Rodkin says it was incredibly 
+useful, especially for members of the team who hadn’t grown up in the States. 
+Yosemite had a lookout tower built from the same blueprint as Henry’s in the 
+game, and the trip become a contrast of scales - the huge space of the park, 
+and the tiny details and objects it contained. It was this trip which brought 
+home the sort of space in which the game took place, and helped shape that 
+feeling of the somehow bigger.
+
+“We had the most cheesy movie moment, like if there was a documentary crew 
+filming the making of Firewatch,” Rodkin says. “It was Olly sitting on the 
+railing looking out into the middle of nowhere. And he said: ‘I get it’”
+
+Firewatch is released on Linux, Mac, PC 
+<https://www.theguardian.com/technology/pc> and PS4 on 9 February.
+ 

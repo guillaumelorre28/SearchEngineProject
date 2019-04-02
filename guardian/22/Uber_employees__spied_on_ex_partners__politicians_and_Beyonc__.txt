@@ -1,0 +1,81 @@
+
+Uber employees regularly abused the company’s “God view” to spy on the 
+movements of “high-profile politicians, celebrities and even personal 
+acquaintances ofUber <https://www.theguardian.com/technology/uber> employees, 
+including ex-boyfriends/girlfriends, and ex-spouses”, according to testimony 
+from the company’s former forensic investigator Samuel Ward Spangenberg. Even 
+Beyoncé’s account was monitored, the investigator said.
+
+Spangenberg, who is suing the minicab company alleging age discrimination and 
+whistleblower retaliation, made the claims ina court declaration 
+<https://www.documentcloud.org/documents/3227535-Spangenberg-Declaration.html> 
+in October. He says he told Uber executives including the company’s head of 
+information security, John Flynn, and its HR chief Andrew Wegley, of his 
+concerns around the lack of security, and was fired 11 months later.
+
+As well as a lack of oversight regarding customer data, Spangenberg alleges 
+numerous other ethical breaches at Uber. The company stored driver and employee 
+information in an insecure manner, he says, while it operated a vulnerability 
+management policy which allowed data to be stored that way if the company 
+deemed there to be a “legitimate business purpose” for doing so.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F13%2Fuber-employees-spying-ex-partners-politicians-beyonce%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F898608f50b829b75df396d535e4ca7189c35cbfe%2F0_0_3507_2104%2F3507.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Uber%20employees%20'spied%20on%20ex-partners%2C%20politicians%20and%20Beyonc%C3%A9'&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F13%2Fuber-employees-spying-ex-partners-politicians-beyonce%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Uber%20employees%20%27spied%20on%20ex-partners%2C%20politicians%20and%20Beyonc%C3%A9%27&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F13%2Fuber-employees-spying-ex-partners-politicians-beyonce%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F898608f50b829b75df396d535e4ca7189c35cbfe%2F0_0_3507_2104%2F3507.jpg>
+ Uber said it ‘continues to increase our security investments and many of these 
+efforts, like our multi-factor authentication checks and bug bounty program, 
+have been widely reported’. Photograph: Carl Court/Getty Images 
+In his testimony, given under penalty of perjury, Spangenberg also objected to 
+Uber’s protocols to deal with raids on its offices – a relatively common 
+occurrence at the company, which has been frequently criticised for riding 
+roughshod over local regulations.
+
+“As part of Uber’s incident response team, I would be called when governmental 
+agencies raided Uber’s offices due to concerns regarding noncompliance with 
+governmental regulations,” Spangenberg said. “In those instances, Uber would 
+lock down the office and immediately cut all connectivity so that law 
+enforcement could not access Uber’s information. I would then be tasked with 
+purchasing all new equipment for the office within the day, which I did when 
+Uber’s Montreal office was raided.”
+
+
+Spangenberg’s allegations were reported by the Centre for Investigative 
+Reporting’s (CIR) Reveal project 
+<https://www.revealnews.org/article/uber-said-it-protects-you-from-spying-security-sources-say-otherwise/>
+, but it isn’t the first time Uber has been accused of mistreating customer 
+data. In 2014, Buzzfeedrevealed the existence 
+<https://www.buzzfeed.com/johanabhuiyan/uber-is-investigating-its-top-new-york-executive-for-privacy?utm_term=.ayWzOXxmW4#.eyoM7RdDZv>
+ of the “God View” tool, after Uber’s New York general manager discussed using 
+it to track a reporter’s journey. The tool’s existence appears to date back to 
+2011, whenventure capitalist Peter Sims says he was tracked 
+<https://medium.com/@petersimsie/can-we-trust-uber-c0e793deda36> by a visitor 
+to Uber’s Chicago offices, where the God View data was shown on a large public 
+screen.
+
+In a statement given to a number of media outlets, Uber said it “continues to 
+increase our security investments and many of these efforts, like our 
+multi-factor authentication checks and bug bounty program, have been widely 
+reported. We have hundreds of security and privacy experts working around the 
+clock to protect our data. This includes enforcing to authorised employees 
+solely for purposes of their job responsibilities, and all potential violations 
+are quickly and thoroughly investigated.”
+
+Spangenberg told CIR that Uber had increased security provisions during his 
+time there, as well as renaming the tool “Heaven View”. Uber confirmed that 
+some employees – “fewer than 10” – had been fired for abusing the tool, and 
+said that it needs to provide relatively widespread access for a number of 
+reasons, including refunding customers and investigating accidents. To prevent 
+spying on celebrities, Uber implemented a flag for searches for customers 
+considered “MVP”, but Spangenberg pointed out that that did nothing to protect 
+non-MVPs.
+
+The news comes just two weeks after Uber updated its app to increase the 
+amount of location information collected about users 
+<https://techcrunch.com/2016/11/28/uber-background-location-data-collection/>. 
+The company said the new collection practices, which continue to send the 
+user’s location for five minutes after they are dropped off, would be used to 
+improve drop-offs and pick-ups, but it faced a backlash from users worried 
+about the increased permissions.
+ 

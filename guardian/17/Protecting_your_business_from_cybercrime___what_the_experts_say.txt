@@ -1,0 +1,121 @@
+
+What steps should you take to keep your business safe from hackers? With new 
+threats emerging and longstanding ones still an issue, it pays to know. The 
+average cost of cyber attacks to a small business was £3,000 over a two-year 
+period, according toresearch 
+<http://www.fsb.org.uk/docs/default-source/fsb-org-uk/FSB-Cyber-Resilience-report-2016.pdf?sfvrsn=0>
+ [pdf] from the Federation of Small Businesses.
+
+During our live Q&A 
+<https://www.theguardian.com/small-business-network/2016/nov/15/cybercrime-how-to-protect-business-attacks>
+ on how to protect your business from cybercrime, our panel offered a broad 
+range of expertise, from how to recognise a hacking attempt to tips for keeping 
+your business safe when you’re on a tight budget.
+
+
+The first question the panel tackled was how to go about training staff to 
+avoid new cybercrime threats. A common example of a new threat is phishing, in 
+which hackers send emails to an employee pretending to be from a trustworthy 
+source, such as a senior colleague, in order to gain confidential information.
+
+
+Social engineers expose the fatal flaw in a business
+ Read more  
+<https://www.theguardian.com/small-business-network/2016/oct/04/social-engineers-reveal-biggest-threat-business>
+Jamie Randall, chief technology officer of IASME Consortium 
+<https://www.iasme.co.uk/>, a company that helps organisations protect their 
+information and the founder of The Friendly Nerd, a startup specialising in 
+cyber security training, said: “The best tip I can give to staff is always look 
+out for the urgent and the unexpected. If an email, a social media post or a 
+phone call ticks either of these boxes then it could be suspicious.”
+
+
+Creating an environment where staff are confident in challenging requests that 
+don’t look right is key, said James Snook, deputy director, cyber and 
+government security directorate in the Cabinet Office. He suggested some useful 
+government resources includingcyber essentials 
+<https://www.cyberaware.gov.uk/cyberessentials/> in which accredited 
+organisations will assess your business’s cyber security andcyber aware 
+<http://cyberaware.gov.uk/>, which gives advice to small businesses and 
+individuals on how to protect themselves.
+
+
+Jenny Radcliffe, an independent security consultant 
+<http://jennyradcliffe.com/> who trains businesses in cyber security, added: “I 
+think training when [an employee joins] a company is very important and it’s 
+something many small businesses don’t do properly.” She said that it didn’t 
+need to be formal – small business owners might set up a meeting with new 
+staff, for example, where they explain the company’s security policy and pass 
+on some basic training.
+
+
+Of course, staff themselves can pose an unexpected threat. Sophisticated 
+hackers could look to find a way into a business’s team in order to get 
+information. Radcliffe said that using contractors or temporary staff, who 
+might not be put through such a rigorous recruitment process, is always a risk.
+
+Radcliffe added: “Vetting people is problematic because a determined hacker 
+will have a good back story that checks out to some extent. I would suggest 
+always following up names with contracting companies and using numbers and 
+emails found independently, rather than the ones the person gives you, as these 
+might be fraudulent.”
+
+
+Paula Barrett, head of data privacy and partner at Eversheds law firm 
+<http://www.eversheds.com/global/en/index.page>, reminded businesses to be 
+mindful of data protection laws when vetting new staff. She said: “It’s 
+important to remember that vetting itself needs to be managed in a way that 
+doesn’t infringe data protection laws. It needs to be necessary and 
+proportionate to the role that the individual will have.”
+
+
+Keeping data as private as possible is a good technique, suggested Cindy Ng, a 
+security and privacy expert atVaronis <https://www.varonis.com/>. She said: 
+“Eliminate excessive permissions. When staff or contractors are with a company 
+a long time, they change departments and jobs and end up with more permissions 
+to data than they need.”
+
+Another area for concern in small businesses is online payments. The panel 
+were asked how businesses that make or take payments online could better 
+protect themselves from attacks and ensure their accounts are secure.
+
+
+David Jeffrey, product director, fraud and security, at Barclaycard 
+<https://www.barclaycard.co.uk/business/news-and-insights> payment solutions, 
+said his top tip would be for small businesses to partner with industry experts 
+who can support them. He said: “Managing security on your own is near 
+impossible for most merchants, particularly the smaller merchants who are the 
+most susceptible to attack.”
+
+
+Snook added: “Everyone should use strong, memorable passwords ... Secondly, 
+everyone should keep the software on their computers, tablets and phones up to 
+date – out-of-date software can have vulnerabilities that criminals can 
+exploit.”
+
+
+Jeffrey said business owners should always use a secure Wi-Fi network when 
+making payments. “It’s also important to consider who you are buying from and 
+if they themselves are a reputable company. Always be vigilant and, if in 
+doubt, don’t make the payment.”
+
+A question that came in via Twitter <https://twitter.com/catharticsite> from 
+social enterprise Cathartic asked: “How does a small business meet enterprise 
+security requirements on a tight budget.”
+
+Radcliffe said that a commitment to security, and a continued awareness of it, 
+was key. “Leading from within, while taking some expert advice ... needn’t be 
+an expensive undertaking, but it does take time, focus and ongoing commitment,” 
+she said.
+
+Del Heppenstall, who leads KPMG’s 
+<http://www.kpmg.com/uk/en/pages/default.aspx> cyber security teams across the 
+southern and Midlands regions of the UK, offered a useful summary of how a 
+small business should approach cyber crime. He said: “Think of your response to 
+this as being one that covers people, process and technology, and focus equally 
+on each.”
+
+Sign up to become a member of the Guardian Small Business Network here 
+<https://register.theguardian.com/small-business/> for more advice, insight and 
+best practice direct to your inbox.
+ 

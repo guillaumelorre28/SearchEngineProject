@@ -1,0 +1,28 @@
+
+Today S, for sitebuilding... which was the penultimate step before a launch, 
+after the software had been built and released, and before the technical work 
+to finally lift the curtain.
+
+One of the big changes that was part of R2 was how we structured our content 
+-- our information architecture. Previously each piece of content lived in a 
+section, up to two levels deep, and a lot of content was duplicated so that it 
+could appear in more than one section at a time. An extreme example we often 
+used was the affair aroundDavid Kelly and the consequential Hutton inquiry 
+<https://www.theguardian.com/politics/davidkelly>. Almost every story there 
+crossed the boundaries of politics, media and daily news.
+
+With R2 we were introducing much more nuanced keywording and more options 
+around navigation. So the content in the old system didn't map directly into 
+the new system: it all had to be examined and reclassified by hand. 
+Additionally, production staff needed to build subject pages in ways they 
+couldn't before -- for example, the pages onAfghanistan 
+<https://www.theguardian.com/world/afghanistan>, the British monarchy 
+<https://www.theguardian.com/uk/monarchy> and the BAE corruption investigations 
+<https://www.theguardian.com/world/bae>. All this was called sitebuilding.
+
+Of course, the tech team built tools and wrote scripts to make the production 
+staff's job easier, but some things just need human expertise and take a very 
+long time. Typically we allowed six weeks between the time the software was 
+released and the relevant site was launched and that was the period in which 
+sitebuilding took place.
+ 

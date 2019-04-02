@@ -1,0 +1,87 @@
+
+A few weeks ago, I bought Amazon’s latest gizmo – the Echo 
+<https://www.theguardian.com/technology/2016/nov/21/amazon-echo-review-the-best-combined-speaker-and-voice-assistant-in-the-uk>
+. It’s a voice-activated, networked device equipped with a seven-piece 
+microphone array, which means that it can pick up one’s voice from anywhere in 
+its vicinity with impressive accuracy. It comes in two versions, one a 
+9.25in-tall cylinder that contains a number of speakers, the other a much 
+smaller cylinder that just has tinny speakers. Since the latter was a third of 
+the price of the former, your cheapskate columnist bought that and hooked it up 
+to his hi-fi system, which means that when he speaks to it the Echo replies in 
+sultry female tones modulated by a high-end analogue amplifier and a pair of 
+very fine speakers. Her name, by the way, is “Alexa”.
+
+I bought it because it seemed to me that it might be a significant product and 
+I have a policy of never writing about kit that I haven’t paid for myself. 
+Having lived with the Echo for a few weeks I can definitely confirm its 
+significance. It is a big deal, which explains why the company invested so much 
+in it. (It’s said that 1,500 people worked on the project for four years, which 
+sounds implausible until you remember that Apple has 800 people working on the 
+iPhone’s camera alone). Amazon’s boss, Jeff Bezos, may not have bet the ranch 
+on it (he has a pretty big ranch, after all) but the product nevertheless 
+represents a significant investment. And thesales so far 
+<http://www.geekwire.com/2016/amazon-echo-sales-reach-5m-two-years-research-firm-says-google-competitor-enters-market/>
+ suggest that it may well pay off.
+
+Once switched on and hooked up to one’s wifi network, the Echo sits there, 
+listening for its trigger word, “Alexa”. So initially one feels like an idiot 
+saying things such as: “Alexa, play Radio 4” or: “Alexa, who is Kim 
+Kardashian?” (A genuine inquiry this, from a visitor who didn’t know the 
+answer, which duly came in the form of Alexa reading the first lines of the 
+relevant Wikipedia entry.)
+
+For new users, the device’s most remarkable feature is its remarkably low 
+latency – the gap between issuing a command and getting a response – which 
+seems to be around a second. And of course there’s a lot it doesn’t know or 
+gets wrong. A request to “play the latest episode of theSerial podcast 
+<https://www.theguardian.com/tv-and-radio/serial>” comes up with the Serial 
+Serial podcast, <http://www.avclub.com/features/the-serial-serial/> which, in a 
+nice postmodern touch, is a podcastabout the famous Serial podcast. But because 
+the cloud-computing engine behind the Echo uses machine learning, these 
+glitches will be reduced as more people use the device.
+
+The Echo looks like a really significant product for two reasons. First, its 
+target market is the home, which, asBen Thompson, an astute observer of the 
+tech industry, writes <https://stratechery.com/2017/amazons-operating-system/> 
+“was the one place in the entire world where smartphones were not necessarily 
+the most convenient device or touch the easiest input method: more often than 
+not your smartphone is charging and talking to a device doesn’t carry the 
+social baggage it might elsewhere”.
+
+‘Alexa, sort your life out’: when Amazon Echo goes rogue
+ Read more  
+<https://www.theguardian.com/technology/shortcuts/2017/jan/09/alexa-amazon-echo-goes-rogue-accidental-shopping-dolls-house>
+Second, the Echo fits into an existing, fast-growing ecosystem: that of 
+domestic networked devices in the so-called Internet of Things (IoT). But at 
+the moment, most manufacturers insist that IoT devices are controlled by 
+smartphones, which are clumsy in a domestic environment. Amazon has shrewdly 
+constructed an interface that makes it easy to link the Echo to these devices 
+and services. So you can link it to your online diary and ask: “What’s in my 
+calendar for tomorrow?” And this ecosystem strategy is already paying off: at 
+the recentConsumer Electronics Show 
+<https://www.theguardian.com/technology/ces-2016> in Las Vegas, many of the 
+products on display were controllable by the Echo. So, in a way, Amazon may 
+have invented what Ben Thompson calls “the operating system for the home”.
+
+As with most technological breakthroughs, the Echo is both wonderful and 
+scary. It shows that voice interfaces can really work and not be an 
+embarrassing pain to use. On the other hand, it brings a networked listening 
+device into the heart of the home, with appalling implications for misuse.Amazon
+ <https://www.theguardian.com/technology/amazon> tries to dodge this issue by 
+saying that the Echo is always listening, but not recording: it only starts 
+transmitting data to the cloud after it hears the trigger word “Alexa”.
+
+Some police forces in the US clearly doubt that. The cops in Bentonville, 
+Arkansas, for example, have issued a warrant requiring Amazon to hand over any 
+audio or records from an Echo belonging to a guy who is set to go to trial next 
+year for the murder of a friend. The police are afterany audio the speaker may 
+have picked up on the night of the murder 
+<https://www.engadget.com/2016/12/27/amazon-echo-audio-data-murder-case/> 
+because while “the Echo is activated by certain words, it’s not uncommon for 
+the IoT gadget to be alerted to listen by accident”.
+
+So Kranzberg’s First Law 
+<https://thefrailestthing.com/2011/08/25/kranzbergs-six-laws-of-technology-a-metaphor-and-a-story/>
+ applies: technology is neither good nor bad, but it certainly isn’t neutral 
+either.
+ 

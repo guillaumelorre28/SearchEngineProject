@@ -1,0 +1,89 @@
+
+A quick burst of 7 links for you to chew over, as picked by the Technology team
+
+So a bar walks into an app... >> Twitter blog 
+<http://blog.twitter.com/2011/03/so-bar-walks-into-app.html>
+
+"The QuickBar was originally conceived to help users discover what's happening 
+in the broader world beyond people they already follow. The bar was also seen 
+as a potential means of in-app notifications for new @mentions, DMs, and other 
+important activity."
+
+Instead it turned into the focus of hate over what was seen as the taducing of 
+user-focussed design. And so it's been taken out the back and shot.
+
+Acer Should Overhaul Its Operation: Stan Shih >> The Taiwan Economic News 
+<http://www.cens.com/cens/html/en/news/news_inner_35793.html>
+
+"In view of the impact of smart phones and tablet PCs on the PC market, Acer 
+Inc., Taiwan's leading PC supplier, should overhaul its operation to seek 
+higher profit margin, rather than seeking the championship in the global PC 
+market, said Stan Shih, founder ofAcer 
+<https://www.theguardian.com/technology/acer> Group yesterday (March 29).
+
+"...In recent years, Acer has been striving to become the world's largest PC 
+vendor, in the belief that the goal can help it achieve economy of scale and 
+garner higher margin. Shih remarked that the success of Apple underscores the 
+traditional industrial mode is undertaking a major change, as volume may not 
+have an absolute relationship with profit margin. Therefore, the honor of the 
+world's largest PC vendor may be achieved at the expense of profit margin"
+
+Which pretty much answers the question of why the chief executive was booted 
+out: he didn't agree with Shih.
+
+Do Not Anger the Alpha Android >> BusinessWeek 
+<http://www.businessweek.com/magazine/content/11_15/b4223041200216.htm>
+
+"Playtime is over in Android Land. Over the last couple of months Google has 
+reached out to the major carriers and device makers backing its mobile 
+operating system with a message: There will be no more willy-nilly tweaks to 
+the software. No more partnerships formed outside of Google's purview. From now 
+on, companies hoping to receive early access to Google's most up-to-date 
+software will need approval of their plans. And they will seek that approval 
+from Andy Rubin, the head of Google's Android group."
+
+Three thoughts: (1) game most definitely ON. Google is getting deadly serious 
+about Android's future here; (2) you can ignore the PR about Android being 
+"open" in contrast to other mobile operating systems now; (3) since being taken 
+over by Bloomberg, BusinessWeek has produced cracking stories at a remarkable 
+rate.
+
+Confirmed: Samsung is Not Shipping Keyloggers >> F-Secure 
+<http://www.f-secure.com/weblog/archives/00002133.html>
+
+"The whole saga was caused by a false alarm of the VIPRE Antivirus product. 
+Apparently VIPRE detects the StarLogger keylogger by searching for the 
+existance existence of a directory called 'SL' in the root of the Windows 
+directory. This is a bad idea."
+
+Where by "bad" F-Secure means "reputation-destroying leading to potentially 
+actionable outcomes".
+
+Samsung notebooks are in fact secure >> Samsung blog 
+<http://www.samsungtomorrow.com/1071>
+
+"The statements that Samsung <https://www.theguardian.com/technology/samsung> 
+installs keylogger on R525 and R540 laptop computers are false. After 
+investigating into this matter, it was found that the software installed WAS in 
+Fact VIPRE, not StarLogger called The Commercial Keylogger. The confusion arose 
+because Microsoft's Live Application multi-language support folder, "SL" 
+folder, was mistaken for StarLogger."
+
+This seems plausible.
+
+Samsung Series 9 Laptop Shows No Signs Of Spyware >> PCWorld 
+<http://www.pcworld.com/article/223823/samsung_series_9_laptop_shows_no_signs_of_spyware.html>
+
+"Rootkit" plot thickens.
+
+TMI: Fear, Fukushima and Facts >> Anil Dash 
+<http://dashes.com/anil/2011/03/tmi-fear-fukushima-and-facts.html>
+
+Builds on the XKCD radiation chart (which you must know already) and then gets 
+an expert to comment on it. In fact, even XKCD has it overblown. Prepare to 
+revise your figures for fatalities caused by Chernobyl downward by a couple of 
+orders of magnitude, for example.
+
+You can follow Guardian Technology's linkbucket on delicious 
+<http://delicious.com/guardianista>
+ 

@@ -1,0 +1,42 @@
+
+During the final presidential debate on Wednesday, 19 October, the Guardian 
+Mobile Innovation Lab <https://medium.com/the-guardian-mobile-innovation-lab>, 
+along with the Guardian US Opinion and News desks will send experimental web 
+notifications with real-time reactions and live fact-checks from the Guardian 
+US newsroom.
+
+To sign up: Open this page <https://www.gdnmobilelab.com/third-debate/> in a 
+Chrome browser from an Android phone (Samsung included) and tap to subscribe.
+
+What you should know about our notifications: 
+
+ * They’re currently only available on Chrome on Android devices. 
+ * They’re meant for mobile but will also work on desktop Chrome browsers, too.
+
+ * They supplement the news alerts sent from the Guardian’s Android and iOS 
+apps. 
+More about tonight’s experiment: 
+
+ * The notifications are supposed to make it easy for you to keep listening to 
+what the candidates and moderators are saying during the debate, while 
+providing easy and convenient access to analysis, fact-checks and reactions 
+from our experts on your phone throughout the night. 
+ * We’ll send three alerts. Each will auto-update on your lockscreen with the 
+following: 
+ * Reactions from Guardian opinion editor David Shariatmadari 
+<https://www.theguardian.com/profile/davidshariatmadari> and commentator Kate 
+Aronoff <https://www.theguardian.com/profile/kate-aronoff>. We’ll send their 
+quick takes about the candidates’ policy statements, their debating styles, and 
+who’s winning and who’s losing. 
+ * Fact-check alerts for each of the two candidates, by Guardian reporter Alan 
+Yuhas <https://www.theguardian.com/profile/alan-yuhas>. The notifications will 
+be color coded to indicate the degree of accuracy of the candidates’ statements.
+This project is the latest installment in ongoing experimentation with 
+notifications, part of theMobile Lab’s mission 
+<https://medium.com/the-guardian-mobile-innovation-lab> to learn more about 
+mobile storytelling. After the experiment, we’ll send out a survey soliciting 
+feedback on the experience.
+
+Questions, suggestions or observations? Drop us a note: 
+innovationlab@theguardian.com
+ 

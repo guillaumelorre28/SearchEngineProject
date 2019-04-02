@@ -1,0 +1,26 @@
+
+I want to listen to the radio – FM/AM and shortwave – using my Eee PC. Is 
+there software to do this? I don't want to plug in anything more than an aerial.
+Richard Scrase
+
+Lots of people listen to the radio on their PCs, but this is almost always 
+"internet radio". In other words, the sound is streamed digitally, via your 
+broadband connection. Several formats are in common use including MP3, WMA 
+(Windows Media Audio), RealAudio and HE-AAC. They can all be played using a 
+free media player. You can find many thousands of radio stations atShoutcast 
+<http://www.shoutcast.com/>, or use iPlayer 
+<http://www.bbc.co.uk/iplayer/radio/> for the BBC's national and 40 local 
+stations.
+
+You can't use a PC for listening to broadcast (over the air) radio stations 
+without plugging in a tuner, which can be a USB stick. There are not many 
+radio-specific tuners, with the Radio Shark USB Radio Tuner (£43 at 
+Amazon.co.uk) being an obvious example; this could be useful if you want to 
+record programmes to your hard drive. There are many more dual TV/radio tuners. 
+However, you may run into aerial and interference problems, and you may be able 
+to get easier operation and better sound quality by buying a separate radio. Go 
+for something like the Roberts R9962 World Radio (£30) and you'll get 
+shortwave, too. There are moreshort wave sets 
+<https://ogormans.co.uk/Shortwave.htm> around than you may think.
+
+ 

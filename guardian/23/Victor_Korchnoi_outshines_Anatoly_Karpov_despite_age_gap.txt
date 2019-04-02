@@ -1,0 +1,41 @@
+
+Viktor Korchnoi has set another longevity landmark by winning last month's 
+Swiss championship in Grachen at age 78. He scored 7/9, edged out two rivals on 
+tiebreak, and is probably the oldest ever to win a national title.
+
+At the same time Anatoly Karpov 
+<https://www.theguardian.com/sport/anatoly-karpov>, to whom Korchnoi lost two 
+bitter world championship matches, created a negative record of his own by 
+finishing last without winning a game at the San Sebastian, Spain tournament 
+won by US champion Hikaru Nakamura. Karpov is 57, a mere stripling beside his 
+rival, and little more than a decade ago he was close to his peak. Though 
+almost all grandmasters pass their peak after age 45, the pace of decline 
+varies greatly.
+
+The Grachen event was open, and Korchnoi was not its only hero. English GM 
+Simon Williams, 29, who was ineligible for the Swiss crown, took first prize 
+with 7.5/9 and beat the legend in fine attacking style. Williams is currently 
+competing in the British championship at Torquay. In the game below his 10..c6 
+was more dynamic than the previous Nh5 or b6, and when Korchnoi wrongly tried a 
+central melee by 16 f4 Black's active pieces took over. White could not play 25 
+Nh6 because of Qxe3+! and at the end 28...Qf1! forced decisive material gain.
+
+V Korchnoi v S Williams
+
+1 d4 Nf6 2 c4 g6 3 Nc3 Bg7 4 e4 d6 5 Nf3 0-0 6 h3 e5 7 d5 a5 8 Bg5 h6 9 Be3 Na6
+10 Bd3 c6!? 11 Qd2 Kh7 12 0-0 cxd5 13 cxd5 Nd7 14 Nh2 Ndc5 15 Bc2 f5 16 f4 exf4 
+17 Rxf4 fxe4 18 Raf1 Rxf4 19 Rxf4 Nb4 20 Bxe4 Nxe4 21 Nxe4 Bf5 22 Nc3 Qe7 23 
+Rf3 Re824 Ng4 h5 25 Nf2 Nc2 26 Bf4 Bd4 27 Kh2 Qe1 28 g4 Qf1! 29 gxf5 Ne1 0-1
+
+Williams continued his fine run in the opening rounds of this week's British 
+championship at Torquay. Black erred at moves 12 (dxe5 13 Ne4 Qf4) and 13 (Qd8) 
+missing 15 Qf5! At the end 22...a5 23 d7+ Kd8 24 Qg6! would be crushing.
+
+S Williams v J Rudd
+
+1 d4 Nf6 2 c4 c5 3 d5 e6 4 Nf3 b5 5 Bg5 exd5 6 cxd5 h6 7 Bxf6 Qxf6 8 Qc2 d6 9 
+e4 a610 a4 b4 11 Nbd2 Bg4 12 e5 Qe7? 13 Ne4 Bxf3? 14 Nxd6+ Kd8 15 Qf5! Bg4 16 
+Nxf7+ Ke817 Qxg4 Kxf7 18 Qf5+ Ke8 19 d6 Qb7 20 Be2 Nc6 21 Bf3 Ra7 22 O-O-O 1-0
+
+3098 1 Bd5+! Kxd5 2 exd7 g2 3 d8N! g1Q 4 c4 mate.
+ 

@@ -1,0 +1,100 @@
+
+People often refer to the idea that we are living in 1984, but to what extent 
+is that a valid observation about contemporary society? If Big Brother is 
+always watching, how is he watching us now? And to what end? In recent months,
+revelations about the NSA's PRISM programme 
+<https://www.theguardian.com/world/2013/aug/23/nsa-prism-costs-tech-companies-paid>
+ have complicated our love affair with digital technology. Our mobile phones 
+have been transformed into the equivalent of Orwell's telescreens, watching us 
+as much as we watch them.
+
+Headlong <http://headlong.co.uk/> is a theatre company with a reputation for 
+making exhilarating, risk taking and provocative new work – since early 2013, 
+we have been talking toKing's Cultural Institute 
+<http://www.kcl.ac.uk/index.aspx> about collaborating on a project that would 
+explore the relationship between digital technology and live performance.
+
+The institute specialises in building and supporting partnerships between 
+research expertise at King's College London and artists and arts organisations. 
+Our ambition was to work together to develop a digital experience that operates 
+in a similar way to the theatre that Headlong makes, by offering the user a 
+chance to see the world around them in a new way or by driving home a truth 
+that they already half know in a visceral sense.
+
+There was also a desire to produce a digital experience that builds a 
+relationship between the digital experience and the live event. The best 
+digital work in performance (tryConey 
+<http://youhavefoundconey.net/newindex.html> and Rimini Protokoll 
+<http://www.ciudadesparalelas.com/menu_ingles.html>) is not a reproduction of 
+the live experience, but rather is a parallel experience that augments the live 
+event or enables the audience to see the performance they have experienced in a 
+new light. The digital illuminates the live and vice versa.
+
+With a radical adaptation of 1984 <http://headlong.co.uk/work/1984/> on tour 
+this autumn and an increasing sense that we were all being stalked online by 
+the furniture that we had looked at but hadn't bought from John Lewis, the 
+decision was taken to develop an app that would examine Orwellian ways in which 
+digital technology surveys us. And so we set about to make the1984 Digital 
+Double app <http:> – it seemed appropriate to use digital technology to 
+interrogate the technology itself.
+
+The resources we had at our fingertips were: boundless enthusiasm; a set of 
+experts on contemporary politics and digital technology from King's College; 
+and the help of a talented design studio,M/A <http://www.ma-work.co.uk/>, who 
+would be able to turn our ideas into an actual app. Our budget was modest, in 
+comparison to the six-figure sums that are spent on commercial apps, and with 
+the show set to open in September 2013, our time was limited.
+
+Dr Btihaj Ajana – whose research deals with the role that digital and 
+biometric technology plays in contemporary surveillance and the effect of that 
+technology on our psychological understanding of ourselves as individuals – 
+introduced the concept of the 'digital double'. This is the online version of 
+ourselves that is tracked by organisations whose interests range from marketing 
+to national security. This online version of ourselves is not necessarily an 
+accurate representation of our real world identity. The first aim of the app 
+was to provide the user a summary of their online identity – to show them their 
+digital double.
+
+We decided to build the digital double from the personal data that users would 
+have willingly placed in the public domain by posting it on social media 
+sites.This decisions were grounded in the idea that the main difference between 
+the world of 1984 and contemporary surveillance is that whereas Winston is 
+spied upon in even his most private moments, we now willingly volunteer private 
+information about ourselves online. What need is there for the thought police, 
+when we openly broadcast our every thought in real time on Twitter?
+
+In addition to showing the user their digital double, we wanted to provide 
+them with some in-depth information about the ways in which they are tracked 
+online and to enable them to consider how digital technology might be changing 
+the very idea of personal privacy itself. Finally, we wanted to empower the 
+user with some practical information about how to remove or better protect 
+their online personal data.
+
+The data that is gathered by the app is fed into two live experiences. The 
+first occurs around the performances of 1984, while the second will take the 
+form of an installation created by the visual artistMichael Takeo Magruder 
+<http://www.takeo.org/>, which will be presented next year. These experiences 
+offer the user a live equivalent of their online activity. After all, the 
+internet is a public space in the same way a town square or a street or a 
+theatre foyer is.
+
+The project is still in its early phases. Taking part in the live version for 
+the first time at Nottingham Playhouse the other night, I was surprised by how 
+quickly the initial discomfort I felt passed. I heard audience members around 
+me discussing their use of social media but no-one appeared shocked or alarmed 
+by what they were seeing.
+
+Digital technology is becoming a more and more intrinsic part of who we are as 
+human beings as it moves from the phones in our hands to theglasses on our faces
+ <http://www.google.com/glass/start/>. This process is increasingly challenging 
+our sense of what is public and what is private. I found myself asking whether 
+a world in which our every thought is public would be such a bad place after 
+all?
+
+Sarah Grochala is an associate artist with Headlong <http://headlong.co.uk/>
+
+This content is brought to you by Guardian Professional 
+<http://theguardian.com/guardian-professional>. To get more articles like this 
+direct to your inbox, sign up free to become amember of the Culture 
+Professionals Network <https://register.theguardian.com/culture-professionals/>.
+ 

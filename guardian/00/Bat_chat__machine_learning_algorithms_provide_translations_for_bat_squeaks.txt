@@ -1,0 +1,83 @@
+
+It turns out you don’t need to be Dr Doolittle to eavesdrop on arguments in 
+the animal kingdom.
+
+Researchers studying Egyptian fruit bats say they have found a way to work out 
+who is arguing with whom, what they are squabbling about and can even predict 
+the outcome of a disagreement – all from the bats’ calls.
+
+
+“The global quest is to understand where human language comes from. To do this 
+we must studyanimal communication 
+<https://www.theguardian.com/science/2014/aug/30/animal-sounds-human-speech-language>
+,” said Yossi Yovel, co-author of the research from Tel Aviv University in 
+Israel. “One of the big questions in animal communication is how much 
+information is conveyed.”
+
+
+Egyptian fruit bats, common to Africa and the Middle East, are social 
+creatures. But the calls they make as they huddle together to roost are almost 
+impossible to tell apart by human ear, all simply sounding aggressive. 
+“Basically [it’s] bats shouting at each other,” said Yovel.
+
+But, writing in the journal Scientific Reports 
+<http://nature.com/articles/doi:10.1038/srep39419>, Yovel and colleagues 
+describe how they managed to discern meaning within the squeaks.
+
+
+The approach, they reveal, relied on harnessing machine learning algorithms 
+originally used for human voice recognition. A form of artificial intelligence, 
+machine learning algorithms are “trained” by being fed data that has already 
+been sorted into categories, and then used to apply the patterns and 
+relationships the system has spotted to sort new data.
+
+These dolphins talk to each other. Why do we insist it isn’t language?
+ Read more  
+<https://www.theguardian.com/commentisfree/2016/apr/20/dolphins-talk-language-animal-communication-cooperation>
+The team spent 75 days continuously recording both audio and video footage of 
+22 bats that were split into two groups and housed in separate cages. By 
+studying the video footage, the researchers were able to unpick which bats were 
+arguing each other, the outcome of each row, and sort the squabbles into four 
+different bones of contention: sleep, food, perching position and unwanted 
+mating attempts.
+
+The team then trained the machine learning algorithm with around 15,000 bat 
+calls from seven adult females, each categorised using information gleaned from 
+the video footage, before testing the system’s accuracy.
+
+The results revealed that, based only on the frequencies within the bats’ 
+calls, the algorithm correctly identified the bat making the call around 71% of 
+the time, and what the animals were squabbling about around 61% of the time. 
+The system was also able to identify, although with less accuracy, who the call 
+was aimed at and predict the fallout of the disagreement, revealing whether the 
+bats would part or not, and if so, which bat would leave.
+
+
+The differences between the calls were nuanced. “What we find is there are 
+certain pitch differences that characterise the different categories - but it 
+is not as if you can say mating [calls] are high vocalisations and eating are 
+low,” said Yovel.
+
+The results, he says, reveals that even everyday calls are rich in 
+information. “We have shown that a big bulk of bat vocalisations that 
+previously were thought to all mean the same thing, something like ‘get out of 
+here!’ actually contain a lot of information,” said Yovel, adding that 
+analysing further aspects of the bats’ calls, such as their patterns and 
+stresses, could reveal even more detail encoded in the squeaks.
+
+Kate Jones, professor of ecology and biodiversity at University College, 
+London described the findings as exciting. “It is like a Rosetta stone to 
+getting into [the bats’] social behaviours,” she said of the team’s approach. 
+“I really like the fact that they have managed to decode some of this 
+vocalisation and there is much more information in these signals than we 
+thought.”
+
+With the approach based on the social sounds made between bats, Jones says the 
+technique could be used to shed light on how other species of animals 
+communicate.
+
+“It could be that you could apply the same type of techniques to other species 
+to figure out what they mean when they are interacting with each other,” she 
+said. “So it could be that it opens up a different world of understanding what 
+these communications are.”
+ 

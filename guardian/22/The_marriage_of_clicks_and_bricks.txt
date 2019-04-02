@@ -1,0 +1,140 @@
+
+Online merchants are now rushing to open physical stores, as the ability of 
+customers to touch and feel products becomes the latest competitive 
+differentiator in a world where consumers are now utterly spoilt for choice.
+
+Earlier this year, online giant Amazon opened its first physical store in 
+Seattle’s University Village, YouTube opened its first ‘Creator Store’ in 
+London and popular online menswear store Bonobos opened 10 stores this year.
+
+At the same time, traditional businesses are scrambling to build out their 
+online presence. In Australia, several established brands have substantially 
+amped up their digital presence, including book retailer Dymocks and leading 
+supermarket chains Coles and Woolworths, while major Australian banks have also 
+invested heavily in growing their online channels as new digital models disrupt 
+their long-held market dominance.
+
+Lee Hawksley, Senior VP and GM of Salesforce Marketing Cloud JAPAC, said the 
+bricks-and-mortar store is still the most important point of contact for any 
+business that has one. And it might surprise many to learn that online sales 
+globally account for just 10 percent of all consumer buying, with the 
+proportion more like seven percent in Australia.
+
+Yet with online trade set to continue growing its share of the bigger pie, the 
+hybrid retail model is emerging as the gold standard for delivering a truly 
+great customer-centric experience that keeps people coming back.
+
+“There is an expectation retailers will know exactly who a customer is at 
+every contact point, be that in physical stores, or online at any time and via 
+any device,” Hawksley says. “Customers want experiences that are relevant and 
+frictionless.”
+
+Customers want experiences that are relevant and frictionless.
+Lee Hawksley, Senior VP and GM of Salesforce Marketing Cloud JAPAC 
+Pure online players now have new and promising opportunities to build more 
+personalised and meaningful relationships with their customers. They also have 
+the advantage of having amassed rich reservoirs of customer data to further 
+hone their messages and deliver more targeted and responsive communications 
+in-store.
+
+Meanwhile, traditional businesses are looking outwards to entirely new markets 
+and new customers. Tapping into digital channels, including social media, also 
+opens doors to establish new connections and collect market data to then feed 
+back into improving both online and in-store experiences.
+
+Known as the ‘unified customer experience’, this strategy is centred around 
+being able to identify the customer and access important data about them at 
+every interaction, via any channel.
+
+In its essence, offering a unified customer experience means breaking down 
+silos and harnessing data to ensure that each and every customer has a 
+consistent experience across every touch point they have with a business.
+
+This means more than just ensuring all communications with customers have the 
+same tone and style. It also means using data about a customer’s demographics, 
+preferences and order history to tailor their customer experience, regardless 
+of whether their transaction is happening in the physical world or online.
+
+And online means wherever the customer happens to be. Salesforce’s Empowered 
+Shoppers Report found very high levels of smartphone ownership among Australian 
+shoppers, at 78 percent of Baby Boomers, 89 percent of Gen Xers and 98 percent 
+of Millennials.
+
+It also found 33 percent of shoppers saw the inability of merchants to support 
+mobile interactions as reason enough to switch brands. And that proportion is 
+only going to get larger as mobile devices assume a greater role in our lives.
+
+Meanwhile, in-store interactive touch screens, either on fixed digital kiosks 
+or portable tablets, are becoming more commonplace, especially in retail.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F25%2Fthe-marriage-of-clicks-and-bricks%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F93757294a04b4cb038b195c30786dc27ed9e1f06%2F0_0_5130_3316%2F5130.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20marriage%20of%20clicks%20and%20bricks&url=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F25%2Fthe-marriage-of-clicks-and-bricks%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20marriage%20of%20clicks%20and%20bricks&url=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F25%2Fthe-marriage-of-clicks-and-bricks%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F93757294a04b4cb038b195c30786dc27ed9e1f06%2F0_0_5130_3316%2F5130.jpg>
+ Meanwhile, in-store interactive touch screens, either on fixed digital kiosks 
+or portable tablets, are becoming more commonplace, especially in retail. 
+Photograph: Ariel Skelley/Getty Images/Blend Images 
+Tablets are being used to help retail customers find the right fit. For 
+instance, some retailers are experimenting with 3D body scanners that collect 
+and process large numbers of data points to create precise images. Then there 
+are applications being used by grocery stores whereby tablets attached to 
+shopping carts detect RFID (radio frequency identification) tags on products, 
+triggering messages such as recipes related to a particular food item.
+
+Digital screens are also being integrated with technologies like QR codes, or 
+near-field communication (NFC) for immediate access to information. 
+Smartphone-coded tags let shoppers scan a coded tag on an item of clothing with 
+a smartphone, then use the device to select colour and size, which then 
+triggers an automated system to send the item directly to the customers’ change 
+room.
+
+Retailers in the US are also experimenting with digitally connected 
+interactive hangers. With this technology, the simple act of a shopper picking 
+a hanger off the rack can trigger preprogrammed visual media on nearby screens, 
+or change the lighting and background music in a store.
+
+Augmented and virtual reality technologies are also looming large on the 
+horizon. Both have potential to let customers view different products, colours 
+and sizes from multiple perspectives and with information overlayed, while 
+potentially sharing that information with friends – or colleagues – via social 
+media.
+
+Combined, these trends mean that old fears about digital retailing supplanting 
+bricks and mortar stores are misplaced. Rather than developing independently, 
+the two spheres are beginning to trace a similar arc, en route to delivering 
+unified customer experiences.
+
+Smarter, faster, brighter: business in an AI world
+ Read more  
+<https://www.theguardian.com/salesforce-the-unfair-advantage/2016/oct/13/smarter-faster-brighter-business-in-an-ai-world>
+For how this trajectory plays out, take Nordstrom, one of the oldest retailers 
+in the US. The upscale fashion chain has been long-renowned for the peerless 
+customer service at its stores but has also begun taking its customer cues from 
+online as well.
+
+Nordstrom is one of the most followed brands on Pinterest, and has used that 
+following to bring a more cohesive link between the digital and physical for 
+its customers.
+
+For instance, each week Nordstrom staff will analyse which items from their 
+online store are getting the most interactions, and add these to their main 
+Pinterest board. They’ll also use Pinterest data to inform everything their 
+stock-ordering and marketing decisions.
+
+But the link goes further than that, as Nordstrom has also begun bring 
+Pinterest to life in its stores. With the aid of a specially developed app, 
+in-store salespeople are able to get an instant look at what products are 
+trending most strongly, and attach signs telling customers what items are the 
+‘Top Pinned’ ones and ensuring they are prominently displayed.
+
+Through initiatives like this, Nordstrom has helped ensure effortless 
+transitions between the digital and physical world for its customers.
+
+That’s the goal for business looking to thrive astride both spheres. Neither 
+needs to be competition for the other; instead, each can open up new 
+opportunities to better understand and delight customers.
+
+Learn how to ensure the very best customer experience each and every single 
+time <https://ad.doubleclick.net/ddm/clk/312160040;139916876;c>
+ 

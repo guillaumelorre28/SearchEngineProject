@@ -1,0 +1,260 @@
+
+Amazon’s Echo voice-controlled smart speaker is finally available in the UK, 
+but was the wait worth it?
+
+
+The Echo is one of the first devices with Amazon’s voice assistant – a rival 
+to Apple’s Siri, Google’s Assistant and Microsoft’s Cortana – which allows you 
+to control music playback just by speaking to it and a whole lot more.
+
+What is it?
+ Ask Alexa for the weather and she’ll tell you what’s what, but the Alexa on 
+your smartphone app will also fire up with more detail. Photograph: Samuel 
+Gibbs for the Guardian 
+Echo is three devices in one. It’s a voice-controlled Wi-Fi and Bluetooth 
+speaker capable of playing music fromAmazon 
+<https://www.theguardian.com/technology/amazon> music, a Spotify premium 
+account or a smartphone, tablet or computer connected via Bluetooth.
+
+It’s also a smart voice assistant called Alexa that’s capable of answering 
+queries, setting timers, doing calculations, telling you the weather or what’s 
+in your calendar and other bits you might expect from Siri, Cortana or Google 
+Assistant. It also has third-party app integrations that allow users to 
+interact with the National Rail app for train times and other similar services.
+
+Finally, Echo is smart-home controller that can turn devices on and off, set 
+scenes and other internet of things functions just by saying: “Alexa, turn on 
+the living room light.”
+
+What does it look like?
+ The top ring lights up: blue when listening to you; red when muted, which is 
+clearly visible from across the room. Photograph: Samuel Gibbs for the Guardian 
+Standing 23.5cm tall with a diameter of 8.4cm, the Echo is a small tower 
+speaker available in black or white. When not active it simply looks like a 
+black perforated tube, but when spoken to a ring of lights up top sparkle to 
+indicate activity, state and whether it’s listening to your barked orders.
+
+In its base are two down-firing speakers - one tweeter and one 2.5in woofer - 
+producing 360-degree audio. At the top are two buttons, one for performing 
+actions and the other for muting the voice recognition. A rotating ring at the 
+top acts as a volume control, but in truth you never need to use it or the 
+action button.
+
+It sounds pretty good for a single 360-degree speaker. It’s not going to 
+please audiophiles or beat a good pair of speakers, but it is fully capable of 
+filling a room with pretty good sound. It’s not quite as good as a Sonos Play 
+1, which also costs £150, but then it is doing a lot more for the same price.
+
+The real magic is the hidden in the top. An array of seven microphones work in 
+conjunction to do what’s called beam forming – isolating a sound coming from a 
+particular direction by cancelling out all other noise. The mic array means 
+Alexa can hear you even when playing music at full blast, or in my case, from 
+the other end of the kitchen while the washing machine, oven and dishwasher are 
+all going.
+
+I was constantly amazed that it could hear me from the front door, all the way 
+down the other end of my long and narrow terraced house.
+
+What does it do?
+ The blue ring of lights shows that the Echo is actively listening to you and 
+streaming your speech to the cloud to interpret what you’re trying to say. The 
+white light shows you where the speaker thinks your voice is coming from. 
+Photograph: Samuel Gibbs for the Guardian 
+All you need to do to activate Echo is say its wake word - Alexa, Echo or 
+Amazon, you get a choice - and it will begin listening to your dulcet tones.
+
+Say “Alexa, play some Tycho” and it will start playing a playlist of tracks 
+from Tycho from Amazon Prime music, presuming you have a Prime account or 
+Amazon Music Unlimited if you’re a subscriber. In the UK you can also listen to 
+music from a Spotify premium account, which can be set to default or be used 
+instead of Prime by just saying “from Spotify” at the end. TuneIn for radio or 
+the Radioplayer are also available if you’re just after some general music.
+
+Once music is playing, saying “Alexa, turn up the volume” does what you might 
+expect. The remarkable thing is that the array of mics picks you up even when 
+it is blasting music at full volume. Or in my case, playing music loud enough 
+to drown out the cooker hood extractor fan.
+
+You can skip tracks, of course, switch to radio through TuneIn, or play music 
+via a Bluetooth source. It can do other useful basic things, such as set 
+timers, alarms and tell you the time, which is more useful than you might think 
+if you’re cooking.
+ If adjusting the volume via voice is a bit of a faff, the top ring twists for 
+instant volume control with the light ring indicating the current level. 
+Photograph: Samuel Gibbs for the Guardian 
+Alexa has access to a wealth of data too. You can ask it questions, get the 
+weather, the latest news or sport scores, find out when the next game is on or 
+check a calendar that you’ve connected through the Alexa app on your phone. 
+Here is where Echo is both amazing and not quite there.
+
+It can answer more questions correctly than Apple’s Siri in my testing, but 
+can’t quite match the sheer volume of data that Google’s Assistant has access 
+to. Alexa will normally understand the question, but doesn’t have the answer. 
+It’s not like it can simply show you a web search.
+
+Amazon also supports third-party apps called “skills”, which are installed 
+using the Alexa app on your smartphone. Once added, asking Alexa to open or ask 
+the skill a question provides you with all sorts of features.
+
+The Guardian skill 
+<https://www.theguardian.com/help/insideguardian/2016/sep/28/introducing-the-guardian-skill-for-alexa>
+, for instance, can read you the latest headlines from the Guardian, play 
+podcasts and give you a flash-style update on what’s going on. You can navigate 
+sections and more.
+
+The National Rail skill can give you an update on your commute via rail, or 
+specific train times. Out of the box Alexa can give you traffic updates for 
+road commutes and the weather, of course. The Tube Status skill does what it 
+says on the tin, but if it’s all horrible then the Uber skill can order you a 
+taxi.
+
+There are cocktail skills that can read out the ingredients for a Tom Collins. 
+Anything much more complicated than that though and you’ll need a pen and paper 
+- at which point you might as well use your phone. The Jamie Oliver skill reads 
+out recipes, but suffers from a similar problem, so it’s a lot easier to enable 
+the Just Eat skill and ask Alexa to “ask Just Eat to re-order my last Chinese”.
+
+There are more trivia, fact, joke and other random entertainment skills than 
+you can shake a stick at, while the Sound Machine skill can give you applause 
+on demand for when you need a pat on the back.
+ Hit the mute button and the microphones are electrically disconnected. As 
+long as the light ring and mute button are lit up in red, Echo and Alexa cannot 
+hear you. Photograph: Samuel Gibbs for the Guardian 
+The longer I had Echo in my kitchen the more I got used to it just being there 
+and being able to do things quicker and more easily than I could, but it took 
+until I was alone in the house, midway through a DIY project, hands full of 
+tools, covered in rubbish, bent in an awkward position to reach something and 
+needing a calculation to proceed that I realised that voice assistants in the 
+home were the future.
+
+I couldn’t reach my phone, I was tired and even on a good day I wouldn’t be 
+able to tell you what 57.5 divided by five was. So I simply shouted - I was 
+pretty stressed at this point - “Alexa, what’s 57.5 divided by five” and from 
+across the room out she bellowed “11.5”. I marked and I cut and the job was 
+done.
+
+Could a phone have done that? Of course. Could it has heard me talking through 
+furniture and at the other end of the room? Probably not. Would I have done 
+that in public, absolutely not, but the home is the perfect place for a voice 
+assistant.
+
+Smart Home
+ Your devices, groups and smart home skills are all configured through the 
+Alexa app. Photograph: Samuel Gibbs for the Guardian 
+Arguably the most interesting set of skills for Alexa are the ones for 
+integrating various smart-home devices. There’s nothing quite as cool as 
+walking into a room and saying “Alexa, lights on in the kitchen” and it 
+happening as if by magic.
+
+Of course, it depends on which devices you already have or are intending to 
+buy. Skills exist forNest 
+<https://www.theguardian.com/technology/2016/jun/03/google-nest-learning-thermostat-third-generation-home-gadget-smart-heating>
+, Hive, Honeywell, Tado, LightwaveRF and LIFX; the Echo works out of the box 
+Philips Hue and soon onSonos 
+<https://www.theguardian.com/technology/2016/apr/29/sonos-play5-review-wireless-wifi-speaker-multiroom-music>
+ too, although there’s a Hue skill available for more advanced features such as 
+scene control.
+
+Alexa also has integration with Samsung’s Smartthings Hub 
+<https://www.theguardian.com/technology/2016/feb/08/samsung-smartthings-hub-review-internet-of-things>
+, which means that anything supported by Smartthings, which is basically 
+everything, can be hooked up to the Echo through the Smartthings Hub.
+
+Setting it up is both simple and complicated. Going into the Alexa app and 
+adding skills is easy, so is setting discovery, or you can simply say “Alexa, 
+discover devices” and she’ll do as required. They’re all listed in the Alexa 
+app, which if you have even just a few smart bulbs can easily produce a massive 
+list.
+
+For instance, each scene available for each bulb is listed as a separate 
+entry. I easily had more than 150 entries in my smart home list with 
+duplications - Hue bulbs showed up once from the Hue skill and again from the 
+Smartthings Hub. You can configure what’s visible and what isn’t to Alexa 
+within the various skills, or make Alexa forget them directly. You have to do 
+it one-by-one, which is rather time consuming.
+ The Echo is available in black or white. Photograph: Samuel Gibbs for the 
+Guardian 
+You also have to consider what you call all your devices. You have to be able 
+to say them easily and Alexa has to be able to understand what you’re on about. 
+Numbering lights one, two and three in each room doesn’t work well, for 
+instance. If you tell Alexa to turn off the bedroom light, but you have more 
+than one light in the room called bedroom light, she will ask which one.
+
+The easiest thing to do is to call each light or device something separate and 
+then group them together within the Alexa app. I grouped all my devices into a 
+massive group called “house”. This meant I could walk out the door and shout 
+“Alexa, house off” and everything would turn off.
+
+I also created groups for individual rooms, upstairs, downstairs and the 
+hallway, so that they were easy to command for each place in my house. The 
+groups overlapped so that I could command more than one rooms’ lights in one 
+go. It took a bit of thought to work out what was going to be easy to remember 
+and say, but was well worth it.
+
+Observations
+
+ * Alexa differentiates between the singular and plural of words - light 
+versus lights elicits different responses 
+ * Talking to it like a human gets better results than like a robot in 
+sentence structure 
+ * The Alexa app on your phone is relatively slow - use it where you have 
+solid Wi-Fi 
+ * House guests were amazed by Echo - it is definitely a statement piece in a 
+house 
+ * You can buy products from Amazon via voice, which works just fine if you 
+know what you’re after, but it’s a lot easier to just pull out a smartphone in 
+most instances 
+Price
+
+The Amazon Echo is available in either black or white for £149.99.
+
+The only other similar competitor is Google Home 
+<https://www.theguardian.com/technology/2016/oct/04/google-home-launch-amazon-echo-voice-recognition-uk-living-rooms>
+, which is not yet available in the UK, but costs $129 (£104) in the US.
+
+Verdict
+
+The Amazon Echo is a device that once you get into your home you’ll find more 
+and more uses for it. The question is really whether it does something that’s 
+interesting or useful enough for you to buy it.
+
+It’s a pretty good speaker, but not the best. It has fantastic voice 
+recognition and can hear you from anywhere over anything. It will pretty much 
+always understand what you’re saying but can’t always help you out with it. It 
+has third-party apps for most things and more appear each day.
+
+Is voice the best way to access everything? No. Is it the most convenient for 
+a lot of things? Absolutely. The potential privacy implications of having an 
+internet-connected listening device in your home aside, having something that 
+understands you and just does what you need nine times out of 10 is brilliant.
+
+The Echo is the best voice assistant-come-speaker you can buy in the UK at the 
+moment. But it won’t be the only one in the near future. Google’s Home has the 
+advantage of access to more data than anything else on the planet, but data is 
+only one part of the equation. Being able to hear and understand you every time 
+is the most important thing for a voice-only object and Amazon has absolutely 
+nailed that with Echo.
+
+Pros: can almost always hear you, mute button electrically disconnects the 
+mics, rotating light ring obvious, lots of third-party apps, sounds pretty 
+good, sounds more human than any other voice assistant
+
+Cons: can’t always answer the question, always-listening object in your house, 
+doesn’t support multiple user calendars or personal information, only one 
+Spotify or Amazon music account can be linked at any one time
+
+Other reviews
+
+ * Samsung SmartThings Hub review: an Internet of Things to rule them all? 
+<https://www.theguardian.com/technology/2016/feb/08/samsung-smartthings-hub-review-internet-of-things>
+
+ * Withings Body Cardio review: stylish scales for health obsessives 
+<https://www.theguardian.com/technology/2016/jun/10/withings-body-cardio-review-stylish-scales-health-obsessives>
+
+ * Nest Learning Thermostat third-gen: the simple, effective heating gadget 
+<https://www.theguardian.com/technology/2016/jun/03/google-nest-learning-thermostat-third-generation-home-gadget-smart-heating>
+
+ * Logitech Harmony Elite review: easy to use remote that takes charge of your 
+home 
+<https://www.theguardian.com/technology/2016/apr/04/logitech-harmony-elite-review-remote-control-home-nest-smartthings-tv-sky>
+ 

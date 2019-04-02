@@ -1,0 +1,54 @@
+
+Verizon-owned prominent technology site TechCrunch  
+<https://www.theguardian.com/media/techcrunch>has become the latest victim of 
+the OurMine hacking group.
+
+
+OurMine Security appeared to gain publishing access to the site, which uses 
+the popular content management system Wordpress, and posted its now infamous 
+message.
+
+A post on the site under the byline of Seattle-based writer Devin Coldewey 
+said: “Hello Guys, don’t worry we are just testing techcrunch security, we 
+didn’t change any passwords, please contact us.”
+
+The post was then promoted as a ticker, the top banner in red and a the main 
+story on TechCrunch’s front page.
+
+The OurMine posting appeared at around 12.20pm BST (7.20am ET) but was removed 
+within two hours. It was still showing in Google’s indexand cache 
+<http://webcache.googleusercontent.com/search?q=cache:https://techcrunch.com/2016/07/26/ourmine-team-important-message/>
+ at the time of writing.
+
+The attack on the technology site is latest in a number of high-profile 
+compromises by OurMine, which included the social media accounts of Twitter 
+chief executiveJack Dorsey 
+<https://www.theguardian.com/technology/2016/jul/11/twitter-ceo-jack-dorsey-account-hacked-ourmine-security>
+, Facebook CEOMark Zuckerberg 
+<https://www.theguardian.com/technology/2016/jun/06/mark-zuckerberg-hacked-on-twitter-and-pinterest>
+ and Google bossSundar Pichai 
+<https://www.theguardian.com/technology/2016/jun/28/sundar-pichai-hacked-ourmine-group-bitly>
+.
+
+OurMine also claimed responsibility last week for a DDoS attack on Pokémon 
+Go’s servers.
+
+The TechCrunch <https://www.theguardian.com/media/techcrunch> attack appears 
+to have leveraged a contributor’s account, rather than a hack on the site’s 
+Wordpress system. In previous attacks, OurMine has used weaker linked accounts 
+to post to services such as Twitter, rather than taking over the user’s social 
+media accounts directly.
+
+The attacks underscore the inherent flaws in linked systems: your accounts, or 
+in this case site, is only as resilient as your weakest link. Security experts 
+recommend the use of two-step verification systems to help prevent accounts 
+being compromised. It is unknown whether TechCrunch writer accounts required 
+two-step verification for access to the site’s Wordpress backend.
+
+TechCrunch, which is owned by AOL <https://www.theguardian.com/technology/aol>
+, and in turn by Verizon, did not respond to request for comment.
+
+ * Oculus CEO is latest tech boss hacked in embarrassing account takeover 
+<https://www.theguardian.com/technology/2016/jun/30/oculus-ceo-is-latest-tech-boss-hacked-in-embarrassing-account-takeover>
+From Tumblr to Katie Couric, here’s everything Verizon just bought from Yahoo 
+<https://www.theguardian.com/technology/2016/jul/25/tumblr-katie-couric-verizon-yahoo> 

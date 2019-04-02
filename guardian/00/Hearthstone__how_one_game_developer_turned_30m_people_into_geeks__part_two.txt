@@ -1,0 +1,252 @@
+
+Hearthstone: how a game developer turned 30m people into card geeks, part one 
+<https://www.theguardian.com/technology/2015/jun/25/hearthstone-blizzard-strategy-trading-cards-greg-austin>
+
+Every Hearthstone match starts in the same way. 
+
+Players select a hero class from the nine alternatives, each with their own 
+specific abilities. Next, they build a deck of 30 cards to act as their hero’s 
+army, most with attack and defence stats as well as special modifiers – they 
+may be able to add health to fellow minions when played onto the table, or 
+“buff” or augment other cards in order to create powerful combination attacks. 
+Every card also has a mana value, which effectively represents the cost of 
+playing it.
+
+Participants take it in turns to place their cards on the table, then choose 
+to attack either their opponent’s minion cards or their hero. Players start 
+with one mana crystal each, initially restricting them to less powerful cards, 
+but with each turn, the mana count rises opening up more devastating options. 
+When one hero’s defence count hits zero, the match is over. This is how over 30 
+million players spend many hours every week.
+
+But why is it so compelling?
+
+The beauty of the game is its mix of charm, intuitive design and reasonable 
+depth. It’s easy to get into, with a straightforward turn-based mechanic and 
+clear rules, but the combination of minion, spell and weapon cards, means that 
+players can produce complex and multifaceted strategies that shift and mutate 
+depending on the next card drawn from their pack.
+
+“The interesting thing about Hearthstone is that it actually does much less 
+than Magic and other CCGs,” says game designer Will Luton, who is also a 
+tournament Magic player. “Magic is such a complex game that even the smallest 
+tournament organiser has to employ judges, who are graded through incredibly 
+rigorous training and testing procedures by Wizard of the Coast’s tournament 
+governing body the DCI. Even top pros are seen to call judges and ask questions 
+on card interactions or specific timings of events and in some cases there is 
+no answer and cards need to be amended or rulings made in Gatherer, Magic’s 
+card database.”
+
+Hearthstone is much more simple, removing elements that upset the pace and 
+fluidity, like the ability to ‘respond’ – to play off turn in response to 
+another player’s card or effect. “It was certainly more complex when we 
+started,” says Hearthstone lead designer, Eric Dodds. “With the taunt mechanic, 
+which lets a Minion protect the hero from any incoming attacks, we originally 
+thought the player should have to select which attacker to step in front of. 
+But we tried it and we didn’t like the break in flow between turns. So we 
+simplified the mechanic. We made a number of changes like that over time.”
+
+Luton agrees that this has made the game much more accessible, but it also 
+retains enough of what makes paper CCGs so successful. Tactics that will work 
+in more complex games, work here: the underlying structures and demands are the 
+same.
+
+“All CCG games can be abstracted out and considered as a constant exchange of 
+value,” he says. “A good player can come in to Hearthstone and apply long 
+tested theories, such as tempo vs card advantage or beatdown theory, very 
+effectively. For example, they’ll know that polymorphing a creature and then 
+hitting it with a Fireball is expending two cards to remove one minion and so 
+is a poor value exchange, whilst a new player probably won’t make that 
+consideration. But over time, and with enough exposure to theory, players start 
+to consider every play they make from a value perspective.”
+
+Matt Burke, an experienced Hearthstone player and YouTuber agrees that while 
+the game is super intuitive, it retains just enough complexity to allow player 
+invention. With the large number of cards available – many of them 
+interoperable – the community is able to construct its own strategies and 
+combinations. As with chess, different tactics go in and out of fashion as the 
+player-base evolves. At the same time, the game shares similarities with poker 
+– something the design team played a lot of, and borrowed elements from – 
+including a “mulligan” sequence at the start where participants are able to 
+reject cards. Although players build custom decks, they don’t know which cards 
+will be dealt into their hand during play so they have to work with what 
+they’re given. And chance sometimes throws up some blockbusting opportunities.
+
+“Whenever anyone plays Hearthstone there are always some really cool card 
+combos you hope you can pull off,” says Burke. “If you get really lucky, it is 
+such a great feeling. For example, using the coin to get an Alarm-o-Bot out on 
+turn two and the next turn it summons Ysera, a legendary dragon card, or having 
+two Knife Jugglers out before flooding the board with Onyxia and her whelps, 
+and watching the Jugglers go to town throwing their daggers, clearing the board 
+and eventually winning me the game. These are one of a kind moments; it’s so 
+exciting when it happens!”
+
+The world is the board
+
+The intrinsic appeal of the gameplay is also augmented by the attractive 
+aesthetics and by a very clever user interface. The team decided that, although 
+this is a digital game, they wanted it have have the tactile feel of playing 
+with physical cards across an actual table. When you select a card it makes the 
+same swishing noise you get when drawing a real card from a pack; when you 
+place it, there’s the satisfying impact sound, like plastic on a wooden table 
+top. “A big part of the charm that we’re striving for – and this is reflected 
+through out the game’s user interface – is this notion of physicality,” says 
+production director, Jason Chayes. “The cards themselves feel like they have 
+weight, that they’re lovingly crafted out of these exotic materials by artisans 
+in the Hearthstone works in Azeroth. We wanted to make sure there was a feeling 
+of imaginative persistence in the game.”
+
+On top of this, the setting of the game also mimics a physical space. “We 
+experimented with a lot of different conceits for where you are in Hearthstone, 
+and why you are playing,” says Chayes. “It wasn’t until about halfway through 
+development where we had this notion that you’re inside a tavern playing on a 
+little miniature board. We thought, this is a great way to play, it works with 
+all our values, it has a lot of charm.”
+
+A key problem though, was maintaining the sense of having another person 
+sitting opposite you at the table. Hearthstone is an online title so the 
+opponent could be anywhere in the world – and there’s no camera or onscreen 
+avatar, so you can’t see them. To add a social element then, Blizzard provided 
+a small selection of phrases that players can select and send to their 
+opponent. It’s just stuff like greetings and friendly compliments, but it’s as 
+close as th eteam was willing to get to interaction.
+
+“Part of the notion of accessibility was to make it a very safe environment,” 
+says Chayes. “We wanted to ensure that you could come in and have fun and not 
+have to worry about negative comments and vitriol. Because of that we had to 
+make sure that the interaction with other players was within a confined 
+environments. But at the same time we didn’t want to lose that sense of sitting 
+across a table in the real world – we knew that interaction was very important. 
+You need to be able to say, ‘hey great game’, or even have the ability to 
+evolve that into a friendship after the match . We knew if we shut that off 
+completely you may as well be playing an AI.”
+
+The team also introduced elements to make the board more interactive, more 
+digital. During each match, players are able to interact with the scenic 
+elements around the board, perhaps loading a miniature catapult or stroking the 
+wings of a dragon. Eric Dodds says the idea was inspired by the movie Jumanji 
+about a board game that comes to life. Chayes insists it was about more than 
+simple aesthetics. “The idea for these ‘clickables’ came quite earlier,” he 
+says. “While playing physical card games, a lot of players like to shuffle the 
+cards in their hand when it’s not their turn, slide them around – almost like a 
+bit of a distraction. We wanted something similar, something to keep you busy 
+while your opponent was playing. So once we’d made the decision to focus on the 
+physicality of this board and this little virtual environment, we introduced 
+the notion of clickable scenic elements to address that need.”
+
+Depth vs balance
+
+Throughout 2012, Team Five began an escalating series of beta tests. The 
+prototype first went to Blizzard’s QA team before being shared with other 
+development teams within the company. August 2013 saw a limited closed beta, 
+followed by an open beta in January 2014.
+
+“Through each of these phases we were getting a lot of ideas about how to push 
+the game in new directions,” says Chayes whose team has continued to tweak the 
+balance of play after the official launch. “You can see this if you look 
+through the history of the cards we’ve adjusted over time. Unleash the Hounds 
+and Starving Buzzard come to mind - these are cards that we’ve come back to a 
+few times just to perfect the balance.
+
+“There’s a lot of interest in building very fast-paced rush decks - these 
+particular cards end up supporting that approach very effectively so we want to 
+make sure that we don’t eliminate rush as a strategy, it’s a very important 
+part of the game. But that said, it’s also important that no particular deck 
+type dramatically overwhelms the meta of the game. There have been others - 
+warlock has a few cards we’ve come back to – but overall we’ve felt pretty 
+happy with the balance, we’ve done smaller incremental changes over time, 
+rather than wholesale change to the way any particular class works.”
+
+Approaching the April 2014 launch of the game, there were still doubts within 
+Blizzard about its marketability. As Chayes explains, “We had tons of 
+experiences as we were designing the game where we were saying to people, ‘hey 
+you should check out Hearthstone’, we were really excited to show it to people. 
+But the feedback, even internally, was ‘oh that’s not really my type of game’. 
+That was a big challenge to us. How do we introduce this game from a genre that 
+players have existing biases around? We just wanted people to pick it up and 
+give it a shot.”
+
+To facilitate that the company made a crucial decision: Hearthstone would be 
+free-to-play. It costs nothing to download the game, and new card packs can be 
+bought with in-game currency earned through winning matches – but players can 
+also buy packs if they don’t want to wait. It’s a complex, controversial model, 
+and some players persist in calling Hearthstone a ‘pay to win’ game simply 
+because of the time it takes to accrue a deck with a lot of powerful 
+“legendary” minion cards if you’re not prepared to spend money.
+
+But what it’s meant is that a wider audience has come onboard – people who 
+would never have paid for a fantasy-themed strategy game. “You can essentially 
+collect every card in the game without spending a penny, which is what I’m 
+trying to do,” says actor Greg Austin, who runs a a gaming YouTube channel 
+where he regularly plays Hearthstone. “Sure, it’s going to take a long time, 
+but as a gamer, I prefer to earn what is given to me, and when I manage to open 
+up that awesome legendary card I’ve been yearning for, it feels that much 
+sweeter than if I had paid for it. Also, I don’t feel punished for not having 
+paid to get every single card in the game yet, as the element of chance 
+features very strongly – but fairly – in Hearthstone. That leads to some 
+downright epic game-changing moments.”
+
+After launch, as the player base swelled, something else was happening. 
+Hearthstone was becoming a spectator sport. YouTube streams sprang up 
+specialising in showing off cool decks and winning tactics, and very quickly, 
+games were being streamed over Twitch gaining huge viewer figures.
+
+Hearthstone goes professional
+
+Then, of course, the game was adopted into the growing eSports phenomenon 
+where pro-gamers compete in global tournaments. This year’s world 
+championships, set to be held as part of the massive Blizzcon festival this 
+autumn, will boast a $250,000 prize pot and an online audience of millions. The 
+neat thing about Hearthstone is that there’s a sense of engagement between 
+viewer and participant – unlike other pro strategy titles like Starcraft II, 
+which move at a hundred mouse clicks a minute, it’s slow enough that you can 
+see what the player is thinking about when they’re toying with their cards. 
+Watching decent players isn’t just a visual spectacle, it’s a viable learning 
+experience.
+
+Chayes says the team is surprised at the size of Hearthstone’s eSports 
+presence, but always felt the game had pro-gaming potential – and spectator 
+appeal. “Before we ever released it to the public, we held an internal 
+tournament and had one of our designers, Ben Brode, shoutcast the final. We 
+were able to fill up our studio theatre – people were getting all rowdy, 
+yelling at the screen, throwing things at each other, it was awesome. We saw 
+that happening and we thought, wow, this is more than just a match being fought 
+between two opponents.
+
+“After the closed beta it was really fun to watch the rise of the Hearthstone 
+community, to see personalities start to develop with different styles, 
+interacting with their audiences in different ways. At this stage we’re just 
+trying to catch up, throwing in new features for the game to help enable that.”
+
+Since the launch, just over a year ago, there has been a series of expansions, 
+including Goblins and Gnomes and Blackrock Mountain, adding new cards and 
+gameplay items. In June, Blizzard launched a new game mode, Tavern Brawl, which 
+opens up limited timed competitions with unique rules. But the development team 
+is aware it has to ensure the game remains approachable as it matures.
+
+“It’s an ongoing topic about how to not overwhelm players,” says Chayes. 
+“There are a lot of ways we ensure that: looking at the packs, we haven’t 
+introduced any new key words at this point - it’s still taunt – we have the 
+freeze mechanic, divine shield, all these ways to interact with your minions, 
+but we really want to be careful about bringing new ones out. It’s the same 
+thing with new classes, we get a lot of requested for things like monks and 
+death knights. Right now, we feel like there’s a lot to digest with the classes 
+we have. We feel like there’s a lot of design space to explore with all the 
+various abilities and mechanics we’ve already introduced.”
+
+Whatever happens, the same small team of designers, pooled together seven 
+years ago to play about with a weird game prototype, is still looking after 
+Hearthstone. They’re still sort of baffled about what’s happened.
+
+“It’s crazy to think it’s only been a year,” says Dodds. “A number of people 
+weren’t sure it would work – they would say, ‘well, collectible card games are 
+a great idea, but they’re not for me’. We had some very passionate supporters 
+within Blizzard but we also had people who said ‘I’m glad we’re doing it, but I 
+don’t think it’s a game I’m excited about playing’.
+
+“When we announced it a couple of years ago people were asking if we knew what 
+we were doing! But we’re very passionate CCG players, we always felt like it 
+was an amazing game type - it actually felt strange that there weren’t more 
+people playing. So we just said to ourselves, hey, let’s see if we can make a 
+game for everyone.”
+ 

@@ -1,0 +1,148 @@
+
+I have 23.5GB of photos and documents in OneDrive. In July, OneDrive’s free 
+storage ceiling will be reduced to just 5GB. Will I just lose a lot of data in 
+July or does Microsoft have a duty to retain it for a period of time?
+
+How easy is it to transfer all my data to another service? What options might 
+be best? Andrew
+
+Microsoft used to offer 15GB of free storage in OneDrive (formerly SkyDrive), 
+and a bonus offer added an extra 15GB for a camera roll. Microsoft did announce 
+that it would be reducing the free storage to 5GB, but after protests, it 
+allowed users to keep the storage they had.
+
+To keep your storage, you had to click a link in a Microsoft email, then click 
+a button to take up the offer. It was quick and easy, so I can’t imagine why 
+anybody wouldn’t do it. I can only assume you missed the offer, which closed on 
+January 31.
+
+People who were actually using more than 5GB of storage – which is a very 
+small minority – should also have had an email offering a free one-year 
+subscription to Microsoft Office 365 Personal, which includes 1TB of storage. 
+This normally costs £59.99 a year, and is good value if you need that much 
+storage. (Office 365 includes Microsoft Office software as well.) 
+Alternatively, you could buy 50GB of OneDrive storage for $1.99 a month.
+
+Saving your data
+
+Hundreds of millions of OneDrive accounts are involved, so it will take weeks 
+to roll out the new system. However, when it happens, users who are over quota 
+will be notified by email that they have one year to download their data. After 
+that, there are four stages <https://blog.onedrive.com/onedrive_changes_FAQ/>.
+
+1. Your account will function normally for 90 days, to give you plenty of time 
+to download any data that you don’t already have backed up.
+
+2. If you are still over quota after 90 days, you will no longer be able to 
+upload any files. However, you will still have nine months to download your 
+files.
+
+3. If you are still over quota after another nine months, your OneDrive 
+account will be locked. Microsoft says: “That means that you will not be able 
+to access the content in your OneDrive until you take action.” It doesn’t say 
+what action you have to take, but I’d guess it involves selecting which files 
+or folders to delete.
+
+4. If you still haven’t done anything, Microsoft says “your content may be 
+deleted”. (Note that Microsoft says “may” not “will”. However, if you’ve 
+ignored the problem for a year, you can’t really complain if the worst happens.)
+
+Alternative cloud stores
+
+“Cloud storage” just means somebody else’s hard drive, accessible via the 
+internet at much slower speeds than a local hard drive. Hard drives are cheap, 
+so there are dozens of cloud storage services. Alas, they are not all reliable, 
+and they quite often change their terms of service, or leave the business, 
+voluntarily or not. (For example, I usedCopy 
+<https://www.copy.com/page/home;section:landing>, which closed on May 1.)
+
+Most people use cloud storage that’s bundled with other services. This 
+includes Microsoft’s OneDrive, Amazon Drive, Google Drive, and Apple’s iCloud. 
+In theory, you could just open lots of email accounts and get free storage with 
+each one. However, you’d lose the main attraction, which is storing and sharing 
+files associated with your main email account, and/or documents created with 
+the associated online word processors, spreadsheets etc.
+
+You already have OneDrive, and Amazon 
+<https://www.amazon.co.uk/clouddrive/pricing> would be a good addition. Amazon 
+customers get 5GB of free online storage, or 20GB for £6 per year, while Amazon 
+Prime “now includes free storage in Amazon Drive for your entire photo 
+collection”.
+
+Google Drive may be less useful because the free 15GB includes your Gmail (and 
+I have 14GB of that), and becauseit’s easy to lose files 
+<http://googledrivesucks.com/>. Google Photos, like Facebook, also offers 
+unlimited photo storage, but only at reduced resolutions: original photos count 
+against your storage quota.Upgrading Google Drive 
+<https://support.google.com/drive/answer/2375123?hl=en> to 100GB costs $1.99 
+per month, while 1TB costs $9.99 per month.
+
+Dropbox is by far the best standalone online storage service, but only offers 
+2GB of free space.Upgrading to 1TB <https://www.dropbox.com/pro/buy> costs 
+£7.99 per month or £79 per year. It’s the best choice if you’re willing to pay 
+for storage.
+
+Since you are mainly storing photos, it would be worth considering a more 
+specialised service.Flickr offers a free 1TB of photo storage 
+<https://help.yahoo.com/kb/flickr/sln15628.html>, which is more than 500,000 
+images. The main drawback, for serious photographers, is that it won’t store 
+RAW files.
+
+However, be very careful before using image hosting services, which are 
+oriented towards showing low-resolution images on the web. Most of them are not 
+designed for storing original images for backup purposes.
+
+Moving between clouds
+
+Cloud services are like lobster pots: much easier to get into than out of. In 
+a better world, it would be easy to move files between different cloud drives 
+at terabit per second speeds. As it is, the usual method is to painfully 
+download all your data from one cloud and then even more painfully re-upload it 
+to another cloud.
+
+You only have 25GB of data, so you should be able to upload it all overnight. 
+Ideally, this could be as simple as dragging a collection of files from the 
+OneDrive folder on your PC to your Dropbox folder, or whatever.
+
+But this is such an obvious pain-point, that there are plenty of services that 
+will help you to move data between popular cloud services. Examples includeMover
+ <https://mover.io/>, Odrive <https://www.odrive.com/>, MultCloud 
+<https://www.multcloud.com/>, CloudFuze <https://www.cloudfuze.com/> and 
+Cloudsfer <https://www.cloudfuze.com/personal/>. Obviously, you have to trust 
+these services with your data.
+
+Most of these are paid-for services, or charge for larger data transfers. For 
+example, MultCloud is free for up to 2TB of traffic, and it supports most 
+popular services, including OneDrive, Amazon Drive, Dropbox, Box, Google Drive, 
+and Flickr.
+
+Odrive is designed to “aggregate all your accounts into one system. One 
+password, one application,” which sounds like a good idea. CloudFuze seems to 
+work the same way
+
+Several “cloud managers” are available as apps, usually for Apple’s iOS and 
+Android, because smartphones don’t have enough storage for a download/re-upload 
+solution to work. Examples include Primadesk, Cloudii, Otixo and ZeroPC.
+
+Search for a few reviews and comparisons of cloud storage managers to find one 
+that meets your needs. This will include supporting your chosen cloud services 
+(OneDrive, Flickr etc), platforms (web, iOS, Android), pricing and, if you have 
+privacy concerns, encryption.
+
+Make backups!
+
+Bear in mind Schofield’s Second Law of Computing 
+<http://www.zdnet.com/article/follow-schofields-three-laws-of-computing-and-avoid-disasters/>
+, which asserts that data doesn’t really exist unless you have at least two 
+copies of it. If your files are only stored in one cloud drive, you don’t have 
+a backup, and you could lose your data at any time.Never assume your data is 
+safe, even if it’s online 
+<https://www.theguardian.com/technology/2008/feb/14/email.yahoo>. Especially if 
+it’s online.
+
+Perhaps the correct answer to your question is: “Who cares what Microsoft does 
+with OneDrive? I already have all my files stored safely offline.”
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

@@ -1,0 +1,94 @@
+
+Newton's equation first appeared in the Philosophiæ Naturalis Principia 
+Mathematica, July 1687. It describes why that apple fell from that tree in that 
+orchard in Lincolnshire. Whether or not that apple actually landed on Isaac 
+Newton's head, as some stories would have it, this equation describes why you 
+stay rooted to the ground, what locks the Earth in orbit around the sun and was 
+used by Nasa engineers to send men to the moon.
+
+It encapsulates the idea that all the particles of matter in the universe 
+attract each other through the force of gravity – Newton's law tells us how 
+strong that attraction is. The equation says that the force (F) between two 
+objects is proportional to the product of their masses (m1 and m2), divided by 
+the square of the distance between them. The remaining term in the equation, G, 
+is the gravitational constant, which has to be measured by experiment and, as 
+of 2007, US scientists have measured it at 6.693 × 10−11 cubic metres per 
+kilogram second squared.
+
+Newton came to the formula after studying the centuries of measurements from 
+astronomers before him. Stargazers had spent millennia cataloguing the 
+positions of the stars and planets in the night sky and, by the 17th century, 
+the German astronomer and mathematician Johannes Kepler had worked out the 
+geometry of these movements. By looking at the movement of Mars, Kepler had 
+calculated that planets orbited the sun in elliptical paths and, in a kind of 
+celestial clockwork, his three laws of planetary motion allowed astronomers to 
+work out the position of the planets in the future based on data from past 
+records.
+
+Kepler's laws explain how the planets moved around the sun but not why. Newton 
+filled in that gap by supposing there was a force acting between the bodies 
+that were moving around each other.
+
+The story goes that Newton saw an apple fall to the ground and it made him 
+wonder why the fruit always fell straight to the ground; why did it not veer 
+off to the left or right? According to his own laws of motion, anything that 
+begins moving from a standing start is undergoing acceleration and, where there 
+is acceleration, there must be a force. The apple started in the tree and 
+landed on the Earth, which means there must be a force of attraction between 
+the apple and the Earth.
+
+And even if the apple were higher up in the tree, it would still feel this 
+force of attraction with the Earth, reasoned Newton. In fact, the attraction 
+shouldn't even stop at the top of a tree but carry on way up into the heavens. 
+Which raised the question: if everything around the Earth should feel this 
+force of attraction, including the moon, why doesn't our nearest neighbour fall 
+and crash onto the surface of our planet in the same way as the apple did?
+
+Newton concluded that the moon did feel the effect of the Earth's attractive 
+force and that it was indeed falling towards Earth, but there was a very good 
+reason why it didn't crash down. He used a thought experiment to explain his 
+thinking: imagine you fired a cannonball horizontally from the top of a 
+mountain on Earth. The ball would follow a curved trajectory as it moved 
+forward and was attracted, by gravity, towards the ground at the same time. 
+Fire the cannonball with more energy and it would land further away from the 
+mountain, but it still would follow a curved trajectory in doing so.
+
+Newton proposed that, if you fired the cannonball with enough energy, it could 
+fly all the way around the Earth and never land, because the Earth would be 
+curving away underneath the ball at the same rate as the ball fell. In other 
+words, the ball would now be in orbit around the Earth.
+
+And this is what happens with the moon – it is in freefall around the Earth 
+but it moves fast enough so that the Earth's surface never quite "catches" it.
+
+Newton's law tells us that the strength of the gravitational force between two 
+objects drops off in the same way that a light gets dimmer as you move away 
+from it, a relationship known mathematically as an inverse square law.
+
+Another way to visualise the drop-off in the field is to imagine the 
+gravitational field around an object as a series of concentric spheres. Each 
+sphere represents the same "amount" of gravitational field but the spheres 
+further from the object are bigger, so that same amount of field is spread 
+thinner, over a larger area. The field thus gets weaker as you move away from 
+the object, in proportion to the surface areas of these spheres.
+
+The m1 and m2 could be planets and stars or they could be you and the Earth. 
+Compute the equation using numbers for your mass and that of the Earth, and you 
+will get your weight, measured in Newtons. Weight, in true scientific terms, is 
+the gravitational force acting on your mass (which is measured in kilograms) at 
+any point in time. Your mass will stay the same wherever you go in the universe 
+but your weight will fluctuate depending on the mass and position of the 
+objects around you.
+
+Newton's law of gravitation is simple equation, but devastatingly effective: 
+plug in the numbers and you can predict the positions of all the planets, moons 
+and comets you might ever want to watch, anywhere in the solar system and 
+beyond.
+
+And it allowed us to add to those celestial bodies too, heralding the space 
+age. Newton's formula helped engineers work out how much energy we needed to 
+break the gravitational bonds of Earth. The path of every astronaut and the 
+orbit of every satellite from which we benefit – whether for communications, 
+Earth observation, scientific research around Earth or other planets, global 
+positioning information – was calculated using this simple formula.
+ 

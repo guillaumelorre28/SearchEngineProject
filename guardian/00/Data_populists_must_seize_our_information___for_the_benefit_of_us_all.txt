@@ -1,0 +1,152 @@
+
+Of all the big firms in Silicon Valley, Amazon 
+<https://www.theguardian.com/technology/amazon> had the most to lose from 
+Donald Trump’s presidency. And lose it did, albeit briefly, its share price 
+dropping 5% shortly after the election.
+
+During the campaign, Trump warned that Amazon had a “huge antitrust problem” 
+<https://www.theguardian.com/us-news/2016/may/13/amazon-getting-away-with-on-tax-says-donald-trump>
+ – a reasonable stance for the populist that he once aspired to be. Most 
+likely, though, his animosity had more to do with the fact Amazon’s founder, 
+Jeff Bezos, also owns theWashington Post, an influential newspaper that took an 
+early strong dislike of Trump. By the time ofAmazon’s massive cloud-computing 
+conference <https://reinvent.awsevents.com/>, which kicked off in Las Vegas at 
+the end of November, such squabbles seem to have been forgotten. Amazon went on 
+to wow the audience with impressive gimmicks. Did you knowit has a truck – yes, 
+a real truck – to drive your data to the cloud 
+<http://www.wsj.com/articles/amazon-extends-web-based-artificial-intelligence-1480529802>
+? Apparently, it’s much faster than using networks.
+
+Amazon also unveiled its cloud-based artificial intelligence services, 
+including systems for recognising objects in images, processing speech 
+commands, and operating chatbot applications. Thus, it’s joiningGoogle, 
+Microsoft, Facebook, and IBM 
+<https://www.theguardian.com/technology/2016/sep/28/google-facebook-amazon-ibm-microsoft-partnership-on-ai-tech-firms>
+ in the already crowded field of advanced AI.
+
+For Amazon, this is hardly new territory. By now, it must have built a robust 
+AI operation for its own use, what with all the data it has amassed on its 
+users (it’s precisely the troves of such data that explain recent breakthroughs 
+in one of the most promising strands of contemporary AI –deep learning 
+<http://deeplearning.net/>).
+
+Now, Amazon wants to make money by letting others tap into its existing AI 
+infrastructure. It did something similar a decade ago, when it realised it had 
+a lot of spare server infrastructure it could lend out to others. A clever 
+move: today Amazon’s cloud services often generate more profits than its retail 
+operations in North America.
+
+Its nascent AI operation is likely to rely on a similar model: clients will 
+pay to tap into Amazon’s ability to recognise images or voices and insert such 
+magic into their app or service. The other four AI giants are also unlikely to 
+settle on a charity model. As they integrate AI products into healthcare, 
+education, energy and transport, they will eventually pass on the bill to 
+citizens – either directly, as usage fees, or indirectly, through lucrative 
+contracts with institutions such as the NHS.
+
+The political implications are mind-boggling. Five American firms – China’s 
+Baidu being the only significant foreign contender – have already extracted, 
+processed and digested much of the world’s data. This has given them advanced 
+AI capabilities, helping to secure control over a crucial part of the global 
+digital infrastructure. Immense power has been shifted to just one sector of 
+society as a result.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fdec%2F04%2Fdata-populists-must-seize-information-for-benefit-of-all-evgeny-morozov%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fb8588681646d6a008f46a7206adaa21738685f54%2F0_50_4140_2485%2F4140.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Data%20populists%20must%20seize%20our%20information%20%E2%80%93%20for%20the%20benefit%20of%20us%20all%20%7C%20Evgeny%20Morozov&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fdec%2F04%2Fdata-populists-must-seize-information-for-benefit-of-all-evgeny-morozov%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Data%20populists%20must%20seize%20our%20information%20%E2%80%93%20for%20the%20benefit%20of%20us%20all%20%7C%20Evgeny%20Morozov&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fdec%2F04%2Fdata-populists-must-seize-information-for-benefit-of-all-evgeny-morozov%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fb8588681646d6a008f46a7206adaa21738685f54%2F0_50_4140_2485%2F4140.jpg>
+ Jeff Bezos, chief executive and founder of Amazon. Photograph: Joe 
+Klamar/AFP/Getty Images 
+Imagine, for a moment, that all the world’s land suddenly became the property 
+of just five big banks or property developers, with the rest of us having to 
+pay a fee whenever our feet touched the ground. This wouldn’t be unprecedented. 
+Such efforts of aristocratic and financial elites to snatch up and profit from 
+land spawned new economic philosophies, like georgism, and boosted policy 
+interventions, like the land value tax. But what to do about similar efforts to 
+snatch up data?
+
+Two approaches have proven particularly popular. One celebrates alternative 
+models of economic organisation – for example, cooperatives that are less 
+exploitative than platforms such as Amazon or Microsoft. Such efforts at 
+platform cooperativism are worthwhile; occasionally, they do produce impressive 
+and ethical local projects.
+
+There is no reason why a cooperative of drivers in a small town cannot build 
+an app to help them beat Uber locally. But there is also no good reason to 
+believe that this local cooperative can actually build a self-driving car: this 
+requires massive investment and a dedicated infrastructure to harvest and 
+analyse all of the data. One can, of course, also create data ownership 
+cooperatives but it’s unlikely they will scale to a point of competing with 
+Google or Amazon.
+
+Click here for the AI apocalypse (brought to you by Facebook) | Robert Smith
+ Read more  
+<https://www.theguardian.com/commentisfree/2016/nov/23/ai-apocalypse-facebook-algorithms>
+Another approach – simply to break up or shrink big technology firms – is also 
+problematic. It assumes that data is simply like any other product, like, say, 
+oil or widgets. Such a view, however, is inaccurate. Oil doesn’t become better 
+or more valuable simply because you store more of it in your warehouse. Data, 
+however, does: the more of it you harvest, the better the insights – and the 
+higher the savings you can pass on to citizens. Today’s advances in AI were 
+possible only because a handful of companies have, in fact, enjoyed the status 
+of quasi monopolies. Ten thousand startups, each owning a tiny piece of 
+Google’s data empire, would never produce a self-driving car either.
+
+Leftwing populists, such as Bernie Sanders and Elizabeth Warren, do not seem 
+to realise that data has its own properties, insisting, instead, that giant 
+tech platforms harm competition. One fights this threat by limiting the size of 
+these firms and ensuring they don’t extend their tentacles into too many 
+sectors and technologies. In other words, the goal is to make the marketplace 
+more competitive.
+
+However, in the absence of active government policy on AI, a truly competitive 
+marketplace will never deliver on the massive expectations, as it will be too 
+fragmented to create value from all the data. Nor will it deliver the cheap 
+goods that consumers – faced with falling incomes – have come to depend upon. 
+The rhetoric of improving competition cannot lie at the heart of economic 
+populism in the 21st century. A much better agenda for left-leaning populists 
+would be to insist that data is an essential, infrastructural good that should 
+belong to all of us; it should not be claimed, owned, or managed by 
+corporations. Enterprises should, of course, be allowed to build their services 
+around it but only once they pay their dues. The ownership of this data – and 
+the advanced AI built on it – should always remain with the public. This way, 
+citizens and popular institutions can ensure that companies do not hold us 
+hostage, imposing fees for using services that we ourselves have helped to 
+produce. Instead of us paying Amazon a fee to use its AI capabilities – built 
+with our data – Amazon should be required to pay that fee to us.
+
+This points to a broader deficiency with most populist projects of the left: 
+all they can promise is just more of the same but done better, utopia be 
+damned. So, antitrust regulations will get tougher; jobs will magically come 
+back; the welfare state will once again be as generous as it was in the 1960s.
+
+However, the jobs won’t come back because they never really left: they were 
+simply automated out of existence. Making big data firms smaller is not a 
+programme that will excite anyone with even a rudimentary understanding of what 
+makes these firms so effective and their products so affordable. Waxing 
+nostalgic about the highly intrusive welfare state – while Silicon Valley 
+elites cheerlead for the creative flexibility of basic income – also seems 
+suicidal.
+
+The left’s inability to master this new populist language is all the more 
+puzzling, given that technology is one issue where rightwing populists such as 
+Trump and Ukip have little to offer. It’s even hard to imagine what the 
+rightwing version of data populism would be like, other than to say that we 
+have been living and breathing such populism, albeit in a polished, neoliberal 
+version of Barack Obama or David Cameron, for the last decade.
+
+Data populism, in other words, is one issue on which the populist left does 
+have a genuine advantage, but only if it understands that the traditional 
+progressive agenda, like everything else these days, has been utterly disrupted 
+by digital technology. Instead of denying it, progressive populists should use 
+the data debate as an opportunity to re-establish their relevance to the 
+crucial economic debates of today.
+
+Amazon v Donald Trump? Jeff Bezos may soon face his biggest challenge yet
+ Read more  
+<https://www.theguardian.com/technology/2016/nov/18/amazon-jeff-bezos-donald-trump-challenge>
+A Prehistory of the Cloud by Tung-Hui Hu review – the reality behind virtual 
+storage
+ Read more  
+<https://www.theguardian.com/books/2016/sep/16/prehistory-of-the-cloud-tung-hui-hu-review-reality-virtual-storage> 

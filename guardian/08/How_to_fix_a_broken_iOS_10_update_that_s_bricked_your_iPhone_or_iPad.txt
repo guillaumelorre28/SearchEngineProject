@@ -1,0 +1,45 @@
+
+Some users attempting to update to Apple’s latest iOS 10 on their iPhones and 
+iPads havebeen left with inoperable devices 
+<https://www.theguardian.com/technology/2016/sep/14/apples-ios-10-iphone-update-causes-issues-for-some-users>
+. There is a fix, but it requires a real computer to do it. Here’s how.
+
+
+The update might have sent the iPhone or iPad into a boot loop, left it stuck 
+showing the Apple logo or in a similar so called “bricked” state. Depending on 
+how far through the update process it got, you’ll be able to fix it fast using 
+iTunes. Should it need a full restore, if you made a backup using iTunes it 
+should be fairly fast; if not, you should do it in a place that has a solid 
+Wi-Fi to restore your apps from iCloud, which might take some time if you have 
+lots of them installed.
+
+1. Find a computer – Windows PC or Mac – with the latest version of iTunes 
+that supports iOS 10
+2. Connect your iPhone or iPad to the computer
+3. Open iTunes
+4. Press and hold the Sleep and Home buttons on the iPhone or iPad until 
+recovery mode starts and the screen shows a prompt to plug it into iTunes
+5. Check iTunes for a prompt to either update or restore the iPhone 
+<https://www.theguardian.com/technology/iphone> or iPad
+6. Select update to continue with the iOS 10 upgrade (restore will put you 
+back on iOS 9)
+7. Wait for the phone or tablet to update and continue setup on the device
+
+Should steps above fail to recover your iPhone or iPad 
+<https://www.theguardian.com/technology/ipad>, repeat the steps, putting the 
+smartphone or tablet into recovery and then select restore rather than update.
+
+
+If that doesn’t work, you may have to take a trip into an Apple 
+<https://www.theguardian.com/technology/apple> store to get it fixed.
+
+An Apple spokesperson said: “We experienced a brief issue with the software 
+update process, affecting a small number of users during the first hour of 
+availability. The problem was quickly resolved and we apologise to those 
+customers. Anyone who was affected should connect to iTunes to complete the 
+update or contact AppleCare for help.” It also pointed affected users to its
+customer support page <https://support.apple.com/en-gb/HT204204>.
+
+ * iOS 10: the top 10 things you need to know about Apple’s new iPhone and 
+iPad software 
+<https://www.theguardian.com/technology/2016/sep/13/ios-10-apple-new-iphone-ipad> 

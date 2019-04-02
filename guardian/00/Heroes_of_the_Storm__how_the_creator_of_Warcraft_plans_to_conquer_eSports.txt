@@ -1,0 +1,205 @@
+
+There are video game developers, and then there’s Blizzard Entertainment. 
+Since its founding in February 1991 (under the name Silicon & Synapse) the 
+California-based giant has delivered hit after hit, and far more than good 
+sales figures – Starcraft, boosted by its expansion Brood War, is the 
+foundational title for eSports, while World of Warcraft is the quintessential 
+massively multiplayer online game (MMOG). Last week saw the release of 
+arena-battler Heroes of the Storm (HotS), an entry in a popular genre that – 
+unusually for Blizzard – is also a little bit of unfinished business.
+
+HotS is a multiplayer online battle arena (Moba), currently the biggest genre 
+of competitive gaming in the eSports scene. The idea is simple: two teams of 
+players, each controlling an on-screen warrior (or “hero”), face each other in 
+a small arena and must fight using melee weapons and spells, until the 
+opponent’s base building is destroyed.
+
+The battlefield is split into lanes, with the armies – of exactly equal 
+strength – marching from each side and fighting to a standstill in the middle. 
+Dotted along the lanes are fortifications for each side – turrets, castles, 
+walls – and in between them is terrain which the armies never enter. It is 
+fast-paced, but highly tactical, with players able to fight directly or control 
+AI characters named “minions” to carry out objectives. The Moba is effectively 
+a game about momentum.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F16%2Fheroes-of-the-storm-warcraft-blizzard-esports%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F6%2F12%2F1434119428276%2F076e5a91-c21a-41fd-9074-76a1ca42ec63-1020x612.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Heroes%20of%20the%20Storm%3A%20how%20the%20creator%20of%20Warcraft%20plans%20to%20conquer%20eSports&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F16%2Fheroes-of-the-storm-warcraft-blizzard-esports%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Heroes%20of%20the%20Storm%3A%20how%20the%20creator%20of%20Warcraft%20plans%20to%20conquer%20eSports&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F16%2Fheroes-of-the-storm-warcraft-blizzard-esports%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F6%2F12%2F1434119428276%2F076e5a91-c21a-41fd-9074-76a1ca42ec63-1020x612.jpeg>
+ The armies meet on the three-laned battlefield, each hero offering a range of 
+special abilities 
+Although HotS is Blizzard’s first official entry into the market, the 
+developer kind of invented it. Kind of. The genre began with a player-made 
+modification (a mod) for the company’s 2002 real-time strategy sim, Warcraft 3. 
+Created by three fans, Defense of the Ancients (Dota) was so popular it 
+resulted in several attempts to recreate the magic in a standalone release, the 
+most successful of which are Riot’s League of Legends (LoL) and Valve’s Dota 2. 
+Tens of millions play Mobas, and many millions more tune into video streaming 
+sites like Twitch to watch them played professionally.
+
+
+The genre has its own stars, its own massive global tournaments, and, of 
+course, it’s own jargon. The minions you direct around the battlefield are 
+“creeps”, killing them to gain experience is “laning”, and when multiple 
+players ambush a luckless opponent that’s “ganking”.
+
+The simple foundations can also lead to head-spinningly complex depths thanks 
+to the range of possible heroes players can choose, all of whom have distinct 
+abilities, and the dynamics of team play. This is not a genre for solo artists. 
+Over the years since Dota, its successors have codified and expanded upon this 
+foundation, to the extent that LoL and Dota 2 have extraordinarily steep 
+learning curves and demand a significant time investment.
+
+If this doesn’t sound too attractive, welcome to the club. “The world does not 
+need Dota 3 from Blizzard,” laughs HotS director Dustin Browder. “They’ve got a 
+great game that’s like that. So if we’re gonna do something it has to be 
+fresh.” HotS began as a mod itself, designed by Browder’s Starcraft 2 team to 
+show the potential of that game’s community tools, before morphing into a full 
+project – but the starting point was getting as far away from today’s big 
+beasts as possible.
+
+“It was all about what we had played back in the Warcraft 3 days,” says 
+Browder. “There were a tonne of Warcraft 3 mods of that ilk, not just Dota, 
+even though that eventually became the king of that particular pack. Where did 
+you think it was going, where did you imagine it was going? Not where ithas 
+gone. When you think from an earlier stage you get a much wider spectrum of 
+possibilities. The limitations of Warcraft 3 meant Dota has things like recipes 
+[item combinations] – you couldn’t add more items, there were only six item 
+slots, so you had to do recipes. That came out of a need and a limitation. So, 
+when we’re doing this exercise of imagining what could’ve been different, we 
+got some much more interesting answers, and where we thought it was going was 
+not ‘better recipes’.”
+
+The mechanics that these limitations led to are much-beloved by the Moba 
+crowd, and not without reason, but their absence from HotS makes it an 
+experience that first of all feels new, as well as enjoyable and exciting from 
+the first minute for any player. Yet despite jettisoning such baggage, HotS 
+zeroes in on what made the original Dota work. “We loved the team fights,” says 
+Browder. “We loved the customisation of your hero over time and the ability to 
+grow them and make choices over a match about your strengths and weaknesses in 
+the context of a bigger battle. We liked the way the game creates co-op play 
+that separates you and brings you together, then separates you and brings you 
+together again – so you know what it’s like to fight alone, and as part of a 
+team.”
+
+Riders on the Storm
+
+A major part of this dynamic in HotS is that teams level up and increase in 
+power as a team, whereas in other Mobas players level up their characters 
+individually. The latter mechanic, again much-beloved by some, seems 
+counter-intuitive for a team game in that it forces every player to look after 
+themselves first. HotS initially didn’t have team experience, but what the 
+developers saw from players convinced them that this was an essential change.
+
+“At first on a map like Blackheart’s Bay when the treasure chests spawned 
+you’d have people six feet away saying ‘I’m not going,you go!’ because they’re 
+afraid to leave the lanes,” says Browder. “So team levelling just opened up the 
+game for us, it gives a lot of opportunity for cross-lane ganking. You wanna be 
+Zeratul and roam and see what disruption you can cause? Great. It also opened 
+up opportunities for support-only heroes like Lili who can’t fight worth a 
+damn, but she’s a great support when working for the team and that’s all that 
+really matters.”
+
+Blackheart’s Bay is one of the seven ‘battlegrounds’ that HotS currently 
+offers, a huge departure for a genre where the most popular games have a single 
+competitive map. “When we looked at our game we never imagined one 
+battleground,” says Browder. “That seemed a limitation, again, of the Warcraft 
+3 engine – because technically modders weren’t making games, they were making 
+maps so it had to be one map. So if you’re starting fresh, of course you do 
+more!”
+
+The impact in-game is obvious. Each match of HotS is given a unique spin by 
+the individual map objectives which rewards the successful team with minor 
+advantages that, as the match wears on, can become major. This in turn feeds 
+into the single most important aspect of HotS: the matches are short. In other 
+Mobas you might sit down for a game and still be there an hour later. In HotS 
+the average match is around 20 minutes long.
+
+“Twenty-minute matches is something we learned from Brood War, carried into 
+Warcraft 3, and now into Starcraft II and Heroes,” says Browder. “We don’t have 
+any proof that this is the magic number, it just feels good to us when we’re 
+playing – five minute games you don’t really care whether you win or lose, 
+whereas if it’s an hour maybe you care too much. Twenty minutes feels like a 
+sweet spot, where you really want to win but it’s not the end of the world if 
+you don’t.”
+
+Last year’s League of Legends world championship final attracted 27m viewers, 
+a disappointment next to 2013’s 32 million
+
+All of the changes that HotS brings to the genre may seem minor. But consider 
+that last year’s LoL world championship final attracted 27 million viewers, 
+which was considered a disappointment next to 2013’s 32 million. It’s hard to 
+make straight comparisons to the traditional sports world, because Twitch gives 
+LoL easy access to a global audience whereas very few sporting events outside 
+of the World Cup have comparable reach. For argument’s sake, however, in the 
+UK, Andy Murray’s 2013 Wimbledon victory was watched by 12 million, 2014’s 
+snooker final at the Crucible was watched by 6 million, and this year’s Six 
+Nations showdown between England and France attracted a record 9.6 million. The 
+point is not that Mobas attract larger audiences than traditional sporting 
+events (Wimbledon will still be around in 50 years, whereas one imagines the 
+same can’t be said of LoL), but that they attract such enormous audiences that 
+any minor change to the rules is a serious matter for a lot of people.
+
+So the minutiae leads to the bigger question of whether HotS, excellent though 
+it is, will succeed as a spectator sport – which is undoubtedly Blizzard’s 
+intention. Browder was, after all, project director on Starcraft II, the 
+grandaddy of the eSports phenomenon. Is designing a potential eSport simply a 
+matter of designing a good competitive game, or is there another layer there? 
+“It’s a lot of the same things we did with Starcraft,” says Browder. “But this 
+is true of all games I’d say. You want them to be clear, you want them to be 
+simple, you want them to be deep.”
+
+There are areas such as visual clarity, nevertheless, that are especially 
+crucial for a game that wants to be watched on any number of screen sizes. “But 
+when is that not the case?” Browder counters. “No developer wants their screen 
+to look like a muddy mess. A lot of the things that work well for eSports are 
+just good PvP [player v player] design principles to begin with. Brood War 
+didn’t set out to be an eSport, there was no knowledge of eSports or what they 
+would be or why it mattered. But the team set out to make something easy to 
+learn, difficult to master, and clean and clear on screen. They made a great 
+game. And look what happened when the community got a hold of it. Same with 
+Hearthstone. It’s clear what’s going on – great design values.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F16%2Fheroes-of-the-storm-warcraft-blizzard-esports%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F6%2F12%2F1434119575399%2F93e8f795-0075-4394-a857-cbd12e393218-1020x612.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Heroes%20of%20the%20Storm%3A%20how%20the%20creator%20of%20Warcraft%20plans%20to%20conquer%20eSports&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F16%2Fheroes-of-the-storm-warcraft-blizzard-esports%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Heroes%20of%20the%20Storm%3A%20how%20the%20creator%20of%20Warcraft%20plans%20to%20conquer%20eSports&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F16%2Fheroes-of-the-storm-warcraft-blizzard-esports%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F6%2F12%2F1434119575399%2F93e8f795-0075-4394-a857-cbd12e393218-1020x612.jpeg>
+ Unlike many titles in the Moba genre, Heroes of the Storm features a range of 
+maps, requiring different strategic approaches. 
+HotS launched last week, and with that the development cycle didn’t end – but 
+moves into another gear. “We’re growing the team and we’re aiming to move 
+towards a three-week release schedule for new heroes,” says Browder. “That’s 
+not a promise, that’s just the direction we want to go. We want to keep adding 
+polish, new ideas, and a lot more heroes – we have 20 years of history to pull 
+from.”
+
+Browder’s team may have created a great game but its future depends on far 
+more than that: Mobas are huge investments and the field is cut-throat. Only 
+last week it was announced that Infinite Crisis, the Turbine-developed Moba 
+starring the DC Comics roster, is being shut down a mere five months after 
+launch. Success depends on attracting a large audience, above all else, but 
+also on whether Blizzard transitions effectively from building the game to 
+supporting it in an interesting way (given the company’s past form, this is 
+very likely). It also depends on whether professional players can make a living 
+from streaming and playing competitively.
+
+And it depends on that most ineffable of design qualities – whether something 
+that is fun to play for weeks and even months can somehow stay interesting over 
+years. So far HotS has attracted both glowing praise and the odd bit of 
+grumbling, with the latter almost entirely from fans of established Mobas. They 
+represent an enormous, and in some sense captive, audience. “HotS offers a 
+legitimate choice to players,” says Browder. “You don’t want to be the same as 
+another game but the art’s different you know?”
+
+Nevertheless you wonder if the preconceptions will hurt, whether HotS will be 
+able to attract the playerbase it deserves, and – perhaps most important of all 
+– whether it can pull fans from the competition. Browder simply smiles for a 
+moment. His team’s game has been released, and as far as he’s concerned, the 
+question’s already been answered. “We’re getting them.”
+
+Heroes of the Storm 
+<http://eu.battle.net/heroes/en/?utm_source=MEC&utm_medium=SEARCH&utm_campaign=HEROES>
+ is out now on PC and Mac
+ 

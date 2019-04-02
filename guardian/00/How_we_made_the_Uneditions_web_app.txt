@@ -1,0 +1,92 @@
+
+Unlimited Theatre <http://www.unlimited.org.uk/> has often worked with new 
+technologies, mainly due to the fact that I've had a geeky interest in things 
+ever since I was bought a Dragon 32 home computer when I was 10-years-old. But 
+we've also worked with these new, mostly digital technologies because they 
+offer us other ways of telling our stories to a potentially much bigger 
+audience than we ever could if we only made it for the theatre.
+
+We've always recognised that by choosing to make our work primarily for, with 
+and in theatres we're working in a pretty niche environment, especially when 
+you consider the type of theatre we're making: far away from the mainstream. 
+This isn't a bad thing – small is definitely beautiful – but it's worth noting 
+that if we made work for almost any other medium (TV, film, the internet, 
+books) the types of stories we could tell would find a much larger audience, 
+niche or not.
+
+Uneditions <http://uneditions.com/> is a new platform for publishing play 
+scripts on mobile devices, using light and sound design from the live 
+production to create a unique and immersive reading experience. It's a sincere 
+and rigorous exploration of how we , as theatre makers and as a wider arts 
+community, can better transpose (as opposed to broadcast 
+<http://beescope.blogspot.co.uk/2010/10/national-teatowel-live-for-dan-baker.html>
+) the stories we're telling to other mediums.
+
+I'm massively excited by the potential this app/platform has to allow existing 
+audiences to both deepen their understanding of the work we make and, 
+importantly, to open both Unlimited and our sector's work up to a much wider 
+range of people.
+
+At Unlimited we co-write all our shows. Clare Duffy, Chris Thorpe and I 
+<http://www.unlimited.org.uk/about/> have spent the last 16 years working out 
+how we create things together, so a collaborative approach to the process of 
+(co)designing this new platform was at the heart of this project. I met 
+professorJon Rogers <https://twitter.com/ileddigital>, our research partner on 
+the project, at a NASA hack event in 2011. I was trying to hack my way into 
+space and he was pretty much the only person who didn't think I was "a total 
+nut".
+
+Jon is also a passionate advocate for designing products with audiences in the 
+(proven) belief that if you do so, the end product will be of much greater use 
+and interest to the people actually using it, something that was vital when it 
+came to this project.
+
+I've known Matt Locke, director of Storythings <http://storythings.com/>, our 
+technology partner, since 2000 when he commissioned us to make an SMS project 
+taking the story of one of our earliest shows out of the theatre and into 
+people's phones. It's these long-standing, work based friendships that played a 
+major part in the success of this project, particularly since we wanted to make 
+something that simply hadn't been done before.
+
+We all started from a point of trust and faith in each other's expertise and 
+ability that allowed us to just get on with working together. Add to this a 
+passionate and committed group of volunteers to work as co-designers and the 
+result was a large team of people with hugely varied skills and experience all 
+working with a shared passion towards a shared goal.
+
+This is where the process was key. We were always clear that the outcome of 
+this project was less important than the process. We did have clear hopes and 
+ambitions for what we wanted our "product" to achieve, but we had also agreed 
+that we weren't going to make any assumptions about what that product would be.
+
+You can try the prototype for free here <http://uneditions.com/>, where we've 
+published a version of our most recent show, The Noise, that also includes 
+writer's commentary, production photographs, cast and crew biographies and 
+other bonus features that we and the team wanted to include in the app. We hope 
+other artists, organisations and venues might be able to use this as a way of 
+making digital programmes for their events.
+
+In the next few months we'll be publishing and testing versions of shows by 
+Third Angel <http://www.thirdangel.co.uk/> before opening the platform up to 
+anyone who wants to use it. By that stage we're hoping to have added a payment 
+option with a range of business models (free, fixed price, pay what you choose) 
+with any payments received going entirely to the artists. And by making the 
+code for the platform freely available on GitHub, if there's a function you 
+want to add, you can!
+
+We're pretty excited about the next stage of development and would massively 
+value any feedback from anyone trying the prototype, so please get in touch if 
+you do. In the meantime, we hope you enjoy.
+
+The Uneditions project is funded by the Digital R&D Fund for the Arts 
+<http://artsdigitalrnd.org.uk/>
+
+Jon Spooner is a director, writer, performer, founding member and the artistic 
+director ofUnlimited Theatre <http://www.unlimited.org.uk/> – follow Jon on 
+Twitter@untheatre <https://twitter.com/untheatre>
+
+This content is brought to you by Guardian Professional 
+<http://theguardian.com/guardian-professional>. To get more articles like this 
+direct to your inbox, sign up free to become amember of the Culture 
+Professionals Network <https://register.theguardian.com/culture-professionals/>.
+ 

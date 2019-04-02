@@ -1,0 +1,65 @@
+
+In September 2008 theguardian.com officially finished the rebuilding of our 
+website, which had started (depending how you count it) in October 2005. The 
+project wasknown internally as R2 
+<https://www.theguardian.com/media/organgrinder/2008/sep/09/whatsthatcomingoverthehil>
+. Over each of the next 26 working days I'll be looking at one aspect of the 
+project -- one for each letter of the alphabet, for want of a better structure. 
+Here's what's coming up:
+
+
+
+ * A is for article editor; 
+
+ * B is for business analysis; 
+
+ * C is for changing requirements; 
+
+ * D is for domain driven design; 
+
+ * E is for education tables; 
+
+ * F is for flexible advertising; 
+
+ * G is for Guardian America; 
+
+ * H is for home page; 
+
+ * I is for iterations; 
+
+ * J is for JFDI; 
+
+ * K is for keyword component; 
+
+ * L is for legacy systems; 
+
+ * M is for milestones; 
+
+ * N is for news section; 
+
+ * O is for opportunity; 
+
+ * P is for pair programming; 
+
+ * Q is for quality assurance; 
+
+ * R is for R2; 
+
+ * S is for sitebuilding; 
+
+ * T is for timeline; 
+
+ * U is for URLs; 
+
+ * V is for video content; 
+
+ * W is for Wiimbledon; 
+
+ * X is for XL; 
+
+ * Y is for YAGNI; 
+
+ * Z is for zones. 
+
+Tomorrow I'll start with A.
+ 

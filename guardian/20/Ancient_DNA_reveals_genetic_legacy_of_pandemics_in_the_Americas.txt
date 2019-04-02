@@ -1,0 +1,88 @@
+
+Prehistoric America was not a disease-free utopia. Tuberculosis 
+<http://www.nature.com/nature/journal/v514/n7523/abs/nature13591.html>, 
+treponemal disease, Chagas disease, and many other pathogens were endemic to 
+populations in different regions of the continent. But the“Columbian Exchange” 
+<https://en.wikipedia.org/wiki/Columbian_Exchange> beginning in 1492 introduced 
+new pathogens to American populations, including smallpox, measles, influenza, 
+and yellow fever. This introduction had devastating consequences for tribes. In 
+some places, death from infectious disease resulted in thedepopulation of 
+entire regions 
+<http://local.disia.unifi.it/livi/pubblicazioni/depopulation-of-hispanic-america.pdf>
+, leading to the collapse of social, economic, and political institutions, and 
+the loss of many traditional cultural practices and ways of life.
+
+Understanding the dynamics of these pandemics is critically important in order 
+to learn how they may have shaped the genetic diversity of contemporary Native 
+American communities, potentially giving insights into the genetic 
+underpinnings of diseases present in a higher frequency in some populations 
+than elsewhere. More broadly, documenting the historical effects of the 
+introduction of novel pathogens can give insights into the evolution of 
+host-pathogen relationships. These insights are potentially useful for 
+responding to future outbreaks of emerging infectious diseases.
+
+Despite landmines, snakes and dodgy gin, Iraq is an archaeological paradise
+ Read more  
+<https://www.theguardian.com/science/blog/2016/dec/16/despite-landmines-snakes-and-dodgy-gin-iraq-is-an-archaeological-paradise>
+It has long been hypothesised that tens of thousands of years of separation 
+and independent evolution from Old World populations rendered the indigenous 
+inhabitants of the Americas immunologically vulnerable to their pathogens. The 
+resulting outbreaks of disease - the so-called“virgin soil epidemics” 
+<https://en.wikipedia.org/wiki/Virgin_soil_epidemic> - following first exposure 
+to these pathogens were therefore particularly devastating. But because many of 
+these diseases leave no trace of infection in skeletons, it has been impossible 
+to fully test this model using only osteological approaches.
+
+However, our ability to recover DNA from past populations gives us a new, 
+powerful way to document the evolutionary effects of these pandemics. For 
+example,a recent study <http://www.nature.com/articles/ncomms13175> by Lindo et 
+al. (2016) investigated whether there had been changes in immunological genes 
+in the Tsimshian people from the Northwest Coast of North America in response 
+to the introduction of new diseases.
+
+In partnership with the Tsimshian community, researchers compared DNA from 
+contemporary and ancestral populations in the region. By modelling fluctuations 
+in estimated population sizes over thousands of years, they confirmed that the 
+population experienced a severe genetic bottleneck (57% decrease in effective 
+population size) after European contact, about 175 years before present. This 
+bottleneck would have coincided with historically documented smallpox epidemics 
+within the Tsimshian community.
+
+To assess whether there had been changes within immune system-related genes in 
+the Tsimshian population in response to smallpox introduction, the researchers 
+then scanned exomes (the subset of genomic regions which code for protein) from 
+the ancient and contemporary populations. They found evidence for strong 
+positive selection on the regulatory region of the human leucocyte antigen gene 
+HLA-DQA1 in the ancient population. This strong positive selection would have 
+maintained a specific DNA sequence motif in this region from generation to 
+generation, regulating the expression of the HLA gene in a way particularly 
+adaptive for the ancient environment.
+
+However, contemporary Tsimshian descendants’ HLA genes look quite different 
+from their ancestors. Simulations of different evolutionary scenarios suggested 
+that a selection pressure shift in response to a changing pathogen landscape 
+best fit the observed data. Without positive selection maintaining the same 
+genetic motif in the HLA-DQA1 regulatory region, it is free to accumulate 
+mutations which likely have changed the expression of this gene. So although 
+ancient Tsimshian populations were adapted to specific pathogens present in 
+their environment, the introduction of new pathogens by European settlers meant 
+that what was adaptive for one environment was suddenly maladaptive. The 
+resulting population collapse, recorded in both historical documentation and 
+the genetic legacy of contemporary Tsimshian descendants, was one of the tragic 
+consequences.
+
+Infectious diseases were just one of the causes of the profound disruption to 
+indigenous American populations following European contact. Warfare, forced 
+relocations, slavery, suppression of traditional subsistence activities, and 
+the dismantling of social structures and cultural practices all contributed 
+substantially to depopulation. But by showing specifically how their evolution 
+was impacted by changing environments, ancient DNA research offers the 
+potential to yield new insights into the varied experiences and consequences of 
+European contact in different Native American tribes.
+
+Further reading
+
+Lindo, J. et al. A time transect of exomes from a Native American population 
+before and after European contact.Nat. Commun 7: 13175 doi: 10.1038/ncomms13175 
+<http://www.nature.com/articles/ncomms13175> (2016).
+ 

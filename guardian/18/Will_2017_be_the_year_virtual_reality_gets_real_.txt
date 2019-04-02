@@ -1,0 +1,133 @@
+
+Virtual Reality is ... well, real. The last year has seen the launch of every 
+major VR platform, from high-quality tethered systems like HTC’s Vive and 
+Facebook’sOculus <https://www.theguardian.com/technology/oculus> Rift, through 
+to cheap-and-cheerful smartphone-based platforms like Google’s Daydream and 
+Samsung’s Gear VR.
+
+The early adopters have bought in, the launch games have been launched, and 
+now that the initial flurry of excitement has died down, the more pressing 
+questions are left: how will the platforms evolve? What will you actually be 
+able to do with them? And is VR just a stepping stone anyway, to the even more 
+science-fiction future of augmented reality tech?
+
+At its inception, VR is unquestionably a gaming technology first and foremost. 
+The most expensive and technologically advanced systems have an almost total 
+focus on serving the hardcore gamer market. Even the simpler systems, which 
+lack the pixel-pushing power necessary to satisfy modern players, still end up 
+with a preponderance of games and game-like projects, because that’s what’s 
+easiest to build with the tools available.
+
+So the number one priority for the titans of VR is to carry on winning round 
+game developers and players to prevent the juggernaut from stalling. But if the 
+experiences of the first wave of early adopters is anything to go by, that 
+could prove trickier than it seems.
+
+Right now, the pressures of AAA games seem inimical to those of VR. Games for 
+the hardcore niche of the market are often designed and sold around having 
+durations in the hundreds of hours, with an individual gaming session often 
+lasting three to four hours. In VR, as the devices work today, such heavy use 
+becomes physically punishing: painful for the eyes, face, head and neck, as 
+well as emphatically warned against by the manufacturers.
+
+So instead, many of the highest profile games at launch are designed for 
+quick, powerful experiences. CCP’sEve Valkyrie 
+<https://www.theguardian.com/technology/2014/jun/24/eve-valkyrie-preview-virtual-reality>
+ and Guerrilla’s RIGS both pack intense multiplayer battles into matches 
+lasting at most five minutes, Rebellion’s Battlezone does the same with 
+single-player tank battles, and even more story focused games like Gunfire’s 
+Chronos and Insomniac’s Edge of Nowhere make it fairly easy to jump in and out 
+of the game.
+
+In the absence of the life-consuming behemoths which constitute gaming for a 
+large number of fans, VR development has instead been colonised by quirkier 
+games, often made by smaller studios with lower budgets who can survive by 
+selling games at a cut price to the comparatively small install base of VR 
+devices.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F27%2Fwill-2017-be-the-year-virtual-reality-gets-real%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ff1f2ab41f5ffe5e3827ccdebbfef20985bd161e1%2F0_92_5616_3371%2F5616.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Will%202017%20be%20the%20year%20virtual%20reality%20gets%20real%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F27%2Fwill-2017-be-the-year-virtual-reality-gets-real%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Will%202017%20be%20the%20year%20virtual%20reality%20gets%20real%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F27%2Fwill-2017-be-the-year-virtual-reality-gets-real%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Ff1f2ab41f5ffe5e3827ccdebbfef20985bd161e1%2F0_92_5616_3371%2F5616.jpg>
+ Google unveils its Daydream VR headset Photograph: Ramin Talaie/Getty Images 
+Even those studios are betting on VR growing, though. Dean Hall, the chief 
+executive of indie studio RocketWerkz,wrote that his company’s game 
+<https://www.reddit.com/r/Vive/comments/5h51dd/the_hard_truth_about_virtual_reality_development/?st=iww000i8&sh=dd52baaf>
+, Out of Ammo, “has exceeded our sales predictions and achieved our internal 
+objectives”.
+
+“However, it has been very unprofitable. It is extremely unlikely that it will 
+ever be profitable. We are comfortable with this, and approached it as such. We 
+expected to lose money and we had the funding internally to handle this. 
+Consider then that Out of Ammo has sold unusually well compared to many other 
+VR games.”
+
+Currently, platform owners are subsidising much of the development for VR, in 
+exchange for making those games platform exclusives. But those owners will also 
+need to make money at some point; they’re just capable of playing a longer game 
+than an independent developer.
+
+In that long term, VR needs to be more than an accessory for better games. 
+Back in 2014, Mark Zuckerbergtargeted an install base of 50m to 100m Oculus 
+headsets 
+<https://www.theguardian.com/technology/2014/oct/29/facebook-mark-zuckerberg-oculus-vr-sales>
+ in the device’s first decade. At the top end, that’s equal to the total sales 
+of the Playstation 4 and Xbox One combined, for a device which currently needs 
+a PC to run it that costs more than a PS4 and Xbox One combined.
+
+Of course, Zuckerberg isn’t interested in owning a gaming company, even a 
+successful one. He bought Oculus with the stated intention of offering far more 
+than just better video games. “Imagine enjoying a court side seat at a game, 
+studying in a classroom of students and teachers all over the world or 
+consulting with a doctor face-to-face – just by putting on goggles in your 
+home,” he wrote inthe post announcing the company’s acquisition 
+<https://www.facebook.com/zuck/posts/10101319050523971>. 
+
+
+Perhaps tellingly, in the years since, Zuckerberg has spent far more time 
+focusing on Oculus’ smaller, more accessible product, the Gear VR, than on the 
+weighty, tethered Rift headset. At the Mobile World Congress conference in 
+February,attendees were handed one to try 
+<http://www.theverge.com/2016/2/22/11087890/mark-zuckerberg-mwc-picture-future-samsung>
+, causing them to miss the smiling executive strolling past them on his way to 
+the stage.
+
+Last week, Facebook announced it would split Oculus into two divisions 
+<https://www.oculus.com/blog/building-the-future-of-vr?utm_source=Triggermail&utm_medium=email&utm_campaign=Post%20Blast%20%28bii-apps-and-platforms%29:%20Facebook%27s%20Oculus%20splits%20into%20PC%2C%20mobile%20%E2%80%94%20Nintendo%27s%20Super%20Mario%20mobile%20game%20could%20rake%20in%20millions%20%20%E2%80%94%20LINE%20adds%20group%20video%20support&utm_term=BII%20List%20Mobile%20ALL>
+, one focusing on PC-based VR, and the other on mobile. It’s clear on which 
+Zuckerberg is staking the future of computing, and it’s not the tethered 
+division which current Oculus CEO Brendan Irbe will be heading up.
+
+If VR is going to become the next major computing platform, pushing mobile 
+phones aside the way they left desktop PCs lagging in their wake, 2017 will be 
+the crunch point: platforms like Google’s Daydream, and whatever Oculus offers 
+as the follow-up to Gear VR, need to arrive with the same pop that tethered VR 
+entered in the past year. More, they need a compelling reason for those who 
+don’t care about gaming to buy in, be that experiences like 360-degree video, 
+or social platforms like those Facebook wants to build.
+
+If they don’t, they could find themselves obsolete before they even hit the 
+mainstream, thanks to the new technologies peeking over the horizon. If VR 
+doesn’t charm, could AR succeed where it failed?
+
+AR devices, like Microsoft’s Hololens and vaporware start-up Magic Leap 
+<https://www.theinformation.com/why-augmented-reality-is-so-hard>’s prototypes, 
+allows virtual images to be imprinted over the real world. It’s not cheap – the 
+developer preview of the Hololens retails for almost £3,000 – but it fixes a 
+number of issues which hold VR back when it comes to everyday practicality. 
+Hololens users can still interact with the real world, with their colleagues 
+and companions, rather than locking themselves away in a virtual space. That 
+interaction makes it much more appealing to imagine using Hololens as a 
+general-purpose computing system, fitting in alongside your current life.
+
+Or maybe neither will actually take off in the foreseeable future. For the 
+first time in well over a decade, technology companies worldwide are looking at 
+the end of one hyperbolic growth curve – that of smartphones – with nothing 
+obvious to pick up where it died off. They may have a lot of interest in 
+convincing their shareholders that something is the next big thing, but that 
+doesn’t mean we have to believe them. After all, we live in reality.
+
+ * If the future of video games is VR, it needs to stop making us feel sick 
+<https://www.theguardian.com/technology/2016/jul/22/video-games-virtual-reality-e3-2016>
+ 

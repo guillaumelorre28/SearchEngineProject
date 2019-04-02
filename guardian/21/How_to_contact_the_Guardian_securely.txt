@@ -1,0 +1,120 @@
+
+Some of the most important stories published by the Guardian have come from 
+whistleblowers. Their disclosures have been vital in exposing stories of huge 
+public interest, sometimes with global ramifications. Our pledge is to protect 
+our sources ‐ and not to disclose their identities, or our communications with 
+them, unless their approval has been given. If you want to get in touch with us 
+in a way that protects your security and anonymity, there are a number of 
+technical options that may help – although,of course 
+<https://www.theguardian.com/technology/data-computer-security>, none of them 
+can be 100% guaranteed.
+
+Messaging apps 
+
+Phone apps do little to hide who and where you are, but if your priority is 
+confidentiality rather than anonymity, there are a number of apps that offer
+“end to end” encryption <https://en.wikipedia.org/wiki/End-to-end_encryption>. 
+They include Signal (from theOpen Whisper Systems <https://whispersystems.org/> 
+not-for-profit organisation) andThreema <https://threema.ch/en>. (These are 
+examples. We don’t endorse any particular security app.) The Guardian 
+investigation team’s Signal number is +44 7584 640566.
+
+End to end encryption means ‐ theoretically ‐ nobody else will be able to see 
+the content of any message you send. To get started, you need to share mobile 
+phone numbers with a reporter. That’s not difficult to do; you can ring the
+Guardian head office <https://www.theguardian.com/help/contact-us> from a 
+landline (preferably not from work or home, which could be easy to trace) to 
+get put through to the reporter concerned, and then share details. Or you can 
+do so using one of the following methods.
+
+Email 
+
+If you plan to write an email to a Guardian journalist about a sensitive 
+matter, look intoPGP encryption 
+<https://ssd.eff.org/en/module/introduction-public-key-cryptography-and-pgp>. 
+It’s more complicated than using apps, but is probably more secure in practice, 
+and email is much easier for sending longer messages and attachments. Used 
+properly, PGP should make a message or document unreadable to anyone except the 
+person who sent it and the person for whom it was encrypted.
+
+How does it work? With PGP, you will use a “public key” that belongs to the 
+person you are writing to, but is freely available on the internet. This key 
+turns your message into an unreadable jumble. Your recipient – and no one else 
+– has a corresponding “private key” which can unlock messages that were 
+encrypted by their public key.
+
+Public keys for Guardian journalists can be found on pgp.theguardian.com 
+<https://pgp.theguardian.com/> and on many writers’ profile pages.
+
+Two popular PGP encryption software packages are Gpg4win 
+<https://www.gpg4win.org/> for Windows and GPG Suite 
+<https://gpgtools.org/gpgsuite.html> for Macs. If you use a browser to access a 
+webmail service, such as Gmail or Yahoo! Mail, you may want to look atMailvelope
+ <https://www.mailvelope.com/>. 
+
+PGP can be a bit fiddly. It’s best to play around with it first by sending an 
+email containing relatively innocuous content.
+
+Although there’s no easy way to break PGP codes, it does have shortcomings. An 
+encrypted email message can still reveal the identity of the sender. One way to 
+reduce that risk could be to create an independent email address solely for 
+contacting the Guardian. You may want to use computers that aren’t associated 
+with you when setting up and when using such an account. Going to an internet 
+cafe is one option ‐ just be careful about who can see your screen and whether 
+there are CCTV cameras nearby. And think about the information you provide 
+while signing up to a new account. Does any of it link the new address back to 
+you?
+
+If you’re using a shared computer, remember that email and browser software 
+normally retains a history of what you’ve been doing, unless you clear it or 
+use a private browsing or incognito option. And consider the times at which you 
+send messages. Could that information help prove that you sent them?
+
+Tor 
+
+Even an anonymous email address doesn’t conceal the IP address 
+<https://en.wikipedia.org/wiki/IP_address> from which a message has been sent, 
+and an IP address could be traced back to you. To help avoid this you could use 
+theTor network <https://en.wikipedia.org/wiki/Tor_(anonymity_network)>, which 
+bounces your message through a series of relays to hide the source location. To 
+access the Tor network you will need to installTor software 
+<https://www.torproject.org/>. Tor browsers can be configured to discard your 
+browsing history and to minimise the amount of information you share.
+
+As with email, if your computer is being monitored at source, Tor does not 
+protect you from that.
+
+Tails 
+
+Tails <https://tails.boum.org/>, which is short for “The Amnesiac and 
+Incognito Live System”, is a computer operating system designed to preserve 
+security. It connects to the internet using the Tor network; it helps guard 
+against local monitoring; and when you log out, it wipes any unencrypted 
+content. It is far more secure than using a normal computer or phone.
+
+SecureDrop 
+
+The best way to contact the Guardian securely is through our SecureDrop 
+<https://securedrop.theguardian.com/> document portal. 
+
+The SecureDrop site is only accessible over the Tor network. All submitted 
+messages and documents are automatically encrypted. We download those encrypted 
+files on to Tails computers and then decode them in a secure environment on a 
+computer that iscompletely offline 
+<https://en.wikipedia.org/wiki/Air_gap_(networking)>. SecureDrop does not 
+record where things came from: all we can see is what has been sent to us, the 
+time it arrived, and a randomly generated code name for whoever submitted it.
+
+For maximum security and anonymity, contact us via SecureDrop from a computer 
+that you are confident is not being monitored.
+
+You don’t have to provide us with a means of contacting you but it can 
+sometimes be useful for us to be able to do so. It can also help us if you are 
+able to provide some background about what is in the documents and why you 
+think they might be of interest to us.
+
+We previously mentioned WhatsApp in the Messaging Apps section of this page. 
+In view ofconcerns over its implementation of encryption 
+<https://www.theguardian.com/technology/2017/jan/13/whatsapp-backdoor-allows-snooping-on-encrypted-messages>
+, we have removed it.
+ 

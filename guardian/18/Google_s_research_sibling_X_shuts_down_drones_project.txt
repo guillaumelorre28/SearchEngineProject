@@ -1,0 +1,43 @@
+
+Google <https://www.theguardian.com/technology/google> owner Alphabet’s 
+subsidiary research company, X, has shut down its project aimed at building a 
+solar-powered drone intended to bring internet access to remote areas.
+
+The project, which stemmed from an acquisition Google made in April 2014 
+<https://www.theguardian.com/technology/2014/apr/15/google-buys-drone-maker-titan-aerospace>
+ of New Mexico-based Titan Aerospace, was deemed by X to be less promising than 
+a competing attempt to use lightweight weather balloons for the same purpose.
+
+“The team from Titan was brought into X in late-2015. We ended our exploration 
+of high-altitude UAVs for internet access shortly after,” an X spokesperson 
+said. “By comparison, at this stage the economics and technical feasibility of 
+Project Loon [its high-altitude balloon project] present a much more promising 
+way to connect rural and remote parts of the world. Many people from the Titan 
+team are now using their expertise as part of other high-flying projects at X, 
+including Loon and Project Wing.”
+
+In ditching solar-powered drones, X has taken a different stance to rival 
+Facebook <https://www.theguardian.com/technology/facebook>, which has gone 
+all-in on the technology with its Aquila project. The Aquila drone, a 
+130ft-long aircraft developed in Bridgwater, Somerset, is intended to circle in 
+the upper atmosphere, using lasers to broadcast data down to base stations on 
+the ground.
+
+Facebook reported a “successful” test flight for the drone in July 2016, but 
+America’s national transportation safety board later revealed that in fact, the 
+drone was blown off course upon landing, resulting inthe end of its wing 
+snapping off 
+<http://www.theverge.com/2016/12/16/13983868/facebook-drone-crash-aquila-wing-failure-ntsb-report>
+. In a follow-up interview with the Verge, Facebook’s Yael Maguire argued that, 
+because the drone had flown perfectly in the air and only suffered damage upon 
+landing, “we feel like we shared 99.9% of the details, from a time perspective.”
+
+X’s Project Loon proposal, achieved its first major milestone back in June 
+2013, when a New Zealand farmer connected to balloon-powered internet. The 
+system uses advanced weather forecasting to actively navigate by raising and 
+lowering its altitude to select which direction the wind should blow the 
+balloons.
+
+Project Wing, X’s other drone project, uses smaller machines to test the 
+feasibility of drone-powered deliveries.
+ 

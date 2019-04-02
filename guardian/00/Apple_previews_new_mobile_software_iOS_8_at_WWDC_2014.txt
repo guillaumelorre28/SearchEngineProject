@@ -1,0 +1,80 @@
+
+Apple <https://www.theguardian.com/technology/apple> demonstrated iOS 8, its 
+newest version of its operating system for iPhones and iPads, at its worldwide 
+developers conference in San Francisco.
+
+
+The new OS introduced a new Health app to offer "a single comprehensive 
+overview of your fitness," as well as updates to features including Mail and 
+Notification Centre.
+
+The Health app integrates with apps such as Nike+, or even apps made by 
+healthcare providers, to let users manage their health through theiriOS 
+<https://www.theguardian.com/technology/ios> devices.
+
+"We believe Apple's healthkit will revolutionise how the healthcare industry 
+interacts with people," said John Noseworthy, CEO of the prestigious Mayo 
+Clinic hospital.
+
+Craig Federighi, the company's software chief, demonstrated the new features. 
+Chief among them was a new typing function, called Quicktype, which offers 
+predictive typing suggestions.
+
+Similar to Android keyboards such as SwiftKey and Swype, Quicktype looks at 
+what a user has previously written and suggests what it thinks the next word in 
+the sentence should be. When replying to a text suggesting dinner or a movie, 
+for instance, it can automatically work out that the "dinner" and "a movie" are 
+words which are likely to be written next.
+
+Photo handling has also been updated, with Apple offering users the ability to 
+use the cloud to store every photo and video taken on their iOS devices. With 
+iPhones consistently at the top of charts like Flickr's most-used cameras, that 
+change is likely to be well received by snap-happyiPhone 
+<https://www.theguardian.com/technology/iphone> users. But the storage is not 
+free – it will cost up to $3.99 a month.
+
+Other features receiving a overhaul include Notification Centre, which now 
+allows users to interact with notifications inline, replying to text messages 
+or liking Facebook updates without opening the app itself. Additionally, the 
+multitasking view of iOS now includes recently contacted people, as well as 
+recently used apps.
+
+Mail, the default iOS email app, received a small haul of updates too, 
+allowing users to reply to, and delete, messages with just a single swipe. "I 
+think we're all going to love doing Mail this way," Federighi said as he 
+demonstrated the email app. And Messages, "the most-used app on iPhones" 
+according to Federighi, now offers the ability to mute multi-user chats, send 
+video or audio messages with just a click and a swipe, and photos in the same 
+manner.
+
+Although Apple didn't emphasise the fact, the audio and video messages borrow 
+a feature from ephemeral messaging app Snapchat: they will automatically delete 
+after a short time, apparently to save space on the phone.
+
+Federighi also demonstrated a new Family Sharing service, letting whole 
+families share their photos, calendars and locations with each other. The 
+service also allows children to use the App store themselves through their 
+parents' credit cards, by sending requests to the adults' iPhones when a 
+purchase is attempted.
+
+The total number of iPad users in the US continues to increase, but the 
+expanding tablet market means that Apple is actually losing share of overall 
+users as Samsung and others increase sales. Emarketer expects US tablet users 
+is to fall to 51.8% in 2014, according to down from 54.5% last year.
+
+Apple is expected to claim 12.3 million iPad users in the UK in 2014, which 
+represents roughly 50% of the UK tablet users down from 59% in 2013.
+
+Apple’s share of the US smartphone users will rise to 40.5% up from 40% in 
+2013 and 36.5% in 2012, according to data from eMarketer. By comparison 
+Google’s Android will claim 50% of smartphone users in 2014, up from 49.5% in 
+2013.
+
+In the UK, Apple’s numbers are slightly lower. Apple is expected to claim 
+30.5% of smartphone users this year, up from 29% in 2013, while Android 
+smartphone users will account for 53% of the market in 2014 compared to 54.5% 
+in 2013, according to eMarketer.
+
+• Follow WWDC 2014 as it happened 
+<https://www.theguardian.com/technology/2014/jun/02/wwdc-2014-apple-ios-8-mac-os-1010-san-francisco-live?view=desktop>
+ 

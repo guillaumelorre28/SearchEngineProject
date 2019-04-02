@@ -1,0 +1,84 @@
+ The internet and other networks are based on a fundamental idea developed by 
+the computer scientist Donald Watts Davies, who has died aged 75. He is not 
+always given full credit for his contribution because Paul Baran, an American 
+working at the Rand Corporation in California, had independently come up with 
+the same idea. However, Baran was focusing on a way to restructure AT&T's 
+telephone system. Davies was creating a data network, and the design of the 
+Arpanet, the precursor of the internet, was changed completely to adopt his 
+technique.
+Also, Davies's term for the idea, which he called "packet switching", was much 
+catchier than Baran's "distributed adaptive message block switching". Davies 
+had considered many possibilities - block, unit, segment, etc - before deciding 
+on packet as a sort of small package. And as he later told Baran: "Well, you 
+may have got there first, but I got the name."
+
+Like all beautiful ideas, "packet switching" is fundamentally simple. The 
+problem with long-distance communications is that it is difficult and expensive 
+to maintain a connection that stretches a long way across many different 
+telephone lines through many different exchanges, some run by different 
+companies. Why not chop the message into small packets first, then shove them 
+on to the network and let them make their own way to their destination by the 
+easiest route available? The receiving system can shuffle them into the right 
+order, and ask for any missing packets to be re-sent.
+
+The postal service works in the same way. Packet switching is just like 
+sending someone a book, each page in its own numbered envelope, for the 
+recipient to reassemble on arrival. Once you've put all the envelopes in the 
+nearest post box, you don't care how they get to the destina tion address. In 
+the context of voice telephony, of course, this idea sounds outrageous, and 
+Baran's proposals met with considerable hostility. But as a way of building 
+computer networks, such as Davies proposed, it was wonderfully simple and 
+logical. It was rapidly adopted, with British Telecom offering a data service 
+called Packet SwitchStream (PSS).
+
+The idea also transformed the economics of communications. You no longer 
+needed to make a long-distance call to send data across the world, only to call 
+the network's nearest node - which today is usually a local internet service 
+provider.
+
+Davies did not, of course, go on to found a mega-corporation and try to 
+dominate data networking. He wasn't that sort of chap. Brian Oakley, who ran 
+Britain's strategic computer research initiative, says: "He was an ideas man, 
+and didn't follow through. It wasn't that he couldn't have, it was just that he 
+chose to move on to the next idea. But one of his key features was that he 
+would pick things up well before other people realised they were going to be 
+important."
+
+He was born in Treorchy, in the Rhondda Valley. When his father died a few 
+months later, his mother moved Donald and his twin sister to her home town of 
+Portsmouth. He went on to get a first in physics at Imperial College, London, 
+at the age of 19, then took another first in mathematics, graduating in 1947.
+
+At Imperial he attended a lecture about ACE, one of the first digital 
+computers, which was being built at the National Physical Laboratory (NPL), and 
+promptly applied to join the team. There he worked with Alan Turing, the 
+computer pioneer best known for his wartime code-breaking work at Bletchley 
+Park, and stayed for 37 years, a well-respected member of Britain's scientific 
+civil service.
+
+NPL gave Davies the opportunity to work in a wide range of fields from machine 
+translation (Russian into English) to superconducting materials, and it was at 
+NPL that he developed the packet switching idea in 1965. He was also the first 
+project leader for the Ministry of Technology's advanced computer technology 
+project. Although shy, Davies's intellectual powers commanded respect. He was a 
+leader, and also liked.
+
+In his last years at NPL, Davies formed a computer security group and worked 
+with the clearing banks on cryptography and the security of their networks. 
+After retiring in 1984, he continued to work as a data security consultant, and 
+for fun developed a PC simulation of the first computer he had helped design, 
+Turing's Pilot ACE.
+
+This idea neatly encapsulated a career that - thanks to the incredible pace of 
+technological development - covered the entire history of digital computing and 
+data communications. Davies was privileged to work on one of the first 
+computers, and lived to see them become part of everyday life. He was also one 
+of the originators of distributed data communications networks, an idea that 
+seemed abstruse in 1965 but led directly to the ubiquity of the internet.
+
+He is survived by his wife, Diane, a daughter and two sons. 
+
+ Jack Schofield 
+
+ Donald Watts Davies, computer scientist, born June 7 1924; died May 28 2000
+ 

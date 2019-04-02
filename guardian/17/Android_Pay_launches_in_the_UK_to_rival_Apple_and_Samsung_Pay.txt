@@ -1,0 +1,85 @@
+
+Google’s contactless smartphone payment system Android 
+<https://www.theguardian.com/technology/android> Pay has finally launched in 
+the UK with support for MasterCard and Visa cards from at least eight banks.
+
+
+The service, which requires the Android Pay app 
+<https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel>
+, a smartphone running Android 4.4 KitKat or later and near field 
+communications (NFC), will allow users to buy goods and services anywhere with 
+a contactless payment terminal.
+
+Versions of Android supporting the new payment system, which include Android 
+4.4 KitKat, 5 Lollipop and 6 Marshmallow account for 75.6% of all Android 
+devices in operation, according to data fromGoogle 
+<https://www.theguardian.com/technology/google>. Not every Android smartphone 
+supports NFC, however, but the contactless technology that also allows instant 
+Bluetooth pairing with supported devices, is included on the majority of top 
+and middle-tier Android smartphones sold in the UK.
+
+To pay for goods costing less than £30 using Android Pay, the smartphone 
+simply needs to be awake and tapped on to the contactless reader. For payments 
+more than £30, the user needs to authenticate the payment by unlocking their 
+smartphone with either a pin, unlock pattern or fingerprint.
+
+Similar to Apple Pay 
+<https://www.theguardian.com/technology/2015/jul/14/apple-pay-launches-uk-how-to-use>
+ on the iPhone andSamsung Pay 
+<https://www.theguardian.com/technology/2015/mar/01/samsung-reveals-apple-pay-competitor-samsung-pay>
+ on Samsung Android devices, Android pay uses tokenisation to secure your 
+payment information. The user’s credit card information is never sent, and 
+transactions are immediately confirmed to aid in identification of suspicious 
+activity if a user falls victim to fraud.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmay%2F18%2Fandroid-pay-apple-samsung-pay-google%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F9f43d3b64e7a47dd044076a979f58e975eb1235a%2F0_0_4000_2400%2F4000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Android%20Pay%20launches%20in%20the%20UK%20to%20rival%20Apple%20and%20Samsung%20Pay&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmay%2F18%2Fandroid-pay-apple-samsung-pay-google%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Android%20Pay%20launches%20in%20the%20UK%20to%20rival%20Apple%20and%20Samsung%20Pay&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmay%2F18%2Fandroid-pay-apple-samsung-pay-google%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F9f43d3b64e7a47dd044076a979f58e975eb1235a%2F0_0_4000_2400%2F4000.jpg>
+ Android Pay supports Transport for London’s tube network. Photograph: Google 
+Visa credit or debit cards and MasterCards from the Bank of Scotland, First 
+Direct, Halifax, HSBC, Lloyds Bank, M&S Bank, MBNA andNationwide 
+<https://www.theguardian.com/business/nationwide> Building Society will be 
+supported from launch, with London’s Underground network also supporting 
+Android Pay for travel in the same way it does Apple Pay.
+
+Some apps will also allow users to use Android Pay to pay for goods and 
+services on their devices instead of a traditional check out. JD Sports,
+Deliveroo <https://www.theguardian.com/business/deliveroo> and YPlan will be 
+some of the first apps to support Android Pay for purchases.
+
+Google will also have a bespoke offer system called Android Pay Day, operating 
+on the last Tuesday of the month starting in June when retailers including 
+Starbucks UK and Deliveroo will have special offers. Loyalty cards can also be 
+integrated into Android Pay.
+
+The UK is the first market out of the US to see Google’s contactless payments 
+system roll out, after Android Paylaunched in the US in March last year 
+<https://www.theguardian.com/technology/2015/mar/02/google-launches-android-pay-take-over-where-google-wallet-failed>
+. Samsung Pay has yet to reach the UK, leaving only a small collection of 
+mobile-network tied contactless payment services and Apple Pay the only 
+smartphone-based systems until now. Samsung Pay, which uses both NFC and 
+magnetic stripe for payments, has yet to launch in the UK, but is expected soon.
+
+Over 84m contactless credit cards have been issued in the UK as of February 
+2016 and over £1.3bn was spent using contactless payments in the month with 
+usage growing 36.5% year-on-year. There are also 332,607 bank-owned contactless 
+payment terminals across the UK, according to the UK Cards Association.
+
+“The number of contactless card payments is set to surpass 3bn in the UK this 
+year,” said Jeremy Light, managing director of Accenture Payment Services. “For 
+the time being, however, cash remains king among UK consumers with more than 
+half of transactions relying on coins or notes.”
+
+The market opportunity for technologies companies including Google, Samsung 
+and Apple is clear, but it is unclear how frequently smartphone-based payment 
+solutions such as Apple Pay are being used. In January Transport for London 
+recorded 3.2m journeys using mobile devices in six months from July, but Apple 
+has yet to release numbers related to Apple Pay transactions.
+
+Barclays recently unveiled 
+<https://www.theguardian.com/money/2016/may/12/barclays-contactless-payment-app-android-phones>
+ its own unrelated contactless payment app for Android devices, which is will 
+be built into the Barclays mobile banking app.
+ 

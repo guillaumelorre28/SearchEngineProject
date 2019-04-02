@@ -1,0 +1,11 @@
+
+"Beaky Birdsearch is a geographical search engine of UK bird species. Enter a 
+species on the left and a map will be generated which shows the likelihood of a 
+sighting throughout the uk.
+
+The data is from the 2009 RSPB Big Birdwatch survey 
+<http://www.rspb.org.uk/birdwatch/index.asp> and is provided through the 
+Guardian newspaper's newdatastore project 
+<https://www.theguardian.com/data-store>, which aims to make public different 
+data sets from around the world for use in applications such as this."
+ 

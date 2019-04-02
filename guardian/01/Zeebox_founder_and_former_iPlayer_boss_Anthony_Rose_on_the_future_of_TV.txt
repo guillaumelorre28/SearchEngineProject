@@ -1,0 +1,136 @@
+
+There's a saying that in theatre, you don't notice good lighting. For Anthony 
+Rose <https://www.theguardian.com/media/anthony-rose>, the former head of BBC 
+iPlayer, there's a similar principle around technology – particularly when that 
+technology is driving an industry-defining online TV service.
+
+iPlayer was a very different beast when Rose joined the BBC in September 2007. 
+Though technically accomplished, it was a tool built very much in the image of 
+the team that made it rather than the mainstream audience it was intended for, 
+he says. "If you make things for geeks, they are super-satisfied but the real 
+audience isn't. So we brought in people who love EastEnders and Waterloo Road 
+to tell us what they like, from usability to navigation, and quickly discovered 
+what they did and didn't want." It took four rounds of testing the service on 
+ladies from theBBC <https://www.theguardian.com/media/bbc> legal department 
+(and a few boxes of chocolates) to get the service releasable, with each 
+iteration improving five key issues.
+
+Rose came from startups — including geek favourite P2P network KaZaA — to join 
+the BBC 
+<https://www.theguardian.com/media/2007/sep/17/digitalmedia.bbc?INTCMP=SRCH>, 
+and at the time friends questioned how "a dotcom kid" would survive our 
+monolithic national treasure, he recalls. He describes his role as 75% cool 
+stuff, 20% the cost of doing business and 5% bad stuff — not dissimilar to a 
+startup. "When I arrived iPlayer was pre-release and not a wonderful consumer 
+proposition. I didn't know why it hadn't turned out right, or what needed to be 
+done. It turned out that the developers were brilliant, but the problem was 
+that the BBC had so many internal stakeholders all pulling in different 
+directions." From financial pressure to reduce bandwidth use to editorial 
+standards and parental controls, everyone had a say in the project — apart from 
+consumers.
+
+That says a lot about the BBC; despite its prowess in tech research and 
+development, there is a lack of understanding of product, sa ys Rose. It's not 
+a problem specific to the BBC, but a feature of big organisations that they 
+often struggle to make decisions, he says.His relentless focus on product is 
+credited with ensuring iPlayer's success, growing from launch to 130m monthly 
+streams in May 2010, when he moved to another internet TV specialist role as
+chief technical officer at YouView 
+<https://www.theguardian.com/media/2010/oct/22/youview-chief-anti-competitive?INTCMP=SRCH>
+. By December 2012 it had reached a record 217m streams.
+
+By February 2011 Rose was out on his own 
+<https://www.theguardian.com/media/2010/dec/08/anthony-rose-leaves-youview?INTCMP=SRCH>
+ and hungry to head back to the autonomy and opportunity of the startup world, 
+having turned down inevitable offers from other big media organisations. 
+Match-made with former EMI president Ernesto Schmitt, Rose pulled together a 
+crack team of developers — many of whom came from the BBC, and most of whom 
+initially worked for nothing — to build a prototype for a second screen TV 
+service. The team of eight worked from shared offices in Old Street, secured 
+$6m in private investment, and by November 2011 the first incarnation of Zeebox 
+launched.
+
+In person, Rose exudes a gentle, bubbling enthusiasm for his work. He talks 
+quickly, intensely and very coherently, as if his mind had been synthesising 
+ideas and observations overnight, presentation ready. Zeebox, he explains, is 
+about the conversation around TV, and making that conversation accessible on 
+mobile, tablet or through a browser. It offers programme information, 
+discussion on social media, and targeted advertising.
+
+From the outset, they decided, the concept had to avoid the precondition of 
+partnerships with smart TV manufacturers. Why, despite the promise of Zeebox 
+and a wave of other services perfect for internet-connected TV, have smart 
+(internet-connected) TVs so far proved so disappointing? "Manufacturers had a 
+dream that they would no longer be a dumb pipe, and looked to Apple's 30% 
+commission on app sales to try and do the same to TV listings," he says. "But 
+broadcasters won't be disaggregated or forced to pay a fee to manufacturers. It 
+has meant that smart TVs will have two brains, one for content and one for 
+apps, until a new player comes in and disrupts the market to give consumers 
+what they want."
+
+Zeebox, he explains, can't reconcile that standoff with manufacturers. But it 
+was also never intended to disrupt the TV space, recognising from the start 
+that it would need to partner with broadcasters. "If you look at the people who 
+start new ventures, do they have a religious zeal to change the world, or do 
+they want to disrupt? If your goal is purely to disrupt I think that's naive, 
+because if your business requires deals with those incumbents they will never 
+be your friend. Don't try to fix other people's problems, because they might 
+not want them fixed."
+
+Rose is also back round the table with the broadcasters he dealt with during 
+his iPlayer days, when the tenor of conversation was rather different. "I had 
+fairly robust conversations with some of these broadcasters when I wanted 
+content in the iPlayer, and needed them to change their rights and allow it. It 
+made for some pretty interesting dinner conversation."
+
+A month after launch, BSkyB approached Zeebox and took a 10% stake understood 
+to be worth at least $15m, giving Zeebox "the capital and credibility to 
+develop the UK proposition". Next came the US launch in September 2012, with 
+launch partners including Comcast, NBC and Viacom, and Australia, with Channel 
+Ten, the following month.
+
+Television, Rose contends, has been the same for decades. Despite incremental 
+improvements with colour and then HD, the essential dynamic of beaming 
+programmes to millions of people remains the same. The Zeebox vision he pitches 
+is one built on five principles of connected TV: programme discovery and social 
+recommendation; programme information; participation, which could mean 
+influencing the narrative of the programme rather than asynchronously 
+commenting; and shopping, with a compelling case for click-to-buy that could be 
+lucrative for Zeebox.
+
+He won't say when it expects to start seeing a profit, but this month Zeebox 
+introduces its ad platform. Using a fingerprinting system to recognise ads 
+playing on a TV stream, it can offer ads that synchronise each TV slot with 
+Zeebox on mobile, tablet or the web. Broadcasters can partner and offer those 
+slots to their own advertisers on a revenue share, or Zeebox sells them to 
+other advertisers.
+
+Ambitions are firmly fixed on cracking the US where TV advertising is worth 
+$65bn annually, according to Group M. "TV ads are monetised at 0.5c to 1c per 
+view, but Google is monetised at 50c per click on the internet, and that's 
+targetable and measurable," says Rose. "Second screen will either be seen as 
+digital, divorced from TV, or as TV plus plus, online and synchronised. We've 
+had overwhelming interest from advertisers at the highest level."
+
+The pièce de résistance, if Zeebox can pull it off, will be to layer all this 
+functionality around on-demand programmes. The team has figured out how to 
+re-present timestamped comments from the original broadcast, though how any 
+further interaction will work has yet to be determined. That catchup experience 
+is just a few weeks away, Rose promises.
+
+It's impossible to talk about his work without discussing his time at the BBC, 
+which set him on the path to being one of the most authoritative figures in 
+connected TV. But while he's gracious about former colleagues, he's not 
+confident that the BBC — despite its heritage of excellence in engineering — is 
+committed to exploring the technology that will define its future.
+
+"The Delivering Quality First programme has pulled the focus back to making 
+content, and I don't subscribe to that. In the future, people will have to 
+watch and discover that content in the new ways, and while iPlayer is fantastic 
+at discovery on multiple devices, the technology will keep moving. Consumers 
+are moving off the schedule, and if you're not plugged in to how they are doing 
+that, then you're not leading on it.
+
+"The pendulum is swinging away from tech innovation toward content – and 
+that's the opposite of what the BBC's competitors are doing."
+ 

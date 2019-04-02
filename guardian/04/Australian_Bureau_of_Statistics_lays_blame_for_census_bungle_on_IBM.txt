@@ -1,0 +1,67 @@
+
+The Australian Bureau of Statistics 
+<https://www.theguardian.com/australia-news/australian-bureau-of-statistics> 
+has blamed service provider IBM for the disruption that forced the 2016 online 
+census system to be shut down for nearly 48 hours last month, in its submission 
+to a Senate inquiry.
+
+The ABS chief statistician, David Kalisch, says IBM did not properly prepare 
+for the risk of a distributed denial of service (DDoS) attack that triggered 
+the embarrassing shutdown.
+
+The bureau was forced to apologise last month 
+<https://www.theguardian.com/australia-news/2016/aug/09/the-great-australian-census-fail-of-2016-website-crashes-under-load>
+ after websites crashed during peak time on census night. At the time, Kalisch 
+said the ABS the site had received a sequence of denial of service attacks 
+emanating from overseas.
+
+Census 2016: ABS says deliberate attacks were to blame for website crashing
+ Read more  
+<https://www.theguardian.com/australia-news/2016/aug/09/the-great-australian-census-fail-of-2016-website-crashes-under-load>
+A Senate inquiry was later established to investigate what went wrong.
+
+In his submission to the inquiry – published on the Senate website on Friday 
+afternoon but later removed without warning (you can access it here 
+<https://drive.google.com/file/d/0B6fRXFvYdlVKLVRPNF94WUIyNXc/view>) – Kalisch 
+lays the blame squarely on IBM.
+
+He says IBM had been contracted to host the online census system, and the 
+contract required it to deliver a risk management plan which included the 
+denial of services as a risk that would be mitigated by IBM.
+
+Kalisch says during 2016, ABS sought and received assurances from IBM about 
+“operational preparedness and resilience to DDoS attacks,” and ABS did not 
+independently test the DDoS protections IBM was contracted to put in place 
+because it believed it had received reasonable assurances from the service 
+provider.
+
+“The online Census system was hosted by IBM under contract to the ABS and the 
+DDoS attack should not have been able to disrupt the system 
+<https://www.theguardian.com/australia-news/2016/aug/11/census-2016-malcolm-turnbull-shifts-blame-to-ibm-for-predictable-attack>
+,” Kalish says in his submission.
+
+
+Australian census 2016: complaints as people asked to fill out forms again
+ Read more  
+<https://www.theguardian.com/australia-news/2016/sep/02/australian-census-2016-complaints-as-people-asked-to-fill-out-forms-again>
+“Despite extensive planning and preparation by the ABS for the 2016 Census 
+<https://www.theguardian.com/australia-news/census> this risk was not 
+adequately addressed by IBM and the ABS will be more comprehensive in its 
+management of risk in the future.”
+
+Kalisch also says that over the last 15 years, ABS resources have generally 
+been reducing.
+
+
+“Its staff numbers have fallen by 14% and the budget appropriation (in real 
+terms) has also fallen by 14%,” the submission says.
+
+“In contrast, the demands on the ABS to properly measure the economy, society 
+and the environment, and respond to the requirements of governments, has 
+increased and become more complex.”
+
+Earlier this month, some Australians who completed the 2016 census were asked 
+to resubmit the form, andthe ABS said it was unable to explain the error 
+<https://www.theguardian.com/australia-news/2016/sep/02/australian-census-2016-complaints-as-people-asked-to-fill-out-forms-again>
+.
+ 

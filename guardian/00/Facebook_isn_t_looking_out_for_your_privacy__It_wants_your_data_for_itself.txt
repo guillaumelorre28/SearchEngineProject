@@ -1,0 +1,98 @@
+
+Facebook’s terms of service <https://www.facebook.com/legal/terms> are pretty 
+clear, by the standards of such things. (I should know:I once read 150,000 
+words of small print in a week 
+<https://www.theguardian.com/technology/2015/jun/15/i-read-all-the-small-print-on-the-internet>
+ to see what I would find out.) There are very few random blocks of all-caps, 
+it’s fairly short, and it has hyperlinks in it. You don’t even have to scroll 
+down to find one of the key sections, which lays out what it means when you 
+share information with Facebook.
+
+“You own all of the content and information you post on Facebook 
+<https://www.theguardian.com/technology/facebook>,” the company assures you, 
+“and you can control how it is shared through your privacy and application 
+settings.”
+
+So who is Facebook to tell me that I can’t share the information I own and I 
+control with a company that’s offering me a hefty discount for doing so?
+
+But that’s what Facebook did today 
+<https://www.theguardian.com/money/2016/nov/02/facebook-admiral-car-insurance-privacy-data>
+, in response toinsurance company Admiral’s plan 
+<https://www.theguardian.com/technology/2016/nov/02/admiral-to-price-car-insurance-based-on-facebook-posts>
+ to let young drivers share their Facebook posts to prove they are low-risk.
+
+Let’s be clear: Admiral’s plan isn’t something I was fighting to sign up for. 
+For one thing, I don’t drive and have zero posts on my Facebook account. Not 
+quite the target market, there. But there are more generalised reasons to be 
+wary: Admiral’s bizarre pseudoscientific claim that exclamation mark use 
+indicated a bad driver, for instance.
+
+I’m also not eager to contribute to the erosion of risk-pooling which lies at 
+the heart of the entire concept of insurance. And, frankly, there’s something 
+of the surveillance state about your every personal action having a financial 
+consequence as it gets filtered through the corporate realm.
+
+Despite that, is Facebook really fighting my corner? The company forced Admiral
+ <https://www.theguardian.com/business/admiralgroup> to pull its test product, 
+citing section 3.15 of the company’s platform policy – the rules under which 
+apps are allowed to plug in to Facebook’s site. Those rules are clear: Facebook 
+data should not be used to “make decisions about eligibility, including whether 
+to approve or reject an application or how much interest to charge on a loan.”
+
+In a statement, Facebook celebrated its rejection of Admiral: “Protecting the 
+privacy of the people on Facebook is of utmost importance to us. We have clear 
+guidelines that prevent information being obtained from Facebook from being 
+used to make decisions about eligibility.”
+
+But it’s hard to see how the privacy of people on Facebook has been protected. 
+Admiral’s software was opt-in, ensuring that the company saw nothing its 
+customers didn’t share with them. What’s more, the software plugged into 
+Facebook with a single, explicit, well-communicated purpose: scan your Facebook 
+profile to find out if you’re eligible for discounts on your care insurance.
+
+Compare that, for instance, with the permissions required to play even a 
+simple game. Words With Friends, for instance, asks for your public profile, 
+friends list, and email address before you can play it. Does a scrabble clone 
+really need to know my age and gender? Wouldn’t a site that cares about privacy 
+crack down on that, first?
+
+The fact is, Facebook isn’t really acting based on Admiral’s invasion – or not 
+– of users’ privacy. It’s acting because Admiral has violated Facebook’s 
+exclusive right to be the only company that uses Facebook data to discriminate.
+
+If Facebook cared about unfair profiling and privacy abuse, for instance, it 
+would probably not havestarted grouping its users together based on their 
+“Ethnic Affinity” 
+<https://www.theguardian.com/technology/2016/mar/22/facebooks-ethnic-affinity-advertising-concerns-racial-profiling>
+. It wouldn’t then allow that ethnic affinity to be used as a basis for 
+excluding users from advertisements, and it certainly wouldn’t allows that 
+ethnic affinity to be used as a basis forpotentially illegal discrimination in 
+real estate advertising 
+<https://www.propublica.org/article/facebook-lets-advertisers-exclude-users-by-race>
+.
+
+If Facebook cared about the privacy of its users, it wouldn’t strain as hard 
+as it could to suggest “people you may know” based on the slimmest of 
+inferences. It certainly wouldn’t go so far as torecommend that patients 
+befriend other people who visit the same psychiatrist as them 
+<http://fusion.net/story/339018/facebook-psychiatrist-privacy-problems/>. That 
+seems like a far bigger privacy breach than willingly letting your insurance 
+company read your posts.
+
+There may be a simpler reason why Facebook doesn’t like like the Admiral. If 
+you realised you could get a discount on your car insurance by being cautious 
+about what you post, you might make fewer personal posts, you might fewer 
+spontaneous posts, or you might just make fewer posts.Facebook has already seen 
+a decline in what it calls “personal updates” 
+<http://fortune.com/2016/04/07/facebook-sharing-decline/> – that’s you or I 
+actually writing a Facebook post, rather than simply sharing a link or liking a 
+picture – and it could be scared that that trend could continue. If our visits 
+to the site drop, Facebook’s share price could go the same direction.
+
+So don’t fool yourself. Facebook isn’t fighting in your corner against an evil 
+insurance company (even if that insurance company isn’t exactly on the side of 
+angels either). It just wants to make sure you don’t think twice next time you 
+post “Just got drunk and texted all my exes!!!! Think I’m going to get a tattoo 
+next!!!”
+ 

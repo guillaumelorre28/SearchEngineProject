@@ -1,0 +1,41 @@
+
+Are there any portable MP3 players, and computer programs, for storing and 
+playing classical music? Ones that classify by composer and work, not artist 
+and album; that recognise that one CD may contain works by several composers 
+and each work may have several movements; that do not want to play all the 
+movements on the device in alphabetical, or worse, random order? If there is 
+one that can play other codecs (ogg vorbis and FLAC files) so much the better. 
+Edward Evans
+
+Those are questions I have asked myself, without coming up with a good answer 
+(which means I've never bought an MP3 player). One workaround is to start each 
+file name with the appropriate number so the tracks sort in order: 1a, 1b, 1c, 
+2a etc. Then you store each CD's files in its own folder.
+
+(If you have got used to playing through sets of string quartets in the 
+"wrong" order because that's how they best fitted the original CDs, you might 
+have to number the folders, too.)
+
+Tagging of classical music is a mess, starting with the idiot assumption that 
+"classical" covers everything from Hildegard of Bingham to Tomita, and 
+continuing with the idiot assumption that almost every classical CD is a 
+"compilation". I won't even mention the idiot assumption that you want 
+everything conducted by Karajan sorted together,regardless of composer, and is 
+Karajan sorted by Herbert, by von, or by Karajan?
+
+A quick search for a standards committee working on the problem didn't help, 
+but I did findTaming iTunes for Classical Music 
+<http://oakroadsystems.com/genl/itunes.htm>. It's also a topic frequently and 
+sensibly discussed in theHydrogenAudio forums 
+<http://www.google.com/search?hl=en&safe=off&q=+site%3Awww.hydrogenaudio.org+classical+music+tagging>
+. I also discovered that theGracenote Classical Music Initiative 
+<http://www.gracenote.com/gn_products/cmi.html> is being presented as the 
+solution.
+
+Having Gracenote deliver useful and accurate tags automagically would be a 
+real breakthough.
+
+But if you have found an MP3 player that is more suitable for playing 
+classical music -- or a player/software combination -- please let us know what 
+it is.
+ 

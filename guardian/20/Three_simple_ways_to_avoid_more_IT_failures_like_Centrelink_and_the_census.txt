@@ -1,0 +1,92 @@
+
+Centrelink’s software problems, like those of Queensland Health, the Census 
+<https://www.theguardian.com/australia-news/census> and Victoria Police before 
+them, arise from pathologies created by the powerful labour hire and 
+outsourcing industries.
+
+Centrelink’s software 
+<https://www.theguardian.com/australia-news/2017/jan/06/centrelink-crisis-cataclysmic-turnbull-former-head-digital-transformation>
+ invents second employers and additional income.Queensland Health bungled the 
+pay of nurses and doctors 
+<http://www.afr.com/technology/it-disasters-now-part-of-modern-life-20160628-gptyw6>
+ and also sent them nasty legal letters. Queensland lost a staggering $1bn 
+through that disaster.The census website system fell over. 
+<https://www.theguardian.com/australia-news/2016/sep/23/australian-bureau-of-statistics-lays-blame-for-census-bungle-on-ibm>
+
+This is what happened when Centrelink called to review my false debt 
+accusation | Michael Griffin
+ Read more  
+<https://www.theguardian.com/commentisfree/2017/jan/05/this-is-what-happened-when-centrelink-called-to-review-my-false-debt-accusation>
+These would be extraordinary mistakes even for a small business, and yet 
+they’re being made by government departments with hundreds of millions of 
+dollars to spend. How does this happen? 
+
+The answer is to be found in the arrangements the labour hire and outsourcing 
+industries have created for themselves. Almost all software development by 
+government is now performed by programmers hired through labour hire firms or 
+outsourcers.
+
+Labour hire firms hide the payments from the other party in the relationship. 
+This allows them to charge high rates to government departments and attribute 
+the rates to skill shortages. Meanwhile they pay the programmer only a 
+relatively small amount, pocketing a small fortune for nothing.
+
+For example, a 2012 investigation by the NSW Independent Commission Against 
+Corruption (Icac) 
+<https://www.icac.nsw.gov.au/docman/investigations/reports/3854-investigation-into-alleged-fraud-on-the-former-nsw-department-of-education-and-communities-operation-barcoo-january-2012-pdf/file>
+ (pdf) found that the New South Wales education department was paying $90 to 
+$95 to a labour hire firm for programmers, but some of the programmers were 
+receiving only $25 per hour. That is equivalent to a salary less than $50,000 
+per year.
+
+Another Icac investigation found that Sydney University 
+<http://www.cio.com.au/article/588780/witnesses-reveal-contractors-were-ripped-off-university-sydney-ict-corruption-inquiry/>
+ paid a labour hire firm $750 per day for one IT contractor, yet the contractor 
+received only $290 per day. Similarly, the university paid $1.6m to a labour 
+hire firm, but the contracted workers only received $800,000. These problems 
+only came to light when a new manager started asking questions and reported his 
+findings. There are many government departments where no one asks questions.
+
+Even worse, the system of approved suppliers, while fine in theory, can be a 
+barrier to hiring. Even if a manager knows a brilliant programmer and wants to 
+hire him or her, they must hire through a registered supplier, who then takes a 
+cut of the pay or creates some reason to provide a less capable alternative.
+
+Outsourcers are a problem too. Like labour hire firms, their goal is to 
+maximise revenue from the government while reducing their own costs. They are 
+led by salesmen, not software experts. When unusual problems arise, no one has 
+the confidence to challenge existing procedures. Government managers become 
+unhappy accomplices because their own standing is tied up with the project.
+
+When things start going wrong, government managers typically try to rotate 
+away from the project, leaving it with a bad reputation and a succession of 
+temporary managers. Outsourcers find themselves trapped by inflexible plans and 
+sometimes hostility from the department.
+
+These problems could be fixed with some simple changes.
+
+First, the Independent Contractors Act 2006 should be amended to force labour 
+hire firms to disclose both parties’ pay rates to all parties. This simple 
+change would stop labour hire firms gouging the government and also, by 
+providing more pay for programmers, attract more talent.
+
+Sussan Ley stands aside as health minister while travel claims investigated
+ Read more  
+<https://www.theguardian.com/australia-news/2017/jan/09/sussan-ley-stands-aside-health-minister-travel-claims-investigated>
+Second, government should tip more money into its own development groups. Each 
+organisation knows its own requirements best, and it is possible to build 
+talented development groups, if management commits to it. There is no reason 
+well-funded government departments can’t build their own teams equivalent to 
+those at Google, Facebook and Microsoft. The Washington Post’s digital team 
+under Jeff Bezos is a striking example of what leadership can achieve.
+
+Third, as an immediate measure, departments should hire top programmers to 
+manage their interaction with outsourcers, in the same way they have in-house 
+legal experts to manage interaction with external law firms. Current practice 
+is to hire general purpose executives, who can face difficult pressures from 
+outsourcers.
+
+Software is a growing, important field without clear administrative checks. 
+Government needs to take drastic steps to keep up, and especially to ensure 
+taxpayers’ money is not wasted.
+ 

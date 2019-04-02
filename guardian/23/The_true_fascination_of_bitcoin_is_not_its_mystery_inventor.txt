@@ -1,0 +1,135 @@
+
+In November 2008, when Satoshi Nakamoto 
+<https://www.theguardian.com/technology/2014/mar/07/satoshi-nakamoto-denies-inventing-bitcoin>
+ first announced his “new electronic cash system” on an out-of-the-way mailing 
+list for people with an interest in cryptography, he was pretty much ignored. 
+Two days passed before he even got a reply. How attitudes would change. His 
+invention wasbitcoin 
+<https://www.theguardian.com/commentisfree/2015/dec/09/the-guardian-view-on-bitcoin-the-ghost-behind-the-machine>
+ and it would soon catch a collective nerve.
+
+Craig Wright: scepticism surrounds bitcoin inventor's identification
+ Read more  
+<https://www.theguardian.com/technology/2016/may/02/bitcoin-craig-wright-satoshi-nakamoto-inventor-scepticism>
+First to be struck by the bitcoin bug were the computer coders. It solved a 
+problem that had stumped them for more than 30 years: how can I send cash 
+directly to you over the internet, just as I would hand cash to you if you’re 
+standing next to me, without using a middle man? It was known as the problem of 
+“double spending <https://en.bitcoin.it/wiki/Double-spending>”. Here was the 
+solution.
+
+Economists were smitten too. Here was an alternative to government currency, 
+an open-source money systemwithout the backing of the law 
+<https://www.theguardian.com/commentisfree/2013/may/30/bitcoin-beyond-reach-of-government>
+, yet freely given value by the market.Activists, libertarians, anarchists and 
+others 
+<https://www.theguardian.com/technology/video/2013/mar/22/bitcoin-currency-video>
+ who believe the reaction of governments to the financial crisis exacerbated 
+the inequality we endure today loved it. Here was a money central banks 
+couldn’t print or “quantitatively ease”.
+
+Speculators adored this new digital asset class, which could make you rich 
+overnight: at its peak, a bitcoin would be worth as much as an ounce of gold. 
+Entrepreneurs saw the new opportunities it was creating. And the young loved it 
+too: here was a form of wealth beyond the comprehension of the old, who seemed 
+to own everything else. And we must add criminals to its devotees. An anonymous 
+electronic cash system meant illegal goods,drugs especially, could now be 
+bought and sold online 
+<https://www.theguardian.com/technology/2014/may/30/life-after-silk-road-how-the-darknet-drugs-market-is-booming>
+.
+
+Behind it all was this anonymous figurehead, Nakamoto. But who the hell was 
+he? The bigger bitcoin grew, the more people wanted to know. He has a Japanese 
+name, a German email address and writes in almost impeccable British English. 
+In the 80,000 words (more than a book’s worth) he wrote online as bitcoin was 
+developed, I found just one spelling mistake (ideological was spelt 
+“idealogical”).
+
+At one stage he was estimated to have a net worth over a billion dollars. He 
+was an immensely talented coder, a skilled mathematician and a meticulous 
+writer, with an immense knowledge and ability in a wide range of subjects. He 
+was also extremely practical. How could anybody with this much ability not be 
+known to the world? He was even nominated for a Nobel prize.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2013%2Fmar%2F22%2Fbitcoin-currency-video&picture=http%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Faudio%2Fvideo%2F2013%2F3%2F22%2F1363962749664%2FBitcoin-developer-Amir-Ta-005.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Bitcoin%3A%20the%20fastest%20growing%20currency%20in%20the%20world%20-%20video&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2013%2Fmar%2F22%2Fbitcoin-currency-video>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Bitcoin%3A%20the%20fastest%20growing%20currency%20in%20the%20world%20-%20video&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2013%2Fmar%2F22%2Fbitcoin-currency-video&media=http%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Faudio%2Fvideo%2F2013%2F3%2F22%2F1363962749664%2FBitcoin-developer-Amir-Ta-005.jpg>
+Bitcoin: the fastest growing currency in the world - wideo 
+<https://www.theguardian.com/technology/video/2013/mar/22/bitcoin-currency-video>
+I wrote a book on bitcoin <https://unbound.co.uk/books/bitcoin> and became as 
+obsessed as anyone. I concluded – wrongly, it now seems – that it was an 
+American coder by the name ofNick Szabo 
+<http://www.nytimes.com/2015/05/17/business/decoding-the-enigma-of-satoshi-nakamoto-and-the-birth-of-bitcoin.html?_r=0>
+. There was just too much evidence to ignore. Szabo had developed the immediate
+precursor to bitcoin, called bitgold 
+<https://www.cryptocoinsnews.com/nick-szabo-bitcoin-founder-satoshi-nakamoto-breaks-silence-tweet/>
+; his and Nakamoto’s writing styles were very similar; they kept the same 
+working hours; the timing was right – Szabo was “between projects”; he had the 
+required cultural background among a renegade band of90s coders known as the 
+Cypherpunks <http://www.cybersalon.org/cypherpunk/>; and he was the only man 
+alive I could find who had the talent and the specificity of knowledge to put 
+something like bitcoin together.
+
+Nakamoto had a habit of leaving little Easter eggs 
+<https://www.theguardian.com/technology/2015/apr/02/12-greatest-video-game-easter-eggs>
+. My favourite was the birthdate he left on his registration form at theP2P 
+Foundation <http://p2pfoundation.net/> – 5 April 1975. In 1933 that was the 
+date President Roosevelt signed executive order 6102, which made itillegal for 
+Americans to own gold <http://www.presidency.ucsb.edu/ws/index.php?pid=14611>. 
+But Nakamoto gave the year of his birth as1975 – the year it became legal for 
+Americans to own gold again 
+<http://goldcoin.org/numismatics/the-great-confiscation-gold-ownership-was-illegal-in-the-usa-from-1933-to-1975/165/>
+. If that all sounds too tenuous to be credible, you don’t know Nakamoto.
+
+Yesterday Craig Wright, a computer programmer from Australia, confessed to 
+being Nakamoto 
+<https://www.theguardian.com/technology/2016/may/02/bitcoin-craig-wright-satoshi-nakamoto-inventor-scepticism>
+. Wright’s was not a name that had been previously had much association with 
+bitcoin. But last year emailswere leaked 
+<https://www.wired.com/2015/12/bitcoins-creator-satoshi-nakamoto-is-probably-this-unknown-australian-genius/>
+ that outed Nakamoto as Wright, working in collaboration withDave Kleiman 
+<http://gizmodo.com/this-australian-says-he-and-his-dead-friend-invented-bi-1746958692>
+, an American forensic computer investigator who died in 2013.
+
+As soon as I read the story, everything slotted into place – for me at least. 
+Neither Wright nor Kleiman could have done it alone, but between them they had 
+the knowledge and skills. Wright was the ideas man, Kleiman did the heavy 
+lifting.
+
+Is Blockchain the most important IT invention of our age? | John Naughton
+ Read more  
+<https://www.theguardian.com/commentisfree/2016/jan/24/blockchain-bitcoin-technology-most-important-tech-invention-of-our-age-sir-mark-walport>
+From my own cursory analysis, Wright’s writing and punctuation do not 
+completely tally. Wright is more prone to errors than Nakamoto. But it seems 
+the deskbound Kleiman, who’d published numerous books, wrote most of Nakamoto’s 
+80,000 words, while his Florida location tallies with the timing of Nakamoto’s 
+posts. One way to achieve further confirmation would be to compare Wright’sC++ 
+coding style 
+<https://en.wikibooks.org/wiki/C%2B%2B_Programming/Programming_Languages/C%2B%2B/Code/Style_Conventions>
+ to bitcoin’s early development, but this is a skillset that is beyond my own.
+
+Doubts will always remain. My view is that it no longer matters, if it ever did
+ 
+<https://www.theguardian.com/technology/2015/dec/09/bitcoin-creator-satoshi-nakamoto-craig-wright>
+. If we had known Nakamoto’s identity from the onset, bitcoin could not have 
+taken off to the same extent. But he left the project in 2011, when a bitcoin 
+was worth just a few dollars (it is over $440 today), and the identity of those 
+who put it together no longer has much bearing on its success. If Nakamoto were 
+to dump all his coins on the market at once, there would be liquidity issues, 
+but no more likely to happen than Bill Gates selling his Microsoft shares in 
+one lump.
+
+In the grand scheme of things, what is perhaps more significant than bitcoin 
+is the tech behind it. Theblockchain – a corroboration system – 
+<https://www.theguardian.com/commentisfree/2016/jan/24/blockchain-bitcoin-technology-most-important-tech-invention-of-our-age-sir-mark-walport>
+ has a myriad of potential applications that go way beyond an alternative cash 
+system.
+
+Satoshi Nakamoto – Craig Wright, Dave Kleiman and collaborators (and I include 
+Nick Szabo) – you have all given the world something wonderful, something that 
+has changed many lives for the better and will go on to change many more. May 
+you get the recognition you deserve, but may you also now be left to privately 
+pursue your activities in peace.
+ 

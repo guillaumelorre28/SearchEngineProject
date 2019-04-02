@@ -1,0 +1,86 @@
+
+Established ways of releasing that data have evolved. APIs in standard 
+formats, Linked Data using RDF and Domain Modelling are examples that are fast 
+becoming the orthodoxy.
+
+But the practice of visualising data is a little less well understood, perhaps 
+because it's one of those disciplines that mixes art and science. There are 
+plenty of blogs that list good examples of creative data visualisation (
+infosthetics.com <http://infosthetics.com>, flowingdata.com 
+<http://flowingdata.com>, informationisbeautiful.net 
+<http://www.informationisbeautiful.net> etc) but not many sites that aim to 
+teach the skills needed to interpret and present data in an engaging way.
+
+The Data Art project <http://backstage.bbc.co.uk/data_art/> aims to do this. 
+It's a collaboration betweenBBC Learning <http://www.bbc.co.uk/learning/> and 
+theUniversity of Westminster <http://www.westminster.ac.uk/schools/media/cream> 
+and is funded by theAHRC <http://www.ahrc.ac.uk/Pages/default.aspx>. We are 
+especially interested in how data visualisation can be used in teaching.
+
+Our latest project is called News Traces 
+<http://backstage.bbc.co.uk/data_art/guardian_newstraces/> and it uses the 
+Guardian's Open Platform. Users can search for words and phrases and see the 
+instances of those words in Guardian articles from 2000 until the present day. 
+In doing so it turns the Guardian website into a visual history lesson of the 
+first decade of this century. We aimed to create something that could be used 
+in the classroom to augment current affairs and recent history teaching but 
+we've ended up with something that is pretty interesting for a general audience 
+and certainly useful for data journalists.
+
+The design
+
+We arrived at this way of presenting the data on the back of several other 
+prototypes. These included a flash visualisation plugged into an internal BBC 
+API that exposed subtitles information for recent TV programmes. We 
+subsequently developed this idea further withMicrosoft Pivot 
+<http://en.wikipedia.org/wiki/Microsoft_Live_Labs_Pivot> to navigate to iPlayer 
+using the same data. What we learnt was that in displaying individual instances 
+of words as blocks we had a useful way of navigating back to the original 
+content. In addition, putting these instances on a timeline highlighted trends 
+and events that added value to the original data set.
+
+How we built it
+
+It seemed a natural progression to try this visualisation technique on a large 
+structured data set that went back over some considerable time. The Guardian's 
+Open Platform was an ideal candidate as it's the only UK paper to expose its 
+content in this way. It's well documented and easy to use.
+
+As we only needed access to headlines and metadata we opted for keyless 
+access. This also meant other developers could reuse our code without the need 
+to register with the Guardian.
+
+We chose to build the thing in Flash as we had the skills in our team and it's 
+very fast to prototype in AS3.
+
+Rather than painstakingly taking you through the minutiae of our actionscript 
+code, we've created a paired down version for you todownload 
+<http://jungle.bbc.westminster.ac.uk/newstraces/news_traces_01_guardian.zip> 
+and play around with. I'll talk you through the basics of the how to get it 
+working and show you some interesting queries in the video below.
+
+News Traces Tutorial <http://vimeo.com/17076467> 
+
+The visualisation sequentially loads data from Open Platform in JSON format. 
+The best way to get yourself familiar with the various queries you can perform 
+and the data returned is to play around withthis explorer 
+<http://explorer.content.guardianapis.com> that the Guardian have kindly 
+created.
+
+We probably aren't going to develop this any further as we are focused on 
+making experimental prototypes rather than products, but if you want to do 
+something with it feel free to take our code (as long as you stick within the 
+Open Platform rules!).
+
+You can see some of our other prototypes on our website 
+<http://backstage.bbc.co.uk/data_art/>.
+
+One of the things that is increasingly apparent in a world where data is all 
+around us is the importance of individual skills of interpretation. Which 
+hospital should I choose for my operation? Which school should I send my child 
+to? Which MP should I vote for? These are all decisions that can be informed 
+with data that is already in the public domain. The ability to interpret this 
+data can be seen as a new literacy that soon could be as important as grammar 
+and spelling. Introducing data visualisation into the classroom seems like a 
+good thing to be doing.
+ 

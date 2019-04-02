@@ -1,0 +1,164 @@
+
+Apple is about to unveil its latest smartphone, likely to be called the iPhone 
+<https://www.theguardian.com/technology/iphone> 7. Plenty of owners of older 
+iPhones will be eager to upgrade, but what if you’re losing faith in Apple’s 
+flagship device?
+
+According to research firm Gartner, Android accounts for 86.2% of new 
+smartphone sales 
+<https://techcrunch.com/2016/08/18/gartner-androids-smartphone-marketshare-hit-86-2-in-q2/>
+, with impressive handsets from Samsung, Motorola and Google tempting people 
+away from iOS.
+
+Considering making the switch? Here are answers to some of the questions you 
+might have.
+
+Will I be stumped by an unfamiliar interface? 
+
+You will have to learn a few different conventions on Android, but the basic 
+vocabulary of tapping and swiping is the same, as is the structure of apps and 
+folders on your home screen. The major difference inAndroid 
+<https://www.theguardian.com/technology/android> is a few extra onscreen 
+buttons. The universal “back” button takes you to the previous page or app, 
+while the “overview” button pops up previews of all your running apps, so you 
+can switch between them.
+
+There are Android phones with cameras as good as the iPhone’s – or better
+
+Will I lose all my contacts and bookmarks? 
+
+No; you can keep them by copying them from iCloud into your Google account. 
+Apple hasa guide for exporting your address book as a vCard file via the iCloud 
+website <https://support.apple.com/kb/ph3606?locale=en_US>.
+
+Safari bookmarks can be synced with Google’s Chrome browser: search the Chrome 
+web store for “iCloud Bookmarks” to find the necessary plug-in.
+
+Syncing your iOS calendar with Google Calendar is even easier; on your iPhone, 
+go to Settings, Mail, Contacts, Calendars and then select or set up yourGoogle 
+<https://www.theguardian.com/technology/google> account and turn on the switch 
+next to Calendars.
+
+Will people still be able to message me? 
+
+If you use WhatsApp or other popular messaging apps, these are all available 
+on Android too: your friends won’t even know you’ve switched. There is one 
+potential gotcha, however. iMessage is an Apple-only feature that automatically 
+routes text messages over the internet where possible. After you’ve switched to 
+Android, it’s possible that incoming text messages to your phone number will 
+continue being diverted to the iMessage network, meaning you won’t receive them.
+
+To ensure your settings update, visit Apple’s help page 
+<https://selfsolve.apple.com/deregister-imessage> and remove yourself from 
+iMessage manually.
+
+Will all my favourite apps be available? 
+
+There are few big-name apps that don’t support Android, from games and social 
+apps to productivity tools, even if new releases sometimes still come earlier 
+to iOS. Certain genres still suffer on Android in comparison to iOS. For 
+example, music-makers should be warned there is still no real alternative to 
+Apple’sGarageBand 
+<https://itunes.apple.com/us/app/garageband/id682658836?mt=12&ign-mpt=uo%3D4> 
+on Android or the many professional-grade audio tools that exist on iOS.
+
+There is also no direct equivalent to Apple’s iMovie 
+<https://itunes.apple.com/us/app/imovie/id408981434>, although there are a 
+growing number of video-editing tools 
+<https://www.theguardian.com/technology/2016/jul/17/20-best-apps-making-videos> 
+on Android that handle parts of that app’s features.
+
+Will I lose access to my music? 
+
+Not at all. In the early days of iTunes, its downloads could only be played on 
+Apple hardware. Anything you’ve bought since 2009 will be in the unrestricted 
+M4A format though, which can easily be converted into MP3s that will play on 
+any Android phone. Streaming services such asSpotify 
+<https://www.theguardian.com/technology/spotify> and Deezer 
+<https://www.deezer.com/> are available on Android, as is Apple Music 
+<https://www.theguardian.com/technology/apple-music>, so you can sign in on 
+your new phone and access all your old playlists.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F04%2Fiphone-7-versus-android-apps-apple-google-samsung-motorola%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F859300ef28d97a58f9f2444e41202617dcda3f93%2F0_0_2880_2560%2F2880.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Is%20it%20time%20to%20switch%20from%20iOS%20to%20Android%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F04%2Fiphone-7-versus-android-apps-apple-google-samsung-motorola%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Is%20it%20time%20to%20switch%20from%20iOS%20to%20Android%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F04%2Fiphone-7-versus-android-apps-apple-google-samsung-motorola%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F859300ef28d97a58f9f2444e41202617dcda3f93%2F0_0_2880_2560%2F2880.jpg>
+ Android Nougat allows you precise control over app notifications. Photograph: 
+Samuel Gibbs for the Guardian 
+Are Android phones worse for photography? 
+
+Apple might think so, but there are Android phones with cameras as good as the 
+iPhone’s – or better. Samsung’s Galaxy S7 has a wider lens aperture than the 
+iPhone 6 and 6S, for example, plus optical image stabilisation for steadier 
+shots. If you’re worried about losing the photos from your iPhone camera roll, 
+you can export them on to your computer or install theGoogle Photos app 
+<https://itunes.apple.com/us/app/google-photos/id962194608?mt=8> on iOS to 
+upload them to your Google account.
+
+Will I be vulnerable to viruses and hacking attacks? 
+
+Android gives app developers a lot of freedom, which means you can apply cool 
+customisations that aren’t possible oniOS 
+<https://www.theguardian.com/technology/ios>, such as third-party widgets on 
+the home screen. But yes, this means Android phones are more vulnerable to 
+malware attacks. In theory, a malicious app could snoop on your banking 
+details, lock up your data or run up huge bills by silently calling 
+premium-rate numbers when you’re not looking.
+
+Don’t panic, though – such outbreaks are rare and a little common sense goes a 
+long way. Don’t install apps from unfamiliar sites – stick to the official
+Google Play store <https://play.google.com/store> and, ideally, stick to 
+established apps with plenty of positive user reviews.
+
+Will Android work properly with my Mac?
+
+If you prefer to use iTunes on your desktop, then switching will demand a 
+certain adjustment of your habits – there’s no comparable “central control 
+panel” for Android. Your settings and content are managed from within the 
+relevant apps and websites.
+
+However, if you want to drag and drop files manually from your desktop on to a 
+connected Android phone, you can do it using Google’s standaloneAndroid File 
+Transfer <https://android.com/filetransfer/> tool for the Mac. It works the 
+other way too, so you can keep copies of your on-device photos and music or 
+take your pick from the many backup apps on Google Play, both free and paid-for.
+
+Will I have to get by without Touch ID and Night Shift? 
+
+Apple’s Touch ID sensor is a great piece of technology, but there are plenty 
+of Android phones with similar thumbprint scanners, the Nexus 5X and 6P for 
+example, which can be used in the same way to unlock the phone and authorise 
+purchases from Google Play.
+
+Android 7.0 Nougat: 11 tips and tricks
+ Read more  
+<https://www.theguardian.com/technology/2016/aug/23/android-7-nougat-tips-tricks-replies-settings-app-emoji>
+As for Night Shift, the feature in iOS 9.3 that tints the screen at night to 
+help your brain wind down and sleep better, Google is working on something 
+similar but it hasn’t yet been officially baked into the operating system.
+
+Google Play offers a selection of apps that can do the same thing. Twilight 
+<https://play.google.com/store/apps/details?id=com.urbandroid.lux&hl=en_GB> is 
+one highly rated option that’s free to download – so you don’t need to lose 
+sleep over switching.
+
+Will my accessories still work?
+
+Bluetooth accessories such as headphones and speakers should work perfectly 
+well on Android, while health and fitness trackers tend to support both Android 
+and iOS with their apps. Anything with a Lightning connector, however, is sadly 
+a no-go: the plugs and sockets are patented, so you can’t hook them up to a 
+non-Apple device. It’s a similar situation if you’ve splashed out on an Apple 
+Watch. Despite speculation that Apple might open the watch up to work with 
+Android smartphones, it remains iOS-only for now. The good news is that if you 
+can’t live without a smartwatch, there’s a good range ofAndroid Wear devices 
+<https://www.android.com/wear/> out there for less than £100.
+
+What if I want to switch from Android to iPhone? 
+
+Many of the reassurances above apply just as well the other way, from apps to 
+music. Apple has also launched an Android app calledMove to iOS 
+<https://play.google.com/store/apps/details?id=com.apple.movetoios> that 
+migrates your photos, messages, contacts and bookmarks to an iPhone.
+ 

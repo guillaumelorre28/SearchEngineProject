@@ -1,0 +1,191 @@
+
+Virtual reality <https://www.theguardian.com/technology/virtual-reality> is 
+coming. 2016 will see the release of the first serious consumer VR headsets for 
+20 years.
+
+In the first quarter of the year, VR pioneers Oculus (a subsidiary of 
+Facebook, sincea $2bn (£1.3bn) buyout in March 2014 
+<https://www.theguardian.com/technology/2014/mar/26/facebook-buys-oculus-virtual-reality>
+) will launch the consumer version of their Rift headset to the world. In 
+April, Taiwan’s HTC will launch the Vive, another PC peripheral developed in 
+conjunction with gaming firm Valve. And at some point in the year – likely to 
+be the first half – Sony will launch its PlayStation VR, an add-on for the 
+Playstation 4, which will bring VR into the living room.
+
+Those headsets aren’t the first to market, by a long way. In 1995, Nintendo 
+released the Virtual Boy, a monochromatic headset that promised to offer true 
+3D graphics in gaming for the first time. A clunky, desk-mounted device that 
+sold for $180 ($280 in 2015 dollars, or £189) and gave users splitting 
+headaches, it sold barely a tenth of whatNintendo 
+<https://www.theguardian.com/technology/nintendo> had hoped and was 
+discontinued less than a year later.
+
+The Virtual Boy was the most prominent failure of the first wave of virtual 
+reality, but all shared the same fate. The technology simply wasn’t there: 
+screens weren’t high-resolution enough to be placed that close to eyes, they 
+couldn’t refresh fast enough to present a smooth image, and the processors 
+behind them couldn’t push enough pixels to render a convincing world. The 
+failure of the 90s wave of virtual reality was so complete that it killed the 
+field for a generation.
+
+Much of the credit for the revival of VR has to go to one person: Palmer 
+Luckey, the founder of Oculus. Launched to the public with a Kickstarter 
+campaign, his Rift headset raised $2.5m in 2012. It set off the wave of 
+interest in the field that continues to this day. An outsider to the technology 
+industry, Luckey wasn’t party to the received wisdom that VR was a fool’s game. 
+He thought it was cool, and so did more than 9,000 others.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fdec%2F28%2Fvirtual-reality-gaming-takes-off-2016%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe42671a79c6b16af11841df018bce3dac7484fae%2F0_192_2919_1751%2F2919.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Will%202016%20be%20the%20year%20virtual%20reality%20gaming%20takes%20off%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fdec%2F28%2Fvirtual-reality-gaming-takes-off-2016%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Will%202016%20be%20the%20year%20virtual%20reality%20gaming%20takes%20off%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fdec%2F28%2Fvirtual-reality-gaming-takes-off-2016%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe42671a79c6b16af11841df018bce3dac7484fae%2F0_192_2919_1751%2F2919.jpg>
+ Palmer Luckey, co-founder of Oculus. Photograph: Bloomberg via Getty Images 
+But just as important, in a roundabout way, was the smartphone. Although no 
+one would have guessed it as Steve Jobs stood on stage and demonstrated the 
+first iPhone, the technology required to make a top-tier smartphone has a 
+remarkable similarity to the technology required to make convincing VR. 
+High-resolution screens, accurate motion sensors and compact form factors are 
+all great in a modern smartphone, but they’re also step one in making virtual 
+reality, well, a reality.
+
+This was first illustrated in 2015 as Google Cardboard and the Samsung Gear VR 
+bootstrapped a cheap-and-cheerful form of VR using smartphones. By slotting a 
+phone into a head-mounted display, they offer access to simple virtual worlds. 
+Google Cardboard, for instance (literally a laser-cut piece of cardboard, used 
+for holding a compatible smartphone in place) was given away for free with the 
+New York Times in November, paired witha VR app from the paper 
+<http://www.nytimes.com/newsgraphics/2015/nytvr/> used “to simulate richly 
+immersive scenes from across the globe”.
+
+But where the coming crop of headsets differ from these is in quality. Simply 
+put: they’re really, really good.
+
+A modern smartphone provides a strong base on which to build a virtual reality 
+headset, but it can’t hold a candle to a dedicated device. And VR headsets have 
+been getting better just as fast as smartphones have been improving. When I 
+first used an Oculus Rift in 2013 I was underwhelmed. The unit, which was the 
+second public prototype, was clunky and ugly even before I put it on. Wearing 
+it felt like having uncomfortable ski goggles clamped to my face, and the 
+resolution of the screen was low enough that it felt like staring at the world 
+through a mesh door. The demo – which featured me strapped into a 
+roller-coaster – did little to help, with its comparison to a fairground ride 
+serving only to emphasise the gimmicky aspect of the whole thing.
+
+Two years later, using the final pre-release version of the Rift at an event 
+organised byFacebook <https://www.theguardian.com/technology/facebook>, and I 
+finally saw what the fuss was about. Wearing the device that will hit shelves 
+in less than six months, I sat in a spaceship, gazing around at the cavernous 
+hanger within which it sat. A string of lights turned on in front of my ship, 
+which began accelerating faster and faster until, suddenly, it emerged from the 
+side of an enormous capital ship (which I could see if I craned my neck behind 
+me), and I was left floating in the calmness of space. That was when the 
+enemies ported in …
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fdec%2F28%2Fvirtual-reality-gaming-takes-off-2016%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fb3f9cb32e6512afad27760fe1f3a5090f863f933%2F0_219_4896_2938%2F4896.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Will%202016%20be%20the%20year%20virtual%20reality%20gaming%20takes%20off%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fdec%2F28%2Fvirtual-reality-gaming-takes-off-2016%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Will%202016%20be%20the%20year%20virtual%20reality%20gaming%20takes%20off%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fdec%2F28%2Fvirtual-reality-gaming-takes-off-2016%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fb3f9cb32e6512afad27760fe1f3a5090f863f933%2F0_219_4896_2938%2F4896.jpg>
+ A gamer with the PlayStation VR headset. Photograph: Chesnot/Getty Images 
+The game, Eve Valkyrie 
+<https://www.theguardian.com/technology/2014/jun/24/eve-valkyrie-preview-virtual-reality>
+, has been in development for two years, beginning as a tech demo for the 
+platform in 2013. It’s now set to be a launch game for the Rift and for Sony’s 
+PlayStation VR, and for anyone who’s harboured secret dreams of dogfighting in 
+space (a group surely larger than ever following the release of Star Wars).
+
+But there’s a problem: you will have to take me on my word. VR is notoriously 
+hard to actually sell. A video of Eve Valkyrie, watched on your screen, will 
+look like nothing special – just another space game. Because, without the VR, 
+that’s all it is. A video of me playing Eve Valkyrie would be even worse: a 
+technology reporter sitting in a chair, gurning and writhing, with a bizarre 
+black box strapped to his face. Even if I look like I’m having fun, it’s not 
+the best way of selling the hardware.
+
+Game developer Mike Bithell, whose Volume: Coda 
+<http://blog.us.playstation.com/2015/10/22/introducing-volume-coda-free-expansion-for-playstation-vr/>
+ will be one of the launch titles for the Playstation VR, agrees with the 
+concern, but thinks that the wow factor will be enough to overcome that initial 
+hurdle. “You undoubtedly look very silly wearing these things, but if they can 
+get folks trying them on in shopping malls, or party games that demand to be 
+played with friends, I can see it going big,” he says.
+
+What does virtual reality mean for advertising in 2016?
+ Read more  
+<https://www.theguardian.com/media-network/2015/dec/03/virtual-reality-in-advertising-2016>
+Because of that, the early penetration provided by cheaper versions of VR such 
+asGoogle <https://www.theguardian.com/technology/google> Cardboard could 
+counterintuitively spoil VR’s chances of taking off. Many who were unimpressed 
+by the smartphone-strapped-to-your-face approach will be unwilling to give VR a 
+second chance, even if future versions are considerably better.
+
+Not everyone is concerned about an initial hurdle, however. Brian Blau of 
+analyst firm Gartner dismisses the worry: “I believe that once people get a 
+basic understanding of the device they instantly understand its power, even 
+without trying one on. The notion of a wearable computer isn’t science fiction 
+these days and people have a good understanding of what VR could do for them.”
+
+For Blau, the real difficulty comes in the next step: “The VR experience is 
+completely dependent on the device and the quality of the content. I’m 
+convinced that the initial devices being released in 2016 are good enough, but 
+it’s the content that must keep users coming back. Is there enough good VR 
+content in the pipeline to keep users engaged with the devices over time? From 
+early indications there are some great VR games and video experiences so I’m 
+not worried, but ultimately this is a question that we can’t answer until we 
+see how the general public reacts to these new types of personal computing 
+devices and content.”
+
+
+Even if it overcomes those hurdles, there’s another one waiting around the 
+corner: cost. Both the Rift and the Vive require a top-flight gaming PC, which 
+costs about £1,000, to power the devices – which themselves are likely to start 
+around £300. Against that, the PlayStation VR, which only requires a £300
+PlayStation 4 <https://www.theguardian.com/technology/playstation-4> on top of 
+its own (unannounced) price, is comparatively cheap.
+
+As a result, “it’ll remain a super exciting early adopter tech until the price 
+comes down”, says Bithell. “It’s important to remember though that, while the 
+price will be high, we’re not talking ‘buying the first 3D TVs to hit the 
+market’ prices here.” The prices will be probably high enough, however, to 
+prevent an immediate repeat of the last great crossover hit from gaming, 
+Nintendo’s Wii.
+
+That’s a shame, because some of the most interesting uses of VR are a long way 
+from traditional gaming. As well as the burgeoning field of 360˚ cinema, which 
+places viewers in the centre of the shot and allows them to look around as they 
+see fit, there’s the looming presence of Facebook in the field. The social 
+network is not the first thing that comes to mind when one thinks of gaming – 
+but that’s not whatMark Zuckerberg 
+<https://www.theguardian.com/technology/mark-zuckerberg> cares about either.
+
+Future of virtual reality lies in the hands of developers
+ Read more  
+<https://www.theguardian.com/media-network/2015/sep/09/virtual-reality-developers-games-hollywood>
+“Imagine enjoying a courtside seat at a game, studying in a classroom of 
+students and teachers all over the world or consulting with a doctor 
+face-to-face – just by putting on goggles in your home,” he wrote when he 
+announced Facebook’s acquisition of the company. “Virtual reality was once the 
+dream of science fiction. But the internet was also once a dream, and so were 
+computers and smartphones.”
+
+But that’s further down the line. For the next year, the question will be 
+whether a virtual reality headset can take its place on the gaming stage – and 
+if so, which one. Bithell thinks so. “As products, all three are solid and 
+ready for that audience. While I’m not expecting to be throwing my TV in the 
+tip next Christmas, I think they’ll have a strong start, then it becomes about 
+sustaining that success with software and further iterations on the tech.”
+
+Gartner’s Blau thinks that “a single year isn’t enough time to get an overall 
+picture of the future of VR”, but that it is “certainly enough time to fully 
+understand how the first few years of VR technologies will do in the hands of 
+consumers”.
+
+Even now, with months to go until release, the state of virtual reality tech 
+impresses me. I’ve written it off before, worried that over-promising and 
+under-delivering would combine with the “dork factor 
+<https://www.theguardian.com/technology/2015/aug/07/will-virtual-reality-overcome-the-dork-factor-time-magazine-oculus-palmer-luckey>
+” to produce something dead on arrival. Now, I’m only sure of one thing: I want 
+one. If you want me, I’ll be the one in the corner, gurning and writhing with a 
+smile on my face.
+ 

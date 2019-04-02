@@ -1,0 +1,136 @@
+
+It’s familiar news by now. Oxfam’s figures have gone viral: the richest 1% now 
+have more wealth <http://www.bbc.co.uk/news/business-35339475> than the rest of 
+the world’s population combined. Global inequality is worse than at any time 
+since the 19th century.
+
+ For most people, this is all they know about global inequality. But Oxfam’s 
+wealth figures don’t quite tell the whole story. What about income inequality? 
+And – more importantly – what about inequalities betweencountries? If we expand 
+our view beyond the usual metrics, we can learn a lot more about how unequal 
+our world has become.
+
+
+The first thing to say about Oxfam’s numbers is that they present a very 
+conservative picture. Given that the rich hide so much of their wealth in tax 
+havens and secrecy jurisdictions, it is impossible to know how much they really 
+have. Recent estimates suggest thatup to $32tn 
+<http://www.reuters.com/article/us-offshore-wealth-idUSBRE86L03U20120722> is 
+stored away in tax havens – around one sixth of the world’s total private 
+wealth. If we were to add that to Oxfam’s metrics, inequality would look much, 
+much worse.
+
+My Arab Spring: 'I envisioned a new Syria, but it never materialised'
+ Read more  
+<https://www.theguardian.com/global-development-professionals-network/2016/apr/07/my-arab-spring-aleppo-new-syria-never-materialised>
+But that’s wealth. Many analysts object that we shouldn’t be measuring wealth 
+inequality, but ratherincome inequality. This has been a major criticism of 
+Oxfam’s numbers. And when you look at income inequality, it doesn’t seem so 
+bad. At least not according to the dominant narrative.Branko Milanovic 
+<https://twitter.com/BrankoMilan?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor>
+, one of the world’s leading experts in global income inequality, argues that 
+while inequality is getting worsewithin countries, on a global scale it is 
+actually getting better.
+
+We can measure income inequality with the Gini index 
+<http://data.worldbank.org/indicator/SI.POV.GINI>. A score of 0 represents 
+total equality and a score of 1 represents total inequality, where one person 
+has everything and everyone else has nothing. According to Milanovic, the 
+global Gini indexhas decreased slightly 
+<https://openknowledge.worldbank.org/handle/10986/16935>, from 0.72 in 1988 to 
+0.71 in 2008. So perhaps we shouldn’t be overly worried about inequality.
+
+The Gini index is a troublesome measure, though, because it only captures 
+relative changes. If the incomes of the rich and the poor increase by the same
+rate, then the Gini index remains the same, even though absolute inequality is 
+increasing. In other words, if person A has $10k and person B has $100k, and 
+then both of them double their income, the Gini remains the same, even though 
+the income gap will have grown from $90k to $180k.
+
+Economist Robert Wade argues that this is a highly misleading measurement 
+<http://triplecrisis.com/our-misleading-measure-of-income-and-wealth-inequality-the-standard-gini-coefficient/>
+, as it obscures the true extent of inequality. We should be using the absolute 
+Gini index, he says. So what happens if we do that? We see thatinequality has 
+exploded 
+<http://www.economics.ox.ac.uk/Department-of-Economics-Discussion-Paper-Series/the-global-distribution-of-income>
+ over the past few decades, from 0.57 in 1988 to 0.72 in 2005.
+
+Inequality between countries has been increasing by orders of magnitude over 
+the past two hundred years
+
+But hold on, you might say. Income inequality among individuals might be 
+getting worse, but surely the gap between poor countries and rich countries is 
+narrowing. The international development industry is helping to bridge the 
+chasm between the west and the rest, right? This is a common opinion; I hear it 
+all the time from students at the London School of Economics, where I teach. 
+After all, “convergence theory 
+<https://en.wikipedia.org/wiki/Convergence_(economics)>” holds that, because 
+poor countries grow at a faster rate than rich countries, over time the gap 
+between the two will automatically diminish.
+
+Unfortunately, it’s not true. In fact, history shows exactly the opposite. 
+Inequality between countries has been increasing by orders of magnitude over 
+the past two hundred years, and shows no signs of slowing.
+
+There are a few ways we can look at this. Probably the most common way to 
+think about global inequality is to measure the gap between the richest and 
+poorest countries in real income per capita. Using data fromthe Maddison Project
+ <http://www.ggdc.net/maddison/maddison-project/home.htm>, we see that in 1960, 
+at the end of colonialism, people living in the world’s richest country were 33 
+times richer than people living in the poorest country. That’s quite a 
+substantial gap. But then by 2000, after neoliberal globalisation had run its 
+course, they were a shocking 134 times richer. And that’s not counting extreme 
+outliers, like small oil-rich kingdoms in the Middle East or tiny offshore tax 
+havens. This isn’t convergence. To quote Lant Pritchett, it’sdivergence, big 
+time <http://elibrary.worldbank.org/doi/abs/10.1596/1813-9450-1522>.
+
+Anti-corruption protests around the world - in pictures
+ Read more  
+<https://www.theguardian.com/global-development-professionals-network/gallery/2016/mar/18/anti-corruption-protests-around-the-world-in-pictures>
+If we look at it in absolute terms, it’s just as bad. From 1960 to today, 
+based on the data from the Maddison Project, the absolute gap between the 
+average incomes of people in the richest and poorest countries has grown by 
+135%.
+
+Of course, this metric overstates inequality by focusing on countries at 
+either extreme. We can correct for this by looking at regional differences. The 
+best way to do this is to measure the gap, in real terms, between the GDP per 
+capita of the world’s dominant power (the United States) and that of various 
+regions of the global South. Using World Bank figures, we see that since 1960 
+the gap for Latin America has grown by 206%, the gap for sub-Saharan Africa has 
+grown by 207%, and the gap for South Asia has grown by 196%. In other words, 
+the global inequality gap has roughly tripled in size.
+
+Over the past few decades inequality has become so bad that, in 2000, 
+Americans were nine times richer than Latin Americans, 72 times richer than 
+sub-Saharan Africans, and a mind-popping 80 times richer than south Asians. 
+These numbers give us a sense for how unfairly the global economy distributes 
+our planet’s wealth.
+
+Forget 'developing' poor countries, it's time to 'de-develop' rich countries
+ Read more  
+<https://www.theguardian.com/global-development-professionals-network/2015/sep/23/developing-poor-countries-de-develop-rich-countries-sdgs>
+It doesn’t matter how you slice it; global inequality is getting worse. Much 
+worse. Convergence theory turned out to be wildly incorrect. Inequality doesn’t 
+disappear automatically; it all depends on the balance of political power in 
+the global economy. As long as a few rich countries have the power to set the 
+rules to their own advantage, inequality will continue to worsen. The debt 
+system, structural adjustment, free trade agreements, tax evasion, and power 
+asymmetries in the World Bank, the IMF, and the WTO are all major reasons that 
+inequality is getting worse instead of better.
+
+It’s time we face up to the imbalances that distort our global economy. 
+There’s nothing natural about extreme inequality. It is man-made. It has to do 
+with power. And we need to have the courage to say so.
+
+ * This article was amended on 7th April 2016. Due to a mathematical error an 
+earlier version said that “since 1960 the gap for Latin America has grown by 
+306%, the gap for sub-Saharan Africa has grown by 307%, and the gap for South 
+Asia has grown by 296%. In other words, the global inequality gap has roughly 
+tripled in size”. The gap has indeed tripled, but the percentages should read 
+206%, 207% and 196%.
+
+Join our community <https://register.theguardian.com/global-development> of 
+development professionals and humanitarians. Follow@GuardianGDP 
+<https://twitter.com/GuardianGDP> on Twitter.
+ 

@@ -1,0 +1,109 @@
+
+If a life coach in an app asks you: 
+
+Sex with a stranger is more exciting, right?
+
+What would you answer? This was one of our starting points for new smartphone 
+app,Karen <http://www.blasttheory.co.uk/projects/karen/>. As with my fellow 
+Blast Theory <http://www.blasttheory.co.uk/> artists Ju Row Farr and Nick 
+Tandavanitj, who helped create the app, I’m fascinated by the new kinds of 
+intimacy, interaction and artistic experience created by mobile phones.
+
+I’ve always been a sucker for those quizzes in glossy mags that promise 
+something salacious with a side order of self knowledge (“Test your sex IQ”). 
+While they rarely deliver on either front, these quizzes have endured for 
+decades. Now websites such asBuzzFeed <http://www.buzzfeed.com/quizzes> carry 
+on the tradition of feeding our desire for personal know-how in bite-size 
+chunks.
+
+ When John McGrath, National Theatre Wales’s 
+<https://www.nationaltheatrewales.org/> artistic director, first asked us to 
+develop a project with the organisation in 2013, we were keen to create a 
+personal and intimate experience for smartphones in which you interact directly 
+with the lead character. We wanted you to be challenged about how honest and 
+open you might be and to experience the thrill of having your personality 
+appraised.
+
+ We became fascinated with big data, in particular how governments and large 
+companies are collecting information about us secretly and using it without our 
+consent.
+
+First steps for us included meeting with Dr Kelly Page, an expert in this 
+area, to learn about the techniques developed by psychologists to measure 
+personalities, and research into the history of the subject. We then rifled 
+through hundreds of personality tests from across the decades. We chose some of 
+the most fascinating, unnerving or significant scales and wove them into the 
+story of Karen, a divorcee with just enough knowledge to be dangerous.
+
+You interact with Karen through the app. At the start, she asks you some 
+questions about your outlook and views of the world, to get a better 
+understanding of you. She, and the app’s software, profiles you. Karen will 
+give you advice based on your answers and over the next week you will have 
+calls with her once or twice a day. I won’t spoil the experience, but it soon 
+becomes clear that Karen is somewhat chaotic, with little care for 
+personal/professional boundaries. She will get more and more curious and at 
+points, will seem to know things about you that she shouldn’t. Is she spying on 
+you?
+
+That last point is important. Privacy and our use of user data was, of course, 
+a key concern. The app has to gather and make use of highly personal 
+information and we required the trust of users to do that. We spent a lot of 
+time creating a privacy policy that was clear and robust.
+
+We also had grand plans for how geolocation might be used. We wanted to ask 
+the user whether they were at home, at work or out and about. Then we planned 
+to give them different sessions based on where they were, but it proved just 
+too complex. We were already in unknown territory and the last three months of 
+development were a “bonfire of the features” at times! We stripped it down 
+further and further.
+
+ Perhaps the biggest challenge we’ve faced is that the app is a hybrid, 
+sitting somewhere between a game, a drama and a self-help quiz. We developed a 
+strong story for Karen’s world with a great deal happening, but then realised 
+this excluded the participant/player from what was happening.
+
+Tester feedback became more positive as we stripped the story back to make it 
+a world that exists almost entirely between the user and Karen. Words such as 
+“intimate” and “addictive” started to crop up in tester reports and we knew we 
+were on the right track.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAqa2gTj2uYI&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAqa2gTj2uYI>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DAqa2gTj2uYI&media=>
+ A message from Karen 
+The Android version of the app will launch on 21 August, then in September, 
+for one night only, we’ll invite everyone who completed the app to meet Karen 
+in person at a secret UK location.
+
+Our goal for the app was 3,000 downloads and this week we passed 10,000 for 
+iOS. Most encouragingly, 35% of those who download the app go on to complete 
+the nine-day long experience. Of those who finish, 37% have bought the 
+personalised data report that we offer for £2.99. It shows that there’s an 
+appetite for artistic experiences on mobile and that users are willing to 
+commit time to and spend money on them.
+
+
+App facts
+
+Length of the project: three years; final shoot and build, six months
+Companies involved: Blast Theory <http://www.blasttheory.co.uk/>, National 
+Theatre Wales <https://www.nationaltheatrewales.org/>, The Space 
+<http://www.thespace.org/>, University of Nottingham 
+<https://www.nottingham.ac.uk/>
+Size of the team: three artists, one lead researcher, one assistant, one lead 
+developer, one producer, two actors, one director of photography, one sound 
+person, one editor, an army of volunteers and 539 Kickstarter backers
+
+Matt Adams is an artist and co-founder of Blast Theory 
+<http://www.blasttheory.co.uk/>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+
+ * This article was amended on 25 August 2015 to correct a sentence that 
+stated John McGrath was Blast Theory’s artistic director. It should have said 
+he is artistic director of National Theatre Wales.
+ 

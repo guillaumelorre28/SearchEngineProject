@@ -1,0 +1,93 @@
+
+We are rapidly entering into an era where massive computing power, digital 
+storage and global network connections can be deployed by anyone as quickly and 
+easily as turning on the light. This is the promise – and the reality – ofcloud 
+computing <https://www.theguardian.com/media-network/cloud> which is driving 
+tremendous change in the technology industry and transforming how we do 
+business in Europe and around the world.
+
+Europe's fastest growing start-ups, like Hailo, JustEat and WeTransfer, some 
+of the largest enterprises, like Royal Dutch Shell, SAP and Unilever, 
+governments, education and research institutes, all are using cloud 
+technologies to innovate faster and better serve their customers and the 
+citizens of Europe.
+
+The Centre for Economic and Business Research <http://www.cebr.com/> computed 
+thecumulative economic effects of cloud between 2010 and 2015 in the five 
+largest European economies alone to be around €763bn 
+<http://ec.europa.eu/information_society/newsroom/cf/dae/document.cfm?doc_id=4935>
+ (£623bn). IDC notes thecloud economy is growing by more than 20% 
+<http://www.idc.com/getdoc.jsp?containerId=240634> and could generate nearly 
+€1tn (£0.82tn) in GDP and 4m jobs by 2020 
+<http://cordis.europa.eu/fp7/ict/ssai/docs/study45-d2-interim-report.pdf>. This 
+is so significant that Europe's policymakers want to enable economic success 
+with cloud computing.
+
+The European commission has taken the lead in this discussion. It set up the 
+European Cloud Partnership (ECP 
+<http://ec.europa.eu/digital-agenda/en/european-cloud-partnership>) to 
+recommend how to promote and shape cloud computing in the region. As a member 
+of the steering board of the ECP, I feel privileged to contribute to this 
+important work.
+
+With the recent publication of the ECP's Trusted Cloud Europe vision 
+<http://ec.europa.eu/digital-agenda/en/news/trusted-cloud-europe>, I wanted to 
+give my view about what's needed to continue to drive adoption of cloud across 
+Europe. I believe that what is needed for cloud to be successful relates to 
+Europe's core values. As a Dutchman, I hold these values in close regard – such 
+as the right to a fair and democratic society and a strong protection of 
+privacy and freedom. Cloud – done right – enables broad expression and 
+realisation of these values.
+
+For cloud computing to be successful in Europe, providers must hold exceeding 
+customer needs as a core value. This is about putting the power in the hands of 
+the customer. This means the freedom to walk away at any time when customers 
+don't get the service that they expect. For too long customers have been locked 
+in to long-term service contracts and expensive software licensing fees. Being 
+customer focused means ridding European organisations of these handcuffs and 
+democratising technology so that anyone has access to the same, world-class 
+technology services on demand.
+
+Some antiquated thinking is attempting to undermine the important work that 
+the ECP is doing. In some corners there are calls to develop a cloud framework 
+in Europe to protect vested interests and the way that IT "used to be", 
+disguised as cloud. I disagree and think this goes against the ethos of the 
+ECP, that cloud should serve the customers and citizens of Europe, not 
+shareholders of technology companies. Focusing on lowering prices will boost 
+the economy and prosperity of local businesses as more capital can be allocated 
+to innovation. As a result of this we are already seeing centres of excellence 
+emerging in London, Berlin and Barcelona that are beginning to rival Silicon 
+Valley. If we focus cloud on lowering the barrier of entry and cost of failure 
+we will see more companies experimenting and exploring things previously not 
+possible.More experimentation ultimately drives more innovation. 
+<https://www.theguardian.com/media-network/media-network-blog/2014/feb/20/cloud-computing-future-proof-business>
+
+Another core value is putting data protection, ownership, and control, in the 
+hands of cloud users. It is essential that customers own and control their data 
+at all times. Customers, governments and businesses, large and small alike, 
+have concerns about this. If they are not addressed, they will undermine the 
+pervasive adoption of cloud and the resulting benefits to European businesses. 
+AtAmazon <https://www.theguardian.com/technology/amazon> Web Services (AWS) we 
+decided on day one to put control in the hands of our customers. They own the 
+data – they choose where to store it. European customers using the AWS cloud 
+can choose to keep their data in Europe.
+
+Cloud computing <https://www.theguardian.com/technology/cloud-computing> must 
+benefit the many, not the few. We have seen this with the rapid rise of the 
+internet. We will also see this with cloud if we put the power in the hands of 
+the customer. I echo the ECP's call to focus the cloud policy framework on 
+customers and removing barriers and restrictions to adoption. This will pave 
+the way to increased prosperity of European businesses and provide access to 
+high quality, secure, and trustworthy cloud services across Europe.
+
+Werner Vogels is vice president and chief technology officer at Amazon.com 
+<http://www.amazon.com/>
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media Network content is editorially independent except for 
+pieces labelled 'Advertisement feature'. Find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

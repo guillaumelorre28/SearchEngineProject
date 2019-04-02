@@ -1,0 +1,122 @@
+
+The annual Anatoly Karpov <https://www.theguardian.com/sport/anatoly-karpov> 
+tournament took place in Poikovsky in Siberia from 15-24 March. Held in honour 
+of the ex-world champion (who has visited numerous times and given various 
+exhibitions but never played in the tournament itself) this was the eighth 
+edition of an event which, while it isn't in the absolute elite class, is 
+nevertheless one of the very strongest in the calendar.
+
+In contrast to the completely cosmopolitan supergrandmaster tournaments, 
+Poikovsky does retain its own very Russian flavour and this year's field of ten 
+was no exception with four actual Russians - Dmitry Jakovenko and Evgeny 
+Alekseev, who were first equal at the last Russian Championship, the 2005 
+champion Sergei Rublevsky and Alexei Dreev; four foreigners of 'ex-Soviet' 
+origin: Viktor Bologan (Moldavia), Alexander Onischuk (USA), Emil Sutovsky 
+(Israel) and Vladislav Tkachiev (France); an Eastern European - Andrei 
+Istratescu (Romania) and just a single 'real' foreigner, Zhang Pengxiang 
+(China).
+
+Being the outsider at a tournament isn't much fun and while Chinese players 
+must be more used to this than others, Zhang had a fairly miserable event, 
+losing two games and drawing seven without a single win. Meanwhile the battle 
+at the top was extremely cagey and it took a long time for the pack to fracture 
+but after five rounds a sole leader did finally emerge in the shape of the top 
+seed Jakovenko; and he maintained his lead thereafter, increasing the gap to a 
+full point after seven rounds and having the luxury of a fairly quick draw with 
+Zhang in the final round to cement victory.
+
+The final scores were Jakovenko 6/9; Onischuk, Alekseev and Bologan 5; 
+Istratescu and Rublevsky 4.5; Dreev and Sutovsky 4; and Zhang Pengxiang and 
+Tkachiev 3.5.
+
+Jakovenko won three and drew six without loss. I was perhaps most impressed 
+with the way he defended himself against Dreev when hit with a serious novelty 
+in the Queen's Indian but am opting here for one of the wins: an impressively 
+clean effort against the former European Champion.
+
+Dmitry Jakovenko v Emil Sutovsky
+
+Poikovsky 2007 (round 5)
+
+Ruy Lopez Open Variation
+
+1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 0-0 Nxe4 6 d4 b5 7 Bb3 d5 8 dxe5 Be6 
+The Open Variation (starting 5...Nxe4) is appealing for Black since he gets 
+active play for his pieces. However there is, as always, a downside - in this 
+case some weakening of the queenside; and since the position admits of long 
+fairly forced variations White players have spent a great deal of energy trying 
+to prove an advantage.
+
+9 Be3 Be7 10 c3 0-0 11 Nbd2 Qd7 12 Re1 Nxd2 13 Qxd2 Na5 14 Bg5 c5 This 
+particular sequence had been seen just a couple of times previously with Black 
+doing fine on both occasions.
+
+15 Bc2 Nc4 16 Qd3 A novelty. Gata Kamsky apparently got nothing much against 
+Magnus Carlsen in the Turin Olympiad after trying 16 Qf4.
+
+16...g6 17 b3 Na3 18 Bd1 The bishop has to retreat temporarily but Black must 
+now work to bring the play back to his knight.
+
+18...a5 19 Rc1 Rfe8 20 Qd2 b4!? I'm not sure about this. Black improves the 
+queenside but leaves something of a target on c5.
+
+21 Bxe7 Qxe7 22 cxb4 axb4 23 Qh6 Bf5 24 Be2 Closing the e file and so creating 
+the threat of 25 Ng5 which wasn't a good idea this move because of ...f6
+
+Emil Sutovsky (Black to play)
+
+Dmitry Jakovenko (White)
+
+24...Qf8!? This slightly panicky move offers the c pawn to free the knight. 
+Black is then able to regain his pawn but suffers from a clear positional 
+disadvantage. Instead if 24...f6 25 Qd2! Rad8 26 exf6 Qd6 (26...Qxf6 27 Rxc5) 
+is much less clear but also probably worse for Black who while he has a good 
+centre. has yet to regain the pawn.
+
+25 Qxf8+ Kxf8 26 Rxc5 Nc2 27 Rc1 Rxa2 28 Bd1 Rea8 It would be nice to retain 
+the knight but after either retreat - to a3 or a1 - White can capture on d5 and 
+should emerge with a good extra pawn.
+
+29 Bxc2 Rxc2 30 R5xc2 Bxc2 31 Nd4 Bf5 32 f3 Nevertheless either knight retreat 
+looks preferable to me than this very passive position in which Black is 
+suffering 'for nothing'.
+
+32...Ra2 This pseudo active move achieves nothing.
+
+33 Rc5 Ra1+ 34 Kf2 Ra2+ 35 Kg3! Bd3 36 h4 Bf1 37 Rc2 Ra3 If 37...Rxc2 38 Nxc2 
+Be2 39 Kf2! Bd1 40 Nd4 traps the bishop.
+
+38 Rc8+ Kg7 39 Rc7 Kg8 40 h5! gxh5 If 40...Ra2 41 h6 Rxg2+ 42 Kf4 Kf8 43 e6 
+wins easily.
+
+41 Rc8+ Kg7 42 Nf5+ Kg6 43 Ne7+ Here Sutovsky resigned. If 43...Kg5/Kg7 44 
+Rg8+ Kh6 45 Nf5 is mate. He might have tried 43...Kh6 but after 44 Rc6+ f6 
+(44...Kg7 45 Nf5+ Kmoves 46 Rc8 mate) 45 Rxf6+ Kg7 46 Nf5+ Kg8 47 e6 White is 
+winning easily enough.
+
+Jakovenko has moved up from 22nd to 18th in the world in the latest quarterly 
+April 2007 rating list which appeared at the end of last week. An event of 
+importance for those involved, it this time also created considerable 
+controversy when it appeared without the Morelia/Linares tournament being taken 
+into consideration.
+
+This was in stark contrast to the position in previous years, when Linares was 
+always included. And while FIDE quoted a recently introduced rule that 'only 
+tournaments which finished a month before the rating list should be included' 
+it had a considerable effect on the very top of the list and in particular 
+meant that Veselin Topalov remained on top ahead of Viswanathan Anand.
+
+While you can understand that FIDE don't want to have to rush to work on big 
+Open tournaments at the last moment, an elite all-play-all is completely 
+different - there are much fewer games, no difficult names to reconcile and 
+above all the results are well known and not subject to error. After an appeal 
+by the IndianChess <https://www.theguardian.com/sport/chess> Federation common 
+sense prevailed and Morelia/Linares was included as a result of which Anand 
+becomes just the sixth player to head the list since its inception in 1970, 
+following Bobby Fischer, Karpov, Gary Kasparov, Vladimir Kramnik (one list 
+where he had an equal rating with Kasparov but had played more games) and 
+Topalov. The top ten now read Anand 2786, Topalov and Kramnik 2772 - in that 
+order because Topalov played more games, Alexander Morozevich 2762, Lev Aronian 
+2759, Shakhriyar Mamedyarov 2757, Teimour Radjabov 2747, Peter Leko 2738, Peter 
+Svidler 2736 and Michael Adams 2734.
+ 

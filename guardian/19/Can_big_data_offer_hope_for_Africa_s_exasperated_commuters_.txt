@@ -1,0 +1,121 @@
+
+Zuhura Wangara lives just outside Nairobi and, on a good day, spends at least 
+five hours commuting. She uses a combination of buses and between four and six 
+matatus – publicly operated shared minibus taxis – to get from her home in 
+Kiambu to her workplace at the city’s southern limits.
+
+“After work the same routine applies. I leave work around 5pm. I get to town, 
+walk to our bus terminal, and get another ride home,” she says. “I get home 
+from 8pm onwards depending on traffic and the hours we have to wait.”
+
+It is a problem faced by millions in the Kenyan capital, where 3 million 
+people and 400,000 vehicles are moving around the city every day. Wangara has 
+given up hope that her journey will ever become easier.
+
+Counting the cost 
+
+South African company WhereIsMyTransport, however, is working on a solution. 
+The tech company has already built a platform providing formal transport 
+information for South African cities like Johannesburg, Tshwane, Cape Town and 
+Durban, as well as Cairo’s Metro.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fpublic-leaders-network%2F2016%2Foct%2F07%2Fbig-data-africa-cities-commuters-transport%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe2b6920db0c5ac904ef48013143a33a29446553c%2F0_133_2000_1200%2F2000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Can%20big%20data%20offer%20hope%20for%20Africa%E2%80%99s%20exasperated%20commuters%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpublic-leaders-network%2F2016%2Foct%2F07%2Fbig-data-africa-cities-commuters-transport%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Can%20big%20data%20offer%20hope%20for%20Africa%E2%80%99s%20exasperated%20commuters%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpublic-leaders-network%2F2016%2Foct%2F07%2Fbig-data-africa-cities-commuters-transport%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe2b6920db0c5ac904ef48013143a33a29446553c%2F0_133_2000_1200%2F2000.jpg>
+ Cape Town’s lowest earners can spend almost half of their monthly income on 
+transport. Photograph: WhereIsMyTransport 
+It is branching into informally-run transit methods, starting with Nairobi’s 
+matatus. The goal is to provide the data for the development of solutions to 
+ease commuter pain. Co-founders Devin de Vries and Chris King met as students 
+at the University of Cape Town, and spent many days waiting forlornly for 
+university shuttles.
+
+Such pain is shared across the board. The City of Cape Town’s transport 
+authority found those in the lower income segment can spend up to 46% of their 
+income on transport each month.
+
+“Many riders have no access to information about transport except personal 
+knowledge or those around them, and they can spend hours waiting around, 
+missing connections, and be late to work,” De Vries said.
+
+“We realised that there needed to be a single, centralised solution for 
+transport data, and this was the missing piece that would enable many other 
+services and products to succeed.”
+
+The company works with operators and local authorities to capture data. Where 
+there are no operators, as with informally-run minibus taxis, it collects its 
+own data or uses partners.
+
+The platform contains a multi-modal journey planner and fare estimator that 
+allows users to plan the speediest and most cost-efficient journey to work, 
+meaning app developers and service providers have all they need to roll out 
+effective transport solutions.
+
+WhereIsMyTransport is working on partnerships with local authorities. A major 
+corporation has already contracted with the City of Johannesburg to create a 
+public transport app using its data.
+
+While in cities like London, the transport authority releases open data feeds 
+on transport to developers, this data often does not exist in emerging cities.
+
+Working with local government
+
+Finding the right partners within local government can be a challenge, given 
+the problems of dealing with large bureaucracies and an often ingrained lack of 
+understanding of how tech works.
+
+Yet De Vries said city officials are usually invested in providing better 
+information and experience to their citizens. This view is echoed by Justin 
+Coetzee, whose Cape Town-based company GoMetro uses data analytics and 
+in-vehicle tech to connect different transport types into one app. GoMetro, the 
+official app of South Africa’s railways, is used by 120,000 people monthly.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fpublic-leaders-network%2F2016%2Foct%2F07%2Fbig-data-africa-cities-commuters-transport%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fa1bdba7928831be0702d6cbb7e496d75ec99451c%2F131_0_1808_1086%2F1808.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Can%20big%20data%20offer%20hope%20for%20Africa%E2%80%99s%20exasperated%20commuters%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpublic-leaders-network%2F2016%2Foct%2F07%2Fbig-data-africa-cities-commuters-transport%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Can%20big%20data%20offer%20hope%20for%20Africa%E2%80%99s%20exasperated%20commuters%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpublic-leaders-network%2F2016%2Foct%2F07%2Fbig-data-africa-cities-commuters-transport%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fa1bdba7928831be0702d6cbb7e496d75ec99451c%2F131_0_1808_1086%2F1808.png>
+ The Ma3Route app enables commuters to share real-time information online via 
+short messages and pictures. Photograph: Ma3Route 
+“It has been essential to work with customers who are visionary and who want 
+to change the way things are traditionally done,” Coetzee said.
+
+These clients are organisations like the University of Pretoria, the Gauteng 
+Department of Transport, and local municipalities such as Mbombela and 
+eThekwini.
+
+Dr Bonolo Mathibela, a research scientist at IBM’s South Africa 
+<https://www.theguardian.com/world/southafrica> lab, says the beauty of tech 
+transportation solutions is that information can be crowdsourced and harnessed 
+without too much input from authorities.
+
+Mathibela says authorities can benefit simply by properly utilising the data 
+already at their fingertips.
+
+“Tech can really change the way transport works. In terms of the provision of 
+information we are seeing great progress,” she said.
+
+All of which will be music to the ears of commuters like Wangara. Meanwhile, 
+back in Nairobi, Ma3Route is providing a web, mobile app and SMS platform 
+designed to enable travellers to share real-time information online via short 
+messages and pictures.
+
+“The community of users share useful details on road conditions and events 
+happening on the roads as they’re travelling, providing valuable information 
+and insights,” said Stephane Eboko, chief revenue officer at Ma3Route, which 
+now has more than 500,000 active users.
+
+“Our vision is that all people should be empowered with information and 
+connections to make smart decisions impacting their city’s evolution.”
+
+With this new technology coming to the fore, the hope is that transport will 
+run more smoothly and smartly, making life for commuters like Wangara that 
+little bit easier.
+
+Talk to us on Twitter via @Guardianpublic <https://twitter.com/guardianpublic> 
+andsign up <https://register.theguardian.com/public-leaders/> for your free 
+weekly Guardian Public Leaders newsletter with news and analysis sent direct to 
+you every Thursday.
+ 

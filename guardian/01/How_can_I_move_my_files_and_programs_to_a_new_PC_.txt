@@ -1,0 +1,151 @@
+
+I enjoyed your article about buying a Dell Vostro as a good, no-nonsense option
+ <https://www.theguardian.com/technology/askjack/2013/may/23/desktop-pc-dell>, 
+and I am thinking of doing that to replace an old Dell Dimension E520. The 
+Vostro that I have my eye on has Windows 7 whereas my current desktop has 
+Vista. My concern, as an elderly duffer, is the potential cost of renewing 
+expensive programs. Will my Microsoft Office 2007 and Adobe Elements 6 discs 
+still be compatible with the new machine?
+
+Will I also be able to transfer my documents and my email addresses and 
+emails, and tools such asAdobe <https://www.theguardian.com/technology/adobe> 
+Reader and Flash? What are the possible expenses/pitfalls in upgrading to a new 
+computer from an old one?
+Richard Lynas
+
+
+Microsoft Office 2007 will work well on your new Windows 7 PC. Adobe Elements 
+6 came out before Windows 7, so it may not be fully compatible. The Windows 
+compatibility centre allows users to vote on whether a program is compatible or 
+not, and the current score forElements 6 
+<http://www.microsoft.com/en-us/windows/compatibility/CompatCenter/ProductDetailsViewer?Name=Adobe%20Photoshop%20Elements&vendor=Adobe&ModelOrVersion=6&Type=Software&tempOsid=Windows+7>
+ is 3-3.
+
+Microsoft recommends a paid upgrade, but buying the current Adobe Elements 12 
+<http://www.adobe.com/uk/products/photoshop-elements.html> will cost you £54.71 
+from Adobe (until January 9) or about £60 fromAmazon.co.uk 
+<http://www.amazon.co.uk/Adobe-Photoshop-Elements-12-Mac/dp/B00EWH8ATA/> (and 
+personally, I'd go for the boxed DVD). There have been lots of improvements 
+since Photoshop Elements 6 came out in 2007, so it may well be worth upgrading.
+
+Commercial programs sometimes have problems because software companies now 
+track licences online. A second installation may be seen as a pirate copy. For 
+this reason, it's a good idea to uninstall programs from your old PC before you 
+install them on the new one. If Photoshop Elements 6 doesn't load in Windows 7, 
+or says "Licensing for this product has stopped working," then you will need to
+Apply the Licensing Service Update 
+<http://helpx.adobe.com/creative-suite/kb/error-licensing-stopped-windows.html#main_Solution_1__Apply_the_Licensing_Service_Update_>
+.
+
+To move your emails and data -- but not your installed programs -- download 
+the free Microsoft program Windows Easy Transfer. You'll probably need the 
+version from here:Windows Easy Transfer for transferring from Windows Vista (32 
+bit) to Windows 7 
+<http://www.microsoft.com/en-us/download/details.aspx?id=14179>. Download it to 
+your Vista PC and run it there. Windows 7 already has a copy built in.
+
+Make a fresh start
+
+When you get your new Vostro, you will need to go through an automated setup 
+process that sets the time, date and location, and creates user accounts with 
+names and passwords. After that, go to Windows Update and install the latest 
+patches. To do this, click the Orb in the bottom left, typeup into the search 
+box, and select Windows Update. With luck there will not be many. However, 
+Windows Update installs files in batches, so it's important to go back several 
+times. IfWindows 7 <https://www.theguardian.com/technology/windows-7> installs 
+12 updates, that doesn't mean there are only 12 updates to install. There could 
+well be hundreds.
+
+Once Windows 7 is up to date, you can think about removing any potentially 
+unwanted programs or PUPs, whichI wrote about recently 
+<https://www.theguardian.com/technology/askjack/2013/oct/31/windows-pups-potentially-unwanted-programs-pc-uninstall>
+. The only ones you are likely to get with a Dell Vostro are Dell's backup 
+software, which you should keep, and a free trial anti-virus program, which you 
+can remove if you want. This may involve going to the AV supplier's website and 
+downloading a "removal tool". I'd certainly look for one as modern anti-virus 
+programs are plumbed in very deeply, to try to prevent malware from disabling 
+them.
+
+If you want a free anti-virus program, Avast! 
+<http://www.avast.com/en-au/free-antivirus-download> and AVG Anti-Virus Free 
+2014 <http://free.avg.com/gb-en/free-antivirus-download> are good options. Many 
+people use the lightweight but less thorough Microsoft Security Essentials, in 
+which case it's a good idea to run periodic scans withMalwarebytes Anti-Malware 
+<http://www.malwarebytes.org/>. In fact, that's never a bad idea.
+
+Install free utilities
+
+Most of us use some of the thousands of free Windows utilities such as, in 
+your case, Adobe Reader and Flash. In general, you should not transfer these 
+from one PC to another: download the latest versions instead. You can do this 
+by visiting a lot of different websites, or you can get them all from an app 
+store,All My Apps <http://allmyapps.com/>. It can also remind you of upgrades, 
+but if you find that annoying, you can uninstall the All My Apps program or 
+turn it off.Tucows <http://www.tucows.com/windows> and MajorGeeks 
+<http://www.majorgeeks.com/> are also good sources.
+
+For Windows 7, I use and recommend the Firefox browser, Secunia's Personal 
+Software Inspector, Slimware's SlimCleaner, Piriform's CCleaner, Paint.net, 
+FreeFileSync, DoubleKiller, Dropbox, the Windows Live suite (if not already 
+installed) and theK-Lite Codec Mega Pack 
+<http://www.codecguide.com/download_k-lite_codec_pack_mega.htm>. I also use 
+Media Player Classic instead of Windows Media Player, and Cubic Reality's
+CubicExplorer <http://www.cubicreality.com/ce/download/> instead of Windows 
+File Explorer, though these may not be to everyone's taste.
+
+Don't install Oracle's Java at this stage, as it's a security risk. You can 
+install it later if you find you can't do without it.
+
+Other useful free programs include Auto Hotkey, Ditto (a clipboard manager), 
+Evernote, Process Explorer and Skype.
+
+When downloading utilities, either use All My Apps (or a similar trustworthy 
+site) or links from the supplier's website. Avoid using links from Google 
+adverts. Also, be extra careful when installing free programs, because some 
+software suppliers earn money by foisting unwanted programs on you. These PUPs 
+include toolbars from Ask or Google, or Google's Chrome browser. Be extra extra 
+careful when installing things from Adobe and Apple.
+
+In a few cases, you may want to copy a utility from your old PC because you 
+don't like the latest version. I have a couple of these, such as Wisdomsoft's 
+ScreenHunter Free version 4 (a screen capture program) and Microsoft's FreeCell 
+and Cards.dll from 2004. There are several websites that stock old versions of 
+programs includingoldversion.com <http://www.oldversion.com/> and Old Apps 
+<http://www.oldapps.com/>.
+
+Backing things up
+
+Setting up a Windows PC just the way you want it takes time, and you don't 
+want to do it more than once. To avoid this, I use Windows 7's Backup and 
+Restore program to take a snapshot of the hard drive and store it somewhere 
+safe. The Vostro hard drive includes a hidden Recovery Partition, but this may 
+take you back to the beginning, with no updates etc. When fully set up with 
+programs and data, runWindows <https://www.theguardian.com/technology/windows> 
+7's Backup and Restore or Dell's DataSafe Local Backup program to back up your 
+PC to an external hard drive, and keep it backed up on your chosen schedule.
+
+I also keep separate backups of important folders such as My Photographs and 
+My Work. I use FreeFileSync to copy these to another external hard drive. The 
+routines are saved so I just have to click the BatchRun.ffs_batch file and then 
+hit the Synchronise button. Current work files, created in Microsoft Office, 
+are backed up to my 25GBMicrosoft 
+<https://www.theguardian.com/technology/microsoft> SkyDrive so I can get at 
+them from anywhere. Everybody has different requirements: just figure out what 
+works for you.
+
+Finally, a small confession. I think I have given you appropriate advice, but 
+there are lots of ways to do things. When I switched from a Dell Dimension 
+running Windows XP to a Vostro running Windows 7, I did it slightly 
+differently. I took the hard drive out of the old PC, slotted it into anIT-735 
+USB2 / e-SATA combo 3.5" SATA Hard Drive Enclosure 
+<http://www.amazon.co.uk/Allcam-IT-735-Enclosure-Drives-Black/dp/B000V8KQE6> 
+bought from Amazon, and plugged it into a USB port on the new PC. This made 
+copying files much easier. I've forgotten which registry hack I used to take 
+ownership of the old drive, butOwnership Changer 
+<http://helpdeskgeek.com/windows-7/easily-take-ownership-of-files-and-folders-in-windows-7/>
+ should do the job.
+
+Either way, a good new PC should be dramatically faster and much smoother 
+running than your seven-year-old Dell Dimension. I reckon you'll be sorry you 
+didn't upgrade earlier.
+ 

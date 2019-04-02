@@ -1,0 +1,369 @@
+
+Earlier today I set you ten questions from this year’s International Singapore 
+Maths Competition 
+<https://www.theguardian.com/science/2016/dec/05/can-you-solve-it-are-you-smarter-than-a-singaporean-10-year-old>
+. <http://www.ismc.sg/> Here are the questions and the answers. On the whole 
+you did very well - smarter than a 10-year-old Singaporean! (With the caveat 
+that they didn’t have multiple choice answers to choose from, and they are only 
+ten). The only questions where your most popular answer the wrong one were 6 
+and 8. (C in Q6, and B in Q8). Thanks for taking part - now look through your 
+workings...
+
+For Year 5 pupils:
+
+1. Mary cut off 2/5 of a piece of string. Later, she cut off another 14 m. The 
+ratio of the length of string remaining to the total length cut off is 1 : 3. 
+What is the length of the remaining string?
+
+ * A. 5 m
+
+ * B. 7 m
+
+ * C. 10 m
+
+ * D. 14 m
+
+Solution is C. [73 per cent of readers got it right]
+
+Oh Mary! This is how I would have solved it, using equations. Let L be the 
+original length of the string, and R be what is remaining once you have cut the 
+string twice. We know that R = (L x 3/5) – 14m, and that ((L x 2/5) +14) /R = 
+3, or 2L/5 + 14 = 3R. By substituting the first equation in the second we have 
+2L/5 + 14 = 9L/5 –42. Which rearranges to:7L/5 = 56, or L = 40. So R = 10m.
+
+Interestingly, the Singapore <https://www.theguardian.com/world/singapore> 
+method of solution is different. It requires us to think more visually about 
+the string: We cut 2/5 of it. Then 14m, and are left with a piece that is a 
+third of the size of what was cut. In other words, we are left with 1/4 of the 
+original length. In order to compare the fractions 2/5 and then 1/4, lets 
+change them to the lowest common denominator, which is 20. So, we cut off 8/20, 
+subtract 14m and are left with 5/20. Let’s now draw the string divided into 
+twentieths:
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F329db17edfc43cc24853123ef3e3efc398b08a69%2F0_0_2380_648%2F2380.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F329db17edfc43cc24853123ef3e3efc398b08a69%2F0_0_2380_648%2F2380.png>
+The 14m must be 7/20 of the string, which mean each twentieth is 2m. The 
+remaining piece of string is 5/20, i.e 10m
+
+2. The areas of the faces of a rectangular box are 84 cm2, 70 cm2 and 30 cm2. 
+What is the volume of the box?
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F8b4dbebc97d19f64c89ec43cf2883b6c32bc46e0%2F85_9_777_466%2F777.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F8b4dbebc97d19f64c89ec43cf2883b6c32bc46e0%2F85_9_777_466%2F777.png>
+ Photograph: ISMC 
+ * A. 300 cm3
+
+ * B. 420 cm3 
+
+ * C. 490 cm3
+
+ * D. 504 cm3 
+Solution is B. [85 per cent of readers got it right]
+
+First we need to work out the possible side lengths, by seeing which two 
+numbers multiply to be the area of each face. The 84 face could be 1 x 84, 2 x 
+42, 3 x 28, 4 x 21, 6 x 14 or 7 x 12. The 70 face could be 1 x 70, 2 x 35, 5 x 
+14 or 7 x 10. The 30 face could be 1 x 30, 2 x 15, 3 x 10 or 5 x 6.
+
+ * The common factors between 84 and 70 are 1, 2, 7 and 14.
+
+ * The common factors between 84 and 30 are 1, 2, 3 and 6.
+
+The only way to make 84 with one each of these common factors are 14 from the 
+top line and 6 from the bottom. So the edge bordering the 84 and 70 faces has 
+length 14, and the edge bordering the 84 and 30 edges has length 6. Which means 
+the height must be 30/6, or 70/14 = 5. Thus the volume is 14 x 6 x 5 = 420cm.
+
+3. There are four numbers. If we leave out any one number, the average of the 
+remaining three numbers will be 45, 60, 65 or 70. What is the average of all 
+four numbers?
+
+ * A. 50
+
+ * B. 55
+
+ * C. 60
+
+ * D. 65
+
+Solution is C. [82 per cent of readers got it right]
+
+If the four numbers are A, B, C and D, then we know that
+
+ * A + B + C = 45 × 3
+
+ * A + B + D = 60 × 3
+
+ * A + C + D = 65 × 3 
+ * B + C + D = 70 × 3 
+Now add them up to get 3A + 3B + 3C + 3D = (45 + 60 + 65 + 70) × 3
+
+Which is A + B + C + D = (45 + 60 + 65 + 70) = 240. So their average is 240/4 
+= 60
+
+4. A march goes through the streets from the School (S) to the Community 
+Centre (CC). One of the streets is closed. If the march can only travel East or 
+South, what is the number of different possible ways to get to the Community 
+Centre? [10 per cent]
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fa0136a46fc2d5b4204fd90875b60fa1462351b5e%2F0_0_1010_642%2F1010.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2Fa0136a46fc2d5b4204fd90875b60fa1462351b5e%2F0_0_1010_642%2F1010.png>
+ Photograph: ISMC 
+ * A. 16
+
+ * B. 19
+
+ * C. 20
+
+ * D. 22 
+
+Solution is B. [46 per cent of readers got it right]
+
+There are 19 possible ways:
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2F4f959cb82992ce20d2b3b785d56cf6ac5613fbfe%2F0_24_750_450%2F750.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2F4f959cb82992ce20d2b3b785d56cf6ac5613fbfe%2F0_24_750_450%2F750.png>
+5. Sally was given a set of 5 cards numbered 1 to 5 and Peter was also given a 
+set of 5 cards numbered 1 to 5. They were then blindfolded and told to pick a 
+card from their respective sets. The sum of the numbers from the two cards was 
+told only to Sally and the product of the numbers was told only to Peter. They 
+were then told to guess the two numbers. Below is what each of them said:
+
+Peter: I do not know the two numbers.
+
+Sally: Now I know the two numbers.
+
+Peter: I still don’t know the two numbers.
+
+Sally: Let me help you. The number I was told is larger than the number you 
+were told.
+
+Peter: Now I know the two numbers.
+
+What are the two numbers? 
+
+ * A. 1 and 4
+
+ * B. 1 and 5
+
+ * C. 2 and 4
+
+ * D. 2 and 5
+
+Solution is A. [72 per cent of readers got it right]
+
+Since each of them were each given numbers 1 to 5, if Peter was told any of 
+the following numbers, he would be able to tell what the two numbers that were 
+picked were:
+
+ * 1 → 1 × 1 The two numbers are 1 and 1.
+
+ * 2 → 1 × 2 The two numbers are 1 and 2.
+
+ * 3 → 1 × 3 The two numbers are 1 and 3. 
+ * 5 → 1 × 5 The two numbers are 1 and 5. 
+ * 6 → 2 × 3 The two numbers are 2 and 3.
+
+ * 7 → 1 × 7 The two numbers are 1 and 7.
+
+ * 8 → 2 × 4 The two numbers are 2 and 4.
+
+ * 9 → 3 × 3 The two numbers are 3 and 3.
+
+ * 10 → 2 × 5 The two numbers are 2 and 5.
+
+ * 12 → 3 × 4 The two numbers are 3 and 4.
+
+ * 15 → 3 × 5 The two numbers are 3 and 5.
+
+ * 16 → 4 × 4 The two numbers are 4 and 4. 
+ * 20 → 4 × 5 The two numbers are 4 and 5. 
+ * 25 → 5 × 5 The two numbers are 5 and 5. 
+(Products 11, 13, 14, 17, 18, 19, 21, 22, 23 and 24 cannot be formed.)
+
+The only product that is ambiguous is 4 since 4 could be equal to 1 × 4 or 2 × 
+2. Therefore, when Peter said that he did not know the numbers, Sally would be 
+able to know that the product Peter was told had to be 4. Since Sally said that 
+the sum she was told is larger than the product Peter was told,the two numbers 
+that were picked had to be 1 and 4 (sum = 5) and not 2 and 2 (sum = 4).
+
+For Year 6 pupils:
+
+6. There are 4 keys and 4 locks. What is the maximum number of times you need 
+to try the locks so as to match all 4 keys to their locks?
+
+ * A. 4
+
+ * B. 6
+
+ * C. 10
+
+ * D. 16
+
+Solution is B. [30 per cent of readers got it right]
+
+If you try 3 keys on the 1st lock, you will know that the 4th key is a match. 
+So, you only need a maximum of 3 tries. Similarly, the 2nd lock needs a maximum 
+of 2 tries and the 3rd lock needs only 1 try. Thus, 3 + 2 + 1 = 6 tries are 
+needed.
+
+7. In the diagram (not drawn to scale), the sloping line divides the area of 
+the rectangle in the ratio 1 : 6. What is the ratioa : b? 
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-6%23img-6&picture=https%3A%2F%2Fmedia.guim.co.uk%2F3d57317c9a908c22c03152ad915272d9fabc90a4%2F29_10_729_437%2F729.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-6%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3Fpage%3Dwith%3Aimg-6%23img-6&media=https%3A%2F%2Fmedia.guim.co.uk%2F3d57317c9a908c22c03152ad915272d9fabc90a4%2F29_10_729_437%2F729.png>
+ Photograph: ISMC 
+ * A. 2 : 3
+
+ * B. 1 : 2
+
+ * C. 2 : 5
+
+ * D. 1 : 3
+
+Solution is C. [63 per cent of readers got it right]
+
+The upper rectangle has area 2 unit2, the lower rectangle has area 6 – 1 = 5 
+unit2. We know that the ratio of the area of the upper rectangle to the area of 
+the lower rectangle is 2 : 5. Since both rectangles have the same width, thena 
+andb must also in the ratio 2 : 5.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-7%23img-7&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fa1d2fe830e9599173589d75a531e90b3f391d282%2F17_24_1368_821%2F1368.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-7%23img-7>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3Fpage%3Dwith%3Aimg-7%23img-7&media=https%3A%2F%2Fmedia.guim.co.uk%2Fa1d2fe830e9599173589d75a531e90b3f391d282%2F17_24_1368_821%2F1368.png>
+8. What is the number of times the hour hand and the minute hand of a clock 
+form a right angle with each other between 0600 and 1200 on the same day?
+
+ * A. 11
+
+ * B. 12
+
+ * C. 23 
+ * D. 24
+
+Solution is A. [39 per cent of readers got it right]
+
+The times the hour hand and the minute hand of a clock form a right angle with 
+each other between 0600 and 1200 are approximately at 0617, 0649, 0722, 0754, 
+0828, 0900, 0933, 1005, 1038, 1111, 1149.
+
+Note that this happens twice every hour, except between 0800 and 1000 when it 
+happens only three times and not four times as expected. This is because at 
+0900 exactly the hands form a right angle. Thus between 0600 and 1200 it 
+happens (6 × 2) − 1= 11 times.
+
+9. There are 240 Primary 6 students. The ratio of the number of students who 
+like Science to the number who do not is 5 : 3. The ratio of the number of 
+students who like Mathematics to the number who do not is 7 : 5. The number of 
+students who like both Science and Mathematics is 86. How many students dislike 
+both Science andMathematics <https://www.theguardian.com/science/mathematics>?
+
+ * A. 32
+
+ * B. 36
+
+ * C. 40
+
+ * D. 48 
+Solution is B. [75 per cent of readers got it right]
+
+The best way to solve this is to use a Venn diagram:
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-8%23img-8&picture=https%3A%2F%2Fmedia.guim.co.uk%2F99d19e302d94b9525257e8113c0c1a182463ae74%2F64_0_1023_614%2F1023.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-8%23img-8>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3Fpage%3Dwith%3Aimg-8%23img-8&media=https%3A%2F%2Fmedia.guim.co.uk%2F99d19e302d94b9525257e8113c0c1a182463ae74%2F64_0_1023_614%2F1023.png>
+Now we can write down some sums:
+
+If the number of students who like science divided by the number of students 
+who do not is 5/3, then 5/8 of the total like science and 3/8 don’t. Since the 
+total number of students is 240, then the number who like science is (5/8) x 
+240 = 150
+
+So, the number of students who like only science = 150 – 86 = 64
+
+Likewise the number of students who like Mathematics 
+<https://www.theguardian.com/education/mathematics> = (7/12) x 240 = 140
+
+So, the number of students who like only Mathematics = 140 – 86 = 54
+
+And the number of students who dislike both Science and Mathematics is 
+therefore 240 – (64 + 86 + 54) = 36
+
+10. My teacher had 3 big boxes of sweets. Each box contained sweets of a 
+different colour. Each pupil was given 5 sweets of two different colours. If 
+each pupil in the class received a different combination of colours, what was 
+the largest possible number of pupils in the class?
+
+ * A. 8 
+
+ * B. 12
+
+ * C. 16
+
+ * D. 64
+
+Solution is B. [67 per cent of readers got it right]
+
+Assume the three colours are red, blue and yellow. There are only 4 different 
+combinations for any two colours. So, for red and blue the combinations are:
+
+ * R R R R B
+
+ * R R R B B
+
+ * R R B B B
+
+ * R B B B B
+
+There are 3 ways to choose 2 out of 3 colours: 
+
+ * red-and-blue,
+
+ * blue-and-yellow
+
+ * red-and-yellow
+
+ So the different colour combinations for 5 sweets is 4 × 3 = 12 combinations. 
+Hence, the largest possible number of pupils is 12.
+
+I hope you enjoyed these puzzles, I’ll be back with some more teasers in two 
+weeks.
+
+Thanks to Roy Lo of the International Singapore Maths Competition 
+<http://www.ismc.sg/>. 
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-9%23img-9&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-9%23img-9>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Are%20you%20smarter%20than%20a%20Singaporean%20ten-year-old%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F05%2Fdid-you-solve-it-are-you-smarter-than-a-singaporean-ten-year-old%3Fpage%3Dwith%3Aimg-9%23img-9&media=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+ Photograph: Guardian Faber 
+If you like puzzles - or are facing the eternal conundrum about what to get a 
+puzzle-lover for Christmas - you may enjoy my latest book,Can You Solve My 
+Problems? A Casebook of Ingenious, Perplexing and Totally Satisfying Puzzles.
+Available fromthe Guardian Bookshop 
+<https://bookshop.theguardian.com/can-you-solve-my-problems.html?utm_source=editoriallink&utm_medium=merch&utm_campaign=article>
+ andother retailers <http://amzn.to/2fFUeCA>.
+
+I set a puzzle here every two weeks on a Monday. If you would like to suggest 
+a puzzleemail me <mailto:bellospuzzle@gmail.com>.
+ 

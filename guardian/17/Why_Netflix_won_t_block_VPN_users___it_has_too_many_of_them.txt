@@ -1,0 +1,62 @@
+
+More than 30 million Netflix <https://www.theguardian.com/media/netflix> users 
+live in countries where the service is unavailable without the use of 
+location-masking software, giving the company a hefty financial incentive not 
+to crack down on members who use the technological loophole to watch content 
+not authorised for their country.
+
+The figures, which come from market research firm GlobalWebIndex, show that 
+Netflix has more than 20 million users in China alone, all of whom must connect 
+through virtual private networks (VPNs), as the streaming video provider has 
+not yet launched in the country.
+
+Not every Netflix “user” is a subscriber to the service, however. 
+GlobalWebIndex surveyed almost 200,000 individuals across 32 markets, and asked 
+how many of them had watched Netflix in the previous month using a VPN. A 
+significant proportion of those saying they had will have watched at a friend’s 
+house, or been sharing a username with others – indeed, as of October 2014, the 
+company had 16 million international members, significantly less than the total 
+number of users of the service.
+
+“Account sharing is pretty widespread,” says Jason Mander, Head of Trends at 
+GWI. “Our numbers are always going to be higher than the number of paying 
+subscribers.”
+
+Nonetheless, he says that the figures show that Netflix would be “be shooting 
+themselves in the foot if you blocked considerable levels of traffic coming 
+from outside your official countries … the fact that it’s already talking to 
+them and getting money from them is a good thing.”
+
+And it seems Netflix agrees: the company’s chief product officer emphatically 
+denied rumours that it had been cracking down on VPN users at this year’s 
+Consumer Electronics Show in Las Vegas.
+
+“The claims that we have changed our policy on VPN are false,” said Neil Hunt. 
+“People who are using a VPN to access our service from outside of the area will 
+find that it still works exactly as it has always done.”
+
+Netflix can’t welcome VPN users too openly, however, since the company’s 
+fraught relationship with content providers hinges on them enforcing 
+international restrictions. “I think the tension here is that it’s not a 
+problem for Netflix per se,” says Mander. “The actual studios might be much 
+more concerned about it. But by the nature of how a VPN works … it’s very 
+difficult to tell if someone’s using one.”
+
+One of the outcomes of the Sony Pictures hack has been evidence of just how 
+much Hollywood studios care about VPN usage, as emails from 2013 show a Sony 
+exec complaining that “Netflix do not closely monitor where some of their 
+subscribers are registering from and don’t take steps to counter circumvention 
+websites that allow people… to subscribe illegally”. He specifically cited 
+Australia and South Africa as countries without legal Netflix services despite 
+high penetration. GWI’s figures show that 5% of internet users in those nations 
+accessed the service in the last month.
+
+Mander says that accessing better entertainment content is “by far the most 
+common” reason for using VPN services. “Beyond that, accessing social networks 
+is big in places like China. Then there’s quite an important group of people 
+who are using them to hide their identity, particularly in France, Germany and 
+the UK.”
+
+• Netflix denies crackdown on VPN users 
+<https://www.theguardian.com/technology/2015/jan/05/netflix-denies-crackdown-on-vpn-users>
+ 

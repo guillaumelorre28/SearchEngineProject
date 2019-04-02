@@ -1,0 +1,86 @@
+
+Last week, the European commission, that bete noire of Messrs Gove, Johnson & 
+co, resumed its attack on Google. On Wednesday, Eurocratsfiled formal charges 
+<http://europa.eu/rapid/press-release_MEMO-16-1484_en.htm> against the company, 
+accusing it of abusing its dominance of the Android operating system, which is 
+currently the world’s most-used mobile operating system software. This new 
+charge comes on top of an earlier case in which the commission accused Google 
+of abusing its overwhelming dominance of the web-search market in Europe in 
+order to favour its own enterprises over those of competitors.
+
+This could be a big deal. If the commission decides that Google has indeed 
+broken European competition law, then it can levy fines of up to 10% of the 
+company’s annual global revenue for each of the charges. Given that Google’s 
+global sales last year came to nearly $75bn, we’re talking about a possible 
+fine of $15bn (£10.5bn). Even byGoogle 
+<https://www.theguardian.com/technology/google> standards, that’s serious 
+money. And it’s not exactly an idle threat: in the past, the Eurocrats have 
+taken more than a billion dollars off both Microsoft and Intel for 
+such violations.
+
+There's nothing anti-American about the EU investigating Google | Nils Pratley
+ Read more  
+<https://www.theguardian.com/business/nils-pratley-on-finance/2016/apr/20/theres-nothing-anti-american-about-eu-investigating-google>
+To those of us who follow these things, there’s a whiff of Back to the Future 
+here. At any rate, there are distinct echoes of an earlier row (in the late 
+1990s) between the commission and Microsoft, which was then as dominant in the 
+PC market as Google is now in search and mobile operating systems. PC 
+manufacturers had to license the Windows operating system from Microsoft and 
+those licences included onerous obligations to have certain Microsoft programs 
+(for example the Internet Explorer browser and Microsoft media player software) 
+installed by default on every PC sold. In 2003,Microsoft was fined 
+<https://www.theguardian.com/media/2003/aug/07/digitalmedia.microsoft> heavily 
+and forced to stop “bundling” its media player with Windows and to provide the 
+information to competitors necessary to enable their media player programs to 
+interact with the PC operating system.
+
+In essence, the commission is now charging Google with an analogous offence. 
+Android <https://www.theguardian.com/technology/android> is the open source 
+mobile operating system that it created. In principle, anyone can use it. But 
+mobile phone manufacturers such as Samsung, HTC and others have licensed it to 
+power their devices. The commission claims that Google is imposing licensing 
+terms on them that favour its services.
+
+To be allowed to pre-install the Google Play Store on a device, for example, a 
+manufacturer must also pre-install all 11 of the programs (Gmail, YouTube, 
+Google Search etc) in the company’ssuite of apps 
+<https://www.theguardian.com/technology/2016/apr/20/google-android-european-commission>
+. In the commission’s view, this is tantamount to hindering competition and 
+abusing a dominant market share.
+
+Google, needless to say, is not impressed. “Our partner agreements,” writes 
+its general counsel, Kent Walker, “are entirely voluntary – anyone can use 
+Android without Google. Try it – you can download the entire operating system 
+for free, modify it how you want and build a phone. And major companies like 
+Amazon do just that.” So Android is free. But the costs of developing it, 
+fixing bugs, creating security patches and updating the system are non-trivial. 
+Given that, says Kent, “we offset our costs through the revenue we generate on 
+our Google apps and services we distribute via Android”. The implication is 
+that it’s perfectly reasonable to demand that if phone manufacturers wish to 
+use the Google app store then they should be obliged to also install the apps 
+from which the company makes money. What’s so anti-competitive about that?
+
+One of the few certainties in life is that whenever organisations possess 
+untrammelled power, then they will abuse it
+
+The only certainty about this case is that it will run and run, just like the 
+earlier cases with Microsoft and Intel. The seemingly interminable legal 
+wrangling that characterises these disputes leads some people to conclude that 
+the whole exercise is pointless. After all, by the time the original Microsoft 
+suit was finally resolved, the company’s monopoly position had been 
+substantially eroded by the eclipse of the desktop PC and the rise of mobile 
+and cloud computing.
+
+This kind of fatalistic pessimism has to be resisted. The companies that now 
+dominate the networked world are as powerful in their way as any of the 
+corporate giants of the past, indeed perhaps more so because they know so much 
+more about us than did their predecessors. And one of the few certainties in 
+life is that whenever individuals or organisations possess untrammelled power, 
+then they will abuse it. So they have to be challenged.
+
+But by whom? Once upon a time, we relied on the state to do this on our behalf 
+– to cut monopolies down to size, to keep corporate power in check. The strange 
+thing about the digital world is that states now seem unequal to this task. At 
+the moment, the EC is the only game in town. Which makes one wonder if the 
+Brexit enthusiasts have thought of that.
+ 

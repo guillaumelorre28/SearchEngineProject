@@ -1,0 +1,122 @@
+
+Today, Tokyo is the most populous city in the world; through most of the 20th 
+century it was New York. A century earlier London was the world’s population 
+centre, and Baghdad a millennium before that.
+
+
+Over the course of human history, a great number of cities 
+<https://www.theguardian.com/cities/2016/jun/27/rise-fall-great-world-cities-5700-years-urbanisation-mapped>
+ have held this title. From Jericho in 7000BC to Tokyo in AD2000, this map 
+plots 48 cities from history, each estimated to have been, at one time, the 
+largest in the world.
+
+It’s difficult enough to determining when a settlement becomes a city 
+<https://www.theguardian.com/cities/2015/feb/16/whats-the-oldest-city-in-the-world>
+, where its true borders lie, and how to measure its population for modern 
+cities, let alone for cities from thousands of years ago. This map is based on 
+historicalpopulation estimates 
+<https://en.wikipedia.org/wiki/List_of_largest_cities_throughout_history> from 
+four different researchers, and is not a definitive list. That said, it does 
+offer an overview of the world’s great cultural centres and how they have 
+changed over time.
+
+The world’s earliest population centres exhibit more geographic diversity than 
+you might expect. Of the 10 oldest cities on the map, only three were in 
+Mesopotamia, broadly considered the “cradle of civilisation”. The other seven 
+cities were spread across present-day Ukraine, Egypt, Turkey and the West Bank. 
+And that’s to say nothing of the Indus Valley civilisation in modern-day 
+India/Pakistan, argued by some to be theworld’s oldest 
+<https://www.theguardian.com/cities/2015/feb/16/whats-the-oldest-city-in-the-world>
+.
+
+Largest world cities table 
+<https://interactive.guim.co.uk/tools/tables/embed/index.html?spreadsheet=187bmcgKWFnPDsfUePSZeeW1kStgQAs9UraAzE1uQnf0>
+ Sources: Morris (2010), Modelski (2003), Chandler (1987), Chandler & Fox (1974)
+Uber v yellow cab in New York City
+
+Anecdotes abound regarding the meteoric rise of Uber and its devastation of 
+the traditional taxi industry in cities around the world. However, the 
+comparison is difficult to quantify since available data is limited for both 
+taxis andUber <https://www.theguardian.com/technology/uber>.
+
+One exception is New York City, where information about for-hire vehicle rides 
+is publicly available and goes back several years. Last year, developer Todd 
+Schneider used this data, comprising over a billion vehicle rides, to produce an
+extremely detailed analysis 
+<http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/>
+ described as “an open-source exploration of the city’s neighbourhoods, 
+nightlife, airport traffic, and more, through the lens of publicly available 
+taxi and Uber data.”
+
+Schneider has since updated the analysis 
+<http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/#update-2016>
+ to include data for 2016, showing just how far Uber has come in a year.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2016%2Fdec%2F06%2Fworld-largest-cities-mapped-through-history-data-viz%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fdbdda50feca872cd79bed170f53da713321f3355%2F0_0_1621_805%2F1621.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=From%20Jericho%20to%20Tokyo%3A%20the%20world's%20largest%20cities%20through%20history%20%E2%80%93%20mapped&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2016%2Fdec%2F06%2Fworld-largest-cities-mapped-through-history-data-viz%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=From%20Jericho%20to%20Tokyo%3A%20the%20world%27s%20largest%20cities%20through%20history%20%E2%80%93%20mapped&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2016%2Fdec%2F06%2Fworld-largest-cities-mapped-through-history-data-viz%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fdbdda50feca872cd79bed170f53da713321f3355%2F0_0_1621_805%2F1621.png>
+ Pickups in Brooklyn and New York. Image: Todd Schneider/NYC Taxi and Limousine 
+Commission 
+When will Uber overtake taxis in New York City?
+
+According to Schneider, Uber’s year-on-year growth rate was 90% as of June, 
+2016. Over the same period, the number of taxis rides fell by 10%. If Uber 
+manages to sustain an average annual growth rate of 40% and taxi ridership 
+continues to decline by 8% a year, Uber will catch up to New York’s taxi 
+industry by 2018.
+
+How bad is the rush hour traffic from Midtown to JFK? Where does the Bridge 
+and Tunnel crowd hang out on Saturday nights? What time do investment bankers 
+get to work? And could Bruce Willis and Samuel L Jackson have made it from 72nd 
+and Broadway to Wall Street in less than 30 minutes?
+
+See Schneider’s full analysis 
+<http://toddwschneider.com/posts/analyzing-1-1-billion-nyc-taxi-and-uber-trips-with-a-vengeance/>
+ for the answers to these questions and more.
+
+Using Kickstarter data to identify the US’ creative communities
+
+Nashville is famous for its vibrant music scene; Los Angeles is home to 
+America’s film industry – but what about other cities? What creative 
+communities thrive in Seattle, Philadelphia or Cleveland?
+
+Previous studies <http://www.nesta.org.uk/publications/geography-creativity-uk>
+ have investigated this question by analysing employment data. However, as the 
+visual storytelling publicationPolygraph <http://polygraph.cool/kickstarter/> 
+points out, those results may not capture the full picture.
+
+This interactive map lets you watch who commutes to your city every day
+ Read more  
+<https://www.theguardian.com/cities/2016/sep/02/this-interactive-map-lets-you-watch-who-commutes-to-your-city-every-day>
+ Pretty much all existing attempts to map creative communities use census and 
+jobs data. But creative efforts are often side hustles – they’re 
+garage/basement/cottage industries that will not appear in a census.
+
+Polygraph takes a novel approach to this question, teasing out America’s 
+creative communities by analysing the full history of projects successfully 
+crowdfunded viaKickstarter <https://www.kickstarter.com/>.
+
+Polygraph’s results confirm most of the well-known cultural stereotypes. San 
+Francisco is unsurprisingly heavy in technology projects, and Nashville’s
+Kickstarter <https://www.theguardian.com/technology/kickstarter> projects 
+predominantly relate to music. But the analysis also points to many other 
+creative communities that are not so well known.
+
+
+A few highlights:
+
+ * Indianapolis and tabletop games – 23% of Indianapolis’ Kickstarter projects 
+are tabletop games, a greater share than any other US city 
+ * Columbus and comics – Columbus’ proportion of comic projects is three times 
+the national average 
+ * Orlando and video games – with a population of only 250,000, Orlando ranks 
+eighth nationally in video game projects. 
+Follow Guardian Cities on Twitter <https://twitter.com/guardiancities> and 
+Facebook <https://www.facebook.com/guardiancities> to join the discussion
+
+
+
+
+ 

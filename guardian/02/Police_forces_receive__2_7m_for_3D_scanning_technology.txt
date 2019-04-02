@@ -1,0 +1,54 @@
+
+The Department for Transport 
+<https://www.theguardian.com/government-computing-network/transport> (DfT) has 
+awarded 27 police forces across England £2.7m worth of funding for the 
+implementation of 3D laser scanning technology.
+
+The government hopes that the technology will shorten motorway closures after 
+crashes as the scanners will save time by quickly making a 3D image of the 
+whole crash site, rather than investigators having to survey multiple sections 
+of a scene. The digital image of the site can then be viewed on a computer 
+screen remotely allowing investigators to take measurements of where vehicles 
+are in relation to each other and examine important evidence.
+
+Police forces and the National Policing Improvement Agency (NPIA) will also 
+make financial contributions to the project, which will allow the purchase of 
+37 scanners. Thames Valley and Hampshire police authorities, which share ICT 
+services, will receive the most scanner units. The forces will implement five 
+scanners after receiving a grant of £395,675 from the DfT.
+
+The wider roll out of 3D laser scanning technology is part of a government-led 
+initiative known as Clear (Collision, lead, evaluate, act, re-open). The 
+project aims to reduce delays caused by incidents in order to keep traffic 
+moving.
+
+Mike Penning, roads minister, said: "There is nothing more frustrating than 
+being stuck in a traffic jam for hours on end. But even worse than that is the 
+shocking £1bn cost of those lost hours for our economy. That is why we are 
+determined to improve the clear-up of accidents so we can get our motorways 
+re-opened as quickly as possible.
+
+"Today's £2.7m DfT funding award will see 3D laser scanners rolled out quickly 
+where they are needed most. This will benefit drivers by reducing incident 
+clear up times by 39 minutes on average."
+
+According to the DfT, there were more than 18,000 full or partial motorway 
+closures lasting a total of more than 20,000 hours in 2010. The government 
+hopes that its strategy will help drive down the £1bn annual cost to the 
+economy.
+
+Successful police force bidders will start to receive their grants this month, 
+with the aim of putting out the scanning technology on motorways and 'A' roads 
+a quickly as possible.
+
+Commenting on the project, chief constable Nick Gargan, chief executive of the 
+NPIA, said: "The project also supports a standardised approach to surveying 
+motorway incident scenes, in line with the police service's Information Systems 
+Improvement Strategy (ISIS) strategy of using IT to enable business change 
+within the service."
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Government 
+Computing Network here. 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+ 

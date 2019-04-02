@@ -1,0 +1,227 @@
+
+We recently ran a livechat 
+<https://www.theguardian.com/public-leaders-network/2016/oct/20/what-will-the-uks-future-transport-systems-look-like-livechat>
+ on the Guardian public leaders network, where our expert panellists discussed 
+what the UK’s future transport systems will look like. Some of the topics 
+included:
+
+ * What are the biggest transport issues of today that stop journeys from 
+being as affordable, easy and efficient as possible and which technology and 
+innovation can best help to overcome these? 
+ * What are the best examples of transport innovation and what might transport 
+policymakers be able to learn from them? 
+ * How will new technologies shape our future transport and the way we get 
+around our cities? 
+ * How can local authorities and transport operators make the most of 
+digitalisation and data to make journeys easier and cheaper? 
+Here’s our roundup of the best bits from the live discussion:
+
+Autonomous vehicles
+
+Clare Cornes, transport strategist for Transport 
+<https://www.theguardian.com/uk/transport> for Greater Manchester, said 
+autonomous vehicles could present the opportunity of more transport choices for 
+customers overall. “However, I do think it’s important more investment and 
+research is put into a wider range of autonomous vehicles, including public 
+transport vehicles and smaller, demand responsive shared vehicles, to highlight 
+future opportunities that aren’t car-focused.” she said. 
+
+Mohamed Mezghani, deputy secretary general of the International Association of 
+Public Transport <http://www.uitp.org/> responded: 
+ <https://profile.theguardian.com/user/id/16843625> Guardian contributor 
+MedMezghani  <https://profile.theguardian.com/user/id/16843625> 27 October 2016 
+12:35pm <https://discussion.theguardian.com/comment-permalink/86286426> 
+But autonomous cars alone cannot will not solve the mobility problems. They 
+should be integrated with a mass transit system which should remain the 
+backbone of the city transport network
+
+Nathan Marsh, intelligent mobility business development director at Atkins, 
+said there will be a range of benefits from new vehicles. Some of the early 
+benefits, he said, would be  “lower emissions, better use of the road capacity, 
+safer journeys, more efficient journeys due to car sharing and possible savings 
+due to different insurance or ownership arrangements”.
+
+
+Cyber security - should we be careful when adopting new technologies into 
+transport systems?
+
+Part of the problem with the Internet of Things from a security point of view 
+is that sectors that have not had to historically deal with cyber security now 
+do – and they don’t always understand how to protect themselves or how big an 
+issue it is, pointed out Harry Armstrong, a senior researcher at UK innovation 
+foundation Nesta. “There will always be the potential for cyber attacks and if 
+some one really wants to cause damage to your system they will find a way so we 
+need to be aware that cyber attacks are a threat but not completely 
+unavoidable. We can, however, make targets more difficult to hack and therefore 
+less desirable targets.”
+
+
+
+Making towns and cities more walkable... 
+
+Marsh, at Atkins, said UK core cities are looking at walking as something they 
+can support and integrate into the wider network. He said cycle hubs, covered, 
+well-lit and safe dedicated walkways with clear signage are being invested in 
+via local sustainable transport funds. “More has to be done to capture the 
+health and quality of life benefits.”
+
+Sarah Sharples, professor of human factors in the Faculty of Engineering at 
+the University of Nottingham and non-executive director of Transport Systems 
+Catapult, responded:
+ <https://profile.theguardian.com/user/id/16870227> Guardian contributor Sarah 
+Sharples  <https://profile.theguardian.com/user/id/16870227> 27 October 2016 
+12:19pm <https://discussion.theguardian.com/comment-permalink/86284996> 
+I think a real challenge here is what the business value is of these 
+innovations. We know that by providing information - such as walking times for 
+examples (and we see maps of these used really effectively during the tube 
+strikes) - people can change their behaviour. But could a small startup make 
+money from, say, an app that communicated walking times? So are we dependent on 
+government or local authorities to fund these initiatives?
+
+... and better for cycling
+
+Sally Cairns, a senior research working at the Transport Research Laboratory 
+and University College London, said she had recently worked on a project 
+exploring the potential to widen the appeal of cycling via 
+electrically-assisted bikes. “These are still a minority mode in the UK but 
+being taken up much more widely in some other parts of Europe,” she said. “I’d 
+like to see greater discussion about whether these should receive the same 
+support as electric cars.”
+
+
+Philippa Oldham, head of transport and manufacturing at the Institute of 
+Mechanical Engineers, said that the UK has very few people cycling to work 
+compared with the rest of Europe, with just 2% regularly choosing this mode as 
+a way to get to work compared with 20% in Denmark. “As an island we need to 
+look at how people move about,” she said. “A number of years ago the 
+Institution produced a Transport Hierarchy with four priority areas – the first 
+one being reduce demand for powered transport by encouraging walking and 
+cycling.”
+
+That prompted this response from Susan Claris:
+ <https://profile.theguardian.com/user/id/13836093> Guardian contributor 
+SusanClaris  <https://profile.theguardian.com/user/id/13836093> 27 October 2016 
+12:39pm <https://discussion.theguardian.com/comment-permalink/86286863> 
+I agree Philippa, but I think walking needs to be considered separately to 
+cycling as otherwise cycling tends to dominate. We saw this clearly with the 
+Department for Transport consultation Cycling and Walking Investment Strategy - 
+all the coverage and attention was on cycling. I also wish to see more cycling 
+in our towns and cities - but realise that getting a non-cyclist to start 
+cycling is a big ask, whereas the walking message is a simpler one - walk more. 
+We need walking strategies and walking champions to redress the balance.
+
+Mobility as a service
+
+
+ Sharples said people will increasingly have choice about how or when they 
+travel, and will use personal and public data to help make these choices. “This 
+could radically change the way that people behave, and how transport and 
+technology providers work together to provide new mobility solutions.”
+
+Top 10 transport apps for smarter travel
+ Read more  
+<https://www.theguardian.com/public-leaders-network/2016/sep/15/top-10-transport-apps-smarter-travel>
+Jonathan Bray, director of the Urban Transport Group, listed some of the 
+developments about which he was most excited: “The potential use of emerging 
+and open data to make transport planning more collaborative, responsive and 
+democratic; reducing carbon emissions through the electrification of transport: 
+by greening the grid and use it to power an electrified transport system; and 
+looking at where city authorities can make synergies between smart cities / 
+smart grids / smart transport systems to make cities more exciting and greener 
+places to be.”
+
+Mezghani, of the IAPT, responded:
+ <https://profile.theguardian.com/user/id/16843625> Guardian contributor 
+MedMezghani  <https://profile.theguardian.com/user/id/16843625> 27 October 2016 
+12:30pm <https://discussion.theguardian.com/comment-permalink/86285975> 
+The most exciting technologies should be those which make citizens’ mobility 
+easy, efficient and affordable. So we think of course about autonomous vehicles 
+for example as they will redefine the place of cars in the city and will have 
+an impact in how teh city will look like in the longer term
+
+Rethinking freight to unblock traffic
+
+
+Jonathan Bray, director of the Urban Transport Group, pointed out that van 
+traffic is increasing at a time when people also want cities that are greener, 
+cleaner, less congested and more attractive places to be.
+
+
+“We think that we should be aiming to get as much long distance freight as 
+possible into urban areas by rail and water with last mile(s) deliveries by low 
+impact means; from cycle logistics to low or zero emissions vans. One of the 
+challenges on consolidation has been a commercial model for making it work 
+however there is a lot the public sector could do on consolidation given the 
+scale of deliveries to universities, schools, hospitals, council buildings and 
+so on.”
+
+
+
+What about rural communities?
+
+One participant asked the question:
+ <https://profile.theguardian.com/user/id/16877182> GarethBlackett  
+<https://profile.theguardian.com/user/id/16877182> 27 October 2016 12:31pm 
+<https://discussion.theguardian.com/comment-permalink/86286119> 
+Hello, my name is Gareth Blackett and I'm the Director of a new startup, 
+Accessibility Solutions. We are developing 'Accessibility as a Service' as an 
+offer to rural communities, but can MaaS-type sharing solutions be feasible in 
+low density areas devoid of the benefits of agglomeration? I would like to hear 
+the Panel's responses to this question please?
+
+Stuck in the country: it's not just cities that need decent transport
+ Read more  
+<https://www.theguardian.com/public-leaders-network/2016/sep/22/country-cities-decent-transport-cuts>
+Oldham, of the IME, responded: “This is a real problem, particularly as it is 
+often the rural bus routes that get cut first. We have a growing ageing 
+demographic too in our rural communities and so this definitely needs to be 
+something that moves up the agenda. I am not sure if you are familiar with the 
+Transport Systems Catapult reportTravellers Needs 
+<https://ts.catapult.org.uk/wp-content/uploads/2016/04/Traveller-Needs-Study.pdf>
+ but it might provide some additional information. In addition to this 
+understanding the needs of local rural communities could be of real benefit as 
+transport could be tailored to their needs.”
+
+Improving commutes
+
+One livechat participant asked:
+ <https://profile.theguardian.com/user/id/13420161> mapmypubcrawl  
+<https://profile.theguardian.com/user/id/13420161> 27 October 2016 1:24pm 
+<https://discussion.theguardian.com/comment-permalink/86291014> 
+Would we be better off investing in reducing commute distance than increasing 
+commuter capacity?
+
+
+
+Yes this should be the long term objective,” responded the IAPT’s Mezghani. 
+“It will happen by integrating land use and transport, mixing activities, 
+developing activities around transport nodes, etc. It’s pity that some new 
+built cities didn’t consider this aspect during their design/planning stage.”
+
+How quickly will change happen?
+
+One element of cultural change is trust, said Marsh, of Atkins. “People (we) 
+need to understand and help design the new systems and schemesto help us trust 
+them, and then use them 
+<http://www.atkinsglobal.com/en-GB/angles/all-angles/getting-vehicle-security-basics-right-to-build-trust>
+. This has happened in London with cEMV on buses showing us we are happy to let 
+a transport entity access our personal, ticketing, journey and in this case 
+bank data.”
+
+Bray, of the Urban Transport Group, said there was was a danger of cities 
+getting swamped by the speed of technological change and the ambitions of some 
+of the newer players, particularly the large Californian corporations that 
+dominate the internet and now have turned their attention to transport.
+
+“Cities will need to be forward thinking, agile and smart in the way that they 
+respond. Critically it’s important that cities don’t get dazzled by the 
+technology itself but remain focused on how they respond to these changes in a 
+way that meets their larger aspirations for cities to be prosperous, inclusive, 
+green and exciting places to be.”
+
+Talk to us on Twitter via @Guardianpublic <https://twitter.com/guardianpublic> 
+andsign up <https://register.theguardian.com/public-leaders/> for your free 
+weekly Guardian Public Leaders newsletter with news and analysis sent direct to 
+you every Thursday. 
+
+ 

@@ -1,0 +1,65 @@
+
+The US Department of Homeland Security (DHS) and FBI 
+<https://www.theguardian.com/us-news/fbi> have released an analysis of the 
+allegedly Russian government-sponsored hacking groups blamed for breaching 
+several different parts of the Democratic party during the 2016 elections.
+
+The 13-page document, released on Thursday and meant for information 
+technology professionals, came as Barack Obamaannounced sanctions  
+<https://www.theguardian.com/us-news/2016/dec/29/barack-obama-sanctions-russia-election-hack>
+against Russia for interfering in the 2016 elections. The report was criticized 
+by security experts, who said it lacked depth and came too late.
+
+“The activity by [Russian intelligence services] is part of an ongoing 
+campaign of cyber-enabled operations directed at the US government and its 
+citizens,” wrote the authors of the government report. “This [joint analysis 
+report] provides technical indicators related to many of these operations, 
+recommended mitigations, suggested actions to take in response to the 
+indicators provided, and information on how to report such incidents to the US 
+government.”
+
+The government report follows several from the private sector, notably a 
+lengthy section in a Microsoft report from 2015 on a hacking team referred to 
+as “advanced persistent threat 28” (APT 28), which the company’s internal 
+nomenclature calls Strontium and others have called Fancy Bear. Also mentioned 
+in the government document is another group called APT 29 or Cozy Bear.
+
+Before the government report, other security researchers tracked “the bears” 
+to breaches including  
+<https://www.theguardian.com/technology/2016/aug/22/russian-hackers-world-anti-doping-agency-dnc-hack-fancy-bear>
+the summer 2016attack on the World Anti-Doping Agency 
+<https://www.theguardian.com/technology/2016/aug/22/russian-hackers-world-anti-doping-agency-dnc-hack-fancy-bear>
+, apparently an act of revenge against whistleblowing Russian athlete Yuliya 
+Stepanova. Other attacks attributed to the same set of apparently Russian 
+actors include an attack on Georgian elections in 2008, the hack of French news 
+channel TV5Monde, and a Twitter account and blog supposedly operated by a 
+hacker calling himself Guccifer 2.0 but more likely aninstrument of Fancy Bear 
+<https://www.theguardian.com/technology/2016/jul/26/dnc-email-leak-russian-hack-guccifer-2>
+.
+
+
+Cozy Bear and Fancy Bear: did Russians hack Democratic party and if so, why?
+ Read more  
+<https://www.theguardian.com/technology/2016/jul/29/cozy-bear-fancy-bear-russia-hack-dnc>
+The Microsoft report 
+<https://blogs.microsoft.com/microsoftsecure/2015/11/18/microsoft-security-intelligence-report-volume-19-is-now-available/>
+ contains a history of the groups’ operation; areport 
+<https://www.threatconnect.com/blog/tapping-into-democratic-national-committee/>
+ by security analysts ThreatConnect describes the team’s modus operandi; and 
+competing firm CrowdStrikedetailed 
+<https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/?_ga=1.267871629.228049923.1482954432>
+ the attack on the Democratic National Committee shortly before subsequent 
+breaches of the Democratic Congressional Campaign Committee and the Hillary 
+Clinton campaign were discovered.
+
+Security experts on Twitter criticized the government report as too basic. 
+Jonathan Zdziarski, a highly regarded security researcher, compared the joint 
+action report to achild’s activity center 
+<https://twitter.com/JZdziarski/status/814566295865851904>.
+
+Tom Killalea, former vice-president of security at Amazon and a Capital One 
+board member,wrote <https://twitter.com/tomk_/status/814568926545788928>: 
+“Russian attack on DNC similar to so many other attacks in past 15yrs. Big 
+question: Why such poor incident response?”
+fbi dhs russian hacking analysis 
+<https://interactive.guim.co.uk/embed/documentcloud/index.html?docid=3248260-DHS-FBI-analysis-of-Russian-hackers> 

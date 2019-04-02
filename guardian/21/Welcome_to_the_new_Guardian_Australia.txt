@@ -1,0 +1,130 @@
+
+The new site has been conceived to give you, our readers and collaborators, 
+the best possible ways to discover, engage with and share our stories.
+
+
+ We have started with the basics: we want to provide you with a delightful 
+reading and viewing experience, no matter which device you are using.
+
+More than half of our traffic in Australia now comes from people using mobile 
+devices, and so we want the act of reading or viewing the Guardian’s journalism 
+to be consistent, familiar and pleasurable regardless of the size of screen 
+being used.
+
+We want to make it compelling for you to engage with our journalism, to 
+discuss with us, share it with others and then to easily find more articles, 
+videos, live blogs, interactives or photo galleries that are relevant to you.
+
+Emily Wilson, the editor-in-chief of Guardian Australia says: “We’ve just 
+moved up to number six in Australia’s Nielsen Online Ratings of news sites and 
+we’ve also just hired a new bunch of first-class reporters. We now have three 
+bureaux, and reporters in six states and territories. Our aim is provide a 
+world-class national and international news service to Australia, and the new 
+site is going to help us do that.”
+
+Around a third of all visits to the Guardian contain a view of the homepage 
+<http://theguardian.com/au> which is why we also spent many months completely 
+rethinking the function and design of our homepage and of our section 
+homepages, such asopinion <https://www.theguardian.com/au/commentisfree> or 
+economy <https://www.theguardian.com/au/business>.
+
+From studying how our readers are using our site every day, we realised that 
+the Guardian’s homepage has to fulfil two main functions at once: It has to 
+make it very easy for you to quickly scan the current news agenda and it has to 
+provide you with intuitive ways of discovering the enormous breadth and depth 
+of our award-winning journalism from Australia and around the world.
+
+News website homepages are often not structured in ways that would cater to 
+typical user journeys, but they rather mirror the internal organisation of a 
+newsroom into sections and departments.
+
+After many months of talking to our readers and after studying what was really 
+happening on our beta homepage each day, we decided to take a very different 
+route and have created a new set of building blocks which we call ‘containers’.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fnov%2F26%2F-sp-new-website-guardian-australia%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F11%2F26%2F1416977901079%2F453097f5-96f3-4d3a-9276-4d7385467024-2060x670.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Welcome%20to%20the%20new%20Guardian%20Australia&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fnov%2F26%2F-sp-new-website-guardian-australia%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Welcome%20to%20the%20new%20Guardian%20Australia&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fnov%2F26%2F-sp-new-website-guardian-australia%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F11%2F26%2F1416977901079%2F453097f5-96f3-4d3a-9276-4d7385467024-2060x670.jpeg>
+ The opinion and analysis container on the Australia news page. Photograph: 
+theguardian.com 
+The homepages and each article page are made up of various such containers. 
+These do exactly what their slightly technical name suggests. They ‘contain’ 
+words, pictures, videos, graphics and data. Our editors can group them together 
+flexibly and within minutes by topic, by story type, by tone or by importance.
+
+So instead of building one big page according to a rigid template - news here, 
+features there, big picture, little picture and so on - our editors can create 
+modular homepages and article pages to create a representation of what is 
+important each and every day. And within each container, our editors can easily 
+assign different levels of visual volume and different styles to each story.
+
+Our new homepage also gives you new visual clues about the relative importance 
+that each story has and about the tone of a story: A new and easy to learn 
+colour scheme indicates whether you are about to click on a news story, on an 
+opinion piece, a feature, a review or a piece of analysis.
+
+Containers can move and flow through the page as the news agenda shifts. They 
+can highlight breaking news, present a multi-part investigation or guide you 
+towards a new columnist we’d like to introduce you to, an enticing image 
+gallery or an entertaining video. They bring our editorial voices to life in 
+more ways than ever before.
+
+On our opinion homepage, we will also curate the best opinion journalism of 
+other Australian and international publications 
+<https://www.theguardian.com/au/commentisfree#what-we're-reading> for you each 
+day.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fnov%2F26%2F-sp-new-website-guardian-australia%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F11%2F26%2F1417034552560%2F5224ef1d-cf3e-4bf5-ae41-88bd4915e58a-2060x259.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Welcome%20to%20the%20new%20Guardian%20Australia&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fnov%2F26%2F-sp-new-website-guardian-australia%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Welcome%20to%20the%20new%20Guardian%20Australia&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fnov%2F26%2F-sp-new-website-guardian-australia%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F11%2F26%2F1417034552560%2F5224ef1d-cf3e-4bf5-ae41-88bd4915e58a-2060x259.jpeg>
+ The container model allows us to aggregate journalism from other organisations 
+Photograph: theguardian.com 
+Our editors can also take any container from a homepage and make it part of an 
+article page so that it can enhance your reading experience there.
+
+A host of new design features have been included in the redesign: from new 
+video 
+<https://www.theguardian.com/australia-news/video/2014/nov/26/chris-bowen-budget-video>
+ andgallery pages 
+<https://www.theguardian.com/us-news/gallery/2014/nov/25/ferguson-the-day-after-protest-in-pictures>
+, new-looklive blogs 
+<https://www.theguardian.com/australia-news/live/2014/nov/26/tony-abbott-under-pressure-to-dump-defence-minister-politics-live>
+ that balance at-a-glance summaries with constant updates and comments, to a 
+new type and a new iconography.
+ Our site offers new ways to engage with our journalism. 
+The navigation bar at the top and bottom is now consistent across the site, 
+making it easier to learn and find the Guardian’s different sections. When you 
+click the ‘all sections’ menu at the top right of this page, you can see all of 
+the Guardian’s sections and all their sub-sections in one joint view.
+
+
+While designing and building the new Guardian site, we have shown the beta 
+version to around 5% of our total desktop audience andasked them for their 
+thoughts <https://www.surveymonkey.com/s/theguardian-au-edition-feedback> and 
+opinions.
+
+We’re immensely grateful for the now more than 40,000 comments we have 
+received during this beta phase, whether in person through testing sessions, 
+through online user surveys, or comments posted in our discussion threads and 
+via social media.
+
+We’ve listened to what you’ve had to say – and we’ve developed the site with 
+your thoughts and input front of mind. If you are interested in the main themes 
+that emerged from your comments, we have createdthis summary of user feedback 
+for you <http://next.theguardian.com/blog/your-feedback-answered/>. 
+
+Of course we can’t please everyone. But we hope, over time, all our readers 
+will appreciate the changes we’ve made and understand the reasons why we’ve 
+made them: to offer you the best possible experience of Guardian journalism and 
+to deepen our relationship with you, our readers.
+
+This launch isn’t the end of our journey, it’s just the beginning and our team 
+of in-house designers, journalists, engineers and developers can’t wait to add 
+more functions over the coming months. In fact, we will keep adding changes 
+every day and will continue toask you for your feedback 
+<https://www.surveymonkey.com/s/theguardian-au-edition-feedback>. 
+ 

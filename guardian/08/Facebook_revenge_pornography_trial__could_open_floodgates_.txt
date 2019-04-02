@@ -1,0 +1,161 @@
+
+A legal case against Facebook, which will involve a 14-year-old taking the 
+company to court 
+<https://www.theguardian.com/technology/2016/sep/12/facebook-loses-legal-bid-to-prevent-girl-suing-over-naked-picture>
+ in Belfast over naked images published on the social network, could open the 
+floodgates for other civil claims, according to lawyers who work with victims 
+of revenge pornography.
+
+Facebook’s forthcoming trial, which centres on the claim that it is liable for 
+the publication of a naked picture of the girl posted repeatedly on a “shame 
+page” as an act of revenge, has alarmed the tech world and could have a seismic 
+impact on how social media companies deal with explicit images.
+
+The case has already resulted in victims of revenge pornography seeking advice 
+about whether they too could have grounds for legal action, according to Paul 
+Tweed, media lawyer and senior partner at the law firm Johnsons.
+
+“A case like this risks opening the floodgates for other civil cases to be 
+taken against Facebook and other social media sites,” he said. “We’ve already 
+seen an increase in the number of people calling to find out more. I can see it 
+being a very real problem for all the social media sites going forward.”
+
+Last week, a high court judge rejected Facebook’s attempt 
+<https://www.theguardian.com/technology/2016/sep/12/facebook-loses-legal-bid-to-prevent-girl-suing-over-naked-picture>
+ to have the claim struck out, and the case is likely to be heard in the new 
+year. The girl’s lawyers say the photograph, which the girl’s parents say was 
+extracted from her through blackmail, was removed by Facebook several times 
+after being reported, but it had not been permanently blocked.
+
+
+Revenge porn: the industry profiting from online abuse
+ Read more  
+<https://www.theguardian.com/technology/2016/apr/26/revenge-porn-nude-photos-online-abuse>
+A lawyer for Facebook argued the claim for damages should be dismissed, saying 
+the company always took down the picture when it was notified. They pointed to 
+a European directive that they claimed provided protection from having to 
+monitor a vast amount of online material.
+
+A Facebook spokeswoman said there was “no place for this kind of content on 
+Facebook and we remove it when it’s reported to us. As outlined in our 
+community standards, nudity and sexual exploitation are not allowed.”
+
+The girl, who cannot be named for legal reasons, alleges misuse of private 
+information, negligence and breach of the Data Protection Act by Facebook and 
+is claiming damages. She is also taking legal action against the man who 
+allegedly posted the picture.
+
+Recent events have shown just how difficult it is for Facebook to navigate the 
+precarious path between censorship and protection, openness and responsibility.
+
+
+Earlier this month, an Italian revenge pornography victim 
+<https://www.theguardian.com/world/2016/sep/16/italy-grapples-with-suicide-of-woman-taunted-over-online-sex-video>
+, who won a case to have material removed from search engines and social 
+networks including Facebook, killed herself.
+
+Just a few days earlier the social network faced criticism after first 
+removing a famous image 
+<https://www.theguardian.com/technology/2016/sep/08/facebook-mark-zuckerberg-napalm-girl-photo-vietnam-war>
+ of a naked girl fleeing a napalm attack during the Vietnam war from the 
+Facebook page of writer Tom Egeland before removing it again 
+<https://www.theguardian.com/technology/2016/sep/09/facebook-deletes-norway-pms-post-napalm-girl-post-row>
+ when the Norwegian prime minister reposted the image in solidarity. Only after 
+a minor insurrection of Facebook users, who accused the site of censorship, did 
+Facebookrow back 
+<https://www.theguardian.com/technology/2016/sep/09/facebook-reinstates-napalm-girl-photo>
+ from its original position, with the chief operating officer, Sheryl Sandberg,
+writing a mollifying letter 
+<https://www.theguardian.com/technology/2016/sep/12/facebook-mistake-napalm-girl-photo-sheryl-sandberg-apologizes>
+ in which she admitted: “These are difficult decisions and we don’t always get 
+it right.”
+
+The Belfast case is also likely to shed light on the network’s use of “hash” 
+technology, such as the Microsoft programme PhotoDNA, which enables users to 
+scan the digital fingerprint of a photograph, and then – if necessary – prevent 
+it from appearing on the site again.
+
+Facebook currently actively scans every image uploaded on to the site, and 
+uses PhotoDNA to block known child abuse images. Other potentially problematic 
+images, such as those in revenge pornography cases, have to be reported and 
+“reviewed” before they are taken down. But critics argue that if it has the 
+technology to catch other photographs that cause distress, it should do more to 
+protect users from repeated harassment.
+
+“We often have clients where offensive content is repeatedly posted to a 
+social media platform so the victim has to play an endless game of 
+‘whack-a-mole’ to suppress new content,” said Iain Wilson, a solicitor at Brett 
+Wilson who specialises in such cases.
+
+Italy grapples with suicide of woman taunted over online sex video
+ Read more  
+<https://www.theguardian.com/world/2016/sep/16/italy-grapples-with-suicide-of-woman-taunted-over-online-sex-video>
+The fact that Facebook waits until pictures have been reported, unless they 
+are known child abuse images, before taking action was no longer sufficient, 
+according to John Carr, a leading authority on children and the internet. 
+“Facebook is like a public utility for young people, it plays a massive role in 
+their lives,” he said.
+
+“There is a widespread feeling that [Facebook] is not doing enough to tackle 
+content that their own terms and conditions forbid,” Carr added. “They should 
+be more energetically engaged in policing the content.”
+
+But there may be another reason Facebook is not removing images before they 
+are reported, in addition to its commitment to – and commercial reliance on – 
+“radical transparency”. Undercurrent EU law 
+<https://www.iwf.org.uk/hotline/the-laws/directive-applicable-to-the-liability-of-isps/liability-of-intermediary-service-providers>
+ social media sites are immune from liability for content as long as they react 
+quickly to complaints, under a “notice and takedown” mechanism, said Carr.
+
+One reason they could be reluctant to proactively search for all potentially 
+abusive images is that, ironically, by assuming some level of editorial 
+responsibility, in theory they could be held liable for the abuse they miss. 
+“It’s all a mess,” he said. “Which is why we need a specific law saying that if 
+companies try and prevent bad content, they won’t lose their immunity if they 
+don’t always get it right.”
+
+Facebook changed its community standards in 2012 to crack down on revenge 
+pornography and “sextortion”, banning nude images when they are reported. It 
+also works with charities to target paedophile networks and on “think before 
+you share” campaigns, said a Facebook spokeswoman.
+
+Reporting links against every bit of content on the site flags potential abuse 
+to a “dedicated teams of reviewers who will promptly review reports and take 
+action if content violates our community standards”, the spokeswoman said. “We 
+care deeply about protecting people’s safety, and work with charities, 
+academics and experts across the UK and Ireland to develop grassroots education 
+programmes and help create an environment where everyone feels safe.”
+
+Even if Facebook and other social media sites started proactively filtering 
+potentially distressing images, by far the greater problem lies in revenge 
+pornography and non-specific pornography sites, according to Laura Higgins, 
+creator of theRevenge Porn Hotline <http://www.revengepornhelpline.org.uk/>. In 
+arecent case in Scotland 
+<http://www.mirror.co.uk/news/uk-news/hacker-leaks-revenge-porn-images-8914551#rlabs=1%20rt$category%20p$1>
+ a hacker uploaded naked photographs of at least 20 victims, leaving one woman 
+feeling “totally humiliated”.
+
+Once images are online, they can be copied and reposted to dozens of other 
+sites, making total removal extremely challenging. The hotline has received 
+more than 5,000 calls since it was launched in February 2015, and just under 
+23% of them involve Twitter, Facebook and Instagram.
+
+ “In my experience Facebook are very quick to react when an image is 
+reported,” Higgins said. “The real issue is these dedicated revenge porn sites 
+that incite users to download images and send victims hate. If Facebook are to 
+be held responsible, then how can these sites be even allowed to exist?”
+
+It will take more than one high profile case to remove other barriers to 
+victims of revenge pornography, whatever their age, receiving justice. Although 
+arecent poll 
+<https://www.theguardian.com/law/2016/jul/19/revenge-porn-victims-should-get-anonymity-say-75-per-cent-of-people>
+ revealed that 75% of respondents were in favour of victims receiving 
+anonymity, the government shows no indications of classifying the crime as a 
+sexual offence. This means the vast majority of victims will never seek 
+justice, said Julie Pinborough, director of the legal advice centre at Queen 
+Mary University, which provides pro bono legal advice for victims.
+
+“Often the prospect of going to court for victims is unbearable; they feel 
+they have already been judged and they don’t want to go through the abuse 
+again.”
+ 

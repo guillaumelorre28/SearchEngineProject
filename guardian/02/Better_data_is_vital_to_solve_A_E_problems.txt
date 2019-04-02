@@ -1,0 +1,97 @@
+
+Digitisation of healthcare is moving apace but when our hospitals capture 
+information about emergency care, they rely on a dataset developed in the early 
+1980s.
+
+It seems odd in an age which aspires to delivering integrated care and digital 
+interoperability that we’re making do with a functional but pretty basic 
+dataset.
+
+The accident and emergency commissioning data set does a good job of providing 
+us with the key information required to benchmark A&E performance, such as the 
+four-hour waiting time standard. Trusts’ efforts to meet the 95% goal were 
+front page news for the first few months of this year,when A&E departments 
+across the country came close to breaking point 
+<https://www.theguardian.com/society/2015/feb/20/accident-emergency-departments-miss-patient-target-20th-week>
+.
+
+But richer data could give us the opportunity to better design and deliver 
+more joined-up care.
+
+What the dataset can’t do is help us to accurately determine capacity and 
+demand on the service. While coding standards have improved and become much 
+more consistent, variation still exists, with a valid diagnosis recorded for 
+only around half of A&E attendances.
+
+Also, the lack of granular detail on patient attendances, discharges and 
+admissions, and the difficulty of linking A&E data to inpatient datasets, makes 
+it hard for providers and commissioners to allocate appropriate resources for 
+their local populations.
+
+The need for change in emergency care data practices has become increasingly 
+apparent as demand at A&E has surged. According tothe King’s Fund 
+<http://www.kingsfund.org.uk/projects/urgent-emergency-care/urgent-and-emergency-care-mythbusters>
+, A&E attendances rose 30% over the decade to 2013-14, reaching 21.7 million.
+
+A&E is broken – but it can be fixed
+ Read more  
+<https://www.theguardian.com/healthcare-network/2015/sep/22/ae-is-broken-but-it-can-be-fixed>
+Dr Cliff Mann, president of the Royal College of Emergency Medicine 
+<http://www.rcem.ac.uk/>, has been a strong advocate for A&E reform. He has 
+also called for more co-located urgent care centres to allow out-of-hours GPs 
+to attend to the estimated2.1 million patients 
+<http://m.hsj.co.uk/5070973.article> who turn up at A&E but who don’t need 
+emergency department care.
+
+Central to the Royal College’s vision is a new dataset – known as the 
+emergency care data set <http://www.england.nhs.uk/ourwork/tsd/ec-data-set/> 
+(ECDS) – which will capture, for the first time, the true complexity and detail 
+of A&E attendances, so we can start to understand where all this additional 
+demand is coming from and how we might manage it better.
+
+At the recent NHS <https://www.theguardian.com/society/nhs> Innovation Expo in 
+Manchester, Tim Kelsey, national director for patients and information, spoke 
+of patients having a barcode, allowing their real-time electronic record to be 
+viewed by clinicians across the patient pathway, to improve care quality and 
+finally dispense with paper.
+
+The opportunity is there to take significant steps forward if we both 
+implement the new ECDS and find ways to encourage NHS organisations to capture 
+and record the information as accurately as possible.
+
+This would have numerous benefits, for example:
+
+ * More detail on patients who are discharged without receiving treatment or 
+being offered advice – as many as40% of all A&E visits 
+<http://www.nhs.uk/NHSEngland/keogh-review/Documents/UECR.Ph1Report.FV.pdf> – 
+would be immensely valuable for commissioners planning alternative services 
+that could prevent some A&E attendances, or guide improvements to services like 
+NHS 111. 
+ * Closer monitoring of certain population groups could be trended over time, 
+for instance adolescents, people with mental health problems, or people with 
+comorbidities who shouldn’t be heading to A&E. This could help us pinpoint 
+deficiencies in community services or tailor public health campaigns. 
+ * A fuller appreciation of patients admitted with a range of comorbidities 
+could lead to more appropriate care from the outset, helping to reduce delayed 
+transfers of care. 
+It’s well established that the NHS needs to find efficiency savings of £22bn 
+to meet its part of the bargain with the Department ofHealth 
+<https://www.theguardian.com/society/health> for an extra £8bn in funding by 
+2020.
+
+The integrated care models of the Five Year Forward View – including eight 
+vanguard sites 
+<http://www.hsj.co.uk/news/mapped-the-urgent-and-emergency-care-vanguard-sites/5088167.article>
+ that will launch the transformation of urgent and emergency care for more than 
+nine million people – are a crucial step towards achieving that.
+
+But the transformation envisaged over the next few years needs to be 
+predicated on accurate information. It is data that will provide the impetus 
+for evidence-based change.
+
+A&E must be a central component of this. We need to address the problem of 
+acute care demand at one of its main points of entry to stop the whole system 
+being placed under extreme strain and seizing up. Better data can help us 
+tackle this key issue and start to unblock some of the wider issues affecting 
+the health service.
+ 

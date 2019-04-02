@@ -1,0 +1,128 @@
+
+Former New York City mayor Michael Bloomberg once called the New York Police 
+Department “the seventh biggest army in the world 
+<https://www.theguardian.com/commentisfree/2012/jan/02/occupy-wall-street-where-next>
+”. Whether or not that stat is true, there’s no doubt the NYPD is a large and 
+powerful organisation – and, as current mayor Bill de Blasio learned last year, 
+it does not alwaystake criticism well 
+<https://www.theguardian.com/us-news/2015/jan/05/bill-de-blasio-says-nypd-disrespectful-for-turning-backs>
+.
+
+
+Enter Ben Wellington <https://about.me/benwellington>, a Brooklyn-based 
+quantitative analyst who runs the storytelling-through-data websiteIQuantNY 
+<http://iquantny.tumblr.com/>. The map above comes from a recent IQuantNY post 
+<http://iquantny.tumblr.com/post/144197004989/the-nypd-was-systematically-ticketing-legally>
+ examining New York City’s parking ticket data, which isfreely available online 
+<https://data.cityofnewyork.us/dataset/Parking-Violations-Issued-Fiscal-Year-2015/c284-tqph>
+. The red circles represent millions of dollars in erroneous parking tickets, 
+issued by NYPD officers to vehicles that were in fact parked legally.
+
+The rise and fall of great world cities: 5,700 years of urbanisation – mapped
+ Read more  
+<https://www.theguardian.com/cities/2016/jun/27/rise-fall-great-world-cities-5700-years-urbanisation-mapped>
+Before posting the analysis online, Wellington reached out to the NYPD to 
+report his findings. A few weeks later he received the response below: a 
+thoughtful, polite note from the NYPD acknowledging the error and listing the 
+steps they’ve taken to correct it.
+
+Mr Wellington’s analysis identified errors the department made in issuing 
+parking summonses. It appears to be a misunderstanding by officers on patrol of 
+a recent, abstruse change in the parking rules. We appreciate Mr Wellington 
+bringing this anomaly to our attention.
+
+The department’s internal analysis found that patrol officers who are 
+unfamiliar with the change have observed vehicles parked in front of pedestrian 
+ramps and issued a summons in error ...As a result, the department sent a 
+training message to all officers clarifying the rule change and has 
+communicated to commanders of precincts with the highest number of summonses, 
+informing them of the issues within their command.
+
+Thanks to this analysis and the availability of this open data, the department 
+is also taking steps to digitally monitor these types of summonses to ensure 
+that they are being issued correctly.
+
+It’s incredible to consider that one person analysing numbers on their home 
+computer has the power to influence an organisation as large and powerful as 
+the NYPD, something successive mayors have struggled to do.
+
+As Wellington said: “This is what Open Data is all about. This was coming from 
+the NYPD, not generally celebrated for its transparency, and yet it’s the most 
+open and honest response I have received from anyNew York 
+<https://www.theguardian.com/us-news/new-york> City agency to date. Imagine a 
+city where all agencies embrace this sort of analysis, instead of deflecting 
+and hiding from it.”
+
+The story certainly underscores the power of open government data. It also, 
+perhaps, illustrates why some government agencies may be reluctant to open up 
+their data for public inspection – and why public involvement is crucial in 
+making sure they do.
+
+Mapping microbes in the world’s subway systems
+
+Last year, researchers at Weill Cornell Medicine College used DNA samples from 
+each of New York City’s subway stations to producethe city’s first pathogen map 
+<http://www.pathomap.org/>. Nearly half the DNA sequenced did not match any 
+known organism, highlighting just how much we have yet to learn about the 
+bacteria that subway commuters come into contact with every day.
+
+In one of its most shared graphics of 2015, the Wall Street Journal used the 
+study’s results to build aninteractive map, <http://graphics.wsj.com/patho-map/>
+ which let New Yorkers explore their subway system and see exactly which 
+pathogens were found in each station.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F171773795&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F171773795>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F171773795&media=>
+Video: the MetaSUB project 
+Soon, 54 other cities around the world may be able to do the same. The team of 
+researchers behind PathoMap have gathered together an international consortium 
+of laboratories to conduct a similar analysis for subway systems around the 
+world. The project, calledMetaSUB <http://metasub.org/> (Metagenomics and 
+Metadesign of the Subways and Urban Biomes), kicked off last month with a 
+Global City Sampling Day: with the help of “citizen scientists”, the event 
+brought in more than 4,000 DNA samples worldwide.
+
+With billions of people passing through the world’s subways each year, MetaSUB 
+aims to improve our understanding of infectious disease and help the world 
+build smarter, healthier cities. The project is scheduled to last five years, 
+so don’t expect to see results any time soon. But you can keep track of 
+MetaSub’s progress:this map <http://metasub.org/interactive-map/> tracks the 
+number of samples collected in each of the 54 participating cities.
+
+How Germany commutes
+
+ Sleep until 7am, calmly eat some Frühstück, walk to the office. For many 
+Germans, this is but a dream – or so saysZeit Online 
+<http://www.zeit.de/feature/pendeln-stau-arbeit-verkehr-wohnort-arbeitsweg-ballungsraeume>
+ in its recent analysis of how Germany commutes to work.
+
+As is the case in many countries, an increasingly specialised labour market 
+along with a rising cost of living in city centres has caused many Germans to 
+live far from their places of work. As a result, 27% of German workers now 
+commute for 30 minutes or more each way.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEVKSR2ypkbA&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEVKSR2ypkbA>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DEVKSR2ypkbA&media=>
+Video: how Germany commutes. Source: Zeit Online 
+ Zeit analyses the commuting patterns in each of Germany’s 402 districts. And 
+with a series of beautifully designed animated maps, it shows what these 
+characteristic “ant trails” reveal about each region’s social structure.
+
+In the Rhein-Main district, Frankfurt is clearly the dominant destination. But 
+cities such as Mainz, Darmstadt and Aschaffenburg also attract many workers, 
+keeping the commuters reasonably spread out. In direct contrast to Rhein-Main 
+is theBerlin district, where all roads lead to one location: Berlin.
+
+Munich boasts the largest number of inbound commuters of any German district. 
+As Zeit highlights, the beauty of Munich’s landscapes and its high cost of 
+living give workers two strong incentives to live outside the city centre.
+
+Follow Guardian Cities on Twitter <https://twitter.com/guardiancities> and 
+Facebook <https://www.facebook.com/guardiancities> and join the discussion
+ 

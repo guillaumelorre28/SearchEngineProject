@@ -1,0 +1,146 @@
+
+I am getting my son a new laptop for Christmas. My budget is around £500. He 
+is adamant that he wants a 15in HP laptop – he won’t be lugging it anywhere – 
+but I’ve also been looking at Dell and Asus ZenBooks. My question is: Can I 
+future-proof my purchase to take him through his GCSEs to A-levels, or should I 
+just go for an entry-level laptop with the view of replacing it in a couple of 
+years?
+
+His usage will be mostly be Microsoft Office, web browsing and watching 
+YouTube videos. From my headache-inducing searches of various forums and 
+guides, I think my basic requirements would be a Core i5, 8GB and SSD 
+(solid-state drive) storage.Marie
+
+Hardly any of today’s laptops are upgradeable, and the number gets smaller all 
+the time. When laptops cost £2,000 to £4,000, it makes sense to provide upgrade 
+options. When they cost around £150 to £600, people generally replace them 
+rather than upgrade them. People also replace smartphones, fitness bands, 
+digital watches, compact digital cameras and other gadgets in the same price 
+range.
+
+The people who are buying high-priced laptops are usually looking for the best 
+possible performance for gaming, video editing, computer-aided design and 
+similar applications. They want to be able to upgrade their systems every year 
+or so to improve performance and save time, which usually saves money. Typical 
+upgrades include more memory, better graphics cards and bigger SSDs 
+(solid-state drives).
+
+Corporate IT departments may also look for upgradeable laptops because they 
+are simpler to maintain. Large companies will buy hundreds or even thousands of 
+identical machines because it means they don’t have to stock a lot of spares to 
+do running repairs. They can also cannibalise broken machines to keep their 
+fleets running. TheDell Latitude E5470 
+<http://www.zdnet.com/article/review-the-new-dell-latitude-e5470-is-a-great-laptop-for-windows-7-pro-users/>
+, which I reviewed at ZDNet.com, is a good example, but it’s out of your price 
+range.
+
+Consumer laptops are designed to be thinner, lighter and cheaper, so memory 
+and storage chips are often soldered directly to the motherboard. They don’t 
+have removable backs or “access hatches” because companies don’t want users 
+messing around inside.
+
+If you want to know if a laptop can be upgraded, try two things. First, check 
+Crucial’s website <http://uk.crucial.com/gbr/en> to see if it offers memory or 
+SSD upgrades for that specific model. Second, search for and download the 
+laptop’s service manual in PDF format. This will describe how to change parts 
+that are changeable.
+
+Meet Clevo
+
+One exception is Clevo 
+<http://forum.notebookreview.com/threads/clevo-guide-v3-0-faq-and-reseller-info-read-before-posting.592609/>
+, which makes laptops that can be assembled and customised by resellers such as 
+PC Specialist Ltd in the UK. (Sager sells Clevo laptops under its own brand 
+name.) Many Clevo buyers are gamers looking for high-end specs, or techie Linux 
+users, but you could get a 15.6inClevo UltraNote III 
+<https://www.pcspecialist.co.uk/notebooks/ultraNoteIII-15/> within your budget.
+
+The base UltraNote III costs £357 with an Intel Celeron processor and 2GB of 
+memory. Upgrading to an Intel Core i5-6200U, 8GB of memory and 120GB Samsung 
+750 SSD, while downgrading the optical drive to a read/write DVD, pushes the 
+price up to £528. Upgrading the standard 1366 x 768-pixel screen to a much 
+better 1920 x 1080-pixel IPS screen would add £35.
+
+In sum, you can get an upgradeable laptop with the spec you want for £563, 
+which is a bit more than your budget, but includes a three-year warranty. You 
+could get it under budget by switching to a Core i3-6100U, which brings it down 
+to £461.
+
+The UltraNote III can handle a Core i7-6500U processor, 16GB of memory, a 2TB 
+SSD and a Blu-ray writer, so there are plenty of upgrade options, though you 
+should discuss these with PC Specialist before buying.
+
+But your son is not going to need any upgrades, unless he starts doing some 
+serious gaming or video-editing. Windows 10 and Microsoft Office (available 
+free to most students) are relatively lightweight programs, and today’s 
+processors have no problems playing videos.
+
+Desktop PCs and all-in-ones
+
+If you don’t actually need portability, do you have room for a desktop PC or 
+an all-in-one? Desktop tower systems are far easier to upgrade or repair than 
+laptops. You can easily change your desktop PC’s screen, upgrade the graphics 
+card, add numerous drives, or even change the motherboard and/or the processor.
+
+Tower systems are usually faster because the processor doesn’t have to run in 
+a confined space or use low power to extend battery life. They also last 
+longer: I bought my last desktops in 2005 and 2011, and I expect the latter to 
+last at least another three years or more.
+
+All-in-ones also have ergonomic advantages over laptops, and bigger screens, 
+though most of them are not easy to upgrade. See my earlier answer,which 
+all-in-one PC should I buy for home use? 
+<https://www.theguardian.com/technology/askjack/2016/oct/20/which-all-in-one-pc-should-i-buy-for-home-use>
+
+HP laptop choice
+
+The laptop that most closely matches your request is the 15.6in HP Pavilion 
+15-au074sa 
+<http://www.pcworld.co.uk/gbuk/computing/laptops/laptops/hp-pavilion-15-au074sa-15-6-laptop-silver-10146646-pdt.html>
+, which is going for £479.99 at Currys PC World, though you may be able to find 
+it elsewhere. This has a Core i5-6200U, 8GB of memory and a 256GB SSD. Its main 
+drawback is its limited 1366 x 768-pixel screen, though it’s not untypical for 
+this class of machine.
+
+The Pavilion 15-au074sa isn’t upgradeable, but you probably won’t need to 
+upgrade it. Many university students and business users still have laptops with 
+4GB of memory and conventional hard drives, and very few users have more than 
+8GB. Many casual users only have 2GB.
+
+Somebody who spends £999.99 on a 13.3in HP Spectre x360 will also get a Core 
+i5-6200U, 8GB of memory and 256GB SSD, although the Spectre has other 
+advantages. For example, it has a much better 1920 x 1080-pixel IPS touch 
+screen, and a tougher, thinner and more stylish design. What it won’t do is run 
+Microsoft Word noticeably faster.
+
+Whether your HP Pavilion 15 will need replacing has less to do with the 
+specification than its durability, and how well it’s looked after. Careless 
+kids can destroy a laptop such as this in a year, by repeatedly picking it up 
+by the screen – which breaks the hinges – or dropping it on a hard floor. If 
+properly cared for, a Core i5 laptop should survive A-levels and university use.
+
+Cheaper options
+
+There are, obviously, lots of cheaper options. For some examples, see my 
+recent answer,Which laptop should I buy my YouTube-friendly 14-year-old? 
+<https://www.theguardian.com/technology/askjack/2016/sep/01/which-laptop-should-i-buy-my-youtube-friendly-14-year-old>
+ Cheap laptops typically have much slower processors, only 4GB of memory and 
+rotating hard drives, so they are not necessarily better value. However, a 
+machine such as an Asus X540LA with a Core i3-5005U, 4GB of memory and 1TB hard 
+drive (£305 
+<https://www.amazon.co.uk/ASUS-Notebook-i3-5005U-Processor-Windows/dp/B01HIWOJYK/>
+) would be powerful enough for most students.
+
+If you want to consider a disposable entry-level option, look at the HP 
+Pavilion x2 
+<http://www.johnlewis.com/hp-pavilion-x2-detachable-laptop-intel-atom-2gb-ram-64gb-emmc-10-1-touch-screen-with-free-ms-office-mobile-sunset-red/p2491743>
+ detachable. This has a quad-core Intel Atom Z8300, 2GB of memory and 64GB of 
+eMMC Flash memory for £219.95. Try to avoid models with 32GB of storage because 
+Windows 10 is probably going to be re-installed twice a year.
+
+The Pavilion x2 is an ultra-portable that doubles as a 10in tablet, has a 
+usable keyboard and feels durable for the price. It’s my first thought when 
+anyone asks for a cheap computer for a child.
+
+Have you got a question? Email it to Ask.Jack@theguardian.com
+ 

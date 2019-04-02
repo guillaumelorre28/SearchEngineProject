@@ -1,0 +1,94 @@
+
+On 8 November, US presidential election night 2016, the Guardian Mobile 
+Innovation Lab <https://medium.com/the-guardian-mobile-innovation-lab> and the 
+Guardian mobile apps team will offer an innovative way to get live presidential 
+election results right on the lock screen of the Guardian’s Android and iOS 
+apps.
+
+What is it? 
+
+We’re offering the quickest and most convenient way to get live election night 
+results on mobile without a tap, a search or the opening of an app. We’ll send 
+one mobile alert that will automatically update with the latest data. It is a 
+highly innovative use of alert technology that will give you the up-to-date 
+information whenever you pick up your phone.
+
+What will I receive?
+
+
+If you sign up, you’ll receive a single continuously updating notification 
+that will sit on your phone’s lock screen as results come in on election night. 
+The notification will show the most up-to-date numbers of electoral votes won 
+and states called, as well as an indication of which swing states have been 
+called, and the breakdown of the popular vote between the two top candidates.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2016%2Fnov%2F03%2Flive-presidential-election-night-results-mobile%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ff6a4d4cb0598aa606468d6fd4eada19f1a5df3b9%2F0_0_1504_1322%2F1504.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Get%20live%20US%20election%20alerts%20in%20new%20innovative%20format%20from%20the%20Guardian&url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2016%2Fnov%2F03%2Flive-presidential-election-night-results-mobile%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Get%20live%20US%20election%20alerts%20in%20new%20innovative%20format%20from%20the%20Guardian&url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2016%2Fnov%2F03%2Flive-presidential-election-night-results-mobile%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Ff6a4d4cb0598aa606468d6fd4eada19f1a5df3b9%2F0_0_1504_1322%2F1504.jpg>
+ The notifications as they will appear on Android and iOS devices 
+You will also be able to expand the alert to see a data visualization showing 
+the electoral vote and options to tap through to the Guardian live blog or a 
+page of full results.
+
+How do I sign up?
+
+
+The service is part of the Guardian app. When you open it, if you’re in the US 
+you’ll automatically get an introductory screen that invites you to sign up. 
+Tap that and you’re done. (If you’re outside the US, and have theAndroid 
+<https://www.theguardian.com/technology/android> app, you’ll also see the 
+screen.)
+
+If you don’t see the screen, you can follow these steps to sign up: 
+
+ * Download the most recent version of the Guardian app 
+ * Go to the Settings > Alert section of the app (see below)
+
+ * Turn on the Live US presidential election results alert 
+ * Note for iOS users: You must also be running iOS 10 to sign up  <> Facebook 
+ 
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2016%2Fnov%2F03%2Flive-presidential-election-night-results-mobile%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F49ddc891ae516d526afb14f15888a7cf00b03709%2F0_0_1450_1280%2F1450.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Get%20live%20US%20election%20alerts%20in%20new%20innovative%20format%20from%20the%20Guardian&url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2016%2Fnov%2F03%2Flive-presidential-election-night-results-mobile%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Get%20live%20US%20election%20alerts%20in%20new%20innovative%20format%20from%20the%20Guardian&url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2F2016%2Fnov%2F03%2Flive-presidential-election-night-results-mobile%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F49ddc891ae516d526afb14f15888a7cf00b03709%2F0_0_1450_1280%2F1450.png>
+ Turn on election night results notifications in your app’s Alert settings 
+screen Photograph: Guardian mobile lab 
+Important: This notification is entirely separate from the general alerts the 
+Guardian US news desk will send at key moments on election night, such as when 
+swing states are called and when the electoral vote tips over 270 and 
+establishes a winner.
+
+What if I decide I want to stop getting alerts?
+
+
+Sure, no problem. When the notification is expanded (pull down to expand 
+notifications on Android, and either swipe sideways to tap ‘view’ or hard press 
+to expand them on iOS) there will be buttons attached to the notification, 
+including an option to Opt out (on iOS) or, Stop (on Android) the notification. 
+Tap that and you’ll be unsubscribed.
+
+
+Are you excited?
+
+
+Yes! Are you? This project is the latest installment in ongoing 
+experimentation with notifications, part of theMobile Innovation Lab’s mission 
+<https://medium.com/the-guardian-mobile-innovation-lab> to learn more about 
+mobile storytelling. After the experiment, we’ll send out a survey soliciting 
+feedback on the experience. We’re eager to hear what you think!
+
+
+What exactly is the Guardian US Mobile Innovation Lab? 
+
+The lab is a small multidisciplinary team housed within the Guardian’s New 
+York newsroom, set up to explore storytelling and the delivery of news on small 
+screens. It operates with the generous support of theJohn S. and James L. 
+Knight Foundation <http://knightfoundation.org/>.
+
+Questions, suggestions or observations? Drop us a note: 
+innovationlab@theguardian.com
+
+ 

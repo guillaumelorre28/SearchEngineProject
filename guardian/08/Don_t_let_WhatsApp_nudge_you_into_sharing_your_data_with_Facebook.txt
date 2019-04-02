@@ -1,0 +1,94 @@
+
+When WhatsApp <https://www.theguardian.com/technology/whatsapp>, the messaging 
+app, launched in 2009, it struck me as one of the most interesting innovations 
+I’d seen in ages – for two reasons. The first was that it seemed beautifully 
+designed from the outset: it was clean, minimalist and efficient; and, 
+secondly, it had a business model that did not depend on advertising. Instead, 
+users got a year free, after which they paid a modest annual subscription.
+
+WhatsApp to give users' phone numbers to Facebook for targeted ads
+ Read more  
+<https://www.theguardian.com/technology/2016/aug/25/whatsapp-to-give-users-phone-number-facebook-for-targeted-ads>
+Better still, the co-founder Jan Koum 
+<http://www.forbes.com/sites/parmyolson/2014/02/19/exclusive-inside-story-how-jan-koum-built-whatsapp-into-facebooks-new-19-billion-baby/#313ef7864ffb>
+, seemed to have a very healthy aversion to the surveillance capitalism 
+<http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594754> that underpins the 
+vast revenues of Google, Facebook and co, in which they extract users’ personal 
+data without paying for it, and then refine and sell it to advertisers. In a
+blog post <https://blog.whatsapp.com/245/Why-we-dont-sell-ads?> headed “Why We 
+Don’t Sell Ads” written in June 2012, for example, Koum quoted approvingly a 
+memorable line uttered by Tyler Durden (played by Brad Pitt) in the movieFight 
+Club: “Advertising has us chasing cars and clothes, working jobs we hate so we 
+can buy shit we don’t need.”
+
+“When we sat down to start our own thing together three years ago,” Koum 
+wrote, “we wanted to make something that wasn’t just another ad clearing house. 
+We wanted to spend our time building a service people wanted to use because it 
+worked and saved them money and made their lives better in a small way. We knew 
+that we could charge people directly if we could do all those things. We knew 
+we could do what most people aim to do every day: avoid ads.”
+
+From political coups to family feuds: how WhatsApp became our favourite way to 
+chat
+ Read more  
+<https://www.theguardian.com/technology/2016/jul/03/from-political-coups-to-family-feuds-how-whatsapp-became-our-favourite-way-to-chat>
+And Koum was as good as his word. WhatsApp grew and grew, because it did what 
+it said on the tin. Its growth was funded by $58m from Sequoia Capital, the 
+only venture capital firm to invest in it. By February 2013, WhatsApp claimed 
+200m active users worldwide, and had a valuation of $1.5bn – not huge by 
+Silicon Valley standards but pretty good for an outfit that had an honest 
+business model.
+
+And then, in February 2014, something strange happened. Facebook offered to 
+buy the company <http://www.bbc.co.uk/news/business-26266689> – for $19bn – and 
+Koum and co took the bait. Given that Facebook’s business depends on selling 
+ads, most of us wondered what had happened to Koum’s admirable principles and 
+concluded, gloomily, that everyone has a price.
+
+But for a while WhatsApp continued as before within the Facebook stockade. Not 
+only did it not sell ads, but in November 2014 it announced that it was 
+introducing end-to-end encryption for all WhatsApp communications – which meant 
+that nobody, not evenFacebook <https://www.theguardian.com/technology/facebook>
+, could read (and thereby monetise) its users’ messages. So the puzzle 
+continued: why on earth had Mark Zuckerberg paid such a whopping price for a 
+service that he couldn’t exploit?
+
+Wondering why that millennial won't take your phone call? Here's why | Daisy 
+Buchanan
+ Read more  
+<https://www.theguardian.com/commentisfree/2016/aug/26/whatsapp-phone-calls-smartphone-messaging-millennials>
+Now we know. On 25 August WhatsApp announced that it was changing its terms 
+and conditions and its privacy policy. In ablog post  
+<https://blog.whatsapp.com/10000627/Looking-ahead-for-WhatsApp>which is a 
+masterpiece of lawyerly euphemism, it tells us that it is going to “share” with 
+Facebook its users’ phone numbers and details of the last time they signed on 
+to WhatsApp. Every user is asked to click “Agree” to this proposition – 
+although, of course, they can always reverse this agreement if they can find 
+the relevant section of their settings.
+
+Needless to say, this radical change has nothing to do with the needs of 
+WhatsApp’s corporate owners. Perish the thought: it’s to improve things for 
+you, the user. It’s all aboutusing “your WhatsApp account information to 
+improve your Facebook ads and products experience” 
+<https://www.cnet.com/how-to/how-to-stop-whatsapp-from-sharing-your-information-with-facebook/>
+. And, just to make sure you understand the magnitude of the decision you are 
+about to make, “If you tap ‘Don’t Share’, you won’t be able change this in the 
+future”.
+
+Seasoned observers of the computer industry will recognise this for what it 
+is: just another illustration of the power of the default setting. In 
+marketing-speak, it’s how to “Nudge Your Customers Toward Better Choices 
+<https://hbr.org/2008/12/nudge-your-customers-toward-better-choices>” – an 
+implementation of the philosophy set out by Cass Sunstein and Richard Thaler in 
+their bookNudge: Improving Decisions About Health, Wealth and Happiness 
+<http://amzn.to/2cpYHe9>.
+
+Of course, it’s true – as Sunstein and Thaler argue – that defaults can 
+sometimes be used to ensure that people do things that are good forthem, like 
+ensuring that they enrol in a pension scheme. But in the computer industry, 
+defaults are often deployed purely in the interests of corporations.
+
+So if you’re a WhatsApp user, don’t fall for this particular wheeze: go to 
+“Settings”, select “Account”, “Share my account info” and tap on “Don’t Share”. 
+And do it now, because time’s running out.
+ 

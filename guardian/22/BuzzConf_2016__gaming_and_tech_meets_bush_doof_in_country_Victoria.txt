@@ -1,0 +1,88 @@
+
+It’s 10am and a selection of Australian alpha nerds are emerging from their 
+tents in a former campground outside Ballan in country Victoria. They’re here 
+forBuzzConf <https://buzzconf.io/>, a high-technology and futurism conference 
+by day and music festival by night.
+
+Geeks have always loved their outdoor music festivals and in 2015, two 
+Melbourne-based developers Rick Giner and Ben Dechrai kicked off BuzzConf with 
+a lineup of top-tier tech speakers and local music talent.
+
+Time to tap into technology
+ Read more  
+<https://www.theguardian.com/break-into-tech/2016/nov/02/time-to-tap-into-technology>
+It’s a wide brief – there’s everything from augmented reality and biotech to 
+space travel. There are plenty of on-site soldering irons and a fleet of 3D 
+printers. There’s also a beer tent stocked with local craft brews and a live 
+act playing each night.
+
+This is a conference designed with inclusivity in mind: of 11 speakers, six 
+are women – almost unheard-of in the notoriously male tech industry.
+
+Dr Leila Alem, an industry leader in virtual and augmented reality, is here to 
+reveal her inside knowledge on bringing the ideas that drive Pokémon Go and 
+Snapchat flower crowns to the workplace. A Pilbara mining worker fixes 
+machinery with remote visual instructions from an expert in Perth. Cows are 
+kitted out with Fitbit-style Silent Herdsman wearable health monitors. A 
+brain-monitoring SmartCap detects when a driver is getting sleepy and wakes 
+them up.
+
+Another session offers a new perspective on how we pay for our media. Nic 
+Hodges, head of commercial innovation for News Corp Australia, wants to harness 
+new blockchain technology (used in the Bitcoin cryptocurrency) as a way of 
+allowing people to pay for their media as they consume it: a cent or 10 here, a 
+chunk of an article, picture, slice of an episode or chapter of a book there. 
+It’s a hot-button issue, with newspapers struggling, grandmothers asking 
+grandkids to pirate TV shows for them, and media producers finding their 
+content with someone else’s watermark on it (and someone else’s advertising in 
+the sidebar).
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Faustralia-culture-blog%2F2016%2Fdec%2F01%2Fbuzzconf-2016-gaming-and-tech-meets-bush-doof-in-country-victoria%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fa4249e935be1ac92d8d87ddc26124c599c856d33%2F0_0_2000_1333%2F2000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=BuzzConf%202016%3A%20gaming%20and%20tech%20meets%20bush%20doof%20in%20country%20Victoria&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Faustralia-culture-blog%2F2016%2Fdec%2F01%2Fbuzzconf-2016-gaming-and-tech-meets-bush-doof-in-country-victoria%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=BuzzConf%202016%3A%20gaming%20and%20tech%20meets%20bush%20doof%20in%20country%20Victoria&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Faustralia-culture-blog%2F2016%2Fdec%2F01%2Fbuzzconf-2016-gaming-and-tech-meets-bush-doof-in-country-victoria%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fa4249e935be1ac92d8d87ddc26124c599c856d33%2F0_0_2000_1333%2F2000.jpg>
+ A virtual reality games workshop, held in a tent at a campsite outside Ballan 
+in country Victoria Photograph: BuzzConf 2016 
+In the workshop tent, people are introduced to the new ESP8266 chips: a tiny 
+programmable Wi-Fi-enabled microprocessor, a tenth of the price of comparable 
+Arduino or Raspberry Pi boards (a Chinese innovation that was quietly released 
+without any English documentation to knock down the price of consumer 
+electronics).
+
+These gadgets are cheap enough to allow you to add anything you like to the 
+“internet of things”. Want your toaster to text you when breakfast’s ready? Get 
+soldering.
+
+The keynote speech is on space. Developer and public speaker Paul Fenwick 
+wants to solve the world’s problems and, when in doubt, solve them with space 
+travel. Mining one single asteroid could provide humanity with a wealth of rare 
+minerals. Putting our solar panels in space could ramp their efficiency orders 
+of magnitude.
+
+And if you can solve a problem with space, why wouldn’t you? Space is cool. 
+Everyone loves space. Even more than they love using a specially-developed 
+website to honk the horn of the Tesla S series that’s parked outside the tent.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Faustralia-culture-blog%2F2016%2Fdec%2F01%2Fbuzzconf-2016-gaming-and-tech-meets-bush-doof-in-country-victoria%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fce3d1b6f630b5651d96bb64182f67b8428d836e6%2F0_10_2000_1200%2F2000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=BuzzConf%202016%3A%20gaming%20and%20tech%20meets%20bush%20doof%20in%20country%20Victoria&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Faustralia-culture-blog%2F2016%2Fdec%2F01%2Fbuzzconf-2016-gaming-and-tech-meets-bush-doof-in-country-victoria%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=BuzzConf%202016%3A%20gaming%20and%20tech%20meets%20bush%20doof%20in%20country%20Victoria&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Faustralia-culture-blog%2F2016%2Fdec%2F01%2Fbuzzconf-2016-gaming-and-tech-meets-bush-doof-in-country-victoria%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fce3d1b6f630b5651d96bb64182f67b8428d836e6%2F0_10_2000_1200%2F2000.jpg>
+ In a dedicated kids’ track at Buzzconf, children are invited to make their own 
+games Photograph: BuzzConf 2016 
+Families are encouraged to attend, with free entry for children at an 
+otherwise pricey event. The kids play with endearing anthropomorphic, 
+pod-shaped Dash and Dot robots, building games with BitsBox and bushwhacking 
+zombies in a Minecraft treasure hunt. At the end, they present their games to 
+popular acclaim. (You can try outSkulls <https://bitsbox.com/run.html?81e5c> by 
+Keiran Taylor, age six.)
+
+It’s hard to tell if anyone’s going to leave an event like BuzzConf with a 
+genuine take-home bag of inspiration, creativity and connection, but they’re 
+definitely going to leave with that happy exhaustion and yearning for a shower 
+that comes after a great outdoor festival.
+
+And if they’ve managed to build a hat with a BuzzConf badge that wiggles every 
+time someone tweets the #buzzconf hashtag ... well, that’s just gravy, really.
+ 

@@ -1,0 +1,98 @@
+
+Olympic divers are judged on power, agility and the ability to crisply execute 
+improbable combinations of somersaults and twists in the couple of seconds it 
+takes to travel from the board to the pool below.
+
+Now, a pair of Australian mathematicians have devised a dive of unheard of 
+complexity, which includes one-and-a-half somersaults and a record five twists.
+
+Based on their simulations the dive is physically possible – they are now 
+seeking a brave candidate prepared to stand on a 10m board and put their 
+proposed feat to the test.
+
+Professor Holger Dullin, a mathematician at the University of Sydney and the 
+senior author said: “We just need one pair of a determined coach and athlete!”
+
+In competition, dives are rated on their precision, technique, and a clean 
+entry into the water. The final score is then multiplied by the dive’s degree 
+of difficulty, meaning that a scruffy but ambitious dive can potentially 
+outscore a flawlessly performed, but more mundane, choice.
+
+This creates a strong incentive for athletes to attempt increasingly 
+complicated dives. “It really is hard to squeeze more complexity into 1.5 
+seconds,” said Dullin.
+
+The new dive, described in a paper on ArXiv <https://arxiv.org/abs/1612.06455> 
+(a pre-publication repository), relies on a new sequence of body shape changes 
+mid-air, designed to convert somersaulting motion into twisting motion and back 
+again with the aim of packing in more twists than ever before.
+
+The five-stage dive works as follows: the diver takes off with pure forward 
+somersaulting motion. They then drop their left arm to their side, causing them 
+to twist. Next, they bring their left arm back up while simultaneously lowering 
+their right arm, ramping up their twisting movement. The twisting motion is 
+then brought back under control by reversing the two previous steps (right arm 
+up and left arm down, then left arm back up). All this is completed within 1.8 
+seconds – a shade longer than the average dive time of 1.6 seconds.
+
+At this point, ideally, the diver will also have completed precisely 
+one-and-a-half somersaults, leaving them pointing downwards at the water, 
+poised to disappear beneath the surface without a splash.
+
+The dive is called the 513XD, following the Fédération Internationale de 
+Natation’s (FINA) naming convention. The initial 51 denotes “twisting forward”, 
+3 is the number of half-somersaults and X signifies the number of half-twists 
+(10=X).
+
+The academics said that the simulations suggest the dive should be possible, 
+although the athlete’s timing would need to be incredibly precise.
+
+William Tong, the lead author who is now based at Macquarie University, 
+Sydney, said: “Performing the shape change at the incorrect time could still 
+speed up the twist [in a suboptimal way], it could slow down the twist, or it 
+could even leave the athlete in a state known as the wobbling somersault.”
+
+The biggest challenge, he added, would be in the fastest twisting phase, when 
+the athlete would be spinning at about 10 rotations per second. A tiny timing 
+error could result in the diver failing to stop twisting before entry and 
+potentially performing an inelegant and painful spinning belly-flop.
+
+The research was carried out in collaboration with the New South Wales 
+Institute of Sports, whereMatthew Mitcham 
+<https://www.theguardian.com/sport/2012/feb/22/tom-daley-matthew-mitcham-diving>
+, a retired Australian diver and 2008 Olympic gold medallist, trained. The 
+coaches and athletes had expressed an interest, but said it was not clear how 
+to train towards the dive – a system of twirling harnesses was one possibility. 
+“And with this unknown the risk of injury is also unknown and potentially 
+high,” Dullin conceded.
+
+A representative for British diving was also dubious, describing the dive as 
+“a bit of a non-starter”.
+
+“They have not in their summary taken into account a huge number of factors, 
+they have overly simplified the model,” the spokesman said. “It would have been 
+more beneficial to look at current trends to see if an additional twist in 
+current dives is possible.”
+
+
+However, the authors argue that the intricacy of dives in competition has 
+ramped up so precipitously that their proposal is plausible.
+
+The most complex dive attempted at the Beijing Olympics (a reverse 
+two-and-a-half somersaults with two-and-a-half twists) had a degree of 
+difficulty rated at 3.8. Today, FINA, the diving world governing body,lists the 
+most difficult dive <http://diving.about.com/od/rules/a/newFINADD.htm> as a 
+reverse four-and-a-half somersaults in the pike position, rated at 4.8.
+
+The proposed dive does not have a FINA rating – these are assigned when a dive 
+is performed in competition – but the authors predict that it would score a 
+minimum of 4.7, and possibly higher.
+
+Dullin is not a biomechanics expert and his primary scientific interest is in 
+the mathematical description of rotations, vibrations and so on – typically 
+relating to molecules on the quantum scale, rather than of human athletes.
+
+“But watching what is currently already possible at the world class diving 
+stage, which would not have been considered possible 20 years ago, I believe 
+that somebody will be able to perform this dive in the near future,” he said.
+ 

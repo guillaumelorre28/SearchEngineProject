@@ -1,0 +1,97 @@
+
+If there’s one thing that I’ve learned in the few short years that I’ve been a 
+fully-fledged scientist, it’s that time is one of the most valuable commodities 
+that you can give a researcher. In all its myriad forms, time is invaluable to 
+the scientific process – time to develop ideas, time to write grants. The time 
+that you need to run an experiment. Critically, the time that participants are 
+willing to give you in the pursuit of knowledge. It’s a precious thing, for 
+everyone involved.
+
+Like with many things we take for granted, it’s easy to forget the importance 
+of time until it’s gone. This is a point that becomes acutely salient in the 
+case ofAlzheimer’s disease 
+<https://www.alzheimers.org.uk/site/scripts/documents_info.php?documentID=100>. 
+Once a definitive diagnosis has been made, the average life expectancy for 
+patients with the disease is around six years. It robs people of their future, 
+but more than that, Alzheimer’s disease robs them of their past – short term 
+memory loss is a common indicator, and as the disease progresses, it can eat 
+into memories from earlier in life.
+
+But it’s not just time that’s an issue when it comes to Alzheimer’s disease. 
+Space is a problem too – or rather, spatial navigation. Being able to 
+successfully steer your way around different sorts of surroundings is obviously 
+a pretty important skill to have. Broadly, there are two frames of reference 
+that you can use to do it. ‘Egocentric’ frames of reference rely on remembering 
+the locations of landmarks in relation to your own body – so, for instance, if 
+you take a fixed route to work, you might learn to turn left at the shop, then 
+turn right when you see the petrol station. In contrast, ‘allocentric’ 
+navigation relies on creating and remembering a mental map of an environment, 
+and remembering the location of landmarks in relation to other landmarks. 
+Deficits in both of these navigation systemsappear in the early stages of 
+Alzheimer’s disease 
+<https://www.researchgate.net/publication/262805836_The_role_of_egocentric_and_allocentric_abilities_in_Alzheimer%27s_disease_A_systematic_review>
+, but the precise way in which they decline isn’t yet fully understood. Part of 
+the problem is that we don’t really have a good grasp of how healthy people use 
+these systems, or what they do when they get lost. That has important 
+implications in the clinic, because if a patient presents with spatial 
+navigation problems, it’s can be difficult to tell whether that’s because they 
+are showing signs of dementia, or whether it’s just because they’re generally 
+poor at navigation.
+
+Alzheimer's treatment closer as brain inflammation shown to be key
+ Read more  
+<https://www.theguardian.com/science/2016/jan/08/alzheimers-treatment-closer-as-brain-inflammation-shown-to-be-key>
+This is where a team led by Professor Michael Hornberger at UEA and Dr Hugo 
+Spiers at UCL come in. At the start of May, they launched a new mobile game 
+calledSea Hero Quest <http://www.seaheroquest.com/en/>. The game puts you in 
+the shoes of an unnamed sailor, whose father is slowly losing memories of his 
+life as a seafaring explorer. To try and help him remember his past, your job 
+is to travel around cartoon waterways in search of pieces of his old journal. 
+At the start of a level, you’re given a top-down map of the waterways that 
+shows a number of buoy markers you need to navigate through. Once you’ve 
+memorised it, you simply need to sail your ship around the 3D world and hit 
+each buoy in numerical order. The information about the route you take, and 
+what you do if you get lost, is saved and transmitted for further analysis.
+
+“The idea was to create a global benchmark for navigation behaviour in healthy 
+people on a population level,” says Professor Hornberger. “The perfect way to 
+do this was via online gaming, as many online games use virtual reality and can 
+be played anywhere.” By getting this sort of data in a huge sample of people, 
+the idea is that Hornberger and Spiers can gain a more nuanced insight into 
+whether there are any differences in how people of different ages, sex and even 
+geographical location navigate. “For example, what is the normal navigation for 
+a 55 year old man from England?” Hornberger explains. “The game is meant to be 
+challenging, as we want to see how healthy people navigate and get lost. This 
+will then inform new approaches towards dementia diagnosis and management.”
+
+Detecting dementia: the first steps towards dignity | Tania Browne
+ Read more  
+<https://www.theguardian.com/science/head-quarters/2014/jul/21/detecting-dementia-dignity-alzheimers>
+While the game can’t be used to diagnose dementia, the data collected from it 
+has the potential to inform a wealth of research into Alzheimer’s disease in 
+the future. “We are sampling the position and heading direction from each 
+player in the game every 500ms, which will allow us to use artificial 
+intelligence approaches on the data to potentially predict where people get 
+lost,” explains Hornberger. Ultimately then, by understanding how healthy 
+people lose their way, and whether there are any systematic patterns in the 
+decline of spatial navigation abilities over time, it might be possible to 
+better adapt the environments that people with Alzheimer’s disease live in – 
+from care homes to entire towns.
+
+Sea Hero Quest took 12 months to set up and launch, and initially, will be 
+available to download until the end of the year. Hornberger explains that the 
+goal by then was to have 100,000 people play the game for at least two minutes. 
+As of this week, it’s been downloaded over 960,000 times. The plan is to update 
+the app in June, with more levels that investigate other aspects of spatial 
+navigation.
+
+“From the beginning it was clear to us that we didn’t want to create another 
+online cognitive experiment - instead we wanted to have a fun, casual mobile 
+game which would collect valid scientific data,” Hornberger says. “This was 
+also important so that we wouldn’t only get citizen scientists playing the 
+game, but the general public.” The key to this experiment being a success, 
+then, is to get the best possible representation of the population at large. 
+For that, all the research team needs is two minutes of time from as many 
+people as possible. Two minutes. Nothing really, in the grand scheme of things. 
+But in the quest to understand dementia, it could mean a potential lifetime.
+ 

@@ -1,0 +1,91 @@
+
+Beethoven's 9th Symphony is one of the greatest works of art 
+<https://www.theguardian.com/theguardian/2011/may/24/beethovens-ninth-always-comes-first>
+. It is vast, complicated and instantly recognised by people around the world. 
+It's Europe's unofficial anthem, heralds the close of the year in Japan, and 
+memorably celebrated the fall of the Berlin Wall. But what do most people 
+actuallyknow about it?
+
+Sure, it was written by Beethoven, it has four movements and features a huge 
+chorus and soloists singing in German. But what is the meaning of B9? When and 
+how did Beethoven compose it? Why has it earned a special place in so many 
+cultures? The reason we wanted to makean app about Beethoven's 9th Symphony 
+<http://www.touchpress.com/titles/beethovens9thsymphonyiphone/> was to explore 
+all of this in depth and hopefully to create something entertaining at the same 
+time.
+
+To proceed we needed several things. A crack team of app designers and 
+engineers are a given, but we also needed a musical partner – an organisation 
+rooted in the world of popular music, able to help negotiate the complex rights 
+around musical performances. We knew we wanted to compare multiple alternative 
+performances of the symphony, and the record companyDeutsche Grammophon 
+<http://www.deutschegrammophon.com/gb/> was superbly placed to provide the very 
+best of these. Their team also helped us to interview an array of interesting 
+people to talk about Beethoven and his work in the insights section of the app.
+
+Then we needed an author who could explain and comment on the work. We invited 
+the acclaimed teacher, composer and broadcaster David Owen Norris, who did a 
+great job of writing not only an integrated book but also a synchronised 
+blow-by-blow commentary that you can read as the symphony plays. David has a 
+wry sense of humour that shines through his intelligent text.
+
+The B9 app is enormously complicated with numerous moving parts. Probably the 
+most challenging aspect was perfectly synchronising the four legendary 
+performances. This sounds simple until you realise that each one is a different 
+duration, and the four conductors unpredictably speed up and slow down in each 
+section.
+
+In the app you can seamlessly and note-perfectly switch between performances, 
+anywhere in the symphony. To achieve this we needed to write some cunning 
+software and to painstakingly map the exact timing of every note in each 
+performance. A time-consuming task, but the end result is enormously satisfying.
+ Beethoven's 9th Symphony app screen Photograph: Touch Press 
+
+We also devised a visual map of the key changes throughout the work. We tried 
+very (very) hard with some amazing permutations, but none of them worked and 
+that particular piece of design never made it into the shipping app. Instead we 
+simply indicate the current key as a changing strip of colours along the top of 
+the scrolling score.
+
+When the app was almost ready, the marketing department suddenly suggested 
+that we should give it away for free. This rather flew in the face of its 
+six-figure budget. But with Apple's encouragement, we agreed to experiment with 
+the first Touch Pressfreemium app 
+<https://itunes.apple.com/gb/app/beethovens-9th-symphony-for/id599986207?mt=8>. 
+You get two minutes of the symphony with all four performances free of charge, 
+so you can try out all of the features before we ask you to part with £9.99 as 
+an in-app-purchase to complete the work.
+
+Into the bargain you also receive David Owen Norris' book, his expert analysis 
+and video interviews with a wonderful cast of characters ranging from the rock 
+journalist Paul Morley to the great maestro Leonard Bernstein, speaking from 
+beyond the grave.
+
+The app has now been downloaded an astonishing 680,000 times. For any piece of 
+classical music to be downloaded that many times is remarkable. Of course, not 
+everyone went on to unlock the full symphony – but plenty have. There is no 
+doubt we have reached a wider and different audience than if we had charged our 
+standard £9.99 up-front.
+
+Will apps like Beethoven's 9th Symphony bring a new audience to classical 
+music? I certainly hope so. We've heard from many teachers who use the app to 
+enliven their music classes, and we receive numerous emails from users who feel 
+that this way of experiencing classical music is nothing short of revolutionary.
+
+We're often asked: why only iOS? These are challenging apps and we are 
+determined to offer an exceptional experience to our audience. These premium 
+apps demand a lot of memory, graphics processing and audio capability. The iPad 
+is really the only platform available today where we have sufficient oomph in a 
+stable operating system environment, combined with a high-quality delivery 
+channel in the iTunes App Store. Right now Android is a fragmented environment 
+in terms of both hardware and software, although watch this space as the tablet 
+universe is evolving fast.
+
+Max Whitby is co-founder and CEO of Touch Press <http://www.touchpress.com/> – 
+follow Max on Twitter@touchpress <https://twitter.com/touchpress>
+
+This content is brought to you by Guardian Professional 
+<http://theguardian.com/guardian-professional>. To get more articles like this 
+direct to your inbox, sign up free to become amember of the Culture 
+Professionals Network <https://register.theguardian.com/culture-professionals/>.
+ 

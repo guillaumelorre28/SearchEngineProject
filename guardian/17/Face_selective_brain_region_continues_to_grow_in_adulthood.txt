@@ -1,0 +1,115 @@
+
+Faces are important to us. From the moment we are are born, we prefer to look 
+at faces than at other, inanimate objects, and, being social animals, we 
+encounter faces every day of our lives. The face is the first thing we look to 
+when identifying other people; faces also convey emotions, informing us of 
+peoples’ mood, and from them we can usually determine a person’s sex and, 
+sometimes, roughly how old they are.Eye movements 
+<https://www.theguardian.com/science/neurophilosophy/2015/jun/02/how-your-eyes-betray-your-thoughts>
+ can also reveal to us something about another person’s intentions.
+
+How your eyes betray your thoughts
+ Read more  
+<https://www.theguardian.com/science/neurophilosophy/2015/jun/02/how-your-eyes-betray-your-thoughts>
+Faces are so important for human social interactions that our brains contain a 
+region that is specialised for processing them. This region,the fusiform face 
+area <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1857737/>, lies on the lower 
+surface of the temporal lobe, and is thought to beunique to humans and other 
+primates <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3619156/>. Our childhood 
+ability to recognize faces improves as we get older, in line with development 
+of this region, but we still know very little about how the emergence of such 
+abilities is linked to anatomical changes.
+
+A surprising new study by researchers at Stanford University 
+<http://vpnl.stanford.edu/index.html> now shows that the size of this 
+face-selective brain continues to increase well into the second decade of life. 
+The findings, published in the latest issue of the journalScience, challenge 
+our assumptions about the patterns of brain development in adolescence.
+
+Jesse Gomez and his colleagues recruited 22 children and 25 adults, and 
+scanned their brains using two different techniques – functional magnetic 
+resonance imaging (fMRI), which measures brain activity indirectly by detecting 
+changes in cerebral blood flow, andquantitative MRI 
+<https://vistalab.stanford.edu/research/quantitative-mri-of-tissue-properties-in-the-human-brain/>
+ (qMRI), a newly developed method that gives precise measurements of both the 
+structure and composition of human brain tissue. The researchers focused on the 
+fusiform gyrus in underside of the temporal lobe, which contains not only the 
+FFA, but also, immediately adjacent to it, another region that is selective for 
+scenes and places.
+
+The researchers first identified both regions in the fMRI scans, confirming 
+that one is activated only in response to images of faces, and the other only 
+in response to images of places. Next, they used qMRI to produce detailed maps 
+of both brain regions in all the participants. This revealed that the size of 
+the fusiform face area increased with age – it was larger in the adult 
+participants than in the children, and the older the individual, the larger it 
+was. By contrast, no such difference was seen in the adjacent place-selective 
+region, whose size remained stable in all the adults.
+
+Gomez and his colleagues also tested the participants’ face and place 
+recognition memory, and found that their ability to recognise faces was closely 
+related to the size of their FFA – the bigger their FFA, the better the memory 
+for faces. Their ability to remember places, on the other hand, was not at all 
+related to FFA size. This suggests that the FFA continues to grow into 
+adulthood, and that this growth is tightly linked to an improved face 
+recognition abilities.
+
+To confirm their anatomical findings, and try to establish how these size 
+differences might occur, the researchers examined post-mortem brain tissue 
+obtained from 10 adults. Sure enough, they found that the size of the FFA 
+increased with age. Their analyses also suggested that these age-dependent size 
+increases are likely due to a number of factors, especially the branching of 
+dendrites, the growth of new dendritic spines, and the formation ofmyelin 
+<https://www.theguardian.com/science/neurophilosophy/2014/apr/24/white-matter-synaptic-plasticity>
+, a fatty substance that envelops nerve fibres to insulate them and hasten 
+their conductance of impulses.
+
+Live imaging of synapse density in the human brain
+ Read more  
+<https://www.theguardian.com/science/neurophilosophy/2016/aug/10/live-imaging-of-synapse-density-in-the-human-brain>
+Until recently, it was believed that brain development ended at around 16 
+years of age. Although the brain has reached its full size by then, we now know 
+that parts of it continue to mature until at least, and perhaps beyond 25 years 
+of age. Most notably, the prefrontal cortex undergoes an extended period of 
+maturation, during which huge numbers of synaptic connections are eliminated. 
+This synaptic ‘pruning 
+<https://www.theguardian.com/science/neurophilosophy/2011/aug/19/neuroscience-microglia-synapses>
+’ refines the prefrontal neural circuitry, making it more efficient at 
+performing executive functions such as planning and decision-making.
+
+The new findings seem to show that the FFA continues to grow into early 
+adulthood, and therefore challenge the view that later stages of brain 
+development are characterised by volume reductions caused by synaptic pruning. 
+The findings are, however, somewhat limited by the small number of 
+participants, and also by the fact that the oldest participants were just 28 
+years of age. It is at around this age that brain development is thought to 
+end, and so we cannot say conclusively that the FFA continues to grow in 
+adulthood until the findings are replicated in people of a much broader age 
+range.
+
+The findings nevertheless seem to provide yet another example of 
+experience-dependent neuroplasticity, the process by which the things we do 
+alter brain structure and function. Childhood, adolescence, and early adulthood 
+are periods of life in which most of us expand our various social circles. The 
+size of the FFA may therefore increase relative to the number of new faces we 
+see and remember, and so it would also be interesting to whether its size does 
+actually differ according to the number of friends we have.
+
+Reference
+
+Gomez, J., et al. (2017). Microstructural proliferation in human cortex is 
+coupled with the development of face processing.Science, 355: 68-71.
+
+Mo Costandi <https://neurophilosophy.wordpress.com/> trained as a 
+developmental neurobiologist and now works as a freelance science writer. His 
+work has appeared inNature 
+<http://www.nature.com/search?exclude-collections=journals_palgrave%2Clab_animal&include-collections=journals_nature%2Ccrawled_content&journal=nature%2Cnews%2Cnnewsb&order=date_desc&q=costandi>
+,Science 
+<https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=site%3Ahttps%3A%2F%2Fwww.sciencemag.org%2Fnews%20costandi>
+, andNew Scientist <https://www.newscientist.com/search/?q=costandi>, among 
+other publications. He is also the author ofNeuroplasticity 
+<https://bookshop.theguardian.com/neuroplasticity.html> (MIT Press, 2016) and 
+50 Human Brain Ideas You Really Need to Know 
+<https://bookshop.theguardian.com/50-human-brain-ideas-you-really-need-to-know.html>
+ (Quercus, 2013).
+ 

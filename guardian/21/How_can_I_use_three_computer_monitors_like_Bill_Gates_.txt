@@ -1,0 +1,150 @@
+
+Multi-monitor computing is an idea that has been challenging me for some time 
+– that and a spaghetti junction of wires.
+
+I have super-powerful Alienware laptop but there is only one HDMI port, and it 
+doesn’t like running HDMI and anything else simultaneously.
+
+I am wondering if I should build a PC that will have video cards and ports to 
+support three screens and have a separate, dedicated travel laptop. What do you 
+think?
+
+I am considering an office set up like Bill Gates had in 2006 
+<http://money.cnn.com/2006/03/30/news/newsmakers/gates_howiwork_fortune/>. I 
+believe this will greatly improve my efficiency.Cameron
+
+I am strongly in favour of having separate desktop and laptop PCs, though it’s 
+perfectly possible to use a laptop or tablet to do both jobs. For example, you 
+can use something like a Microsoft Surface Pro as a desktop PC, if you set it 
+up with a docking station, an external keyboard and mouse, and two or three 
+separate monitors.Brett Gilbertson <https://www.youtube.com/watch?v=iY2gfrGncQ0>
+ provides an example.
+
+Desktop tower systems have some advantages, however Towers can use faster, 
+hotter, cheaper processors, and performance won’t be throttled to prevent 
+overheating, as it is in ultra-thin laptops. Tower systems are easier to repair 
+and/or upgrade: you can add more memory, a faster graphics card, bigger hard 
+drives and screens, and so on.
+
+And as I’ve said before 
+<https://www.theguardian.com/technology/askjack/2013/jun/20/using-laptops-tablets-physical-pains>
+, desktop PCs have much better ergonomics than laptops, so they are better for 
+your long-term health.
+
+You can ameliorate the ergonomic problems by using docks and external 
+peripherals, as mentioned above. However, it’s usually cheaper to buy both a 
+fast desktop PC and a usable ultraportable than to buy a fast ultraportable 
+plus the dock and other peripherals.
+
+Of course, it really depends on the kind of computing you do, and where you do 
+it. If you spend most of your time at your desk, and if you do 
+processor-intensive tasks such as video editing, then you should spend as much 
+as you can on a desktop and buy a low-end laptop or 2-in-1 for word processing, 
+web browsing and email on the move. If you spend most of your time away from 
+your desk, then you may want to spend more of your budget on a better laptop.
+
+Multiple monitors
+
+People are usually more productive 
+<https://www.theguardian.com/technology/2006/apr/13/billgates.microsoft> if 
+they have more screen area available, and many people prefer to have two or – 
+like Bill Gates – three monitors. You can work on the centre screen, use a 
+second screen for background research, and keep the third screen for things 
+that update continuously, such as email and messaging services. Some gamers 
+like to have three screens that function as a single widescreen, to provide a 
+semi-surround effect. This works well with flight simulators and racing games, 
+for example.
+
+One of the problems with multi-monitor set-ups is that almost everyone seems 
+to have a different system. Some people just use different ports to support 
+different screens – HDMI, DVI, DisplayPort, VGA, USB etc. Some people buy 
+graphics cards that support two or more monitors. Some (mostly gamers) buy or 
+build PCs that have more than one graphics card. Some buy integrated 
+three-screen monitors like theZenview Trio 
+<http://www.digitaltigers.com/zenview-three-screen-lcd-monitors-standard.asp> 
+from Digital Tigers.
+
+Today, however, I suspect the simplest idea is to attach a USB 3.0 docking 
+station to a laptop or, less commonly, a desktop PC. You drive the main 
+external display from the HDMI port in the usual way, then use the USB 3.0 hub 
+to drive two extra screens. This is the approach I described last year inHow 
+can I add two external monitors to my laptop? 
+<https://www.theguardian.com/technology/2015/may/07/how-can-i-add-two-external-monitors-to-my-laptop>
+
+This works well for normal office and productivity software, which uses 2D 
+graphics. It’s not suitable for 3D graphics purposes, such as gaming. Any 
+modern PC or graphics card should be able to handle multiple screens showing 
+documents, spreadsheets, browser windows and so on. Fast-action 3D graphics 
+with lighting and texture effects are a different matter. With some games, just 
+handling one screen can be a problem.
+
+Pick a card
+
+If you need a gaming rig, you should look elsewhere for advice: I don’t know 
+enough about the topic. Once you have a rough idea of what you want, you can 
+post your proposed build atPC Part Picker <https://uk.pcpartpicker.com/> and 
+ask for advice.
+
+However, for multiscreen gaming, you will need a powerful graphics card with 
+3GB or preferably 4GB of memory, such as a GeForce GTX 960 or GTX 970. Both of 
+these cards have three DisplayPorts, as well as HDMI and DVI ports. All modern 
+monitors have DisplayPort connections, and that’s the one to use if you have a 
+choice.
+
+Note that you have to be careful when choosing multi-port graphics cards. A 
+card that offers five ports for convenience may only support two monitors. If 
+you plug in a third, it will come up with a blank screen, or a duplicate of one 
+of the first two screens. However, some cards can support three screens – such 
+as theEVGA GeForce GT 740 
+<http://www.evga.com/Products/Product.aspx?pn=04G-P4-2744-KR> – and some can 
+support four, such as the GeForce GTX 960 and GTX 970.
+
+The GeForce website has a configuration tool 
+<http://www.geforce.com/hardware/technology/surround/system-requirements>. If 
+you select your GPU, it will tell you the maximum number of displays, the 
+resolutions supported, and the connector diagrams.
+
+Eliminating wires
+
+It’s a standard feature of desktop PCs that they end up with “a spaghetti 
+junction of wires”. There may be cables to connect the mouse, keyboard, one or 
+more screens, loudspeakers, an internet router, and one or more external hard 
+drives. Most devices need a power cable as well. Fortunately, most wiring is 
+usually out of sight, except when you’re under your desk.
+
+There’s really not much you can do, beyond using wireless connections for the 
+keyboard, mouse and printer.
+
+There are lots of systems that provide wireless connections to monitors, 
+including Intel’sWiDi <https://en.wikipedia.org/wiki/WiDi>, which was launched 
+a decade ago and has never really taken off. The Wi-Fi Alliance – which 
+standardised IEEE 802.11 as Wi-Fi – has done a similar job with wireless 
+screens, and itsMiracast <https://en.wikipedia.org/wiki/Miracast> system is 
+widely supported (except by Apple).
+
+There are now about 5,000 certified Miracast products 
+<http://www.wi-fi.org/product-finder-results?capabilities=2>, but the bulk of 
+them are smartphones (1,066) or televisions and set-top boxes (3,438). In other 
+words, you can probably use a smartphone to display content on a TV set, but 
+it’s not a very attractive solution for driving high-resolution PC monitors. 
+You’d probably have to buy an adapter for each screen, and there are latency 
+and connection issues.
+
+You might be able to save a cable by using products that match the DisplayPort 
+1.2 <http://en.wikipedia.org/wiki/DisplayPort#1.2> (or later) specification, 
+which allows you to daisy-chain screens. Unfortunately, this would greatly 
+restrict your choice of monitors. You’d need to buy ones with two DisplayPort 
+1.2-compatible connectors, one in and one out. It would be simpler to use a
+DisplayPort hub 
+<http://www.amazon.co.uk/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=displayport+hub>
+ to support three monitors, but you might as well buy a more flexibleUSB 3.0 
+docking station 
+<http://www.amazon.co.uk/Plugable-UD-3900-Universal-Docking-Ethernet/dp/B00GQ3685Q/>
+ instead.
+
+You’d probably be better off using sheaths, sleeves or other cable tidying 
+systems to combine two or more thin wires into one fat cable. These work until 
+you start to change or rearrange things ...
+
+Have you got a question? Email it to Ask.Jack@theguardian.com
+ 

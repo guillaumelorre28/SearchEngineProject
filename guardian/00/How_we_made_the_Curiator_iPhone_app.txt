@@ -1,0 +1,88 @@
+
+Built for art enthusiasts and professionals, Curiator <http://curiator.com/> 
+is an online community where you can store your favourite works and discover 
+new art through other people. Unlike most other art platforms it's a place not 
+to buy, but to enjoy art. It's a bit like a museum – a huge, digital, 
+user-generated one. This museum, however, was in urgent need of a mobile app.
+
+If you've been to an art fair, you will have seen people take a photo of an 
+artwork and then one of the label to remember the artist. Then their photos 
+disappear in the catacombs of iPhoto, never to be looked at again.
+
+We decided that we wanted our app to take care of that, not just by storing 
+the artwork in your digital art collection so you can find it again later, but 
+by actually reading and analysing the label using optical character recognition 
+(OCR) technology, so it could then extract the artist's name and artwork title. 
+We knew it would be a tool that every art fair hopper was waiting for.
+
+There were, however, two initial steps to overcome in our masterplan to 
+transform how people consume art on and offline: a four-month timeline and a 
+practically nonexistent budget.
+
+We got quotes from a few app-developing friends, but we were looking at 
+numbers for which one can buy a nice Mercedes – one with bullet proof glass, 
+seats made of baby whale leather and a 24-carat gold exhaust pipe. Luckily, 
+there was Marc, our friend who runsDu Da Group <http://www.dudagroup.com/>, a 
+boutique app development agency in Zurich. Marc had been on Curiator from the 
+early days and he got what we were doing, and what could be in it for him. Marc 
+was our man.
+
+There were quite a few hiccups on the long road to the App Store. One of them 
+being that there were too many boobs in our app – it's art, things can get 
+graphic – so we had to build a censorship cloak and a way for users to flag 
+explicit content. The App Store also told us to ban the users who had uploaded 
+the inappropriate content which, for obvious reasons, we never did.
+
+Less than two weeks before our launch event, the first, simple version of the 
+app was approved, but it was missing the most crucial part: a way to add art. 
+During the time that Du Da Group had been fighting the App Store lords, we had 
+been developing and testing the OCR part on our side.
+
+We used Tesseract <http://code.google.com/p/tesseract-ocr/>, an open source 
+software library maintained by Google to take care of the text recognition. 
+It's quite straightforward to implement but OCR is slow. There was no way we 
+were going to get this information back instantaneously, so we had to design a 
+queue where a user's uploads would be waiting for his or her approval after 
+they had been processed in the background.
+
+All of this would be communicated to the app using a custom built API. The 
+user experience was quite complex, but we managed to boil it down into an 
+intuitive and easy interface.
+
+Our event was getting dangerously close. The plan was to give a live demo of 
+the OCR functionality. The press, people from the New York art scene and our 
+friends were going to be there. The different parts eventually fell in place 
+four days before the event. As if by magic, it somehow worked out, but despite 
+our request for an "expedite approval" we failed to get in the App Store in 
+time.
+
+Luckily we had our development version ready to go, so at least we were able 
+to do our live demo. There were a few hundred people watching the big screen 
+when we, completely unrehearsed, took a photo of the label and waited for the 
+servers to respond. A few long seconds of suspense later, applause. It was a 
+miracle … or great engineering.
+
+App facts
+
+Length of the project: Three months' development, one week of design
+Companies involved: Readymade Inc, aka Curiator, design and direction; Du Da 
+Group, development
+Size of the team: One full-time iOS engineer, one part-time back-end engineer, 
+one part-time designer
+
+More App stories
+
+• How we made Performr, the art cruising app 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/apr/18/performr-art-cruising-app-grindr-tinder>
+• How we made Radiohead's PolyFauna app 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/mar/07/how-we-made-radiohead-polyfauna-app>
+• How we made the 1984 Digital Double mobile app 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2013/sep/20/1984-digital-double-mobile-app-theatre>
+
+Tobias Boonstoppel and Moenen Erbuer are founders of Curiator 
+<http://curiator.com/> – download the app here <http://curiator.com/app>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+ 

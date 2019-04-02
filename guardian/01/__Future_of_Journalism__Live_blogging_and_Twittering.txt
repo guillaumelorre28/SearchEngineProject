@@ -1,0 +1,181 @@
+
+Next up on the Future of Journalism 
+<http://blogs.theguardian.com/digitalcontent/2008/06/_future_of_journalism_the_sche.html>
+schedule: the phenomenon of live blogging, Twitter and the swathe of new cheap, 
+easy and accessible live news tools.
+
+Guardian.co.uk started live coverage with the 2002 football World Cup, said 
+sport editor Sean Ingle, and the format is now one of the most popular on the 
+site. Theminute-by-minute football reports 
+<https://www.theguardian.com/football/2008/apr/16/minutebyminute.sport> and 
+over-by-over cricket 
+<https://www.theguardian.com/sport/2008/jun/08/englandvnewzealand2008.englandcricketteam2>
+ are still the most popular, but the team has also covered motor racing, 
+tennis, golf,horse racing 
+<http://blogs.theguardian.com/sport/2008/04/04/talking_horses_134.html> and 
+even snooker. A busy live post can generate more traffic than anything else on 
+the site.
+
+
+Anna Pickard, Dave Hill, Andy Carvin 
+<https://www.theguardian.com/media/andy-carvin>, chair Katharine Viner, Rachel 
+Sterne. Photo Anna Gordon/Guardian
+
+"A good live blog has all the information as well as being quick, but it is 
+also trying to entertain - it needs to be funny and quirky. It's like a really 
+intelligent pub chat - it might occasionally turn into a bar room brawl but it 
+allows our journalists to get down and dirty with the public in a way they 
+couldn't before."
+
+Wouldn't sport addicts get their fix more easily through a live radio show? 
+No, said Ingle, because it's about having plenty of voices. The sports team 
+moderate comments to post on the live reports (which aren't technically on a 
+blog system) , but sometimes have 700-800 emails in one day and pick the best 
+of those.
+
+'People have an innate need to join in'
+
+Over on the live TV blogs for shows like The Apprentice 
+<http://blogs.theguardian.com/organgrinder/2008/06/the_apprentice_series_four_epi_10.html>
+ andBig Brother 
+<http://blogs.theguardian.com/organgrinder/2008/06/live_blog_big_brother_launch_n.html>
+, Anna Pickard welcomes free-for-all comments. "The exciting bit is that a 
+community builds around the event, and what started as a small group of people 
+who would say 'I saw that', now works as a standalone review of a show."
+
+"I think conversation is the best thing about the internet, and live blogs 
+introduce this idea of simultaneous conversation. People have an innate need to 
+join in. And anyway - I'm one of those people who can't just sit in front of a 
+TV because I'll always have my laptop open checking the football scores with 19 
+tabs open at once."
+
+NPR: Head first with new technology
+
+Andy Carvin, the former Rocketboom <http://www.rocketboom.com/vlog/>er and now 
+senior product manager forNPR <http://www.npr.org/>'s communities, is a 
+textbook early adopter who is applying his expertise and personal interest in 
+new technology to NPR's shows.
+
+The strategy for NPR is "to dive in head first," said Carvin. Recent projects 
+have includedGet My Vote <http://www.npr.org/getmyvote/>, where members of the 
+public could upload videos detailing their concerns and interests in the US 
+elections to the candidates.
+
+The daily Talk of the Nation 
+<http://www.npr.org/templates/rundowns/rundown.php?prgId=5> call-in show can 
+only accommodate so many callers, but the show's blog fields between 70-100 
+comments with each shows and producers feed these back in to the discussion.
+
+
+Andy Carvin. Photo Anna Gordon/Guardian
+
+And when Carvin was about to miss a deskside performance by the folk musician 
+Vic Chestnutt <http://www.npr.org/getmyvote/>, he persuaded a colleague to 
+switch on a laptop's webcam andstreamed live 
+<http://www.andycarvin.com/archives/2008/05/vic_chesnutt_live_at_npr.html> 
+using the broadcast tool Mogulus. There were just over 70 viewers, but Carvin 
+said that wasn't bad for a broadcast that didn't exist 10 minutes earlier. "It 
+wasn't good quality, but then the professional recordings we were doing there 
+would take a week to finish."
+
+"Community has always been part of the internet, from Usenet discussion boards 
+in the early eighties to the thriving online communities we have now. It's just 
+that the technology has got ridiculously simple."
+
+Twitter is a conversation in your pocket
+
+Carvin is a big fan <http://twitter.com/acarvin> of Twitter 
+<http://www.twitter.com>, the micro-blogging/messaging service. He said NPR 
+never exactly had a strategy for this, but as a personal user he could se the 
+benefits and now NPR Politics uses its account to call for ideas for topics and 
+guests, and also blogged the primary election process.
+
+Carvin has 2,300 followers and is on first-name terms with about 500 of those. 
+He says it is not so much 'micro-blogging', as it has been described, but 'a 
+conversation in your pocket'. "Twitter is like the quintessential American 
+diner. The first time you show up, people are minding their own business, and 
+when you come back for breakfast you might start talking to the waitress until 
+eventually it becomes your family. And if you don't show up, people get 
+worried."
+
+It occurred to me that Twitter is often included in discussion about the 
+changing news process, and there have been many discussions online about how to 
+use Twitter as a reporting tool. But whileTwitter 
+<https://www.theguardian.com/technology/twitter> has huge potential for 
+publishers, it is, at its core, a communication tool. It's like round looking 
+at a phone, trying to plan some editorial that uses the phone - when actually 
+the thing to do is just to use it to talk to people.
+
+Twitter has left its back door open for developers, which means there are a 
+host of interesting third-party tools likeTweetscan 
+<http://tweetscan.com/alerts.php>, for example, which allows you to watch for 
+particular keywords. It was well covered that Twitter users have picked up on 
+several earthquakes before the mainstream media and theUS Geographical Survey 
+<http://www.usgs.gov/>, but if we see Twitter primarily as a communication 
+rather than a publishing tool that isn't so surprising.
+
+When techie veteran Dave Winer tweeted about what felt like an explosion, 
+Twitter acted like a system of checks and balances and the community quickly 
+worked out that rather than a terrorist attack, Washington had experienced a 
+rare seismic tremor. That all happened before the USGS had noted it, said 
+Carvin.
+
+Audiences can detect authenticity
+
+Rachel Sterne founded the citizen journalism site Ground Report 
+<http://www.groundreport.com/> when she left university. The site has run 
+stories onfood prices in the Philippines 
+<http://www.groundreport.com/World/Southeast-Asia-Coping-with-the-Rice-and-Food-Crisi>
+,Taleban activity in Pakistan 
+<http://www.groundreport.com/Arts_and_Culture/Taliban-militants-on-the-prowl-near-Peshawar>
+ not reported in the mainstream press and photos afterCyclone Nargis hit Myanmar
+ <http://www.groundreport.com/World/Myanmar-The-perfect-storm>. Making news 
+available on mobiles, rather than focusing on desktop PCs, is far more 
+important for those communities, said Sterne.
+
+Her take on Twitter is that it is what RSS should have been, by tailoring and 
+filtering information to you according to your network. It also brings back the 
+element of serendipity.
+
+Ground Report appeals for stories but edits and verifies pieces when they come 
+in; a bigger problem that authenticity is copyright infringement and people 
+submitting poems, she said. But the community does a lot to police itself: 
+"There's an obsessiveness among that community - they can detect authenticity." 
+She said Hillary Clinton's campaign had been undermined by a 'home-made' viral 
+video that turned out to be fake. "That had the opposite effect of antagonising 
+hundreds of thousands of people."
+
+Dave Hill: Twitter is demystifying journalism
+
+Guardian old-timer Dave Hill 
+<http://commentisfree.theguardian.com/dave_hill/profile.html> is a newbie when 
+it comes to Twitter <http://twitter.com/davehill>, but no less enthusiastic. He 
+has recently live blogged and Twittered hustings for the London Mayoral 
+election. "They provided me with a laptop and a phone and this thing called 
+'bluetooth'... I normally like to rewrite things ten times before I file, and I 
+thought it impossible that anyone would find any of this coherent and accurate."
+
+"But it's beginning to become clear what the beauty of these forms of 
+communication are; the immediacy of reporting by the seat of your pants, of 
+making it up as you go along. It's frightening to do, but if you can make it 
+feel live I can see why it's a joy to read."
+
+
+Dave Hill. Photo Anna Gordon/Guardian
+
+Twitter, he says, is more mischievous. Hill managed to Tweet that he had eaten 
+one of Jackie Ashley's sandwiches 
+<http://twitter.com/DaveHill/statuses/802058792>, and that went down rather 
+well. "It's a slight subversion of what's going on in journalism. In the old 
+days, the political commentators had gravitas and wisdom - this is demystifying 
+all that."
+
+"It's a different way of seeing things and requires different things of you. 
+You ca express things in a different way, with greater brevity, economy or 
+humour - and there are infinite ways of covering the same event."
+
+• The Future of Journalism series is an internal Guardian conference. Full 
+coverage , and video highlights, will be added to the schedule page 
+<http://blogs.theguardian.com/digitalcontent/2008/06/_future_of_journalism_the_sche.html>
+as it is published.
+ 

@@ -1,0 +1,72 @@
+
+Periscope, Twitter’s live video streaming service, is experimenting with using 
+a “flash jury” of users to decide whether abusive commenters deserve to be 
+blocked from the site.
+
+The feature is one of the more inventive ways to tackle abusive comments, a 
+problem which is particularly hard to manage on a platform where all comments 
+are overlaid on a live broadcast and sometimes even over the face of the 
+broadcaster.
+
+The feature allows viewers to report comments as abuse or spam while the live 
+broadcast is under way. A randomly selected small jury of viewers is then asked 
+to vote on whether: they agree the comment was abuse or spam; it looks OK; or 
+they are not sure.
+
+If the majority vote the comment down, the offender can’t post another comment 
+for one minute. If the offender posts a second abusive comment, they are 
+blocked from the broadcast. Comments can also be reported under the 
+deliberately vague “other reason” flag, which is expected to be used to report 
+comments in other languages; broadcasters often find these irritating, yet they 
+aren’t abusive or spammy.
+
+The feature has been in development for six months with a small test group. 
+Aaron Wasserman, Periscope’s senior engineer, said the aim was to deal with 
+abusive comments on the site but without adding to the burden of the 
+broadcaster by making them flag up abusive comments. Wassermann said it is 
+significant that the random jury will be made up of people who have watched the 
+full broadcast, so they can judge the comment against the overall context and 
+tone of the piece.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmay%2F31%2Fperiscope-abusive-live-comments-vote-viewers-jury-flash%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F551280bec7550df7327da3889a4b0467b8179cbc%2F322_458_2464_974%2F2464.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Periscope%20abusive%20live%20comments%20to%20be%20voted%20in%20or%20out%20by%20viewers&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmay%2F31%2Fperiscope-abusive-live-comments-vote-viewers-jury-flash%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Periscope%20abusive%20live%20comments%20to%20be%20voted%20in%20or%20out%20by%20viewers&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmay%2F31%2Fperiscope-abusive-live-comments-vote-viewers-jury-flash%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F551280bec7550df7327da3889a4b0467b8179cbc%2F322_458_2464_974%2F2464.jpg>
+ ‘Abuse, Looks OK or Not Sure’: the system is designed to take pressure off 
+broadcasters, who find it hard to moderate comments while running a live stream.
+“The thing that makes that makes [Periscope] so beautiful is it’s an intimate 
+experience, but we realised that with that intimacy came the potential for 
+abuse in a pretty significant way … comments are ephemeral …,” he said.” These 
+comments are gone almost as quickly as they appear and the damage is done as 
+quickly.” Wasserman added that the company had tried several moderation methods 
+in the past year, including allowing broadcasters to block people or to 
+restrict audiences to their own followers only – both of which put 
+responsibility on the broadcaster.
+
+Facebook to rival Periscope with new live video feature
+ Read more  
+<https://www.theguardian.com/technology/2016/jan/28/facebook-live-video-rival-periscope>
+Sarah Haider, head of client engineering at Periscope, said some common 
+moderation techniques involved blacklisting certain words, but that that method 
+was too crude and could not take the context of the conversation into account. 
+“One comment in one broadcast could be OK in another context – it’s really 
+difficult for a machine to understand that,” she said. “No one here is 
+comfortable making Periscope the judge.”
+
+Wasserman added that the team would collect and analyse the results in 
+aggregate to understand the behaviours and triggers of abuse comments, and how 
+to improve reporting.
+
+“We’re not going to solve internet abuse – there is no silver bullet – but my 
+hope is that this will help,” he said. Twitter would be watching the new 
+feature closely, he added, but the method was unlikely to be directly useful for
+Twitter <https://www.theguardian.com/technology/twitter>, whose archived, 
+published tweets work present a very different challenge to Periscope’s 
+real-time, ephemeral comments.
+
+Periscope does not release user numbers but said 200m live broadcasts were 
+created inits first year 
+<https://www.theguardian.com/technology/2015/may/26/periscope-launches-android-app>
+, to March 2016.
+ 

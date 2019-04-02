@@ -1,0 +1,177 @@
+
+Looking at the annual results of Alphabet, you could be forgiven for thinking 
+thatlast year’s reorganisation 
+<https://www.theguardian.com/technology/2015/aug/10/google-alphabet-parent-company>
+ of the world’s most valuable company was all for nothing.
+
+Google, which is a subsidiary of Alphabet, dominated financially 
+<https://www.theguardian.com/technology/2016/feb/02/google-overtakes-apple-as-worlds-most-valuable-listed-company>
+. The segment, which includes most of the best-known Google products such as 
+its search engine, maps, Gmail, YouTube and Android, made up $74.5bn of the 
+company’s $75bn (£52bn) annual revenue.
+
+Google overtakes Apple as world's most valuable listed company
+ Read more  
+<https://www.theguardian.com/technology/2016/feb/02/google-overtakes-apple-as-worlds-most-valuable-listed-company>
+By contrast, every other subsidiary of Alphabet 
+<https://www.theguardian.com/technology/alphabet> was reported in the results 
+as “other bets”, with a total income of $448m – and an overall annual loss of 
+$3bn.
+
+But just because the projects do not bring in much money, it does not mean 
+they have no effect on the company’s performance. If anything, it is the 
+opposite: Alphabet is now the largest company in the world not because of the 
+money it makes today, which pales in comparison to the former reigning champing 
+Apple, but because of the money it could make tomorrow, the day after, or in 50 
+years.
+
+Buried among the “other bets” are Alphabet’s secret weapons: X projects 
+<https://www.solveforx.com/> - “moonshot” investments that could change the 
+world.
+
+Immortality
+
+The world of medicine could be changed forever if one of Google’s bets pays 
+off.Calico <http://www.calicolabs.com/>, which stands for California Life 
+Company, wants to“cure” ageing 
+<https://www.theguardian.com/science/2015/aug/04/can-we-reverse-ageing-process-young-blood-older-people>
+.
+
+It sounds like a fool’s errand, but it only takes a small tweak in mindset to 
+see why some might view it as a fight worth having: ageing is the single 
+biggest cause of death and disability in the world, and yet, unlike every 
+single other cause, it is viewed as inevitable.
+
+A world where Calico succeeds in its goal of identifying and treating the 
+underlying causes of ageing would represent the single greatest leap in 
+healthcare since the discovery of antibiotics in the early 20th century. 
+Critics point out that it would also remove one of the major factors keeping 
+humanity from a crisis of overpopulation. But would you commit yourself to 
+ageing and death if you could avoid it? And if not, how can you ask others to 
+do so?
+
+Of course, one other thing would happen if Calico’s gamble pays off: 
+Alphabet’s profits from the medical industry would make its technology business 
+look like small change.
+
+Super spoons and smart eyes
+
+These days, when we think of medicine, our minds turn to pills and syringes, 
+in hospitals and doctors surgeries. But one Alphabet subsidiary,Verily 
+<https://verily.com/>, is taking a gamble that the future of medicine looks a 
+lot like the future of tech.
+
+Taking the trend of connected medical devices such as fitness trackers 
+<https://www.theguardian.com/technology/2016/jan/22/microsoft-band-2-review-most-powerful-useful-fitness-trackers>
+ and implantable blood-sugar monitors to their logical conclusion, the 
+prototypes developed by the company are gadgets that could change people’s 
+lives for the better.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F05%2Fx-projects-alphabet-moonshot-ventures-change-world-robots%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F7794c7f6c5641f4f025bd6f24add289dd351b1f4%2F0_142_2200_1320%2F2200.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=X%20projects%3A%20Alphabet's%20'moonshot'%20ventures%20that%20could%20change%20the%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F05%2Fx-projects-alphabet-moonshot-ventures-change-world-robots%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=X%20projects%3A%20Alphabet%27s%20%27moonshot%27%20ventures%20that%20could%20change%20the%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F05%2Fx-projects-alphabet-moonshot-ventures-change-world-robots%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F7794c7f6c5641f4f025bd6f24add289dd351b1f4%2F0_142_2200_1320%2F2200.jpg>
+ The smart contact lens. Photograph: Google/Rex 
+The company hit headlines in 2014 for revealing a smart contact lens 
+<https://www.theguardian.com/technology/2014/jan/17/google-tests-smart-contact-lens-diabetics>
+, which aims to measure glucose levels in tears, permanently removing the need 
+for invasive blood tests for diabetics. A few months later, it revealed asmart 
+spoon 
+<https://www.theguardian.com/technology/2014/nov/25/google-launches-smart-spoon-shaking-hands-liftware>
+: stabilised cutlery to help Parkinson’s sufferers eat.
+
+Imagine going to the doctor’s surgery and being handed a slim black wristband 
+that monitors your vital signs and feeds back minute-by-minute data to the GP 
+and pharmacists so they can adjust your dosage, call you back if it gets worse 
+– and check that you’ve been doing enough exercise.
+
+Vitruvian Man 2.0
+
+Not everything Verily is building is hardware. Its other major goal is to 
+complete the “baseline study”: an attempt to map a healthy human body, in its 
+entirety.
+
+The project is collecting every sort of biological data possible, from genetic 
+to anatomic, from physiological to psychological, in an attempt to build a
+chimera 
+<https://www.theguardian.com/science/2012/jan/05/chimera-monkeys-combining-several-embryos>
+ model of what a healthy human looks like. The short-term goal is to use the 
+model to identify deviations far sooner than they can currently be picked up, 
+and ultimately identify problems like cancer and heart disease when they can be 
+prevented, rather than cured.
+
+Connected world
+
+Not every project is as wild as trying to cure death. But even the smaller 
+ones could alter our relationship to the rest of the world.Project Loon 
+<https://www.theguardian.com/technology/2015/oct/28/google-installing-20000-internet-enabled-balloons-in-indonesia>
+ is one example: it represents the company’s attempt to bring internet access 
+to rural communities through a network of weather balloons, floating in the 
+stratosphere, acting like ultra-low-cost satellites.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F05%2Fx-projects-alphabet-moonshot-ventures-change-world-robots%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F1b1d89c1d6d53a450d3a161512643f96caf0ca86%2F0_83_1248_749%2F1248.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=X%20projects%3A%20Alphabet's%20'moonshot'%20ventures%20that%20could%20change%20the%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F05%2Fx-projects-alphabet-moonshot-ventures-change-world-robots%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=X%20projects%3A%20Alphabet%27s%20%27moonshot%27%20ventures%20that%20could%20change%20the%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F05%2Fx-projects-alphabet-moonshot-ventures-change-world-robots%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F1b1d89c1d6d53a450d3a161512643f96caf0ca86%2F0_83_1248_749%2F1248.jpg>
+ Project Loon balloon floating over New Zealand. Photograph: JOHN SHENK / 
+HANDOUT/EPA 
+The project is in direct competition with a similar plan from Facebook’s 
+internet.org 
+<https://www.theguardian.com/technology/2013/aug/21/facebook-mark-zuckerberg-internet-org>
+, which aims to use solar powered drones to fulfil the same goal. And if either 
+project pays off, it will usher in a world of genuinely ubiquitous 
+connectivity: there will be nowhere on Earth that is offline. So telling your 
+boss “I was in the middle of the Amazon” just won’t cut it as an excuse.
+
+Robots at home – and at war
+
+Boston Dynamics was acquired by Google in 2013 
+<https://www.theguardian.com/technology/2013/dec/17/google-boston-dynamics-robots-atlas-bigdog-cheetah>
+. It had initially existed largely as a contractor for the US military, 
+developing machines that can walk on rugged terrain. The BigDog quadrupedal 
+cargo robot was the outcome: built like an ox, and walking with an unearthly 
+whirring sound, even in its prototype form it demonstrates unnerving 
+surefootedness. Unfortunately, they are too noisy for the US marines, which 
+cancelled a contract with Boston Dynamicsin December 
+<https://www.theguardian.com/technology/2015/dec/30/us-marines-reject-bigdog-robot-boston-dynamics-ls3-too-noisy>
+.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dr0qWVKcJR3w&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dr0qWVKcJR3w>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dr0qWVKcJR3w&media=>
+ Atlas, the house-cleaning robot from Alphabet-owned Boston Dynamics 
+But the company is also looking at non-military uses of its robots, and has 
+committed to taking no further contracts from the US Department of Defense. So 
+what’s the first outcome?Atlas <https://www.youtube.com/watch?v=r0qWVKcJR3w>, a 
+150kg, 1.8 metre tall bipedal robot – that can do the hoovering.
+
+Using a human shape is pretty inconvenient in robot design, because it turns 
+out it is quite hard to balance on two legs, but our vanity means we keep on 
+building them anyway. And so keep an eye on Boston Dynamics for your best hope 
+of a Google-poweredrobot butler 
+<https://www.theguardian.com/technology/2016/jan/03/mark-zuckerberg-2016-artificial-intelligence-butler>
+ in the future. Hopefully, they will have dealt with the noise by then.
+
+And all powered by the wind
+
+All of this technology is of little use if it is driven by carbon-belching 
+power stations that will melt the ice caps before we even sit behind the wheel 
+of a self-driving car. SoMakani <http://www.google.com/makani/>, another X 
+project, aims to create ubiquitous wind power, available wherever the air moves.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F05%2Fx-projects-alphabet-moonshot-ventures-change-world-robots%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F0d3f72341676f5bca5152cdc32fbce53064a69cd%2F118_125_1411_846%2F1411.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=X%20projects%3A%20Alphabet's%20'moonshot'%20ventures%20that%20could%20change%20the%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F05%2Fx-projects-alphabet-moonshot-ventures-change-world-robots%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=X%20projects%3A%20Alphabet%27s%20%27moonshot%27%20ventures%20that%20could%20change%20the%20world&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F05%2Fx-projects-alphabet-moonshot-ventures-change-world-robots%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F0d3f72341676f5bca5152cdc32fbce53064a69cd%2F118_125_1411_846%2F1411.jpg>
+ A Makani energy kite prototype. Photograph: Robbie Su/PR image 
+Their current prototypes look like a cross between a kite and drone, sitting 
+at the end of long cables circling in the air. Their lightweight construction 
+means they can operate where a traditional windfarm cannot, and be put up for a 
+fraction of the cost. Their height allows them to reach high winds more than 
+300 metres in the air.
+ 

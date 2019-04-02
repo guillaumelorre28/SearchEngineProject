@@ -1,0 +1,126 @@
+
+Face it: the best thing about iOS is the App Store. The iPhone 
+<https://www.theguardian.com/technology/iphone> has come a long way since 
+version one, but the ability to add to the fifteen built-in apps has been the 
+biggest improvement.
+
+These days, Apple’s default apps are showing their age. What’s more, they 
+suffer from being too simple for power users and too complex for new users. Ask 
+anyone who needs to get serious work done with their iPhone and they’ll tell 
+you that the first step to a more productive life is to ditch the defaults and 
+replace them with apps built from the ground-up for power.
+
+At least, that’s what I’ll tell you. Here are my picks for how to step your 
+app game up a notch.
+
+Swap Mail for Outlook
+
+I know. Outlook. Made by Microsoft. Bane of office workers everywhere. Home of 
+recall requests that don’t work 
+<http://www.howtogeek.com/161762/why-you-cant-undo-sending-an-email-and-when-you-can/>
+,weird proprietary smilies 
+<http://lifehacker.com/5574668/get-rid-of-the-smiley-j-problem-in-microsoft-office-applications>
+, andthe most famous computer virus in history 
+<https://en.wikipedia.org/wiki/ILOVEYOU>. But that’s only on the desktop. On 
+mobile, Outlook is really, really good.
+
+That might be because it wasn’t really made by Microsoft. Outlook Mobile is 
+based on an app called Accompli, bought by Microsoft back in 2014 and rebranded 
+a few months later. Like Mailbox and Sparrow before it, Accompli was a 
+delightful stripped-down mail client, working with multiple webmail platforms 
+and offering now-standard features like swiping to archive or schedule for 
+follow-ups and a focus on inbox-zero mail management.
+
+Unlike those two, though, Accompli wasn’t shut down after its acquisition, but 
+instead overhauled further. Microsoft built on the app’s productivity features, 
+adding syncing with cloud storage platforms, improving the built-in calendar, 
+and adding support for a huge number of email services.
+
+
+Swap Calendar for Fantastical
+
+The built-in Calendar is one of the better apps that comes with iOS 
+<https://www.theguardian.com/technology/ios>. It’s clean, relatively 
+fully-featured, and syncs well with third-party services. It handles time-zones 
+terribly – I’ll never forgive it for making me miss the last Eurostar out of 
+Paris on a Sunday night – but that’s about all.
+
+Fantastical is still better, though.
+
+
+The app, now in its second version for mobile, has a few specific features 
+which make it worth the £4. There’s a nifty “day ticker” which lets you see how 
+busy you are in any given day from the top level view. It has an impressive 
+natural language engine which, unlike Apple’s, actually works, letting you type 
+“write a post about great productivity apps at 3pm on Friday” and get a 
+calendar event already populated.
+
+If you want to take it further, you can swap in the desktop version of 
+Fantastical too – though at $39.99, that’s a bigger commitment.
+
+(Where Microsoft gives with one hand, it takes away with the other: Sunrise 
+would probably have taken Fantastical’s place here, except the calendar app was 
+bought by Microsoft last year and will be shut down next month)
+
+Swap iCloud Keychain for 1Password
+
+Apple’s password manager isn’t an app, strictly speaking – but that’s part of 
+the reason why it’s worth replacing. The feature, which is part of iCloud, will 
+automatically sync passwords across devices, and suggest new randomised ones 
+when you’re signing up to a site through Safari.
+
+When it works, it’s great. When it doesn’t, it’s hopeless. The service has no 
+easy “front door”, instead being buried deep in the settings menu, which means 
+if you need to actually find out what the random password you just assigned is 
+– say, to log in on a non-Apple device – you’ll be clicking for a while. And 
+while suggesting passwords randomised to a standard format, as Apple does (four 
+hyphen-separated groups of three characters), is only a mild security risk, 
+it’s much more annoying if you’re trying to log in to a site with a restrictive 
+password policy banning hyphens.
+
+So switch to a password manager that fixes those issues, and improves in other 
+ways too: 1Password lets you store any other sensitive information in encrypted 
+format, from credit cards to passport numbers.
+
+Swap Notes for Simplenote
+
+Apple’s Notes is actually quite good. But the app’s syncing features are 
+sub-par: it’s hard to escape from Apple’s walled garden, for one, meaning you 
+have to use the Notes client on desktop unless you’re willing to dig in to the 
+weeds of iCloud.
+
+Simplenote, by contrast, syncs not only with its own web service, letting you 
+access it anywhere, but also keeps a history of notes, letting you roll back to 
+an earlier time if you want to see what your life was like in the past. It’s 
+halfway between a backup and a memory aid, and can be exceedingly useful in a 
+pinch.
+
+Then there’s Notational Velocity. Not, strictly speaking, relevant here, 
+because it’s a desktop app, but it syncs with Simplenote and has become one of 
+the best stripped-down note managers available for Macs. If you use one, 
+definitely use the other
+
+Swap Reminders for Wunderlist
+
+Another Microsoft-owned app, Wunderlist is a neat and tidy to-do list app. It 
+can sync between platforms, remind you about events at a specific time, and 
+sort items between lists, but it does it all with a panache that the built-in 
+Reminders app falls down on. One missing feature, though, is the ability to be 
+reminded in a specific location. If you need that, look elsewhere.
+
+Or… swap them all for Omnifocus
+
+With a hardcore price ($40 each for the mobile and desktop versions, rising to 
+$60 and $80 for the pro versions), and a hardcore feature-set, omnifocus isn’t 
+going to be for everyone. But those who do use it swear by it, to the point 
+that it isn’t exaggerating to say that if you took it away, their lives would 
+fall apart.
+
+The app is fundamentally built around the “Getting Things Done” framework, 
+which encourages users to break goals up into simple tasks that can be done in 
+one sitting, and then review those goals on a weekly basis. It has its roots in
+a book by productivity guru David Allen <http://amzn.to/29rLWOx>, but is simple 
+enough to beexplained in 15 minutes <https://hamberg.no/gtd/>. If you really 
+want to get better at everything, give it a go. But be warned, it’ll suck you 
+in.
+ 

@@ -1,0 +1,123 @@
+
+Phishing as a concept – scammy electronic communications trying to steal 
+personal data and passwords – has been around for nearly 20 years, but people 
+still regularly fall victim to it.
+
+In June 2013, security firm Kaspersky Lab estimated that 37.3m people had 
+encountered phishing attacks 
+<http://www.kaspersky.com/about/news/press/2013/Kaspersky_Lab_report_37_3_million_users_experienced_phishing_attacks_in_the_last_year>
+ in the last year, includingmore than 1m people in the UK alone 
+<http://www.kaspersky.co.uk/about/news/virus/2013/Kaspersky_Lab_report_Over_one_million_UK_internet_users_experienced_phishing_attacks_last_year>
+. Symantec, meanwhile, estimates thatphishing accounted for one in 392 emails 
+per day in 2013 
+<http://www.symantec.com/content/en/us/enterprise/other_resources/b-istr_main_report_v19_21291018.en-us.pdf>
+.
+
+Phishing is all about convincing you to divulge information that could help 
+criminals steal your money and/or install malware on your computer, potentially 
+also selling your passwords on to others.
+
+
+It works by impersonating communications from companies that you trust: banks, 
+online payment firms like PayPal, social networks, online retailers and other 
+technology companies, as well as government bodies (tax authorities, for 
+example). According to Symantec, 71% of phishing attacks in 2013 were related 
+to financial organisations.
+
+A lot of phishing attacks are fended off without you ever seeing them, thanks 
+to the spam filters used by companies and webmail providers. But for those that 
+make it through to your inbox, there are some common-sense tips to ensure you 
+don't fall victim.
+
+If it looks wrong, it probably is wrong
+
+Phishing often looks, well, fishy. Typos can be a sign that an email is dodgy 
+– yes, The Guardian may be on thin ice with this point, but typos in an email 
+from your bank really are a red flag – as are all-capitals in the email's 
+subject and a few too many exclamation marks.
+
+Check the email address carefully
+
+If you often get emails from a particular company, they'll usually come from 
+the same address – for example, the vast majority of my PayPal emails come from 
+service@paypal.co.uk. Another address, especially one that looks strange, 
+should raise suspicions.
+
+Watch for impersonal introductions
+
+Your bank, PayPal, Amazon etc know your name. A phisher sending out masses of 
+emails doesn't. That's why real emails from these companies often address you 
+by name. "Dear Customer" or variations on it may sound polite, but it's a 
+definite warning sign, especially if the email is trying to get personal 
+details from you.
+
+Beware of threats and urgent deadlines
+
+Sometimes a reputable company does need you to do something urgently – eBay 
+was recently forced to ask its customers to change their passwords quickly 
+after a cyberattack, for example. But usually, threats and urgency are a sign 
+of phishing: if you're being asked to do something to prevent your account 
+being shut down, or within a tight deadline, its cause for caution.
+
+Don't fill in embedded forms
+
+If an email comes with an embedded form for you to fill in personal details, 
+financial data and/or login details, don't do it. Trustworthy companies will 
+never ask you to do this in an email.
+
+Be cautious about phone numbers and web links
+
+If an email asks you to call a number to give your personal details over the 
+phone, dig out some official correspondence from the company and use the number 
+given there instead. And if you're asked to click on a link that looks 
+legitimate, hover your mouse over it to see if you're actually being sent to a 
+different site – don't click on it if so.
+
+Beware of spear phishing
+
+The advice above is for traditional email-based phishing attacks, which target 
+a large number of people and hope that a few will fall victim. But in recent 
+years, a new variant has emerged called spear phishing, which is much more 
+personal.
+
+Spear phishing targets individuals: instead of "Dear Customer" an email might 
+address you by name, refer to a recent transaction you've made and/or draw on 
+other information that you've shared online – often on social networks.
+
+Spear phishers may even impersonate one of your friends, asking for a password 
+which – if you share it – can then be tested on a range of other sites to see 
+if the criminal can gain access to your accounts.
+
+Most advice on avoiding spear phishing involves urging you to be more careful 
+on social networks: the kind of "could this information be useful to a cyber 
+criminal" caution that may not come naturally when tapping out a tweet or 
+Facebook status update.
+
+Even so, it's important – for plenty of reasons beyond spear phishing – to be 
+familiar with privacy controls on sites like Facebook, so you know when 
+something is being published to your friends only rather than the wider world.
+
+It's also important – even though it may seem onerous – to use different 
+passwords for the various retailers, financial services and social networks 
+that you use regularly. Spear phishers thrive on the kind of password laziness 
+that comes naturally to many internet users.
+
+As for spear phishing that seems to come from a friend or known work contact, 
+the same rules apply as for phone numbers in regular phishing emails. If 
+someone you trust seems to be asking for a password, ring them up and ask if 
+it's really them.
+
+Don't think phishing is just about email
+
+Phishing may be closely identified with email, but that's not the only way 
+phishing attacks happen. In fact, that Kaspersky report in June 2013 claimed 
+that only 12% of registered phishing attacks were launched through spam emails.
+
+The rest came from fake websites, instant messaging software and other 
+channels. Whatever you're doing on a computing device, be alert when 
+seemingly-trustworthy companies or contacts are trying to get you to divulge 
+any data that could compromise your online security.
+
+• 10 talking points about cybersecurity and your business 
+<https://www.theguardian.com/technology/2014/may/07/cybersecurity-business-pwc-symantec-interbrand>
+ 

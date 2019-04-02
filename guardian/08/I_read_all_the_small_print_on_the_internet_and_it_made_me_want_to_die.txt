@@ -1,0 +1,497 @@
+
+When was the last time you read all the terms and conditions for a service you 
+used? Have you everread the terms and conditions? Probably not.
+
+So why do we spend so much of our time ignoring the thousands of words of 
+legally binding “end-user licence agreements” (EULAs, if you like) 
+legally-binding contracts we agree to every day? Is it even possible to read 
+the T&Cs for everything a typical person does? Is there any value in reading 
+all this anyway?
+
+“The biggest lie on the internet is ‘I have read and agree to the terms and 
+conditions’,” says security expert Mikko Hyppönen. Setting out to prove his 
+point, Hyppönen’s company F-Secure set up a free WiFi hotspot in the heart of 
+London’s financial district in June 2014.
+
+
+Buried in the terms and conditions of the free network was a “Herod clause” 
+<https://www.theguardian.com/technology/2014/sep/29/londoners-wi-fi-security-herod-clause>
+: in exchange for the WiFi, “the recipient agreed to assign their first born 
+child to us for the duration of eternity”.
+
+
+Six people signed up.
+
+“EULAs suck – we can all agree on that,” said Hyppönen. “They shouldn’t be 
+binding, because nobody reads them. But from a legal point of view, they just 
+might be.”
+
+Agustín Reyna of the European consumer-rights organisation BEUC told me why: 
+“It’s a consumer contract. No matter what you call them, it’s a contract.”
+
+To get a sense of just how much legal chaff we’re buried under, I decided to 
+spend a week of my lifenot checking the box marked “I have read and agreed to 
+the terms and conditions” until I had actually, you know, read them. Worse, I 
+would do it retroactively, sitting down to read the T&Cs of services I’d been 
+using for years.
+
+The end results: I collected 146,000 words of legalese – enough to fill three 
+quarters of Moby Dick, just to explain what I can and can’t do online – from 
+just 33 terms-of-service documents. Each document only took me about 15 minutes 
+to read (or, if I’m honest, to skim-read), but I still spent well over eight 
+hours of the week just sitting reading page after page of dry, impenetrable 
+prose.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F34c889762cc0832a54fb2424bbd414d39fd74604%2F0_22_4086_2452%2F4086.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=I%20read%20all%20the%20small%20print%20on%20the%20internet%20and%20it%20made%20me%20want%20to%20die&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=I%20read%20all%20the%20small%20print%20on%20the%20internet%20and%20it%20made%20me%20want%20to%20die&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F34c889762cc0832a54fb2424bbd414d39fd74604%2F0_22_4086_2452%2F4086.jpg>
+ I swapped reading novels for 146,000 words of legal chaff, what did you do 
+with your week? Photograph: Lasse Kristensen/Alamy 
+Apple: out of date terms and conditions
+
+The worst day, as expected, was the first. My iPhone is also my alarm, which 
+means that at 6am on a Monday, I was greeted by 21,586 words to read before 
+breakfast. In deference to my girlfriend, who was still asleep, I also broke my 
+rules straight away and turned off the alarm before settling down to read the 
+iPhone T&Cs.
+
+Apple may strip out obsolete parts in pursuit of simplicity, but that 
+philosophy hasn’t reached its legal department
+
+Going first with the iPhone ended up making sense, though, because in many 
+ways Apple’s practices are emblematic of everything that’s wrong with the 
+culture of mindlessly hitting “accept”.
+
+Apple <https://www.theguardian.com/technology/apple> may be famous for 
+products that ruthlessly strip out obsolete parts in pursuit of ease-of-use and 
+simplicity, but that philosophy hasn’t reached its legal department.
+
+The terms typically start with an introduction where every word is 
+capitalised, because not a single lawyer cares about anyone being able to read 
+their actual documents. The capitals are included because ofan American legal 
+regulation <http://www.adamsdrafting.com/all-capitals/> which stipulates that 
+certain parts of a text must be “conspicuous”. Since there’s no corresponding 
+requirement that it be legible, the consensus is that capitalising the 
+necessary parts fits the bill.
+
+Where Apple didn’t innovate, one company did: credit goes to music service 
+Bandcamp, which explains, in its introductory paragraph, that “we’ve done our 
+best to make it all go down smooth – you won’t find any 8-point type, or long 
+sections of TOTALLY UNREADABLE ALL-CAPS intended to fulfill the legal 
+definition of “conspicuous” (we’re pretty sure Your Honor will accept yellow, 
+bold text instead).”
+
+Perhaps the best marker of how little Apple cares about the terms of service 
+it requires its users to read can be found several paragraphs down the iCloud 
+terms and conditions. (Incidentally, despite being broken into separate 
+documents, it’s all-or-nothing when it comes to agreeing or rejecting the 
+terms.)
+
+Under the heading “Google Maps Service” is the proviso that:
+
+use of the Google Maps service is subject to the following additional terms: 
+Google Maps Terms of Service available at 
+http://maps.google.com/help/terms_maps.html andGoogle 
+<https://www.theguardian.com/technology/google> Maps Legal Notices at 
+http://maps.google.com/help/legalnotices_maps.html.
+
+That’ll be the Google Maps service which was famously dropped from iPhones in 
+2012, over two years before the debut of iOS 8.2, the version I am running.
+
+It seems that no one at all reads Apple’s terms and conditions – even people 
+who work for Apple.
+
+Simplenote: a blissful 140 words 
+
+The rest of the morning wasn’t as depressing as Apple, though it was still 
+terrible. Next up was Simplenote, a cloud note-taking service.
+
+Like night and day, Simplenote’s terms of service come in at 140 words.
+
+Sure, Simplenote only needs to cover a relatively simple text hosting and 
+syncing service, while Apple’s cover a gaming social network, a music, app and 
+video store, a voice-control service, and an operating system. But it’s clear 
+that Simplenote actually cares about what a non-expert user who ends up on 
+their page will see, and has strived to make the document as clear and readable 
+as possible.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F67243eedbc968900d80fc101921d577f1e0286ca%2F0_790_4500_2702%2F4500.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=I%20read%20all%20the%20small%20print%20on%20the%20internet%20and%20it%20made%20me%20want%20to%20die&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=I%20read%20all%20the%20small%20print%20on%20the%20internet%20and%20it%20made%20me%20want%20to%20die&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F67243eedbc968900d80fc101921d577f1e0286ca%2F0_790_4500_2702%2F4500.jpg>
+ Simplenote’s terms of service: day to Apple’s night. Photograph: Stephen 
+Studd/Getty Images 
+The basic terms, in their entirety, read: “You are responsible for keeping 
+your login and password safe. The Service should not be used to store sensitive 
+information such as bank account numbers, credit card information, or 
+passwords. We are not responsible for any information stored with the Service.”
+
+I was feeling good. I had barely finished breakfast, and already I’d read two 
+sets of terms and conditions, and one of them was positively pleasant. Maybe 
+the week wouldn’t be so bad?
+
+And then I went online.
+
+BT: they will pay up if I die
+
+For most people, a licence agreement for a broadband connection is more of a 
+“real” contract than the terms and conditions for digital services they click 
+but largely ignore.Broadband <https://www.theguardian.com/technology/broadband> 
+comes with a requirement to pay, early cancellation fees, and a credit check.
+
+All the same, I still hadn’t actually read my contract with BT 
+<https://www.theguardian.com/business/btgroup>, so downloaded a copy to read on 
+the way in to work. I was already late because of Apple, and didn’t need to 
+make things worse.
+
+The good news is that BT’s terms and conditions, freed from the American 
+requirement for “conspicuous” warnings, is actually legible; the bad news is 
+that it turns out that I have to pay them money until the day I die, and they 
+aren’t really obliged to do anything in return. I may be paraphrasing a little.
+
+In a way, it shouldn’t be a surprise. It’s not like the company actually gives 
+me good service as it is: I live inone of the worst constituencies in the 
+country 
+<https://www.theguardian.com/technology/2015/feb/09/london-has-the-worst-broadband-in-britain-government-statistics-show>
+ for high speed broadband, and on top of that, my flat is a new-build,
+notoriously overlooked by telecoms companies 
+<https://www.theguardian.com/money/2013/apr/20/bt-failure-connect> eager to 
+make developers pay for the cost of wiring.
+
+On the plus side, if I am injured or die as a result of BT’s negligence, they 
+will accept responsibility. Which is nice, because no other company bothered to 
+mention this in their documentation.
+
+It didn’t help that I read the whole thing standing up on a packed Tube, 
+squinting at the tiny writing on my phone
+
+On the minus side, while BT “aims” to provide broadband service, it qualifies 
+that aim by stating: “We do not guarantee either the quality of the service or 
+that the service will be available at all times.” The terms and conditions 
+remind me that I can cancel within the first three months if the speed isn’t up 
+to scratch, but beyond that, I’m not entirely clear what I’ve actually been 
+paying for. Goodwill?
+
+It didn’t help matters that I read the whole thing standing up on a packed 
+Tube, squinting at the tiny writing on my phone. After 6,000 words, and an 
+hour-long commute, I arrive at work. And in the process of booting up a laptop, 
+signing in to my work mail account (provided by Google) and openingTwitter 
+<https://www.theguardian.com/technology/twitter>, I commit myself to another 
+35,000 words of legal documents, and feel a little part of myself die.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F32595e8235f64d29180cfb890b4096a6e5c92203%2F0_1640_3628_2178%2F3628.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=I%20read%20all%20the%20small%20print%20on%20the%20internet%20and%20it%20made%20me%20want%20to%20die&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=I%20read%20all%20the%20small%20print%20on%20the%20internet%20and%20it%20made%20me%20want%20to%20die&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F32595e8235f64d29180cfb890b4096a6e5c92203%2F0_1640_3628_2178%2F3628.jpg>
+ Modern life is rubbish part 16,784: reading BT’s EULA on a packed tube 
+carriage. Photograph: aophotography.com/Alamy 
+Google: actually in plain English
+
+When I headed into the week, I’d expected Google to be the worst. After all, 
+it’s the company that is the epitome of theinternet adage that 
+<http://www.metafilter.com/95152/Userdriven-discontent#3256046> if you are not 
+paying for it, you’re the product being sold. I was expecting byzantine 
+documents, deliberately difficult to read to obscure the dastardly passage 
+where they claim the right to sell my mother’s maiden name to Russian hackers 
+for peanuts.
+
+Yet the 5,500 words of Google’s terms of service (including a separate but 
+linked privacy policy) are actually surprisingly legible and sane. Faced with 
+never-ending scrutiny, from users as well as regulators, competitors and the 
+press, the company responded by providing plain English terms of service.
+
+The passage about ownership of uploads – always a hot-button topic when it 
+comes to sites like YouTube which allow user-generated content – is clear and 
+easy to understand:
+
+Some of our Services allow you to upload, submit, store, send or receive 
+content. You retain ownership of any intellectual property rights that you hold 
+in that content. In short, what belongs to you stays yours.
+
+A similar passage in Twitter’s terms is also fairly well written (for a legal 
+document – this is relative), only tripping up when it attempts to list every 
+single thing you could conceivably do online in one sprawling mass of verbs:
+
+You retain your rights to any Content you submit, post or display on or 
+through the Services. By submitting, posting or displaying Content on or 
+through the Services, you grant us a worldwide, non-exclusive, royalty-free 
+licence (with the right to sublicense) to use, copy, reproduce, process, adapt, 
+modify, publish, transmit, display and distribute such Content in any and all 
+media or distribution methods (now known or later developed).
+
+Twitter's 'worldwide, non-exclusive, royalty free license' gives it leeway to 
+do what they want with your content
+
+These companies have learned the hard way that just because no one reads the 
+terms and conditions before they sign up, it doesn’t mean that no-one reads 
+them ever. Indeed, Twitter, along with Facebook (whose 3,300-word terms and 
+conditions I read as I prepared to edit the Guardian’s page), regularly has to 
+fight back againstviral hoaxes 
+<http://www.mirror.co.uk/news/world-news/facebook-hoax-social-network-not-4924151>
+ purporting to reveal the social networks’ plans to steal everyone’s material.
+
+At the same time, the sites do benefit from a certain lack of legal 
+understanding. It’s true that you “retain your rights” to anything posted on 
+Twitter; but it’s also true that the “worldwide, non-exclusive, royalty free 
+licence” gives the company almost infinite leeway to do what they want with 
+your content, regardless of the rights.
+
+ALL CAPS ARE MEANINGLESS
+
+By the end of the day on Monday, I had done little other than read terms and 
+conditions. Yet another huge chunk of Apple documentation accompanied my 
+laptop, requiring different agreements for the operating system and for iTunes 
+(20,000 words altogether); the requirements for Dropbox (1,500 words) and my 
+Oyster card (2,200 words) were svelte in comparison, although both failed the 
+readability test, with MEANINGLESS ALL-CAPS out in force.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F6%2F15%2F1434364417131%2F5542172347_888d98ef9d_o-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=I%20read%20all%20the%20small%20print%20on%20the%20internet%20and%20it%20made%20me%20want%20to%20die&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=I%20read%20all%20the%20small%20print%20on%20the%20internet%20and%20it%20made%20me%20want%20to%20die&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F6%2F15%2F1434364417131%2F5542172347_888d98ef9d_o-2060x1236.jpeg>
+ Note to legal writers – STOP SHOUTING. Photograph: Garry Knight/flickr 
+Still, getting over the initial burst of agreements meant I could relax a bit 
+into the flow on Tuesday, and find out a bit more about the legal background 
+behind these documents. After, of course, reading and agreeing to the terms of 
+service on the Guardian (6,900 words, pretty standard stuff) and Buzzfeed 
+(3,788 words, ditto), just to leave a couple of comments on each site.
+
+What’s the penalty for breaking the terms?
+
+Some have argued that the vast bulk of legal verbiage encountered in the 
+information age is worth little more than the pixels it is written on. Citing 
+British common law, they point out that a valid contract must offer, at least 
+theoretically, the opportunity for negotiation. End user license agreements - 
+the rules that govern the use of software and even hardware which, 
+overwhelmingly, has already been bought and paid for - violate that legal 
+principle.
+
+If you hit “disagree” while setting up an iPhone, for instance, it doesn’t 
+call up an Apple lawyer and offer you the opportunity to renegotiate the terms 
+under which you use the iTunes Store. Instead, it simply bounces you back to 
+the page before, and waits for you to try again.
+
+
+The argument that such documents have little strength is reinforced by the 
+rarity of them ever affecting court cases. By and large, the penalty for 
+breaking the terms and conditions of a service is being thrown off it: losing a 
+Twitter account, for instance. While having clearly laid-out terms and 
+conditions helps clarify things for both sides in the event of unpleasantness, 
+it’s not actually necessary for that tier of enforcement.
+
+A private business is allowed to stop serving a customer for pretty much any 
+reason it likes (although not if the EU has its way 
+<https://www.theguardian.com/technology/2015/apr/24/eu-warns-internet-firms-regulated-amazon-etsy>
+), and they have little recourse. But in the internet world, that’s pretty hard 
+on consumers who have to choose between a handful of all-powerful companies 
+that dominate consumer electronics, digital services and retail.
+
+Has any company ever enforced an end user agreement?
+
+More serious enforcement of the terms and conditions tends to be done through 
+other legal mechanisms. In 2006, video game developers Blizzard sued MDY, a 
+company which made software that let users cheat in World of Warcraft, 
+Blizzard’s bestselling massively-multiplayer online game. The case alleged that 
+using the software, called Glider, violated Blizzard’s terms of service.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqkC12Rnvga4&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqkC12Rnvga4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqkC12Rnvga4&media=>
+Two years later, however, and Blizzard won a summary judgement based largely 
+on a very different legal argument. The company’s copyright had been infringed 
+when Glider had let players cheat at the game; and the way MDY had circumvented 
+its anti-cheating software also meant it had illegally broken copy protection. 
+Two years after that, many of the rulings were reversed at appeal, but the 
+judgement that MDY illegally broke copy protection stood.
+
+The court case did, however, reaffirm one crucial aspect of the law that 
+surrounds EULAs: you are not the owner of software you buy. Instead, you are 
+merely a licensee, and that licence can, and most likely does, come with 
+conditions.
+
+Just last month, we saw that taken to its obvious end point as Microsoft 
+sought to enforce a contract signed with testers for its upcoming game Gears of 
+War. The testers hadleaked information about the game 
+<http://www.polygon.com/2015/5/14/8607841/microsoft-bans-gears-of-war-xbox-one-leakers>
+, breaking the agreement they’d make with Microsoft. The company’s response? It 
+banned the leakers from Xbox Live, the online service required to use a vast 
+array of the console’s features, permanently.
+
+It even temporarily blocked use of their console offline – something that was 
+well within its rights because, as the testing service explained in a letter 
+its testers, the leak broke the terms and conditions. “The nature of the leak 
+having had occurred through Xbox One, actually also went against the Microsoft 
+EULA, which is agreed upon when creating an Xbox LIVE account, or any other 
+type of Microsoft account,” the company, VMC, wrote.
+
+As I discovered on Tuesday evening, Sony’s Playstation has similar language. I 
+should have known I wouldn’t be allowed to relax, even in my own home. Sitting 
+down to play some video games required three separate sets of terms and 
+conditions, for the console itself, the online service attached to it, and the 
+specific game, Bungie’s Destiny, that I wanted to play.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-6%23img-6&picture=https%3A%2F%2Fmedia.guim.co.uk%2F677b1f28a83efe53490749725710c9c053921b81%2F0_227_3452_2073%2F3452.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=I%20read%20all%20the%20small%20print%20on%20the%20internet%20and%20it%20made%20me%20want%20to%20die&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-6%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=I%20read%20all%20the%20small%20print%20on%20the%20internet%20and%20it%20made%20me%20want%20to%20die&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3Fpage%3Dwith%3Aimg-6%23img-6&media=https%3A%2F%2Fmedia.guim.co.uk%2F677b1f28a83efe53490749725710c9c053921b81%2F0_227_3452_2073%2F3452.jpg>
+ Unwind in front of the Playstation – after the small matter of 20,000 words of 
+legalese. Photograph: Thomas Peter/Reuters 
+And sure enough, if Sony discovers that I have violated any term of its 
+collective 20,000 words of legal agreements, which I and perhaps three other 
+people in the world have read in their totality, the company reserves the right 
+to:
+
+take any action to protect its interests such as disabling access to or use of 
+some or all System Software, disabling use of this PS4 system online or 
+offline, termination of your access to PSN, denial of any warranty, repair or 
+other services provided for your PS4 system, implementation of automatic or 
+mandatory updates or devices intended to discontinue unauthorized use, or 
+reliance on any other remedial efforts as reasonably necessary to prevent the 
+use of modified or unpermitted use of System Software.
+
+In other words, break rules you don’t know about, and Sony reserves the right 
+to turn your £350 console into a brick. And those rules are ridiculously broad.
+
+If you don’t install the most recent version of the system software as soon as 
+you reasonably can, you’ve broken the agreement. If you “lease, rent, 
+sublicense, publish, modify, patch, adapt or translate” the PS4’s software, 
+you’ve broken the agreement. If you “use any … modified hardware” with the PS4, 
+you’ve broken the agreement.
+
+Sony doesn't intend to go around bricking users’ consoles – but if they want 
+to, they are within their rights to do so
+
+As with so many of these rules and regulations, it’s not that Sony intends to 
+go around bricking users’ consoles; but if they want to, they are perfectly 
+within their rights to do so.
+
+And, naturally, the company does not provide any promise that the software or 
+hardware will work or do what it says it will do, but it does require access to 
+your personal information including your IP address and console ID for 
+marketing purposes. And no, you can’t complain. It says so in capital letters.
+
+While licence agreements are enforceable contracts, as the BEUC’s Agustín 
+Reyna points out, it is possible for them to go too far even for the courts. 
+“In European law and also at national levels, we [have] what’s called ‘unfair 
+terms legislations’,” he says. If a given contract has unfair terms, “the judge 
+can do a kind of balancing test and see whether the terms are unfair. Not 
+everything that is in the contract will be enforceable.”
+
+In fact, one of the big wins in recent years for consumer rights in Europe was 
+against Sony. “A couple of years ago there was a case by the Norwegian consumer 
+council, in relation to the Playstation,” Reyna says. “In the terms of the 
+licence there were clauses allowing Sony to automatically update or even erase 
+operating systems that were not those provided by Sony.”
+
+What’s more, it was possible to install other operating systems on the 
+console, including the open source operating system Linux. But that too “was 
+prevented by Sony in the terms of the licence. So the Norwegian consumer 
+council took them before the ombudsman”, Reyna says.
+
+After ploughing through the Sony terms of service, the best I can say about 
+Destiny 
+<https://www.theguardian.com/technology/2015/may/07/destiny-how-house-of-wolves-builds-on-story-why-theres-no-raid>
+’s EULA is that it was short. Just 2,000 words meant that I finished it before 
+bedtime, hoping I’d be able to play on Wednesday.
+
+
+I did not play Destiny on Wednesday
+
+Just halfway through the week, but significantly more than halfway through the 
+legal agreements I would end up having to read, I began to run out of energy. I 
+found myself purposefully changing my behaviour so as to not have to read any 
+more EULAs. I’d already agreed to the Playstation’s terms of service; I wasn’t 
+going to read the one for Valve’s Steam just so that I could play PC games in 
+the same week.
+
+But still they kept coming: Netflix (4,000 words, and starts off by offering 
+false hope with a cheery, human, “Welcome to Netflix!”, before descending into 
+grey legalistic mush); Apple TV (another 4,000 words, and as bad as the 
+previous Apple agreements); Storify (5,300 words, again introduced with a 
+“Thanks for using Storify!”, again sapping my will to live); and Bandcamp, with 
+its 7,100 word, over-long EULA saved by being broken up with lime-green text 
+instead of block-capitals.
+
+I didn’t manage to play Destiny on Wednesday - I just read legal text.
+
+On Thursday, I was mercifully out of the house in the evening. Say what you 
+will about the scourge of drinking, but no pub I’ve been to demands you return 
+your pints if you don’t obey their rules. Andboard and card games 
+<https://www.theguardian.com/technology/2015/may/14/netrunner-took-over-my-life-and-why-it-should-take-over-yours-too>
+ have not yet followed video games into the requiring arcane license agreements 
+before you can play them with your friends.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-7%23img-7&picture=https%3A%2F%2Fmedia.guim.co.uk%2F550f18c49a0a7160c89924180a93a91cf43425d3%2F0_54_5100_3060%2F5100.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=I%20read%20all%20the%20small%20print%20on%20the%20internet%20and%20it%20made%20me%20want%20to%20die&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-7%23img-7>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=I%20read%20all%20the%20small%20print%20on%20the%20internet%20and%20it%20made%20me%20want%20to%20die&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F15%2Fi-read-all-the-small-print-on-the-internet%3Fpage%3Dwith%3Aimg-7%23img-7&media=https%3A%2F%2Fmedia.guim.co.uk%2F550f18c49a0a7160c89924180a93a91cf43425d3%2F0_54_5100_3060%2F5100.jpg>
+ The pub: safe from the tyranny of license agreement – for now. Photograph: 
+Alamy 
+By the time I hit Friday, I had narrowed the pool sufficiently that only two 
+more EULAs crossed my radar: comics app Comixology, and mobile payment service 
+Yoyo. Both had thousands of words of terms and conditions, though without any 
+nasty surprises, and one even offered me £5 of free coffee at work for signing 
+up. But even though I knew it was over, I was broken.
+
+The problem: there’s no negotiating power
+
+The problem is that reading the terms and conditions simply doesn’t help. 
+Sure, you find out how pitifully small your rights are compared to those that 
+even a medium-sized company will reserve when you use its product. But the 
+issue isn’t just one of obscurity: it’s also a problem with the power 
+relationship. With no negotiating power, it ends up being mostly depressing 
+reading.
+
+Finding out that Sony can brick my console at will if they decide I haven’t 
+downloaded the software update quickly enough doesn’t give me any power to 
+fight back. I can’t offer them £50 extra for a console that doesn’t come with 
+that clause, nor can I jump ship to a competitor with better terms – because 
+one doesn’t exist.
+
+A glimmer of hope exists in the world of social media, where the worst of T&C 
+over-reach has, occasionally, been defeated by user revolt. In 2012, Instagram, 
+then newly acquired by Facebook,changed its terms 
+<http://www.newstatesman.com/economics/2012/12/instagram-asserts-right-sell-your-photos>
+ to allow the use of photos uploaded to the website for advertising purposes 
+(without paying the photographer). Itsparked outrage 
+<http://www.huffingtonpost.com/2012/12/20/instagram-terms-of-service-change_n_2333284.html>
+, and eventually resulted in the company updating the terms to clarify what 
+rights it was, and was not, requesting.
+
+It was a rare example of a company demanding the broadest possible legal 
+interpretation of what it intended to do and was forced back into clearer, 
+narrower terms.
+
+There are groups fighting for a world with clearer language, and narrower 
+terms. Agustín Reyna, of BEUC, is one: “Of course consumers have to be aware 
+what they’re signing into. The problem is that one side has to work on the 
+transparency of these terms. You cannot expect that the consumer will spend 20 
+minutes reading the terms and conditions of a specific service.”
+
+In general, reading the terms and conditions won’t be as exhausting as my week 
+was. You don’t have to do it all in one go, after all. But it will likely end 
+up being as pointless. Are you really going to leaveFacebook 
+<https://www.theguardian.com/technology/facebook> if it is a little more 
+aggressive about the rights they claim? After all these years? Is that the hill 
+you’re going to die on?
+
+Reyna, however, has hope. “To be honest, I’m more optimistic. I think that it 
+will improve with time, because at the end of the day it’s a matter of consumer 
+trust: companies won’t gain consumer trust and confidence if they don’t display 
+clearer terms of use about what is behind the service as such, especially when 
+we see that all these consumer concerns about privacy issues are going up.”
+
+In the meantime, though, my advice is this: carry on not reading the terms and 
+conditions. Hope someone with more time, a better legal education, or a weird 
+fetish for huge chunks of block capitals, does it instead. And just hope you 
+don’t sign away your first-born in the meantime.
+ 

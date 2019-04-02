@@ -1,0 +1,226 @@
+
+For those of us whose school memories include struggling with long division 
+and quadratic equations, it may be surprising to learn that there was a time 
+when almost all mathematics was recreational.
+
+In the medieval world, for example, the role of maths was mostly as an 
+intellectual diversion. (Apart from its use for technical, real-life tasks like 
+measuring land area or calculating tax.) When, in 799, the British scholar
+Alcuin of York 
+<http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Alcuin.html> sent a 
+letter containing 50 or so maths problems toCharlemagne 
+<http://www.bbc.co.uk/history/historic_figures/charlemagne.shtml>, he did so 
+not to infuriate the king but to amuse him.
+
+In ancient times, too, many arithmetical problems were designed to entertain. 
+Indeed, for the Greeks, a principal motivation for studying geometry was 
+intellectual stimulation and discovery, with no concern for practical 
+applications.
+
+Maths got serious during the scientific revolution. Blame Isaac Newton. The 
+discovery of his laws of motion and gravitation – and theinfinitesimal calculus 
+<https://www.encyclopediaofmath.org/index.php/Infinitesimal_calculus>, which 
+provided the tools for dealing with these new ideas – created new, difficult 
+jobs for mathematicians to do, like finding the equations that describe as much 
+of the world as possible.
+
+The consequences are still felt today. Maths has mostly lost its reputation as 
+a vehicle for playfulness and diversion. (When a piece of mathematics becomes 
+successful, as in the case of sudoku, people make the excuse that “this isn’t 
+maths”, as if it stops being so merely by being popular.) And this is a shame, 
+because we are depriving ourselves of a lot of fun.
+
+Maths and logic puzzles are pleasurable and life-affirming because they force 
+us to use our wits. A good puzzle is also never too hard to solve, thus 
+presenting us with an achievable goal, supremely gratifying when it comes. In a 
+puzzle we are proving to ourselves that we can do something we doubted we 
+could. Deductive reasoning in simple logical steps is comforting, especially 
+when real life is so illogical.
+
+Beginning with Alcuin, Britain has produced many illustrious puzzlesmiths. 
+Alcuin is notable as the first writer to introduce humour into mathematical 
+problems, and his teasers have stood the test of time. Few adults can be 
+unaware of his most famous riddle, about a traveller trying to cross a river 
+with a wolf, a goat and some cabbages, which was once even featured in an 
+episode of The Simpsons. I like the other types of puzzle he introduced too, 
+such as questions about strange family relationships.
+
+In the 19th century Lewis Carroll popularised the fun to be had with logic 
+<https://www.newscientist.com/article/mg20427391-600-alices-adventures-in-algebra-wonderland-solved/>
+ inAlice’s Adventures in Wonderland 
+<https://www.theguardian.com/books/2015/mar/20/lewis-carroll-alice-in-wonderland-adventures-150-years>
+ and Through the Looking-Glass. But Britain’s greatest ever puzzle inventor was
+Henry Ernest Dudeney <http://www.ajhw.co.uk/books/book80/index.html>, whose 
+puzzles appeared for decades in British newspapers and magazines. In April 
+1930, the month Dudeney died, one of his most influential puzzles appeared in 
+Strand Magazine – the literary journal that published Conan Doyle’s first 
+Sherlock Holmes stories. Smith, Jones and Robinson inspired a whole new genre 
+of inferential logic puzzles in which the solver must deduce conclusions from a 
+list of whimsical statements. These puzzles invite you to become a detective. 
+On first reading it looks like there is far too little information to find the 
+answer. But slowly you will piece together the clues.
+
+Even when maths got serious in the late 17th century, however, it did not 
+totally lose its element of play. As well as finding out the equations for 
+commonplace phenomena like the vibration of string, mathematicians also used 
+Newton’s new tools to investigate unusual and bizarre curves. In fact, many 
+great discoveries have come from mathematicians trying to understand simple 
+puzzles and games. Most obviously, perhaps, the field of probability – and 
+therefore all of statistics – was the result ofBlaise Pascal and Pierre de 
+Fermat’s correspondence about gambling games 
+<http://stochastikon.no-ip.org:8080/encyclopedia/en/pascalFermat.pdf>.
+
+Not only have great mathematicians used simple brainteasers to inspire new 
+research, but they have also devised many of their own puzzles. Edouard Lucas, 
+who in the 19th century made important advances in our understanding of prime 
+numbers, wrote a book of puzzles for the general reader and also invented a few 
+classic problems.
+
+Despite the current poor image of maths, the ubiquity of sudoku attests that 
+maths puzzles do remain a popular pastime for many. I discovered quite how much 
+a good puzzle can go viral when I posted apuzzle from a Singapore maths exam 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland/2015/apr/13/can-you-solve-the-singapore-primary-maths-question-that-went-viral>
+ on myGuardian puzzle blog 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>: the post 
+was the ninth most read story across the Guardian online for last year, and the 
+post with the solution was the sixth. The success of that puzzle inspired me to 
+delve into puzzle history and rediscover many puzzles from the last thousand 
+years. One of my favourites is only a few decades old, from the Japanese puzzle 
+maven Nob Yoshigahara.
+
+The best puzzles, like this one, are pieces of poetry. With elegance and 
+brevity they pique our interest, kindle our competitive spirit, and in some 
+cases reveal universal truths. Puzzles appeal to our impulse to make sense of 
+the world, but most importantly they indulge our intellectual playfulness. Yet 
+no matter how frivolous or contrived they are, the strategies we use to solve 
+them expand our armoury for tackling other challenges in life.
+
+Ever since the birth of mathematics, we have enjoyed posing and answering 
+puzzles. And long may we continue to do so.
+
+Puzzle 1: qwerty
+
+The 10 letter keys on the top line of a typewriter are
+Q W E R T Y U I O P
+Can you find a 10-letter word that uses only these keys?
+
+Puzzle 2: business card
+
+Jasper Jason works for local radio. This is his business card. Can you spot 
+the pattern?
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F09%2Fpuzzles-maths-brainteasers-solve-classics%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe1696a6dc87cec5ab58b615aa60a266f312e4435%2F15_13_871_492%2F871.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Use%20your%20wits!%20Can%20you%20solve%20these%20fiendishly%20difficult%20puzzles%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F09%2Fpuzzles-maths-brainteasers-solve-classics%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Use%20your%20wits%21%20Can%20you%20solve%20these%20fiendishly%20difficult%20puzzles%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F09%2Fpuzzles-maths-brainteasers-solve-classics%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe1696a6dc87cec5ab58b615aa60a266f312e4435%2F15_13_871_492%2F871.jpg>
+Puzzle 3: the double date
+
+If two men each take the other’s mother in marriage, what would be the 
+relationship between their sons?
+
+
+Puzzle 4: from Le Havre to New York
+
+The following story about the 18th-century French mathematician Edouard Lucas 
+is absolument authentique, according to a 1915 French maths text book. It took 
+place many years ago, the author writes, at a scientific conference. Several 
+well-known mathematicians were milling around after lunch. Lucas piped up and 
+challenged them to the puzzle below. A few replied with the wrong answer. Most 
+were silent. No one got it right. 
+
+
+Every day at noon in Le Havre an ocean liner sails to New York, and 
+(simultaneously) in New York an ocean liner sails to Le Havre. The crossing 
+takes seven days and seven nights in either direction. How many ocean liners 
+will an ocean liner leaving Le Havre today pass at sea by the time it arrives 
+in New York?
+
+
+Puzzle 5: Smith, Jones and Robinson
+
+Smith, Jones and Robinson are the driver, fireman and guard on a train, but 
+not necessarily in that order. The train carries three passengers, 
+coincidentally with the same surnames, but identified with a “Mr”: Mr Jones, Mr 
+Smith and Mr Robinson.
+
+
+Mr Robinson lives in Leeds. 
+
+The guard lives halfway between Leeds and Sheffield. 
+
+Mr Jones’s salary is £1,000 2s. 1d. per annum. 
+
+Smith can beat the fireman at billiards.
+
+The guard’s nearest neighbour (one of the passengers) earns exactly three 
+times as much as the guard.
+
+The guard’s namesake lives in Sheffield. 
+
+What is the name of the engine driver?
+
+(I have kept the original phrasing of the puzzle, which uses the old British 
+currency. The importance of the value £1,000 2s. 1d., or one thousand pounds, 
+two shillings and one penny, is that you cannot divide it by three to produce 
+an exact amount.)
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F09%2Fpuzzles-maths-brainteasers-solve-classics%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fd9da1c59151c2a84955909967a5f35c80ff69be6%2F152_0_795_477%2F795.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Use%20your%20wits!%20Can%20you%20solve%20these%20fiendishly%20difficult%20puzzles%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F09%2Fpuzzles-maths-brainteasers-solve-classics%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Use%20your%20wits%21%20Can%20you%20solve%20these%20fiendishly%20difficult%20puzzles%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F09%2Fpuzzles-maths-brainteasers-solve-classics%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fd9da1c59151c2a84955909967a5f35c80ff69be6%2F152_0_795_477%2F795.jpg>
+Puzzle 6: free the coin
+
+Coins and matchsticks are historically the two most popular puzzle props. This 
+puzzle contains both a coin and a matchstick. Consider it the recreational 
+mathematics equivalent of a rare duet between two famous old crooners.
+
+
+Two upturned glasses are positioned as above. A match rests between them and a 
+coin is trapped in the left glass. Can you remove the coin without letting the 
+match fall?
+
+
+Puzzle 7: eight neat sheets
+
+Eight sheets of identically sized paper are placed on a table. Their edges 
+form the following pattern, with only one sheet, marked 1, completely visible:
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F09%2Fpuzzles-maths-brainteasers-solve-classics%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F129ce7759649d0d8cbaf2471fe10efea0cd63fd5%2F0_0_643_528%2F643.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Use%20your%20wits!%20Can%20you%20solve%20these%20fiendishly%20difficult%20puzzles%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F09%2Fpuzzles-maths-brainteasers-solve-classics%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Use%20your%20wits%21%20Can%20you%20solve%20these%20fiendishly%20difficult%20puzzles%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F09%2Fpuzzles-maths-brainteasers-solve-classics%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F129ce7759649d0d8cbaf2471fe10efea0cd63fd5%2F0_0_643_528%2F643.jpg>
+Can you number the other sheets from top to bottom where 2 is the second 
+layer, 3 is the third layer, and so on?
+
+
+Puzzle 8: the number tree
+
+The Japanese puzzle inventor Nob Yoshigahara considered this puzzle his 
+masterpiece.
+
+
+The numbers below are arranged according to a certain rule. Once you’ve worked 
+out the rule, fill in the missing number. The number seven in the final circle 
+is not a typographical error.
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F09%2Fpuzzles-maths-brainteasers-solve-classics%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2F902ce3ef1eeae88bceeb8788f645e1581eaddf88%2F0_46_935_684%2F935.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Use%20your%20wits!%20Can%20you%20solve%20these%20fiendishly%20difficult%20puzzles%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F09%2Fpuzzles-maths-brainteasers-solve-classics%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Use%20your%20wits%21%20Can%20you%20solve%20these%20fiendishly%20difficult%20puzzles%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F09%2Fpuzzles-maths-brainteasers-solve-classics%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2F902ce3ef1eeae88bceeb8788f645e1581eaddf88%2F0_46_935_684%2F935.jpg>
+Please, no spoilers in the comments since that spoils the fun for others. See 
+the solutions here. 
+<https://www.theguardian.com/science/2016/nov/09/fiendishly-difficult-puzzles-how-did-you-do>
+
+• Can You Solve My Problems? A Casebook of Ingenious, Perplexing and Totally 
+Satisfying Puzzles by Alex Bellos is published by Guardian Faber at £14.99. To 
+order a copy for £10.99 go tobookshop.theguardian.com 
+<https://bookshop.theguardian.com/can-you-solve-my-problems.html>, or call 0330 
+333 6846.
+
+ 

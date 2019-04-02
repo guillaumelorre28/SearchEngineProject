@@ -1,0 +1,130 @@
+
+A quick burst of 8 links for you to chew over, as picked by the Technology team
+
+Oracle sues to smash patent troll Lodsys >> Mobile Technology News 
+<http://gigaom.com/mobile/oracle-sues-to-smash-patent-troll-lodsys/>
+
+Oracle, it seems, is not one for irony. Right after an epic court fight with 
+Google in which it was accused of abusing its intellectual property, the 
+software maker is now trying to dissolve another company's patents.
+
+This time, though, Larry Ellison's company gets to be the good guy. In a 
+lawsuit filed in Wisconsin federal court, Oracle is asking the court to 
+invalidate four patents belonging to a patent troll that has been terrorizing 
+corporations and small software developers across the country.
+
+
+
+Oracle's claim against Lodsys is to say "we don't infringe your patents and 
+neither do our customers." Clearly, it's trying to draw it into a court fight, 
+perhaps to bankrupt it. Apple is also trying to do the same, because Lodsys's 
+approach is bad for app developers. (Thanks @modelportfolio2003 for the link.)
+
+Corning sees flexible glass in consumer electronics by 2013 >> Businessweek 
+<http://www.businessweek.com/news/2012-06-04/corning-sees-flexible-glass-in-consumer-electronics-by-2013>
+
+Corning sent out samples of the glass to makers of phones, tablets and 
+televisions today. The glass, which can be wrapped around a device or 
+structure, can be manufactured in a roll, similar to how newsprint is produced, 
+and will support thinner displays, Corning Chief Financial Officer James Flaws 
+said.
+
+"We're hopeful that by 2013, just a short 7 months away, it'll be available in 
+consumer products," Flaws said in an interview today in New York. "There's a 
+revolution coming in new types of displays -- displays will be more 
+conformable."
+
+Sounds fun.
+
+Don't mean to be alarmist, but the TV business may be starting to collapse >> 
+Business Insider <http://www.businessinsider.com/tv-business-collapse-2012-6>
+
+Henry Blodget <https://www.theguardian.com/media/henry-blodget>, in alarmist 
+mode:
+
+We still consume some TV content, but we consume it when and where we want it, 
+and we consume it deliberately: In other words, we don't settle down in front 
+of the TV and watch "what's on." And, again with the exception of live sports, 
+we've gotten so used to watching shows and series without ads that ads now seem 
+extraordinarily intrusive and annoying. Our kids see TV ads so rarely that 
+they're actually curious about and confused by them: "What is that? A 
+commercial?"
+
+More true of the US business than others.
+
+Oracle v Google: No perks for Java >> The Economist 
+<http://www.economist.com/blogs/babbage/2012/06/oracle-v-google>
+
+What Judge William Alsup decided about APIs:
+
+"So long as the specific code used to implement a method is different," the 
+judge wrote, "anyone is free under the Copyright Act to write his or her own 
+code to carry out exactly the same function or specification of any methods 
+used [to achieve work-alike functionality]," adding that "where there is only 
+one way to express an idea or function, then everyone is free to do so and no 
+one can monopolise that expression."
+
+House members hear why ITU can't be trusted with Internet regulation >> Ars 
+Technica 
+<http://arstechnica.com/tech-policy/2012/05/house-members-hear-why-itu-cant-be-trusted-with-internet-regulation/>
+
+On Thursday morning, Vint Cerf, the most famous member of the "fathers of the 
+Internet" club (whose secret greeting is the TCP 3-Way handshake) testified 
+before the House of Representatives Energy and Commerce Committee. He's leading 
+the charge of tech luminaries and leaders of industry that are calling for the 
+Internet to be kept just the way it is, Ryan Gosling memes and all.
+
+Nearly all Western countries and tech companies are opposed to the pending 
+plan that is set to be heard at the December 2012 World Conference on 
+International Telecommunications in Dubai (or if you prefer, its catchier 
+title: WCIT-12), where all 193 member nations are set to convene.
+
+
+Microsoft Update and The Nightmare Scenario - F-Secure Weblog : News from the 
+Lab <http://www.f-secure.com/weblog/archives/00002377.html>
+
+About 900 million Windows computers get their updates from Microsoft Update. 
+In addition to the DNS root servers, this update system has always been 
+considered one of the weak points of the net. Antivirus people have nightmares 
+about a variant of malware spoofing the update mechanism and replicating via it.
+
+Turns out, it looks like this has now been done. And not by just any malware, 
+but by Flame.
+
+ASUS' 'Rear' Tweet Puts Sexism Front And Center 
+<http://www.huffingtonpost.com/2012/06/04/asus-rear-tweet_n_1567696.html>
+
+ASUS' post, which smacks of sexism, shows a photo, taken from behind, of a 
+shapely woman displaying ASUS' Transformer AIO tablet to a crowd of men and 
+encourages followers to check out the woman's "pretty nice" looking "rear".
+
+Asus <https://www.theguardian.com/technology/asus> later deleted the tweet, 
+and said: "We apologise for the inappropriate comment on Twitter earlier. We 
+will take steps to ensure this doesn't happen again." Sounds like someone got 
+fired.
+
+Trouble with the robot? >> asymco 
+<http://www.asymco.com/2012/06/04/trouble-with-the-robot/>
+
+Horace Dediu, based on latest ComScore data:
+
+It's perhaps too early to suggest that we're seeing a slowdown in the US for 
+Android. Perhaps there will be a return to growth in the fall. The concern has 
+to be that rather than seeing the net adds growing-as they have for two years 
+with only two contiguous months of decline-Android net adds have been falling 
+for four months.
+
+First reaction: it's because buyers were waiting for high-profile phones such 
+as the Samsung Galaxy S3 and HTC One series. But ComScore looks at the 
+installed base, not overall sales. Dediu says the number of people switching 
+from featurephones to Android phones is falling. Is it likely those 
+featurephone owners have waited until now to go for top-end Android phones? 
+You'd expect they would have bought one a year or two ago. Other notable 
+points: RIM installed base is really dropping fast; Windows Mobile/Phone 
+installed base seems to have bottomed out, and has been positive for the past 
+two months after falling for five.
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/u:guardiantech>. To suggest a link, either add it below or 
+tag it with @gdntech on the freeDelicious <http://www.delicious.com/> service.
+ 

@@ -1,0 +1,83 @@
+
+The computers of the House Democratic campaign committee have been hacked, an 
+intrusion investigators say resembles therecent hacking of the Democratic 
+National Committee 
+<https://www.theguardian.com/us-news/2016/jul/26/russia-hackers-democratic-national-committee-email-leak>
+ (DNC) for which the Russian government is the leading suspect.
+
+Cozy Bear and Fancy Bear: did Russians hack Democratic party and if so, why?
+ Read more  
+<https://www.theguardian.com/technology/2016/jul/29/cozy-bear-fancy-bear-russia-hack-dnc>
+The digital break-in at the Democratic Congressional Campaign Committee 
+(DCCC), which the organization acknowledged on Friday, added another layer of 
+mystery to the hacking of Democratic party information that has been revealed 
+in the heat of this year’s presidential and congressional elections.
+
+Details were initially unclear about who hacked the computers and which 
+information was accessed at the DCCC, which raises money and provides other 
+assistance for Democratic House candidates. Spokeswoman Meredith Kelly said the 
+committee was “the target of a cybersecurity incident” and had been informed by 
+investigators “that this is similar to other recent incidents, including the 
+DNC breach”.
+
+Barack Obama has said Russia was almost certainly responsible for the hack of 
+the DNC, an assertion with whichcybersecurity experts have agreed 
+<https://www.theguardian.com/us-news/2016/jul/26/russia-hackers-democratic-national-committee-email-leak>
+. That breach led to the release by WikiLeaks on 22 July, days before the 
+Democratic national convention began, of 19,000 emails showing that supposedly 
+neutral party officials were favoring Hillary Clinton over Senator Bernie 
+Sanders during their primary contest for the presidential nomination.
+
+As a result of that disclosure, the party chairwoman, Debbie Wasserman Schultz 
+<https://www.theguardian.com/us-news/2016/jul/24/debbie-wasserman-schultz-resigns-dnc-chair-emails-sanders>
+, announced her resignation this week.
+
+Kelly said the DCCC was using CrowdStrike, a computer security firm based in 
+Irvine, California, and was “cooperating with the federal law enforcement with 
+respect to their ongoing investigation”. She said her organization was 
+“continuing to take steps to enhance the security of our network in the face of 
+these recent events”.
+
+A House Democratic aide said late on Thursday that the FBI 
+<https://www.theguardian.com/us-news/fbi> was investigating the hack. The aide 
+was not authorized to discuss an ongoing investigation and spoke on condition 
+of anonymity.
+
+The White House deputy press secretary, Eric Schultz, said he was aware of the 
+reports about hacking but referred questions to the FBI. The FBI did not 
+immediately respond to a request for comment.
+
+CrowdStrike issued a statement confirming its work for the congressional 
+campaign committee but provided no additional details.
+
+Computer hacking, emails and indications of Russian involvement have evolved 
+into a political issue in the presidential campaign between Clinton and the 
+Republican candidate, Donald Trump.
+
+Donald Trump to Russia: hack and publish Hillary Clinton's 'missing' emails
+ Read more  
+<https://www.theguardian.com/us-news/2016/jul/27/donald-trump-russia-hillary-clinton-emails-dnc-hack>
+This week, Trump encouraged Russia to seek and release more than 30,000 other 
+missing emails 
+<https://www.theguardian.com/us-news/2016/jul/27/donald-trump-russia-hillary-clinton-emails-dnc-hack>
+ deleted by Clinton, the former secretary of state. Democrats accused him of 
+trying to get a foreign adversary to conduct espionage that could affect this 
+November’s elections, but Trump later said he was merely being sarcastic.
+
+Clinton deleted the emails from her private server, saying they were private, 
+before handing other messages to the state department. The US justice 
+department declined to prosecute Clinton over her email practices, though the 
+FBI director, James Comey, called her “extremely careless” in handling 
+classified information.
+
+CrowdStrike and another security firm, ThreatConnect of Arlington, Virginia, 
+said they found evidence pointing to Russian government involvement in the DNC 
+hack when they analyzed the hackers’ methods and efforts to distribute the 
+stolen emails and other files. The hacker groups,identified by CrowdStrike as 
+Cozy Bear and Fancy Bear 
+<https://www.theguardian.com/technology/2016/jul/26/dnc-email-leak-russian-hack-guccifer-2>
+, used different but sophisticated techniques to break into the DNC and try to 
+avoid detection.
+
+The DCCC hack was first reported by Reuters.
+ 

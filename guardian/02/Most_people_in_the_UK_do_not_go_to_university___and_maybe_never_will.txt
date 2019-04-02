@@ -1,0 +1,92 @@
+
+Almost everyone goes to university nowadays, everyone knows that.
+
+Except that not everyone does and we rarely see accurate statistics about how 
+many or what proportion of people actually do. It's quite an important 
+question, bound up with thorny issues of workforce skills, educational 
+aspiration and, of course, how (and how much) the UK taxpayer funds our 
+domestic higher education sector.
+
+Against this backdrop came a widely-reported piece of analysis 
+<https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/192188/13-p140-HEIPR_PUBLICATION_2011-12.pdf>
+ from the department of business, innovation and skills (BIS) on the Higher 
+Education Initial Participation Rate (HEIPR), which examines participation 
+rates for 17-30-year-old English domiciled first-time participants in higher 
+education in the UK, including outside England.
+
+Higher education in this context means every kind of accredited higher 
+education course, from two-year foundation degrees delivered at a local further 
+education college, to PhDs from Cambridge. This time round, the HEIPR stood at 
+49%, up from 46% last year. The media duly reported thatalmost half of all 
+young people went to university in 2011/12 
+<http://www.guardian.co.uk/education/2013/apr/24/students-higher-education-almost-50-per-cent>
+.
+
+They didn't. The HEIPR is an odd beast and it doesn't measure what you think 
+it might measure. The methodology involves finding the proportion of people at 
+each age from 17 to 30 who are involved in university for the first time – and 
+then summing all of those participation rates.
+
+The resulting rate is designed to equate roughly to the probability that a 
+17-year-old will participate in higher education by the age of 30. It doesn't 
+measure the proportion of young people going into higher education. Nor does it 
+tell us what proportion of people has a degree – and it shouldn't be presented 
+as if it does.
+
+What if we do want to know this information? Where do we go? Well, there are a 
+couple of places. The first is government datasets. TheAnnual Population Survey 
+<http://www.ons.gov.uk/ons/about-ons/who-we-are/services/unpublished-data/social-survey-data/aps/index.html>
+ involves a sample of 155,000 households and 360,000 people, and is rigorously 
+audited. It is good data and you can interrogate it using Nomis, a service from 
+the Office for National Statistics (ONS).
+
+Using Nomis, we can see that in 2012, 34.4% of the working age population of 
+Great Britain, aged 16 to 64, achieved NVQ4+ (a degree-level or equivalent 
+qualification or above). You can check my working if you like –here is the 
+report I ran 
+<http://www.nomisweb.co.uk/reports/lmp/gor/2092957698/report.aspx#defs>. 
+Related data reveals that 40.2% of those in work have a degree or equivalent – 
+unsurprisingly, degree holders are more likely to be in work than those without.
+
+We can also get data from the census. This has some advantages – a much, much 
+larger sample – and some disadvantages – it's only taken every 10 years. 
+Fortunately, we had one in 2011, so the data is still quite relevant.
+
+It's now possible to examine census data yourself using Nomis, but the ONS 
+also produceda report of some of the key facts 
+<http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-286262>
+ in December 2012, which found that 27.2% of the population aged 16 to 74 had a 
+degree or equivalent or higher – about 12 million people all told. This 
+proportion is lower than the proportion for 16 to 64-year-olds because of the 
+much smaller participation rates for the 64-74 age group covered by the census.
+
+What none of this addresses is the proportion of people that the UK needs 
+educated to degree level. That's even trickier, as the nature of work changes 
+with time. A modern economy with rapidly-developing technology like ours tends 
+to demand more skills and qualifications as time goes on. The recentSkills and 
+Employment Survey <http://www.cardiff.ac.uk/socsi/ses2012/> found that 26% of 
+jobs in the economy explicitly require a degree – or, put another way, if you 
+don't go to university, more than a quarter of jobs are inaccessible to you.
+
+If we then return to the APS data for the whole country and look at jobs in 
+the managerial, professional and associate professional categories – those that 
+are deemed 'graduate level' – we find they make up 43.6% of the jobs in the 
+economy. This doesn't mean that some graduates aren't currently working in 
+sub-graduate level jobs – they are – but it does suggest that we have room for 
+a few more graduates yet.
+
+In short, it's not actually very easy to work out what proportion of the UK 
+population has degrees (nor how many more or less graduates the economy needs). 
+Depending on which dataset you study, it's 27.2% or 34.4% or 40.2% of the 
+population. It certainly isn't 49%. Most people don't go to university and 
+current data suggests that most people in the UK never will.
+
+Charlie Ball is deputy director of research at the Higher Education Careers 
+Services Unit <http://www.hecsu.ac.uk/> – follow it on Twitter @hecsu 
+<http://twitter.com/hecsu>
+
+This content is brought to you by Guardian Professional 
+<http://www.guardian.co.uk/guardian-professional>. To get more articles like 
+this direct to your inbox, become a member of theHigher Education Network 
+<https://register.guardian.co.uk/higher-education/>.
+ 

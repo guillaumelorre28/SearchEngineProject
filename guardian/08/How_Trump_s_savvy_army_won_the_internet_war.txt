@@ -1,0 +1,93 @@
+
+Before we finally let go of 2016, it’s worth reflecting on what we learned 
+from it. For me, the most striking lesson was the way it demonstrated how the 
+internet has changed democratic politics. While there is no single, overarching 
+explanation forDonald Trump’s election 
+<http://www.nytimes.com/2016/12/26/opinion/sorry-liberals-bigotry-didnt-elect-donald-trump.html?_r=0>
+, his ascendancy would have been unthinkable in a pre-internet age, for two 
+reasons.
+
+The first is that much of Trump’s campaign rhetoric would never have got past 
+the editorial “gatekeepers” of an earlier era – the TV network owners and 
+controllers, the editors of powerful print media and the Federal Communications 
+Commission with its “fairness doctrine 
+<https://en.wikipedia.org/wiki/Fairness_Doctrine>” (which required holders of 
+broadcast licences to “present controversial issues of public importance and to 
+do so in a manner that was, in the Commission’s view, honest, equitable and 
+balanced”).
+
+The second reason is that in the pre-internet era, the multitudes of Trump’s 
+vigorous, engaged and angry supporters would have had little option but to fume 
+impotently in whatever local arenas they inhabited. It would have been 
+difficult, if not impossible, for them to hook up with millions of like-minded 
+souls to crowdsource their indignation and their enthusiasm for the candidate.
+
+Google, democracy and the truth about internet search
+ Read more  
+<https://www.theguardian.com/technology/2016/dec/04/google-democracy-truth-internet-search-facebook>
+So I think we can say that while the net may not have been a sufficient 
+condition for Trump’s victory, it was definitely anecessary one. Most 
+commentators, hypnotised by Trump’s mastery of Twitter and the prevalence of 
+“fake news” on Facebook, attributed this entirely to social media. But again, 
+this was an overly simplistic view, for it turns out that there was a deep 
+structure underpinning most of what went on in social media and it needed some 
+fairly intensive network analysis to reveal it.
+
+Much of the heavy lifting in this regard was done by Jonathan Albright 
+<https://www.elon.edu/e/directory/profile.html?user=jalbright8>, an academic at 
+Elon University <http://www.elon.edu/home/>, a private liberal arts college in 
+North Carolina, who, in a series ofremarkable blog posts, 
+<https://medium.com/@d1gi/election2016-fakenews-compilation-455870d04bb#.kx4b2g55z>
+ explored the vast ecosystem of far-right websites that have been proliferating 
+on the web for years. Professor Albright’s central idea is that journalistic 
+analysis of social media activity (for example, plotting millions of Facebook 
+reactions to a fake news story or hashtag-surfing social media) doesn’t get us 
+very far. What we need to understand is the online infrastructure that feeds 
+the frenzy and that is what he set out to map.
+
+Insurgents intuitively understand the power of simple messages, and are less 
+scrupulous about the stories they tell
+
+What emerges from his work is a fascinating picture of what is effectively a 
+rightwing propaganda machine built from more than 300 fake news sites and 
+containing something like 1.3m hyperlink connections.Albright also mapped 
+<https://medium.com/@d1gi/election2016-propaganda-lytics-weaponized-shadow-trackers-a6c9281f5ef9#.4t2tlwgp1>
+ the hidden online trackers hosted by these sites. This is similar to the 
+tracking ecosystem behind most commercial websites. But in the rightwing case, 
+these trackers are coming away with information not about consumption 
+preferences but about the possible political or ideological predilections of 
+site visitors.
+
+One’s first reaction to Professor Albright’s maps, after the sharp intake of 
+breath at the scale and intensity of the online activity implied by them, is to 
+ask what would the comparable leftwing ecosystem be like?His tentative answer 
+<https://medium.com/@d1gi/left-right-the-combined-post-election2016-news-ecosystem-42fc358fbc96#.mtjcqt811>
+ is that it appears to be significantly smaller and much less interconnected 
+than the “alt-right” ecosystem.
+
+Which is where the really interesting questions begin. Why is the political 
+extreme right so established and dominant on the net? The answer is probably 
+that its members have been effectively excluded from mainstream political 
+discourse for a long time. So the internet,with its intrinsic permissiveness 
+<http://www.benkler.org/Benkler_Wealth_Of_Networks_Chapter_7.pdf>, was, for 
+them, the only available option. (Indeed, it still is.) And they went for it.
+
+Why have they been such effective exploiters of the technology? Among the 
+possible reasons are: the fact that radicals and insurgents intuitively 
+understand the power of simple messages; they are motivated and driven, are 
+less scrupulous about the stories they tell and good at making the facts fit 
+the narrative rather than the other way round. They understand propaganda, in 
+other words.
+
+But their main advantage may be that they have understood the affordances of 
+cyberspace better than most of their liberal opponents, in particular the way 
+in which its undermining of traditional institutions has opened up a world in 
+which people find it easy to discover information that supports rather than 
+challenges their beliefs. In that sense, the far right may have taken on board
+Hannah Arendt’s observation 
+<http://rozenbergquarterly.com/hannah-arendts-theory-of-totalitarianism-part-two/>
+ about the ideal target for totalitarian propaganda being “people for whom the 
+distinction between fact and fiction, true and false, no longer exists”.
+
+So it was quite a year. Let’s hope that this one is better.
+ 

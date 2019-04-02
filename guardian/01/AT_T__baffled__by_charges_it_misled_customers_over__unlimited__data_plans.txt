@@ -1,0 +1,100 @@
+
+The Federal Trade Commission (FTC) has charged AT&T with misleading millions 
+of its smartphone customers, claiming the telecoms giant charged them for 
+“unlimited” data plans while reducing their data speeds, in some cases by 
+nearly 90%.
+
+The FTC’s federal court complaint alleges 
+<http://www.ftc.gov/system/files/documents/cases/141028attcmpt.pdf> that the 
+company failed to adequately disclose to its unlimited data customers it would 
+“throttle” their data speeds once they reached a certain limit, to the point 
+that many common mobile phone applications – like web browsing, GPS navigation 
+and watching streaming video – became difficult or “practically inoperable”, 
+said the FTC chairwoman, Edith Ramirez.
+
+“AT&T promised its customers ‘unlimited’ data, and in many instances, it has 
+failed to deliver on that promise,” said Ramirez. “The issue here is simple: 
+unlimited means unlimited.”
+
+The mobile company, second largest in the US, called the charges “baseless” 
+and “baffling” and claimed it had clearly communicated changes in its policies 
+to its customers.
+
+The FTC has recently shown a keen interest in the promises made by telecoms 
+and tech companies. Google and Apple have both been sanctioned by the regulator 
+over charges on mobile apps. Snapchat too wasreprimanded over privacy promises 
+<https://www.theguardian.com/technology/2014/may/08/snapchat-ftc-false-claims-messaging-service>
+ the FTC said it had failed to fulfill.
+
+
+
+Ramirez said the FTC was defending a “bedrock principle” of customer 
+protection that companies had to deliver on their promises. “If you make a 
+promise about unlimited service, we expect you to fulfill those promises,” she 
+said.
+
+According to the FTC’s complaint, AT&T’s marketing materials emphasised the 
+“unlimited” amount of data that would be available to consumers, but failed to 
+alert them to the data speed cap. Customers who cancelled their contracts after 
+being throttled were charged early termination fees, typically amounting to 
+hundreds of dollars.
+
+
+AT&T became the exclusive telecoms carrier for Apple’s iPhone in 2007, 
+offering “unlimited” data for $20 a month. It dropped the unlimited plan in 
+2010 for new customers, but by then millions of customers had taken up the plan.
+
+The company began throttling data speeds in 2011 after customers used as 
+little as 2 gigabytes of data in a billing period, the FTC charges. The 
+regulator estimated that AT&T has throttled at least 3.5 million unique 
+customers a total of more than 25 million times.
+
+The FTC said millions of unlimited mobile data plan customers had elected to 
+keep their unlimited mobile data plan rather than switch to a tiered mobile 
+data plan or obtain service from another provider.
+
+“Numerous customers using 3G devices have experienced an 80–90% decrease in 
+speed when throttled under the original version of defendant’s throttling 
+programme, and a 60–85% decrease under the revised version,” the FTC said in 
+the complaint.
+
+Consumers in AT&T focus groups strongly objected to the idea of a throttling 
+programme and felt “unlimited should mean unlimited” and the company received 
+thousands of complaints about the slow data speeds under the programme, 
+according to company documents obtained by the FTC.
+
+Some consumers quoted the definition of the word “unlimited”, while others 
+called AT&T’s throttling programme a “bait and switch”. Many consumers also 
+complained about the effect the throttling programme had on their ability to 
+use GPS navigation, watch streaming videos, listen to streaming music and 
+browse the web.
+
+The complaint charges that AT&T violated the FTC Act by changing the terms of 
+customers’ unlimited data plans while those customers were still under 
+contract, and by failing to adequately disclose the nature of the throttling 
+programme to consumers who renewed their unlimited data plans.
+
+“The FTC’s allegations are baseless and have nothing to do with the substance 
+of our network management programme. It’s baffling as to why the FTC would 
+choose to take this action against a company that, like all major wireless 
+providers, manages its network resources to provide the best possible service 
+to all customers,” Wayne Watts, AT&T senior executive vice-president and 
+general counsel, said in a written statement.
+
+“We have been completely transparent with customers since the very beginning. 
+We informed all unlimited data-plan customers via bill notices and a national 
+press release that resulted in nearly 2,000 news stories, well before the 
+programme was implemented.”
+
+The FTC’s move follows on from an announcement that the Federal Communications 
+Commission is investigating the throttling practices of the major mobile 
+carriers.
+
+“Wireless customers across the country are complaining that their supposedly 
+‘unlimited’ data plans are not truly unlimited, because they are being 
+throttled and they have not received appropriate notice,” said an FCC 
+spokesman. “We continue to work on this important issue, including with our 
+partners at the FTC, and we encourage customers to contact the FCC if they are 
+being throttled by AT&T or other cellular providers.”
+
+ 

@@ -1,0 +1,140 @@
+
+It was one of the greatest games of the early '90s and now The Secret of 
+Monkey Island <http://www.worldofmi.com/thegames/monkey1/index.php> is back. 
+Releasing on Xbox Live Arcade "this summer" TheSecret of Monkey Island: Special 
+Edition <http://www.lucasarts.com/games/monkeyisland/> sees the original game 
+given a graphical spruce up (although, brilliantly, you can play with the 
+original graphics) for its re-release. I recently spoke to producer Craig 
+Derrick about the game, the art, the puzzles and why he - amazingly - thought 
+that the PC version was better than the classic Amiga one.
+
+Why is now the right time to revisit Monkey Island?
+
+It's always a great time to revisit Monkey Island. We've discussed revisiting 
+the franchise for some time now, but we needed the right project and platform 
+to reintroduce players to the world and characters of Monkey Island. We 
+discussed doing a direct port of The Secret of Monkey Island on iPhone or XBLA; 
+we talked about adding new features to the original game and we even briefly 
+discussed the idea of doing an original, SCUMM-based 2D sequel set between 
+Monkey Island 2 & 3. And, hell, why not throw in an episodic game done by 
+Telltale in for good measure! These were the typical fanboy conversations I was 
+involved in here at LucasArts and I loved it, but I, like many, figured this 
+would likely never happen. Then something remarkable happened. Last summer I 
+was closing out another internal project and our new president, Darrell 
+Rodriguez, asked me to look into ways of revisiting the library titles that 
+best reflected the LucasArts heritage of great story and characters and of 
+course Monkey Island was on the top of my list.
+
+How do you get the balance between attracting new players and satisfying the 
+needs of fans of the original?
+
+I believe you have to look at the barrier of entry for both groups. As great 
+as the original is we knew that a generation of gamers may never have heard of 
+Monkey Island or be familiar with the classic LucasArts point-and-click 
+adventures. Plus, the game was very dated graphically (which is also, of 
+course, part of its charm), had no voice over dialogue and at times is very 
+challenging to a novice. We knew if we wanted to bring new gamers to it we had 
+to update all of these areas and focus on accessibility to the new player via 
+updated controls and an in-game hint system. At the same time we knew we 
+couldn't alienate our original fans. Early on we knew we wanted to include the 
+original game with the special edition in one form or another, stay true to the 
+original composition of the background art, establish some continuity in the 
+character designs based on their appearances throughout the series and bring 
+back as many of the original voice actors from the very first Monkey Island 
+"talkie", "The Curse of Monkey Island". We thought if wecould do all of that 
+then we may just be able to appeal and balance enough features for both new and 
+old fans alike.
+
+Why Xbox Live and not Wiiware or PSN?
+
+Well, we never said we wouldn't be on Wiiware or PSN now did we? The truth is, 
+though, Xbox Live offers a great user experience and downloadable service to 
+gamers and we think it's a great platform to launch the game on. And, of 
+course, the game will also be available on PC via digital download, plus we may 
+have another platform announcement to make very, very soon.
+
+Do you think today's gamers will be excited by a point and click game?
+
+Today's gamers are more diverse and broad than I would say even the audience 
+of point and click games was back in the 90's. When we started this, however, I 
+always told the team that this wasn't necessarily about getting people excited 
+about a point-and-click game, but about getting people excited about a game 
+with great storytelling, characters and humour. The Special Edition adds a 
+unique, whimsical art style and gameplay pacing and mechanics that I think will 
+stand apart from many of the games available on Xbox Live.
+
+Were you tempted to tamper with the original game? ie make some puzzles less 
+obscure?
+
+We considered adding new puzzles, but no, we never wanted to tamper with the 
+original game or make puzzles less obscure in nature. What we didn't do, 
+however, is create an in-game hint system that will help new players solve 
+those more obscure puzzles without having to consult an online hint doc. The 
+hint system works in a way where the first time you get a hint it simply 
+reminds you of what task you're attempting, which is a great way to come back 
+into the game if you've left it or have forgotten what your objective may be. 
+The next time you ask for a hint it's a little more specific without completely 
+spoiling the solution and then of course the last time you ask for a hint the 
+game out right tells you what to do and where to go.
+
+With point and click style games now appearing on the Wii and DS is this a new 
+golden age for the genre?
+
+I love the resurgence we're seeing in classic point-and-click adventure games 
+and obviously the Wii and DS both provide pointing devices that adapt quite 
+well to that type of interface, but I'm not quite sure we've entered a new 
+golden age quite yet. The point-and-click interface was an innovation created 
+by LucasArts for adventure games back in the late 80's / early 90's, but how 
+has that interface or the genre really evolved since? My eye is on innovations 
+occurring in cinematic action / adventure games today in titles like BioShock, 
+Heavy Rain, Alan Wake and the upcoming stuff we're doing at LucasArts. This is 
+where I think we may start to see the beginning of a new golden age.
+
+Why do you include the original graphics?
+
+The original graphics and gameplay was our "get out of jail free" card. When 
+putting together the pitch for what would eventually become the special edition 
+it was very important in some way to include the original game. I figured, if 
+we go and update all of the art, add visual effects, update the music, and add 
+spoken dialogue there's going to be someone that just wanted to play the 
+original game. At first I thought we may simply include an emulator, but as I 
+discussed more about the special edition idea with the engineers they started 
+to believe we could actually run the original SCUMM code and game under the 
+updated content. Once we had that initially working we did a test where we 
+switched from the updated features to the original game running underneath and 
+everyone's jaw dropped at the comparison. At that point we knew we had 
+something very, very cool.
+
+Why do you think the Monkey Island series is held in such high regard?
+
+Timeless story, humorous characters and a great, cinematic presentation that 
+was way ahead of its time.
+
+What was your favourite version of the original? PC or Amiga?
+
+The PC. Growing up I had a Commodore 64 and remember playing Maniac Mansion on 
+it fondly, but I'm sad to admit that I never upgraded to the Amiga, so I 
+remember playing Monkey Island for the first time on my friend Roger's 
+computer. All of our friends would gather at Roger's house every weekend 
+because he was the kid who had the computer, the big TV and all of the game 
+systems. We would order pizza and just play Monkey Island and all of the 
+adventure games out at the time. Ah, good times!
+
+Why do think comedy is such a rare commodity in today's games?
+
+Dying is easy, comedy is hard. It's a combination of action games selling the 
+most and not many people knowing how to write comedy well. There are of course 
+exceptions to this. Valve is doing great, dark humour in Team Fortress 2 and 
+Portal. And of course you can't talk about humour in games without discussing 
+Tim Schafer and his amazing ability to put humour into everything he does. 
+Still, those folks are the exception not the rule.
+
+Does this mean a similar revamp of Monkey Island 2 is on the cards?
+
+Fingers crossed. Ever since we announced the game everyone has been asking 
+about Monkey Island 2, Maniac Mansion and all of our great adventure games. 
+Monkey 2 is definitely high on my list, but the special edition is really a 
+great big experiment to see what interest there is for these types of games and 
+if people are interested in playing them on a console. If the fans really 
+respond well, then I think it will be tough to say no to another one..
+ 

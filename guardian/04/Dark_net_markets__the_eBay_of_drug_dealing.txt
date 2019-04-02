@@ -1,0 +1,224 @@
+
+In 1972, long before eBay or Amazon, students from Stanford University in 
+California and MIT in Massachusetts conducted the first ever bit of e-commerce. 
+Using the "Arpanet" account at their artificial intelligence lab, the Stanford 
+students sold their counterparts a small amount of marijuana. Ever since, the 
+net has turned over a steady trade in narcotics. According to the Observer's 
+survey 16% of current UK drug users have scored from the net and the number is 
+growing.
+
+Just like almost every other business, drugs are moving online. And, just like 
+almost every other business, e-commerce is faster, easier and offers great 
+value. Within five years, the street pusher could be more or less obsolete, run 
+out of town in the same way Amazon has hounded independent booksellers.
+
+I'd never bought illegal drugs before. Unlike most of my peers, I've never 
+even tried illegal drugs – aside from the occasional spliff in my 20s. But 
+earlier this year an innocuous-looking white envelope was posted through my 
+door by Royal Mail. It was about the size of a postcard, but a little bulky, 
+and padded with bubble-wrap. It looked, felt and smelled no more suspicious 
+than any other item of post I'd received that week. The only difference was 
+that it contained a very small amount of high-quality cannabis. With a few 
+simple clicks, and without leaving my home, I'd done what thousands of people 
+have done over the past couple of years: I bought drugs from the notorious 
+"dark net markets".
+
+You can't access these websites using a normal browser such as Chrome or 
+Internet Explorer. The dark net markets sit on an encrypted part of the 
+internet called Tor Hidden Services, where URLs are a string of seemingly 
+meaningless numbers and letters that end in ".onion", and are accessed using a 
+special browser called Tor. The browser, which was originally built by the US 
+Navy but is now an open-source project, allows people to browse the net without 
+giving away their location.
+
+Although it used to be a little tricky to set up, Tor now looks and feels like 
+any other web browser. True, it's a little slower because of how it cloaks your 
+identity (which entails bouncing your URL request around the world via several 
+other "nodes" that use the same software) but that's a price many are willing 
+to pay for online anonymity. This little-known parallel internet is a natural 
+home for an uncensored drugs marketplace, as it is for whistleblower websites 
+and political dissidents who also rely on its powers of obfuscation.
+
+The most infamous of these dark net markets was called Silk Road, named after 
+the ancient trading route. Following a lengthy investigation by the FBI, Silk 
+Road was closed down in October 2013, after more than two years of 
+uninterrupted trade. (The trial of Ross Ulbricht, 29, who the FBI alleges ran 
+the site, is ongoing – Ulbricht denies all charges.) At the time, prosecutors 
+proclaimed the beginning of the end of this illicit trade. But as soon as it 
+was knocked offline, dozens of copycat sites were launched by anonymous 
+operators. In 2013 there were a small handful of these marketplaces. There are 
+now around 30, including Hydra, Pandora, Outlaw Market, Agora, Silk Road 2.0 
+and 1776 Market Place. And most of them are doing a decent trade.
+
+The first thing that strikes you on signing up to Silk Road 2.0 – which was 
+set up within a month of the original being busted – is how eerily familiar it 
+all feels to anyone who's used eBay or Amazon. Every one of the thousands of 
+products on offer has a detailed description, photograph and price. All 
+products and vendors are rated out of five by buyers, who also provide detailed 
+written feedback. There are customer service buttons and shopping trolley carts 
+and free-package-and-delivery and one-off specials. The strange juxtaposition 
+of the familiar and unexpected is a little unsettling – but you quickly get 
+used to it.
+
+You don't, however, get used to the unbelievable choice of products on offer. 
+Technically speaking, Silk Road 2.0 is an anonymous market for anything (with 
+some exceptions, such as images of child abuse – even radical libertarians tend 
+to draw the line here), which means wares stretch from the mundane to the 
+bizarre: listings include a complete boxset ofThe Sopranos and a $100 Marine 
+Depot aquarium supplies voucher. In April, the most popular-selling item on the 
+entire site was a fake £20 Tesco voucher. But most people are here for the 
+drugs. There are hundreds of vendors to choose from, selling every conceivable 
+narcotic: heroin, opium, cocaine, acid, weed, steroids, prescription. Under 
+ecstasy alone: 4-emc, 4-mec, 5-apb, 5-it, 6-apb, butylone, mda, mdai, mdma, 
+methylone, mpa, pentedrone, pills.
+
+It's the customer reviews, not clever encryption, that's the oil in the 
+machine, the key to understanding how these markets tick. All the vendors use 
+pseudonyms, but they keep the same fake name to build up their reputation. 
+Because it's so easy for buyers to switch allegiance to any one of 900 
+competitors at any moment, the vendors are forced to compete for custom. The 
+only way to get it is by having a good history of positive feedback from other 
+users.
+
+As I browsed through the marijuana listings, I found 3,000 offers advertised 
+by more than 200 dealers. So (what else?) I began to scour user reviews, trying 
+to spot those that others had found reliable and trustworthy: "First order was 
+lost … I got a reship and now I'm very happy … He is one of the best vendors on 
+the road!! Very friendly and very good communication too. I will be back 
+soon."; "Please check out this vendor … 5 Stars."
+
+A few reviews like this will make a dealer's reputation. As a result, dealers 
+here are polite, attentive, and consumer-centric – offering free packaging and 
+delivery on big purchases, refunds, special offers and even loyalty systems. 
+Some even offer freebies to anyone willing to write lengthy and careful 
+feedback. I got in touch with "DrugsHeaven" on the site's internal email 
+system. He or she was based overseas, but the vendor page advertised "excellent 
+and consistent top quality weed & hash for a fair price".
+
+There was a refund policy, estimated shipping times, detailed terms and 
+conditions, and close to 2,000 pieces of feedback over the last four months, 
+averaging around 4.8 out of 5. (And, importantly, the occasional negative 
+review.) "I'm new here," I said. "Do you think I could just buy a tiny amount 
+of marijuana?" DrugsHeaven quickly responded: "Hi there! Thanks for the mail. 
+My advice is that starting small is the smart thing to do, so no problem if you 
+want to start with 1 gram. I would too if I were you. I hope we can do some 
+business! Kind regards. DrugsHeaven."
+ The dark net enables users to buy drugs online. Picture posed by model 
+Photograph: Robert Matton AB / Alamy/Alamy 
+Law enforcement agencies around the world – and especially in the US – have 
+started to take a keen interest in what takes place in this strange encrypted 
+internet, and are getting better at shutting down these sites. Periodically one 
+market disappears following a police raid or some vendors are arrested. It's 
+usually the result of infiltration by undercover cops, or, more often, human 
+error. But it's an arms race, and it feels like the police are losing. Because 
+they live on the fringes, dark net markets are remarkably adaptive, and learn 
+from each mistake: always innovating ways to be more secure, more 
+decentralised, harder to combat. There is a bustling online community dotted 
+all over the world comprising libertarians, bitcoin fanatics, drugs aficionados 
+and dealers, who all constantly monitor the markets, check security 
+vulnerabilities and performance, and update others on what they find. Each has 
+his or her own motivations – for the libertarians it's a slightly delusional 
+way of denuding the state – but together they keep these sites functioning 
+smoothly.
+
+Take the payment system. You don't pay with credit cards, of course, as that 
+would be too easy to trace. The currency of choice is bitcoin, the digital 
+crypto-currency, which can be exchanged easily enough for real world currency, 
+and offers its users a high degree of anonymity. When a flaw was spotted in the 
+payment system (site administrators would hold on to buyers' money until the 
+transaction was complete, but were running off with it) the community developed 
+an even more secure payment method, called "multi-sig escrow", where the money 
+is only transferred if two of the three parties sign off on the transaction. To 
+help keep buyers anonymous, other developers have created clever "tumbling" 
+services, which are a sort of micro-laundering system that obscures who is 
+sending bitcoins to whom.
+
+Every month the sites get smarter. In April "Grams", a search engine for 
+drugs, was launched and included "trending" searches and advertising space. 
+According to James Martin, author of a new book,Drugs on the Dark Net 
+<http://www.palgrave.com/page/detail/drugs-on-the-dark-net-james-martin/?K=9781137399045>
+, some vendors are even branding their opium or cocaine as "fair trade", 
+"organic" or sourced from conflict-free zones. "We are a team of libertarian 
+cocaine dealers," writes one dealer, targeting the ethically conscious user: 
+"We never buy coke from cartels! We never buy coke from police! We help farmers 
+from Peru, Bolivia and some chemistry students in Brazil, Paraguay and 
+Argentina. We do fair trade!"
+
+This restless competition is good for customers. The offline drugs market as 
+it stands is all local monopolies and cartels, run by dealers and gangsters. By 
+introducing clever payment mechanisms, feedback systems, and real competition, 
+power is shifting to the users. And that does precisely what economics 
+textbooks predict. The most surprising statistics about Silk Road 2.0 are not 
+the amount of available drugs (although that is truly staggering); it's the 
+satisfaction scores.
+
+When I analysed 120,000 customer reviews made on the site earlier this year, 
+more than 95% scored 5/5. These are results any legitimate enterprise would die 
+for. True, price is more variable. According to one study, which compared 
+average drugs prices on Silk Road from vendors in a number of countries to the 
+average street price there, marijuana costs a little more online, although 
+cocaine was significantly cheaper. But the overwhelming consensus among users 
+of the site is that the quality of the product is far higher and its purity far 
+more reliable – and that's something most people will pay a little more for.
+
+My marijuana, I was told by an expert friend before disposing of it, was 
+exceptionally good, and cost around £7 for the gram. (In fact, it looked like a 
+bit more than a gram. Doubtless DrugsHeaven was hoping for repeat custom.) It 
+is of little surprise therefore that the dark net markets are growing so 
+quickly. According to a report by theDigital Citizens Alliance 
+<http://www.digitalcitizensalliance.org/cac/alliance/default.aspx>, there are 
+now 45,000 drugs products for sale on these sites. In January, it was around 
+30,000.
+
+The fact that it is so effective creates a dilemma for those who worry about 
+drugs in society. Thanks to their smart use of technology, dark net markets are 
+almost impossible to close down: they are too adaptive, too creative. This 
+means more and better drugs more readily available at a competitive price, and 
+that's nothing to celebrate. According to Andrew Brown from the charityDrugscope
+ <http://www.drugscope.org.uk/>, availability and price are closely correlated 
+with level of use. Besides, there is violence and corruption at every point in 
+the supply chain as drugs move from producers to users. Sites such as Silk Road 
+might shorten the length of that chain, but there will still be gang wars in 
+Mexico over drugs routes, there will still be people becoming addicted to 
+harmful substances.
+
+But history suggests that those who want drugs usually find a way to get them. 
+In October 2013, a large-scale study by theInternational Centre for Science in 
+Drug Policy <http://www.icsdp.org/> brought together data from seven drugs 
+surveillance systems around the world. The unsurprising conclusion? The "war on 
+drugs" is failing. Illicit substances are more available than ever. Sites such 
+as Silk Road offer a glimpse of an alternative. Half of the 7,000 organised 
+crime gangs in the UK are involved in drugs. Although reliable figures for the 
+cost of street trading are notoriously difficult to find, a study by the UN 
+suggests that the costs associated with drug-related crime (fraud, burglary, 
+robbery and shoplifting) in England and Wales were equivalent to 1.6% of the 
+country's national income.
+
+From what little is known of them, most of the dealers on dark net markets 
+resemble middle managers in logistics companies who spend their days taking and 
+shipping orders all day and working out new marketing strategies. They aren't 
+violent gangsters fighting over turf. As these markets continue to grow the 
+street dealer will be squeezed out. For the user too, the benefits are plain. 
+On the street, drug purity is wildly variable: the average purity of street 
+cocaine is 25%, but has been found to be as low as 2%, typically cut with 
+mixing substances such as benzocaine.
+
+This is extremely dangerous, because overdosing is often the result of not 
+knowing the purity, dosage, or content of the drug you take. In 2009-10 a 
+contaminated product led to 47 heroin users in Scotland being infected with 
+anthrax. Fourteen died. The user-ranking system provides a more reliable way of 
+determining the quality and purity of the product: trusting the feedback of 
+people who have used it.
+
+But perhaps the biggest win of all could be the simplest. In a perverse way, 
+the brutal efficiency of these sites could strip illicit drugs of any remaining 
+allure or mystique.
+
+Buying drugs from professional-looking sites with user ratings, 
+proceed-to-carts and customer-service buttons makes sourcing cocaine a lot like 
+buying a DVD or doing your weekly shop. And every bit as glamorous.
+
+Jamie Bartlett is the author of The Dark Net ( 
+<http://www.guardianbookshop.co.uk/BerteShopWeb/viewProduct.do?ISBN=9780434023172>
+William Heinemann), which is out now
+ 

@@ -1,0 +1,119 @@
+
+The Library of Birmingham <http://www.libraryofbirmingham.com/> opened in 2013 
+to international fanfare. With its dramatic architectural features and 
+extensive public spaces, it attracted millions of visitors in its opening year. 
+As well as the miles of books on display, one of the star features of the 
+library is its “golden box” – a secure, environmentally controlled storage 
+facility housing hundreds of thousands of archive, heritage and photography 
+items.
+
+But how do you make such a vast collection of manuscripts, books, maps and 
+artefacts accessible to a casual visitor? And how do you connect them all to 
+the present day? One of the solutions is, of course, digital technology.
+
+The Library of Birmingham worked with our company, Nymbol 
+<https://nymbol.co.uk/>, to create an app and a Kinect (gesture-driven) 
+interactive screen within the building that serve as fun and visual 
+introductions to its vast collections. We needed to find a way of making the 
+library’s archive collections, books and exhibitions available to everyone, as 
+well as making the most of the vast knowledge, passions and expertise of 
+library staff. We worked hard to think about how users might discover content 
+and how they could interact with it.
+
+The result, Dozens & Trails <http://dozensandtrails.com/>, takes a selection 
+of gems, surprises and curiosities hidden in the library’s collections – such 
+as maps, books, manuscripts, images and so on – and groups them in quirky ways 
+that people can explore at their leisure.
+
+“Dozens” <http://www.libraryofbirmingham.com/article/elibrary/dozensandtrails> 
+are groups of 12 related items representing different aspects of the library, 
+pulled together with an interesting common link. For example, we have 12 vivid 
+examples of second world war poster propaganda grouped together, while younger 
+visitors can find 12 of the best “gross out” children’s books at the library.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fculture-professionals-network%2F2014%2Fnov%2F07%2Fdozens-trails-app-library-birmingham%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F11%2F6%2F1415293309836%2Fbee6bf5b-5c59-463a-9df8-c3c35cc6e89d-2060x1133.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20we%20made%20the%20Dozens%20%26%20Trails%20app%20for%20the%20Library%20of%20Birmingham%20%7C%20App%20story&url=https%3A%2F%2Fwww.theguardian.com%2Fculture-professionals-network%2F2014%2Fnov%2F07%2Fdozens-trails-app-library-birmingham%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20we%20made%20the%20Dozens%20%26%20Trails%20app%20for%20the%20Library%20of%20Birmingham%20%7C%20App%20story&url=https%3A%2F%2Fwww.theguardian.com%2Fculture-professionals-network%2F2014%2Fnov%2F07%2Fdozens-trails-app-library-birmingham%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F11%2F6%2F1415293309836%2Fbee6bf5b-5c59-463a-9df8-c3c35cc6e89d-2060x1133.jpeg>
+ ‘Dozens’ are groups of 12 related items representing different aspects of the 
+library. Photograph: Nymbol 
+“Trails” <http://www.libraryofbirmingham.com/article/elibrary/dozensandtrails> 
+consist of 12 artefacts, photographs or landmarks, each located on a map which 
+together form a trail around the city. Users can use the app to view these 
+different places as they looked in the early days of photography and see 
+archival material to learn about their history.
+
+Current trails include Birmingham’s anti-slavery landmarks, a tour of city 
+life living on sixpence a day during the 18th and 19th centuries, and a more 
+contemporary side ofBirmingham <https://www.theguardian.com/uk/birmingham> 
+following sculptures around the city.
+
+The app allows people to come across unexpected things usually hidden from 
+public view. For example, the Mucker concert hall is Birmingham’s only 
+surviving Victorian music hall. Located near the Bullring shopping centre, 
+audiences would load up with cheap fruit and veg from the outdoor markets to 
+hurl at performers. We have a copy of a programme from 1884 that you can find 
+on the app and then discover in the library itself. The Dozens and Trails app 
+also allows visitors to purchase prints of historical posters, maps and 
+photographs, adding a commercial element to it.
+
+It has been an ambitious project. A major challenge was curating content for a 
+mobile audience: short, concise, informative and engaging content that could 
+provide a taster of the library’s collections. Also, we wanted to bring 
+together the voices of many staff from across the building and celebrate their 
+passions, expertise and interests. As such, we had to move away from the usual 
+method of content development by one central team, to having many different 
+authors.
+
+To tackle this, in collaboration with the digital content and innovation teams 
+at the library, we developed style and user guides to allow all members of 
+staff to participate. The content management system was developed to allow the 
+library to take full ownership of content publishing, so they didn’t have to 
+keep coming back to us for specialist technical know-how.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fculture-professionals-network%2F2014%2Fnov%2F07%2Fdozens-trails-app-library-birmingham%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F11%2F6%2F1415293825257%2F5b2e4889-d17d-48f5-b0ea-195e119ba7fa-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20we%20made%20the%20Dozens%20%26%20Trails%20app%20for%20the%20Library%20of%20Birmingham%20%7C%20App%20story&url=https%3A%2F%2Fwww.theguardian.com%2Fculture-professionals-network%2F2014%2Fnov%2F07%2Fdozens-trails-app-library-birmingham%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20we%20made%20the%20Dozens%20%26%20Trails%20app%20for%20the%20Library%20of%20Birmingham%20%7C%20App%20story&url=https%3A%2F%2Fwww.theguardian.com%2Fculture-professionals-network%2F2014%2Fnov%2F07%2Fdozens-trails-app-library-birmingham%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F11%2F6%2F1415293825257%2F5b2e4889-d17d-48f5-b0ea-195e119ba7fa-2060x1236.jpeg>
+ The £189m Library of Birmingham opened in September 2013. Photograph: RIBA/PA 
+Dozens & Trails received 1,500 downloads in its first three months and is 
+still growing. It started out just featuring the library’s own collections, but 
+now it incorporates content inspired by the library’s partners, soEnglish 
+Heritage <http://www.english-heritage.org.uk/>, the Birmingham Museums Trust 
+<http://www.bmag.org.uk/about> and the Media Archive for Central England 
+<http://www.macearchive.org/> have all provided archival material.
+
+The library is constantly uploading new material to the app and there is a 
+special Tolkien trail planned for release next month to coincide with the new 
+Hobbit film. This trail will connect places from Tolkien’s home and school life 
+as well as places that inspired his books. The author is such a hero of 
+Birmingham, it seems apt that he should get his own trail.
+
+App facts
+
+• Length of the project: eight months
+• Companies involved: Nymbol <https://nymbol.co.uk/> and the Library of 
+Birmingham <http://www.libraryofbirmingham.com/>
+• Size of the team: one technical director, two designers, one content 
+strategist, one project manager, six digital content and innovation team 
+members, plus staff from across the library
+
+More App stories
+
+• How we made the Show and Tell circus app for children with autism 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/sep/26/show-and-tell-circus-app-autism>
+• How we made The War Poetry of Wilfred Owen app for iPad 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/aug/29/war-poetry-wilfred-owen-app-story>
+• How we made Lumo Deliveries Inc 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/jun/13/how-we-made-lumo-deliveries-inc-game>
+
+Rebecca Bartlett and Mark Steadman are members of the digital team at Nymbol 
+<https://nymbol.co.uk/>, which you can follow on Twitter @nymbol 
+<https://twitter.com/nymbol>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+ 

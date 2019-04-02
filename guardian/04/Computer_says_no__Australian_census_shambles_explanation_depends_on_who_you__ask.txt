@@ -1,0 +1,206 @@
+
+Questions persist over the government’s explanation for the failure of the 
+census as the minister responsible scrambles to reassure Australians of the 
+security of their data.
+
+The Australian Bureau of Statistics 
+<https://www.theguardian.com/australia-news/australian-bureau-of-statistics> 
+shut down the census website on Tuesday night after hundreds of thousands of 
+people attempting to complete the five-yearly snapshot received error messages.
+
+
+Census 2016: ABS says deliberate attacks were to blame for website crashing
+ Read more  
+<https://www.theguardian.com/australia-news/2016/aug/09/the-great-australian-census-fail-of-2016-website-crashes-under-load>
+David Kalisch, the chief statistician, said later the site had been subjected 
+<https://www.theguardian.com/australia-news/2016/aug/09/the-great-australian-census-fail-of-2016-website-crashes-under-load>
+ to a series of distributed denial of service (DDoS) attacks from outside 
+Australia over the course of the day.
+
+The aim of a DDoS attack is to overwhelm an online service with traffic from 
+multiple sources, rendering it unavailable.
+
+The eventual decision to shut down the website was a precautionary measure 
+taken to protect personal information from the “malicious” attacks, said 
+Kalisch.
+
+Michael McCormack, the minister responsible for the census, gave a less clear 
+cut version of events at a press conference he held with Kalisch later on 
+Wednesday morning.
+
+He said it was “neither an attack nor a hack” 
+<https://www.theguardian.com/australia-news/2016/aug/10/census-2016-website-was-not-hacked-or-attacked-government-claims>
+, but an attempt to frustrate the ABS, compounded by the failure of a router 
+used to geoblock submissions from outside Australia.
+
+ Both Malcolm Turnbull and his special adviser on cyber security, Alastair 
+MacGibbon, then said that it was a “confluence of events” that caused the 
+problem.
+
+Census 2016: outage due to 'overcautious' response, not hacking, government 
+says
+ Read more  
+<https://www.theguardian.com/australia-news/2016/aug/10/census-2016-website-was-not-hacked-or-attacked-government-claims>
+Clarification on whether the government is backtracking from its initial 
+diagnosis of a DDoS – which is an attack – has been sought by Guardian 
+Australia from the ABS, but the explanation has been the subject of some 
+scepticism.
+
+Cybersecurity and infrastructure engineering commentators have argued there is 
+no evidence to show there was a deliberate DDoS, and that the failure was the 
+result of inadequate web infrastructure.
+
+A screenshot of Google Ideas and Arbor Networks’ digital attack map 
+<http://www.digitalattackmap.com/#anim=1&color=0&country=ALL&list=0&time=17022&view=map>
+ – a live data visualisation that tracks DDoS’s worldwide – showing no 
+significant activity in Australia on Tuesday has been widely shared on Twitter.
+Matthew Hackling (@mhackling) 
+hmmm. nothing unusual DDoS wise for australia and yesterday #censusfail 
+<https://twitter.com/hashtag/censusfail?src=hash> pic.twitter.com/x7rQ0jzI1F 
+<https://t.co/x7rQ0jzI1F>
+ <https://twitter.com/mhackling/status/763122057307525120> August 9, 2016 
+<https://twitter.com/mhackling/status/763122057307525120> 
+The creator of the map – which manufactures equipment to protect against such 
+attacks – warned that, while it draws from “one of the most complete data sets 
+available, it was an incomplete picture”.
+
+Geordie Guy, an infrastructure engineering manager who oversees the operation 
+of web applications, said it was “deeply unlikely” there was a DDoS that went 
+unrecorded on the map.
+
+He also noted that abnormal activity had not been remarked upon by members of 
+the Australian Network Operators Group email list – a network of engineers and 
+capacity planners at every internet service provider in Australia.
+
+“If this was a DDoS and not just rubbish capacity planning for a rendezvous 
+condition [everyone doing the same thing at once on a website], I’ll eat my 
+hat,” he said.
+
+Census controversy shows ABS 'needs to do better', says Statistical Society
+ Read more  
+<https://www.theguardian.com/australia-news/2016/aug/09/census-controversy-shows-abs-needs-to-do-better-says-statistical-society>
+Regardless of whether the census was subjected to a DDoS, questions persist as 
+to whether the ABS was adequately prepared for traffic volume and the 
+possibility of such attacks.
+
+Many products and services exist to protect large networks from DDoS attacks 
+and prevent network resources from being used to amplify attacks.
+
+The census was delivered using IBM’s SoftLayer cloud, which has a DDoS defence 
+that protects its entire infrastructure. IBM was awarded the contract by the 
+ABS through open tenders in 2014.
+
+It is possible that this protection was triggered by legitimate traffic, 
+causing an “avalanche” as users refreshed the site – but commentators argue 
+that this and other eventualities should have been foreseen.
+sortius (@sortius) 
+So, I contacted Softlayer support, this was their response @ABSCensus 
+<https://twitter.com/ABSCensus> #CensusFail 
+<https://twitter.com/hashtag/CensusFail?src=hash> pic.twitter.com/7N3zRqtf3u 
+<https://t.co/7N3zRqtf3u>
+ <https://twitter.com/sortius/status/763181521201049600> August 10, 2016 
+<https://twitter.com/sortius/status/763181521201049600> 
+The failure of the website shows there were not enough back-up systems in 
+place – for example, the router used to geoblock that reportedly failed should 
+have been deployed in a pair, “as is best practice”, said Guy.
+
+“It’ll be an interesting witch hunt,” he added.
+
+Patrick Gray, host of the information security podcast Risky Business, shared 
+“trusted” analysis on Twitter that suggested the website’s servers had not been 
+coded to “load balance to other servers” in the event of overload.
+
+“Someone’s getting fired”, he added.
+Patrick Gray (@riskybusiness) 
+Analysis from trusted source of trusted source. Someone's getting fired. I'm a 
+fucking journo and I'm not this dumb:pic.twitter.com/gyQajFDQcQ 
+<https://t.co/gyQajFDQcQ>
+ <https://twitter.com/riskybusiness/status/763189895292555264> August 10, 2016 
+<https://twitter.com/riskybusiness/status/763189895292555264> Patrick Gray 
+(@riskybusiness) 
+There's never been a more exciting time to be in DDoS mitigation.
+ <https://twitter.com/riskybusiness/status/763195145936211969> August 10, 2016 
+<https://twitter.com/riskybusiness/status/763195145936211969> 
+Danny Bishop, a Melbourne-based digital media strategist, wrote in a blog post 
+<https://dannybishopcreative.wordpress.com/2016/08/10/census-fail-and-the-dangers-of-estimating-traffic/>
+ that it was self-evident that “the technology failed”.
+
+Fifteen million households were expected to complete the census.
+
+An ABS spokesman had told Fairfax Media the census site 
+<http://www.smh.com.au/business/consumer-affairs/census-2016-chaos-for-australians-ahead-of-august-9-20160802-gqizw5.html>
+ had been tested to one million form submissions per hour, which was twice the 
+anticipated load – suggesting that 500,000 forms per hour were expected.
+
+Bishop pointed to this as evidence that, with five million households on the 
+east coast of Australia, the ABS had underestimated the demand the site would 
+be put under between key hours of 7pm and 9pm on census night.
+
+Others had reached the same conclusion – even before Tuesday night.
+Census Australia (@ABSCensus) 
+@JennyEjlak <https://twitter.com/JennyEjlak> The online Census form can handle 
+1,000,000 form submissions every hour. That’s twice the capacity we expect to 
+need.
+ <https://twitter.com/ABSCensus/status/755588601656725505> July 20, 2016 
+<https://twitter.com/ABSCensus/status/755588601656725505> Kim Burgess 
+(@_______kim) 
+"1,000,000 form submissions every hour. That's twice the capacity we expect to 
+need."
+
+Lol. #CensusFail <https://twitter.com/hashtag/CensusFail?src=hash>
+ <https://twitter.com/_______kim/status/762973491670814721> August 9, 2016 
+<https://twitter.com/_______kim/status/762973491670814721> 
+The ABS’s move to a digital format this year was in part a cost-saving 
+measure, with about $100m expected to be saved on salaries of census collectors 
+out of the 2011 total of $440m.
+
+Close to $10m was spent 
+<http://eftm.com.au/2016/08/census-2016-the-10-million-online-census-what-went-wrong-30681>
+ on the design, development and implementation of the “eCensus Solution 2016” 
+by IBM.
+
+A further $470,000 was spent on load testing – most of it on licences for the 
+necessary equipment – carried out by an Australian company, Revolution IT Pty 
+Ltd, over three separate tenders.
+Kim Burgess (@_______kim) 
+"License for Census load testing" and "Load Testing Services for Census 2016"
+
+$469,367.50#CensusFail <https://twitter.com/hashtag/CensusFail?src=hash> 
+pic.twitter.com/sDNzlhKA7y <https://t.co/sDNzlhKA7y>
+ <https://twitter.com/_______kim/status/762982313223344129> August 9, 2016 
+<https://twitter.com/_______kim/status/762982313223344129> 
+Professor Greg Austin of the University of New South Wales’ Australian Centre 
+for Cyber Security said information security is “not cheap or easy”, and 
+questioned how much the government was prepared to spend on “this new 
+challenge”.
+
+“Maybe we need some institutional innovation in the structures of government 
+and a different conversation with the public about the threats,” he said.
+
+The most outlandish theory for the failure is that the census was sabotaged by 
+supporters of the Olympic swimmer, Sun Yang, who was described as a “drug 
+cheat” by the Australian, Mack Horton.
+
+
+Census 2016: Labor urges all Australians to include their names
+ Read more  
+<https://www.theguardian.com/australia-news/2016/aug/09/census-2016-labor-urges-all-australians-to-include-their-names>
+Kalisch would not speculate on the exact source of the attack early on 
+Wednesday to ABC radio but did say that in the past Australian government sites 
+had been subject to attacks from hackers in China.
+
+McCormack said at the press conference on Wednesday that most of the traffic 
+was coming from the US – but most internet users in China use virtual private 
+networks (VPNs) to appear as being in different countries to get around the 
+firewall in the People’s Republic.
+
+His priority, as evidenced by his rejection of the terms “attack” and “hack”, 
+was to reassure Australians their data was secure and the security of the 
+system had not been compromised.
+
+The ABS said Australians would be able to reattempt the census “to well into 
+September”, and that fines would not be imposed for completing the 
+questionnaire after census night.
+
+Whether there has been an uptick in requests for paper forms is not yet known.
+ 

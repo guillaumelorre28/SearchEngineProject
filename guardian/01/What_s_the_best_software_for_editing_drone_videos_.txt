@@ -1,0 +1,155 @@
+
+We produce drone shoots of luxury properties, and I would like to edit the raw 
+footage and add graphics in-house. Please can you suggest which software is the 
+easiest to use and most intuitive to create professional videos on both Windows 
+and Mac? Paul Coleman
+
+Bad news I’m afraid. No serious video editing program is intuitive or easy to 
+use, and the more power you need, the harder things get.
+
+Worse news still. There are dozens of options, but there is no “best”. Or at 
+least, the best option depends on the video file formats you are trying to 
+edit, the hardware you have available, what you need to do, how skilled you 
+are, and your personal taste in software.
+
+There is good news, though. Most video editors are free, or offer free trial 
+periods, or have limited free versions with paid upgrades to the full versions.
+Software <https://www.theguardian.com/technology/software> houses expect you to 
+try a few programs before you find one that suits you.
+
+Pick a simple editing operation and try it with the most likely options using 
+the same 60-second video. If you can’t manage a simple operation in a 
+reasonable time, you won’t have much luck with the complicated ones.
+
+Training wheels
+
+If you are new to editing video, start with a simple program to learn the 
+basics. Microsoft’sMovie Maker 
+<https://support.microsoft.com/en-us/help/14220/windows-movie-maker-download> 
+is the obvious choice for Windows users, and Apple’s iMovie for Mac users. Both 
+can produce videos you could put on YouTube. I wouldn’t recommend them for your 
+website, which already includes some very professional videos, but the 
+experience should help you to choose a more advanced program.
+
+Movie Maker has not been updated since 2012 and is not officially supported on 
+Windows 10, though you can still download and run it. The many alternatives 
+include open sourceAvidemux <http://fixounet.free.fr/avidemux/> and the VSDC 
+Free Video Editor <http://www.videosoftdev.com/free-video-editor>. I think 
+VSDC’s interface is more attractive, but Avidemux has a betteruser guide 
+<http://www.avidemux.org/admWiki/doku.php?id=build:doctop>. VSDC pushes its 
+paid-for ($29.99 lifetime) upgrade, but you can actually use it – look for the 
+“Continue” button.
+
+You could also try Wondershare’s Filmora <http://filmora.wondershare.com/> 
+(Mac and Windows), which has an “easy mode”, and/or the cloud-basedWeVideo 
+<https://www.wevideo.com/sign-up>. Both have the same drawback: the free 
+versions watermark your videos. However, both are cheap if they do what you 
+need. Filmora costs $49.99 for a lifetime of personal use or $99.98 for 
+business use. Unlimited WeVideo costs $69 per year.
+
+Another easy alternative is GoPro Studio 
+<https://gopro.com/software-app/gopro-studio#description>. This is aimed at 
+GoPro owners who are new to editing videos, but it’s free to everyone. If you 
+are not using a GoPro camera, you may have to convert yourvideo files 
+<https://gopro.com/support/articles/what-type-of-media-files-can-i-add-to-a-gopro-studio-20-project>
+ to a compatible mp4 format. If this fails, GoPro has a help page:Video Fails 
+to Import into GoPro Studio 
+<https://gopro.com/support/articles/video-fails-to-import-into-gopro-studio>.
+
+Advanced editing
+
+The premier PC video editing software is Adobe 
+<https://www.theguardian.com/technology/adobe> Premier Pro, which runs on both 
+Macs and Windows PCs. This is the best choice for most professional purposes. 
+It has the most hardware and software support, and the most official and 
+unofficial help in the form of tutorial videos, books and online articles. It’s 
+the editor most professionals know, so you can always hire someone for a 
+difficult project, or pass your unfinished in-house project to an outside 
+studio.
+
+You can buy Adobe Premier Pro as a standalone program or rent it as part of 
+Adobe’sCreative Suite <https://www.adobe.com/uk/creativecloud.html>. You may 
+already use other CS programs such as Photoshop. Lightroom, Illustrator, 
+InDesign, and Audition. It’s not cheap, but professional tools rarely are.
+
+Apple’s Final Cut Pro is an alternative for Mac users, and it’s the best 
+choice for home/small business users who already know iMovie. However, if you 
+don’t have a high-end Mac, I’d be cautious about buying one to run it.
+
+Final Cut Pro X upset a lot of professional video editors 
+<http://arstechnica.com/apple/2012/01/video-pros-apple-needs-to-acknowledge-the-pro-industry-and-fast/>
+ because Apple “consumerised” it and changed their workflows. Some were already 
+abandoning Macs because of the lack of an easily upgradable tower system, which 
+hasn’t been helped by Apple’s failure to upgrade the Mac Pro for three years. 
+Professional video editors always want more speed, because time is money. They 
+often want to upgrade their processors and graphics cards when new technologies 
+arrive, and big PC towers enable that.
+
+Of course, you don’t need either Adobe Premier Pro or Final Cut Pro X to edit 
+drone footage. However, you will have to invest a lot of time to learn video 
+editing, and if you’re doing it for professional purposes, you should consider 
+using professional software.
+
+Mid-range to pro
+
+Many other video editing programs can produce professional results, but there 
+is no consensus about which is best.
+
+The main contenders include Adobe Premiere Elements, Sony Vegas Pro and Vegas 
+Movie Studio,Cyberlink’s new PowerDirector 15 <http://www.cyberlink.com/>, 
+Corel Video Studio <http://www.videostudiopro.com/en/products/videostudio/pro/>,
+Magix Movie Edit Pro 
+<https://www.amazon.co.uk/Magix-MAGIX-Movie-Edit-Pro/dp/B01KA66OI0/>, 
+Editshare’sLightworks <http://www.editshare.com/products/lightworks>, and 
+Blackmagic’sDaVinci Resolve 
+<https://www.blackmagicdesign.com/uk/products/davinciresolve>. Many programs 
+come in several versions to cover the range from beginners to advanced users.
+
+Adobe Premiere Elements 16 
+<http://www.adobe.com/uk/products/premiere-elements.html> has only just come 
+out, and would be a good choice if you think you might move to Premier Pro 
+later. At the time of writing, it hasn’t reached Amazon.co.uk, but you could 
+buy it from Adobe or pick up an earlier version at a lower price.
+
+I have previously recommended Sony Vegas Movie Studio for its power and ease 
+of use. However, in May,Sony sold most of its creative products to Magix 
+<http://www.sonycreativesoftware.com/news/pressreleases/2016/sony-creative-software-sell-products-to-magix>
+, including the six programs in the Vegas range and loads of audio and music 
+software. The future is unpredictable, butVegas Movie Studio 13 Platinum 
+<http://www.vegascreativesoftware.com/us/vegas-movie-studio-product-comparison/>
+ still looks a reasonable program for a beginner, with the Vegas Pro range as 
+an upgrade.
+
+Corel Video Studio, Cyberlink PowerDirector, Magix Movie Edit Pro and other 
+video editors also have their fans. I suspect most users are amateurs, but they 
+should all be able to do what you need.
+
+Finally, both Lightworks and DaVinci Resolve 
+<https://www.blackmagicdesign.com/sa/support/family/davinci-resolve-and-fusion> 
+are powerful professional programs with free versions, but I wouldn’t recommend 
+either to beginners. The free Lightworks only works for videos up to 720p, but 
+there’s a Linux version, so it appeals to people who can’t run Adobe or Apple 
+software. DaVinci Resolve’s highlight feature is colour correction. In both 
+cases, I’d suggest watching some introductory videos (Lightworks 
+<https://www.youtube.com/watch?v=gdPBe_nLjc8>, Resolve 
+<https://www.youtube.com/watch?v=PgTRPXsgv-I>) and video tutorials before 
+downloading them.
+
+Keep it simple
+
+I’ve never edited any drone footage, but I am sure that there are plenty of 
+tips and tricks in the forums devoted to drone photography. There are also 
+companies that specialise in this area, such asHexii Aerial Imaging 
+<http://www.hexiiaerialimaging.com/cinematic-post-production/> (which says it 
+uses Adobe Premier and After Effects, plus DaVinci Resolve for grading).
+
+I suggest that you keep things as simple as possible, rather than trying to 
+compete with Hexii orDigital Snowball 
+<http://www.digitalsnowball.com/5-tips-on-drone-video-editing>. All the best 
+video editing is done in the mind, by choosing the best clips and putting them 
+in the most compelling order. If you can nail that, nobody is going to miss the 
+fancy editing tricks.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

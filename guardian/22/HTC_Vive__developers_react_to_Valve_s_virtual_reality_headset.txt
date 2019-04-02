@@ -1,0 +1,142 @@
+
+Just when you thought you had the consumer virtual reality market mapped out, 
+along comes Valve, the veteran developer behind the dominant Steam gaming 
+platform, to complicate things yet further.
+
+At the Mobile World Congress on Sunday 
+<https://www.theguardian.com/technology/2015/mar/01/mobile-communications-industry-gathers-in-barcelona-for-mwc-2015>
+, smartphone manufacturer HTC announced the Vive, a powerful new VR headset, 
+built in association with Valve, and featuring two 1200 x 1080 displays, a 
+smooth 90-frames-per-second refresh rate and a bunch of motion tracking 
+technologies: this includes two “base stations” that will work like Microsoft’s
+Kinect <https://www.theguardian.com/technology/kinect>, allowing the headset to 
+track the player’s movement within the room. Vive is also set to ship with two 
+wireless controllers – although little was said about what these would look 
+like.
+
+The big news is, it’s due out later this year, potentially beating both the 
+Oculus Rift 
+<https://www.theguardian.com/technology/2014/dec/11/virtual-reality-oculus-rift-gaming-vr-development>
+andSony Project Morpheus 
+<https://www.theguardian.com/technology/2014/jul/02/sony-project-morpheus-virtual-reality-headset>
+ to market.
+
+But what do virtual reality developers make of the hardware? We asked five 
+developers currently working on VR projects for their reactions.
+
+Nick Pittom, developer, Fire Panda <http://www.firepanda.co.uk/>
+
+The specs sound pretty solid: 90hz is on par with Oculus currently, and the 
+screen resolution seems good. The tracking volume of 15ft sounds excellent and 
+it’s certainly an important area. Certainly it seems for the first time Oculus 
+has some real competition, releasingthis year (no confirmed Oculus release, but 
+this year might also happen), of comparable hardware. However, Valve is a 
+behemoth inPC <https://www.theguardian.com/technology/pc> gaming and will have 
+name recognition to put themselves on a level with Oculus. Really, it’s 
+exciting because competition can only help developers and consumers.
+
+However it’s the proposed input being included with the headset – two hand 
+tracking controllers – that seems the biggest deal. Oculus has been notoriously 
+shy about speaking on input, besides suggesting they’re working on it. A 
+bundled headset and controller developer kit coming within weeks will be a very 
+big deal for developers, and Oculus will have to reveal more about their own 
+plans soon or, with headsets perhaps being equal, risk losing their current 
+mind-share place as ‘top’ VR hardware developer.
+
+This is a very big deal for VR as it now puts two HMDs on the market aimed at 
+the highest possible consumer VR experience. Valve is one of the biggest names 
+in PC gaming and certainly the biggest online games store. Sony may make some 
+waves with Morpheus, but PC will likely be the leading VR platform. For the PC 
+to get two big players at this stage vying for their attention it can only mean 
+some very exciting things in the future, and of course, devs get a bigger 
+market to sell to. HTC being the partner is an interesting choice, and I guess 
+it will be interesting to see if they have their own Gear VR-like plans for the 
+future, something I imagine is inevitable. Mobile VR is likely the future (no 
+one likes wires) soHTC <https://www.theguardian.com/technology/htc> are 
+positioning themselves to be a big player.
+
+Daniël Ernst, designer, The Shoebox Diorama <http://www.theshoeboxdiorama.com/>
+
+The specs sound great, but let’s focus on the best thing: being able to walk 
+around.
+I had the pleasure of visiting the Valve Room last year and it was wonderful. 
+It was basically a broom closet filled with QR stickers. The HMD looked like it 
+was kitbashed together, like a prop from Blade Runner. It worked, though. You 
+could walk around. This opened up a plethora of new design possibilities.
+
+Playing a VR game with a controller or keyboard is not an easy experience to 
+get used too. The first couple of minutes of Half Life 2 in VR is among the 
+best experiences I have ever had in a game. The ten minutes after that were the 
+most horrible. Moving around in virtual space with a controller or keyboard is 
+unnatural, breaks the immersion and makes you sick.
+
+Being able to actually walk around and interface with objects in 3D space 
+directly solves these very important problems, while of course introducing some 
+new ones.
+
+Katie Goode, developer, Triangular Pixels <http://www.triangularpixels.net/>
+
+My initial thoughts were: “Wow, I need one in my life.” It’s a great looking 
+device with some solid names behind it. The most exciting element is the 
+tracking of a 15 feet squared space. The press release said the device will let 
+you get up, walk around and explore your virtual space, inspect objects from 
+every angle and “truly interact with your surroundings”.
+
+This will allow for some really interesting game play – if it is safe to do so
+. Being able to freely move around but still have a cord attaching you to an 
+expensive PC rig does worry me slightly. It seems like it would be up to 
+developers to be responsible with how they use the technology, in order to keep 
+players safe. Does the hardware automatically detect obstacles in the room? 
+Does it know if the cable is being pulled too tight? Are the cables designed to 
+come away easily to prevent damage to hardware?
+
+I’m interested to see the wireless controllers, too, as not much was said 
+other than the fact they were HTC-built and used hand tracking. The issue here 
+would be if those controllers come with the kit when it comes to retail, as 
+that’ll directly affect the numbers of games that support them.
+
+The announcement probably affects the gaming industry more than others. The 
+partnership with Valve is already spreading rumours about VR versions of the 
+company’s own titles. It also suggests that the hugely dominant platform, 
+Steam, will be one of the go-to places for VR content in the future. These are 
+very exciting times.
+
+Hrafn Thorri Thorisson, CEO, Aldin Dynamics <http://www.aldindynamics.com/>
+
+I’m not intending to sound dramatic, but Vive could change everything. Valve 
+is just about the only company in the world that’s close to where Oculus is in 
+terms of expertise and skillset required to deploy quality VR hardware. 
+Moreover, Valve is the creator of some of history’s most popular video games — 
+they really know how to make engaging content and the world knows it.
+
+It’s also exciting to see Valve partnering up with quality VR developers like 
+CloudheadGames <https://www.theguardian.com/technology/games>, which is among 
+the most experienced VR content creators out there. The fact that they’ve 
+jumped on board says a lot about the promise and quality of Vive.
+
+
+The fact that HTC included a release window for the consumer version, on top 
+of everything else, is going to help kick things into high gear. Valve has the 
+largest PC gaming distribution platform and that is a major advantage over all 
+other players in the PC VR space. They have the audience, they have the 
+experience and they have content creators. We’ll have to see wait and see what 
+else they’ll reveal — but at this point in time it is safe to say that Valve’s 
+participation will dramatically alter the VR scene.
+
+Dan Page, Opposable Games <http://www.opposablegames.com/>
+
+A partnership between HTC and Valve is serious stuff; they’re both great at 
+what they do and, in my opinion, create some of the most seamless user 
+interfaces on the market. Oculus is the first to admit that the user experience 
+on the Rift is shoddy to say the least – to bring VR to the consumer we need 
+access to be as fiddle-free as
+possible.
+
+
+So far I’m hearing some amazing reports concerning the accuracy of the 
+tracking, and, my word, a 15 x 15 feet tracking area is really quite something; 
+if this actually works they’re onto some serious holodeck stuff here. Some of 
+the most immersive experiences I’ve had are when an Oculus Rift has been set up 
+with enough distance to effectively have a bit of a wander. The Vive might make 
+this a more regular occurrence.
+ 

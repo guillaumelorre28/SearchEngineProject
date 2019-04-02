@@ -1,0 +1,93 @@
+
+Russian hackers were able to access thousands of emails from a top-ranking 
+Democrat after an aide typed the word “legitimate” instead of “illegitimate” by 
+mistake, aninvestigation by the New York Times has found 
+<http://www.nytimes.com/2016/12/13/us/politics/russia-hack-election-dnc.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=a-lede-package-region&region=top-news&WT.nav=top-news>
+.
+
+The revelation gives further credence to the CIA’s finding last week 
+<https://www.theguardian.com/us-news/2016/dec/10/cia-concludes-russia-interfered-to-help-trump-win-election-report>
+ that the Kremlin deliberately intervened in the US presidential election to 
+help Donald Trump. The president-elect has angrily denied the CIA’s assessment, 
+calling it “ridiculous”.
+
+In the run-up to the election, the US Democratic National Committee (DNC) 
+received numerousphishing emails 
+<https://www.theguardian.com/technology/2014/jun/06/how-to-protect-yourself-from-phishing-attacks>
+, the paper reported on Tuesday. One of them was also sent to John Podesta, the 
+chairman of Hillary Clinton’s campaign. An aide, Charles Delavan, spotted the 
+message sent to Podesta’s private account. It asked Podesta to change his 
+password.
+
+CIA concludes Russia interfered to help Trump win election, say reports
+ Read more  
+<https://www.theguardian.com/us-news/2016/dec/10/cia-concludes-russia-interfered-to-help-trump-win-election-report>
+Delavan realised the email was a phishing attack and forwarded it to a 
+computer technician. However, he made a typo, writing: “This is a legitimate 
+email.” He added: “John needs to change his password immediately.”
+
+The blunder gave Kremlin hackers access to about 60,000 emails in Podesta’s 
+private Gmail account. According to US intelligence officials, Moscow then gave 
+theemail cache to WikiLeaks 
+<https://www.theguardian.com/commentisfree/2016/oct/31/the-podesta-emails-show-who-runs-america-and-how-they-do-it>
+. The website released them in October, and the email scandal dominated the 
+news cycle and was exploited by Trump.
+
+The FBI had known for some time that Russia 
+<https://www.theguardian.com/world/russia> was making a wide-ranging and 
+systematic attempt to hack US political institutions including the White House 
+and the State Department, the paper reported. In September 2015 the FBI 
+discovered that a cyber-espionage team linked to the Russian government had 
+penetrated the DNC.
+
+But instead of sending a top-level delegation and raising the alarm, the FBI 
+got a single special agent to make a phone call. The agent, Adrian Hawkins, 
+rang the DNC and was put through to the IT helpdesk. He told the tech-support 
+contractor on duty, Yared Tamene, that a group called “the Dukes” had hacked 
+the DNC’s computer networks.
+
+According to the paper, Tamene thought Hawkins’s message might have been a 
+prank call. He googled “Dukes” but found nothing. He then failed to alert 
+senior staff after his cursory search of the DNC’s computer system logs 
+revealed no obvious sign of an intrusion.
+
+Hawkins rang back repeatedly over the next few weeks. Tamene, however, did not 
+respond. “I did not return his calls, as I had nothing to report,” he wrote in 
+a memo seen by the New York Times.
+
+The FBI’s laid-back approach meant that Russian hackers were able to roam 
+inside the DNC’s computer systems for almost seven months, before Democratic 
+officials finally realised the gravity of the attack and brought in external 
+cybersecurity experts.
+
+In March 2016 a second Russian hacking group targeted the DNC. It sent 
+hundreds of phishing emails, which began: “Someone just used your password to 
+try to sign into your Google account.” One of the scam’s victims was Billy 
+Rinehart, a former DNC regional field director, who clicked on the “change 
+password” message while half asleep.
+
+According to the New York Times, the Obama administration was slow to respond 
+to the hacking threat, underestimated its seriousness and fluffed several 
+opportunities to stop it. Theresulting email furore 
+<https://www.theguardian.com/us-news/2016/oct/31/hillary-clinton-latest-emails-explained>
+ damaged Clinton’s election prospects and helped Trump to victory, as the 
+Kremlin had almost certainly intended.
+
+After the data breach the DNC hired CrowdStrike, a cybersecurity company. It 
+quickly established the hack had originated in Russia and identified two groups,
+Cozy Bear and Fancy Bear 
+<https://www.theguardian.com/technology/2016/jul/29/cozy-bear-fancy-bear-russia-hack-dnc>
+. Cozy Bear, linked to Russia’s FSB spy agency, had begun its phishing 
+operation in summer 2015, the paper reported.
+
+Fancy Bear joined the attacks in March 2016. The hacking group is linked to 
+the GRU, Russian military intelligence. It was Fancy Bear that hacked Podesta’s 
+email account, the paper said. The two Kremlin hacking groups were seemingly 
+unaware of each other, sometimes stockpiling the same stolen documents.
+
+Dmitri Alperovitch, CrowdStrike’s co-founder and chief technology officer, 
+told the paper there was no doubt Russia was responsible. “There’s no plausible 
+actor that has an interest in all those victims other than Russia,” he said. 
+Additionally, the hacking groups were active at times matching Moscow’s 
+timezone, he added.
+ 

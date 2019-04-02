@@ -1,0 +1,44 @@
+
+Today Y, for YAGNI... which stands for "you ain't gonna need it" and is an 
+important principle of Agile development, with strong benefits for the business.
+
+The basis for YAGNI stems from a failure common in many software development 
+projects: that when a developer creates a component of a system they tend to 
+give it more flexibility than is immediately necessary, so that it can be 
+reused in more contexts and provide more value. But the result in practice is 
+almost always over-engineering: the component costs more to develop, the 
+suspected additional use rarely materialises, when it does materialise it has 
+requirements that don't quite match the actual implementation, and the 
+component as a whole is more brittle, less comprehensible to successive 
+developers and more difficult to maintain.
+
+By contrast YAGNI says "you ain't gonna need it": develop the absolute minimum 
+to get it working for the immediate problem, and extend it later only if 
+another specific needs arises. This works in Agile development because there is 
+a wider supporting structure which enables changes to be made with minimal cost.
+
+An excellent example of YAGNI in action was our implementation of content 
+workflow. There are lots of things you could do with workflow. You can lock 
+content to ensure that only one person can edit it at a time; you can branch 
+content so that different versions can be worked on simultaneously; one of our 
+senior stakeholders was keen on allowing numbered versions which she had seen 
+elsewhere, allowing individual changes to be tracked and traced, and even 
+allowing someone to switch back to a previous numbered version -- but she did 
+say that the feature was almost never used.
+
+What we did in practice was a minimal workflow with minimal cost: we built in 
+the ability to have content as draft and live, and very little more. That was 
+sufficient for the staff who we knew would be using it. It seems like we could 
+have taken the opportunity to build more, in case more people with more needs 
+would use it. But you know what they say -- you ain't gonna need it. In the 
+months following that very early stage in the project the company changed a 
+lot, and among other things this included much more integrated working between 
+editorial teams who were previously designated "web" or "print"... these days 
+that distinction has diminished. The technological impact is that many 
+editorial staff are using an integrated front-end, sitting outside the web 
+system, and that's where the workflow is handled now.
+
+The industry-wide drive for integrated publishing changed our working 
+environment; if we'd have developed elaborate workflow in the web system it 
+would have been wasted effort, and a large wasted cost for the company.
+ 

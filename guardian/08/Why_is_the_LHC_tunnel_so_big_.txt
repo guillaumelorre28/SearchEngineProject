@@ -1,0 +1,115 @@
+
+I just registered for a meeting of the European Strategy Group 
+<http://europeanstrategygroup.web.cern.ch/europeanstrategygroup/> on particle 
+physics. This is a year-long talk-fest mapping out plans, aspirations and 
+options for the next few years in the subject1. 
+
+Amongst the issues being considered is the question of how we might continue 
+to explore the high-energy frontier in the next decades, and what machines we 
+might need to do this.
+
+There are multiple constraints to deal with. Budget is one of course. 
+Available, or potentially available, technology is another. But there are some 
+very basic physics constraints too.
+
+The main ones are related to the reason the Large Hadron Collider 
+<http://lhc.web.cern.ch/lhc/> (LHC) is so big in the first place. It is 27km 
+long2. Building a long tunnel is very expensive, so why not make a smaller one? 
+
+In fact, the length of the tunnel limits the energy of the colliding beams, 
+and in different ways depending what particles are being accelerated. And it's 
+all down to Newton's laws of motion.
+
+Particles travel in a straight line at a constant speed, unless acted upon by 
+a force; in which case they accelerate - that is, they change speed or 
+direction. Even when the speed of a beam in the LHC tunnel is constant, the 
+particles are still accelerating, because their direction of motion is changing 
+all the time. They are continually being bent around the curved path of the 
+tunnel.
+
+Before the LHC was installed in its 27km tunnel on the outskirts of Geneva, 
+another machine occupied the space. This was LEP - the Large Electron Positron 
+collider. This was turned off in the year 2000 because it had explored all the 
+physics within its reach, and could not increase its energy further. The reason 
+it could not go higher was synchrotron radiation. This is the energy radiated 
+by charged particles when they are accelerated. Photons flew off as the 
+electrons and positrons squealed round the corners. They carried away energy. 
+Every circuit of the beam, more energy could be pumped in, but at some point 
+you reach an energy where as much energy is lost in synchrotron radiation as 
+can possibly be put in by the accelerator, and that's your maximum collision 
+energy. LEP hit that wall.
+
+As an aside, synchrotron radiation can be very useful for other purposes. For 
+example theDiamond Light Source <http://www.diamond.ac.uk/> at the Harwell 
+campus does it on purpose, and the radiated photons are used to study atoms, 
+molecules, materials and surfaces. All very lovely and great science, but a 
+pain in the neck if your want high energy colliding beams.
+
+Anyway, that's where the size of the tunnel comes in. A big, 27km tunnel has a 
+rather gentle curve. If it were smaller, the bends would be sharper, the 
+acceleration would need to be bigger, so the energy lost through synchrotron 
+radiation would be greater, and the maximum collision energy would be lower. 
+Big tunnel needed.
+
+So, LEP was dismantled and the LHC was installed. The LHC can get to higher 
+energies because it collides protons, not electrons and positrons. Protons are 
+about 1800 times heavier than electrons and positrons. The amount synchrotron 
+radiation given off when a particle accelerates depends on the mass very 
+strongly; it decreases like the mass to the power four. So if the mass is 1800 
+times bigger, the energy lost on the bends is (1800 x 1800 x 1800 x 1800) or 
+about 11 trillion times smaller.
+
+This advantage outweighs the messy fact that protons are not elementary 
+particles but are bags of quarks and gluons (which means we can't make use of 
+all the energy, as I describedhere 
+<https://www.theguardian.com/science/life-and-physics/2012/feb/18/1>.) The 
+useable collision energy we can get to is still higher than LEP though, about a 
+factor of ten higher.
+
+But at some point we hit another wall.
+
+Remember Newton. Things travel in a straight line unless acted upon by a 
+force. This is especially true of very fast moving particles. Trying to 
+persuade our protons to travel in a circle is hard work. The force has to be 
+huge. The LHC does it with magnets - big, superconducting magnets - and the 
+limiting factor in the energy of the LHC is the strength of these magnets. Or 
+how much electric current you can push through them to make that magnetic field 
+and bend those protons round the ring.
+
+This is essentially the centripetal force. Imagine whirling a brick round your 
+head on a thin piece of string. If you whirl it too fast, the string will 
+break. The protons are the brick, the string is our magnets. We really, really 
+don't want them to break (again 
+<https://www.theguardian.com/science/blog/2009/aug/12/lhc-shutdown-higgs-boson-cern>
+).
+
+So that, in the end, is why a big tunnel helps. Gentle curves. Therefore, for 
+a given beam energy, less synchrotron radiation (which limited electron energy 
+in LEP) and less force needed (which currently limits the proton energy in the 
+LHC).
+
+The strategy group will consider other options. 
+
+There are designs for linear colliders, which get around the synchrotron 
+radiation problem by being, well, linear. No bends. But only one shot, and they 
+still have to be very, very long to get up to a high enough energy, since the 
+electrons only get one pass through the accelerator rather than being kicked 
+every time they go round a ring.
+
+There are ideas to collide muons. These are heavy versions of electrons, so 
+they have all the advantages of electrons but much less synchrotron radiation 
+(1.6 billion times less, since they are 200 times heavier than electrons. Go, 
+work it out.) One problem here is they decay in 2.2 microseconds. If you can 
+accelerate them quickly enough, time dilation helps - time slows down at high 
+speeds, and their decay time is therefore much longer. But it's tricky.
+
+And this is just about the high energy frontier area. There are plenty of 
+other things to look at too...
+
+1 The meeting I registered for is a public one in Krakow. But there are others 
+I have to go to since I am the UK representative on the group which will draft 
+a report, eventually.
+
+2 For Londoners, this is about as long as the Circle Line. Coincidentally, 
+also yellow.
+ 

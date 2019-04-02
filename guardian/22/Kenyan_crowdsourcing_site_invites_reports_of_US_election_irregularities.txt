@@ -1,0 +1,69 @@
+
+A Kenyan crowdsourcing platform used to monitor violence during the country’s 
+2007 election will be deployed on voting day in the US to allow citizens to 
+report cases of “voter intimidation, misdirection, or any other attempts to 
+keep someone from voting”.
+
+
+Voters witnessing any such problems will be invited to report the violations 
+via text message, Twitter or email toUshahidi <https://www.ushahidi.com/> 
+(Swahili for “testimony”), which will create a database of incidents.
+
+“This is an exciting development because we are more used to seeing tech ideas 
+flowing from the west toAfrica <https://www.theguardian.com/world/africa>,” 
+said Bitange Ndemo, an associate professor at the University of Nairobi 
+Business School.
+
+“Africa has the youngest population in the world and most disruptive 
+developments or apps that can be scaled up come from young people, so it is 
+good to see African developers taking their place on the global scene.”
+
+During the election campaign the Republican candidate, Donald Trump, has 
+called the American electoral system“rigged” 
+<https://www.theguardian.com/us-news/2016/oct/20/citizens-for-donald-trump-exit-poll-roger-stone-rigged-election-claim>
+ andrefused to say 
+<https://www.theguardian.com/us-news/2016/oct/20/donald-trump-refuse-concede-election-electoral-college>
+ whether he would accept the outcome if he loses. Some Trump supporters have 
+threatened totake up arms 
+<http://www.nytimes.com/2016/10/28/us/politics/donald-trump-voters.html?_r=0> 
+if Trump is deemed to have lost unfairly, and Ushahidi will map any incidents 
+of violence that occur.
+
+Ushahidi gained prominence in December 2007 when a disputed presidential 
+election inKenya <https://www.theguardian.com/world/kenya> was followed by 
+weeks of unrest in which more than 1,000 people died and hundreds of thousands 
+were forced from their homes.
+
+Ushahidi collected and recorded eyewitness reports of violence using text 
+messages andGoogle Maps <https://en.wikipedia.org/wiki/Google_Maps>, and the 
+technology has since been used to monitor elections in other countries.
+
+“Elections in general are close to Ushahidi because of our history,” Daudi 
+Were, the executive director,told the news website Quartz 
+<http://qz.com/825442/kenyas-crisis-mapping-startup-ushahidi-will-monitor-the-us-presidential-election/>
+. “Our motto is ‘raise your voice’. Your voice is important. If you see 
+something, positive or negative, then you can share that with us.”
+
+Another company director, Nat Manning, wrote in a blogpost 
+<https://www.ushahidi.com/blog> that the effort would not replace trained 
+monitors from state legislatures and the Republican and Democratic campaigns 
+and independent third-party monitors.
+
+He said the idea was prompted by the “unprecedented” conversation leading up 
+to the election about issues with the voting process, and fears of violence on 
+election day.
+
+“While there is no evidence of voter fraud in America 
+<http://istheelectionrigged.com/>, there are instances of voter suppression and 
+voting issues on election day. As citizens, let’s raise our voices and help to 
+report any issues on election day as well as celebrate all those who run a 
+tight ship and bring trust to the underpinning of our democratic systems,” 
+Manning said.
+
+Ushahidi’s open-source software has been widely used around the world, 
+including to documentsexual harassment in Egypt 
+<https://www.ushahidi.com/blog/2015/03/11/harassmaps-research-effectiveness-of-crowdsourced-data>
+, provide a record of attacks on civilians in Syria and to map areas in need of 
+aid after theHaiti earthquake 
+<http://voices.nationalgeographic.com/2012/07/02/crisis-mapping-haiti/> in 2012.
+ 

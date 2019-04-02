@@ -1,0 +1,130 @@
+
+When Eyeo, the company behind ad-blocking tool Adblock Plus, revealed it was 
+launching an ad tech platform for publishers, it provoked a violent backlash. 
+The press reported thatAdblock Plus would start selling ads to publishers 
+<https://www.theguardian.com/business/2016/sep/13/adblock-plus-launching-platform-to-sell-acceptable-ads>
+, effectively making it a poacher turned gamekeeper.
+
+
+On the face of it, what the company has actually done is extended its existing 
+“Acceptable Ads” platform, which it launched in 2011, creating a more efficient 
+way to whitelist ads.
+
+
+The new platform, which launched in beta last month, lets publishers and 
+bloggers choose from a marketplace of pre-whitelisted ads, allowing them to 
+drag and drop these on to their sites. In short, it is a slicker operation. 
+“Instead of publishers coming to us and giving us URLs of specific ad 
+placements that they have and working with us to fit the criteria, we have been 
+able to automate the process so they only have [whitelisted ads] to choose 
+from,” says Ben Williams, operations manager at Eyeo.
+
+
+But this is not how many in the industry see it. The move effectively creates 
+an ad network. As Johnny Ryan, head of ecosystem at PageFair, which helps 
+publishers to overcome ad-blocking software, says, “There is a troubling 
+conflict of interest in a business blocking ads on the one hand and offering to 
+sell access for advertising on the other.”
+
+
+Indeed, in addition to paying a licensing fee to have their ads deemed 
+acceptable – and therefore whitelisted – larger publishers and ad networks will 
+also see 6% of the total advertising revenue from these ads go to Adblock Plus. 
+A common view is that Eyeo has erected a gate and now it is charging people to 
+go through it.
+
+
+Nick Flood, head of product at Dennis Publishing, says the organisation has 
+seen desktop ad-blocking across its portfolio increase to double-digit 
+percentage levels. It is one of many publishers now grappling with how to 
+address the challenge, implementing initiatives such as serving targeted 
+messages to users.
+
+
+Flood doesn’t welcome Adblock Plus’ news. “Eyeo have built a significant user 
+base over the last few years by allowing users to block adverts across the web. 
+They are a commercial organisation and are looking for their next revenue 
+stream. They already make significant amounts of revenue by charging companies 
+such as Google, Microsoft and publishers to get on their Acceptable Ads list . 
+This is bad enough, but creating its own ad network moves it on a step further.”
+
+
+Williams argues that it is only larger entities – publishers who gain more 
+than 10m additional ad impressions per month from the Acceptable Ads initiative 
+– who pay a licensing fee, which amounts to 30% of the revenue. “I should point 
+out that 90% of the companies on the whitelist don’t pay a dime.”
+
+
+But it still sits very uncomfortably, in part because of the self-regulating 
+nature of the Acceptable Ads initiative and the perceived lack of transparency. 
+“Acceptable Ads [programme] has no representation from recognised advertising 
+and publishing industry bodies such as the IPA, IAB or ISBA,” says Dominic 
+Good, global advertising sales and strategy director at the Financial Times. 
+“It does not have any endorsement from the industry and as such there is very 
+little transparency around what is acceptable, why, to whom, and how these 
+decisions have been arrived at.” Ryan agrees: “Eyeo uses Adblock Plus and its 
+other ad-blocking software as the engine of an opaque business model: it is not 
+known who must pay what to appear where.”
+
+
+Williams argues that the company’s move to hand over control of what is deemed 
+to be an “acceptable” ad to an independent review board is all in the name of 
+transparency. “The criteria will soon be out of our hands.” He says the 
+committee will include representatives from advertisers and publishers as well 
+as users and privacy specialists. “Once we have finished recruiting we will 
+list every representative on the board.”
+
+But it doesn’t tackle the issue of the gate and the gatekeeper. Bill Fisher, 
+senior analyst at eMarketer, says hypocrisy is too strong a word for Eyeo’s 
+latest move. Instead he is realistic. “It’s a business, and it needs to make 
+money. Having control of its own SSP (Supply Side Platform) gives it another 
+instant revenue stream.”
+
+Richard Reeves, managing director of the Association of Online Publishing goes 
+one step further, stating that while Adblock Plus’ move was inevitable, it 
+“doesn’t make it any less hypocritical or applaudable. The driving force behind 
+this move is not to create a fairer and more transparent value exchange between 
+readers, advertisers and publishers, but to profit from the very companies it 
+claims to support.”
+
+Of course, Adblock’s move does allow publishers to reach a valuable, tech 
+savvy audience who have previously put themselves out of reach, and with ads 
+that it deems to be non-intrusive. But Reeves believes this is at great cost. 
+“Both publishers and readers are losing out, whether through reduced revenue or 
+an unwelcome user experience.”
+
+
+Fisher adds that serving ads to those who have opted out doesn’t sound 
+particularly “progressive”. But as Williams is keen to point out, Adblock Plus 
+does continue to give its users the option to block even ads that meet the 
+“acceptable” criteria. “Users can opt out [of all ads] at any time. However, 
+only about 8%–10% of our users choose to block them all. We think, after five 
+years, that’s pretty resounding proof of the concept.”
+
+The industry remains hugely sceptical. Adblock Plus says it has over 1,000 
+publishers on board, with Williams commenting that “publishers got it and 
+signed up in droves”. Flood remains unimpressed. “Eyeo are strategically 
+attempting to position themselves as part of the ad ecosystem and take an 
+increased slice of the revenues but in reality they are damaging it. As things 
+stand we won’t be signing up to this product.”
+
+
+Good takes a similar view. “We believe that it is for the publisher to develop 
+an advertising proposition that is appropriate to its users expectations rather 
+than leave it to a centralised body, with little or no accountability, to 
+devise a standard that is applicable to all.”
+
+
+PageFair works closely with publishers and publishers’ trade organisations on 
+a daily basis, and Ryan says he hasn’t “seen any willingness among publishers 
+to pay for the privilege of reaching their own audiences.” Or as Fisher says, 
+“It’s like feeding the hand that bites you.” An odd move, in anyone’s book.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media & Tech Network content is editorially independent except 
+for pieces labelled “Brought to you by” – find out morehere 
+<https://www.theguardian.com/info/2016/jan/25/content-funding>.
+ 

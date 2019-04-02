@@ -1,0 +1,185 @@
+
+Anthropologists and geneticists had a problem. And the farther back in time 
+they looked, the bigger the problem became.
+
+For the past several years, there have been two main genetic methods to date 
+evolutionary divergences - when our ancestors split fromNeanderthals 
+<https://www.theguardian.com/science/neanderthals>, chimpanzees, and other 
+relatives. The problem was, the results of these methods differed by nearly 
+two-fold.
+
+By one estimate, modern humans split from Neanderthals roughly 300,000 years 
+ago. By the other, the split was closer to 600,000 years ago. Likewise, modern 
+humans and chimps may have diverged around 6.5 or 13 million years ago.
+
+Puzzled by this wild disagreement, researchers with diverse expertise have 
+been studying it from different angles. Their combined discoveries, recently 
+reviewedhere 
+<http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2000744> 
+andhere <http://www.sciencedirect.com/science/article/pii/S0959437X16301010>, 
+have shed light on how genetic differences accumulate over time and have 
+advanced methods of genetic dating.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2Fblog%2F2016%2Fdec%2F22%2Fwhy-were-closer-than-ever-to-a-timeline-for-human-evolution%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fcbaad3687a48501e06173fec8c44e0e24ae5c8e3%2F0_0_1875_1125%2F1875.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Why%20we're%20closer%20than%20ever%20to%20a%20timeline%20for%20human%20evolution&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2Fblog%2F2016%2Fdec%2F22%2Fwhy-were-closer-than-ever-to-a-timeline-for-human-evolution%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Why%20we%27re%20closer%20than%20ever%20to%20a%20timeline%20for%20human%20evolution&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2Fblog%2F2016%2Fdec%2F22%2Fwhy-were-closer-than-ever-to-a-timeline-for-human-evolution%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fcbaad3687a48501e06173fec8c44e0e24ae5c8e3%2F0_0_1875_1125%2F1875.jpg>
+ Primate evolutionary relationships. Photograph: Bridget Alex 
+And if you’re in suspense, yes, they’ve also pinned down important events in 
+our evolutionary timeline. Everyone alive today seems to share ancestors with 
+each otherjust over 200,000 years ago 
+<http://www.nature.com/nature/journal/v538/n7624/abs/nature18964.html> and with 
+Neanderthalsbetween 765,000-550,000 years ago 
+<http://www.nature.com/nature/journal/v531/n7595/abs/nature17405.html>. 
+
+Dating with the molecular clock
+
+Go back in time and you’ll find a population of Homo sapiens who were the 
+ancestors of everyone living today. Go back farther and our lineage meets up 
+with Neanderthals, then chimps, and eventually all primates, mammals, and life.
+
+In order to date these evolutionary splits, geneticists have relied on the 
+molecular clock - the idea that genetic mutations accumulate at a steady rate 
+over time. Specifically this concerns mutations that become neutral 
+substitutions, or lasting changes to letters of the genetic code that do not 
+affect an organism’s chances of surviving and reproducing.
+
+If such mutations arise clocklike, then calculating the time since two 
+organisms shared common ancestors should be as easy as dividing the number of 
+genetic differences between them by the mutation rate - the same way that 
+dividing distance by speed gives you travel time.
+
+But you need to know the rate. 
+
+For decades, anthropologists used fossil calibration to generate the so-called 
+phylogenetic rate (a phylogeny is a tree showing evolutionary relationships). 
+They took the geologic age of fossils from evolutionary branch points and 
+calculated how fast mutations must have arisen along the resulting lineages.
+
+For example, the earliest fossils on the human branch after our split with 
+chimps are identified by the fact that they seem to have walked on two legs; 
+bipedalism is the first obvious difference that distinguishes our evolutionary 
+lineage of hominins from that of chimps. These fossils are 7-6 million years 
+old, and therefore the chimp-human split should be around that age. Dividing 
+the number of genetic differences between living chimps and humans by 6.5 
+million years provides a mutation rate.
+
+Determined this way, the mutation rate is 0.000000001 (or 1x10-9) mutations 
+per DNA base pair per year 
+<http://www.genetics.org/content/genetics/156/1/297.full.pdf>. Applied to 
+genomes with 6 billion base pairs, that means, over millions of years of chimp 
+and human evolution, there have been on average six changes to letters of the 
+genetic code per year.
+
+Why archaeology needs to come out of the cave and into the digital age
+ Read more  
+<https://www.theguardian.com/science/blog/2016/dec/21/why-archaeology-needs-to-come-out-of-the-cave-and-into-the-digital-age>
+This rate can be used to date evolutionary events that are not evident from 
+fossils, such as the spread of modern humans out of Africa.
+
+But genetic dating got messy in 2010, when improvements to DNA sequencing 
+allowed researchers to determine the number of genetic differencesbetween 
+parents and their children 
+<http://www.nature.com/nrg/journal/v13/n10/abs/nrg3295.html>. Known as pedigree 
+analysis, this provides a more direct measurement of the current mutation rate 
+within one generation, rather than an average over millions of years.
+
+Pedigree analysis counts 60-some mutations every generation; that converts to 
+a rate approximately half the phylogenetic estimate—meaningevolutionary events 
+would be twice as old 
+<http://www.nature.com/ng/journal/v48/n8/full/ng.3597.html>.
+
+The erratic molecular clock
+
+Resolving this disagreement propelled researchers to reassess and revise their 
+starting assumptions: How accurately were they counting the small number of 
+differences between genomes of parents and children? Were fossils assigned to 
+the correct branches of the evolutionary tree? And above all, how constant is 
+the molecular clock?
+
+It turns out that among primates, the molecular clock varies significantly by 
+species, sex, and mutation type.A recent study 
+<http://www.pnas.org/content/113/38/10607.full> found that New World monkeys 
+(i.e. monkeys of the Americas like marmosets and squirrel monkeys) have 
+substitution rates about 64% higher than apes (including humans). Within apes, 
+rates are about 7% higher in gorillas and 2% higher in chimpanzees, compared to 
+humans.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2Fblog%2F2016%2Fdec%2F22%2Fwhy-were-closer-than-ever-to-a-timeline-for-human-evolution%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F32824539af72a5daec2fc03a91c2702e4cbe95c9%2F0_25_1500_900%2F1500.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Why%20we're%20closer%20than%20ever%20to%20a%20timeline%20for%20human%20evolution&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2Fblog%2F2016%2Fdec%2F22%2Fwhy-were-closer-than-ever-to-a-timeline-for-human-evolution%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Why%20we%27re%20closer%20than%20ever%20to%20a%20timeline%20for%20human%20evolution&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2Fblog%2F2016%2Fdec%2F22%2Fwhy-were-closer-than-ever-to-a-timeline-for-human-evolution%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F32824539af72a5daec2fc03a91c2702e4cbe95c9%2F0_25_1500_900%2F1500.jpg>
+ Calculating the date of the human-chimp split. Photograph: Bridget Alex 
+But even among humans, mutation rates differ, particularly between the sexes 
+with age. As fathers get older, they gain about one additional mutation per 
+year in the DNA they can pass on to children. Mothers, on the other hand, 
+accumulate considerably fewer mutationswith each passing year 
+<http://www.nature.com/ng/journal/v48/n8/full/ng.3597.html>.
+
+These species and sex differences make sense when you consider how mutations 
+form. Most heritable mutations occur from mistakes when DNA copies itself in 
+the germline, or cells leading to eggs and sperm. The number of times germline 
+DNA has to copy itself depends on developmental and reproductive variables 
+including age at puberty, age at reproduction, and the process of sperm 
+production.
+
+These traits vary across primates today, and certainly varied over primate 
+evolution. For instance, average generation times are six years for New World 
+monkeys, 19 years for gorillas, 25 years for chimps, and 29 years for humans.
+
+And those extra mutations as fathers get older? Sperm are produced 
+continuously after puberty, so sperm made later in life are the result of more 
+rounds of DNA replication and opportunities for replication errors. In 
+contrast, a mother’s stock of eggs is formed by birth. The small increase with 
+maternal age could be due to mutations from DNA damage, rather than replication 
+errors.
+
+Ways forward for dating backwards
+
+It’s now clear that one mutation rate cannot determine the dates for all 
+divergences relevant to human evolution. However, researchers can secure the 
+timeline for important evolutionary events by combining new methods of genetic 
+dating with fossils and geologic ages.
+
+Innovative computational methods have incorporated reproductive variables into 
+calculations. By taking into account ages of reproduction in both sexes, age of 
+male puberty, and sperm production rates, researchers have estimated split 
+times thataccord with the fossil record 
+<http://www.pnas.org/content/113/6/1588.short>.
+
+Another new approach has analysed mutations that are mainly independent of DNA 
+replication. It seems that certain classes of mutations, related to DNA damage,
+do behave more clocklike <http://www.pnas.org/content/113/38/10607.full>.
+
+And some researchers have focused on ancient DNA. Comparing human fossils from 
+the past 50,000 years to humans today, suggests a mutation rate thatagrees with 
+pedigree analysis 
+<http://www.nature.com/nature/journal/v514/n7523/abs/nature13810.html>.
+
+At least one evolutionary split was pinned down in 2016, after ancient DNA was 
+extracted from 430,000 year-old hominin fossils from Sima de los Huesos, Spain 
+<http://www.nature.com/nature/journal/v531/n7595/abs/nature17405.html>. The 
+Sima hominins looked like early members of the Neanderthal lineage based on 
+morphological similarities. This hypothesis fit the timing of the split between 
+Neanderthals and modern humans based on pedigree analysis (765,000-550,000 
+years ago), but did not work with the phylogenetic estimate (383,000-275,000 
+years ago).
+
+Where do the Sima hominins belong on our family tree? Were they ancestors of 
+both Neanderthals and modern humans, just Neanderthals, or neither?
+
+DNA answered this definitively. The Sima hominins belong to the Neanderthal 
+branch after it split with modern humans. Moreover, the result provides a firm 
+time point in our family tree, suggesting that the pedigree rate works for this 
+period of human evolution.
+
+Neanderthals and modern humans likely diverged between 765,000-550,000 years 
+ago. Other evolutionary splits may soon be clarified as well, thanks to 
+advances brought about by the mutation rate debates. Someday soon, when you see 
+a chimp, you may be able to salute your great, great… great grandparent, with 
+the correct number of “greats.”
+
+Thanks to Priya Moorjani and David Pilbeam for their input on this piece.
+ 

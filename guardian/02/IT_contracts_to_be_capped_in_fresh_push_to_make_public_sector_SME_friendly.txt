@@ -1,0 +1,80 @@
+
+The government is to introduce a limit to the length of IT contracts, starting 
+with application software and hosting IT deals.
+
+The move, announced by Cabinet Office minister Francis Maude, is part of a 
+range of measures aimed at making public procurement more accessible to SME 
+suppliers.
+
+From now on, hosting deals will be limited to 12 month durations, while 
+application development deals will be reassessed every four months.
+
+It is also introducing break point into IT contracts, so "less money is locked 
+into the large, lengthy contracts that are actually the bane of our lives in a 
+whole lot of areas of government, making it more difficult to drive value", 
+Maude said.
+
+The government is looking to disaggregate contracts across IT in favour of 
+smaller and more flexible deals.
+
+"We've started to level the playing field for SMEs but we can go much further. 
+[SMEs] told us that contract size was one of the greatest impediments to 
+winning business, and we agree. Government contracts don't have to be, and 
+shouldn't be, so big and complicated," Maude added.
+
+According to Liam Maxwell, the government's director of ICT futures, 
+disaggregation will be one way to tackle 'black box' type projects, which will 
+be able to be componentised.
+
+"A supplier said to me, 'but this will mean a whole new way of working – we'll 
+have to do everything differently!' I said, 'yeah, you will, you're finally 
+getting it'."
+
+The Cabinet Office has also released a progress report 
+<http://www.cabinetoffice.gov.uk/sites/default/files/resources/SME-Progress-Report-Management-Summary-One-Year-On.PDF>
+ on their work in the last year to make government business more accessible to 
+SMEs. According to the report, the amount of money spent directly with SMEs by 
+central government is expected to double year on year by the end of this 
+financial year, to around 14%. The government has stated it hopes the figure 
+will reach 25% for both indirect and direct spend by the end of this parliament.
+
+The range of measures launched today are the second stage of the government's 
+plan to increase the amount of public money spent with SMEs. Thefirst, 
+announced in February 2011 
+<https://www.theguardian.com/government-computing-network/2011/feb/11/cabinet-office-government-procurement-changes-boost-smes-11feb11>
+, included the launch of the Contracts Finder website, which publishes 
+information on all public sector deals over £10,000.
+
+The latest package will see information on subcontracting opportunities from 
+nine private sector companies – HP, Airwave, Amey, Balfour Beatty, Capgemini, 
+Capita, Level 3, Logica and Serco – also made available through the site.
+
+"I'm expecting many more [companies] to follow," Maude said.
+
+A new scheme to allow small suppliers to rate government departments for their 
+respective SME friendliness was also announced as part of the plans today, with 
+the Cabinet Office set to be the first department involved.
+
+"We'll be taking our own medicine before sending it around Whitehall. We're 
+looking forward to that one," Maude said.
+
+Other changes include the introduction of a SME champion in every department 
+to check whether its procurement processes are appropriate for smaller 
+suppliers, and mechanisms to speed up payment to SMEs.
+
+In addition, the government has also enlisted the SME panel to pilot 
+approaches to help SMEs form consortia to win public sector business. And, from 
+April, a new web tool will enable informal discussion between SME suppliers and 
+public sector procurements about upcoming procurements.
+
+"There's a model for someone to develop: instead of a prime contractor finding 
+subcontractors to work for the prime, why don't we have a model where the 
+subcontractors, the SME suppliers, hire the prime to provide the umbrella, to 
+be the bidder? There are lots of different ways of doing this, we need 
+innovation in way in which put together bids as well."
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Guardian Government 
+Computing network here 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>.
+ 

@@ -1,0 +1,181 @@
+
+Welcome to the Cell. All visitors must surrender their phones at the door. No 
+cameras or filming equipment allowed.
+
+In a deceptively humdrum office block on the outskirts of Banbury, 
+Oxfordshire, a team of cybersecurity experts is working to combat the risk of 
+surveillance and hacking attacks fromChina 
+<https://www.theguardian.com/world/china>.
+
+The Cell’s technicians have the highest level of security clearance, with 
+their personal and financial histories combed by investigating officers. Their 
+work is overseen by a board that includes directors fromGCHQ 
+<https://www.theguardian.com/uk/gchq>, the Cabinet Office and the Home Office.
+
+But the Cell’s staff are not on the British government payroll. They are 
+employed by Huawei,one of China’s largest technology companies 
+<https://en.wikipedia.org/wiki/Huawei>. A maker of broadband and mobile network 
+equipment, its kit is installed all over the UK.
+
+In Banbury, the task is to check Huawei 
+<https://www.theguardian.com/technology/huawei> hardware and software for 
+faults and bugs that could be exploited for nefarious purposes. Circuit boards 
+are dismantled, and millions of lines of software code are analysed.
+
+The centre was created as a compromise – between the security concerns of 
+intelligence agencies and the private sector’s desire for cheap imported 
+technology.
+
+With George Osborne’s ejection from the Treasury, China has lost its main 
+cheerleader in government. The new prime minister, Theresa May, is taking a 
+more cautious approach. A decision on allowing the Beijing-backed Hinkley Point 
+power station project to go aheadhas been delayed at her request 
+<https://www.theguardian.com/business/2016/jul/28/hinkley-point-c-to-go-ahead-after-edf-board-approves-project>
+.
+
+Hinkley Point C in doubt after British government delays approval
+ Read more  
+<https://www.theguardian.com/business/2016/jul/28/hinkley-point-c-to-go-ahead-after-edf-board-approves-project>
+In a climate of cooling economic relations, could the Cell provide a model for 
+managing the potential risks of Chinese involvement in critical national 
+infrastructure?
+
+Perhaps. Up and running for five years now, the Huawei Cyber Security 
+Evaluation Centre, to use its official name, is regarded as a success by the 
+board of government officials which oversees its work.
+
+In their second annual report, published this spring, they found the 
+arrangements to ensure the Cell was independent from Huawei were operating 
+“robustly and effectively”, and that any potential threats to national security 
+“have been sufficiently mitigated”.
+
+But in 2013, the Banbury operation was heavily criticised by parliament’s 
+intelligence and security committee 
+<https://www.theguardian.com/world/2013/jul/18/huawei-cyber-security-investigaton-kim-darroch>
+, then chaired by the former defence secretary Sir Malcolm Rifkind.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F07%2Fchina-huwaei-cell-uk-national-security-cyber-surveillance-hacking%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ffa657045ce4bd81605d25574f8e0b1b207751f58%2F0_154_4928_2957%2F4928.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20Chinese%20firm%20taking%20threats%20to%20UK%20national%20security%20very%20seriously&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F07%2Fchina-huwaei-cell-uk-national-security-cyber-surveillance-hacking%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20Chinese%20firm%20taking%20threats%20to%20UK%20national%20security%20very%20seriously&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F07%2Fchina-huwaei-cell-uk-national-security-cyber-surveillance-hacking%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Ffa657045ce4bd81605d25574f8e0b1b207751f58%2F0_154_4928_2957%2F4928.jpg>
+ The Cell’s task is to check Huawei hardware and software for faults and bugs. 
+Photograph: Huawei 
+MPs had decided to review its work after a US senate report raised the alarm, 
+urging American firms not to use the company’s equipment. Attempts by Huawei to 
+take over US technology companies had been blocked. In Australia, it was barred 
+from bidding for the country’s multibillion-pound project to connect every home 
+to a superfast broadband service.
+
+Rifkind’s committee concluded that the Cell’s staff should not be Huawei 
+employees. His report warned this amounted to Huawei “effectively policing 
+themselves”. He recommended Banbury be staffed by GCHQ, and failing that, 
+subject to much greater scrutiny by government officials.
+
+And so, in 2014, security experts from the highest echelons of the civil 
+service were brought together, along with representatives ofVodafone 
+<https://www.theguardian.com/business/vodafonegroup>, Huawei and BT, to create 
+the Cell’s oversight board. It is currently chaired by Ciaran Martin, director 
+general for cybersecurity at GCHQ.
+
+Concerns persist. Ernst & Young, hired to evaluate whether the Cell is truly 
+independent from Huawei headquarters, concluded that the ability of the company 
+to set the bonus of the Cell’s managing director, David Pollington, hired from 
+Microsoft last year, “provides a vector by which performance ... could be 
+influenced”.
+
+Ernst & Young argued that “by withholding or awarding the bonus (irrespective 
+of performance), which constitutes a significant element of the reward package, 
+the bonus could be used as a tool to motivate certain behaviours from the MD”. 
+The risk was reconsidered, but “accepted as reasonable”, according to the2016 
+annual report 
+<https://www.gov.uk/government/publications/huawei-cyber-security-evaluation-centre-oversight-board-annual-report-2016>
+.
+
+A spokesman for the company points out that the Huawei and Hinkley scenarios 
+are not quite comparable. The technology firm sells its equipment to other 
+companies which then own and manage it. At Hinkley, the proposal is to sell a 
+stake to the Chinese state, and in return for the investment, allow it to build 
+Chinese-designed reactors at a new nuclear power station in Bradwell, Essex.
+
+So what kind of risk does Huawei’s equipment present? The company makes 
+everything from the routers and switches that steer traffic across the 
+internet, to BT’s green street cabinets, to the transmission equipment used in 
+mobile phone masts.
+
+Sending an email from your home computer, making a mobile phone call from a 
+street corner, or using the tablet to order a weekly shop – wherever you are in 
+the UK, the chances are your private communications will be carried over Huawei 
+equipment.
+
+With customers in Europe, the Americas, Africa and of course China, it claims 
+to connect a third of the world’s population.
+
+Founded by a former Red Army officer, Ren Zhengfei, the firm has no public 
+list of shareholders, but it claims to be privately owned and independent from 
+the state.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F07%2Fchina-huwaei-cell-uk-national-security-cyber-surveillance-hacking%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F40b38cad60eb496bd75b99730196d094f5ed8374%2F0_162_5060_3036%2F5060.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20Chinese%20firm%20taking%20threats%20to%20UK%20national%20security%20very%20seriously&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F07%2Fchina-huwaei-cell-uk-national-security-cyber-surveillance-hacking%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20Chinese%20firm%20taking%20threats%20to%20UK%20national%20security%20very%20seriously&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F07%2Fchina-huwaei-cell-uk-national-security-cyber-surveillance-hacking%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F40b38cad60eb496bd75b99730196d094f5ed8374%2F0_162_5060_3036%2F5060.jpg>
+ The Cell’s oversight board is currently chaired by Ciaran Martin, director 
+general for cybersecurity at GCHQ. Photograph: Alamy 
+Its biggest UK customers are Vodafone and BT 
+<https://www.theguardian.com/business/btgroup>. Until recently the only 
+British-owned mobile network, Vodafone has carved out a niche as the largest 
+supplier to government ministries and major corporations. The phone calls made 
+by the prime minister and her cabinet run over its network.
+
+BT’s broadband grid stretches from Whitehall to remote rural areas and is 
+still the largest in the UK, supplying much of the infrastructure used by 
+rivals includingTalkTalk 
+<https://www.theguardian.com/business/talk-talk-telecom> and Sky to connect 
+their customers.
+
+The concern is that so-called “back doors”, hidden in the Huawei software, 
+could be used to eavesdrop on sensitive government, military and business 
+communications. They could even be used to disrupt or shut down mobile networks 
+in the event of a conflict.
+
+“Bugs can be hidden in sloppy code,” says Graeme Batsman, a data security 
+consultant and blogger atdatasecurityexpert.co.uk 
+<https://datasecurityexpert.co.uk/>. “China and others are known for spying. 
+But I don’t think China is a terrorist state which would make these devices 
+explode one day. The UK and US are probably just as bad anyway.”
+
+Indeed, the papers leaked from America’s National Security Agency by Edward 
+Snowden 
+<http://www.nytimes.com/2014/03/23/world/asia/nsa-breached-chinese-servers-seen-as-spy-peril.html?partner=rss&emc=rss&smid=tw-nytimes&_r=2>
+ revealed that it had hacked into Huawei’s headquarters, obtaining technical 
+information and monitoring the communications of its top executives. One of the 
+reported aims was to try and uncover vulnerabilities in the products to use 
+them for US surveillance operations.
+
+The Cell has identified multiple vulnerabilities in Huawei products. The 
+latest annual report warns: “Code quality has shown signs of improvement, but 
+remains below industry good practice.” More than 100 concerns had been raised 
+with Huawei’s research and development arm in China,the 2015 report stated 
+<https://www.gov.uk/government/publications/huawei-cyber-security-evaluation-centre-oversight-board-annual-report-2015>
+. Three issues identified that year resulted in interventions having to be made 
+in equipment already deployed in telecoms networks.
+
+On the plus side, using company staff to identify faults means they are more 
+likely to be fixed quickly. And the cooperation has brought cash into the UK. 
+In 2012, Ren met withDavid Cameron 
+<https://www.theguardian.com/politics/davidcameron> to promise £1.3bn of 
+procurement and investment. The following year, after Rifkind’s inquiry, he 
+confirmed the deal when Osborne visited Shenzhen.
+
+For Huawei, the monitoring arrangement not only improves its products, but 
+makes good business sense. Cooperating with the UK advertises its 
+trustworthiness to other foreign governments.
+
+Reassuring the prime minister is another matter. Vince Cable has revealed 
+<http://www.dailymail.co.uk/wires/pa/article-3715656/Hinkley-Point-Were-ready-EDF-boss-tells-government.html>
+ that while he was in government, May was “never completely satisfied about 
+Huawei”. The Cell’s recent efforts may have quelled those fears. For now, it is 
+business as usual in Banbury.
+
+ 

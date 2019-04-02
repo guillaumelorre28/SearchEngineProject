@@ -1,0 +1,78 @@
+
+The majority of us have told the occasional white lie, or buried our heads in 
+the sand when faced with an awkward problem, but some issues can become so 
+great that they cannot be explained away or ignored any longer. For the digital 
+media community that problem is the total uncertainty around what proportion of 
+ads purchased online are actually seen v those that end up being served to 
+robots.
+
+An unprecedented £19bn will be spent on online advertising during 2014, but 
+according to the Interactive Advertising Bureau 
+<http://digiday.com/platforms/advertising-fraud-iab/>, 36 per cent of all web 
+traffic is now non-human. So if a third of online ad spend is being wasted on 
+ads that are delivered to robots, not to mention those ads that end up not 
+being in view on a web page, the ad industry has big problem.
+
+There is a fraudulent economy emerging within digital advertising and unless 
+it is stopped soon, the future business value of marketing departments will be 
+undermined as they are crippled by the bot nets.   
+
+Invasion of the bot nets
+
+
+The buy and sell of ad impressions over automated ad exchanges, or 
+programmatic buying, is enjoying a huge surge in popularity because of its 
+ability to maximise marketing spend and generate broad awareness. But, 
+ironically, it is the automated nature of how the online advertising lifecycle 
+works that has created a perfect environment in which bots may thrive. Bot nets 
+have emerged as dubious people have begun to spot the loophole in the automated 
+advertising market and exploit the system for financial gain.
+
+These people build websites whose sole purpose is to host ads, not real 
+content. They then feed their site directly into ad exchanges, often using fake 
+domain names or impersonating reputable ones. The ad inventory that is then 
+sold on behalf of these imitation websites is snapped up on behalf of brands, 
+all of whom remain blissfully unaware of where their content is really ending 
+up.
+
+The people who build these websites are incredibly good at fooling the ad 
+exchanges. They will often host a collection of links to supposed content, but 
+then when clicked upon the link takes you off site to another destination.
+
+The ostrich effect 
+
+While investing in digital advertising might be a great way of attracting more 
+"eyeballs", if your marketing spend is funding fraudulent websites and goes 
+unseen, it is being wasted. So why is the issue not being addressed?
+
+Awareness at the brand level is a big issue. A surprising number of in-house 
+marketers are in the dark when it comes to knowing where their ad content is 
+appearing, with significant number still having no way of monitoring their ads. 
+There is a major transparency issue when it comes to online ad placement; that 
+should be apparent from the number of ad impressions that appear on malware or 
+illegal phishing sites every year (nearly eight billion) without the knowledge 
+of the advertisers paying for the space.
+
+But while this lack of awareness is something to overcome, a somewhat larger 
+problem is that the issue is being ignored or buried by the industry for fear 
+of self-incrimination. Unfortunately, almost every element of the ad ecosystem 
+benefits from fake traffic. For example, publishers get paid regardless of 
+whether the traffic is real, and so do the ad exchanges over which the 
+inventory is traded.
+
+On the advertising buy side of the equation, ad agencies are staffed by busy 
+people, all with targets to meet and multiple clients to please, so why would 
+they take it upon themselves to stamp it out?
+
+Everyone involved in digital advertising has an important decision to make. 
+Will they make a move to stop the bot invasion or continue living a lie and 
+sweep the robots under the rug? One thing is certain: questions will continue 
+to be asked and the industry will eventually have to confront the issue.
+
+Andrew Goode is chief operating officer at Project Sunblock 
+<http://www.projectsunblock.com/>.
+
+To get weekly news analysis, job alerts and event notifications sent direct to 
+your inbox, sign up for Media Network membership 
+<https://register.theguardian.com/media/>.
+ 

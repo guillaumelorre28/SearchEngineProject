@@ -1,0 +1,151 @@
+
+Machines could put more than half the world’s population out of a job in the 
+next 30 years, according to a computer scientist who said on Saturday that 
+artificial intelligence’s threat to the economy should not be understated.
+
+Expert Moshe Vardi told the American Association for the Advancement of 
+Science (AAAS): “We are approaching a time when machines will be able to 
+outperform humans at almost any task.
+
+“I believe that society needs to confront this question before it is upon us: 
+if machines are capable of doing almost any work humans can do, what will 
+humans do?”
+
+Physicist Stephen Hawking and the tech billionaires Bill Gates and Elon Musk 
+issued a similar warning last year. Hawking warned that AI “could spell the end 
+of the human race” and Musk said itrepresents “our biggest existential threat” 
+<https://www.theguardian.com/technology/2014/oct/27/elon-musk-artificial-intelligence-ai-biggest-existential-threat>
+.
+
+‘Mini-brains’ could revolutionise drug research and reduce animal use
+ Read more  
+<https://www.theguardian.com/science/2016/feb/12/mini-brains-could-revolutionise-drug-research-and-reduce-animal-use>
+The fear of artificial intelligence has even reached the UN, where a group 
+billing itself the Campaign to Stop Killer Robots met with diplomats 
+<https://www.theguardian.com/technology/2015/oct/20/campaign-to-stop-killer-robots-warning-united-nations>
+ last year.
+
+Vardi, a professor at Rice University and Guggenheim fellow, said that 
+technology presents a more subtle threat than the masterless drones that some 
+activists fear. He suggested AI could drive global unemployment to 50%, wiping 
+out middle-class jobs and exacerbating inequality.
+
+Unlike the industrial revolution, Vardi said, “the AI revolution” will not be 
+a matter of physically powerful machines that outperform human laborers, but 
+rather a contest between human wit and mechanical intelligence and strength. In 
+China the question has already affected thousands of jobs, as electronics 
+manufacturers,Foxconn 
+<http://blogs.wsj.com/digits/2015/05/05/foxconns-robot-army-yet-to-prove-match-for-humans/>
+ and Samsung among them,develop precision robots 
+<http://www.wired.co.uk/news/archive/2015-10/19/samsung-south-korea-robots-cheap-labour>
+ to replace human workers.
+
+In his talk, the computer scientist alluded to economist John Maynard Keynes’ 
+rosy vision of a future in which billions worked only a few hours a week, with 
+intelligent machines to support their easy lifestyles – a prediction embraced 
+wholesale by Google head of engineering Ray Kurzweil, who believes “the 
+singularity <http://www.singularity.com/>” of super-AI could bring about utopia 
+fora future hybrid 
+<http://money.cnn.com/2015/06/03/technology/ray-kurzweil-predictions/> of 
+mankind.
+
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.theguardian.com%2Fworld%2Fvideo%2F2016%2Fjan%2F28%2Fself-driving-electric-shuttle-bus-tested-for-use-on-roads-in-netherlands-video&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=Self-driving%20electric%20shuttle%20bus%20tested%20for%20use%20on%20roads%20in%20Netherlands%20%E2%80%93%20video&url=http%3A%2F%2Fwww.theguardian.com%2Fworld%2Fvideo%2F2016%2Fjan%2F28%2Fself-driving-electric-shuttle-bus-tested-for-use-on-roads-in-netherlands-video>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Self-driving%20electric%20shuttle%20bus%20tested%20for%20use%20on%20roads%20in%20Netherlands%20%E2%80%93%20video&url=http%3A%2F%2Fwww.theguardian.com%2Fworld%2Fvideo%2F2016%2Fjan%2F28%2Fself-driving-electric-shuttle-bus-tested-for-use-on-roads-in-netherlands-video&media=>
+Self-driving electric shuttle bus tested for use on roads in Netherlands – video
+ 
+<https://www.theguardian.com/world/video/2016/jan/28/self-driving-electric-shuttle-bus-tested-for-use-on-roads-in-netherlands-video>
+Vardi insisted that even if machines make life easier, humanity will face an 
+existential challenge.
+
+“I do not find this a promising future, as I do not find the prospect of 
+leisure-only life appealing,” he said. “I believe that work is essential to 
+human wellbeing.”
+
+Computer scientist Bart Selman told reporters at the conference that as 
+self-driving cars, “household robots, service robots” and other intelligent 
+systems become more common, humans will “sort of be in a symbiosis with those 
+machines, and we’ll start to trust them and start to work with them”.
+
+Selman, a professor at Cornell University, said: “Computers are basically 
+starting to hear and see the way humans do,” thanks to advances in big data and 
+“deep learning 
+<http://www.wired.com/2016/01/microsoft-neural-net-shows-deep-learning-can-get-way-deeper/>
+”.
+
+Vardi predicted that driving will be almost fully automated in the next 25 
+years, and asked, for all the benefits of technology, “what can humans do when 
+machines can do almost everything?”
+
+He said that technology has already massively changed the US economy in the 
+last 50 years. “We were all delighted to hear that unemployment went down to 
+4.8%” this month, he said, “but focusing on the monthly job report hides the 
+fact that for the last 35 years the country has been in economic crisis.”
+
+ Citing research from MIT, he noted that although Americans continue to drive 
+GDP with increasing productivity, employment peaked around 1980 and average 
+wages for families have gone down. “It’s automation,” Vardi said.
+
+He also predicted that automation’s effect on unemployment would have huge 
+political consequences, and lamented that leaders have largely ignored it. “We 
+are in a presidential election year and this issue is just nowhere on the radar 
+screen.”
+
+He said that virtually no human profession is totally immune: “Are you going 
+to bet againstsex robots <https://www.youtube.com/watch?v=lv0vT1tjW28>? I would 
+not.”
+
+Last year, the consultant company McKinsey published research 
+<http://www.mckinsey.com/insights/business_technology/four_fundamentals_of_workplace_automation>
+ about which jobs are at risk thanks to intelligent machines, and found that 
+some jobs – or at least well-paid careers like doctors and hedge fund managers 
+– are better protected than others. Less intuitively, the researchers also 
+concluded that some low-paying jobs, including landscapers and health aides, 
+are also less likely to be changed than others.
+
+In contrast, they concluded that 20% of a CEO’s working time could be 
+automated with existing technologies, and nearly 80% of a file clerk’s job 
+could be automated. Their research dovetails with Vardi’s worst-case scenario 
+predictions, however; they argued that as much as 45% of the work people are 
+paid to do could be automated by existing technology.
+
+Vardi said he wanted the gathering of scientists to consider: “Does the 
+technology we are developing ultimately benefit mankind?
+
+Artificial Intelligence: Gods, egos and Ex Machina
+ Read more  
+<https://www.theguardian.com/science/the-lay-scientist/2016/jan/26/artificial-intelligence-gods-egos-and-ex-machina>
+“Humanity is about to face perhaps its greatest challenge ever, which is 
+finding meaning in life after the end of ‘in the sweat of thy face shalt thou 
+eat bread’,” he said. “We need to rise to the occasion and meet this challenge.”
+
+
+In the US, the labor secretary, Thomas Perez, has told American seaports that 
+they should consider robotic cranes and automatic vehicles in order to compete 
+with docks around the world, despitethe resistance of unions 
+<http://www.wsj.com/articles/us-ports-should-work-with-unions-on-automation-labor-secretary-says-1453237735>
+. In 2013, two Oxford professors predicted that as much as 47% of the US 
+workforce, from telemarketers to legal secretaries and cooks, werevulnerable to 
+automation 
+<http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf>
+.
+
+Dire forecasts such as Vardi’s are not without their critics, including 
+Pulitzer-winning author Nicholas Carr and Stanford scientist Edward Geist. Carr 
+hasargued 
+<http://www.nytimes.com/2015/05/20/opinion/why-robots-will-always-need-us.html?_r=0>
+ that human creativity and intuition in the face of complex problems is 
+essentially irreplaceable, and an advantage over computers and their overly 
+accurate reputation.
+
+Walking the line between the pessimists and optimists, Martin Ford, author of 
+Rise of the Robots: Technology and the Threat of a Jobless Future, has 
+suggested that automation will come down to politics today, tellingNational 
+Geographic 
+<http://news.nationalgeographic.com/2015/06/150603-science-technology-robots-economics-unemployment-automation-ngbooktalk/>
+ that if scientists and governments don’t address the issue “for lots of people 
+who are not economically at the top, it’s going to be pretty dystopian”.
+ 

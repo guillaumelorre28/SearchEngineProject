@@ -1,0 +1,200 @@
+
+Android, the world’s most used mobile operating system, is going through a 
+step change. For years, its creator, Google, only made a small number of 
+own-brand devices running it for developers and enthusiasts. That changedwith 
+the release of the Pixe 
+<https://www.theguardian.com/technology/2016/oct/05/google-pixel-phone-market-apple-iphone>
+l.
+
+
+The Pixel 
+<https://www.theguardian.com/technology/2016/oct/27/google-pixel-xl-review-phablet-price-smartphone-camera-android-71-nougat>
+ is Google’s first real attempt to challenge Apple and Samsung’s smartphone 
+dominance, but it wasn’t made by the same team that makes Android.
+
+In fact, Google’s hardware team, headed by the ex-Motorola chief executive 
+Rick Osterloh, aren’t even in the same building as theAndroid 
+<https://www.theguardian.com/technology/android> team, but instead are situated 
+across the street.
+
+The Pixel <https://www.theguardian.com/technology/pixel> phones introduced a 
+new version of Android to the world, a version more Google-y than any before, 
+that broke away from the standard or so-called pure Android experience of the 
+open-source operating system underneath.
+
+Hiroshi Lockheimer, Google’s head of Android, Chrome OS, and Google Play told 
+the Guardian it was a conscious decision for Google to not change core Android: 
+“The Google consumer hardware team’s product vision is a phone for Google fans, 
+who have adoptedGoogle <https://www.theguardian.com/technology/google> 
+technologies.
+
+“Samsung takes a different approach, LG and HTC take a different approach: 
+that’s the core of Android - they get to customise Android and build own 
+experiences on top. The one from Google happens to be for Google fans. It makes 
+sense.”
+
+But that act of Google making both Android and a phone that runs it could be 
+seen as a big kick in the teeth to long-time licensees of the mobile operating 
+system who have driven its success.Samsung 
+<https://www.theguardian.com/technology/samsung> has been Android’s champion 
+for years and there are hundreds of other smartphone and device manufacturers 
+who license and use Android on their products.
+
+OnePlus, a rising Chinese smartphone manufacturer, is just one of Google’s 
+licensees. It creates a modified version of Android called OxygenOS, which runs 
+on the companies smartphones including the recently released OnePlus 3T.
+
+Carl Pei, co-founder of OnePlus, told the Guardian he embraced Google’s 
+decision to make its own smartphone for the mass market. He said: “The 
+interesting thing about the Pixel series is that Google’s diverging from pure 
+Android.
+
+“That gives everyone else much more creative freedom, because before we’ve had 
+the purists complaining that every time you made a small tweak that ‘this is 
+not pure Android’, but now even the Pixel is not pure Android so that gives you 
+more creative freedom to realise your vision.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F01%2Ffuture-android-pixel-google%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ff36f23cb1e53ed29244a449f3a8da484cc646345%2F0_0_3880_2328%2F3880.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=What%20does%20the%20future%20of%20Android%20look%20like%20in%20a%20world%20with%20the%20Pixel%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F01%2Ffuture-android-pixel-google%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=What%20does%20the%20future%20of%20Android%20look%20like%20in%20a%20world%20with%20the%20Pixel%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F01%2Ffuture-android-pixel-google%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Ff36f23cb1e53ed29244a449f3a8da484cc646345%2F0_0_3880_2328%2F3880.jpg>
+ OnePlus is just one of Google’s licensees. Photograph: Samuel Gibbs for the 
+Guardian 
+Lockheimer’s pleased other manufacturers see it that way: “For Carl and 
+OnePlus to feel free with OxygenOS, that’s great, that’s exactly what we wanted 
+to see happen. And what he and the team did with OxygenOS, Rick [Osterloh]’s 
+doing with the Pixel team. Differentiating for a Google-orientated audience,” 
+he said.
+
+‘Android has always been about choice’
+
+Google’s open-source moves with Android – giving it away free with a liberal 
+licence to make it your own – but still maintain some control in the form of 
+licences with conditions over app bundling and compatibility has put it in the 
+firing line of the European commission.
+
+Google is embroiled in a battle with the European commission, accused of using 
+its dominance over Android to exclude competitor apps and services. While 
+Google’s legal counsel and the European commission thrash outcharges 
+<https://www.theguardian.com/technology/2016/apr/20/eu-commission-google-android-skew-market-competition-antitrust-vestager>
+,responses 
+<https://www.theguardian.com/technology/2016/nov/10/google-european-commission-android>
+ and eventually a likely settlement of some kind, does that change the way 
+Android is built?
+
+Lockheimer said: “Android has always been about choice, about enabling others 
+to build business on top, whether that’s multiple OEMs adopting the same source 
+code because we’re giving it away, millions of developers building businesses 
+on top of it, or simply being an open platform to provide consumer choice from 
+the high to the low end.
+
+“So I think we’re very much aligned with the goals of the commission. We want 
+choice, we want openness, and that’s how we’ve been thinking about it for a 
+while. And that’s how we’ve always been operating.”
+
+Time will tell if the commission agrees. Being able to customise Android is 
+certainly one of the operating system’s strengths, but it also introduces a 
+weakness beyond European commission filings: software update delays.
+
+In a world where products radically change, normally for the better, over 
+their lifetimes through software, updates are more crucial than ever. They’re 
+the linchpin of modern security, delivering critical fixes for holes that could 
+let hackers into the one device that knows more about you, your comings and 
+goings and your personal information than anything else.
+
+Google releases annual updates to Android, denoted by a new name such as 
+Lollipop, Marshmallow and now Nougat, but it can take months, sometimes a year 
+or so before those big updates reach devices made by third-party manufacturers. 
+Some put the blame on chip makers, others manufacturers, networks or even 
+Google.
+
+Lockheimer acknowledges the difficulties: “We share the source code with chip 
+makers such as MediaTek and Qualcomm, as well as manufacturers including 
+Samsung and others before we publish Android. But it really is a pipeline.
+
+“If you’re in an operator-driven market, such as the US, they also add their 
+customisations, so it adds another layer in the pipeline of development. We’re 
+doing things to make Android more modular to speed things up.”
+
+One such effort has been the unpacking of some services specific to Google 
+that get updated more regularly into what’s known as Google Play Services - a 
+layer that sits on top of the Android operating system and delivers all of the 
+Google-ness of the smartphone.
+
+Lockheimer said: “Android is an operating system that’s not tied to any one 
+company. The Android Open Source Project, doesn’t know that Google exists, it 
+doesn’t call into any Google servers or anything like that. So all the Google 
+specific technologies are put into a thin layer on top of Android.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F01%2Ffuture-android-pixel-google%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F395120b7b9d3da1a0c0922007270cf1ba9618038%2F0_100_3000_1800%2F3000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=What%20does%20the%20future%20of%20Android%20look%20like%20in%20a%20world%20with%20the%20Pixel%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F01%2Ffuture-android-pixel-google%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=What%20does%20the%20future%20of%20Android%20look%20like%20in%20a%20world%20with%20the%20Pixel%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F01%2Ffuture-android-pixel-google%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F395120b7b9d3da1a0c0922007270cf1ba9618038%2F0_100_3000_1800%2F3000.jpg>
+ Samsung, LG and HTC each customise Android. Photograph: Bloomberg/Bloomberg 
+via Getty Images 
+With Google’s apps and Play Services updatable separate from Android operating 
+system underneath, material updates that change the look and field, the way 
+Android works can be performed directly without having to go through various 
+channels and without significantly changing the underlying system.
+
+Security updates have also been made more modular, although still require 
+Android system updates to apply. Here there has been progress from the big 
+manufacturers including Samsung, Google and others that have pledged to keep up 
+with the Android team’s monthly security update releases.
+
+Cross-pollinating Chrome OS and Android
+
+
+Even full Android updates are being made easier on the user, according to 
+Lockheimer. Google’s other operating system, Chrome OS which runs on laptops 
+and desktop computers as an extended Linux-based version of the company’s 
+Chrome browser, has been doing seamless updates for years. Now the latest 
+version of Android 7 Nougat (N) has the same technology employed.
+
+
+Lockheimer explained: “Android N does operating system updates in the same way 
+as Chrome OS, in the background so that the user doesn’t know it’s happening. 
+You just reboot and boom you’re using the new version. It’s literally the same 
+technology as used in Chrome OS.”
+
+Much has been said over the years about the slow merging of Chrome OS and 
+Android, with speculation that Google would eventually ditch Chrome OS for 
+Android and run a desktop version of Android. The introduction of the Android 
+Google Play store onto Chromebooks this year did nothing to quell rumours of 
+the merge.
+
+Lockheimer said: “We’re not interested in merging the source code of Android 
+and ChromeOS, but we are doing is to bring the best of both systems to each 
+other. One area where ChromeOS was lacking was app support. We happened to have 
+this great ecosystem in Google Play for Android, so why not stick it on 
+ChromeOS?
+
+“So not really a merge, more taking the best elements of both and 
+cross-pollinating.”
+
+Could Google claim Huawei’s spot in the market?
+
+The future of Android is still unclear. Google’s experiment with the Pixel has 
+changed the landscape, whether that’s for the better for all or simply for 
+Google remains to be seen. Samsung and Apple dominate the smartphone market, 
+selling vastly more smartphones than anyone else, but the race to be the third 
+biggest smartphone manufacturer is on. Huawei occupies that spot, according to 
+the latest data from analysts firms – could Google take its place with the 
+Pixel, and how would everyone else feel about the Android maker out competing 
+them?
+
+
+Pei is bullish: “It’s fair game. If Google makes a product that everyone likes 
+and remembers, they will get the number three spot. But if we do it, we get the 
+spot behind Samsung and Apple.”
+
+ * Five of the best phablets for 2016 
+<https://www.theguardian.com/technology/2016/nov/26/best-phablets-apple-iphone-7-plus-google-pixel-xl-samsung-galaxy-s7-edge>
+ * Pixel is a direct challenge to Apple – and a referendum on Google 
+<https://www.theguardian.com/technology/2016/oct/05/google-pixel-phone-market-apple-iphone>
+ * Google Pixel review: an iPhone beater but not quite an Android king 
+<https://www.theguardian.com/technology/2016/oct/20/google-pixel-review-smartphone-iphone-android>
+ * Google Pixel XL review: very good phablet but with price tag to match 
+<https://www.theguardian.com/technology/2016/oct/27/google-pixel-xl-review-phablet-price-smartphone-camera-android-71-nougat> 

@@ -1,0 +1,172 @@
+
+A quick burst of 13 links for you to chew over, as picked by the Technology 
+team
+
+With time running short, Steve Jobs managed his farewells >> NYTimes.com 
+<http://www.nytimes.com/2011/10/07/technology/with-time-running-short-steve-jobs-managed-his-farewells.html>
+
+
+"In February, Steven P. Jobs had learned that, after years of fighting cancer, 
+his time was becoming shorter. He quietly told a few acquaintances, and they, 
+in turn, whispered to others. And so a pilgrimage began. "The calls trickled in 
+at first. Just a few, then dozens, and in recent weeks, a nearly endless stream 
+of people who wanted a few moments to say goodbye, according to people close to 
+Mr. Jobs. Most were intercepted by his wife, Laurene. She would apologetically 
+explain that he was too tired to receive many visitors. In his final weeks, he 
+became so weak that it was hard for him to walk up the stairs of his own home 
+anymore, she confided to one caller." "Some asked if they might try again 
+tomorrow. Sorry, she replied. He had only so much energy for farewells." In the 
+end, none of us will ever have the chance to properly say the goodbyes we might 
+truly wish to.
+
+Meltemi is real - Nokia's skunkworks Linux >> The Register 
+<http://www.theregister.co.uk/2011/10/05/nokia_meltemi_for_s40/>
+
+
+"Sources tell us that Nokia is developing a Linux-based replacement for its 
+S40 phones, called Meltemi. The news was leaked, accurately, by the Wall Street 
+Journal last week. Now we can confirm it. "The codename turned up in an 
+internal communication we saw in April, referring to opportunities for 
+redundant Meego staff "in the Meltemi organisation". We inferred that was a 
+Windows project. It isn't. "The thinking is that a Linux-based replacement for 
+S40 will allow developers to tap into proven development tools - and Qt." 
+Targeting the installed base, apparently, rather than its future. Meanwhile, 
+smartphones make more than 25% of sales worldwide and the figure is rising 
+every quarter.
+
+Acer plans 15-inch ultrabooks using fibreglass cases >> Digitimes 
+<http://www.digitimes.com/news/a20111006PD225.html>
+
+
+"Acer plans to launch a 15-inch ultrabook model in early 2012 built using 
+fibreglass cases supplied by Mitac Precision Technology. Asustek Computer is 
+expected to follow suit, also adopting fiber glass cases from MPT, according to 
+industry sources. "Acer originally planned to release the 15-inch model in the 
+fourth quarter but decided to delay the launch to 2012 due to unfavourable 
+market conditions, noted the sources, noting that the fibreglass cases will 
+help bring down unit costs. "The price of fibreglass cases will be US$5-10 less 
+than those made of aluminum alloy and US$20 cheaper for a whole ultrabook, the 
+sources estimated." Sounds like they're expecting slim margins.
+
+Open Source Projects >> Twitter Developers 
+<https://dev.twitter.com/opensource/projects>
+
+
+Interesting list, and plenty more on GitHub.
+
+RIM, maker of BlackBerry, debates its target market for PlayBook tablet >> 
+WSJ.com 
+<http://online.wsj.com/article/SB10001424052970204422404576597061591715344.html?mod=WSJ_Tech_Europe_LeftTopNews>
+
+
+"As Research In Motion Ltd. executives prepared early this year for the launch 
+of their first tablet, thePlayBook 
+<https://www.theguardian.com/technology/playbook>, one big question loomed: Who 
+was the device for? "Some executives, like RIM's technical visionary and 
+co-chief executive Mike Lazaridis, saw the gadget as an extension of the 
+BlackBerry, long favored by corporations and business people. Others were 
+pushing for more focus on ordinary consumers, people eager for games, music and 
+movies, according to executives close to the company. "'There's an internal war 
+going on around the marketing message. Even the guys at the top don't agree,' 
+one executive close to the company said at the time." The first ad agency' tag 
+line was "Go Pro". They got fired. (Link may require subscription.)
+
+Sony Ericsson's Strategy: Get Smart - WSJ.com 
+<http://online.wsj.com/article/SB10001424052970203405504576602762590246534.html>
+
+
+The m00p malware investigation - was justice done? >> Naked Security 
+<http://nakedsecurity.sophos.com/2011/10/05/the-m00p-malware-investigation-was-justice-done/>
+
+
+"Detective Constable Bob Burls of the UK's Police Central e-Crime Unit (PCeU) 
+and F-Secure's Mikko Hyppönen took centre stage at the Virus Bulletin 
+conference in Barcelona to describe how the computer-crime fighting authorities 
+and anti-virus industry worked together on one such investigation. "'Operation 
+Kennet' was the UK police's codename for a probe into the m00p virus-writing 
+group - a cybercrime gang that operated from 2004 until 2006, recruiting 
+compromised computers into an IRC-controlled botnet." Fascinating case, as much 
+as anything for how the people involved were discovered logged into the 
+relevant servers when the police arrested them.
+
+Steve Jobs: Arab-American, Buddhist, Psychedelic Drug User, and Capitalist 
+World-Changer >> Informed Comment 
+<http://www.juancole.com/2011/10/steve-jobs-arab-american-buddhist-psychedelic-drug-user-and-capitalist-world-changer.html>
+
+
+"Like Barack Obama, Jobs was the son of a Muslim. "[His mother] Simpson, young 
+and unmarried, gave Jobs up for adoption, but she and Jandali later wed and 
+gave Jobs a sister. He never appears to have met his father a political 
+scientist who later went into the casino business, but he did get to know his 
+biological sister Mona. That is, Jobs's childhood was wrought up with a) Muslim 
+immigration to the United States and b) the sexual revolution, both phenomena 
+of the 1950s that accelerated in subsequent decades. Of course, these two parts 
+of his heritage had only an indirect impact on him. "His adoptive parents were 
+Paul Jobs and Clara Hagopian Jobs (his adoptive mother would therefore be of 
+Armenian heritage.)" Classic American story, basically.
+
+Steve Jobs: Photo Booth 2005 >> Facebook 
+<https://www.facebook.com/media/set/?set=a.10150344003354357.371772.500729356&l=c6edf34df0&type=1>
+
+
+Hilarious set of photos from 2005 when Jobs was testing out a set of photo 
+filters in Mike Matas's office at Apple.
+
+Consultation on the Public Data Corporation >> Ernestmarples.com 
+<http://pdcconsult.ernestmarples.com/>
+
+
+Another consultation on data from Ordnance Survey, Met Office and Land 
+Registry. Soooo.. Q Didn't this already happen? "This is much more important 
+than the postcode consultation that Ernest Marples asked you to respond to last 
+time. Because as well as postcode data, it includes maps, gazettes, boundaries, 
+weather observations and predictions, land ownership records, and more 
+besides." "With the exception of postcode data and a few other watered-down 
+Ordnance Survey products, all of this data is currently only available for a 
+fee, despite being collected by these organisations as part of their public 
+task." Q So what *should* be happening? "Ernest thinks that the raw data held 
+by the Public Data Corporation and its constituents is public data, and should 
+be made available to all, for free, for any purpose." As they put it: "Please 
+respond now! Time runs out on 27th October 2011. It's just like the Mayan 
+apocalypse, but for open data."
+
+Call routing scam costs telcos $150m a year >> The Register 
+<http://www.theregister.co.uk/2011/10/06/termination_bypass/>
+
+
+"Fraudulent call termination is costing operators huge amounts of money, 
+though the victims are often unaware they've been tricked. The elaborate scam 
+involves routing international calls onto local numbers, then using promotional 
+offers offered by local telcos to connect the call without handing over the 
+termination fee. UK outfit Revector, which has detected this swindle in 50 
+countries over the past two years, puts the revenue loss at $150m annually and 
+points to one European operator who was losing more than a million dollars a 
+month." Very complex, but valuable.
+
+two minutes with steve >> sippey.com 
+<http://www.sippey.com/2011/10/two-minutes-with-steve.html>
+
+
+On the Wednesday afternoon before the Monday keynote we were to present in the 
+theater on Apple's campus to Steve, Scott Forstall and Phil Schiller; they'd 
+have the final word on whether we'd make it to the big stage at Moscone. The 
+wait outside the theater was torture, the walk down the aisle was nerve 
+wracking, and the two minute demo we gave went by in a blur. I'm pretty sure I 
+rushed it. "But Steve smiled. He said he liked it, that we had done a great 
+job. And then gave us advice. Move a line up, emphasize this particular point, 
+fix that button on the app. Coming from him it was all obvious stuff -- we felt 
+foolish for not seeing those flaws earlier. ... And on that Monday the whole 
+thing went off without a hitch." See it:
+http://www.youtube.com/watch?v=LtRunIKuxfw 
+<http://www.youtube.com/watch?v=LtRunIKuxfw>. How would you have done?
+
+Steve Jobs didn't... >> Asymco 
+<http://feedproxy.google.com/~r/Asymco/~3/ggIxN1mWdds/>
+
+
+Interesting analysis of what Steve Jobs did and didn't do in running 
+businesses.
+
+You can follow Guardian Technology's linkbucket on delicious 
+<http://delicious.com/guardianista>
+ 

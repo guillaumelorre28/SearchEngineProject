@@ -1,0 +1,23 @@
+
+Today M, for milestones... which are important even on an Agile project.
+
+Many people who read just a little about Agile development think there are no 
+fixed commitments. It's true that there is constant reprioritisation of work, 
+but that generally operates at the task level, and there is still a need to set 
+goals and stick to them. After all, how else can you give the people who sign 
+the cheques reassurance that you'll deliver what they want?
+
+So when we planned R2 we also set milestones marking when we would make the 
+major launches of each section. Each milestone was stated very simply at the 
+high level: launch the homepage, launch the Environment section, etc. These 
+were the targets we put before our senior stakeholders, and they were what we 
+were accountable for.
+
+At a lower level we planned for each launch to include specific features: the 
+Culture launch would include a special component to list the critics; the 
+Sports launch would include a component showing the latest betting odds from 
+Blue Square; and so on. It was these lower level details which were always up 
+for reprioritisation. As long as we could deliver sufficient features to allow 
+the launch of each section we could fairly be said to be hitting that milestone 
+and satisfying our senior stakeholders.
+ 

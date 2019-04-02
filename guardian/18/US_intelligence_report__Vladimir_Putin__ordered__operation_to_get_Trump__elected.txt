@@ -1,0 +1,236 @@
+
+Russian president Vladimir Putin 
+<https://www.theguardian.com/world/vladimir-putin> interfered in the US 
+presidential election to aid Donald Trump, according to a declassified 
+assessment by the NSA, CIA and FBI.
+
+
+“We assess Russian President Vladimir Putin ordered an influence campaign in 
+2016 aimed at the US presidential election. Russia’s goals were to undermine 
+public faith in the US democratic process, denigrate Secretary [Hillary] 
+Clinton, and harm her electability and potential presidency. We further assess 
+Putin and the Russian Government developed a clear preference for 
+President-elect Trump,” the agencies found in a long-awaited report that stands 
+to hang over the head of the incoming Trump administration.
+
+Russia hacking: US intelligence chief hits back at Donald Trump's 
+'disparagement'
+ Read more  
+<https://www.theguardian.com/technology/2017/jan/05/russia-election-hacking-hearing-congress>
+The report 
+<https://www.google.com/url?q=https%3A%2F%2Fwww.dni.gov%2Ffiles%2Fdocuments%2FICA_2017_01.pdf&sa=D&sntz=1&usg=AFQjCNGngBEfadgQE3fOzjAZM4p5IFv0Hg>
+ (pdf), for weeks the subject of leaks that have incensed and vexed Trump, 
+contradicts the contention from his transition team that Russia did not prefer 
+him in the 2016 election, as well as Trump’s insistence that the culprits 
+behind the hacks of Democratic political figures are fundamentally unknowable.
+
+The report keeps classified any crucial technical data demonstrating Russian 
+culpability, which means its release is unlikely to persuade skeptics that the 
+intelligence agencies have definitively proven their case. Nor does the 
+intelligence assessment claim that Russian interference was decisive in the 
+election.
+
+
+Though the report lacks detail, never before has the US intelligence apparatus 
+publicly assessed a foreign power to have interfered in an election for the 
+benefit of an incoming president.
+
+The three US intelligence agencies assessed with “high confidence” that 
+Russian military intelligence was behind anonymous hacking entities Guccifer 
+2.0 and DCLeaks.com, and relayed to WikiLeaks data stolen from prominent 
+Democrats. WikiLeaks’ Julian Assange has denied receiving any material from the 
+Russians.
+
+“Moscow most likely chose WikiLeaks because of its self-proclaimed reputation 
+for authenticity. Disclosures through WikiLeaks did not contain any evident 
+forgeries,” the agencies found.
+
+The intelligence assessment found that a multifaceted Russian influence 
+campaign, going beyond the data breaches at the Democratic National Committee, 
+began as an effort to undermine Clinton’s “expected presidency” and included 
+state-owned media and social media campaigns. It foreshadowed “future influence 
+efforts worldwide, including against US allies and their election processes”.
+
+“We also assess Putin and the Russian Government aspired to help 
+President-elect Trump’s election chances when possible by discrediting 
+Secretary Clinton and publicly contrasting her unfavorably to him,” the report 
+said.
+
+
+While Russian influence campaigns against western powers and Russia’s 
+neighbors have been seen before, and are “designed to be deniable”, the 
+intelligence agencies called the public release of the stolen data 
+“unprecedented”.
+
+Russia also “collected on some Republican-affiliated targets”, the report 
+claims, without elaboration, but “did not conduct a comparable disclosure 
+campaign”.
+
+After meeting with US intelligence officials at Trump Tower, Trump did not 
+endorse 
+<https://www.theguardian.com/us-news/2017/jan/06/donald-trump-russia-hacking-meeting-intelligence-officials>
+ the conclusion of Russian interference but said he would task his 
+administration with devising a new plan to “aggressively combat and and stop 
+cyber attacks”.
+
+
+Russian treachery is extreme and it is everywhere | Nick Cohen
+ Read more  
+<https://www.theguardian.com/commentisfree/2017/jan/07/russian-treachery-extreme-and-everywhere>
+In a statement following his meeting with intelligence chiefs, Trump discussed 
+digital intrusions in a generic sense, referring to “Russia, China, other 
+countries, outside groups and people” that engage in digital theft, remaining 
+agnostic on the intelligence agencies’ conclusion of Russian interference.
+
+He said it was ultimately irrelevant, describing the data penetration and leak 
+as having “absolutely no effect on the outcome of the election”.
+
+
+Democrats seized on the report. Representative Adam Schiff, ranking member of 
+the House intelligence select committee, said: “The President-elect’s statement 
+… is not supported by the briefing, report, or common sense.”
+
+Chuck Schumer, minority leader in the Senate, raised the prospect of a fresh 
+investigation by a select committee.
+
+“We need to confront this interference head on,” he said, “in an aggressive 
+and bipartisan manner. If we don’t, it’ll be open season for any foreign power 
+who wants to cause trouble in our elections.”
+
+Republicans were quick to deny any suggestion that the election result might 
+have been different without the cyber-attack.
+
+While acknowledging Russian meddling, House Speaker Paul Ryan said: “We must 
+also be clear that there is no evidence that there was any interference in the 
+voting or balloting process. We cannot allow partisans to exploit this report 
+in an attempt to delegitimise the president-elect’s victory.”
+
+Senator Lindsey Graham of South Carolina, meanwhile, called for 
+“additional punishments on Russia for their cyber interference in the 2016 
+elections”.
+
+Nancy Pelosi, the Democratic leader in the House, said: “As stunning as this 
+report is in it revelations, I wish the American people could have access to 
+more details.”
+
+Several US cybersecurity firms, including CrowdStrike and FireEye, have 
+released public reports attributing the data breaches and disclosures to groups 
+in Russia, providing vastly more technical detail and analysis than does the 
+declassified report.
+
+Brian Bartholomew of Russia-based security firm Kaspersky believes the hacks 
+were the work of a group known by several code names, among them Fancy Bear, 
+Sofacy and APT 29.
+
+Bartholomew told the Guardian that while Kaspersky tends to shy away from 
+attribution and focus on deterrence and analysis, it had already become 
+difficult to reach any other conclusion than that Russian state actors were 
+behind the Fancy Bear hacks.
+
+“[Julian] Assange said it could have been a 14-year-old hacker – if you look 
+at the collective operations of this group, there’s no way a 14-year-old has 
+this much money, time and effort to conduct all of these operations together,” 
+he said.
+
+Kaspersky believes Fancy Bear controlled several operations attributed to 
+Islamic State and other international groups, among them hacks on TV5Monde, the 
+German Bundestag and the Democratic National Committee. Those attacks look 
+sloppy and public by design, Bartholomew said.
+
+
+“What it came down to was essentially plausible deniability,” he said. “You 
+have an espionage group that is linked to a nation-state group; if you have a 
+group that is targeting media or election systems, that’s taking it past the 
+line that traditional groups used to follow.”
+
+The fronts for Fancy Bear allowed a more organized and well-funded actor to 
+pretend to be a gang of dissidents that just happened to act in a way that 
+furthered the interests of the group backing them. “It all forms a line with 
+the Russian sphere of influence,” said Bartholomew.
+
+
+Bartholomew said he hoped the new report would contain at least some new 
+technical details. Instead, it contains an analysis of Russian state news 
+outlet Russia Today dating back more than four years, and the detail that among 
+other tactics, the Russian GRU intelligence agency is said to have hired 
+Twitter trolls.
+
+“Pro-Kremlin bloggers had prepared a Twitter campaign, #DemocracyRIP, on 
+election night in anticipation of Secretary Clinton’s victory, judging from 
+their social media activity,” analysts wrote in the declassified report.
+
+
+Hours before the release of the declassified report, Trump derided the intense 
+political focus on the hack as a “political witch-hunt”, engineered to 
+delegitimize his presidency before it begins.
+
+“To some extent, it’s a witch-hunt. They just focus on this,” Trump told the 
+New York Times 
+<http://www.nytimes.com/2017/01/06/us/politics/donald-trump-wall-hack-russia.html>
+ ahead of his Friday briefing by senior US intelligence officials. Trump and 
+Putin have expressed mutual respect, and Trump has said he desires awarmer 
+relationship with Russia 
+<http://www.wsj.com/articles/donald-trumps-plan-to-partner-with-russia-faces-new-bigger-hurdle-1483057733>
+ – a desire shared by predecessors George W Bush and Barack Obama whose 
+achievement was thwarted by divergent national interests.
+
+It was the latest turbulence in what is shaping up to be an acrimonious 
+relationship with US intelligence agencies. Trump has repeatedly dismissed the 
+Russian hacking assessment, even putting out a dismissive December statement 
+saying its authors were “the same people that said Saddam Hussein had weapons 
+of mass destruction”. This week hecited Assange 
+<https://www.theguardian.com/us-news/2017/jan/04/republicans-break-donald-trump-tweet-julian-assange-dnc-hacks>
+, a hated figure in US intelligence circles, casting doubt on Russian 
+culpability.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2Fvideo%2F2017%2Fjan%2F06%2Fjoe-biden-donald-trump-grow-up-adult-judy-woodruff-video&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=Biden%20to%20Trump%3A%20%E2%80%98Grow%20up%2C%20Donald.%20Time%20to%20be%20an%20adult%E2%80%99%20%E2%80%93%20video&url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2Fvideo%2F2017%2Fjan%2F06%2Fjoe-biden-donald-trump-grow-up-adult-judy-woodruff-video>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Biden%20to%20Trump%3A%20%E2%80%98Grow%20up%2C%20Donald.%20Time%20to%20be%20an%20adult%E2%80%99%20%E2%80%93%20video&url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2Fvideo%2F2017%2Fjan%2F06%2Fjoe-biden-donald-trump-grow-up-adult-judy-woodruff-video&media=>
+Biden to Trump: ‘Grow up, Donald. Time to be an adult’ 
+<https://www.theguardian.com/us-news/video/2017/jan/06/joe-biden-donald-trump-grow-up-adult-judy-woodruff-video>
+By mid-Friday, Trump tweeted 
+<https://twitter.com/realDonaldTrump/status/817413321058029568> that he wanted 
+the House and Senate intelligence committees to investigate “top secret 
+intelligence shared with NBC prior to me seeing it”.
+
+Young Russian denies she aided election hackers: ‘I never work with douchebags’
+ Read more  
+<https://www.theguardian.com/world/2017/jan/06/russian-hacker-putin-election-alisa-shevchenko>
+In a Senate hearing on Thursday, the NSA director warned that intelligence 
+officers perceiving disrespect or irrelevance from a Trump White House might “
+walk 
+<https://www.theguardian.com/technology/2017/jan/05/russia-election-hacking-hearing-congress>
+”. The outgoing director of national intelligence testified that US 
+intelligence has only grown more confident in attributing the DNC hack to 
+Russia since first releasing itsassessment in October 
+<https://www.theguardian.com/technology/2016/oct/07/us-russia-dnc-hack-interfering-presidential-election>
+.
+
+Leon Panetta, a former CIA director and Pentagon chief in the Obama 
+administration, told NBC he has “never seen anything like this in my lifetime 
+<https://twitter.com/TODAYshow/status/817344488834146304>,” with a president 
+elect “undermining the credibility of the very intelligence agencies that have 
+to provide information to him in order for him to be president of the United 
+States”. The outgoing vice-president, Joseph Biden, said it was “absolutely 
+mindless 
+<https://www.theguardian.com/us-news/2017/jan/06/joe-biden-attacks-trump-for-mindless-dismissal-of-agencies-intelligence>
+” for Trump to feud with the intelligence apparatus.
+
+Ahead of the report’s release, 176 Democratic members of the House of 
+Representatives threw their support to a push, opposed by GOP leadership, to 
+create an independent commission to investigate the electoral interference and 
+recommend measures to prevent future breaches.
+
+“If we do nothing, we are telling the world our elections are open for 
+influence by the most aggressive meddler,” said Eric Swalwell of California, a 
+senior member of the intelligence committee and co-sponsor of the effort.
+
+Trump struck a conciliatory tone after his “constructive” meeting with Clapper 
+and other senior intelligence officials.
+
+“I have tremendous respect for the work and service done by the men and women 
+of this community to our great nation,” Trump said in a statement.
+
+ 

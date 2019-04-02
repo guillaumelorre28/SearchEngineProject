@@ -1,0 +1,24 @@
+
+Today Q, for quality assurance... which is a much misunderstood subject.
+
+The R2 team consisted of a number of QAs, and the most obvious artifact that 
+the QAs produced and worked with was the test script: a series of detailed 
+instruction that explained what to test and how to test it. For this reason 
+it's too easy to dismiss QAs as testers, and that would be a mistake.
+
+Our QA Manager, Amy, says "I don't want us to be finding problems, I want 
+there to be no problems to find". That hints at how QAs should be used: they 
+should be involved from the very start of a piece of work to identify an 
+appropriate structure and approach that ensures greater reliability and more 
+opportunities for testing. In the best cases a QA has guided a task in a 
+direction that BAs, developers and architects might not have previously 
+considered, so avoiding problems they hadn't thought of. In the worst cases a 
+QA has been omitted from planning a piece of work and something considered 
+straightforward by the QA-less group has turned out expensive to test and a 
+constant source of problems.
+
+Testing comes at the end of the development process, and considering a QA as a 
+tester therefore allows one to fall into the trap of including them only at the 
+end. The quality assurance process should add value, and that can only happen 
+if the QAs are involved from the start.
+ 

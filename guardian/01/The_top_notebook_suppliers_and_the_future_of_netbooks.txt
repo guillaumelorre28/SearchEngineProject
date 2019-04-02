@@ -1,0 +1,57 @@
+
+Either HP or Acer led the market in notebook shipments in the first quarter of 
+this year, but the main two market trackers -- Gartner and IDC -- appear to 
+differ about which company took the top spot. IDC apparently thinks 
+Hewlett-Packard did it by shipping 9.5 million units against Acer's 8.65m, 
+while Gartner hasAcer <https://www.theguardian.com/technology/acer> pipping HP 
+by 9.5m to 9.47m.
+Neither Gartner nor IDC makes a habit of revealing numbers for specific types 
+of product (PC shipments includes desktops, laptops, netbooks etc, but not 
+servers) or of listing firms outside the top five. They have the numbers, of 
+course, but they charge for them. However, a certain amount of bragging goes 
+on, which can make some of them available, though they're not guaranteed to be 
+reliable.
+
+In this case, the Taiwan-based DigiTimes has covered the disagreement about 
+which company shipped the most portables inMarket watchers differ with the 
+leader of notebook brands for 1Q10 
+<http://www.digitimes.com/news/a20100427PD205.html> (a story that will soon be 
+available to subscribers only). It has also reported IDC numbers for other top 
+suppliers. The pecking order looks something like this:
+
+1. HP -- 9.5m
+2. Acer -- 8.65m
+3. Dell -- 5.7m
+4. Toshiba -- 4.6m
+5. Asus -- 4.3m
+6. Lenovo -- 4.1m
+7. Apple -- 1.85m
+8. Samsung -- 1.72m
+9. Sony -- 1.68m
+
+All but one of those companies ships netbooks as well as notebooks, and three 
+companies seem to have done particularly well out of them: Acer, Asus and 
+Samsung. They could therefore be hit if the netbook market declines.
+
+At the moment, it seems the netbook market may have reached a plateau. In 
+discussing its latest quarterly results, earlier this month,Intel 
+<https://www.theguardian.com/technology/intel> noted that Atom sales dipped by 
+19% to $355m over the previous (Christmas) quarter, though they were up by 62% 
+year-on-year.
+
+But as I commented at the time, the netbook market could be boosted by the 
+arrival of dual-core Atom chips that remove many of the performance limitations 
+(Dual-core Atoms coming as Intel aims for the first "netbook refresh cycle" 
+<http://www.guardian.co.uk/technology/blog/2010/apr/14/intel-dualcore-atom-chips>
+), and some PC manufacturers could also have hits with tablet versions and 
+other form factors -- Samsung, for example, has done OK with its Q1. The new 
+system-on-a-chip Atom design codenamed Tunnel Creek could also have an impact: 
+it's cheaper and uses less power, which should encourage more innovative form 
+factors.
+
+Note: I expect that tablets running Windows 7 will count in the rankings but 
+Apple's iPad tablet will not. The iPad is a media consumption device like the 
+iPod Touch or Sony PlayStation Portable. There are now lots of devices -- 
+including smart phones and games consoles -- that are not personal computers, 
+even though they are personal, and compute.
+ 

@@ -1,0 +1,170 @@
+
+Facial recognition <https://www.theguardian.com/technology/facial-recognition> 
+software is most commonly known as a tool to help police identify a suspected 
+criminal by using machine learning algorithms to analyze his or her face 
+against a database of thousands or millions of other faces. The larger the 
+database, with a greater variety of facial features, the smarter and more 
+successful the software becomes – effectively learning from its mistakes to 
+improve its accuracy.
+
+The government wants more offshore fish farms, but no one is biting
+ Read more  
+<https://www.theguardian.com/sustainable-business/2016/sep/25/offshore-fish-farms-imported-seafood-aquaculture>
+Now, this type of artificial intelligence is starting to be used in fighting a 
+specific but pervasive type of crime – illegal fishing. Rather than picking out 
+faces, the software tracks the movement of fishing boats to root out illegal 
+behavior. And soon, using a twist on facial recognition, it may be able to 
+recognize when a boat’s haul includes endangered and protected fish.
+
+The latest effort to use artificial intelligence to fight illegal fishing is 
+coming from Virginia-based The Nature Conservancy (TNC), which launched a 
+contest on Kaggle 
+<https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring> – a 
+crowdsourcing site based in San Francisco that uses competitions to advance 
+data science –earlier this week. TNC hopes the winning team will write software 
+to identify specific species of fish. The program will run on cameras, called 
+electronic monitors, which are installed on fishing boats and used for 
+documenting the catch. The software will put a marker at each point in the 
+video when a protected fish is hauled in. Inspectors, who currently spend up to 
+six hours manually reviewing a single 10-hour fishing day, will then be able to 
+go directly to those moments and check a fishing crew’s subsequent actions to 
+determine whether they handled the bycatch legally – by making best efforts to 
+return it to the sea unharmed.
+
+TNC expects this approach could cut review time by up to 40% and increase the 
+monitoring on a boat. Despite rules that call for government-approved auditors 
+to be stationed on 5% of commercial fishing boats in the Western and Central 
+Pacific, in practice the auditors are foundonly around 2% of 
+<https://www.wcpfc.int/system/files/WCPFC-2016-ERandEMWG2-IP02%20Report%20on%20Solomon%20Is%20longline%20monitoring%20project.pdf>
+ the fishing boats, including tuna long liners. As a result, fishermen 
+sometimes keep protected fish that they hook – including sharks that are killed 
+for their lucrative fins.
+
+In the Pacific’s $7bn tuna fishery, illegal, unreported and unregulated (IUU) 
+fishing not only harms fragile fish stocks, it takes an economic toll of up to 
+$1.5bn 
+<http://www.pewtrusts.org/en/research-and-analysis/collections/2013/11/international-policy-the-western-and-central-pacific-fisheries-commission-2013-meeting>
+. The impact shows up many ways, including lost income for fishermen in the 
+legal marketplace and harm to the tourist economy that sells snorkelers and 
+divers the opportunity to witness protected species in the wild.
+
+
+Worldwide, cost estimates related to IUU reach $23bn annually 
+<http://www.pewtrusts.org/en/research-and-analysis/fact-sheets/2013/08/27/faq-illegal-unreported-and-unregulated-fishing>
+, and the take represents up to 20% of all seafood. Using technology to track 
+and prevent illegal fishing presents an opportunity for technology companies as 
+the fishing industry seeks ways to comply with the growing demand for 
+transparency from governments and consumers.
+
+“If using facial recognition software to track fish were easy, we’d already be 
+using it,” says Matthew Merrifield, TNC’s chief technology officer. Whereas 
+images from security cameras installed inside banks or other buildings are 
+consistent and predictable, “the data from (electronic monitoring) cameras on 
+boats is dirty, because the ships are always moving and the light keeps 
+changing”.
+
+Because of the “dirty” data, it will not be easy to write a facial recognition 
+software that can accurately spot protected species when the variable 
+conditions on the high seas could lead to blurry images on the video.
+
+Given those challenges, it’s too early to know how large this market will 
+grow, or how quickly. While the use of artificial intelligence to reduce 
+illegal catch is relatively new, the Kaggle contest isn’t the first time it is 
+being applied to the fishing industry.
+
+San Francisco-based startup Pelagic Data Systems (PDS) has developed 
+technology that illuminates the activity of some of the4.6m 
+<http://www.fao.org/3/a-i5555e.pdf> small-scale commercial fishing boats that 
+ply coastal waters around the world. Using data from a UN’sFood and Agriculture 
+Organization report <http://www.fao.org/3/a-i5555e.pdf>, PDS estimates that 
+roughly 95% of those boats don’t have the types of communications and tracking 
+radios that larger boats are required to have, partly because the boats are too 
+small or lack the power source to run the radios.
+
+PDS installs a solar powered radio with an integrated GPS receiver and 
+cellular modem on boats. The company collects the location data and analyzes it 
+to create a map to show where the boat traveled and deduce its activities, such 
+as where it stopped to set out nets or other gear and where and for how long it 
+hauled in a catch. This data is vital because it shows whether the boat fished 
+inside or outside marine protected areas. The device doesn’t have an on/off 
+switch, a design to prevent a fishing crew from tampering with data collection.
+
+The software also generates heat maps to indicate where the heaviest fishing 
+activities are taking place within a coastal region. By pairing that data with 
+the movements of the boats, PDS can also estimate the quantity and even the 
+size of the fish pulled from those waters, says Dave Solomon, CEO of PDS.
+
+The company sells its technology to governments, nonprofits, academic 
+researchers and companies in the fishing industry, and expects the number of 
+boats installed with its device to reach 1,000 in regions such as West Africa, 
+North America and Mexico by the end of the year, Solomon says. Some of his 
+customers install the devices in the boats of their suppliers for another 
+reason: to win over customers by demonstrating transparency in fishing 
+practices.
+
+Another effort to use data to fight illegal fishing comes from the nonprofit 
+SkyTruth, which tracks the movement of large ships by mining data broadcast by 
+ships and collected by satellites. Its technology is used by Global Fishing 
+Watch <http://globalfishingwatch.org/>, which is backed by Google, Oceana and 
+the Leonardo DiCaprio Foundation. SkyTruth’s data helped the island nation 
+Kirbati to bust illegal fishing operations.
+
+But Kaggle has a habit of taking on unusual technical challenges. Earlier this 
+year, it launched a contest with State Farm to develop machine learning 
+software, to be embedded in dashboard cameras, to classify a driver’s behavior 
+<https://www.kaggle.com/c/state-farm-distracted-driver-detection>, such as 
+being distracted by a smartphone when behind the wheel.
+
+Kaggle, with a membership of 650,000 data scientists, hasn’t tackled an 
+environmental problem before. But its CEO, Anthony Goldbloom, thinks the TNC 
+contest could represent the start of environmental competitions on its site 
+because scientists from government agencies and academic institutions are 
+collecting a growing amount of field data using cameras and sensors.
+
+TNC contest attracted 44 teams within the first day. Each team has five months 
+to submit its software.
+
+While the contest presents an appealing opportunity to do something good for 
+the environment, it doesn’t promise a big payoff. That will make it difficult 
+for software developers and data scientists to raise venture capital to fund 
+their efforts.
+
+“Silicon Valley only invests in places with big money [potential],” says 
+Andrew Bosworth, vice president of ads and business platform for Facebook and a 
+board member of land conservation group Peninsula Open Space Trust 
+<https://openspacetrust.org/staff/>. “Plus, everyone underestimates 
+[environmental] challenges. Going to the moon is easier than tracking fishing. 
+It really is. So these are big challenges without financial incentives to solve 
+them.”
+
+Oysters are making a comeback in the polluted waters around New York City
+ Read more  
+<https://www.theguardian.com/environment/2016/nov/17/oysters-new-york-aquaculture-hudson-east-river>
+But, he adds, Silicon Valley does provide important undergirding for using 
+technology to solve environmental problems. Bosworth argues that the 
+advancement in core technologies behind things like multiplayer gaming software 
+and smartphone apps has propelled the rise of machine learning and artificial 
+intelligence and lowered the development costs over time.
+
+The winning team of the contest will earn a prize of $150,000. Then, as part 
+of its campaign to reduce bycatch and illegal fishing in the region, TNC will 
+work with the governments of Palau, Federated States of Micronesia, Solomon 
+Islands and Marshall Islands to install the software, for free, on the 
+electronic monitors of selected fishing boats.
+
+If the software proves effective in reducing the labor costs and improving the 
+accuracy of identifying protected species, then it could become a standard 
+feature in electronic monitors. TNC will own the intellectual property of the 
+winning software and make it free to the equipment makers, which include 
+Satlink and Archipelago. The software could become even more widely used if 
+large retailers such as Walmart begin to require electronic monitors on their 
+vendor’s fleets.
+
+But it is still early days for policing the fishing industry. For Melissa 
+Garren, chief scientific officer of PDS, that means the market potential is 
+huge. “We should be treating the oceans more like we treat airspace,” she says. 
+“If we had this lack of visibility in the skies, it would be nuts.”
+
+ * This article was amended on 21 November to show that the data used by 
+Global Fishing Watch is collected by satellites, not both satellites and 
+cellular technology.  

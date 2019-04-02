@@ -1,0 +1,61 @@
+
+The exposure of a security flaw in WhatsApp 
+<https://www.theguardian.com/technology/2017/jan/13/whatsapp-backdoor-allows-snooping-on-encrypted-messages>
+ has disappointed activists, diplomats and others who use it regularly for 
+their work, but in a world of increasing surveillance and ever more aggressive 
+hacking, many say they were already wary of trusting its promise of total 
+privacy.
+
+Keeping plans and communications hidden from hostile authorities or rivals can 
+be a constantly shifting game of digital cat and mouse. “[I believe] nothing is 
+particularly safe in these messenger systems,” said a western diplomat who 
+regularly usesWhatsApp <https://www.theguardian.com/technology/whatsapp> but 
+not for sensitive information, “just for keeping in touch and logistics”.
+
+Facebook, which owns WhatsApp <https://www.theguardian.com/technology/whatsapp>
+, claims no one can intercept messages on the system, not even the company and 
+its staff, ensuring privacy for its billion-plus users. But new research shows 
+that in fact the company could read messages, owing to the way WhatsApp has 
+implemented its end-to-end encryption protocol.
+
+ “It’s just another threat to the security of activists,” said Zaina Erhaim, a 
+Syrian journalist and campaigner, who said she did not herself use the app much 
+but knew of other Syrians who did.
+
+Many of Syria’s boldest activists have learned to be wary of any 
+communications system promising digital protections, because of the widespread 
+use of torture by both the government of Bashar al-Assad and opponents 
+including Isis. That can make it impossible for any activist who is seized to 
+keep their secrets. “When captured, they are forced to decrypt their files,” 
+Erhaim said.
+
+The flaw could be most dangerous to people sharing sensitive information who 
+are not particularly tech savvy or had been lulled into a false sense of 
+security by WhatsApp’s reputation for secure encryption.
+
+“There could be some fears,” said a medical aid worker, who said the app was 
+popular with his colleagues although they did not use it for the most sensitive 
+conversations. “I think people use it for privacy and convenience.”
+
+If news of the security flaw pushes dissidents and others away from WhatsApp, 
+it will not be the first time that a once-trusted programme has been sidelined. 
+A decade ago Skype was the communication method of choice, but confidence in 
+its systems was already failing badly before leaks by Edward Snowden revealed 
+that the US government was regularlylistening in on calls 
+<https://www.theguardian.com/world/2013/jul/11/microsoft-nsa-collaboration-user-data>
+.
+
+Other systems that have maintained a reputation for security have become 
+victims of their own encryption success, banned by the authorities they were 
+being used against. At the end of last year Egyptblocked access to Open Whisper 
+Systems’ Signal app 
+<http://motherboard.vice.com/read/signal-claims-egypt-is-blocking-access-to-encrypted-messaging-app>
+, a rival to WhatsApp that was recommended by Snowden.
+
+It uses the same protocol as WhatsApp but does not suffer from the same 
+vulnerability. It was favoured by some dissidents because its settings allow 
+for the automatic deletion of new messages.
+
+WhatsApp, by contrast, stores messages by default, making a user potentially 
+more vulnerable if they are detained.
+ 

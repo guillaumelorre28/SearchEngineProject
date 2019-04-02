@@ -1,0 +1,303 @@
+
+Today some 2.8 billion people face insufficient supplies of fresh water, and 
+according to the United Nations 
+<http://www.un.org/waterforlifedecade/scarcity.shtml> that number is set to 
+increase to half the world’s population by 2030. The UN Food and Agriculture 
+Organization (FAO) reports that40% of the world’s food 
+<http://www.fao.org/docrep/005/y3918e/y3918e10.htm> depends on irrigation, 
+which accounts foralmost 70% <http://www.fao.org/docrep/005/y3918e/y3918e03.htm>
+ of fresh water used.
+It makes sense then that farmers are turning to new and old technology in an 
+attempt to manage their water.
+
+
+Measure twice, pump once
+
+The old business dogma, “If you can’t measure it, you can’t manage it”, holds 
+especially true with water usage. But in many places around the world the 
+amount of water diverted from rivers or pumped from the ground to irrigate 
+crops is not measured. Even California groundwater was totally unregulateduntil 
+this month 
+<http://climateconfidential.com/2014/08/28/outlawing-water-conflict-california-legislators-confront-risky-groundwater-loophole/>
+.
+
+That’s a political rather than a technological problem, said Peter Gleick, 
+co-founder of the Pacific Institute, an independent research organization 
+focused on water issues. Flow meters to measure water use are neither new nor 
+expensive, Gleick said. But in many places groundwater has long been considered 
+a property right, so farmers have seen no need measure or justify how they use 
+it.
+
+But with drought and over-pumping dropping water tables, some are beginning to 
+recognize that better water use tracking will help to keep a dwindling resource 
+flowing.
+
+Milwaukee, Wisconsin-based Wellntel 
+<http://www.wellntel.com/learn/does-wellntel-measure-water-use.html>, a water 
+technology company, is answering that need with a water-measuring system that 
+uses sound sensors to detect the water level in a well – without touching the 
+water or opening the well. The sensors transmit data to the Wellntel website, 
+where customers can log in to private accounts and see their water level at 
+various points: when pumping, after rainfall, and over time.
+
+In an attempt to mollify farmers, Wellntel specifically touts a farmer’s right 
+not to share data on the amount of water used 
+<http://www.wellntel.com/learn/does-wellntel-measure-water-use.html> with 
+anyone else.
+
+
+Waste not, want not
+
+The first place to save water is in conveyance: as much as 60% 
+<http://www.fao.org/focus/e/speclpr/spro13-e.htm> of the water withdrawn for 
+irrigation is lost <http://www.fao.org/focus/e/speclpr/spro13-e.htm> through 
+leaks in canals, spillage and evaporation, according to the FAO.
+
+Another part of the problem is flood irrigation – the most common method of 
+field irrigation globally. Abouthalf the water 
+<http://water.usgs.gov/edu/irmethods.html> on flood irrigated fields isn’t 
+absorbed by crops, according to the US Geological Survey. Instead it runs off, 
+taking with it fertilizers, pesticides and topsoil that pollute water bodies 
+around the world and cause dead zones, areas where too much fertilizer causes 
+algae to bloom, which in turn sucks oxygen out of the water, killing other life.
+
+Flood irrigation is commonplace because it’s cheap. But in response to 
+strained water supplies, some farmers have made the shift to much more 
+efficient underground irrigation or precision micro-sprinkler and drip 
+irrigation systems that deposit tiny amounts of water directly above the roots 
+of crops. These systems also help farmers earn more money by allowing them to 
+plan more acreage while using less water than before.
+
+
+The up-front cost of a drip system is significant – about $500 to $1000 per 
+acre, according to the FAO. Even though these investmentspay for themselves 
+within a few years <http://www.dripmicrowizard.com/?cb=toro> thanks to better 
+water-use efficiency and lower irrigation-related energy bills, many farmers 
+don’t have the cash – or credit access – to install them.
+
+
+However a Middle Eastern firm has developed a new low-tech solution that also 
+places water right at the roots of crops and can work with or without drip 
+irrigation – and comes with a much smaller price tag.
+
+
+In Israel, where water scarcity has been a way of life for decades, Tal-Ya 
+<http://www.tal-ya.com/> (“God’s dew” in Hebrew) manufactures trays that 
+capture dew and funnel it to plants, often tree crops. The 28- by 22-inch 
+polypropylene trays trap air underneath themselves as well, insulating plants 
+from extreme temperatures and catching moisture evaporating from the earth to 
+create a perpetually moist soil pocket around the roots. They also block weeds 
+that would otherwise compete with crops for water.
+
+
+Each tray costs $3 to $5 apiece.
+
+
+Mickey Chesla, Tal-Ya’s vice president of marketing and sales, said the trays 
+canreduce water use <http://www.tal-ya.com/from-the-experts/> by up to 90% 
+although 50% is more typical. They can also reduce fertilizer use by 30% 
+because the trays direct the nutrient straight to the plant’s roots.
+
+
+While introducing more plastic into the environment might not seem like a 
+great idea, Tal-Ya states that its trays last for up to 10 years and are 100% 
+recyclable. Since beginning commercial production in 2013, farmers in Israel, 
+the United States, China, Chile, Georgia, Sri Lanka, and Australia have adopted 
+them according to the company’s web site.
+
+
+This past spring Tal-Ya was a runner-up in the Imagine H20 food and 
+agriculture competition <http://imagineh2o.org/food-and-agriculture.php>. Its 
+tray system “improves agricultural yields without increasing resource 
+allocation”, said Scott Bryan, Imagine H2O’s chief operating officer. “These 
+solutions that enable farmers to produce more with less are proving crucial to 
+surviving the California drought,” he said.
+
+
+Just in time
+
+Another way to avoid waste is to avoid watering when it’s about to rain or the 
+soil is still moist. A variety of systems – includingMeasure-Tek 
+<http://www.measuretek.com/>, Ranch Systems <http://www.ranchsystems.com/wp/> 
+andPure Sense <http://www.puresense.com/> – use weather-monitoring stations and 
+soil moisture probes that send data via radio or cellular signals to a grower’s 
+computer or smart phone. Some can be programmed to turn irrigation off and on 
+as needed.
+
+
+Taking this concept to the extreme, Oakland, California-based Fruition Sciences
+ <http://www.fruitionsciences.com/en/login/home> has created a web application 
+that crunches data from more than 40 sensors to determine whether crops need 
+more water. The system tracks crop nutrient uptake, aerial photos, and weather 
+and soil conditions. One special sensor tracks sap flowing through grapevines.
+
+
+“People are overwatering,” said Thibaut Scholasch, founder and vice president 
+of research and development for the company. “Everywhere we go, from Spain to 
+Argentina to California to Italy to France, we measure a plant response showing 
+that vines are much more resilient than we think.”
+
+
+“We are teaching people to un-train their eyes: drippy-looking leaves do not 
+mean the plant needs water”, Scholasch said. “Often it simply means the weather 
+is hot even if there is still plenty of water in the root system.”
+
+Fruition Sciences is working with farmers in the Los Angeles Metropolitan Water
+ <https://www.theguardian.com/environment/water> District on a project to save 
+water. “So far we have saved anywhere from 40% to 100% of water used for 
+irrigation,” Scholasch said. The range reflects a big swing in how much a 
+grower is over-irrigating as well as the spatial variability and climate 
+dryness of a given vineyard.
+
+The systems aren’t cheap however. Costs range from $40 to $5,000 for a “site” 
+which can be as large as 50 acres – if the field is planted with a single crop 
+– but is often much smaller.
+
+The expense has so far limited the appeal of Fruition Sciences’ system to use 
+with wine grapes. But Scholasch said the firm is currently testing the 
+technology with other cash crops.
+
+From restraint to reuse
+
+An even more nuanced way to manage watering is a strategy called regulated 
+deficit irrigation 
+<https://lirias.kuleuven.be/bitstream/123456789/234625/2/Geerts&Raes09-reviewDeficitIrrigation.pdf>
+. The goal is to irrigate crops just enough to maximize crop-water productivity 
+by reducing irrigation at the point of diminishing returns. For example, 
+reducing water by 50% might result in a yield reduction of just 10%. Some 
+crops, such as wine grapes and certain nuts,actually benefit from water stress 
+during drought-tolerant life stages 
+<http://pacinst.org/wp-content/uploads/sites/21/2014/04/sustaining-california-agriculture-pacinst-full-report.pdf>
+.
+
+Regulated deficit irrigation can be implemented with any type of irrigation 
+system. It is sometimes used with rain-fed crops, adding a bit of irrigation 
+during droughts or in sensitive growth stages, such as when the plants are 
+producing vegetation and during final ripening.
+
+Reuse is also growing in appeal, with urban wastewater being lightly treated 
+and directed to landscaping, industry, power plant cooling, groundwater 
+recharge – and crop irrigation.
+
+“In Monterey and Salinas Valley, much of the strawberries and artichokes are 
+grown with recycled wastewater effluent,” said David Sedlak, a professor of 
+civil and environmental engineering at the University of California at Berkeley.
+
+A new technology from Calgary-based Livestock Water Recycling 
+<https://www.theguardian.com/sustainable-business/water-tech-startup-green-manure-factory-farms>
+ is treating animal waste for reuse on row crops in what amounts to a little 
+sewage treatment plant. The nutrients in the treated sewage benefit the crops 
+by reducing the need for fertilizer inputs, and reduce pollutant runoff because 
+the plants absorb some of the nutrients.
+
+It’s an improvement over the common lagoon system, in which waste sits in a 
+pool for multiple months, to allow solids to settle out before being sprayed on 
+crops. These pools emit toxic gases and can leak into nearby water bodies.
+
+Farmers can also capture flood irrigation runoff and reuse it. This kind of 
+reuse is easier and more cheaply done in organic farming, where the water 
+contains fewer fertilizers and pesticides, than in more conventional 
+agriculture.
+
+And dry-land farmers have developed many strategies to collect rain via 
+barrels and cisterns for direct use, and to resupply groundwater using 
+bioswales (land features that filter water), buffer strips, off-stream storage 
+reservoirs and natural wetlands.
+
+Right-cropping
+
+Not all countries or regions may be able to be self-sufficient in food 
+production. Fifty-one percent of the world’s population may rely on food 
+imports in 2050, according to astudy last year in Environmental Research Letters
+ <http://iopscience.iop.org/1748-9326/8/1/014046/article>. Certain crops need 
+less water and are well suited to dry environments, whereas others such as 
+rice, cotton, or alfalfa – notoriously thirsty crops – are probably better left 
+to wetter regions. Choosing to grow the right crops for the climate – 
+right-cropping – is important in making the most of available water.
+
+Countries in the Persian Gulf are turning increasingly to international food 
+importsafter decades of depleting their groundwater 
+<http://faculty.ksu.edu.sa/geography-alsaleh/Documents/%D8%A3%D8%A8%D8%AD%D8%A7%D8%AB%D8%A7/water_resources/PoliciesforWaterandFoodSecurityintheGCCCountries.pdf>
+.
+
+Israel, too, is spending more of its limited water resources on industries 
+other than agriculture, earning money to buy food internationally. “There may 
+be no countries in the Middle East that have enough water to be self-sufficient 
+in agriculture,” said Gleick of the Pacific Institute.
+
+However, some countries are buying land in wetter countries to grow their 
+food, a practice that can jeopardize local food security, environmental justice 
+and human rights. Astudy last year 
+<http://www.pnas.org/content/110/3/892.abstract> in the Proceedings of the 
+National Academy of Sciences found land grabbing inextricably linked to gaining 
+water rights, with 60% taken by the United States, the United Arab Emirates, 
+India, the United Kingdom, Egypt, China and Israel. Forty-seven percent of such 
+land purchases occurred in Africa and 33% in Asia.
+
+There is also a growing debate over whether some non-food crops should be 
+grown at all in an increasingly water-scarce world. Feedstocks for biofuels, 
+for example,take hundreds of gallons of water per gallon of fuel 
+<http://www.nytimes.com/2010/06/25/business/energy-environment/25iht-rbogeth.html?pagewanted=all&_r=0>
+ to produce. The International Energy Agency predicts a317% percent increase in 
+ 
+<http://www.worldenergyoutlook.org/media/weowebsite/2012/WEO_2012_Water_Excerpt.pdf>
+water consumption 
+<http://www.worldenergyoutlook.org/media/weowebsite/2012/WEO_2012_Water_Excerpt.pdf>
+by biofuel crops by 2035.
+
+Happy soil, happy plant life
+
+While modern industrial agriculture has tended to treat soil merely as a 
+medium that props up plants – first bombing it with insecticides and 
+pesticides, then applying fertilizer to pump up the plants – healthy soil has 
+built-in plant nutrients, absorbs water more deeply and retains it better.
+
+Many traditional agricultural practices – such as reduced tillage, crop 
+rotation, planting cover crops, applying compost, manure, or mulch – nurture 
+the microscopic critters that live in soil. But ways to increase soil moisture 
+and water efficiency are also coming to conventional farming.Polymer soil 
+additions have been researched for 20 years as a means to help soil retain 
+moisture. The idea is that when the farmer irrigates, the polymer absorbs water 
+that would otherwise run off and holds it around the seed.
+
+Bay Area-based mOasis <http://moasisgel.com/>, which produces a soil polymer 
+called BountiGel, claims its product is a significant advance on this concept: 
+it doesn’t break down before the plant can use it, said Steven Hartmeier, 
+mOasis’ CEO. But it does break down. It’s harmless to soil microorganisms 
+because it is highly diluted in the soil at about 10 parts per million, he said.
+
+Made of ingredients already approved for human use and consumption, BountiGel 
+has been approved for use by the California Department of Food andAgriculture 
+<https://www.theguardian.com/science/agriculture>. Roda Group, a venture 
+capital firm based in Berkeley, Calif., has invested more than $5m in mOasis.
+
+ In use the polymer has shown the potential for 25% higher crop yields due to 
+decreased stress on plants, 25% reduced water use overall, and 15% savings on 
+water-related energy utilities, Hartmeier said. “We had a tomato grower this 
+year that would normally drip-irrigate every seven days, and with our product, 
+they stretched it out nine to 11 days.”
+
+Although BountiGel costs about $150 an acre, an average grower can generate 
+about $900 more per acre thanks to increased yield and water savings, according 
+Hartmeier.
+
+The farmers he works with, like farmers nearly everywhere around the world, 
+“need to figure out how to grow more with less water”, Hartmeier said. “We have 
+a water problem in California, and it’s not going away.”
+
+ * This article was amended 29 September to correct the spelling of mOasis CEO 
+Steven Hartmeier’s name.
+
+This piece was published in conjunction with Climate Confidential 
+<https://www.beaconreader.com/climate-confidential>.
+
+Erica Gies is an independent reporter who covers water and energy for The New 
+York Times, The Economist, Scientific American and other publications.
+
+
+The water hub <https://www.theguardian.com/sustainable-business/hubs-water> is 
+funded by SABMiller. All content is editorially independent except for pieces 
+labelled advertisement feature. Find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+
+ 

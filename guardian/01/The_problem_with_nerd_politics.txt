@@ -1,0 +1,87 @@
+
+In the aftermath of the Sopa fight, as top Eurocrats are declaring the 
+imminent demise ofActa <https://www.theguardian.com/technology/acta>, as the 
+Trans-Pacific Partnership begins to founder, as the German Pirate party takes 
+seats in a third German regional election, it's worth taking stock of "nerd 
+politics" and see where we've been and where we're headed.
+
+Since the earliest days of the information wars, people who care about freedom 
+and technology have struggled with two ideological traps: nerd determinism and 
+nerd fatalism. Both are dangerously attractive to people who love technology.
+
+In "nerd determinism," technologists dismiss dangerous and stupid political, 
+legal and regulatory proposals on the grounds that they are technologically 
+infeasible. Geeks who care about privacy dismiss broad wiretapping laws, easy 
+lawful interception standards, and other networked surveillance on the grounds 
+thatthey themselves can evade this surveillance. For example, US and EU police 
+agencies demand that network carriers include backdoors for criminal 
+investigations, and geeks snort derisively and say that none of that will work 
+on smart people who use good cryptography in their email and web sessions.
+
+But, while it's true that geeks can get around this sort of thing – and other 
+bad network policies, such as network-level censorship, or vendor locks on our 
+tablets, phones, consoles, and computers – this isn't enough to protect us, let 
+alone the world. It doesn't matter how good your email provider is, or how 
+secure your messages are, if 95% of the people you correspond with use a free 
+webmail service with a lawful interception backdoor, and if none of those 
+people can figure out how to use crypto, then nearly all your email will be 
+within reach of spooks and control-freaks and cops on fishing expeditions.
+
+What's more, things that aren't legal don't attract monetary investment. In 
+the UK, where it's legal to unlock your mobile phone, you can just walk into 
+shops all over town and get your handset unlocked while you wait. When this was 
+illegal in the US (it's marginally legal at the moment), only people who could 
+navigate difficult-to-follow online instructions could unlock their phones. No 
+merchant would pay to staff a phone-unlocking role at the corner shop (my 
+dry-cleaner has someone sitting behind a card-table who'll unlock any phone you 
+bring him for a fiver). Without customers, the people who make phone-unlocking 
+tools will only polish them to the point where they're functional for their 
+creators. The kind of polish that marks the difference between a tool and a 
+product is often driven by investment, markets and commercialism.
+
+That's not to say that some dedicated hacker won't polish the hell out of a 
+semi-legal or illegal tool for the sheer satisfaction of a job well done, but 
+those heavily polished gems are the exceptions. Leave aside the self-interest 
+geeks should have in good technology rules – the fact that you, personally, 
+can't start a business based on supplying the tools your less-savvy neighbours 
+can use. Without self-revealing, easy-to-use tools, the benefits of technology 
+are only extended to technologists. If you want a world where only the clued-in 
+get to reap the benefits of technology, you are a technocrat, not a geek. 
+What's more, as you age, and your ability to stay current on technical subjects 
+is eroded, you will become a serf along with your poor neighbours.
+
+"Nerd fatalism" is the cynical counterpart of "nerd determinism." Nerd 
+fatalists hold that the geeky way of doing things – the famed "rough consensus 
+and running code" – and have an ideological purity that can't be matched by the 
+old-time notions of deliberation, constitutionalism, and politics. These things 
+are inherently corrupt and corrupting. If you move to Whitehall to defend 
+technology, in a few years, you will be indistinguishable from any other 
+Whitehall wonk, just another corrupted suit who sells out his ideals for 
+realpolitik.
+
+It's true that politics has internal logic, and that habitual participants in 
+politics are apt to adopt the view that politics is "the art of the possible" 
+and no fit place for ideals. But there's an important truth about politics and 
+law: even if you don't take an interest in them, it doesn't follow that they 
+won't take an interest inyou.
+
+So we can design clever, decentralised systems such as BitTorrent all day 
+long, systems that appear to have no convenient entity to sue or arrest or 
+legislate against. But if our inventions rattle enough cages and threaten 
+enough bottom lines, the law will come hunting for them. The law will seek out 
+arbitrary victims – think of how Sopa set out to prohibit hardening DNS against 
+fraud and phishing because it would be convenient to use fake DNS entries to 
+stop people from reaching ThePirate Bay 
+<https://www.theguardian.com/technology/pirate-bay>. When it does, technology 
+can't save them. The only defence against a legal attack is the law. If you 
+don't have an organised body for someone else to sue, it means that there will 
+be no organised body to mount a defence in court, either.
+
+If people who understand technology don't claim positions that defend the 
+positive uses of technology, if we don't operate within the realm of 
+traditional power and politics, if we don't speak out for the rights of our 
+technically unsophisticated friends and neighbours, then we will also be lost. 
+Technology lets us organise and work together in new ways, and to build new 
+kinds of institutions and groups, but these will always be in the wider world, 
+not above it.
+ 

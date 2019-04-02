@@ -1,0 +1,93 @@
+
+Thermodynamics is the study of heat and energy. At its heart are laws that 
+describe how energy moves around within a system, whether an atom, a hurricane 
+or a black hole. The first law describes how energy cannot be created or 
+destroyed, merely transformed from one kind to another. The second law, 
+however, is probably better known and even more profound because it describes 
+the limits of what the universe can do. This law is about inefficiency, 
+degeneration and decay. It tells us all we do is inherently wasteful and that 
+there are irreversible processes in the universe. It gives us an arrow for time 
+and tells us that our universe has a inescapably bleak, desolate fate.
+
+Despite these somewhat deflating ideas, the ideas of thermodynamics were 
+formulated in a time of great technological optimism – the Industrial 
+Revolution. In the mid-19th century, physicists and engineers were building 
+steam engines to mechanise work and transport and were trying to work out how 
+to make them more powerful and efficient.
+
+Many scientists and engineers – including Rudolf Clausius, James Joule and 
+Lord Kelvin – contributed to the development of thermodynamics, but the father 
+of the discipline was the French physicist Sadi Carnot. In 1824 he published
+Reflections on the Motive Power of Fire, which laid down the basic principles, 
+gleaned from observations of how energy moved around engines and how wasted 
+heat and useful work were related.
+
+The second law can be expressed in several ways, the simplest being that heat 
+will naturally flow from a hotter to a colder body. At its heart is a property 
+of thermodynamic systems called entropy – in the equations above it is 
+represented by "S" – in loose terms, a measure of the amount of disorder within 
+a system. This can be represented in many ways, for example in the arrangement 
+of the molecules – water molecules in an ice cube are more ordered than the 
+same molecules after they have been heated into a gas. Whereas the water 
+molecules were in a well-defined lattice in the ice cube, they float 
+unpredictably in the gas. The entropy of the ice cube is, therefore, lower than 
+that of the gas. Similarly, the entropy of a plate is higher when it is in 
+pieces on the floor compared with when it is in one piece in the sink.
+
+A more formal definition for entropy as heat moves around a system is given in 
+the first of the equations. The infinitesimal change in entropy of a system 
+(dS) is calculated by measuring how much heat has entered a closed system (δQ) 
+divided by the common temperature (T) at the point where the heat transfer took 
+place.
+
+The second equation is a way to express the second law of thermodynamics in 
+terms of entropy. The formula says that the entropy of an isolated natural 
+system will always tend to stay the same or increase – in other words, the 
+energy in the universe is gradually moving towards disorder. Our original 
+statement of the second law emerges from this equation: heat cannot 
+spontaneously flow from a cold object (low entropy) to a hot object (high 
+entropy) in a closed system because it would violate the equation. 
+(Refrigerators seemingly break this rule since they can freeze things to much 
+lower temperatures than the air around them. But they don't violate the second 
+law because they are not isolated systems, requiring a continual input of 
+electrical energy to pump heat out of their interior. The fridge heats up the 
+room around it and, if unplugged, would naturally return to thermal equilibrium 
+with the room.)
+
+This formula also imposes a direction on to time; whereas every other physical 
+law we know of would work the same whether time was going forwards or 
+backwards, this is not true for the second law of thermodynamics. However long 
+you leave it, a boiling pan of water is unlikely to ever become a block of ice. 
+A smashed plate could never reassemble itself, as this would reduce the entropy 
+of the system in defiance of the second law of thermodynamics. Some processes, 
+Carnot observed, are irreversible.
+
+Carnot examined steam engines, which work by burning fuel to heat up a 
+cylinder containing steam, which expands and pushes on a piston to then do 
+something useful. The portion of the fuel's energy that is extracted and made 
+to do something useful is called work, while the remainder is the wasted (and 
+disordered) energy we call heat. Carnot showed that you could predict the 
+theoretical maximum efficiency of a steam engine by measuring the difference in 
+temperatures of the steam inside the cylinder and that of the air around it, 
+known in thermodynamic terms as the hot and cold reservoirs of a system 
+respectively.
+
+Heat engines work because heat naturally flows from hot to cold places. If 
+there was no cold reservoir towards which it could move there would be no heat 
+flow and the engine would not work. Because the cold reservoir is always above 
+absolute zero, no heat engine can be 100% efficient.
+
+The best-designed engines, therefore, heat up steam (or other gas) to the 
+highest possible temperature then release the exhaust at the lowest possible 
+temperature. The most modern steam engines can get to around 60% efficiency and 
+diesel engines in cars can get to around 50% efficient. Petrol-based internal 
+combustion engines are much more wasteful of their fuel's energy.
+
+The inefficiencies are built into any system using energy and can be described 
+thermodynamically. This wasted energy means that the overall disorder of the 
+universe – its entropy – will increase over time but at some point reach a 
+maximum. At this moment in some unimaginably distant future, the energy in the 
+universe will be evenly distributed and so, for all macroscopic purposes, will 
+be useless. Cosmologists call this the "heat death" of the universe, an 
+inevitable consequence of the unstoppable march of entropy.
+ 

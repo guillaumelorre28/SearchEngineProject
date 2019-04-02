@@ -1,0 +1,164 @@
+
+You might think your personal data is safe, secured under computerised lock 
+and key, and fenced by the Data Protection Act with its sanctions against 
+release of private data. Especially, surely, that which the government holds.
+
+The reality is that everything has its price. Last month, the Information 
+Commissioner's Office (ICO), the state-funded watchdog for personal data, 
+published a report, What Price Privacy?. The title's question was answered with 
+a price list of public-sector data: £17.50 for the address of someone who is on 
+the electoral register but has opted out of the freely available edited 
+version; £150 to £200 for a vehicle record held by the Driver and Vehicle 
+Licensing Agency; £500 for access to a criminal record. The private sector also 
+leaks: £75 buys the address associated with a mobile phone number, and £750 
+will get the account details.
+
+These were the prices charged by private investigators caught by the ICO and 
+police. Their clients included insurers, creditors and criminals trying to 
+influence jurors, witnesses or legal personnel. Newspapers were a big source of 
+business: the ICO says it knows the names of 305 journalists who have used such 
+investigators.
+
+The investigators obtained the data from corrupt insiders or via "blaggers" 
+who impersonated officials and others to obtain personal information, often 
+gathering an apparently unimportant fact, such as a mother's maiden name, in 
+one phone call in order to get a much more important one in the next.
+
+In the report, the ICO called for prison sentences of up to two years for the 
+illegal buying and selling of personal information. The maximum fine is £5,000, 
+and courts often impose much less. "The fine is no deterrent to them," says 
+Jonathan Bamford, assistant information commissioner. One investigator used by 
+local authorities as well as finance firms to find debtors was invoicing 
+£120,000 a month. "People make so much money, they can get a fine and drive 
+away from court in their Porsche," says Bamford. The Department for 
+Constitutional Affairs says it is reviewing the sentencing tariff.
+
+Patient records
+
+In the absence of tougher laws, the ICO sees the potential for much worse. 
+"The government's plans for increasingly joined-up and e-enabled public-sector 
+working make the change even more urgent," the report says. Medical 
+professionals are already concerned about the risks of electronic patient 
+records, which they think will be unpopular with patients who are uneasy about 
+other sectors of government getting at them (see 'Doctors voice concern over 
+patient records', below).
+
+Indeed, the government has been playing fast and loose with some people's 
+data, according to a European court of justice ruling at the end of last month. 
+The court said the 2004 deal between the EU and the US, under which airlines 
+had to provide data about passengers travelling to the US, was unlawful because 
+it breaches privacy rules. As a Guardian investigation last month (
+http://tinyurl.com/gxx5l <http://tinyurl.com/gxx5l>) showed, the data sent as a 
+result of that law means a discarded airline ticket stub can be enough to carry 
+out identity theft.
+
+But sometimes the problem lies inside government departments. In January, it 
+emerged that the identity details of 8,800 Network Rail staff - who are civil 
+servants - were stolen in 2003-04 and used to make fraudulent online claims for 
+tax credits, costing the government millions of pounds. Alarmed at the rising 
+levels of fraud through the online service, the government shut it last 
+December.
+
+Such examples are not encouraging about the government's ability to protect or 
+police the valuable data about us. Yet more is to come in the government's 
+largest project, which will join all the data about us and put it in a single 
+place - creating a unique description of each of us for every government 
+department. Enrolment on the National Identity Register, to be established by 
+the Home Office under the recently passed Identity Cards Act, will, from 2008, 
+be compulsory when renewing a passport - and compulsory for everyone some time 
+after the next election (due by 2010), if the next government backs it.
+
+The register can include a wide range of personal data, an audit trail of 
+where and when the entry has been accessed, and reference numbers for other 
+systems, including national insurance, driving licence and passport numbers, 
+allowing for substantial joining-up.
+
+The act imposes prison sentences of up to two years for those who illegally 
+disclose information from the register. The ICO - which has reservations about 
+other aspects of the scheme - takes this as its model for all illegal use of 
+personal data.
+
+But Phil Booth, national coordinator for the campaign group No2ID 
+(www.no2id.net), says a two-year sentence will not deter criminals wanting to 
+reach and influence jurors. "The problem is having all that data in one place, 
+so it becomes trivially easy to compromise the system," he says. He compares 
+personal identity to the Titanic: "They are talking about linking all the 
+watertight compartments, so if one is holed, you go to the bottom of the sea."
+
+The Home Office says it is taking security "very seriously" in designing the 
+scheme, such as learning from the experiences of financial card systems. "We 
+recognise that a scheme covering the whole of the UK adult population will be 
+attractive to criminals," said a spokesperson.
+
+Margaret Moran, the Labour MP who chairs Eurim, a liaison group between 
+parliament and the IT industry, argues that with the ICO's tougher penalties, 
+rigorous training of staff, and internal security measures such as the audit 
+trail, the ability to join up people's data will allow the government to 
+provide a better service. She says that when she led Lewisham council, citizens 
+benefited from data sharing between the local authority and the then Department 
+of Social Security to improve housing benefits. "There are concerns around 
+privacy, but people are more concerned about efficient services," she says.
+
+Access card
+
+Moran believes the current identity plans are too tied to security. "I think 
+we will have missed a very big opportunity, one that will never come again, if 
+we don't join up and ensure that the ID card is not just around identity." She 
+insists that the card must also be an access card to government-provided 
+services, so that, for example, victims of domestic violence would not have to 
+provide similar information to half a dozen agencies, as happens at present.
+
+But Booth says the government could join up its response to incidents such as 
+domestic violence through a time-limited identity code for that event, allowing 
+agencies to cooperate temporarily rather than marking the victim's record 
+permanently, which could make that record a target for the likes of abusive 
+partners.
+
+It's a simple method, far more efficient than the bludgeoning concatenation of 
+data planned under the register. But despite the excoriation by the Home 
+Secretary, John Reid, of the Home Office's inability to deal with the 
+relatively small task of when and whether to deport imprisoned foreign 
+nationals, and how to identify them, the government remains resolute.
+
+Yet, while it drifts in the voter polls, the government might have some reason 
+to consider another poll: a YouGov survey of 2,000 people in April found that 
+just 23% of respondents trust the government to deal with their data online, 
+compared with 70% who trust their bank. If a bank fails to protect its 
+customers' data, or links it in ways that customers don't want, it risks losing 
+their business. Often, there is no alternative to the government. Apart, of 
+course, from changing it.
+
+· Doctors voice concern over patient records
+
+Medical professionals are concerned about risks to data security caused by the 
+creation of the NHS's Connecting for Health's Care Records Service. That will 
+establish electronic patient records for everyone in England, accessible at any
+NHS <https://www.theguardian.com/society/nhs> site, and replace on-site 
+computerised or paper patient records.
+
+Users log on using a "chip and pin" smart card and number. Access will be 
+limited to those with a reason, and there will be an audit trail. Patients will 
+be able to put sensitive information in an electronic "sealed envelope".
+
+Last week Lord Warner, the health minister responsible, said the overall 
+programme is more than two years late - due partly to software problems, but 
+also to disagreements over access to records. Of 787 doctors contacted recently 
+by researcher Medix for the BBC, 44% disagreed that the proposals to maintain 
+confidentiality of records were satisfactory, while 21% agreed. Among GPs, 57% 
+disagreed and 13% agreed.
+
+Dr Richard Vautrey, a Leeds GP and member of the British Medical Association's 
+GP committee, says the technical security seems state of the art. However, "the 
+proposal is that there will be an assumption of consent that records can be 
+shared", he says. Patients will have to opt out of sharing. And it is not clear 
+who might see records, Vautrey says. "The patient may be happy for a consultant 
+to have access, but not a social worker."
+
+But once data is on the national system, patients may be unable to stop access 
+by other parts of government, he adds. That could damage the trust between 
+patients and doctors. Patients might refuse to divulge data, or demand a second 
+"private" record is created - just what the system was meant to prevent.
+
+· If you'd like to comment on any aspect of Technology Guardian, send your 
+emails totech@theguardian.com <mailto:tech@theguardian.com>
+ 

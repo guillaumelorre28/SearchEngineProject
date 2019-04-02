@@ -1,0 +1,101 @@
+
+The Atlantic Ocean just got a little wider. The European Court of Justice’s 
+latest ruling has determined that the US “does not afford an adequate level of 
+protection of personal data”.
+
+The case brought against Facebook 
+<https://www.theguardian.com/technology/facebook> over the potential for US 
+government snooping on European citizens’ data, throws the differences in 
+internet culture into stark relief. But those differences have been growing for 
+some time.
+
+Until Tuesday, it had been US companies – principally Google and Facebook – 
+that had been driving the wedge in. In 2012 Googleenraged 
+<https://www.theguardian.com/technology/2012/oct/16/google-privacy-policies-eu-data-protection>
+ European privacy regulators by declaring that it would unite data from its 
+different services,mashing different privacy agreements into one 
+<http://www.guardian.co.uk/technology/2012/mar/01/google-privacy-policy-analysis>
+. (The row is still going on.)
+
+Then in 2014 the European Court of Justice declared that Google, as a “data 
+processor” was covered by the data protection principles, and so must remove 
+links about people from its search index that were “outdated, incorrect or 
+irrelevant” (though with exceptions for public figures).Google 
+<https://www.theguardian.com/technology/google> has implemented the so-called 
+“right to be forgotten” more or less, but the ruling infuriated many in the US.
+
+Facebook has set data protection authorities from around Europe on edge. An 
+investigation followed the Dutch data protection authority asking Facebook to 
+delay rollout of its new privacy policy, while the Belgian data protection 
+authority recently took the social network to court over its use of cookies and 
+tracking.
+
+Now the ECJ has ruled again, and once more highlighted the gulf in attitudes 
+either side of the pond. “Safe harbour” ostensibly means that a European 
+citizen’s personal data being processed by a US company on US-based computers 
+is under the same protections as if it were still in Europe on a European-owned 
+system. But the ECJ says it doesn’t protect that data from US government 
+snooping – and so cannot be allowed.
+
+The problem with safe harbour is that the US government now treats any data on 
+computers of US-owned companies anywhere in the world as fair game for 
+examination. Microsoft, in fact, isvigorously appealing 
+<https://www.theguardian.com/technology/2015/sep/09/microsoft-court-case-hotmail-ireland-search-warrant>
+ a court case won (in the US) by the US government, which asserts that it has 
+the right to access data held in one of the company’s Irish data centres. Safe 
+harbour applied, in theory, to US companies but not to the US government; now 
+the edifice has come crashing down.
+
+
+To privacy activists, the surprise is that it has taken so long: “Safe harbour 
+was flawed in principle and flawed in practice,” said Joe McNamee, executive 
+director of European Digital Rights, a pressure group for digital civil rights 
+drawn from 19 European countries. “After last year’s data retention ruling, 
+this is the second time in two years that the Court of Justice has struck down 
+an instrument that the European Commission had spent years defending.” (The 
+first was therejection of the Data Retention directive 
+<https://www.theguardian.com/technology/2014/jun/24/british-government-breaking-law-in-forcing-data-retention-by-companies>
+, which had been favoured particularly by the UK government.)
+
+
+The fallout could be dramatic. In August 2013, soon after Edward Snowden’s 
+revelations about the NSA’s indiscriminate gathering of data from US companies, 
+US technology businesses began fretting. If Europeans, and European businesses, 
+thought that they couldn’t trust the US to look after their information, they 
+could lose huge amounts of business –estimated then 
+<https://www.theguardian.com/world/2013/aug/08/nsa-revelations-fears-cloud-computing>
+ at between $21.5bn and $35bn through to next year.
+
+The US-based Cloud Security Alliance, which represented companies there 
+offering file storage and internet-based computing, thought it could lose 
+between 10% and 20% of its market to rivals. It was already seeing contracts 
+being lost to European rivals who could promise Europe-based processing. Things 
+are probably going to get worse for them.
+
+Jim Killock, executive director of the Open Rights Group, commented: “In the 
+face of the Snowden revelations, it is clear that safe harbour is not worth the 
+paper its written on. We need a new agreement that will protect EU citizens 
+from mass surveillance by the NSA.”
+
+The ruling hasn’t been a surprise; it was foreshadowed last month by a summary 
+ruling which was confirmed on Tuesday, but its progress to the ECJ has been 
+slow, in theory giving any affected company time to adjust. Thus the larger 
+companies – Google, Facebook, Apple, Microsoft, Twitter – are well-placed to 
+deal with the fallout.
+
+Those who will lose out are the smaller companies, and startups that had been 
+planning to use something like Amazon’s AWS cloud services. The nature of cloud 
+systems is that data is transferred promiscuously, both to create resilience 
+and speed up access elsewhere. One possible solution is to encrypt the data 
+using keys which remain on servers in Europe; that will carry performance 
+penalties, but might satisfy the letter of the law.
+
+In the longer term, the bigger problem will be the gap that is opening between 
+the US and Europe. Privacy policies with teeth, the “right to be forgotten”, 
+the desire to keep data inside Europe - all are at odds with the US’s treatment 
+of data, which is more cavalier. That has helped the US to leap ahead in its 
+development of systems, but also seen a swelling tide of resentment in the US 
+at the burgeoning amount of individuals’ data collected and traded, and 
+sometimes stolen. Will Europe act as the example for the US to follow? History 
+suggests not – which means the cultural gap is going to get wider.
+ 

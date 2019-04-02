@@ -1,0 +1,86 @@
+
+Ahead of the Activate New York Summit 2013 
+<https://www.theguardian.com/media-network/activate-new-york>, Kathryn Peters, 
+the co-founder of TurboVote, spoke to us about how their platform is being used 
+to improve the voter registration process in the US and her hopes to completely 
+redesign the user experience.
+
+Can you tell us a bit about TurboVote and your reasons for founding it?
+
+My friend Seth Flaxman first came to me with the idea – he realised he'd 
+missed an election back home. He was living in another state for graduate 
+school, and he'd never even heard about it. So he came to me to ask how hard it 
+would be to build an election-reminder service.
+
+I happen to be from a town with an amazing clerk who sends reminder emails, 
+and I was surprised to find out that she's the exception rather than the norm. 
+It seemed like such an obvious, simple idea I had to make it happen. It turns 
+out collecting and managing data for 7,000 jurisdictions is a bit harder than 
+I'd expected – but by the time I learned that, I was too attached to the idea 
+to quit.
+
+How does TurboVote work?
+
+We track elections (and deadlines, forms, and rules) across the US and use 
+them to create customised voting reminders for anyone who wants them, so you 
+can sign up once and have all the election information you'll ever need, when 
+you need it.
+
+When a user first signs up, we'll help her register to vote or update her 
+registration, ask whether she prefers to vote by mail or at the polls, and then 
+send her reminders about upcoming elections. And because getting registered or 
+requesting a ballot still requires paper forms in most places, we'll even mail 
+her the right completed paperwork at the right moment, with an addressed, 
+stamped envelope.
+
+How are you partnering with other organisations to deliver your service?
+
+We work with colleges and other non-profit organisations and help them 
+institutionalise voter engagement into their core operations. These partners 
+also sponsor mailings, so we can send the necessary forms to their voters. 
+Students at Webster College even made a video comparing our voter registration 
+process to renting a DVD from Netflix, which was great.
+
+Next, we're beginning to design and build tools for local election offices, to 
+simplify their work and help them better serve their voters. I spent a research 
+week this spring back home in Missouri shadowing Boone County Clerk Wendy Noren 
+– and left with dozens of ideas for collaboration.
+
+What results have you seen from your service?
+
+We're serving just over 200,000 voters today. Of the people who were 
+registering to vote for the first time with us last year, 75% voted in the 
+presidential election, as did 80% of those who used the site to update their 
+voter registrations. This year, we sent out reminders about hundreds of state 
+and local elections and are working with nearly all of Virginia's public 
+colleges and universities to register students for this November's 
+gubernatorial election.
+
+What's next for TurboVote?
+
+Plenty. I'm putting together a brain trust of election officials to help 
+develop and test tools for tracking absentee ballots through the mail. From 
+there, we'll keep building out an election administration toolkit, until we 
+completely redesign the user experience for voting so it actually fits the way 
+we live today. I should be able to register to vote online, request a ballot, 
+and have it delivered to my mailbox. That kind of integration means working 
+with government, and changing how they serve voters.
+
+We're also building application programming interfaces (APIs) and developer 
+tools to share all this data we have, so it's easier to integrate voter 
+engagement into everything and reaching people who don't participate – yet.
+
+Finally, what is your message for the delegates attending the Guardian's 
+Activate <https://www.theguardian.com/media-network/activate> New York Summit?
+
+There's far more innovation happening in government than you'd expect; it's 
+just harder for good ideas to catch on and go viral.
+
+Kathryn Peters is the co-founder of TurboVote <https://turbovote.org/register>
+
+Get more articles like this sent direct to your inbox by signing up for free 
+membership <https://register.theguardian.com/media/> to the Guardian Media 
+Network <https://www.theguardian.com/media-network> – this content is brought 
+to you byGuardian Professional 
+<https://www.theguardian.com/guardian-professional>. 
+ 

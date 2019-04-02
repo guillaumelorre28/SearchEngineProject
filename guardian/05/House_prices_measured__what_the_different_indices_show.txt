@@ -1,0 +1,148 @@
+
+A new house price index is published on Tuesday, bringing together the reports 
+published by the Land Registry and theOffice for National Statistics 
+<https://www.theguardian.com/uk/office-for-national-statistics> (ONS).
+
+The Land Registry previously put together an index based on the prices of 
+properties that had previously been sold, which meant no new-build costs were 
+captured, while the ONS included only mortgaged sales, so cash purchases were 
+not reflected. The new index, the Official house price index, will replace 
+these and aims to offer a more accurate picture of prices across the UK.
+
+The new index is the only one published by government agencies, but there are 
+several other snapshots of the market published each month. Each is put 
+together in a different way and, as a result, has a different outcome. We look 
+at what each one shows.
+
+Official house price index
+
+This index will be produced monthly by the ONS and published by the Land 
+Registry.
+
+Each month there will be five reports: a monthly UK summary, and separate 
+monthly reports for England, Wales, Scotland and Northern Ireland. There will 
+also be some new statistics, including data on first-time buyer and cash buyer 
+prices.
+
+The index will be based on data from a range of sources – the Land Registry 
+and Registers of Scotland will provide price-paid data, while the Council of 
+Mortgage Lenders will provide information about the different types of buyer. 
+The Valuation Office Agency will provide information about property attributes 
+– the size and number of rooms, for example.
+
+The figures will be mix-adjusted to allow for the fact that different houses 
+are sold in different monthly periods. The price data will be calculated using 
+a geometric average in line with the previous Land Registry index – geometric 
+averages give similar results to a median, whereas arithmetic averages (as were 
+used in the ONS index) are what you would usually refer to as a mean. 
+Arithmetic averages tend to lead to a higher average price due to the larger 
+impact of higher value properties on the mean.
+
+Halifax 
+<http://www.lloydsbankinggroup.com/media1/economic_insight/halifax_house_price_index_page.asp>
+
+Compiled by Halifax, now part of Lloyds Banking Group and one of the UK’s 
+biggest mortgage lenders, this reports on the whole of the UK.
+
+The monthly report shows the average price agreed on a property being bought 
+using a Halifax mortgage, and the percentage change in the price over the month 
+and year. A quarterly survey shows regional data. Halifax “standardises” the 
+figures from its mortgage approvals data so that instead of comparing the 
+prices of one set of houses one month with another set of houses the next, it 
+tracks the price of a “typical house”. The figures are also seasonally adjusted.
+
+Halifax started publishing data in January 1983, but the index in its current 
+form began in April 1984.
+
+
+Current UK average house price: £213,472  
+<https://www.theguardian.com/money/2016/jun/07/uk-house-prices-inch-up-06-in-may-halifax>
+
+Nationwide <http://www.nationwide.co.uk/hpi/default.htm>
+
+Another mortgage lender’s index, this time from the UK’s largest building 
+society. It shows the average UK house price using data from mortgages it has 
+approved during the month. Several types of property are removed, including 
+buy-to-let and right-to-buy properties, plus very small or very large homes 
+(there are specified limits for each type of property). Nationwide then 
+“mix-adjusts” the prices to come up with the price of a “typical house”.
+
+The society has quarterly figures dating back to 1952 and monthly figures 
+dating back to 1991, although it changed its methodology in 1993.
+
+Current UK average house price: £204,368 
+<https://www.theguardian.com/money/2016/jun/01/house-price-inflation-slows-stamp-duty-increase>
+
+Rightmove <http://www.rightmove.co.uk/house-prices.html>
+
+Rightmove is a website which advertises properties being sold by 90% of UK 
+estate agents, and its index shows the average asking price of those newly 
+listed in England and Wales during the month, and the percentage change in that 
+price over the month and over the year. Recently, Rightmove also introduced 
+average prices for first-time buyers, “second steppers” and those at the “top 
+of the ladder”.
+
+The index is based on up to 200,000 listings, with a few thousand homes 
+removed each month to get rid of anomalies. It only reflects new asking prices 
+– not if a property that was listed in a previous month is reduced or raised in 
+price. The figures are not seasonally adjusted.
+
+Rightmove began keeping records in August 2001 and reporting on them in August 
+2002.
+
+
+Current England & Wales average house price: £308,151 
+<https://www.theguardian.com/business/2016/may/16/average-asking-price-first-time-buyer-home-buy-to-let-stamp-duty>
+
+Royal Institution of Chartered Surveyors <http://www.rics.org/>
+
+Rics, the trade body for surveyors, reports each month on how its members 
+think the property market is behaving in their area. The report is based on a 
+monthly survey of 450-500 UK surveyors who are asked 10 questions covering 
+changes in prices, sales and interest over the previous three months, and what 
+they expect to happen over the next year. They are also asked for firm figures 
+on how many homes have been sold and how many are for sale.
+
+The data is seasonally adjusted and regionally weighted using long-term 
+averages based on Land Registry figures. If an area represents 10% of sales, 
+responses from that area will be weighted to represent 10% of the overall Rics 
+figure. Numbers are crunched to produce a net balance, so instead of telling us 
+how many surveyors think prices will go up and how many think they will go 
+down, the index subtracts the proportion forecasting a fall from the proportion 
+forecasting a rise – so if 10% think prices will rise but 20% think they will 
+fall, it says -10% think there will be a fall. This does not mean a 10% fall is 
+being predicted.
+
+The index has been running since January 1978.
+
+Current forecast: 10% more Rics members said they expected house prices to 
+fall than to rise over the next three months 
+<https://www.theguardian.com/money/2016/jun/09/eu-referendum-uk-housing-market-house-buyers-decline-inquiries>
+
+LSL Property Services/Acadametrics 
+<http://www.acadametricstest.com/acadHousePrices.php>
+
+Acadametrics, a consultancy which specialises in the assessment of risk in 
+property and mortgage portfolios, compiles the index for LSL, a property 
+company which owns estate agency firms and surveyors.
+
+It covers England and Wales and shows the average price of a property bought 
+and registered with the Land Registry over the past month. It shows monthly and 
+annual changes and the number of sales.
+
+Land Registry gathers all of its data for sales reported during a month, 
+including sales completed in previous months, and calculates average prices. 
+These prices are mix adjusted to provide an average price which isn’t skewed by 
+changes in the types of properties sold month-on-month. The data includes cash 
+sales as well as those financed with mortgages.
+
+It has been published since September 2003 (originally it was the FT house 
+price index), but data going back to 1995 has been added.
+
+
+Current England & Wales average house price: £293,599 
+<https://www.theguardian.com/money/2016/jun/10/buy-to-let-landlords-likely-to-increase-rents-to-offset-higher-costs>
+
+
+
+ 

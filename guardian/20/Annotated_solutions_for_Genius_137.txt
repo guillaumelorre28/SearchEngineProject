@@ -1,0 +1,77 @@
+
+* 6 across and 6 down solutions had to be encoded before being entered in the 
+grid, using a 'Caesar cipher' [shifting each letter a given number of places 
+down the alphabet]. CAESAR appears in the eighth column of the completed grid.
+
+
+Across
+
+
+1 detrain DET<r>AIN
+
+5 chaotic CH<a/OT>IC
+
+9* latex LATE/X [x = times] LATEX (shift 7) = SHALE
+
+10 scavenger SC/AVENGER [Iron Man, one of the Avengers]
+
+11 Unitarian UNIT/ARIAN [sign of the zodiac]
+
+12* green/Green double def [Rev Green in Cluedo] GREEN (shift 13) = TERRA
+
+13* mocha MO/CHA MOCHA (shift 6) = SUING
+
+15 nefarious NE<f(ellow)>AR/IOUS
+
+18 Cantonese CAN/TONE/S(ausag)E
+
+19* Bunny/bunny double def [Bunny Austin] BUNNY (shift 17) = SLEEP
+
+21* wombs MOW(rev)/B(ristle)S WOMBS (shift 6) = CUSHY
+
+23 sagamores SAGA<more>S
+
+25 potpourri POT/POUR/RI [rex imperator]
+
+26* funny double def FUNNY (shift 6) = LATTE
+
+27 tindery TINY RED (anag)
+
+28 genesis GENE/SIS [Gene Wilder; sister]
+
+
+Down
+
+
+1 discuss DIS/CUSS
+
+2 tradition TR/AD(d)ITION [minus vitamin D]
+
+3*River RI(se)/REV(rev) [River Phoenix, actor] RIVER (shift 9) = ARENA
+
+4 nescience NE/SCIENCE [NE = Nebraska]
+
+5* ingot refreshING OTher (hidden) INGOT (shift 20) = CHAIN
+
+6 apertures PERT/SURE(part anag) after (bl)A(ck)
+
+7* pecan ACE/P(rev)/N PECAN (shift 4) = TIGER
+
+8 corrals COR<r>AL/S(ection)
+
+14 glory hole HOLIDAY-GOER L(eft) (anag minus I'D/A) 
+
+16 fledgling F(i)L(m) E(n)D(s)/G(iant)/LING
+
+17 overrates double def [bowling rates at Old Trafford]
+
+18 cockpit hitchCOCK PITches (hidden)
+
+20 pesters P(adlock)/ESTERS
+
+22* munch MUN(i)CH [I = Italy] MUNCH (shift 6) = SATIN 
+
+23* mills MILL(1/on)S MILLS (shift 6) = SORRY
+
+24* cubed CU/BED [Cu = copper] CUBED (shift 10) = MELON
+ 

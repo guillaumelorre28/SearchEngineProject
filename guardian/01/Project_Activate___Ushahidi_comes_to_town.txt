@@ -1,0 +1,76 @@
+
+Next week the Guardian will welcome the open source platform Ushahidi 
+<http://www.ushahidi.com> to its headquarters in North London for a week long 
+engagement as part of the Activate Summit's fundraising and tech development 
+initiative entitledProject Activate 
+<http://www.guardian.co.uk/activate/blog/call-to-action>. 
+
+Those familiar with Ushahidi and its work can skip the next couple of 
+paragraphs, but for the uninitiated (have you been living under a rock for the 
+last four years?!) the Nairobi-based start up takes its name from the Swahili 
+for 'testimony' or 'witness' and is a crisis crowdsourcing platform which 
+combines social activism, citizen journalism and geospatial information.
+
+Born out of the disputed 2007 presidential elections in Kenya, the website 
+enabled the mapping of eyewitness reports of violence sent in by some 45,000 
+users through email and text-message in the aftermath of the elections at the 
+beginning of 2008. This source of on-the-ground, real-time information enabled 
+global reporting and co-ordination of aid and peace efforts at a time when 
+international news and aid organisations had been paralysed by a Government-led 
+media black out.
+
+It has since been employed as a crisis management and relief tool for a number 
+of human and natural disasters including during the fallouts from the 
+devastating earthquakes in Haiti and Chile. Under the watchful management of 
+co-founders Ory Okolloh,Juliana Rotich 
+<http://www.guardian.co.uk/activate/video/activate-2010-juliana-rotich>, Erik 
+Hersman and David Kobia, Ushahidi has fast become a darling of the open web 
+movement and only last week Okolloh received the prestigiousMonaco Media Prize 
+<http://www.beet.tv/2010/11/kenyas-crowd-mapping-start-up-ushahidi-launches-commerical-effort-.html>
+, an honour granted in the past to no lesser names than Jimmy Wales and 
+Lawrence Lessig.
+
+And so, for four days (and no doubt some late nights) in wintery London 
+Ushahidi core developerBrian Herbert 
+<http://blog.ushahidi.com/index.php/2009/09/11/welcoming-brian-herbert-to-the-ushahidi-team/>
+ andJon Gosier 
+<http://blog.ushahidi.com/index.php/2009/12/14/jon-gosier-joins-the-swift-river-initiative/>
+, director of Ushahidi'sSwiftRiver <http://swift.ushahidi.com/> platform (which 
+helps to filter and validate large amounts of information for use on the main 
+platform), will fly out from the US to work alongside the Guardian tech and 
+developer team to share ideas, insights and visions for future collaboration.
+
+The aim is to see if we can help streamline and enhance some of Ushahidi's 
+capabilities, to better understand the practicalities of application and 
+benefits of use of the platforms for media companies such as ours and 
+ultimately to find and create the basis for some longer term projects between 
+our two organisations. A lot of the conversations have already been happening 
+online in the lead up to the end of Nov trip so we're hoping everyone will hit 
+the ground running and we'll be able to do some really fantastic work.
+
+This is the second time we've run the Project Activate fundraising and tech 
+dev drive off the back of the Summit - the first one came in 2009 when we 
+worked with the inspirationalSWRadio Africa <http://www.swradioafrica.com/> 
+team under the guidance of directorGerry Jackson 
+<http://www.guardian.co.uk/activate/video-gerry-jackson-sw-radio-africa>. 
+
+It's no surprise to note the similarities between SWRadio and Ushahidi - both 
+have their roots in upholding the principles of democracy and both exhibit an 
+unwavering faith in the power of technology and human interconnectedness to 
+challenge institutionalised failure and corruption. They are born of an 
+emerging system where injustice motivates, technology enables, humans create 
+and the internet amplifies and proliferates.
+
+Project Activate is indicative of the Guardian's commitment to empowering 
+these kinds of grass root organisations that often spring out of a horrendous 
+set of circumstances and yet in spite (or perhaps because of) this, they thrive 
+to become bastions of free speech and transparency and to epitomise the notion 
+that we are stronger as an open and connected world. They also celebrate 
+creativity, adaptability and mutualisation in modern journalism which are key 
+tenets of the Guardian canon, as outlined by our editor-in-chief Alan 
+Rusbridger in his recentHugh Cudlipp lecture 
+<http://www.guardian.co.uk/media/2010/jan/25/cudlipp-lecture-alan-rusbridger>. 
+
+So both for Activate and the Guardian Ushahidi are a natural partner and we 
+can't wait to see the results of our working together.
+ 

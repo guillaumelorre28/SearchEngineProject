@@ -1,0 +1,27 @@
+
+Despite approximately 3,519 press reports to the contrary, Acer says "Acer 
+will not launch aChrome <https://www.theguardian.com/technology/chrome> OS 
+netbook at Computex" (an important trade show in Taiwan) and it "has no 
+short-term plans for such a product". The statement adds:
+
+
+Acer believes that Google Chrome OS is without doubt an exciting product 
+announcement and deserves it's [sic] full attention as well as an in-depth 
+study of its potential from a consumers perspective.
+Acer is naturally interested in any product or service that enhances the 
+overall experience of its products and will of course be following the 
+development and progress ofGoogle 
+<https://www.theguardian.com/technology/google> Chrome and the evolution of 
+Google's overall product strategy very closely.
+
+Me too! I'm keen to find out whether a Chrome OS netbook will reliably load 
+Google's home page in less than a minute or two, or whether it will suffer from 
+Chrome's long-standing cross-platform "Resolving host 
+<http://www.google.com/webhp?hl=all#hl=all&safe=off&q=chrome+%E2%80%9CResolving+host%22&fp=321888442107ce3e>
+" hang-up.
+
+Currently, of course, Chrome's recurring inability to actually, you know, load 
+web pages is a bit of a drawback for a browser, but it's not a big problem on 
+Windows because you can load them in Internet Explorer instead. What do you do 
+if your Chrome OS notebook can't load web pages? Any ideas?
+ 

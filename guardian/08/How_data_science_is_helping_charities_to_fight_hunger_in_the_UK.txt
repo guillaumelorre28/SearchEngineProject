@@ -1,0 +1,130 @@
+
+The Trussell Trust’s latest statistics 
+<https://www.trusselltrust.org/news-and-blog/latest-stats/> show that food bank 
+use in the UK remains at record levels, and that the supply of emergency food 
+parcels has increased by 2% in the last year.
+
+Amid the passionate discussion that these figures arouse, one comment by David 
+McAuley, the trust’s chief executive, deserves attention: “Reducing UK hunger 
+will require a collective effort from the voluntary sector, government, the 
+Department for Work and Pensions, businesses and the public. The Trussell Trust 
+is keen to work with all these groups to find solutions that stop so many 
+people needing food banks in future.”
+
+Trussell Trust CEO: ‘Half a million people struggle to put food on the table’
+ Read more  
+<https://www.theguardian.com/voluntary-sector-network/2014/dec/10/trussell-trust-ceo-food-banks-last-resort>
+An admirable aspiration, but how can you unite these disparate agencies around 
+a problem with such jagged edges and complex causes and effects? I believe the 
+answer might lie in data science.
+
+Over the past 18 months, the trust has been working with researchers from Hull 
+University Business School <http://www2.hull.ac.uk/hubs/> and us at social 
+innovation agencyAAM Associates <http://www.aamassociates.com/> to explore how 
+new technologies can help them to fight UK hunger.
+
+Using technology
+
+The initial research <http://www.nemode.ac.uk/?page_id=1575> phase identified 
+56 technologies that are already being used in food banks globally, and we held 
+workshops with Trussell Trust staff to identify what might help them most with 
+their operational needs. While digital fundraising methods and volunteer 
+management systems were of great interest, most ideas felt like “nice-to-haves” 
+rather than game changers. There was one exception – data analysis.
+
+Charities all over the world, such as Citizens Advice 
+<http://www.nesta.org.uk/blog/what-citizens-advice-learning-about-data-driven-innovation>
+ and theSouth Carolina Campaign to Prevent Teen Pregnancy 
+<http://www.tableau.com/learn/stories/small-non-profit-answers-big-questions-tableau?src=recommended&block=block-views-recommended-similar-block>
+, and public bodies includingthe New Orleans Fire Department 
+<http://www.nola.gov/performance-and-accountability/nolalytics/>, have shared 
+encouraging results from data analysis projects.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fvoluntary-sector-network%2F2016%2Fmay%2F09%2Fdata-science-helping-charities-fight-hunger%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F7015edb83f69f1b15c186dde67dece83744eb7ae%2F0_8_1099_539%2F1099.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20data%20science%20is%20helping%20charities%20to%20fight%20hunger%20in%20the%20UK&url=https%3A%2F%2Fwww.theguardian.com%2Fvoluntary-sector-network%2F2016%2Fmay%2F09%2Fdata-science-helping-charities-fight-hunger%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20data%20science%20is%20helping%20charities%20to%20fight%20hunger%20in%20the%20UK&url=https%3A%2F%2Fwww.theguardian.com%2Fvoluntary-sector-network%2F2016%2Fmay%2F09%2Fdata-science-helping-charities-fight-hunger%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F7015edb83f69f1b15c186dde67dece83744eb7ae%2F0_8_1099_539%2F1099.jpg>
+ Trussell Trust graphic, mapping the use of food banks in south-east England. 
+This aligned well with the trust’s More Than Food 
+<https://www.trusselltrust.org/what-we-do/more-than-food/> initiative, which 
+looks beyond providing emergency food and towards tackling the underlying 
+causes of hunger and poverty. To do that, they need to know more about the 
+people who come to them for help.
+
+The trust’s core data includes food bank locations and individual client data, 
+such as their names, addresses, ages and underlying causes of crisis – benefit 
+delays, school holidays, homelessness, etc.
+
+With data science firm Coppelia <http://www.coppelia.io/> recruited to the 
+project, and having taken advice directly from theInformation Commissioner’s 
+Office <https://ico.org.uk/> on appropriate data security, our initial analysis 
+highlighted some noticeable regional variations and delivery patterns year on 
+year.
+
+On the map
+
+A mapping tool <https://vimeo.com/164281583> was used to show how the trust’s 
+users are distributed geographically. Heat maps showing demand – the darker the 
+colour, the greater the demand – have allowed us to visualise regional patterns 
+of need.
+
+Even a cursory glance at the map suggests countless questions: how far do most 
+clients travel? Are food banks located in the areas of greatest need? Why are 
+particular crisis types more prevalent in certain areas?
+
+More creatively, the platform also looks to predict potential areas of “unmet” 
+need. The data was crunched to show the number of people fed by the trust, per 
+head of population, in each local area since 2014. Various census statistics 
+(levels of deprivation, unemployment) were then used to pinpoint key 
+characteristics of the areas that received the most support. The results were 
+used to predict – again using heat maps – where need for the trust’s services 
+may be greatest across the country.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fvoluntary-sector-network%2F2016%2Fmay%2F09%2Fdata-science-helping-charities-fight-hunger%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F01836f6fbea16d4c5f2aa7d653daca198228b16b%2F0_0_1085_507%2F1085.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20data%20science%20is%20helping%20charities%20to%20fight%20hunger%20in%20the%20UK&url=https%3A%2F%2Fwww.theguardian.com%2Fvoluntary-sector-network%2F2016%2Fmay%2F09%2Fdata-science-helping-charities-fight-hunger%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20data%20science%20is%20helping%20charities%20to%20fight%20hunger%20in%20the%20UK&url=https%3A%2F%2Fwww.theguardian.com%2Fvoluntary-sector-network%2F2016%2Fmay%2F09%2Fdata-science-helping-charities-fight-hunger%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F01836f6fbea16d4c5f2aa7d653daca198228b16b%2F0_0_1085_507%2F1085.jpg>
+ Trussell Trust graphic, mapping the potential need for food banks in 
+north-west England. 
+The model is not perfect, but it already poses the question: how might the 
+charity respond to signs of unmet need?
+
+What next? 
+
+For charities – especially those on the frontline helping people in crisis – 
+this project highlights the importance of collecting data, and how the 
+potential for aligning open data sets (a charge led well by theOpen Data 
+Institute <http://theodi.org/>) with that data is rapidly becoming a reality. 
+
+ Data scientists can be expensive, but data-hungry academics are always 
+looking for frontline partnerships, and bodies such as theOR Society 
+<https://www.theorsociety.com/> run great pro-bono programmes 
+<http://www.theorsociety.com/Pages/Probono/Probono.aspx> to help. 
+
+There are two next steps for the Trussell Trust in relation to this work – and 
+neither is easy. First, they need to answer some of the many questions 
+highlighted here. Data can provide new insights, but how do you act on them? 
+How can you change focus, practice or even business model to respond to the 
+issues?
+
+Trussell Trust to give financial advice to people referred to its food banks
+ Read more  
+<https://www.theguardian.com/society/2014/aug/12/trussell-trust-finance-debt-advice-food-banks-martin-lewis>
+More strategically, the trust is beginning to look outside of its own walls 
+for solutions. Sharing data with other charities – safely, securely and with 
+the appropriate permissions – could create a significant step forward in 
+understanding and answering local need.
+
+The causes of poverty are complex, brittle and often unique to the individual 
+case. Each cry for help, each visit to a food bank, each call to a debt advice 
+line, paints an individual brush stroke in a much richer picture of local need.
+
+Pooling data might provide users of crisis services with some small comfort 
+that they are helping to deepen this country’s understanding of poverty, and in 
+doing so, perhaps shielding others from its harsh glare.
+
+For more news, opinions and ideas about the voluntary sector, join our 
+community <https://register.theguardian.com/voluntary-sector/> – it’s free!
+ 

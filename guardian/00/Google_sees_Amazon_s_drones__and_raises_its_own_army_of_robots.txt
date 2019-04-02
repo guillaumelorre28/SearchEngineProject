@@ -1,0 +1,95 @@
+
+With Amazon winning headlines (if not universal praise 
+<https://www.theguardian.com/commentisfree/2013/dec/02/amazon-drone-delivery-jeff-bezos-hype>
+) for its ambitions todeliver packages using drones 
+<https://www.theguardian.com/technology/2013/dec/02/amazon-trialling-the-use-of-drones-for-parcel-delivery>
+, rival tech giant Google has announced its latest futuristic "moonshot": 
+robots.
+
+The initiative is led by Andy Rubin 
+<https://www.theguardian.com/technology/andy-rubin>, the former head of 
+Google's Android division, who stepped down from that role in March 2013.
+
+Since then, Google has quietly acquired seven robotics companies according to 
+the New York Times 
+<http://www.nytimes.com/2013/12/04/technology/google-puts-money-on-robots-using-the-man-behind-android.html?pagewanted=all&_r=1&>
+, which has published the first interview with Rubin on the company's plans.
+
+"Like any moonshot, you have to think of time as a factor. We need enough 
+runway and a 10-year vision," said Rubin, who started his career as a robotics 
+engineer at Carl Zeiss, before later roles at Apple, Microsoft and Danger, 
+before founding the startup acquired by Google to form the basis forAndroid 
+<https://www.theguardian.com/technology/android>.
+
+"I have a history of making my hobbies into a career. This is the world’s 
+greatest job. Being an engineer and a tinkerer, you start thinking about what 
+you would want to build for yourself," Rubin told the New York Times.
+
+The piece suggests Google is focusing more on robots for the manufacturing and 
+retail industries, rather than consumer products. Robotics companies acquired by
+Google <https://www.theguardian.com/technology/google> this year include 
+Schaft, Industrial Perception, Meka, Redwood Robotics, Bot & Dolly, Autofuss 
+and Holomni.
+
+Google is maintaining Schaft's office in Japan, while basing its robotics 
+efforts in Palo Alto, California. They will sit alongside the company's 
+initiativeto build self-driving cars 
+<https://www.theguardian.com/technology/2012/sep/30/google-self-driving-car-unemployment>
+, which it hopes to have on the market by 2017.
+
+"The automated car project was science fiction when it started. Now it is 
+coming within reach," said Rubin in his interview. "I feel with robotics it’s a 
+green field. We’re building hardware, we’re building software. We’re building 
+systems, so one team will be able to understand the whole stack."
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnHohqPChqjc&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnHohqPChqjc>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnHohqPChqjc&media=>
+ A promotional video for the robots created by Industrial Perception, another 
+startup acquired by Google. 
+The seven companies fuelling Google's robot ambitions
+
+Schaft (Japan) <http://schaft-inc.jp/about/?lang=en>
+"We, Schaft Inc. create the future where we walk together with humanoid 
+robots, through research and development, manufacture and sales of humanoid 
+robots."
+
+Industrial Perception (US) <http://www.industrial-perception.com/>
+"A leader in 3D vision-guided robot technology and enables industrial robots 
+to assume challenging logistical tasks such as truck and container unloading, 
+e-commerce fulfillment and package sorting."
+
+Meka (US) <http://mekabot.com/>
+"A provider of world-class robotic systems for researchers. At Meka we develop 
+human-safe, human-soft, and human-scale robot technologies that will enable the 
+robots of tomorrow to work alongside people in the home and the workplace."
+
+Redwood Robotics (US) <http://redwoodrobotics.com/>
+"Our robotic arms are simple to teach, affordable, and safe to operate around 
+humans. Redwood manipulators will make professionals more productive, reduce 
+the stress of dull and repetitive tasks, and allow manufacturers and service 
+providers alike to respond flexibly to ever-changing market needs."
+
+Bot & Dolly (US) <http://www.botndolly.com/>
+"Bot & Dolly is a design and engineering studio that specialises in 
+automation, robotics, and filmmaking. It's our mission to advance motion 
+control and automation as a creative medium, and build world-class tools that 
+enable others to do the same."
+
+Autofuss (US) <http://www.autofuss.com/studio>
+"We thrive on being a hub of creative collaboration by colliding visual 
+artists with programmers, engineers with designers, storytellers with 
+illustrators, architects with machinists." (Autofuss is the outlier here, being 
+a creative agency rather than a robotics company – but according to the NYT 
+piece, it's part of Rubin's robotics plans).
+
+Holomni (US) <http://www.holomni.com/>
+"Holomni powered caster modules create a holonomic omnidirectional vehicle. A 
+Holomni-powered vehicle can instantaneously produce omnidirectional 
+accelerations and forces."
+
+• Meet the new generation of robots. They're almost human... 
+<https://www.theguardian.com/technology/2013/sep/15/robot-almost-human-icub>
+ 

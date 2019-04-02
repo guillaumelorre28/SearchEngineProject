@@ -1,0 +1,64 @@
+
+The European commission (EC) has filed charges against Facebook for providing 
+“misleading” information in the run-up to thesocial network’s acquisition of 
+messaging service WhatsApp 
+<https://www.theguardian.com/technology/2014/feb/19/facebook-buys-whatsapp-16bn-deal>
+ after its data-sharing change in August.
+
+
+The charges will not have an affect on the approval of the $22bn merger and is 
+being treated completely separately to other European cases against Facebook, 
+but could lead toFacebook <https://www.theguardian.com/technology/facebook> 
+being fined up to 1% of its global turnover in 2014 when the merger was 
+approved, which was greater than $10bn for the first time.
+
+The European competition commissioner, Margrethe Vestager, said: “Companies 
+are obliged to give the commission accurate information during merger 
+investigations. They must take this obligation seriously.
+
+“Our timely and effective review of mergers depends on the accuracy of the 
+information provided by the companies involved. In this specific case, the 
+commission’s preliminary view is that Facebook gave us incorrect or misleading 
+information during the investigation into its acquisition ofWhatsApp 
+<https://www.theguardian.com/technology/whatsapp>. Facebook now has the 
+opportunity to respond.”
+
+The commission said that Facebook informed regulators that it would not be 
+able to perform automated matching between user-held Facebook accounts and 
+WhatsApp accounts. However, Facebook’s privacy policy change for WhatsApp in 
+August, for which the EC was notified in January, specifically enabled 
+automated matching and data sharing after technical changes, including one for 
+Apple and its iOS, allowed the matching of the majority of accounts not using a 
+phone number with Facebook.
+
+The commission’s review of the merger in 2014 revolved around whether Facebook 
+would or could merge the two messaging services, making them cross-compatible; 
+a technically difficult feat that was made harder in 2016 with the roll out of 
+WhatsApp’s end-to-end encryption for messages by default.
+
+Facebook has until 31 January 2017 to respond to the charges.
+
+A Facebook spokesperson said the company was pleased that the EC stands by its 
+clearance of the company’s WhatsApp acquisition and would continue to 
+co-operate with regulators to resolve their complaints. It said: “We respect 
+the commission’s process and are confident that a full review of the facts will 
+confirm Facebook has acted in good faith.
+
+“We’ve consistently provided accurate information about our technical 
+capabilities and plans, including in submissions about the WhatsApp acquisition 
+and in voluntary briefings before WhatsApp’s privacy policy update this year.”
+
+Facebook halted the use of user data 
+<https://www.theguardian.com/technology/2016/nov/17/facebook-halts-use-of-whatsapp-data-for-advertising-in-europe>
+ shared between WhatsApp and Facebook for advertising purposes in November after
+pressure from the pan-European data protection agency group 
+<https://www.theguardian.com/technology/2016/oct/28/whatsapp-pause-sharing-user-data-facebook-european-privacy-regulators-yahoo>
+ Article 29 Working Party in October.
+
+ * Why we should worry about WhatsApp accessing our personal information - 
+Elizabeth Denham 
+<https://www.theguardian.com/commentisfree/2016/nov/10/whatsapp-access-personal-information-privacy-facebook-consumers-information-commission>
+ * EU proposals will force multinationals to disclose tax arrangements 
+<https://www.theguardian.com/world/2016/feb/07/eu-multinationals-tax-arrangements-us-google-amazon>
+ * Facebook wins appeal against Belgian privacy watchdog over tracking 
+<https://www.theguardian.com/technology/2016/jun/30/facebook-wins-appeal-against-belgian-privacy-watchdog-over-tracking> 

@@ -1,0 +1,47 @@
+
+How did you get into games testing?
+I was a footballer, then I went in to the building trade – for my sins – and 
+spent a few years carrying bricks up and down ladders. I was really into games 
+and had this sense of what makes people tick when they’re playing them. Then 
+somebody said to me, “You know there’s a games company in Guildford you can 
+test games for.” That company was Bullfrog. I went there in 1994 to do two 
+weeks’ work experience.
+
+And took to it immediately?
+I did. Now I’ve been doing it 22 years. I wasn’t academic, I didn’t go to 
+school much or have any qualifications. I knew how to switch a PC on; that was 
+about it. But I had a passion for games, I was outspoken and good with people. 
+It’s funny, because I took those people skills from the building trade.
+
+And you moved from being a tester to running a testing company?
+I took over Bullfrog’s QA [quality assurance] department for a few years. Then 
+I helped Peter Molyneux set up the QA at Lionhead. When Microsoft bought 
+Lionhead, I went and set up my own company,Testology, <http://testology.co.uk/> 
+in 2006. And we’ve done pretty well. We test a lot of the biggest games in the 
+world. My missus tells me, “you’re an entrepreneur, Andy”. I’m not, though. I 
+just had a passion for something and the balls to set up my own company.
+ Andy Robson of Testology. 
+What is testing’s role in games, and why is it important?
+Testers and those in quality assurance are normally the end of the process of 
+making games. We find all the crashes, bugs and issues with a game. We find 
+those problems, tell the producers and they try to get it fixed. At the start a 
+game can have hundreds of thousands of bugs, and we have to find them. It can 
+take months. It’s a tough job, and when I started it was looked down upon.
+
+Has that attitude changed?
+Now QA and testing is a true discipline in itself. And it’s important. If 
+people are spending money they want a quality game. And developers now are 
+seeing that QA can be part of making sure the gameplay experience is a good 
+one. We got involved at Bullfrog at involving QA right from the beginning of a 
+game’s production and design, and that’s become more normal now. QA feedback 
+can really help improve a game’s design. We’re looking at setting up proper 
+apprenticeships in QA to help add quality to testing.
+
+Perhaps that came from the building site; the idea of an apprenticeship?
+Maybe, yes. When I was young, apprenticeships were important. When I left 
+school I was an apprentice footballer on £28 a week. Apprenticeships are 
+important, and I think the games industry could do more of it. They make skills 
+more accessible.
+
+www.testology.co.uk
+ 

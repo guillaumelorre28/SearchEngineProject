@@ -1,0 +1,16 @@
+
+So that's the end of the series. I've tried to give some insight into what 
+happened behind the scenes on a very large software project. All the articles 
+can be found onthe series page 
+<https://www.theguardian.com/help/series/an-abc-of-r2>.
+
+The aim throughout has been to add something of a human dimension to 
+theguardian.com -- something that most people would ordinarily see on their 
+screen and probably not give too much thought to. I've also tried to show how 
+large technology projects can succeed, despite their very high andvisible 
+failure rate <https://www.theguardian.com/society/nhs+technology/technology>.
+
+The entire series has been aligned with purpose of the Inside... blog: to 
+allow us to live up to our ideal of openness. So if there are other areas of 
+our work that you'd like to hear about then please let me know.
+ 

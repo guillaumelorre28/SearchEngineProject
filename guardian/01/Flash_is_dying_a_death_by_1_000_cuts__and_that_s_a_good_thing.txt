@@ -1,0 +1,70 @@
+
+Adobe’s Flash, hated the world over for slowing down computers, containing 
+more holes in security than swiss cheese and stubbornly being the video carrier 
+of choice until recently, is dying.
+
+
+Video players are migrating to other systems, even if Microsoft’s Silverlight 
+isn’t much better. HTML5-based video and animations are becoming mainstream, 
+and uploaders and other more advanced web-based features can now be replaced 
+with code that doesn’t rely on Flash.
+
+And it’s happening for a good reason. As other components of a web browser and 
+operating system have become more secure, Flash is one of the biggest sources 
+of security vulnerabilities. Hackers love it.
+
+Hacking Team’s commercially available government-supplied tools relied on 
+holes in Flash 
+<https://www.theguardian.com/technology/2015/jul/08/warning-adobe-flash-vulnerability-hacking-team-leak>
+ to hack individuals and companies, for instance, just by users browsing sites 
+unknowingly being digitally broken into.
+
+Even Adobe <https://www.theguardian.com/technology/adobe>, Flash’s developer, 
+doesn’t seem to love the much maligned system. Like Microsoft with Windows XP, 
+Adobe’s been trying to migrate companies away from using its own tools while 
+putting out fires left, right and centre.
+
+The one major hold out for dumping Flash wholesale has been advertisers. In 
+June, over 100m adverts were displayed to users globally with Flash, while 84% 
+of banner ads are still Flash,according to Ad Age 
+<http://adage.com/article/digitalnext/flash-obsolete-time-agencies-adapt/298946/>
+.
+
+Google took the first step by announcing that come September its Chrome 
+browser will not run Flash adverts by default, meaning that the user has to 
+click to enable the advert. Something virtually no one is likely to do. Firefox 
+also blocked Flashover security concerns 
+<https://www.theguardian.com/technology/2015/jul/14/facebook-end-adobe-flash-firefox-blocks-hacking>
+.
+
+Now Amazon has banned Flash ads from appearing on its ad platform across its 
+sites.Amazon <https://www.theguardian.com/technology/amazon> is not the biggest 
+advertising platform, but it is one of the first big name ones to adopt such a 
+policy.
+
+It marks the beginning of the end for Flash (Occupy Flash 
+<http://occupyflash.org/> will be happy). More advertising platforms are likely 
+to follow. When Chrome and its 51% of global browsers, according to data from 
+Statcounter, start to “intelligently pause” Flash ads in September advertisers 
+will be forced to switch wholesale.
+
+The reasons for Flash to exist will then, hopefully, peter out to embedded 
+tools and systems built within Flash, such as administrative tools. Most home 
+users will no longer be burdened with Flash, which will be good for your 
+computer, your battery, your security and your sanity.
+
+For those that want to experience a Flash-free world right now, it is possible 
+to disable Flash entirely within your browser or set it to require a click to 
+enable it each time something wants to use Flash.
+
+Mobile devices such as iOS and Android smartphones and tablets have mostly 
+been Flash-free for years and they work just fine for the most part. Soon 
+everything will have that speedy, Flash-free existence and humanity will be all 
+the better for it.
+
+• Warning over Adobe Flash vulnerability revealed by Hacking Team leak 
+<https://www.theguardian.com/technology/2015/jul/08/warning-adobe-flash-vulnerability-hacking-team-leak>
+
+• Adobe issues urgent Flash patch to prevent hacking attacks 
+<https://www.theguardian.com/technology/2015/jun/29/adobe-urgent-flash-patch-hacking-attacks>
+ 

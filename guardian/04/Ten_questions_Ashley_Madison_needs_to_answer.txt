@@ -1,0 +1,182 @@
+
+1. How many actual users did it have?
+
+The site’s homepage touts “over 39,170,000 anonymous members”, while the 
+figure of 37 million is regularly quoted in news stories aboutAshley Madison 
+<https://www.theguardian.com/technology/ashley-madison>. Yet the leaked 
+database shows slightly under 33 m individual user accounts. Where are the 
+other 6 million?
+
+What’s more, a user account isn’t quite the same as a member. The data 
+suggests that a large number of the accounts are registered with duplicate 
+emails, which could indicate one person registering multiple accounts.
+
+2. Did it make fake accounts?
+
+In 2013, an Ashley Madison employee in Toronto tried to sue the company, 
+claiming that she’d developed a repetitive strain injury in her wrist at work. 
+The action which caused the damage,she alleged 
+<http://www.citynews.ca/2013/11/10/woman-hurt-typing-fake-profiles-for-dating-site-20m-suit-alleges/>
+, was creating 1,000 fake female profiles over the course of a week to pad out 
+the Brazilian version of the site.
+
+Ashley Madison denied that allegation, saying that 
+<http://www.businessinsider.com/ashley-madison-strikes-back-against-plaintiff-2013-11?IR=T>
+ “our service is 100% authentic, as described in our terms and conditions, and 
+we resent any implication otherwise and are certain we will be both vindicated 
+and victorious in court”. The existence of multiple accounts linked to single 
+email addresses raised new questions.
+
+3. Was it aware of prostitution on the site?
+
+Several Ashley Madison users have reported that some of the site’s users who 
+arereal people are also not actually married people seeking a discreet affair. 
+Security researcher Robert Graham writes that “according to several users, 
+prostitutes are really the only females they’d consistently meet on Ashley 
+Madison”.
+
+In February this year, an anonymous user on Vice related his experience on the 
+site 
+<http://www.vice.com/en_uk/read/im-a-married-man-who-uses-ashley-madison-224>, 
+euphemistically referring to “sugar babies”: “If you find a profile of an 
+attractive woman under 25 and she doesn’t turn out to be a scammer, then she 
+probably is out to get paid,” he wrote.
+
+4. It promised security to its customers. What did it do to ensure this?
+
+The Ashley Madison website still boasts about the discretion it offers 
+customers. From its offer of 39 million “anonymous members” (who are no longer 
+anonymous) to the promise of a “100% discreet service” and the purple-ribboned 
+“Trusted Security Award”, a big part of the company’s brand is the promise of 
+an affair that no one else will know about.
+
+But the data dump shows very little actual progress towards that goal. User 
+passwords were stored in a secure manner, “hashed” in a way that prevents them 
+from being easily reused by attackers; and the site connected over SSL, which 
+prevented a man-in-the-middle attack on a particular user. But vast amounts of 
+sensitive data were apparently stored in plain text in a couple of databases on 
+the site’s backend, letting anyone who downloads the leaked data read users’ 
+profile information, turn-ons, and relationship goals.
+
+Before the hack happened, some staff members were aware of the security risks 
+at the firm 
+<https://www.theguardian.com/technology/2015/aug/19/ashley-madison-staff-raised-security-concerns-before-hack>
+, according to the hacked database. Internal documents leaked as part of the 
+attack show concerns over “a lack of security awareness across the 
+organisation” being raised by one vice president in response to an internal 
+questionnaire.
+
+In the same questionnaire, the company’s chief executive, Noel Biderman wrote 
+what he would hate to see go wrong in the company: “Data exfiltration, 
+confidentiality of the data. An insider data breach would be very harmful. Have 
+we done good enough a job vetting everyone, are we on top of it.”
+
+5. Its CEO said the leak was an inside job. What made him think that? Has he 
+changed his mind?
+
+Noel Biderman also said shortly after that the firm believes the hack was an 
+inside job, from someone who already had access to its systems. “I’ve got their 
+profile right in front of me, all their work credentials,”he told the security 
+journalist Brian Krebs 
+<http://krebsonsecurity.com/2015/07/online-cheating-site-ashleymadison-hacked/>
+. “It was definitely a person here that was not an employee but certainly had 
+touched our technical services.”
+
+But Biderman hasn’t revealed any further information since then. If he knew 
+who it was, why haven’t they been caught? And if he didn’t, why was he so clear 
+it was definitely an insider?
+
+6. Why did the “full delete” not fully delete a customer’s profile? Why did it 
+keep location information for a fully deleted account?
+
+Ashley Madison offers a £15/$20 “full delete” service for users. The site 
+stands out amongother dating sites for this, in that the paid delete will even 
+remove conversations a user has had with other site members.
+
+But the database shows that “full” is rather overstating matters. Users who 
+paid to delete their account have their email address, postal address, 
+username, first and last names wiped from the record, along with their profile 
+information; but a raft of personal data stayed on Ashley Madison’s servers, 
+including sexual preferences, height, weight, date of birth, and even the 
+user’s latitude and longitude, derived from the address data they entered 
+earlier.
+
+Worse, the credit card information used to pay for the full delete is also 
+stored (the full card number is not kept, however), and the transaction is 
+linked through a user ID to the deleted account. In other words, it’s possible 
+to fully de-anonymise a user, even after they paid real money for the deletion.
+
+“I paid for the complete deletion yet I appear on the dump,” one user told the 
+Guardian. “If Ashley Madison charged for a service they didn’t provide, I would 
+like to know.”
+
+In a statement in July, Ashley Madison said: “Contrary to current media 
+reports, and based on accusations posted online by a cyber criminal, the ‘paid 
+delete’ option offered by AshleyMadison.com does in fact remove all information 
+related to a member’s profile and communications activity. The process involves 
+a hard delete of a requesting user’s profile, including the removal of posted 
+pictures and all messages sent to other system users’ email boxes.”
+
+7. Given it took card payments for a full delete, why didn’t it make clear 
+that that payment information has to be retained?
+
+Ashley Madison offered anonymous payment options, including the ability to pay 
+with a Starbucks gift card 
+<http://motherboard.vice.com/read/what-the-ashleymadison-hack-can-teach-everyone-about-opsec>
+. But for the users who paid with a credit card, it was never going to be 
+possible to fully remove their details from the site, because credit card 
+payments are retained for fraud protection – and, obviously, linked to a 
+specific real identity.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Faug%2F21%2Ften-questions-ashley-madison-needs-to-answer%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fd9102da179893c58b7159ac75d350a5f3c8e7964%2F0_82_2000_1200%2F2000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Ten%20questions%20Ashley%20Madison%20needs%20to%20answer&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Faug%2F21%2Ften-questions-ashley-madison-needs-to-answer%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Ten%20questions%20Ashley%20Madison%20needs%20to%20answer&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Faug%2F21%2Ften-questions-ashley-madison-needs-to-answer%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fd9102da179893c58b7159ac75d350a5f3c8e7964%2F0_82_2000_1200%2F2000.jpg>
+ CEO Noel Biderman:“Have we done good enough a job vetting everyone, are we on 
+top of it?” Not so much. Photograph: Jane Mingay/Rex Shutterstock 
+8. Why didn’t it disclose the hack to customers as soon as it happened? Why 
+did they have to find out from the press?
+
+Disclosure is important in security breaches: often, the most damage will be 
+done in the time before users find out and change passwords and card details. 
+The Ashley Madison hack is, of course, a special case, because the information 
+is damaging in and of itself, regardless of whether it’s reused later on; but 
+the same principle applies.
+
+Which is why it’s concerning that the hack has been largely communicated to 
+the public through security reporters, rather than contact between Ashley 
+Madison and its members. Since the hack was first reported, there have only 
+been five public statements from the firm, and no advice for actual users 
+concerned about the dissemination of their personal data.
+
+9. Why did it make a specific, narrow denial about storing card numbers?
+
+One of those five statements read, in its entirety:
+
+“No current or past members’ full credit card numbers were stolen from Avid 
+Life Media. Any statements to the contrary are false. Avid Life Media has never 
+stored members’ full credit card numbers.”
+
+While the statement is undoubtedly true, it glosses over the fact that payment 
+information was stolen, including the last four digits of payment cards. Was 
+this an attempt to distract from the issues at hand?
+
+10. Why is it still implying the leak is not real?
+
+At this stage, the evidence overwhelmingly points to the complete database 
+being genuine. Not only is consumer data exposed, but also Ashley Madison’s 
+internal communications – including, in a second dump twice the size of the 
+first,the complete email database of founder Biderman 
+<https://www.theguardian.com/technology/2015/aug/20/hackers-new-ashley-madison-data>
+.
+
+Yet the site’s most recent statement on the matter merely says “we are 
+actively monitoring and investigating this situation to determine the validity 
+of any information posted online”. If the company is going to attempt to win 
+back user trust, the first thing it has to do is come clean. And until it 
+admits the extent of the breach, that’s not going to happen.
+
+The Guardian put these questions to Ashely Madison, but the company has not 
+directly replied to any questions so far through its UK spokeswoman.
+ 

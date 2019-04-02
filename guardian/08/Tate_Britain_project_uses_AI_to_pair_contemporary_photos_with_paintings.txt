@@ -1,0 +1,144 @@
+
+Seated against a deep red backdrop, gazing intently at hand-held mirrors, two 
+eunuchs 
+<https://www.theguardian.com/society/2014/apr/16/india-third-gender-claims-place-in-law>
+ in sparkling saris inspect their appearance before Raksha Bandhan celebrations 
+in the red light district of Mumbai.
+
+The photograph from the Reuters news agency is an arresting contemporary 
+scene, but a newTate Britain 
+<https://www.theguardian.com/artanddesign/tatebritain> project is aiming to 
+inspire deeper reflections with images from its own collection of paintings.
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Faug%2F28%2Ftate-britain-project-recognition-artificial-intelligence-photography-paintings%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F8ba607a3518fe78788bc1ddc5ba8d130f60a420d%2F42_229_2182_1309%2F2182.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Tate%20Britain%20project%20uses%20AI%20to%20pair%20contemporary%20photos%20with%20paintings&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Faug%2F28%2Ftate-britain-project-recognition-artificial-intelligence-photography-paintings%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Tate%20Britain%20project%20uses%20AI%20to%20pair%20contemporary%20photos%20with%20paintings&url=https%3A%2F%2Fwww.theguardian.com%2Fartanddesign%2F2016%2Faug%2F28%2Ftate-britain-project-recognition-artificial-intelligence-photography-paintings%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F8ba607a3518fe78788bc1ddc5ba8d130f60a420d%2F42_229_2182_1309%2F2182.jpg>
+ Detail from Sir Peter Lely’s Two Ladies of the Lake Family (1660), paired with 
+the Mumbai scene by the Recognition software. Photograph: Tate 
+Launching on Friday, Recognition is the winner of 2016’s IK prize 
+<http://www.tate.org.uk/about/projects/ik-prize> – an annual award 
+<https://www.theguardian.com/artanddesign/2015/aug/22/tate-sensorium-art-soundscapes-chocolates-invisible-rain>
+, this year supported by Microsoft, for a project that embraces digital 
+technology to explore and showcase Tate’s collection of British art.
+
+Tate Britain revamps Turner galleries after paintings return from tour
+ Read more  
+<https://www.theguardian.com/artanddesign/2016/aug/03/tate-britain-jmw-turner-galleries>
+This year, the challenge was to do it with artificial intelligence.
+
+
+The team behind the winning project, from the Italy-based communication 
+research centreFabrica <http://www.fabricafeatures.com/people/>, say their 
+inspiration came from an intriguing conundrum: how can you apply rational 
+thinking to a subject like art?
+
+
+Their answer is provocative. Recognition matches stunning photographs from the 
+24/7 news cycle with centuries-old artworks, and presents them online.
+
+
+“The team have created and trained a ‘brain’ to a point where it is simulating 
+certain human attributes and unleashed it online – and it is creating a 
+gallery,” said Tony Guillan, the producer of the IK prize at Tate Britain.
+
+
+After scanning through about 30,000 digitised artworks from the gallery, the 
+system pairs the evocative photograph of the two eunuchs with a mellow scene 
+from the brush strokes ofSir Peter Lely 
+<http://www.tate.org.uk/art/artists/sir-peter-lely-343>, the principal painter 
+to Charles II. Two women, straight-backed and smiling slightly are seated, one 
+holding a stringed instrument, the other resting her hand on the elaborate 
+folds of her satin dress.
+
+
+It is a sumptuous 17th-century work, rich in details. But presented next to 
+the contemporary photograph, the comparison can provoke new artistic questions 
+- for example about gender identity and the notion of glamour.
+
+“Without knowing it, [the system] has created subjective meaning,” said 
+Guillan. “By asking the question ‘how do computers work and think?’ you ask the 
+exact same question of humans.”
+
+Guillan said he hoped the project would encourage discussion about how we 
+depict scenes and individuals. “News always presents itself as this mimetic, 
+glass window on to the world, but of course photojournalism is an art form 
+often; it is a mode of communication – and so is art and painting,” he said.
+
+With £15,000 in prize money and £90,000 to produce their vision, the 
+four-strong team at Fabrica have spent months developing the project, which 
+harnesses a burgeoning form of artificial intelligence known asmachine learning 
+<https://www.theguardian.com/technology/2016/jun/28/google-says-machine-learning-is-the-future-so-i-tried-it-myself>
+. It will be available in full online and there will be a small exhibition at 
+Tate Britain.
+
+
+“Computers are very good at mathematical operations,” said Andrea Vedaldi 
+<http://www.robots.ox.ac.uk/~vedaldi/>, an associate professor of engineering 
+science at the University of Oxford, who was not involved in the project. “When 
+things start to be very difficult is when you don’t really know how to express, 
+in mathematical terms, what it is you want to do. For example, if you want to 
+recognise a dog in an image ... it is not very easy to come up with the 
+equations of a dog.”
+
+
+Google says machine learning is the future. So I tried it myself
+ Read more  
+<https://www.theguardian.com/technology/2016/jun/28/google-says-machine-learning-is-the-future-so-i-tried-it-myself>
+Machine learning takes a different approach: show a system enough images of 
+different canines in different poses, the theory goes, and the system will 
+figure out what a dog is. “This process of going from specifics to the abstract 
+concept, this is what is really challenging,” said Vedaldi. While progress in 
+machine learning has been dramatic in recent years, he said, creating systems 
+that truly “understand” images was still a work in progress.
+
+
+It is a challenge that scientists and engineers such as Vedaldi continue to 
+grapple with, developing and exploring powerful systems, including new tools 
+based on a branch of machine learning called deep learning.
+
+Recognition takes four different approaches to match images, based on 
+technology developed by Microsoft and a team of AI specialists at the 
+France-based company Jolibrain. “It can look for objects, like cups and 
+saucers, it can look for faces, it can look for composition within an image – 
+reading lines and colours – and it can look at the context that is attached to 
+an image, so metadata, titles and things like that,” said Isaac Vallentin of 
+Fabrica.
+
+Now trained, the system will spend three months continuously analysing new 
+photographs from Reuters, comparing each to thousands of digitised paintings, 
+sculptures and other works. Where one or more matches can be found, the best – 
+as selected by the technology – is entered into a searchable online gallery.
+
+Visitors to the website will also be able to explore details of how the system 
+made each match, including the strength of the resemblance across each of the 
+four approaches, together with particular features it has recognised, such as 
+the age and gender of a face. “We are trying to really honestly represent how 
+the software itself is coming to its conclusions,” said Vallentin, adding that 
+the system would also be able to create a sentence to explain, to a limited 
+degree, each match.
+
+
+The small, three-section display at Tate Britain will offer further insights, 
+with visitors able to compare the matches they would make to those generated by 
+the machine. The results will then be scrutinised. “We just want to take these 
+two datasets in the end and find the connections, the similarities,” said 
+Vallentin. “It is really an experiment for us.”
+
+
+The team also hope the project will showcase the positive side of artificial 
+intelligence – a technology that experts including the physicist Stephen 
+Hawking haveraised safety concerns 
+<https://www.theguardian.com/science/2014/dec/02/stephen-hawking-intel-communication-system-astrophysicist-software-predictive-text-type>
+ about.
+
+“Technology is an empowering tool,” said Vallentin. “You can create really 
+meaningful things and really helpful things, and beautiful things with 
+technology.”
+
+
+ * The IK prize 2016 takes place online and at Tate Britain from 2 September – 
+27 November.
+ 

@@ -1,0 +1,76 @@
+
+The following correction was printed in the Guardian's Corrections and 
+clarifications column, Friday September 21 2006
+
+In the article below, the HSBC spokesman did not say the words "[to leave the 
+loophole]" and they should not have been inserted. HSBC does not accept that 
+there is a loophole or a defect in the security of its personal internet 
+banking service.
+
+
+ One of Britain's biggest high street banks knew about a security loophole in 
+its online banking service that left millions of accounts open to fraud and did 
+nothing about it for almost two years. HSBC initially denied the defect in its 
+computer banking but conceded yesterday that the problem had been known about 
+since the system was introduced.
+
+The defect, uncovered by researchers at Cardiff University and exposed in 
+yesterday's Guardian, was the result of a conscious decision by those building 
+the system two years ago, a spokesman for the bank said. "It wasn't there 
+accidentally," he said. "When the system was being designed, research was done 
+into it and the decision was made. Often times these are judgment calls."
+
+Industry professionals say it is common for companies to know about large 
+numbers of flaws while designing their online banking systems, but often they 
+leave some to concentrate on other problems. HSBC said the system's builders 
+had decided against closing the loophole to focus on more pressing threats.
+
+HSBC continues to publicly deny that there may be a failure of security 
+procedure, but the acceptance that it knew about the flaw for almost two years 
+is a shift in its stance.
+
+The spokesman said the company was in discussions with Cardiff University to 
+find out more about its research, but had "no definite plans to change it at 
+the moment".
+
+Faced by the rapid rise of cybercrime, banks have often struggled to cope with 
+different threats simultaneously. Senior sources said the HSBC case was just a 
+small component in a host of problems in online banking.
+
+"These flaws are incredibly common, but it's a matter of priorities," a 
+security expert, Bruce Schneier, told the Guardian. "There are hundreds of 
+vulnerabilities out there affecting every single bank, and this is just a minor 
+one: it's an arms race."
+
+The flaw guarantees a potential criminal quick access to HSBC's bank accounts. 
+Once inside a victim's account, attackers could transfer money out, commit 
+extensive identity fraud, or have thousands of pounds delivered in cash to any 
+location in the world. The problem could potentially affect any one of the 3.1 
+million HSBC customers who bank online with the company, which recently posted 
+record half-year profits of £6.7bn.
+
+The researcher who led the investigation said HSBC was by no means the only 
+bank with security problems, but felt that the flaw needed to be brought to the 
+public's attention. "They're doing the best they can," said Professor Antonia 
+Jones, of Cardiff University's computer science department. "But at the end of 
+the day they are being forced to choose between the lesser of several evils."
+
+Prof Jones said regardless of the details of the problem, customers deserved 
+to know that they were not being fully protected. "One of the problems here is 
+that the technology and ingenuity of these attackers moves on," she said. "The 
+public should be aware that while every attempt is made to protect them, the 
+nature of these things is that they are never 100% secure."
+
+Yesterday HSBC tried to play down the matter, claiming that the "supposed 
+flaw" was extremely sophisticated - despite its simplicity being labelled 
+"clueless" by one independent internet security expert.
+
+Many British banks are considering new measures to improve security. One 
+proposal includes "token" solutions, under which every customer would be given 
+a small device that regularly generates random passwords, offering customers an 
+extra layer of security.
+
+· September 21, letters: Dyfrig John, Chief Executive of HSBC Bank: Security 
+is strong for online banking 
+<https://www.theguardian.com/letters/story/0,,1877071,00.html>.
+ 

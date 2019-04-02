@@ -1,0 +1,148 @@
+
+My laptop has been hijacked by the ransomware virus. I really have no files on 
+my computer worth paying for. However, how do I continue to use my computer 
+after it has been hijacked? I did a system restore back to when it came in the 
+box, but the ransom screen still covers my home page. Kevin
+
+Ransomware is a type of malware that demands money with menaces: it takes 
+control of your PC, and wants you to pay to get it back. In general, it’s best 
+to avoid paying. If you feel you have no choice, then the malware has exposed 
+critical flaws in your malware protection, and backup and recovery procedures. 
+No reputable business should ever find itself in this position. However, some 
+have been caught out by ransomware that infects files on the server as well as 
+on individual PCs, when they did not have adequate offline or cloud backups.
+
+Ransomware shouldn’t even get through if a PC is running a fully updated copy 
+of Windows,Microsoft’s SmartScreen 
+<https://feedback.smartscreen.microsoft.com/smartscreenfaq.aspx> or Google Safe 
+Browsing <https://en.wikipedia.org/wiki/Google_Safe_Browsing>, and up-to-date 
+anti-virus software. Nowadays, most anti-virus software is familiar with all 
+the common variants of ransomware, and if not, should include heuristics that 
+recognise potentially dangerous activities, such as encrypting files. 
+Unfortunately, users can install ransomware themselves, either by downloading 
+infected files or by running files that arrive in phishing emails.
+
+Of course, anti-virus programs should scan those files as well. If you have 
+doubts, upload the file toVirus Total <https://www.virustotal.com/> and have it 
+checked by more than 50 anti-virus programs.
+
+In principle, it should be possible to defeat all ransomware by immediately 
+disconnecting your PC from the internet, reformatting the hard drive, and 
+reinstalling everything from a backup. If your laptop is running Windows 8, 8.1 
+or 10, then I would expect the “Restore factory settings” option to solve the 
+problem, if you can get to it. Try typing “reinstall” in the Windows search 
+box, then click on “Remove everything and reinstall Windows”.
+
+This is different from the “system restore” function in earlier versions of 
+Windows, which tries to take the PC back to an earlier state. You can do that 
+by starting your PC in Safe Mode, choosing “Safe Mode with Command Prompt” from 
+the Advanced Boot Options menu, typing rstrui.exe and pressing Enter. 
+Apparently this works with some early types of ransomware, but I suspect that’s 
+not what you did.
+
+Alternatively, you may be able to run a program such as MalwareBytes 
+Anti-Malware <https://www.malwarebytes.com/mwb-download/> from a CD/DVD or a 
+USB thumb drive, possibly after usingProcess Explorer 
+<https://technet.microsoft.com/en-gb/sysinternals/bb896653> to kill the browser 
+or other malware process. I keep a USB thumbdrive with a selection of repair 
+utilities in case I need them for this sort of purpose. Many people use a 
+“rescue disk” such as the ones fromComodo 
+<https://www.comodo.com/business-security/network-protection/rescue-disk.php> 
+andKaspersky <http://support.kaspersky.com/viruses/rescuedisk>. These include 
+utilities that can run from a USB device. Kaspersky also explainsHow to record 
+Kaspersky Rescue Disk 10 to a USB device and boot a computer from it 
+<https://support.kaspersky.co.uk/8092>.
+
+Types of ransomware
+
+There are many different types of ransomware, and they work in different ways. 
+You need to know which bit of malware has infected your laptop so that you can 
+search for removal instructions. There are at least a couple of dozen to choose 
+from. The most common include Crowti, FakeBsod, Reveton and Tescrpt, while 
+Petya is one of the worst.
+
+The new No More Ransom! <https://www.nomoreransom.org/ransomware-qa.html> 
+website, backed by the European Cybercrime Centre, has useful advice plus 
+screen shots of some common ransomware screens, while Jen Ruhman has a LinkedIn 
+page with27 screenshots 
+<https://www.linkedin.com/pulse/27-screenshots-real-ransomware-jen-ruhman>. 
+Alternatively, you could do an image search for ransomware, or even upload your 
+own screenshot and do a reverse image search.
+
+The type of laptop also makes a difference, as does the operating system. Most 
+ransomware infections are aimed at Microsoft Windows, but a couple have targeted
+ Apple Macs 
+<http://researchcenter.paloaltonetworks.com/2016/03/new-os-x-ransomware-keranger-infected-transmission-bittorrent-client-installer/>
+,Linux 
+<https://nakedsecurity.sophos.com/2015/11/11/ransomware-meets-linux-on-the-command-line/>
+ machines andAndroid smartphones 
+<http://www.welivesecurity.com/2015/09/10/aggressive-android-ransomware-spreading-in-the-usa/>
+. When it comes to Windows laptops, older models running Windows 7, Vista or XP 
+are more vulnerable: the malware can infect the MBR orMaster Boot Record 
+<https://en.wikipedia.org/wiki/Master_boot_record>. (Boot sector viruses have 
+been common for many years.) Newer Windows 8/8/1/10 systems with UEFI startup 
+sequences andSecureBoot 
+<https://en.wikipedia.org/wiki/Unified_Extensible_Firmware_Interface#Secure_boot>
+ are less vulnerable.
+
+Removal
+
+Some ransomware viruses are relatively easy to remove, while others are hard. 
+The easiest ones are “scareware” browser screens that claim your laptop has 
+been locked by the FBI or a local police force. This is never true. You can 
+usually stop them by using the Windows Task Manager to close the browser, or f
+orce quit on Macs 
+<https://malwaretips.com/blogs/your-browser-has-been-blocked-up-mac-os-x/>, 
+then run an anti-virus program to remove them.
+
+The harder ones encrypt either the Master File Table in Windows, or individual 
+files, or the whole hard drive.
+
+The Master File Table 
+<https://msdn.microsoft.com/en-us/library/windows/desktop/aa365230(v=vs.85).aspx>
+ keeps track of all the sectors on the hard drive, and which bits of which 
+files are stored in those sectors. It the MFT is encrypted, it’s theoretically 
+possible to rescue files by using an undelete program such asEaseUS’s Undelete 
+<http://www.easeus.com/data-recovery/deleted-recovery-software/free-undelete-tool-program.htm>
+ (Windows or Mac) orPiriform’s Recuva <https://www.piriform.com/recuva>. 
+However, untangling and identifying more than a few files could be a huge task.
+
+The worst ransomware programs encrypt files or hard drives with military 
+strength encryption. However, all is not necessarily lost. There are at least 
+20 programs designed to decrypt these files, from companies such as AVG, 
+Emissoft, and Kaspersky Lab. The Windows Club has a goodList of free Ransomware 
+Decryptor Tools to unlock files 
+<http://www.thewindowsclub.com/list-ransomware-decryptor-tools>, with links.
+
+However, if your ransomware encrypts each file with its own unique key, like 
+Rokku 
+<http://www.bleepingcomputer.com/news/security/rokku-ransomware-encrypts-each-file-with-its-own-unique-key/>
+, then you will probably not get your files back. This is why offline and 
+possible offsite backups are essential for protecting valuable data.
+
+The future
+
+Ransomware has been around for a long time, starting with Joseph Popp’s PC 
+Cyborg in 1989 <https://en.wikipedia.org/wiki/Ransomware>, but it only started 
+to become more common about a decade ago. Fortunately, it was hard for the 
+criminals to harvest money without being tracked and identified.
+
+That problem was largely solved by the arrival of the dark web (via Tor) and 
+Bitcoin <https://en.wikipedia.org/wiki/Bitcoin>, the pseudonymous digital 
+cryptocurrency. Most ransomware victims have probably never used Bitcoin, so 
+infected PCs have to provide clear instructions on how to make payments, and 
+then how to decrypt their files.
+
+The standard recommendation is never to pay the criminals who propagate 
+ransomware, because financial success will attract more criminals to the 
+industry. In some cases, people will pay, because they think the chance of 
+recovering their files is worth more than the cost.
+
+For home users, of course, it’s always cheaper and easier to buy an external 
+hard drive and make a back-up than pay for files to be decrypted. In most 
+cases, it’s also cheaper to buy a USB DVD or Blu-ray drive and make backups on 
+optical discs. No ransomware can encrypt files on those.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

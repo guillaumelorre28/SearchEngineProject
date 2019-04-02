@@ -1,0 +1,105 @@
+
+App: Skobbler GPS Navigation 2 – satnav
+
+By: Skobbler GmbH
+
+Price: £1.49
+
+Available on: iOS. A lite (and free) version is available on Android 
+<https://www.theguardian.com/technology/android>
+
+What is it?
+
+A low-cost alternative to the big name satnav offerings such as TomTom (49.99) 
+or AA Satnav (£24.99), which also benefits from a "hybrid" system that allows 
+users to download maps on to their phone to be used offline and avoid roaming 
+charges. It features an information section showing the position of local 
+amenities, such as bars, places to visit and hospitals.
+
+What does it promise?
+
+"Get true turn-by-turn navigation with an unbeatable price-performance ratio 
+and many extras: worldwide online navigation, installable maps as optional 
+upgrades, a comprehensive map mode, category search, portrait or landscape 
+display modes and much more."
+
+Is it easy to use?
+
+Quite, if you're prepared to have a play around before you actually set off. 
+The welcome screen on theiPhone <https://www.theguardian.com/technology/iphone> 
+is split into five categories: Navigation, Map, Category, Upgrades and 
+Share/Help. From the icons (or indeed their names) it is not immediately 
+apparent what most of them do.
+
+Click on Navigation and you can enter either your destination address by 
+postcode and/or street and house number. As the app hunts for this it flashes 
+up some information about your destination, tips, and what looks like a 
+disclaimer of sorts, but it takes you to the map screen before you have a 
+chance to read it. I hope it wasn't too important.
+
+Once on the map screen a blue arrow shows your orientation and the route you 
+require is marked in blue with smaller arrows along it indicating the direction 
+you should take. A slightly robotic female voice gives directions. Once in this 
+satnav mode you can press the ladybird icon to register any bugs you notice: a 
+missing speed trap, a one-way road, or a wrong turn perhaps. Tapping the screen 
+anywhere takes you into a menu where you can alter some map functions such as 
+2D/3D view or route information – but I think a lot of this is unnecessary.
+
+As well as entering a destination postcode each time, you can store 
+favourites: your home address, recent destinations, enter geographical 
+coordinates, or link to your contacts book (assuming you have entered 
+addresses).
+
+The Map category seems superfluous (it doesn't do anything you can't do on 
+Google Maps, so why bother including it in a paid-for satnav?); the Upgrades 
+area allows you to download installable maps of countries (£2.49), continents 
+(£4.99) or the world (£7.49) to use offline, which absolves you of the need to 
+use 3G and suffer its associated costs; and the Share/Help area lets you 
+contact Skobbler, look at other users' reported bugs, and look through an Ideas 
+Log to see people's suggestions on improving the app.
+
+Everything accessed via the Category tab, however, is a bit rubbish. It is 
+supposed to list by category (eating out, accommodation, transport, shopping, 
+health etc) all the amenities close to you, and then direct you to them. Given 
+that I live on the edge of one of Brighton's main hotel areas, the fact the app 
+offered only 15 to choose from suggests it's not comprehensive. And there are 
+other annoyances: under the shopping category the supermarkets are listed under 
+"S" for supermarket – it doesn't tell you which supermarket it is.
+
+Is it fun?
+
+I still marvel at how clever satnavs are, and I delight in being told where to 
+go instead of driving with a half-folded road atlas balanced atop my steering 
+wheel. But I fear that, certainly beyond the basic direction dissemination, the 
+whole app isn't quite as clever as it thinks. And you can't even download any 
+amusing voices.
+
+Is it pretty?
+
+Steel silver is the colour scheme throughout the non-map sections of the app, 
+with a shimmering ice-blue hue when you click on your desired category or 
+subsection. When in the actual satnav function it's less futuristic, based as 
+it is on the OpenStreetMap (OSM) system. But that's OK: you don't want to be 
+distracted while driving, after all.
+
+Should you download it?
+
+Definitely. The big-name satnav are hugely expensive, and while they offer 
+more comprehensive features, in their most basic function they do no more than 
+Skobbler, which is direct you to a chosen destination.
+
+I've never got lost using it, and although the vocal instructions are 
+sometimes a little late (I would take the second exit at the roundabout but 
+I've just driven past it), it has always got me successfully from A to B in 
+good time.
+
+Given that one of Skobbler's main selling points is that it is 
+community-based, and the OSM has about 250,000 users creating and updating 
+existing maps, the system is always improving. Users are also encouraged to 
+make corrections and update the maps themselves. Using stored maps offline is 
+also a great feature, as is the ability to remove maps you don't need, so your 
+phone's memory doesn't fill up.
+
+One last warning: as with anything on a phone that involves heavy use, it's 
+more than capable of draining your battery on a three-hour car journey.
+ 

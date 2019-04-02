@@ -1,0 +1,148 @@
+
+Facebook <https://www.theguardian.com/technology/facebook> has unveiled 
+measures to establish stronger ties between the social network and the news 
+industry, allowing for collaboration on product development, new ways for 
+publishers to make money, and training for newsrooms and readers.
+
+The announcement of the Facebook Journalism Project comes in the wake of 
+heightened scrutiny of the social network’srole as a distributor of news 
+<https://www.theguardian.com/technology/2016/dec/22/mark-zuckerberg-appears-to-finally-admit-facebook-is-a-media-company>
+, which saw the company accused offailing to tackle the spread of misinformation
+ 
+<https://www.theguardian.com/technology/2016/nov/10/facebook-fake-news-election-conspiracy-theories>
+ in the run-up to the US presidential election. At the same time, Facebook and 
+Google are taking thelion’s share of online advertising revenue 
+<https://www.theguardian.com/media-network/2016/jun/15/google-facebook-publishers-network-collaborate-trends-report>
+ while newsrooms cut costs and make lay-offs.
+
+Many of the measures in the Facebook Journalism Project have been unveiled 
+separately before, but the announcement highlights the company’s commitment to 
+the content news organizations provide.
+
+“We’ve been working on this for a long time. Our media partners want a deeper 
+engagement, not just at a business level, but a product/engineering level,” 
+said Fidji Simo, Facebook’s director of product, who is leading the project.
+
+She said the program is linked to the news feed values 
+<http://newsroom.fb.com/news/2016/06/building-a-better-news-feed-for-you/> that 
+Facebook announced in June 2016. In ablogpost 
+<http://newsroom.fb.com/news/2016/06/building-a-better-news-feed-for-you/>, 
+Facebook’s VP of product management, Adam Mosseri, revealed the news feed’s 
+primary role was to show content from friends and family, but the other two 
+roles are to inform and entertain.
+
+Simo said: “We are making sure that journalism thrives as part of the ‘inform’ 
+axis.”
+
+“We are not a traditional media company and we are not a traditional tech 
+company,” she added, reiteratingMark Zuckerberg’s words from late December 
+<https://www.theguardian.com/technology/2016/dec/22/mark-zuckerberg-appears-to-finally-admit-facebook-is-a-media-company>
+. “We build technology that helps people connect and be informed. This means 
+working well with the news industry.”
+
+The announcement comes the week after Facebook appointed former CNN anchor 
+Campbell Brown 
+<https://www.theguardian.com/technology/2017/jan/06/facebook-hires-campbell-brown-media-partnerships>
+ to lead the news partnerships team.
+
+Major news organizations already talk to Facebook’s news partnerships team 
+regularly, but now they will gain access to the technology company’s engineers 
+to develop products – whether that’s a new storytelling or ad format – 
+collaboratively. This will take the form of roundtables, hackathons and shared 
+online groups.
+
+An example of the types of products that will be launched include a way to 
+present packages of stories on Facebook (a feature requested by newsrooms) 
+called “collections”; ads that appear in the middle of videos and live streams; 
+and a tool that allows readers to subscribe to publications directly from 
+Facebook. WithFacebook Live 
+<https://www.theguardian.com/technology/2017/jan/05/facebook-live-social-media-live-streaming>
+, publishers will be able to designate journalists as contributors so they can 
+broadcast live on behalf of the page without needing login details for the 
+publisher’s Facebook account.
+
+“I’m pleased to see the scale of the program and it’s a recognition that 
+Facebook see themselves as part of the news ecosystem,” saidClaire Wardle 
+<https://firstdraftnews.com/author/cwardle/> from First Draft News. “In the 
+past, it’s been difficult for news organizations to have access to engineers 
+and the engineers didn’t have any understanding of the news business.”
+
+The Washington Post’s chief information officer, Shailesh Prakash, agreed. “We 
+often hear about a product only after they are pretty much done,” he said, 
+citingInstant Articles as an example 
+<https://www.theguardian.com/media/2015/may/13/bbc-news-guardian-facebook-instant-articles>
+. “Even with an early partner roll-out, the big decisions have been made in 
+terms of user interface and workflow. It’s much more effective if we can be in 
+on the beginning.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F11%2Ffacebook-journalism-project-news-industry%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F6e971342e412f7b12a9b541ea38508b6815c273d%2F0_274_2234_1340%2F2234.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Facebook%20unveils%20measures%20to%20promote%20stronger%20ties%20with%20news%20industry&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F11%2Ffacebook-journalism-project-news-industry%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Facebook%20unveils%20measures%20to%20promote%20stronger%20ties%20with%20news%20industry&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2017%2Fjan%2F11%2Ffacebook-journalism-project-news-industry%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F6e971342e412f7b12a9b541ea38508b6815c273d%2F0_274_2234_1340%2F2234.jpg>
+ Facebook is partnering with outside fact checkers to sort honest news reports 
+from fake stories. Photograph: AP 
+According to Prakash, the announcement means that weekly phone calls between 
+the Washington Post and Facebook will be supplemented by monthly face-to-face 
+meetings. It is not clear how many other organizations will gain this level of 
+access.
+
+For Vox Media publisher Melissa Bell, there is value in collaborating more 
+effectively not only with Facebook but with other publishers.
+
+“In the past, there were a lot of questions everyone was trying to answer 
+independently and that slowed down progress,” she said. “It’s imperative as an 
+industry that we are collaborating to create profitable, trustworthy and 
+productive media.”
+
+With regards to tackling the spread of misinformation on the platform, 
+Facebook repeated the recently announced partnership with third-party fact 
+checkers 
+<https://www.theguardian.com/technology/2016/dec/15/facebook-flag-fake-news-fact-check>
+ and its plans to stop placing advertisements onwebsites dedicated to “fake 
+news” 
+<https://www.theguardian.com/technology/2016/nov/15/facebook-google-fake-news-sites-ad-networks>
+.
+
+The company also pledged to promote news literacy among Facebook users through 
+measures including a series of public service ads.
+
+“I think there’s more the platforms could be doing here,” Wardle said, 
+suggesting they should embed media literacy tools into the platform, for 
+example, through messaging at the point of sharing a story – something Facebook 
+is doing for stories that have been fact-checked by third-party partners.
+
+“What do you do when crazy Uncle Bob is systematically sharing problematic 
+content? Rather than telling him to go on a Facebook media literacy course you 
+need tools baked into the platform,” she said.
+
+The project will also expand the training that Facebook offers major newsrooms 
+to smaller local news organizations who have typically struggled to gain access 
+to the social networking giant. Facebook will also launch e-learning courses in 
+multiple languages and offer an analytics tool called CrowdTangle for nothing 
+to its partners. Facebook will also help First Draft establish avirtual 
+verification community 
+<https://firstdraftnews.com/first-draft-prepares-big-year-ahead-support-40-new-partners/>
+ for eyewitness media generated during breaking news events.
+
+Both Wardle and Prakash said they would like Facebook to be more open with its 
+data. For Wardle, it’s about helping independent researchers interrogate the 
+decisions the social network is making. For example, there is social psychology 
+research that indicates there’s a “boomerang effect” in debunking stories that 
+makes some people more likely to click those stories. “This is such an 
+important moment where we’re making big decisions. I’d love to see more of an 
+evidence base,” she said.
+
+Prakash, on the other hand, wants more data about how Facebook users are 
+interacting with news content, for example how far down an Instant Article 
+people are scrolling and how long they watch videos.
+
+“I hope being involved in these [roundtable meetings] will give us more of a 
+voice so that Facebook understands why we want that data,” he said.
+
+“Not all of these initiatives are going to work, but the fact that they are 
+trying all of them should only be seen as a positive thing,” said Wardle.
+
+However, she is left with one major lingering request: “I really wish they 
+would hire an editor-in-chief.”
+ 

@@ -1,0 +1,39 @@
+
+The title of Alex Gibney’s new documentary about cyberwar 
+<https://www.theguardian.com/technology/cyberwar> has something apocalyptic 
+about it: a digital version of the Book of Revelations, perhaps. It’s actually 
+a technical term relating to malware developed in the last decade by the US and 
+Israeli security services. Analysts nicknamed it “Stuxnet”, though the 
+intelligence officers themselves gave their baby the creepy codename “Olympic 
+Games”.
+
+In 2010, the Americans succeeded in installing this device at Natanz, an 
+Iranian nuclear plant 
+<https://www.theguardian.com/world/2012/jun/01/obama-sped-up-cyberattack-iran>, 
+causing centrifuges to spin out of control. But the Iranians had cyberwarriors 
+on their own payroll and hit back with malware attacks on Bank of America, 
+among other American institutions. The malware itself grew like a toxic worm, 
+infecting other systems all over the world. As one interviewee puts it, there 
+is a “whiff of August 1945” about the Natanz attack – the first chapter in a 
+new history of warfare.
+
+
+Related: Alex Gibney on Stuxnet film Zero Days: 'We need laws for cyberweapons'
+ 
+<https://www.theguardian.com/film/2016/jul/08/alex-gibney-zero-days-cyberweapons-stuxnet>
+
+Gibney argues that cyber-attacks are the next big thing in war, and, despite 
+official denials, it is not just a matter of “hacking” or “spying” but complete 
+offensive capability. And, as in nuclear war, the experts emphasise the 
+American football distinctions between defence and offence. What Zero Days does 
+is make the case that cyber-aggression of nation states is a new form of 
+dangerous geopolitical dysfunction. Unlike nuclear or chemical weapons, which 
+have some kind of internationally enforceable inspection arrangements and 
+balances of power, cyberweapons are deniable and denied, protected by a new 
+kind of macho-geekery and silence.
+
+Zero Days is an intriguing, disturbing watch. And to return to the title, 
+there is another echo – of Lucy Walker’s nuclear weapons documentaryCountdown 
+to Zero <https://www.theguardian.com/film/2011/jun/23/countdown-to-zero-review>
+. We need some kind of cyber-nonproliferation treaty.
+ 

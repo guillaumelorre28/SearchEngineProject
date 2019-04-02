@@ -1,0 +1,188 @@
+
+Apple’s iOS <https://www.theguardian.com/technology/ios> 10 will begin hitting 
+iPhones, iPads and iPod touches on Tuesday, and it’s the biggest overhaul it 
+has had in years. Here are 10 things that have changed.
+
+1. Messages
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2fb3d0b4894399e5d464cc26d547fbd9ea0d9c77%2F0_0_3049_1830%2F3049.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple's%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple%27s%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F2fb3d0b4894399e5d464cc26d547fbd9ea0d9c77%2F0_0_3049_1830%2F3049.jpg>
+ iOS 10 Messages pushes iMessages in the direction of Facebook Messenger. 
+Photograph: Apple 
+Move over Snapchat and Facebook Messenger, Apple’s built-in Messages are now 
+fun. You can send stickers, “Tapback” reactions, transitions (think along the 
+the lines of magic ink) - animations, rich links, larger emojis and best of 
+all, “emojification” which looks at what you’ve written and allows you to tap 
+on words to substitute for emojis.
+
+You can also draw or write on the screen and use third-party apps directly 
+within Messages. It’s like Facebook Messenger but with end-to-end encryption.
+
+2. Notifications
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ff9ff78e49ce5fab196e585c701da003b7da5c033%2F0_0_3726_2208%2F3726.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple's%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple%27s%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Ff9ff78e49ce5fab196e585c701da003b7da5c033%2F0_0_3726_2208%2F3726.jpg>
+ iOS 10 gives notifications a much-needed overhaul. Photograph: Samuel Gibbs 
+for the Guardian 
+The biggest visual change to iOS 10 is the new rich notifications and quick 
+reply features that have made them much more useful. You no longer have to open 
+the app to view videos, photos and reply. All you have to do is tap on the 
+notification to launch the app or force press to popup a preview.
+
+You can also force press on the clear button in the notification shade to 
+clear all notifications, which, frankly, should have been there from the 
+beginning. Clearing them individually still requires a swipe and a tap on the 
+clear button, but you can delete emails straight from the expanded 
+notification, so that’s progress.
+
+3. Lockscreen
+
+Along with notifications, the lockscreen has been made more useful. The 
+widgets from the “today” pull-down can now be viewed with a swipe right on the 
+lockscreen. The same bunch of widgets is available on a swipe right on the home 
+screen, where Siri’s app suggestions used to be, with Siri’s suggestions moving 
+to a pull down on the home screen.
+
+You can also now set your phone to light up when you lift it. The raise to 
+wake makes accessing the widgets and notifications easier without accidentally 
+unlocking your phone with a home button press.
+
+4. Delete stocks (and other Apple apps)
+
+You can now “delete” Stocks and most other Apple 
+<https://www.theguardian.com/technology/apple> apps. It’s not truly gone, but 
+it is hidden and won’t appear on your home screen or launch when something 
+tries to activate it.
+
+Stocks: your days are numbered 
+<https://www.theguardian.com/technology/2016/jun/14/apple-wwdc-didnt-announce-apps-game-center-wake-alarm-macos>
+.
+
+5. Control Centre
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fb8cf884086c6b1a570840d9e77142d7331c9e5ed%2F0_0_2484_2208%2F2484.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple's%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple%27s%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2Fb8cf884086c6b1a570840d9e77142d7331c9e5ed%2F0_0_2484_2208%2F2484.jpg>
+ Control Centre is now spread over two panes. Photograph: Samuel Gibbs for the 
+Guardian 
+Now there are two panes to the Control Centre. The first shows the same quick 
+controls as before, apart from music, which has been moved to a second pane you 
+have to swipe over to. The music pane shows the app that’s playing something, 
+playback controls, volume and a drop-down to select the output device, say, if 
+you have a new set of Bluetooth headphones connected.
+
+Whichever pane you used last reappears the next time you swipe up to activate 
+Control Centre.
+
+6. More 3D Touch
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2F6495b4dd8fce39cc4529c39c9a3477de86d3e8ef%2F0_0_2070_1242%2F2070.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple's%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple%27s%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2F6495b4dd8fce39cc4529c39c9a3477de86d3e8ef%2F0_0_2070_1242%2F2070.jpg>
+ Force pressing on folders now pops up the app that’s currently demanding your 
+attention. Photograph: Samuel Gibbs for the Guardian 
+More of Apple’s apps have become 3D-touch enabled, while the whole system has 
+more gestures for the pressure-sensitive screens introduced with theiPhone 
+<https://www.theguardian.com/technology/iphone> 6S. Force pressing on the 
+Calendar app icon, for instance, pops up the calendar widget.
+
+Force pressing on a folder with apps with notifications in them now pops up a 
+list of the apps for quick access to the one that’s demanding your attention. 
+Force pressing the bottom row of Control Centre icons also pops up some quick 
+settings such as the intensity of the flash light, but not for the top row for 
+things like available Wi-Fi networks or Bluetooth devices.
+
+7. Apple Photos
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-6%23img-6&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fabf89956e1289cf739a759e9bf92420fc3bc0f2f%2F0_0_2211_1327%2F2211.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple's%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-6%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple%27s%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3Fpage%3Dwith%3Aimg-6%23img-6&media=https%3A%2F%2Fmedia.guim.co.uk%2Fabf89956e1289cf739a759e9bf92420fc3bc0f2f%2F0_0_2211_1327%2F2211.jpg>
+ iOS 10 Photos adds a bit of automated smarts into the mix, with face 
+recognition and similar common features. Photograph: Apple 
+Apple’s Photos now has many of the same features of rivals such as Google 
+Photos. Face, scene and object recognition is built in, as well as automatic 
+smart grouping for location, topics, trips, people and other activities. All 
+together its called Memories, but while Google Photos and others require photos 
+to be sent off for analysis, Apple has managed it on the device. The success of 
+such intelligent photo analysis remains to be seen.
+
+8. Apple Maps
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-7%23img-7&picture=https%3A%2F%2Fmedia.guim.co.uk%2F40726fdac68414b852b0e30ae9a19153ea1b1b5a%2F0_0_2208_1242%2F2208.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple's%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-7%23img-7>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple%27s%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3Fpage%3Dwith%3Aimg-7%23img-7&media=https%3A%2F%2Fmedia.guim.co.uk%2F40726fdac68414b852b0e30ae9a19153ea1b1b5a%2F0_0_2208_1242%2F2208.jpg>
+ Apple Maps is steadily improving with useful public transport and search 
+functions, but is still some way behind fan-favourites Citymapper and Google 
+Maps. Photograph: Samuel Gibbs for the Guardian 
+Apple Maps continues the long, hard slog to catch up to Google Maps. Now it 
+notifies of traffic and offers faster routes, pops up suggestions for nearby 
+places.
+
+It also looks cleaner and puts search front-and-centre, with quick route 
+selection, which is easy to use, particularly for places with public transport. 
+It may not be enough to attract die-hard Google Maps or Citymapper users, but 
+it’s certainly improving.
+
+9. Apple Music
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-8%23img-8&picture=https%3A%2F%2Fmedia.guim.co.uk%2F59a0317e34a17313c766a045594eacaa02412890%2F1051_170_3871_2324%2F3871.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple's%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-8%23img-8>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple%27s%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3Fpage%3Dwith%3Aimg-8%23img-8&media=https%3A%2F%2Fmedia.guim.co.uk%2F59a0317e34a17313c766a045594eacaa02412890%2F1051_170_3871_2324%2F3871.jpg>
+ Apple Music is now more usable and easy to navigate. Photograph: Apple 
+Apple Music has been described as difficult to use and unintuitive. For iOS 
+10, Apple has taken a step in the right direction.
+
+The music stored in the library is now a lot easier to get to, editing it is 
+simple and viewing downloaded-only music is now just a single tap on Downloaded 
+Music, not buried in a menu.
+
+Users have more control over what does and doesn’t get added to their music 
+library when adding playlists and what gets synced and downloaded between 
+devices. There’s also lyrics now for a bit of impromptu karaoke.
+
+10. Siri
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-9%23img-9&picture=https%3A%2F%2Fmedia.guim.co.uk%2F23110b9789d61de6840f49537bf6372882460d93%2F508_0_1525_1525%2F1525.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple's%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-9%23img-9>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=iOS%2010%3A%20the%20top%2010%20things%20you%20need%20to%20know%20about%20Apple%27s%20new%20iPhone%20and%20iPad%20software&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F13%2Fios-10-apple-new-iphone-ipad%3Fpage%3Dwith%3Aimg-9%23img-9&media=https%3A%2F%2Fmedia.guim.co.uk%2F23110b9789d61de6840f49537bf6372882460d93%2F508_0_1525_1525%2F1525.jpg>
+ Get me the hell out of here, Siri. Photograph: Apple 
+Siri can now be plugged into almost any app. It’s open for developers to build 
+in not only the talking aspects of Siri, but the machine intelligence behind 
+it. Siri will be able to handle more and more tasks from different apps and 
+services, which will be particularly useful for voice control of appliances 
+under HomeKit – there’s a whole new Home app – or sending messages from 
+third-party apps.
+
+Siri is also now baked into the QuickType keyboard for more intelligent 
+suggestions and contextual input, such as mentioning meetings in chat linked to 
+the Calendar app.
+
+iOS 10 will be available on 13 September for the iPhone 5 and newer, iPad 4 or 
+iPad mini <https://www.theguardian.com/technology/ipad-mini> 2 and newer and 
+the sixth generation iPod touch.
+
+ * Apple reveals waterproof iPhone 7 with new camera ... and no headphone jack 
+<https://www.theguardian.com/technology/2016/sep/07/iphone-7-apple-launches-new-waterproof-smartphones-camera-airpods-headphones>
+
+ * How waterproof are the iPhone 7, Samsung Galaxy S7 and smartwatches? 
+<https://www.theguardian.com/technology/2016/sep/08/how-waterproof-iphone-7-samsung-galaxy-s7-smartwatches>
+ * Want to listen to an iPhone 7 and charge it simultaneously? That’ll be £35 
+<https://www.theguardian.com/technology/2016/sep/09/iphone-7-listen-music-charge-adapter-headphones> 

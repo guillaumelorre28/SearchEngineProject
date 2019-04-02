@@ -1,0 +1,26 @@
+
+Eagle eyed Apple fans irritated by the absence of a 3.5mm headphone socket 
+<https://www.theguardian.com/technology/2016/sep/13/iphone-7-review-roundup-headphone-jack>
+ on the iPhone 7 Plus may have been somewhat appeased by signs of another 
+speaker in its place. The row of holes, giving the base of the phone a pleasing 
+symmetry, hinted at something going on inside.
+
+But a teardown by repair company iFixit has revealed the grille to be nothing 
+more than an aesthetic adornment.
+
+“Closer inspection shows a new, second lower speaker grille that leads … 
+nowhere? Interesting,” wrote iFixit in itsdocumentation of the teardown process 
+<https://www.ifixit.com/Teardown/iPhone+7+Plus+Teardown/67384>.
+
+A larger haptic feedback system, the so-called Taptic Engine, and a slightly 
+larger battery take up the space vacated by the now disavowed phone connector 
+socket. The second speaker in Apple’s stereo pair is simply the earpiece 
+speaker at the top of the phone.
+
+Which just leaves one other question: why you would drill more holes into the 
+bottom of a smartphone you’re trying to waterproof, for no apparent reason? 
+Only Sir Jony Ive knows the answer to that.
+
+ * Microsoft gets catty over Apple’s ‘iPad Pro is a computer’ claims 
+<https://www.theguardian.com/technology/2016/aug/17/microsoft-apple-ipad-pro-computer-voice-assistant>
+ 

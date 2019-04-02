@@ -1,0 +1,122 @@
+
+The US government has formally accused Russia 
+<https://www.theguardian.com/world/russia> of hacking the Democratic party’s 
+computer networks and said that Moscow was attempting to “interfere” with the 
+US presidential election.
+
+Hillary Clinton and US officials have blamed Russian hackers for stealing more 
+than 19,000 emails from Democratic party officials 
+<https://www.theguardian.com/us-news/2016/jul/23/dnc-emails-wikileaks-hillary-bernie-sanders>
+, but Friday’s announcement marked the first time that the Obama administration 
+has pointed the finger at Moscow.
+
+“We believe, based on the scope and sensitivity of these efforts, that only 
+Russia’s senior-most officials could have authorized these activities,” said 
+the office of the director of national intelligence and the Department of 
+Homeland Security (DHS)in a joint statement 
+<https://www.dni.gov/index.php/newsroom/press-releases/215-press-releases-2016/1423-joint-dhs-odni-election-security-statement>
+.
+
+The accusation marked a new escalation of tensions with Russia and came 
+shortly after the US secretary of state, John Kerry, called for Russia to be 
+investigatedfor war crimes in Syria. 
+<https://www.theguardian.com/us-news/2016/oct/07/syria-russia-war-crimes-inquiry-john-kerry>
+
+Vladimir Putin’s spokesman dismissed the accusation as “rubbish.” 
+
+“Every day Putin’s website gets attacked by several tens of thousand of 
+hackers. A lot of these attacks are traced to the territory of the USA, but we 
+do not blame the White House or Langley each time,” he told the Interfax news 
+agency.
+
+The Russian foreign ministry said Washington lacked any evidence for its 
+accusations, which were an attempt to fan “unprecedented anti-Russian hysteria”.
+
+The deputy foreign minister Sergei Ryabkov said: “This whipping up of emotions 
+regarding ‘Russian hackers’ is used in the US election campaign, and the 
+current US administration, taking part in this fight, is not averse to using 
+dirty tricks.”
+
+He said Moscow reiterated an offer to US officials, first made last year, to 
+hold talks on fighting cybercrime together.
+
+The White House declined to say whether the formal attribution would trigger 
+sanctions against Russia.
+
+
+The US agencies said that some US states had detected attempts to breach their 
+election systems, and that most of those attempts originated from servers 
+operated by a Russian company. “However, we are not now in a position to 
+attribute this activity to the Russian Government,” the statement said.
+
+The agencies said that the “decentralized nature” of the US voting systems, as 
+well the lack of connectivity between voting machines themselves, would protect 
+against Russian-sponsored electoral tampering.
+
+But they urged states across the country to seek additional cybersecurity aid 
+from the DHS. On Wednesday, the homeland security secretary, Jeh Johnson, said 
+that21 of the 50 states in the US had sought to improve cybersecurity 
+<http://www.politico.com/story/2016/10/dhs-official-half-of-us-states-have-sought-federal-election-help-to-thwart-hackers-229215>
+ at the voting booth thus far.
+
+Cozy Bear and Fancy Bear: did Russians hack Democratic party and if so, why?
+ Read more  
+<https://www.theguardian.com/technology/2016/jul/29/cozy-bear-fancy-bear-russia-hack-dnc>
+US intelligence and the Obama administration had concluded over the summer 
+that sophisticated Russian hackers wereresponsible for hacking the servers 
+<https://www.theguardian.com/us-news/2016/jul/26/russia-hackers-democratic-national-committee-email-leak>
+ of the Democratic National Committee (DNC) and leaking emails that embarrassed 
+senior Democratic officeholders.
+
+But for months, White House and other US officials have stopped short of 
+publicly accusing Putin’s government, a rhetorical reluctance that Republicans 
+have criticized and which has intensified a debate about how to deter digital 
+attacks.
+
+On Friday, both agencies went further than many expected, calling out not only 
+the Russian government but implying the transparency group WikiLeaks and others 
+involved in spreading the Democrats’ emails were Kremlin cutouts.
+
+The hack of the DNC’s computer systems was initially claimed by Guccifer 2.0, 
+who claimed to be an independent Romanian hacker, but who security analysts 
+have concluded was more likely to be the public persona of a Russian hacking 
+group.
+
+“The recent disclosures of alleged hacked e-mails on sites like DCLeaks.com 
+and WikiLeaks and by the Guccifer 2.0 online persona are consistent with the 
+methods and motivations of Russian-directed efforts,” the statement said.
+
+Over the past four months, websites including media outlets and WikiLeaks have 
+widely distributed information stolen not just from the campaigns of US 
+Democrats but of the World Anti-Doping Agency (Wada) and of the ruling party of 
+the Turkish government.
+
+The Wada hack 
+<https://www.theguardian.com/technology/2016/aug/22/russian-hackers-world-anti-doping-agency-dnc-hack-fancy-bear>
+ was perceived to have been launched in revenge against whistleblowing athletes 
+who revealed corruption among Russian anti-doping officials. An internal 
+investigation by Wada itself this week found that the leaked information had 
+been partially falsified before it was distributed.
+
+Security firms believe a single operation is behind the attacks into the 
+closed digital systems. The hacking group has been assigned different shorthand 
+names by different analysts – including the flamboyant moniker Fancy Bear – as 
+well as Advanced Persistent Threat (APT) 28 and the Sofacy group. Fancy Bear is 
+believed to be operating under the aegis of the GRU, Russia’s largest 
+intelligence service.
+
+A second group, codenamed Cozy Bear or CozyDuke, appears to have broken into 
+the DNC as well, but has not yet distributed whatever information it may have 
+retrieved. Cozy Bear is believed to be affiliated to the FSB, the Russian 
+intelligence agency most directly descended from the KGB.
+
+Democratic lawmakers had long pushed the administration to lay the blame for 
+the digital intrusion on the Kremlin’s doorstep.
+
+“I applaud the administration’s decision to publicly name Russia as the source 
+of hacks into US political institutions. We should now work with our European 
+allies who have been the victim of similar and even more malicious cyber 
+interference by Russia to develop a concerted response that protects our 
+institutions and deters further meddling,” said congressman Adam Schiff, the 
+senior Democrat on the US House intelligence committee.
+ 

@@ -1,0 +1,74 @@
+
+In the digital age, new technology is becoming an ever more important gateway 
+to lifelong learning.
+
+Most colleges and universities run their own virtual learning environment, 
+through which students can download course materials and communicate with their 
+tutors online. The majority of courses now include a digital component, giving 
+students the chance to work collaboratively through forums, blogs, wikis and 
+video conferencing. All of this, the institutions argue, makes for better 
+connection, improved access and increased flexibility – allowing students to 
+learn at a time and in a place that best suits them.
+
+The Open University (OU) has been using computers since 1969 to educate its 
+distance learners, many of whom work either part-time or full-time, and it now 
+has a policy that every student needs a computer. For more disadvantaged 
+students, the OU provides training and grants to help them buy a computer and 
+get online. "We try to make courses as easy as possible to access," says Niall 
+Sclater, OU director of learning innovation. "All you need is a web browser: if 
+you can buy a book on Amazon, you should be able to use our websites."
+
+The OU is at the forefront of technological change in using cloud computing as 
+a means of delivering education. Cloud computing is where a company or 
+institution, instead of building its own IT-infrastructure to host databases or 
+software, outsources these to a third party (such as Amazon or Google), which 
+hosts the services for you and provides storage. Individuals use the cloud as a 
+utility without really needing to understand where the service is coming from.
+
+Martin Bean, OU vice-chancellor, is a strong advocate of the system: "Cloud 
+computing allows users to get IT services and data over the internet using a 
+web browser, rather than running additional software on their own machines. In 
+practice this means that more educational services can be provided in the 
+cloud, reducing costs and improving service levels. This allows institutions to 
+scale up usage on demand, without having costly, under-utilised data centres."
+
+Instead of hosting its own email system, the OU now provides Google Apps 
+through the cloud server, so that all students get an account with Google that 
+is OU branded. As Sclater explains: "For us that reduces cost, and it's good 
+for the students because they get a better email system than we could maintain, 
+plus they don't need to buy [word processing] software because they can access 
+it through their web browser."
+
+Sclater anticipates moving more aspects of the OU's operation to the cloud – 
+for instance, its assessment system – as these become available. "What it means 
+for an institution like ours is reduced costs (and potentially lower fees), and 
+the ability to focus on our core business, which is educating students. At the 
+same time, everybody gets the latest, most up-to‑date services."
+
+Matt Dean, technical manager of the Association of Colleges, believes cloud 
+computing is an increasingly viable option. "The Association of Colleges, for 
+instance, currently has its own server – but if that crashes, we lose certain 
+forms of capacity. With a cloud, we would be less vulnerable, and there would 
+be more back-ups."
+
+But Dean has "real concerns" about data security in a cloud – "especially 
+because we are dealing with under-16s and vulnerable adults". For the OU, 
+Sclater says that Google hosts data under European or US data protection 
+legislation, "which we have deemed satisfactory".
+
+Dean also points to the need for substantial "change management" for an 
+institution to adjust to working with the cloud. "Colleges have to think 
+strategically about whether this makes sense for them," he says.
+
+In the future, Dean would like to see colleges offering more "blended 
+learning" courses, combining online learning with face-to-face tuition. More 
+innovative training is needed, he emphasises, to make sure that teachers as 
+well as students make the best use of the technology available.
+
+Reaching "informal learners" is another vital service that institutions can 
+offer through new technology, and the Open University's free learning resources 
+website, OpenLearn, has had more than 15.6 million visits. As Sclater 
+emphasises: "Part of our educational mission is to educate people throughout 
+the world freely, and encourage some of them to become formal learners, if 
+that's of interest to them."
+ 

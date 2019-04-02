@@ -1,0 +1,87 @@
+
+It has been thirteen months exactly since the suicide of Aaron Swartz 
+<https://www.theguardian.com/technology/aaron-swartz>, at the age of 26. It’s 
+not the roundest anniversary, but it’s the signal today for a global wave of 
+protests against ubiquitous online surveillance in the western world.
+
+Swartz was a hacker, in the old internet sense of the word. An unstoppable 
+need to create things led to his involvement in the creation of RSS, the 
+standard for creating web feeds which now underpins much of the mobile web; in
+Reddit <https://www.theguardian.com/technology/reddit>, the social news site, 
+which merged with his own company Infogami early in its life; and in Creative 
+Commons, the organisation which invented new forms of “copyleft” to let people 
+unambiguously free their creations from copyright controls.
+
+It was that last motivation which led to his downfall. Swartz had already had 
+trouble with the authorities after downloading and releasing more than 2.5m US 
+federal court documents from the PACER service, in an effort to make public 
+domain information actually public. While PACER charged $0.08 per page for 
+access to the documents, they weren’t restricted by copyright. The FBI 
+investigated Swartz, but ultimately decided not to prosecute.
+
+Two years later, however, he repeated the same trick, allegedly using MIT’s 
+computer network to download around 70GB of papers from academic database 
+JSTOR. While JSTOR is mainly an archive of older papers, the service does host 
+new research as well.
+
+But Swartz wasn’t just charged with copyright infringement. Instead, due to 
+the fact that he had apparently used a laptop connected to the physical 
+network, hidden in a wiring cupboard in the university, the charges were of 
+wire fraud, computer fraud, unlawfully obtaining information from a protected 
+computer and recklessly damaging a protected computer.
+
+Perhaps because they were smarting over their failure to find anything they 
+could stick him with over the PACER downloads, it seems the federal prosecutors 
+had little desire to let him off lightly.
+
+Darrell Issa, in charge of the US house of representative’s investigation of 
+the Justice Department’s prosecution of Swartz,told the Huffington Post that 
+<http://www.huffingtonpost.com/2013/01/15/darrell-issa-aaron-swartz-_n_2481450.html>
+ “overprosecution is a tool often used to get people to plead guilty rather 
+than risk sentencing… If someone is genuinely guilty of something and you bring 
+them up on charges, that’s fine. But throw the book at them and find all kinds 
+of charges and cobble them together so that they’ll plea to a ‘lesser included’ 
+is a technique that I think can sometimes be inappropriately used.”
+
+On January 11 2013, Swartz hanged himself. He left no note.
+
+The first of the NSA files <https://www.theguardian.com/world/nsa> were 
+released five months later. In the process, the conversation around civil 
+liberties changed. While Aaron Swartz didn’t live to see it, those who knew 
+him, such as David Segal, the executive director of US organisation Demand 
+Progress, say they have little doubt he would be “on the front lines fighting 
+against a world in which governments observe, collect, and analyze our every 
+digital action”.
+
+In 2012, Swartz was one of the guiding lights of the movement against a pair 
+of US laws, SOPA and PIPA, which threatened to damage the legal underpinning of 
+the internet, by potentially blocking access to any site which hosted user 
+generated content. That campaign saw sites likeWikipedia 
+<https://www.theguardian.com/technology/wikipedia> and Reddit black out their 
+pages for a day in protest.
+
+Two years on, the community is reunited. February 11 has become “the Day We 
+Fight Back”.
+
+In the UK, the protest was launched at 11:30 with a thunderclap 
+<https://www.thunderclap.it/>, a mass call on social media for wider opposition 
+to spying. That opening strike was supported by users including Owen Jones, 
+Graham Linehan, and Tom Watson MP, and was organised in co-operation with a 
+range of civil liberties organisations including Liberty, English PEN, Privacy 
+International, Article 19 and Big Brother Watch.
+
+The groups have together launched the Don’t Spy On Us 
+<https://www.dontspyonus.org.uk/org> campaign, calling on internet users across 
+the UK to support a six-point manifesto attempting to mitigate the damage 
+caused by GCHQ’s surveillance. Demands include no surveillance without 
+suspicion, an end to secret laws, a requirement for a right to redress, and 
+judicial rather than political authorisation for spying.
+
+The Fight Back campaign has garnered 120,000 signatures already, as well as 
+12,000 phone calls to elected officials. In Britain, it looks set to begin a 
+conversation which has been long overdue, addressing directly the question of 
+what the surveillance agencies can and can’t do.
+
+• Hacking of MIT website marks first anniversary of Aaron Swartz’s death 
+<https://www.theguardian.com/technology/2014/jan/11/aaron-swartz-death-first-anniversary>
+ 

@@ -1,0 +1,137 @@
+
+When Sidhant Pai visited a local rubbish dump in his home city of Pune, India 
+<https://www.theguardian.com/world/india>, he was struck by the size and 
+intensity of the operation. Large black crows swooping overhead, roaming pigs, 
+overwhelming odours and groups of waste pickers collecting plastic bottles in 
+large white sacks.
+
+There are an estimated 15 million people 
+<http://www.innovationseeds.eu/Network-Library/Core-Articles/Global-Alliance-Of-Waste-Pickers.kl>
+ globally who currently make their living from waste picking and many earn less 
+than a dollar a day. A key problem, says environmental engineer Pai, is that 
+workers only capture a tiny proportion of the value of the waste they collect, 
+separate and transport to scrap dealers.
+
+Together with his parents, Suchismita and Jayant Pai, he founded social 
+enterprise Protoprint in 2012, one of a number of organisations trying to 
+address the twin issues of poor conditions for waste pickers and plastic waste 
+pollution. More than  
+<https://www.theguardian.com/environment/2016/jan/24/plastic-new-epoch-human-damage>
+300m tonnes of plastic 
+<https://www.theguardian.com/environment/2016/jan/24/plastic-new-epoch-human-damage>
+ are produced globally every year, with much ending up in the ocean (onerefuse 
+truck’s worth every minute 
+<https://www.theguardian.com/business/2016/jan/19/more-plastic-than-fish-in-the-sea-by-2050-warns-ellen-macarthur>
+), in landfill, or on city streets.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQE1uHxIzU5E&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQE1uHxIzU5E>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQE1uHxIzU5E&media=>
+ ProtoPrint video 
+“Our focus was on looking into different ways to add value to the waste, we 
+were agnostic about the specific product,” Pai says. After experimenting with 
+making a few different products, Protoprint settled on making the plastic 
+filament – the “ink” –­ for 3D printers. “It added a tremendous amount of value 
+to the waste plastic while still being relatively simple to manufacture at the 
+dump.”
+
+Protoprint partnered with SWaCH, a Pune-based cooperative wholly owned by 
+waste pickers. Together they have set up a low-cost filament production 
+facility at a local rubbish dump in Pune operated by SWaCH waste pickers to 
+convert plastic waste – specifically high-density polyethylene (HPDE) mostly 
+used for plastic bottles – into 3D printing filament to eventually be sold to 
+Indian or international3D printing 
+<https://www.theguardian.com/technology/3d-printing> companies.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsustainable-business%2F2016%2Fnov%2F06%2F3d-printing-plastic-waste-poverty-development-protoprint-reflow-techfortrade%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F1cc6fd79b3eac1c0ebe5a574f23fed3c85b8c5f9%2F0_0_1328_720%2F1328.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Could%203D%20printing%20help%20tackle%20poverty%20and%20plastic%20waste%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fsustainable-business%2F2016%2Fnov%2F06%2F3d-printing-plastic-waste-poverty-development-protoprint-reflow-techfortrade%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Could%203D%20printing%20help%20tackle%20poverty%20and%20plastic%20waste%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fsustainable-business%2F2016%2Fnov%2F06%2F3d-printing-plastic-waste-poverty-development-protoprint-reflow-techfortrade%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F1cc6fd79b3eac1c0ebe5a574f23fed3c85b8c5f9%2F0_0_1328_720%2F1328.jpg>
+ Protoprint waste pickers. Photograph: Protoprint 
+Protoprint buys filament from SwaCH for 300 rupees (£3.50) per kg – if waste 
+pickers sold the plastic waste directly to scrap merchants the pickers would 
+receive around 19 rupees (23p) per kg, says Pai. “After factoring in the costs 
+of production and the various other expenses, there is still a six to eight 
+times multiplier per kilogram of filament,” he says.
+
+The market for filament, the majority of which is made from virgin plastic, is 
+growing rapidly. Areport 
+<http://www.marketsandmarkets.com/PressReleases/3d-printing-materials.asp> by a 
+leading markets analyst predicted the 3D printing materials market would grow 
+by nearly 266% over the next five years, to be worth £1.07bn by 2021.
+
+However, most of it is expensive because of production and export costs, says 
+William Hoyle, CEO ofTechforTrade <http://www.techfortrade.org/>. The British 
+charity is working to promote and standardise an ethical way for filament to be 
+made from the plastic collected by waste collectors.
+
+
+Ethical filament will be cheaper to buy than commercial filament, Hoyle says, 
+because waste plastic is free resource and production costs are lower in 
+developing countries.
+
+
+“The ethical filament standard is an open standard,” says Hoyle. “We see the 
+certification process happening in two ways. First, the social, environmental 
+and economic assessment would be done by the waste collection organisation ... 
+Second, the technical quality standard will be assessed by an independent third 
+party and we are in discussion with a specialist assessor that will undertake 
+this task.”
+
+Amsterdam-based ReFlow, a social enterprise based in the Netherlands, works 
+with one of TechforTrade’s printing partners in Tanzania, STICLab, on a pilot 
+project in Dar es Salaam.
+
+Co-founder Jasper Middendorp compares the potential of 3D printing to the 
+development of mobile banking or solar in Africa, both of which flourished 
+because infrastructure was broken.
+
+“Tanzania is highly import dependent and has very little of its own production 
+infrastructure,” he says, and 3D printing decentralises production without a 
+huge capital expense or a great deal of specialised knowledge. This, he says, 
+helps “make countries more self-sufficient instead of importing products from 
+abroad that may not be suited to the local context”.
+
+Previously supported by seed funding and the founders’ own money, ReFlow has 
+just closed off a Kickstarter campaign, raising €26,000 (£23,000) and plans to 
+launch the product in Amsterdam in February 2017. However, it is still working 
+on quality control. “We haven’t produced market quality filament yet,” says 
+Middendorp, “but we are hoping to do so within a month.”
+
+The quality of the filament made from recycled waste plastic is a challenge 
+for the whole 3D printing industry, says Pai. Protoprint’s pilot unit is 
+currently making filament but is not yet ready to sell to market as there are 
+problems with warping.
+
+
+3D printing and how it can revolutionise Australia’s remote communities
+ Read more  
+<https://www.theguardian.com/sustainable-business/2016/oct/06/3d-printing-and-how-it-can-revolutionise-australias-remote-communities>
+The company is working with a team of senior polymer scientists from the 
+National Chemical Laboratory to develop an additive for the filament to prevent 
+the warping issue, funded by a government grant.
+
+Protoprint says it currently has 4,000kg of pre-orders, mostly from small- and 
+medium-sized distributors based in the US, UK, Germany and India looking to 
+sample and test the filament. “We have not yet started commercial operations 
+and are working on improving our filament quality before we do so,” says Pai.
+
+Quality is not necessarily an insurmountable issue, says Thomas Birtchnell, a 
+lecturer at the University of Wollongong andauthor 
+<http://www.palgrave.com/us/book/9781137365651> of 3D Printing for Development 
+in the Global South. Much of the recycled filament is destined for “the open 
+source market for low-end products,” he says, “they may not look glamorous but 
+they are still functional products that can be used in development contexts”.
+
+The greatest potential 3D printing offers the developing world is not for the 
+products made, but for “putting the means of production into the hands of the 
+local people”, says Jeremy Faludi, a sustainable design strategy consultant and 
+teacher at the Minneapolis College of Art and Design. The market for ethical 
+filament is a small one, he adds, but “if the quality can match virgin filament 
+at a similar price point, then it can be a large market. As with all things in 
+sustainability, customers like the story, they’re just not willing to pay more 
+for it.”
+ 

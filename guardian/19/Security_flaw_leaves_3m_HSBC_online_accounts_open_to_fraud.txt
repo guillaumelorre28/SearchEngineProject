@@ -1,0 +1,71 @@
+
+One of Britain's biggest high street banks has left millions of online bank 
+accounts exposed to potential fraud because of a glaring security loophole, the 
+Guardian has learned.
+
+The defect in HSBC's online banking system means that 3.1 million UK customers 
+registered to use the service have been vulnerable to attack for at least two 
+years. One computing expert called the lapse "scandalous".
+
+The discovery was made by a group of researchers at Cardiff University, who 
+found that anyone exploiting the flaw was guaranteed to be able to break into 
+any account within nine attempts.
+
+Yesterday, after being alerted, HSBC said: "We are always seeking to upgrade 
+our online security and we will examine the issues raised here very closely."
+
+The Cardiff researchers are planning to publish full details in security 
+journals this year, but decided to go public. "There are serious issues here," 
+said Professor Antonia Jones, the computer scientist who led the research team. 
+"Banks are in the business of safeguarding your money, and if they tell you 
+that it's safe then you assume that's the case. But as long as this flaw 
+exists, customers are at risk. For banks or institutions that are making huge 
+amounts out of their customers not to protect them is pretty scandalous."
+
+Richard Clayton, an internet security expert at Cambridge University, said 
+many people may be affected. "If somebody could automate this process, they 
+would be able to compromise this information in a range of ways. In my view it 
+is clueless, and what's more, incredibly easy to fix."
+
+The flaw, which is not being detailed by the Guardian, revolves around the way 
+HSBC customers access their web-based banking service. Criminals using 
+so-called "keyloggers" - readily available gadgets or viruses which record 
+every keystroke made on a target computer - can easily deduce the data needed 
+to gain unfettered access to accounts in just a few attempts.
+
+Other banks use a different system, which researchers say is more secure.
+
+Although it is reassessing its security arrangements, HSBC sought to play down 
+the seriousness of the lapse, describing it as a "supposed flaw", and pointing 
+out that it suffers less fraud than most banks. The spokesman said: "HSBC would 
+be very interested to hear any expert commentary on the security of its 
+personal internet banking service. However, in this instance the supposed flaw 
+uncovered is not one we have seen criminals use. It is an extremely 
+sophisticated attack that would require a particular and time-consuming focus 
+on one individual victim. It is therefore not likely to be a profitable way for 
+criminals to behave.
+
+"Online fraud via HSBC's internet banking system is substantially lower than 
+the market average and we are satisfied our customers are adequately protected."
+
+Far from requiring a sophisticated hacking operation, however, the Cardiff 
+team believes hackers could access accounts with ease once the loophole is 
+spotted. "You will most likely get in within five attempts, and definitely 
+within nine," Professor Jones said. A hacker would be able to change the 
+account information and address, transfer money or arrange big bank loans - and 
+even get up to £2,000 in any currency delivered immediately to any address in 
+the world, thanks to a new scheme aimed at holidaymakers.
+
+Although a keylogger would need to be installed on a computer to exploit the 
+fault, most common computer viruses now include such components, and they exist 
+on millions of PCs worldwide.
+
+Keyloggers have even been used to conduct corporate hacking attacks. Last year 
+a gang was foiled in an attempt to steal £220m from the London offices of 
+Japanese bank Sumitomo Mitsui. The abuse of personal banking details cost an 
+estimated £140m last year, according to payment industry body Apacs.
+
+· September 21, letters: Dyfrig John, Chief Executive of HSBC Bank: Security 
+is strong for online banking 
+<https://www.theguardian.com/letters/story/0,,1877071,00.html>.
+ 

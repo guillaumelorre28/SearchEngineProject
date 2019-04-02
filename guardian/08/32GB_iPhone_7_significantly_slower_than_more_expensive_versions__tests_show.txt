@@ -1,0 +1,74 @@
+
+Not all iPhone <https://www.theguardian.com/technology/iphone> 7s are born 
+equally, according to new tests, which appear to show the cheapest, 32GB 
+versions are significantly slower than the more expensive 128 or 256GB versions 
+and that some have much poorer 4G reception.
+
+
+Testing by both GSMArena 
+<http://www.gsmarena.com/the_32gb_iphone_7_plus_uses_a_substantially_slower_storage_our_tests_show-blog-20943.php>
+ andUnbox Therapy <https://www.youtube.com/watch?v=qW2-TIbcTIg> found that the 
+speed of the storage within the 32GB iPhone 7 is significantly slower than that 
+in the more expensive 128GB iPhone 7. Reading data from the storage of the 32GB 
+version of the iPhone 7 was 200MBps slower than the 128GB version, 656MBps and 
+856MBps respectively. The difference in read speed over 600MBps is unlikely to 
+be noticeable in day-to-day usage.
+
+However, writing to the storage – saving data including photos, videos, music, 
+apps or any other type of file – was found to be significantly slower on the 
+32GB iPhone. The 128GB iPhone 7 wrote to memory at 341MBps, but the 32GBiPhone 7
+ <https://www.theguardian.com/technology/iphone-7> was over eight times slower 
+at just 42MBps.
+
+GSMArena found similar results 
+<http://www.gsmarena.com/the_32gb_iphone_7_plus_uses_a_substantially_slower_storage_our_tests_show-blog-20943.php>
+ in its testing of the iPhone 7, with a 32GB iPhone 7 Plus reaching write 
+speeds of only 39.6MBps compared with a 128GB iPhone 7 writing at speeds of 
+308MBps.
+
+Meanwhile, testing of different versions of the iPhone 7 Plus have also 
+apparently revealed discrepancies in their cellular performances. According to
+New York-based Cellular Insights <http://cellularinsights.com/iphone7/>, which 
+conducted tests using networking equipment, the iPhone 7 Plus smartphones with 
+model numbers A1778 and A1784, including those available in the UK and Europe, 
+performed noticeably poorer than those with model numbers A1660 and A1661, 
+including those available in the US.
+
+A1778 and A1784 iPhone 7 Plus smartphones have an Intel modem chip that 
+connects them to the 4G network, while the A1660 and A1661 models use a modem 
+supplied by Qualcomm, a common supplier of modems and processors to many 
+Android smartphones, including the new Google Pixel.
+
+The Intel iPhone 7 Plus models showed at least 30% worse network performance, 
+and in some cases as poor as 75% worse, than the Qualcomm iPhone 7 Plus models. 
+This performance gap means that the Intel iPhone 7 Plus models will have poorer 
+4G reception than the Qualcomm versions and slower download and upload speeds.
+
+Milan Milanović from Cellular Insights said 
+<http://cellularinsights.com/iphone7/>: “In all tests, the iPhone 7 Plus with 
+the Qualcomm modem had a significant performance edge over the iPhone 7 Plus 
+with the Intel modem. We are not sure what was the main reason behind Apple’s 
+decision to source two different modem suppliers for the newest iPhone.”
+
+In Cellular Insights further testing, it showed that the Intel iPhone 7 Plus 
+models had worse reception than the iPhone 6S in the majority of signal 
+conditions.
+
+Most of the time users blame mobile phone operators when the signal drops out 
+on their smartphone or data speeds are slow, but the testing indicates that 
+depending on smartphone model, it might not always be the fault of the network 
+provider.
+
+Apple <https://www.theguardian.com/technology/apple> did not reply for request 
+for comment.
+
+• iPhone 7 review: how good can a phone be if the battery doesn’t last even a 
+day? 
+<https://www.theguardian.com/technology/2016/sep/23/iphone-7-review-poor-battery-life>
+
+• iPhone 7 Plus review: 2014 called – it wants its phablet back 
+<https://www.theguardian.com/technology/2016/oct/03/iphone-7-plus-review-apple-newest-smartphone-phablet>
+
+• This article was amended on 25 October 2016 to correct references to Mbps to 
+MBps.
+ 

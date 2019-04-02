@@ -1,0 +1,76 @@
+
+The Massachusetts Institute of Technology has released a long-awaited review 
+of its involvement in the prosecution of Aaron Swartz, who was facing charges 
+for hacking into the university's computers when hekilled himself 
+<https://www.theguardian.com/technology/2013/jan/12/aaron-swartz-hacking-reddit-dies>
+ in January.
+
+The 182-page report 
+<http://swartz-report.mit.edu/docs/report-to-the-president.pdf> finds that 
+school officials did not request federal prosecution of Swartz, and that MIT 
+was not consulted about the charges or punishment, but it also questions the 
+school's decision not to intervene in court proceedings.
+
+Swartz had been federally indicted on 13 felony charges at the time of his 
+death and was facing up to $1m in fines and 35 years in jail for downloading 
+several million academic articles from the JSTOR database through the MIT 
+computer network. The aggressive prosecution wasroundly criticized 
+<https://www.theguardian.com/technology/2013/jan/13/aaron-swartz-family-mit-government>
+ following his death.
+
+"I am confident that MIT's decisions were reasonable, appropriate and made in 
+good faith," said MIT president L Rafael Reif in astatement 
+<http://swartz-report.mit.edu/docs/letter-from-president-reif.pdf> (pdf). He 
+said the report also makes clear that the school did not "target" Swartz.
+
+According to the report, MIT administrators did not know Swartz was the person 
+who had hacked into their networks until his arrest on 6 January 2011. The 
+school also did not intend to "call in the feds" to take over the 
+investigation, saying the presence of a secret service agent at his arrest was 
+not their intention, "but a recognized possibility," when they alerted 
+authorities that its network was compromised.
+
+The school said it did not request a criminal prosecution be brought against 
+Swartz and adopted a neutral position early in the prosecution. Though they 
+issued no public statements, "MIT did inform the prosecution that it was not 
+seeking punishment for Swartz, and it did inform the defense that it was not 
+seeking any civil remedy from him."
+
+"MIT took the position that US v Swartz was simply a lawsuit to which it was 
+not a party, although it did inform the US attorney's office that the 
+prosecution should not be under the impression that MIT wanted jail time for
+Aaron Swartz <https://www.theguardian.com/technology/aaron-swartz>. MIT did not 
+say it was actually opposed to jail time," the report said.
+
+According to the report, prior to his death, "the MIT community paid scant 
+attention" to Swartz's prosecution and few people expressed concerns to the 
+administration about the case. However, Swartz's father, a consultant to the 
+MIT lab and former student there, asked MIT to aid efforts to have the charges 
+dropped or to get a plea deal that would not have jail time. Two faculty 
+members advocated a similar appeal.
+
+In choosing the position of neutrality, the report says the school did not 
+consider Swartz's contributions to internet technology and was not critical 
+enough of the US government's "overtly aggressive prosecution." MIT also did 
+not account for Swartz's prosecution under theComputer Fraud and Abuse Act 
+<https://www.theguardian.com/commentisfree/2013/mar/20/computer-fraud-abuse-act-law-technology>
+, which the report called " a poorly drafted and questionable criminal law." 
+That lawhas been widely criticised 
+<https://www.theguardian.com/technology/2013/jan/24/hacking-us-government-cyber-crackdown>
+ since Swartz's death.
+
+"MIT's position may have been prudent, but it did not duly take into account 
+the wider background of information policy against which the prosecution played 
+out and in which MIT people have traditionally been passionate leaders," it 
+concludes.
+
+Reif asked computer science professor Hal Abelson to lead a review the 
+school's involvement in his prosecution in January with assistance from other 
+members of the MIT staff. The group consulted 10,000 documents and conducted 
+interviews with 50 people to assess the school's involvement in the case.
+
+"Only Swartz knows why he committed suicide," the report said. "However, for 
+the final 24 months of his life, he was the subject of a vigorous investigation 
+and prosecution by the US Department of Justice, with an indictment and then a 
+superseding indictment that could have resulted in years in prison."
+ 

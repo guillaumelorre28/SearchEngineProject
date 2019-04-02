@@ -1,0 +1,135 @@
+
+The perceived wisdom is that Uber <https://www.theguardian.com/technology/uber>
+ has disrupted taxis and that private automobiles are next, but what if we’ve 
+misread what is happening in our cities?
+
+Traditional thinking would suggest that UberPool, which allows users to split 
+the cost of trips with other Uber riders heading in the same direction, will 
+always be inferior to public transport. Sitting in the backseat of a Prius may 
+be more comfortable than standing on a crowded bus or train, continues this 
+reasoning, but carpooling can’t substitute for mass transit at rush hours 
+without massively increasing congestion.
+
+
+This is wrong. In the last six months, Uber has begun offering shared rides 
+for as little as $1 
+<https://newsroom.uber.com/us-dc/introducing-the-uberpool-monthly-ride-pass/> 
+(81p), introducedoptimised pickup points 
+<https://www.cnet.com/news/uber-app-update-radical-redesign-travis-kalanick/> 
+that algorithmically recreate bus stops, and started testing semi-autonomous 
+vehicles it hopes will solve itsincreasingly contentious 
+<https://www.theguardian.com/technology/2016/dec/14/uber-appeals-against-ruling-that-its-uk-drivers-are-employees>
+ labour issues.
+
+Never mind the black cabs; Uber is out to disrupt the bus.
+
+
+From loss-making to profitable monopoly
+
+Its principal weapon is not renegade AVs 
+<http://www.recode.net/2016/12/14/13962698/uber-dmv-self-driving-cars-stop-order>
+ or all-knowing algorithms; it’s cash. Back-of-the-envelopecalculations 
+<http://www.nakedcapitalism.com/2016/11/can-uber-ever-deliver-part-one-understanding-ubers-bleak-operating-economics.html>
+ suggest Uber’s passengers pay only 41% of the true cost of each ride – a 
+figure sincechallenged 
+<https://twitter.com/EricNewcomer/status/804470167899996160> for mistakenly 
+including now-staunched losses in China.
+
+
+Still, the figures raise red flags about Uber’s strategy: is losing $3bn 
+annually 
+<https://www.bloomberg.com/news/articles/2016-12-20/uber-s-loss-exceeds-800-million-in-third-quarter-on-1-7-billion-in-net-revenue>
+ the sign of a sustainable business, or the product of predatory pricing? “Uber 
+is wildly unprofitable,” tweeted the economist Justin Wolfers, “[which] suggest 
+that prices will rise once they’ve succeeded at monopolising the industry.” 
+Perhaps to his credit, Uber CEO Travis Kalanick has never denied this.
+
+Uber appeals against ruling that its UK drivers are workers
+ Read more  
+<https://www.theguardian.com/technology/2016/dec/14/uber-appeals-against-ruling-that-its-uk-drivers-are-employees>
+The most important question surrounding Uber is not whether it is a platform 
+or a transportation company, or whether its drivers are employees. It’s whether 
+it can only recoup its investors’ billions by building a monopoly (or at least 
+duopoly with Lyft) on the ruins of public transportation – and it may not take 
+much to tear it all down.
+
+In Washington DC a vicious cycle of declining ridership and service on the 
+city’s Metro culminated in last spring’s “Metropocalypse” – a system-wide 
+shutdown followed by a year’s worth of emergency repairs requiring the closure 
+of entire lines for weeks at a time.
+
+Stranded commuters abandoned transit in droves while Uber, Lyft and other 
+services pounced, offering shared rides priced below the cost of a Metro 
+ticket. Unsurprisingly, Metroridership has plunged 
+<http://patch.com/district-columbia/washingtondc/dc-metro-ridership-takes-huge-plunge-2016-wmata-31-million-rides>
+, creating a $67m shortfall in its budget.
+
+
+London’s fare surge
+
+This week’s London tube strike was a harbinger of what comes next, with 
+stranded riders reporting Uber fare surcharges ashigh as 450% 
+<https://www.buzzfeed.com/saraspary/uber-defends-charging-customers-500-more-for-cars?utm_term=.iu7EQGX7OM#.ueE2y9lq4E>
+. As a spokesperson explained, “without this pricing, there would simply be no 
+cars available”. Meanwhile, the number of licensed private-hire vehicles in 
+London has nearly doubled from 59,000 in 2010 to more than 110,000 by the 
+middle of 2016.
+
+
+Ride-sharing and autonomous vehicles could prove to be an especially 
+combustible mix if and when the technology is perfected. The Boston Consulting 
+Grouppredicts 
+<https://www.bcgperspectives.com/content/articles/transportation-travel-tourism-automotive-will-autonomous-vehicles-derail-trains/>
+ a shared AV carrying three people could cost operators less on a per-mile 
+basis than rail.
+
+Passengers at the edge of the network would presumably be the first to defect 
+for convenience, triggering shocks throughout the balance sheet. Even a modest 
+decline in numbers, BCG argues, could tip well-managed transit systems into the 
+red.
+
+Support for public transport
+
+So what are cities to do about the would-be disruptors tunnelling 
+<http://arstechnica.com/cars/2016/12/elon-musk-hates-sitting-in-traffic-so-now-hes-going-to-build-tunnels/>
+ into their transit systems? First, do no harm. As the US magazine Slate
+recently noted 
+<http://www.slate.com/articles/business/metropolis/2016/12/cities_are_cutting_transportation_service_because_they_think_uber_will_fill.html>
+, cities across America are partnering with Uber to strengthen weak transport 
+links and then using its looming inevitability as an excuse to not improve 
+their own service. Diverting funds to pay for blanket subsidies will only 
+hasten the public system’s implosion.
+
+That said, one of the rich ironies on US election day was voters’ embrace 
+<https://nextcity.org/daily/entry/vote-transit-bills-2016-election> of public 
+transport in sprawling cities such as Atlanta, Seattle and Los Angeles.
+
+While LA Metro builds new rail lines, the city’s Department of Transportation 
+has commissioned its owntrip-planning app <http://golaapp.com> from Xerox, 
+receives traffic snapshots from Waze andis exploring 
+<http://www.urbanmobilityla.com/strategy/> how best to combine various modes 
+such as buses, bike-sharing and electric car-sharing to build a seamless system 
+greater than the sum of its parts.
+
+
+Los Angeles’ efforts trail more ambitious experiments in Helsinki, Hanover, 
+Manchester and Birmingham, all of which are dabbling with 
+“mobility-as-a-service” – monthly transport subscriptions combining car-sharing 
+and taxi rides, for example, with unlimited public transport. The hope is to 
+retain riders and woo residents away from their cars (and Uber) by making the 
+whole of these services greater than the sum of their parts.
+
+
+My own recommendations <http://bit.ly/NCFConnectedMobility> [pdf] are that 
+simply banning Uber won’t work, and neither will battling its labour practices 
+in court. Staving off disruption will require leveraging every tool at cities’ 
+disposal, including lane access, parking regulations and incentives to shift 
+the peak of rush hours commutes, to create communities that are at their best 
+when served by mass transit – and could never be built around a million Ubers.
+
+Sign up to be a Guardian Sustainable Business 
+<https://register.theguardian.com/sustainable-business/> member and get more 
+stories like this direct to your inbox every week. You can alsof 
+<https://twitter.com/GuardianSustBiz>ollow us on Twitter 
+<https://twitter.com/GuardianSustBiz>.
+ 

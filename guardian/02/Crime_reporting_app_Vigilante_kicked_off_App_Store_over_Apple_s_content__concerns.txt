@@ -1,0 +1,97 @@
+
+It’s quite hard to tell whether the Vigilante app is a functioning business or 
+a teaser for a new episode of dystopian sci-fi seriesBlack Mirror 
+<https://www.theguardian.com/tv-and-radio/black-mirror>. 
+
+Launched in New York last week, it’s designed to alert nearby users whenever a 
+crime is reported to 911. Users can use that information to avoid the danger 
+area – or go and film it with their smartphone to broadcast the unfolding crime.
+
+“What if everyone within a quarter mile of every reported crime were 
+immediately made aware of it. What if there were a camera on every crime. What 
+if transparency existed – if we all knew where crime was occurring and how it 
+was being resolved. Would crime as we know it still exist?” asks the company in 
+aMedium post 
+<https://medium.com/@CrimeNoMore/vigilante-manifesto-e665696a4ebb#.zhytbh12v> 
+announcing the app’s launch.
+
+The app, created by a company called Sp0n <http://www.sp0n.com/> (its sparse 
+website says it makes “disruptive consumer mobile apps”) was swiftly kicked off 
+the App Store by Apple, which had “concerns” about its content, according to a 
+note on Vigilante.Live.
+
+The developers believe that opening up crime reporting in this way empowers 
+people. “The closed system excludes the community while the open system informs 
+and empowers citizens,” it says.
+
+At the heart of Vigilante is the belief that mass surveillance makes the world 
+a better, fairer place through the rhetorical question: can injustice survive 
+transparency?
+
+“The lens of the camera is incapable of lying. When we are able to look at a 
+situation from multiple angles, the truth emerges. Transparency is the single 
+most powerful tool against crime and injustice, and we believe it will rebuild 
+cooperation towards a shared vision. Cooperation, in turn, will lead to safer 
+communities, better cities, and a stronger nation.”
+
+It’s a utopian vision, but one that’s a little confused. On one hand Vigilante 
+talks about restoring trust between law enforcement and the community, which 
+suggests that video streaming could help document and prevent police brutality. 
+Yet on the other hand, it’s precisely the kind of tool that could be abused to 
+intimidate and harass innocent minorities with the kind ofracial profiling that 
+became rampant on the Nextdoor app 
+<http://www.nytimes.com/2016/05/19/us/website-nextdoor-hears-racial-profiling-complaints.html>
+.
+
+“It raises all these questions around consent and sharing,” said Sam Gregory, 
+programme director of Witness, which trains and supports activists to document 
+human rights violations.
+
+He is concerned about the framing of the app, down to the name and promotional 
+materials. “Vigilantism is a very different idea to being an ethical witness to 
+what’s happening,” he said.
+
+Vigilantism is a very different idea to being an ethical witness to what’s 
+happening
+Sam Gregory 
+“These types of tools tend to have racial bias and only focus on very visible 
+incidents. Things you can see in the street, as we saw with Nextdoor and
+Sketchfactor 
+<https://www.theguardian.com/cities/2014/aug/12/sketchfactor-city-app-sparks-accusations-of-racism>
+,” he said. In this way, the app encourages the public incrimination of 
+innocent-until-proven-guilty people at the scene.
+
+The lens of the camera may be incapable of lying, but there’s always bias in 
+the selection of subject matter. When untrained bystanders start to make 
+judgment calls over who is at fault, there’s broad scope for miscarriage of 
+justice. He citesresearch 
+<https://lab.witness.org/projects/transgender-violence/executive-summary/> into 
+the filming of violence against transgender people and how it is shared and 
+engaged with online as entertainment.
+
+“There’s a tradeoff between visibility of a crime and making people who didn’t 
+want to be on camera into a public spectacle,” he said.
+
+At the same time, smartphone-equipped vigilantes could find themselves 
+escalating a situation the police could have dealt with easily or putting 
+themselves in danger.
+
+As the New York police department told the Verge 
+<http://venturebeat.com/2016/11/01/apple-removes-vigilante-live-crime-alert-tool-from-the-app-store/>
+, “Crimes in progress should be handled by the NYPD and not a vigilante with a 
+cellphone.”
+
+Apple doesn’t comment on individual decisions, but the App Store has strict 
+rules <https://developer.apple.com/app-store/review/guidelines/> about 
+user-generated content apps to prevent abuse or bullying. The company also 
+rejects apps if they risk physical harm, which could be possible if a load of 
+vigilantes took their pitchforks to a crime scene.
+
+“Our core mission is empowering communities with technology to create safer 
+neighborhoods,” a Sp0n spokeswoman said in a statement.
+
+“The team is working with Apple <https://www.theguardian.com/technology/apple> 
+to resolve the issue and they are confident the app will be made available in 
+the near future. Vigilante will introduce an Android version of the app in the 
+upcoming weeks with plans to expand in additional cities later this year.”
+ 

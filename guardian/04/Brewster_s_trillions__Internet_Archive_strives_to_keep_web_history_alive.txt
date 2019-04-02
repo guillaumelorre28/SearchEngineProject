@@ -1,0 +1,131 @@
+
+In an era of information overload and ephemera, where an online sensation may 
+last all of five minutes, word is spreading that the internet has a memory, and 
+its name is notGoogle <https://www.theguardian.com/technology/google>.
+
+Even more surprising, it has a physical address: 300 Funston Avenue, Richmond, 
+San Francisco <https://www.theguardian.com/us-news/san-francisco>. It is a 
+sleepy, unremarkable street, until you come to an imposing, neo-classical 
+building with Greek pillars, heavy metal doors and a flag of the world planted 
+on the lawn.
+
+Step inside, and the first thing you see at reception is a heap of 
+newly-delivered boxes containing hard-disk drives, each capable of storing 4 
+trillion bytes of information. Follow the humming sound up a flight of stairs 
+and you encounter rows of machines, lights blinking, methodically hoovering up 
+humanity's knowledge. This is theInternet 
+<https://www.theguardian.com/technology/internet> Archive.
+
+"Our mission is universal access to all information all of the time," said 
+Rick Prelinger, president of the board. "We are part of the infrastructure of 
+the web. We are the web's memory."
+
+The Internet Archive, a non-profit, is the digital equivalent of the ancient 
+library of Alexandria, a burgeoning hoard of websites, video, film and music 
+which could otherwise be lost. It currently holds 281bn webpages, or URLs, and 
+each month adds billions more. It also captures and stores books, journals, 
+YouTube clips and cable news. Long revered by scholars, techies and librarians, 
+the Archive's fame is now spreading among ordinary people,drawing more than a 
+thousand hits per second <http://archive.org/> to its website. Many, however, 
+remain unaware of its existence, and as he gave a tour to the Guardian, 
+Prelinger said:
+
+I'm tremendously surprised that there are not more internet archives. It's the 
+medium of our time but there is an ethos of ahistoricity. We're trying to 
+negate that.
+
+The organisation, which was co-founded in 1996 by Brewster Kahle, an internet 
+pioneer and entrepreneur, considers its mission to be increasingly urgent. 
+Technological, economic and political pressures devour digital information, 
+just as termites – once dubbed the "teeth of time" – chomped through ancient 
+libraries. Disks fade and warp, destroying information. Businesses go bust, or 
+evolve, and in the process shed much if not all of their digital archives. 
+Governments and institutions like to delete information that becomes 
+inconvenient or embarrassing, leaving 404 error messages where once were pages.
+
+"During the Iraq war the [Bush] White House quietly took down some of its 
+earlier press releases. But we had them," said Prelinger, whose speciality is 
+archiving film. "Digital information is part of our cultural heritage but it's 
+tremendously volatile. It's fragile." Storing it is not just an act of 
+historical preservation, he says, but a means to hold institutions accountable. 
+"We want to help keep the internet honest and safe and defend it from 
+ignorance."
+
+'Philosophical allies'
+ Aaron Swartz, the internet activist and developer of Reddit, who died in 
+January. Photograph: Fred Benenson /creativecommoners/flickr 
+Philosophical allies include www.wikimedia.org <http://www.wikimedia.org/>, 
+Mozilla, the free software community, theElectronic Frontier Foundation 
+<https://www.eff.org/>, a digital rights advocacy group, and the internet 
+activist Aaron Swartz, until his death in January 
+<http://www.guardian.co.uk/technology/2013/jan/13/aaron-swartz>.
+
+Google is not on the list. It is a marvel, said Prelinger, but tilts search 
+results. "Its algorithms are not public. We don't know why we're seeing what 
+we're seeing and we don't know what we're not seeing. Google knows your profile 
+and adjusts accordingly. They want to sell you ads. We're not Google. We're a 
+library."
+
+Staff held a party last October to celebrate a milestone: 10 petabytes – 
+equivalent to about 10 billion books – archived. Librarians and scholars 
+acclaim the Archive's workers as "heroes" and "rock stars", but staff members 
+are likelier to call themselves geeks and nerds. They joke about kilowatt 
+consumption and meta-data replication.Some take part of their pay in Bitcoin 
+<http://www.guardian.co.uk/commentisfree/2013/apr/03/bitcoin-currency-bubble-crash-not-rocking-financial-markets>
+ and have persuaded the neighbouring Chinese restaurant to accept the currency. 
+There is a growing throng of half-size terracotta statues depicting workers 
+with more than three years service. The Wayback Machine, a searchable online 
+museum of billions of web pages dating from 1996, is named after a segment in 
+The Rocky and Bullwinkle cartoon show.
+
+Kahle, a computer scientist who made a fortune in the 1990s with tech 
+ventures, including Alexa Internet,dreamed of a Great Library of Alexandria 2.0 
+since he studied at MIT 
+<http://www.sfgate.com/news/article/Brewster-Kahle-s-Internet-Archive-3946898.php>
+. The archive's first headquarters was in the nearby Presidio district. In 2009 
+it moved into a former Christian Science church on Funston Avenue; its pillars 
+and facade evoke antiquity.
+
+About 50 staff work here and another 100 work elsewhere in the bay area and in 
+32 scanning centres, usually in libraries, around the world. The centres 
+digitise books, microfilm and regular film. Automation proved imprecise so it 
+is done manually, each worker processing 800 to 1000 pages per hour. This 
+labour means material such as Boston's John Adams Library, the Hoover archive 
+and the 1930 US census are now online and free. Institutions such as government 
+agencies, libraries and universities, many outside the US, pay modest fees for 
+special requests.
+
+The archive has also stored 750,000 actual books at a nearby 
+climate-controlled storage unit, a literary equivalent of the Svalbard global 
+seed vault.There is space for another 780,000 
+<http://www.guardian.co.uk/books/2011/aug/01/internet-archive-books-brewster-kahle?INTCMP=SRCH>
+.
+
+Engineers "crawl" the world's top million websites, capturing and storing 
+pages which link to other pages which are captured and stored. Every three 
+months they start over, because the list of top million sites constantly 
+changes. An average web page lasts 75 days. In 2009, they raced against the 
+clock to save as much as they could of the web-hosting service GeoCities, before
+Yahoo <https://www.theguardian.com/technology/yahoo> shut it down. If the owner 
+of a defunct website prefers that the pages remain dead, he or she can ask the 
+archive to remove them, requests that are almost always granted.
+
+Engineers also collect news from more than 60 TV stations worldwide and YouTube
+ <https://www.theguardian.com/technology/youtube> videos, selecting the latter 
+according to Twitter mentions. "It's not perfect but tweets give us an idea of 
+what people consider important," said Alexis Rossi, the web collections 
+manager. She estimated that the 10bn URLs saved each every three month cycle 
+represented – very, very roughly – about a 10th of the internet's output:
+
+It's a Sisyphean task. We know we'll never get it all. The web by its nature 
+is infinite.
+
+The archive's three bay area data centres use 180 kilowatts, the equivalent of 
+45 homes, to power servers and keep the lights on. New disks hold 4 trillion 
+bytes, in contrast to earlier models which held 2 or 3 trillion, helping the 
+archive keep pace.
+
+"I'm proud that we're keeping all this going. We do it on a shoestring 
+budget," said Jim Shankland, director of operations. "As long as we do our 
+jobs, the bytes will live forever and ever."
+ 

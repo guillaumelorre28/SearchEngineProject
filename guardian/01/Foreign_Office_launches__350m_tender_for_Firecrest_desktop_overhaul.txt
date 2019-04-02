@@ -1,0 +1,47 @@
+
+The Foreign and Commonwealth Office (FCO) has tendered for a framework 
+contract to support and develop Firecrest, the desktop infrastructure that 
+underpins its global operations. The framework is valued at between £65m and 
+£350m.
+
+The framework will deliver a range of ICT services to the FCO's 270 offices in 
+the UK and overseas, covering more than 18,000 users, according to a notice in 
+the Official Journal of the European Union.
+
+The four-year framework includes a desktop infrastructure lot, which includes 
+the ongoing support and maintenance of the existing Microsoft-based legacy 
+Firecrest infrastructure and related systems to ensure service continuity for 
+the FCO and its partner organisations.
+
+In addition to a number of core upgrades, the framework may also be extended 
+to cover additional Firecrest development, support and maintenance requirements 
+involving end-user and network hardware, email and internet services, 
+datacentre management and applications hosting.
+
+The framework suppliers will also be required to offer business continuity and 
+disaster recovery services.
+
+The FCO's reprocurement of Firecrest services is part of its plan to cut up to 
+40% from its ICT budget between 2011 and 2015.
+
+In addition to desktop services, the tender covers service management and 
+integration (SMI) services for the FCO, including the end-to-end service 
+management of its ICT suppliers, along with service integration and change 
+management. It's expected that the management of the department's desktop 
+infrastructure and Oracle-based ERP system, together with the provision of a 
+service desk, will be the initial requirement under the SMI lot.
+
+The FCO's partner organisations, such as the UK Border Agency, the British 
+Council and the Department for International Development, will be able to use 
+the framework, along with central government departments and non-departmental 
+public bodies.
+
+"We're seeking to make what we do for ourselves as well suited to what others 
+want as possible. The choice the of whether they join us is theirs," FCO CIO 
+David Meyer told Guardian Government Computing recently.
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Guardian Government 
+Computing network here. 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+ 

@@ -1,0 +1,75 @@
+
+Asus, a Taiwanese technology company with big ambitions in the mobile device 
+market, has advanced what was already an innovative notion: a combination phone 
+and tablet in which a smartphone slides into a slot in the tablet and serves as 
+its mobile data connection. The upcoming hybrid system, called thePadfone 2 
+<http://www.asus.com/Mobile/PadFone2/>, is an updated version of an earlier 
+model, and is much lighter.
+
+Still, it's sizeable. The phone and tablet boast 4.7-inch and 10.1-inch 
+screens respectively, though together they are said to weigh about the same as 
+aniPad <https://www.theguardian.com/technology/ipad>. A key value proposition 
+for many users will be using one data plan for both devices – a genuine 
+advantage given the mobile carriers' tendency to gouge their customers for 
+every spare dollar.
+
+I can imagine why a serious road warrior might find the Padfone 2 a compelling 
+product, especially when it's coupled with a keyboard. As theAndroid 
+<https://www.theguardian.com/technology/android> operating system advances, 
+there's more potential to use these devices for a variety of computing chores, 
+though it's not fully ready yet.
+
+For my part, though I love the idea, I'm not likely to buy a Padfone. My 
+current gear includes a large-screen phone and a 7-inch tablet, which I find to 
+be a better size for daily activities (in Asian cities I've visited recently, 
+I've noticed lots of people using 5-inch mini-tablets; we all have different 
+ideas about what works best once we have a device larger than a phone).
+
+Even though combining devices is a fine one, especially to avoid paying greedy 
+carriers twice for essentially the same service, there's an even more logical 
+way to do it than whatAsus <https://www.theguardian.com/technology/asus> 
+offers. The phone should be tiny, with two functions only: voice and data 
+(which will soon be combined in any case on advanced networks). Then use the 
+phone as a tether or wi-fi hotspot, and do pretty much everything else on a 
+tablet, small or large.
+
+My Nexus 7 is wi-fi only, and I often run it using my phone as the connection 
+to the Internet. Mymobile carrier <http://ting.com>, unlike most, believes that 
+data is data – period. And I pay for data on an overall plan; I'm not required 
+to make additional payments just to use the phone as a hotspot or tethering 
+device. Most American mobile carriers, especially the major ones, hate this 
+idea, of course, and they insist on separate tethering plans unless customers 
+pay extortionate rates that "allow" them to do the logical thing.
+
+I'm encouraging my current carrier – and would encourage all carriers – to 
+push manufacturers to create small, limited-function Android handsets for such 
+purposes, and then to sell bundled packages that include small phones with 
+tablets (large and small as users prefer), with software tweaks – such as 
+automatically switching the phone's hotspot function on when the tablet tries 
+to connect to a digital network – to ensure that they work well together. I 
+suspect there would be a non-trivial customer base for this setup.
+
+One useful aspect to doing things this way is that it can be more secure. When 
+I connect my tablet to any wi-fi network, I immediately then connect to a 
+virtual private network (VPN) that encrypts all traffic over the air, including 
+email, browsing and other connections (a well-managed combination system like 
+the one I'm describing should include VPN connections by default, in my view).
+
+The drawback, of course, is that lots of people would rather just do 
+everything in one device. And there are occasions when I'd prefer to just 
+glance at email or check my Twitter feeds on the phone rather that pull out a 
+tablet. But as a frequent traveler, one of my main goals is reducing weight and 
+bulk in what I carry.
+
+Sooner than later, we'll be separating radios from screens in any case. Using 
+the phone's radio as a frequent on-the-move connection to the Internet is only 
+going to make more sense in the future. Screens on small slabs are not going to 
+be the way we see the cyber-world for much longer. Google'sGlass project 
+<https://plus.google.com/+projectglass> – heads-up displays inside eyeglasses – 
+and other systems like it are going to win adherents quickly as the technology 
+gets more robust and easy to use.
+
+The notion that everything has to be part of a single device is a vestige of a 
+technology past that is quickly coming to a close. I'd like to get started now, 
+and hope the mobile industry will accommodate me.
+ 

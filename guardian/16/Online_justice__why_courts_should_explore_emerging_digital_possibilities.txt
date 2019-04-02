@@ -1,0 +1,159 @@
+
+People in all societies have disputes. In advanced legal systems the dominant 
+approach to resolving them has been to instruct lawyers and appear before 
+courts. But with the internet, advanced hardware and cutting-edge software 
+coming on-stream, the days of fetching up in front of a judge with bulging 
+case-files are beginning to change – though rather faster in some parts of the 
+world than others.
+
+Professor Richard Susskind, IT adviser to the UK lord chief justice, argues 
+that there are four compelling reasons why courts should explore the emerging 
+digital possibilities. “The system is costly for users; it’s usually too time 
+consuming and disputes take a long time to resolve; it’s largely 
+unintelligible; and it also seems out of step in the internet society,” he 
+says. “Citizens have a growing expectation that services will be delivered 
+digitally.”
+
+
+The most visible problem – piles of paperwork that are hard to reference and 
+often even harder for the parties to access – has now been solved in the higher 
+criminal courts in England and Wales, which completed the transition to fully 
+digitised evidence files in April 2016. Civil courts in England and Wales, 
+however, have not yet made that leap, and though agovernment consultation is 
+being held (pdf) 
+<https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/553261/joint-vision-statement.pdf>
+ on an fundamental rethink of how civil justice is delivered, many other 
+countries are far further ahead with their e-justice revolution.
+
+
+Training can be an issue, as it requires judges and lawyers who may already be 
+overstretched to take time out.
+
+Turkey, which won the UN’s public service award in 2012 
+<https://www.neweurope.eu/article/turkish-ministry-justice-receives-united-nations-public-service-award/>
+, now has a national electronic service across all its judicial functions. 
+Lawyers and citizens can examine files, pay application fees, submit their 
+documents and claims and file cases electronically to any court in the land. As 
+a case progresses, they can access all relevant information and learn the day 
+fixed for the trial without checking with court staff by phone or in person.
+
+Turkey’s transformation of the data aspect of its judicial system has resulted 
+in a service that is faster, more transparent and more cost efficient, said 
+judge Servet Gul, head of information technologies at the ministry of justice, 
+speaking at a UN meeting. Advanced video conferencing facilities also mean 
+there is less need to transfer prisoners to court. The system has nearly 2 
+million users, had led to savings of $100m and has created avirtually paperless 
+working environment 
+<https://www.un.org/ruleoflaw/blog/2016/06/e-justice-sharing-national-experiences-in-enhancing-transparency-effectiveness-and-access-to-justice/>
+, so is greener, too.
+
+
+In Australia, the federal court was the first judicial setting to put in place 
+electronic court files, and is now seen as global leader in how to manage 
+digitised court documents. Australia is now moving on to upload all 
+administrative records in its various registries.
+
+While the US is clearly an altogether bigger and more diverse jurisdiction, 
+many state courts there are also on their way to become paperless, “with an 
+obligation for lawyers to electronically file documents that judges can access 
+via laptops and other devices,” explains Dr Judith Townend, director of 
+Information Law and Policy Centre at the Institute of Advanced Legal Studies, 
+University of London.
+
+In addition, she observes, the US supreme court is planning to introduce full 
+electronic filing of different types of motions and applications, with free 
+public access to these materials on the court’s website – though it seems that 
+once bedded in,paper filing will still be required 
+<http://uk.pcmag.com/web-sites-products/38632/news/us-supreme-court-to-deploy-new-electronic-filing-system-arou>
+, which will perhaps somewhat frustrate the intentions of modernisers.
+
+
+White House, Whitehall, Singapore - how public bodies copy Silicon Valley 
+startups
+ Read more  
+<https://www.theguardian.com/public-leaders-network/2016/nov/17/public-bodies-copy-silicon-valley-tech-digital-services>
+Countries that lag behind in efforts to reach a more streamlined, accessible 
+online judiciary are often struggling not just with the upfront costs of 
+investment, but have not yet convinced lawyers and court clerks who are deeply 
+entrenched in the minutiae of existing protocols that there could be another 
+way of doing things.
+
+
+Training can be an issue, as it requires judges and lawyers who may already be 
+overstretched to take time out. There can also be capacity issues. In India, 
+for instance, there is onlya single training centre  
+<http://cjnewsind.blogspot.co.uk/2014/10/e-judiciary-in-india-is-needed.html>
+working to support professionals wanting to learn more about the practice and 
+principals underpinning the delivery of e-courts.
+
+But novel approaches are also being tried to kickstart a more fundamental 
+transformation of the way justice is delivered. Online dispute resolution 
+systems developed by tech companies such as eBay and Nominet have inspired some 
+countries not simply to substitute electronic documents for bundles of paper, 
+but to replace the physical courtroom with a judicial service operated over the 
+internet.
+
+
+Earlier this year, British Colombia in Canada launched the nation’s first ever 
+online civil tribunal aimed at allowing citizens to resolve small-value 
+property and land disputes: initially voluntary, it will soon be made 
+mandatory. For cases involving sums of less than $25,000, the benefit is that 
+applicants can now avoid a pricey trip to the supreme court where legal costs 
+could easily end up higher than the sums in dispute. According to the Vancouver 
+Sun 
+<http://vancouversun.com/news/local-news/b-c-launches-first-in-canada-online-tribunal-to-resolve-civil-disputes>
+, the pioneering system includes party-to-party negotiations. “If that fails to 
+reach an agreement, there is a facilitation phase akin to mediation, and, 
+finally, an adjudicator can make a ruling with the same force as a court 
+ruling.”
+
+In Pakistan, writing about the online case management system introduced in the 
+high courts of Islamabad and Lahore, lawyerTaimur Ali Khan Mohmand points out 
+<https://www.thenews.com.pk/print/154687-E-judiciary> that digitising case 
+files is only a very basic first step on a journey that, he believes, should 
+see fully automated and digitised e-courts introduced across the country, with 
+trials conducted over Skype. An electronic judicial service, he suggests, would 
+not only stamp out corruption would also improve the justice system to make it 
+more accessible for those who live far from legal centres or who struggle to 
+afford the costs of seeking justice.
+
+
+Though it may not be surprising that countries such as Pakistan and India are 
+struggling with some aspects of modernising their judicial service, Townend 
+says the UK too is “far behind” similarly developed countries such as the 
+Netherlands, where the ministry of justice and security has created a service 
+that offers automated legal guidance through matrimonial disputes including 
+divorce and matters of custody and maintenance.
+
+
+There are inherent risks when asking people to rely on an 
+electronically-delivered judicial service at what is likely to be one of the 
+most stressful points of their life. Trust in a system is vital. Governments 
+will need to anticipate concerns that the critical quality of human judgment 
+could be lost, and that citizens will end up being processed through anonymous 
+online pathways that are as alienating as many of the dispute resolution 
+services used by large corporates.
+
+
+Challenges to a more modernised, digitised judicial system also include the 
+potentially negative attitudes of professionals working within it, acknowledges 
+Susskind, who highlights that “the question of execution” is also critical.
+
+
+Talking about his hopes that the UK will soon take the leap to instigating a 
+fully online civil dispute resolution system, Susskind says that what’s needed 
+to achieve success is “to move away from the idea of a blueprint, to being more 
+incremental”.
+
+
+Large government IT contracts, he observes, do not have a happy history, and 
+so making each advance a modular step that is thoroughly tested before the next 
+one is taken will go a long way to allaying fears both within the notoriously 
+risk-averse legal profession, as well developing faith in users that their case 
+will be heard fairly, and that justice can truly be done.
+
+Sign up <https://register.theguardian.com/public-leaders/> for your free 
+weekly Guardian Public Leaders newsletter with news and analysis sent direct to 
+you every Thursday. Follow us on Twitter via@Guardianpublic 
+<https://twitter.com/guardianpublic>
+ 

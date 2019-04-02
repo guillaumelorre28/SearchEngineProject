@@ -1,0 +1,120 @@
+
+The past year marked the 60th year of artificial intelligence – and, boy, did 
+it have a lively birthday. Pop open a computer science journal on your laptop 
+during 2016 and you’d be assured that not only was progress happening, but it 
+was doing so much, much faster than predicted. Today,AI 
+<https://www.theguardian.com/technology/audio/2016/dec/30/future-thinking-will-artificial-intelligence-overtake-humans-tech-podcast>
+ and algorithms dominate our lives – from the way financial markets carry out 
+trades to the discovery of new pharmaceutical drugs and the means by which we 
+discover and consume our news.
+
+But, like any invisible authority, such systems should be open to scrutiny. 
+Yet too often they are not open and we are not even fully aware that such 
+systems play the roles they do. For years now, companies such as Amazon, Google 
+andFacebook 
+<https://www.theguardian.com/technology/2016/may/12/facebook-trending-news-leaked-documents-editor-guidelines>
+ have personalised the information we are fed; combing through our “metadata” 
+to choose items they think we are most likely to be interested in. This is in 
+stark contrast to the early days of online anonymity when a popularNew Yorker 
+cartoon depicted a computer-using canine with the humorous tagline: “On the 
+internet, nobody knows you’re a dog 
+<https://www.theguardian.com/technology/2015/mar/06/facebook-internet-fake-name-authentic-self>
+.” In 2017, not only do online companies know that we’re dogs, but also our 
+breed and whether we prefer Bakers or Pedigree.
+
+Future thinking: will artificial intelligence overtake humans? – tech podcast
+ Read more  
+<https://www.theguardian.com/technology/audio/2016/dec/30/future-thinking-will-artificial-intelligence-overtake-humans-tech-podcast>
+The use of algorithms to control the way that we’re treated extends well 
+beyond Google’s personalised search or Facebook’s customised news feed. Tech 
+giants such asCisco 
+<https://www.theguardian.com/technology/2016/aug/17/cisco-systems-to-sack-fifth-of-global-workforce-says-report>
+ have explored the way in which the internet could be divided into groups of 
+customers who would receive preferential download speeds based on their 
+perceived value. Other companies promise to use breakthroughs in
+speech-recognition technology 
+<https://www.theguardian.com/technology/2016/dec/04/voice-control-amazon-echo-digital>
+ in call centres: sending customers through to people with a similar 
+personality type to their own for more effective call resolution rates.
+
+It is a mistake to always decry this kind of personalisation as a negative. 
+The futurist and writerArthur C Clarke 
+<https://www.theguardian.com/books/2016/apr/28/science-fictions-future-where-next-for-the-arthur-c-clarke-award>
+ once noted that any sufficiently advanced technology is indistinguishable from 
+magic. Most of us will have had the awed feeling of watching a really good 
+magic trick when their smartphone uninvitedly pops up a relevant piece of 
+information at just the right moment – like your iPhone remembering where your 
+car is parked.
+
+But the feeling is often tempered by a moment of doubt. Is it a bit creepy that
+Google <https://www.theguardian.com/technology/google> knows your favourite 
+football club? Are we being shown only the news that matches Facebook’s vision 
+of who we are? Most of the time we don’t know because the algorithms’ internal 
+workings remain inaccessible to us.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2017%2Fjan%2F01%2Falgorithms-ai-artificial-intelligence-facebook-accountability%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fb555ee5fbacdbab6a4a2b341e53d01a7f2e369f1%2F0_120_1593_956%2F1593.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Algorithms%3A%20AI%E2%80%99s%20creepy%20control%20must%20be%20open%20to%20inspection&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2017%2Fjan%2F01%2Falgorithms-ai-artificial-intelligence-facebook-accountability%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Algorithms%3A%20AI%E2%80%99s%20creepy%20control%20must%20be%20open%20to%20inspection&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2017%2Fjan%2F01%2Falgorithms-ai-artificial-intelligence-facebook-accountability%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fb555ee5fbacdbab6a4a2b341e53d01a7f2e369f1%2F0_120_1593_956%2F1593.jpg>
+ Arthur C Clarke said any sufficiently advanced technology is indistinguishable 
+from magic. Photograph: Gemunu Amarasinghe/AP 
+The academic Sherry Turkle 
+<https://www.theguardian.com/science/2015/oct/18/sherry-turkle-not-anti-technology-pro-conversation>
+ makes an interesting observation about PCs in the 1980s, when families started 
+buying home computers and endless lines of green text gave way to sumptuous 
+graphical user interfaces. At this point, she has suggested, computers moved 
+from being a hobbyist machine you could open up and physically tinker with to a 
+machine you could learn to operate immediately, even if you didn’t know exactly 
+how it was working. Computers, Turkle playfully noted, begged to be taken not 
+at face value but at interface value.
+
+It doesn’t take much to see that this philosophy has continued to develop over 
+the years. This is particularly true when talking aboutartificial intelligence 
+systems 
+<https://www.theguardian.com/technology/2016/dec/28/2016-the-year-ai-came-of-age>
+. Some of today’s most impressive advances in fields such asmachine learning 
+<https://www.theguardian.com/technology/2016/jun/28/google-says-machine-learning-is-the-future-so-i-tried-it-myself>
+ (the goal of getting a machine to, well, learn) rely on tools such as “deep 
+learning neural networks”. These are systems patterned after the way the human 
+brain works but which, ironically, are almost entirely inscrutable to humans. 
+Trained with only inputs and outputs, and tweaking one or the other until the 
+middle part “just works”, human creators have long since sacrificed 
+understanding in favour of results.
+
+Since such tools will increasingly be used for more complex use-cases such as 
+AI-driven warfare 
+<https://www.theguardian.com/technology/2015/jul/27/musk-wozniak-hawking-ban-ai-autonomous-weapons>
+, prioritising patients in hospital and determining which areas of a city 
+should be most heavily policed, questioning them is essential. We may view 
+computers as coolly objective – hence the sci-fi trope of the machine that 
+gains emotions and then goes wrong – but human bias and error can enter into 
+algorithms, too. It’s when we believe that such systems are beyond question 
+(and lack the means to question them if we change our mind) that things get 
+problematic.
+
+So what’s the answer? This is a more complex challenge than many of the 
+over-the-air quick fixes Silicon Valley loves to engage with. You can cut down 
+on speech you don’t like on Twitter by banning people who say things you don’t 
+agree with. That’s not so easy when the positives and negatives of technology 
+are so deeply entwined. Technology in this sense is a bit like the political 
+system: there are so many decisions to take that we hand the overwhelming 
+majority of them to someone we trust.
+
+There is some evidence to suggest things are changing. The issue of AI 
+accountability is shaping up to be one of this year’s hot topics, ethically and 
+technologically. Recently, researchers at Massachusetts Institute of 
+Technology’s computer science and artificial intelligence laboratory published 
+preliminary work on deep learning neural networks that can not only offer 
+predictions and classifications, but also rationalise their decisions.
+
+Artificial intelligence achieved a lot in 2016. One of the goals in 2017 
+should be to make its workings more transparent. With plenty riding on it, this 
+could be the year when, to coin a phrase, we begin to take back control.
+
+Luke Dormehl 
+<https://www.theguardian.com/technology/2016/aug/07/seven-benefits-of-artificial-intelligence>
+ is the author ofThinking Machines: The Inside Story of Artificial Intelligence 
+and Our Race to Build the Future 
+<https://bookshop.theguardian.com/thinking-machines.html>
+ 

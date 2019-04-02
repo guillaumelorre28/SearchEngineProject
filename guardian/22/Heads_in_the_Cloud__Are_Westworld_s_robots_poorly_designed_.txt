@@ -1,0 +1,106 @@
+
+HBO’s new Westworld series has spawned countless gigabytes of online 
+discussion and speculation as its intricate plot has unfolded. The design of 
+the robots, and of the intelligence that guides them, has attracted less 
+comment. That’s a shame; when you dive into the construction of the park there 
+are some very odd choices that are worth pulling apart.
+
+(Warning: spoilers ahead.) 
+
+Westworld plays out over multiple timelines, but its ‘present’ appears to be 
+set some time in the mid-to-late 21st century. The park is around 35 years old 
+by then. That places its construction in our near future, which means that the 
+earliest ‘host’ robots – more mechanical in design than later versions – were 
+built using technology not too distant from what we have available today.
+
+The golden age of desktop processors getting exponentially faster each year 
+ended more than a decade ago. That’s inconvenient if you’re trying to build an 
+artificial intelligence, so people have combined two new strategies. Firstly, 
+massive server farms have been constructed to house and process ‘big data’ and 
+provide raw processing power as an online service. Second, much of the heavy 
+number crunching has been delegated to specialized graphics chips, which turned 
+out to be better at it than general-purpose processors.
+
+Meanwhile, consumers have switched to mobile devices or laptops. These have to 
+rely on limited batteries, and battery technology hasn’t moved quite as fast as 
+we’d like, so chip manufacturers have focused on energy efficiency rather than 
+raw performance. Of course another way to use less energy is to do less work on 
+the mobile device and more in the cloud. Mobile devices become a low-powered 
+interface through which we access data and processing power housed elsewhere.
+
+Intelligent assistants like Apple’s Siri, or Amazon’s Echo seem like a 
+physical presence in our lives, but their ‘brains’ are elsewhere. We talk to 
+them through cheap, disposable devices that act as little more than relays. 
+They pass whispered instructions across the Internet to a humming black box – 
+one of thousands in warehouses around the world – and wait for a response to 
+read out. It makes a lot of sense, so why aren’t Westworld’s hosts built the 
+same way?
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F07%2Fheads-in-the-cloud-are-westworlds-robots-poorly-designed%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F496a0b3d4ec15cdf0d9d9ae3ace46e7d0e84d881%2F29_130_2751_1652%2F2751.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Heads%20in%20the%20Cloud%3A%20Are%20Westworld%E2%80%99s%20Robots%20Poorly%20Designed%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F07%2Fheads-in-the-cloud-are-westworlds-robots-poorly-designed%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Heads%20in%20the%20Cloud%3A%20Are%20Westworld%E2%80%99s%20Robots%20Poorly%20Designed%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fdec%2F07%2Fheads-in-the-cloud-are-westworlds-robots-poorly-designed%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F496a0b3d4ec15cdf0d9d9ae3ace46e7d0e84d881%2F29_130_2751_1652%2F2751.jpg>
+ A server farm at CERN. This is what the hosts’ ‘brains’ would probably look 
+like if we tried to build them now. (AP Photo/KEYSTONE/Martial Trezzini) 
+Photograph: Martial Trezzini/ASSOCIATED PRESS 
+Imagine you’re designing the first host. There are some pretty clear 
+requirements to work with. We know the hosts are going to take damage. They’re 
+active for long periods with no obvious way to recharge. They have to be safe. 
+If they go off script they need to be containable. They need regular quality 
+checks. They absolutely cannot be allowed to leave the park; something Delos 
+takes so seriously that the hosts supposedly have location-aware explosives in 
+their spines.
+
+Physically placing a ‘brain’ inside the hosts makes very little sense. It 
+dramatically increases their power usage. Physical damage could permanently 
+wipe characters, as we saw with Clementine’s drill-up-the-nose ‘lobotomy’. It 
+hampers remote control. Handlers have to be physically present for any kind of 
+diagnosis. Hosts have to be trained manually, on location, as we saw in 
+flashbacks to their ‘beta’ phase.
+
+Then there’s Maeve’s story line – her quest to leave the park and “infiltrate 
+the mainland” (an instruction visible in her programming in one scene). If her 
+intelligence were located in a server on the local network, then the whole 
+concept of her ‘leaving’ would be a joke. Her body would deactivate the moment 
+it went beyond the range of the last Wi-Fi router. That seems like a safer 
+containment solution then planting explosives in a machine that people are 
+going to shoot at.
+
+It would make sense for reflex and automatic functions to be carried out 
+locally – balance, locomotion and so on – but why do so much high-level 
+processing on the hosts, rather than on network-attached servers? We know that 
+this is software after all, not some kind of black box made of mystery goo. If 
+you can edit their personalities with a futuristic iPad you ought to be able to 
+run them on a server.
+
+The only technical reason I can think of is bandwidth. At a minimum, hosts 
+have binocular vision, stereo hearing, and a sense of touch. They also have 
+some form of proprioception – a sense of the relatively positioning of their 
+body parts. Hundreds of hosts in the same area, transmitting all that data, 
+could cripple a Wi-Fi network; but then if Delos can build sentient machines 
+they can probably knock up a better router.
+
+Then we get into what I like to call the ‘bullshit philosophy’ arguments. The 
+key phrase here is ‘embodied cognition’, the reasonable idea that human-like 
+intelligence requires an intimate link with body, sensorimotor skills and 
+environment – it needs a human experience, in other words.
+
+That makes sense, but it’s irrelevant here because that link isn’t dependent 
+on physical location. If your brain lived in a jar in a Luton warehouse, 
+talking to your body via an ultra-fast connection and a router in your skull, 
+it would be make no practical difference to your experience. At least not until 
+you found out about it. Then you’d probably freak out a bit.
+
+I can think of two other possibilities. The cynical one is ‘because the plot 
+needs it’, but let’s leave that aside. A more interesting one is this: the 
+hosts don’t meet the requirements because they were never meant to. Their 
+creator always intended for them to gain sentience and self-determination. You 
+can’t be independent without your own brain, so this concern would override all 
+the other requirements.
+
+Who knows. Jonathan Nolan has said that the show will explore more about the 
+hosts capabilities, their nuts and bolts and the practicalities of operating 
+them, in season two. It’ll be interesting to see if their design choices make 
+sense. After all, we might want to make a park for real one day.
+ 

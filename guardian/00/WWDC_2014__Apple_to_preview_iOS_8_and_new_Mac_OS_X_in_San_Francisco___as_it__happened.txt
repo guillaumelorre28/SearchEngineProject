@@ -1,0 +1,576 @@
+
+8.00pm BST 
+
+Cook wraps up on the two-hour mark.
+
+Apple <https://www.theguardian.com/technology/apple> will introduce:
+
+ * HealthKit and Health app - letting fitness/health devices communicate to a 
+centralised, privacy-respecting app on the iPhone which shares data between 
+them as you allow 
+ * HomeKit - coordinating smart home systems 
+ * "Extensibility" for iOS 8 - so that apps can communicate with each other, 
+and pass data between each other natively 
+ * Third-party keyboards are now allowed - though they won't be able to 
+connect to the network (to send usage data) unless you specifically allow them 
+7.57pm BST 
+
+Cook calls iOS "the biggest release of iOS 
+<https://www.theguardian.com/technology/ios> since the introduction of the App 
+Store" (which was in 2008). "Together our devices provide an integrated and 
+continuous experience across all of them. And developers can create powerful 
+apps more easily than they've ever been able to.
+
+"Apple engineers platforms, devices and services together. We do this so we 
+can create a seamless experience for our users that is unparalleled in the 
+industry. This is something only Apple can do."
+
+7.51pm BST 
+
+7.49pm BST 
+
+Federighi says "what if you had Objective-C without the C?" Apple introduces a 
+new programming language, Swift. It's a modern programming language - for which 
+the developers are going wild (if you know what a "tuple 
+<https://en.wikipedia.org/wiki/Tuple>" is, then you'd be excited. If not - it's 
+an ordered list of elements. Programmers love them.) Swift benchmarks show it's 
+very, very fast, Federighi says.
+
+7.47pm BST 
+
+Third-party keyboards will be allowed in iOS 8 - but won't get network access 
+unless you say
+
+Keyboards: Apple will let you install system-wide third-party keyboards. They 
+will run inside the most restrictive sandbox - so without access to the network 
+unless you allow them.
+
+Touch ID gets an API (application programming interface) so that developers 
+can build to it.
+
+7.47pm BST 
+
+iOS 8 will introduce HomeKit to let you manage home automation
+
+"We've come up with HomeKit to allow secure pairing so that only your iPhone 
+can unlock your garage door. With Siri integration you can say something like 
+'Get ready for bed' and be sure the garage door is closed, the lights are 
+dimmed, the doors are locked."
+
+7.46pm BST 
+
+Looking back at Tim Cook's "130m new users on iOS in the past 12 months" - in 
+the four quarters to the end of March 2014, Apple sold 71m iPads and 160m 
+iPhones, or 231m iOS devices (give or take a few million more iPod Touches).
+
+That means that 130m of the 231m iOS devices went to new users - 56%, which 
+feels like a remarkably high figure.
+
+7.44pm BST 
+TOXiC HELLSTEW (@CLINT) 
+KIND OF WEIRD THAT APPLE DIDNT MENTION NEST **AT ALL** WHEN TALKING ABOUT HOME 
+DEVICES
+ <https://twitter.com/CLINT/statuses/473533667881390080> June 2, 2014 
+<https://twitter.com/CLINT/statuses/473533667881390080> jason (@Jason) 
+Note: I did not see @nest <https://twitter.com/nest> or @Dropcam 
+<https://twitter.com/Dropcam> on the list of Apple Homekit support -- did see 
+August lock. Anyone know?#wwdc <https://twitter.com/search?q=%23wwdc&src=hash>
+ <https://twitter.com/Jason/statuses/473534381727158272> June 2, 2014 
+<https://twitter.com/Jason/statuses/473534381727158272> 
+Updated at 7.47pm BST
+
+7.34pm BST 
+
+"Extensibility" - apps being able to offer services to other apps. This is 
+like Android's "intents" - also called XPC (cross-program communication).
+
+"Extensions live inside an application's sandbox, but apps can reach through 
+the OS to request. Pinterest can offer a share sheet to Safari. Bing can offer 
+translation inside Safari. Photo filters inside of photos. Third party apps can 
+define widgets with notifications."
+
+Developers have been looking forward to this for a long time; iOS has lagged 
+Android (which has had "intents" from its inception) and Windows Phone (which 
+gained it in Windows Phone 8).
+
+Federighi demonstrates an app providing a watercolour effect to a photo in the 
+photo library.
+
+"Widgets" appear in the Notification Centre - not on the Home screen. They are 
+interactive and updated and you can interact with them directly - Federighi 
+demonstrates an eBay widget that he can use to bid directly from the 
+Notification Centre.
+
+Or Bing translation - which is offered directly. (It's noticeable that Apple 
+hasn't gone for Google translation; Google has had very little mention through 
+the keynote.)
+
+7.25pm BST 
+
+"There is a lot more - what iOS 8 provides for developers to create apps you 
+couldn't create before," says Cook. The App Store now has 1.2m apps with an 
+"unbelievably vibrant" market. 300 million people visit the store every week. 
+75bn apps downloaded.
+
+"We want to make the App Store even better." New features on the store - an 
+'Explore' tab, with trending searches, faster search, related searches, 
+discounted bundles.
+
+App previews - short videos of apps. (Britain's Monument Valley by UsTwo shows 
+on the screen.)
+
+Testflight - developers can ask users to beta test their app and get feedback.
+
+Updated at 7.35pm BST
+
+7.25pm BST 
+
+Storage isn't quite free - tiered prices, though much cheaper than iCloud used 
+to be. 5GB for free, 20GB for $0.99 per month or 200GB for $3.99 a month.
+
+7.24pm BST 
+
+iOS 8 adds Shazam song recognition - Siri will recognise a song around you. 
+Streaming voice recognition, so that it will show what it thinks you've said, 
+and 22 new languages that it understands. Vector-based maps in China. A lot of 
+improved elements for China - one of Apple's most important markets.
+
+7.23pm BST 
+
+Photos get "smart editing" on the device - very simple interface for improving 
+sharpness, colours and so on.
+
+Synchronised over iCloud to other iOS devices.
+
+"What about the Mac?" Working on a ground-up photo solution that will be 
+shipping "early next year".
+
+7.20pm BST 
+
+Health
+
+ * A single place and app to collate your fitness and health metrics 
+ * Third-party apps can plug into the app, but the data that those apps can 
+access is carefully controlled to protect user privacy 
+ * Integrating with medical institutions - automatically sending data to 
+doctors like the Mayo Clinc in the US or Cambridge University Hospitals in the 
+UK
+
+7.19pm BST 
+
+"Family sharing" will let you create a "family" photo stream, calendar, Find 
+My Friends ("with permission") and find your devices. Also sharing music, 
+books, apps, films. "With Family Sharing you can get at your purchases but also 
+the purchases of members of your family. You just click right through and 
+download. For up to six family members." All on a single credit card - but 
+parents get an alert when a child wants to buy something in a story.
+
+In effect, it's Apple's response to Microsoft's "Kids Corner" (which ropes off 
+part of the phone and its apps.)
+
+• Photos and iCloud: "every photo you take on all your devices": "We're not 
+only preserving - your device has access to more photos in the cloud than you 
+can store on your device." Adds search for locations, time and album titles.
+
+7.19pm BST 
+
+WhatsApp's co-founder is not too happy:
+jan koum (@jankoum) 
+very flattering to see Apple "borrow" numerous WhatsApp features into iMessage 
+in iOS 8#innovation <https://twitter.com/search?q=%23innovation&src=hash>
+ <https://twitter.com/jankoum/statuses/473528453711409153> June 2, 2014 
+<https://twitter.com/jankoum/statuses/473528453711409153> 
+7.15pm BST 
+
+Integrating SMS and phone calls from iPhone into the desktop (and laptop) is 
+quite a move. Developers get their preview version from today.
+
+7.15pm BST 
+
+Apple will have public beta program for OSX Yosemite - people can sign up 
+online and will get access to the ongoing betas through the summer. It will be 
+free when it is finally released in the autumn.
+
+7.15pm BST 
+
+ * iCloud Drive - puts all the iCloud documents straight into Finder allowing 
+users more control over the files and synchronises them across Macs
+
+7.15pm BST 
+
+OS X 10.10 Yosemite:
+
+• New design that more closely resembles iOS for iPad and iPhone, with 
+translucent windows and flat design
+
+• Make phone calls from Mac or desktop
+
+• Mail now stores attachments up to 5GB in iCloud Drive
+
+• AirDrop files from Mac to iOS device
+
+• Safari includes private search mode and Wikipedia has been integrated into a 
+new, compact address bar
+
+• Text messages automatically sync with your other Apple devices 
+
+7.14pm BST 
+Juha-Pekka Helminen (@jphelminen) 
+Mac iPhone integration reminds me of concepts & alpha stuff Nokia had 200x... 
+Cool to see them realized by Apple.
+ <https://twitter.com/jphelminen/statuses/473520189460713472> June 2, 2014 
+<https://twitter.com/jphelminen/statuses/473520189460713472> 
+7.14pm BST 
+Benedict Evans (@BenedictEvans) 
+Apple picking up lots of popular messaging app features for iMessage. With 
+system level integration. But no word on usage volume in years
+ <https://twitter.com/BenedictEvans/statuses/473526224157831168> June 2, 2014 
+<https://twitter.com/BenedictEvans/statuses/473526224157831168> 
+7.13pm BST 
+
+"And now something that we all care a lot about - health," says Federighi. 
+"Developers have created a lot of apps for monitoring your health. But up to 
+now the information gathered by those applications lives in silos. But now you 
+can with HealthKit. A single place where applications can gather the data. And 
+there's an app - Health.
+
+"We carefully protect your privacy - you can decide what you want to share 
+between apps." Working with the Mayo clinic so that if a patent takes a blood 
+pressure reading, and it's out of normal bounds, it will feed back to the 
+clinic automatically.
+
+Updated at 7.50pm BST
+
+7.13pm BST 
+ iMessage users can send picture, audio and video messages - which expire 
+automatically in 2 minutes after being listened to, unless you choose to keep 
+them. 
+7.08pm BST 
+
+Messages
+
+ * Add or remove people from conversations, mute threads and name them
+
+ * Location sharing within messages 
+ * Voice and video messages – recording similar to the way Instagram or Vine, 
+hold down the record button to record and then swipe up to send 
+ * Users can listen to audio messages and reply to them from the lockscreen by 
+simply lifting to the ear 
+ * Photos are collated into one place, as well as embedded directly into thread
+7.06pm BST 
+
+Continuity works across iPhones and iPads too.
+
+Messages is the most-used app. It adds Group Messaging, naming a thread, 
+leaving a thread with multiple people, and "do not disturb".
+
+Location sharing with people in a conversation. At-a-glance view of pictures 
+and attachments from a thread.
+
+"Tap-to-talk" allows you to record a short message which can be sent to the 
+other person or people on the messaging thread.
+
+7.05pm BST 
+
+Apple iOS keyboard gets "Quicktype". In iOS 8 you get predictive typing 
+suggestions (a form of which has been in Android for a while) - but given the 
+question in a message "Do you want to go for dinner or a movie?" You'll be 
+offered different choices - "dinner", "movie", "not sure".
+
+And "none of your keystrokes leave the device," says Federighi.
+
+7.04pm BST 
+
+ * Spotlight suggestions: able to pull instant information from the web, from 
+Wikipedia, iTunes to movie times
+
+ * QuickType - supports predictive typing suggestions very much like Android 
+has had for a while, including learning to the way that the user types. All 
+done on-device ensuring none of the user typing leaves the device 
+6.59pm BST 
+
+iOS 8 is a "huge update", says Cook.
+
+ * Adds "interactive notifications" - respond to messages or calendar alerts 
+etc in the pull-down Notification Centre. Also works for third-party apps
+
+ * "Bird's eye view" in Safari on iPad
+
+ * New interaction with email to make access simpler 
+6.59pm BST 
+
+iOS 8
+
+ * Notification centre: interactive notifications, like being able to reply to 
+text messages straight in the notification bar 
+ * Safari: sidebar like Safari in OS X Yosemite 
+ * Mail: swiping gestures like delete, mark as unread or flag, very similar to 
+apps like Dropbox’s Mailbox 
+ * Direct access from the lockscreen: Swipe from the lockscreen to accept or 
+dismiss calendar invites 
+ * Frequently used contacts are now visible in the multitasking interface 
+
+6.51pm BST 
+
+Overall satisfaction for iOS 7 is 97%, according to a ChangeWave survey, and 
+89% now using the latest version, says Cook. "This is in stark contrast to 
+Android, where "when you look at their latest release less than 1 in 10 
+customers - 9% - are on their latest software. And over a third of their 
+customers are running a version of Android from four years ago." That means 
+they are not getting great new features or security updates that they may need 
+to stay safe, says Cook. "And this is particularly important for Android which 
+dominates the mobile malware market."
+
+Updated at 7.20pm BST
+
+6.49pm BST 
+
+Apple has sold over 800m iOS devices in total. Here's a breakdown:
+
+
+ * 300m iPod touches 
+ * 200m iPads 
+ * 500m iPhones 
+ * 130 million new Apple customers 
+ * 89% iOS 7 users 
+6.49pm BST 
+
+iOS has brought more than 130 million customers in the past 12 months - it was 
+their first Apple device. Many were switchers from Android, says Cook: "they 
+had bought an Android phone and they sought a better experience and decided to 
+check out iPhone and iOS. In fact nearly half of our customers in China in the 
+past six months switched from Android to iPhone."
+
+6.48pm BST 
+
+ * OS X Yosemite available to developers today with a public beta program 
+running this summer
+
+ * Available to the public in the autumn for free
+ Tim Cook (let) walks off stage next to Craig Federighi Photograph: Robert 
+Galbraith/Reuters 
+6.46pm BST 
+Matt Haughey (@mathowie) 
+so Jony Ive walks into a flat translucent bar…
+ <https://twitter.com/mathowie/statuses/473517223932223488> June 2, 2014 
+<https://twitter.com/mathowie/statuses/473517223932223488> 
+6.46pm BST 
+Jason Jenkins (@jenkojenkins) 
+Being able to call Dr Dre live on stage was so worth $3 billion
+ <https://twitter.com/jenkojenkins/statuses/473520391441616897> June 2, 2014 
+<https://twitter.com/jenkojenkins/statuses/473520391441616897> 
+6.46pm BST 
+
+Apple adds SMS reception (not just its own iMessage) and phone calls on the 
+desktop – which you can accept and receive (and reply to, or take the calls) – 
+"even if your phone is across the house on a charger," says Federighi. You can 
+dial your phone from your OS X device - essentially bringing the OS X user base 
+into the iOS user base.
+
+6.45pm BST 
+
+Continuity
+
+ * AirDrop: send files from Mac to iOS device
+
+ * Handoff: start working on a Mac, pick up where you left off on an iPad or 
+visa versa including iWork office apps and Safari browser
+
+ * Instant Hotspot: Mac will automatically see an iPhone as a hotspot when not 
+in a Wi-Fi area
+
+ * Text messages and phone calls – relayed from iPhone to other Apple devices, 
+including the Mac and iPad
+
+ * Users can make calls directly from a Mac or iPad via an iPhone routing the 
+audio through the other Apple devices
+
+6.41pm BST 
+
+"We're going to take proximity-awareness and make it easier. Your Mac will see 
+your phone and it will automatically set up a hotspot without you having to 
+type a password. Even if your phone is across the room sitting in a handbag," 
+says Federighi.
+
+6.41pm BST 
+
+"Airdrop now works between iOS and the Mac," announced Federighi. This had 
+been hoped for - but it hadn't been clear how it would be done.
+
+Federighi announces "Handoff" - your devices are aware of each other and you 
+can pick up work from an Apple desktop or laptop onto an iPad or iPhone.
+
+6.35pm BST 
+Zal Bilimoria (@zalzally) 
+Ok, just 28 minutes into the keynote, and Apple is going after Dropbox, Google 
+Drive, HighTail, and Docusign.
+ <https://twitter.com/zalzally/statuses/473516452238995457> June 2, 2014 
+<https://twitter.com/zalzally/statuses/473516452238995457> 
+6.35pm BST 
+
+Safari
+
+ * Faster and more efficient, for longer browsing times on battery power 
+(Netflix HD video playback is typically two hours longer than other browsers, 
+for example)
+
+ * Integrates Wikipedia directly into the address bar, just like Google. 
+ * Scrolling tabs in the tab bar 
+ * Tighter integration with Mac Mail allows emailing directly from Safari 
+using the recently sent to contact list 
+6.34pm BST 
+ Craig Federighi demonstrates the "simple and more powerful" design. 
+Photograph: Justin Sullivan/Getty Images 
+6.33pm BST 
+John Gruber (@gruber) 
+I think single-window mode is dead, too. Good riddance.
+ <https://twitter.com/gruber/statuses/473516739645292545> June 2, 2014 
+<https://twitter.com/gruber/statuses/473516739645292545> 
+6.33pm BST 
+Duncan Geere (@duncangeere) 
+So far the WWDC keynote has been ripoff after ripoff after ripoff. Not one 
+shred of originality. Yet.
+ <https://twitter.com/duncangeere/statuses/473516263671861248> June 2, 2014 
+<https://twitter.com/duncangeere/statuses/473516263671861248> 
+6.33pm BST 
+
+OS X will have a "dark mode" so that users aren't distracted by objects around 
+the window in which they're working. "It's a more usable version of OS X," says 
+Federighi.
+
+The Spotlight inbuilt search also now taps internet sources.
+
+6.33pm BST 
+
+Email can handle attachments of up to 5GB in size.
+
+6.33pm BST 
+
+ * Mail Drop: attachments sent encrypted via iCloud up to 5GB in size. 
+Seamless on Mac Mail. Other clients will be given a link to securely download it
+ * Markup: bringing many of the document modification tools, such as signing 
+signatures and editing documents, directly into mail
+
+6.31pm BST 
+jason (@Jason) 
+Safari updates so far: added private windows -- a knock off of incognito from 
+@googlechrome <https://twitter.com/googlechrome> ( aka 'porn mode') -- #wwdc 
+<https://twitter.com/search?q=%23wwdc&src=hash>
+ <https://twitter.com/Jason/statuses/473516879198167041> June 2, 2014 
+<https://twitter.com/Jason/statuses/473516879198167041> 
+6.28pm BST 
+ Craig Federighi introduces Yosemite 
+6.27pm BST 
+
+Craig Federighi announces "iCloud Drive" - showing the documents in the 
+cloud-based iCloud, shows up like folders. It's very Dropbox-like. It's the 
+first time that iCloud has had a filesystem-based appearance.
+
+6.24pm BST 
+
+ * Migrated from the design language of “aqua" with the first generation of OS 
+10 to the new Yosemite design which apes Apple’s iOS on the iPad and iPhone 
+ * Translucent look all over the windows allows users to see their desktop 
+background through the windows 
+ * Icons have been cleaned, becoming much more flat, colourful and iOS-like 
+ * Dark mode allows users to change the translucence to a darker smoke colour 
+for night-time work 
+ * Notification centre: a "today" view provides interactive at-a-glance 
+information for both built-in apps and third-party apps 
+ * Spotlight: moves from top right into the middle of the screen, making 
+searching easier
+
+Updated at 6.27pm BST
+
+6.23pm BST 
+Ross Rubin (@rossrubin) 
+Yosemite Spotlight uses Bing for Web search continuing the deGooglization of 
+Apple products.
+ <https://twitter.com/rossrubin/statuses/473514626777628673> June 2, 2014 
+<https://twitter.com/rossrubin/statuses/473514626777628673> 
+6.20pm BST 
+John Gruber (@gruber) 
+Translucent windows seem like a good idea only when you have just one or two 
+windows open.
+ <https://twitter.com/gruber/statuses/473514239378743296> June 2, 2014 
+<https://twitter.com/gruber/statuses/473514239378743296> 
+6.19pm BST 
+Wilson Rothman (@wjrothman) 
+Rejected OSX names: OSX Oxnard, OSX Rancho Cucamonga, OSX Weed. (They went 
+with OSX Yosemite.)#WWDC14 <https://twitter.com/search?q=%23WWDC14&src=hash>
+ <https://twitter.com/wjrothman/statuses/473512994283200513> June 2, 2014 
+<https://twitter.com/wjrothman/statuses/473512994283200513> 
+6.17pm BST 
+
+Mac OSX, the desktop software, is getting a dramatic overhaul in appearance - 
+its first big change since the introduction of the new software in 2001. It's a 
+flatter appearance, echoing the IOS 7 change - but retaining shadows for the 
+idea of depth.
+
+6.14pm BST 
+
+ * Apple has 9 million registered developers - up 50% in one year 
+ * There are 80m Macs in the world, of which 51% run the latest OS X Mavericks 
+ * There have been 25 years of WWDC and attendees from 69 countries 
+Updated at 6.15pm BST
+
+6.02pm BST 
+
+Apple's Craig Federighi has teased the most important news coming from the 
+keynote today: a change in system font.Exciting.
+Craig Federighi (@craig_apple) 
+To those who are wondering, this is not quite Myriad. #ios8 
+<https://twitter.com/search?q=%23ios8&src=hash> #wwdc2014 
+<https://twitter.com/search?q=%23wwdc2014&src=hash> pic.twitter.com/MyB0dw38B0 
+<http://t.co/MyB0dw38B0>
+ <https://twitter.com/craig_apple/statuses/472487084100681729> May 30, 2014 
+<https://twitter.com/craig_apple/statuses/472487084100681729> 
+5.48pm BST 
+
+Apple’s share of the US smartphone users will rise to 40.5% up from 40% in 
+2013 and 36.5% in 2012, according to data from eMarketer. By comparison 
+Google’s Android will claim 50% of smartphone users in 2014, up from 49.5% in 
+2013.
+
+In the UK, Apple’s numbers are slightly lower. Apple is expected to claim 
+30.5% of smartphone users this year, up from 29% in 2013, while Android 
+smartphone users will account for 53% of the market in 2014 compared to 54.5% 
+in 2013, according to eMarketer.
+
+5.48pm BST 
+ Panoramic view of WWDC 2014 ahead of the keynote Photograph: Charles 
+Arthur/Guardian 
+5.44pm BST 
+
+Journalists with long lenses + computers apparently running OS X 10.10 set up 
+on the stage = a first look of what's to come:
+Lance Ulanoff (@LanceUlanoff) 
+Let's take a close look at those OSX icons, shall we? #WWDC 
+<https://twitter.com/search?q=%23WWDC&src=hash> pic.twitter.com/A03QTBXvrP 
+<http://t.co/A03QTBXvrP>
+ <https://twitter.com/LanceUlanoff/statuses/473505046370344960> June 2, 2014 
+<https://twitter.com/LanceUlanoff/statuses/473505046370344960> 
+Updated at 5.45pm BST
+
+5.42pm BST 
+
+The audience - some of whom have been queueing since 5.30am - is expecting an 
+announcement around the smart home, the "Healthbook" app to store health data, 
+and new versions of the desktop and mobile software.
+
+The latter tends to matter more because it will be pushed out to so many more 
+people and so quickly: there are more people using iOS 7 than any single point 
+version of Android. But don't expect new iPhones or iPads - it's the wrong time 
+of year.
+
+Updated at 6.05pm BST
+
+5.39pm BST 
+
+Apple's annual Worldwide Developer Conference kicks off at 6pm UK time. 
+Charles Arthur is there, and will bring you all the latest announcements direct 
+from San Francisco. No frills - we'll pick out all the most essential details 
+you need to know.
+
+Updated at 5.47pm BST
+ 

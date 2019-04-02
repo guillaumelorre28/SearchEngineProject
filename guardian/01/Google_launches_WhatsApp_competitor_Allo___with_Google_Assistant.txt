@@ -1,0 +1,61 @@
+
+Google has launched its latest mobile chat app, Allo, and with it Google 
+<https://www.theguardian.com/technology/google> Assistant – a chatbot that can 
+be used in online conversations with friends.
+
+The messaging app, which is available for Android 
+<https://www.theguardian.com/technology/android> and the iPhone, has similar 
+features to most other messaging clients: stickers, emoji, the ability to draw 
+on images like Snapchat and the choice of group or one-on-one chats. Messages 
+are not encrypted end-to-end by default – unlike on WhatsApp, which it will 
+compete with – but can be switched to an incognito mode to do so and set how 
+long they exist before they’re deleted.
+
+Google’s “smart reply”, first introduced with its Inbox mail app, will also 
+feature, predicting responses to the messages and content received, such as 
+“yup” to the question “are you on your way”. While text-based prediction is not 
+uncommon, Google is going one-stage further and bringing its image recognition 
+from its Photos service, providing smart replies when sent images of pets or 
+holiday pictures, suggestion responses such as “nice dog” or “beautiful sunset” 
+when appropriate.
+
+ Allo’s big new feature though is Google’s Assistant, represented as an 
+@google chatbot. You can have one-on-one conversations with it, asking for 
+restaurant recommendations, navigation instructions, find photos, get the 
+weather, save information or even command the smartphone to do things on 
+Android. Those interactions can also be made in group chat, by dragging the 
+Google Assistant into the conversation for instant recommendations or 
+information.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F21%2Fgoogle-whatsapp-allo-google-assistant%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fa9a150af386e4d24f337dfe3d4cdb5e3b859015d%2F0_0_1440_1449%2F1440.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Google%20launches%20WhatsApp%20competitor%20Allo%20%E2%80%93%20with%20Google%20Assistant&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F21%2Fgoogle-whatsapp-allo-google-assistant%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Google%20launches%20WhatsApp%20competitor%20Allo%20%E2%80%93%20with%20Google%20Assistant&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fsep%2F21%2Fgoogle-whatsapp-allo-google-assistant%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fa9a150af386e4d24f337dfe3d4cdb5e3b859015d%2F0_0_1440_1449%2F1440.jpg>
+ You can type or ask questions of Google Assistant using voice in a one-on-one 
+chat. Photograph: Samuel Gibbs for the Guardian 
+Whether Google will be able to gain traction with Assistant-powered chatbot 
+where others have failed 
+<https://www.theguardian.com/technology/2016/apr/29/please-facebook-dont-make-me-speak-to-your-awful-chatbots>
+ remains to be seen.
+
+Google Assistant is the next evolution of the search company’s efforts with 
+Android’s Now on Tap, natural language search and voice assistant features. The 
+company says it will learn from your day-to-day activities and improve its 
+suggestions, in the same way Google Now currently does within the Google search 
+app on the iPhone and built-in to Android.
+
+Allo will be the first place users can interact with Assistant, but Google 
+will bring it to more and more of its products, including its Google Home 
+smarthome hub voice-activated assistant, which is due for release later this 
+year to rival Amazon’s Echo and Alexa.
+
+Google Allo and Assistant were first announced alongside the company’s video 
+chat app Duo at theI/O developer’s conference in May 
+<https://www.theguardian.com/technology/2016/may/19/google-io-2016-what-you-need-to-know-from-allo-to-daydream>
+ and have been released ahead of the expected launch of new Google own-brand 
+smartphones on 4 October.
+
+ * Duo video calling app: Google launches cross-platform answer to FaceTime 
+<https://www.theguardian.com/technology/2016/aug/16/duo-video-calling-app-google-android>
+ 

@@ -1,0 +1,112 @@
+
+In the nearly nine months since the Edward Snowden revelations began on this 
+website, some of the most jaw-dropping surveillance news has involved a company 
+called RSA, which for years has been one of the top computer security firms in 
+the world. Boiled down, RSA isalleged to have weakened 
+<http://www.reuters.com/article/2013/12/20/us-usa-security-rsa-idUSBRE9BJ1C220131220>
+ a core element of a widely used encryption product at the behest of the 
+National Security Agency, receiving $10 million in the process of providing a 
+“back door” for government snooping.
+
+RSA issued what amounted to a non-denial denial 
+<https://www.theguardian.com/technology/2013/dec/23/security-company-rsa-denies-installing-nsa-back-door>
+ after Reuters’ Joseph Menn broke a key part of the story back in December. 
+This week, at its annual cyber-security conference here in San Francisco, the 
+company was on defense at an event usually reserved for looking forward, not 
+back. Its CEOsaid that any weakness was inadvertent 
+<http://www.reuters.com/article/2014/02/25/usa-cybersecurity-rsa-idUSL1N0LU29Y20140225>
+, at least on RSA’s part, and not the result of some nefarious deal with the US 
+government. Respected cryptographer and university professor Matt Blazesummed 
+it up nicely <https://twitter.com/mattblaze/status/438842253751365633>: 
+“Everyone to RSA: Did you deliberately sell us out, or are you incompetent? 
+RSA: We’re incompetent”.
+
+
+It’s too early to tell whether this incompetence – or betrayal, take your pick 
+– will hit RSA and its $51bn parent company, EMC, where it should: on the 
+bottom line. And despite a boycott by some scheduled speakers here, the RSA 
+conference was well-attended. As one security expert who’s expressed contempt 
+for the company’s behavior told me, it’s still his best chance to catch up, 
+face-to-face, with other top people in this still burgeoning field.
+
+But the episode did spark another gathering, held Thursday across the street 
+from where RSA held its conference, where the topic of the moment wasn’t 
+security, per se. It was trust, a commodity in short supply these days.
+
+“TrustyCon <https://www.trustycon.org/>” – short for the Trustworthy 
+Technology Conference – came together in a hurry after Mikko Hypponen, chief 
+research officer for F-Secure, a Finnish security company, announced in January,
+in a public letter to RSA 
+<http://www.f-secure.com/weblog/archives/00002651.html>, that he was canceling 
+his scheduled RSA conference talk and that his own company would skip the event 
+entirely. Hypponen, a rock star in the computer security world, gave the 
+opening keynote at TrustyCon instead. It was a pessimistic assessment of 
+technology users’ chances to have a computing and communications they can 
+genuinely trust in an age when nation-states have taken over as the most 
+dangerous – even malicious – hackers on Earth.
+
+“Our worst fears turned out to be fairly accurate,” Hypponen said of what’s 
+transpired in the security world over the past few years. And he’s right: in 
+the past nine months, it’s become clear that many of the people once derided as 
+paranoid were, if anything, understating the reality of how much we’re all 
+being watched. Certainly,Thursday’s revelation on this website 
+<https://www.theguardian.com/world/2014/feb/27/gchq-nsa-webcam-images-internet-yahoo>
+ that spy services had become outright peeping toms by hijacking webcam images 
+would have sounded ridiculous not so long ago.
+
+Alas, from betrayal rose a glimmer of hope in this insidery community – that 
+privacy might make an everyday comeback, and maybe even sell.
+
+At TrustyCon, for example, technologists updated the audience on an important 
+security service for whistleblowers and the journalists to whom they leak 
+documents. This was “SecureDrop <https://pressfreedomfoundation.org/securedrop>
+”, a project started by the late Aaron Swartz and now run by the Freedom of the 
+Press Foundation which ensures safe communications by relying on the Tor 
+web-anonymity system. No one says SecureDrop is perfect. But it is easy to use 
+and robust, a vast improvement over what journalists have typically deployed.
+
+Early this week, meanwhile, I downloaded the new version of a free 
+Android-based messaging app called “TextSecure 
+<https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms>”. 
+It’s open-source, easy to use and designed with privacy in mind. As its maker, 
+Whisper Systems,observed on its blog 
+<https://whispersystems.org/blog/the-new-textsecure/>: “A user simply sends a 
+message, and it’s encrypted end to end, every time. Unlike other IM services, 
+there is no distinction between ‘private’ chats and ‘normal’ chats. Private is 
+normal”. The app has a number of excellent features that, from my perspective, 
+make it the current leader in the field. It’s not going to supplant WhatsApp or 
+the other mega-popular messaging software anytime soon, but for people who 
+truly value their privacy, well, it looks like the one to beat. (Whisper 
+Systems also offers an encrypted mobile voice app,RedPhone 
+<https://play.google.com/store/apps/details?id=org.thoughtcrime.redphone>.)
+
+ Another positive development, during an annual week of surprises turned 
+necessarily sour, was the release of “Blackphone <https://www.blackphone.ch/>”, 
+a mobile phone created by people with serious credibility in the security 
+community. It’s also built for privacy from the ground-up. Blackphone is based 
+on the Android operating system but has a number of changes and enhancements 
+that make it much more secure than Google’s standard version of Android. At 
+$629, it’s not cheap , and the company can’t guarantee absolute security 
+against, say an NSA-level attacker of core mobile technologies out of the 
+company’s control, but I can imagine a real market for this device.
+
+“Market” is a key word. The predations of the NSA and other agencies in the US 
+and around the world have, at long last, sparked serious interest in products 
+and services designed to protect users of technology from assaults of all 
+kinds, criminal, corporate and governmental. Venture capital, not just 
+taxpayers’ money, has long poured into technology designed to invade our 
+privacy, so it’s gratifying to see some investment going into ways to protect 
+it from snoops of all kinds.
+
+ Political and social activists – many of whom will be in San Francisco next 
+week forRightsCon <http://rightscon.org>, a conference where human rights 
+people exhort technologists to work for social justice, not just money – are 
+glad to see a growing security consciousness among average people who never 
+used to give this stuff a second thought. In a better world, we wouldn’t have 
+to pay extra for privacy and security. In this one, we do – if it’s available 
+at all. Just having the choice will represent progress.
+
+“We’re not going to solve this today,” Alex Stamos, a security expert and 
+principal organizer of TrustyCon, said as he opened the event. “But we hope to 
+start the conversation about what it means to build trustworthy systems.”
+ 

@@ -1,0 +1,180 @@
+
+Picture a world where no one ever posts anything on social media about nights 
+out or evenings slobbing in front of the TV; instead they share details about 
+work meetings, or recommendations for accounting apps. Why? Because exhibiting 
+exactly this sort of “conscientious” behaviour on social media could 
+potentially shave hundreds of pounds off your insurance premiums, it emerged 
+this week.
+
+Motor insurer Admiral announced it was going to use social media to analyse 
+the personalities of first-time drivers 
+<https://www.theguardian.com/technology/2016/nov/02/admiral-to-price-car-insurance-based-on-facebook-posts>
+. If their Facebook posts indicated they had personality traits Admiral could 
+link to safer driving habits and fewer claims, annual discounts of up to £350 
+would be offered via the insurer’s new firstcarquote product.
+
+But just before launch the insurer was forced into a U-turn. Facebook said the 
+product would break its terms and conditions, which prohibits the use of data 
+obtained from its service to make decisions about eligibility. “Following 
+discussions with Facebook, the product is launching with reduced 
+functionality,” an Admiral spokesperson announced. It will still, however, ask 
+for access to drivers’ public Facebook profiles before it provides them with a 
+quotation, so customers can “share some information to secure a faster, simpler 
+and discounted quote”.
+
+This is the new world of big data and insurance, where social media websites 
+are vast sources of valuable information just waiting to be plundered. 
+“Insurers have been recruiting data scientists, and I think it is very likely 
+they are already using information from social media websites to set premiums,” 
+says Gary Frost, managing director of 51zero, a software consultancy 
+specialising in data gathering and analysis for financial services firms. “If 
+they’re not, they’re missing a trick. It provides extra detail and information 
+which can help improve their risk scoring.”
+
+Insurers can access all the data that is posted publicly on Twitter and 
+Facebook, Frost says. “You can’t buy access to a private social media profile, 
+but insurers can potentially find out all the public information these sites 
+store about you, such as who you are friends with, your public updates, public 
+pages you have liked and posts you have publicly recommended or shared.
+
+I think it is very likely insurers are already using information from social 
+media to set premiums
+Gary Frost, data analyst 
+“So if you buy a cherry-bomb sport exhaust to soup up your Vauxhall Corsa and 
+talk about it on social media, classification and clustering technology is 
+likely to place your profile with a community of higher-risk consumers.”
+
+Any lifestyle information the insurer can glean about you from any source – 
+for example, your sexual orientation, race, religion, predilections, estimated 
+consumption of alcohol, cigarettes and even saturated fat when out socialising 
+– could potentially be used to reassess your application and increase or 
+decrease the cost of your premiums.
+
+Mining other information
+
+It’s not just your social media data that insurers are using, however. 
+“Insurers are always looking for new ways of creating an advantage for 
+themselves, so they can win more customers and be more efficient,” says Simon 
+McCulloch, director of insurance for Comparethemarket. “They will use all the 
+information they can gather about you to offer more accurate pricing and 
+personalise your quotes.”
+
+Even seemingly innocuous information can potentially be linked to a higher or 
+lower claims ratio, and therefore affect your premium. This includes the web 
+browser you use to buy your policy, the time of day and month of the year you 
+do so, and whether you use a comparison site.
+
+Each time you apply for insurance, regardless of how you pay for your policy, 
+your insurer is likely to soft-search your credit record. “There are very 
+significant correlations between likely claims and credit scores,” says Kevin 
+Roberts, director at Legal & General. “Better credit scores generally result in 
+fewer claims – we don’t know why.”
+
+Consumers shouldn’t assume they can control the data they share. Insurers will 
+look for any previous contact and use that to make a judgment about a new 
+application. For example, if you visit two comparison websites in quick 
+succession to request quotes, all the insurers which offered you quotes the 
+first time will be able to match your profile when you visit the second site – 
+and because they know they’ve quoted for you previously, they may take a dim 
+view of any changes to what you disclose, such as your annual mileage. “I’d 
+expect that to have a negative impact on your premium. It may be seen as 
+indicative of dishonest behaviour,” says McCulloch.
+
+Similarly, if you already hold a policy with an insurer, the answers you gave 
+when you first applied may be analysed in relation to the new application. For 
+example, any disclosures about high value ticket items or burglaries on your 
+home policy may be considered in relation to a motor policy.
+
+Insurers have also found a correlation between callouts on motor breakdown and 
+home emergency policies and claims on motor and home insurance products, says 
+Roberts. So if you are loyal to a breakdown service and make few callouts, you 
+may be offered a cheaper insurance policy by any provider with access to that 
+data. “AA members tend to be a better risk for us,” says Ian Crowder, 
+spokesperson for the AA’s insurance arm. “We know them so can offer discounts. 
+They tend on the whole to care for their vehicles and thus are more likely to 
+recognise risks when it comes to motoring.”
+
+The AA is running a 10,000-driver trial of “connected cars” (vehicles 
+connected to the internet) to, it says, identify faults before a breakdown. 
+This will involve installing a dongle, which will allow it to track drivers’ 
+behaviour, including speeding, cornering, acceleration, braking and high-rev 
+incidents, and to map what happens where. “This could inform insurers of 
+potential risk, not just about behaviours but the type of roads that are driven 
+on and when,” Crowder says.
+
+When you apply for insurance, firms will already attempt to analyse your 
+whereabouts and the places you travel to. “Companies can obtain lots of 
+information about postcodes from third-party sources,” says Toni Vitale, 
+director at law firm Addleshaw Goddard. For example, he says, if you provide 
+your car insurer with details of your home and work postcodes, it may map out 
+the most likely route between the two, and then take into account the crime 
+rates of the postcodes you will be passing through each day.
+
+Like the AA, supermarkets also factor in the information they’ve gathered 
+about you when deciding your premiums. When you apply for a car, home or pet 
+insurance quote from Tesco Bank, it looks for a Clubcard number linked to your 
+household. Its privacy policy tells customers that “Tesco Stores Limited make 
+this Clubcard information (including information about purchases …) available 
+to us to enable us to generate a risk score for your household, which is used 
+to calculate the level of Clubcard discount Tesco Bank and its insurers may 
+offer you.”
+
+AA motorists tend to care for their vehicles and thus are more likely to 
+recognise risks when it comes to motoring
+Ian Crowder, AA Insurance 
+Tesco Bank says the most important factors it considers are not your 
+individual transactions, but the length of time you have been shopping at Tesco 
+and the amounts you spend. Some Clubcard holders will pay 25% less than other 
+people, although Tesco says most are typically offered discounts of 10%-15%. 
+“We only use Clubcard data to reduce the cost of our policies for customers,” a 
+spokesperson says.
+
+Similarly, if you’re a Nectar card holder Sainsbury’s says it will look at the 
+size of your spend and how frequently you shop at its stores, and offer you up 
+to 15% off its home and car insurance premiums. “Information about your 
+individual purchases is available, but we don’t use it to make any decisions,” 
+a spokesperson says.
+
+Data discrimination
+
+Jim Killock of the Open Rights Group is sceptical about the rewards on offer 
+in return for this data. “I think insurers are tempting people to share their 
+data by saying they might get a discount, but in fact they’ve just priced 
+everybody else up,” he says. “An insurer’s goal is to maximise its profits, 
+after all, and now they are using unrelated information to make judgments about 
+people. We are not aware precisely how far these judgments might go. For 
+example, a machine might decide there’s a correlation between someone’s ethnic 
+background and the claims data, and start pricing people out of insurance. In 
+this way, using unrelated data may introduce racial biases and discriminate 
+against people without good reason.”
+
+In September, the Financial Conduct Authority identified that the use of big 
+data had the potential to leave some consumers worse off, and said it was 
+concerned that it could enhance an insurer’s ability to identify ways to charge 
+certain customers more.
+
+“The increasing amounts of data from a wider range of sources, alongside 
+sophisticated analytical tools, might lead to the use of reasons other than 
+risk and cost in pricing becoming more prevalent,” said Christopher Woolard, 
+the FCA’s director of strategy and competition.
+
+“To assess how different pricing factors are used, we will … look at pricing 
+practices in a limited number of firms in the retail general insurance sector 
+this year.”
+
+MANAGE YOUR PROFILES
+
+■ “Check a site’s terms and conditions,” says Toni Vitale from Addleshaw 
+Goddard. “Know what you are signing up to and how they are going to share your 
+information with other companies.”
+
+■ “Don’t fill your Facebook page with fast cars or show that you’re an 
+adrenalin junkie. Keep your profile as private as possible,” says Kevin Pratt 
+of Moneysupermarket.com.
+
+■ “Make sure you know exactly what is on your public Facebook profile,” says 
+Gary Frost from software consultancy 51zero. To do this, go to your profile and 
+click on the three dots next to “View Activity Log”. Then click “View As …” and 
+you will be able to see what your timeline looks like to a member of the public 
+who happens upon your profile.
+ 

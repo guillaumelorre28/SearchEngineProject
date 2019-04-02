@@ -1,0 +1,176 @@
+
+Founded on 1 April 1976, Apple <https://www.theguardian.com/technology/apple> 
+celebrates its 40th birthday on Friday and from a garage in Los Altos to a new 
+spaceship-shaped HQ in Cupertino, it has come a long way.
+
+It enters its fifth decade with a market cap of $621.8bn and, in CEO Tim 
+Cook’s words, “the mother of all balance sheets” with almost $216bn of cash 
+reserves.
+
+But from battles with the government over privacy to questions as to what its 
+next big thing is, there are challenges ahead – and not just those facing many 
+other 40-year-olds … like spending too much money on a midlife crisis car that 
+it probably doesn’t need.
+
+1) Software stasis: the need for improvements
+
+Any company whose former CEO regularly boasted that “it just works” can expect 
+criticism when its technology, well, doesn’t just work. This month has seen 
+user fury overthe iOS 9.3 software, non-working links and crashing iPhones 
+<https://www.theguardian.com/technology/2016/mar/30/broken-iphone-links-frustrate-thousands-apple-fix-problem>
+, which came hot on the heels ofSafari browser crashes in January 
+<https://www.theguardian.com/technology/2016/jan/27/apple-iphone-users-angered-safari-browser-crash-how-to-fix-it>
+.
+
+This isn’t just about bugs: Apple’s iTunes desktop software remains a magnet 
+for criticism of its clunky interface, whilethe iOS software’s familiarity has 
+started to breed contempt 
+<https://www.theguardian.com/technology/2016/feb/24/apples-ios-hardware-software-smartphones>
+ in some quarters.
+
+Fears that Apple is losing its software edge are becoming an annual tradition 
+<https://marco.org/2015/01/04/apple-lost-functional-high-ground>. Across its 
+business – from iCloud to the App Store to Game Center to notifications to 
+Apple Music – there are questions about its attention to detail. Or, indeed, 
+its attention to thingsjust working.
+
+Apple’s challenge – which applies just as much to Google, Facebook and any 
+other big tech company you care to mention – is to balance stability and 
+usability with the rapid pace at which new technologies are being introduced.
+
+2) New frontiers from wearables and cars to VR
+
+Will Apple ever have an iPhone-sized hardware hit again? It’s a strange 
+question: often resting on the assumption that another device can be as 
+pervasiveand personal as the smartphone.
+
+It’s more likely that Apple’s business will grow based on a family of products 
+– lesser-sized hits, but still hits – that complement the iPhone. iPad sales 
+(and tablet sales more generally) have tailed off; there’s still little 
+evidence that theApple Watch 
+<https://www.theguardian.com/technology/apple-watch> is appealing to anyone 
+beyond early adopters; and it’s early days for the post-”hobby” Apple TV device.
+
+What next? Apple executives continue to perform the corporate equivalent of a 
+nudge and a wink whenever asked about making a car – “it’s going to be 
+Christmas Eve for a while,”Cook said in February 
+<http://www.theverge.com/2016/2/26/11120574/tim-cook-apple-car-speculation-like-christmas-eve>
+ – but entering that particular category is an immense (and thus fascinating) 
+challenge: from design to technology to the most basic future-proofing 
+decisions, such as whether it’s driven by a human or by whatever Siri becomes 
+by the time it goes on sale.
+
+Apple’s strength in its modern (iPod and everything since) incarnation has 
+been as much about what it doesn’t make and release as what it does. There will 
+be plenty more opportunities tonot make products in the years ahead, from 
+flatscreen TVs to virtual reality headsets.
+
+3) Picking its privacy fights carefully
+
+Many thousands of words have been written about Apple’s recent tussle with the 
+FBI over unlocking theiPhone <https://www.theguardian.com/technology/iphone> of 
+one of the San Bernardino shooters. The dropping of the case has by no means 
+settled the wider issues around encryption, privacy and public safety.
+
+Cook and Apple were bold in their decision to take the dispute public in the 
+way that they did. Whether you agree with the company’s strongly-worded views 
+on the FBI’s demands or not, it was an important debate to have in public. Not 
+least because it alerts us to the fact that governmentsmay strive to keep 
+future cases like this secret 
+<https://www.theguardian.com/commentisfree/2016/mar/29/fbi-apple-case-dropped-san-bernardino-iphone-far-from-over>
+.
+
+Apple’s stance is now set, though, which puts it in the forefront (and firing 
+line) of the wider debates around technology and privacy that are looming. The 
+company will be picking its battles carefully – and certainly using the topic to
+take regular jabs at Google from keynote stages 
+<http://www.stuff.tv/features/apples-wwdc-keynote-repeatedly-smacked-google-in-face-you-just-didnt-see-punches>
+ – while accepting the scrutiny that comes with its privacy-protecting promises.
+
+How will that protection extend to Apple customers in, say, China and Russia? 
+And just as important as pushing back against governments is the ongoing arms 
+race against criminals: ensuring that the technology in iOS and Apple’s other 
+platforms remains an effective barrier to anyone with cyber-mischief in mind.
+
+4) Growing in to its role as a media gatekeeper
+
+Apple has historically seen itself as marrying technology with the liberal 
+arts. In 2016 that means getting to grips with a role as a powerful filter, or 
+gatekeeper, for liberal arts, entertainment and information.
+
+It’s already been a bumpy road at points, as controversies over App Store 
+censorship ofnudity in satirical game Papers, Please 
+<https://www.theguardian.com/technology/2014/dec/15/apple-censoring-games-music-books>
+; agame parodying North Korean propaganda 
+<https://www.theguardian.com/technology/appsblog/2013/aug/06/apple-bans-joyful-executions-game>
+; games aboutthe war in Syria 
+<https://www.theguardian.com/technology/appsblog/2013/jan/08/endgame-syria-apple-rejection>
+ andsmartphone supply chains 
+<https://www.theguardian.com/technology/appsblog/2011/sep/14/apple-phone-story-rejection>
+; andan app tracking deaths caused by US drone strikes 
+<https://www.theguardian.com/technology/2015/sep/30/apple-removing-drone-strikes-app>
+ showed. Not to mention digital comics firm Comixologyrefusing to distribute on 
+iOS an issue of Saga comic featuring gay sex scenes 
+<https://www.theguardian.com/technology/appsblog/2013/apr/11/apple-saga-comic-app-store-ban>
+, after (wrongly, as it turned out) assuming that Apple would ban it.
+
+In some of these cases, Apple has changed – or at least clarified – its 
+policies. Its belief that books, music and films are more deserving to tackle 
+some of those issues than games remains a curious cultural blind spot for the 
+company. But there will be other rows ahead. Music streaming companies such as 
+Spotify are grumbling about the 30% cut Apple takes of their in-app 
+subscriptions on iOS while blocking them from pointing users to their websites 
+to subscribe directly; Amazon locked horns with Apple over in-app Kindle ebook 
+sales in the past; and video streaming services may do so over subscriptions in 
+the future.
+
+Then there’s news. The Apple News app has the potential to become one of the 
+main filters – alongside Facebook and whatever Google comes up with forAndroid 
+<https://www.theguardian.com/technology/android> – for reading news. Not to 
+mention a key source of advertising revenues for its publishers.
+
+These are interesting times for a company that can be thin-skinned when it 
+comes to criticism: the concerns here aren’t just that Apple might take action 
+to reduce the distribution of critical stories or sceptical publications; but 
+also of the potential chilling effect for publishers who expect it to do that – 
+the Comixology effect.
+
+5) Corporate responsibility: workers, women, climate and more
+
+Finally, to the policies that might spark some of that critical news coverage. 
+Due to its wealth and influence, Apple has been scrutinised for some time 
+around issues including worker rights, environmental action and equality.
+
+At times it has been praised for taking strong public stands on issues such as 
+gay marriage and climate change – Tim Cook once angrily told a campaigner 
+against action to tackle climate change to“get out of this stock” 
+<https://www.theguardian.com/environment/2014/mar/03/tim-cook-climate-change-sceptics-ditch-apple-shares>
+. At other times, however, it has been attacked for falling short of 
+expectations – if not always legal obligations – onworking conditions in the 
+Chinese factories that make its products 
+<https://www.theguardian.com/technology/2014/dec/19/apple-under-fire-again-for-working-conditions-at-chinese-factories>
+.
+
+Sometimes, the small questions around these issues can hint at wider 
+challenges too. Why didSiri seem to have a problem with gay marriage in Russia 
+<https://www.theguardian.com/technology/2015/apr/16/apple-russian-siri-homophobic-refuses-answer>
+? Why was period-trackingleft out of the initial release of Apple’s Health app 
+<http://fusion.net/story/147020/finally-the-iphone-will-have-a-period-tracker-for-women/>
+? But the company can also drive conversation and action with its big moves: the
+$1.5bn green bond announced in February 2016 
+<https://www.theguardian.com/sustainable-business/2016/mar/20/apple-green-bond-environment-energy-toyota-climate-change>
+ and its willingness toopen up about its efforts to reduce its impact on the 
+environment 
+<https://www.theguardian.com/environment/2014/apr/22/apple-climate-change-is-real-and-its-a-real-problem>
+.
+
+These issues aren’t restricted to Apple by any means: journalists and gadget 
+buyers alike may be even more willing to ask hard questions in the years ahead. 
+How are the materials inside our smartphones sourced? How are the workers 
+assembling them treated? How green are those factories? How white and male are 
+the executives making the decisions about these and other strategies?
+
+Under Cook’s leadership, Apple has shown itself willing to open up on these 
+issues already, and take bold stances. Continuing that may be a competitive 
+advantage, but more importantly, it’s a necessity.
+ 

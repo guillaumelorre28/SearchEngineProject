@@ -1,0 +1,210 @@
+
+Apple is forging new ties with Facebook but will dump Google from its maps on 
+the iPhone and iPad this autumn, in the latest realignment of forces inSilicon 
+Valley <https://www.theguardian.com/technology/silicon-valley>.
+
+Scott Forstall, Apple's senior vice president of iOS software, showed off the 
+new version of theMaps <https://www.theguardian.com/culture/maps> app on the 
+still-unreleased iOS 6 mobile operating system at the company's Worldwide 
+Developers Conference in San Francisco.
+
+"We're doing all the cartography ourselves," said Forstall. "This is a 
+worldwide effort, we're covering the world." The software, to be released later 
+this year, includes turn-by-turn navigation and voice direction - finally 
+putting it on a par with Google's Maps app onAndroid 
+<https://www.theguardian.com/technology/android> phones - and adds crowdsourced 
+traffic conditions from other iOS users, putting it marginally ahead of 
+Google's product.
+
+Earlier versions of iOS will possibly continue to use Google's map data, 
+because the new app uses different software interfaces, or APIs. It's also 
+unclear whetherGoogle <https://www.theguardian.com/technology/google> will be 
+allowed to submit its own Maps app to Apple's App Store, where it might be 
+deemed to "duplicate existing functionality" of inbuilt iPhone software. 
+Neither company had responded to a request for clarification by the time of 
+publication.
+
+The source of the mapping data appears to be TomTom, which in turn owns the 
+world mapping service TeleAtlas, purchased in 2008.
+
+Forstall pointed out that iPhone and iPad users update the software on their 
+devices much more quickly than Android users, pointing to statistics saying 
+that over 80% of iOS devices now run iOS 5, released in October,compared to 
+just 7% for Android 4.0 
+<https://www.theguardian.com/technology/appsblog/2012/jun/03/google-play-android-ics-share>
+, aka "Ice Cream Sandwich".
+
+He also demonstrated new tieups that will build Facebook 
+<https://www.theguardian.com/technology/facebook> deeply into the iPhone's 
+software, letting users update their walls with pictures, posts, "Likes" and 
+calendar entries from almost any application.
+
+Do Not Track Safari
+
+In a further cut at Google, the next version of the MobileSafari browser will 
+also incorporate "Do Not Track" functionality, which makes it harder for 
+advertisers such as Google's DoubleClick network to aim higher-paying targeted 
+ads at users based on their browsing history. MobileSafari dominates mobile web 
+browsing, used for64% of all such surfing according to NetMarketShare 
+<http://www.netmarketshare.com/browser-market-share.aspx?qprid=0&qpcustomd=1>. 
+Without the ability to serve targeted ads, DoubleClick - and so Google - will 
+see lower payments per ad served on iPhones, a trend that is already evident in 
+its pay-per-click revenues.
+
+Microsoft, which has made no secret of its antipathy to Google, is also 
+promoting Do Not Track for the next version of Internet Explorer on the desktop.
+
+Other changes highlighted during the keynote were improved privacy controls to 
+match those in Google's Android, with users able to control what personal data 
+apps are able to access.
+
+Siri expansion
+
+Siri, the "voice assistant" technology which Apple quietly purchased in 2010 
+and subsequently limited to theiPhone 
+<https://www.theguardian.com/technology/iphone> 4S, will be extended to the 
+third-generation iPad launched in March. It will also expand "local search" 
+facilities to more countriesthrough new partnerships with third-party services 
+such as Yelp and Opentable for local restaurant recommendations and bookings. 
+It is also expanding to the iPad.
+
+Siri will also now respond to sports-related enquiries with match results, 
+league tables and player profiles for sports including baseball, basketball, 
+American football and football – including the Premier League in England – 
+while also pulling in reviews and trailers for film queries, and launching apps 
+when told by the user.
+
+Francisco Jeronimo, smartphones and tablets analyst at the research company 
+IDC, commented: "Apple will try to close the gap with Android in terms of 
+market share, but it will continue to lead the user experience and usability 
+race. Among the most relevant features presented today are the Facebook 
+integration, the improvements on Siri and availability on the newiPad 
+<https://www.theguardian.com/technology/ipad>, and the new Maps. The reason is 
+simple: they create value!"
+
+Carolina Milanesi, smartphones analyst at Gartner, said that the focus was 
+clearly on adding value for the user - and that even whereApple 
+<https://www.theguardian.com/technology/apple> had lagged in adding software 
+features compared to Android, it had implemented them in more effective ways 
+for the user.
+
+The abandonment of Google for map data, which had been supplying Apple since 
+the iPhone's launch in 2007, marks a significant step. Apple has repeatedly 
+showed that it dislikes being dependent on outside companies for essential 
+elements of its devices - and will change them even at some cost to itself. Its 
+decision not to allow Adobe's Flash on the iPhone and iPad became a source of 
+contention with both users and developers, but eventually Adobe gave in.
+
+Now Google has been ousted from the maps app, where it would have been able to 
+acquire a significant amount of user location data and serve location-based ads.
+
+Separately, in an echo of the way that iPods docks began to become part of US 
+cars in the mid-2000s, Forstall said Apple is also working with carmakers 
+including BMW, General Motors and Land Rover to embed physical buttons on 
+steering wheels to trigger Siri in a docked iPhone without illuminating the 
+screen. That will enable drivers to control Siri without being tempted to look 
+at the screen.
+
+Facebook: Apple Likes this
+
+The deeper inclusion of Facebook, which will be baked into the iOS operating 
+system rather as Twitter was into iOS 5, means users will log in once with 
+their Facebook details, and will then be able to easily post to Facebook from 
+within their apps, to 'Like' apps, and see which apps their Facebook friends 
+are 'Liking', and see Facebook events, contacts and birthdays within the iOS 
+calendar and contacts apps.
+
+Apple and Facebook had a complicated relationship in the past: a deal to 
+include Facebook integration in Apple's Ping 
+<https://www.theguardian.com/technology/2010/sep/02/ping-apple-music-social-media>
+ music social network foundered just before it launched in September 2010 due 
+to what then-chief executive Steve Jobs described publicly as "onerous terms".
+
+But on stage at WWDC on Monday, Forstall, described the new integration as 
+"the best Facebook experience ever on a mobile device". It may not scotch 
+ongoing talk of a fully-fledgedFacebook phone rumoured to be in development 
+<https://www.theguardian.com/technology/2012/may/28/facebook-buffy-phone-google-apple>
+, but the partnership looks like a win for Apple, Facebook and iOS users.
+
+As predicted 
+<https://www.theguardian.com/technology/2012/may/11/apple-maps-io6-google>, 
+Apple's new Maps app dispenses with Google for data. One hundred million local 
+business listings have already been incorporated into the maps, as well as Yelp 
+listings, Forstall said. The app also includes a 3D vector graphics view of 
+cities and landmarks, and a feature called Flyover, with 3D photographic models 
+of cities and landmarks – similar to new features shown off earlier in the 
+month by Google for its Google Earth apps.
+
+Apple will also run its own crowdsourced traffic service, alerting iOS users 
+to congestion when travelling. "We're using anonymous, real-time crowdsourced 
+data right from our iOS users," said Forstall – a feature seen already in 
+third-party apps like Waze and Research In Motion's BlackBerry Traffic, but 
+leveraging the large installed base of iPhone users in the US.
+
+No TV SDK
+
+Despite rumours leading up to the show, there was no software development kit 
+that would let iOS developers write apps for the Apple TV set-top box.
+
+Instead a demonstration of a game called CSR Racing, developed by 
+NaturalMotion, hinted at a different strategy: the app will be released 
+simultaneously for iOS devices and Macs, with both able to play it on Apple 
+TV-connected televisions using the AirPlay Mirroring feature. In effect, Apple 
+is encouraging its developers to put their apps on televisions, but using an 
+existing feature rather than a new SDK.
+
+iOS 6 will have some other new apps too. Passbook collects QR codes downloaded 
+within other iOS apps, such as movie tickets and airline boarding passes. 
+Guided Access is an accessibility app with features enabling parents and 
+teachers to block children from triggering specific buttons within apps, and a 
+"single app mode" to stop them from exiting an app.
+
+Improvements to existing iOS apps included better sharing features in Apple's 
+Photo Streams app, making it easier for people to choose a set of photos and 
+share them with specific friends: a sign that despite the company's 
+partnerships with Facebook and Twitter, it retains its own social ambitions.
+
+New laptops - and retina display
+
+The company also announced new MacBook Air and MacBook Pro laptops, including 
+a pro product which includes a "retina display", with a total of 5.18m pixels 
+in a 2880 x 1800 display, doubling the number of pixels per side from a 
+standard 1440 x 900 display, and giving resolution of 220 pixels per inch.
+
+The next version of the desktop Mac OSX software will be released in July as a 
+download, costing $19.99 in the US; UK prices have not yet been set. Craig 
+Federighi, head of Mac OSX development, said that the number of Mac users has 
+tripled in the past five years to 66m, of whom 50% had upgraded to the existing 
+"Lion" version after nine months - compared to 27 months, he said, for Windows 7
+
+iOS and Mac OSX developers will now be getting their teeth into hundreds of 
+new APIs and consumer features in the new software during the rest of the week 
+at WWDC.
+
+Those developers can download the iOS 6 beta and latest build of Mac OS X now; 
+the former is expected to see a consumer release in the autumn - which will 
+heighten expectation of a new iteration of the iPhone to accompany it.
+
+iOS momentum
+
+There was the customary blizzard of iOS momentum stats and digs at Android 
+during the keynote session, too.
+
+Apple's App Store has now reached 30bn downloads, with developers earning $5bn 
+from paid sales and in-app purchases in their iOS apps. There are more than 
+650k iOS apps available, with 225k of them native iPad apps. Apple has sold 
+more than 365m iOS devices, has more than 400m registered iTunes user accounts, 
+and 125m registered users for its iCloud services.
+
+Forstall also said that there are 140m iOS users of the iOS 5 "iMessage" 
+service, which bypasses SMS systems, who are sending more than 1bn messages a 
+day. He noted that Twitter has done well from its partnership with Apple in iOS 
+5, tripling its number of registered iOS users. He also claimed that 47% of 
+photos being shared on Twitter come from iOS devices.
+
+In a video to warm up the crowd featuring Siri telling a number of jokes 
+("welcome to Silicon Valley, the ATM for America"), Apple also took a dig at 
+its biggest smartphone rival, Korea's Samsung. "I'm really looking forward to 
+the new Samsung," said the computerised voice, and then paused. "Not the phone. 
+The refrigerator."
+ 

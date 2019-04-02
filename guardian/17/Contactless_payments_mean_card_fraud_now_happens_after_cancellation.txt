@@ -1,0 +1,139 @@
+
+Consumers are at risk of falling victim to fraudulent payments made on 
+contactless credit and debit cards that have already been cancelled following a 
+loss or theft.
+
+Guardian research has revealed that banks do not automatically check many 
+contactless payments, allowing thieves to continue to use stolen cards even 
+after they have been cancelled. This is because some payments – such as when 
+contactless cards are used to pass through London’s tube network barriers – are 
+waved through as offline transactions and only checked later. One bank told the 
+Guardian that virtually all transactions for less than £15 were not immediately 
+checked.
+
+Contactless technology allows customers to make quick payments by simply 
+touching their card on to a terminal. There are now 74.5m contactless cards in 
+circulation in the UK, and they have become more popular since the spending 
+limit was raised from £15 to £30.
+
+However, most customers will not realise that the cards cannot be completely 
+cancelled if lost or stolen, and that some banks will expect the customer to 
+spot and report fraudulent payments to reclaim their cash. Cards do contain a 
+chip which limits losses, but they may be used until this limit is reached if 
+the payment terminal is operating offline.
+
+While a shop’s payment terminal might go online to process a payment and 
+verify the card before allowing a sale, some transactions are made offline and 
+only processed with the bank later. While this allows payments to be processed 
+quickly, it also means that lost or stolen cards may be used even after being 
+cancelled.
+
+“The contactless facility on bank cards across the industry is designed to 
+approve transactions ‘offline’ without referring to the account provider for 
+authorisation, for the speed and convenience of customers,” says Gillian 
+Fleming, spokesperson for First Direct and HSBC. A spokesman for RBS and 
+NatWest, meanwhile, says: “In theory a small number of contactless transactions 
+could be made before the card is blocked.”
+
+RBS, Lloyds and Santander all say their systems can pick up contactless 
+spending after a card is reported stolen, with Santander saying it would 
+proactively contact customers to verify any payments, and Lloyds saying it 
+would automatically refund any payment after a theft.
+
+Barclaycard says: “When a customer reports a card lost or stolen, a block is 
+applied to the card preventing all further activity. However, some contactless 
+transactions are processed offline so may not appear on a customer’s account 
+until after the block has been applied.” It says payments that had been made 
+offline on the day of cancellation may be applied to accounts and would be 
+refunded when the customer identified them; payments made on days after the 
+cancellation will not be taken from an account.
+
+At other banks the onus seems to be on customers to spot all rogue payments.
+
+To date, fraud on contactless cards is low. Figures produced by the UK Cards 
+Association show that in the first six months of 2015 there was £516,500 of 
+fraudulent transactions on contactless cards – the equivalent of just 2p for 
+every £100 spent using the technology.
+
+A small number of contactless transactions could be made before the card is 
+blocked
+
+However, the figure could understate the true level of losses as many 
+customers are unaware that they can still be defrauded after reporting a card 
+as stolen or lost. Geoffrey Barraclough, a payments and technology expert, 
+thinks this could be the case: “The fraud statistics that are shared would only 
+be fraud that the banks are aware of,” he says. “If nobody reports it – 
+because, for instance, they didn’t know to look for it – the banks wouldn’t be 
+aware of it. Unless you go through your statements there is no way of telling 
+whether the cards are being used after you have cancelled them.”
+
+A spokesman for the UK Cards Association says: “There is absolutely no 
+evidence to suggest fraud on contactless cards is under-reported. Incidents of 
+fraud are identified in a number of ways, not just by a customer, and all banks 
+have advanced security systems in place to detect fraudulent transactions.
+
+“As always, it is important to check bank or card statements regularly for any 
+unusual transactions, especially if a card has been lost or stolen. Anyone who 
+is a victim of card fraud will get their money back and will not be left out of 
+pocket.”
+
+As a security measure, contactless cards demand that a user keys in his or her 
+pin number after a certain number of payments or when a certain financial 
+threshold is met. This is set by the card provider and varies from bank to 
+bank. There is no time limit on the payments, so until it is reached the card 
+can continue to be used.
+
+“Our cards do have a spend limit that triggers the card to ask for a chip and 
+pin verification, which would then prevent someone from making contactless 
+purchases on the card,” says a spokeswoman for TSB.
+
+Banks are reluctant to reveal how many fraudulent transactions could take 
+place before the pin number is requested. Tom Foxton, a spokesman for 
+Barclaycard, says: “We wouldn’t give out that information as it would be useful 
+for those intending to use the cards for criminal purposes.”
+
+An unnecessary stress
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fmoney%2F2015%2Fdec%2F19%2Fcontactless-payments-card-fraud-after-cancellation-bank-account%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fb1452e94fca00e13106d1ff620d2f250c8510a29%2F0_118_4368_2622%2F4368.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Contactless%20payments%20mean%20card%20fraud%20now%20happens%20after%20cancellation&url=https%3A%2F%2Fwww.theguardian.com%2Fmoney%2F2015%2Fdec%2F19%2Fcontactless-payments-card-fraud-after-cancellation-bank-account%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Contactless%20payments%20mean%20card%20fraud%20now%20happens%20after%20cancellation&url=https%3A%2F%2Fwww.theguardian.com%2Fmoney%2F2015%2Fdec%2F19%2Fcontactless-payments-card-fraud-after-cancellation-bank-account%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fb1452e94fca00e13106d1ff620d2f250c8510a29%2F0_118_4368_2622%2F4368.jpg>
+ Emma Hartley: ‘Instead of being a one-off, the theft continued for a week.’ 
+Photograph: Martin Godwin for the Guardian 
+Earlier this year I had my handbag stolen, writes Emma Hartley. I cancelled my 
+cards, called the police to get a crime number and tried not to dwell on the 
+uninsured personal items I’d lost. It’s only stuff, right?
+
+
+But it wasn’t as easy as I’d hoped to put the incident behind me. A couple of 
+days later I looked online and saw that my current account had been used by 
+someone other than me.
+
+I rang my bank, First Direct, and asked what was going on; how had my 
+cancelled debit card been used three times in a McDonalds in Greenwich the 
+previous day and twice on a garage forecourt? It’s because it’s a contactless 
+payment card, I was told. I would need to keep an eye on my account and claim 
+back any money that was lost through these fraudulent transactions.
+
+
+At this point I was struck by the ­horrible thought that the First Direct 
+debit card was not the only contactless payment card that had arrived, unasked 
+for, through the post. A call to Barclaycard confirmed that the same thing was 
+also happening with the two cards, a Visa and an Amex, attached to the same 
+credit card account. Several of the fraudulent transactions were through 
+Transport for London (TfL).
+
+
+The person who stole my handbag also committed fraud totalling £135 across my 
+various contactless payment cards, nearly all of which I was eventually able to 
+reclaim (although there was a stray payment to TfL that I didn’t spot until 
+later). What it meant, however, was that instead of being a one-off event, the 
+theft continued for around a week: the last transaction was five days after my 
+handbag was stolen.
+
+
+Contactless payment made having my bag stolen far more stressful than it would 
+otherwise have been.
+ 

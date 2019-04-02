@@ -1,0 +1,122 @@
+
+What's one piece of your privacy worth? About a dollar a day, suggests telecom 
+giant AT&T.
+
+The company's latest internet service offering 
+<http://gigaom.com/2013/12/11/atts-gigabit-service-is-70-if-you-let-it-spy-on-your-searches/>
+ in Austin, Texas comes in two flavors. The company might as well call them the 
+"some privacy" and "no privacy" services. The cheaper version gives customers a 
+discount in return for being targeted more intrusively than ever by 
+user-specific advertising.
+
+Let me explain: the company's Austin experiment is a test to see what a 
+specific market will bear in highly specific conditions. AT&T is offering some 
+Austin neighborhoods its "U-verse with GigaPower" product, which comes in $99 
+per month "standard" and $70 per month "premier" editions, the latterrequiring 
+an agreement 
+<http://www.att.com/esupport/article.jsp?sid=KB421828#fbid=kPqYZOD3-QC>to let 
+AT&T "use your individual web browsing information, like the search terms you 
+enter and the web pages you visit, to tailor ads and offers to your interests".
+
+The trial highlights several realities about internet service in America. 
+First, of course, is the relatively low speed and high cost of most service, 
+due to the so-called "marketplace" of just one or two providers in most cities. 
+AT&T's Austin offering is 10 times the speed of the comparable Comcast service 
+where I live, at about the same price. Why? Competition, which barely exists 
+elsewhere in the US. This is plainly a response to Google's upcoming 
+fiber-to-home product inAustin <https://www.theguardian.com/us-news/austin>, as 
+opposed to any serious move by the telecom company to innovate on price or 
+service.
+
+The AT&T website is quite vague about what the company actually plans to do in 
+its surveillance of customers' web use, and how it will conduct that 
+surveillance in the first place. Their promise:
+
+[AT&T] will not collect information from secure (https) or otherwise encrypted 
+sites, such as when you enter your credit card to buy something online or do 
+online banking on a secure site.
+
+Interesting wording, because it suggests AT&T could choose to do otherwise, 
+but unless it's hacking basic security systems, that shouldn't be possible in 
+any case.
+
+Encryption is the easy dodge for customers who want to get the lower price and 
+thwart AT&T's extra surveillance, of course. A customer could simply use a 
+virtual private network (VPN), which creates an encrypted tunnel for all data. 
+Will AT&T permit this? There's no hint in the terms of service.
+
+Nonetheless, what AT&T is doing has one real virtue: telling customers 
+explicitly that they will trade money for privacy. In an internet economy today 
+where we are given few if any choices of this sort, that's progress of a kind.
+
+Google <https://www.theguardian.com/technology/google> and other major 
+internet companies have made it clear that our use of their services is free 
+only in one narrow sense. As the saying goes, we, the users, are the product 
+being sold to others – mainly advertisers – and we have absolutely no control 
+over the data being collected, massaged, bartered, and sometimes abused.
+
+AT&T's isn't the first to foray in this area. Internet service providers have 
+been looking for years to find ways to leverage their unique hold over 
+customers – their ability to probe what we do and make money off it, despite 
+the blatant invasion of privacy that represents. US and British telecom 
+companies have experimented with the"phorm" product  
+<https://www.theguardian.com/business/phorm>that snooped on browsing habits, 
+one of several such attempts over the years.
+
+This kind of thing should clearly not be permitted, period. ISPs should 
+provide one service only: the connection and the data. Yet the AT&T Austin 
+offering does suggest ways we could encourage other kinds of providers to 
+behave better. If Google et al offered paid services that guaranteed no 
+snooping on my data, I'd be much happier about using them.
+
+One area where this is especially necessary is in mobile. App developers have 
+taken extreme liberties with our personal privacy by demanding a variety of 
+"permissions", as they're called in the Android ecosystem, before we're allowed 
+to download and use their products. Permissions can include access to our 
+phone-calling and contacts, location data, and much more. Sometimes app 
+developers lie about what they're doing. The US Federal Trade Commission 
+recently made a settlement with one that had been collecting location 
+informationdespite promises to the contrary 
+<http://www.networkworld.com/news/2013/120513-android-flashlight-app-developer-settles-276642.htm>
+.
+
+A recent study  <http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2341311>by 
+two University of Colorado economists suggests that mobile phone owners would 
+pay for some privacy. On a per-app basis, wrote Scott Savage and Donald M 
+Waldman, users were "willing to make a one-time payment for each app of $2.28 
+to conceal their browser history, $4.05 to conceal their list of contacts, 
+$1.19 to conceal their location, $1.75 to conceal their phone's identification 
+number, and $3.58 to conceal the contents of their text messages. The consumer 
+is also willing to pay $2.12 to eliminate advertising". And the more 
+experienced a user was with the technology, the more he or she was willing to 
+pay – strongly suggesting that educated technology users don't like what's 
+being done to them.
+
+For a few months this year, it appeared that Google was going to be one of the 
+truly good guys in one respect, offering built-in privacy tools for mobile 
+devices running the latest Android operating system. Sadly, the company removed 
+them in an update, with anabsurd explanation  
+<https://www.eff.org/deeplinks/2013/12/google-removes-vital-privacy-features-android-shortly-after-adding-them>
+that raises even more suspicions about its commitment to privacy. There are 
+other ways to block invasive apps, but those typically involve mucking with the 
+device in ways that average users should be wary of trying.
+
+But again, the question of privacy when it comes to the telecom ISPs like AT&T 
+is a different matter entirely, and more worrisome. Not only are they in a 
+position of enormous power over their customers, they are notoriously 
+contemptuous of our privacy; see AT&T's "it's none of your business 
+<http://bits.blogs.nytimes.com/2013/12/06/att-responds-to-shareholders-concerns-on-user-data/?hpw&rref=technology&_r=0>
+" response to shareholders seeking accountability for the company's willy nilly 
+handover of data to security services. Moreover, they increasingly insist on a 
+right to decide what bits of data get to us, in what order, and at what speed, 
+and they increasingly determined to monetize our use of the services beyond the 
+already hugely profitable provision of connections.
+
+We need laws, with teeth, that stop these companies from treating us all like 
+mice in experimental labs. We also need end-to-end encryption of everything we 
+do online. (VPNs are useful for now, but not the ultimate solution.) Until that 
+happens, we need to recognize that the internet industry is much more 
+interested in its bottom line than our privacy. For now, if I have to buy some 
+privacy – and decide I can trust the promises companies make – I'll do so, 
+gladly.
+ 

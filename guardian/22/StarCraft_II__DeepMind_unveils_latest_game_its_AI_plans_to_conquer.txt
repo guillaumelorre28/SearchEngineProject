@@ -1,0 +1,100 @@
+
+After its success at mastering the ancient Asian boardgame of Go, DeepMind is 
+planning to learn its next game – and it’s about as different as it can 
+possibly be.
+
+The London-based AI research firm, a subsidiary of Google 
+<https://www.theguardian.com/technology/google>, is teaming up with Californian 
+gaming company Blizzard to take on the real-time strategy game StarCraft II.
+
+One of the most popular eSports in the world, StarCraft II meets many of the 
+requirements for an interesting challenge for DeepMind to take on. Not only do 
+the game’s best players easily beat the top AI opponents, but it also 
+introduces new domains for the DeepMind team to explore.
+
+Most importantly, StarCraft II is a game full of hidden information. Each 
+player begins on opposite sides of a map, where they are tasked with building a 
+base, training soldiers, and taking out their opponent. But they can only see 
+the area directly around units, since the rest of the map is hidden in a “fog 
+of war”.
+
+“Players must send units to scout unseen areas in order to gain information 
+about their opponent, and then remember that information over a long period of 
+time,” DeepMind says in a blogpost. “This makes for an even more complex 
+challenge as the environment becomes partially observable - an interesting 
+contrast to perfect information games such as Chess or Go. And this is a 
+real-time strategy game - both players are playing simultaneously, so every 
+decision needs to be computed quickly and efficiently.
+
+“An agent that can play StarCraft will need to demonstrate effective use of 
+memory, an ability to plan over a long time, and the capacity to adapt plans 
+based on new information.”
+
+The AI does have some innate advantages, however. One stat that top StarCraft 
+players are ranked on is “actions per minute” (APM): essentially, the amount of 
+times they click each minute. Lacking fingers, muscles, or the possibility of 
+tendonitis, an AI can naturally outclick a human player, which could result in 
+it winning not through strategic thinking but simply by reacting quicker. As a 
+result, DeepMind will be capping the AI at what research scientist Oriol 
+Vinyals describes as “high-level human” speed. That also helps ensure the AI 
+doesn’t waste processing power making thousands of minor decisions a minute, 
+and focuses it on the key points.
+
+Vinyals has long experience with StarCraft. In 2010, while an undergrad at UC 
+Berkeley, he built an AI agent which could play the first game in the series 
+better than any of the built-in AIs. But that bot was a simple scripted system, 
+with each rule it followed lain down by hand, similar to how the best AIs 
+played Go before DeepMind came along. In StarCraft II, as in Go, DeepMind wants 
+to focus on machine learning, designing an AI that can teach itself to play the 
+game.
+
+This time, the company’s getting a helping hand from Blizzard, the developer 
+behind StarCraft (as well as World of Warcraft, Hearthstone, and Overwatch), 
+and that help will filter down to any other AI researcher who wants to take on 
+the same challenge. In the first quarter of 2017, Blizzard will be updating 
+StarCraft II to introduce a new AI research environment to the game, offering 
+an API that developers can use to pull out extra information from the game to 
+teach their bots how to play.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5iZlrBqDYPM&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5iZlrBqDYPM>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5iZlrBqDYPM&media=>
+The end goal for DeepMind is still to build a computer that can play StarCraft 
+the way a person can, by simply looking at the pixels on the screen and sending 
+keyboard and mouse input to manipulate them. But in the short term, it’s a lot 
+easier for DeepMind to teach their system with a simplified view, that spits 
+out low resolution images of the map and mini map, and breaks down the features 
+into different layers, clearly showing detail such as terrain height, unit 
+type, and health.
+
+The collaboration is a two-way street, with Blizzard hoping to use the 
+findings to improve its own games. “Is there a world where an AI can be more 
+sophisticated, and maybe even tailored to the player?” Blizzard’s Chris Sigaty, 
+executive producer of StarCraft II, said. “Can we do coaching for an 
+individual, based on how we teach the AI? There’s a lot of speculation on our 
+side about what this will mean, but we’re sure it will help improve the game.”
+
+But the aim isn’t just to improve video games. Vinyals says that StarCraft II 
+is a natural next step for the studio’s eventual goal to use AI to solve 
+real-world problems. The lack of perfect information, the realistic (for a 
+certain definition of “realistic”) visuals, the requirement to develop memory 
+and even a sort of imagination all are important skills for an AI trying to 
+understand the real world.Games <https://www.theguardian.com/technology/games> 
+are a better way to understand the real world than the real world, he says. 
+“You can run them fast, there’s a clear score, or winning and losing. There’s 
+also a lot of signals we can get from the game, and it’s refined by somebody 
+else who thought it was an interesting challenge for humans to learn and 
+master.”
+
+When DeepMind turned its attention to Go, it had beaten the best AI players 
+within a year, and the best human player within two. But neither Vinyals nor 
+Sigaty are eager to stake their colours to the mast on how long it will take 
+for AI to master StarCraft II. “From a research standpoint, we might make great 
+advances, but I think it’s way too early to know whether we could beat the 
+best,” says Vinyals.
+
+Sigaty is slightly more confident. “I stand by our pros. They’re amazing to 
+watch.”
+ 

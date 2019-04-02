@@ -1,0 +1,53 @@
+
+A flaw in the way Apple software handles images allows hackers to take over an 
+iPhone, iPad,Apple Watch <https://www.theguardian.com/technology/apple-watch>, 
+Mac or Apple TV with a simple iMessage or email.
+
+
+The vulnerability in Apple’s picture-handling Image I/O API means that a 
+malicious Tagged Image File Format (TIFF) file can force a so-called buffer 
+overflow, which allows a hacker to break through Apple’s security and run their 
+own code on a device.
+
+Tyler Bohan from security firm Cisco Talos said 
+<http://blog.talosintel.com/2016/07/apple-image-rce.html>: “This vulnerability 
+is especially concerning as it can be triggered in any application that makes 
+use of the Apple Image I/O API when rendering tiled TIFF images.”
+
+Most apps on an iPhone <https://www.theguardian.com/technology/iphone>, for 
+instance, use the Image I/O API to render pictures, including Messages, MMS, 
+Safari, Mail and others, leaving them all vulnerable to this attack.
+
+“Depending on the delivery method chosen by an attacker, this vulnerability is 
+potentially exploitable through methods that do not require explicit user 
+interaction since many applications (ie iMessage) automatically attempt to 
+render images when they are received in their default configurations,” said 
+Bohan.
+
+Should the image be viewed automatically or manually, the attacker could then 
+gain full control of the device, steal passwords and other information, all 
+potentially without the user knowing.
+
+Apple <https://www.theguardian.com/technology/apple> released iOS 9.3.3, OS X 
+10.11.6, tvOS 9.2.2 and watchOS 2.2.2 software updates to address the bug and 
+several others on Monday, but those who have not updated either through the 
+Settings app on their iOS device, iTunes or the Mac App Store are still 
+vulnerable to attack.
+
+The iOS 9.3.3 update is not available for the iPhone 4 and older models, which 
+are still at risk. There are 1bniOS <https://www.theguardian.com/technology/ios>
+ devices around the globe, all of which will be affected by this security hole 
+unless updated.
+
+Google’s Android faced two similar security holes known as Stagefright 
+<https://www.theguardian.com/technology/2015/jul/28/stagefright-android-vulnerability-heartbleed-mobile>
+ andStagefright 2 
+<https://www.theguardian.com/technology/2015/aug/18/stagefright-2-all-versions-android-since-2010-hit-by-privacy-flaw>
+, which affected almost a billion devices, but theupdates required to fix the 
+hole 
+<https://www.theguardian.com/technology/2015/aug/06/google-stagefright-megabug-patch-nexus-phones-samsung-android>
+ were slow in their release from various smartphone manufacturers and mobile 
+phone networks.
+
+ * HummingBad malware infects 10m Android devices 
+<https://www.theguardian.com/technology/2016/jul/06/hummingbad-malware-infects-10m-android-devices-information-apps-ads> 

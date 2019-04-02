@@ -1,0 +1,46 @@
+
+The European commission has launched a public consultation on the development 
+of three "core vocabularies" to be used for electronic public sector services. 
+It is part of a project aimed at providing more consistency in how "fundamental 
+entities" – such as people, vehicles, businesses and locations – are described 
+in member states' government information systems.
+
+The commission told Guardian Government Computing that, although there are 
+hundreds of cross-border public services in the EU, citizens and businesses are 
+still not receiving them in a "seamless and efficient way". When citizens of 
+one member state receive services in another, the necessary exchange of data is 
+often hampered by incompatible data standards and specifications.
+
+In response, the European commission's Interoperability Solutions for European 
+Public Administrations (ISA) <http://ec.europa.eu/isa/index_en.htm> programme 
+has been working on a "core vocabulary", to be used in the development of 
+public sector IT systems. It is defining the components of data entities to be 
+used in IT systems, with the aim of making it easier to re-use and share data.
+
+It could even be used as a starting point for developing new online government 
+services.
+
+A set of three vocabularies - core person, core business and core location - 
+are open for a month long public review, organised by the ISA. The programme 
+was set up to help create effective cross-border electronic collaboration 
+between European public administrations.
+
+The core person vocabulary will provide a model of specific features that 
+could be used to catalogue and describe a person, including their date and 
+place of birth and their gender. It is possible to add more detailed 
+specifications, such as whether they are a voter, an employee, a passenger, or 
+a patient. The other two vocabularies describe data entities in the domains of 
+business and geographical location.
+
+The core vocabularies have been developed over the past few months by three 
+working groups within ISA.
+
+The commission acknowledged that endorsement of these core vocabularies would 
+not make them a legal obligation, but said it would give them "further 
+exposure".
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT, join the Guardian 
+Government Computing network here. 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+ 

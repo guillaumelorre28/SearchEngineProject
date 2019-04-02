@@ -1,0 +1,74 @@
+
+Hacked extramarital dating site Ashley Madison 
+<https://www.theguardian.com/technology/ashley-madison> discussed hacking a 
+competitor, according to emails released as part of the massive leak of the 
+site’s data.
+
+The leaked emails show that in November 2012, the site’s chief technology 
+officer, Raja Bhatia, emailed chief executive Noel Biderman after apparently 
+examining the security of the new dating section of online sex and 
+relationships magazineNerve.com <http://www.nerve.com/> and finding a security 
+hole in the site.
+
+“They did a very lousy job building their platform. I got their entire user 
+base,” Bhatia wrote. “Also, I can turn any non-paying user into a paying user, 
+vice versa, compose messages between users, check unread stats, etc.”
+
+The email also contained a link to a Github archive with a sample of the 
+database, suggesting that Bhatia had acquired some data.
+
+Ashley Madison did not deny the emails were accurate, but said that they were 
+taken out of context. The company says that Bhatia’s discovery of security 
+holes in the website was part of “due diligence” performed in the runup to a 
+proposed partnership between the two firms.
+
+Six months after the first emails and in advance of a meeting between Biderman 
+and Nerve.com, Bhatia again emailed the chief executive, asking whether he 
+should “tell them of their security hole”. Biderman did not reply.
+
+The emails are contained in the second of the two major document dumps from 
+Ashley Madison, which was hacked in late July by attackers calling themselves 
+Impact Team. The first dump, released last Tuesday, contained the full database 
+of Ashley Madison’s members. But a second database, released on Thursday night, 
+contained a number of internal documents from the company itself – including 
+the full email spool of chief executive Biderman.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2015%2Faug%2F21%2Fashley-madison-members-come-clean-risk-extortion-video&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=Ashley%20Madison%20members%20should%20come%20clean%20or%20risk%20extortion%20%E2%80%93%20video&url=http%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2015%2Faug%2F21%2Fashley-madison-members-come-clean-risk-extortion-video>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Ashley%20Madison%20members%20should%20come%20clean%20or%20risk%20extortion%20%E2%80%93%20video&url=http%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Fvideo%2F2015%2Faug%2F21%2Fashley-madison-members-come-clean-risk-extortion-video&media=>
+ Identity protection analyst Adam Levin says Ashley Madison members should come 
+clean instead of waiting to be discovered or risking becoming the victim of 
+extortion 
+In a statement given to Vice 
+<http://motherboard.vice.com/en_uk/read/ashley-madisons-ceo-wanted-to-hack-a-competing-site-to-steal-emails>
+, Ashley Madison’s parent company Avid Life Media said that the emails were 
+“taken out of context” and that the interpretation that Bhatia had hacked Nerve 
+was “incorrect and unfortunate”. The statement continued: “Nerve was exploring 
+strategic partnerships in May of 2012 and reached out to Noel to determine Avid 
+Life Media’s interest in the property. At the time Noel did not act on that 
+opportunity.”
+
+“In September PTC Advisors, representing Nerve, contacted Noel and provided a 
+more detailed brief on the opportunity. This communique was followed by a 
+number of conversations. Subsequently Noel contacted Raja Bhatia and asked for 
+his assistance in conducting technical due diligence on the opportunity. This 
+activity, while clumsily conducted, uncovered certain technology shortcomings 
+which Noel attempted to understand and confirm.
+
+“At no point was there an effort made to hack, steal or use Nerve.com’s 
+proprietary data.”
+
+Ashley Madison has refused to confirm the legitimacy of the dump overall, and, 
+short of confirming that the hack is being investigated, haslargely failed to 
+answer questions surrounding the hack at all 
+<https://www.theguardian.com/technology/2015/aug/21/ten-questions-ashley-madison-needs-to-answer>
+. The Guardian has asked Bhatia, who no longer works for the firm, for comment.
+
+ * Five people on getting caught up in the Ashley Madison data breach 
+<https://www.theguardian.com/technology/2015/aug/21/ashley-madison-hack-five-people-database-experience>
+
+ * Ashley Madison database suggests paid-delete option left identifiable data 
+intact 
+<https://www.theguardian.com/technology/2015/aug/19/ashley-madisons-paid-delete-option-left-data-identifying-users-post-claims> 

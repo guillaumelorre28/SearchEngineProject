@@ -1,0 +1,133 @@
+
+Over the course of 2016, artificial intelligence made the leap from “science 
+fiction concept” to “almost meaningless buzzword” with alarmingspeed.
+
+Everything has AI now. Period-tracking app Flo “uses a neural network 
+approach” to deliver “high period forecast accuracy”; food delivery app Just 
+Eat launched a chatbot that “sees AI integrated into the ordering experience to 
+ensure that customers receive the best, round the clock support and service”; 
+restaurant guide Borsch “uses artificial intelligence to help people discover 
+the yummiest dishes around”.
+
+
+But unlike many buzzwords before it, from “big data” to “blockchain”, 
+artificial intelligence’s transformation into venture capitalist-catnip doesn’t 
+signify the end of anyone serious using the term themselves. In fact, 2017 
+looks like it could be the most important year yet for the technology: AI will 
+butt up against not only what is possible, but also what is desirable for the 
+first time.
+
+Like many futures, the AI revolution feels interminably slow to live through, 
+and will feel like it happened in an instant in hindsight. The first pivotal 
+year was 2011. That was whenApple’s Siri hit iPhones 
+<https://www.theguardian.com/technology/2011/oct/05/iphone-4s-siri-icloud>, 
+introducing the world to the first major “virtual assistant”. It was also the 
+year the Google Brain project was instituted: the search engine’s blue-sky 
+research team aimed to address as many tasks as possible through neural 
+network-based learning, the computational technique that has come to define 
+what we mean by artificial intelligence.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F28%2F2016-the-year-ai-came-of-age%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F1264e7dc4a8e954fe28f46b1bc5590f6edeaf57b%2F5_0_4490_2695%2F4490.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=2016%3A%20the%20year%20AI%20came%20of%20age&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F28%2F2016-the-year-ai-came-of-age%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=2016%3A%20the%20year%20AI%20came%20of%20age&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F28%2F2016-the-year-ai-came-of-age%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F1264e7dc4a8e954fe28f46b1bc5590f6edeaf57b%2F5_0_4490_2695%2F4490.jpg>
+ DeepMind’s AlphaGo beat South Korean professional Go player Lee Sedol. 
+Photograph: Ahn Young-joon/AP 
+Five years on, and neural networks have already begun to enable tech which 
+seemed impossible back then. Google and Apple have applied them to their photo 
+apps to let users search through their pictures for images of “dogs”, “cars” 
+or, in Google’s case, “Christmas”, based on what the algorithms see in the 
+images. That machine vision technology is also the basis of the self-driving 
+car efforts from Google’s sister firmWaymo 
+<https://www.theguardian.com/technology/2016/dec/14/waymo-google-self-driving-car-division>
+. Oh, and an entirely different neural network is probablythe world’s best 
+player at the ancient boardgame Go 
+<https://www.theguardian.com/technology/2016/mar/15/googles-alphago-seals-4-1-victory-over-grandmaster-lee-sedol>
+.
+
+That victory, from Google subsidiary DeepMind, was one of the last remaining 
+milestones for a machine to reach. Go is so complex that,as recently as 2014 
+<https://www.wired.com/2014/05/the-world-of-computer-go/>, many thought it 
+would be another decade until an AI could approach the skill of a human player. 
+That was what made it so appealing for DeepMind to tackle.
+
+There’s one remaining milestone that the London-based research lab is 
+interested in chasing, according to co-founder Mustafa Suleyman, and it’s a big 
+one: instant voice-to-voice translation. The company has slowly been assembling 
+the pieces for a while, with Google alreadyrebuilding its translation service 
+<http://venturebeat.com/2016/11/15/google-translate-starts-using-neural-machine-translation-in-9-languages-coming-to-all-103/>
+ around a neural network-based approach, and DeepMind creating a whole new way 
+of synthesising speechit calls WaveNet 
+<https://deepmind.com/blog/wavenet-generative-model-raw-audio/>, but there are 
+still a host of other problems to be overcome before thebabel fish 
+<https://www.theguardian.com/technology/2014/mar/14/babelfish-web-language-translation-lifelogging-cyberwar>
+ becomes a reality.
+
+Which is not to say that 2017 won’t be a groundbreaking year for AI. The 
+biggest effect will be the step change in the amount of data which companies 
+such as Google and Amazon have access to. When Google released its 
+voice-controlled, AI-powered smart home device,Google Home 
+<https://www.theguardian.com/technology/2016/oct/04/google-home-launch-amazon-echo-voice-recognition-uk-living-rooms>
+, in 2016, it already impressed some with its abilities. But, says Fernando 
+Pereira, who leads Google’s natural language understanding projects, that’s 
+only the start.
+
+
+Now that millions of people have Google Home in their living room, the company 
+can analyse every natural language query it starts getting from all of them, 
+giving it far more data to crunch than it could ever get from its testers. “You 
+can start doing machine learning on that,”Pereira told tech site Backchannel 
+<https://backchannel.com/google-our-assistant-will-trigger-the-next-era-of-ai-3c72a4d7bc75#.rgi9pghyi>
+. “You can move much faster; you can accelerate the process of getting deeper 
+and broader in understanding. This 2016-to-2017 transition is going to move us 
+from systems that are explicitly taught to ones that implicitly learn.”
+
+
+This is the story Google wants to tell of machine learning: an acceleration, 
+turning the coming year into an inflection point, the instant that machine 
+learning became good enough to start trusting.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F28%2F2016-the-year-ai-came-of-age%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F62fa77286b501e99fe212b0a645a0e4b7b48704e%2F0_115_1574_944%2F1574.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=2016%3A%20the%20year%20AI%20came%20of%20age&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F28%2F2016-the-year-ai-came-of-age%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=2016%3A%20the%20year%20AI%20came%20of%20age&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fdec%2F28%2F2016-the-year-ai-came-of-age%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F62fa77286b501e99fe212b0a645a0e4b7b48704e%2F0_115_1574_944%2F1574.jpg>
+ Amazon’s Echo is leading the way in home assistant devices. Photograph: 
+Uncredited/AP 
+It’s certainly one possible outcome of the next year, although it’s not yet 
+clear whether Google will be the one to deliver on it; Amazon has been keeping 
+pace with its own Alexa assistant, for instance, while others including 
+Facebook, Microsoft, IBM and Baidu have been trumpeting their own 
+machine-learning successes.
+
+But the other possibility is that, as machine learning steps out of the 
+shadows and companies ask for ever more data to train their algorithms, the 
+backlash begins. Already, Google faces competition from other companies over 
+how much of your life it wants to manage.
+
+That happens implicitly, in the difference between Google Home and Amazon’s 
+Echo: the former integrates tightly with your Google account, reading emails, 
+notes and calendar events to keep up to date with your life, while the latter 
+takes a more hands-off approach, only linking with what it’s told and generally 
+attempting to be responsive, rather than proactive.
+
+It also happens more explicitly in the way Apple has decided to weigh in 
+against its rival. The company, freed from the need to data mine everything by 
+its old-fashioned “sell things for money” business model, has been proudly 
+demonstrating approaches to AI which don’t need a central repository of 
+harvested data to learn or work. That includes its machine vision approach, 
+which scans users’ photo libraries on device, rather than on the cloud, and its 
+research into “differential privacy”, a technological approach to machine 
+learning which allows the company to learn from data in aggregate while never 
+having access to the information of specific users.
+
+Of course, there is a third option: that neural network-based machine learning 
+will instead prove to be a technology like any other, useful in some areas, 
+useless in others, and eventually doomed to be rendered obsolete in turn by a 
+future innovation. We’re already seeing some of the downsides, in the eternal 
+craving for more data, in the processing power required to actually learn, and 
+in the opacity of the models that result. One day, those downsides will 
+outweigh the up, and the world will move on. But for now, there’s still a world 
+of possibility.
+ 

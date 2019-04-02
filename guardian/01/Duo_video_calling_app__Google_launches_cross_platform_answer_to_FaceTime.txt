@@ -1,0 +1,97 @@
+
+Google has finally launched Duo, its super-simple video calling app for 
+Android and iOS, after the company first announced itthree months ago 
+<https://www.theguardian.com/technology/2016/may/19/google-io-2016-what-you-need-to-know-from-allo-to-daydream>
+ at its I/O developer conference.
+
+
+The app, which is only available for smartphones, is the latest in a long line 
+ofGoogle <https://www.theguardian.com/technology/google> services capable of 
+conducting video calling, but is this time designed to simplify the process.
+
+It is a one-to-one video chat app and Google’s direct rival to Apple’s 
+FaceTime (which is built into all iPhones, iPads and Macs), rather than a more 
+comprehensive video conferencing solution such as Microsoft’sSkype 
+<https://www.theguardian.com/technology/skype> or Google’s Hangouts.
+
+Amit Fulay, Google’s group manager for communications, said: “Users are 
+reluctant to video call because they don’t know if the other person is on the 
+right network, the right device or it’s a good time to call. We’ve tried to 
+remove all that friction and make it feel like an invitation, not an 
+interruption when someone call’s you.
+
+
+“Duo is all about simplicity and quality. It’s all about video calling. There 
+are no frills, no knobs or dials to adjust, it just works.”
+
+Duo seamlessly switches between mobile broadband and Wi-Fi without dropping 
+the call, provides the so-called Knock Knock live feed of the caller before the 
+recipient picks up as the phone rings and has a one-tap call button to jump 
+straight into a video call.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F16%2Fduo-video-calling-app-google-android%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Feb79bbbbcd3b73385d83c6b903ff5027778995d7%2F531_360_3073_3073%2F3073.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Duo%20video%20calling%20app%3A%20Google%20launches%20cross-platform%20answer%20to%20FaceTime&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F16%2Fduo-video-calling-app-google-android%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Duo%20video%20calling%20app%3A%20Google%20launches%20cross-platform%20answer%20to%20FaceTime&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Faug%2F16%2Fduo-video-calling-app-google-android%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Feb79bbbbcd3b73385d83c6b903ff5027778995d7%2F531_360_3073_3073%2F3073.jpg>
+ Duo hopes to remove friction and make video calling a one-tap affair. 
+Photograph: Google 
+The app is one of the company’s first that does not require a user to have a 
+Google account to use it, instead asking them to register and find users via 
+their phone number rather than Gmail address. It follows a trend established by 
+the likes of Facebook’s WhatsApp, which instead of creating a new user ID or 
+pin, relied solely on a user’s phone number. As a consequence, WhatsApp will 
+also only work on a smartphone.
+
+Facebook also recently let users sign into its Messenger app using only a 
+phone number, without requiring a full Facebook account, allowing users to chat 
+with others via their phone numberinstead. Facebook Messenger also has voice 
+and video calling.
+
+Fulay said: “The chances of you having your close friends and family’s phone 
+number is much higher than having a specific account, so using the phone number 
+makes it easier.”
+
+Whether users will be tempted away from the likes of Facebook Messenger, 
+FaceTime and Google’s own Hangouts in any serious number remains to be seen. A 
+video calling app, just like any other messaging or social media app, is only 
+as good as the number of friends and contacts who use it.
+
+Duo’s success will likely be linked with how many Android smartphones come 
+with it pre-installed. Hangouts is one of the 11 apps that Google insists come 
+pre-installed on every Android smartphone or tablet that has access to the Play 
+Store. But Microsoft’s recent moves with certain smartphone manufacturers, 
+including the world’s biggest Android device manufacturer, Samsung, has seen a 
+handful of its apps including Skype pre-loaded on manyAndroid 
+<https://www.theguardian.com/technology/android> smartphones.
+
+If Duo becomes one of the required apps from Google, it could displace the 
+competition as the default video calling app on Android smartphones, which may 
+be enough to convince iPhone users to install it.
+
+While the distinction might be lost on consumers and users of Google’s 
+plethora of communications apps, many of which seem to do the same thing, Duo 
+and theyet to be released text messaging app Allo 
+<https://www.theguardian.com/technology/2016/may/18/google-allo-messaging-app-encryption-apple-fbi>
+, are part of the company’s mobile-consumer orientated push.
+
+Google sees Hangouts as part of its enterprise and productivity solution, 
+integrating with calendar and email and employed by Google Apps users. 
+Meanwhile, a third Google arm is working a system for therich communications 
+services <https://en.wikipedia.org/wiki/Rich_Communication_Services> (RCS) 
+standard that is currently under development from the telecoms industry body, 
+GSMA, which is destined to replace SMS and MMS messaging services.
+
+Google is facing antitrust charges 
+<https://www.theguardian.com/technology/2016/apr/20/eu-commission-google-android-skew-market-competition-antitrust-vestager>
+ from the European commission, accused of abusing its market dominance with 
+Android and itsrequirement of device manufacturers to install 
+<https://www.theguardian.com/technology/2016/apr/20/google-android-european-commission>
+ Gmail, Google Chrome, Google Maps, YouTube, Google Search and six other apps 
+on smartphones and tablets with access to the Google Play Store. It remains to 
+be seen how another app that directly competes with third-party services will 
+be viewed by Europe if Google insists it is pre-loaded on Android phones.
+
+ * Europe v Google: how Android became a battleground 
+<https://www.theguardian.com/technology/2016/apr/20/google-android-european-commission>
+ 

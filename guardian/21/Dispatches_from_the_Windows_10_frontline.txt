@@ -1,0 +1,106 @@
+
+I read Michele Hanson’s article (G2 
+<https://www.theguardian.com/lifeandstyle/2016/may/23/microsoft-windows-ten-10-software-update-problems-iplayer>
+, 24 May) with a wry smile, having spent time earlier modifying a friend’s 
+computer to prevent it updating to Windows 10, as the same thing had nearly 
+happened to me last month.
+
+What happens is that Microsoft installs a Trojan horse update along with all 
+the normal ones. Sometime later this malware initiates an upgrade toWindows 10 
+<https://www.theguardian.com/technology/windows-10> without asking permission, 
+and no method of cancellation without turning the computer off.
+
+To prevent this happening, you need to uninstall update number KB3035583 (go 
+to control panel, Windows update, installed updates, then find the right update 
+KB3035583 right click on it and click uninstall). You may want to stopMicrosoft 
+<https://www.theguardian.com/technology/microsoft> installing it again by 
+switching off automatic updates (Windows update, change settings).
+
+I have heard many stories of people who have upgraded to Windows 
+<https://www.theguardian.com/technology/windows> 10 and found numerous problems 
+using their computer, including lost data. Microsoft may claim to have asked 
+permission, but they haven’t – the only permission they had was to install 
+updates (mainly fixes) to the existing operating system, not to change it 
+completely. Maybe you should publish an article in the main section of the 
+Guardian (pity you got rid of your tech section!).
+David Murray
+Ash, Surrey
+
+• Michele Hanson and I seem to lead almost parallel lives but this week the 
+coincidence was incredible as only last evening, I experienced an unsolicited 
+invasion from Microsoft! I turned my back for a few minutes, only to find my PC 
+was “upgrading” Windows of its own accord. For over an hour, I was unable to 
+access my e-mails or do any of the work I had planned. Like Michele, I was 
+furious.
+
+Unlike Michele, I chose to decline the legal agreement which appeared on 
+screen after the download. This allowed me to revert to Windows 7. Of course, I 
+was pestered by one of those “Are you sure?” messages which I cancelled. I have 
+made a conscious decision not to change from usingWindows 7 
+<https://www.theguardian.com/technology/windows-7> to 10 as I know I will lose 
+a lot of useful software that currently I use free of charge. It means I have 
+to routinely decline an offer to upgrade to Windows 10.
+
+I am very concerned that Microsoft is doing this without users’ permission – 
+and I am clearly not alone. I can only conclude that they want us all to 
+download a system which will allow them to track our activities more closely – 
+and oblige us to pay for every item of software on a separate basis.
+Jennifer Pearce
+London
+
+• Thanks to Michelle Hanson forher Windows 10 grumble. I was horrified last 
+evening when I woke up my PC to find it busy changing my operating system 
+without any approval by me. I had deleted every one of the twice a day messages 
+asking me to allow the changeover and assumed I would continue with Windows 7. 
+Having suffered the problems of learning new methods and layouts when 7 
+superseded XP – not easy at 87 – I wanted a lot of reassurance before plunging 
+into unknown waters. Fortunately clicking “decline” when asked to agree to the 
+terms and conditions caused a reinstall to start but the terror of losing all 
+my files haunts me. Shame on Windows!
+Keith Thomas
+Liverpool
+
+• If Windows 10 starts to install, the worst thing you can do is start hitting 
+keys at random (Letters 
+<https://www.theguardian.com/uk-news/2016/may/24/nothing-but-woe-for-users-of-windows>
+, 25 May). If there’s no cancel option, artificially stopping the process may 
+lead to corruption and an unusable computer. Better to let the process complete 
+and then, if you don’t like the result, exercise the option, which lasts for 30 
+days, to go back to how things were.
+Henry Malt
+Huntingdon
+
+• David London (Letters 
+<https://www.theguardian.com/uk-news/2016/may/24/nothing-but-woe-for-users-of-windows>
+, 25 May) was right to stop the automatic upgrade to Windows 10. Like a fool, I 
+allowed mine to continue. Windows 10 is awful. The screen is dark. The font and 
+icons are squashed. Windows 7 was much clearer. I don’t suppose I can go back 
+now. I was the victim of a dirty trick. If there was ever a case of “If it 
+ain’t broke don’t fix it”, this is it. I no longer respect Bill Gates.
+Erik Williams
+Cardiff
+
+• The same thing happened to me. But all was not lost. When I put my laptop on 
+the following morning I found that there was an option to accept Windows 10 or 
+to reject it, which I promptly did.
+Marie Paterson
+Nuneaton, Warwickshire
+
+• I tried Windows 10, and didn’t like it – in particular Windows XP mode 
+didn’t work (which allows one to run old programs), and which Microsoft say 
+that they have no plans to install on Windows 10. So I reinstalled Windows 7, 
+but then found, like Michele Hanson and David London, Windows 10 reinstalling 
+itself. There are two things you need to do to stop this: first turn off 
+automatic updates; and second there’s a bit of freeware called Never10 which 
+removes all the Windows 10 stuff from your PC that is taking up almost 4GB of 
+space. It works.
+Ian Watson
+Carlisle
+
+• Windows? It’s PC gone mad.
+Brian Smith
+Berlin
+
+• Join the debate – email guardian.letters@theguardian.com 
+<mailto:guardian.letters@theguardian.com>
+ 

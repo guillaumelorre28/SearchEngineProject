@@ -1,0 +1,79 @@
+
+At this season of comfort and joy I should have liked to report that the 
+switch to the new crossword site had gone smoothly. But that would be pushing 
+things a bit. At least, however, it has been nothing like the last major shift 
+of the crosswords to a new format in 2008. In those distant days you had to pay 
+the princely sum of £24 a year for the pleasure of being able to get the 
+crosswords online. The solverdom’s reaction then was quite negative over quite 
+a long period, evoked by the treasured email that I still have before me: ‘How 
+many times have you made pathetic excuses and tried to shuffle the blame onto 
+someone else? You, sir, are unfit to run a whelk stall. Stand down, please, and 
+let someone with more clout, more guts, more pride and more self-respect take 
+over.’
+
+Thankfully, this time it has been nothing like that. In fact, a few people 
+have even written in to say that they like the new layout and its 
+functionality, which is gratifying and, in my experience, unusual. But therehas 
+been a significant trickle of complaints and suggestions for further 
+improvement. The two largest groups in this correspondence have been about: a) 
+difficulties in printing puzzles on to one sheet of paper and in having grids 
+and clues sufficiently large to be legible; and b) difficulties in connectiong 
+properly to a particular puzzle. The development team has already responded to 
+many of these complaints and suggestions and is looking at what more can 
+realistically be done within the inevitable staffing and budget restraints.
+
+The most intractable problems with the new site are those that stem from your 
+use of one of the older browser programs. These are likely to be made worse, if 
+you are combining use of an old browser with old computing equipment, such as 
+older iOS systems, MacBooks, Android apps, or Blackberries. If you are using a 
+dial-up connection for getting at the web (rather than broadband), that in 
+itself should not cause problems, though it may well make things painfully slow 
+for you. The development team has had success in getting older browsers to show 
+you crossword grids properly, as opposed to just as black squares, but there is 
+a limit as to what they can do with obsolescent software, especially when 
+operated on older machines. So your first remedial action should be to try 
+upgrading your browser to its latest version. Some systems, particularly Apple 
+products, come with a built-in brower, such as Safari, that makes it impossible 
+to upgrade to the latest version without updating the whole system, which is 
+like taking the hammer to the nut. Some Android devices also come/came with an 
+Internet Explorer browser as part of the original package, which also does not 
+allow you to upgrade to the latest version.
+
+In these cases your could profitably look at the independent website, What 
+Browser <http://www.whatbrowser.org/>. This provides links to the latest 
+versions of six modern browsers (Chrome, Opera, Edge, Firefox, Internet 
+Explorer and Safari). There are many others out there, each with different 
+strengths and weaknesses when used with different systems, but latest versions 
+of these six seem to work well with crosswords. They can all be downloaded and 
+installed easily and for free to iPads, tablets and mobile phones, as well as 
+to PCs and laptops.
+
+
+But I fear that, even at this season of comfort and joy, I have no helpful 
+suggestion to make (other than to find a new and more tolerant job) to those 
+who tell me that they do the crosswords at work on an office computer network, 
+where they cannot touch or alter the search engines already installed. 
+Meanwhile, please keep sending me information about any continuing problems 
+that you may be having, together with details of the computer system, operating 
+program and browser that you are using. [NB Everyman, Speedy and Azed issues 
+should go tocrosswords.editor@observer.co.uk 
+<mailto:crosswords.editor@observer.co.uk>.]
+____
+Note: The Christmas bumper prize puzzle set by Maskarade will be published on 
+Saturday 19 December, with the entry deadline of New Year’s Eve and with the 
+results announced on 4 January.
+_____
+The November Genius 
+<https://www.theguardian.com/crosswords/2015/nov/02/genius-crossword-no-149> 
+(No 149 by a new setter, Jack) produced 301 entries by the deadline (20 on the 
+first day). PSC from Australia was first in at 02:51, followed by m1f at 03:43. 
+There was then quite a gap to GM at 10:14. Congratulations to Emile Wolfe from 
+Bristol, who is the winner of the November Genius competition.
+If you have any technical problems with our crossword service, please email 
+userhelp@theguardian.com <mailto:userhelp@theguardian.com>. If you have any 
+comments or queries about the crosswords, please email
+crossword.editor@theguardian.com <mailto:crossword.editor@theguardian.com>. For 
+Observer crosswords pleasecrossword.editor@observer.co.uk 
+<mailto:crossword.editor@observer.co.uk>.
+
+ 

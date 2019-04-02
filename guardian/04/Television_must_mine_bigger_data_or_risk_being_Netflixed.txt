@@ -1,0 +1,107 @@
+
+In retail, Amazon and Tesco have blazed trails 
+<http://smartdatacollective.com/bernardmarr/182796/amazon-using-big-data-analytics-read-your-mind>
+, mining insight from millions of consumers at scale to better buy stock and 
+recommend appropriate products to consumers. In finance,American Express is 
+crunching 
+<http://searchcio.techtarget.com/opinion/Ten-big-data-case-studies-in-a-nutshell>
+ account holders' transaction history en masse to identify loyalty and pre-empt 
+churn. And, in sport, player and match data is now so abundant that clubs like
+Chelsea are examining attributes of players 
+<http://www.economist.com/news/britain/21583711-worlds-richest-football-league-embracing-big-data-ball-watching>
+ from leagues around the world to spot new talent.
+
+With a few exceptions, however, the TV industry is still not taking full 
+advantage of the data opportunity to plan its future better.
+
+Of the 146 pilots shot in the US in 2013 
+<http://www.ibtimes.com/kevin-spacey-speech-why-netflix-model-can-save-television-video-full-transcript-1401970>
+, costing close to $400m, only 56 made it to air. That's a hit rate of just one 
+in three; and only a minority of those eventually graduated to a first full 
+season. Advertising is also confined to brands with big budgets.
+
+So, is it possible to predict a successful programme from a TV 
+ratings-disaster in the making? The UK ratings panel Barb (Broadcasters' 
+Audience Research Board) measures TV viewership using a sample of just 5,100 
+homes. And, over the years, it has done a sterling job of quantifying TV 
+viewing, establishing the trading currency in the media. However, in an 
+increasingly fragmented, multi-channel environment, when you consider that 
+there are around 25m homes in the UK, Barb analysis is only meaningful for the 
+big channels who can operate on the large rounded figures as they command the 
+lion's share, but this makes it a significant challenge for the hundreds of 
+emerging channels who target niche audiences.
+
+In the analogue age, broadcasters commissioned content for a broad mass of 
+people who watched just a few shows on just five channels. In lieu of further 
+media choice, broadcasters had to focus their efforts just on the single 
+dimension: primetime slots. And, while the 7:30pm slot is great, from an 
+advertising perspective it means that much spend is wasted. The vast majority 
+of buyers would prefer to reach tightly-defined, target consumer groups.
+
+Today, TV can do better: audiences are shifting habits, advertisers reared on 
+extreme online targeting and control demand it, and commissioners groaning at 
+yet more failed pilots need it.
+
+Fortunately, the game-changer, even for linear TV, is digital audience data. 
+Encouragingly, online viewership of TV content on broadcaster services is 
+booming.BBC iPlayer 
+<http://www.bbc.co.uk/mediacentre/latestnews/2014/iplayer-performance-pack-march-2014>
+ andChannel 4's 4OD 
+<http://www.vodprofessional.com/news/2q2014/4od-shows-growth-as-channel-4-announces-second-successive-annual-loss/>
+ consumption is up 18% and 6% from last year. In the US, 22% of adults watch 
+original digital video every month, while viewing on connected TVshas doubled 
+in the past year 
+<http://streamdaily.tv/2014/05/08/viewing-on-mobile-smart-tvs-nearly-double-from-2013-study/?utm_source=stream-newsletter&utm_medium=email&utm_campaign=viewing-on-mobile-smart-tvs-nearly-double-from-2013-study>
+ and more than 70% are being used to enjoy web content. As such, audience 
+panels are now just one data source. All these new platforms represent new 
+inputs that give planners and buyers deep, rich and immediate understanding of 
+content and advertising performance, where none was previously available. The 
+benefit of better data to TV is not just better targeted programmatic 
+campaigns, but also real insight into campaign effectiveness at the individual 
+level.
+
+Recent technology advances are allowing organisations to process massive 
+amounts of data and conduct complex analysis at relatively low cost. This 
+allows machine learning algorithms, for example, to predict audience behaviour 
+more accurately by statistically modelling historic viewing and engagement 
+patterns.
+
+Some are beginning to reboot TV in the way that makes good on these promises. 
+For example, by examining its subscribers' appreciation for previous content 
+plus the popularity of political drama across its network, Netflix was able to
+commission House Of Cards without the expense and delay of a pilot 
+<https://www.theguardian.com/media-network/media-network-blog/2014/mar/07/netflix-data-house-cards>
+. Meanwhile,CNN uses data 
+<http://mashable.com/2014/05/09/cnn-obsessed-malaysia-mh370-zucker/?utm_campaign=Feed%3A+Mashable+%28Mashable%29&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial&utm_medium=feed&utm_source=feedburner>
+ from three different analytics platforms plus TV ratings to tailor its 
+editorial programming to viewer demand.
+
+Advertising <https://www.theguardian.com/media-network/advertising>, too, is 
+getting smarter. From this summer, BSkyB will start sharing with advertisers 
+the viewing habits of 500,000 subscribers. By telling advertisers what viewers 
+are watching, the AdSmart set-top box technology lets both national and local 
+advertisers serve much more relevant advertising to particular categories of 
+viewers. The prize is clear: a better service for time-poor viewers whose very 
+behaviour is telling you what they want, and a better service for advertisers 
+who want demonstrable bang for their buck.
+
+But, while there are a handful of examples of innovation, not enough in the 
+industry are adopting these approaches. Too many in the TV industry are 
+dragging their heels when it comes to data, and they risk getting left behind 
+when audiences and advertising budgets make a bigger shift towards digital. The 
+companies that use data to give viewers and advertisers a better experience 
+will win the emerging TV game, whilst those that don't will find it difficult 
+to compete. Big data has been the driver of great new opportunities across 
+industries. It is time the TV business got aboard the bandwagon.
+
+Aki Tsuchiya is the founder and managing director of Streamhub 
+<http://www.streamhub.co.uk/>.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media Network content is editorially independent except for 
+pieces labelled 'Advertisement feature'. Find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

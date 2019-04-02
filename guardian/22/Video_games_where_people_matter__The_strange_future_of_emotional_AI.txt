@@ -1,0 +1,506 @@
+
+If you’re a video game fan of a certain age, you may remember Edge magazine’s 
+controversial review of the bloody sci-fi shooting game,Doom 
+<https://www.theguardian.com/technology/2016/may/13/doom-video-gaming-ramones>. 
+Perhaps you enjoyed a good laugh, as many first-person shooter fans have, at 
+the writer’s much-mocked assertion: “if only you could talk to these creatures, 
+then perhaps you could try and make friends with them, form alliances … Now 
+that would be interesting.”
+
+Of course, we all know what happened. There would be no room in the Doom 
+series, nor any subsequent first-person blast-’em-up, for such 
+socio-psychological niceties. Instead, we enjoyed 20 years of shooting, 
+bludgeoning and stabbing, the ludicrous idea of diplomacy cast roughly aside.
+
+But during this era, something else was happening in game design, and in 
+academic thinking around video games and artificial intelligence. Buoyed by 
+advances in AI research and aided by increasingly powerful computer processors, 
+developers were beginning to think about the possibilities of non-player 
+characters (NPCs) who could think and act in a more complex and human way – who 
+could provide the emotional feedback that the Edge reviewer was thinking about.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSkTgX1mGmDg&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSkTgX1mGmDg>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSkTgX1mGmDg&media=>
+Arguably, this quest began in 1985 when Activision released a strange game 
+entitled Little Computer People. Co-created by veteran designer David Crane, 
+players had to care for the randomly generated inhabitant of a suburban home. 
+The character had a limited range of emotions and behaviours, and player 
+interaction ranged from feeding the character, to offering gifts and entering 
+simple commands. This ‘virtual pet’ concept would later find more complex 
+treatment in theTamagotchi 
+<https://www.theguardian.com/technology/gamesblog/2006/oct/13/tamagotchilove> 
+phenomenon and in the artificial life sim, Creatures.
+
+But the most notable continuation was Will Wright’s virtual soap opera The Sims
+ 
+<https://www.theguardian.com/technology/gamesblog/2008/apr/16/simsbiggestsellingpcgamei>
+. Released in 2000 it provided a household of intelligent characters who would 
+form relationships and develop behaviours that – enhanced by the imagination of 
+players – suggested emotional depth and authenticity. Doubted by many within EA 
+at the time, The Sims was a smash hit, and the continuing franchise has now 
+sold over 175m copies. It was clear that players were interested in the idea of 
+characters – or more accurately AI agents – who offered something more than 
+digital bodies to be annihilated.
+
+Some of the most interesting advances, however, have come from the independent 
+sector, often fuelled by university research into AI concepts such as neural 
+networks, machine learning and natural language processing. The 2005 gameFacade 
+<http://www.interactivestory.net/> by Michael Mateas and Andrew Stern, for 
+example, is an interactive domestic drama featuring a couple named Grace and 
+Trip who are in the midst of an argument that may end their relationship. 
+Taking on the role of a mutual friend, the player is able to talk to the couple 
+using text inputs, making suggestions that the AI characters are able to 
+process and understand via a range of interconnected AI technologies. These 
+include a language processing system, which recognises the words the player 
+uses and interprets the context, a behaviour engine that Mateas and Stern 
+called A Behaviour Language (ABL) that controls the actions and movements of 
+the characters, and a drama manager, which creates interesting beats and 
+moments of tension in the emerging narrative.
+
+“It’s amazing, the scarcity of satisfying interactive experiences that are 
+actually about people’s lives – subject matter that is, of course, the heart of 
+the best literature, cinema, theatre and television,” said Stern at the time. 
+“We gave Grace and Trip a wealth of problems and hidden motivations leading to 
+the present moment, carefully balanced between them.”
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGmuLV9eMTkg&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGmuLV9eMTkg>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGmuLV9eMTkg&media=>
+The resulting scenes don’t always work – they can be stilted and strange, the 
+AI system struggling to understand the nuances of human relationships – but 
+there are moments of emotional intensity in each playthrough, the 
+computer-controlled couple struggling to keep their relationship alive. It was 
+a fascinating experiment.
+
+Seven years after Facade, a group of developers at the University of 
+California, Santa Cruz, released a game namedProm Week 
+<https://promweek.soe.ucsc.edu/>, a social simulation following a group of 
+students as they prepared for their school dance. Game designer Aaron Reed was 
+co-creator and lead writer on the project. “Each character in the game is a 
+unique AI agent driven by several thousand rules encoding the social norms and 
+behaviours you might see in a cheesy high school comedy film,” he explains. 
+“Characters would consider these rules, along with a large database of shared 
+knowledge, such as their histories together, likes and dislikes, personality 
+traits and recent moods, to decide what to do and how to respond to actions 
+from other characters.”
+
+The system adds drama by providing each agent with a set of characteristics 
+following high school movie conventions (goths, jocks, princesses) and a range 
+of emotional states. They also view each of their peers based on varying levels 
+of three different aspects: friendship, romance and how cool the other person 
+is. The player’s role involves clicking on any two characters then choosing a 
+style of interaction between them. You then sit back and watch the social 
+physics play out as friendships blossom and crumble amid competing 
+interpersonal ambitions. AI characters may hate a character they’re also 
+romantically interested in, or try to form friendships with others who don’t 
+view them as cool. It’s the whole school experience in one interactive 
+experiment.
+
+Like Facade, Prom Week features a built-in drama manager, a sort of 
+intelligent AI system that reads and shapes the second-by-second social data. 
+When a character takes an action – like breaking up with another student, for 
+example – the game has a large library of scene templates that can be inserted 
+into the moment to narrate the change in the social state. In this example, the 
+system would search for a break up scene template, modify the dialogue for the 
+particular characters and circumstance and then put it on screen to provide a 
+reason and background for the relationship collapse. “This effectively gives 
+the underlying social AI system a ‘narrator’ who can find the right scene to 
+let the characters explain what’s happening to them,” says Reed. “The system 
+was highly effective at creating characters that felt very specific and 
+interesting while still being driven by an emergent, dynamic social AI system.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F537af541b80ce146ea3056a66ff2b6b803cac122%2F0_142_758_455%2F758.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Video%20games%20where%20people%20matter%3F%20The%20strange%20future%20of%20emotional%20AI&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Video%20games%20where%20people%20matter%3F%20The%20strange%20future%20of%20emotional%20AI&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F537af541b80ce146ea3056a66ff2b6b803cac122%2F0_142_758_455%2F758.jpg>
+ Prom Week: a familiar tale of high school romance, bullying and friendship. 
+Photograph: UCSC 
+Importantly, the mix of dynamic social AI systems and scene templates led to 
+an array of convincing procedural behaviours that usually made sense. “One of 
+the most delightful parts of development for me was seeing the system start to 
+perform the characters correctly, even without having any dialogue written for 
+a specific student,” says Reed. “As the game came together, we would start to 
+see emergent story moments that no one had specifically written, but were 
+inevitable consequences of the social rules and cast of characters we’d 
+created. It was a bit like watching trained actors start venturing into improv, 
+and coming up with wonderful scenes on their own that were true to their 
+character and appropriate to the play.”
+
+Two years later, in 2013, AI coder Richard Evans and narrative designer Emily 
+Short worked together to developVersu <https://versu.com/>, an AI engine that 
+could create interactive text-based stories based around intelligent and 
+emotional characters. They began to demo the platform with a series of 
+text-based adventures that resembled interactive Jane Austen or Agatha Christie 
+novels, filled with intrigue and disparate characters. Here, instead of coding 
+a small number of set personality traits for each AI agent, everyone had their 
+own beliefs, abilities and parameters which, in theory, lead to an infinite 
+range of habits and quirky behaviours.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F4082e661866d3c6fb6fe31ab7dc029cb673ec8d6%2F15_0_771_462%2F771.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Video%20games%20where%20people%20matter%3F%20The%20strange%20future%20of%20emotional%20AI&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Video%20games%20where%20people%20matter%3F%20The%20strange%20future%20of%20emotional%20AI&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F4082e661866d3c6fb6fe31ab7dc029cb673ec8d6%2F15_0_771_462%2F771.png>
+ Versu presents players with a selection of living stories that work like live 
+choose your own adventure novels Photograph: Versu 
+“Each character also has a set of interpersonal attitudes,” says Evans. “These 
+are fine-grained role-evaluations: an evaluation of how well a character is 
+performing a role. So, for example, Mrs Quinn may think that Brown lacks good 
+breeding because he slurped his soup. Or Brown may think that Mrs Quinn lacks a 
+sense of humour because she failed to laugh at his joke. These interpersonal 
+attitudes can be transformed during the course of the game, and can be 
+communicated from what one character to another, via a form of gossip.”
+
+“Characters also have an emotional state – based on Paul Ekman’s typology of 
+emotions <http://www.beinghuman.org/article/do-we-all-have-same-basic-emotions>
+. So, for example, Mrs Quinn may be annoyed because Brown was flirting with 
+Lucy. Each character keeps track of her emotional state, the person who the 
+emotion is directed towards, and the explanation of the emotional state or the 
+experience that prompted the emotion.”
+
+
+The problem though, was in communicating to players just how complex these 
+behaviours were. When Evans and Short released the first game based on their 
+platform, the iOS adventure Blood and Laurels, players thought it was just a 
+standard scripted choose-your-own-adventure text game – they didn’t realise 
+that the emerging rivalries between characters were happening through AI. Evans 
+admits that even he was blindsided by his system at times.
+
+“There was one time I was playing a murder mystery game we had designed – and 
+there was this doctor who came to diagnose how a character was murdered,” he 
+says. “However, the doctor was being very rude to my character and kept making 
+dismissive remarks. Initially I thought it was a bug because I knew the 
+doctor’s personality was mostly pleasant, and I knew I hadn’t been rude to him. 
+I thought, oh man, why is he being such an arsehole to me?
+
+“I looked through the code and it turned out that much much earlier in the 
+game I’d been rude to a servant during dinner, and the servant had gone into 
+the kitchen and told the people there what a jerk I’d been – one of those 
+people was the doctor. He remembered that. This took me quite a long time to 
+debug. This is an example of how emergence is exciting but it opens up 
+questions about game design.”
+
+It’s an interesting problem. In 2011 a group of researchers at Universidad Rey 
+Juan Carlos in Spaincreated a program <> named the Emotional Elicitation 
+Process, that could define and produce emotional reactions in video game 
+characters. The team used the role-playing fantasy game Neverwinter Nights to 
+exhibit the project, imbuing NPCs with a range of emotions. “Party members 
+could fall in love and might disregard their own safety to save someone they 
+liked, for instance,” recalls AI researcher Michael Cook. “It’s tricky to 
+design for, though, because on the face of it it looks like stupid behaviour. 
+Like a lot of new AI ideas, communicating it to the player is really crucial.”
+
+Do game characters need emotions?
+
+Games <https://www.theguardian.com/technology/games> such as Prom Week, Facade 
+and The Sims were built around AI systems that created their own stories on the 
+fly, featuring human interactions that resembled simple soap operas. But while 
+these games proved a perfect testbed for creative and emotional AI agents, the 
+commercial industry has had no immediate use for these fascinating innovations. 
+In most games, AI is about controlling and directing non-player characters to 
+provide a certain level of challenge to the player. In a shooter or strategy 
+game, you want characters who can avoid danger areas and work to flank the 
+player, and the major challenge is writing an effective AI pathfinding system – 
+a means for the character to navigate the game’s environment. In short, there’s 
+no need for emotion or creativity when all you’re required to do is provide a 
+target for the player while not bumping into the furniture.
+
+
+“I think the rise of emotionally intelligent game characters has been hampered 
+by two major factors,” says Reed. “One is the difficulty of developing and 
+using the technology, and the other is the lack of a proven track record to 
+inspire game producers to tackle that challenge. It’s a bit of a 
+chicken-and-egg problem: unlike other aspects of AI such as pathfinding, there 
+aren’t established algorithms and architectures for [emotional] character AI, 
+which means a lot of difficult original research and experimentation on a 
+pretty big scale: precisely the sort of thing that’s out of reach for most 
+indies or academics, but tends to get cut in big-budget titles as a risky, 
+unknown factor.”
+
+But while the mainstream games industry was overlooking emotional character 
+design and emergent behaviours, the concept of computational creativity was 
+becoming a major element of artificial intelligence research. From the 1980s, 
+the idea that AI systems could learn to think like humans and devise their own 
+narrative, artistic or linguistic works began to intrigue both universities and 
+major technology companies. This has led to developments like IBM’sintelligent 
+computer cook 
+<http://www.research.ibm.com/cognitive-computing/computational-creativity.shtml#fbid=wumHhfu4mHN>
+ that invents its own recipes, and theWhat If Machine 
+<http://www.whim-project.eu/whatifmachine/#/welcome> created by a group of 
+European universities, which answers hypothetical ‘what if’ questions submitted 
+by users. It also led to ANGELINA, a computer program developed by Michael Cook 
+that can write its own simple video games, sourcing graphics and concepts by 
+browsing internet search engines.
+
+A lot of these theories and methodologies are now feeding contemporary 
+academic research into games and emotional AI agents. Mark Riedl is associate 
+professor at Georgia Tech and director of the university’s Entertainment 
+Intelligence Lab. He’s currently working on a project named Quixote, an AI 
+system designed to make it easier for non-specialist programmers to create 
+intelligent ‘virtual agents’. Quixoteallows AI agents to learn social rules 
+<https://research.cc.gatech.edu/eilab/publications/learning-from-stories> and 
+behaviours through reading stories sourced online; right now Riedl uses 
+Amazon’s online crowdsourcing marketplaceMechanical Turk 
+<https://www.mturk.com/mturk/welcome> to commission people to write short 
+stories around set themes. To demonstrate the concept, Riedl developed a game 
+called Robbery World in which an AI agent has to rob a bank: it studies a 
+series of bank robbery stories submitted on Mechanical Turk; learns the common 
+elements (travel to bank, go to counter, pull out gun, demand cash) and is then 
+rewarded for carrying out any action that advances the plot.
+
+“We’re looking at how to create complicated virtual characters for games and 
+social simulations,” says Reidl. “The idea is that humans can tell (or 
+crowd-source) stories about how to behave and the AI will train the characters 
+from those stories. I think it would be especially useful in populating 
+role-playing games with virtual characters – it’s a very different use of AI 
+and a different way of thinking about how to use storytelling. We are currently 
+integrating Quixote with Minecraft.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fc9dc589d63f15f41f35cb1154a363ba8f430bb0c%2F0_77_762_457%2F762.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Video%20games%20where%20people%20matter%3F%20The%20strange%20future%20of%20emotional%20AI&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Video%20games%20where%20people%20matter%3F%20The%20strange%20future%20of%20emotional%20AI&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2Fc9dc589d63f15f41f35cb1154a363ba8f430bb0c%2F0_77_762_457%2F762.jpg>
+ In the Restaurant Game the AI waitress had learned how to behave by watching 
+hundreds of humans play through the game in her role Photograph: MIT 
+Riedl, then, envisions a new era of AI game characters that can research and 
+learn from human stories or actions in a game world and thereby work out how to 
+act like humans; imagine a Witcher character who observes how you play, almost 
+like listening to your stories round the campfire as you save your game, and 
+then remembers the morals of those stories the next time they appear by your 
+side in battle. This process of teaching behaviours to machine learning 
+algorithms is going to be of huge importance in the coming years and its 
+implications stretch far beyond games. AI research is obviously also being 
+applied to robotics – ineed Riedl and fellow researchers at Georgia Tech are 
+looking at how Quixote could be used to teach robots how tobehave in a socially 
+and morally acceptable manner 
+<http://www.news.gatech.edu/2016/02/12/using-stories-teach-human-values-artificial-agents>
+.
+
+The Entertainment Intelligence Lab isn’t the only place working towards this 
+idea of AI agents learning from people. Ten years ago, Jeff Orkin’s fascinating
+Restaurant Game <http://alumni.media.mit.edu/~jorkin//restaurant/research/> got 
+players to take on the role of a customer going out for a meal, with the 
+waitress controlled by an AI. However in preparation for this simulation, he 
+asked thousands of volunteers to play the game as the waitress, while the AI 
+watched and learned from their actions. The resulting agent was able to cope 
+with a vast range of player actions and behaviours.
+
+This is where things lead in an interesting new direction. In 2013, Orkin 
+co-foundedGiantOtter Technologies <http://www.giantotter.com/>, a tech company 
+that’s now taking the idea of human-trained agents and designing advanced 
+conversational AI to power a new generation of human-like chatbots. This is a 
+sector that companies like Facebook, IBM, Google, Apple and Amazon are very 
+interested in, envisioning the use of AI bots in customer relations, tech 
+support and staff training. Reidl is working in this arena too, designing what 
+he calls “interactive improvisational storytelling chatbots”.
+
+Intelligent chatbots are a big deal in technology right now 
+<https://www.theguardian.com/technology/2016/sep/18/chatbots-talk-town-interact-humans-technology-silicon-valley>
+ – we all watched with horror and amusement when Microsoft released its own bot 
+named Tay onto Twitter earlier this year, only for it toquickly learn racist, 
+sexist behaviours 
+<https://www.theguardian.com/technology/2016/mar/24/tay-microsofts-ai-chatbot-gets-a-crash-course-in-racism-from-twitter>
+. Both Riedl and Orkin see connections between the idea of chatbot that can 
+converse freely and imaginatively with users and an AI game character who can 
+do the same. Indeed, the fascinating 2014 game The Suspect used IBM’sWatson 
+<http://www.ibm.com/watson/> technology, designed to help coders create 
+convincing humanlike chatbots, to create a police interrogation thriller in 
+which the eponymous suspect is played by the chatbot technology.
+
+But while we can understand why big companies like Amazon might want 
+human-like chatbots to provide customer services, the reasoning isn’t so clear 
+for games. Scripted narrative titles such as Mass Effect and Witcher 3 already 
+provide characters and stories that we relate to and feel for. Is it necessary 
+to add the complexity of AI systems that “think” for themselves and potentially 
+make idiosyncratic decisions based on data not immediately obvious to the 
+player? What will that add?
+
+You perhaps have to think about where games are going. Over the last five 
+years we’ve seen a huge design shift away from linear narrative adventures and 
+toward open-world games with procedurally generated landscapes and the capacity 
+for emergent stories. In many ways what’s missing from the highly naturalistic 
+worlds of Grand Theft Auto and Witcher is characters that have their own 
+agendas and internal lives – that can provide on-the-fly challenges for the 
+player, or just register your existence in the game world. In the action 
+adventure title Middle Earth: Shadow of Mordor, critics and players reacted 
+very positively to the game’s Nemesis system, which allowed computer-controlled 
+enemies to remember fights they’d had with the player and bring these up in 
+later encounters.
+
+It wasn’t a particularly sophisticated AI system, but it added a sense of 
+permanence and agency to the game – it made you feel part of a functioning 
+social world. In a similar way, Ubisoft’s sci-fi action game Watch Dogs let 
+users hack into the phones of passers-by and learn about their lives – a 
+practice that would often kickstart little emergent missions, and drew 
+civilians into the story.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fa8f8a7df2438e255eec7e1d9c6a2bd664df4d4ea%2F78_0_2370_1422%2F2370.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Video%20games%20where%20people%20matter%3F%20The%20strange%20future%20of%20emotional%20AI&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Video%20games%20where%20people%20matter%3F%20The%20strange%20future%20of%20emotional%20AI&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2Fa8f8a7df2438e255eec7e1d9c6a2bd664df4d4ea%2F78_0_2370_1422%2F2370.png>
+ Bad News – by James Ryan, Ben Samuel, and Adam Summerville – is a game that 
+uses human actors whose characterisations are governed by an AI program 
+Photograph: James Ryan 
+What mainstream game developers may need is a third-party AI engine that 
+produces interesting characters for them, without all the expensive research 
+and development. Those solutions are emerging. James Ryan is a PhD student at 
+UC Santa Cruz, working in theExpressive Intelligence Studio 
+<https://games.soe.ucsc.edu/eis>. He and his collaborators are working on Talk 
+of the Town, an AI platform that creates interactive experiences featuring 
+intelligent characters who have ongoing personalities encompassing emotions, 
+beliefs, memories and relationships. “There are two core AI problems that Talk 
+of the Town is tackling,” says Ryan. “How do you support autonomous characters 
+who have ongoing subjective experience of the game world, and how do you 
+support unconstrained conversational interaction between player and NPCs? We 
+have systems that decide how people go about their daily routines, and how the 
+various subjective phenomena should be triggered over the course of a 
+character’s day – things like forming, propagating, misremembering knowledge or 
+memories, and forming or evolving relationships.”
+
+Ryan and his collaborators are using three AI elements to power their 
+platform: a dialogue manager to handle conversational flow between characters; 
+a natural language generation (NLG) system that takes the dialogue manager’s 
+decision about how the NPC should respond (structured as a “content request”) 
+and generates a line of dialogue that performs accordingly; and a natural 
+language understanding (NLU) system being developed in collaboration with Adam 
+Summerville – the most complex element. “It takes in free-text input and 
+converts the player’s utterance to a form that tells the dialogue manager how 
+the world should be changed and how the NPC should respond,” says Ryan. “Here, 
+we’re using neural networks – specifically, the LSTM architecture that’s all 
+the rage right now.”
+
+To illustrate the platform Ryan and his collaborators are writing a series of 
+their own small games. In Juke Joint, a collaboration with Tyler Brothers, the 
+player controls a juke box in a bar crowded with AI characters – the songs you 
+play have a direct affect on the emotions and conversations of the characters 
+allowing you to direct the scene. National Pastime has the player entering a 
+series of towns, interacting with locals and looking to scout baseball players. 
+His experiments are populated by fallible, forgetful characters who exchange 
+information skews through the Chinese Whisper effect of human gossip. It would 
+be a remarkable system in a role-playing game where local myths, rumours and 
+prejudices could cloud a player character’s mission.
+
+“[Ryan is] modelling the inner monologues of these AI characters, their 
+thoughts, their emotional states, what they remember, what they’ve forgotten,” 
+says Michael Cook. “These are all the complicated human qualities that people 
+value in each other, and that we rarely associate with AI. In James’ other 
+game, Bad News, the same AI characters have their memories modelled, so they 
+can see things, forget they saw them, misremember them and overhear someone 
+telling someone else what they remember – or misremember. James seems very 
+interested in these human qualities and giving AI the power to understand them. 
+He’s one of the coolest games researchers out there at the moment.”
+
+Does Ryan see an era in which an AI platform like his could be integrated into 
+a mainstream game? “Absolutely!” he says. “That’s the dream, there are several 
+of us working very hard to make it come true – Richard Evans and Emily Short 
+included.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-6%23img-6&picture=https%3A%2F%2Fmedia.guim.co.uk%2F720ba5673f136c023c7ef06dfe5893a08fc62fac%2F0_0_1799_1080%2F1799.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Video%20games%20where%20people%20matter%3F%20The%20strange%20future%20of%20emotional%20AI&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-6%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Video%20games%20where%20people%20matter%3F%20The%20strange%20future%20of%20emotional%20AI&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F12%2Fvideo-game-characters-emotional-ai-developers%3Fpage%3Dwith%3Aimg-6%23img-6&media=https%3A%2F%2Fmedia.guim.co.uk%2F720ba5673f136c023c7ef06dfe5893a08fc62fac%2F0_0_1799_1080%2F1799.jpg>
+ Could a future version of Grand Theft Auto feature a city populated by 
+intelligent characters with their own biographies and emotions? Photograph: 
+Rockstar 
+“A major hold-up has been memory issues. GTA can’t even keep a car in memory 
+after it’s left the player’s field of view, so there’s been no room at all for 
+maintaining something resembling a character’s inner world. This is all 
+changing of course, and I think that expanded memory resources could be the 
+boon that makes the next generation of emotional AI not just possible (which it 
+already is), but practical.”
+
+Another name to look out for in this sector is Mobius AI. Founded in 2015 by a 
+team of video game veterans and AI researchers, including Aaron Reed, the 
+company is developing an AI platform specifically for the mainstream games 
+industry. “We’re working on a project to provide game developers with a social 
+AI engine that can power game characters with greater knowledge about the world 
+and the ability to react and perform in dynamic situations, which has never 
+been available before in a complete package like this,” says Reed. “In the same 
+way game technologies like SpeedTree or PhysX let devs plug in an engine for 
+vegetation or physics, we want to provide an engine for social AI that lets 
+game makers focus on creating interesting characters rather than worry about 
+the tech that drives them.”
+
+ “The details of what we’re working on are still under wraps, but one bit of 
+wisdom we’re bringing from our previous projects is that social AI is a 
+different animal from many computer science problems that can be solved by just 
+a better algorithm. Much like the way the brain seems to work, the best 
+solutions seem to involve many small little systems working together to give 
+rise to intelligent-seeming emergent behavior.”
+
+Imagine a version of Grand Theft Auto, then, in which the missions don’t just 
+come from a central authored narrative – they also emerge from the ambitions 
+and conversations of the civilians who usually just dumbly wander the world. 
+What if two ambitious characters with low morality scores meet in a cafe and 
+concoct a plan for a bank robbery. What if they realise they need a good 
+driver, and recruit the player? But imagine their plans were overheard by 
+another AI who decides to foil the plan? These complex systems of ambition and 
+interaction could create totally new forms of game structure.
+
+Some action games may even move away from violence altogether. With natural 
+dialogue systems we’re heading into an era where players could negotiate with 
+computer-controlled characters, where persuasion, seduction and intrigue 
+replace guns and aggression. The recent science fiction adventure Event(o) 
+features the player character interacting with a spaceship’s onboard computer 
+in order to convince the machine to plot a course back to Earth. The computer 
+has a range of emotional states and the player has to figure out how to read 
+these and respond to them correctly.
+
+At the moment, the premise of conversing with an intelligent computer makes 
+sense because the conversation can be presented to the player through a text 
+interface without it ruining the immersion of the game. The challenge for 
+mainstream titles is to create AI characters that can actually voice their 
+thoughts and feelings, rather than simply display them as text. But that 
+technology is coming: DeepMind recently announced WaveNet, a tool that 
+generates highly convincing human speech. If this were built into a game with 
+natural language capabilities, then simple yet totally emergent conversational 
+interactions could be verbalised by an agent. We’re maybe not far from AI 
+characters who can literally speak their minds – even though those “minds” may 
+never be that sophisticated.
+
+The age of character adventures
+
+Whatever the technicalities, Reed feels that with more complex emotional AI 
+systems we’ll start to see new types of games – romantic comedies, character 
+studies, coming-of-age stories – augmenting rather than replacing the sorts of 
+experiences we now enjoy.
+
+“As we start giving more control to social simulations, we can at first expect 
+to see richer, more intriguing versions of the types of characters we have 
+now,” says Reed. “Shopkeepers who can carry on a more dynamic conversation, 
+quest-givers or lore-spouters who can answer questions or respond to your 
+specific circumstances, and so on.
+
+
+“But as your system gets smarter and you’re willing to give it more control, 
+it really starts suggesting entirely new genres of game that don’t yet exist. 
+Part of the reason you don’t see many character-focused games right now is that 
+games aren’t yet really *about* character interaction: they’re about moving 
+through environments, defeating enemies, jumping over gaps, and so on. Once 
+we’ve got the tech to make characters playable, those stories become possible 
+to tell in interactive form: but through a profoundly different lens.
+
+If only you could talk to these creatures, then perhaps you could try and make 
+friends with them, form alliances... Now thatwould be interesting. Perhaps not 
+in the context of Doom (there will always be games that are just about shooting 
+and having fun – and that’sfine), but in totally new gaming paradigms. Surely 
+it will be more meaningful, more emotionally resonant if your seduction of 
+Yennifer in Witcher 3 or Garrus in Mass Effect came, not through a scripted 
+tree of pre-packaged conversations, but through a dynamic relationship? One 
+thing’s for sure, we would certainly find out more about those other characters.
+
+As Reed puts it: “In much the same way that playing with a simulation of fire 
+or fluid dynamics can lead you to deeper understanding or quicker insights than 
+simply reading about them, truly interactive characters potentially let us have 
+a more immediate and intuitive kind of relationship with them than with 
+characters in linear stories. And that is really exciting.”
+ 

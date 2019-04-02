@@ -1,0 +1,44 @@
+
+Twitter <https://www.theguardian.com/technology/twitter> is testing a new 
+feature on its iOS app which turns on Apple’s “Reader” mode by default on every 
+link opened in its in-app browser.
+
+First introduced in 2010, and ported to iOS 
+<https://www.theguardian.com/technology/ios> in 2011, Reader mode is a 
+oft-forgotten feature in Safari that strips out most of the formatting from a 
+webpage, removing adverts, navigation links, comments, and almost everything 
+else except for the main content of a text-based article.
+
+In the new test from Twitter, rolled out for a small number of users – 
+including one Guardian reporter – the company has enabled Reader mode by 
+default on every single link clicked.
+
+While the new feature can be a boon for those navigating badly designed 
+web-pages, it also manages to mangle the presentation of almost as many sites. 
+While the feature works well for traditional news articles, anything that isn’t 
+a chunk of text-heavy content in the middle of a page falls apart.
+
+The change will also be worrying for many media organisations: unlike similar 
+light-weight webpage options, such as Facebook Instant Articles and Google’s 
+Amp project, there’s no option to customise the appearance of the Reader 
+version of the page, nor any ability to monetise the views.
+
+Reader still requires the original version of the page to be loaded before it 
+can display, however, which may mean advertising figures are still counted – at 
+least until advertisers realise that some proportion of readers aren’t viewing 
+the adverts.
+
+A Twitter spokesperson confirmed that the change is “just a test for some”, 
+but it comes in the middle of a number of other large changes being tested by 
+the company. Most notably, Twitter is also testing a new system for replies on 
+the site,which has been received with extraordinarily negative response 
+<https://techcrunch.com/2016/10/28/complaining-about-twitter-on-twitter/> from 
+those in the test. “I understand completely that this is just a test of 
+something Twitter might do,” wrote TechCrunch’s Matthew Panzarino, “I am just 
+encouraging them very strenuously not to.”
+
+The new replies functionality, among other things, makes it much harder to 
+remove people from threads, hides who else is in a thread, and removes from 
+notification tabs any mention of whether or not there is a broader conversation 
+at all.
+ 

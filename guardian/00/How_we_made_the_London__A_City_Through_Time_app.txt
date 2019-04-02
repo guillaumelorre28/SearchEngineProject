@@ -1,0 +1,86 @@
+
+The remarkable book, which sits at the heart of the London: A City Through Time
+ <http://www.heuristicmedia.tv/london-a-city-through-time.php> app, is The 
+London Encyclopaedia, a huge labour of love edited over several decades by the 
+antiquarian sellerBen Weinreb 
+<https://www.theguardian.com/news/1999/apr/12/guardianobituaries3> and 
+suggested to us by his son, the photographer Matthew Weinreb.
+
+Understandably the publishers, Pan Macmillan, were initially very sceptical 
+that an app could be made from the book, but felt our enthusiasm might at least 
+be fun to watch. Large and lovingly-curated reference books are sadly the first 
+against the wall in the digital revolution, so digitising one would be an 
+interesting experience for all.
+
+The existing book is, frankly, enormous. It covers every subject of which you 
+can think on the history ofLondon <https://www.theguardian.com/uk/london>, from 
+the grandiose to the intimate. And the landscape is a remarkable weave to pick 
+through: towering cathedrals stand cheek-by-jowl with Roman ruins; tiny streets 
+thread their way in and out of skyscrapers; Georgian squares stand over plague 
+pits and a warren of tunnels burrow underneath it all. The book is particularly 
+detailed on the more obscure places that are the real charms for London's 
+residents and visitors, something that guide books can simply never 
+comprehensively cover.
+
+The first major job was to wrestle the 900 page PDF of the book into a 
+database so that the entries could be fished from anywhere in the app. While 
+many entries had associated addresses, many more did not and none had the GPS 
+coordinates vital to presenting information on a map. Unable to rely on 
+existing online services to accurately locate the entries, we individually 
+pinpointed over 4,500 entries by hand.
+
+Not surprisingly, this process took a while – particularly as the book covers 
+buildings and streets that crumbled away long ago. Lots of times we had to do 
+detective work, using old maps or descriptions to pinpoint where on earth a 
+particular castle, theatre or place of execution used to be (Tyburn gallows, 
+incidentally, was opposite Marble Arch, right next to a Pret a Manger, which 
+might have been useful for the executioners and the crowds had the condemned 
+taken their time).
+
+We wanted to give people multiple ways to search through the content 
+over-and-above alphabetical browsing, which is a limitation of all 
+encyclopaedias. We created eight sections that present information in very 
+different ways depending on the user's mood or interests.
+
+The timeline was designed to give a multilayered overview of the full span of 
+the history so that users can quickly and visually speed backwards and forwards 
+in time. To accompany this we researched and wrote over 2,000 entries for 
+events within specific years, each tying into existing relevant articles within 
+the database. We created ways of browsing by map, by subject, by notable 
+Londoners mentioned in the articles and even by underground lines so that while 
+sitting on the tube, you can browse articles relating to the places hurtling by 
+above your head.
+
+A key consideration for the app was that many users might not have a 
+connection (either no Wi-Fi or because they have turned off roaming) and we 
+tried to make as much of the app as possible usable offline. We also wanted it 
+to be as useful for people walking around the city as it was for armchair 
+tourists. Two of the company's partners, Richard Loncraine and Patrick Uden, 
+live in London, and we (myself and Simon Reeves) live in Los Angeles, so that 
+gave us both perspectives to work from.
+
+An enormous amount of the app was possible because so many different people 
+were passionate about the subject matter and kindly offered their help, 
+materials and time. This meant Richard and Patrick spent a lot of time running 
+about the city and up cathedral towers photographing maps, etchings and objects 
+in the basements of antiquarian sellers and the Museum of London, rushing off 
+to record Blue Badge tours and even Timothy Spall at his kitchen table.
+
+Several archives gave us access to their entire catalogues, giving us 
+thousands of photographs, articles and etchings to select, tag, crop and make 
+presentable for the app. This generosity is a great reflection of the love so 
+many people seem to feel for their city – something we hear constantly from 
+those who use the app all over the world, and it kept up our enthusiasm 
+throughout the long process of making it. Every day we found out new 
+interesting things we'd not known and the book's sheer size means we are still 
+enjoying it, even though the app is now finished and in the store.
+
+Toby Evetts and Simon Reeves are partners at Heuristic Media 
+<http://www.heuristicmedia.tv/> – follow the company on Twitter @Heuristic_Apps 
+<https://twitter.com/Heuristic_Apps>
+
+This content is brought to you by Guardian Professional 
+<http://theguardian.com/guardian-professional>. To get more articles like this 
+direct to your inbox, sign up free to become amember of the Culture 
+Professionals Network <https://register.theguardian.com/culture-professionals/>.
+ 

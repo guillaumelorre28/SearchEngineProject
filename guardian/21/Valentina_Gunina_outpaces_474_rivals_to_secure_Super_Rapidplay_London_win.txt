@@ -1,0 +1,63 @@
+
+Wesley So won the London Classic and the four-event Grand Tour but the show 
+stealer at Kensington Olympia last weekend was Valentina Gunina. The 
+27-year-old from Murmansk scored an unbeaten 9/10 to win the Super Rapidplay – 
+10 rounds of speed games with a £5,000 first prize and a record 475 entries 
+including 43 grandmasters.
+
+Gunina had never played in England before, flew in specifically for the 
+tournament and was the only Russian in the event apart from the UK resident 
+Alex Chernaiev. She holds the GM title at men’s level and her CV includes three 
+European titles, two Russian championships and three Olympiad gold medals. 
+Significantly for the London contest she has also won the women’s world blitz 
+title.
+
+Her technique at the board was remarkable. Rapidplay is 25 minutes on the 
+clock plus 10 seconds per move increment for each player, so the normal 
+approach is a quick opening followed by a considered think. But in most of her 
+games Gunina played fast throughout, using a creative, complex and attacking 
+style. She was 20 minutes ahead on the clock against both England’s David 
+Howell and France’s legend Etienne Bacrot, who finally drew. Gunina’s only 
+other dropped half point was a seven-move draw with her French boyfriend, GM 
+Laurent Fressinet.
+
+Tournament winners need some luck and Gunina had two helpful breaks. John Nunn 
+lost trivially in a drawn ending while in her decisive final round Luke 
+McShane, the 2015 Super Rapidplay winner, made a one-move blunder in a position 
+where he had a winning choice available (see the puzzle below).
+
+It was a stunning result, a 2831 rating performance – the level of the world 
+champion, Magnus Carlsen – from a player rated 2491 and seeded 33rd. On the 
+all-time megascale of female upsets it may rank second only to 14-year-old 
+Sofia Polgar’s 8.5/9 at Rome 1989, when the defeated Russian GMs tried to 
+conceal the result on their return to Moscow.
+
+Other women competitors described Gunina’s result as inspiring. Final scores 
+were Gunina 9/10, Eltaj Safarli (Azerbaijan) 8.5, with England’s Gawain Jones 
+and Howell plus Fressinet among 11 players on 8 points.
+
+Online databases have transformed opening theory by making it possible to 
+prepare lines of play many moves deep for your opponent. The downside, which 
+effectively decided the Grand Tour in the very first round when Hikaru Nakamura 
+blundered against Wesley So, is that there is much more data for the human 
+brain to recall at the board, leading to mixing up variations or making moves 
+in the wrong order. Even the eminent ex-champion Vlad Kramnik admits that this 
+happens to him frequently.
+
+Nakamura presumably intended 13 Bd3 followed by Ne2, but playing the knight 
+move first allowed So’s Nxe4! counter after which White is struggling. Black 
+could even afford an inaccuracy of his own (21...Rxc4! is the accurate play) 
+but White’s position went steadily downhill and he resigned two pawns down 
+without compensation. It was Nakamura’s 29th birthday …
+
+Hikaru Nakamura v Wesley So
+
+1 d4 Nf6 2 c4 g6 3 Nc3 d5 4 cxd5 Nxd5 5 e4 Nxc3 6 bxc3 Bg7 7 Be3 c5 8 Rc1 O-O 9
+ Qd2 e510 d5 Nd7 11 c4 f5 12 Bg5 Nf6 13 Ne2?? Nxe4! 14 Bxd8 Nxd2 15 Be7 Rf7 16 
+Bxc5 Nxf117 Rxf1 b6 18 Bb4 Ba6 19 f4 Rc8 20 fxe5 Bxe5 21 Rf3 Bxc4? 22 Re3 Bg7 23
+ Nf4 Rd724 a4 Bh6 25 g3 Bxf4 26 gxf4 Rxd5 27 Re7 Rd4 28 Bd2 Kf8 29 Bb4 Re8! 0-1
+
+3474 1...Rd1?? 2 Qxd1! wins since if Qxd1 3 Rc8+ with a back rank mate. 
+Instead 1...Rd5! wins with the double threat Nxh6 and Nd4, since if 2 Rc8 Bd4+ 
+3 Kh1 Ng3+! 4 hxg3 Rh5 mate.
+ 

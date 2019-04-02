@@ -1,0 +1,53 @@
+
+I wasn’t predisposed to love Algorithms To Live By 
+<https://bookshop.theguardian.com/catalog/product/view/id/385488/>, a new book 
+by Brian Christian and Tom Griffiths that suggests approaching life decisions 
+like a computer scientist. With the greatest respect to the computer scientists 
+I know, it’s a job that evokes certain cliches not associated with healthy 
+work-life balance, social skills or high tolerance for sunlight. Open the book 
+at random, and you might find that stereotype confirmed. Did you know that,
+according to maths <https://en.wikipedia.org/wiki/Secretary_problem>, you 
+should marry the first person you meet once you turn 26 who’s better than all 
+previous people you’ve dated? (This assumes you started looking for a spouse at 
+18 and want to find one by 40.) Of course, nobody could ever bring themselves 
+to live so mathematically, even computer scientists, and yet, by the end of the 
+book, I was convinced. Not because I endorse the idea of living like some 
+hyper-rational Vulcan, but because computing algorithms could be a surprisingly 
+useful way to embrace the messy compromises of real, non-Vulcan life.
+
+Computer science, Christian and Griffiths point out, is all about coping with 
+limitation. We ask computers to do a million complex things, and at lightning 
+speed. But they have limited processing power, so it’s always a matter of 
+tradeoffs. When is it better to be fast than accurate, or vice versa? When 
+should a computer stop searching for the perfect solution to some puzzle and 
+use a rough-and-ready one instead? Slightly rephrased, these are the central 
+challenges of life. When do you stop searching for a better partner, flat, 
+group of friends, career path or local pub? You’d like to make the best 
+possible choice, but gathering data comes at a price. Spend your whole life 
+auditioning new spouses, friends or jobs, and you won’t have spent it well.
+
+The best algorithmic solutions vary according to the scenario. One appealing 
+idea, when you’re facing a fork in the road, is to choose the option with the 
+highest “upper confidence bound” – the one that could plausibly perform best in 
+future (even if it’s also the one with a higher chance of being awful). There’s 
+also the useful method known as “constraint relaxation”, a technical way of 
+describing self-helpy questions such as,“What would you do if you weren’t 
+afraid, 
+<http://leanin.org/discussions/sheryl-sandberg-to-sequoia-high-school-what-would-you-do-if-you-werent-afraid/>
+or if money were no object?” Examine your predicament, then remove one of the 
+constraints – money, time, family disapproval – and ask what you’d do. The 
+answer may clarify your real-world decision.
+
+How to deal with email overload | Oliver Burkeman
+ Read more  
+<https://www.theguardian.com/lifeandstyle/2016/apr/15/how-to-deal-with-email-overload>
+But the authors’ most immediately useful concept may be “computational 
+kindness”. When making a plan with a friend, it feels polite to say you’re 
+flexible about when to meet, or that you don’t mind at which restaurant. But 
+refusing to state your wishes imposes a computational cost on the other person: 
+now he or she must make the choice (while guessing at your preferences). For 
+humans, as for computers, deciding makes demands on limited processing power. 
+Don’t overtax yours, and don’t force your friends to use theirs on your behalf.
+
+oliver.burkeman@theguardian.com <mailto:oliver.burkeman@theguardian.com>
+ 

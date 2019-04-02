@@ -1,0 +1,135 @@
+
+A team of academics claims an unsophisticated type of cyber attack that 
+exploits “flaws” in the Visa card payment system was probably used to defraud
+Tesco <https://www.theguardian.com/business/tesco> Bank customers of £2.5m last 
+month.
+
+Cyber attack: hackers 'weaponised' everyday devices with malware to mount 
+assault
+ Read more  
+<https://www.theguardian.com/technology/2016/oct/22/cyber-attack-hackers-weaponised-everyday-devices-with-malware-to-mount-assault>
+In an academic paper 
+<https://drive.google.com/open?id=0B--vWd1BN_IsOXcydGUtNVlDQk0>, the team at 
+Newcastle University claimed that working out the card number, expiry date and 
+security code of any Visa credit or debit card could take a criminal “as little 
+as six seconds” and involved nothing more than guesswork.
+
+
+They said the so-called “distributed guessing attack” method they had 
+identified was able to circumvent all the security features put in place to 
+protect online payments from fraud, and exploited vulnerabilities at Visa – 
+which hasmore than 500m cards <https://www.visaeurope.com/newsroom/faqs> in 
+circulation in Europe alone – and hundreds of the world’s biggest and most 
+popular retail websites. Some sites have changed their online security settings 
+in response to the findings.
+
+
+Visa said the research did not take into account the multiple layers of fraud 
+prevention that exists within the payments system, “each of which must be met 
+in order to make a transaction possible in the real world”.
+
+The research paper, whose lead author is a 26-year-old PhD student, said the 
+good news for people with MasterCard debit and credit cards was that this form 
+of hacking did not work on MasterCards, because its systems were able to detect 
+the attacks. It added that the minority of online retailers that used so-called 
+3D Secure technology to provide extra protection – such as theVerified by Visa 
+<https://www.visa.co.uk/products/protection-benefits/verified-by-visa/>, 
+Mastercard SecureCode 
+<https://www.mastercard.co.uk/en-gb/consumers/features-benefits/securecode.html>
+ andAmerican Express SafeKey 
+<https://www.americanexpress.com/uk/content/safekey-information.html> systems – 
+were also “safe” from this type of attack.
+
+
+The paper was published weeks after Tesco Bank suffered what was described as 
+anunprecedented attack on its online accounts 
+<https://www.theguardian.com/business/2016/nov/08/tesco-bank-cyber-thieves-25m>
+, which affected 9,000 customers and resulted in the theft of £2.5m.
+
+
+The type of hacking identified by the Newcastle team involves criminals using 
+merchants’ payment websites to “guess” people’s card details. The criminals use 
+software that automatically generates different variations of a card’s security 
+data – for example, the card number, expiry date and three-digit security code 
+known as the CVV – and fires these off to hundreds or even thousands of 
+websites around the world at the same time. The reply to the transaction will 
+confirm whether or not the guess was right.
+
+
+Because Visa’s network did not detect multiple invalid payment requests on the 
+same card from different websites, “unlimited guesses” could be made by 
+spreading the guesses over a large number of sites, even if individual 
+merchants limited the number of attempts. This meant that “within seconds, 
+hackers are able to get a ‘hit’ and verify all the necessary security data”.
+
+
+Once they have all the details, the criminal can use these to buy goods online 
+or, potentially, open a money transfer account and send cash to an anonymous 
+recipient abroad.
+
+
+The Newcastle team used a set of software tools – including a website “bot” 
+and automated scripts – and their own bank cards, including seven Visa ones, to 
+carry out an experimental distributed guessing attack. They chose 400 of the 
+world’s biggest commercial websites for their investigation, including Google, 
+Amazon, iTunes and PayPal, before later whittling this down to 389. Of these, 
+47 made use of 3D Secure systems, which meant they could not be attacked in 
+this way. That left 342 that were vulnerable.
+
+
+The research paper stated that the experiment proved that this type of attack 
+was practical and so a credible threat, and also that it was possible to run 
+multiple bots at the same time on hundreds of payment sites “without triggering 
+any alarms in the payment system”.
+
+
+Mohammed Ali, a PhD student in Newcastle University’s school of computing 
+science and lead author on the paper, said: “Most hackers will have got hold of 
+valid card numbers as a starting point, but even without that, it’s relatively 
+easy to generate variations of card numbers and automatically send them out 
+across numerous websites to validate them.”
+
+
+He added: “The next step is the expiry date. Banks typically issue cards that 
+are valid for 60 months, so guessing the date takes at most 60 attempts. The 
+CVV is your last barrier and theoretically only the cardholder has that piece 
+of information – it isn’t stored anywhere else. But guessing this three-digit 
+number takes fewer than 1,000 attempts. Spread this out over 1,000 websites and 
+one will come back verified within a couple of seconds. And there you have it: 
+all the data you need to hack the account.”
+
+
+Ali said MasterCard’s centralised network was able to detect a guessing attack 
+after fewer than 10 attempts, even when those payments were distributed across 
+multiple networks.
+
+
+The team said this guessing attack method was likely to have been used in the 
+Tesco cyber-attack, and was “frighteningly easy if you have a laptop and an 
+internet connection … The risk is greatest at this time of year, when so many 
+of us are purchasing Christmas presents online.” Their research has been 
+published in the academic journalIEEE Security & Privacy 
+<https://www.computer.org/security-and-privacy/>.
+
+
+In a statement, Visa said it was “committed to keeping fraud at low levels, 
+and works closely with card issuers and acquirers to make it very difficult to 
+obtain and use cardholder data illegally … We provide issuers with the 
+necessary data to make informed decisions on the risk of transactions. There 
+are also steps that merchants and issuers can take to thwart brute force 
+attempts”.
+
+
+The spokesman said that in cases where someone’s card details were used 
+fraudulently the cardholder was protected from liability and added that where a 
+merchant chose not to use its Verified by Visa system for a card-not-present 
+transaction, they assumed the risk for fraud. “Visa welcomes industry and 
+academic efforts to identify and address perceived vulnerabilities in the 
+payment system.”
+
+Tesco Bank said it refunded each customer account in full and no customer data 
+was lost or stolen. “This incident has highlighted that all banks need to work 
+together in the interests of all customers and the financial system,” a 
+spokesman said.
+
+ 

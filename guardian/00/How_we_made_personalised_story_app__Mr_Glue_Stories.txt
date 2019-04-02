@@ -1,0 +1,106 @@
+
+Five years ago I was going through the “Why can’t I get my child reading?” 
+conundrum with my daughter, Helen, who had many better things to do at the 
+time, such as sploshing paint about, dressing up and persecuting the cat.
+
+While having friends around for dinner, Helen joined the adult conversation 
+after hearing the older children talk about school essays. She proclaimed that 
+she needed one, so, seeing this as a great opportunity to get my five-year-old 
+daughter engaged in literacy, I got to work and created a personalised story.
+
+
+The story was a silly Arthurian quest for pink frilly dresses with knights and 
+damsels in distress, and a wolf who turned out to be an enchanted fashion 
+designer called Alexander (luckily, Merlin was able to sort out the wolf 
+problem and then it was fabulous clothes all round). Helen ran around the house 
+clutching the story to her chest. She was enormously excited because it was hers
+. It was at this point that we really started making headway with her reading 
+skills.
+
+This was the lightbulb moment for our reading app, Mr Glue Stories 
+<https://mrgluestories.com/>. Wouldn’t it be great, co-founder Carrie 
+Gregory-Hood and I thought, if we could create a product that allowed children 
+to create their own personalised stories.
+
+For some children it’s quite a business getting into reading. It’s not 
+necessarily that they’re not able to, they’re just not interested, which can 
+hold them back in school and later on in life. Save the Children’sRead on. Get 
+on 
+<http://www.readongeton.org.uk/?utm_campaign=ukreading&utm_medium=video&utm_source=ytukfilm201409>
+ campaign, launched earlier this year, recognises this is a major issue in the 
+UK.
+
+First, we looked at what was out there already. There were quite a lot of 
+personalised story tools and apps, but most of them were along the lines of: 
+put your child’s name into this classic. In other words, something given to a 
+child by an adult.
+
+We wanted the opposite of that: to involve the child in the process and put 
+them into the driving seat of the story. We wanted them to be not just the main 
+character and choose details as they read, but the illustrator and the 
+voiceover artist as well, all at the same time.
+
+An app was the only way that was going to happen, so we mapped out the 
+features of the app, raised some finance from friends and family, set up a 
+limited company and set about writing the first series of stories.
+
+We then went on a two-woman mission to attract the top talent as contributors 
+to our product. Mr Glue Stories needed the best so, through our contacts, we 
+got to work in sourcing an amazing illustrator and a tech development company, 
+as well as connecting with a local school who kindly offered their voices for 
+our story app. Our business was born.
+
+Mr Glue Stories is, we like to think, the next-generation in personalised 
+storytelling. The book is designed to be personalised on an iPad by the child 
+themselves, rather than done as a series of data points by parents and 
+presented as a finished book to the child. It’s an engaging and immersive 
+reading experience because not only do the children choose characters and 
+elements to go into the story, they can also colour in and draw on every page, 
+as well as record themselves reading and add music and sound effects as they 
+progress. The app allows them to make their very own custom book and in the 
+case of some children, it takes away the fear of the published page.
+
+An app such as this is not without its challenges. The biggest for us by far 
+was actually sourcing tech developers: finding ones that were on the same 
+wavelength and who understood the vision, were reliable, knew their stuff and 
+didn’t want to steal our IP. We lost nine months at the start dealing with a 
+number of tech developers that fell down on at least one of these.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdJ0GbBrHxm0&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdJ0GbBrHxm0>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdJ0GbBrHxm0&media=>
+ Mr Glue Stories 
+Another huge challenge for us was developing a user experience (UX) that 
+worked for children globally, as was creating a whole new rendering engine that 
+compresses enormous files that could be pulled out on demand. We had to make 
+sure the app didn’t use up all the iPad’s memory resources
+
+Without any marketing, we achieved more than 11,000 app downloads within the 
+first six months of launching on the App Store. We’ve been awestruck by the 
+positive reaction from parents and teachers, who see children enjoying reading 
+experience.
+
+What next? The future for Mr Glue Stories will be linking up our content 
+management system – where new stories have been created – to the app, which 
+will give children the opportunity to access new stories (topics/themes), add 
+new characters and build up a personalised collection of storybooks. While 
+we’ll always ensure a selection of these stories remain free, additional ones 
+will be available as an in-app purchase. We also want to reach out to more 
+parents and teachers than any other app or personalised storybook in the UK.
+
+App facts
+
+Length of the project: nine months internal planning; one year development; 
+three months development for printing
+Companies involved: Leto <http://weareleto.com/>
+Size of the team: five developers, one art director and a team of project 
+managers
+
+Amelia Thorne is co-founder of Mr Glue Stories with Carrie Gregory-Hood
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+ 

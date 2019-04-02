@@ -1,0 +1,168 @@
+
+Have you heard the good news? The blockchain is here – and it’s going to save 
+everything.
+
+If you aren’t tied to the tech community, you might not have picked up on this 
+salvation rhetoric. But you probably have heard of bitcoin,which burst into the 
+public consciousness 
+<https://www.theguardian.com/technology/2013/nov/25/is-bitcoin-about-to-change-the-world-peer-to-peer-cryptocurrency-virtual-wallet>
+ beforeimploding dramatically 
+<https://www.theguardian.com/technology/2014/dec/17/why-bitcoin-is-the-worst-investment-2014>
+ in 2014.
+
+
+
+But now, bitcoin is starting to look less important than the engine that 
+drives it – the blockchain. It was created to solve a problem that had been 
+puzzling digital activists for decades: how to createdigital property 
+<https://www.theguardian.com/technology/drm> without a central authority 
+keeping track of who owns what.
+
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Fvideo%2F2014%2Fapr%2F30%2Fbitcoin-made-simple-video-animation&picture=http%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F4%2F29%2F1398765903214%2FBItcoin640360.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Bitcoin%20made%20simple%20%E2%80%93%20video%20animation&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Fvideo%2F2014%2Fapr%2F30%2Fbitcoin-made-simple-video-animation>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Bitcoin%20made%20simple%20%E2%80%93%20video%20animation&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Fvideo%2F2014%2Fapr%2F30%2Fbitcoin-made-simple-video-animation&media=http%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F4%2F29%2F1398765903214%2FBItcoin640360.png>
+Bitcoin made simple 
+<https://www.theguardian.com/news/video/2014/apr/30/bitcoin-made-simple-video-animation>
+The answer to that question, first proposed by bitcoin’s pseudonymous creator, 
+Satoshi Nakamoto 
+<https://www.theguardian.com/technology/2016/may/02/bitcoin-craig-wright-satoshi-nakamoto-inventor-scepticism>
+, was to create a decentralised digital ledger, keeping track of every 
+transaction made, and with its accuracy guaranteed through the combined honesty 
+of the entire network.
+
+The core of the idea is to get computers burning energy in order to prove that 
+they are trustworthy, and stamping that trust on the “blocks” of recorded 
+transactions. You could still lie to the network – but you’d need to burn more 
+energy doing so than every honest participant, combined.
+
+Bitcoin <https://www.theguardian.com/technology/bitcoin> was the first 
+technology to use the blockchain, but the currency is now starting to look a 
+bit like the steam pumping engines invented in the 17th century. Yes, it’s 
+ingenious, but the real revolution comes when the underlying technology is used 
+for something altogether new.
+
+And now for something completely different: some positive news
+ Read more  
+<https://www.theguardian.com/world/2016/jun/01/and-now-for-something-completely-different-some-positive-news>
+And so the technology world has fallen over itself to find out what that 
+invention could be. A permissionless, distributed, trust-free network has the 
+power to revolutionise not just financial technology, stock markets and 
+banking, but also the music industry, digital access in some of the world’s 
+poorest nations, and could even ensure yourItalian extra-virgin olive oil 
+<https://www.theguardian.com/lifeandstyle/2012/jan/04/olive-oil-real-thing> 
+really is from Italy.
+
+
+And yet sceptics warn that the waste at the heart of the blockchain is not 
+worth the marginal improvements. Anyway, what harm is there in a little bit of 
+centralisation?
+
+Chain reaction
+
+For its first five years of existence, Bitcoin overshadowed its engine in 
+technological circles, as the price of one coin fluctuated from nothing, to 
+$31, to $2, to $266, to $100, to $1,250, to $200 (it currently stands at $700, 
+following a post-Brexit boom).
+
+The blockchain, intended to document bitcoin transactions, can also be used as 
+a distributed ledger for … well, anything. If it can be recorded digitally, it 
+can be written on a blockchain and kept beyond the reach of controlling states, 
+malicious attackers and those who would rewrite history.
+
+Initially, this took the form of what became known as “coloured coins”. The 
+idea was that a particular sliver of bitcoin could be permanently marked with 
+some other property: say, ownership of a stock, or a plot of land. It can be 
+thought of as taking a marker and writing on a £5 note: “Whoever holds this 
+also owns one common share of Apple stock” – except that thanks to modern 
+cryptography, the signature cannot be forged, the £5 cannot be falsified, and 
+everyone can see when it changes hands.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Fjul%2F07%2Fblockchain-answer-life-universe-everything-bitcoin-technology%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fff029b1186be7751ad692d33792944d81ff8affd%2F0_15_2200_1320%2F2200.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Blockchain%3A%20the%20answer%20to%20life%2C%20the%20universe%20and%20everything%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Fjul%2F07%2Fblockchain-answer-life-universe-everything-bitcoin-technology%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Blockchain%3A%20the%20answer%20to%20life%2C%20the%20universe%20and%20everything%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2016%2Fjul%2F07%2Fblockchain-answer-life-universe-everything-bitcoin-technology%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fff029b1186be7751ad692d33792944d81ff8affd%2F0_15_2200_1320%2F2200.jpg>
+ Bitcoin has experienced a post-Brexit boom. Photograph: Benoit Tessier/Reuters 
+For a long time, the ability to use the blockchain in this way was treated as 
+an interesting side-effect of bitcoin’s role as a currency, but the tenfold 
+collapse in the currency during 2014 prompted many who had invested in the 
+bitcoin ecosystem – whether financially or intellectually – to seek other uses 
+for the underlying technology.
+
+London’s Provenance <https://www.provenance.org/>, for instance, aims to use 
+the same technology to provide a transparent trustworthy platform for 
+presenting the history and, well, provenance of a business’s products. The 
+company has gone through some changes since it waslaunched in 2013 
+<https://www.theguardian.com/fashion/fashion-blog/2014/apr/25/jessi-baker-clothes-slaves-fashion-provenance-website-revolution-consumer>
+, and the blockchain now forms a core part of its offering.The idea 
+<https://www.provenance.org/whitepaper> is that a Chilean vineyard can, for 
+instance, publicly share a bottle’s origin in its fields, and track it 
+throughout the chain of production, all the while recording its statements 
+publicly for posterity. At the end of the chain, a shopper can check a tag on 
+the bottle and find out precisely what happened in its journey.
+
+Others aim to preserve the financial core of the blockchain concept, while 
+returning some establishment credibility to the project. In May last year,New 
+York’s Nasdaq announced 
+<https://www.theguardian.com/technology/2015/may/13/nasdaq-bitcoin-blockchain> 
+it was exploring the potential of using coloured coins to track stocks.
+
+Nasdaq’s head, Bob Greifeld, was optimistic, saying: “Utilising the blockchain 
+is a natural digital evolution for managing physical securities. Once you cut 
+the apron strings of need for the physical, the opportunities we can envision 
+blockchain providing stand to benefit not only our clients, but the broader 
+global capital markets.”
+
+It is also becoming clear that it will no longer be accurate to talk about 
+“the” blockchain. Instead, there are many blockchains, as companies are born 
+with different needs from a distributed ledger than those of Bitcoin. Perhaps 
+the most innovative of them is Russian-Swiss company Ethereum, formed around 
+the idea of using the same sort of network to do much more than record 
+information.
+
+The true fascination of bitcoin is not its mystery inventor | Dominic Frisby
+ Read more  
+<https://www.theguardian.com/commentisfree/2016/may/03/bitcoin-craig-wright-satoshi-nakamoto-blockchain-technology>
+Created by Vitalik Buterin in 2013, the Ethereum network allows users to 
+create “smart contracts” that can be automatically executed by any computer 
+running the Ethereum software in exchange for the network’s own currency, 
+“ether”, creating one gigantic distributed computer for hire. Advocates insist 
+the idea could change the world of computing, allowing for digitalsmart locks 
+<http://www.ibtimes.co.uk/ethereum-based-slock-reveals-first-ever-lock-opened-money-1527014>
+ that open when a fee is paid, orletting musicians release songs for 
+collaborators to rebuild in real time 
+<https://www.theguardian.com/membership/2015/oct/02/live-stream-imogen-heap-releases-tiny-human-using-blockchain-technology>
+.
+
+Ethereum gained its biggest public exposure following the creation of a smart 
+contract, called the decentralised autonomous organisation (DAO), intended to 
+be a sort of crowdsourced hedge fund. Investors could buy into it, and vote on 
+where the pool of cash it controlled was invested, before splitting their share 
+of the pool and cashing out. But there was a major flaw in the code behind it: 
+it was possible to write an infinite loop of cash-out instructions, taking your 
+share of the DAO out over and over again. One user noticed this in early June, 
+and managed to steal $50m worth of ether before the flow was stemmed.
+
+More generally, the undeniable potential of the blockchain has led to it 
+becoming one of tech’s newest buzzwords; companies with little good reason to 
+use a distributed ledger throw it in their business plan anyway, in the hope of 
+getting an extra $25m fromventure capitalists 
+<https://www.theguardian.com/technology/us-money-blog/2016/apr/17/venture-capital-funding-decreases-startups-tech-industry>
+ eager to cash in on the trend.
+
+Even for those uses where it can be transformative, blockchain technology 
+still comes with its downsides. The mining process that underpins the whole 
+technology is a colossal waste of energy, for one thing.
+
+More fundamentally, sometimes centralisation can be a good thing: a fraudulent 
+credit card transaction can be reversed by the card company, but stolen 
+bitcoins are gone forever.
+
+
+This article is part of the Guardian’s Half Full series. If you would like to 
+suggest technologies or innovations that are changing the world for the better 
+or making a difference to people’s lives, get in touch via the form below
+ 

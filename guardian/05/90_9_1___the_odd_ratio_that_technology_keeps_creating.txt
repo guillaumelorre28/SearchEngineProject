@@ -1,0 +1,133 @@
+
+What do operating systems, browsers and search engines all have in common? It 
+seems to be a ratio of 90:9:1 between the key players. One player dominates; 
+then others get a minimal share.
+
+Take mobile OSs: This week the Mozilla Foundation pulled the plug on Firefox OS
+ 
+<http://techcrunch.com/2015/12/08/mozilla-will-stop-developing-and-selling-firefox-os-smartphones/>
+ – the mobile OS which could have replaced native apps with HTML-based apps – a 
+final death throe in the mobile OS wars. There are now three main platforms – 
+Google’s Android, Apple’s iOS and Microsoft’s Windows Phone – for which 
+worldwide shipments are currently runningin a ratio of about 85:14:1 
+<http://www.idc.com/prodserv/smartphone-os-market-share.jsp> respectively.
+
+Now look at desktop OS sales: the ratio stands in the most recent quarter 
+<http://www.idc.com/getdoc.jsp?containerId=prUS25955515> at about 91:8:1 
+between Microsoft’s Windows, Apple’s Mac OSX, and “self-build” machines which 
+probably get Linux.
+
+It’s oddly reminiscent of the “1% rule” 
+<https://en.wikipedia.org/wiki/1%25_rule_(Internet_culture)> – a rule of thumb 
+observed as far back as 2006, which states that if you have a group of 100 
+people interacting online, then one will generate some content, nine will 
+provide feedback, and 90 will simply consume it. (Studies have broadly 
+confirmed that principle.)
+
+In the PC and smartphone worlds, the 90:9:1 ratio has each time come about 
+after a sort ofCambrian explosion 
+<http://www.pbs.org/wgbh/evolution/library/03/4/l_034_02.html> in the early 
+stages, as different players rushed to capitalise and try to be dominant.
+
+On PCs, there were DR-DOS, MS-DOS, CP/M, GEM, Amiga, and later on BeOS and 
+Linux (to name just a few).
+
+
+On smartphones there were Symbian, Meego, Windows Mobile, Asha, BlackBerry 7, 
+BlackBerry 10 (now effectively dead, as BlackBerry has moved to Android), and 
+of course Firefox OS, as well as Jolla (whichlooks to be nearly dead 
+<http://www.fiercewireless.com/story/sailfish-os-backer-jolla-lay-half-its-staff-it-hunts-new-funding/2015-11-20>
+) and Samsung’s Tizen (which isn’t).
+
+
+In both cases the explosion was enabled by the growing commoditisation of 
+components but because maintaining an operating system and an app ecosystem, 
+whether on PC or smartphone, is an expensive business, there was a shakedown. 
+BlackBerry, for example, gave up on BB10 because, chief executive John Chen 
+hinted, it cost too much to write drivers for different chips; by going to 
+Android, that challenge is abstracted away to Google.
+
+Now look at search engines. In Europe, Google gets nearly 90% of all desktop 
+searches,according to data from Statcounter 
+<http://theeword.co.uk/info/search_engine_market/> (and other measures agree). 
+Microsoft’s Bing gets 7.3%. Yahoo brings up the rear with 3.5%, and the 
+remaining 1.2% goes to a host of “others”. For mobile, according to the same 
+dataset, it’s 94% Google, 3% Yahoo, 2% Bing and 0.3% “other”.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fdec%2F12%2Fratio-technology-mozilla-firefox-os-90-9-1%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2a9dbcd203ac686a7101f2baaab59456d3e50907%2F0_0_833_500%2F833.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=90%3A9%3A1%20%E2%80%93%20the%20odd%20ratio%20that%20technology%20keeps%20creating&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fdec%2F12%2Fratio-technology-mozilla-firefox-os-90-9-1%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=90%3A9%3A1%20%E2%80%93%20the%20odd%20ratio%20that%20technology%20keeps%20creating&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fdec%2F12%2Fratio-technology-mozilla-firefox-os-90-9-1%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F2a9dbcd203ac686a7101f2baaab59456d3e50907%2F0_0_833_500%2F833.jpg>
+ Top 5 desktop, tablet & console browsers from July 2008 to November 2015 
+Photograph: StatCounter 
+How about browsers? In 2002-3 Microsoft’s Internet Explorer held prime 
+position: its various versions peaked with a 95% share in those years, as 
+Netscape faded and before Apple’s Safari and thenFirefox 
+<https://www.theguardian.com/technology/firefox> (the browser) arrived in 2003 
+and 2004 respectively.
+
+
+Firefox became the “9%” player, and gained ground rapidly, peaking at about 
+24% of browser use in November 2009 
+<http://www.technewsworld.com/story/68599.html>; there were times when the 
+release of a new version of Firefox wasan internet event 
+<http://news.bbc.co.uk/1/hi/technology/7457503.stm>.
+
+
+But just as Internet Explorer fell away, Google Chrome arrived in September 
+2008 <https://www.theguardian.com/technology/2008/sep/04/google.software> - and 
+quickly became an important player. Now the desktop browser market is in 
+upheaval, according to Statcounter’s numbers; Chrome is taking over, while 
+Firefox and Internet Explorer are shrinking.
+
+
+There were times when the release of a new version of Firefox was an internet 
+event
+
+The more you look for it in networked environments, the more frequently some 
+sort of 90:9:1 ratio seems to emerge once the market matures. Certainly there 
+are variations: slightly more iPhone users and slightly fewer Mac users than 
+the rule of thumb predicts, for example, while the dramatic shifts in the 
+browser market come because Chrome has a platform for promotion almost 
+comparable with Microsoft’s Windows: it is the only product that has ever been 
+advertised on Google’s front page.
+
+But why should browsers and search engines come close to that ratio? They 
+don’t require commodity manufacture; their costs of deployment and maintenance 
+are hidden from the consumer, who only has to use them. But they’re 
+comparatively easy to build, and network effects from their use will tend to 
+help those that do well.
+
+Notably, all of these products are part of the networked world, and each is a 
+mutually-exclusive activity – that is, you can only use one at a time. Nobody 
+(to a good enough measure) buys or uses two smartphones for themselves at once. 
+Hardly anyone uses two desktop OSs. You can only do a search on one search 
+engine at a time. You only use one browser at a time.
+
+There is one notable technology hardware space where 90:9:1 clearly doesn’t 
+apply: games consoles. In the previous generation of consoles (Nintendo Wii v 
+PlayStation 3 v Xbox 360) total sales were 101.2m to 85.9m to 84.9m – nearly an 
+equal split. The current generation continues to deviate from the rule. One 
+possible explanation is that games consoles have never had their 
+“commoditisation” moment: there’s only one manufacturer for each, whereas there 
+are multiple makers of PCs and smartphones. Thus games consoles could never see 
+the consolidation around one platform or another, as long as the rival 
+platforms could come up with compelling content. (Sega’s inability to do so led 
+to its downfall as a hardware vendor.)
+
+There’s another area where the ratio doesn’t hold: Social networks. You can 
+belong to and use Facebook and Twitter, and Instagram and Snapchat and dozens 
+of others, and send the same content to each. In the messaging space, you can 
+use WhatsApp and BBM and Google Hangouts and Skype. User numbers for those 
+networks and apps don’t follow that rule even approximately, even for daily 
+users.
+
+In their non-exclusivity, social networks seem very different from those 
+task-based products – search engines, browsers, PCs and smartphones.
+
+So is 90:9:1 an incontrovertible law for products? That remains to be seen; 
+but it may be a guide to the future on mutually exclusive activities. Will 
+“taxi” companies (Uber, Lyft, Hailo) follow the same path? Or machine-learning 
+algorithm deployment? It might be worth checking back in a few years.
+ 

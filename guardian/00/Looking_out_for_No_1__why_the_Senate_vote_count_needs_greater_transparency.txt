@@ -1,0 +1,111 @@
+
+In March, after an all-night session, the Senate passed significant changes to 
+the way senators are elected 
+<https://www.theguardian.com/australia-news/2016/mar/18/marathon-senate-debate-ends-with-bill-on-voting-changes-passing-36-votes-to-23>
+. This legislation required a whole new system for counting Senate ballots and 
+it needed to be done fast, with the election less than four months away.
+
+Under the old Senate voting system, most voters didn’t mark their own 
+preferences. They put a 1 in a box for the party of their choice and 
+preferences flowed according to the registered party’s ticket. Only a small 
+number of voters chose their own preferences, voting below the line. These 
+votes made up about 3.5% of the total in 2013.
+
+ The 96.5% of ballots that were simply marked with a 1 were easy to count. 
+Pile up the votes for each party, count how many votes are in each pile, record 
+the total. Below-the-line votes needed to be transported to a central location 
+in each state. Each ballot had to be individually entered in a computer 
+including a preference for every candidate on the ballot. In 2013 there were 
+110 candidates in New South Wales.
+
+Why the rush? In defence of Australia's slow election count
+ Read more  
+<https://www.theguardian.com/australia-news/2016/jul/11/why-the-rush-in-defence-of-australias-slow-election-count>
+All the below-the-line preference data was then combined with the registered 
+preferences for above-the-line votes and fed into a computer program that 
+distributed the preferences and determined who would be elected.
+
+All that changed with the new voting system. Voters instead mark their own 
+preferences above the line by numbering at least six preferences, if they 
+follow the ballot paper instructions. All these preferences are unique and need 
+to be entered into the system individually.
+
+The new system has also been designed to ensure that it is clear where ballot 
+papers are at all times after 1,370 ballot paperswent missing during the 
+recount of the 2013 West Australian Senate election 
+<https://www.theguardian.com/world/2013/dec/06/missing-wa-senate-votes-lax-security>
+. There are now detailed systems to track where each ballot goes and barcoded 
+seals on each box of ballot papers to prevent tampering.
+
+Ballot papers were first counted on election night. They were piled up 
+according to the party who received the first preference and this total was 
+reported. These ballots are then sealed up and sent to the central office in 
+each state.
+
+In a room with a series of large printer-scanners that have been modified to 
+take in massive Senate ballot papers, boxes are opened one by one, and if 
+everything goes to plan the box is only open for 16 minutes before it is sealed 
+up and put back into storage.
+
+The rest of a count takes place on a digital copy of the ballot paper. The 
+computer system can detect where there are marks on the ballot and will read 
+each handwritten number. There are also humans checking each mark and making 
+their own decision about what the ballot says – two people will do this for 
+each ballot.
+
+Where the computer and the humans don’t agree a ballot can be referred up to 
+supervisors and ultimately to Australian Electoral Commission staff, who make a 
+final decision.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWHx4f1lddaQ&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWHx4f1lddaQ>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWHx4f1lddaQ&media=>
+All of these processes are new. It’s the first time ballot papers are being 
+scanned at a federal level and the scale of ballot papers that need to be 
+entered is much greater than at past elections.
+
+Using computers to count the votes is not new, however there has been 
+controversy over how transparent these computerised processes are.
+
+The AEC’s Easy Count software, which is used to distribute the preferences, is 
+private software, not auditable by experts outside of the AEC. Previous 
+requests for the code under freedom-of-information laws have beenrejected 
+<https://easycount.mjec.net/> and the secrecy of the code has been criticised 
+<http://www.9news.com.au/national/2016/06/15/12/47/let-us-test-voting-code-say-academics>
+.
+
+ There have also been concerns raised about how difficult it is to check that 
+voting data reflects what is actually on the ballot paper.Some have suggested 
+<https://theconversation.com/is-the-new-senate-vote-capture-system-as-risky-as-electronic-voting-62436>
+ that a random sample of ballots, checked manually against the data recorded in 
+the system, would help ensure that the result is accurate.
+
+Once the election is concluded, the AEC does release the full dataset of every 
+preference on every ballot, which will be particularly interesting in 
+understanding preference flows under the new voting system. This can be used to 
+verify that the count has been conducted accurately but it would be useful to 
+get this information sooner.
+
+At Australian Capital Territory elections, a report is released each night of 
+the count that calculates how preferences would flow, and who would be elected, 
+if the count was to stop with those ballots counted so far. Such a system has 
+not previously been needed in the Senate, because most votes flowed according 
+to pre-registered tickets but it would be much more useful now.
+
+How Lisa Singh and Richard Colbeck used personal appeal against party rankings
+ Read more  
+<https://www.theguardian.com/australia-news/2016/jul/09/labor-lisa-singh-liberal-richard-colbeck-senate-voting-below-the-line-election-tasmania>
+If preference data were released during the count this would also make it 
+possible to find any possible errors in the data before the result was declared.
+
+Such an approach would also give a lot more transparency about how much 
+progress has been made in the Senate count. It is very difficult right now to 
+know how many votes have been scanned and how many votes are waiting to be 
+counted.
+
+The Senate counting process is impressive but it is a complex system and a bit 
+more transparency about the count would help give confidence that the result is 
+accurate.
+ 

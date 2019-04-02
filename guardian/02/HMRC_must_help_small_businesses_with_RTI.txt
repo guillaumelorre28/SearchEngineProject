@@ -1,0 +1,48 @@
+
+Parliament's public accounts committee has said that HM Revenue and Customs 
+(HMRC) has yet to establish how real time information (RTI) will affect people 
+working in small companies that do not use electronic payroll.
+
+In a report released today, the committee says the department must clarify how 
+RTI, which is being developed by HMRC to support the introduction of the new 
+universal credit, will affect small businesses and the self-employed who may 
+not have such systems.
+
+HMRC needs to develop an effective approach for those claimants and businesses 
+that are likely to be outside RTI in order to try to prevent a repeat of the
+problems that have affected tax credits in the past 
+<https://www.theguardian.com/government-computing-network/2009/dec/10/pac-report-it-tax-collection-10dec09>
+, according to the report into means testing.
+
+Means testing is used by the government to distribute at least £87bn of 
+benefits each year, about 13% of total public spending. No one department has 
+overall responsibility for means testing and for ensuring consistency of 
+approach, however. Thirty different means tested benefits are currently being 
+managed by nine departments and 152 local authorities in England.
+
+The committee calls for a single body to be responsible for overseeing the 
+interaction between different benefits, whether means tested or not, as well as 
+ensuring consistency and value for money.
+
+Margaret Hodge, chair of the public accounts committee, said: "The sheer 
+complexity of the benefits system places a heavy burden on claimants.
+
+"People claiming multiple benefits, such as housing benefit and child tax 
+credit, deal with different public bodies. This can be confusing and 
+potentially discourage legitimate applications. Departments responsible for 
+means testing must work together to get a better understanding of the burdens 
+placed on claimants."
+
+The report says the Department for Work and Pensions has stated that it is 
+ensuring the online claims system for universal credit will be easy for 
+claimants to navigate.
+
+But it points out that Tell Use Once, the project which aims to allow 
+individuals to notify the government of a change in their circumstances by just 
+informing a single agency, has only been introduced for the reporting of a 
+claimant's death and its extension to other areas is no longer being pursued.
+
+This article is published by Guardian Professional. For updates on public 
+sector IT, join the Government Computing Network here. 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+ 

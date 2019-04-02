@@ -1,0 +1,108 @@
+
+The Apple iPhone was thought to be safe from cyber attack. Not any more. First 
+to reveal its vulnerabilities was the FBI, which in April paid $1.3m to an 
+unknown source for ahacking tool 
+<https://www.theguardian.com/technology/2016/apr/27/fbi-apple-iphone-secret-hack-san-bernardino>
+ to break into an iPhone. Then in August, the US tech giant has found itself 
+hit by atext message scam 
+<https://www.theguardian.com/technology/2016/aug/25/apple-ios-update-arab-activists-iphone-spyware>
+ believed to have originated from a private Israeli security company.
+
+
+These are just the security breaches we know about. Such is the avalanche of 
+new cyber threats facing big brands like Apple that they arepaying hackers 
+millions of dollars 
+<https://www.theguardian.com/technology/2016/aug/22/bounty-hunters-hacking-legally-money-security-apple-pentagon>
+ to search for chinks in their digital armour. Yet even these huge sums are a 
+pittance compared with the growing global industry for formal cyber security 
+services,valued at $75bn <http://www.gartner.com/newsroom/id/3135617> per year. 
+
+Keeping on top of cyber crime threats has jumped to the top of boardroom 
+agendas at most companies over the past year and a half, saysTalal Rajab 
+<https://www.techuk.org/about/our-staff/programmes/item/3115-talal-rajab>, head 
+of cyber and national security programmes at techUK.
+
+The reasons are not hard to guess. Cyber attacks are now a virtual constant 
+for large companies. US security firm Symantecestimates 
+<https://www.symantec.com/security-center/threat-report> more than half a 
+billion personal records were lost or stolen last year. Nor do cyber crooks 
+need to be super-geeks any more; off-the-shelf criminal software is now widely 
+available on thedark web <https://www.theguardian.com/technology/darknet>, 
+according to Rajab.
+
+Cyber attacks could be bigger threat to our banking system than bad debts
+ Read more  
+<https://www.theguardian.com/sustainable-business/2015/oct/24/cyber-attacks-could-be-bigger-threat-to-our-banking-system-than-bad-debts>
+ Media attention and the consequent brand damage that security breaches cause 
+also push companies to act. Along with Apple,TalkTalk, 
+<https://www.theguardian.com/technology/2015/oct/23/talktalk-criticised-for-poor-security-and-handling-of-hack-attack>
+HSBC 
+<https://www.theguardian.com/money/2016/jan/29/hsbc-online-banking-cyber-attack>
+ and extramarital online hook-up serviceAshley Madison 
+<https://www.theguardian.com/technology/2015/aug/20/ashley-madison-hack-your-questions-answered>
+ are among other recent high-profile victims of hacker attacks. A study by 
+cyber security firm FireEye found more thanhalf (54%) of US consumers 
+<https://www.fireeye.com/company/press-releases/2016/new-fireeye-research-reveals-the-impact-of-high-profile-security.html>
+ felt more negatively towards companies that had suffered data breaches.
+
+Regulators are beginning to crack the whip. In May the EU published a reform 
+of data protection rules 
+<https://www.theguardian.com/small-business-network/2016/feb/08/huge-rise-hack-attacks-cyber-criminals-target-small-businesses>
+ that could see companies fined up to €20m, or 4% of global turnover, if they 
+are found guilty of data negligence. “That’s a real tangible punishment for 
+companies if they come across an attack and they aren’t adequately protected,” 
+says Rajab.
+
+Corporate executives may be increasingly aware that they need to act on cyber 
+security, but that doesn’t necessarily mean that they know what to do. Most 
+don’t, says Andrew Rogoyski, UK head of cyber security at IT services firm CGI.
+
+“People have been working in general security for many years, but the really 
+high demand for cyber security has only taken off in the last five years, which 
+doesn’t really give the education and jobs system time to react,” he states.
+
+The skills shortage is exacerbated by the maverick character of many cyber 
+experts and the lack of career progression for them in large corporations. 
+“Typically, they are called in to do a job, but then there’s nowhere for them 
+to go,” says Rogoyski. As a consequence, many end up leaving in-house roles in 
+preference for external advisory firms.
+
+CGI has close to 200 specialists working solely on cyber advisory work, making 
+it one of the largest such teams in the UK. The cyber services industry is a 
+boom market, populated by giant IT services companies, global defence firms and 
+software manufacturers right through to small, highly specialist start-ups.
+
+FBI confirms it won't tell Apple how it hacked San Bernardino shooter's iPhone
+ Read more  
+<https://www.theguardian.com/technology/2016/apr/27/fbi-apple-iphone-secret-hack-san-bernardino>
+Asked how much companies typically spend on cyber protection, Rogoyski says it 
+differs from company to company depending on their size and vulnerability. 
+Banks, utilities and retailers with a strong online presence tend to prioritise 
+the issue most, he says. As a general rule of thumb, 5% of a company’s IT spend 
+goes on IT security. “In truth, you only really know when you’ve spent too 
+little,” he adds.
+
+Norway-based certification firm DNV GL is one of those looking to increase its 
+foothold in the market. The company, which employs about 40 cyber specialists 
+across its international operations, has just opened a new office in 
+Peterborough, offering product testing and advisory services.
+
+The company hopes to exploit the need by business to show that it is taking 
+cyber security seriously by offering independent verification of companies’ 
+data protection practices, especially those in critical infrastructure sectors 
+such as energy or oil and gas. Despite its youth, the cyber security field is 
+already awash with industry standards, says DNV GL’s head of operational 
+excellence, Matthew Freeman.
+
+One of the challenges that large companies will face is integrating an array 
+of new technologies with older, more bespoke systems. The wider a company’s 
+net, the bigger the possible holes.
+
+
+As long as there are cyber criminals, even the most accredited company can’t 
+be complacent. Not only will a company’s internal systems be evolving 
+continuously, so too will the potential threats, says Freeman: “What you 
+absolutely can’t do is do an assessment now and assume that it will remain 
+current without checking it.”
+
+ 

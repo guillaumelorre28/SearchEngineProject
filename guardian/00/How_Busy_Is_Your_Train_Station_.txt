@@ -1,0 +1,5 @@
+
+"This application makes use of Bing Maps & Silverlight 2.0 to produce an 
+interactive map with push pins for each train station in the UK based on data 
+from The Guardian and Yahoo GEO data services."
+ 

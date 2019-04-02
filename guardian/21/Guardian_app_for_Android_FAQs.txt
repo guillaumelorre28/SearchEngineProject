@@ -1,0 +1,352 @@
+
+About the app
+
+
+What devices does the app work on? 
+
+The Guardian app works on all Android devices running Android 4.1 and up.
+
+What permissions do you request and why? 
+
+You can find a full list of permissions that we request here 
+<https://www.theguardian.com/mobile/insideguardian/android-app-permissions>. 
+
+Is the app available in all countries?
+
+The app is available in most countries. For more tailored content, you can 
+choose the Australian, International, UK and US editions of our content in the 
+settings area.
+
+Why can’t I see Sudoku, quizzes or polls? 
+
+We’re working hard to bring every piece of Guardian content to the apps. 
+Currently there is a very small amount of content that does not work on mobile 
+devices. We hope to change this in the future.
+
+Making your app more personal
+
+How do I add content to my homescreen?
+
+You can add any section, topic or contributor to your homescreen. Simply tap 
+the home button next to the content you want. You can find the button at the 
+top of any section you’re in, on a contributor’s profile page, or on the right 
+hand side of search results. This will add the section, topic or contributor 
+directly under the top stories on your homepage.
+
+How can I rearrange the content on my homescreen?
+
+First, open the ‘edit homescreen’ option. You can do this directly from the 
+homescreen by tapping the edit button, or via the settings menu. Then, use the 
+small drag-handles on the left of each section to order them in a way that 
+suits you.
+
+I would prefer a compact layout of homescreen. Is one available?
+
+Yes, the app includes a condensed layout for phones. To change to the 
+condensed layout:
+
+ * Tap on the menu button in top left-hand corner of the app 
+
+ * Tap on the settings icon at the bottom of the screen (the button looks like 
+a cogwheel)
+
+ * Select ‘Advanced Settings’. 
+ * Switch on ‘Condensed layout’ 
+How can I remove content from my homescreen?
+
+First, open the ‘Edit homepage’ option. You can do this directly from the 
+homescreen by tapping the edit button, or via the settings menu. Then tap the 
+home button on the right of any section you want to remove. These sections are 
+temporarily moved to the bottom of the list, so if you change your mind you can 
+easily find and add them again.
+
+How can I choose which notifications I get?
+
+As well as breaking news, you can choose to get notifications from your 
+favourite contributors, liveblogs, series, and football (soccer) teams and 
+matches. To do this, just tap the notifications button. For contributors, open 
+an article and tap on the contributor’s name. The ‘follow’ option is at the top 
+of the page. This will send you a notification when that person publishes a new 
+article.
+
+Following a football team will automatically send you goal alerts when they 
+score. Search for your team or tap on their crest on a football page. The 
+‘follow’ option is at the top of the page. Following a liveblog will send you a 
+notification when a key event happens in that story. To enable this, tap the 
+‘follow’ option near the top of any liveblog.
+
+How can I manage or stop the notifications I receive?
+
+You can manage your alerts from the settings area. Here, you can choose the 
+alerts you no longer wish to receive or unsubscribe from all of them.
+
+ * Tap on the menu button in top left-hand corner of the app 
+
+ * Tap on the settings icon at the bottom of the screen (the button looks like 
+a cogwheel)
+
+ * Select ‘Alerts’
+
+ * Then adjust your settings accordingly. 
+How can I change the font-size of articles?
+
+In any article, tap on the AA icon towards the top right-hand corner, and then 
+use the control to change the text. This will change the size of the text in 
+the main portion or the article. Your choice will be remembered for every 
+article you then visit.
+
+How can I change the edition?
+
+ * In the app, tap on the menu icon in the top left-hand corner of the screen. 
+
+ * Tap on the settings icon towards to the bottom left-hand corner. 
+
+ * Under ‘Manage’, tap on ‘Edition’. 
+
+ * You can then change to the UK, US, Australian or International Edition.
+
+How do I save articles to read later?
+
+
+In an article, tap on the bookmark article which can be found in top 
+right-hand corner of the screen. You can then access the articles by tapping on 
+the menu icon in the top left-hand corner of the screen, tapping on the icon 
+with three boxes inside a circle and selecting ‘Saved pages’.
+
+Subscriptions
+
+What do I get with premium tier access?
+
+When you subscribe to the premium tier you get:
+
+• Access to the daily crosswords – available to play offline whenever you want
+
+• Extra content hand-picked from our 200-year-old archive
+
+• An advert-free experience 
+
+How much does a subscription cost?
+
+If you subscribe via Google Play, a premium tier subscription costs £2.49 
+(around USD $3.99) a month for new subscribers. Because of exchange rates, the 
+exact amount a subscription costs varies from country to country. The 
+subscription can be used on compatible Android devices.
+
+If you also want to access the premium tier on iOS devices, becoming a 
+Guardian Supporter includes access to the premium tier on both compatible 
+Android and iOS devices. Further information about becoming a Supporter can be 
+foundhere <https://membership.theguardian.com/supporter>.
+
+I also own an iOS device. Can I use my Google Play subscription on that device?
+
+It is not possible to transfer a Google Play subscription to an iOS device, 
+but Guardian Supporter membership includes premium tier access to the Guardian 
+app on both compatible Android and iOS devices. If you were to become a 
+Supporter you would need to cancel your Google Play subscription. If you would 
+like to become a Supporter, you can by goinghere 
+<https://membership.theguardian.com/supporter>.
+
+I have an Google Play/iTunes subscription to the Guardian and Observer Daily 
+Edition app. Does it include access to the premium tier of the Guardian app?
+
+If you subscribed via iTunes, your subscription can only be used to access the 
+Guardian and Observer Daily Edition on compatible iPads and if you subscribed 
+via Google Play your subscription can only be used to access the Guardian and 
+Observer Daily Edition on compatible Android devices. Whereas a Guardian 
+Digital Pack subscription includes access to both the Guardian and Observer 
+Daily Edition for Android, Kindle Fire and iPads and the premium tier of the 
+Guardian app on Android and iOS devices.
+
+If you were to subscribe to the Digital Pack you would need to cancel your 
+Google Play/iTunes subscription. Further information about the Digital Pack can 
+be foundhere <https://subscribe.theguardian.com/digital>.
+
+Can I use my subscription on more than one device?
+
+Yes. If you subscribed via Google Play your subscription should automatically 
+work on each compatible Android device you’ve signed-in to using your Google 
+account. If you are a Guardian print+digital or Direct Pack subscriber you need 
+to sign into the app with your subscriber ID and postcode/surname. See the 
+question “I have a print+digital/Guardian Digital Pack subscription. Can I use 
+it to get access to the premium tier?” for instructions.
+
+If you are a Guardian Member (Supporter, Partner or Patron), please see “I 
+became a Guardian Supporter/Partner or Patron. Am I entitled to access the 
+premium tier in the Guardian app?”
+
+I have a print+digital/Guardian Digital Pack subscription. Can I use it to get 
+access to the premium tier?
+
+Yes, you just need to follow these instructions:
+
+ * From the app’s home screen, app the menu button (the circle with three 
+horizontal lines in the top left corner)
+
+ * Then tap the settings button (the cog button in the bottom left) 
+
+ * Tap “Become a Member for just £5/m” Tap “Subscriber £2.49/Month” tab on 
+right
+
+ *  Scroll down and tap “I am a Guardian subscriber” Enter your subscriber ID 
+and postcode. If you do not have a postcode, enter your surname into the 
+postcode box 
+I became a Guardian Supporter/Partner or Patron. Am I entitled to access the 
+premium tier in the Guardian app?
+
+Yes, you just need to sign into the latest version of the Guardian app with 
+your email address and password as follows:
+
+
+ * In the Guardian app, tap on the menu icon in the top left-hand corner of 
+the screen (the icon looks like three horizontal lines).
+
+ * Tap on the cog icon in the navigation bar and select ‘Sign in/Register’.
+
+ * Enter your email address and password.
+
+ * Press ‘sign in’. You should then have ad-free access. 
+I have a Guardian Weekly print subscription. Can I get ad-free access to the 
+Guardian app?
+
+A Guardian Weekly subscription does not include access to the Guardian and 
+Observer Daily editions or the premium tier of Guardian App for Android or 
+iPhone, but you can access the Guardian Weekly Digital Edition byhere 
+<http://subscriber.pagesuite-professional.co.uk/custompages/9cc33fb9-de8c-4e90-b6ba-545475feb862/subscribe.aspx>
+.
+
+If you’ve not previously registered, you will need your subscriber number. If 
+you have forgotten your subscriber number or require further assistance with 
+accessing the Guardian Weekly Digital edition, please email:
+guardian.subs@quadrantsubs.com <mailto:guardian.subs@quadrantsubs.com>
+
+I have forgotten my subscriber ID. How can I find it?
+
+Your subscriber ID can be found underneath your name on each voucher or, for 
+home delivery subscribers or digital pack subscribers, your ID will be found on 
+your confirmation email. If you have any problems please email the following 
+relevant department:
+
+Guardian Direct Pack subscribers: email digitalpack@theguardian.com 
+<mailto:digitalpack@theguardian.com>. Phone: +44 (0) 330 333 6767. Lines are 
+open Monday-Friday 8.00am-8.00pm BST/GMT. Saturday & Sunday 8.00am-6.00pm 
+BST/GMT. Calls cost no more than 01 or 02 numbers from landlines or mobiles.
+
+Home delivery subscribers: contact our Customer Services team on 0330 333 
+6767. We are open Monday-Friday 8.00am-5.30pm or Saturday & Sunday 
+8.30am-12.30pm, or you can email us atcustomerservice@guardiandirectsubs.co.uk 
+<mailto:customerservice@guardiandirectsubs.co.uk>.
+
+Voucher subscribers: contact our Customer Services team on 0330 333 6767. We 
+are open 9am-5pm, Monday to Friday, or you can email us at
+gnmsubs@quadrantsubs.com <mailto:gnmsubs@quadrantsubs.com>.
+
+Please note that subscriptions taken out via Google Play do not include a 
+subscriber ID. The subscription can be used on compatible Android devices and 
+should be recognised automatically if you are signed into Google Play with the 
+account you used to subscribe.
+
+I subscribed via Google Play, but now I require a refund.
+
+The subscription is fulfilled by Google. You do not pay the Guardian directly. 
+We cannot directly offer refunds. They need to be requested via Google Play.
+
+How do I cancel my Google Play subscription?
+
+ * You can cancel your subscription in Google Play as follows.
+
+ * Open the Google Play Store app 
+
+ * Search for Guardian and tap on the result for this app 
+
+ * Select Cancel
+
+How do I cancel my Guardian voucher or home delivery subscription?
+
+
+Your initial subscription term will normally be for 12 months. If you then 
+wish to cancel then please follow the below instructions.
+
+ For voucher subscriptions you should telephone us at least 6 weeks before the 
+date printed on the last voucher in your voucher book. The number to call is 
+0330 333 6767 (9am-5pm, Monday to Friday, option 2 then option 2 for voucher 
+subscriptions).
+
+For home delivery subscriptions please call at least 4 weeks before your 
+intended cancellation date. The number to call is 0330 333 6767 (Monday-Friday 
+8.00am-5.30pm. Saturday & Sunday 8.30am-12.30pm, option 2 then option 1 for 
+home delivery subscriptions). You can read our refunds and cancellations policy 
+in fullhere 
+<https://www.theguardian.com/subscriber-direct/subscription-terms-and-conditions>
+.
+
+How do I cancel my Guardian Direct Pack subscription? 
+
+If for any reason you wish to cancel your subscription, please call our 
+customer services team on +44 (0)330 333 6765. Lines open Monday – Friday 8am – 
+8pm, Saturday and Sunday, including bank holidays, 8am – 6pm.
+
+You can read our refunds and cancellation policy (including your legal right 
+to cancel)here <http://gu.com/p/4vgfy>.
+
+How do I cancel my Guardian supporter/partner/patron membership?
+
+You can cancel your membership by following the instructions on this page 
+<https://membership.theguardian.com/tier/cancel>. Your membership will run 
+until the end of your current payment term.
+
+Offline reading and data
+
+What content is available to read off
+
+Almost all of our content is available to read offline. If you can see a link 
+to a piece of content on the homepage or a section page, you should be able to 
+read it offline. So simply open the app or visit a section to automatically 
+cache all of the most recent content to read wherever you are.
+
+It is also possible to download content for offline reading. In the app, tap 
+on the menu icon in the top left-hand corner of the homescreen, tap on the 
+settings icon towards to the bottom left-hand corner. Then select ‘Offline 
+reading’. You can then choose a time to schedule a download. Pictures are not 
+included in the download.
+
+How can I get the app to load new content to read?
+
+On the homepage or any section or topic page, scroll up to the very top, then 
+continue to pull down to refresh the content. You will then see the the loading 
+animation while the app gets new content. All the content will then be 
+available so you can read it offline.
+
+Getting in touch
+
+Guardian Digital Pack subscribers: email – digitalpack@theguardian.com 
+<mailto:digitalpack@theguardian.com>. Phone: +44 (0) 330 333 6767. Lines are 
+open Monday-Friday 8.00am-8.00pm BST/GMT. Saturday & Sunday 8.00am-6.00pm 
+BST/GMT. Calls cost no more than 01 or 02 numbers from landlines or mobiles.
+
+Home delivery subscribers: contact our Customer Services team on 0330 333 
+6767. We are open Monday-Friday 8.00am-5.30pm or Saturday & Sunday 
+8.30am-12.30pm, or you can email us atcustomerservice@guardiandirectsubs.co.uk 
+<mailto:customerservice@guardiandirectsubs.co.uk> with any changes to your 
+personal details.
+
+Guardian Membership (Supporter, Partner, Patron): email 
+membershipsupport@theguardian.com <mailto:membershipsupport@theguardian.com> 
+with your question. We will do our best to get back to you within 24 hours. 
+Alternatively, you can call the Guardian Members customer services team on +44 
+(0)330 333 6898 from 8am to 8pm Monday to Friday and 8am to 6pm at weekends.
+
+Voucher subscribers: contact our Customer Services team on 0330 333 6767. We 
+are open 9am-5pm, Monday to Friday, or you can email us at
+gnmsubs@quadrantsubs.com <mailto:gnmsubs@quadrantsubs.com>.
+
+If you are not a Guardian Member or subscriber or you pay via Google Play, 
+emailuserhelp@theguardian.com <mailto:userhelp@theguardian.com>. We are open 
+10am-6pm Monday to Friday BST/GMT.
+
+Feedback
+
+If you have any suggestions on how we can improve our apps, email 
+userhelp@theguardian.com <mailto:userhelp@theguardian.com>. You can also follow 
+@guardianmobile <https://twitter.com/guardianmobile> on Twitter to get news 
+from the Guardian mobile team including details of updates.
+ 

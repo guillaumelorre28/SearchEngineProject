@@ -1,0 +1,191 @@
+
+In some ways Firewatch, the beautiful and intriguing game recently released by 
+San Francisco-based studio Campo Santo, is a mystery adventure. You play as 
+Henry, working for a season in a firewatch tower, far out in the Wyoming 
+wilderness. He is alone except for a walkie talkie, but very quickly he 
+realises that something is going on out there amid the endless ochre tinted 
+forest. There are kids letting off fireworks and leaving threatening messages, 
+then someone ransacks his tower. Something is happening.
+
+But then, right from the start, we realise that Henry is in turmoil. A 
+mini-text adventure at the beginning of the game tells us that his wife is very 
+ill, he has come here to escape his life. Quietly and subtly, we are encouraged 
+to ask questions about what’s really going on. Can we trust Henry?
+
+
+(Spoiler alert: next paragraph contains Bioshock and Heavy Rain spoilers)
+
+Games have, of course, played with the literary device of the unreliable 
+narrator for many years. The first-person shooterBioshock 
+<https://www.theguardian.com/technology/gamesblog/2007/aug/24/bioshock> used it 
+to devastating effect in its tale of a failed underwater utopia, experienced 
+via the duplicitous voice of Frank Fontaine; while the psychological horror game
+Heavy Rain 
+<https://www.theguardian.com/technology/gamesblog/2010/feb/17/heavy-rain-sony-playstation-ps3>
+ famously pulled a character plot twist so audacious, some players could barely 
+forgive the writers for their transgression.
+
+(End of spoilers!)
+
+Firewatch is certainly more subtle than those examples, but it cleverly 
+explores the conflicted emotions of its lead character, while allowing the 
+player to maintain a skeptical distance. In a medium where the default mode is 
+for us to identify with the character, it’s a refreshing change to be told that 
+the person we’re ostensibly controlling may not be entirely trustworthy. And 
+it’s an approach that’s becoming more common.
+
+I added real things from my life so that people could understand who I was 
+from many different angles
+Nina Freeman 
+Another intriguing example released this year is Cibele, a 
+semi-autobiographical game about designer Nina Freeman’s relationship with a 
+man (known as Blake) she meets in an online role-playing adventure. The player 
+effectively takes on the role of Nina as she meets her boyfriend online, and we 
+listen in on her conversations with him, in a familiar adventure game style. 
+But at the same time, Freeman wanted us to understand the friction between the 
+way the in-game Nina presents herself to Blake and what she’s actually 
+thinking. To this end, the player gets access to in-game Nina’sPC 
+<https://www.theguardian.com/technology/pc> desktop, which contains poems, 
+journal entries and photos – these are all genuine relics from Freeman’s life. 
+And they often contradict the story she’s telling Blake.
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F22%2Ffirewatch-experimental-games-character%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fd7b713bd28252a03ae3f6d6382f0568222916719%2F80_0_1199_720%2F1199.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Firewatch%3A%20how%20games%20are%20getting%20inside%20the%20heads%20of%20their%20characters&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F22%2Ffirewatch-experimental-games-character%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Firewatch%3A%20how%20games%20are%20getting%20inside%20the%20heads%20of%20their%20characters&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F22%2Ffirewatch-experimental-games-character%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fd7b713bd28252a03ae3f6d6382f0568222916719%2F80_0_1199_720%2F1199.jpg>
+ Nina Freeman is both the designer and ‘star’ of Cibela, a game that analyses 
+her online relationship with a gamer named Blake 
+“I kind of realised I had to establish a critical distance from what was 
+happening,” explains Freeman. “As I was writing the script, I realised there 
+were things I want to express that I couldn’t through dialogue alone; I decided 
+it had to be more than just playing in this online game and listening to 
+conversations. So I added real things from my life so that people could 
+understand who I was from many different angles – they could infer what I was 
+like without really being with me. That’s where the folders full of my 
+pictures, blog posts and poems came from – it was to give the player context so 
+that they can feel like they understand the character outside of what she’s 
+just saying.”
+
+What both Firewatch and Cibele have in common is the idea of experience being 
+the central component rather than action or puzzle-solving. They do, of course, 
+belong to a loose genre known as experiential games, most commonly associated 
+with two titles –The Chinese Room 
+<https://www.theguardian.com/technology/gamesblog/2013/oct/15/horror-amnesia-a-machine-for-pigs-chinese-room>
+’s Dear Esther and Fullbright’sGone Home 
+<https://www.theguardian.com/technology/gamesblog/2013/apr/26/gone-home-telling-everyday-stories>
+ – which stripped back all interactive components, and put the focus on simply 
+experiencing the environment and narrative. Again, this isn’t a new idea, but 
+the rise of indie game development (facilitated by digital game distribution 
+and the availability of cheap development tools), has made it easier for 
+smaller, more experimental teams to start exploring more personal, more 
+challenging game design concepts. There’s an emerging generation of designers 
+who are asking more questions about how we relate to the games we play and the 
+characters that inhabit them.
+
+There are several fascinating examples on the way – and all, in some ways, 
+insert the same sorts of questions between player and character.Fragments of Him
+ <http://fragmentsofhim.com/> is a forthcoming PC game designed by Mata Haggis, 
+a professor at Breda’s NHTV University. It’s a narrative adventure, following a 
+fatal car crash in which one of the four player-characters is killed. In a 
+series of interactive scenes, we explore that character’s last thoughts, as 
+well as the aftermath of the accident for his closest friends and ex-lovers.
+
+Importantly, though, the player doesn’t really control any of the characters 
+first-hand. Instead, they can only prompt them to interact with key nostalgic 
+objects. “The player sees the world from a first-person perspective, like many 
+classic video games such as Doom,” explains Haggis. “But unlike those games, 
+the player is not in the head of the character; instead, our player is their 
+‘mind’. The mind can wander around the rooms in the game, but nothing happens 
+without them interacting with pre-defined objects. Those interactions prompt 
+the character to perform an action that fits precisely with who they are, and 
+so there is no way that the player can force the people in the story to perform 
+actions that break their character. The people in Fragments of Him always 
+remain consistent in the narrative.”
+
+This system came from combatting a truth of traditional video games – that the 
+player, through in direct control of the character, always has the ability to 
+subvert, halt and break the story. The emotional impact of any moment can 
+easily be destroyed by simply jumping on a table during a romantic monologue, 
+or trying to punch the non-player character conveying some devastating plot 
+point. In most games this is fine, it’s part of interactivity. But for the 
+small minority of games looking to provide an emotional experience, that want 
+the player to investigate the character as much as the environment, this is a 
+barrier.
+
+
+“In Fragments of Him, we have removed difficulty, puzzles, timers, scores and 
+all forms of challenge, and kept the core storytelling experience,” says 
+Haggis. “It is impossible to ‘fail’ in our story. Some might argue that taking 
+away all of these elements stops Fragments of Him, and games like it, from 
+being games at all. I think that there is something in that, but at the same 
+time it also feels like a built-in limitation of the term ‘games’ to describe 
+the true potential of interactive media. We sometimes semi-jokingly refer to 
+Fragments of Him as a Playable Interactive Narrative Experience, partly because 
+we like the acronym ‘Pine’, but mainly because we feel that discussions about 
+what truly is, or is not, a ‘game’ is besides the point of what we are trying 
+to achieve.”
+
+Also due later this year is Elsewhere Company’s a.part.ment 
+<http://apartmentga.me/>, in which a character, Nick Connor, wanders his home, 
+analysing the reasons for a recent relationship breakdown. Wherever you go as a 
+player, certain objects and areas unlock partially interactive memory 
+sequences, that slowly build a picture of the love affair. But again, we’re 
+invited to ask how reliable these fragments are. Memories are subjective. At 
+certain points we’re able to explore the apartments and romantic memories of 
+the lead character’s neighbours, and these enhance, compliment and contrast his 
+own reminiscence.
+
+This whole question of memory and reality is also explored in Town of Light, a 
+forthcoming psychological adventure from Italian studio LKA. Set in the 
+real-life Volterra asylum, it concerns the story of a woman named Renee who 
+returns to the creepy, now derelict building having been a patient there in the 
+40s. Again, though, as she explores the wrecked building, reliving what she 
+thought had happened, she discovers her clinical records and realises that her 
+memories are inaccurate.
+
+Inspired by creative director Luca Dalcò’s own experiences of how depression 
+affected a close friend, there is, once again, this disconnect between the 
+player and the character – we’re partaking in their experience, but as a 
+discreet entity. We have to question Renee in a way we may not question a 
+character like Nathan Drake or Lara Croft.
+
+We’re entering into a new era of game design in which studios are using the 
+standard conventions of interactivity to ask questions about what it means to 
+“be” a character on screen. Narrators are becoming unreliable, stories are 
+becoming character studies. The Henry we see in Firewatch is not the actual 
+Henry, it’s not even the interpretation of Henry experienced by every 
+individual player. It’s a strange amalgam of all those elements. In Cibele, we 
+play as Nina, but we’re simultaneously watching, being and judging her, and we 
+can’t trust all that she says to Blake or to herself.
+
+We are seeing the limits of what​ a ‘game’ is being tested
+Mata Haggis 
+“It is an incredibly exciting time for stories in games,” says Haggis. “We are 
+seeing the limits of what a ‘game’ is being tested, we’re part of a new wave of 
+experiments in how interaction can produce meaningful experiences.
+
+“Fragments of Him and other games in this emerging field still use very 
+familiar mechanics, but with the aesthetics altered from battlefields into 
+spaces for stories to be told. All the pieces of interaction and mechanics 
+design for this emerging field are in place, now we just need passionate 
+storytellers who understand those mechanics to step up and explore.
+
+“In our game, the player can choose small alternative paths for the people in 
+the story, giving a slightly different angle on the events. These are things 
+that are not possible in a film or in most theatrical performances.
+
+“Fragments of Him is certainly not a film, but it may be something other than 
+a ‘game’”.
+
+
+This is, in a way, the theme that links all of these games. They are all 
+mystery adventures, but the mystery is about our relationship with them and the 
+people they invite us to be.
+
+ * Firewatch review – a small game with a big story 
+<https://www.theguardian.com/technology/2016/feb/08/firewatch-review-first-person-simulation-adventure-game>
+
+ * Video games aren’t about power – they’re about agency 
+<https://www.theguardian.com/technology/2015/oct/16/video-games-power-agency-control> 

@@ -1,0 +1,247 @@
+
+Email <https://www.theguardian.com/technology/email> is both a miracle and a 
+curse. At no other time in human history and we been able to exchange messages 
+instantly globally; but at the same time, our ancestors didn't spend hours each 
+day sifting through memos, missives and newsletters we probably should just 
+unsubscribe from.
+
+It doesn't have to be this way – here are 19 tips, tricks and add-ons that 
+will make email a breeze.
+
+GMAIL
+
+Canned responses
+ Canned.png Photograph: Observer 
+
+Much of our time using email is wasted crafting pitch-perfect responses to 
+emails that could otherwise be dismissed with a cheerful "thanks, but I'm going 
+to have to pass on this!"
+
+Canned Responses, a Gmail <https://www.theguardian.com/technology/gmail> Labs 
+feature found in Settings -> Labs -> Canned Responses, allows you to save 
+standard responses that can be inserted into emails at the click of a button.
+
+Undo send 
+ Undo Gmail 
+
+In an ideal world, we would never send anything we didn't mean to. In the real 
+world, features such as undo send exist. It can be found in Settings -> Labs -> 
+Undo Send and in effect delays sending your email for up to 30 seconds so that 
+you have the chance to bring it back.
+
+Boomerang
+ Boomerang Gmail 
+A powerful app for Gmail that acts as your personal email valet, Boomerang 
+allows you to schedule emails to be sent in the future and can give you a tap 
+on the shoulder when someone fails to reply to your email. It can be found by 
+Googling Boomerang for Gmail. A version forMicrosoft 
+<https://www.theguardian.com/technology/microsoft> Outlook also exists.
+
+Multiple email addresses 
+ multiple gmail 
+Web services generally allow you only to create one account per email address, 
+which can be a pain if you want to run two Twitter accounts, for example. 
+Instead of having to manage multiple email accounts – one is hard enough – 
+Gmail allows you to tweak your email address with dots and plus signs.
+
+For example, firstname.surname@gmail.com, firstnamesurname@gmail.com and 
+firstnamesurname+test@gmail.com are in Gmail's eyes the same account. Messages 
+sent to either of them end up in the same inbox. If I wanted to, I could create 
+three Twitter accounts with one Gmail account.
+
+A word of warning, while multiple dots can appear anywhere in the address, a 
+single plus symbol must come after your standard account name, as above.
+
+Combine accounts
+ Combine accounts Gmail 
+It's possible that you already run multiple email accounts – instead of having 
+to manage each individually, you can in effect turn them all into one email 
+account under the Gmail umbrella using email forwarding. By going to Settings 
+-> Accounts and Import -> Check email from other accounts, you can link your 
+other email accounts to Gmail. Once you've done this, you can set up filters to 
+treat incoming mail from different accounts differently if you wish.
+
+Labels and filters
+ Labels and Filters Gmail 
+This is less of a tip or a trick and more of an exhortation to use your mail 
+more efficiently. Spend some time adding filters, which can be created by doing 
+a search and then clicking "Create filter with this search", so that emails are 
+sorted even before they hit your inbox. And add labels to conversations. This 
+can be done automatically using filters so that they can be more easily 
+retrieved via search at a later stage.
+
+Archive everything
+
+As a general rule, we tend to be hoarders of digital information. Desperately 
+holding on to every last message, photo and file in case we might need it in 
+future. This makes sense with important emails, but remember that Gmail's 
+archive function doesn't make your emails difficult to access – they're still 
+searchable, retrievable and, most important, no longer clogging up your inbox.
+
+Send & archive
+ Send & archive Gmail 
+
+This nifty little feature, which can be activated by going to Settings -> 
+General -> Send & Archive, is the Gmail equivalent of filing away your messages 
+once you've replied to them.
+
+Instead of remaining in your inbox after you have dealt with an issue, the 
+email is automatically archived when you click send, clearing up your in-tray 
+and letting you focus on the next email.
+
+Mute conversations
+ Mute Conversations Gmail 
+
+One of the worst aspects of modern email behaviour is our tendency to cc every 
+last person in email threads, no matter how tangentially relevant to or 
+responsible for the topic of discussion.
+
+If you are the subject of this relentless ccing, you can mute a conversation 
+by clicking More –> Mute from within an email, which means messages from that 
+email thread will no longer appear in your inbox. You will still be able to 
+find it via the search bar.
+
+Is this email really for you?
+ Is this email really for you_.png Photograph: Observer 
+
+You can see at a glance if an email has been sent to you personally by turning 
+on Gmail's personal level indicators. This feature, found in Settings -> 
+General, displays a single arrow beside emails that have been sent to your 
+email address specifically, ie not to a mailing list, and a double arrow if an 
+email has been sent to you alone. This feature isn't entirely foolproof, 
+however.
+
+The power of search
+ The power of search Gmail 
+
+Google's existence is built on its ability to search information well (and to 
+sell ads as a result of that search, of course). So, as you might expect, the 
+search function in Gmail is incredibly powerful once you begin to get to grips 
+with it. I won't list all of the search operators here –Google 
+<https://www.theguardian.com/technology/google> "list of gmail search 
+operators" – but here's some advice for anyone with thousands of messages 
+clogging up their inbox.
+
+Search "older_than:14d" and select all the emails that appear by clicking the 
+checkbox on the top left. Then "Select all conversations that match this 
+search", which will be every last email you've ever received up until two weeks 
+ago. Finally, archive them all. They're all still there if you need to find 
+them, but now they're not hanging over your head anymore.
+
+Keyboard shortcuts
+
+As with any software, learning some basic keyboards shortcuts will allow you 
+to streamline your workflow by reducing the need to involve your mouse. With 
+Gmail, you'll need to activate keyboard shortcuts by going to Settings -> 
+General -> Keyboard Shortcuts. To find the full list of shortcuts, Google 
+"Gmail keyboard shortcuts" but some basic ones include C for composing a new 
+message, E for archiving a message and R to reply to a message.
+
+You can customise your keyboard shortcuts by going to Settings -> Labs -> 
+Custom keyboard shortcuts.
+
+Gmail Offline 
+ Gmail Offline 2.png Photograph: Observer 
+
+In future it will be child's play to remain connected to the internet at all 
+times, but until then Gmail Offline is useful for working when you can't get 
+online.
+
+It can be found by going to Settings -> Gmail Offline and when used in 
+conjunction with the Gmail Offline Sync Optimizer, automatically saves emails 
+from up to a month ago on your computer. Any changes you make or emails you 
+compose are automatically synced when you are reconnected to the internet.
+
+Authenticated senders
+ Authenticated Gmail 
+One way scammers attempt to steal your personal details is with emails that 
+pretend to be from companies such as eBay. Gmail has a function that puts a 
+little key icon beside emails that are from verified senders, giving you 
+another piece of information to help you detect what is legitimate mail and 
+what is an attempt to trick your information out of you. This feature can be 
+activated by going to Settings -> Labs -> Authentication icon for verified 
+senders.
+
+OUTLOOK
+
+Create aliases
+ Alias Outlook 
+While Gmail allows you to alter your email address with dots and plus signs, 
+Outlook takes a slightly different approach, which is the creation of aliases 
+associated with your core account. An alias is a separate email address 
+connected to your main address, using, for example, the same inbox and 
+password. To create an alias, click the cog -> Options -> Create an Outlook.com 
+alias.
+
+Sweep
+ Sweep Outlook 
+Outlook makes it easy to clear masses of emails with the Sweep function. Just 
+by clicking on one email from a specific newsletter, for example, Sweep gives 
+you the option of deleting all instances of that newsletter at the click of a 
+button.
+
+Keyboard shortcuts
+
+Like Gmail, Outlook offers the ability to use keyboard shortcuts to streamline 
+your email use. But unlike Gmail, Outlook offers you the opportunity to switch 
+them to Yahoo or Gmail style shortcuts. It's slightly less powerful than 
+Gmail's fully customisable add-on, but perhaps more straightforward for a 
+casual user. To create a new email you push N, but a full list can be foundhere 
+<http://windows.microsoft.com/en-GB/windows/outlook/keyboard-shortcuts>.
+
+YAHOO
+
+Create aliases
+ Alias Yahoo 
+As with Outlook, Yahoo Mail allows you to create an alias that lets you 
+disguise your email address when using Yahoo Messenger or Yahoo's message 
+boards. To create an alias, click the cog -> Account Info -> Manage your Yahoo 
+aliases.
+
+Alternative and disposable email addresses
+ Alternative and disposable email addresses Yahoo 
+
+In Yahoo's case, aliases are different to alternative email addresses, which 
+function like Outlook's aliases, and disposable email addresses, which is 
+closer to Gmail's dot and plus sign functionality. You can have only one 
+alternative email address, which is basically another linked account, while you 
+can have many disposable email addresses, which act as receiving addresses 
+only. To create an alternative email address, click the cog -> Settings -> 
+Accounts - > Create an extra email address and to create a disposable email 
+address, click the cog -> Settings -> Security -> Disposable Addresses.
+
+Delay "mark as read"
+ Delay "mark as read" Yahoo 
+If you're the kind of person who sometimes opens an email briefly without 
+reading it or responding to it, Yahoo has a nifty little feature that will mark 
+an email as "read" only if it has been opened for more than five seconds. If 
+that's not long enough, you can set it to "never", so that you have to mark 
+them as read manually. To enable this feature, click the cog -> Settings -> 
+Viewing email -> Mark as read
+
+iCloud
+
+Create aliases
+ Create Aliases iCloud 
+As with the other email services, iCloud also has email aliases. Functioning 
+as additional email accounts that feed into your central account, the aliases 
+help you conceal your real email address. However, you can have only three 
+active aliases at a time. To create an alias, click the cog -> Preferences -> 
+Accounts -> Add an alias.
+
+Archive instead of deleting
+ Archive instead of deleting iCloud 
+In case you want to retain your emails by default, you can replace the delete 
+button with an archive button. A word of warning – this will become frustrating 
+if spam makes up a significant proportion of your incoming email, denying you 
+the satisfaction of hitting delete on unwanted mail. To swap delete for 
+archive, click the cog -> Preferences -> Show Archive icon in the toolbar.
+
+Create rules
+ Create rules iCloud 
+Like other email services, iCloud allows you to set up rules for incoming 
+mail, helping to keep your main inbox clear. You can either choose to 
+automatically forward the mail, move it to a specific folder, or if you want in 
+effect to block someone, send it straight to trash. To set up rules, click the 
+cog -> Rules -> Add a Rule.
+ 

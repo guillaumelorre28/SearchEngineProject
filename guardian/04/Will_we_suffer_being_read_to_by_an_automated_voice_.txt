@@ -1,0 +1,31 @@
+
+Last week iSpeech <http://www.ispeech.org/>, a text-to-speech startup, 
+announced that it had acquired its first publishing client: Pearson. Claiming 
+"the most natural-sounding TTS audio on the market" and previously known for 
+driving-direction applications and audio cues for the home, iSpeech wants to 
+help publishers automate the creation of audiobooks. The default voice on 
+iSpeech is pleasantly lilting, but it's still definitely not human, and more 
+akin to a pre-recorded bus announcement in its odd pauses and stumbles. Pearson 
+intends to use the service primarily with textbooks; the robotic voice is 
+definitely not ready for the emotional range and styles of fiction yet.
+
+Text-to-speech has been tried many times before, but it's technically very 
+difficult to pull off, and legally complex. Amazon got into trouble in 2009 
+when it rolled out basic text-to-speech for theKindle 
+<https://www.theguardian.com/technology/kindle>. Publishers said that Amazon 
+was abusing its copyright and it withdrew, much to the chagrin of, among 
+others, the blind and partially sighted community, reliant on audiobooks, who 
+briefly gained access to Amazon's vast library. The problem is the cost of 
+creating an audiobook. This involves studio hire and voice talent and can reach 
+thousands of pounds, which is often difficult to justify in sales, while 
+iSpeech offers automation costing just fractions of a penny per word.
+
+But while the cost of creating quality audiobooks prevents much contemporary 
+work being made available, older work is being "acoustically liberated" by 
+collaborators on the internet.LibriVox <http://librivox.org/>, founded in 2005, 
+recently passed 6,500 books in its collection: all in the public domain, all 
+recorded by volunteers. LibriVox's moderators assemble teams of participants 
+who take a chapter each. While the tone might sometimes vary as much as 
+iSpeech's robot, LibriVox's enthusiastic volunteers are now putting out three 
+classic audiobooks a day, a victory for networking the passion of readers.
+ 

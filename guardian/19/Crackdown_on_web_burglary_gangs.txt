@@ -1,0 +1,59 @@
+
+The sending of bogus emails asking unsuspecting recipients for personal 
+details - a practice known as phishing - has replaced spam as the biggest 
+threat to internet users after soaring by 44 per cent in six months.
+
+Phishing is increasingly the confidence trick of choice for gangs in eastern 
+Europe, the Middle East and Africa, often to fund drugs crime or, according to 
+Interpol, terrorism. Emails are sent out to try to make people enter personal 
+details on fake web pages made to resemble real sites, often those of banks. 
+The details are then used to spend the user's money without their knowledge.
+
+'Three years ago most people would be complaining about the amount of spam,' 
+said Neil Holloway, president of Microsoft Europe, Middle East and Africa. 'Now 
+phishing has become the next wave of cyber crime. Some will put a site on the 
+web for two or four hours then take it down again, making it hard to track. The 
+challenge is that the internet has no borders. There is no silver bullet.'
+
+Microsoft has launched 53 legal actions against individuals suspected of 
+committing online fraud. The figure will rise to 100 by the end of June. It 
+said most of the phishers are males aged 16 to 20. The cases follow 
+investigative work by Microsoft, national police forces and Interpol.
+
+Microsoft is taking four unnamed individuals to the High Court after 
+discovering 10 phishing sites made to look almost identical to the login page 
+of its web-based email, Hotmail. It is pursuing civil rather than criminal 
+action in the first British cases of this kind partly because the law has not 
+yet caught up with the phishing phenomenon.
+
+Of the 53 legal actions already under way, Turkey has the highest number, 20, 
+followed by France, with 10, and Spain, which has seven. Microsoft said 
+phishers tend to host their site in a country with a historical link to their 
+own. For example, phishing sites hosted in France could be traced back to 
+Morocco and Algeria. There was a similar relationship between German-speaking 
+countries and Turkey, and the UK and the Middle East.
+
+Bernhard Otupal, crime intelligence officer for Interpol's financial and 
+hi-tech crime unit, said: 'Phishers are able to steal your whole identity. They 
+steal your credit card information and spend your money on goods. It's even 
+financing terrorism, which makes it even more interesting for law enforcement.
+
+'We are dealing with quite a new form of crime with an old law. In raising 
+awareness in some countries, for example Romania, it's getting easier to 
+develop legislation, but there are still some places in the world criminals 
+move to, to use ISPs [internet service providers] or launder their money. We 
+had one phisher who moved through 25 countries, which means 25 police and 25 
+legislations.'
+
+Britain is under pressure to pass laws to protect victims of phishing. Sarah 
+Wright, intellectual property solicitor at Olswang, lawyers for Microsoft in 
+the UK, said: 'There is no specific law for phishing at the moment, although 
+the Fraud Bill before the House of Lords will go some way to correcting that. 
+Until then we have to rely on civil actions for trademark or copyright 
+infringement.
+
+'It's always the case that legislation takes time to catch up with technology 
+and deal with new offences like phishing. It can be frustrating for businesses 
+like Microsoft who want to act but have to deal with the current legislation 
+and be creative to get cases before the courts.'
+ 

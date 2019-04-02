@@ -1,0 +1,107 @@
+
+May I wish you all a new year of happy crosswording?
+
+My recent blogs have been much concerned with the fallout from the switch to 
+the new crossword site. It seems to be beginning to bed in, or it is if the 
+falling volume of emails of complaint is anything to judge by. A few of you 
+have even been kind enough to say that, with familiarity, it is an improvement 
+on the previous version. However, for a significant minority, difficulties with 
+printing are still an obvious source of anguish and rage.
+
+The developers have been working to improve this side of things. The type size 
+for the clues, which was already larger than that in the printed paper itself, 
+has been increased and the previous ‘print preview’ stage has been 
+reintroduced, so that you can now make personal size adjustments before 
+actually printing out. There are now three routes to printing puzzles and you 
+can choose the one that suits your needs best.
+
+1. The print option. Having got the interactive version of your puzzle on the 
+screen, click on the ‘Print’ option above the grid. This should open a new 
+page, with a white grid and grey squares (to save you ink) and clues formatted 
+to fit an A4 page. If you print this out (on my PC this involves poising the 
+mouse arrow over the image and ‘right-clicking’ once, with other machines 
+things will be different), you are offered a box to check before moving on to 
+the printing itself. If you then click ‘+ more settings’, you can check on the 
+default paper size. For most of you this should be A4, but you can try others. 
+If you do so, the clues may run over to more than one page. At this stage you 
+can also choose other destinations for the image than your usual default 
+printer.
+
+2. The PDF option. Click instead on ‘PDF version’. You should now have new 
+page, with solid black grid squares and the solution to the previous puzzle at 
+the bottom right. Start the printing process (as for 1 above) and the ‘preview’ 
+box on the left will now allow you to choose a paper size to suit. You need to 
+ensure that the ‘Fit to page’ box has a tick in it. If you choose smaller paper 
+than A4, the print size will reduce (or, if the ‘Fit to page’ box is not 
+ticked, the clues will stay the same but run over on to more than one page).
+
+3. Print dialogue option (recommended only for those who know what they are 
+doing). At the ‘print preview’ stage, click in the box on the left on ‘Print 
+using system dialogue’. With this option you have some control over the layout 
+of the grid and the clues by adjusting your printer and/or browser settings. 
+The downside is that there are more things to go wrong; for example, the grid 
+may not display properly, or the clues may run to more than one page, or the 
+special instructions and setter’s name may not appear on cryptic puzzles.
+One additional tip. If, with the basic interactive puzzle on your screen, you 
+want to increase the type size of the clues for greater legibility (or decrease 
+it so as to be able to see all the clues and the whole grid at the same time) 
+this is easily achieved. With standard personal computers, hold down the Ctrl 
+key and hit either the + or the – sign as many times as you want. With Macs the 
+same effect, I think, can be achieved by holding down the Command key (the one 
+to the left of the space bar) and hitting + or – in the same way.
+
+Two final comments.
+
+1. Despite all the above, there are now so many different types of computers, 
+smart phones, browsers etc out there that individual problems will continue to 
+arise. When they do and you are unable to resolve them, please send details to 
+theUser Help <mailto:userhelp@theguardian.com> desk and they will investigate 
+your difficulty. It will help them greatly, if you can give as much detail as 
+possible about the browser(s) and operating system(s) you are using, preferably 
+by going to http://www.thismachine.info/ and copying and pasting into you email 
+what you get there as your full ‘user agent string’. It will look something 
+like this: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like 
+Gecko) Chrome/47.0.2526.106 Safari/537.36.
+
+It would also help, if you were able to take, copy and send to the User Help 
+desk at the same time a screen shot of what is going wrong. Instructions on how 
+to take and save a screen shot may be found at 
+http://www.take-a-screenshot.org/ .
+
+2. There is no point in asking why the Guardian cannot go back to the old 
+crossword site that you knew and loved, nor why it cannot just run the old and 
+the new sites alongside each other as alternative options. I tried to explain 
+the reason why this was so in my October blog, which can be read via the 
+crossword home page or by copying and pasting this rather long URL into your 
+browser: 
+http://www.theguardian.com/crosswords/crossword-blog/2015/oct/09/life-after-beta-testing-new-guardian-crossword-website 
+. For those with continuing transitional problems the User Help desk, the 
+system developers and I are ready and willing to give all reasonable assistance 
+to enable you to continue to enjoy your free online crosswords.
+_____
+
+In case you did not see the names of the 10 winners of Maskarade’s Christmas 
+special prize puzzle No 26,759, they were: Rose Reeves, Bradford, West 
+Yorkshire, Ron & Sue Falder, Lilleshall, Shropshire, Ann Radcliffe, 
+Maine-et-Loire, France, A Besse, London W11, Hugh Betterton, Godalming, Surrey, 
+Rupert Cousens, Oxford, Judith Goodman, London SW19, John Di Mambro, Wishaw, 
+North Lanarkshire, F Jackson, Harlow, Essex and Kathryn Greenhalgh, Stafford, 
+Staffs.
+_____
+
+The December Genius (No 150 by Boatman) got off to a bad start, with much of 
+the first Monday, 7 December, been taken up with getting a usable version of 
+the puzzle on to the screen. As a result there was only one correct entry by 
+the end of that day, received at 22:23 from GM in Sussex. (JS with gmail would 
+have beaten him by 3 minutes, but for one slight error.) There were also fewer 
+than usual entries in total by the deadline – 149 – about half the size of 
+recent fields. Congratulations to Jeffrey Goldsmith from Bromham in 
+Bedfordshire, who is the winner of the December Genius competition.
+
+If you have any technical problems with our crossword service, please email 
+userhelp@theguardian.com <mailto:userhelp@theguardian.com>. If you have any 
+comments or queries about the crosswords, please email
+crossword.editor@theguardian.com <mailto:crossword.editor@theguardian.com>. For 
+Observer crosswords please emailcrossword.editor@observer.co.uk 
+<mailto:crossword.editor@observer.co.uk>.
+ 

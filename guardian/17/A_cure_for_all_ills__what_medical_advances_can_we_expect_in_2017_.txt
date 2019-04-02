@@ -1,0 +1,132 @@
+
+Lost in translation
+
+
+In 2017, we can study the unimaginably small and share unimaginably vast 
+amounts of data. But, as a GP involved in the day-to-day delivery of primary 
+health care, I often wonder why, if so much is known, we can do so little? Why 
+is there such a lag between the headline scientific discoveries and what a 
+local GP can offer? Bridging that gap as speedily and effectively as possible 
+is the aim of an emerging field of biomedical science calledtranslational 
+medicine <https://en.wikipedia.org/wiki/Translational_medicine>. Scientists, 
+healthcare professionals, pharma and funders are collaborating to translate 
+science into solutions, or “bench to bedside”. The mantra for governments and 
+agencies that fund health services across the world is “value-based care” – 
+basically, payment by results. To be fair, it’s not all about cutting costs: 
+the idea is to stop funding poor-value healthcare, and move towards an era of 
+“precision medicine” in which your genomics, epigenomics (chemicals that tell 
+the genome what to do), environmental exposure (eg pollution) and other factors 
+guide the care you are offered.
+
+Computer assisted medicine 
+
+
+Precision medicine – or, indeed, any form of modern medicine – is no longer 
+possible without data. Data from your body is increasingly being collected by 
+wearable devices; not just footsteps but measurements of weight, blood 
+pressure, heart rate and temperature. Platforms such asIBM’s Watson 
+<http://www.ibm.com/watson/health/> can mash up your personal data with 
+information from “big data” – vast repositories of information from 
+universities, scientific institutions and publications as well as commercial 
+companies. Algorithms will deliver tailor-made advice to you via an app, such as
+Nutrino <https://nutrino.co/#/>, that provides guidance about diet. The system 
+“learns” from your input and gets ever cleverer. Meanwhile, online avatars are 
+being trialled to help people with schizophrenia and have been used to detect 
+early signs of depression in servicemen and women in the field. An immersive 
+virtual reality therapy that helps people with depression to be less critical 
+of themselves has also reported promising results.
+
+Go for the gut 
+
+
+Analysis of your gut biome will become increasingly popular. We have 100tn 
+microbes (mostly bacteria) in and on our body; most live in our gut, the rest 
+on our skin and elsewhere. That’s 10 times more than our own human cells. The 
+genetic information carried in these microbes is thought to play a major role 
+in producing chemicals that drive vital processes such as healing, metabolism 
+and immune function. The holy grail is understanding what a healthy biome looks 
+like, how to feed ourselves to nourish it and which foods or supplements will 
+restore an ailing biome to prevent or treat ill health. If you want to know how 
+your biome compares to other family members and other volunteers, you can take 
+part inThe British Gut Project <http://britishgut.org/>.
+
+The next public health challenge?
+
+
+Alcohol is now the leading risk factor for early death, ill health and 
+disability among 15- to 49-year-olds, according to anew report from Public 
+Health England 
+<https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/574427/Alcohol_public_health_burden_evidence_review.pdf>
+ [pdf]. Setting a minimum price for alcohol helps to cut drinking but the 
+alcohol industry obviously opposes it. Overall, smoking, poor diet, obesity and 
+untreated high blood pressure all trump alcohol when it comes to risk factors 
+that contribute to disease in the UK. Legislation banning smoking in cars 
+carrying under 18s has proved hard to enforce and campaigners will be looking 
+for convictions to drive the message home. Vaping remains controversial, but 
+seems to help people to quit and stay off the fags. Critics’ fears that 
+widespread vaping would trigger a rise in smoking among the young haven’t been 
+realised. Tight EU legislation controls vaping and tobacco industries; but 
+smokers looking for looser controls as a result of Brexit may be disappointed. 
+The most pressing public health challenge must be closing the health gap; life 
+expectancy in England has increased from 75.9 years in 1990 to 81.3 years in 
+2013. But behind this piece of good news lies a shameful fact; rich men live 
+nine years longer and rich women seven years longer than their poorest 
+compatriots.
+
+Zika virus
+
+
+Last year saw the first UK case of a woman who got zika from her partner who 
+had been on holiday in an area where it’s rife, and with international travel 
+and no specific treatment, we’re likely to see more cases in the UK this year. 
+The virus can cause microcephaly with associated developmental delay if a woman 
+gets it while pregnant. Men returning from a zika area are advised to use 
+condoms or abstain for six months; women should avoid getting pregnant and use 
+barrier methods for eight weeks.
+
+Is scurvy coming back?
+
+
+The number of people with scurvy in the UK is small but growing and many more 
+are at risk because of poor diet that lacks the fruit and veg that contain 
+vitamin C. Alcoholics, drug users and the homeless are most vulnerable. Scurvy 
+is caused by a lack of vitamin C, which is needed for collagen. Severe 
+deficiency causes bleeding gums, dry skin, poor healing and muscle pains. You 
+need 40mg a day – that’s equivalent to half a large orange, a kiwi fruit, a 
+small red pepper or a 50g portion of sprouts. Frozen and tinned fruit and veg 
+retain their vitamin C. Women who are pregnant and breastfeeding need a bit 
+more (50mg a day in pregnancy, 70mg a day while breastfeeding).
+
+Will ketamine replace morphine for severe pain?
+
+
+The anaesthetic drug ketamine can be given as a nasal spray and provides good 
+pain relief, compared with an injection of morphine. On the street, it’s a 
+class B drug, popular for the dissociative feelings it induces, but at higher 
+doses it can cause a “K-hole”, which is a longer, deeper detachment from 
+reality, often with hallucinations. At lower doses, it may be increasingly 
+prescribed for severe pain. Currently, it is used mostly as an anaesthetic in 
+children, who don’t seem to be as susceptible to its mind-altering effects.
+
+Will this year see proper treatments for dementia?
+
+
+There was disappointment that the trial into injectable antibody solanezumab 
+failed to live up to expectations 
+<https://www.theguardian.com/society/2016/nov/23/dismay-as-alzheimers-drug-solanezumab-fails-in-clinical-trials>
+. But now there is excitement about the drug brimonidine. It is currently used 
+to lower eye pressure in glaucoma, which reduces amyloid protein in the retina 
+of the eye. The hope is that it may have a similar effect in the brain, where 
+toxic amyloid deposits are implicated in the nerve damage and death that occur 
+in Alzheimer’s disease.
+
+Will the UK get the artificial pancreas for type 1 diabetes?
+
+
+The artificial pancreas is a wonderful piece of kit that continuously monitors 
+the blood glucose levels of people with type 1 diabetes and links to their 
+insulin pump to deliver the correct dose of insulin. This is exactly what 
+happens in the body naturally in non diabetics who have a functioning pancreas. 
+It has FDA approval in the US and, with several trials underway, may be 
+available in the UK soon.
+ 

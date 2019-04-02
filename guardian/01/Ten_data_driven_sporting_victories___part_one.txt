@@ -1,0 +1,140 @@
+
+Ten data-driven sporting victories - part two
+ Read more  
+<https://www.theguardian.com/technology/2015/mar/16/ten-data-driven-sporting-victories-part-two>
+Michael Johnson’s 200m and 400m gold medals in 1996 Olympics
+
+At the 1996 Olympic Games <https://www.theguardian.com/sport/olympic-games>, 
+Michael Johnson became the only man in history to win the 200m and the 400m 
+gold medals at a single Olympics, setting a world record time of 19.32 in the 
+200m and an Olympic record of 43.49 in the 400m. By the time Johnson retired 
+from athletics in 2001, he had amassed a total of thirteen Olympic and World 
+Championship gold medals.
+
+Scrupulous planning and rigorous preparation were hallmarks of Johnson’s 
+approach, and since his retirement as a professional athlete, Johnson has 
+founded a business – Michael Johnson Performance – which provides athletes with 
+advanced athletic assessment, using a variety of tools and advanced 
+technological capabilities to assist in evaluating and training any athlete.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F16%2Ften-data-driven-sporting-victories-part-one%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F13%2F1426259799936%2F7cbac9b4-f0f4-474e-95b2-41b2c162eaa5-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Ten%20data-driven%20sporting%20victories%20-%20part%20one&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F16%2Ften-data-driven-sporting-victories-part-one%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Ten%20data-driven%20sporting%20victories%20-%20part%20one&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F16%2Ften-data-driven-sporting-victories-part-one%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F13%2F1426259799936%2F7cbac9b4-f0f4-474e-95b2-41b2c162eaa5-2060x1236.jpeg>
+ Team BMW Oracle gliding to victory in the 33rd America’s Cup off the coast of 
+Valencia. Photograph: Kai Foersterling/EPA 
+BMW Oracle Racing’s victory in the 33rd America’s Cup
+
+BMW Oracle Racing’s victory in the 33rd America’s Cup yacht race in February 
+2010 showcased extraordinary sailing expertise, but also the power of 
+technology. The design of the boat itself was, of course, instrumental, but to 
+sail it to its full potential, the crew reviewed enormous amounts of reliable 
+data every time they took the boat for a test run.
+
+The team collected performance data from 250 sensors at the rate of 10 times 
+per second, so in any given hour of sailing, 90 million data points were 
+generated. Using Oracle Data Mining in Oracle Database 11g to extract maximum 
+value from the data, the statistics were reviewed and shared with crew members 
+daily. The data was streamed to a data centre where a dedicated team tackled 
+deeper analysis.
+
+Without the data mining, Ian Burns, design coordinator for BMW Oracle Racing, 
+says the boat wouldn’t have run as fast. The technology, he said, allowed the 
+team to compare the incremental improvements in performance from the first day 
+of sailing to the very last day.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F16%2Ften-data-driven-sporting-victories-part-one%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F13%2F1426260999543%2Fef650f39-12d1-4e92-a79f-b5f727ef8b79-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Ten%20data-driven%20sporting%20victories%20-%20part%20one&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F16%2Ften-data-driven-sporting-victories-part-one%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Ten%20data-driven%20sporting%20victories%20-%20part%20one&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F16%2Ften-data-driven-sporting-victories-part-one%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F13%2F1426260999543%2Fef650f39-12d1-4e92-a79f-b5f727ef8b79-2060x1236.jpeg>
+ Bradley Wiggins powered to victory in the 2012 Tour de France. Photograph: 
+Bryn Lennon/Getty Images 
+Bradley Wiggins wins 2012 Tour De France
+
+When Bradley Wiggins won the Tour de France in 2012, he punched a button on 
+his SRM bike computer to log the ride data before he celebrated by punching the 
+air with pride. Team Sky’s success in theTour de France 
+<https://www.theguardian.com/sport/tourdefrance> – with six stage wins and 
+number one and two on the podium – was soon followed by the success of the 
+British Cycling team the same summer when Bradley Wiggins and Chris Froome took 
+gold and bronze at the Olympics in the men’s time trial.
+
+Team Sky and Team GP have relied heavily on technology for their winning 
+advantage, thanks in large part to Head of Performance Support, Tim Kerrison, 
+who is very data-driven in his approach. While the use of data analysis is 
+customary in the Tour de France, Wiggins and Team Sky have dedicated coaching 
+staff assessing every training session and providing real-time feedback.
+
+
+Wiggins had an SRM power meter on his bike, with the data feeding through to 
+TrainingPeaks, an endurance training technology that gives insight into 
+performance, form, and how to mould custom training programs for each rider. 
+Brad Culberson, CTO at TrainingPeaks, wrote: “Riders know that having that data 
+available will not only help them be faster, but will help them to stand out in 
+the technologically-savvy programme.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F16%2Ften-data-driven-sporting-victories-part-one%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F13%2F1426261378189%2F9a80a3f2-db09-419e-8835-e9d6ba56206e-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Ten%20data-driven%20sporting%20victories%20-%20part%20one&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F16%2Ften-data-driven-sporting-victories-part-one%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Ten%20data-driven%20sporting%20victories%20-%20part%20one&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F16%2Ften-data-driven-sporting-victories-part-one%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F13%2F1426261378189%2F9a80a3f2-db09-419e-8835-e9d6ba56206e-2060x1236.jpeg>
+ Saracens captain Wikus van Heerden leads out the team against the Sale Sharks 
+during their 2009 Premiership winning season. Photograph: Christopher Lee/Getty 
+Images 
+Saracens win premiership for first time in history
+
+Until 2009, Saracens <https://www.theguardian.com/sport/saracens> had been one 
+of the biggest under-achievers in rugby union particularly in the professional 
+era, despite signing star international players. The appointment of Brendan 
+Venter as director of rugby for the club in 2009, however, was a turning point. 
+Venter was a player in the South African rugby team which won the World Cup in 
+1995, and also a qualified GP.
+
+Bill Gerrard, professor of business and sports analytics at Leeds University, 
+has worked closely with Saracens, and explains how Venter introduced “an 
+in-depth evidence-based approach with the coaching staff which committed to 
+using data to inform their decisions on team selection, game tactics, training 
+priorities and player recruitment.”
+
+In May 2011, Saracens won the Premiership for the first time in their history 
+and have become one of the leading teams in European rugby, reaching the 
+finalist of the Heineken Cup last season.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F16%2Ften-data-driven-sporting-victories-part-one%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F13%2F1426262807357%2Fd0199e57-a303-4dc2-9a5c-53b7fb8391ce-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Ten%20data-driven%20sporting%20victories%20-%20part%20one&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F16%2Ften-data-driven-sporting-victories-part-one%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Ten%20data-driven%20sporting%20victories%20-%20part%20one&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fmar%2F16%2Ften-data-driven-sporting-victories-part-one%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F13%2F1426262807357%2Fd0199e57-a303-4dc2-9a5c-53b7fb8391ce-2060x1236.jpeg>
+ Peter Nicol defeated ranking world number one David Palmer in the final of the 
+2006 Commonwealth Games. Photograph: Phil Cole/Getty Images 
+Peter Nicol defeats David Palmer in 2006 Commonwealth Games squash final
+
+In the 2006 Commonwealth Games, Peter Nicol played in his third consecutive 
+Commonwealth Games <https://www.theguardian.com/sport/commonwealth-games> 
+final, against ranking world number one at the time, David Palmer. Stafford 
+Murray, Head of Performance Analysis at the EIS, recalls how in the lead-up to 
+the final, David Palmer’s profile was analysed in great depth by team GB:
+
+ “We looked at data from Palmer’s matches and put together a normative profile 
+– a thumbprint for how someone plays – which showed that the front left corner 
+was where most of Palmer’s opponents were playing winning shots.” Nicol, he 
+explains, “was weak in that area so his coach changed his forehand technique to 
+reduce the likelihood of error”. Nicol went on to defeat Palmer 3-1.
+
+The winning formula, according to Murray, was a combination of the input of 
+coach and the athlete’s ability to change technically: “In a moment of glory, 
+Nicol was prepared to trust his coach and change his technique.”
+
+ * Top ten data-driven sporting victories - part two 
+<https://www.theguardian.com/technology/2015/mar/16/ten-data-driven-sporting-victories-part-two>
+Eleanor Dallaway is editor of Infosecurity magazine 
+<http://www.infosecurity-magazine.com/>.
+
+The Creative Data hub 
+<https://www.theguardian.com/technology/series/creative-data> is funded by 
+Accenture <http://www.accenture-rugby.com/>. All content is editorially 
+independent except for pieces labelled ‘Brought to you by Accenture’. Find out 
+morehere. <https://www.theguardian.com/sponsored-content>
+ 

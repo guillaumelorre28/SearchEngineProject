@@ -1,0 +1,144 @@
+
+Palmer Luckey has been waiting for this year his whole life. As a teenager, he 
+collected obsolete virtual reality headsets from the original VR boom of the 
+early 90s, using them as the basis for his own hacked together prototypes. 
+Then, four years ago, he dropped out of California State University, founded 
+Oculus and crowdfunded the Rift, the first modern-day VR head-mounted display 
+(HMD) technology. This April, the device will get its long awaited launch – and 
+it won’t be alone: the Samsung Gear VR arrived last year, while the HTC Vive 
+and PlayStation VR headset will follow later in 2016.
+
+“This is a huge year,” says Luckey. He’s at Microsoft’s Spring Xbox Showcase 
+in San Francisco, introducing the forthcoming Oculus version of Minecraft. But 
+as the figurehead of the current virtual reality boom, he’s happy to discuss 
+the wider state of play. “This is the first year there will be mass market 
+consumer VR,” he says. “It’s the first time there’s going to be a lot of 
+developers actually selling VR software and getting feedback. But I don’t think 
+2016 is necessarilythe year of virtual reality – it’s not going to instantly 
+explode into mass popularity. It’s going to take time.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F02%2Foculus-rift-founder-facebook-as-we-know-it-is-not-the-future-of-virtual-reality%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F30d085f89bb1259a819fc14a62b4c4b8c6fb36de%2F0_225_3000_1801%2F3000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Oculus%20Rift%20founder%3A%20'Facebook%20as%20we%20know%20it%20is%20not%20the%20future%20of%20virtual%20reality'&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F02%2Foculus-rift-founder-facebook-as-we-know-it-is-not-the-future-of-virtual-reality%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Oculus%20Rift%20founder%3A%20%27Facebook%20as%20we%20know%20it%20is%20not%20the%20future%20of%20virtual%20reality%27&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fmar%2F02%2Foculus-rift-founder-facebook-as-we-know-it-is-not-the-future-of-virtual-reality%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F30d085f89bb1259a819fc14a62b4c4b8c6fb36de%2F0_225_3000_1801%2F3000.jpg>
+ The new Oculus Rift virtual reality headset on display in San Francisco. The 
+device combines HD lenses with head tracking technologies to provide an 
+immersive VR experience. Photograph: Eric Risberg/AP 
+Fortunately, Luckey has time – or at least money. The 2012 Kickstarter 
+campaign for the Oculus Rift secured almost $2.5m (£1.8m) in funding, and an 
+investment round in December 2013 brought in $75m from VC firms. A year later,
+Facebook <https://www.theguardian.com/technology/facebook> bought the company 
+for $2bn. At first, the purchase caused a fair amount of surprise: Rift was 
+seen by some as a novelty gaming peripheral – indeed, it was heavily marketed 
+at gamers and the game development community. But Luckey always had his eye on 
+bigger things.
+
+“People have been watching science fiction and wanting virtual reality for 
+decades,” he says. “There’s this idea of parallel digital worlds, where you can 
+live, work, play and communicate. We have always known that VR isn’t just about 
+games – in fact, that’s a very modern conception.”
+
+Luckey sees the potential for a new form of communication – a way for people 
+to meet and chat that’s more tangible than any other technological equivalent.
+
+“Every form of digital communication is generally inferior to face-to-face 
+communication,” he says. “There’s something you get by actually meeting people 
+that you don’t get from email, text or phone.Virtual reality 
+<https://www.theguardian.com/technology/virtual-reality> is the first 
+technology that tries to make digital communication, not just more efficient or 
+more useful, but more compelling and more human. That’s the promise of VR: the 
+best of real world communication combined with the best of digital 
+communication. It offers low cost, instantaneous accessibility, combined with 
+the richness of human interaction.”
+
+In this regard he sounds a lot like his boss (if that’s how $2bn tech buyouts 
+work), Mark Zuckerberg. The Facebook founder made a surprise appearance at 
+February’s Mobile World Congress in Barcelona to talk about the company’s VR 
+plans. “Pretty soon we’re going to live in a world where everyone has the power 
+to share and experience whole scenes as if you’re right there in person,” he 
+said. “Imagine being able to sit in front of a campfire and hang out with 
+friends anytime you want. Or being able to watch a movie in a private theatre 
+with your friends anytime you want.”
+
+Zuckerberg seemed to be conflating two very different aspects of the virtual 
+reality experience. One is the ability to watch 360-degree videos that put you 
+inside specially filmed footage and allow you to look around, but not move or 
+fully interact with the footage. The other is interactive virtual worlds that 
+let you explore computer generated environments, either alone or with other 
+people. Facebook already hasthe capacity to show 360-degree videos 
+<http://newsroom.fb.com/news/2015/09/introducing-360-video-on-facebook/>, but 
+Luckey is unconvinced that this will be where we come for anything more 
+immersive.
+
+“The thing to remember is, Facebook the social networking tool as it exists 
+today is not necessarily the future of VR,” he says. “Hanging around the 
+virtual campfire isn’t what people do on Facebook today. Facebook is largely an 
+asynchronous tool – even the company’s realtime Messenger and WhatsApp tools 
+are still asynchronous in that generally people have to wait for replies. It’s 
+the same thing with the news feed where you’re seeing hundreds of photos and 
+status updates over a short period of time. That’s very different from virtual 
+reality where you will be in an environment together synchronously.”
+
+For Luckey, virtual reality is going to be about more in-depth, immersive 
+experiences, rather than the dip in/dip out dynamic of today’s Facebook. Even 
+if people start taking and sharing 360-degree film footage of their lives 
+(which is becoming increasinly possible due to a growing range of cheap 360 
+cameras), Luckey thinks they won’t be sharing the super quick snippets we tend 
+to see on social media today. “You’re not going to see someone’s VR status 
+update and process it in half a second and keep scrolling,” he says. “You’re 
+going to want to see real world captures in longer than five seconds – it’s 
+totally different.
+
+“360 degree video is going to get better and better to the point where it’s 
+capturing full depth, full light fields, full sound fields, basically getting 
+very close to actually capturing an actual event. It’s terrifying and great at 
+the same time. For journalism, it’s going to be the first time in history where 
+you’ll be able to effectively capture what actually happenined from all angles 
+without framing it, without focusing on a specific thing. Being able to capture 
+what is going in everywhere within a moment ... That’s not really existed 
+before.”
+
+And it’s not going to come to Facebook in that form? “I don’t think people 
+should think ‘how will Facebook VR become a thing’,” he says. “Virtual reality 
+will be social, but it’ll be on totally new platforms built from the ground up 
+that really push VR, not necessarily applications we have today.”
+
+One key issue Oculus has had to deal with this year is pricing. The headset 
+will cost $699 or £499, when it arrives in April, and will require a reasonably 
+powerful PC to run it at the framerates it requires to produce a seamless image 
+and smooth head tracking. That’s quite some investment for a new hardware 
+platform.
+
+Luckey agrees. “The biggest obstacle for PC virtual reality isn’t the cost of 
+the headset, it’s the cost of the PC,” he says. “If we lower the quality of our 
+hardware and sell it for $400, that’s not actually going to broaden the 
+audience that much because most people don’t have a PC capable of running VR 
+yet. We either need to get people to buy those machines, or wait for the 
+machines to catch up in power over the next few years.
+
+“The other thing to remember is for that $600 you’re getting a lot of stuff. 
+You’re getting multple LED displays, a high precision tracking system, very 
+complex lenses ... You’re getting a lot more technology than $600 spent on 
+pretty much any other device whether it’s a phone, TV or MP3 player. We’ve 
+talked about the fact that we’re not making money on the hardware, we’re trying 
+to sell this thing as affordable as we can and still provide a good VR 
+experience.
+
+“At the end of the day, we’re sold out until July – we’re exceeding all of our 
+expectations. We’ve excited enough people. We made the right decision.”
+
+Almost boyishly enthusiastic and unapologetically geeky, you wonder if some of 
+Luckey’s raw passion for this technology will be dampened as the Oculus Rift 
+becomes a commercial reality. It’s one thing to tinker with homebrew VR tech in 
+your garage, it’s quite another to support that product into a competitive 
+global marketplace. Is he still interested in virtual reality, now that it’s a 
+multimillion dollar business?
+
+“The things that inspired me five years ago are the same things that inspire 
+me today,” he says. “It’s just that now it’s more obvious that this is going to 
+take off.”
+
+• Keith Stuart attended a press event in San Francisco, with travel and 
+accommodation costs met by Microsoft
+ 

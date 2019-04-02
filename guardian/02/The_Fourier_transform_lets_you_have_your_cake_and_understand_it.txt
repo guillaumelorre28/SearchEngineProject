@@ -1,0 +1,111 @@
+
+If there's a mathematical idea that applies itself to almost everything in 
+everyday life but is almost unknown outside the scientific world, the Fourier 
+transform has to be the most unsung contender. It pops up wherever scientists 
+need to study complex things that fluctuate in the real world – sound, heat, 
+light, stock prices – and has been used to separate the signal from the noise 
+in data collected for astronomy, medicine, genetics and chemistry. It is also 
+the main equation used in the compression of digital images and sound on the 
+web.
+
+The noted physicist Lord Kelvin wasn't exaggerating when he wrote, in 1867: 
+"Fourier's theorem is not only one of the most beautiful results of modern 
+analysis, but it may be said to furnish an indispensable instrument in the 
+treatment of nearly every recondite question in modern physics."
+
+The equation was developed by the mathematician Baron Jean-Baptiste-Joseph 
+Fourier and appeared in its final form in his 1822 book,The Analytical Theory 
+of Heat. As the title suggests, Fourier was interested mainly in how heat 
+flowed around materials but his mathematical tool turned out to be more 
+fundamental than perhaps he realised.
+
+In essence, it says that any complex wave-like signal you care to measure, 
+that fluctuates over time or space, can be broken down into a sum of the 
+familiar, regular, sine waves – the type that roll across the tops of oceans or 
+vibrate along strings. Think of your complex signal as a cake. It contains 
+flour, sugar, eggs and butter but you don't taste any of these things 
+individually when you take a bite of the finished product. If the cake is the 
+waveform, the recipe is the Fourier transform, a list of ingredients and how to 
+combine them. If you want to adapt the final waveform (cake) somehow, it is 
+much easier to do it by isolating the ingredients first.
+
+Fourier's insight was to isolate the regularity contained in what looks, in 
+the real world, a tangled mess of complexity. The term F(s) is called the 
+transform and gives you the properties of the specific sine-wave component of 
+your signal at the frequency "s". Specifically, it gives the amplitude (the 
+maximum height of the wave above and below zero) and phase (how much of a 
+wave's cycle has been completed relative to a fixed point).
+
+On the right of the equation, f(x) represents how your signal fluctuates over 
+space (x is the co-ordinate of location). This is multiplied by e (a widely 
+used constant in maths, equal to 2.718) raised to the power of x multiplied by 
+s, i (the square root of -1) and pi. This gives the properties of the sine wave 
+at frequency s but, since we want the sum of all the frequencies, the 
+expression on the right is added up across all space for steadily increasing 
+values of s (the adding up is represented by the integration sign, by the 
+elongated "S" on the left and the "dx" on the right).
+
+To get a good visual of the Fourier transform, look at a graphical equaliser 
+on an old hi-fi system. The bouncing lines give you the strengths of individual 
+frequencies in the music at any point in time, as a spectrum. That spectrum is 
+the real-time (albeit crude) Fourier transform of the sound coming out of the 
+speakers.
+
+Indeed, your ear performs Fourier transforms all the time (not mathematically, 
+but you know what I mean). A sound wave is, physically, a collection of 
+pressure waves moving through the air, but it isn't the vibrations they create 
+in your eardrum that you "hear". Instead the components of the inner ear 
+perform a sort of Fourier transform to untangle the composite pressure wave, 
+teasing out each specific frequency and their associated amplitudes in order to 
+covert them into a spectrum of electrical signals which is sent to the brain. 
+Your brain interprets this changing spectrum as sound.
+
+The Fourier transform represents the same information as the original signal, 
+but in a way that makes it simpler for engineers and physicists to work with.
+
+Say you want to compress music or speech files. While vinyl records store 
+analogue sound in surface pits and grooves that mimic the waveform, an MP3 
+lists frequencies and amplitudes – the Fourier transform – present in every 
+moment in the track. This makes it easy to filter and compress the file – you 
+can delete the information about frequencies outside the range of human 
+hearing. This method is also useful if you want to clean up a recording – if 
+there is a background hum, the Fourier transform information allows you to 
+isolate and delete the main frequencies of that hum and preserve the rest.
+
+The transform can also be applied to clean up pictures which are, in essence, 
+just two-dimensional signals where colour and brightness fluctuate over space. 
+A photograph taken in dim light, for example, might have lots of noise in the 
+form of random spots of light – take the Fourier transform of the image and you 
+can filter them out. This is especially useful in cleaning up astronomical 
+images from space probes, sharpening the focus onto an area of interest.
+
+Some of the most important uses of the Fourier transform have been made in 
+understanding the precise arrangement of atoms in molecules. The science of 
+crystallography works by shining X-rays at a crystal of the substance you want 
+to examine (salt, say, or DNA or a protein). The X-rays come in from one side, 
+are scattered by the molecules within and produce a pattern of spots on the 
+other side. The intensity and position of each spot gives the amplitude and 
+frequency information for the Fourier transform of the crystal's molecular 
+structure. In essence, the scattering of X-rays by the crystal give the Fourier 
+transform of the molecule within. Working the transform backwards, scientists 
+can use the scattering pattern to infer the original 3D molecular structure. 
+This method was used to work out the structure of DNA in the 1950s and has now 
+advanced to giving us insights into the structures of complex proteins and even 
+viruses.
+
+Fourier transforms are also used to process information in medical imaging, 
+including MRI and CAT scans, and to stop buildings falling down in earthquakes. 
+When the ground shakes, a Fourier transform can show you which frequencies of 
+vibration impart the most energy to their surroundings. A building will also 
+have its own natural modes of vibration (a complex version of how a string 
+vibrates at preferred frequencies) and, if the building's natural frequency 
+matches that of an earthquake, it will shake harder and is more likely to fall 
+down. Architects and building engineers can work out their proposed design's 
+preferred vibrational frequency using computer models and, using information 
+from the Fourier transform of local earthquakes, tune the building's preferred 
+frequency so that it has the best possible chance of remaining standing, should 
+disaster strike.
+
+For more on the wonders of the Fourier transform check out Professor Stephen 
+Curry's lecture at the Royal Institution: http://bit.ly/ri-fed
+ 

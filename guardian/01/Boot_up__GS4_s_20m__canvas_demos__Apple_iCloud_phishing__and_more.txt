@@ -1,0 +1,178 @@
+
+A burst of 8 links for you to chew over, as picked by the Technology team
+
+Unofficial: Samsung GS4 unit sales hit 20 million, press release due to come 
+out soon >> Android Beat <http://www.androidbeat.com/2013/07/gs4-20million/>
+
+Stefan Constantinescu: 
+
+The Korean website iNews24 is reporting that Samsung will soon be holding a 
+press conference to announce that GS4 unit sales have surpassed 20m unit sales. 
+Considering that the device started shipping in late April, that would mean 
+it's taken roughly two months to hit this milestone. For the sake of 
+comparison, it took the GS3 100 days to hit the same figure.
+
+I predicted that Samsung would announce 20 million GS4 sales in mid-June 
+<https://twitter.com/WhatTheBit/statuses/337620133499502592>. That didn't 
+happen. Then I thought they'd announce the 20m sales figures on their event in 
+London on June 20th, but that didn't happen either.
+
+When the GS4 hit 10 million units sold, it was at a growth rate of 2x the GS3. 
+With this new figure, it's more like 1.6x, which is still impressive, but not 
+as impressive as analysts are expecting.
+
+See also The Next Web report 
+<http://thenextweb.com/mobile/2013/07/03/the-samsung-galaxy-s4-has-now-passed-20-million-shipments-according-to-reports-in-korea/>
+ on the same topic for more figures.
+
+9 Mind-Blowing Canvas Demos >> David Walsh 
+<http://davidwalsh.name/canvas-demos>
+
+The /canvas/ element has been a revelation for the visual experts among our 
+ranks.  Canvas provides the means for incredible and efficient animations with 
+the added bonus of no Flash; these developers can flash their awesome 
+JavaScript skills instead.  Here are nine unbelievable canvas demos that will 
+make your jaw drop!
+
+Unless you're using a smartphone, in which case results may vary.
+
+Falcon Pro updates to v2.0.4 outside of the Play Store, now supports a way to 
+blatantly skirt Twitter's token limit >> Android Police 
+<http://www.androidpolice.com/2013/07/03/falcon-pro-updates-to-v2-0-4-outside-of-the-play-store-now-supports-a-way-to-blatantly-skirt-twitters-token-limit/>
+
+The saga continues: 
+
+updates will now launch through the website getfalcon.pro, starting with 
+v2.0.4. Also in the post was a hint about an "experiment" that would allow 
+users who haven't acquired a valid token to still use the app with all of their 
+accounts. A short time later, instructions to unlock the new feature were 
+posted by Fernando González. As one might expect, the workaround allows users 
+to create their own API key with Twitter and insert it into Falcon Pro. If you 
+find yourself limited by the notorious token count, update your copy of the app 
+and follow these steps:
+
+...which shows that Twitter's process to let anyone be a developer might get 
+screwed too. This probably won't be viable for anyone involved - Twitter, 
+Falcon Pro, or users. Someone's going to lose out, and it's Twitter which 
+controls the API.
+
+In smartphones and tablets, multicore is not necessarily the way to go >> 
+Smartbear 
+<http://blog.smartbear.com/mobile/in-smartphones-and-tablets-multicore-is-not-necessarily-the-way-to-go/>
+
+The scalability that worked well in the PC 
+<http://blog.smartbear.com/sqc/what-intel-and-amds-latest-multicore-development-moves-mean-to-you/>
+ (mostly) and better in the server market doesn&#8217;t work so great in a 
+smartphone, because the nature of the development environment is completely 
+different animal.
+
+This was originally pointed out in a white paper 
+<http://www.stericsson.com/technologies/FD-SOI-eQuad-white-paper.pdf> (PDF) by 
+ST-Ericsson, which notes that on the PC multicore never really caught on for a 
+variety of reasons, and they apply even less on the smartphone.
+
+The reason why software developers don't parallelize their code, wrote the 
+paper's authors, is that "For most of the PC applications it is simply not 
+necessary or not economical to do so, with the exception of some niche markets 
+for which performance is a compelling differentiating feature, such as for some 
+multimedia applications, CAD and some specific professional areas."
+
+…"Two cores make sense, four is experimental, eight is loony," said Cameron 
+Laird, vice president of boutique Web consultancy Phase It and frequent author 
+on HTML5 development (including several articles here at SmartBear). He expects 
+that smartphones will eventually be able to utilize two cores.
+
+Doug Engelbart, visionary >> I, Cringely 
+<http://www.cringely.com/2013/07/03/doug-engelbart-visionary/>
+
+To most people who recognize his name Doug Engelbart was the inventor of the 
+computer mouse but he was much, much more than that. In addition to the mouse 
+and the accompanying chord keyboard, Doug invented computer time sharing, 
+network computing, graphical computing, the graphical user interface and (with 
+apologies to Ted Nelson) hypertext links. And he invented all these things — if 
+by inventing we mean envisioning how they would work and work together to 
+create the computing environments we know today — while driving to work one day 
+in 1950.
+
+Doug had a vision of modern computing back in the day when many computers were 
+still mechanical and user interfaces did not even exist. He saw in a flash not 
+only the way we do things today but also the long list of tasks that had to be 
+completed to get from there to here. Now that's vision.
+
+Links to lots of great video. (Thanks @Sputnikkers for the link.)
+
+Apple of discord >> Securelist 
+<http://www.securelist.com/en/blog/8108/Apple_of_discord>
+
+Nadezhda Demidova: 
+
+cybercriminals are aiming to steal Apple ID data which provides access to 
+users' personal information stored iniCloud 
+<https://www.theguardian.com/technology/icloud> (e.g., photographs, contacts, 
+documents, email, etc.) as well as to the purchases made in the company's 
+iTunes Store. Many malicious users go further and try to the steal bank card 
+details used to pay for those purchases.
+
+The scammers make use of phishing sites that imitate the official apple.com 
+site. Since the beginning of 2012 until the present time this has resulted in a 
+significant increase in the number of web antivirus detections triggered by 
+users of our products attempting to visit such sites. During that period we 
+have seen on average around 200,000 detections per day. By contrast, in 2011 
+the figure stood at around 1,000 detections per day.
+
+The opening of iTunes Stores in 52 countries including Russia led to a 
+colossal spike - 939,000 detections per day.
+
+Spain telecoms regulator sees more pain for operators in 2013 >> Reuters 
+<http://uk.reuters.com/article/2013/07/03/us-spain-telecoms-watchdog-idUKBRE9620PZ20130703>
+
+Mobile is set for another tough year, with Orange, Yoigo (owned by 
+TeliaSonera) and virtual operators, which rent network capacity from 
+established operators, catching up with market leaders Telefonica and Vodafone 
+who are losing clients.
+
+Mobile revenue dropped 16% in 2012 to 9.5bn euros as consumers cut spending, 
+switched to cheaper deals or ditched their mobiles altogether. Last year was 
+the first time that the number of cellphone lines in Spain shrank, dropping by 
+1.9m connections.
+
+Internet-based instant messaging services like WhatsApp, which are free after 
+a small initial payment, are proving even more of a challenge for operators 
+this year, Lorenzo said, as clients shun more expensive text messages.
+
+It's quite shocking if the number of mobile connections fell. No clue whether 
+that's people dumping a second (business?) mobile, or their primary mobile. One 
+suspects the former, but more data welcomed.
+
+Acer Iconia W3 review >> PC Pro 
+<http://www.pcpro.co.uk/reviews/tablets/382807/acer-iconia-w3>
+
+Barry Collins: 
+
+Microsoft <https://www.theguardian.com/technology/microsoft> distributed 
+thousands of Iconia W3s to developers at its recent Build conference to 
+showcase Windows 8.1's compact tablet credentials. If the Iconia W3 is the best 
+it can do, it really is time to reach for the white flag.
+
+The Iconia is a lumpen slab of cheap-feeling plastic and glass. At 500g, it's 
+significantly heavier than all of the compact tablets in this month's Lab, bar 
+the ruggedised Panasonic Toughpad JT-B1. It's larger than all of them, too, 
+thanks to a needlessly thick bezel and an extra plastic lip at the bottom, used 
+to house the Windows button.
+
+All that could have been forgiven – perhaps – if the screen was scintillating, 
+but it's far from it. The 800 x 1,280 display has that old-school, mottled 
+touchscreen effect that makes it look as if it's been sprayed with a fine mist. 
+Colours are washed out, largely because the screen doesn't span the entire SRGB 
+gamut, although the maximum brightness of 329cd/m2 is acceptable.
+
+Yours for £330 for the basic 64GB model with an 8.1in screen. (The equivalent 
+spec iPad mini is £429, 1024x768, weighing 308g. But would you need a 64GB iPad 
+as you might a Windows device?)
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/u:guardiantech>
+
+To suggest a link, either add it below or tag it with @gdntech on the free 
+Delicious <http://www.delicious.com/> service.
+ 

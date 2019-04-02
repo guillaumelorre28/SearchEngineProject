@@ -1,0 +1,96 @@
+
+HaikuJAM <http://www.haikujam.com/> is a mobile app through which three people 
+can connect to create poetic expressions together. With words and photos, folks 
+can “jam” with friends or strangers, anywhere in the world. The framework is 
+inspired by the ancient Japanese art of haiku, a very short form of poetry.
+
+
+The collaborative process involves three “jammers” and each contributes a line 
+or photograph, turn-by-turn-by-turn. Jammers can then share the created content 
+through social media and also earn “karma” points for doing good in the app 
+community. These deeds include loving jams or writing positive comments. Each 
+day our team handpicks a number of inspiring collaborations, which are then 
+featured on the app’s home screen.
+
+
+The design of HaikuJAM is often described as “zen” and “elegant” – which makes 
+sense as I practice meditation daily and I’m very much inspired by the concepts 
+of stillness and channeling energy around the body. Such ideas have definitely 
+played a role in the evolution of HaikuJAM’s aesthetic and user experience: the 
+process of consuming content on the app is very “still” and deeply immersive, 
+with beautiful full-screen photographs and crisp typography.
+
+Before officially launching the app in March 2015, our hypothesis was that 
+HaikuJAM would be a space for time-poor, creatively inclined people to engage 
+in creative activities. Since launch, however, fascinating uses have emerged: a 
+few people shared with us in confidence that they were suffering from clinical 
+depression. For them, HaikuJAM was a place for self-expression and they saw the 
+community as a support network, not just a group of content creators and 
+consumers.
+
+Some jammers have been using the app to improve their written English and 
+vocabulary, and a significant number of our working professional users, from 
+investment bankers to doctors, view the app as a tool for stress relief, 
+escapism and reflection.
+
+Each day, the average active user opens the app 15 times and spends between 30 
+and 35 minutes in the app overall. Close to 50% of our active users are also 
+creating content. This year we graduated from theOxygen Accelerator 
+<http://www.oxygenaccelerator.com/> programme at Google Campus London and 
+raised seed funding from the lead investors ofJustGiving 
+<https://home.justgiving.com/>. My co-founder, Neer Sharma, and I are currently 
+in San Francisco meeting product mentors, investors and other incredible people 
+working in technology.
+
+We’re off to a good start, but the road ahead is long and we have a lot to 
+learn. For instance, a few weeks ago, in the process of ramping up our servers, 
+we accidentally erased a portion of the database. We lost 14-days worth of 
+content created in the app. This was a disaster. Determined to make the best 
+out of an otherwise sad situation, with the support of the wonderful HaikuJAM 
+community, we recovered some of the lost jams from the period and curated afree 
+eBook 
+<https://www.dropbox.com/sh/zz4pl2txdt9i8lf/AADahU_VsApJhgn8wQkX8j4Na?dl=0>, 
+The Lost Weeks <https://medium.com/@dkarwa/the-lost-weeks-92137ce09686>. 
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fvimeo.com%2F113214410&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fvimeo.com%2F113214410>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Fvimeo.com%2F113214410&media=>
+ HaikuJAM is a free app through which three people connect and create artistic 
+expressions together. 
+Other than the typical startup struggles around things such as fundraising, 
+one of our biggest challenges is how we focus the value proposition considering 
+such various uses. Can they simply coexist without detracting from the 
+product’s core appeal? Reading Nick Bilton’sHatching Twitter 
+<http://bookshop.theguardian.com/index.php/hatching-twitter.html>, it seemed 
+that Twitter’s founders also struggled with this (albeit on a much grander 
+scale) as the social network became a proverbial wild west with curiously 
+nebulous sets of people and activities. The manner in which we leverage data, 
+coupled with our own decision-making, will ultimately determine the future of 
+HaikuJAM as a platform.
+
+This year we’re going to further contextualise the creative experience through 
+campaigns for brands, charities and around trending news events. We also want 
+to curate the app’s fantastic creative content in the form of monthly book 
+subscriptions and artistic merchandise. We also aim to introduce new mediums 
+into the app, such as sound and video.
+
+
+Our vision is deeply rooted in collaborative creativity, ie the “jam” in 
+HaikuJAM. We care deeply about connecting humans to make beauty happen.
+
+App facts
+
+Length of the project: six months development on HaikuJAM Version 2.0
+Companies involved: app studio Rosberry <http://rosberry.com/> and other 
+freelancers
+Size of the team: five developers, one user interface designer and one product 
+manager
+
+Dhrupad Karwa is co-founder and CEO of HaikuJAM <http://www.haikujam.com/>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+ 

@@ -1,0 +1,38 @@
+
+The computer software company Adobe 
+<https://www.theguardian.com/technology/adobe> has been hacked, potentially 
+compromising the data of 2.9 million customers, the company revealed on 
+Thursday.
+
+Adobe said "sophisticated attacks" had been carried out "very recently".
+
+"Our investigation currently indicates that the attackers accessed Adobe 
+customer IDs and encrypted passwords on our systems,"said Brad Arkin 
+<http://blogs.adobe.com/conversations/2013/10/important-customer-security-announcement.html>
+, chief security officer at Adobe.
+
+"We also believe the attackers removed from our systems certain information 
+relating to 2.9 million Adobe customers, including customer names, encrypted 
+credit or debit card numbers, expiration dates, and other information relating 
+to customer orders."
+
+Arkin said he did not believe the attackers had removed decrypted credit or 
+debit card numbers from its systems.
+
+"We deeply regret that this incident occurred," he said. Arkin did not specify 
+the level of encryption of the data stolen.
+
+It has reset passwords on customers' accounts and recommended that customers 
+change their passwords on any other website where they used the same code. 
+Customers whose credit and debit card information will be notified by Adobe, it 
+said, and the company has also alerted federal law enforcement.
+
+Adobe also said it would give affected customers the option of enrolling in a 
+one-year complimentary credit monitoring membership.
+
+In a separate statement posted on Wednesday, Adobe said there had also been an 
+illegal access of its source code for Adobe Acrobat, ColdFusion and other 
+software. It said it was"not aware of any specific increased risk to customers" 
+<http://blogs.adobe.com/asset/2013/10/illegal-access-to-adobe-source-code.html> 
+as a result of the breach.
+ 

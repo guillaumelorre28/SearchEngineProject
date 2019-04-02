@@ -1,0 +1,57 @@
+
+I did always wonder how Techmeme's <http://www.techmeme.com> links were 
+determined; turns out they have been automated up until now, which perhaps 
+explains an over-reliance on TechCrunch over other news sites and some 
+frequent, glaring omissions on big stories and interesting news.
+
+Founder Gabe Rivera has announced he's is taking on a human editor 
+<http://news.techmeme.com/081203/automated> to Techmeme from now on, and that's 
+on top of the algorithm that determines the most important news stories by 
+analysing which stories are being linked to the most.
+
+"Humans have always edited Techmeme of course, just implicitly," he explains. 
+"For instance, when a blogger links to a story, the headline might move higher 
+on Techmeme. What's different now is that an additional human editor will carry 
+out changes explicitly to directly improve the mix of headlines on Techmeme. 
+Though the implicit edits conveyed via algorithm outnumber the explicit edits 
+perhaps by 1000 to 1 or more, the impact of the human editor is nonetheless 
+pronounced.
+
+"What will that effect be? The news will just get faster and more interesting. 
+Obsolete stories will be eliminated sooner while breaking stories will be 
+expedited."
+
+TechCrunch founder Mike Arrington thinks a human editor might "destroy the 
+objective nature of TechMeme 
+<http://www.techcrunch.com/2008/12/03/techmeme-gives-up-on-fully-automated-news/>
+" - but I think we all know that's not true. The combination of algorithms and 
+human editing invariably produces the most useful, balanced results on news 
+sites.
+
+"The experience of introducing direct editing has been a revelation even for 
+us, despite the fact that we planned it," Rivera continued. "Interacting 
+directly with an automated news engine makes it clear that the human+algorithm 
+combo can curate news far more effectively that the individual human or 
+algorithmic parts. It really feels like the age of the news cyborg has arrived."
+
+Beet.TV has an interview with Rivera from last year where he talks a bit about 
+the service:
+
+
+• Also in link news: the New York Time <http://www.nytimes.com/>s has added a '
+Times Extra' beta that puts automatic links under key stories on its homepage. 
+You'll have to enable the 'Times Extra' view on the homepage and even then it 
+will automatically switch you back after a day. I don't know why either.
+
+Mashable <http://mashable.com/2008/12/04/nytimes-news-aggregator/> calls it 
+right: "The look is confusing; there's simply too much going on". Supplementary 
+links have to be in the right context, and I think a homepage really needs to 
+deliver the top line of the big stories before trying to deliver the next step 
+of suggesting alternative versions of that story.
+
+In the NYT Technology <http://www.nytimes.com/pages/technology/index.html#> 
+section, theBlogrunner <http://nytimes.blogrunner.com/> tools has been superb 
+at providing a snapshot of industry news but I remain unconvinced that the 
+homepage is quite the right place for this. Great that the NYT is continuing to 
+trial all these features though.
+ 

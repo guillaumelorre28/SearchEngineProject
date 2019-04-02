@@ -1,0 +1,337 @@
+
+Google has finally launched an own-brand smartphone, the Pixel, to challenge 
+Apple head on and provide a premiumAndroid 
+<https://www.theguardian.com/technology/android> experience with the hardware 
+tailored to the software by the people who actually make it..
+
+
+The new smartphone succeeds Google’s Nexus line of devices and the company 
+claims that the Pixel is now 100% Google, unlike the Nexus devices whereGoogle 
+<https://www.theguardian.com/technology/google> provided the software and had 
+some input into the devices but not total control. The Pixel phone joins the 
+Pixel C Android tablet and Chromebook Pixel as Google’s first in-house devices.
+
+But for Google, the Pixel isn’t just a smartphone, it’s a referendum on 
+whether Google 
+<https://www.theguardian.com/technology/2016/oct/05/google-pixel-phone-market-apple-iphone>
+ as a brand sells.
+
+Wedge shape
+ The Pixel is thicker at one end, but you might not notice unless someone 
+pointed it out. Photograph: Samuel Gibbs for the Guardian 
+With an all-metal body, all-glass display, rock-solid build, fingerprint 
+scanner and headphones socket, thePixel 
+<https://www.theguardian.com/technology/pixel> ticks most of the boxes expected 
+of top-end smartphone, except for a lack of waterproofing. It’s slightly 
+different looking too, with a glass panel covering the top third of the back 
+and a wedge-shape that’s thicker at the top and hides any camera lump. How 
+attractive it is as a design divides opinion.
+
+The Pixel feels great in the hand, with nicely curved edges and flat sides 
+that make it easy to grip and hold on to. It’s also not too thick, with the 
+wedge shape meaning the bit you hold is thin and has good weight distribution.
+
+At the Pixel’s base it is 7.3mm thick and it weighs 143g. In comparison to the 
+competition, namelyApple’s 7.1mm thick, 138g iPhone 7 
+<https://www.theguardian.com/technology/2016/sep/23/iphone-7-review-poor-battery-life>
+ and Samsung’s 7.9mm thick, 152g Galaxy S7, the Pixel is right in the middle. 
+It’s thinner than last year’s7.9mm thick Nexus 5X 
+<https://www.theguardian.com/technology/2015/oct/23/google-nexus-5x-review-android-60-marshmallow-smartphone-battery>
+ and but 7g heavier.
+
+The Pixel has a 5in full HD AMOLED screen on the front, which makes it one of 
+the smaller premium smartphones available, with most others having 5.1in or 
+larger screens. The display is crisp and vibrant, with deep blacks and 
+excellent viewing angles. It’s relatively easy to read in direct sunlight too, 
+making it one of the best displays fitted to a smartphone, although not quite 
+as good as Samsung’s best.
+
+Specifications
+
+ * Screen: 5in 1080p AMOLED (441ppi) 
+ * Processor: quad-core Qualcomm Snapdragon 821 
+ * RAM: 4GB of RAM 
+ * Storage: 32 or 128GB 
+ * Operating system: Android 7.1 Nougat 
+ * Camera: 12.3MP rear camera, 8MP front-facing camera 
+ * Connectivity: LTE, Wi-Fi, NFC, Bluetooth 4.2, USB-C and GPS 
+ * Dimensions: 143.8 x 69.5 x 7.3-8.6 mm 
+ * Weight: 143g 
+DayDream ready
+ Google’s Pixel still has a headphone socket, but doesn’t actually come with 
+any headphones in the box. Photograph: Samuel Gibbs for the Guardian 
+The Pixel is one of the first handsets to use Qualcomm’s new Snapdragon 821 
+processor, which is essentially a tweaked version of the 820 found in the
+OnePlus 3 
+<https://www.theguardian.com/technology/2016/jun/14/oneplus-3-review-flagship-phone-at-mid-range-price>
+ and other smartphones.
+
+Performance is not an issue. From Prisma images to graphically intensive 
+games, the Pixel chewed through everything I threw at it, which you’d expect 
+for a £600 smartphone. It’s one of the most powerful Android smartphones 
+currently available. It’s well optimised, snappy, fast and, perhaps most 
+impressively, it doesn’t get that hot when under load.
+
+Most smartphones heat up considerably when downloading a lot of data, such as 
+when setting up a phone, but the Pixel didn’t. It also ran games such as Dan 
+the Man without heating up in the slightest, where last year’sNexus 5X 
+<https://www.theguardian.com/technology/2015/oct/23/google-nexus-5x-review-android-60-marshmallow-smartphone-battery>
+ became noticeably hot.
+
+The Pixel is also the first smartphone to be certified for use with Google’s 
+newDayDream virtual reality platform 
+<https://www.theguardian.com/technology/2016/oct/04/google-launch-pixel-xl-iphone#img-4>
+. Whether that means anything in reality will depend on how successful Google’s 
+latest push for VR ends up being. It’s not yet available, so how it performs is 
+still unknown.
+
+A day between charges
+ The USB and single speaker at the bottom (the left-side hole). Photograph: 
+Samuel Gibbs for the Guardian 
+Using the Pixel as my primary device, it lasted just over 24 hours without 
+charging, managing three hours of app usage and browsing, hundreds of emails 
+and push notifications, a couple of photos, five hours of music over Bluetooth 
+headphones and the odd game ofDan the Man 
+<https://play.google.com/store/apps/details?id=com.halfbrick.dantheman> during 
+my one hour and 20-minute train commute to and from work. It means you’ll get 
+through a day and a night out, but you’ll have to charge it overnight or it’ll 
+most likely be dead before you get to work the next day.
+
+The Pixel has fast charging through USB-C’s power delivery specification, not 
+Qualcomm’s QuickCharge or any other accelerated charging system. A full charge 
+from completely flat took one hour 45 minutes, reaching 25% capacity in about 
+15 minutes, 40% in 25 minutes and 66% in about 50 minutes. It’s not the fastest 
+charging smartphone available, but it’s considerably faster than Apple’s iPhone 
+7.
+
+Android 7.1 Nougat
+ Pixel comes installed with Google’s latest launcher complete with a new-look 
+homescreen and app drawer. Photograph: Samuel Gibbs for the Guardian 
+The Pixel comes with the latest version of Android 7.1 Nougat and is the first 
+smartphone to do so. Most other smartphones are still running Android 6 
+Marshmallow, let alone version 7 or 7.1.
+
+Android 7.0 Nougat 
+<https://www.theguardian.com/technology/2016/aug/22/android-7-nougat-review-battery-life-multitasking-operation-notifications-facial-recognition-android>
+ introduced some solid battery and time-saving features, which are all present 
+on the Pixel. Google’s version of Nougat 7.1 introduces a few more new and 
+useful things including the ability to block visual alerts when do not disturb 
+is activated, such as the flashing LED notification light – handy for those 
+that charge their smartphone overnight next to their heads.
+
+The Pixel also has a new version of Google’s launcher – previously known as 
+the Google Now launcher – which shipped with Nexus devices and is available for 
+otherAndroid smartphones and tablets on the Play Store 
+<https://play.google.com/store/apps/details?id=com.google.android.launcher>. 
+The Pixel’s launcher has a new-look Google search bar and home screen weather 
+widget, neither of which can be removed limiting vertical icon space to four 
+rows, and now hides the app drawer behind a swipe up from the five-icon-wide 
+tray at the bottom of the screen.
+ Launcher shortcuts pop-up on a tap and hold, but can be dragged from the menu 
+to make a dedicated icon for the shortcut on the homescreen. Photograph: Samuel 
+Gibbs for the Guardian 
+The biggest functional change for the home screen, however, is the new 
+launcher shortcuts, which mirror Apple’s 3D touch gestures on iOS, but without 
+the need for a pressure-sensitive screen. Tapping and holding an app icon pops 
+up a list of quick actions, from phone calls to specific people to recent text 
+messages, options to jump straight to a selfie or video in the camera app, and 
+other similar functions.
+
+The launcher shortcuts can also be dragged from the main app to quick buttons 
+on the home screen, meaning a button for jumping straight to the front-facing 
+camera for a selfie can be placed anywhere on the home screen for one-tap 
+access.
+
+Most of Google’s apps support the new feature, while some third-party apps, 
+including Evernote will soon be updated to add quick actions of their own. How 
+much utility you get out of them will depend on which apps you use, but being 
+able to pin launcher actions as a separate icon to the home screen could be 
+useful for some commonly used functions.
+
+Google’s also included a collection of attractive live wallpapers that change 
+in real time while the screen is on. A collection of Google Earth shots pan 
+across a view of fields in Kent or the Pantheon in Rome, while live data 
+wallpapers display battery charge levels, the current weather conditions, or 
+the time. There’s also the option to cycle through a collection of still images 
+on a daily basis for various different topics such as cityscapes, aerial shots, 
+landscapes and other themes.
+
+Android 7.1 also now has a built-in night mode, which aims to reduce blue 
+tones from the display to limit the amount of blue light shone into the eyes 
+during the hours of darkness. Doing so is meant to help smartphone users sleep 
+by stopping the blue wavelengths of light stimulating cells in our eyes and 
+waking us up. Third-party apps have been doing similar for a while andApple 
+<https://www.theguardian.com/technology/apple> added a night mode to iOS 9.3, 
+so it’s not a new feature, but it is good to see built into Android.
+
+Google Assistant
+ Google Assistant hides under the home button, ready to answer questions and 
+perform basic functions such as setting timers. Photograph: Samuel Gibbs for 
+the Guardian 
+The most hyped feature of Google’s new version of Android Google Assistant 
+<https://www.theguardian.com/technology/2016/oct/04/google-launch-new-assistant-home>
+, formerly known as Google Now. The biggest difference is now it will talk back 
+to you and is much more focused on conversational voice interaction. You ask a 
+question, it answers but keeps listening for a follow-up command or further 
+questions about the subject.
+
+Activated by either a long press on the home button or by saying “OK, Google”, 
+Assistant can perform quick tasks such as setting timers, sending messages and 
+playing music, fire up searches and other standard virtual-assistant functions, 
+but it is also the most personal Google assistant to date. It will actively 
+learn from your preferences, either by your searches or by your explicit 
+command.
+
+For users or any other Android smartphone, Assistant is essentially a slightly 
+better Google Now with a much clearer name, but it’s also one of the most 
+capable voice assistants available and makes Apple’s Siri look a bit behind the 
+times. Google’s voice recognition is top notch, and it has access to so much 
+more data it’s more surprising when it can’t answer a fact-based question than 
+when it can.
+ Pixel, phone by Google. Photograph: Samuel Gibbs for the Guardian 
+It will apparently eventually be able to interact with third-party apps and 
+services allowing users to simply say “OK, Google, order me an Uber” or 
+similar, but they’re not available yet. You can also only directly interact 
+with Assistant via voice from the launcher, but you can type text into the 
+Google search bar or in Allo. It seemed an odd omission, as there were times 
+when I wanted to silently ask it a question using the keyboard.
+
+To get the most out of it you must give your digital life over to Google and 
+that certainly has some privacy implications – it knows where you are, what 
+you’re searching for, can read what’s on the screen and collates all that data 
+– but that isn’t a new phenomenon and is simply a progression of what Google’s 
+been doing for the last couple of years on Android. Whether that matters to you 
+depends on whether you trust Google. You do not have to use Assistant, it can 
+be turned off.
+
+The real promise of Google Assistant, however, is that no matter where you 
+interact with it, it’s the same assistant. For UK users the Pixel phone and 
+Google’s Allo app are the only two places Assistant is available for active 
+interaction, but US users will also be able to buy Google Home, an Amazon Echo 
+competitor. Home will also come to the UK next year.
+
+Google Assistant isn’t a massive step forward in the AI wars, but it’s a solid 
+start for Google in the next phase of conversational assistants. If you’re 
+expecting it to know and be able to do everything about the phone, your life 
+and other things a flesh-and-blood personal assistant might, you’ll be 
+disappointed.
+
+Fingerprint scanner
+ The fingerprint scanner on the back doubles as a pad to swipe down the 
+notification shade. Photograph: Samuel Gibbs for the Guardian 
+Last year’s Google Nexus phones had brilliant fingerprint scanners on the 
+back. The Pixel continues to use the same winning formula: it’s fast, accurate 
+and can now be used to bring down the notification shade with a swipe on the 
+pad – something other manufacturers including Huawei have been doing for a 
+while. The Pixel Imprint scanner is arguably the best in the business, but if 
+you use your phone on a desk, you can’t activate it without picking it up.
+
+Camera
+ The camera app has a few more bells and whistles, but doesn’t have the 
+extensive manual controls third-party camera apps have from Samsung, Huawei, LG 
+and others. Photograph: Samuel Gibbs for the Guardian 
+The Pixel’s 12.3-megapixel camera is cracking. Camera rating firm DxoMark 
+ranked it slightly above all other smartphone cameras and it’s clear why, as 
+it’s very difficult to take a rubbish photo with it.
+
+In good light you get crisp, well judged photos with an excellent amount of 
+fine detail. Google’s HDR+ feature is particularly good, producing some of the 
+best high dynamic range photos I’ve seen and without the image blur that can 
+creep in with other systems.
+
+Low and poor light performance is also excellent, despite the camera not 
+having optical image stabilisation, while the Google Camera app now has some 
+much needed extra features, including the ability to switch the automatic white 
+balance with the tap of a button and a golden ratio grid, which helps you frame 
+your photos. The camera struggled to correctly identify office fluorescent 
+lighting, however, leaving images with a yellow tint. Selecting the fluorescent 
+lighting option corrected it.
+
+Full manual control isn’t included – you’ll need a third-party app for that – 
+but it has most of what many will need on a day to day basis. Shooting burst 
+photos by holding down the shutter button even creates a gif out of the 
+resulting stills.
+
+The 8-megapixel selfie camera is also very good, producing images with good 
+depth and colour. Most selfie cameras are either soft and lack detail or hard 
+and capture every wrinkle and pore on the face, but the Pixel’s treads that 
+fine line with soft, flattering focus without losing too much detail.
+
+Observations
+ The back has a glass panel covering the top third of the device. Photograph: 
+Samuel Gibbs for the Guardian 
+ * The glass panel on the back aids grip by the index finger 
+ * It only has one down-firing speaker on the bottom, which is easily blocked 
+by hands when gaming 
+ * Google Photos on the Pixel comes with free, unlimited full resolution photo 
+and video backup, not just up to 16MP and 1080p video 
+ * The notification LED is not enabled by default, but is available in 
+notification settings 
+ * Gif search is built into Google’s Keyboard for apps that support it such as 
+SMS Messenger app 
+ * The calendar app now shows the correct date on the home screen 
+ * The charging meter is inaccurate: at 96% it says four minutes until done 
+but took 17 minutes to reach 100% 
+ * Wallpapers are normally things I set and forget, but I really liked the new 
+live Google Earth images 
+Price
+
+The Pixel costs £599 with 32GB of storage or £699 with 128GB of storage in 
+black or silver. It is also available in blue in the US.
+
+For comparison, Apple’s iPhone 7 costs £599 
+<https://www.theguardian.com/technology/2016/sep/23/iphone-7-review-poor-battery-life>
+ with 32GB of storage, Samsung’s Galaxy S7 costs around £500, theHuawei P9 
+costs £449 
+<https://www.theguardian.com/technology/2016/apr/18/huawei-p9-review-smartphone-leica-camera-fingerprint-scanner-emui-software>
+ and theOnePlus 3 costs £329 
+<https://www.theguardian.com/technology/2016/jun/14/oneplus-3-review-flagship-phone-at-mid-range-price>
+.
+
+Verdict
+
+The Pixel is an interesting device. A phone designed by Google, the maker of 
+Android. The software side is top notch: the smoothest, newest and best 
+optimised version of Android available at the moment and most probably into the 
+future, what with rapid updates coming straight from Google.
+
+But the phone itself is only up to par with the best of the rest and not 
+leagues ahead. The design isn’t as innovative or interesting as that produced 
+by Samsung. It’s not waterproof, either, and it doesn’t have expandable 
+storage. The camera is great, so is the screen and the build quality is 
+excellent, all things you’d expect from a £600 smartphone in 2016.
+
+If Google’s aim was to beat Apple, it has done so on battery life alone. If it 
+was to challenge the current king of Android, Samsung’s Galaxy S7 line, then 
+the result is less clear.
+
+Pros: great camera, good screen, a day’s battery life, Android 7.1 Nougat, 
+Google Assistant, great fingerprint scanner
+
+Cons: not waterproof, no expandable memory, no front-facing speakers, no 
+wireless charging, expensive
+
+A review of the larger Google Pixel XL with a 5.5in screen, the smartphone 
+competing with theiPhone 7 Plus 
+<https://www.theguardian.com/technology/2016/oct/03/iphone-7-plus-review-apple-newest-smartphone-phablet>
+ andSamsung Galaxy S7 Edge 
+<https://www.theguardian.com/technology/2016/mar/11/samsung-galaxy-s7-edge-review-android-smartphone-phablet-marshmallow>
+, will be available next week
+
+Other reviews
+
+ * OnePlus 3 review: flagship phone at mid-range price 
+<https://www.theguardian.com/technology/2016/jun/14/oneplus-3-review-flagship-phone-at-mid-range-price>
+ * Honor 8 review: Huawei’s cheaper smartphone is just short of brilliant 
+<https://www.theguardian.com/technology/2016/sep/15/huawei-honor-8-review-value-smartphone-dual-cameras-sim-microsd-card-slot-battery-life-software>
+ * HTC 10 review: up there with Samsung’s best 
+<https://www.theguardian.com/technology/2016/apr/27/htc-10-review-up-there-with-samsungs-best>
+ * Huawei P9 review: aiming for the big boys but just missing on software 
+<https://www.theguardian.com/technology/2016/apr/18/huawei-p9-review-smartphone-leica-camera-fingerprint-scanner-emui-software>
+ * LG G5 review: a power user’s friend that just misses the mark 
+<https://www.theguardian.com/technology/2016/may/11/lg-g5-review-power-users-friend-that-just-misses-mark>
+ * Google Nexus 5X review: the people’s Android phone? 
+<https://www.theguardian.com/technology/2015/oct/23/google-nexus-5x-review-android-60-marshmallow-smartphone-battery>
+ * iPhone 7 review: how good can a phone be if the battery doesn’t last even a 
+day? 
+<https://www.theguardian.com/technology/2016/sep/23/iphone-7-review-poor-battery-life> 

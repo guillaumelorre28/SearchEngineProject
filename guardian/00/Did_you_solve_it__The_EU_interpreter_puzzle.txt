@@ -1,0 +1,81 @@
+
+Earlier today I set you this puzzle: 
+<https://www.theguardian.com/science/2016/jul/04/can-you-solve-it-the-eu-interpreter-puzzle>
+
+Fran French, Geraldine German, Dudley Dutch, Spike Spanish, Polly Polish and 
+Ron Romanian are six British interpreters at the EU.
+
+They each speak two European languages, as well as English, but none speaks 
+the language indicated by their name.
+
+No two interpreters speak the same two foreign languages and each of the six 
+foreign languages is spoken by only two of them.
+
+Spike speaks Dutch and German while his cousin speaks Dutch and Polish.
+
+Fran and Dudley speak all the four languages not indicated by their names. Of 
+the two languages that Dudley is fluent in, both of their namesakes speak 
+French. No German speakers knows any Polish.
+
+Which two languages does Ron speak?
+
+The answer is French and Spanish, and here’s why:
+
+If the languages are F, G, D, S, P and R then we know:
+
+1) Spike speaks D and G
+
+2) Fran and Dudley speak G, S, P and R. 
+
+There are six possible combinations of splitting these four languages between 
+Fran and Dud:
+
+(i) Fran speaks G, P and Dud speaks S, R: IMPOSSIBLE since no German speakers 
+know Polish.
+
+(ii) Fran speaks S, R, and Dud speaks G, P: IMPOSSIBLE since no German 
+speakers know Polish.
+
+(iii) Fran speaks G, R, and Dud speaks S, P: IMPOSSIBLE since namesakes of 
+both of Dud’s languages can speak French, but we know Spike Spanish does not 
+speak French.
+
+(iv) Fran speaks P, R and Dud speaks S, G: IMPOSSIBLE since namesakes of both 
+of Dud’s languages can speak French, but we know Spike Spanish does not speak 
+French.
+
+
+(v) Fran speaks S, P and Dud speaks G, R: IMPOSSIBLE since this would mean 
+that both Geraldine and Ron speak French, which means that Spike’s cousin, the 
+only one left, is Polly, who speaks Dutch and Polish. But Ms Polish cannot 
+speak Polish because no one speaks the language indicated by their name.
+
+(vi) Fran speaks G, S and Dud speaks P, R: This would mean that both Polly and 
+Ron speak French, and therefore Spike’s cousin is Geraldine who speaks Dutch 
+and Polish. Since each language is spoken by two of the interpreters, the 
+second Romanian speaker must be Polly (since it can’t be Ron) and the second 
+Spanish speaker must be Ron. This is the unique solution: Ron speaks French and 
+Spanish.
+
+I post a puzzle here on a Monday every two weeks. 
+
+If you are reading this on the Guardian app, click where it says ‘Follow Alex 
+Bellos’ and you’ll get an alert when I publish the next puzzle.
+
+
+If you want to propose a puzzle for this column, please email me 
+<mailto:bellospuzzle@gmail.com> I’d love to hear it.
+
+I’m the author of three popular maths books including Alex’s Adventures in 
+Numberland <http://amzn.to/24xBFW0> and the maths colouring book Snowflake 
+Seashell Star 
+<http://www.amazon.co.uk/gp/product/1782117881/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1782117881&linkCode=as2&tag=alebel-21>
+.
+
+
+You can check me out on Twitter <https://twitter.com/alexbellos>, Facebook 
+<https://www.facebook.com/pages/Alex-Bellos/326738482347?ref=bookmarks>, Google+
+ <https://plus.google.com/u/0/100349853927591455618/posts>, my personal website 
+<http://www.alexbellos.com/> or my Guardian maths blog 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>.
+ 

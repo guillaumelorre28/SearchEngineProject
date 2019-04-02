@@ -1,0 +1,80 @@
+
+Blood pressure a little high? Need the lights turned off in your home? There's 
+an app for that. Or there soon could be afterApple 
+<https://www.theguardian.com/technology/apple> unveiled the latest plans for 
+its iPhone software on Monday at its developers' conference in San Francisco.
+
+Chief executive Tim Cook heralded the new software, which will gather and 
+store health-related data and also offer integrated control for "smart home" 
+devices such as remote-controlled light bulbs.
+
+It will be released in the autumn and run on iPhones and iPads, as "something 
+only Apple can do", Cook said, as he pointed to statistics which said that 130m 
+iPhone and iPad buyers in the past 12 months out of about 230m sold were new to 
+Apple's platform.
+
+The "HeallthKit" and "HomeKit" software are part of a concerted effort by the 
+Californian company to position its smartphone as the hub of peoples' digital 
+lives, much as it did more than a decade ago when it first launched its iTunes 
+software for organising music files.
+
+In a speech to thousands of software developers at the Worldwide Developers 
+conference in San Francisco's Moscone West centre, neither Cook nor Craig 
+Federighi, Apple's software chief, announced any new hardware for the health or 
+smart home categories. But Carolina Milanesi, analyst at the research firm 
+Kantar ComTech, suggested Apple was aiming to get developers to build apps for 
+both sectors before making its own move into them. "Otherwise you get the 
+Galaxy Gear effect where Samsung announced a $300 smartwatch but there weren't 
+any apps for it, so people say 'what's the use of that?'"
+
+Federighi was at pains to emphasise that the health and smart home systems 
+will not share user data without explicit permission, as it seeks to position 
+itself as an alternative to the datasharing approach used by Google, Facebook 
+and other advertising-supported companies.
+
+However the $3bn purchase of the Beats headphones and music company was not 
+mentioned in the two-hour presentation although Federighi did jokingly make a 
+call to "a new Apple employee" the Beats cofounder Dr Dre, who sent developers 
+his best wishes.
+
+Apple also showed off software called "Handoff" that will allow iPhone owners 
+to answer incoming phone calls or texts on an iPad or Mac computer.
+
+With new smartphone buyers becoming increasingly hard to find as the US and 
+European markets become "saturated", Apple is looking to attract users of 
+Google's Android to use its phones and tablets. Cook put heavy emphasis on the 
+success that the iPhone and iPad have had in China, saying that half of its 
+customers there had switched from Android.
+
+Announcing HealthKit, Federighi said that presently apps retain their data 
+inidvidually but do not interact or connect to make good use of it. "That 
+information lives in silos," he said.
+
+"You can't get a single comprehensive picture."
+
+The news follows archrival Samsung Electronics Co Ltd's announcement last week 
+of a mobile healthdata store called SAMI (Samsung Architecture Multimodal 
+Interactions).
+
+Samsung plans to market SAMI by hosting a developer challenge and setting 
+aside a $50m fund for earlystage digital health entrepreneurs.
+
+The update to the iPhone and iPad software will be released in the autumn, 
+Federighi said. Though Apple made no mention of new iPhones or iPads, those are 
+expected to be shown off just ahead of the software's release, and to ship just 
+after it.
+
+Among the expected updates are an iPhone with a larger screen to capture users 
+who might otherwise shift to the increasingly popular "phablet" models, and to 
+win back those who have moved away from the iPhone because they have preferred 
+the larger screens available on Android. Presently the iPhone 5S has a 4in 
+screen, measured diagonally, while products like the Samsung Galaxy S5 and HTC 
+One M8 have screens measuring 5in or more, and analyst data shows that such 
+larger screens are increasingly popular.
+
+Apple also showed off new OS X software for its desktop and laptop computers 
+that will automatically connect to an iPhone, so that it will show the identity 
+of a caller, and let them reply to SMSs directly from the screen. Codenamed 
+"Yosemite", it will be available as a public beta so that any Mac user can 
+apply to test it.
+ 

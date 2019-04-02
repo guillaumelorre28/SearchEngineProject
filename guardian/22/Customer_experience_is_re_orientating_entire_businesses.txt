@@ -1,0 +1,171 @@
+
+The chant ‘the customer is king’ is one of the hoariest old chestnuts of 
+business and marketing.
+
+But with so many different channels, technologies and platforms available to 
+buyers today, companies are under growing pressure to ensure this is not just 
+paid lip service, but actually built into the foundations of their operations.
+
+It’s a message that business leaders are heeding in growing numbers, with many 
+executives now finding customer satisfaction targets woven into their 
+performance KPIs and bonus structures.
+
+For instance, Telstra CEO Andy Penn recently revealed 40 percent of all 
+‘variable remuneration’ at the telco is linked to ‘customer advocacy’, while 
+Medibank boss Craig Drummond has flagged moves to factor the company’s net 
+promoter score (NPS) in the creation of short-term incentives for senior 
+executives. NPS measures how likely a customer would be to recommend your 
+company to someone else.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F18%2Fcustomer-experience-is-re-orientating-entire-businesses%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ffc93b2458c239bc1ee1c7497d9bc3eaddab6d689%2F0_0_7488_4493%2F7488.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Customer%20experience%20is%20re-orientating%20entire%20businesses&url=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F18%2Fcustomer-experience-is-re-orientating-entire-businesses%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Customer%20experience%20is%20re-orientating%20entire%20businesses&url=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F18%2Fcustomer-experience-is-re-orientating-entire-businesses%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Ffc93b2458c239bc1ee1c7497d9bc3eaddab6d689%2F0_0_7488_4493%2F7488.jpg>
+ Australia Post is moving from physical to digital postage systems to keep up 
+with customer demand. Photograph: Alamy Stock Photo 
+Then there’s fellow iconic Aussie brand, Australia Post. It’s in the process 
+of a remarkable transformation as its customer base evolves from the world of 
+envelopes and stamps to managing the delivery of virtually all of Australia’s 
+online shopping.
+
+In a further reflection of the times, it recently appointed its first CCO 
+(chief customer officer), charged with overseeing its relationship with 
+customers.
+
+Efforts to boost customer satisfaction aren’t just restricted to carrots 
+either; the NSW Department of Fair Trading recently embraced the stick 
+approach, launching a ‘complaint register’, which will publish a monthly shame 
+list of businesses in NSW receiving 10 or more complaints.
+
+The catalyst for this boom in empowering customers is the explosion of online 
+commerce.
+
+Whether they’re browsing online via a smart phone or tablet over cellular, 
+public Wifi hotspot or wondering around a physical store, today’s shoppers 
+demand instant information and attention. And they have come to expect 
+everything from 24-hour customer support, to delivery progress updates, product 
+guarantees and flexible return policies, not to mention a vast array of choices.
+
+This means that to thrive in today’s marketplace, businesses must have a 
+strategy for exploiting digital tools to create highly personalised experiences 
+for their customers.
+
+Lee Hawksley, Senior VP and GM of Salesforce Marketing Cloud JAPAC, said the 
+rise in customer expectations was the consequence of consumers pushing back 
+against being treated as though they’re just a number or a transaction.
+
+In fact, 58% of respondents to the company’s ‘2016 Empowered Shoppers Report’ 
+cited this as one of the top reasons that would drive them to switch brands.
+
+The reason most cited was security breaches (76%), followed by difficulties 
+processing sales at checkout (70%) and having inconsistent experiences each 
+time they deal with the business (60%).
+
+Vitally, Hawksley said these challenges are most evident at bricks-and-mortar 
+stores, most of which are well behind the online world in terms of fast service 
+and access to information.
+
+“The most important customer interaction happens in retailers’ stores every 
+day.” Hawksley said. “And that’s being done badly.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F18%2Fcustomer-experience-is-re-orientating-entire-businesses%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F67ac88b92f5dc1ba4655294fe8073db1c79e3772%2F0_245_4800_2880%2F4800.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Customer%20experience%20is%20re-orientating%20entire%20businesses&url=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F18%2Fcustomer-experience-is-re-orientating-entire-businesses%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Customer%20experience%20is%20re-orientating%20entire%20businesses&url=https%3A%2F%2Fwww.theguardian.com%2Fsalesforce-the-unfair-advantage%2F2016%2Foct%2F18%2Fcustomer-experience-is-re-orientating-entire-businesses%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F67ac88b92f5dc1ba4655294fe8073db1c79e3772%2F0_245_4800_2880%2F4800.jpg>
+ Shoppers now expect convenience, a great deal of choice and 24-hour customer 
+service from their shopping experience. Photograph: Alamy Stock Photo 
+AI is opening up a Pandora’s box that will trigger a revolution in computing 
+and customer service
+Lee Hawksley 
+Traditional businesses need to lift their game in terms of tracking who their 
+customers are. Remembering birthdays, tailoring special offers to past buying 
+histories, and suggesting complementary products are just the beginning.
+
+Those companies able to effectively collect and interpret customer and other 
+data will be better able to deliver consistent experiences across all channels 
+and touchpoints, something experts view as the foundations for business success 
+in the future.
+
+Sydney-based online shoe retailer Shoes of Prey exemplifies this approach.
+
+The company allows buyers to curate their own footwear designs, which meant 
+the ability to collect and interpret detailed personal data was a priority from 
+the beginning.
+
+Now the value of that personal data has been greatly amplified with the 
+opening of a number of physical stores. This means customers now have the 
+value-added benefit of being able to touch and feel products if they wish, 
+while Shoes of Prey sales staff are able to serve customers knowing exactly who 
+they are, their individual tastes and of course their buying history.
+
+And in the backend, Shoes of Prey has deployed clever digital solutions to 
+track and report on all aspects of the business, including order processing, 
+supply and scaling up and down to manage busy periods.
+
+One of the most important considerations for companies looking to create 
+better customer experiences is the so-called ‘customer journey’. With so much 
+data being generated and better technologies to interpret it, companies now 
+have the opportunity of reaching that holy grail of business: keeping customers 
+forever.
+
+Australian superannuation provider Mercer illustrates how this can be achieved 
+by having the right systems in place not only to understand customers in the 
+here and now, but over their entire lifetimes, as they and their needs change.
+
+With more than $50 billion worth of funds under management, Mercer recently 
+decided it was time to replace its old CRM systems with a data-driven approach 
+supporting better customer engagement and a higher success-rate converting new 
+business.
+
+Mercer’s consumer marketing lead, Campbell Holt, said a key focus was 
+unlocking data insights to make customers feel more valued. The impact has been 
+marked, with sales conversions jumping by up to 40%, and return on investment 
+soaring.
+
+Similarly, in the real estate business, popular online business Domain.com.au 
+is driving big changes in how people think about property, said Tony Blamey, 
+Chief Commercial Officer at Domain Group.
+
+“The process for home buyers hasn’t really changed in over 20 years as far as 
+the open-for-inspection process goes. You still see agents on the weekends with 
+clipboards and pens, stopping home buyers at the front door to gather their 
+details,” he said.
+
+In response, Domain developed an app called Homepass, allowing agents to 
+connect directly with potential clients who have visited the website and to 
+access any data they have entered that might help build better profiles and 
+tailor offerings.
+
+Homepass can also be configured to link agents and customers with digital 
+‘beacons’ fitted to ‘for sale’ and ‘for lease’ signs, collecting valuable data 
+on individuals and buyer patterns to make more accurate assessments of things 
+like market demand.
+
+How do the most valued brands in the world meet customer expectations?
+ Read more  
+<https://www.theguardian.com/salesforce-the-unfair-advantage/2016/sep/27/how-do-the-most-valued-brands-in-the-world-meet-customer-expectations>
+It’s solutions like these that are leading the way in driving big changes to 
+how people, industries, governments and even whole economies function and work 
+together.
+
+Of course, no matter how this new world pans out, it seems certain that 
+ambitious companies will continue to innovate and find new ways to cater to 
+their all-important customers. This means they can expect to enjoy vastly 
+improved experiences as technologies for collecting, interpreting and 
+integrating large data sets evolve.
+
+Already we are seeing glimpses of this brave new world with technologies such 
+as AI (artificial intelligence) evolving to complete the transition from 
+traditional systems designed first to be responsive, then reactive, and now 
+ushering a world of ‘predictive’ intelligence.
+
+“This is very much uncharted territory,” says Salesforce’s Hawksley. “AI is 
+opening up a Pandora’s box that will trigger a revolution in computing and 
+customer service.”
+
+Learn more about Customer Service Excellence: An Interview with The Customer 
+Service Institute of Australia (CSIA) CEO Anouche Newman 
+<https://ad.doubleclick.net/ddm/clk/312157676;139917654;s>
+ 

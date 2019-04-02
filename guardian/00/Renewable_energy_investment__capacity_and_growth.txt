@@ -1,0 +1,8 @@
+
+Based on clean energy data from a Pew Charitable Trusts study 
+<http://www.pewglobalwarming.org/cleanenergyeconomy/index.html> published on the
+Data Store 
+<https://www.theguardian.com/news/datablog/2010/mar/25/china-renewable-energy-pew-research>
+, theTableau Software <http://www.tableausoftware.com/> team analysed 
+investment, capacity and growth using their data visualisation tools.
+ 

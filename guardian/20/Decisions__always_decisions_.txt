@@ -1,0 +1,95 @@
+
+'Times change and we change with them.' Once upon a time a crossword editor 
+might well have written that in Latin without feeling that Guardian solvers 
+might like a translation of the aphorism 'Tempora mutantur et nos mutamur in 
+illis'. No more. Our solvers have very little tolerance these days for any 
+Latin much more recherché than 'Veni, vidi, vici' or 'Per Ardua Ad Astra'. And 
+none at all for Greek, beyond 'hoi polloi' (incidentally, the Oxford Dictionary 
+of English and theGuardian style book <https://www.theguardian.com/styleguide/> 
+both say that 'the' before hoi polloi is now entirely acceptable).
+
+But how does a crossword editor decide that once comfortable old friends must 
+be put out to grass and what new words or phrases can be accepted, even before 
+they have appeared in standard dictionaries? When I started editing these 
+puzzles towards the end of the last century TREE used to appear quite regular 
+in crosswords, standing for ACTOR and vice versa. This was, of course, a useful 
+convention for setters wanting something to produce the letters TREE in a 
+solution, for Sir Herbert Beerbohm Tree, half-sibling to Max Beerbohm (the 
+author of the novel Zuleika Dobson) and illegitimate father of a number of 
+people, including the film director Carol Reed, was perhaps the leading 
+actor-manager of the late Victorian and Edwardian era. But he did die in 1917 
+and I would guess that not a lot of people today have heard of him.
+
+So, greatly daring, so far as Guardian crosswords were concerned I ruled that 
+an actor was no longer a tree. At about the same time I also removed the hyphen 
+from 'e-mail' (those were heady days).
+
+But what about the convention that 'revolutionary' = CHE (executed 1967) or 
+'chairman' = MAO (died 1976) or 'golfer = COTTON (died 1987)? And, in sport, 
+what golfer under the age of 50 has the slightest idea what a mashie, niblick, 
+spoon or stymie is? Or, with football and its modern 4-4-2 or 4-5-1 formations, 
+who remembers where a left-winger stood (other than politically)?
+
+Against all this, you won't find that the police tactic of 'kettling', or the 
+American practice of 'extraordinary rendition', or the modern obsession with 
+'twerking' have yet made it into any printed dictionary. But my instinct is 
+that more Guardian solvers know about all three of these than know about Sir 
+Henry Cotton.
+
+The memory of Araucaria will for ever be part of the Guardian crossword world. 
+The Quiptic setter Moley has drawn my attention to a poem written by his 
+remarkable sister, Mary Holtby, who also wrote the poem about Araucaria that I 
+quoted last month. Mary is the widow of a former Dean of Chichester. John loved 
+Jane Austen, whose novels and their characters regularly appeared in his 
+puzzles as a result. This poem by his sister about Pride and Prejudice was 
+published (together with many others of hers) in a 1985 'collection of literary 
+encapsulations', compiled by the late, great E.O. Parrott, entitled How to 
+Become Ridiculously Well-Read in One Evening.
+
+'Marry well' is Bennet tenet: Bingley singly must remain
+Since classy Darcy (Lizzy-dizzy) thinks he's far too good for Jane.
+Rummy mummy, jaunty aunty, those would drag both gallants down – 
+Plus the younger siblings' dribblings over officers in town.
+See the specious Wickham trick 'em with his tales of birthright gloom,
+See how hideous Lydia's ruin looms before she gets her groom;
+Glassy Darcy saves the bacon, shaken out of former pride:
+Is he Lizzy's destined love, to shove her prejudice aside? 
+Has she clout to flout that matron, patroness of priestly coz
+(He whose ludicrous proposing Rosings rules – like all he does)?
+Darcy oughter court her daughter, destined his through two decades …
+'Mulish, foolish girl, remember Pemberly's polluted shades!'
+Dare she share his great estate, or can't Aunt Catherine be defied?
+Yes! and ere the bells ring jingly, Bingley too shall claim his bride.
+
+I continue to get complaints from those tackling (or wanting to tackle) the 
+monthly Genius puzzle, who are getting error messages such as 'puzzle not 
+available' or 'application blocked by security settings'. Last month I said 
+that the problem lay more often than not with the latest upgraded, 
+security-enhanced version(s) of the Java plug-in that you need to have on your 
+computers for the Guardian's Genius and the Observer's Azed puzzles. I 
+suggested that you should open Java via your program control panel and add 
+www.theguardian.com to the 'exceptions' list in the Java security settings box. 
+I should have said add http://www.theguardian.com, as the exception is not 
+recognised without the http:// bit.
+
+If that doesn't do the trick, please ask for further and better advice from 
+the User Help desk, not from me, for I am now well past the limits of my 
+comfort zone on this matter.
+
+The January Genius (No 128 by Boatman) produced only 11 correct entries on the 
+first day. Indeed, it is surprising that there were so many in view of the fact 
+that the 'special instructions' did not appear with the puzzle until the middle 
+of the first day (for which many apologies). In fact there were no less than 
+eight correct entries submitted before there was any indication as to how this 
+particularly difficult puzzle was supposed to work. Genius solvers are amazing. 
+Of these, Dave H was first in, followed by Tony of Demon. There were 233 
+entries in total.Congratulations to Aini Zvirgzdins from Duncan, British 
+Columbia, Canada, who is the winner of the February Genius puzzle.
+
+We hope you enjoy our crossword service. If you have any technical problems 
+with it, please emailuserhelp@theguardian.com <mailto:userhelp@theguardian.com> 
+. If you have any comments or queries about the crosswords, please email
+crossword.editor@guardianunlimited.co.uk 
+<mailto:crossword.editor@guardianunlimited.co.uk> . For Observer crosswords 
+pleasecrossword.editor@observer.co.uk <mailto:crossword.editor@observer.co.uk> .
+ 

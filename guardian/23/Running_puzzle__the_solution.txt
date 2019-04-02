@@ -1,0 +1,61 @@
+
+Running puzzle: marathon mathematics
+ Read more  
+<https://www.theguardian.com/lifeandstyle/the-running-blog/2016/nov/14/running-puzzle-marathon-mathematics>
+This is a fantastically counter-intuitive puzzle because it seems impossible 
+for Daphne, who runs every mile in 8 minutes and one second, to beat Constance, 
+who runs every mile in 8 minutes flat.
+
+But, of course, she can – otherwise there would be no puzzle. The runner who 
+is slower over every mile can surprisingly devise a way to be faster over 26.2 
+miles.
+
+Let’s first think about how Daphne runs the race. She does not run at a 
+constant speed, but even so she covers every mile interval in the same time. 
+How does she do this?
+
+Look at the graph below, which tracks a runner’s speed over the distance of 
+the course. It shows a racing strategy of running the first a of each mile at a 
+high constant speed, and the remaining section of the mile at a low constant 
+speed. If this strategy is repeated every mile all the way through the race, 
+the runner is not running at a constant speed overall, but every mile interval 
+will be run in the same time. This is because whichever mile you take, a of 
+that mile is run at high speed and the remainder of the mile at low speed.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2Fthe-running-blog%2F2016%2Fnov%2F15%2Frunning-puzzle-the-solution%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F5c41ef2b365ccf02b131fd6784dd48b076875633%2F0_0_1298_687%2F1298.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Running%20puzzle%3A%20the%20solution&url=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2Fthe-running-blog%2F2016%2Fnov%2F15%2Frunning-puzzle-the-solution%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Running%20puzzle%3A%20the%20solution&url=https%3A%2F%2Fwww.theguardian.com%2Flifeandstyle%2Fthe-running-blog%2F2016%2Fnov%2F15%2Frunning-puzzle-the-solution%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F5c41ef2b365ccf02b131fd6784dd48b076875633%2F0_0_1298_687%2F1298.png>
+ Graph for Alex Bellos running puzzle 
+If Daphne runs a marathon using this strategy, then let’s adapt it to best 
+suit her needs. The marathon is 26.2 miles. We know – since she loses a second 
+every full mile to Constance – that she will be 26 seconds behind at the 
+26-mile mark. So Daphne needs to make up 26 seconds on the remaining 0.2 miles.
+
+Let Daphne’s strategy be to run her high speed for the first 0.2 of each mile 
+and her low speed for the rest. We now need to switch to talking about time 
+rather than distance. Let Daphne run the first 0.2 miles in x seconds, and the 
+remaining 0.8 miles in y seconds. She runs every mile in x + y seconds.
+
+The question states that Daphne runs every mile in 8 minutes 1 second, which 
+is 481 seconds. This gives us the equation:
+
+[1] x + y = 481 
+
+Constance runs every mile in 8 minutes, so she runs the entire marathon in 
+26.2 × 8 × 60 seconds, which is 12,576 seconds.
+
+Let’s now assume that Daphne wins the marathon by a single second, completing 
+it in 12,575 seconds. Since she runs the first 0.2 miles of her mile cycle 27 
+times, and the 0.8 mile section only 26 times, we get the following equation:
+
+[2] 27x + 26y = 12,575 
+
+We can solve these simultaneous equations without too much trouble. From [1] y 
+= 481 – x. Substitute this value of y in [2]. The numbers thankfully cancel out 
+nicely to leave x = 69 seconds and y = 412 seconds. So, if Daphne sprints the 
+first 0.2 of each mile in 69 seconds, and takes 412 seconds for the rest of the 
+mile, she will lose every single mile versus mile comparison, but pip Constance 
+to the final post by a second.
+ 

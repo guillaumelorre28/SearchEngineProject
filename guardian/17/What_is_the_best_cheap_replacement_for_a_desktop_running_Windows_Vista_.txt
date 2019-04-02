@@ -1,0 +1,172 @@
+
+I have a 10-year-old Acer Aspire T660 
+<http://acersupport.com/acerpanam/desktop/0000/Acer/AspireT660/AspireT660sp2.shtml>
+ desktop with 640MB of memory and Windows Vista Premium installed. The whole 
+system is getting slower and slower, including the instruction to print 
+documents and/or photos to my HP printer/copier/scanner.
+
+I use the PC for email, online banking, word processing and spreadsheets 
+(Microsoft Office), Skype and some games. Broadband here to the house is poor.
+
+Should I get another desktop PC or a laptop? How much do I need to pay for a 
+faster replacement which gives me the facilities I have now?
+
+I am retired (I’m 78) so I probably have a limited number of years ahead to 
+enjoy a good replacement.John
+
+You must have an enormous amount of patience to run Windows 
+<https://www.theguardian.com/technology/windows> Vista in 640MB or even 2GB of 
+memory, and your best investment would have been to add as much memory as your 
+PC could handle – in this case, 4GB. Sadly, it’s too late for that: it’s not 
+worth spending money on a machine that is at the end of its useful life. On the 
+plus side, almost anything will be a huge improvement.
+
+Desktop or laptop?
+
+You already have a desktop PC so you have the space, and you might be able to 
+reuse your existing keyboard, mouse and screen.
+
+Desktops have more space inside for cooling so they can run hotter, faster, 
+cheaper processors than laptops. They are also much easier to upgrade and to 
+repair. As a result, desktop PCs last up to twice as long as laptops – in my 
+recent experience, eight to 10 years rather than four or five years – so they 
+are much better value.
+
+Desktop PCs also have better ergonomics – you can use them without hunching 
+over – and usually have better keyboards and bigger screens. All of those are 
+particularly beneficial to older users like us.
+
+Different types of desktop
+
+There are many different types of desktop PC. The traditional tower system is 
+the most flexible, but there are dozens of smaller towers, including slimline 
+and small form factor (SFF) versions.
+
+There are also lots of mini-and micro-desktops that are not very expandable, 
+and may use the same chips you would find in a laptop. They have their uses, 
+but they sacrifice functionality for what they save in space.
+
+Then there are all-in-one PCs 
+<https://www.theguardian.com/technology/askjack/2016/oct/20/which-all-in-one-pc-should-i-buy-for-home-use>
+, where the computer electronics are behind the screen. With these, again, you 
+may lose the chance to do easy upgrades and repairs. Also, if either the PC or 
+the screen fails, you lose the whole machine.
+
+Specification
+
+Today’s standard mid-range desktops have 8GB of memory, a 1TB hard drive, a 
+DVD/RW optical drive and MicrosoftWindows 10 
+<https://www.theguardian.com/technology/windows-10>. Many also have built-in 
+card readers and Wi-Fi, though you’ll get much better performance with the 
+Ethernet cable you’re using with your Acer.
+
+All mid-range desktops should therefore cost pretty much the same. The biggest 
+variation comes from the price of the processor.
+
+Intel has two main designs: Atom and Core. The Core chips are the fastest, and 
+usually, the higher the code number, the better – and the costlier. The Atom 
+chips are variously branded Atom, Celeron and Pentium. The Pentium versions are 
+generally, but not always, better.
+
+Other things being equal, go for the fastest CPU, because it will last longer. 
+You can compare speeds by using Notebookcheck’sComparison of Mobile Processors 
+(CPU Benchmarks) 
+<http://www.notebookcheck.net/Mobile-Processors-Benchmark-List.2436.0.html>. 
+You don’t need to bother with the numbers: the higher up the table, the better. 
+Anything in the top 200 is good. (My own 2011-vintage desktop is still in the 
+top 100.) I’d have doubts about anything that didn’t make the top 500, with the 
+quad-core Pentium N3700 (519th) or J3710 being as low as I’d go.
+
+Possible desktops
+
+My current cheap recommendation is the Lenovo Ideacentre 510S 
+<http://shop.lenovo.com/gb/en/desktops/ideacentre/510s/>. This is a traditional 
+tower available in a vast range of specifications, with plenty of useful ports 
+on the front. John Lewis has a version with an Intel Core i3-6100 processor, 
+8GB of memory, 1TB hard drive and DVD/RW for£299.95 
+<http://www.johnlewis.com/lenovo-ideacentre-510s-tower-pc-intel-core-i3-8gb-1tb-black/p2877309>
+.
+
+The 3.7GHz Intel Core i3-6100 is remarkably quick for an i3 chip, and can be 
+almost as fast as a Core i5-6200U. (Of course, it runs much hotter, but that 
+doesn’t matter in a desktop.)
+
+PC World has the same Ideacentre 510S with 4GB of memory instead of 8GB for 
+£259.99 
+<http://www.pcworld.co.uk/gbuk/computing/desktop-pcs/desktop-pcs/lenovo-ideacentre-510s-desktop-pc-10146051-pdt.html>
+. This has a much cheaper Celeron G3900 processor, which isslower than the Core 
+i3-6100 
+<http://www.cpu-world.com/Compare/269/Intel_Celeron_Dual-Core_G3900_vs_Intel_Core_i3_i3-6100.html>
+ but still a good performer. Even if it had the same CPU, you’d be giving up 
+£50-worth of memory to save £40.
+
+HP’s Slimline 411 
+<http://store.hp.com/UKStore/Merch/Product.aspx?id=T1J34EA&opt=ABU&sel=DTP> 
+range of desktops offers cheaper but much less powerful options. For example, 
+you could get one with a Pentium N3700, 4GB of memory, 1TB hard drive and 
+DVD/RW for£229.95 
+<http://www.johnlewis.com/hp-slimline-411-a020na-desktop-pc-intel-pentium-4gb-ram-1tb/p2509179>
+ from John Lewis, or with 8GB for£299.99 
+<http://www.argos.co.uk/product/5481710> from Argos.
+
+If you buy direct from HP, you can add 3 years of “pickup and return” service 
+for only £29, which is a bargain.
+
+But the Pentium N3700 and (almost identical) J3710 really belong in cheap 
+netbooks and Chromebooks, not in desktops. There are plenty of smartphones with 
+faster processors than the Celeron N3050.
+
+You can certainly get fantastic value for money if you spend £180 to £230 on a 
+desktop, but you can get much better performance for £299.99.
+
+Screen
+
+As mentioned, you could use your existing monitor with your new desktop PC. 
+However, I would strongly recommend buying a new one: screens have improved a 
+lot in the past decade. Look for something in the 22-24in range with a 
+resolution of 1920 x 1080 pixels, which is Full HD.
+
+The 21.5in AOC e2270Swhn 
+<http://www.pcworld.co.uk/gbuk/computing/pc-monitors/pc-monitors/aoc-e2270swhn-full-hd-21-5-led-monitor-10141924-pdt.html>
+ would be a good choice if you want something cheap – it’s £79.99 at PC World – 
+or try Amazon UK’s best seller, theBenQ GL2250HM 
+<https://www.amazon.co.uk/BenQ-GL2250HM-Widescreen-Multimedia-Speakers/dp/B00B7ZE0G2/>
+, at £89.99 (21.5in) or £119.99 (24in).
+
+Even better, you could get a 22in Samsung S22F350 for £89.95 at John Lewis 
+<http://www.johnlewis.com/samsung-s22f350fhu-full-hd-led-monitor-22-/p3043718> 
+or£99.99 at Argos <http://www.argos.co.uk/product/5318931>. Alternatively, go 
+for the 24in Samsung S24F350 for£116.95 at John Lewis 
+<http://www.johnlewis.com/samsung-s24f350fhu-full-hd-led-monitor-24-/p3044058>, 
+or the S24F356 for£129.99 at PC World 
+<http://www.pcworld.co.uk/gbuk/computing/pc-monitors/pc-monitors/samsung-s24f356-full-hd-24-led-monitor-10146160-pdt.html>
+. (You won’t be surprised to hear that John Lewis is currently out of stock of 
+both Samsungs.)
+
+Software 
+
+If you have software on DVD, such as Microsoft Office, you can install it on 
+your new PC. It’s a good idea to uninstall it from your old PC first. Windows 
+10 PCs also tend to come with a trial version of the current Microsoft Office, 
+so uninstall that before you install your old copy.
+
+You can also uninstall whichever anti-virus product comes pre-installed on 
+your new PC. Windows 10’s built-in Defender is good enough for most people, as 
+long as you don’t turn off the SmartScreen filter or the cloud integration. Of 
+course, you can always install a free alternative such as Avast, Avira, 
+BitDefender, Sophos or a similar product.
+
+The major worry is your HP printer/copier/scanner. Windows 10 will install 
+basic drivers that should work, but you will probably need todownload a 
+model-specific driver from HP’s website 
+<http://support.hp.com/gb-en/document/c04658195>. If HP doesn’t provide a “full 
+feature” driver, you will probably lose some scanning features, and possibly 
+copy/fax features as well.
+
+If so, Hamrick’s VueScan <https://www.hamrick.com/> is a third-party solution 
+that works with a lot of old scanners. It’s not free, but there’s a free trial 
+version.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

@@ -1,0 +1,114 @@
+
+While new revelations about Russian hacking during the US election continue to 
+make headlines, they were by no means the only big cyber-attacks of the last 
+year. In fact, there were so many that you could dub 2016 as “the year of the 
+hack”.
+
+A hallmark of 2016 cyber-attacks has been just how public they have become. On 
+21 October, an attack oninternet infrastructure provider Dyn 
+<https://viewer.gutools.co.uk/technology/2016/oct/22/cyber-attack-hackers-weaponised-everyday-devices-with-malware-to-mount-assault>
+ with a distributed denial of service (DDoS) attack took down access to 
+Netflix, Facebook, Twitter plus the Guardian, CNN, the New York Times, the Wall 
+Street Journal and others.
+
+In addition to the high-profile nature of the hack, it was noteworthy because 
+of its cause: exploitation of internet-connected everyday devices such as 
+webcams and digital recorders.
+
+White House says FBI is investigating hack of 1bn Yahoo user accounts
+ Read more  
+<https://www.theguardian.com/technology/2016/dec/15/fbi-investigation-yahoo-hack-one-billion>
+Last month, the bank operated by UK supermarket chain Tesco was hit 
+<https://viewer.gutools.co.uk/business/2016/nov/08/tesco-bank-cyber-thieves-25m>
+, resulting in £2.5m being stolen from the accounts of some 9,000 customers.
+
+And then there was the massive Yahoo hack. It technically took place in 20013, 
+but therevelation 
+<https://viewer.gutools.co.uk/technology/2016/dec/14/yahoo-hack-security-of-one-billion-accounts-breached>
+ came this month that data from more than 1bn user accounts was compromised, 
+with some dubbing it the largest such hack in history. This news followed a 
+September revelation of a 2014 incident that allowed hackers to steal the 
+personal data associated with at least 500m Yahoo accounts.
+
+Russia was not the only country involved in a hacking controversy in 2016. For 
+the first four months of the year, Apple was in a well-publicized tussle with 
+the FBI over whether the company would help hack into the iPhone of San 
+Bernardino gunman Syed Farook.
+
+“2016 was most notable for the evolution of nation state attacks,” said 
+Richard Stiennon, author of There Will Be Cyberwar. “Cyber espionage has been 
+an important tool for hackers and intelligence agencies since at least 2004 and 
+Titan Rain. But releasing the emails from the Democratic National Committee and 
+John Podesta was new and scary.”
+
+He also suggested that the lessons for 2017 could begin with looking at who is 
+doing the attacking and then at how much work organizations will have to do in 
+improving data protection.
+
+Releasing the emails from the Democratic National Committee and John Podesta 
+was new and scary
+Richard Stiennon, cyberwar expert 
+Stiennon said the level of data protection an organization needs to prevent 
+similar breaches and embarrassing “doxing” (wherein stolen documents are 
+released to the public) is daunting to contemplate, but necessary.
+
+Craig Fagan, policy director at the World Wide Web Foundation, agrees. “Every 
+citizen has the right to know that their personal data is being stored securely 
+and privately online,” he said. “Yet the scale and breadth of the hacks we’ve 
+seen in 2016 show that governments and companies must do more to safeguard 
+these essential digital rights. 2017 must be the year to change this.”
+
+It also looks like the growing scale of attacks will affect how they tackle 
+the threat of hacking in 2017. In the September announcement of its 2016Internet
+ <https://www.theguardian.com/technology/internet> Organised Crime Threat 
+Assessment (IOCTA), the European Police Office (Europol) highlighted the 
+growing range of cyber threats.
+
+Obama says he warned Russia to 'cut it out' over election hacking
+ Read more  
+<https://www.theguardian.com/us-news/2016/dec/16/barack-obama-final-press-conference-election-hacking>
+The past year “has seen the further evolution of established cybercrime 
+trends”, according to Steven Wilson, head of Europol’s European Cybercrime 
+Centre. “The threat from ransomware has continued to grow and has now expanded 
+into sectors such as healthcare. Europol has also seen the development of 
+malware targeting the ATM network, impacting cash services worldwide.”
+
+Rob Guidry, CEO of social media analytics company Sc2 and a former special 
+adviser to US central command, suggested that money was still a big motive 
+behind many attacks and played a major role in Russian hacking.
+
+“Russian hackers, specifically, tend to be motivated by the value of the data 
+that they take. They have also been known to [for compensation] back Russian 
+national strategic pursuits with DDoS and other means, to drive a political 
+aim,” he said. “The Russian government has had a cozy relationship with 
+professional private hackers for years, and it has been highly useful to them.”
+
+In addition to being active players in the encouragement of hacking, some 
+governments, the World Wide Web Foundation’s Craig Fagan also warns, are 
+“unravelling the security of the internet for everyone” through new legislation.
+
+“For instance, the UK’s new Investigatory Powers Act 
+<https://www.theguardian.com/world/2016/nov/19/extreme-surveillance-becomes-uk-law-with-barely-a-whimper>
+ forces ISPs [internet service providers] to store everyone’s browsing history 
+for 12 months, creating an ideal target for scammers and blackmailers,” he 
+said. “The act is likely to embolden other countries to follow the UK’s bad 
+example, with grave consequences for all of our privacy.”
+
+The tech winners and losers of 2016 (hint: Facebook – and Facebook)
+ Read more  
+<https://www.theguardian.com/technology/2016/dec/20/2016-tech-winners-losers-facebook-peter-thiel>
+Andrew Crocker, an attorney on the Electronic Frontier Foundation’s civil 
+liberties team, echoed this sentiment and warned against fear of cyber-attacks 
+and hacking being used by lawmakers to pass sweeping anti-hacking legislation 
+that could have unintended consequences. “The prevalence of these data breaches,
+botnets <https://en.wikipedia.org/wiki/Botnet>, and other attacks highlight the 
+importance of data security best practices and the need to reject government 
+proposals to weaken security, such as mandating encryption backdoors,” he said.
+
+Sc2’s Rob Guidry suggests that by the time we get to the end of 2017, we may 
+look back on the major hacks of 2016 as being not so bad.
+
+“It’s going to get worse before it gets better,” he says. “Hacking is going to 
+become a price that people pay for doing business over the internet much in the 
+same way that piracy was once a cost of doing business through shipping.”
+ 

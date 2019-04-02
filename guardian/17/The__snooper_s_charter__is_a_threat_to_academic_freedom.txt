@@ -1,0 +1,124 @@
+
+The UK Investigatory Powers Bill 
+<https://www.theguardian.com/world/2016/nov/29/snoopers-charter-bill-becomes-law-extending-uk-state-surveillance>
+ has passed into law. This bill legalises a variety of tools for intercepting 
+and hacking by security services and was waved through without complaint by 
+both houses. Academics should be concerned – and engage in some serious 
+discussion about the (mis-)use of technological advances.
+
+'Snooper's charter' bill becomes law, extending UK state surveillance
+ Read more  
+<https://www.theguardian.com/world/2016/nov/29/snoopers-charter-bill-becomes-law-extending-uk-state-surveillance>
+Digital surveillance poses a real threat to academic freedom. Not only is our 
+engagement with research participants no longer guaranteed to be secure, but 
+the internet we access is increasingly censored. This impacts researchers 
+engaging with vulnerable subjects, whether they’re former prisoners or animal 
+rights activists. Our communication and data could be used against them.
+
+The bill is just one way in which the digital environment is changing for 
+academics. Blocking and filtering of content on university networks has become 
+standard and embedded in internet-specific measures such as those set out in the
+ Prevent strategy 
+<https://qmail.qub.ac.uk/owa/redir.aspx?C=WCYSMGwHZOeLHqmC53b38WB7hFAeaqUUZBf9ZjTdKkMtdHoV3xnUCA..&URL=https%3a%2f%2fviewer.gutools.co.uk%2fuk-news%2fprevent-strategy>
+. This particularly affects security and terrorism scholars, whose research can 
+be restricted or flagged up as suspicious. There is also a growing worry among 
+ethic committees – made worse by theBoston College tape lawsuit 
+<https://qmail.qub.ac.uk/owa/redir.aspx?C=BkRAAvOm5Mczy1UJKE-o3gNUDM581CT5QJmyLaCDcDstdHoV3xnUCA..&URL=https%3a%2f%2fviewer.gutools.co.uk%2fuk-news%2f2016%2fapr%2f25%2fboston-college-ordered-by-us-court-to-hand-over-ira-tapes>
+ – about whether to allow studies that touch the edges of the law. Alongside 
+these changes, profiling technologies for monitoring students’ behaviour and 
+performance are now flourishing.
+
+As someone working on the sensitive research topic of hacking 
+<https://www.youtube.com/watch?v=t1j8UZzl6M8> and politically motivated hacking 
+– so-calledhacktivism <http://nms.sagepub.com/content/18/8/1599> – these issues 
+matter to me. Both phenomena are relevant to discussions on technical security, 
+which has made me think more carefully about the safeguarding of my research 
+data, and also our understanding of what constitutes security and insecurity 
+online.
+
+‘Nothing to hide’
+
+My frustration about the rapid deterioration of privacy and unimpaired 
+academic inquiry has been fed by the lack of critical engagement from fellow 
+staff and students.
+
+The most fundamental question of digital security remains absent ​in ​from our 
+lecture halls and daily practices
+
+“I have nothing to hide” is a common response when I raise the topic with 
+colleagues. And while I genuinely admire the certainty with which people 
+believe themselves to be inculpable, I do think that academics underestimate 
+the importance of thinking about these questions – if not for themselves, then 
+at least for their participants.
+
+Let’s reflect: we are teaching students about research ethics and methods. We 
+require researchers to protect participants’ privacy and confidentiality. We 
+have to pass institutional review boards, comply with good practice standards, 
+and appoint data protection officers. Yet, in my experience, the most 
+fundamental question of digital security remains absent from our lecture halls 
+and daily practices.
+
+I have seen research projects on vulnerable subjects pass ethics boards 
+because someone claimed that they would lock transcripts or store them on 
+password-protected computers. I have seen researchers going to conflict regions 
+without proper clarity on how to save and transport their digital data. I have 
+been to lectures that advise on moral dilemmas and methodological approaches 
+but fail to outline how to effectively safeguard information. None of this 
+protects researchers and participants if devices are stolen or forcefully taken 
+from them.
+
+
+While I acknowledge that these concerns might not affect and apply to all 
+researchers equally, there is a risk of academics collecting data with potential
+unintended consequences 
+<https://www.timeshighereducation.com/features/place-hacker-bradley-garrett-research-at-the-edge-of-the-law/2013717.article>
+ such as the confiscation of research material and its use in court cases.
+
+Everyone’s talking about the Tef, but no one is listening to students
+ Read more  
+<https://www.theguardian.com/higher-education-network/2016/nov/25/everyones-talking-about-the-tef-but-no-one-is-listening-to-students>
+A changing landscape
+
+Raising awareness of the need for digital security is one way to tackle the 
+challenges of surveillance and censorship. The use of encryption and other 
+tools such asThe Onion Router <https://www.torproject.org/> or virtual private 
+networks 
+<https://www.theguardian.com/technology/askjack/2016/nov/24/how-can-i-protect-myself-from-government-snoopers>
+ is key. Although their usage requires some basic technical familiarity, they 
+make communication with vulnerable participants more secure and can protect 
+data from unauthorised access or interference.
+
+It is also important to keep up to date with the changing landscape of these 
+tools through, for example, theCryptoParty <https://www.cryptoparty.in/> 
+movement, which runs autonomous global meetings introducing the public to 
+cryptographic techniques. These meetings can be attended free of charge and 
+without any prior knowledge or skills.
+
+Academics <https://www.theguardian.com/higher-education-network/academics> 
+must be more critical in the application of digital technologies; academia 
+needs a public debate about the level of protection that scholars and 
+participants can expect. We need to be outspoken about the increase of 
+surveillance and censorship practices. Scientific advancement relies on 
+scholars’ ability to conduct unobstructed inquiry.
+
+Most importantly, institutions need to prepare staff and students for these 
+challenges, and give them not only an ethical and methodological toolkit but 
+also the ability to anticipate the effects of information being restricted, 
+participants exposed, or intellectual property being stolen.
+
+The UK Investigatory Powers Bill could be a wake-up call for the academic 
+community. Hopefully we will respond.
+
+Leonie Tanczer is one of the authors of Censorship and Surveillance in the 
+Digital Age: The Technological Challenges for Academics 
+<http://jogss.oxfordjournals.org/content/jogss/1/4/346.full.pdf>
+
+Join the higher education network 
+<https://register.theguardian.com/higher-education/> for more comment, analysis 
+and job opportunities, direct to your inbox. Follow us on Twitter@gdnhighered 
+<https://twitter.com/GdnHigherEd>. And if you have an idea for a story, please 
+read ourguidelines 
+<https://www.theguardian.com/higher-education-network/2015/oct/16/share-your-ideas-how-to-write-for-the-higher-education-network>
+ and email your pitch to us athighereducationnetwork@theguardian.com 
+<mailto:highereducationnetwork@theguardian.com>
+ 

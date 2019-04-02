@@ -1,0 +1,123 @@
+
+Until as late as 2013 a joint (or comorbid) diagnosis of autism 
+<https://www.theguardian.com/society/autism> and attention deficit 
+hyperactivity disorder 
+<https://www.theguardian.com/society/attention-deficit-hyperactivity-disorder> 
+(ADHD) was not permitted by the most influential psychiatric handbook, the
+Diagnostic and Statistical Manual of Mental Disorders 
+<https://en.wikipedia.org/w/index.php?title=Diagnostic_and_Statistical_Manual_of_Mental_Disorders&oldid=746829844>
+ (DSM). The DSM is an essential tool in psychiatry as it allows clinicians and 
+researchers to use a standard framework for classifying mental disorders. 
+Health insurance companies and drug regulation agencies also use the DSM, so 
+its definition of what does or doesn’t constitute a particular disorder can 
+have far-reaching consequences.
+
+ One of the reasons for the prohibition of a comorbid diagnosis of autism and 
+ADHD was that the severity of autism placed it above ADHD in the diagnostic 
+hierarchy, so the inattention that is normally present in autism did not seem 
+to merit an additional diagnosis. Nevertheless, that was an odd state of 
+affairs, as any clinician working in the field would be able to quote studies 
+that point to anything from30% to 80% of patients with autism also having ADHD 
+<https://www.ncbi.nlm.nih.gov/pubmed/20585847>. More problematic still is the 
+fact that patients with both sets of symptoms mayrespond poorly to standard 
+ADHD treatments or have increased side effects 
+<https://www.ncbi.nlm.nih.gov/pubmed/18416666>. 
+
+ The fifth edition of the DSM opened the way for a more detailed look at this 
+overlap, and just a year after the new guidelines were adopted, a consortium 
+(which I am a part of) at the Radboud University in Nijmegen (Netherlands) 
+calledNeuroIMAGE <http://www.neuroimage.nl/> published a paper 
+<https://www.ncbi.nlm.nih.gov/pubmed/24979066> which showed that autistic 
+traits in ADHD participants could be predicted by complex interactions between 
+grey and white matter volumes in the brain.
+ Structures of the brains of participants in the NeuroIMAGE study. The caudate 
+nucleus, which was found to be able to predict levels of autistic traits in 
+ADHD participants, is shown in red. Photograph: Laurence O'Dwyer et al 
+A more general finding from that work was that autistic traits were 
+significantly raised in ADHD participants, a curious result given that a 
+diagnosis of clinical autism was an exclusion criterion for participation in 
+the study. Raised levels of autistic traits in ADHD participants in the 
+NeuroIMAGE study reflect the fact that autism is a spectrum disorder 
+distributed throughout the entire population. Interestingly,research from last 
+year <https://www.ncbi.nlm.nih.gov/pubmed/26488477> shows that autistic traits 
+are also much higher among scientists compared to the general population.
+
+ A paper (which I co-authored) published at the begining of this month in the 
+journal Plos One 
+<http://journals.plos.org/plosone/article/related?id=10.1371/journal.pone.0165620>
+, looking at MRI scans from over 500 participants in the NeuroIMAGE project has 
+moved on to examine in detail the brain structures involved in the overlap of 
+ADHD and autism. One structure in particular, called the caudate nucleus, was 
+able to predict the level of autistic traits in ADHD, but similar to the 
+earlier paper, a complex interaction was shown to be at work with another 
+structure, the globus pallidus, also influencing results. Both of these 
+structures are located in a part of the forebrain called the striatum that 
+operates as a monitoring system for rewards, with the caudate guiding the 
+selection of goals and the globus pallidus updating the reward value depending 
+on the outcome of an action. With this kind of monitoring, the striatum plays a 
+key role in planning, decision-making and motivation.
+
+The results showed that autistic traits were highest when there was a coupling 
+of higher caudate volume with lower globus pallidus volume. The statistical 
+tools (called mixed-effects models) used in the paper were devised and 
+optimised by a zoologist who hasused similar models  
+<https://www.ncbi.nlm.nih.gov/pubmed/21931786>to study the transfer of 
+information in flotillas of vultures as they optimise their search space while 
+scavenging for food .
+
+ The latest findings add to a growing body of evidence that suggests that 
+problems in the reward circuits of the striatum may lead to diminished 
+motivation to attend to social stimuli, such as a smile or a frown or a voice. 
+Anearlier study in autistic children 
+<https://www.ncbi.nlm.nih.gov/pubmed/23776244> found a striking pattern of 
+under-connectivity between voice-selective areas of the temporal lobe and nodes 
+of the reward pathway suggesting that autistic children may not find voices 
+inherently interesting. The first account of autism in the modern era, 
+published by Leo Kanner in 1943, noted that one patient “did not register any 
+change of expression when spoken to”.Kanner’s seminal paper 
+<https://simonsfoundation.s3.amazonaws.com/share/071207-leo-kanner-autistic-affective-contact.pdf>
+ contains many poignant descriptions of “social-blindness”, such as the case 
+history of Elaine C, a seven-year-old girl, who did not look at a face when 
+spoken to, was rarely communicative, never played with children but instead 
+moved among them “like a strange being, as one moves between the pieces of 
+furniture in a room.”
+
+ A consistent thread in autism research has been the inconsistency of results. 
+Some groups have shown a larger caudate in autism while others have shown the 
+opposite. Small sample sizes are partly to blame, but another problem is that 
+levels of ADHD in autism are often ignored. This is a serious oversight, as the 
+degree of ADHD present in autism can have a large impact on the results. The 
+latest publication in Plos One goes some way to addressing these problems by 
+drawing on a sample size of over 500 participants and more importantly by 
+looking at the subtle hinterland between the two disorders rather than 
+separating them into binary units.
+
+ There are many debates about the usefulness of the DSM since it first 
+appeared in 1952. The first edition contained 130 pages and 106 diagnoses. 
+Today’s edition runs to over 800 pages with almost 400 diagnoses, leading to 
+criticism from Dr. Robert Spitzer, who was once the chairperson of a DSM task 
+force, that the handbook has led to the medicalization of 20-30% of the 
+population who may not have any serious mental health problems. Outside of this 
+debate, it cannot be denied that the DSM has a large impact, positive and 
+negative, on the way research is conducted but at least some of the changes to 
+the fifth edition may lead to better clinical management of patients with both 
+autism and ADHD. From a research point of view, the fifth edition of the DSM 
+will certainly provide a better scientific framework for studying the overlap 
+of these two disorders in more detail.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,103 @@
+
+The worldwide system used to coordinate travel bookings between airlines, 
+travel agents, and price comparison websites is hopelessly insecure, according 
+to researchers.
+
+The lack of modern security features, both in the design of the system itself 
+and of the many sites and services that control access to it, makes it easy for 
+an attacker toharvest personal information 
+<https://www.theguardian.com/technology/2016/dec/23/cyber-security-breach-brian-krebs-crime>
+ from bookings, steal flights by altering ticketing details, or earn millions 
+of air miles by attaching new frequent-flyer numbers to pre-booked flights, 
+according to German security firm SR Labs.
+
+
+Known as Global Distribution Systems (GDS), the technology dates back to the 
+1960s, when one of the first companies in the field, Sabre, was founded. To 
+most travellers, the technology is most obviously associated with the 
+six-character Passenger Name Record (PNR) frequently used to enable online 
+check-in and ticket retrieval.
+
+The PNR system was also the route for many of the weaknesses demonstrated by 
+Karsten Nohl and Nemanja Nikodijevic <https://srlabs.de/bites/travel-hacking/>, 
+the researchers who revealed the flaws at this year’s Chaos Communication 
+Congress hacker convention in Hamburg. While it was presented at a hacker 
+convention, “much less hacking was actually needed to exploit” the booking 
+system, Nohl said.
+
+Eight things you need to do right now to protect yourself online
+ Read more  
+<https://www.theguardian.com/technology/2016/dec/15/protect-passwords-two-step-verification-encryption-digital-life-privacy>
+At the core of many of the weaknesses was the standard use of just two pieces 
+of information to authenticate a booking: the six-character PNR, combined with 
+the user’s last name.
+
+
+“If the PNR is supposed to be a secure password, then it should be treated 
+like one,” Nohl said. “But they don’t keep it secret: it is printed on every 
+piece of luggage. It used to be printed on boarding passes, until it 
+disappeared and they replaced it with a barcode.”
+
+
+However, the barcode is also easy to read using a number of apps, meaning many 
+of the 80,000 travellers who have posted pictures on the #boardingpass tag on 
+Instagram are at risk of information theft, as Nikodijevic demonstrated.
+
+
+“This is supposed to be the only way of authenticating users,” Nohl said, “and 
+it’s printed on pieces of paper you just throw away at the end of the journey.”
+
+
+A bigger problem for most users, though, is that the six-character code is 
+easy to guess. Each GDS provider (there are several, but the biggest two are 
+Sabre, founded in 1960, and Amadeus, founded in 1987) uses a different system 
+for generating them, but all have multiple problems that make them weaker than 
+a simple six-character password.
+
+
+For instance, some providers iterate the first two characters sequentially, 
+meaning all the PNRs generated in one day will have the same opening 
+characters. Others reserve some codes for specific airlines, again narrowing 
+the range of guesses an attacker has to make.
+
+
+Many of the portals into the GDS system also have minimal security features – 
+or at least had minimal security features until Kohl and Nikodijevic notified 
+them.
+
+Some websites that have access to the system and allow you to use your PNR and 
+last name to check the status of your flight offer no defences at all against 
+an attacker guessing thousands of combinations a minute. The researchers were 
+able to access multiple records. Looking for bookings under the name “Smith”, 
+for example, and using a thousand randomly generated booking codes, five came 
+back with active bookings.
+
+Attackers could use that access to cancel a flight in exchange for airline 
+credit and then use that to book new tickets. Or they could add your frequent 
+flyer number to hundreds of flights and chalk up the air miles.
+
+Even more damage could be done with the information contained in the booking. 
+There is enough personal and flight data in them to craft convincing phishing 
+emails purporting to report problems with the flights or bookings.
+
+
+The PNR weaknesses are just scratching the surface of the problems with the 
+GDS in general, the researchers said: there appears to be no good logging for 
+who has accessed data and why, and access controls in general are almost 
+non-existent, allowing anyone from any company involved in your booking to see 
+the whole thing.
+
+
+One saving grace, they said, was that the whole system might end up being 
+rewritten anyway. As the “Smith” example shows, the namespace for booking codes 
+is slowly filling up. Simply running out of characters for new bookings could 
+force a rewrite of the system long before security fears do.
+
+
+If not, Nohl suggested that a rise in cybercrime could do the same job. 
+“Airlines sometimes notice this, but only when it becomes excessive,” he said. 
+“I just hope it becomes so excessive that it can’t be ignored so that it gets 
+fixed, because then the privacy issues get fixed as well.Privacy 
+<https://www.theguardian.com/world/privacy> is never enough on its own.”
+
+ 

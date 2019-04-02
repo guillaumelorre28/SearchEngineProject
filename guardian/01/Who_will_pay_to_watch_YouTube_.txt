@@ -1,0 +1,79 @@
+
+YouTube <https://www.theguardian.com/technology/youtube> and Adobe don't have 
+a great deal in common, apart from being key players in the media-technology 
+ecosystem. But their evolving strategies demonstrate a shift that more and more 
+companies in the media and tech worlds see as a key part of their futures: 
+subscriptions. They highlight the fundamental reality for everyone in this 
+business and related ones: in a world where we are almost always online, change 
+happens at an accelerating rate.
+
+First, YouTube: Google's huge video unit is planning to turn on its head, at 
+least in a small way, the very basis of its existence until now. It's going to
+create subscription-based "channels" 
+<http://youtube-global.blogspot.com/2013/05/yt-pc-2013.html> – that is, 
+collections of content that it hopes people will pay for directly, as opposed 
+to being supported by advertising.
+
+This should be surprising to no one. YouTube, which has turned itself into the 
+default video upload-and-display site, has been experimenting with premium 
+services based on advertising as a business model. This hasn't worked out well, 
+so far, as Peter Kafka recently reported at All Things Digital 
+<http://allthingsd.com/20130304/youtubes-show-me-the-money-problem/>. So it's a 
+logical experiment to try a model that pay-video channels like HBO and, more 
+recently, Netflix have done: getting people send money on a regular basis in 
+return for content they don't mind supporting.
+
+For many video producers, YouTube could become a source of ancillary revenue, 
+just as newspapers are trying to restore some of their lost (paper) 
+subscriptions online via paywalls. Or, even better, this might become the first 
+step in an overdue process of unbundling cable and satellite TV, which force 
+customers to pay for all kinds of channels they don't want in order to get the 
+ones they do watch.
+
+The obvious question is whether YouTube can offer anything people actually 
+want to support this way, and whether creators of online content will see 
+enough upside as well. I'd expectGoogle 
+<https://www.theguardian.com/technology/google> to pump some serious money into 
+the operation, at least at the outset. But a generation of video watchers has 
+become accustomed to YouTube as a free or ad-supported service. I'm agnostic, 
+verging on skeptical, about the prospects, but I'm also glad to see this kind 
+of experimentation.
+
+Likewise, I'm intrigued – and more skeptical – about Adobe's strategy shift. 
+The company said it wouldstop selling almost all of its retail (boxed and 
+downloaded) software <http://www.pcmag.com/article2/0,2817,2418602,00.asp>, and 
+move its major products – PhotoShop, Illustrator, InDesign, AfterEffects and 
+Dreamweaver – into a "cloud-based" model where customers would work in a 
+blended desktop/online platform, for a monthly fee. What had been known as the 
+"Creative Suite" will henceforth be called the "Creative Cloud" – a software 
+platform that will require a broadband connection and will cost about $50 a 
+month for individual users ($70 for corporate sites that need administrative 
+tools), and $20 a month for a single application.
+
+For people who absolutely must use these products and routinely upgrade to the 
+latest versions, $600 a year will be a good deal. But I wonder what people 
+who've been doing fine with older versions of Adobe's desktop software will 
+decide when it becomes necessary to upgrade. My bet is that a lot of them will 
+look for alternatives.
+
+I asked my Google+ and Twitter followers what they'd recommend, and got some 
+useful responses 
+<https://plus.google.com/113210431006401244170/posts/G3JAmvhcR6r>. (As a Linux 
+user my options have always been more limited, since Adobe treats Linux like a 
+poor stepchild, at best.) Meanwhile, LifeHacker helpfully suggests ways to "
+build your own adobe creative suite with free and cheap software 
+<http://lifehacker.com/5976725/build-your-own-adobe-creative-suite-with-free-and-cheap-software>
+." Again, for some Adobe users, there are no serious alternatives to the 
+originals; for the rest of us, there are plenty.
+
+Adobe's move isn't unique, of course. Gaming companies have been trying to 
+urge, if not coerce, their players into hybrid systems for several years now. 
+Microsoft, the king of desktop software, has taken increasingly big steps in 
+this direction, most recently with itsOffice 365 <http://office.microsoft.com> 
+product, though it still offers basic desktop versions.
+
+This can go both ways; Google's online office competitor, Google Docs, can run 
+offline <https://support.google.com/drive/bin/answer.py?hl=en&answer=2375012>. 
+Everyone is encroaching on everyone else, trying everything to see what will 
+work – and this will only accelerate.
+ 

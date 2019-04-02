@@ -1,0 +1,46 @@
+
+Hello guzzlers,
+
+As schools break for summer holidays and some of us fly abroad to a newly 
+expensive world, here’s a puzzle that at least may improve the journey out. 
+It’s a conundrum you may have asked yourself the last time you took a plane.
+
+You are in an airport, and you are walking from security to your gate. The 
+distance includes stretches of travelator, or moving walkway, and stretches of 
+floor. You have a constant walking speed,u, and the travelators also have 
+constant speed,v. So, when you are on the travelator you are traveling at u + v.
+
+1. You need to stop to tie your shoe. If tying your shoe always takes the same 
+time, will you get to the gate quicker if you tie your shoe on the travelator, 
+off the travelator or does it make no difference?
+
+2. You have enough energy to walk at faster speed, w, for a fixed time. In 
+order to get to the gate quicker, do you increase your speed when you are on 
+the travelator, off the travelator or does it make no difference?
+
+I’ll open the comments at noon, and will post my answers at 5pm. The 
+submissions here are for me to see how well you do.
+
+
+Today’s puzzle was devised by the mathematician Terence Tao. More about him 
+when I post the solutions.
+
+
+If you are reading this on the Guardian app, click where it says ‘Follow Alex 
+Bellos’ and you’ll get an alert when I publish the answer.
+
+
+I post a puzzle here on a Monday every two weeks. If you want to propose a 
+puzzle for this column, pleaseemail me <mailto:bellospuzzle@gmail.com> I’d love 
+to hear it. 
+
+I’m also the author of three popular maths books including Alex’s Adventures 
+in Numberland <http://amzn.to/24xBFW0> and the maths colouring book Snowflake 
+Seashell Star 
+<http://www.amazon.co.uk/gp/product/1782117881/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1782117881&linkCode=as2&tag=alebel-21>
+.You can check me out on Twitter <https://twitter.com/alexbellos>, Facebook 
+<https://www.facebook.com/pages/Alex-Bellos/326738482347?ref=bookmarks>, Google+
+ <https://plus.google.com/u/0/100349853927591455618/posts>, my personal website 
+<http://www.alexbellos.com/> or my Guardian maths blog 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>.
+ 

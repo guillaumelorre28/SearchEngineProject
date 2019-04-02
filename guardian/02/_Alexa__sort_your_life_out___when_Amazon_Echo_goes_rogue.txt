@@ -1,0 +1,56 @@
+
+Amazon Echo is apparently always ready, always listening and always getting 
+smarter. So goes the spiel about the sleek, black, voice-controlled speaker, 
+Amazon’s bestselling product over Christmas, with millions now sold worldwide. 
+The problem is that when you have Alexa, the intelligent assistant that powers
+Amazon <https://www.theguardian.com/technology/amazon> Echo, entering millions 
+of homes to do the shopping, answer questions, play music, report the weather 
+and control the thermostat, there are bound to be glitches.
+
+And so to Dallas, Texas, where a six-year-old girl made the mistake of asking 
+Alexa:“Can you play dollhouse with me and get me a dollhouse?” 
+<http://www.theverge.com/2017/1/7/14200210/amazon-alexa-tech-news-anchor-order-dollhouse>
+ Alexa promptly complied by ordering a $170 (£140) KidKraft doll’s house and, 
+for reasons known only to the virtual assistant, four pounds of sugar cookies. 
+The snafu snowballed when a San Diego TV station reported the story, using the 
+“wake word” Alexa, which is the Amazon Echo equivalent of saying Candyman five 
+times into the mirror. Several viewers called the station to complain that 
+their own Alexa had woken up and ordered more doll’s houses in what turned into 
+a thoroughly 21st-century comedy of consumer errors. And a bonanza day for 
+KidKraft.
+
+Many of Amazon Echo’s gaffes stem from misunderstandings arising from an 
+intelligent assistant who never sleeps (and an owner who hasn’t pin-protected 
+their device). Last March, NPR ran a story on Amazon Echo’s capacity to extend 
+the power of the internet into people’s homes. Again, Alexa took its power too 
+literally andhijacked listeners’ thermostats 
+<http://www.nbcnews.com/tech/tech-news/amazon-s-alexa-went-bonkers-reset-user-s-thermostat-n536651>
+. Another owner reported how theirchild’s demand for a game called Digger Digger
+ 
+<http://nymag.com/selectall/2016/12/kid-gets-amazon-echo-dot-alexa-to-play-porn.html>
+ was misheard as a request for porn.
+
+On Twitter, Amazon Echo owners continue to share items that unexpectedly end 
+up on shopping lists, whether sneakily added by children or simply because 
+Alexa misheard or picked up random background noise. One owner uploaded a video 
+in which their Amazon Echo read back a shopping list that included“hunk of poo, 
+big fart, girlfriend, [and] Dove soap” 
+<https://qz.com/704616/amazon-echo-owners-are-finding-unexpected-items-like-big-fart-on-their-shopping-lists/>
+. Another included “150,000 bottles of shampoo” and “sled dogs”.
+
+Behind all this lies the more serious question of privacy: what happens to the 
+data collected by voice-activated devices such as Amazon Echo and Google Home, 
+and who is able to access it? Most recently, US police investigating the case 
+of an Arkansas man, James Bates, charged with murder,obtained a warrant to 
+receive data from his Amazon Echo 
+<http://arstechnica.co.uk/tech-policy/2016/12/police-ask-alexa-did-you-witness-a-murder/>
+. Although Amazon refused to share information sent by the Echo to its servers, 
+the police said a detective was able to extract data from the device itself.
+
+The case not only puts Alexa in the futuristic position of being a potential 
+key witness to a murder, it also raises concerns about the impact of letting a 
+sophisticated virtual assistant – a market estimated to be worth $3.6bn by 2020 
+– into our homes. As Megan Neitzel, the mother of the girl who wished for a 
+doll’s house, put it: “I feel like whispering in the kitchen … I [now] tell my 
+kids Alexa is a very good listener.”
+ 

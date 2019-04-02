@@ -1,0 +1,233 @@
+
+You should be able to find the answers to most of your questions here – but if 
+not, you can always leave a comment on ourFeedback Loop blogs 
+<http://www.guardian.co.uk/music/series/feedback-loop>
+
+Lists
+
+What's a list? <>
+Can I share my list? <>
+Can I import a list from elsewhere? <>
+How do I add an artist to a list? <>
+How do I add an album to a list? <>
+Can I create my own list title? <>
+Can I add an artist/album to more than one list? <>
+How many artists/albums can I add to a list? <>
+How do I find my lists? <>
+Can I access my lists on my mobile device? <>
+Will my list be visible to everyone or just to the people I choose to share it 
+with? <>
+
+Artist pages
+
+What's an artist page? <>
+How do I find an artist page <>
+There's a mistake on an artist page, who should I tell? <>
+Can I review an artist? <>
+Can I discuss an artist? <>
+
+
+Album pages
+
+What's an album page? <>
+How do I find an album page? <>
+What can I do with an album page? <>
+How do I write an album review? <>
+Can I discuss an album? <>
+Can I respond to another reader's review? <>
+Can I share an album review I've written on Facebook and Twitter? <>
+There's a mistake on an album page, who should I tell? <>
+
+
+Lists
+
+
+
+ <>
+
+Lists are a way of compiling your favourite (or not-so-favourite) artists and 
+albums on guardian.co.uk. So, for example, if you went to see a band last night 
+and it was the best gig you've ever been to, you can look up their artist page 
+and add them to your "best live acts" list. Or if you want to make a list of 
+your favourite artists/albums and share it with your friends on Facebook or 
+Twitter, you can do that too. Check out some examples oflists of artists 
+<http://www.guardian.co.uk/music/lists/recently-added/artist> and lists of 
+albums <http://www.guardian.co.uk/music/lists/recently-added/album> created by 
+other users.
+
+ <>
+Yes. Each list you create will be public and have its own unique URL, so you 
+can share it on Facebook, Twitter and other websites, or email them to people.
+
+ <>
+We don't currently offer the option to import a list.
+
+ <>
+
+First, you'll need to sign into your guardian.co.uk account 
+<https://id.guardian.co.uk/signin>. If you don't already have an account, click 
+here to register <https://id.guardian.co.uk/register>.
+
+While you're browsing through artist pages 
+<http://www.guardian.co.uk/music/festivals/glastonbury-2011/a-to-z>, or other 
+people's lists <http://www.guardian.co.uk/music/lists/recently-added/artist> 
+click the "add to list" button. You'll be presented with several list options - 
+just tick the lists you want to add the artist to.
+
+ <>How do I add an album to a list?
+First, you'll need to sign into your guardian.co.uk account 
+<https://id.guardian.co.uk/signin>. If you don't already have an account, click 
+here to register <https://id.guardian.co.uk/register>.
+
+While you're on an album page, or browsing other people's lists 
+<http://www.guardian.co.uk/music/lists/recently-added/album> click the "add to 
+list" button. You'll be presented with several list options - just tick the 
+lists you want to add the album to.
+
+ <>
+Yes, you can add an artist or album to several lists. 
+
+ <>
+The maximum number of artists or albums you can add to a list is 100
+
+ <>
+Currently we are only able to offer pre-defined list titles. These include:
+
+Artists
+My fantasy festival lineup
+Best acts I've seen
+Worst acts I've seen
+My favourite new bands 
+My all-time favourite acts
+My least favourite acts
+Acts I want to see
+
+Albums
+My favourite albums
+Best albums of all time
+Worst albums of all time
+Lost classics
+Overrated albums
+Underrated albums
+Guilty pleasures: the albums I can't help but love
+Best albums of 2011
+Best album covers of all time
+Worst album covers of all time
+
+ <>
+When you are signed in to your Guardian account, you will see your email 
+address in the top lefthand corner of the screen. Click on the arrow next to 
+this and select "Your lists" to see an index page of all the lists you have 
+added acts to. There is also a link to your lists on you guardian.co.uk user 
+profile page.
+
+ <>
+Only on devices that allow you to browse the desktop version of guardian.co.uk.
+
+ <>
+All the lists you create on guardian.co.uk are public, so will be visible to 
+everyone.
+
+Artist pages
+
+ <>
+We have created thousands of pages on guardian.co.uk/music so that you can 
+find out about all kinds of bands and other musical acts, even if we've never 
+written anything about them.
+
+These pages are automatically generated using MusicBrainz IDs 
+<http://musicbrainz.org/> and pulling in information from across the web. For 
+example, the biography details for an artist are supplied by last.fm, you can 
+watch YouTube videos relating to the artist and where available, we link to the 
+artist's official website, Twitter/Facebook/MySpace pages and more. When we 
+have published an article, video or audio about an artist that will also appear 
+on the page.
+ <>
+
+You can find an artist page by typing the artist's name into the search box on 
+guardian.co.uk/music <http://www.guardian.co.uk/music>. It sits below the 
+advert on the right-hand side of the page and it looks like this:
+
+
+Alternatively this A-Z list of popular artists is a good place to start 
+<http://www.guardian.co.uk/music/list/artists>.
+
+ <>
+If you spot any problems or have any concerns with the information on any 
+artist page emailuserhelp@guardian.co.uk <mailto:userhelp@guardian.co.uk>
+ <>
+There will soon be the option to review a live performance by an artist, and 
+to review albums by artists.
+
+ <>
+If we have any articles with comments open relating to an artist, you should 
+be able to find them on their artist page.
+
+Album pages
+
+ <>What's an album page?
+There is now a page on guardian.co.uk for almost every album ever released. 
+These are created automatically using data from MusicBrainz, last.fm and other 
+sources from around the web. Where we have written a Guardian or Observer 
+review about an album it should appear on that page. There will be many pages 
+that do not contain Guardian or Observer content – but you can help us fill in 
+the gaps in our music coverage (and complement what's already there) by writing 
+reviews on these album pages too.
+
+If you want a more technically-minded explanation of how we've created these 
+pages,you can get that here 
+<http://www.guardian.co.uk/info/developer-blog/2011/aug/02/music-album-pages>.
+
+ <>How do I find an album page?
+These are the easiest ways to find an album page:
+
+• Look up an artist page (this this A-Z list of popular artists is a good 
+place to start <http://www.guardian.co.uk/music/list/artists>, or use the 
+search box on the right-hand side of guardian.co.uk/music 
+<http://www.guardian.co.uk/music>) where, for the most part, the links to all 
+their album pages can be found.
+
+• There will be a link to the album page on all our album reviews from now on 
+– so if you feel inspired to write a review straight after reading one of our 
+critics' opinions it will be easy for you to do that. You can find the link at 
+the bottom of the review - it looks like this:
+
+ <>What can I do on an album page?
+You can add a star rating, add the album to a list, review the album, share 
+the page on Facebook, Twitter, or any other social site, find out the 
+tracklisting of the first release of the album (and other information) and read 
+Guardian and Observer reviews.
+
+ <>How do I write an album review?
+First, you'll need to sign into your guardian.co.uk account 
+<https://id.guardian.co.uk/signin>. If you don't already have an account, click 
+here to register <https://id.guardian.co.uk/register>.
+
+After you have signed in, go to the page for the album you want to review. A 
+box at the end of the album page prompts you to add a star rating, enter a 
+title for your review, and type (or paste) your review. When you have finished 
+filling in this box, hit the preview button and make sure you are happy with 
+what you have written before clicking "post review", as there is no way to edit 
+the review once it has been published.
+
+• For some tips on how to write a good album review, read this article and its 
+comments 
+<http://www.guardian.co.uk/music/2011/aug/02/alexis-petridis-writing-album-reviews>
+
+ <>Can I share an album review I've written on Facebook and Twitter?
+Each review has its own unique url that you can share with friends – click 
+'permalink' on your published review to access the link. Alternatively you can 
+use the Twitter and Facebook buttons that appear on every page to share the 
+whole album page, complete with your review.
+
+ <>Can I discuss an album?
+If there are articles with comments open about a particular album, you should 
+be able to find it on the album page.
+
+ <>Can I respond to another reader's review?
+The ability to comment on another reader's review is not currently available.
+
+ <>There's a mistake on an album page. Who should I tell?
+If you spot any problems or have any concerns with the information on any 
+artist page emailuserhelp@guardian.co.uk <mailto:userhelp@guardian.co.uk>
+ 

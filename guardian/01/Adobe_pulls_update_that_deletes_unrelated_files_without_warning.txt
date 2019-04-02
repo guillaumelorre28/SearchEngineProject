@@ -1,0 +1,60 @@
+
+Adobe <https://www.theguardian.com/technology/adobe> has pulled an update for 
+its Creative Cloud desktop application for Mac computers after users complained 
+that it was deleting important files from their machines without reason or 
+warning.
+
+
+During the installation of the update, which could happen automatically if set 
+to do so, the Adobe program deleted the first folder on a user’s machine, as 
+listed alphabetically.
+
+Adobe said in a statement 
+<http://blogs.adobe.com/adobecare/2016/02/12/creative-cloud-desktop-on-mac-update-issue/>
+: “In a small number of cases, the updater may incorrectly remove some files 
+from the system root directory with user writeable permissions.
+
+“We have removed the update from distribution, and are in the process of 
+deploying a new update which addresses the issue. When prompted for the update, 
+Creative Cloud members should install it as normal.”
+
+The issue was brought to light by users of backup software Backblaze 
+<https://www.backblaze.com/blog/adobe-creative-cloud-update-bug/>. Part of the 
+Backblaze backup system was stored within a folder on a Mac’s root directory 
+named “.bzvol” and therefore was highly likely to be the first folder on the 
+system which the Adobe update would delete.
+
+
+Backblaze’s suggested solution was to create a folder called 
+“.adobedontdeletemybzvol” on the user’s system that was higher in alphabetical 
+order than the crucial .bzvol directory. The company later rolled out an update 
+for its software that automatically created a dummy directory “.aBackblaze” for 
+the Adobe updater to delete without issue.
+
+Other users found the Adobe update would delete a folder required for the 
+proper functioning of OS X’s autosave and versioning functions for documents, 
+while any folder that started with a space on the root directory would likely 
+fall victim to the update’s deletions.
+
+Head of social for Backblaze Yev Pusin said 
+<https://www.backblaze.com/blog/adobe-creative-cloud-update-bug/>: “It’s 
+difficult to tell exactly which data may have been removed, but you can open 
+the root directory on your Mac and try to look towards the top for any folders 
+that are empty. This would have occurred to only one folder (that we know of) 
+so the topmost hidden folder or the first folder with a space as the first 
+character would have been affected.”
+
+Adobe said a fixed version of the update should be immediately available.
+
+ * 2015 was the year that Adobe’s Flash finally began to die 
+<https://www.theguardian.com/technology/2015/dec/29/2015-adobe-flash-die-google-firefox-amazon>
+
+ * Google to ban Adobe Flash-based advertising 
+<https://www.theguardian.com/technology/2016/feb/10/google-ban-adobe-flash-advertising>
+
+ * Flash hit by another zero-day vulnerability 
+<https://www.theguardian.com/technology/2015/oct/14/flash-hit-by-another-zero-day-vulnerability>
+
+
+
+ 

@@ -1,0 +1,27 @@
+
+More on the formalisation of the web as a backchannel for TV - this time from 
+ITV's footie coverage. 
+
+ITV.com <http://www.itv.com/sport/football/> will be running a Twitterfall app 
+during theFA Cup final between Everton and Chelsea from 1pm tomorrow (with 
+moderation of the tweets that appear, I should add) as well as a widget made by
+thruSITES <http://www.web-developers.net/> which will show which players are 
+attracting the most discussion.
+ ITV.com will be representing the online chatter around the FA Cup final 
+ Thirdly, hype-tastic iPhone audio tool AudioBoo 
+<http://www.guardian.co.uk/technology/audioboo> will be integrated, so any 
+relevant commentary from fans can be submitted to the ITV site. ITV has already 
+run experiments with Twitter, notably duringPrimeval where writer James Moran 
+posted during an episode.
+
+Tapping the conversation during a major football match is a canny move 
+commercially if only in terms of bring traffic to the site, though what kind of 
+appetite fans have for these tools during the match (when they may well be in 
+the pub) remains to be seen. Remember - don't drink and tweet.
+
+Perhaps more interestingly, ITV is using one of AudioBoo's first paid-for 
+features <http://blog.audioboo.fm/2009/05/27/magic-tags-audioboo-pro/>. Though 
+the initial AudioBoo tool is free, the 'magic tags' allow premium, paying users 
+to tag up all the relevant AudioBoo posts they want to create a bespoke RSS 
+feed. That's how ITV is selecting FA Cup-related AudioBoos.
+ 

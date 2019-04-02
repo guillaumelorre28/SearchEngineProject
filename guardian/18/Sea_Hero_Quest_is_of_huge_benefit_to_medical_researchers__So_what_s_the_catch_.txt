@@ -1,0 +1,91 @@
+
+In tech circles, alongside words such as “scaleable” and “the gig economy”, 
+you often hear the phrase “tech for good” bandied around. Sometimes it’s a 
+fairly innocuous but ultimately toothless concept, essentially denoting the 
+idea that technology has the potential to be a driver for positive social 
+change but not doing very much about it. Other times it can take on a more 
+creepily utopian tone, suggesting that should the world more closely represent 
+the shiny libertarian enclaves of Silicon Valley, the world’s problems would be 
+solved. And sometimes – just sometimes – it does what it says on the tin.
+
+Sea Hero Quest: the mobile phone game helping fight dementia
+ Read more  
+<https://www.theguardian.com/society/2016/nov/16/sea-hero-quest-the-mobile-phone-game-helping-fight-dementia>
+A new game, designed to test spatial navigation, appears at first glance to do 
+just that.Sea Hero Quest 
+<https://www.theguardian.com/society/2016/nov/16/sea-hero-quest-the-mobile-phone-game-helping-fight-dementia>
+, which involves navigating a boat through choppy waters, contains a diagnostic 
+test for the early signs ofAlzheimer’s 
+<https://www.theguardian.com/society/alzheimers> disease. The game has now been 
+played by more than 2.4 million people – which the team behind the game say 
+makes it the largest dementia study in history.
+
+It’s now set to be adapted for use in a clinical setting – data could be fed 
+back to clinicians, allowing for earlier diagnosis, better understanding of how 
+medication is working for a particular patient and a more accurate and precise 
+measurement of a patient’s decline. It could even be incorporated into NHS 
+programmes.
+
+This, it goes without saying, is initially incredibly attractive. 
+Understanding and managing an illness or being alerted when you’re at risk 
+simply through the daily use of an app sounds simple, easy and most of all 
+useful. Could this not be a genuine use of tech for good, rather than the banal 
+and empty proclamations often heard from CEOs and founders?
+
+In theory, yes. In practice: maybe not.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fnov%2F17%2Fsea-hero-quest-game-medical-researchers-alzheimers-privacy%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F409fdeb711286d19e19bfe0685eee0a133a984e1%2F0_1858_2732_1639%2F2732.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Sea%20Hero%20Quest%20is%20of%20huge%20benefit%20to%20medical%20researchers.%20So%20what%E2%80%99s%20the%20catch%3F%20%7C%20Emily%20Reynolds&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fnov%2F17%2Fsea-hero-quest-game-medical-researchers-alzheimers-privacy%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Sea%20Hero%20Quest%20is%20of%20huge%20benefit%20to%20medical%20researchers.%20So%20what%E2%80%99s%20the%20catch%3F%20%7C%20Emily%20Reynolds&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fnov%2F17%2Fsea-hero-quest-game-medical-researchers-alzheimers-privacy%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F409fdeb711286d19e19bfe0685eee0a133a984e1%2F0_1858_2732_1639%2F2732.jpg>
+ More than 2.4 million people have downloaded Sea Hero Quest to their phones. 
+Photograph: The Sea Hero Quest/PA 
+As with any health data-driven project, it comes with stipulations. A recent 
+study 
+<https://www.theguardian.com/commentisfree/2016/nov/01/facebook-target-mental-health-data-online>
+ in Lancet Psychiatry suggested that data gathered on Facebook could provide a 
+“wealth of information” about mental health, with a series of language analysis 
+and facial emotion recognition algorithms providing “insights into offline 
+behaviours”. This, too, sounds great. Having your health monitored and managed 
+through the passive use of technology you probably already use – what more 
+could you want?
+
+But there are a number of concerns here: primarily, the safety of private 
+health data. The addition of a private company in the latter study may make it 
+feel different: a towering behemoth such as Facebook obviously feels more 
+threatening than something set up for and run by clinicians. But to not have 
+the same reservations just because the data was being sent to scientists would 
+be incredibly naive.
+
+What could Facebook target next? Our mental health data | Emily Reynolds
+ Read more  
+<https://www.theguardian.com/commentisfree/2016/nov/01/facebook-target-mental-health-data-online>
+Science, much like technology, is often presented as objective, reasonable 
+fact, without mentioning the very obvious caveat that it is conducted by human 
+beings, who are often neither reasonable nor objective.Multiple studies 
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4496034/> about statistical 
+analysis are useful to recall here – the results of such analyses may seem 
+completely objective, but often reflect the preconceived biases of those 
+conducting them. That’s not to say that would be the case with Sea Hero Quest, 
+of course: just that the results of such research can be fallible.
+
+And it’s also important to remember that, should the Conservative party have 
+its way, the NHS may be in the hands of several, separately operated and 
+privately owned companies before too long. This adds further complications: who 
+would have access to our health data? How would they use it? How would data be 
+efficiently and safely communicated across different companies? Would their 
+data protection processes be cohesive? Would they be meticulous enough to 
+protect our most private, personal data? The idea of having your phone feed 
+data to a central NHS database sounds great in principle, but these questions 
+would need to be answered before that could safely become a reality.
+
+In an ideal world, tech would be utilised to help us to diagnose and treat 
+illnesses: anything that can efficiently and effectively help people manage 
+long-term or life-threatening conditions can only be a good thing. Similarly, 
+the idea of a NationalHealth <https://www.theguardian.com/society/health> 
+Service that is genuinely innovative, that uses new ways to help people and 
+that has a strong grasp on data security while it does so is incredibly 
+appealing. Unfortunately, as with most utopian ideas, you’re left wondering 
+whether it might just be too good to be true.
+ 

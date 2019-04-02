@@ -1,0 +1,66 @@
+
+The news that two healthcare trusts in London are to experiment with a system 
+to look up symptoms by text message 
+<https://www.theguardian.com/society/2017/jan/05/nhs-england-trial-medical-advice-smartphone-app>
+, to triage the kind of non-urgent queries at present handled by the NHS 111 
+service, raises many questions. They may not seem urgent whenpeople are dying 
+<https://www.theguardian.com/society/2017/jan/06/three-deaths-worcestershire-royal-hospital-nhs-winter-crisis>
+ in the corridors of an NHS hospital for want of money, but in the long term 
+they are just as important. Some are purely medical: is this an area that 
+requires the attention of a human being, or is it one where purely factual 
+answers will suffice? When will this project start using artificial 
+intelligence? Some have to do with the way that the NHS is being privatised 
+around the edges in ways that disadvantage the central public parts of it. 
+Widest of all is the general question of the automation of brainwork, which 
+might have effects quite as gigantic as the replacement of manual labour by 
+technology has had.
+
+Two kinds of claims are made for AI in medicine. The weaker and more plausible 
+is that it can automate the processes where no judgment is required, only the 
+clear and consistent following of well-understood rules. This kind of thing is 
+whatthe 111 service <https://www.england.nhs.uk/ourwork/pe/nhs-111/> is 
+supposed to do: the question that it answers is not “what’s wrong with you?” 
+but “do you really need to see a doctor?” Some triage is necessary in any 
+healthcare system, and the present system in the NHS is under huge and growing 
+strain.
+
+But the wider claim of healthcare automation is that there will be systems 
+that can augment and eventually replace the judgment of trained human beings. 
+The hope is that deep analysis ofunimaginable quantities of data 
+<https://www.theguardian.com/commentisfree/2016/may/04/googles-deepmind-shouldnt-be-sucking-up-our-nhs-records-in-secret>
+ will yield reliable knowledgesuperior to anything 
+<https://www.theguardian.com/technology/2016/jul/05/google-deepmind-nhs-machine-learning-blindness>
+ that unaided humans can produce. The placebo effect is important in medicine, 
+and people who believe they are being treated by doctors who have the help of 
+almost omniscient computers will probably do better than those who feel they 
+are getting the harassed attention of an overworked GP even when the diagnosis 
+and the remedies prescribed are exactly the same, as in most cases they will 
+be. But that is not the basis on which we are promised a revolution in the 
+delivery of healthcare. The revolution may come anyway: we are living through 
+an enormous expansion in the reach and variety of machine learning systems, but 
+it will not be for some time. The great majority of diseases do not require 
+heroic diagnosis and exceptional treatment so much as the humane application of 
+well-understood treatments. Much of what’s wrong with the NHS is a lack of 
+money rather than sophistication. Even urgent large-scale threats such as the 
+emergence of antibiotic-resistant pathogens don’t need artificial intelligence 
+to avert, only the consistent use of the intelligence we already have.
+
+It is the apparently small-scale automation of clerical work that we need to 
+think about, because that might happen as quickly as the spread of smartphones 
+did. Vast areas of bureaucracy are about the reduction of complex problems to 
+simple ones for which the correct answers can be written down in a flow chart. 
+This is artificial stupidity rather than artificial intelligence, but the two 
+can merge inside computer systems to produce huge social change. Once the work 
+has been broken down into simple algorithms, these can much more easily and 
+quickly be followed by machines. The 111 service in north London is only one 
+example of a much wider phenomenon. A Japanese insurance company has just
+replaced 35 claims processors 
+<https://www.theguardian.com/technology/2017/jan/05/japanese-company-replaces-office-workers-artificial-intelligence-ai-fukoku-mutual-life-insurance>
+ with IBM’s Watson expert system. The Japanese government is preparing to 
+automate the responses to parliamentary questions in a similar way. These are 
+the first signs of a process that may annihilate millions of white-collar jobs 
+in the same way that blue-collar jobs have already disappeared across the 
+developed world. That would be a development to make last year’s political 
+upheavals look like the mere premonitory tremblings of a real earthquake to 
+come.
+ 

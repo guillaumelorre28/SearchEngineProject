@@ -1,0 +1,199 @@
+
+Sayonara, netbooks. The end of 2012 marks the end of the manufacture of the 
+diddy machines that were - for a time - the Great White Hope of the PC market.
+
+If you believed ABI Research in 2009, then next year netbooks (initially 
+defined as machines with Intel Atom processors and screens less than 10in 
+diagonally - though the definition became fuzzier over time) will sell 139m. 
+(The original ABI press release with the forecast,linked from the Wikipedia 
+page on netbooks <https://en.wikipedia.org/wiki/Netbook#cite_note-24>, and 
+still there until May 2011, hasdisappeared 
+<http://www.abiresearch.com/press/1355-35+Million+Netbook+Shipments+Expected+in+2009:+An+Era+Begins>
+. But you can get a flavour of its optimism from the URL of the press release 
+(which contains the phrase "an era begins") and theresearch paper it was 
+offering in late 2010 
+<http://www.abiresearch.com/research/product/1004263-netbooks/> which had 
+forecasts for netbook sales through to 2015 and the names of 23 vendors 
+(including - quiz question - Nokia.)
+
+Still, there's an eWeek article 
+<http://www.eweek.com/c/a/Desktops-and-Notebooks/Netbook-Sales-to-More-than-Double-by-2013-ABI-864854/>
+ from July in which ABI says that "consumer interest in netbooks shows no sign 
+of waning, and the attraction remains the same: value rather than raw 
+performance."
+
+Actually, the number sold in 2013 will be very much closer to zero than to 
+139m. The Taiwanese tech site Digitimespoints out 
+<http://www.digitimes.com/news/a20121226PD222.html> that Asus, which kicked off 
+the modern netbook category with its Eee PC in 2007, has announced that it 
+won't make its Eee PC product after today, and that Acer doesn't plan to make 
+any more; which means that "the netbook market will officially end after the 
+two vendors finish digesting their remaining inventories."
+
+Asustek and Acer were the only two companies still making netbooks, with 
+everyone else who had made them (including Samsung, HP and Dell) having shifted 
+to tablets. Asustek andAcer <https://www.theguardian.com/technology/acer> were 
+principally aiming at southeast Asia and South America - but of course those 
+are now targets for smartphones and cheap Android tablets.
+
+That's something of a turnround for Acer, which in September was still 
+insisting 
+<http://blogs.wsj.com/chinarealtime/2012/09/13/savvy-or-stubborn-acer-still-believes-in-the-netbook/>
+ that it would "continue to make netbooks", even though Lenovo, Dell and 
+Asustek had all withdrawn.
+
+Intel, which made its Atom processor with the intent of aiming at lower-cost, 
+lower-power, longer-battery-life PCs, is still going to keep making the Atom; 
+those will be pushed into the embedded market for point-of-sale applications.
+
+What killed the netbook?
+
+There are four candidates: the rest of the PC market (including the arrival of 
+ultrabooks); the economy; the economics of netbooks; and the iPad plus the 
+attendant rise of tablets.
+
+The rest of the PC market
+
+Looking at the rest of the PC market first: the writing has been on the wall 
+for a while. Even in May 2009, when netbooks were just two years old (and the 
+iPad wasn't even a rumour), Jack Schofield wasasking whether netbooks were 
+losing their shine 
+<http://www.guardian.co.uk/technology/2009/may/28/netbooks-sales>, pointing out 
+that
+
+US-based DisplaySearch indicates that while first quarter netbook sales were 
+up by 556% compared with the same quarter last year, they were down by 26% 
+sequentially, compared with the fourth quarter of 2008. Notebook sales declined 
+24% sequentially, so netbook shipments are no longer growing against the market 
+trend.
+
+As he also pointed out then, a key factor in that slowdown was that Linux 
+didn't work well as an OS for users who were expecting to run PC software - 
+which meant that Windows XP had to be pressed into the task. But that meant 
+cleaving to Microsoft's demands:
+
+"the increase in specifications that has pushed up netbook prices. The classic 
+netbook was cheaper than a notebook because it had a 7-inch screen, a small 
+Flash drive, an Intel Atom processor, and used Linux instead of Microsoft's 
+Windows Vista. Today's netbooks have 10- or 12-inch screens, 160MB hard drives, 
+and run Windows XP. It is still cheaper to make a netbook than a notebook, but 
+the gap has narrowed."
+
+The promise of the netbook was that it would be more portable, have longer 
+battery life, and run all the software you needed. With the overall PC market 
+shifting towards more and more replacements, the netbook arrived at the right 
+time to create a "first-time" market - of people buying a machine purely for 
+its portability and/or battery life.
+
+There wasn't anything to compete directly with netbooks on price. But other 
+lower-end notebooks could offer bigger screens and more storage. The price 
+delta became thinner and thinner, and as battery life improved on cheaper 
+notebooks, it became harder to justify scrimping and just buying a netbook.
+
+So the availability of laptops that cost less than previously was certainly a 
+factor.
+
+The suggestion that ultrabooks - very thin, light laptops - killed the netbook 
+doesn't make sense, since ultrabooks have barely made any impact on the laptop 
+market, let alone the wider PC market. But Apple's introduction of an 11in 
+MacBook Air in late 2010 (no optical drive, solid-state storage) at $999 showed 
+the PC industry that there was definitely money to be made at the higher end. 
+That's what kicked off the ultrabook scheme, even though it hasn't yet repaid 
+the investment. The MacBook Air probably didn't take any sales away from 
+netbooks - the price difference would see to that - but it did point out to PC 
+manufacturers struggling to make a margin that cheaper wasn't actually the way 
+to go.
+
+The economy
+
+The global economy cratered just as netbooks were beginning to take off. 
+Remember the credit crunch of 2008, and how the banks nearly failed? From Q4 
+2008, the PC market saw three quarters in which shipments shrank. But those 
+were followed from Q4 2009 by three quarters of growth above 20% (because the 
+comparison with shrinking growth always looks good). And PC sales were, in the 
+past, tied to the economy; when it grew, they grew, roughly in line.
+
+Even so, netbook shipments grew strongly from 2008 to 2009. The slowdown hit 
+in 2010: early that year, sales "took a nosedive",IDC's David Daoud told PCWorld
+ 
+<http://www.pcworld.com/article/250055/are_netbooks_dead_the_prognosis_is_grim.html>
+, falling from over 2m in Q1 2010 to only just over 1.5m by the end of the 
+year. By the fourth quarter of 2011, US netbook sales had fallen to about 
+750,000.
+ US netbook sales Q1 2010 - Q4 2011. Source: IDC 
+A similar trend was reflected worldwide, with Q1 2010 shipments of 9m dropping 
+to about 6.2m by Q4 2011. But that's the quarter in which overall PC sales rose 
+by more than 20%. Clearly, the economy didn't do it.
+
+The economics of netbooks
+
+This is a different matter to the world economy, though. What's the key thing 
+about netbooks? That they are (or were) cheap - the Eee PC started (in its 
+Linux incarnation) as a $199 product.
+
+The trouble with that sort of pricing, though, is that it leaves very little 
+margin. Especially once netbooks all began running Windows XP, where the 
+licence could cost anything from $30 upwards per unit, and more like $50 per 
+unit for Windows 7, there just wasn't much room left for the manufacturer to 
+make a profit.
+
+And besides that, just as pundits thought netbooks were looking forward to a 
+grand time, other things happened. PC manufacturers needed better margins 
+(because of the Windows 7 pricing squeeze, and a market that was slowing and 
+shifting further to laptops). And then Apple announced the iPad.
+
+The iPad and all the tablets
+
+In January 2010, Apple announced the iPad. In April 2010, it went on sale. By 
+mid-2010, a host of other companies were announcing their own tablets (running 
+Android). Suddenly tablets were the hot thing in the computing market, and the 
+netbook looked a bit like, well, last year's thing.
+
+It's notable that the first area where netbook sales began falling was the US 
+market, where the iPad first had its big success. The irony is that the iPad 
+cost more than a netbook, and arguably does less: you can't run Office on it, 
+nor your favourite Windows app. But it did have better portability than a 
+netbook, and much better battery life (some netbooks on sale in 2009 wereonly 
+getting three hours 
+<http://www.cnet.com/laptops/gateway-lt3103u/4505-3121_7-33721171-2.html> - no 
+different from pricier laptops). And like the netbook it had no optical drive, 
+and limited storage, meaning that cloud services were key.
+
+By February this year, it was clear that the netbook was done 
+<http://www.guardian.co.uk/technology/blog/2012/feb/03/netbooks-pc-canalys-tablet>
+. And here is the killer stat: shipments of tablets in 2011 overtook those of 
+netbooks - 63m against 29.4m. (The year before it had been the other way 
+around, at 23m v 39.4m; but that was the first year of "modern" tablets.)
+
+And for 2012, tablet shipments are forecast to hit 122.3m (according to IDC's 
+latest forecast, made in December).Netbooks 
+<https://www.theguardian.com/technology/netbooks>, meanwhile, don't seem to 
+have troubled the forecasters this year. And for 2013? IDC reckons tablet 
+shipments will hit 172m. And we know what the figure will be for netbooks - 
+zero (apart from inventories being cleared).
+
+Conclusion
+
+Netbooks had a short but interesting life - going from the one-time saviour of 
+the PC industry, to just another mispriced attempt to push some low-powered 
+Intel chips and garner more money for Microsoft.
+
+But the squeeze on pricing, plus the fact that Windows licences aren't free, 
+meant that they got pushed into a tiny niche: worse specifications than 
+slightly pricier laptops, no margin for the manufacturers, and worse battery 
+life and portability than the burgeoning number of tablets with custom apps.
+
+The questions that do remain is what's going to happen to the various 
+government contracts in countries such as Greece and Malaysia to equip schools 
+with netbooks - or whether those contracts have finished, or been discontinued.
+
+What, too, about the One Laptop Per Child (OLPC) project 
+<http://one.laptop.org/>? Essentially, it's trying to get netbook-like devices 
+to classrooms in developing countries. There hasn't been much news of huge wins 
+this year, though, going by itsend-of-year blogpost 
+<http://blog.laptop.org/2012/12/21/christmas-card-and-review-olpc-2012/>. 
+Perhaps it will function independently of the death of consumer netbooks.
+
+So farewell, netbooks. It was nice knowing you, but ultimately, you were just 
+another PC.
+ 

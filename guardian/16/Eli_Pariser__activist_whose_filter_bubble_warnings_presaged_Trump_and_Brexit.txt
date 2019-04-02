@@ -1,0 +1,172 @@
+
+In the aftermath of the UK’s vote to leave the EU and Donald Trump’s victory 
+in the US election, many who expected the results to go the other way were left 
+shocked. How could this happen when almost everyone they knew had backed the 
+other side?
+
+If they’d been paying attention to Eli Pariser back in 2011, they might have 
+realised their disbelief was at least partly down to the filter bubbles that 
+most of us occupy online without ever really being aware of it.
+
+Upworthy reels in clickbait and moves into story creation
+ Read more  
+<https://www.theguardian.com/media-network/2015/jul/08/upworthy-clickbait-story-creation>
+“If you only see posts from folks who are like you, you’re going to be 
+surprised when someone very unlike you wins the presidency,” Pariser tells the 
+Guardian.
+
+Five years before the twin shocks of Brexit and Trump, Pariser published his 
+New York Times bestseller The Filter Bubble: What theInternet 
+<https://www.theguardian.com/technology/internet> is Hiding From You. The book 
+laid out how our algorithmically personalised online lives were insulating us 
+from opposing views, predicting how echo chambers could leave users sheltered 
+from alternative opinions.
+
+“The danger of these filters is that you think you are getting a 
+representative view of the world and you are really, really not, and you don’t 
+know it,” he explains. “Some of these problems that our fellow citizens are 
+having kind of disappear from view without our really even realising.”
+
+Upworthy's co-founder said the most amazing thing about clickbait
+ Read more  
+<https://www.theguardian.com/media-network/2015/feb/26/upworthy-peter-koechley-clickbait-charity>
+Pariser was warning about the filter bubble half a decade ago; more recently 
+he turned his attention to an even more hot-button topic – “fake news”.
+
+Throughout the campaign, a slew of fabricated articles tapped into the 
+prejudices of pro-Trump or pro-Clinton Facebook users by making up stories they 
+wanted to believe. Filter bubbles may not have caused fake news, but they 
+incubated them and helped them spread.
+
+While he doesn’t think fake news swung the election, Pariser was concerned 
+enough to set up anopen Google document 
+<https://docs.google.com/document/d/1OPghC4ra6QLhaHhW8QvPJRMKGEXT7KaZtG_7s5-UQrw/preview#heading=h.97o89pmf8ct6>
+ inviting design solutions to the problem. Web users weighed in withideas 
+ranging from verified news pages to time-delayed re-shares 
+<https://www.theguardian.com/technology/2016/nov/29/facebook-fake-news-problem-experts-pitch-ideas-algorithms>
+, while others helped add structure, and in one case more attractive 
+formatting. At last count the document clocked in at more than 150 pages long.
+
+Facebook has since proposed its own solution – asking users to flag false 
+stories, which are then assessed by third-party fact-checkers. Yet as Pariser 
+and others have come to realise, the problem goes beyond the sort of completely 
+false stories dreamed up by Macedonian teenagers for money.
+
+“The more you look at it, the more of a complicated it gets,” he says, when 
+asked whether he thinks Facebook’s plan will solve the problem. “It’s a whole 
+set of problems; things that are deliberately false designed for political 
+ends, things that are very slanted and misleading but not false; memes that are 
+neither false nor true per se, but create a negative or incorrect impression. A 
+lot of content has no factual content you could check. It’s opinion presented 
+as fact.”
+
+Fake news has exposed a deeper problem – what Pariser calls a “crisis of 
+authority”.
+
+“For better and for worse, authority and the ability to publish or broadcast 
+went hand in hand. Now we are moving into this world where in a way every 
+Facebook link looks like every other Facebook link and every Twitter link looks 
+like every other Twitter link and the new platforms have not figured out what 
+their theory of authority is.
+
+“As a result we live in this information environment that is both on the one 
+hand more filter-bubbly, but also the bounds of what is considered acceptable 
+to talk about, acceptable to think, and the norms, seem to be shifting. It is 
+changing the bounds of what the conversation can be in a way that I think is 
+pretty corrosive.”
+
+Despite his downbeat analysis, Parsier is resolutely positive about the 
+potential for change, which may be linked to his campaigning background. He 
+spent seven years working at the political fundraising and advocacy group 
+MoveOn (where he helped found activist network Avaaz) before leaving after 
+Barack Obama’s election in 2008 to write The Filter Bubble. It was only after 
+the book was finished that he decided to try using the combination of online 
+behaviour and algorithms he had described to achieve the progressive goals he 
+had always worked towards. The result, in 2012, was the launch of Upworthy.
+
+You may have seen Upworthy stories poking their way into your own filter 
+bubble. With an unashamedly feelgood bent, and, at least in the early days, 
+highly clickable, shareable and sensationalised “curiosity gap” headlines 
+(example:This Kid Just Died. What He Left Behind Is Wondtacular 
+<http://www.upworthy.com/this-kid-just-died-what-he-left-behind-is-wondtacular-rip>
+), the idea was to repackage other people’s content about issues such as 
+women’s rights or structural racism in a relatable and, importantly, shareable 
+way.
+
+The site, which was co-founded with a former managing editor of The Onion, 
+Peter Koechley, grew rapidly (heralded at one point in 2013 as the 
+fastest-growing media site of all time 
+<https://www.fastcompany.com/3012649/how-upworthy-used-emotional-data-to-become-the-fastest-growing-media-site-of-all-time>
+), using Facebook to build an audience of millions. Its tactics were not 
+popular with those in the traditional news organisations, but it had a huge 
+effect on the way most media looked at how stories spread online.
+
+“There were times where there were particular headlines that when I looked 
+back I kind of winced,” admits Pariser. “But I think the place that I came from 
+was looking at how people engage on social media, and really thinking about how 
+you build storytelling that works when someone is on their mobile phone, they 
+are distracted and they are really quickly trying to figure out: what should I 
+tune in to?”
+
+Upworthy has retained some of the curiosity-baiting tactics, but is now 
+focused on original content, overseen by former New York Times digital whizz 
+Amy O’Leary as editorial director. It claims to reach 200 million people a 
+month.
+
+Pariser believes that Upworthy is in tune with the digital activism he started 
+out in, and not just in getting people to engage with social issues online. 
+What some disparagingly call clicktivism, he views as a step towards changing 
+real-world behaviour.
+
+“There’s an idea that people have some kind of action budget and either they 
+are spending it on posting to social media or they are spending it on going to 
+a march. Not only is there very little evidence to support that, there’s a lot 
+of evidence both in social science and in my own experience of just running 
+these experiments to the contrary.”
+
+He argues that people want to live up to the identity they present to the 
+outside world, so if they share an article abouta woman challenging homophobia 
+in a restaurant 
+<https://www.upworthy.com/she-went-high-instead-of-going-low-after-overhearing-a-table-of-homophobes?c=pop>
+, they’ll be more likely to do the same themselves.
+
+Pariser’s unwavering belief that in the ability of the web to be “a tremendous 
+force for empathy” seems at odds with his analysis of its role in boosting the 
+anti-progressive forces that recorded victories in 2016. Yet one of Upworthy’s 
+– and Pariser’s – underlying assumptions is almost perfectly in tune with the 
+populism of Trump and Brexit: that facts don’t change minds without emotion.
+
+“The sort of classical model of democracy is one where it’s about information, 
+making sure the populace has information to make good decisions,” says Pariser. 
+“That’s absolutely a part of what is necessary, but I think if you don’t have 
+empathy across groups then the information only goes so far.”
+
+
+Pariser is banking on using the web to create unifying emotional responses, 
+particularly ones that cross boundaries such as gender, race and wealth, rather 
+than stoking divisions. He doesn’t appear to see much of an alternative. “I 
+really believe that understanding and empathy are a critical pre-condition of 
+action. And really of democracy.”
+
+Recent events don’t suggest either understanding or empathy are going to be 
+central to how the web influences politics in 2017. But maybe it’ll take 
+another five years for him to be proven right again.
+
+CV
+
+Age 36
+
+Education Bard College at Simon’s Rock law and political science
+
+Career
+
+2001 Joined MoveOn.Org
+
+2004 MoveOn executive director
+
+2007 Founded Avaaz
+
+2011 Published The Filter Bubble
+
+2012 Launched Upworthy
+ 

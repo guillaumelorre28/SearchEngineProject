@@ -1,0 +1,89 @@
+
+Earlier today 
+<https://www.theguardian.com/science/2016/aug/01/can-you-solve-it-can-you-outfox-the-desert-island-despot>
+ I set you the following puzzle:
+
+You and a friend have been captured on a desert island ruled by a crazed 
+mathematical despot. You will be locked in separate cells in the island’s 
+prison, and then set the following task:
+
+Every minute for an hour you will each flip a coin. The flips are 
+simultaneous, and after each flip you will make a prediction as to whether the 
+other person’s flip was heads or tails.
+
+So, you both make 60 flips and 60 predictions.
+
+The despot rules that he will kill the two of you if on any one of the 60 
+predictions you areboth correct. (In other words, you both flip, both predict 
+the result of the other person’s flip, and are both right). To escape with your 
+lives at least one of you must predict wrongly each time.
+
+You are given ten minutes to think up a survival strategy before being taken 
+to the cells. Once you are in the cells you cannot communicate with each other, 
+although you are obviously able to see the results of your own flips.
+
+Can you guarantee your survival, and if so, how?
+
+Solution
+
+This puzzle seems difficult at first, requiring some kind of trick or extra 
+clever strategy, but the solution is simple.
+
+You will survive if you use the outcome of your coin flip as your prediction, 
+and your friend uses the opposite of their coin flip as their prediction. (Or 
+vice versa).
+
+So, if you flip heads, you predict heads. If your friend flips heads, they 
+predict tails.
+
+Here’s the full table:
+
+You flip H, friend flips H. So you call H, friend calls T. Only one correct 
+prediction.
+
+You flip H, friend flips T. So you call H, friend calls H. Only one correct 
+prediction.
+
+You flip T, friend flips H. So you call T, friend calls T. Only one correct 
+prediction.
+
+You flip T, friend flips T. So you call T, friend calls H. Only one correct 
+prediction.
+
+You might not have thought that the table would work out so neatly, but when 
+you go through the options you will find that it does. Evil despot outfoxed!
+
+Since this strategy always results in one correct prediction, the question 
+could have been phrased with that requirement, as one reader noted:
+Conan Farrell (@Con_Far) 
+@alexbellos <https://twitter.com/alexbellos> nice puzzle. the solution also 
+works in reverse i.e. the despot insists the at least 1 person gets it correct
+ <https://twitter.com/Con_Far/status/760135806040309760> August 1, 2016 
+<https://twitter.com/Con_Far/status/760135806040309760> 
+Of the lateral-thinking answers, I liked this one best: 
+James Clare (@bluecombats) 
+@alexbellos <https://twitter.com/alexbellos> if the coins aren't fair, then 
+yes, if they are fair then predict edge and you should be fine
+ <https://twitter.com/bluecombats/status/760119580073291777> August 1, 2016 
+<https://twitter.com/bluecombats/status/760119580073291777> 
+Since coins have a 1 in 6000 chance of landing on their edge on a flat surface,
+according to science.... <http://adsabs.harvard.edu/abs/1993PhRvE..48.2547M>
+
+Hope you enjoyed the puzzle, I’ll be back in two weeks.
+
+
+I post a puzzle here on a Monday every two weeks. If you want to propose a 
+puzzle for this column, pleaseemail me <mailto:bellospuzzle@gmail.com> I’d love 
+to hear it.
+
+
+I’m also the author of three popular maths books including Alex’s Adventures 
+in Numberland <http://amzn.to/24xBFW0> and the maths colouring book Snowflake 
+Seashell Star 
+<http://www.amazon.co.uk/gp/product/1782117881/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1782117881&linkCode=as2&tag=alebel-21>
+.You can check me out on Twitter <https://twitter.com/alexbellos>, Facebook 
+<https://www.facebook.com/pages/Alex-Bellos/326738482347?ref=bookmarks>, Google+
+ <https://plus.google.com/u/0/100349853927591455618/posts>, my personal website 
+<http://www.alexbellos.com/> or my Guardian maths blog 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>.
+ 

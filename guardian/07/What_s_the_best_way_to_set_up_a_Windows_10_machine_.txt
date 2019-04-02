@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+
+
+My daughter has asked for a Windows laptop for Christmas, for schoolwork and 
+games. I’m a Mac user and haven’t set up a Windows machine for many years so 
+I’d appreciate any advice ... except “get her a Mac/Linux” from below the line!
+Stuart
+
+Windows has changed a lot in the past decade, and now it’s a mobile operating 
+system. If your daughter has some experience with Google Android, she’ll 
+probably cope quite well. Many of Windows 10’s main features came from the 
+mobile world. These include sandboxed apps installed and updated from an online 
+store, log-on PINs, touch screens, notifications, a voice-aware intelligent 
+assistant (Cortana), location awareness and a “Find my device 
+<https://support.microsoft.com/en-gb/help/11579/microsoft-account-find-lost-phone-device>
+” feature.
+
+Your daughter should ideally have some information ready before going through 
+Windows 10’s “out of box experience”, or OOBE, as it’s known in the trade. Some 
+are obvious: country, preferred language, time zone etc. She should also have 
+your Wi-Fi password, and a working email address for her log-on. Otherwise, she 
+can choose Express Settings to speed up the process. She can change the 
+settings later.
+
+Microsoft Accounts
+
+Your daughter can use any email address as her Microsoft account (MSA). It’s 
+the Microsoft equivalent of a Google Account (Gmail address) or an Apple ID. 
+It’s used to link her laptop to OneDrive cloud storage, the Windows Store, 
+Skype,Cortana’s personalisation data 
+<https://www.bing.com/account/personalization>, the free online Microsoft 
+Office programs etc. It also links her PC to other Windows devices, Android and 
+Apple smartphones and tablets, Xbox One games consoles, and so on. Finally, the 
+MSA stores the laptop’s activation details (which used to be a product key) and 
+encryption keys.
+
+People typically use an existing Microsoft email address. This can be at 
+Hotmail, Live, MSN, Outlook.com or whatever. If she doesn’t have one, the
+Windows 10 <https://www.theguardian.com/technology/windows-10> set-up procedure 
+will create one. However, it’s simpler and less stressful to have one ready to 
+go.
+
+When your daughter enters her email address and password, Windows 10’s Mail 
+app will automatically download recent emails. If she has used this account on 
+a Windows machine before, Windows 10 will offer to set up her new laptop with 
+the same settings. This includes her wallpaper (desktop background) and any 
+apps she has downloaded from the Windows Store.
+
+Setting up
+
+Once logged on to Windows 10, click the Start button in the bottom left, type 
+‘get’ in the Search box and click the “Get Started” app. This introduces most 
+of Windows 10’s features, and includes around 50 short videos. The What’s New 
+section covers Cortana and the Edge browser. I strongly recommend watching 
+Reduce Distractions, a two-minute video in the Ease of Access section. It shows 
+how to remove unwanted animations, tiles, pinned programs, and so on.
+
+Frequently used programs should be pinned to the taskbar, though many people 
+still keep icons on the desktop. Programs that aren’t used very often can be 
+unpinned, then run from the search box, the Start menu, or a live tile.
+
+Next, run the Settings app (cogwheel icon) for simplified access to most of 
+Windows 10 settings. It hasn’t completely replaced the old Control Panel, yet, 
+but it links to Control Panel pages for more advanced settings.
+
+It’s a good idea to browse Settings just to see what’s where. After that, you 
+can find things by typing a few letters into the search box, or by asking 
+Cortana.
+
+The System section of the Settings app lists all the programs installed, and 
+what they are allowed to do. The Default apps part lets users choose default 
+programs for browsing the web, showing photos, playing music and videos, 
+collecting emails and so on. These will be the Microsoft programs included in 
+Windows 10, until your daughter installs alternatives.
+
+The Personalisation section is for picking a lockscreen photo and wallpapers, 
+and for customising the Start menu and Taskbar. It’s where you turn off 
+“suggested apps”.
+
+The Privacy section lets you opt out of personalised advertising (ie turn off 
+your “advertising ID”), and choose which apps can use which features. Go 
+through the Camera, Microphone and Location settings to deny access to every 
+program all at once, or allow/deny one app at a time. Apps can’t force you to 
+give them permissions they shouldn’t need.
+
+Telemetry
+
+The penultimate entry in Privacy is “Feedback & diagnostics”. Windows versions 
+7 to 10 include telemetry, which means the PC sends information to Microsoft 
+about how well it’s working. None of this is personal information – it doesn’t 
+include the contents of files, chats or emails – and none of it is normally 
+accessible to Microsoft staff, or anyone else. The telemetry is used for “big 
+data” analysis based on more than 400m Windows 10 systems. Google and Facebook, 
+among others, use the same techniques for the same purposes: to find problems, 
+and to create more useful and more reliable software.
+
+You can set telemetry data to Basic, Enhanced or Full. The Basic level 
+includes the PC’s specification, app use and any compatibility problems. The 
+aim is to keep your PC up-to-date and working. The Enhanced level includes more 
+advanced performance and reliability data, to check that your PC is working 
+well. The Full level includes access to “crash dumps” (data saved after a 
+program crashes) and the ability to trigger diagnostics. I have my PCs on Full, 
+but crash data may contain some unwanted personal data. For example, if 
+Microsoft Word fell over, the crash dump might well contain fragments of 
+whatever I was writing. If that worries you, set Basic.
+
+Note that telemetry data is different from functional data. If Microsoft’s 
+Mail app checks for email, or OneDrive synchronises files, or the Weather app 
+checks your location for updates, that is not telemetry. It’s just the way 
+every connected PC, tablet or smartphone works.
+
+Controlling updates
+
+Windows 10 is updated on a regular basis, sometimes at inconvenient times. The 
+“Update & security” section of Settings lets you set “active hours” when your 
+PC will not install updates and restart. You can set times up to 12 hours 
+apart, such as 8am to 8pm. Alternatively, you can choose a custom restart time 
+when your PC will be switched on.
+
+The Pro and Enterprise versions of Windows 10 can postpone feature upgrades 
+for a few months, but not essential security updates. Of course, most home 
+users have the Home version.
+
+Phone companion
+
+Windows 10 includes Phone Companion 
+<https://blogs.windows.com/windowsexperience/2015/05/26/your-windows-10-pc-will-love-all-the-devices-you-own/>
+, an app that provides integration with a Windows, Android or Apple smartphone 
+or tablet. Plug your device into a USB port and the app helps you set up 
+Cortana (if available), photos, music, to-do lists, Skype, email, and online 
+Microsoft Office apps. Of course, you still have to download the Microsoft apps 
+from iTunes, Google Play or the Windows Store.
+
+You can plug a phone or tablet into a Windows 10 laptop and use File Explorer 
+to copy files manually. However, OneDrive can automatically collect camera roll 
+photos from your smartphone and copy them to your PC, which is handy. You can 
+also create playlists and play tracks from OneDrive on your phone.
+
+Next week
+
+Setting up a new laptop usually involves downloading a selection of familiar 
+programs, often starting with a web browser such as Firefox or Google Chrome. 
+I’ll cover that topic next week ...
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

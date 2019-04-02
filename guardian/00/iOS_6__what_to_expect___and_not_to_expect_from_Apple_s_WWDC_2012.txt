@@ -1,0 +1,147 @@
+
+What should you expect in Monday's WWDC keynote from Apple 
+<https://www.theguardian.com/technology/apple>, and what should you not expect? 
+From talking to developers and other sources, here are our predictions.
+
+You should get…
+
+Apple TV: App Store access and software development kit (SDK)
+
+The rumblings about Apple doing something in TV have been going on for months. 
+However, the expectations that the company will unveil an actual TV set, or 
+that it will unveil some sort of content deal with various TV stations, both 
+sound wrong. What sounds entirely right, though, is that developers will be 
+able to write apps that will bring games and other forms of content to the £99 
+set-top box that has picked up in sales recently.
+
+Why won't Apple unveil a TV set? Because there's no need to, and the sets 
+themselves are the wrong market. Apple focuses on high-margin, high-growth 
+markets (think of iPods, iPhones and iPads), especially where it can get in at 
+an early stage. Selling TV sets, however, is a low-margin, low-growth market.
+
+Nor can Apple realistically hope to do content deals with all the TV channels 
+around the world, which it would need to if it were going to launch its own 
+ultra-amazing all-singing all-dancing TV set. Would it be able, or want, to tie 
+up deals with the BBC for iPlayer, and ITV, and Channel 4, and 5, and write the 
+necessary apps - and then do it again for France, Germany, Spain...
+
+But, equally, smart TV is a burgeoning market, where Google, Samsung and LG 
+are all trying to interest people in the idea of "smart TV" that will be able 
+to connect to the internet and show you YouTube clips, and so on.
+
+So offering an SDK which lets apps run on the Apple TV is the simple way 
+forward. It lets Apple undermine games console makers (notably Nintendo). It 
+lets it sell more games. And developers will be delighted to write apps that 
+will deliver content from TV companies – or the TV companies themselves will.
+
+New desktops and laptops
+
+There's a great deal of expectation about "retina-capable" laptops and 
+desktops which will have far greater resolution than existing ones; the 
+appearance of apps with those capabilities over the past few weeks has 
+heightened the rumours. Certainly the laptops are overdue for a refresh - so 
+the MacBook Air and Pro are due something new, probably with Intel's Ivy Bridge 
+processor. The big question is whether the "professional" desktop Mac Pros will 
+get an upgrade; they've languished for months.
+
+Intents
+
+Android and Windows Phone have excellent systems by which third-party apps can 
+inform other apps (through a sort of registry system) what they're capable of 
+taking as input and outputs; it means that you don't have to explicitly 
+connect, say, a Flickr app to the photo gallery in order to be able to "share" 
+it from your gallery to Flickr.
+
+iOS is overdue to get this; it would also simplify the process where at 
+present Apple has to explicitly write in support for a particular social 
+network to the OS (so that adding Twitter at the basic level was treated as a 
+big wow; in Android it's just a given that you can tweet a picture). Intents 
+will also mean that if MySpace or (lottery ticket alert) Friends Reunited 
+suddenly became a giant social network (again?), it won't require Apple to do a 
+ground-up rewrite.
+
+Visual overhaul?
+
+This one comes courtesy of Dave Verwer <http://twitter.com/daveverwer>, an iOS 
+developer and trainer, who points out that iOS has had much the same look and 
+feel for its five years – while Mac OS X has changed its appearance, even 
+subtly, with every iteration. Perhaps, he suggests, it will move to something 
+more grey.
+
+Killing someone's business model
+
+This one via our apps blogger Stuart Dredge, who points out that over the past 
+two years Apple has unveiled something that has killed some third-party product 
+– so the "Reader" element of Safari was a serious risk to Instapaper and 
+Readability, and some of the Game Center tweaking was a big threat to games 
+companies.
+
+This time round, he's expecting that the UDID (unique device ID) tracking will 
+be tweaked so as to obviate the need for companies like Flurry, which does 
+mobile analytics in apps.
+
+Something different in Maps
+
+The noises about changes in the Maps app – dropping Google's maps in favour of 
+Apple's own, or some third party's – have become impossible to ignore, but the 
+problem here is that any change has to work worldwide. As one developer said to 
+me, it's no good for Apple to adopt OpenStreetMap – the level of detail in 
+southern Europe just isn't good enough. There would be a huge defection from 
+Maps to Google Maps (you can bet that would appear in the App Store) and those 
+people wouldn't return to Maps, perhaps forever. That's not a risk Apple can 
+(or would) take.
+
+Yet owning a company that does detailed mapping suggests something. Perhaps 
+turn-by-turn navigation. Although in that case, why tell the developers?
+
+What not to expect…
+
+Siri APIs
+
+Yes, lots of people have been saying that these are going to come because, 
+well, Siri has been aroundsince October. Two points: first, it's still in beta; 
+second, how would you drive third-party apps via a voice-driven interface?
+
+Consider that Siri simply turns speech into text; the API problem means this 
+text has to be handed off to the correct app, meaning your problem is now 
+twofold. You have to hand the text to the right app (which could be done, 
+suggests Dave Addey of Agant, by getting people to preface their spoken phrase 
+with the name of the app – which could be provided in phonetic form via an 
+SDK); the app then has to process it.
+
+But if you take Agant's UK Train Times app, what are the potential entry 
+points? People might want to see where they are on a track. Or find the time of 
+the next train to a particular station. Or plan a journey on a particular day 
+to a station, and then return on a different one. Figuring out quite what text 
+you allow into the app, and how you set up the text-handling interface, would 
+be a hell of a thing; and while developers might well be happy to accept that 
+challenge, for Apple the problem would come if Siri's speech-to-text 
+translation (which is dicey, and reliant on a fast internet connection) doesn't 
+quite get it right. That would poison the whole Siri experience, which for 
+those outside the US is hardly stellar anyway ("I can only help you find 
+businesses in the United States…). Apple doesn't feel likely to do this. It's 
+still too early in voice recognition.
+
+An actual TV set with Apple's name on it
+
+See above.
+
+A new iPhone
+
+It's too early. Time was when the announcement of the phone would come, to go 
+on sale later, and developers had a few months to get things straight for it. 
+This doesn't feel like that time; LTE chipsets aren't yet ready in high enough 
+volume (in fact they're constrained) which means that an iPhone announced now 
+wouldn't have the high-speed mobile internet capability that is being rolled 
+out in the US. True, T-Mobile is testing its 4G connection offering at WWDC 
+this week - but I don't think this is really a preface to a 4G iPhone.
+
+Conclusion
+In general, remember that people almost always overestimate what Apple is 
+going to do - and are then "disappointed" when what is announced doesn't match 
+their fevered imaginings. Apple has only rarely exceeded peoples' initial 
+expectations (the iPhone is the best example) - but usually then goes on to 
+exceed their subsequent disappointment too. If in doubt, dial down your 
+excitement. (Some will find this much easier than others.) We'll find out how 
+wrong (or right) all this is later on Monday. Join us then.
+ 

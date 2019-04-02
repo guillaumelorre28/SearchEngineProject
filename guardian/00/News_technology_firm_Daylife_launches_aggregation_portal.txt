@@ -1,0 +1,46 @@
+
+News software specialists Daylife <http://www.daylife.com/> rolled out a 
+recession-friendly service today that will help publishers aggregate relevant 
+content from the rest of the web.Daylife Select provides one central management 
+page that lets publishers choose relevantYouTube videos, Twitter conversations, 
+Flickr photos and text news stories to supplement their own content.
+
+Daylife's own site claims around 3m unique users each month, but the real 
+value is in its technology. Daylife has its own database of content, all 
+classified by genre and keyword, and uses this to feed content through to its 
+partner sites. The benefit for publishers is that they don't need any 
+development skills to use Daylife Select - so that elusive and expensive good 
+developer talent is provided by Daylife.
+
+Publishers can customise the appearance of their aggregation pages with their 
+own site design, and cut and add types of content as appropriate. The portal is 
+hosted by Daylife, which again means less technical responsibility for the 
+publisher. The cost is bundled with Daylife's API, ranging from $4-$5,000 per 
+month for a smaller publishers and smaller implementation to $20,000 for a 
+larger site.
+
+Daylife has been quick to pitch its products as way to help fight the 
+recession, saying staff can be more productively employed on original content 
+rather than aggregating by hand. For a struggling news industry, this kind of 
+automation will be very appealing but it has to be combined with human 
+editorial judgement.
+
+Daylife is very highly regarded in the industry, creating some extremely 
+compelling and well-executed products in the often conservative space between 
+news content and technology. Backers includeCraig Newmark 
+<http://www.daylife.com/topic/Craig_Newmark> and Jeff Jarvis 
+<http://www.daylife.com/topic/Jeff_Jarvis/quotes>, and current clients include 
+Telegraph.co.uk <http://www.daylife.com/source/The_Telegraph>, Huffington Post 
+<http://www.daylife.com/source/Huffington_Post> and Washington Post 
+<http://www.daylife.com/source/The_Washington_Post>.
+
+The Daylife Enterprise API launched two weeks ago does a similar thing but for 
+an API. The white-label service does the 'heavy lifting' in converting content 
+into standardised feeds and formats that can be used either by external or 
+internal developers to build new features and applications around that site.
+
+I interviewed chief executive Upendra Shardanand recently and asked him to 
+explain what the Daylife Enterprise API offers and how news publishers will be 
+able to differentiate themselves in a world where everyone aggregates 
+everything:
+ 

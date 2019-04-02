@@ -1,0 +1,103 @@
+
+A quick burst of 8 links for you to chew over, as picked by the Technology team
+
+Flash for Android dies today, long live the 'full web experience' >> The Verge 
+<http://www.theverge.com/2012/8/14/3241727/flash-for-android-dies>
+
+In November of last year, Adobe made a surprising about-face on its popular 
+Flash plugin, announcing that it would stop development of Flash for mobile 
+devices. Today, Adobe will disable new installs of Flash on Android, 
+effectively cutting it off from the future of the mobile web -- despite the 
+company's historical assertion that Flash would enable the "full web 
+experience" on mobile devices. Instead, Adobe surrendered the major mobile 
+battlegrounds and pledged allegiance toHTML5 
+<https://www.theguardian.com/technology/html5>.
+
+ Remember when having Flash was the selling point for Android?
+
+Solving for 7: How Apple could implement the iPad mini interface >> iMore.com 
+<http://m.imore.com/solving-7-ipad-mini-interface>
+
+If Apple <https://www.theguardian.com/technology/apple> does unveil a smaller 
+iPad, it will have been analysed to death before the first one is unwrapped. 
+Yet it's also an interesting exercise in crowdsourcing.
+
+Windows 8 vs. Windows 7: Benchmarked >> ZDNet 
+<http://www.zdnet.com/windows-8-vs-windows-7-benchmarked_p2-7000002671/>
+
+Spoiler: it's faster.
+
+Qwerty keyboard wins the battle of the input methods >> Nokia Conversations : 
+the official Nokia blog 
+<http://conversations.nokia.com/2012/08/10/qwerty-keyboard-wins-the-battle-of-the-input-methods/>
+
+Yes, that's the headline which has been bouncing around the net and written up 
+as "OMG PEOPLE REALLY LOVE KEYBOARDS WTF TOUCHSCREENS". Now let's dig back to 
+the source of the data:
+
+Last week we ran a poll asking you to choose your favourite input method on a 
+mobile phone. The choices were...
+
+ So it's an online poll, on the website of a company whose remaining customers 
+haven't embraced touchscreens to any large extent. The number in the sample 
+isn't given, so we can't estimate its reliability. But it's another lesson in 
+distrusting self-selecting samples.
+
+Nearly 3,000 Chinese 'group buy' sites have closed so far in 2012 >> Tech In 
+Asia <http://www.techinasia.com/3000-chinese-group-buy-sites-closed-2012/>
+
+A couple weeks ago we looked at some data from Tuan 800 that suggested things 
+were pretty bad for China's group buy industry, with more than 2,000 sites 
+closing in the past nine months. But this morning, the Chinese E-Commerce 
+Research Center has released a report with numbers that are even more grim: 
+2,859 sites have closed in just the past six months. That leaves just over 
+3,200 still in operation; apparently, the numbers haven't been that low since 
+2010.
+
+ The report also says that the group buy industry did 14.6 billion RMB ($2.3 
+billion) in business over the first half of this year; that's up 126 percent 
+over the first half last year. But most of that money is going to the top 
+players; other sites are dying off.
+
+Acer's JT Wang is part of the problem >> Hal's (Im)Perfect Vision 
+<http://hal2020.com/2012/08/13/acers-jt-wang-is-part-of-the-problem/>
+
+Hal Berenson: 
+
+I find it hysterical that Acer chairman JT Wang is the most vocal critic of 
+Microsoft <https://www.theguardian.com/technology/microsoft> getting into the 
+hardware business with the Surface. You see, I still haven't experienced 
+Windows 8 in Portrait mode and it is his company's fault.
+
+Samsung Galaxy Note 10.1 Review: This Tablet's Mightier with a Pen >> TIME.com 
+<http://techland.time.com/2012/08/15/samsung-galaxy-note-10-1-review-this-tablets-mightier-with-a-pen/>
+
+If the Note 10.1 sells well, it won't be on the strength of the bang it 
+delivers for your buck. It'll be because it's one of the relatively few Android 
+tablets with a snappy answer to the bottom-line question "Why should somebody 
+buy this instead of an iPad?"
+
+ The iPad doesn't come with a pen and may never do so, given Steve Jobs' 
+famous declaration that "if you see a stylus, they blew it." Scads of companies 
+have stepped in to fill the gap -- my favorite iPad stylus is Adonit's Jot Flip 
+-- but all of their designs suffer from the fact that they're designed to work 
+with a tablet that was engineered for fingertips.
+
+ Samsung, however, built the Galaxy Note 10.1 from the ground up for pen use. 
+And when it decided to add pens to some of its devices, it made the eminently 
+sensible decision to work with Wacom, the company which dominates the market 
+for graphics tablets used by artists.
+
+Inside Facebook's Push to Woo Big Advertisers >> WSJ.com 
+<http://online.wsj.com/article/SB10000872396390444246904577575351814047494.html?mod=wsj_share_tweet>
+
+As the ad types peppered the young chief executive officer with questions, a 
+theme emerged. If they committed to spending big bucks with Facebook, how could 
+they be assured a return on their investment? Mr. Zuckerberg's response, 
+according to one of the attendees: "That's a great question and we should 
+probably have an answer to that, shouldn't we?"
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/u:guardiantech>. To suggest a link, either add it below or 
+tag it with @gdntech on the freeDelicious <http://www.delicious.com/> service;
+ 

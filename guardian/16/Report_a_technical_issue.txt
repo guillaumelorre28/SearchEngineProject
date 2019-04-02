@@ -1,0 +1,28 @@
+
+Thanks for coming to report a technical issue with our web site.
+
+Self help
+
+If your problem includes the following
+
+ * crashing 
+ * reloading 
+ * very slow site access 
+please learn about disabling optional features on our site 
+<https://www.theguardian.com/info/2015/sep/22/making-theguardiancom-work-best-for-you>
+
+Contact us
+
+If you need help, please contact our user support desk at  
+userhelp@theguardian.com <mailto:userhelp@theguardian.com> and someone should 
+get back to you.
+
+ If you don't require any assistance but wish to report an issue to our 
+developers, send comments to: dotcom.feedback@theguardian.com  
+<mailto:dotcom.feedback@theguardian.com>.
+We value and read all of the feedback that we receive, but we are unable to 
+respond directly. 
+
+Think you can fix it yourself? Work for us <http://developers.theguardian.com/>
+!
+ 

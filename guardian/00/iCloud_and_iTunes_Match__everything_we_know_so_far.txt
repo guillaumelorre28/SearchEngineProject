@@ -1,0 +1,208 @@
+
+Steve Jobs took the stage to announce iCloud on Monday at Apple's Worldwide 
+Developer Conference.Cloud computing 
+<https://www.theguardian.com/technology/cloud-computing>? From Apple?
+
+iCloud <https://www.theguardian.com/technology/icloud> also encompasses iTunes 
+Match, which is in effect an amnesty – 10 years after the original file-sharing 
+Napster was ground into the dust – for people who have illicitly downloaded 
+music from filesharing networks, and marks a way for music labels to get some 
+money back from them.
+
+The simplest way to deal with what iCloud 
+<http://www.apple.com/pr/library/2011/06/06icloud.html/> and iTunes Match do 
+(apart from reading Apple's press release, linked there) is to deal with all 
+the questions we've been asked via Twitter. So here you go.
+
+• Why? <http://twitter.com/realpaulbrown/status/78038115377348609> Because 
+whereas 10 years ago Steve Jobs talked about the personal computer being the 
+"digital hub", Apple now thinks that cloud computing is going to be the hub, 
+because it has diversified its product range – iPhone, iPad, Mac, iPod Touch – 
+so that you don't necessarily need a "PC" to do the tasks that previously 
+needed the power of a CPU on your desk. We live in a world of multiple devices 
+– PC, smartphone, tablet, music player – where you want to be on top of your 
+calendar, contacts and music, as well as being able to edit and save documents 
+on the go wherever you have internet connectivity. The storage – and, more 
+importantly, synchronisation – of those shouldn't need to wait for you to get 
+to one canonical device (the PC). All you should need is a reliable internet 
+connection.
+
+• Is the iTunes bit US only? 
+<http://twitter.com/benfysh/status/78037904496144385> For now, yes. No date has 
+been given for a UK or rest-of-world release for iTunes Match (where the songs 
+in your iTunes library can be synchronised with a list in the cloud, for $24.99 
+per year). That was in fact the very first question we asked Apple after the 
+keynote finished. "No date has been given," came the reply.
+
+However, as MobileMe will officially die on 30 June 2012 (and you can no 
+longer sign up), and the explanatory email fromApple 
+<https://www.theguardian.com/technology/apple> says that it's going to be 
+replaced with iCloud, it's clear that it's going to be rolled out to the rest 
+of the world in time. Apple's given itself a year to get the other music labels 
+in other territories on board, it seems.
+
+• Can I give my friend access to my account so they can have all my music? 
+<http://twitter.com/adamcranfield/status/78038910038585344> Well, think about 
+it. You'll have to let them log in as you. They'll also have to log in as you 
+on any and all devices that they want to use. The music will get downloaded – 
+but it's not clear quite how accessible that will be to pull off your iPhone, 
+say. And when your friend logs off, perhaps the music goes. You might be able 
+to do this – but the chances are the deal with the music labels is going to 
+make it extremely difficult to do easily.
+
+• Are iTunes syncs included in the 5GB limit? 
+<http://twitter.com/tombot18/status/78038169391611905> As we understand it, 
+that only the songs that have to be uploaded from your collection because 
+they're not found on the iTunes Music Store will count against your limit of 
+5GB of free storage.
+
+• 5GB is really small ... is that just so the next announcement of "we're now 
+giving you 20GB" seems generous? 
+<http://twitter.com/willsh/status/78038287368994816> iCloud's free allocation 
+of 5GB of storage is only 2GB less than you get with Google's free Gmail 
+account, and Google is usually thought of as the king of cloud computing. Then 
+again,Microsoft's Skydrive <http://www.windowslive.co.uk/skydrive> is 25GB, and 
+is free. It doesn't offer the push syncing between devices, though. By limiting 
+who can access it (people who are using iOS5 or OSX Lion) Apple is taking a 
+cautious approach: it doesn't want anotherMobileMe disaster 
+<https://www.theguardian.com/commentisfree/2008/jul/31/apple.email>.
+
+• What's the cost of extra storage? 
+<http://twitter.com/fraserspeirs/status/78038482429284352> Not known at the 
+moment.
+
+• Does it stream music or do you download, or both? Will it stream effectively 
+over 3G? <http://twitter.com/adamcranfield/status/78038729121480704> It's a 
+download for the free element (music that you previously purchased on the 
+iTunes Music Store). iTunes Match is also a download, not streaming.
+
+• Where are the server farms? How green will they be? Apple don't have a great 
+record ... <http://twitter.com/rellimluap/status/78038766207508480> Maiden, 
+North Carolina and two other locations. The Maiden one is near a major source 
+of hydroelectric power. Server farms of that sort often are as it's one of the 
+most reliable.
+
+• Will it sync seamlessly with my PC & Linux netbook? Will it have version 
+control? Shareable URLs to send photos to Gran? 
+<http://twitter.com/north5/status/78038810927177728> (a) iTunes Match will work 
+on Windows Vista and Windows 7, as well as Mac OSX, as will iCloud. (b) No 
+signs of version control that we've seen, though Lion does have that built in – 
+so you may get it on that platform. (c) Logically there must be a URL for a 
+photo, but whether you'll be able to share that directly is still unclear. It 
+might be that you'll either have to send it via Twitter, or embed it in an 
+email. Gran might like to get an email– it's been too long since you got in 
+touch.
+
+• Will iOS 5 & iCloud improve management of Podcasts? Auto download new 
+episodes? Notifications of new episodes? 
+<http://twitter.com/qtaran111/status/78038870331105280> That would be an iTunes 
+improvement, so you'd need to look at that.
+
+• What/how much integration will there be on the non-iOS side – ie, on Lion? 
+<http://twitter.com/SebastianEPayne/status/78038926446694400> On Lion, as much 
+as on iOS. On earlier versions of Mac OS X (and on versions of iOS before iOS 
+5), it's much less clear. Our best guess would be that, since iOS 5 will work 
+on the iPhone 3GS and up – which makes the majority of iPhones sold – that it 
+won't be very backward-compatible at all, by contrast with Windows, where it 
+will work with Vista and Windows 7. (Outlook 2010 is recommended for calendars.)
+
+• Will it enable easy group sharing of photos and docs? 
+<http://twitter.com/adamcranfield/status/78039370803838976> Neither Jobs nor 
+Apple said so, but since it wasn't shown off doing this, and since Apple isn't 
+an enterprise-oriented company (where group sharing like this would be a big 
+feature), our guess is that for documents and photos, you'll be using email 
+again.
+
+You will however be able to share calendars.
+
+• 1 – why no streaming? 2 – is iCloud music US only? 3 – why no video? 
+<http://twitter.com/Inaba_kun/status/78039495961882624> 1 – because streaming 
+is more expensive and harder to cache than a download: you can't just dump a 
+load of data on the line, but have to keep it flowing. 2 – see above. 3 – video 
+takes up far more storage, and Apple doesn't have the deals with film and TV 
+studios for this. Baby steps.
+
+• Will the interface still be iTunes, or will it be new? 
+<http://twitter.com/adamcranfield/status/78039514135805952> You don't specify 
+which interface on what device. It's iTunes-like in iOS devices, but iCloud 
+covers a lot of different applications, including documents. iTunes Match will, 
+yes, work through iTunes.
+
+• Will it put Dropbox out of business? 
+<http://twitter.com/StephenMcGann/status/78039725348364288> We doubt it, 
+because Dropbox is cross-platform in a way that iCloud's document service isn't 
+trying to be. The aim of Dropbox is broad: get people to use it to sync content 
+between diverse systems. iCloud is trying much more to tie people into using 
+iOS devices; working on Windows is necessary because the majority of 
+iPhone/iPad owners are on Windows. Dropbox also lets large groups of people 
+share files. Apple isn't into that at all.
+
+• Can you upload any doc? Encrypted all the way? Other security? 
+<http://twitter.com/njr/status/78039730503159808> From our reading, only 
+documents that are readable across all iOS devices can be uploaded (that's why 
+Pages was shown – though Pages can open Microsoft Word documents). Encryption 
+will be there, but obviously only as good as your password. If you're worried 
+about encryption in transit, that's already the case with MobileMe, so it won't 
+change with iCloud.
+
+• what will the UX [user experience] be like on Windows? Will it be a viable 
+solution for backups, file management, etc? 
+<http://twitter.com/adamcranfield/status/78040010670092288> We don't know what 
+the UX will be like. (Windows-y?) It's not going to be your first port of call 
+for version management. Apple is making something for the average user, not the 
+computer expert. The whole point is that you shouldn't need to be an expert to 
+use it. If you're looking for version management, there are plenty of free Unix 
+solutions out there – starting with Github.
+
+• What happens to those of us with MobileMe subs between its end in June and 
+iCloud's availability in Autumn? 
+<http://twitter.com/jwp555/status/78041620431380480> Great question.  No 
+obvious answer. Sign up for another year and hope for a refund, or watch as 
+your email and stored data vanishes in a puff of cloud, seems to be the initial 
+response. All MobileMe accounts are being extended free for another year to 
+June 2012. (Thanks @spikediswhack.)
+
+• What happens if you stop paying for your iCloud match service per month – 
+what do I lose and what do I keep? 
+<http://twitter.com/bruntonspall/status/78042561809350657> First, it's annual: 
+$24.99 (which will probably translate to £20 in the UK). If you stop paying, 
+you'll still be able to access your purchased iTunes Music Store music on any 
+iOS device, but your uploaded music, and the rest of your library, will revert 
+to living only in one place – a hard drive somewhere at home or work.
+
+• How do you think Apple will identify music for iTunes Match, and if it's 
+file-signature based, could they identify pirated music? And, should they not 
+carry that track on iTunes, could they be legally compelled to identify users 
+with those files? <http://twitter.com/fatred/status/78044013814493184> It will 
+probably work initially on ID3 tags, and possibly an MD5 hash if that's 
+available (but ID3 tags are going to be more likely to be right, since you'd 
+have named your music, where the MD5 hash will vary depending on how long the 
+song is and its sample rate.) As for piracy, stop fretting. Apple can't 
+possibly have every song, and it could argue that people might have written 
+their own songs.
+
+• Is iTunes Match not a licence to get music cheap? Leech the album illegally, 
+match it to iTunes and claim under the $25 account? 
+<http://twitter.com/fatred/status/78046204503658496> You've got it the wrong 
+way round. Previously if you leeched it, the record label would never have 
+gotten any money before. Now it'll get a cut of that $25. It's about as much as 
+it would get through Spotify. (Update: this may be a 70/30 music labels/Apple 
+split, as happens with app sales. Ironically, this sort of split between 
+service provider and music supplier is exactly what some US music publishers 
+wanted with the original Napster. It's taken 10 years for the record labels to 
+come round to it.)
+
+• I have one AppleID tied to iTunes content. Another ID for MobileMe mail. 
+Which does iCloud need? <http://twitter.com/Carniphage/status/78048622196957184>
+ Oooh, tricky. MobileMe comes after iTunes, so that will be the disposable one. 
+Your MobileMe identity will shift to iCloud, but the iTunes accounts are tied 
+to that ID, so you'll need to keep that one.
+
+• iTunes Match, Amazon Cloud Music, Google Music – will any of them ever work 
+in the UK? Will Spotify ever launch in US? 
+<http://twitter.com/grahamterris/status/78058886506094592> Yes, Probably, 
+Probably, Yes. Just don't ask us about timescales.
+
+We're sure you'll have some more and we'll see if we can bug Apple to give us 
+more information. In the meantime, keep the questions coming.
+ 

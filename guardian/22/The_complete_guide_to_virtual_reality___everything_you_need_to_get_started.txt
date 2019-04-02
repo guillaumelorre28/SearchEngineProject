@@ -1,0 +1,791 @@
+
+Until recently, virtual reality had been something of a fantasy for 
+storytellers and technologists. As long ago as 1935, American science fiction 
+writer Stanley G Weinbaum described something like virtual reality in a short 
+story calledPygmalion’s Spectacles 
+<http://www.gutenberg.org/files/22893/22893-h/22893-h.htm>.
+
+“But listen – a movie that gives one sight and sound. Suppose now I add taste, 
+smell, even touch, if your interest is taken by the story. Suppose I make it so 
+that you are in the story, you speak to the shadows, and the shadows reply, and 
+instead of being on a screen, the story is all about you, and you are in it. 
+Would that be to make real a dream?”
+
+Technologists might still be working on smell and taste, but Albert Ludwig’s 
+“magic spectacles” eerily foreshadow the current prominence for headsets and 
+360-degree games, videos and virtual worlds.
+
+Virtual reality for the masses is here. But do the masses want VR?
+ Read more  
+<https://www.theguardian.com/technology/2016/oct/07/virtual-reality-future-oculus-rift-vr>
+Since Ludwig’s magic spectacles found their way into print, there have been 
+decades of experimentation around virtual reality, from the first head-mounted 
+VR system in the late 1960s to the first commercial products in the 1980s – not 
+to mention Hollywood’s interpretation in the1992 film The Lawnmower Man, which 
+shaped mainstream perceptions of virtual reality, or VR, for some time 
+afterwards.
+
+The current age of virtual reality began in 2010, when American teenager 
+Palmer Luckey 
+<https://www.theguardian.com/technology/2016/sep/23/oculus-rift-vr-palmer-luckey-trump-shitposts>
+ created the first prototype of a VR headset that would evolve into the Oculus 
+Rift. Two years later, he launched a $250,000 Kickstarter crowdfunding campaign 
+to commercialise it – and $2.4m of pledges later, the tech industry’s interest 
+in VR was reborn. Two years after that, Facebook’s CEO, Mark Zuckerberg, liked 
+the Rift so muchhe bought the company for $2bn 
+<https://www.theguardian.com/technology/2014/jul/22/facebook-oculus-rift-acquisition-virtual-reality>
+.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe42671a79c6b16af11841df018bce3dac7484fae%2F0_0_2920_1943%2F2920.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe42671a79c6b16af11841df018bce3dac7484fae%2F0_0_2920_1943%2F2920.jpg>
+ Palmer Luckey of Oculus VR helped kick off the current wave of VR excitement. 
+Photograph: Bloomberg/Bloomberg via Getty Images 
+Several competitors have emerged since then, from the HTC Vive and Sony’s 
+PlayStation <https://www.theguardian.com/technology/playstation> VR to 
+smartphone-powered headsets such as Samsung’s Gear VR and Google Cardboard. 
+Meanwhile, hundreds of developers are making VR games and apps, film-makers are 
+exploring the potential for documentaries and animation, and Facebook and 
+YouTube have jumped on the bandwagon with 360-degree videos.
+
+But if you’re new to virtual reality, where should you start? In the absence 
+of a passing professor with magic specs, here’s everything you need to know 
+about hardware, apps and games.
+VR hub page 
+<https://interactive.guim.co.uk/embed/article-embeds/vr-richlink/embed.html> 
+The basics
+
+The most important piece of a virtual reality kit is the headset, a device 
+like a thick pair of goggles that goes over your eyes. The more expensive, 
+higher quality headsets need to be connected to a computer to run apps and 
+games, while some cheaper ones use a cellphone clipped to the front of the 
+headset.
+
+All headsets need to be used alongside a good quality pair of headphones, and 
+there are other optional accessories from hand controllers to treadmills that 
+are all designed to enhance your simulated experience of being in another 
+world. Hand controllers translate your real-world gestures into whatever game 
+or application you’re using, although standard gaming joypads can also be used.
+
+VR devices have their own app stores, similar to smartphone app stores, where 
+you can browse and download games and apps. Some of these stores are accessed 
+using the device itself, while others – the VR section of the Steam digital 
+games store, for example – can be browsed on your computer.
+
+High-end headsets
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2c4702d00e510931c7f3ba25f9a0f3e8b2178cc7%2F0_202_4000_2401%2F4000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F2c4702d00e510931c7f3ba25f9a0f3e8b2178cc7%2F0_202_4000_2401%2F4000.jpg>
+ The Oculus Rift is now on sale across the world. Photograph: Frantzesco 
+Kangaris/PA 
+Oculus Rift
+
+Four years after its first crowdfunding campaign, the first commercial version 
+of Oculus Rift launched in early 2016, sold initially from theOculus 
+<https://www.theguardian.com/technology/oculus> VR website and gradually made 
+its way to retailers around the world.
+
+Until now, you needed a powerful PC to use the Oculus Rift. The minimum specs 
+for an Oculus Ready PC areon the official website 
+<https://www3.oculus.com/en-us/oculus-ready-pcs/>, with Dell, HP, Alienware and 
+Asus all offering VR-ready machines. Oculus VR has also launched bundles of 
+Rift with a PC, such as the$2,050 Alienware bundle 
+<http://www.alienware.co.uk/oculus/>.
+
+That said, Oculus has just announced that thanks to some technology it has 
+dubbed “asynchronous spacewarp”,the Rift will now work with PCs costing as 
+little as $500 
+<https://www.theguardian.com/technology/2016/oct/07/virtual-reality-future-oculus-rift-vr?CMP=Share_iOSApp_Other>
+.
+
+Oculus is expanding its hardware offering, and in December Oculus will launch 
+a dedicatedOculus Touch <https://www3.oculus.com/touch/> controller, which 
+translates your hand gestures into the virtual environment. At $199, it’s not 
+cheap.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpN6YCFlS8nU&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpN6YCFlS8nU>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpN6YCFlS8nU&media=>
+Price: $599 (£549) includes the headset with built-in headphones and mic, 
+movement sensor, remote and Xbox One controller.
+
+You’ll also need: a powerful PC – check the recommended specs 
+<https://www3.oculus.com/en-us/oculus-ready-pcs/>.
+
+Best for: early adopters, and anyone keen for a first-hand view of how 
+Facebook will make virtual reality more social.
+
+Verdict: Oculus Rift kickstarted the newest generation of VR and has an 
+inventive community of developers making games and apps for it – even if a few 
+haveditched it in protest over its founder’s political activities 
+<https://www.theguardian.com/technology/2016/sep/27/vr-developers-oculus-rift-pro-trump-support>
+. Facebook’s financial backing should ensure the Rift is in it for the long 
+haul, too.
+
+10 Oculus Rift apps and games to try
+
+ * Chronos <https://www.oculus.com/experiences/rift/929508627125435/>: 
+wonderful-looking role-playing game with plenty of depth 
+ * Minecraft VR 
+<https://mojang.com/2016/08/minecraft-vr-coming-to-oculus-rift-today/>: the 
+blocky building game suits VR well
+
+ * Elite: Dangerous <https://www.elitedangerous.com/>: epic space game gets 
+even more epic with a headset 
+ * Keep Talking and Nobody Explodes 
+<https://www.oculus.com/experiences/rift/818716001584299/>: clever multiplayer 
+game – the headset wearer defuses a bomb while friends try to help 
+ * EVE: Valkyrie <https://www.oculus.com/experiences/rift/775907692521284/>: 
+this space dogfighter was made for VR, and it shows 
+ * The Climb <https://www.oculus.com/experiences/rift/866068943510454/>: part 
+game and part experience, this sees you climbing mountains around the world 
+ * Jaunt VR <https://www.oculus.com/experiences/rift/975339039170122/>: a 
+range of great made-for-VR videos, from documentaries to music 
+ * Henry <https://www.oculus.com/experiences/rift/1043217179077622/>: Oculus 
+VR’s attempt at a Pixar-quality animated short film 
+ * Apollo 11 VR Experience 
+<https://www.oculus.com/experiences/rift/937027946381272/>: a clever historical 
+app that sends you on the moon-landing mission 
+ * Within <https://www.oculus.com/experiences/rift/1238778229506924/>: a mix 
+of bespoke fiction and nonfiction videos made for viewing in VR 
+HTC Vive
+
+The HTC Vive is a partnership between Taiwanese tech firm HTC and the games 
+company Valve. Valve addeda dedicated VR category 
+<http://store.steampowered.com/steamvr/> to its existing Steam digital games 
+store, while HTC has just launched itsViveport <https://www.viveport.com/> site 
+for non-gaming apps.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F861a6da9d28def0895e63a98c1c6545eab135bae%2F0_314_4896_2938%2F4896.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F861a6da9d28def0895e63a98c1c6545eab135bae%2F0_314_4896_2938%2F4896.jpg>
+ HTC’s Vive has been the most direct competitor for the Oculus Rift so far. 
+Photograph: Chesnot/Getty Images 
+Vive is a direct rival to Oculus Rift, though several games and apps are 
+available for both devices. Like the Rift, it requires a PC to run its 
+software, and HTC helps buyers get the right kit by maintaining a list ofVive 
+Ready <https://www.vive.com/us/ready/> computers, including partners Alienware, 
+HP and MSI.
+
+The Vive has some unique features, including a front-facing camera which, in 
+certain apps, can bring the real world into your virtual environments. You also 
+get two hand-worn gestural controllers in the box, unlike the Rift, which 
+partly explains the higher price.
+
+The Vive also comes with a base station that tracks your movements, so within 
+fairly tight limits you can walk around inside your VR space. This means a 
+longer setup process, comparable to setting up a high-end home-audio system 
+properly rather than just bunging your stereo on a shelf – but as more apps and 
+games use the option, it could prove to be the Vive’s killer feature.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5sJqcs4Rbzo&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5sJqcs4Rbzo>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5sJqcs4Rbzo&media=>
+Price: $799 (£759) includes the headset, two wireless hand-controllers, two 
+base stations and a link box to connect it to your computer.
+
+You’ll also need: a powerful PC – check the recommended specs 
+<https://www.vive.com/us/ready/>.
+
+Best for: anyone who wants the absolute top-spec (for now) home VR system, 
+with a mix of gaming and non-gaming.
+
+Verdict: HTC Vive is the most expensive system on the market, and also the one 
+that takes most effort to set up. Yet once you’ve done that, the ability to 
+walk around within your virtual space, as well as turn your head, is 
+impressive. The involvement of Valve, with its Steam store, means there’s a big 
+community of developers too.
+
+After the success of Pokémon Go!, what is the future for augmented reality?
+ Read more  
+<https://www.theguardian.com/technology/2016/oct/23/augmented-reality-development-future-smartphone>
+10 HTC <https://www.theguardian.com/technology/htc> Vive apps and games to try
+
+ * Job Simulator <http://jobsimulatorgame.com/>: a big word-of-mouth hit; its 
+2050 setting simulates jobs taken over by robots 
+ * Elite: Dangerous <https://www.elitedangerous.com/>: epic space game gets 
+even more epic with a headset 
+ * Cosmic Trip <http://cosmictripvr.com/>: gripping “first-person real-time 
+strategy” game about colonising alien planets 
+ * The Brookhaven Experiment <https://steamcommunity.com/app/440630>: 
+survival-based horror game with plenty of monsters – and scares 
+ * Fantastic Contraption <http://fantasticcontraption.com/>: originally a 2D 
+machine-building puzzler, this works beautifully in 3D and VR 
+ * Tilt Brush <http://store.steampowered.com/app/327140/>: Google’s app is one 
+of the early creative joys in VR: paint in the 3D space around you in a blur of 
+neon 
+ * Jaunt VR 
+<https://www.viveport.com/apps/2545c9e9-6bfb-4fcd-b9bb-70ded929d379>: a great 
+range of made-for-VR videos, from documentaries to music 
+ * Apollo 11 VR 
+<https://www.viveport.com/apps/0d293dbd-7f0e-4e12-a015-766d6a1359a0>: clever 
+historical app that puts you in the moon landing mission 
+ * theBlu <http://store.steampowered.com/app/451520/>: if you enjoyed the 
+BBC’s Blue Planet, this is a must for its glorious VR ocean life 
+ * AltspaceVR <http://store.steampowered.com/app/407060/agecheck>: interesting 
+attempt at social VR, updating the second life virtual world idea for current 
+headsets  <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2F0a994a342f8aa6c026b4c0f76353cdcd851526ea%2F0_273_4096_2459%2F4096.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2F0a994a342f8aa6c026b4c0f76353cdcd851526ea%2F0_273_4096_2459%2F4096.jpg>
+ Sony’s PlayStation VR will soon be on sale. Photograph: Christopher Jue/EPA 
+Sony PlayStation VR
+
+The third big gun in the VR race is Sony’s PlayStation VR headset, which 
+launched in October 2016 as an accessory for the PlayStation 4 games console. 
+Both the PlayStation 4 and newPlayStation 4 Pro 
+<https://www.theguardian.com/technology/2016/sep/07/playstation-4-pro-announced-release-date-and-price-revealed>
+ are compatible with the headsets, but the pro will run VR games at higher 
+screen resolutions and frame rates.
+
+PlayStation VR will use the PS4’s standard console controller, the DualShock 
+4, but you’ll need the $60 PlayStation Camera accessory too.
+
+Sony <https://www.theguardian.com/technology/sony> is keen for PlayStation VR 
+to be more than a solitary experience: a feature called VR Social Screen shows 
+what you’re seeing in the headset on your TV screen, so friends can join in or 
+watch.
+
+PlayStation VR review – there's magic, but the mainstream is a way off
+ Read more  
+<https://www.theguardian.com/technology/2016/oct/06/playstation-vr-review-theres-magic-but-the-mainstream-is-a-way-off>
+Being part of the PlayStation world inevitably means that games are an even 
+bigger focus for PlayStation VR than for Oculus Rift and Vive. Sony has more 
+than 100 games confirmed already, with 50 of them due to arrive by the end of 
+2016.
+
+Price: $399 (£350) for the headset, processor unit, earphones and cables.
+
+You’ll also need: PlayStation Camera, which costs $45 (£39). Although you can 
+use standard PS4 joypads for games, some will support the PlayStation Move 
+motion controllers, which cost $99 (£70) for a twin-pack.
+
+Best for: gamers – or PlayStation 4 gamers at least, since there’s 
+(unsurprisingly) no cross-console compatibility with Xbox One or Nintendo’s 
+consoles.
+
+Verdict: as the first console-connected VR headset out of the blocks, 
+PlayStation VR is also the most affordable high-end model even if you have to 
+buy the PS4 to run it. There are some impressive launch titles, while Sony’s 
+clout means there will be a strong pipeline of titles in the months and years 
+ahead, though there may be slimmer pickings for non-game VR apps.
+
+10 PlayStation VR apps and games to try
+
+ * Rez Infinite <https://www.playstation.com/en-us/games/rez-infinite-ps4/>: 
+brilliant reboot of classic rhythm game Rez 
+ * Tumble VR <https://www.playstation.com/en-gb/games/tumble-vr-ps4/>: clever 
+puzzle game that involves piling up blocks 
+ * EVE Valkyrie <https://www.playstation.com/en-gb/games/eve-valkyrie-ps4/>: 
+this space dogfighter game was specially made for VR, and it shows 
+ * Batman: Arkham VR 
+<https://www.playstation.com/en-gb/games/batman-arkham-vr-ps4/>: crime-solving 
+strategy with the Dark Knight 
+ * Superhypercube <https://www.playstation.com/en-gb/games/superhypercube-ps4/>
+: “first-person puzzler” with trippy graphics 
+ * Thumper 
+<http://blog.us.playstation.com/2016/10/10/thumper-slams-onto-ps4-today/>: 
+racing, shooting and rhythm-action combine 
+ * Job Simulator 
+<https://www.playstation.com/en-us/games/job-simulator-the-2050-archives-ps4/>: 
+a big word-of-mouth hit; its 2050 setting simulates jobs taken over by robots 
+ * PlayStation VR Worlds 
+<https://www.playstation.com/en-gb/games/vr-worlds-ps4/>: from gangsters to 
+racing, this collection of VR mini-games shows off Sony’s VR tech 
+ * Headmaster <https://www.playstation.com/en-gb/games/headmaster-ps4/>: use 
+your noggin to complete a series of football-heading challenges 
+ * Driveclub VR <https://www.playstation.com/en-gb/games/driveclub-vr-ps4/>: 
+slick racing game puts you in the cockpit of 80 motors 
+For a deeper dive into these games, see the Guardian’s VR apps roundup 
+<https://www.theguardian.com/technology/2016/oct/14/playstation-vr-best-launch-games-sony-virtual-reality>
+
+Budget headsets
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DN5L6Qy1CoVA&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DN5L6Qy1CoVA>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DN5L6Qy1CoVA&media=>
+Samsung Gear VR
+
+With Gear VR, we’re into the category of VR headset that use your smartphone 
+as both the screen and processor. Samsung’s headset uses technology from Oculus 
+VR, although it isn’t as powerful as the Rift. It only works with Samsung’s S6 
+and S7 smartphone series, as well as the Galaxy Note7 phablet (though if you 
+still have a Note7 put the device down and step away slowly – the phone has 
+been the subject of aninternational recall 
+<https://www.theguardian.com/technology/2016/oct/19/samsung-galaxy-note-7-fire-damage-owners-angry>
+ after a problem with exploding batteries).
+
+Gear VR can be bought as a standalone device, but some retailers will include 
+one in when you buy a newSamsung 
+<https://www.theguardian.com/technology/samsung> smartphone so it’s worth 
+scouting about for deals.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYXl3dKtfW_Q&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYXl3dKtfW_Q>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYXl3dKtfW_Q&media=>
+Games <https://www.theguardian.com/technology/games> and apps are available 
+through Samsung’s Oculus Home software, with a growing catalogue of apps, games 
+and content. For Samsung owners, the Gear VR is an affordable way to explore 
+virtual reality even if its graphical capabilities – and the processor of the 
+device running its software – are less powerful than its rivals.
+
+Price: $100 (£100) for the headset.
+
+You’ll also need: a recent Samsung smartphone or phablet.
+
+Best for: cost-conscious VR newcomers who don’t want to be tied to a computer 
+or console while exploring virtual worlds and games.
+
+Verdict: Gear VR should help grow a more mainstream audience for VR, and has a 
+growing collection of apps and games. Its one restriction is that it can only 
+be used with Samsung smartphones, so anyone with an iPhone or other Android 
+handset is out of luck.
+
+10 Gear VR apps and games to try
+
+ * Land’s End <https://www.oculus.com/experiences/gear-vr/940410229366998/>: 
+from the makers of Monument Valley, this is an eerie game of exploration 
+ * Minecraft: Gear VR 
+<https://www.oculus.com/experiences/gear-vr/1046887318709554/>: blocky building 
+game suits VR well
+
+ * Keep Talking and Nobody Explodes 
+<https://www.oculus.com/experiences/gear-vr/814885695293688/>: clever 
+multiplayer game – the headset wearer defuses a bomb while friends try to help 
+ * Smash Hit <https://www.oculus.com/experiences/gear-vr/942006482530009/>: 
+inventive rhythm-puzzle game
+
+ * Gunjack <https://www.oculus.com/experiences/gear-vr/969815736436279/>: 
+sci-fi shooter that flings ships and bullets at you 
+ * NextVR <https://www.oculus.com/experiences/gear-vr/858258597574484/>: live 
+sports and music in virtual reality
+
+ * AltspaceVR <https://altvr.com/gear-vr/>: interesting attempt at social VR, 
+updating the second life virtual world idea for current headsets 
+ * The Economist VR 
+<https://www.oculus.com/experiences/gear-vr/1020752464669083/>: intriguing 
+virtual tours from the digitally recreated Mosul Museum to Osaka’s secrets
+
+ * Jaunt VR <https://www.oculus.com/experiences/gear-vr/908725425874327/>: a 
+great range of made-for-VR videos, from documentaries to music 
+ * Within <https://www.oculus.com/experiences/gear-vr/731949250255823/>: 
+bespoke fiction and nonfiction videos made for VR 
+Google Cardboard and Daydream
+
+Cardboard was Google’s first commercial attempt at virtual reality, and yes, 
+the headsets were made of actual cardboard.
+
+Google made the spec for these flat-pack headsets available to other 
+companies, which means there are 13 models fromGoogle’s own 
+<https://vr.google.com/intl/en_uk/cardboard/get-cardboard/> basic $15 model to 
+Speck’s $70 Pocket-VR with CandyShell Grip, although the latter includes a 
+protective case for your smartphone.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-6%23img-6&picture=https%3A%2F%2Fmedia.guim.co.uk%2F572f847a2f284b8aaa51c3f9014cbf36c7d418a0%2F0_176_5616_3369%2F5616.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-6%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3Fpage%3Dwith%3Aimg-6%23img-6&media=https%3A%2F%2Fmedia.guim.co.uk%2F572f847a2f284b8aaa51c3f9014cbf36c7d418a0%2F0_176_5616_3369%2F5616.jpg>
+ Google’s Daydream View is fabric, not plastic (or cardboard). Photograph: 
+Ramin Talaie/Getty Images 
+There are a growing number of apps available on the Android and iOS app 
+stores, from 360-photography to games and documentaries. While not as powerful 
+as more expensive headsets, there is some exciting experimentation going on 
+here.
+
+Google’s follow-up to Cardboard, Daydream 
+<https://vr.google.com/intl/en_uk/daydream/headset/>, was announced in May 
+2016. Its software will be built into the new Android smartphones (it is part 
+of Nougat, the latest version of Android) as well as hardware, in the form of 
+headsets and handheld controllers. Google’s headset, the Daydream View, is made 
+of fabric rather than cardboard, and comes with a motion controller used to 
+translate your gestures into apps and games.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrLLAA4ENIP4&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrLLAA4ENIP4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrLLAA4ENIP4&media=>
+Google services such as YouTube, Street View and Photos will all support 
+Daydream headsets, and launch partners include Netflix, the Wall Street 
+Journal, the New York Times, the Guardian, JK Rowling’s Fantastic Beasts and 
+Major League Baseball who will all provide apps.The Guardian’s offering 
+<https://www.theguardian.com/vr>, Underworld, explores London’s subterranean 
+web of Victorian sewers and lost waterways in the shoes of an urban explorer.
+
+Price: Google Cardboard headsets vary in price, but most are $15-$25 
+(£15-£25). Daydream View costs $79 (£69), including a controller.
+
+You’ll also need: a smartphone – Cardboard headsets and apps support a wide 
+range of Android phones and iPhones. Daydream View is more restricted: at 
+launch it will work with Google’s new Pixel smartphones, but a range of 
+Daydream-supporting Android phones will come out over the next year.
+
+Best for: getting started with VR cheaply and easily, particularly for 
+non-Samsung owners.
+
+Verdict: Daydream View will offer strong competition for the Gear VR. 
+Cardboard is excellent for dabblers, and while some of its apps are fairly 
+limited experiences, others offer plenty to see, do and play.
+
+10 Google <https://www.theguardian.com/technology/google> Cardboard apps and 
+games to try
+
+ * Cardboard 
+<https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo>
+: Google’s own collection of VR demos for Cardboard is a great place to start 
+ * Bohemian Rhapsody Experience 
+<https://play.google.com/store/apps/details?id=com.withgoogle.bohemianrhapsody>
+: Google teamed up with Queen for this fun VR music video 
+ * NYT VR <https://play.google.com/store/apps/details?id=com.im360nytvr>: the 
+New York Times’ take on VR with video news reports 
+ * Star Wars 
+<https://play.google.com/store/apps/details?id=com.disney.starwarshub_goo>: the 
+film’s official app includes the story of Jakku Spy 
+ * Sisters 
+<https://play.google.com/store/apps/details?id=com.otherworld.Sisters>: one of 
+the scariest VR horror apps 
+ * Inside Abbey Road 
+<https://play.google.com/store/apps/details?id=com.withgoogle.insideabbeyroad>: 
+virtual tour of London’s famous Abbey Road Studios 
+ * Cardboard Camera 
+<https://play.google.com/store/apps/details?id=com.google.vr.cyclops>: shoot 
+360-degree photos with sound on your smartphone, then relive them in your 
+headset 
+ * YouTube 
+<https://play.google.com/store/apps/details?id=com.google.android.youtube>: the 
+standard YouTube app, but you can watch its 360 and VR videos come to life 
+through Cardboard 
+ * InMind VR <https://play.google.com/store/apps/details?id=com.nivalvr.inmind>
+: clever medical arcade adventure lets you travel into a patient’s brain 
+ * 6x9 <https://play.google.com/store/apps/details?id=com.guardian.vr>: the 
+Guardian’s compelling exploration of the psychological damage caused by 
+solitary confinement 
+Microsoft in the wings
+
+As well as working on the augmented-reality headset HoloLens, Microsoft is 
+working with hardware partners tomake a range of headsets for Windows PCs 
+<http://www.theverge.com/2016/10/26/13418156/microsoft-windows-10-holographic-virtual-reality-headset-announced-price>
+, starting at $299 when they go on sale in the spring of 2017.
+
+“We’re really thinking how are we going to democratise this technology, how 
+are we going to work with these partners to build devices that can reach all 
+price points, that can reach everyone on the planet,”Microsoft’s Terry Myserson 
+told ZDNet 
+<http://www.zdnet.com/article/microsoft-windows-chief-myerson-talks-windows-10-priorities-vr-headsets-surface-hardware-goals/>
+. “One way you can think about these VR accessories is as an external monitor. 
+It’s not technically accurate, but conceptually I think it works quite well. 
+You put on the headset and you’re looking at another monitor.”
+
+Is our world a simulation? Why some scientists say it's more likely than not
+ Read more  
+<https://www.theguardian.com/technology/2016/oct/11/simulated-world-elon-musk-the-matrix>
+Accessories
+
+A slew of other virtual reality products are coming on to the market beyond 
+the big-name headsets. The early success of Oculus Rift on Kickstarter has made 
+the crowdfunding site a focus for VR startups touting interesting hardware.
+
+From headsets (Impression Pi, ANTVR, Cmoar, Opto, FOVE) to controllers (STEM 
+System, Control VR, Gloveone, iMotion) there are plenty of projects to explore, 
+although be warned – the Oculus, HTC, Sony and Samsung devices receive the 
+lion’s share of attention, so you’ll need to research developer support for 
+each device to work out if it’s compatible with your systembefore committing 
+your cash.
+
+There is also the OSVR project <http://www.razerzone.com/osvr> by gaming 
+hardware company Razer, which is trying to create open standards around VR so 
+that people can mix and match different headsets and accessories. For now, 
+there are two versions of its prototype hacker development kit available to 
+buy, although Razer is hoping manufacturers will use its standards to make 
+their own headsets.
+
+How do you film VR?
+
+The cameras and editing software needed to film and then knit together VR 
+footage involve a whole other level of complexity and expense. At $45,000,
+Nokia’s OZO camera <https://ozo.nokia.com/> is out of most people’s price range 
+but is a good example of the kind of kit that professional film-makers are 
+using.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-7%23img-7&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fa04b61f238138170a9b22c6f33806bb9881bae40%2F0_0_2100_1260%2F2100.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-7%23img-7>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3Fpage%3Dwith%3Aimg-7%23img-7&media=https%3A%2F%2Fmedia.guim.co.uk%2Fa04b61f238138170a9b22c6f33806bb9881bae40%2F0_0_2100_1260%2F2100.jpg>
+ Samsung’s Gear 360 is a more affordable VR camera. Photograph: Samuel Gibbs 
+for the Guardian 
+More affordable is Samsung’s Gear 360 spherical camera 
+<http://www.samsung.com/global/galaxy/gear-360/>, which costs $350, and which 
+has front and rear lenses to capture 180-degree shots both horizontally and 
+vertically to create panoramic video or photo. It’s still an expensive gadget 
+for an average person, but if you want to explore making your own VR videos, 
+it’s a good starting point.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-8%23img-8&picture=https%3A%2F%2Fmedia.guim.co.uk%2F8bdd49dc58711d732126d68958c08d0167d264ce%2F0_0_5472_3283%2F5472.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-8%23img-8>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3Fpage%3Dwith%3Aimg-8%23img-8&media=https%3A%2F%2Fmedia.guim.co.uk%2F8bdd49dc58711d732126d68958c08d0167d264ce%2F0_0_5472_3283%2F5472.jpg>
+ Pokémon Go is the most popular current app using AR technology. Photograph: 
+Thomas Samson/AFP/Getty Images 
+There are a number of other 360-degree cameras available, like the Ricoh Theta 
+S <https://theta360.com/en/>, Kodak Pixpro SP360 4K Action Cam 
+<https://kodakpixpro.com/Americas/cameras/actioncam/sp3604k/>, LG 360 Cam 
+<http://www.lg.com/uk/lg-friends/lg-LGR105>, Giroptic 360cam 
+<http://eu.360.tv/en/> and the Vuze Camera <http://vuze.camera/>. It’s also 
+worth keeping tabs on crowdfunding sites such as Kickstarter and Indiegogo as 
+new camera projects pop up regularly.
+
+360 vs virtual reality
+
+The terms “360” and “virtual reality” are often used interchangeably, but 
+there are important differences. The 360-degree photos and videos are panoramic 
+pics and videos that have been stitched together, so you can turn your head to 
+look around you. But these aren’t virtual worlds: you don’t have free movement 
+to explore them as you do in full virtual reality experiences.
+
+All VR devices offer a mixture of both, however: you can watch 360 videos or 
+explore virtual worlds with Oculus Rift or Google Cardboard.
+
+Augmented reality vs virtual reality
+
+There are other headsets that let you experience digital wizardry but offer a 
+different experience called augmented reality.
+
+While virtual reality is about immersing you in an entirely virtual world, 
+viewed through a screen in your headset, the real world outside you isn’t part 
+of the experience – at least not until you trip over the cat or accidentally 
+knock out your child while immersed elsewhere. But augmented reality, as the 
+name suggests, is about augmenting oradding to reality reality. You might be 
+looking at your cat or up your street, but there could be digital characters 
+and content overlaid on them.
+
+Glass, the hi-tech spectacles launched by Google in 2014, were an AR device, 
+but the company has given up on trying to sell them as a mainstream idea. More 
+hardware is on the way, however:Microsoft’s HoloLens 
+<https://www.theguardian.com/business/2016/sep/19/hololens-the-virtual-reality-headset-for-elevator-repair>
+ will be the augmented reality equivalent of PlayStation VR and with a similar 
+emphasis on gaming; the popular Minecraft has been one of the key demos for it.
+
+Meanwhile, a Florida-based startup called Magic Leap has raised an astonishing 
+$1.4bn in funding forits AR headset and technology 
+<https://www.theguardian.com/technology/2016/jun/07/magic-leap-headset-design-patent-virtual-reality>
+, giving only afew teasers 
+<https://www.youtube.com/channel/UC2E1x3l45YUO2eOhRv-A7lw> on what it looks 
+like and how it will work.
+
+For now, the most affordable way to try augmented reality is through 
+smartphone apps, which overlay text and graphics on the feed from the camera. 
+The game Pokémon Go and the face-mangling lenses in Snapchat both use augmented 
+reality. Others are more specific: the DFS Sofa and Room Planner (see how a new 
+sofa might look in your living room), Plane Finder AR (see where that plane 
+overhead is going by pointing your camera at it) and Mardles (make 3D 
+characters jump out of stickers for kids).
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-9%23img-9&picture=https%3A%2F%2Fmedia.guim.co.uk%2F4230732993b258eed3a2e8773d7a7429bb11eb0e%2F0_101_3500_2101%2F3500.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-9%23img-9>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3Fpage%3Dwith%3Aimg-9%23img-9&media=https%3A%2F%2Fmedia.guim.co.uk%2F4230732993b258eed3a2e8773d7a7429bb11eb0e%2F0_101_3500_2101%2F3500.jpg>
+ Facebook’s CEO, Mark Zuckerberg, sees VR as a social technology, not just a 
+gaming one. Photograph: Stephen Lam/Reuters 
+Virtual reality beyond gaming
+
+Games loom large in modern-day VR, partly because the original Oculus Rift and 
+PlayStation VR headsets were made primarily for gamers, and also because games 
+are the most easily understandable entertainment category to show off this 
+technology. But as Mark Zuckerberg explained after announcing Facebook was 
+buying Oculus VR, there’s a lot more to this than just games.
+
+“This is just the start. After games, we’re going to make Oculus a platform 
+for many other experiences. Imagine enjoying a courtside seat at a game, 
+studying in a classroom of students and teachers all over the world or 
+consulting with a doctor face to face – just by putting on goggles in your 
+home,”wrote Zuckerberg <https://www.facebook.com/zuck/posts/10101319050523971>.
+
+“This is really a new communication platform. By feeling truly present, you 
+can share unbounded spaces and experiences with the people in your life. 
+Imagine sharing not just moments with your friends online, but entire 
+experiences and adventures.”
+
+Journalism and film-making
+
+Hundreds of developers are working on VR games, but there is lots of activity 
+around other kinds of entertainment and media too. Journalists, film-makers and 
+a growing number of documentary-makers are using 360-degree cameras to find new 
+angles on stories, if you’ll pardon the pun.
+
+Film-maker Chris Milk set up his virtual reality company in 2014 to produce 
+and distribute VR documentaries, and offers films shot in New York, Cuba and 
+even Syria. “I’m not interested in the novelty factor,”Milk told the Guardian 
+in 2015 
+<https://www.theguardian.com/technology/2015/jan/29/virtual-reality-documentary-middle-man-journalism-chris-milk-film>
+. “I’m interested in the foundations for a medium that could be more powerful 
+than cinema, than theatre, than literature, than any other medium we’ve had 
+before to connect one human being to another.”
+
+Traditional media companies have also experimented with VR journalism, from 
+the New York Times VR 
+<https://www.theguardian.com/media/2015/oct/20/new-york-times-google-nyt-vr-cardboard-virtual-reality>
+ films to theGuardian’s 6x9 project 
+<https://www.theguardian.com/world/ng-interactive/2016/apr/27/6x9-a-virtual-experience-of-solitary-confinement>
+, which explores solitary confinement. As the cost of shooting and editing VR 
+footage comes down, expect to see more media companies exploring the potential.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-10%23img-10&picture=https%3A%2F%2Fmedia.guim.co.uk%2F9d4c94179fa07cb0dd3c4bc97f35d45170270d7c%2F0_0_5000_2500%2F5000.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-10%23img-10>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3Fpage%3Dwith%3Aimg-10%23img-10&media=https%3A%2F%2Fmedia.guim.co.uk%2F9d4c94179fa07cb0dd3c4bc97f35d45170270d7c%2F0_0_5000_2500%2F5000.jpg>
+ A screenshot from Within’s VR app. 
+Social media
+
+When Mark Zuckerberg announced that Facebook was to buy Oculus, he said that 
+virtual reality could be the next big social platform and connect more than a 
+billion people. That seems a contradiction when the current version of software 
+being created for these headsets is focused on solo experiences while wearing a 
+device that isolates you from the people around you.
+
+Yet some companies are trying to make VR more social. Oculus has launched “
+Social Beta <https://www.oculus.com/experiences/gear-vr/825923220795204/>” 
+software that enables people to watch online video services Twitch and Vimeo in 
+a virtual cinema with other people. It has also shown off Toybox, a prototype 
+virtual toy-room where two people can interact with a range of objects together.
+
+Tech startups are exploring social VR too. AltspaceVR <http://altvr.com/> 
+wants people to “be together in a more natural way than a phone call, text or 
+video chat” by creating avatars and wandering around its virtual worlds, and is 
+available for some headsets already. Its rivalvTime <https://vtime.net/> is 
+available for Gear VR, Oculus Rift and Google Cardboard, styling itself as a 
+“sociable network” for people to meet up for avatar-based chat.
+
+Sports and music
+
+Would you watch a football match or music concert in a virtual world? A number 
+of companies hope so, and are busy building the technology.
+
+NextVR <http://www.nextvr.com/#/> is focusing on sport and entertainment, and 
+has already worked on the US Open tennis tournament and several boxing matches, 
+as well as a live Coldplay gig. It is preparing to produce a series of music 
+concerts with live promoter Live Nation.
+
+Another company, Voke <http://vokevr.com/live-virtual-reality-entertainment>, 
+is working with stars including Ricky Martin and Marc Anthony, whileLiveLike 
+<http://www.livelikevr.com/#sectionHome> wants to broadcast sports matches in 
+VR for friends to watch together while chatting. British broadcaster Sky 
+recently launched aGoogle Cardboard app 
+<https://www.theguardian.com/business/2016/oct/03/sky-360-videos-vr-app-beckham-star-wars>
+, which includes a sports show fronted by David Beckham alongside news reports 
+and videos from Disney and Star Wars.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-11%23img-11&picture=https%3A%2F%2Fmedia.guim.co.uk%2F85132b8de12de50012e3a3f62e021217f7aef5f7%2F0_0_700_347%2F700.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-11%23img-11>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3Fpage%3Dwith%3Aimg-11%23img-11&media=https%3A%2F%2Fmedia.guim.co.uk%2F85132b8de12de50012e3a3f62e021217f7aef5f7%2F0_0_700_347%2F700.jpg>
+ TheWaveVR will soon launch its music VR app. 
+Tourism
+
+One of the key selling points for VR technology is its ability to put you in 
+places you’re unlikely to visit in the flesh, whether too expensive, too 
+dangerous, out of bounds because of mobility issues or just because you don’t 
+like flying.
+
+You can already use VR to climb Everest <http://www.solfar.com/everest-vr/>, 
+explore the Grand Canyon 
+<http://www.immersiveent.com/the-grand-canyon-vr-experience/>, take a gondola 
+ride in Venice <http://www.discoveryvr.com/watch/gondola-ride-in-venice/details>
+ and watch a range ofstartling 360-degree videos 
+<https://www.youtube.com/playlist?list=PLSSPBo7OVSZt1kg5D2Z13-sBn9TqzTbUV> 
+published by wearable-cameras firm GoPro from around the world. Looking even 
+further afield,Mars 2030 
+<http://www.roadtovr.com/nasa-fusion-mars-2030-virtual-reality-size-of-skyrim/> 
+will let you wander around the surface of Mars.
+
+Oculus VR sees the potential in virtual travel. “There’s clearly value in 
+real-world experiences: going to do things. That’s why we have field trips. The 
+problem is that the majority of people will never be able to do the majority of 
+those experiences,”claimed its founder Palmer Luckey in 2015 
+<https://www.theguardian.com/technology/2015/nov/03/oculus-vr-founder-classrooms-are-broken>
+.
+
+“People could say: ‘But visiting France virtually will never be the same as 
+visiting Paris in the real world.’ Well, it might not be the same. What matters 
+a lot more is that everybody is able to experience it.”
+
+Medical and therapeutic
+
+
+Virtual reality technology is also being explored by the healthcare industry. 
+Medical Realities is a company using VR, AR and games to train medical 
+students, with itsVirtual Surgeon <http://www.medicalrealities.com/> programme 
+enabling them to experience operations from the surgeon’s perspective. The 
+companylive-streamed an operation 
+<https://www.theguardian.com/technology/2016/apr/14/cutting-edge-theatre-worlds-first-virtual-reality-operation-goes-live>
+ earlier this year to test its tech.Osso VR <http://www.ossovr.net/>, 
+meanwhile, has developed surgery simulation for trainees, which works with 
+Oculus Rift and HTC Vive.
+
+The Los Angeles Cedars-Sinai hospital is also exploring whether VR can have 
+therapeutic value <https://www.youtube.com/watch?v=zpcNhnU-Aaw>, helping 
+patients relax by flying above Iceland in a helicopter or swimming with whales, 
+whileMindMaze <http://www.mindmaze.ch/> is making VR software that could play a 
+role in the rehabilitation of stroke, spinal-cord injury and amputee patients.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-12%23img-12&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fd2a4d9cf126366eb20293efbb56d3e50145ffc93%2F0_28_1030_618%2F1030.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-12%23img-12>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20complete%20guide%20to%20virtual%20reality%20%E2%80%93%20everything%20you%20need%20to%20get%20started&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fnov%2F10%2Fvirtual-reality-guide-headsets-apps-games-vr%3Fpage%3Dwith%3Aimg-12%23img-12&media=https%3A%2F%2Fmedia.guim.co.uk%2Fd2a4d9cf126366eb20293efbb56d3e50145ffc93%2F0_28_1030_618%2F1030.jpg>
+ Medical Realities’ The Virtual Surgeon puts trainees inside an operating 
+theatre. Photograph: Medical Realities 
+Adult entertainment
+
+Well, this was inevitable. Porn producers are famous early adopters of new 
+audio/visual technology, and that trend has continued into VR. From 
+point-of-view videos to animated sex simulations – and evena dedicated VR 
+category on popular site PornHub 
+<http://venturebeat.com/2016/03/23/hands-on-pornhub-vr/> – if there’s money to 
+be made from virtual reality, chances are the adult-entertainment industry will 
+find it first. Even if the results are “cold, silly, downright terrifying 
+<https://www.theguardian.com/technology/2015/jul/09/how-virtual-reality-porn-could-bring-about-world-peace>
+” for some viewers.
+
+What next?
+
+As a technology, virtual reality already has decades of experimentation (and 
+hype) behind it, even if it is still early days for this latest generation of 
+devices. That means you can expect the technology to improve rapidly, while the 
+first few waves of apps and games are still figuring out how to make the most 
+of it.
+
+There’s a good argument for waiting until the technology, and the content 
+created for it, is more established, more compelling and cheaper. But equally, 
+there’s delight to be had in being one of the first to explore a whole new 
+virtual world of entertainment, information and communication, as thousands of 
+developers, games designers and film-makers explore the medium and its new 
+creative potential.
+
+Whether you’re an enthusiast, a sceptic, or somewhere in the middle, 2017 is 
+going to be a big year in figuring out the real potential for this technology. 
+When your grandkids ask where you were virtual reality took off, what will you 
+say?
+ 

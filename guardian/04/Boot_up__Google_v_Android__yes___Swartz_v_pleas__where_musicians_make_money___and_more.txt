@@ -1,0 +1,149 @@
+
+A quick burst of 9 links for you to chew over, as picked by the Technology team
+
+Red October attackers shutting down C&C infrastructure >> threatpost 
+<https://threatpost.com/en_us/blogs/red-october-attackers-shutting-down-cc-infrastructure-011813>
+
+It appears that the attackers behind the Red October cyberespionage campaign 
+are taking their ball and going home. Since the attack came to light on Monday, 
+the attackers have begun shutting down their infrastructure and the hosting 
+providers and registrars involved with some of the command-and-control domains 
+are shutting those down, as well.
+
+ The Red October campaign 
+<https://www.securelist.com/en/blog/785/The_Red_October_Campaign_An_Advanced_Cyber_Espionage_Network_Targeting_Diplomatic_and_Government_Agencies>
+ has been ongoing for more than five years and the as-yet-unknown attackers 
+behind it have been focusing their attention on a variety of targets, including 
+embassies, research facilities, military facilities and other high-value 
+institutions.
+
+Aaron Swartz and the corrupt practice of plea bargaining >> Forbes 
+<http://www.forbes.com/sites/timothylee/2013/01/17/aaron-swartz-and-the-corrupt-practice-of-plea-bargaining/>
+
+All in the US justice system's methods: 
+
+The Supreme Court would never allow a judge to impose a stiffer sentence on a 
+defendant because he took the Fifth Amendment, asked to confront his accuser, 
+or hired an attorney. But none of these rights matter if the defendant never 
+gets to trial. And thanks to the legal fiction that plea bargaining is a 
+voluntary negotiation between the prosecutor and defendant, our justice system 
+effectively gives people dramatically longer sentences for exercising the right 
+to have a trial at all.
+
+ Thanks in part to this kind of coercion, more than 90 percent of defendants 
+waive their right to a jury trial. For the majority of defendants, then, the 
+plea bargaining process is the justice system. As a result, prosecutors wield 
+an immense amount of power with very little accountability.
+
+What does Google need from Android? >> Benedict Evans 
+<http://ben-evans.com/benedictevans/2013/1/20/what-does-google-need-from-android>
+
+[With Google Now,] Google <https://www.theguardian.com/technology/google> is 
+giving you useful titbits, but it is also mining far more data than it would 
+get from a PC user - data to improve search relevance and advertising relevance.
+
+ In other words, Android, like Plus, allows Google to tie searches and 
+advertising to individual people and places. In the long term, the data that 
+Google gets from Android users is probably just as important as Pagerank in 
+understanding intent and relevance in search.
+
+ Hence, the real structural benefit to Google from Android now comes from the 
+understanding it gives of actual users, and the threat comes from devices that 
+do not provide this data - even if, like the iPhone, they do provide plenty of 
+search traffic.
+
+ Obviously, Google's access to this data on non-Android platforms is pretty 
+partial, but the problem also applies to significant parts of the Android base. 
+In China the problem is near-absolute. Google services are mostly blocked 
+anyway, almost all Android phones ship with no Google services installed (i.e. 
+they are based on the open source AOSP version of Android) and hence Google 
+gets close to zero practical benefit from the explosive growth of Android 
+there...
+
+ To put that another way, Google's penetration of Android is as important as 
+Android's penetration of the handset market.
+
+A fun and beautiful way to animate your photos >Cinemagr.am 
+<http://cinemagr.am/>
+
+A fun and beautiful way to animate your photos.
+
+ From February 2012 - does for animated GIFs what Instagram did for photos. 
+Some Nokia Lumia handsets now offer the same function built in.
+
+An early tale of the internet >> NYTimes.com 
+<http://bits.blogs.nytimes.com/2012/12/26/an-early-tale-of-the-internet/>
+
+Peter Hart: 
+
+SRI International, where I was the director of the AI Center, was periodically 
+visited by US government auditors. One day I got a call from an internal 
+contracts administrator telling me to expect such a visit- in other words, I 
+was supposed to be on my best behavior.
+
+ The government auditor soon appeared in my office, armed with a no-nonsense 
+demeanor and a bulging briefcase. He pulled up a chair, pulled a file from his 
+briefcase, and without preamble said in an authoritarian tone of voice, "Dr. 
+Hart, it says here that you've received 2,493,786,916 packets of bits. Is that 
+correct?"
+
+ I certainly hadn't expected that question, but I was on my best behavior, so 
+I politely replied, "Well, I'm not sure of the exact number, but that sounds 
+about right."
+
+ Now read on.
+
+Ending the infographic plague >> The Atlantic 
+<http://www.theatlantic.com/business/archive/2011/12/ending-the-infographic-plague/250474/>
+
+Megan McArdle: 
+
+Now that Obama's dog has won the War on Christmas, or something, it's time to 
+get down to a war that really matters: the war on terrible, lying infographics, 
+which have become endemic in the blogosphere, and constantly threaten to break 
+out into epidemic or even pandemic status.
+
+ The reservoir of this disease of erroneous infographics is internet marketers 
+who don't care whether the information in their graphics is right ... just so 
+long as you link it. As a Christmas present to, well, everyone, I'm issuing a 
+plea to bloggers to help stop this plague in its track.
+
+ You'd hope, right? McArdle points out the errors in a few infographics. 
+However this post is from 23 December... 2011.
+
+Empty States >> Tumblr <http://emptystates.tumblr.com/>
+
+What does an app show you when it has nothing to show you?
+
+Google happy to see Acer, Asustek launch inexpensive tablets to hike Android 
+penetration, say Taiwan makers >> Digitimes 
+<http://www.digitimes.com/news/a20130117PD216.html>
+
+As Acer and Asustek Computer will soon launch 7-inch tablets for sale at about 
+US$149, Google, although having cooperated with Asustek to develop the Nexus 7, 
+is not worried about the competitive impact of US$149 tablets on sales and 
+instead hopes the launches will increase the global market share of Android 
+tablets, according to supply chain makers.
+
+ Keen price. Yet they don't seem very ambitious despite the price: Acer's only 
+aiming to ship 0.5m tablets in its first quarter, and Asus is aiming at 5m-6m 
+for the whole year.
+
+How you turn music Into money in 2012 (spoiler: mostly iTunes) >> The Atlantic 
+<http://www.theatlantic.com/technology/archive/2012/08/how-you-turn-music-into-money-in-2012-spoiler-mostly-itunes/260678/>
+
+Just taking a first look at these data, it becomes clear that buying music 
+from artists directly - through iTunes, Amazon or Bandcamp - is the best thing 
+you can do to support their music-making. [The cellist Zoe] Keating made 97% of 
+her revenue through people just buying her music, whether through physical 
+sales or digital download. Spotify subscribers pay their ten bucks a month for 
+the service, and that even feels like a healthy little monthly gift to 
+music-making. But it's not nearly as helpful to the artists as buying an album 
+or a song from iTunes, Bandcamp or Amazon.
+
+ The comparison of radio income with that from Pandora is surprising too.
+
+You can follow Guardian Technology's linkbucket on Pinboard 
+<http://pinboard.in/u:guardiantech>. To suggest a link, either add it below or 
+tag it with @gdntech on the freeDelicious <http://www.delicious.com/> service.
+ 

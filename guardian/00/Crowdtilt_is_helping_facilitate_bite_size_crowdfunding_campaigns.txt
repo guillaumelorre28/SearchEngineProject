@@ -1,0 +1,167 @@
+
+Ahead of the Activate London Summit 2014 
+<https://www.theguardian.com/media-network/2014/may/02/activate-london-2014-programme>
+, James Beshara, co-founder and CEO of Crowdtilt, spoke to us about the growth 
+of crowdfunding, executing a successful campaign and how it's helping to 
+transform the world through shared resources and collective action.
+
+1) Can you tell us a little about Crowdtilt and your reasons for founding it?
+Crowdtilt is an easy, versatile way to collect, fundraise or pool money with a 
+group, whether you're renting a holiday home together, trying to save a local 
+toystore orsending the Jamaican Bobsled team to the Sochi Olympics 
+<http://www.sporttechie.com/2014/02/04/crowdtilt-accepts-30k-dogecoin-donation-putting-jamaican-bobsled-team-over-100k-olympics-fundraising-goal/>
+. We started the company in 2012 in Texas and are currently based in 
+California, but my inspiration for the business actually came from my first 
+crowdfunding related startup in South Africa.
+
+After studying development economics at university, I went on to do a research 
+fellowship in Uganda, Rwanda, and South Africa. This led to my first 
+out-of-college job working in poverty alleviation right outside Cape Town, 
+South Africa. During this time, I saw a really interesting opportunity for 
+people to invest in microfinance and microinsurance organisations that provided 
+group loans online. (Keep in mind, this was before crowdfunding went 
+mainstream; I don't think I had even heard the term before.)
+
+I ended up building a site called Dvelo.org that let people lend money to 
+these self-sustaining organisations and earn a return. Even more importantly, 
+they could get their friends and family involved and pool their investments 
+together to increase their impact.
+
+After two years of working and building the site in Cape Town, I moved back to 
+the US, and I realised that this was the next stage of the web: people 
+collaborating with their networks on how to spend their money. That's when I 
+knew crowdfunding was going to be a much bigger concept than just extending 
+group loans to developing communities. It was potentially a decade-defining 
+movement: our wallets, connected.
+
+2) With hundreds of crowdfunding sites in existence, how is Crowdtilt 
+different?
+We differ from other platforms in two main ways. One is that we facilitate 
+more bite-sized crowdfunding campaigns. Because our product is extremely social 
+and easy to use, it's an ideal way for friends and family to split smaller 
+goals of $200 to $2,000 (or whatever amount you choose), which can be applied 
+towards paying for birthday gifts or summer time shares.
+
+The other main difference – and one of my main areas of focus – is that we 
+provide flexible tools for others to build on top of our platform. Since my 
+co-founder and I are technical in nature, we often think about how developers 
+would want to interact with Crowdtilt. As a result, we recently launchedthe 
+first crowdfunding API, <https://www.crowdtilt.com/learn/developers> the 
+company's first end-to-end open source crowdfunding tool, and we're about to 
+launch our second set of APIs to making building on top of and integrating our 
+technology even easier.
+
+3) Since launch, you've run more than 100,000 campaigns across all your 
+products. What changes have you made as the company has grown? Were any of 
+these user-generated?
+Last year, Crowdtilt wrote a blog post about the idea for an open source, 
+customisable, free tool that could power crowdfunding locally and 
+internationally. The post generated a ton of interest, including an email 
+response from Soylent, a nutritional drink company that became an internet 
+sensation that summer.Soylent had been rejected by Kickstarter 
+<http://www.crowdfundinsider.com/2014/01/29806-self-crowdfunding-superstar-soylent-delays-shipping/>
+ and they didn't want to build their own crowdfunding software, so they asked 
+if our tool could be ready for them by the following week. We worked for three 
+nights in a row, non-stop. The result? Our first Crowdtilt open platform 
+project powered by our API.
+
+Soylent has since surpassed $3m in orders from more than 20,000 supporters 
+around the world, and it was one of the top crowdfunding campaigns of 2013. In 
+February, we formally launchedCrowdtilt Open <https://open.crowdtilt.com/>, our 
+open source, white-labelled enterprise tool. It is the first free, customisable 
+crowdfunding solution which allows brands and businesses total control of their 
+look and feel, user experience, funding goals, URL hosting, and communications.
+
+4) What three tips would you give someone planning a crowdfunding campaign?
+Focus on the first four hours. Whether it's crowdfunding a party-boat cruise 
+with friends or launching a new product, we've seen that the first four hours 
+are critical for building momentum. People only want to donate to campaigns 
+that have traction and "social proof". So to help jumpstart a campaign, 
+maintain a waiting list of potential donors that you know will jump onboard 
+once the page goes live, inspiring others to follow suit. And don't be afraid 
+to text your best friends for initial support.
+
+Secondly, take advantage of three specific days during your campaign: your 
+first day, the day it "tilts" and hits its initial goal, and the last day. Each 
+of these moments is a chance to boost interest and multiply the donations and 
+enthusiasm you receive, and incorporate these milestones into your campaign 
+plan. Every hour you plan beforehand will pay incredible dividends when you 
+launch.
+
+Third, involve your supporters. The most important thing driving your campaign 
+isn't the money or rewards – it's the community of lifelong supporters that 
+you're building. These are the people who will be core to your campaign 
+success. They want to be a part of your story, so get them involved: craft 
+bulletproof email pitches that they can send out to their friends, and 
+congratulate them when they help you hit milestones. Send thank you messages 
+throughout the campaign (not after), and inspire them with exclusive updates 
+that they can't get anywhere else. In short, involve your supporters as much as 
+you can in making your goal happen.
+
+5) How do you think crowdfunding is going to develop?
+I honestly think crowdfunding is going to drive 10 to 15% of commerce on the 
+web in five years. It has the chance to truly transform the world around us, 
+but only if companies can provide beautifully simple, but still specifically 
+tailored tools and supplementary experiences that serve a number of different 
+audiences. It will definitely be a fun space to watch mature.
+
+Like the idea of blogging 10 years ago, crowdfunding will start to spill into 
+our daily lives from a consumer standpoint (think a Twitter-like tool for 
+crowdfunding). At the same time, crowdfunding will also expand beyond 
+individual users and be adopted by large brands and businesses, and be woven 
+into the fabric of online commerce.
+
+6) What's next for Crowdtilt?
+International expansion!
+
+7) Finally, what is your message for the delegates attending the Guardian's 
+Activate London <https://www.theguardian.com/media-network/activate-london> 
+Summit?
+Our team envisions a world shaped by crowdfunding and collaboration – one that 
+can be positively transformed through shared resources and seamless collective 
+action, where groups and communities can organise themselves to re-define and 
+create their world together. It may sound buzzy, but it's truly how we see the 
+future.
+
+Quick questions:
+
+What time do you get up in the morning? I get up each morning around 9am. This 
+may surprise people but I tend to work well into the early hours of the morning 
+because it gives me space and peace to focus.
+
+What's the first thing that you do when you get to the office? First stop is 
+the fridge to grab two Starbucks double espresso drinks.
+
+How often do you check your email throughout the day? Constantly. I like to be 
+in the know but try to only answer emails three times a day so I don't get 
+sidetracked.
+
+What do you do to relax? Meditation.
+
+What app can't you live without? Spotify. I like to listen to jazz while I'm 
+working.
+
+What device can't you live without? My fly-fishing rod. Fishing is also a form 
+of meditation for me.
+
+What's your go to source for news? My wife, Cheney.
+
+What's the favourite campaign that's run on Crowdtilt? I believe strongly in 
+the potential for civic crowdfunding as an opportunity for communities to 
+define their environments. I often think about the elementary school in Utah 
+that lost its science programme because of a lack of resources. The parents of 
+the students crowdfunded $34k to pay a science teacher so that their children 
+got a better education.
+
+James Beshara is co-founder and CEO of Crowdtilt. <https://www.crowdtilt.com/> 
+He is speaking at this year'sGuardian Activate London Summit 2014 
+<https://www.theguardian.com/media-network/2014/may/02/activate-london-2014-programme>
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media Network content is editorially independent except for 
+pieces labelled 'Advertisement feature'. Find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

@@ -1,0 +1,44 @@
+
+The Federal Communications Commission has approved the acquisition of DirecTV 
+by rival AT&T for $48.5bn, but with one especially large catch that the 
+regulator’s chairman, Tom Wheeler, said “would directly benefit consumers”: the 
+new mega-company has to build a network 10 times the size of AT&T’s current 
+network of fiber optic cable.
+
+AT&T also won’t be able to exclude its own video services and content from 
+data caps and will have to submit all interconnection agreements to the FCC 
+itself. A spat over the latter has resulted in low speedsplaguing AT&T 
+customers in Atlanta 
+<https://www.theguardian.com/technology/2015/jun/22/major-internet-providers-slowing-traffic-speeds>
+, according to a study of users conducted by internet activists BattlefortheNet.
+
+If AT&T agrees to the terms, the FCC said the resulting network would serve 
+12.5 million customer locations and increase the number of Americans with 
+“fiber-to-premise” access by more than 40%.
+
+“Importantly, we will require an independent officer to help ensure compliance 
+with these and other proposed conditions,” Wheeler wrote in a public statement. 
+“These strong measures will protect consumers, expand high-speed broadband 
+availability and increase competition.”
+
+
+Ironically, the expense of laying new cable to reach new markets is one of the 
+reasons for market consolidation of exactly this kind – it takes years, costs 
+millions and reaches areas of ever-decreasing population density as the market 
+matures and smaller and smaller areas gain access to broadband. Now, AT&T will 
+have to commit to expansion in order to consolidate.
+
+The FCC’s decision came with the Justice Department’s stamp of approval, as 
+well (the most recent merger to come before the FCC, between Comcast and Time 
+Warner Cable, was opposed by both agencies and ultimatelyrejected in April 
+<https://www.theguardian.com/media/2015/apr/23/comcast-time-warner-merger-fcc-hearing-death-sentence>
+).
+
+“After an extensive investigation, we concluded that the combination of AT&T’s 
+land-based internet and video business with DirecTV’s satellite-based video 
+business does not pose a significant risk to competition,” said Assistant 
+Attorney General Bill Baer of the DoJ’s antitrust division. “Our investigation 
+benefitted from the division’s close and constructive working relationship with 
+the FCC. The commitments that the proposed FCC order includes, if adopted, will 
+provide significant benefits to millions of subscribers.”
+ 

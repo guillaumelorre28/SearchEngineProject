@@ -1,0 +1,52 @@
+
+Apple, Microsoft <https://www.theguardian.com/technology/microsoft>, Google, 
+Samsung, Twitter, Facebook and 56 other technology companies have joined 
+together to reject calls for weakening encryption saying it would be “exploited 
+by the bad guys”.
+
+
+After Apple’s chief executive Tim Cook’s claims that “any backdoor is a 
+backdoor for everyone”, the Information Technology Industry Council, which 
+represents 62 of the largest technology companies worldwide,said 
+<https://www.itic.org/news-events/news-releases/tech-responds-to-calls-to-weaken-encryption>
+: “Encryption is a security tool we rely on everyday to stop criminals from 
+draining our bank accounts, to shield our cars and airplanes from being taken 
+over by malicious hacks, and to otherwise preserve our security and safety.”
+
+The debate over encryption, which has become the bedrock of the internet used 
+by almost every transmission that needs to be secure and increasingly those 
+that don’t, has erupted after the terrorist attacks on Paris.
+
+The Information Technology Industry Council’s chief executive, Dean Garfield, 
+said: “Weakening security with the aim of advancing security simply does not 
+make sense.”
+
+Tech industry groups urge US to avoid policies that would weaken encryption
+ Read more  
+<https://www.theguardian.com/technology/2015/jun/09/tech-industry-groups-obama-policies-encryption>
+End-to-end encrypted communications mean that only the sender and receiver can 
+view the contents of the message, which governments say has put intelligence 
+services at a disadvantage.
+
+Governments, including the UK’s, have said that backdoors – holes in the 
+security software powering various forms of encryption – should be created 
+through which security services could view communications.
+
+Garfield said: “Weakening encryption or creating backdoors to encrypted 
+devices and data for use by the good guys would actually create vulnerabilities 
+to be exploited by the bad guys, which would almost certainly cause serious 
+physical and financial harm across our society and our economy.”
+
+Security experts have previously described David Cameron as “living in cloud 
+cuckoo land” over his suggestions that encrypted messaging apps should be 
+banned.
+
+Should technology companies refuse to include means through which governments 
+and security agencies can break encryption, banning would only impact the 
+lawful as it will be very hard to stop terrorists or other groups from using 
+software that uses encryption.
+
+ * The Guardian view on encryption: the problem is obvious but the answer is 
+still elusive 
+<https://www.theguardian.com/commentisfree/2015/nov/22/the-guardian-view-on-encryption-the-problem-is-obvious-but-the-answer-is-still-elusive>
+ 

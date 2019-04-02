@@ -1,0 +1,88 @@
+
+Last month I wrote about the huge exercise that has been underway this year of 
+moving the whole of the Guardian's online operations over to the 'new 
+generation' site that will integrate all the paper's output, wherever 
+generated, into one system. This has been designed to present material in 
+formats that are user-friendly on all the devices that people now use to access 
+the paper, not just on desktops and laptops. The trend to the smaller mobile 
+screen is accelerating all the time and the Guardian is, for obvious reasons, 
+intent on keeping pace with the market.
+
+In the past few months new formats for the crosswords have been beta-tested to 
+see what problems they produce on the smaller screens. The development team is 
+extremely grateful to all of you who have tried out and commented on these new 
+formats, because online crosswords present a whole range of issues that are not 
+shared with other parts of the operation. However, I fear that not everyone can 
+be pleased all of the time. For example, there is an irreconcilable conflict 
+between those who want the black squares to be as grey as possible so as to 
+save on the horrendous cost of computer printer ink and those who want the 
+black squares to be as black as possible so as to have a sharp contrast with 
+the white squares.
+
+We have now reached the point where the majority of you are by choice using 
+the new formats and, in general, approving of them. Accordingly, in the next 
+couple of weeks the old version will be switched off. To anticipate the 
+question 'Is it not possible to keep both the old and the new sites running in 
+tandem (as they have been during the period of beta-testing)?' the answer is 
+'No'.
+
+The reason is that the new site is based on completely updated architecture, 
+which is more stable, better able to handle small-screen formats and is 
+incompatible with the architecture of the old existing site. Continuing to 
+support the old site alongside the new is not viable in terms of computer staff 
+or money.
+
+The development team's guiding principle has been that the new site should aim 
+to be at least as good as the old in all respects. Given the range of devices 
+and apps now available (to say nothing of the choice of browsers), this is a 
+tall order. Some of you will inevitably experience difficulties and 
+frustrations with the changeover. Some of these will be of the sort that 
+adjusting to any new electronic device or program throws up, but some of them 
+will doubless be caused by the way in which your particular browser or device 
+works. Either way, you are urged to send a description of the difficulty, 
+including the details of the browser, device or app that you may be using, to
+crosswords.beta@theguardian.com <mailto:crosswords.beta@theguardian.com> 
+(copied, if possible, to me atcrossword.editor@theguardian.com 
+<mailto:crossword.editor@theguardian.com>).
+
+Similarly, the development team would welcome suggestions as to how the new 
+site could be further improved.
+
+Already, the team has taken on board many of the suggestions you have made. 
+The clues and the grids have been made more legible and each puzzle should now 
+print out on one page. Because of the variety of screen sizes that you use, it 
+has been impossible to have the same system for viewing clues on all devices. 
+With desktop and laptop machines you will be able to see all the clues at the 
+same time, with the selected one highlighted on the right. With tablets (and 
+the like) the full list of clues will scroll, with the grid remaining fixed. 
+With mobiles, the selected clue will show at the top, to save you having to 
+scroll up and down all the time.
+
+If you post or read 'comments' under a puzzle, you will now be able to see the 
+time at which they were posted. The archive search facility has been included 
+and the anagram testing facility has been improved.
+
+There are still some very desirable improvements to the site that it has not 
+proved possible to make at this stage, such as the fact that the Saturday prize 
+puzzle cannot be submitted online and that the present 'temporary' Genius 
+submission form is very clumsy. But one day …
+
+_____
+
+The September Genius (No 147 set by Paul) got 332 entries by the deadline. 
+There were 16 on the first Monday. First to the finishing line was M1f at 
+02:46. Then came a New Zealander (DR) at 03:48 and an Australian regular (PSC) 
+at 08:19. The next Brit home was NM at 08:19.
+
+Congratulations to Dr Michael Ewart from North Berwick, East Lothian, who is 
+the winner of the September Genius competition.
+
+_____
+
+If you have any technical problems with our crossword service, please email 
+userhelp@theguardian.com <mailto:userhelp@theguardian.com>. If you have any 
+comments or queries about the crosswords, please email
+crossword.editor@theguardian.com <mailto:crossword.editor@theguardian.com>. For 
+Observer crosswords pleasecrossword.editor@observer.co.uk 
+<mailto:crossword.editor@observer.co.uk> .
+ 

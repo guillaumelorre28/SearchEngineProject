@@ -1,0 +1,83 @@
+
+Avid Life Media (ALM), the corporate parent of hacked extramarital dating site 
+Ashley Madison <https://www.theguardian.com/technology/ashley-madison>, is 
+being investigated by the US Federal Trade Commission according to the 
+company’s new executive team.
+
+Appointed in April, the new chief executive, Rob Segal, and the president, 
+James Millership, have been given the job of righting ALM in the aftermath of 
+the hack,which saw the entire membership register of Ashley Madison posted to 
+the internet 
+<https://www.theguardian.com/technology/2015/aug/19/ashley-madison-hackers-release-10gb-database-of-33m-infidelity-site-accounts>
+. Over the following year, ALM lost more than a quarter of its revenue, as 
+worried members fled the company’s portfolio of dating sites.
+
+While they are aware of the FTC’s investigation, neither Segal nor Millership 
+know what precise aspect of the company is being examined. As well as the hack 
+itself, the perpetrator of which is still unknown, the breach exposed several 
+other potential red flags in the company.
+
+Most damningly, the database suggested that a huge proportion of the female 
+users of the site were in fact fake accounts, created and operated by Ashley 
+Madison to lure men into using and paying for the site. When the “fembot army” 
+was first exposed, by tech site Gizmodo,Ashley Madison denied the allegations 
+<https://www.theguardian.com/technology/2015/sep/02/ashley-madison-denies-allegations-of-fembot-army>
+, saying that the reporter had “made incorrect assumptions about the meaning of 
+fields contained in the leaked data”.
+
+However, ALM later commissioned its own report into the creation of user 
+accounts, from independent auditors Ernst & Young, and found that the company 
+had indeed made fake profiles, which were then run automatically to impersonate 
+real women.
+
+According to the report, those “fembots” ran until late 2015, although the 
+company stopped using them in the US, Canada and Australia earlier. Another 
+American company had been forced by the FTC to pay a fine of $616,165 similar 
+practices in 2014.
+
+ALM said it does not know the focus of its own FTC investigation, but asked by 
+Reuters about the fembot messages sent to US customers, Segal said: “That’s a 
+part of the ongoing process that we’re going through … it’s with the FTC right 
+now.”
+
+ALM is trying to recover from the hack, and has positioned the two new 
+executives as the starting point of its push back to respectability. In a 
+statement, Segal apologised for the hack, and said the company was trying to 
+make amends.
+
+“A year ago, Avid Life Media was silenced by a devastating, criminal hack that 
+affected our company and some of our members,” he said. “The company is truly 
+sorry for how people’s lives and relationships may have been affected by the 
+criminal theft of personal information. That’s why we’re charting a new course 
+and making some big changes.”
+
+The company has hired cyber security experts at Deloitte and expects to reach 
+the first level of Payment Card Industry compliance, an industry standard, by 
+September.
+
+ “We had to basically reinvent their security posture,” said Robert Masse, who 
+leads Deloitte’s incident response team. His team, hired by the company in late 
+September, found simple backdoors in Avid Life’s Linux-based servers.
+
+One unexpected result of the hack: a surge in popularity for Ashley Madison 
+itself. Apparently taking the stance that lightning doesn’t strike twice, more 
+than 4m new accounts were made in the four months after the hack,according to a 
+counter on the site 
+<http://thehill.com/policy/cybersecurity/264382-ashley-madison-membership-swells-following-hack>
+.
+
+ALM’s new leadership expressed little desire to lose that membership pool, but 
+said they would be moving some focus away from infidelity: a big change for a 
+site which once advertised with the tagline “life is short, have an affair”.
+
+ “We certainly feel that the Ashley Madison brand can be repositioned,” Segal 
+said. The new Ashley Madison website focuses instead on “discretion”, and 
+advertises itself to people wanting to explore polyamory or same-sex 
+relationships as much as it does to those wishing to cheat on partners.
+
+The site does concede that “there are still men and women seeking an affair on 
+Ashley Madison, but we don’t let that define us and neither should you”.
+
+• Life after the Ashley Madison affair 
+<https://www.theguardian.com/technology/2016/feb/28/what-happened-after-ashley-madison-was-hacked>
+ 

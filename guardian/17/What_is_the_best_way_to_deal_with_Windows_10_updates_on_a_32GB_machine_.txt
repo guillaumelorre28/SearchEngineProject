@@ -1,0 +1,170 @@
+
+I bought a budget Acer netbook knowing I’d be forced to keep an eye on the 
+applications I installed, and be more organised with external storage. I’m 
+holding up my end of the bargain, butWindows 10 
+<https://www.theguardian.com/technology/windows-10> most certainly isn’t. 
+Despite a relatively hassle-free installation, there has been an endless stream 
+of prompts to free up space so it can update.
+
+I have next to nothing installed except absolute essentials such as Chrome, 
+OpenOffice and iTunes. My iTunes library is on an external USB, and isn’t to 
+blame. Despite this, I have less than 3GB left.
+
+There seems to be the option of using external drive space to complete the 
+Windows <https://www.theguardian.com/technology/windows> 10 upgrade, but what 
+about updates once you’re saddled with it?Stuart
+
+I don’t know if this is a response to my little rant last week 
+<https://www.theguardian.com/technology/askjack/2016/dec/29/which-is-the-best-cheap-windows-laptop-for-my-mum>
+, but either way, it’s a good question. For those who missed it, I said: “I 
+think 32GB Flash memory drives are too small for traditional laptop uses. 
+Microsoft has reduced the size of Windows 10 ... but it’s going to get bigger 
+with use. There will be numerous upgrades, growing log files, swap files, and 
+large caches of temporary internet files. Looking three years or six upgrades 
+ahead, I can’t see a 32GB drive coping without some massive clean-ups.”
+
+PC manufacturers are fitting 32GB eMMC Flash storage chips to cut costs. High 
+quality 64GB chips are around twice the price, and the extra, say, $12 to $15 
+is significant if you’re selling a system for £149.99 or $199.99. In the long 
+term, users would be better off paying a higher price for 64GB of storage, but 
+this is not widely understood.
+
+Either way, you probably need a couple of accessories: an SD card, and an 
+external USB hard drive (EHD).
+
+Windows 10 can use extra space on the EHD to install updates even when your C: 
+drive has run out of space. If so, this will be mentioned on the pop-up that 
+says “Windows needs more space”. You can also use the EHD to back up your PC. I 
+strongly recommend doing that before you try any of the tips below.
+
+Using an SD card
+
+Most netbooks and Windows tablets have a slot for an SD or microSD card. This 
+is a quick way to add 32GB or 64GB or sometimes even more storage. You can 
+create an icon for the card and keep it on the desktop for quick access.
+
+If you have large collections of photos, music, movies etc then you can store 
+them on SD cards. Further, you can now install programs on SD cards, too. To do 
+this, run the Settings app (the cogwheel), select System, then Storage, and 
+look for “Save locations”. Whenever it says “This PC (C:)”, you can change it 
+to save to your SD card.
+
+You can also move existing programs to your SD card. To do this, go to “Apps & 
+features” in the Settings app, and sort them by size. Click on a large program, 
+and Windows 10 will give you two options: Move and Uninstall. Click Move. The 
+pop-up will say: “This app is currently installed on: This PC (C:) Select a 
+drive to move this app to”. Again, use the drop-down menu to select your SD 
+card.
+
+Note: don’t move frequently used essentials such as drivers and anti-virus 
+programs. It’s probably not worth moving anything smaller than 50MB.
+
+Removing apps
+
+Go back to “Apps & features” in the System section of the Settings app, and 
+sort programs by size. There may be some that you want to uninstall, such as 
+Candy Crush Soda Saga, and any trial version of Microsoft Office. You can also 
+uninstall some parts of Windows 10, but most apps are not actually installed 
+until you use them. You only have placeholders.
+
+On my system, Windows 10’s Get Started app took up 44K. After I used it to 
+watch several help videos, its size swelled to 42.5MB. Many Windows 10 apps 
+only take up a couple of megabytes, and I have 15 apps that only take up 16K 
+each (Maps, Sport, Voice Recorder, Weather etc). It’s not worth uninstalling 
+these placeholders. The space saving is trivial and the next major Windows 10 
+update will just put them back. Life’s too short.
+
+Note that Windows 10 will not uninstall some core apps – such as Mail, Photos, 
+and Groove Music – butCCleaner Free <https://www.piriform.com/ccleaner/download>
+ will. Just select Tools, then Uninstall. However, as mentioned above, you 
+won’t save much space, and at some point, Windows 10 will put them back. Just 
+don’t uninstall the Windows Store app.
+
+Saving storage space
+
+The quickest way to clear space in Windows is to run Microsoft’s built-in Disk 
+Clean-up utility, or an alternative such as CCleaner Free, as explainedtwo 
+weeks ago 
+<https://www.theguardian.com/technology/askjack/2016/dec/22/which-programs-should-i-install-when-setting-up-windows-10>
+. Only do this after you have made sure you know all your log-on IDs and 
+passwords, and you have saved your browser session, so that you don’t lose all 
+your open tabs. By default, CCleaner will remove the history files and cookies 
+used to store this information.
+
+Microsoft’s Disk Clean-up utility can safely delete hidden system files. Click 
+the button that says “Clean up system files” for the option to delete various 
+files including “Previous Windows Installation(s)”.
+
+Next, go back to the Storage page and click on your C: drive. Windows 10 will 
+scan your 32GB and tell you how much space you have free. After a while, it 
+will also tell you what’s taking up space. The entries will include System & 
+reserved, Apps & games, Documents, Pictures, Music etc. There will also be 
+entries for Mail, OneDrive, Temporary files and Other.
+
+Click each entry for more information and the chance to manage it. Click 
+“System & reserved” to see how much space Windows 10 is using for system files, 
+virtual memory (ie thepagefile.sys file 
+<http://lifehacker.com/5426041/understanding-the-windows-pagefile-and-why-you-shouldnt-disable-it>
+ used as a scratchpad), hibernation (the hiberfil.sys file stores your PC’s 
+state while it’s asleep, and is used byFast Startup 
+<http://www.howtogeek.com/243901/the-pros-and-cons-of-windows-10s-fast-startup-mode/>
+) and system restore (system files you would need to restore your PC to an 
+earlier state).
+
+These work files may well take up more space than Windows 10. There’s not much 
+you can do about them without some expertise, the old Control Panel and a few 
+DOS-type commands. However, you can limit how much virtual memory Windows can 
+use – though it will work badly if it doesn’t have enough – and the space 
+available for system restore files. You can also move the hibernation file to 
+your SD card.
+
+Hard drive management
+
+Finally, and most dangerously, you can check your hard drive partitions. 
+Windows 10 creates its own small recovery partition, WinRE, which doesn’t have 
+a drive letter. It’s what lets you re-set your PC. I would never delete it. 
+However, if you upgraded to Windows 10, your PC may still have an OEM recovery 
+partition for an earlier version of Windows. You can delete this and – most 
+importantly – reclaim the space by using a free program such asEaseUS Partition 
+Master <http://www.partition-tool.com/> or AOMEI Partition Assistant 
+<http://www.disk-partition.com/free-partition-manager.html>.
+
+You can also, of course, accidentally brick your PC. It’s important to create 
+“recovery media” and a back-up before messing with this stuff.
+
+Install Windows from USB
+
+Microsoft is releasing two major versions of Windows 10 each year. The next 
+one, theCreators Update 
+<https://www.microsoft.com/en-us/windows/upcoming-features>, is being tested 
+now. These updates are installed as new operating systems, in just the same way 
+as the upgrade from Windows 7 or 8.1 to 10. This means you need space for the 
+large download, the working operating system, and a back-up copy of the old 
+version. This is stored in a hidden folder called “Windows.old” in case you 
+need to roll back to it.
+
+However, you can also download the latest version on a different PC and use 
+Microsoft’sMedia Creation Tool 
+<https://www.microsoft.com/en-us/software-download/windows10> to create 
+installation media on a 4GB or larger USB thumb drive or DVD. You must select 
+the option to “Create installation media for another PC” and choose the correct 
+version for your laptop (64-bit Windows 10 Home, or whatever). You may also 
+need to set your laptop to boot from USB. You don’t need a product key as your 
+Windows 10 activation is stored online against the Microsoft Account you use to 
+log on.
+
+You can use this approach to “Start fresh with a clean installation of Windows 
+10 <https://www.microsoft.com/en-us/software-download/windows10startfresh>” as 
+per Microsoft’s instructions. However, it removes all the programs that are not 
+part of Windows 10, including your manufacturer’s apps, support apps, drivers, 
+customised power and sleep settings, and so on. While you can opt to keep 
+personal files, you may lose digital licenses and related content you have paid 
+for. You must back them up.
+
+It’s not as simple as letting Windows 10 auto-update, but at least you’ll end 
+up with the latest version of Windows 10 and the maximum amount of free storage 
+space.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

@@ -1,0 +1,146 @@
+
+I retired from office life some years ago, but I am about to start working 
+from home, for a lawyer. I have an iPhone and an iPad, but need to purchase a 
+laptop to carry out several tasks. These include: adding to a database which 
+has been set up using Excel; booking flights and hotel accommodation; sending 
+and receiving emails; producing invoices and flyers, and using Skype.
+
+The lawyer has an Apple MacBook Pro 13.
+
+I was thinking of purchasing a Windows laptop and using either Google Sheets 
+etc or office.com – which are all free – or purchasing Microsoft Office 2010 
+and storing the work in Dropbox, OneDrive or Google Drive.
+
+Would this work, as we would both be using different systems, ie a MacBook and 
+a Windows laptop? Estelle
+
+I recommend buying a desktop PC, rather than a laptop, for working from home. 
+Desktop PCs are muchbetter for your health 
+<https://www.theguardian.com/technology/askjack/2013/jun/20/using-laptops-tablets-physical-pains>
+. They let you to use a better keyboard, a bigger screen, and a mouse. Also, 
+they usually give you more power for your money, they are easier to repair and 
+upgrade, and they last longer.
+
+If you don’t have space for a desktop PC, I recommend using your laptop on a 
+riser (which could just be a stack of books), with anergonomic USB keyboard 
+<http://thewirecutter.com/reviews/comfortable-ergo-keyboard/> and mouse.
+
+PC or Mac?
+
+There are three main things to consider. First, your computer must run all the 
+software you need to do the job. Second, it helps if you already know how to 
+use the operating system. Third, can you afford it?
+
+In the first place, it looks as though you will be using Microsoft Office, 
+perhaps with Publisher for producing flyers. Microsoft Office runs on both PCs 
+and Macs, so you can certainly work together. Technically, the Windows versions 
+of Outlook – used for email, contacts and shared calendars – and Excel are more 
+powerful than the Mac versions, but if you both use Macs, you’ll be at the same 
+level. The main drawback is that Microsoft doesn’t offer Publisher for the Mac, 
+but you can probably use the open sourceScribus <https://www.scribus.net/> 
+instead.
+
+As for the operating system, I assume you’re already familiar with Windows XP 
+and possibly Vista. You will therefore have to spend some time learning a new 
+operating system, whether that’s Windows 10 or macOS (formerly Mac OS X). If 
+you already know how to use Windows 7, you can still buy business laptops 
+running Windows 7 Pro. This will be supported until 2020, though you will have 
+to move to Windows 10 eventually.
+
+Thirdly, Apple’s prices are a barrier for many buyers. The cheapest Windows 10 
+laptops cost around £130, which compares with £749 for the cheapest MacBook 
+Air. But Apple also charges more for phones and tablets, and you already own 
+both an iPhone and an iPad. If you were willing to pay for these, perhaps you’d 
+be willing to pay Apple’s PC prices as well.
+
+If so, then my first budget choice would be a 21.5in iMac 
+<http://www.apple.com/uk/imac/specs/> (£899), preferably with an upgrade to 
+16GB of memory (£160). It’s not so much a desktop as a laptop on a stick, but 
+it gives you the ergonomic advantages of a big screen and a separate keyboard 
+and mouse.
+
+If you must have a laptop, the cheapest MacBook Pro 
+<http://www.apple.com/uk/shop/buy-mac/macbook-pro?product=MD101B/A&step=config> 
+costs the same (£899), but its 13.3in screen is obviously smaller than the 
+iMac’s 21.5in screen. For an extra £100, you could buy the newer, smarter
+MacBook Pro with Retina <http://www.apple.com/uk/shop/buy-mac/macbook-pro> 
+screen (£999). This has a resolution of 2560 x1600 instead of 1280 x 800 pixels.
+
+These are Apple’s entry-level prices. However, a Retina MacBook Pro (£999) 
+with 16GB of memory and Apple Care (£199) comes out at £1,358, which is serious 
+money.
+
+Windows options
+
+Today’s cheapest Windows 10 laptops include the Lenovo Ideapad 100s 
+<http://www.johnlewis.com/lenovo-ideapad-100s-laptop-intel-atom-2gb-ram-32gb-11-/p2301065>
+ and theHP Stream 11 
+<http://www.argos.co.uk/static/Product/partNumber/4135892.htm>, which cost 
+pennies less than £130. These may do what you want, but I’d still recommend 
+against them. They have small (11.6in) screens, limited memories (2GB) and 
+small, slow 32GB eMMC storage chips.
+
+You should really aim for a laptop with a bigger screen, 4GB or more memory, 
+and either a hard drive or a larger SSD (solid-state drive).
+
+Going up to a 15.6in screen still gives you plenty of cheap choices. For 
+example, you could get an Ideapad 100s with 4GB of memory and a 500GB hard 
+drive for£199.99 
+<http://www.pcworld.co.uk/gbuk/computing/laptops/laptops/lenovo-ideapad-100-15-6-laptop-black-10138724-pdt.html>
+, or with 8GB and a 1TB hard drive for£249.95 
+<http://www.johnlewis.com/lenovo-ideapad-100-laptop-intel-pentium-8gb-ram-1tb-15-6-black/p2461547>
+. Better still, John Lewis is selling the same 8GB laptop with a faster Intel 
+Core i3-5005U processor for£289.95 
+<http://www.johnlewis.com/lenovo-ideapad-100-laptop-intel-core-i3-8gb-ram-1tb-15-6-black/p2461515>
+. John Lewis includes a two-year guarantee, so if it fails after that, you’d 
+just buy a new PC.
+
+Alternatives include the Asus X540 (from £229 
+<http://www.pcworld.co.uk/gbuk/computing/laptops/laptops/asus-x540-15-6-laptop-silver-10141450-pdt.html>
+, was £399.99) and X553SA (£289.95 
+<http://www.johnlewis.com/asus-x553sa-laptop-intel-pentium-8gb-ram-1tb-15-6-/p2513655?colour=Black>
+), and various models of the Acer Aspire ES1-531 (from£229.99 
+<http://www.pcworld.co.uk/gbuk/computing/laptops/laptops/acer-aspire-es1-531-15-6-laptop-black-10137570-pdt.html>
+). They’re all much of a muchness, so drop by a local store and see if there’s 
+one you fancy. Obviously, these laptops are nothing like as well made as the 
+MacBooks at three or four times the price, but they only need to be robust 
+enough to survive your home environment. Also, while they don’t have very good 
+keyboards (the Ideapad 100s’ isn’t too bad), I’m assuming you’ll use them with 
+an external keyboard and mouse.
+
+You can buy better Windows laptops if you are willing to spend more: examples 
+include theAsus Zenbook X305 
+<http://www.johnlewis.com/asus-zenbook-ux305-ultrabook-intel-core-m3-8gb-ram-128gb-ssd-13-3-black/p2511621>
+ (£579.95) and theLenovo Yoga 500 
+<http://www.pcworld.co.uk/gbuk/computing/laptops/laptops/lenovo-yoga-500-14-2-in-1-white-10137561-pdt.html>
+ (£549.99) or700 
+<http://www.johnlewis.com/lenovo-yoga-700-convertible-laptop-intel-core-i7-8gb-ram-128gb-ssd-14-full-hd-touch-screen/p2459058?colour=Clementine%20Orange>
+ (£749.95). But these are getting close to MacBook price territory....
+
+If you would prefer a laptop running Windows 7 Pro, have a look at the Dell 
+Vostro 3558 <http://www.dell.com/uk/business/p/vostro-15-3558-laptop/pd>. 
+(Vostro is Dell’s range for small office/home office users.) This is a solid 
+laptop with a decent keyboard for £229 plus delivery plus VAT (currently 
+£274.80 at Dell UK), or £269 if you swap the 500GB hard drive for a 128GB SSD. 
+Which I would. Either way, the big attraction is that you can add three years 
+of next-business-day on-site support for only £91. (Yes, they come to your 
+house. They’ve been to mine.)
+
+Debenhams is retailing the Vostro 3558 at £286 
+<http://www.debenhamsplus.com/DE_dell_Notebook_10109516/version.asp>, but that 
+comes with the standard one-year warranty.
+
+Go for Office 365
+
+To minimise problems, you should aim to use the same version of Microsoft 
+Office as your employer, so talk him or her into signing up forMicrosoft Office 
+365 Business <https://products.office.com/en-gb/business/office-365-business>. 
+This provides the Office suite (including OneNote and Publisher) running on 
+your PC or Mac, the online, smartphone and tablet versions, 1TB of cloud 
+storage per user, plus email and telephone support for £7 per person per month, 
+plus VAT. That’s less than the hourly wage for most UK adults, and lawyers can 
+charge from £150 to £850 or more per hour.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

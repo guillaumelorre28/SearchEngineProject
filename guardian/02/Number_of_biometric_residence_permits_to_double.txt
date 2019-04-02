@@ -1,0 +1,49 @@
+
+The government is to double the number of people required to have a biometric 
+residence permit (BRP) to stay in the UK, raising the number to 400,000 a year.
+
+The system is being expanded to include refugees and those given the right to 
+live in the UK permanently. It will mean that all non-EEA (European Economic 
+Area) nationals applying to remain in the UK for more than six months will now 
+need the compulsory permits.
+
+BRPs hold a person's fingerprints and photograph on a secure chip, and can be 
+used to confirm information on each individual's work and benefits 
+entitlements. From June,an online Employers' Checking Service 
+<https://www.theguardian.com/government-computing-network/2012/feb/22/home-office-ukba-employers-checking-service-atos>
+ for BRPs will enable employers, and later in the year public authorities, to 
+run real time checks on whether individuals are eligible to work or access 
+services in the UK.
+
+Most of the 650,000 BRPs issued since their introduction in 2008 have gone to 
+workers or students from outside the EEA wanting to stay in the UK for more 
+than six months.
+
+The new move extends the requirement to people applying for refugee status, 
+humanitarian protection or discretionary leave settlement or indefinite leave 
+to remain; those asking for temporary leave to remain; 'No Time Limit' 
+applicants (migrants who require evidence of settled status to be re-issued); 
+and applicants for a Home Office travel document, if they do not already hold a 
+valid biometric residence permit.
+
+The Post Office is to support the extension by rolling out a network of 
+biometric enrolment sites, with the aim of adding 87 to the existing 17 sites 
+by mid April. The sites will collect fingerprints, a digital photograph and an 
+electronic signature and send them through a secure channel to the UK Border 
+Agency.
+
+The Post Office is also setting up a mobile fingerprint enrolment service. 
+
+Immigration minister Damian Green said the move is aimed at reducing 
+immigration abuse by proving people's right to work or access services.
+
+"This will help ensure only those with the right to be here can take a job 
+legally in the UK and enjoy the services to which they are entitled," he said. 
+"The new measures are a deterrent to all foreign nationals who are looking to 
+exploit the UK for personal gain by breaking the law."
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Guardian Government 
+Computing network here. 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+ 

@@ -1,0 +1,156 @@
+
+A burst of 10 links for you to chew over, as picked by the Technology team
+
+Branded notebook vendors cutting orders by 5-10% for 4Q11 >> Digitimes 
+<http://www.digitimes.com/news/a20111013PD217.html>
+
+"With the exception of Apple and Lenovo, other branded notebook vendors are 
+reportedly cutting their orders to ODMs [Original Device Manufacturers, who 
+build the notebooks] by 5-10% for the fourth quarter of 2011 after combined 
+shipments from ODMs posted a 6% sequential growth in the third quarter, 
+according to industry sources.
+
+"Previously, most ODMs enjoyed an over 20% sequential growth in notebook 
+shipments in the third quarter, the sources noted."
+
+No reason given. Lenovo and Apple both saw very large growth in notebook 
+shipments in the third quarter.
+
+A fall sweep >> Official Google Blog 
+<http://googleblog.blogspot.com/2011/10/fall-sweep.html>
+
+"We aspire to build great products that really change people's lives, products 
+they use two or three times a day. To succeed you need real focus and 
+thought—thought about what you work on and, just as important, what you don't 
+work on. It's why we recently decided to shut down some products, and turn 
+others into features of existing products."
+
+Goodbye unlamented Google Buzz, slightly lamented Jaiku (the Twitter that 
+never was), the lamented Code Search and the unknown University Research 
+Program for Google Search (API access for a small number of university 
+researchers).
+
+Steve Jobs: visionary, inventor, and very challenging photo subject >> PDNPulse
+ 
+<http://pdnpulse.com/2011/10/steve-jobs-visionary-inventor-and-very-challenging-photo-subject.html>
+
+He won't be mourned by those who had to photograph him. "'In all those years, 
+Steve only screamed at me at the top of his lungs once,' Menuez recalls. It was 
+in 1988, when Fortune hired Menuez to shoot a portrait of Jobs for the cover of 
+the magazine. Menuez wanted to photograph him in the NeXT offices, on a 
+staircase that Jobs had commissioned architect I.M Pei to design. Jobs arrived 
+for the shoot, looked at what Menuez had in mind, 'then [he] leaned in and 
+says, 'This is the stupidest fucking idea that I've ever seen.' Right in my 
+face, like 5 or 6 inches away," Menuez says. "I felt like I was 10 years old. 
+He went off on a tirade. He said, 'You just want to sell magazines. 'And I 
+said, 'And you want to sell computers.' And at that he said, 'OK,' and sat down.
+
+"Menuez concludes, 'I've been in war zones, but I like to say that I became a 
+man learning how to stand my ground with Steve.'"
+
+Intel CEO talks up Windows 8, claims the "evolution of the PC has been 
+retarded" >> WinRumors 
+<http://www.winrumors.com/intel-ceo-talks-up-windows-8-claims-the-evolution-of-the-pc-has-been-retarded/>
+
+"Speaking at Dell World 2011, Otellini told an audience of industry executives 
+that Intel loves PCs. 'I suspect Steve Ballmer said the same thing this morning 
+and I know that our partner Dell absolutely loves PCs,' said Otellini. He 
+continued to say that Intel and Microsoft have built a "wonderful industry" and 
+that he believes PCs are now being taken for granted because they're so useful. 
+'To some extent the evolution of the PC has been retarded I think in the last 
+few years so as we look forward in terms of where the PC has to continue to 
+grow…it has to get more and more consumer friendly.' Intel plans to solve the 
+problem with Ultrabooks. 'We want to make sure that these devices are portable, 
+user friendly, but also have the capability to do the high capacity creative 
+work that all of our workers do day in day out,' said Otellini."
+
+Ultrabooks, eh?
+
+Word clouds considered harmful >> Nieman Journalism Lab 
+<http://www.niemanlab.org/2011/10/word-clouds-considered-harmful/>
+
+Jacob Harris of the New York Times doesn't like word clouds: "When looking at 
+the word cloud of the War Logs, does the equal sizing of the words "car" and 
+"blast" indicate a large number of reports about car bombs or just many reports 
+about cars or explosions? How do I compare the relative frequency of 
+lesser-used words? Also, doesn't focusing on the occurrence of specific words 
+instead of concepts or themes miss the fact that different reports about truck 
+bombs might be use the words "truck," "vehicle," or even "bongo" (since the Kia 
+Bongo is very popular in Iraq)?
+
+"Of course, the biggest problem with word clouds is that they are often 
+applied to situations where textual analysis is not appropriate. One could 
+argue that word clouds make sense when the point is to specifically analyze 
+word usage (though I'd still suggest alternatives), but it's ludicrous to make 
+sense of a complex topic like the Iraq War by looking only at the words used to 
+describe the events."
+
+Steve Jobs and the actually usable computer >> W3C Blog 
+<http://www.w3.org/QA/2011/10/steve_jobs.html>
+
+"At a sad time at which the world has just lost Steve Jobs, it is well to 
+reflect on some of the things which he, his passion, and his creations have 
+given us, as now the technical community should take many of these upon its 
+collective shoulders.
+
+"A big thing Steve Jobs did for the world was to insist that computers could 
+be usable rather than totally infuriating!
+
+"The NeXT was brilliant. The NeXT had (arguably too) many things introduced at 
+once -- removable optical storage, Objective C, DSP for sound and movies, Mach 
+kernel, unix for a PC, display Postscript, InterfaceBuilder and so on. Yes, 
+they never got the price down and the optical disks proved unreliable. But 
+Steve and NeXTStep ended up saving Apple, and there must be a lesson that it is 
+worth hanging on to cool things: you never know when they will in fact become 
+mainstream."
+
+Acer Aspire S3 Ultrabook review >> This is my next... 
+<http://thisismynext.com/2011/10/14/acer-aspire-s3-ultrabook-review/>
+
+Fascinating review, because the only part where it is complimentary is on the 
+boot and resume times. On everything else - keyboard quality, build quality, 
+performance, battery life (they couldn't get it above three and a half hours) - 
+it's not as good as rivals, especially Samsung.
+
+Notice how Samsung is the name that keeps getting complimentary comments: it 
+is beginning to look like the only company that can properly challenge Apple in 
+both PCs and phones. It even has its own mobile OS.
+
+WikipediaVision (beta) <http://www.lkozma.net/wpv/>
+
+See people anonymously editing Wikipedia entries almost in real time. (Via 
+@realouisewener who is.. the real Louise Wener).
+
+How much does an Apple store cost? >> Asymco 
+<http://feedproxy.google.com/~r/Asymco/~3/Lm27wLyVyiY/>
+
+"Over the time period illustrated, Apple opened 220 stores and spent $1.9 
+billion in fitting them out. That's about $8.5 million per store. It's been 
+increasing so it's probably closer to $10 million lately.
+
+"That's an interesting figure by itself, evidence of how profitable they must 
+be. But I turn the question again to competitiveness and the lack of response 
+in kind.
+
+"The data shows that if a company wanted to duplicate this effort they would 
+need to commit to spending at least $2 billion. And that's just for "fixing up" 
+the sites. This figure does not include the lease itself, the cost to operate 
+(including the tens of thousands of employees) or the inventory within. It also 
+does not include the value of choosing the right locations (though maybe a 
+follower could simply choose to locate in the near proximity to an Apple 
+store.)"
+
+Microsoft used to be obsessed a few years ago about matching Apple's retail 
+presence. Less so now.
+
+siri-big.jpg (960×540) 
+<http://cache.gawkerassets.com/assets/images/4/2011/10/siri-big.jpg>
+
+Ha, ha, ha. Remind us of the "Format C colon!" shoutouts that used to go on at 
+speech recognition demonstrations.
+
+You can follow Guardian Technology's linkbucket on delicious 
+<http://delicious.com/guardianista>
+
+To suggest links, tag articles on delicious.com with "guardiantech"
+ 

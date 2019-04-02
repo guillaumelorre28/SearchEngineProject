@@ -1,0 +1,44 @@
+
+Government departments, agencies and councils accessed metadata from 
+Australians’ phone calls and internet use 334,658 times in 2013-14, according 
+to the the Telecommunications (Interceptions and Access) Actannual report 
+<https://www.ag.gov.au/NationalSecurity/TelecommunicationsSurveillance/Documents/Telecommunications-Interception-and-Access-Act-1979-Annual-Report.pdf>
+.
+
+The act allows organisations to apply for access to “existing information or 
+documents” which can include details of phone calls (but not the contents of 
+the call) and internet access details such as subscribers’ personal 
+information, and dates and times of internet usage.
+
+
+Authorisations are granted for agencies either pursuing criminal enforcement 
+matters or enforcing fines.
+
+
+The figure for 2013-14 represents an increase of 1.3% in total requests over 
+the previous year, but when adjusted for population the number of requests per 
+100,000 people has dropped.
+
+
+Police forces were the heaviest users, with New South Wales police making 
+111,889 requests. Other agencies, such as the RSPCA and councils, are also able 
+to make warrantless metadata requests, with RSPCA Victoria making 64 requests 
+in 2013-14.
+
+
+This year’s figures also included a revision to last year’s total, with the 
+addition of a number of previously undeclared requests from the Department of 
+Immigration and Border Protection.
+
+
+The government has passed legislation with bipartisan support 
+<https://www.theguardian.com/australia-news/2015/mar/26/mandatory-data-retention-becomes-law-as-coalition-and-labor-combine>
+ requiring telcos and internet service providers to store customers’ metadata – 
+including the time and participants in phone calls, text messages and emails – 
+for two years. But not all agencies can access the data stored under the new 
+legislation.
+
+Here’s the full breakdown of requests by agency, for requests relating to 
+criminal matters:
+
+ 

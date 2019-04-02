@@ -1,0 +1,71 @@
+
+In Soviet times the USSR championship was the most closely watched national 
+contest in the world. The grandmaster elite saw the event as a passport to 
+sought after hard currency tournaments in the west and it sometimes acted as a 
+zonal eliminator for the world title.
+
+New record for Leonard Barden, grandmaster of newspaper chess columns
+ Read more  
+<https://www.theguardian.com/media/greenslade/2016/oct/26/new-record-for-leonard-barden-grandmaster-of-newspaper-chess-columns>
+Its history and its participants have been chronicled in Soviet Chess 
+1917-1991 by Andrew Soltis, in SovietChess 
+<https://www.theguardian.com/sport/chess> Championships by Bernard Cafferty and 
+Mark Taimanov, and in Genna Sosonko’s Russian Silhouettes, personal stories of 
+the top players by one who knew them well.
+
+Nowadays the Russian championship has lost much of its allure. Its backdrop is 
+the country’s chronically sub-par performance in the biennial world Olympiads, 
+which its team has not won since 2002 despite being regular top seeds. The 2016 
+Russian superfinal, which ended in Novosibirsk on Thursday, lacked players from 
+the world top 10, since Sergey Karjakin is preparing for his world title match 
+in New York next month while the former champion Vlad Kramnik is rumoured to be 
+helping Karjakin.
+
+It was still a formidable contest with a first prize of one million roubles 
+(around £13,000). Its winner was also awarded a Renault Kaptur car worth about 
+the same amount, whose subliminal message was to highlight the world title 
+candidates in Moscow earlier this year where Karjakin thought he had won a BMW 
+but it turned out to be just a test drive.
+
+All 12 GMs at Novosibirsk had ratings in the 2700s or 2600s and the tournament 
+took a peculiar course. Until a combative final round the draw percentage was 
+very high, around 75%, there was a seven-way tie for the lead with four rounds 
+to go and the only player who got detached from the peloton was the local 
+representative and the lowest ranked, Dmitry Bocharov. He was singled out as 
+the fall guy whom everybody tried to beat and who lost five games. Bocharov’s 
+2611 rating would still make him top seed in many western opens. Peter Svidler 
+has won the championship seven times., breaking Mikhail Botvinnik’s recprd 
+six-timer in the Soviet era, but he is now one of the most popular online 
+tournament commentators and has lost some of his playing edge. The other 
+co-favourite, Alexander Grischuk, left his effort too late and had to settle 
+for second. In their individual game, the pair opted for the once highly 
+regarded but now overly drawish Ruy Lopez, Marshall Attack, and Grischuk 
+produced a strange Na3 novelty, returning the Marshall gambit pawn (Bxa3 bxa3 
+Nxc3) to acquire the bishop pair.
+
+Leonard Barden on Chess
+ Read more  
+<https://www.theguardian.com/sport/2016/oct/21/rameshbabu-praggnanandhaa-world-grandmaster-record>
+The final leading scores were Alexander Riazantsev 7/11, Alexander Grischuk 
+and Evgeny Tomashevsky 6.5, Svidler and Vladimir Fedoseev 6.
+
+Riazantsev, the new champion, is 31. Until the final round it seemed he would 
+scrape through with only two wins and the rest draws but then he scored 
+impressively against the strong Dmitry Jakovenko while his co-leader, Fedoseev, 
+played poorly. This result is the zenith of his career, as like many strong 
+second-tier GMs he has missed out on the best tournament invitations.
+
+Bocharov’s essential mistake in this quick defeat was to miss two decent 
+opportunities to develop his problem c8 bishop, by 9...Bg4 or 13...Bf5. After 
+that Riazantsev took control of the board and set up a winning tactic which 
+features in this week’s puzzle.
+
+Alexander Riazantsev v Dmitry Bocharov
+
+1 d4 Nf6 2 c4 e6 3 Nc3 Bb4 4 e3 O-O 5 Bd3 d5 6 Nf3 c5 7 cxd5 exd5 8 dxc5 Bxc5 9
+O-O Nc6?10 h3 a6 11 b3 d4 12 exd4 Nxd4 13 Bb2 Ne6? 14 Ne4 Be7 15 Qc2 Nd5 16 Nc3 
+Nf617 Rad1 Qa5 18 Rfe1 Rd8 19 Re5 b5 20 Nd5! Nxd5 21 Bxh7+ Kf8 22 Rexd5 Rxd5 23 
+Rxd5 Bb724 Rf5 Rc8
+
+3466 25 Rxf7+! Kxf7 26 Qg6+ Kf8 27 Qxe6 Bf6 28 Bg6 1-0.
+ 

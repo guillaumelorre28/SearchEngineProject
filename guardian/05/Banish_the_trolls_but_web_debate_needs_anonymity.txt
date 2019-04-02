@@ -1,0 +1,84 @@
+
+So the proprietor of the Huffington Post has decided to ban anonymous 
+commenting from the site, starting in mid-September.Speaking to reporters 
+<http://gigaom.com/2013/08/21/huffington-post-to-end-anonymous-comments/> after 
+a conference in Boston, Arianna Huffington said: "Trolls are just getting more 
+and more aggressive and uglier and I just came from London where there are rape 
+and death threats. I feel that freedom of expression is given to people who 
+stand up for what they say and [are] not hiding behind anonymity. We need to 
+evolve a platform to meet the needs of the grown-up internet."
+
+Quite so. I can see heads nodding in agreement. After all, much anonymous 
+online commenting seems to be stupid, nasty, vicious and ignorant. And that's 
+just the stuff that isn't tangential to the topic of the article being 
+commented on. If people have to take responsibility for what they say in 
+public, then they will surely behave better.
+
+That seems like common sense. Whether it is supported by evidence is, however, 
+uncertain because at the moment there isn't much research, and what there is 
+seems to be mostly anecdotal. The most striking study I've come across is the
+experiment conducted by the (South) Korea Communications Commission 
+<http://english.chosun.com/site/data/html_dir/2011/12/30/2011123001526.html> 
+from July 2007. From that month onwards, anyone wanting to comment on any of 
+the 146 Korean websites with more than 100,000 members was required by law to 
+submit resident registration or credit card details.
+
+The hypothesis behind the requirement was that people would behave better 
+online if they were easily identifiable. But it didn't turn out that way. At 
+any rate, the commission announced recently that it was withdrawing the 
+registration requirement because it had been ineffective in preventing people 
+from posting abusive messages or spreading false rumours. When the regulation 
+was introduced in 2007, malicious comments accounted for 13.9% of all messages 
+posted on internet threads. But a year later, bad behaviour had reduced by less 
+than 1%.
+
+Without knowing the details of the Korean experiment, the metrics used to 
+measure bad behaviour, etc, it's difficult to know how seriously to take this 
+result. Personally, I'm sceptical, if only because much of the pathological 
+behaviour that we've observed online – from violent threats, grotesque abuse, 
+"lynch" mobs and bullying to gossip, slander and character assassination – 
+corresponds pretty closely to what psychologists and historians have learned 
+over the centuries about human behaviour offline. Put simply: if people believe 
+that they will not be held accountable for their behaviour, then they tend to 
+behave badly.
+
+This is no consolation to those who, like Huffington, want to run websites 
+that seek to encourage user engagement without having to spend large sums of 
+money paying moderators to keep order and enforce civility. But obliging 
+commenters to use their real names will have costs as well as benefits. Chief 
+among the former will be a significant reduction in the volume of commenting, 
+at least in the short term, which in turn will adversely affect the site's 
+advertising revenues. The hit might be worth taking, however, if in the longer 
+term the quality of the discussion on the site visibly improves.
+
+For site owners who fear that real-name commenting represents a risk too far, 
+there is a halfway house: pseudonymity‚ ie a system in which commenters are 
+allowed to choose their own user names, but have to associate them with a valid 
+email address (which in the last analysis could be used as an identifier). Last 
+year,Disqus <http://www.disqus.com/>, a company that provides an online 
+discussion and commenting service for websites, published some usefulresearch 
+on the behaviour of different types of site user 
+<http://disqus.com/research/pseudonyms/>.
+
+The purpose of the research was to address the criticism that there is no 
+substantive difference between pseudonymous and anonymous commenters. Disqus 
+begged to differ, arguing that whereas real names are for authentication 
+(establishing who you are), pseudonyms are for expression: they imply "a choice 
+of identity" and therefore have a communicative function. The company looked 
+through its database of 60 million users and 500m comments to see how 
+commenting practice differed between users who were completely anonymous, those 
+who used pseudonyms and those who had registered via Facebook (and therefore 
+were obliged to use their real names).
+
+The metrics used in the Disqus study are crude but the results are 
+nevertheless intriguing. Pseudonymous users produced significantly more 
+"quality" comments (assessed by numbers of times a comment was "liked" and 
+replied to) than either anonymous or real-name users. And they weremuch more 
+prolific commenters: 61% of the 500m comments came from pseudonymous users, 
+compared with 35% from anonymous users and a mere 4% from the 
+Facebook-registered crowd.
+
+And the moral of the story? Think twice, Arianna Huffington 
+<https://www.theguardian.com/media/ariannahuffington>, before insisting on real 
+names.
+ 

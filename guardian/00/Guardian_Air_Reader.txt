@@ -1,0 +1,16 @@
+
+Kipcast, makers of Yippidu 
+<https://www.theguardian.com/open-platform/guardian-yippidu-for-blackberry>, 
+developed an Adobe Air Guardian Reader app.
+
+"The GuardianReader has been developed to support the Guardian readers in 
+their quest for effective and portable news browsing independently of the 
+underling operating system. More and more readers/subscribers need to stay 
+up-to-date on fast-changing information while on-the-go. However, quite often 
+communications can be spotty and/or expensive. The GuardianReader overcomes 
+those hurdles by quickly downloading online information and then letting 
+readers delve into stories of their liking in offline mode. Based on Adobe Air 
+Text Layout Framework renowned quality for readability and text formatting, the 
+GuardianReader is a very pleasant e-reader of current events happening world 
+wide thereby reducing the need for printing news."
+ 

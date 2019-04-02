@@ -1,0 +1,73 @@
+
+The terms of service of hacked extramarital dating service Ashley Madison 
+<https://www.theguardian.com/technology/ashley-madison> allow the company to 
+run fake accounts, protecting it from at least some user lawsuits in the wake 
+of its massive data breach in August.
+
+The company had previously denied allegations 
+<https://www.theguardian.com/technology/2015/sep/02/ashley-madison-denies-allegations-of-fembot-army>
+ of a “fembot army”, but according to information in the data dump, it actually 
+ran tens of thousands of fake female accounts to send millions of messages to 
+users.
+
+However, in the terms and services of the site 
+<http://www.ashleymadison.com/app/public/tandc.p>, it explicitly warns would-be 
+cheaters that many users of the site subscribe “for purely entertainment 
+purposes”. It continues:
+
+You acknowledge and agree that any profiles of users and Members, as well as, 
+communications from such persons may not be true, accurate or authentic and may 
+be exaggerated or based on fantasy. You acknowledge and understand that you may 
+be communicating with such persons and that we are not responsible for such 
+communications.
+
+The language in the current terms and conditions is toned down from a previous 
+clause, present in February of this year, which was more explicit about the 
+presence of fake accounts. The document explained that the accounts were 
+created “In order to allow persons who are Guests on our Site to experience the 
+type of communications they can expect as Members”.
+
+The terms state: 
+
+The profiles we create are not intended to resemble or mimic any actual 
+persons. We may create several different profiles that we attach to a given 
+picture. You understand and acknowledge that we create these profiles and that 
+these profiles are not based on or associated with any user or Member of our 
+Service or any other real person. You also acknowledge and agree that the 
+descriptions, pictures and information included in such profiles are provided 
+primarily for your amusement and to assist you navigate and learn about our 
+Site. As part of this feature, the profiles may offer, initiate or send winks, 
+private keys, and virtual gifts. Any one of these profiles may message with 
+multiple users at the same or substantially the same times just like our users.
+
+Our profiles message with Guest users, but not with Members. Members interact 
+only with profiles of actual persons. Guests are contacted by our profiles 
+through computer generated messages, including emails and instant messages. 
+These profiles are NOT conspicuously identified as such.
+
+According to Gizmodo’s Annalee Newitz, who identified the presence of the 
+clauses 
+<http://gizmodo.com/how-ashley-madison-hid-its-fembot-con-from-users-and-in-1728410265>
+ based on emails contained in the leaked data, the site’s managers “struggled 
+internally with the legality of what they were doing”.
+
+She writes that users made numerous complaints about bots, and that chief 
+executive Noel Biderman had discussions with various attorneys about how to 
+disclose the bot accounts to users without admitting wrongdoing. Apparently, 
+the disclosure in the terms and conditions is the compromise the company came 
+up with.
+
+Hackers release new Ashley Madison data targeting site's CEO and operators
+ Read more  
+<https://www.theguardian.com/technology/2015/aug/20/hackers-new-ashley-madison-data>
+Regardless of whether the disclosure protects the company from disgruntled 
+users angry at being duped, the dating site still faces a lawsuit of almost 
+half a billion dollars over its data breach. Two Canadian law firms, led by Ted 
+Charney of Charney Lawyers, filed the class action suit in August, on behalf of 
+Canadians whose personal information was disclosed in the breach.
+
+“They are outraged that AshleyMadison.com failed to protect its users’ 
+information. In many cases, the users paid an additional fee for the website to 
+remove all of their user data, only to discover that the information was left 
+intact and exposed,” Charney said.
+ 

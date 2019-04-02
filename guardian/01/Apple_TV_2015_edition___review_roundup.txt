@@ -1,0 +1,171 @@
+
+Apple TV was a “hobby” for the company for a long time, but after selling more 
+than 25m units,Apple is getting serious about its set-top box in 2015 
+<https://www.theguardian.com/technology/2015/sep/09/apple-tv-upgrade-app-store-iphone-6s-event>
+.
+
+The new version of the device runs new software – tvOS – and can download apps 
+and games, all accessed using a new Siri-enabled controller. But is the hype – 
+“the future of TV is apps” – correct, or willApple TV 
+<https://www.theguardian.com/technology/apple-tv> struggle against cheaper 
+rivals like Amazon’s Fire TV and Google’s Chromecast?
+
+The Guardian is not one of the publications chosen by Apple to receive a 
+sample of the newApple <https://www.theguardian.com/technology/apple> TV ahead 
+of its launch, so has not yet reviewed it. Here is the pick of early review 
+verdicts.
+
+BuzzFeed’s John Paczkowski 
+<http://www.buzzfeed.com/johnpaczkowski/the-apple-tv-youve-always-wanted-is-finally-here?utm_term=.lkmr2O8WA#.bnGDm6eyL>
+ wrote a very enthusiastic review:
+
+
+“Apple says the future of TV is apps. That may or may not prove true, but 
+after a couple days with the new Apple TV, it’s a compelling argument. Turns 
+out custom-building a TV from a broad palette of apps that includes everything 
+from pay TV channels and games to travel accommodation services and Periscope 
+is a great way to get exactly the TV experience you want – or close to it, 
+anyway.”
+
+Although he did admit to not having actually used any of the competitors:
+
+I have no idea really whether Apple’s new Apple TV is better or worse than 
+rivals like the Roku 4 and the Amazon Fire TV, but I think I can definitively 
+say that it is far superior to the old Apple TV.
+
+The Wall Street Journal’s Geoffrey Fowler 
+<http://www.wsj.com/articles/apple-tv-review-a-giant-iphone-for-your-living-room-1446080460>
+ thinks that the new Apple TV is a glimpse at the future for television:
+
+
+“What makes apps better than channels? For starters, you can pay for just the 
+ones you want. And they’re interactive, so content can be tailored and you 
+don’t have to just accept whatever happens to be showing live.
+
+A TV built around apps also ushers in new problems. How do you navigate a 
+65-inch iPhone? Every app is its own world, which can make it harder than the 
+old channel-up button to get to what you want to watch. And some of the best 
+shows and live events like sports aren’t available on apps at all. The new 
+Apple TV hasn’t totally nailed these challenges.”
+
+Mashable’s Christina Warren 
+<http://mashable.com/2015/10/28/apple-tv-review-2015/> noted that rival devices 
+like Fire TV and Chromecast are much cheaper, but suggested people who are deep 
+in to Apple’s ecosystem will relish it:
+
+
+“If you’re part of the Apple ecosystem already, I think it’s a worthy 
+consideration. Still, if you don’t have a household full of Apple gear, the 
+appeal of the Apple TV isn’t quite as strong. That’s not because of the content 
+available, but because $150 for a set-top box – even a great set-top box – is 
+going to be a hard sell for a lot of people.
+
+But if you are an existing Apple TV owner and you are ready for a new set-top 
+box, the new Apple TV is a no-brainer. Without a doubt, this is a great set-top 
+box with best-in-class universal search and fantastic voice support.”
+
+CNET’s David Katzmaier <http://www.cnet.com/products/apple-tv-2015/> also 
+pointed out the price difference, but suggested there is plenty of potential:
+
+
+“The new Apple TV is not perfect. It costs more than comparable devices – 
+always my main gripe about Apple products. It lets you play plenty of games, 
+but titles originally designed for phones and tablets aren’t necessarily as 
+appealing on a big screen, and most work best with a third-party game 
+controller. And it galls me that the Apple TV remote is so good, I’d have to 
+keep it around in addition to my system-mastering Harmony rather than 
+consigning it to a drawer like my other clickers.
+
+My main issue though is lack of a real app for Amazon Video, my 
+second-favourite streaming video service after Netflix. I don’t know who to 
+blame, Amazon or Apple or the streaming gods themselves…”
+
+Yahoo Tech’s David Pogue 
+<https://www.yahoo.com/tech/new-apple-tv-has-loads-1288113545257014.html> 
+agreed that Apple TV has potential, but warned it has plenty of bugs in this 
+iteration:
+
+
+“Apple points out that Apple TV runs a 1.0 operating system, called tvOS. It 
+promises to squash these bugs very quickly. Indeed, a couple of those bugs have 
+disappeared in the last 24 hours.
+
+It also blames some of the bugs on the app makers. For example, that “Who’s in 
+this episode?” thing work only in iTunes and Netflix shows, which explains why 
+it doesn’t work in the Fox app.
+
+All of that is fine, but you have to wonder: Why is Apple still frantically 
+squashing bugs three days before the product ships? (The answer is, no doubt, 
+‘Because we can’t miss the holiday season, no matter what.’)”
+
+The Verge’s Nilay Patel 
+<http://www.theverge.com/2015/10/28/9630952/new-apple-tv-4-review> noted that 
+it’s early days, with most apps “just gigantic phone apps” while features like 
+Siri can be frustrating:
+
+
+“Limitations are everywhere. Only a small handful of apps work with Siri 
+search right now – iTunes, Netflix, Hulu, HBO, and Showtime – so finding 
+something in, say, the ESPN or CBS apps isn’t possible. Siri can’t find you a 
+funny YouTube video, which seems like a shame. Tim Cook says a Siri search API 
+is coming, but I get the feeling Apple wants Siri search to be a differentiator 
+for the more premium services, so we’ll see how wide open that API is when it 
+gets here. And once Siri drops you into a streaming app from that universal 
+search, it’s a free-for-all – they all have different interfaces and 
+recommendation engines, and none of them talk to each other.”
+
+Patel’s colleague Walt Mossberg 
+<http://www.theverge.com/2015/10/28/9631652/apple-tv-2015-walt-mossberg-review> 
+warned readers off the “future of TV hype” but was nevertheless impressed:
+
+
+“As good as Siri has become, it feels limited on this device. It needs to work 
+on all or most of the apps, not a few. It doesn’t even work in the Apple Music 
+app. And it’s odd that it can’t handle all the queries that it can on an 
+iPhone, or speak to you.
+
+I don’t know when, if ever, Apple will reinvent TV. But this isn’t the moment. 
+I can say that, if I were buying a streaming box right now, this is the one I’d 
+buy, if only for the promise of lots of apps.
+
+By making the set-top box a part of its giant app and services ecosystem, the 
+company is moving Apple TV into a future that’s much broader and bigger than 
+Roku’s or Amazon’s.”
+
+The New York Times’ Brian Chen 
+<http://www.nytimes.com/2015/10/29/technology/personaltech/the-new-apple-tv-invigorates-the-set-top-box.html?_r=0>
+ confessed to being “blase” about gadgets generally, but excited about the 
+Apple TV’s evolution:
+
+
+“All the extra features have now put Apple TV in a position to become a 
+powerful apps and games console, not just a box for streaming movies and TV 
+shows.
+
+Even for those more basic elements, the device is better at streaming video 
+content than less expensive products from Amazon, Roku and Google, all of which 
+I tested over the last month. While the new Apple box has flaws, it also has a 
+cleaner interface for finding things to watch and a niftier remote control – 
+not to mention more compelling apps and games.”
+
+Refinery29’s Christina Bonnington 
+<http://www.refinery29.com/2015/10/96530/apple-tv-review#slide> was also very 
+positive:
+
+
+“The prospect of an App Store for the Apple TV (or any set-top box) has always 
+seemed meh to me. What else do I need beyond Netflix and HBO Now? Turns out, I 
+didn’t realise what I was missing until I had a chance to taste it. If you 
+don’t have a cable or satellite subscription, you get a huge variety of content 
+– even from network broadcast stations – that’s easier to find and navigate 
+than using a browser on your laptop. The Apple TV also becomes a home for 
+networks that haven’t yet found a home on traditional TV.”
+
+Have you picked up a new Apple TV on launch day? The comments section is open 
+for your early thoughts on it – or, indeed, if you’ve been using one of the 
+rival devices and have views to share on how Apple TV will compete with them.
+
+• Five of the best media-streaming boxes to make your TV smart 
+<https://www.theguardian.com/technology/2015/sep/28/media-streaming-boxes-tv-five-of-the-best>
+
+ 

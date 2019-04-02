@@ -1,0 +1,153 @@
+
+
+
+I have an ancient laptop that needs replacing as soon as possible. I have a 
+desk at home and do not need the portability of a laptop, but I would like an 
+all-in-one to stop me hunching over the screen. I will use it for web browsing, 
+sending emails, collating photos, and tasks like my ancestry research. What 
+would you recommend?Kate
+
+All-in-one computers generally use much the same technologies as laptops, but 
+they are packaged differently. You are correct in thinking that all-in-ones are 
+much better ergonomically, and they usually have bigger screens than laptops – 
+typically 20-30in rather than 10-17in.
+
+All-in-one PCs are much tidier than desktop PCs, especially if you use a 
+wireless keyboard and mouse. Also, they take up less room and are easier to 
+move around. However, they are not as easy to repair or to expand. Buying more 
+power and more memory than you need will provide some future-proofing.
+
+Either way, I recommend you visit a retailer than stocks all-in-ones, such as 
+John Lewis or Currys PC World, so that you can check the screen, construction 
+quality and finish first hand. The keyboard and mouse are not so important as
+you can easily upgrade these later 
+<https://www.theguardian.com/technology/askjack/2016/oct/13/which-keyboard-and-mouse-should-i-buy-for-my-pc>
+.
+
+Recommended systems
+
+For best results, go for an all-in-one with an Intel Core processor, 8GB of 
+memory, a 1TB or larger hard drive, and Microsoft Windows 10. You should be 
+able to do everything you want with a Core i3, but if you can afford it, it’s 
+better to have a Core i5. You don’t need to pay for the extra power of a Core 
+i7.
+
+At the time of writing, I’d go for the Asus Zen AiO 
+<https://www.asus.com/uk/AllinOne-PCs/Zen-AiO-Pro-Z220IC/Performance/> ZN220IC. 
+This has a 21.5in touch-screen with a resolution of 1920 x 1080 pixels, a Core 
+i3-6100U processor, 8GB of memory and 1TB hard drive, all for£579.99 
+<http://www.pcworld.co.uk/gbuk/computing/desktop-pcs/desktop-pcs/asus-zen-aio-21-5-touchscreen-all-in-one-pc-10146124-pdt.html>
+. The same AiO PC is also available with a faster Core i5-6400T for£665 
+<https://www.amazon.co.uk/Z220ICUT-21-5-Inch-Desktop-Windows-Touchscreen/dp/B017YQAWLY/>
+ orless 
+<http://www.laptopsdirect.co.uk/asus-intel-core-i5-6400t-8gb-1tb-integrated-graphics-bt-cam-no-odd-23.6-to-z220icut-gg009x/version.asp>
+. Prices and services vary so shop around.
+
+There’s also a version with a Core i3 and only 4GB of memory for £499.99 
+<http://www.pcworld.co.uk/gbuk/computing/desktop-pcs/desktop-pcs/asus-zen-aio-21-5-all-in-one-pc-10146349-pdt.html>
+. If that’s as far as your budget stretches, it will do the job.
+
+The Zen AiO is built like an Apple iMac all-in-one – from the back, they look 
+almost identical – but cheaper. The main drawback is that it’s extremely 
+difficult to open, to add more memory or a faster hard drive.
+
+Don’t like the Zen? Dell sells a similar but less stylish all-in-one, the 
+Inspiron 22 3000 <http://www.dell.com/uk/p/inspiron-22-3263-desktop-aio/pd>, 
+with a Core i5-6200U, 8GB of memory and 1TB hard drive for £649 including 
+delivery. Be careful not to confuse it with the older model, which had a
+kick-stand 
+<http://www.pcworld.co.uk/gbuk/computing/desktop-pcs/desktop-pcs/dell-inspiron-22-3000-21-5-all-in-one-pc-10147063-pdt.html>
+. HP offers theHP Pavilion 23-q252na 
+<http://www.johnlewis.com/hp-pavilion-23-q252na-all-in-one-desktop-pc-intel-core-i5-8gb-ram-2tb-23-/p2789163>
+ with a Core i5-6400T, 8GB of memory and a 2TB hard drive for £749.95. I 
+suspect that’s too much for you.
+
+Budget options
+
+If you want to spend as little as possible, look at the Lenovo C20. It has a 
+19.5in non-touch screen, an Intel Celeron J3160 processor, 4GB of memory, a 1TB 
+hard drive and a built-in DVD for £319.99 atPC World 
+<http://www.pcworld.co.uk/gbuk/computing/desktop-pcs/desktop-pcs/lenovo-c20-19-5-all-in-one-pc-10146496-pdt.html>
+,Argos <http://www.argos.co.uk/static/Product/partNumber/5532212.htm> and other 
+stores. It’s obviously not a premium product, but it’s terrific value for money.
+
+It has two drawbacks. First, the screen resolution is only 1366 x 768 pixels. 
+Like your old laptop, it’s HD instead of Full HD. Second, the Celeron J3160 is 
+fairly a slow processor, roughly equivalent to an Intel Atom x7-Z8700. The 
+J3160’s main advantage is on-chip support for H.264 and VC1 encoding and 
+decoding, which helps when playing videos.
+
+There’s a slightly cheaper version of the Lenovo C20 with a 500GB instead of a 
+1TB hard drive for£299.99 
+<http://www.pcworld.co.uk/gbuk/computing/desktop-pcs/desktop-pcs/lenovo-c20-19-5-all-in-one-pc-10146063-pdt.html>
+. There’s also a slightly more expensive version (£349.99 
+<http://www.pcworld.co.uk/gbuk/computing/desktop-pcs/desktop-pcs/lenovo-c20-19-5-all-in-one-pc-10146065-pdt.html>
+) with a Pentium J3710 processor. However, this is basically the same chip with 
+a slightly faster graphics unit. In Intel branding terms, Pentiums are better 
+than Celerons, but in this case, it’s not really worth the extra cost. However, 
+both the Celeron J3160 and Pentium J3710 are better than the oldCeleron N3050 
+<http://www.pcworld.co.uk/gbuk/computing/desktop-pcs/desktop-pcs/lenovo-c20-19-5-all-in-one-pc-10141697-pdt.html>
+, which only has two processor cores instead of four.
+
+John Lewis also offers a C20 variant with the slightly better Pentium J3710 
+processor and 8GB of memory instead of 4GB, which is reasonable value at£379.95 
+<http://www.johnlewis.com/lenovo-c20-all-in-one-desktop-pc-intel-pentium-8gb-ram-1tb-19-5-black/p2915903>
+.
+
+However, at that level, you’d be better off paying £399.99 for the 21.5in HP 
+22-b020na <http://www.argos.co.uk/static/Product/partNumber/5483268.htm>. This 
+has a Full HD screen (1920 x 1080 pixels), a Pentium J3710 processor, 8GB of 
+memory, 1TB hard drive and DVD. It looks nicer than the Lenovo C20, and the 
+extra £80 buys some significant advantages: much better screen resolution, 
+twice the memory, and a slightly faster processor. (Note: be careful not to buy 
+anHP 22-b000na 
+<http://www.pcworld.co.uk/gbuk/computing/desktop-pcs/desktop-pcs/hp-22-b000na-22-all-in-one-pc-white-10146433-pdt.html>
+, which has a dual-core Celeron J3060 instead of the quad-core chip.)
+
+Upmarket all-in-ones
+
+There are plenty of options for users with up to £2,000 to spend on an 
+all-in-one PC. The extra money usually buys you high-resolution 24in, 27in or 
+larger screens, faster Intel Core i5 or i7 processors, dedicated graphics 
+cards, 16GB or 32GB of memory, and very responsive SSD (solid-state disk) 
+drives instead of slow rotating hard drives.
+
+There are lots of more powerful versions of the Asus Zen AiO, up to and 
+including theZ240 
+<http://www.johnlewis.com/asus-zen-z240-all-in-one-pro-desktop-pc-intel-core-i7-32gb-ram-1tb-hdd-512gb-ssd-23-8-ultra-hd-4k-touch-screen-icicle-gold/p2961908>
+. This has a 4K (3840 x 2160-pixel) screen, an Intel Core i7-6700T with 32GB of 
+memory, an Nvidia GeForce GTX960M graphics card with 4GB of memory, a 1TB hard 
+drive and a 512GB SSD for £1,999.95.
+
+HP’s Envy range also has some interesting widescreen models. The Curved 
+34-a090na 
+<http://www.johnlewis.com/hp-envy-curved-34-a090na-all-in-one-pc-intel-core-i7-8gb-ram-1tb-128gb-ssd-34-quad-hd/p2311206>
+, for example, has a 34in widescreen with a resolution of 3440 x 1440 pixels, a 
+Core i7-6700T processor and 8GB of memory for the same £1,999.95 price.
+
+For people who prefer the macOS operating system, there are several all-in-one 
+iMacs. The entry level model has a 21.5in screen with a resolution of 1920 x 
+1080 pixels, a Core i5, 8GB of memory and a 1TB hard drive for £899. A 4K 
+Retina display and a faster Core i5 pushes the price up to £1,119. You can also 
+get iMacs with 27in 5120 x 2880-pixel screens, Core i5 processors and 8GB of 
+memory for £1,449 to £1,849. Upgrading the top model to a fast Core i7, 32GB of 
+memory etc enables you to spend from £2,500 to well over £3,000.
+
+However, Apple is launching some new PCs next Thursday (27 October) in San 
+Francisco. I’m not expecting the iMacs to change dramatically, but best wait 
+and see. The Apple event will take place one day later than a Microsoft launch 
+in New York. This could include a rumoured Surface AIO all-in-one, but it won’t 
+be cheap.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+
+ * Which keyboard and mouse should I buy for my PC? 
+<https://www.theguardian.com/technology/askjack/2016/oct/13/which-keyboard-and-mouse-should-i-buy-for-my-pc>
+
+ * Which laptop should I buy my YouTube-friendly 14-year-old? 
+<https://www.theguardian.com/technology/askjack/2016/sep/01/which-laptop-should-i-buy-my-youtube-friendly-14-year-old>
+
+ * Can I still upgrade from Vista to Windows 10 or should I buy a new PC? 
+<https://www.theguardian.com/technology/askjack/2016/aug/04/can-i-still-upgrade-from-vista-to-windows-10-or-should-i-buy-a-new-pc>
+ 

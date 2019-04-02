@@ -1,0 +1,113 @@
+
+Earlier today I set you two problems 
+<https://www.theguardian.com/science/2016/oct/24/can-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles>
+ popularised by US writer Martin Gardner:
+
+1. At the hardware store, you are told that 1 will cost you 50p, 12 will cost 
+£1 and the price of 144 is £1.50. What are you buying?
+
+2. Reconstruct the following long division:
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F0eb1c5ef8c71c1011dbaff2a26d760b0773b93f4%2F360_526_1206_724%2F1206.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Two%20tantalising%20teasers%20from%20the%20prince%20of%20puzzles&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Two%20tantalising%20teasers%20from%20the%20prince%20of%20puzzles&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F0eb1c5ef8c71c1011dbaff2a26d760b0773b93f4%2F360_526_1206_724%2F1206.jpg>
+SOLUTIONS
+
+1. You are buying house numbers.
+
+2. Let’s first clarify the terminology. The number doing the dividing is the 
+divisor, the number being divided is the dividend, and the answer is the 
+quotient, as I have marked in below. 
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F1b488423a801d584107da005bd4182ae4912bfbb%2F0_387_1224_734%2F1224.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Two%20tantalising%20teasers%20from%20the%20prince%20of%20puzzles&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Two%20tantalising%20teasers%20from%20the%20prince%20of%20puzzles&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F1b488423a801d584107da005bd4182ae4912bfbb%2F0_387_1224_734%2F1224.jpg>
+ Step 1 
+Now, let’s refresh ourselves wth how long division works: each line marked A 
+above is a multiple of the divisor. Consider the top one. We subtract this 
+number from the number above it to give us another number, to which we append a 
+digit, and then subtract a multiple of the divisor. If, however, we cannot 
+subtract a multiple of the divisor (because the number with a single digit 
+appended is smaller than the divisor), then we put a 0 in the quotient in the 
+space directly above the appended digit, and then append a second number. As 
+you can see in both lines B, two digits have been appended, which means that in 
+both cases there must be a zero in the quotient. So we know that the quotient 
+must be of the formx080x.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ffb0c1d2ef2359232ef03d8e265123fb81a31469a%2F0_404_1224_734%2F1224.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Two%20tantalising%20teasers%20from%20the%20prince%20of%20puzzles&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Two%20tantalising%20teasers%20from%20the%20prince%20of%20puzzles&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2Ffb0c1d2ef2359232ef03d8e265123fb81a31469a%2F0_404_1224_734%2F1224.jpg>
+ Step 2 
+Now, we also know that 8 times the divisor is equal to the number circled in 
+red, which has three digits. We know that the final digit of the quotient times 
+the divisor is equal to the number circled in green, which has four digits. So 
+the final digit of the quotient must be larger than 8, so it is 9.
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2F316faca55be6785a57c37d83c3de814b98f32803%2F0_371_1224_734%2F1224.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Two%20tantalising%20teasers%20from%20the%20prince%20of%20puzzles&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Two%20tantalising%20teasers%20from%20the%20prince%20of%20puzzles&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2F316faca55be6785a57c37d83c3de814b98f32803%2F0_371_1224_734%2F1224.jpg>
+ Step 3 
+From above, 8 times the divisor is a three-digit number, which means that the 
+divisor must be less than 125, since 8 x 125 = 1000, which is a four digit 
+number. So the divisor is 124 or less.
+
+Now imagine the first digit of the quotient is 7. Then 7 times the divisor is 
+the number in blue, which has 3 digits. But since the divisor is 124 or less, 
+the number in blue must be 7 x 124 = 868 or less. But if it was 868, then when 
+subtracted from the first four digits of the dividend, you would get a three 
+digit number, not a two digit number (marked orange). So the first digit of the 
+quotient cannot be 7 and likewise we can eliminate all digits less than 7. But 
+we can also eliminate 9, since we know from above that 9 times the quotient has 
+four digits, not three! So the first digit must be 8, and the quotient is 80809.
+
+If the divisor was 123, then the dividend (which is 80809 x 123 = 9939507) has 
+only seven digits. So the divisor must be larger than 123. We already know it 
+is 124 or less. So it is 124. The dividend now works out as 10020316, and the 
+reconstructed long division looks like:
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-6%23img-6&picture=https%3A%2F%2Fmedia.guim.co.uk%2F3f07d72745162458b5d01eb342354442d2bb9c3e%2F0_605_1224_907%2F1224.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Two%20tantalising%20teasers%20from%20the%20prince%20of%20puzzles&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-6%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Two%20tantalising%20teasers%20from%20the%20prince%20of%20puzzles&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3Fpage%3Dwith%3Aimg-6%23img-6&media=https%3A%2F%2Fmedia.guim.co.uk%2F3f07d72745162458b5d01eb342354442d2bb9c3e%2F0_605_1224_907%2F1224.jpg>
+ Step 4 
+We made it!
+
+..............................
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-7%23img-7&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Two%20tantalising%20teasers%20from%20the%20prince%20of%20puzzles&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-7%23img-7>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Two%20tantalising%20teasers%20from%20the%20prince%20of%20puzzles&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F24%2Fdid-you-solve-it-two-tantalising-teasers-from-the-prince-of-puzzles%3Fpage%3Dwith%3Aimg-7%23img-7&media=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+ Photograph: Guardian Faber 
+If you enjoyed either of these puzzles, you may be interested in my new book 
+which is out NEXT WEEK!!Can You Solve My Problems? A Casebook of Ingenious, 
+Perplexing and Totally Satisfying Puzzles 
+<https://bookshop.theguardian.com/can-you-solve-my-problems.html> is a bumper 
+buffet of delicious brain food from easily digestible morsels to fiendishly 
+spicy dishes.
+
+To preorder and get a third off the cover price, please go to 
+bookshop.theguardian.com 
+<https://bookshop.theguardian.com/can-you-solve-my-problems.html/?utm_source=editoriallink&utm_medium=merch&utm_campaign=article>
+ or call 0330 333 6846. Free UK p&p over £10, online orders only. Phone orders 
+min. p&p of £1.99.
+
+
+I post a puzzle here every two weeks on a Monday. You can check me out on 
+Twitter <https://twitter.com/alexbellos>, Facebook 
+<https://www.facebook.com/pages/Alex-Bellos/326738482347?ref=bookmarks>, Google+
+ <https://plus.google.com/u/0/100349853927591455618/posts>, my personal website 
+<http://www.alexbellos.com/> or my Guardian maths blog 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>.
+ 

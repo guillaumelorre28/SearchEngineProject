@@ -1,0 +1,83 @@
+
+Imagine if the postal service started offering discount shipping in exchange 
+for permission to scan every letter you receive and then target you with junk 
+mail based on the contents of your personal mail.
+
+One of the largest telecommunications companies in America, AT&T, is doing 
+just that for customers of its super-fast gigabit broadband service, which is 
+rolling out in select cities. Though a few months ago, it dropped the use of an 
+undeletable “supercookie 
+<https://www.eff.org/deeplinks/2014/11/att-ditches-tracking-header-program-verizon-still-refuses>
+” that tracked subscribers’ web browsing activity, AT&T reportedly plans to
+track and monetize 
+<http://blogs.wsj.com/digits/2015/02/18/att-offers-data-privacy-for-a-price/> 
+its broadband customers’ internet activity – “webpages you visit, the time you 
+spend on each, the links or ads you see and follow, and the search terms you 
+enter <https://www.att.com/esupport/article.jsp?sid=KB421828&cv=803>” – to 
+deliver targeted “ads online, via email or through direct mail”.
+
+The tracking and ad targeting associated with the gigabit service cannot be 
+avoided using browser privacy settings: as AT&T explained, the program “works 
+independently of your browser’s privacy settings regarding cookies, 
+do-not-track and private browsing.” In other words, AT&T is performingdeep 
+packet inspection <https://en.wikipedia.org/wiki/Deep_packet_inspection>, a 
+controversial practice through which internet service providers, by virtue of 
+their privileged position, monitor all the internet traffic of their 
+subscribers and collect data on the content of those communications.
+
+
+What if customers do not want to be spied on by their internet service 
+providers? AT&T allows gigabit service subscribers to opt out – for a $29 fee 
+per month.
+
+But charging extra for privacy has significant social justice implications: 
+broadband access is hard to come by for many communities, and subscribers on 
+the lower rungs of the income ladder may not be able to afford an additional 
+fee to protect their privacy.Privacy <https://www.theguardian.com/world/privacy>
+ should not be reserved for the rich, and the poor should not be forced to 
+choose between broadband, an essential tool in modern life, and their privacy.
+
+
+Moreover, it is not clear what gigabit subscribers get when they pay the $29 
+fee to opt out. AT&T says that it “may collect and use web browsing information 
+for other purposes, as described in our Privacy Policy, even if you do not 
+participate in the Internet Preferences program.” But the company’s mainprivacy 
+policy <https://www.att.com/gen/privacy-policy?pid=13692#menu> also discusses 
+tracking web browsing activity and using subscriber data for advertising 
+purposes.
+
+Even worse, the virtual lack of competition in the broadband market makes it 
+difficult for many subscribers to jump to another, more privacy-protective 
+company.
+
+AT&T does not have a stellar track record when it comes to protecting its 
+subscribers’ information from government intrusion, as the company’s early
+collaboration with the NSA <https://www.eff.org/nsa/hepting> proved. There is 
+no doubt that this sort of detailed tracking piques the interest of all sorts 
+of surveillance-minded government agencies.
+
+There is one silver lining to this dark cloud: AT&T says it is not attempting 
+to monitor its customers’ connections to encrypted websites (like Google, 
+Yahoo!, Facebook and Twitter),which could endanger its customers’ security 
+<https://www.eff.org/deeplinks/2015/02/further-evidence-lenovo-breaking-https-security-its-laptops>
+. This is small comfort, however, given the wide array of websites that do not 
+support HTTPS by default. That includes major retailers Amazon and Barnes & 
+Noble, which raises lifestyle and reader privacy concerns. Activity on 
+unencrypted mobile apps is also vulnerable to AT&T tracking if the mobile 
+device is logged onto the gigabit service via Wi-Fi.
+
+There is one possible solution to the dilemma AT&T is forcing its subscribers 
+into: like so many other web privacy problems, this one can be solved by 
+encryption. By funneling their traffic through aVPN service 
+<https://en.wikipedia.org/wiki/Virtual_private_network>, AT&T customers can 
+bypass AT&T’s deep packet inspection, thus preserving their privacy. (And given 
+that many VPNs cost far less than $29 per month, customers would save money 
+over AT&T’s opt-out fee.)
+
+However, customers should not be forced to take these sorts of extra 
+precautions to protect their privacy.Internet 
+<https://www.theguardian.com/technology/internet> service providers sit in an 
+incredibly privileged position in the network. They should not be tracking 
+subscribers’ internet activity or monetizing that activity. AT&T should be 
+ashamed of itself for putting profit over privacy.
+ 

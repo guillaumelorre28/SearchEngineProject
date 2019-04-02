@@ -1,0 +1,61 @@
+
+Telecoms giant AT&T has been fined a record $100m for misleading consumers 
+about the carrier’s “unlimited data” plans, plans that in fact capped data and 
+slowed speeds by up to 90% after users topped 5GB of data in a month.
+
+“Consumers deserve to get what they pay for,” said FCC chairman Tom Wheeler. 
+“Broadband providers must be upfront and transparent about the services they 
+provide. The FCC will not stand idly by while consumers are deceived by 
+misleading marketing materials and insufficient disclosure.”
+
+“For years, AT&T sold and charged customers for unlimited data plans without 
+revealing that if customers used more than a fixed amount of data, their 
+internet speeds would be reduced so much that basic applications became 
+unusable,” said a senior Federal Communications Commission (FCC) official.
+
+The FCC served AT&T its notice of apparent liability (NAL) today, and it has 
+30 days to respond. AT&T did not return an email requesting comment.
+
+AT&T “used the misleading and inaccurate term ‘unlimited’” in reference to 
+existing unlimited use plans that, in 2011, were quietly and unilaterally 
+changed by the company to incorporate a “maximum bit rate” data speed cap. Most 
+damningly, the official said, “AT&T conducted focus group studies in 2009 and 
+2010 that demonstrated that customers had a negative reaction to the policy.”
+
+This is the second investigation of AT&T by a federal regulator on the same 
+activity; the Federal Trade Commission charged AT&T with misconduct for its 
+“unlimited” plans last year, just a few weeks after Verizonhastily reevaluated 
+<http://www.cnet.com/news/verizon-backs-off-on-plans-to-throttle-unlimited-data-users/>
+ its own plans to throttle unlimited subscriber speeds.
+
+AT&T’s action, said the official, “caused intentional, repeated, and caused 
+substantial harm to AT&T’s customers and the marketplace” and the FCC wanted to 
+levy a fine that “would not simply be the cost of doing business.” The official 
+pointed out the AT&T had made billions off the capped “unlimited” accounts over 
+the years.
+
+A notable voice of dissent in the action was FCC commissioner Ajit Pai, a 
+reliably conservative voice on the commission. His statement of dissent was 
+headed with a quote from Kafka’s The Trial; “[I]t is an essential part of the 
+justice dispensed here that you should be condemned not only in innocence but 
+also in ignorance.”
+
+Pai wrote: “A government ‘rule’ suddenly revised, yet retroactive. 
+Inconvenient facts ignored. A business practice sanctioned after years of 
+implied approval. A penalty conjured from the executioner’s imagination. These 
+and more Kafkaesque badges adorn this Notice of Apparent Liability (NAL), in 
+which the Federal Communications Commission seeks to impose a $100 million fine 
+against AT&T for failing to comply with the apparently opaque ‘transparency’ 
+rule the FCC adopted in its 2010 Net Neutrality Order.”
+
+It is possible the fine will be reduced after further negotiation with AT&T: 
+“We are always open to settling any enforcement investigation or action,” the 
+official said.
+
+Last year and the year prior, the FCC fined four top cellular services - 
+T-Mobile, AT&T, Verizon and Sprint - for “cramming” extra charges onto bills in 
+a systematic fashion. All four carriers have some kind of data throttling 
+policy, though levels of transparency vary. The official would not comment on 
+whether or not the AT&T fine presaged further actions against the telecom’s 
+competitors.
+ 

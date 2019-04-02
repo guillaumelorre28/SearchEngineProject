@@ -1,0 +1,76 @@
+
+Microsoft has been winning generally approving headlines for its Microsoft 
+Band fitness tracker and accompanying Microsoft Health platform, since both 
+were revealed –seemingly unintentionally at first 
+<https://www.theguardian.com/technology/2014/oct/30/microsoft-fitness-band-health-software>
+ – on Wednesday.
+
+One of the key points about both hardware and software is their cross-platform 
+nature: they won’t just be restricted to people with a Windows Phone smartphone 
+and/or a computer running the Windows OS. They’ll also supportAndroid 
+<https://www.theguardian.com/technology/android>, iOS and Mac.
+
+Microsoft <https://www.theguardian.com/technology/microsoft> Health is also 
+open to other devices and apps, with Jawbone’s Up and the apps MapMyFitness, 
+MyFitnessPal and RunKeeper the first to be announced.
+
+“We plan to have a regular cadence of Microsoft Health announcements including 
+additional device and service partnerships, SDK availability and additional 
+cross-platform applications and services,”blogged Microsoft’s Todd Holmdahl 
+<http://blogs.microsoft.com/blog/2014/10/29/introducing-microsoft-health/>.
+
+Integrating other fitness apps isn’t unusual: it’s an approach also being 
+taken by Apple’s Health app and HealthKit API, as well as Google Fit, whichalso 
+launched this week 
+<https://www.theguardian.com/technology/2014/oct/29/google-launches-fit-app-apple-heath-samsungs-s-health>
+. Meanwhile, hardware makers including Fitbit, Withings and Jawbone have built 
+a network of data-sharing deals to work with apps beyond their own.
+
+Even so, Microsoft Health’s commitment to cross-platform is notable, if 
+perhaps essential given the relatively small market share of Windows Phone. Do 
+you think it gives the company’s new venture a healthy chance of attracting 
+people? The comments section is open for your views.
+
+Some other food for tech thought and discussion this morning:
+
+ * Former Android boss Andy Rubin is leaving Google, but his plans sound 
+pretty interesting:according to the Wall Street Journal 
+<http://online.wsj.com/news/article_email/former-android-leader-andy-rubin-leaving-google-1414713040-lMyQjAxMTE0NTMxMDQzOTA4Wj>
+ he’ll be “starting an incubator for startups interested in building technology 
+hardware products”. It stresses that Rubin’s departure doesn’t mean Google is 
+cooling on the robotics space. Probably a good thing, givenall those 
+acquisitions 
+<https://www.theguardian.com/technology/2013/dec/04/google-robots-andy-rubin-amazon>
+...
+
+ * Talking of robots, here’s a new study from scientists at Oregon State 
+University, the Royal Veterinary College and others suggesting thatroboticists 
+can learn a lot from running birds 
+<http://www.eurekalert.org/pub_releases/2014-10/osu-rro102314.php>. “We should 
+ultimately be able to encode this understanding into legged robots so the 
+robots can run with more speed and agility in rugged terrain.”
+
+ * More birds: Warblr is an intriguing Kickstarter crowdfunding campaign 
+<https://www.kickstarter.com/projects/1190241008/warblr-an-app-that-recognises-birds-from-their-son?ref=nav_search>
+ for “an audio recognition app for birdsong”. Basically it’s Shazam for your 
+garden: trained on recordings of more than 80 British species, it enables you 
+to record a bird’s song and then identify it.
+
+ * Music industry blog China Music Business has a good interview about 
+intellectual property rights in China 
+<http://www.chinamusicbusiness.com/article/ramble-on-intellectual-property-rights-and-the-chinese-music-industry-interviewdongdong-special/>
+. “As China inevitably moves from a manufacturing economy to an innovation 
+economy – meaning that companies need to innovate to stay ahead of competitors 
+– you will see domestic companies that once infringed IP start to use the laws 
+toprotect their IP...”
+
+ * Finally, CNN has been talking to Humanetics 
+<http://edition.cnn.com/2014/10/23/tech/innovation/obese-crash-test-dummies-mci/>
+, which makes crash test dummies, about its work on a new obese model. “Obese 
+people are 78% more likely to die in a crash. The reason is the way we get fat. 
+We get fat in our middle range. And we get out of position in a typical seat.” 
+The company is also working on a model that can reflect age as well as size. 
+What do you think of these stories, and what else have you seen today that you 
+think fellow Guardian Tech readers would enjoy chatting about? The discussion 
+is open.
+ 

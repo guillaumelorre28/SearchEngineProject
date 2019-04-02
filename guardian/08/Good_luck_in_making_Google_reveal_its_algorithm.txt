@@ -1,0 +1,94 @@
+
+On 25 October, the German chancellor, Angela Merkel, wandered into unfamiliar 
+territory – at least for a major politician.Addressing a media conference in 
+Munich, 
+<https://www.theguardian.com/world/2016/oct/27/angela-merkel-internet-search-engines-are-distorting-our-perception>
+ she called on major internet companies to divulge the secrets of their 
+algorithms on the grounds that their lack of transparency endangered public 
+discourse. Her prime target appeared to be search engines such as Google and 
+Bing, whose algorithms determine what you see when you type a search query into 
+them. Given that, an internet user should have a right to know the logic behind 
+the results presented to him or her.
+
+“I’m of the opinion,” declared the chancellor, “that algorithms must be made 
+more transparent, so that one can inform oneself as an interested citizen about 
+questions like, ‘What influences my behaviour on the internet and that of 
+others?’ Algorithms, when they are not transparent, can lead to a distortion of 
+our perception; they can shrink our expanse of information.”
+
+As a slogan, 'transparency' sounds good. It gives one a warm feeling, even if 
+it’s baloney
+
+All of which is unarguably true. We know that search results – and social 
+media news feeds – are assembled by algorithms that determine the websites or 
+news items likely to be most “relevant” for each user. The criteria used for 
+determining relevance are many and varied, but some are calibrated by what your 
+digital trail reveals about your interests and social network and, in that 
+sense, the search results or news items that appear in your feed are 
+personalised for you. But these powerful algorithms, which can indeed shape how 
+you see the world, are proprietary and secret, which is wrong. So, Merkel 
+argues, they should be less opaque.
+
+QED? Sadly, no. I hold no brief for Google or Facebook, but simply making 
+their algorithms transparent would do more harm than good. The reason is that 
+search results or news feeds could then be “gamed” by external operators whose 
+objectives might be even more questionable – and would certainly be more opaque 
+– than those ofGoogle <https://www.theguardian.com/technology/google> and 
+Facebook.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fnov%2F13%2Fgood-luck-in-making-google-reveal-its-algorithm%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F6fb08ce986ddc5d51de7692ecdfcdc05d8d3f498%2F349_1500_2077_2596%2F2077.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Good%20luck%20in%20making%20Google%20reveal%20its%20algorithm%20%7C%20John%20Naughton&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fnov%2F13%2Fgood-luck-in-making-google-reveal-its-algorithm%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Good%20luck%20in%20making%20Google%20reveal%20its%20algorithm%20%7C%20John%20Naughton&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fnov%2F13%2Fgood-luck-in-making-google-reveal-its-algorithm%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F6fb08ce986ddc5d51de7692ecdfcdc05d8d3f498%2F349_1500_2077_2596%2F2077.jpg>
+ German chancellor Angela Merkel wants the major internet companies to divulge 
+their secrets. Photograph: EPA 
+That doesn’t mean that the companies are squeaky clean, by the way. In fact, 
+at the moment, the European commission is trying to decide if Google is abusing 
+its monopoly of search to favour its own commercial interests. But at least we 
+know what its motives are. On the other hand, if hackers of the Russian 
+security service, say, were able secretly to manipulate your search results 
+then you might conclude that transparency was overrated.
+
+As a slogan, “transparency” sounds good. Like the saying “sunlight is the best 
+disinfectant”, it gives one a warm feeling, even if it’s baloney. But in the 
+digital arena, at least, transparency is not necessarily the best way to 
+achieve the accountability that Merkel rightly craves.
+
+Just imagine for a moment that she were able to compel Google to publish its 
+PageRank algorithm, the one that decides which pages are most relevant to your 
+search query. Once upon a time, when Google was conceived by Sergey Brin and 
+Larry Page, PageRank was probably a fairly compact program. Now, it’s an 
+amalgam of hundreds, perhaps thousands, of individual modules expressed as many 
+thousands, perhaps millions, of lines of computer code. Publishing it might 
+indeed enable hackers armed with the right tools to find exploitable weaknesses 
+in the code, but it wouldn’t do much to help the average citizen to figure out 
+if search results were being skewed in some sinister or unscrupulous way.
+
+Google News introduces fact check feature – just in time for US election
+ Read more  
+<https://www.theguardian.com/technology/2016/oct/13/google-news-fact-check-trump-clinton-us-election>
+So just publishing secret stuff doesn’t do the trick. In a way, this is the 
+hard lesson that WikiLeaks learned. At the beginning, its animating philosophy 
+was that if you published information that powerful and secretive organisations 
+would prefer to keep private, then good things would happen. So WikiLeaks did 
+indeed publish such material. But except in a few cases, nothing much happened, 
+which is why, in the end, Julian Assange decided that the way forward was first 
+of all to createeditorial material such as the “collateral murder” 
+<https://collateralmurder.wikileaks.org/> video and, later, to team up with 
+established journalistic outfits such as theGuardian, New York Times, Le Monde, 
+El Paisand Der Spiegel to release a huge trove of US diplomatic cables 
+<https://www.theguardian.com/world/2010/nov/28/how-us-embassy-cables-leaked>.
+
+But the German chancellor has put her finger on an important problem. 
+Decision-making algorithms are already shaping our culture, our commerce and 
+maybe even our politics. For the most part, they are opaque and those who 
+deploy them are therefore unaccountable. In the long run, this is intolerable – 
+for liberty, privacy, equity and maybe even for democracy. The good news is 
+that the problem is not insoluble. But there’s no single solution, no magic 
+bullet. Calling for transparency won’t do it. Sometimes, publication will be 
+the answer; at other times, it will be a muscular inspection regime, or need 
+legislative changes to enforce legal liability. But before we can get started 
+on solutions, we need first to acknowledge that we have a problem. So two 
+cheers for Angela Merkel!
+ 

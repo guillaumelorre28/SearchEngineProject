@@ -1,0 +1,72 @@
+
+Google <https://www.theguardian.com/technology/google> has altered 
+autocomplete suggestions in its search engine after it was alerted to 
+antisemitic, sexist and racists entries.
+
+
+Google’s autocomplete feature aims to suggest common searches after a user 
+enters one or more words into the site’s search box or address bar of its 
+Chrome browser.
+
+Typing the phrase “are Jews” into Google, the search engine suggested “evil”, 
+for “are women” it again suggested “evil” and for “are Muslims” it suggested 
+“bad”, anObserver article reported.  
+<https://www.theguardian.com/technology/2016/dec/04/google-democracy-truth-internet-search-facebook>
+
+Google, democracy and the truth about internet search
+ Read more  
+<https://www.theguardian.com/technology/2016/dec/04/google-democracy-truth-internet-search-facebook>
+On Monday the searches for Jews and women no longer returned those results, 
+although the “are Muslims bad” autocomplete was still present.
+
+A Google spokesperson said: “We took action within hours of being notified on 
+Friday of the autocomplete results.” Google did not comment on its decision to 
+alter some but not all those raised in the article.
+
+It said: “Our search results are a reflection of the content across the web. 
+This means that sometimes unpleasant portrayals of sensitive subject matter 
+online can affect what search results appear for a given query. These results 
+don’t reflect Google’s own opinions or beliefs – as a company, we strongly 
+value a diversity of perspectives, ideas and cultures.
+
+“Autocomplete predictions are algorithmically generated based on users’ search 
+activity and interests. Users search for such a wide range of material on the 
+web – 15% of searches we see every day are new. Because of this, terms that 
+appear in autocomplete may be unexpected or unpleasant. We do our best to 
+prevent offensive terms, like porn and hate speech, from appearing, but we 
+acknowledge that autocomplete isn’t an exact science and we’re always working 
+to improve our algorithms.”
+
+This is not the first time Google and others’ autocomplete and search 
+algorithms have caused offence. An auto-suggested photo tag within Google’s 
+Photos service in July 2015 labelled two black teenagers as “Gorillas”. Google 
+apologised andsaid it was working 
+<https://www.theguardian.com/technology/2015/jul/01/google-sorry-racist-auto-tag-photo-app>
+ on “longer term fixes” around the recognition of dark-skinned faces as well as 
+the linguistics of photo labels.
+
+
+In May 2015, Google apologised when the White House was returned as a result 
+<https://www.theguardian.com/technology/2015/may/20/google-apologises-racist-google-maps-white-house-search-results>
+ for searches for “nigger house” and “nigger king” within Google maps.
+
+Google declined to explain why the results occurred but a spokesperson said: 
+“Some inappropriate results are surfacing in Google Maps that should not be, 
+and we apologise for any offence this may have caused.”
+
+In April this year Google apologised after a search for “unprofessional 
+hairstyles for work 
+<https://www.theguardian.com/technology/2016/apr/08/does-google-unprofessional-hair-results-prove-algorithms-racist->
+” yielded image results showing predominantly black women with natural hair, 
+while searching for “professional” ones returned pictures of coiffed, white 
+women.
+
+In June, Google’s image search also caused offence by returning criminal 
+mugshots for searches of “three black teenagers” but not for “three white 
+teenagers”.
+
+Google has also previously denied “conspiracy theories” accusing it of 
+censoring its search results to please the Conservative party 
+<https://www.theguardian.com/technology/2016/feb/02/google-tories-are-labour-are-autocomplete-conspiracy-theories>
+ in exchange for a deal over its taxes.
+ 

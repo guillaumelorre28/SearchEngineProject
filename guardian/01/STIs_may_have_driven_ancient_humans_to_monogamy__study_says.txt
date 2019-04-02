@@ -1,0 +1,81 @@
+
+The clam, the clap and the pox are rarely linked to romance. But new research 
+suggests they may have helped drive humans to monogamy.
+
+Based on insights from computer models, scientists argue that the shift away 
+from polygynous societies – where men had many long-term partners, but women 
+had only one – could be down to the impact of sexually transmitted infections 
+on large communities that arose with the dawn of the agricultural age. 
+Agriculture is thought to have taken hold around 10,000 years ago, althoughsome 
+studies put the date even earlier 
+<https://www.theguardian.com/science/2015/jul/24/archaeologists-find-possible-evidence-of-earliest-human-agriculture>
+.
+
+“That behaviour was more common in hunter gatherers and it seemed to fade when 
+we became agriculturists,” said Chris Bauch of the University of Waterloo in 
+Canada who co-authored the paper.
+
+Writing in the journal Nature Communications 
+<http://nature.com/articles/doi:10.1038/NCOMMS11219>, Bauch and his colleague 
+Richard McElreath from the Max Planck Institute for Evolutionary Anthropology 
+in Germany, describe how they built a computer model to explore how bacterial 
+sexually transmitted infections such as chlamydia, gonorrhea and syphilis that 
+can cause infertility, affected populations of different sizes. The authors 
+considered both small hunter gatherer-like populations of around 30 individuals 
+and large agricultural-like populations of up to 300 individuals, running 2,000 
+simulations for each that covered a period of 30,000 years.
+
+In small polygynous communities, the researchers found that outbreaks of such 
+STIs were short-lived, allowing the polygynous population to bounce back. With 
+their offspring outnumbering those from monogamous individuals, polygyny 
+remained the primary modus operandi.
+
+But when the team looked at the impact of STIs on larger polygynous societies, 
+they found a very different effect. Instead of clearing quickly, diseases such 
+as chlamydia and gonorrhea became endemic. As a result, the population 
+plummeted and monogamists, who did not have multiple partners, became top dog. 
+The team also found that while monogamists who didn’t ‘punish’ polygyny could 
+gain a temporary foothold, it was monogamists that ‘punished’ polygyny – often 
+at their own expense of resources – that were the most successful. While the 
+form of such punishments were not specified in the model, Bauch suggests fines 
+or social ostracisation among the possible penalties. The results, they say, 
+reveal that STIs could have played a role in the development of socially 
+imposed monogamy that coincided with the rise of large communities that 
+revolved around agriculture.
+
+“It’s really quite exciting,” said evolutionary anthropologist Laura Fortunato 
+of the University of Oxford who was not involved in the study. While there is 
+little data to be had on the prevalence of STIs in either hunter gatherer 
+populations or in early communities that embraced agriculture, Fortunato 
+believes that there are opportunities to explore the idea further. “You could 
+see if that mechanism is in operation in contemporary populations,” she said.
+
+While the authors acknowledge that other factors might also have influenced 
+the shift to monogamy, the research, they believe, highlights an oft-overlooked 
+aspect of human behaviour. “A lot of the ways we behave with others, our rules 
+for social interaction, also have origins in some kind of natural environment,” 
+said Bauch.
+
+But others describe the authors’ theory as “unlikely”. “I don’t think it is 
+necessarily wrong but I think the basis for their modelling may be,” said Kit 
+Opie of University College, London. Opie argues that early human society was 
+not likely to be polygynous. “Looking at modern day hunter gatherers who 
+provide some sort of model for pre-agricultural societies, ie any human society 
+prior to about 10,000 years ago, then polygyny is very rare,” he said. 
+“Hunter-gatherer marriage is a much looser affair than we are used to and 
+polygyny may be allowed but very rarely is it actually practiced.”
+
+Bauch believes the argument doesn’t detract from the authors’ conclusions. “I 
+don’t think it affects our hypothesis because our hypothesis and mechanism 
+concern general trends,” he said. While the authors note that further work that 
+clearly distinguished between marriage and mating could add further insights, 
+Bauch believes the new study shows the power of simulations. “Our research 
+illustrates how mathematical models are not only used to predict the future, 
+but also to understand the past,” he said.
+
+• Note: An earlier version of the story contained an erroneous use of the word 
+‘polygamy’ instead of ‘polygyny’. The error has been corrected now.
+
+
+
+ 

@@ -1,0 +1,62 @@
+
+While contactless payment terminals have become ubiquitous in retail outlets, 
+Barclays <https://www.theguardian.com/business/barclay> is set to trial 
+contactless ATMs in a number of its branches.
+
+The bank will unveil 100 contactless machines at 25 branches across “the 
+north”, which will allow customers to withdraw up to £100 without putting their 
+card into the machine, or by using their smartphone instead. The exact 
+locations of the machines have not yet been released, but the bank said they 
+would be rolled out to 180 branches across the UK if the project was a success.
+
+Banks' online security is failing customers, says Which?
+ Read more  
+<https://www.theguardian.com/money/2016/oct/20/banks-online-security-is-failing-customers-says-which>
+ATM users will simply tap their contactless card against the machine’s reader 
+before inputting their pin as normal. Barclays mobile app customers who have 
+one of the latest Android mobile phones with NFC (near-field communication) 
+won’t even need their card – once they open the app and select cash withdrawal 
+they simply tap the phone on the card reader, input their card’s pin either on 
+the ATM or the phone handset, and out pops the money.
+
+Customers with iPhones won’t be able to use the scheme because Apple limits 
+the use of its contactless technology to its own Apple Pay system.
+
+Barclays suggested the facility was more secure than inserting a bank card, as 
+it avoided the risk of having the card’s details hijacked by a skimming 
+machine. The user also cannot walk off and leave their card in the slot.
+
+Those taking out sums greater than £100 will still have to put their card in 
+the machine.
+
+Barclays is not the first bank to allow customers to make cardless 
+withdrawals. Royal Bank of Scotland introduced its Get Cash facility four years 
+ago, designed to help customers in an emergency. It allowed up to £130 to be 
+taken out of an ATM by messaging the user a code via their smartphone which was 
+to be typed into the terminal. The service was suspended for a short period in 
+2012 after it was targeted by fraudsters.
+
+Security experts have warned that users of the mobile app are probably better 
+off inputting the card’s pin number on the ATM rather than mobile handset. 
+“There could be malware on your phone which is recording the pin as it’s typed 
+in – that would be a new risk,” said Steven Murdoch of University College 
+London. “The malware might also be able to copy your credentials from one phone 
+to another, allowing the other handset to make a withdrawal.”
+
+Is Barclays doing enough to protect its customers?
+ Read more  
+<https://www.theguardian.com/money/2016/mar/12/barclays-fraud-email-con-trick-pressure-bank>
+Last year, more than 90,000 UK bank accounts were defrauded through the use of 
+counterfeit cards, and a further 152,727 because of lost or stolen cards, 
+according to Financial Fraud Action UK.
+
+Ashok Vaswani, chief executive of Barclays UK, said: “Our customers now expect 
+to be able to use their smartphone to make their everyday purchases. We want 
+taking out cash to be just as easy. With Contactless Cash, customers can 
+quickly and securely take out money with just a tap of their smartphone – a 
+first for the UK.”
+
+• This article was amended on 14 December 2016 to make clear that the 
+suspension of the Royal Bank of Scotland’s Get Cash facility in 2012 was 
+temporary.
+ 

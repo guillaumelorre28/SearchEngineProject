@@ -1,0 +1,45 @@
+
+Studying wild animals is crucial if we are to understand why they behave the 
+way they do. But what if the apparently passive act of observation changes the 
+way they behave? For decades, behavioural ecologists have been very mindful of 
+this problem. A paper, just out inNature Methods 
+<http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.3173.html#videos>
+, suggests a cunning new way to collect data from wild animals without causing 
+them undue stress.
+
+There are many ways to study the behaviour of wild animals. You can go out and 
+gain their trust, hoping they get so comfortable with your presence that they 
+carry on as if you weren’t there at all. Or you might want to fit your study 
+population with some kind of gizmo that can collect (and maybe even transmit) 
+data in your absence. But even devices like these are likely to alter 
+behaviour: increasing drag, for instance.
+
+
+A microchip implanted beneath the skin (as is now routinely performed for 
+pets) is much more likely to go unnoticed by the animal. The snag is that in 
+order to scan the chip and identify the individual, you have to get pretty 
+close. Researchers have now come up with an alternative: sending in a 
+remote-controlled robot equipped with a scanning device, the ability to collect 
+all sorts of data on the focal animal and then transmit it into the ether. 
+Testing this method out on king penguins, they reveal that it is likely to be a 
+whole lot less stressful for the animals.
+
+When approached by a human, for instance, a penguin’s heart rate increased by 
+an average of 35 beats per minute. When the rover came at it, its heart rate 
+also increased, but only by around 24 beats per minute. In addition, a human 
+caused the target penguin to move much more (average of 43 cm) than the rover 
+(just 8cm). With the robot, the penguins were also much quicker to return to 
+their original physiological state.
+
+The researchers went on to see if emperor penguins had a similarly relaxed 
+reaction to robots. Many were wary. But when the scientists dressed up the 
+rover as a baby penguin, everyone was happy. “Chicks and adults were even heard 
+vocalizing at the camouflaged rover, and it was able to infiltrate a crèche 
+without disturbance,” note Yvon Le Maho and colleagues.
+ The camouflaged rover successfully infiltrates an emperor penguin crèche 
+Photograph: Yvon Le Maho et al. Nature Methods 
+This set-up is obviously not going to be workable in every setting. But it 
+certainly does open up a lot of exciting possibilities for students of animal 
+behaviour. Not to mention some rather wonderful photographic opportunities.
+
+ 

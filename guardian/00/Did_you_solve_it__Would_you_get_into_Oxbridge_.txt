@@ -1,0 +1,118 @@
+
+Earlier today I set you the following puzzle 
+<https://www.theguardian.com/science/2016/nov/07/can-you-solve-it-would-you-get-into-oxbridge>
+, from a recent Oxford Mathematics Admissions Test. Thanks to everyone took 
+part;more than a thousand comments  
+<https://www.theguardian.com/science/2016/nov/07/can-you-solve-it-would-you-get-into-oxbridge#comments>
+below the line and several very funny threads.
+
+And I’m very impressed - about 80 per cent of you got each question correct. 
+Congratulations, you are all admitted into Oxford! (And next time I will make 
+the questions more difficult.)
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F07%2Fdid-you-solve-it-would-you-get-into-oxbridge%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F68d2c0a2d649e2841ab94325be93593f2c25c635%2F36_0_768_461%2F768.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Would%20you%20get%20into%20Oxbridge%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F07%2Fdid-you-solve-it-would-you-get-into-oxbridge%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Would%20you%20get%20into%20Oxbridge%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F07%2Fdid-you-solve-it-would-you-get-into-oxbridge%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F68d2c0a2d649e2841ab94325be93593f2c25c635%2F36_0_768_461%2F768.png>
+The question: Alice, Bob and Charlie are well-known expert logicians; they 
+always tell the truth. They are sat in a row, as illustrated above. In each of 
+the scenarios below, their father puts a red or blue hat on each of their 
+heads. Alice can see Bob’s and Charlie’s hats, but not her own; Bob can see 
+only Charlie’s hat; Charlie can see none of the hats. All three of them are 
+aware of this arrangement.
+
+(i) Their father puts a hat on each of their heads and says: “Each of your 
+hats is either red or blue. At least one of you has a red hat.” Alice then says 
+“I know the colour of my hat.” What colour is each person’s hat?
+
+(ii) Their father puts a new hat on each of their heads and again says: “Each 
+of your hats is either red or blue. At least one of you has a red hat.” Alice 
+then says “I don’t know the colour of my hat.” Bob then says “I don’t know the 
+colour of my hat.” What colour is Charlie’s hat?
+
+(iii) Their father puts a new hat on each of their heads and says: “Each of 
+your hats is either red or blue. At least one of you has a red hat, and at 
+least one of you has a blue hat.” Alice says “I know the colour of my hat.” Bob 
+then says “Mine is red.” What colour is each person’s hat?
+
+(iv) Their father puts a new hat on each of their heads and says: “Each of 
+your hats is either red or blue. At least one of you has a red hat, and at 
+least one of you has a blue hat.” Alice then says “I don’t know the colour of 
+my hat.” Bob then says “My hat is red”. What colour is Charlie’s hat?
+
+(v) Their father puts a new hat on each of their heads and says: “Each of your 
+hats is either red or blue. Two of you who are seated adjacently both have red 
+hats.” Alice then says “I don’t know the colour of my hat.” What colour is 
+Charlie’s hat?
+
+Solutions
+
+(i) Alice’s hat is red, and the others are blue. It must be that Alice can see 
+that neither of the others has a red hat, so can deduce the colour of her own.
+
+Charlie’s hat is blue. 83.2 per cent of you got it correct. 16.8 per cent got 
+it wrong.
+
+(ii) Alice must be able to see a red hat, or would be able to deduce the 
+colour of her own hat. Likewise, Bob must be able to see a red hat, or would be 
+able to deduce the colour of his own hat (given Alice’s answer). Hence 
+Charlie’s hat is red.
+
+Charlie’s hat is red. 74.1 per cent of you got it correct. 25.9 per cent got 
+it wrong.
+
+(iii) Alice must be able to see two hats of the same colour in order to deduce 
+the colour of her hat. Bob knows this, and so deduces his hat is the same 
+colour as Charlie’s. Hence Alice’s hat is blue, and Bob’s and Charlie’s are red.
+
+Charlie’s hat is red. 78.8 per cent of you got it correct. 21.2 per cent got 
+it wrong.
+
+(iv) Alice must be able to see two hats of opposite colours, or else she would 
+be able to deduce her own hat colour. Bob knows this, so deduces his hat is a 
+different colour from Charlie’s. Hence Charlie’s hat is blue.
+
+Charlie’s hat is blue. 89.2 per cent of you got it correct. 10.8 per cent got 
+it wrong.
+
+(v) If Bob and Charlie had different colour hats, Alice would know that she 
+and Bob both had red hats. Therefore Bob and Charlie both have red hats.
+
+Charlie’s hat is red. 82.7 per cent of you got it correct. 17.3 per cent got 
+it wrong.
+
+The question was Q6 from the 2012 Oxford Mathematics Admissions Test and was 
+for applicants to Computer Science,Mathematics 
+<https://www.theguardian.com/science/mathematics> & Computer Science and 
+Computer Science & Philosophy only.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F07%2Fdid-you-solve-it-would-you-get-into-oxbridge%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Would%20you%20get%20into%20Oxbridge%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F07%2Fdid-you-solve-it-would-you-get-into-oxbridge%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Would%20you%20get%20into%20Oxbridge%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F07%2Fdid-you-solve-it-would-you-get-into-oxbridge%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+ Photograph: Guardian Faber 
+I set a puzzle here every two weeks on a Monday. If you would like to suggest 
+a puzzleemail me <mailto:bellospuzzle@gmail.com>.
+
+My puzzle book Can You Solve My Problems? A Casebook of Ingenious, Perplexing 
+and Totally Satisfying Puzzles 
+<https://bookshop.theguardian.com/can-you-solve-my-problems.html> is just out. 
+It is an anthology of almost 200 puzzles - some of them similar to the hat 
+puzzle above - together with stories about the people who invented them and 
+background on the maths involved.
+
+
+To get a third off the cover price, please go to bookshop.theguardian.com 
+<https://bookshop.theguardian.com/can-you-solve-my-problems.html/?utm_source=editoriallink&utm_medium=merch&utm_campaign=article>
+ or call 0330 333 6846. Alternatively here’s a link toa well known web 
+bookseller named after a river in Brazil. <http://amzn.to/2f3GJNd>
+
+
+You can check me out on Twitter <https://twitter.com/alexbellos>, Facebook 
+<https://www.facebook.com/pages/Alex-Bellos/326738482347?ref=bookmarks>, Google+
+ <https://plus.google.com/u/0/100349853927591455618/posts>, my personal website 
+<http://www.alexbellos.com/> or my Guardian maths blog 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>.
+ 

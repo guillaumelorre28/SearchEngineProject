@@ -1,0 +1,36 @@
+
+The Guardian Anywhere is an Android application which helps you get
+Guardian content on your mobile, ready for the morning commute. It
+pulls in the days stories and all the excellent (and surprisingly
+voluminous) photography that gets published, whenever you need it. You
+can set it to collect the news in the early hours of the morning, and
+ask it to only download using Wi-Fi, if you'd like to save your 3G
+connection.
+
+We've also tucked away some other useful features:
+
+ You can save any photo to your phone and use it as a wallpaper, or
+send it to a friend;
+ You can choose to subscribe to, or avoid, individual sections of the
+newspaper; handy if you don't like reading about sport!
+ Saved articles let you mark a story or photo as being interesting,
+and read it later. I like to do this in the morning on the way to
+work: I scan through articles quickly, marking the interesting ones,
+then read them later at my leisure;
+ You can browse articles by section, author or tag. This makes it
+easy to find other articles in the paper relating to the same subject
+or by the same author as the one you're reading. You can also
+subscribe to tags to keep up-to-date with specific stories;
+
+If you have an Android phone, please do try it out and let us know
+what you think by leaving some comments in the marketplace or emailing
+android@futureplatforms.com <mailto:android@futureplatforms.com>.
+
+Blog post: Guardian Anywhere
+ <http://www.tomhume.org/2009/09/guardian-anywhere.html>
+"It's an app for Android phones that lets you read The Guardian, anywhere. 
+We've imaginatively called it "Guardian Anywhere". Scan [the barcode] with the 
+barcode scanner on your Android phone to be taken to the right place in the 
+Android Market, click the link if you're reading this with an Android phone, or 
+just search the Market for "Guardian"."
+ 

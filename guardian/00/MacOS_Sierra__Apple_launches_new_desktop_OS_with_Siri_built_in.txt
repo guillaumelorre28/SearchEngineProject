@@ -1,0 +1,64 @@
+
+Apple <https://www.theguardian.com/technology/apple> has made a landmark 
+change to its 15-year-old desktop and laptop operating system. OS X has become 
+macOS Sierra.
+
+The change was announced on stage in San Francisco’s Bill Graham Civic 
+Auditorium by Apple’s Craig Federighi, ditching the naming scheme devised under 
+the watch of founderSteve Jobs 
+<https://www.theguardian.com/technology/stevejobs> on his return to the company 
+in 1997.
+
+The OS X nomenclature had reached OS X 10.11 with El Capitan 
+<https://www.theguardian.com/technology/2015/sep/29/os-x-el-capitan-review-apple-laptop-desktop-operating-system>
+, but Apple’s next version will be simply named macOS Sierra, bringing it in 
+line with the naming convention for its mobile and tablet operating system iOS.
+
+Apart from a name change, Apple has overhauled iTunes and Apple music, while 
+macOS will finally gain full Siri integration, after Apple’s voice assistant 
+was first introduced on iOSwith the iPhone 4S in October 2011 
+<https://www.theguardian.com/technology/2011/oct/04/iphone-4s-launched-apple-tim-cook>
+.
+
+Siri 
+<https://www.theguardian.com/technology/2015/aug/12/siri-real-voices-apple-ios-assistant-jon-briggs-susan-bennett-karen-jacobsen>
+ will be tied into macOS’s notification centre and answer questions, perform 
+actions such as advanced file searches and control devices as it can through an 
+iPhone or iPad.
+
+The digital assistant will scan through users’ messages, calendars and other 
+personal information to identify events, travel plans and other pertinent 
+information displaying it in a manner similar to Google’s Now.
+
+Apple isn’t the first to bake a voice assistant into a computer. Microsoft’s 
+Cortana came built into Windows 10, performing similar personal information 
+juggling as Siri, while Google’s Now voice assistant has been available through 
+Google.com or Chromebooks for years.
+
+MacOS will also gain enhanced Continuity and iCloud drive support - Apple’s 
+system that allows apps on iOS to link directly to the Mac versions using 
+iCloud so that users can start something on one device and continue it on 
+another.
+
+The biggest change will be a proximity-based system called Auto Unlock that 
+allows users to unlock their Mac computers using an Apple Watch, without having 
+to enter in their password. Google’s Chromebooks have a similar system using an 
+Android phone.
+
+An update to iCloud Drive will also share files stored on the desktop across 
+Macs and iOS devices, while a new feature called Optimised Storage will remove 
+unnecessary files from computers after they’ve been backed up which should free 
+up space on existing Macs.
+
+Apple also introduced Apple Pay for the web that allows users to authenticate 
+payments on their Mac via their iPhone or Apple Watch.
+
+Developers will be able to download a prerelease version of macOS today, with 
+a public beta in July before a full release to consumers in September.
+
+ * Apple WWDC keynote: key points at a glance 
+<https://www.theguardian.com/technology/2016/jun/13/apple-wwdc-keynote-key-points-at-a-glance>
+
+ * iOS 10: bigger emojis, better Siri and facial recognition coming to your 
+iPhone 
+<https://www.theguardian.com/technology/2016/jun/13/apple-ios-10-emoji-siri-facial-recognition-iphone-ipad-homekit-watch-os-3> 

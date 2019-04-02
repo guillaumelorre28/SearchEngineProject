@@ -1,0 +1,111 @@
+
+The bulk of social games publisher Zynga's revenues come from its games on 
+Facebook. However, the company is investing significantly in mobile gaming too, 
+having built a team under former Yahoo executive David Ko, and acquired several 
+mobile development studios around the world.
+
+I interview Ko in Zynga's San Francisco office the day before Facebook's f8 
+conference, the same week as it launched an Android version of its popular 
+mobile title Hanging With Friends, while also adding new features and in-app 
+payments to the iOS version.
+
+"We believe that mobile represents a new social gaming frontier," says Ko. 
+"We've always said we wantZynga <https://www.theguardian.com/technology/zynga> 
+to be the best content creators in the world, and we are platform agnostic. 
+More and more of our players are not just accessing their favourite games from 
+their PC, but from their mobile devices: they want the experience on their 
+mobiles and tablets, and we want to deliver that."
+
+Zynga is no newcomer to mobile games: it released Zynga Poker early in the App 
+Store's life in 2008. However, in interviews at the time, chief executive Mark 
+Pincus told me that the lack of built-in viral mechanisms oniPhone 
+<https://www.theguardian.com/technology/iphone> - this was in the days before 
+Facebook Connect - was an inhibiting factor for social games like Zynga's.
+
+According to Ko, Pincus is now more optimistic. "Mark believes that mobile 
+really has the potential to live up to its expectations that we've all been 
+talking about," he says. "We see more and more players accessing stuff from 
+their mobile devices. Sometimes they want an experience that mimics what 
+they're seeing on their PC, and sometimes they want something very customised 
+for their mobile device."
+
+Zynga has done both: the iOS version of FarmVille mirrors the version on 
+Facebook, you play the same farm across both. More recently, though, CityVille 
+got a standalone mobile game called CityVille Hometown. Some rewards earned in 
+the latter translated into the former, but otherwise they were separate cities: 
+separate games.
+
+"The market is very fragmented today, with iOS, Android, BlackBerry, Windows 
+Phone… It's a fragmented industry, and we're trying to figure out what the best 
+experience is for these devices," says Ko. "Our job is to tailor the experience 
+for those people, and while you may see a more fragmented experience on mobile 
+today, I do believe over time you'll see a consolidation of that experience."
+
+Words With Friends has become the first Zynga game to start on mobile – it was 
+originally developed as an iPhone game by developer Newtoy, which was then 
+acquired in December 2010 – but subsequently be turned into a Facebook game. Ko 
+says this made for an interesting conversion process, and possibly a better one 
+than simply porting Facebook games to mobiles.
+
+"So many times, developers think 'we can build for the PC, then take features 
+away to optimise it for the mobile device', so it's essentially a different 
+experience," he says. "But in this case, it was going from small to big. What 
+was the best thing we can build for mobile, centred around performance, speed 
+and user fun, and then build that out for a tablet and then a PC?"
+
+Ko says Zynga is also trying to figure out how best to use specific features 
+of mobile devices, like cameras, accelerometers and the touchscreens. 
+Meanwhile, he is also "very bullish" on tablets, citing his own experience of 
+using his PC less at home since getting a tablet
+
+When deciding which existing Zynga games to bring from Facebook to mobile 
+devices, Ko says his team does a lot of brainstorming, with people on one 
+game's team invited to suggest ideas based on other titles – "just because you 
+work in the mobile poker division doesn't mean you can't have ideas for things 
+in the fashion industry or a CityVille Hometown type of game" – and says that 
+there will be more mobile games which, like that latter title, link into their 
+Facebook versions with specific quests and rewards.
+
+Ko is enthusiastic about the improvement in mobile and tablet hardware, as 
+well as the speed of mobile networks. He warns, however, that Zynga is not 
+intending to make use of specific features for the sake of it.
+
+"It's one thing many people miss: 'look at this cool function, let's just 
+incorporate it'. They don't ask themselves the key question about whether it's 
+fun. There are things we could use on the device but chose not to, because we 
+don't think it's fun and neither do our players. It's something we always come 
+back to as a company: is it fun? We ask that question every step of the way in 
+the development process."
+
+One technology predicted to spark fun times for mobile social game developers 
+is HTML5, with the suggestion that their games will move back to the browser on 
+mobile devices. Zynga already has a foot in mobile web gaming, having launched 
+a browser-based mobile version of Mafia Wars. It has also acquired companies 
+with expertise in this area, including Dextrose.
+
+Meanwhile, Facebook is expected to unveil something called Project Spartan in 
+the next few weeks, extending its web applications platform to mobile, 
+providing a browser-based rival ecosystem to the Apple and Google app stores. 
+Zynga will surely be heavily involved, although Ko unsurprisingly talks more 
+generally about its ambitions.
+
+"For very new platform that's introduced, if our players are asking for us to 
+be on those platforms, we want to be there," he says. "HTML5 is interesting, 
+although I do feel it is early. With those acquisitions, you can see into our 
+thinking in this area a little bit."
+
+Every mobile game developer and their aunt seems to be diving into the 
+free-to-play social mobile games market at the moment, which Ko says he 
+welcomes – "the competition will make everybody in the ecosystem get better". 
+He's also keeping tabs on a host of developers, with an eye to potential 
+partnerships (or even acquisitions, presumably).
+
+He does have a warning for studios who think it is easy cracking the freemium 
+business model. "The barriers to entry are low, but it's hard to scale those 
+games, come out with new games and iterate quickly," he says.
+
+"Some of the biggest titles out there in the industry had to go through many 
+iterations to get to where they're at. The bar is low to get in, but high to 
+develop high-quality and fun games that come out one after the other. And 
+that's the key: they've got to be fun."
+ 

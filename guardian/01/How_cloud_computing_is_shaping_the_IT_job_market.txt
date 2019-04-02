@@ -1,0 +1,119 @@
+
+The last few years have been difficult for the UK economy, and those working 
+in IT haven't escaped feeling some of the pain. Innovation in technology rarely 
+stops or even slows down just because the economy may be facing difficulties. 
+It is fair to say that the pace of change in technology and the holding back of 
+investment has led to a situation when transformation is now very much on the 
+agenda for all companies. This is likely to come about through the use of 
+technology such as cloud computing, which is now driving demand for those with 
+very specialist skills.
+
+A step change
+
+Cloud computing 
+<http://www.guardian.co.uk/cloud-computing/what-is-cloud-computing> 
+technologies, networks and data systems that store data virtually are now one 
+of the most talked-about topics in IT. Businesses are looking for more 
+cost-effective and agile ways to build and operate their IT infrastructure. 
+More efficient ways of sharing information and collaborating can offer real 
+competitive advantage. This means cloud is more than just a passing fad, but a 
+real step change for the industry. It's changing the way IT professionals need 
+to think and work.
+
+As a result of this move towards virtualisation and cloud computing, the 
+physical aspect of IT systems is reducing, and workers in IT may find 
+themselves working less and less directly with large data storage units.
+
+That's why, if you're looking to work with this emerging technology, you'll 
+need to be good at more abstract thinking instead, and an active imagination 
+comes in handy as well. But you mustn't forget to link it back to the needs of 
+the business – you can't only focus on which technology to deploy. You also 
+need good project management skills to be able to take a vision, no matter how 
+enormous it seems to be, and break it down into sizable chunks of actions.
+
+Skills for cloud architects
+
+To work as a cloud architect, you need strong virtualisation skills, 
+automation and orchestration experience. Employers also look for recognised 
+professional qualifications (ie CCIE, VCP, Microsoft SQL) and multiplatform 
+experience. Strong "on the job" experience and showing you are keeping up with 
+what's happening in the market are really key. Understanding what analysts talk 
+about, what vendors offer and what customers want is also crucial. Combining 
+this with strategic understanding of the business goals alongside commercial 
+acumen will help you stand out from the crowd.
+
+Even though it might be reasonably easy to find people with the right skills 
+for this sort of work, it can take a long time to bring them up to speed. This 
+is because cloud is not necessarily the same everywhere; each company would use 
+a different model.
+
+Being able to advise a CIO on a strategic level
+
+What we've talked about so far is very much working with cloud technologies at 
+an operational level, but at a strategic level it's extremely difficult to find 
+the right people to work on cloud projects. People who can scope and define 
+what customers want, and who can help organisations understand what solutions 
+are right for their business are thin on the ground.
+
+A recent report on employment and recruitment in the IT sector from 
+recruitment agency Hays shows the market for hiring business-facing IT 
+specialists is undergoing a rapid transformation, and it has become one of the 
+fastest growing sectors in the UK. No wonder; these people help their clients 
+add value to the business. But a different mindset is needed to be able to do 
+this – you need to be strategically and commercially focused if the 
+transformation is going to be properly adopted.
+
+The Hays report indicated that throughout the downturn it has still remained a 
+challenge to recruit the best workers in this field. We've seen this first-hand 
+at Cable&Wireless Worldwide, and as a result we have recruited internally to 
+keep up with the growing demand in our flexible computing team. It's worth 
+looking around in your organisation for the right role to help move your career 
+along, but you have to demonstrate that you think both commercially and 
+strategically. It's easy to spot this mindset on a CV as candidates will 
+clearly link their achievements to business requirements and goals. The ability 
+to do that often comes with experience, but even new graduates should strive to 
+think in this way from the very beginning. They need to understand that IT is 
+not about the technology, but rather about enabling the business objectives.
+
+Technology skills still crucial
+
+
+
+Despite this, I'm not suggesting that knowledge of the technology itself is 
+not important. It's still crucial, as you need to speak to CIOs and other 
+senior IT managers, but you don't necessarily need to have a degree in IT or 
+engineering. One of my team members is a chartered accountant and his ability 
+to speak the same language as clients has proved invaluable. He's able to 
+tackle IT problems from a different angle, looking at the objective first and 
+then the technology.
+
+It might be worth investing in training such as Six Sigma 
+<http://en.wikipedia.org/wiki/Six_Sigma> to boost your understanding of 
+business processes, or in financial management to learn the language of the 
+boardroom. The list goes on, but it is much more focused on the softer skills 
+today, alongside the technological skill set. You also have to understand your 
+customers, so softer people and listening skills are extremely important – 
+often not an area the IT trade is known for. I also like to send my consultants 
+on media training.
+
+There's currently a huge demand for people with these skills, and I think 
+there always will be. Newer technologies may well become available in time, but 
+you'll always need people who not only understand it at the operational level, 
+but can think of it strategically as well.
+
+Exciting times
+
+There is significant investment in virtualisation and cloud computing taking 
+place in IT, from SME to corporate level, and it's a very exciting time to be 
+involved in this industry. The next three to four years are going to see a huge 
+increase in the uptake of cloud computing and this will in turn transform how 
+IT departments are shaped. IT professionals need to get ready for this, 
+up-skill and focus on how to best add value to the business.
+
+Malcolm Seagrave is a solutions director at a telecommunications company 
+Cable&Wireless Worldwide <http://www.cw.com/>
+
+To get more content and advice like this – including links to forthcoming Q&As 
+– direct to your inbox, you can nowsign up for our weekly Careers update 
+<http://careers.guardian.co.uk/competition/sign-up-guardian-careers>
+ 

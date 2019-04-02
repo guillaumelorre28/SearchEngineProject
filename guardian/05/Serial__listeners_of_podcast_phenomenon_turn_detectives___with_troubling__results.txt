@@ -1,0 +1,196 @@
+
+I fell into Serial <http://serialpodcast.org/>, the new podcast that 
+re-investigates a murder, the way they used to say one fell into bankruptcy: 
+slowly, then all at once. I only tuned in once six episodes had aired, but then 
+it became a binge. A dinner with a friend interrupted me and I was palpably 
+impatient, restless, wanting to get back to my listening. And then, when I was 
+done, my appetite not quite sated, I satisfied my 21st-century curiosity in a 
+prosaic way: I fired up Google.
+
+That experience with Serial is hardly unique. Downloads of the show seem to 
+increase each week, reportedly averagingat roughly 850,000 an episode 
+<http://www.nbcnews.com/pop-culture/viral/serial-highly-addictive-spinoff-podcast-american-life-n235751>
+. It’s viral. And Serial’s listeners have obsessed over it as serial readers 
+have from the age of Dickens right down to True Detective. But in the 
+post-listening haze, as I poked around myself and discovered the social media 
+undergrowth amassing under it, I began to have questions about what I was 
+participating in. Serial is, after all, not a work of fiction. It is about real 
+people. Real people who also, as the story unfolds, have Google, Facebook and 
+Reddit accounts. And who are really in prison, or really in danger of ending up 
+in trouble with law enforcement, or even just with their privacy violated, as a 
+result of all this.
+
+But, to use a common storytelling technique employed by Serial’s host, Sarah 
+Koenig <http://www.thisamericanlife.org/contributors/sarah-koenig>, let’s back 
+up a little.
+
+If you haven’t been listening to Serial here’s all you need to know to 
+understand this article: the podcast re-investigatesa 1999 murder in Baltimore 
+of 18-year-old Hae Min Lee 
+<http://www.baltimoresun.com/news/maryland/crime/blog/bs-md-syed-murder-case-20141010-story.html#page=1>
+. Lee was strangled on 13 January of that year, and buried in a shallow grave 
+in a local park. Her body was only found over a month later. Lee’s 
+ex-boyfriend, Adnan Syed, was tried and convicted of the crime. The key 
+testimony against him came from an acquaintance of both parties, a young man 
+the podcast names Jay. Jay testified that Syed killed Lee in a rage over the 
+breakup of the relationship, and that he helped Syed hide Lee’s body. He 
+seasoned that narrative with suggestions that Syed’s Muslim religion led him to 
+kill. Syed’s friends and family, as well as Syed himself, insist he is innocent.
+ Sarah Koenig, the host of Serial. Photograph: Meredith Heuer/NPR 
+As in every crime, from those simple statements unfurl any number of 
+investigative puzzles. Witnesses contradict each other and sometimes 
+themselves. Jay is the latter sort of witness, a man who revised his story to 
+the police several times. And the motive attributed to Syed, the fury a jilted 
+ex, is both obvious and hollow. There are plenty of holes into which a person 
+might fall, sorting these things out. In the podcast, Koenig presents herself 
+as a person who more or less stumbled into these holes, and then got stuck 
+there, turning around and around in the same small bit of rocky, pitted terrain.
+
+Yet the popularity of the show, which seems to have caught Koenig and her 
+producers (who include This American Life’sIra Glass 
+<https://www.theguardian.com/tv-and-radio/2013/jun/23/this-american-life-ira-glass>
+) off guard, has brought a lot of people to her little space, making it 
+suddenly crowded.
+
+One of them is Jacob White, a 34-year-old Broadway stagehand from Queens who 
+moderates theSerialPodcast subreddit <http://www.reddit.com/r/serialpodcast/> 
+under the name Jakeprops. The subreddit has become a recommended resource for 
+anyone listening to the podcast. It boasts 5,638 subscribers as of this 
+writing, but its readers are probably far more numerous. A lot of journalists, 
+I can testify, are watching it closely.
+
+By email, White told me that he’d never been a Reddit moderator before Serial. 
+He’s just a longtime podcast fan. He came across the subreddit very early on, 
+and saw a post from the subreddit’s originator asking for someone to compile a 
+list of all the “persons 
+<http://www.reddit.com/r/serialpodcast/comments/2itvdi/official_serial_podcast_season_1_person_list/>
+” involved in the crime. And when he did so, he came upon an ethical conundrum, 
+because as it turns out these real people are exceptionally easy to track. Many 
+of them have identifiable social media accounts.
+
+“I feel responsible for some early breaches of privacy because of natural 
+curiosity to fill in the holes that Sarah Koenig intentionally leaves in the 
+podcast,” White wrote to me. “I wanted to know who and where Jay is now.” And 
+though Jay’s last name is never given in the podcast, it is in court documents 
+related to the case. His last name will allow you to search all sorts of 
+databases for information including any prior offences and his address. Which 
+redditors with a lot of database-searching time on their hands promptly did, 
+and then posted the information they found in the forum.
+
+Ever since their rush to cover the Boston Marathon bombing in real time led 
+Redditorsto identify the wrong suspect 
+<http://www.nytimes.com/2013/04/29/business/media/bombings-trip-up-reddit-in-its-turn-in-spotlight.html?pagewanted=all&_r=1&>
+, members of the site have been a lot more queasy about privacy and 
+responsibility. As White pointed out to me, Redditors have also long observed 
+what they call an “anti-doxxing policy”, which roughly means they’re against 
+publishing the identifying details of people who don’t want to be identified. 
+Jay qualifies for such treatment in the view of the subreddit’s moderators, as 
+does everyone else involved in the case. So they decided to follow Koenig’s 
+lead; to the extent names were not given on the podcast, they would be 
+forbidden on the subreddit, as would the posting of identifying details.
+
+This rule has been easier to state in principle than put into practice. For 
+one thing, the volume of posts the subreddit is hard for a few people to keep 
+up with; White told me they rely on users to point out problem posts to them.
+
+And there are also hard cases. The subreddit was among the first things I 
+found when I started googling, and I immediately ended up getting drawn into a 
+post by someone claiming to have known Syed within the Baltimore Muslim 
+community. His post diagnosed Syed as a liar with a mental disorder.
+
+But his personal view of Syed was less arresting than the comments below it. 
+There friends and relatives of Syed’s came out of the woodwork to insist first 
+that they knew who the poster was, and that that his account was hyperbolic and 
+untrue. They all, I saw, had verifiedReddit 
+<https://www.theguardian.com/technology/reddit> accounts. White explained to me 
+that early on, when the moderators saw people claiming personal knowledge of 
+the story, they set up a process by which they would verify users as being who 
+they said they were. The range of proof goes from sending the moderators a scan 
+of a photograph in a yearbook to a marriage certificate.
+
+And in fact when the moderators tried to verify the identity of the person who 
+put up this post about Syed, it didn’t work out. Whoever he was, he said he 
+“feared retribution”. White traded a few messages with him and offered to meet 
+up in Grand Central Terminal. “I was trying to convince him I was someone who 
+could be trusted,” White wrote me, “but had no idea how you do that.” And a few 
+days before the proposed meeting, the poster balked, saying he would be leaving 
+New York to go back to Baltimore.
+
+As a question of moderation it’s hard to say where this leaves the Reddit 
+forum. The post is potentially libellous, but then so are some of the things 
+Syed’s family says in debunking the credibility of the poster. That’s why, for 
+example, I’ve been vague here in describing the precise nature of the post; I 
+don’t want to repeat untrue statements. The moderators were conflicted; White 
+says they took the post down at first, then restored it. He described this as 
+“one of the most tense moments in the forum”.
+
+The episode also brings home the fact that people who were involved in the 
+crime may very well be reading it, too. Including, say, Jay. “My worst case 
+scenario is that a responsible party to the murder is watching the sub,” wrote 
+White, “gets tipped off that evidence to their guilt is surfacing, and are able 
+to evade arrest because of us.”
+
+Which brings us to the question of how Serial’s producers are taking all of 
+this.
+
+They refused to comment for this article. But White showed me a message he got 
+early on fromJulie Snyder 
+<http://www.thisamericanlife.org/contributors/julie-snyder>, one of the 
+producers of the podcast, which reads in part:
+
+We are very cognisant of the fact that the people involved in this case are 
+real people with families, jobs, etc, and for the people who have asked to not 
+have their full names included in the story, we are respecting those wishes. 
+Particularly in forums like these, where people are publicly speculating about 
+what they think is the truth, it’s important to us that people don’t get 
+harassed or defamed. I know you all share this concern, too. We really are 
+still reporting out this story so we just want to caution against jumping to 
+conclusions and certainly publicly accusing people of heinous actions. I love 
+the discussions on the site and think it’s really incredible listeners are 
+engaging with this story but, yeah, I have to admit I feel a pit in my stomach 
+at the thought of anyone ‘outing’ real people or contacting them or anything 
+like that.
+
+White says they’ve emailed Snyder “once or twice” since receiving this 
+message. She has weighed in on the difficult moderating cases, including the 
+potentially libellous post. But White insists that theSerial 
+<https://www.theguardian.com/tv-and-radio/serial> producers “are not 
+collaborating with us on the sub-Reddit”.
+
+Though she does not come out and say so, Snyder seems caught a little off 
+guard by the potential of the Reddit forum to violate the privacy of those 
+involved in those whose story Serial is telling. In fact, when you take a look 
+at the podcast’s website, one comes to feel they weren’t prepared for the 
+digital aspect of their storytelling experiment altogether. They do not, for 
+example, have a photo of Lee, the victim, up on the site at all. It is a 
+strange omission. But then, their documents section seems slapdash and paltry; 
+by contrast, the Redditors look like paragons of organisation.
+
+What the Serial producers, and Koenig particularly, seem to have been relying 
+on is the hope that people would trust them to tell the story without 
+interference. Koenig toldan interviewer on Vulture 
+<http://www.vulture.com/2014/10/serials-sarah-koenig-on-her-hit-podcast.html> 
+that she thinks of her process as similar to that of writing a book:
+
+The only difference is if I was writing a book, I would do all the reporting 
+first and then organise it like a normal person and then publish it, but here, 
+I am releasing my work as I go, which is sort of crazy, I realize.
+
+It is, yes, sort of crazy. It is also revolutionary. The episodic and shifting 
+nature of Serial has (apparently inadvertently) invited a host of people to 
+imagine themselves Koenig’s collaborators. Or, to put it another way: Reddit 
+has become part of the story, just as much as Koenig herself already is. And 
+this raises ethical questions of its own, mostly because the human appetite for 
+a good story is voracious. Innocent curiosity quickly morphs into something 
+more difficult to parse. Most journalists can tell you about a time they got 
+caught up by the pull of a good story, only to find that the whole thing was 
+hogwash.
+
+Whether or not the show will explicitly address this is anyone’s guess. 
+Sometimes it seems they might have to, as when recently it seemed the redditors 
+had turned up a bit of information about a crucial payphone that Koenig herself 
+had been able to uncover. And I thought it might mean something that when the 
+publicity contact at This American Life told me that they won’t comment on the 
+subreddit, she added: “If that changes, I’ll let you know.” But it might also 
+just be me being caught up in the momentum of the story.
+ 

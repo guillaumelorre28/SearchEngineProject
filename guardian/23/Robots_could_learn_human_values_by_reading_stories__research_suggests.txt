@@ -1,0 +1,113 @@
+
+More than 70 years ago, Isaac Asimov dreamed up his three laws of robotics, 
+which insisted, above all, that “a robot may not injure a human being or, 
+through inaction, allow a human being to come to harm”. Now, afterStephen 
+Hawking warned 
+<https://www.theguardian.com/science/2014/dec/02/stephen-hawking-intel-communication-system-astrophysicist-software-predictive-text-type>
+that “the development of full artificial intelligence could spell the end of 
+the human race”, two academics have come up with a way of teaching ethics to 
+computers: telling them stories.
+
+Mark Riedl and Brent Harrison from the School of Interactive Computing 
+<http://www.ic.gatech.edu/> at the Georgia Institute of Technology have just 
+unveiled Quixote, a prototype system that is able to learn social conventions 
+from simple stories. Or, as they put in their paperUsing Stories to Teach Human 
+Values to Artificial Agents 
+<http://www.cc.gatech.edu/~riedl/pubs/aaai-ethics16.pdf>, revealed at the 
+AAAI-16 Conference in Phoenix, Arizona this week, the stories are used “to 
+generate a value-aligned reward signal for reinforcement learning agents that 
+prevents psychotic-appearing behaviour”.
+
+We think that an intelligent entity can learn what it means to be human by 
+immersing itself in the stories it produces
+Associate professor Mark Riedl 
+A simple version of a story could be about going to get prescription medicine 
+from a chemist, laying out what a human would typically do and encounter in 
+this situation. An AI (artificial intelligence) given the task of picking up a 
+prescription for a human could, variously, rob the chemist and run, or be 
+polite and wait in line. Robbing would be the fastest way to accomplish its 
+goal, but Quixote learns that it will be rewarded if it acts like the 
+protagonist in the story.
+
+“The AI … runs many thousands of virtual simulations in which it tries out 
+different things and gets rewarded every time it does an action similar to 
+something in the story,” said Riedl, associate professor and director of the
+Entertainment Intelligence Lab <https://research.cc.gatech.edu/inc/>. “Over 
+time, the AI learns to prefer doing certain things and avoiding doing certain 
+other things. We find that Quixote can learn how to perform a task the same way 
+humans tend to do it. This is significant because if an AI were given the goal 
+of simply returning home with a drug, it might steal the drug because that 
+takes the fewest actions and uses the fewest resources. The point being that 
+the standard metrics for success (eg, efficiency) are not socially best.”
+
+Quixote has not learned the lesson of “do not steal”, Riedl says, but “simply 
+prefers to not steal after reading and emulating the stories it was provided”.
+
+“I think this is analogous to how humans don’t really think about the 
+consequences of their actions, but simply prefer to follow the conventions that 
+we have learned over our lifetimes,” he added. “Another way of saying this is 
+that the stories are surrogate memories for an AI that cannot ‘grow up’ 
+immersed in a society the way people are and must quickly immerse itself in a 
+society by reading about [it].”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2016%2Ffeb%2F18%2Frobots-could-learn-human-values-by-reading-stories-research-suggests%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fd4ff2efed13660726b253d60ac901da0f79e47d3%2F0_0_2100_1500%2F2100.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Robots%20could%20learn%20human%20values%20by%20reading%20stories%2C%20research%20suggests&url=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2016%2Ffeb%2F18%2Frobots-could-learn-human-values-by-reading-stories-research-suggests%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Robots%20could%20learn%20human%20values%20by%20reading%20stories%2C%20research%20suggests&url=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2016%2Ffeb%2F18%2Frobots-could-learn-human-values-by-reading-stories-research-suggests%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fd4ff2efed13660726b253d60ac901da0f79e47d3%2F0_0_2100_1500%2F2100.jpg>
+ The Quixote system is as part of a larger effort to build an ethical value 
+system into new forms of AI. Photograph: Georgia Institute of Technology 
+The system was named Quixote, said Riedl, after Cervantes’ would-be 
+knight-errant, who “reads stories about chivalrous knights and decides to 
+emulate the behaviour of those knights”. The researchers’ paper sees them argue 
+that “stories are necessarily reflections of the culture and society that they 
+were produced in”, and that they “encode many types of sociocultural knowledge: 
+commonly shared knowledge, social protocols, examples of proper and improper 
+behaviour, and strategies for coping with adversity”.
+
+“We believe that a computer that can read and understand stories, can, if 
+given enough example stories from a given culture, ‘reverse engineer’ the 
+values tacitly held by the culture that produced them,” they write. “These 
+values can be complete enough that they can align the values of an intelligent 
+entity with humanity. In short, we hypothesise that an intelligent entity can 
+learn what it means to be human by immersing itself in the stories it produces.”
+
+Riedl said that, “In theory, a collected works of a society could be fed into 
+an AI and the values extracted from the stories would become part of its goals, 
+which is equivalent to writing down all the ‘rules’ of society.”
+
+The researchers see the Quixote technique as best for robots with a limited 
+purpose that need to interact with humanity. They are appealing to other AI 
+researchers to work on perfecting story understanding, because they believe it 
+would allow AIs to “reverse engineer” the values of the society that produced 
+the stories.
+
+Riedl calls Quixote “a primitive first step toward general moral reasoning in 
+AI”, but stresses that “these are very simple experiments in virtual game-like 
+worlds at this point”.
+
+“Under ideal circumstances, Quixote never performs actions that would be 
+considered psychotic, harmful, or antisocial. This is significant because we 
+never told Quixote what is right or wrong,” he said. “We can make the system 
+‘fail’ by scrambling its understanding of the stories, in which case sometimes 
+it will do antisocial behaviours like stealing. This is just a way of telling 
+us where the machine learning is more brittle and more research needs to be 
+conducted to make the system robust.
+
+“We can also make Quixote perform ‘Robin Hood crimes’ where it does break laws 
+(eg stealing) because it is given a very high need to complete a task (eg 
+procure prescription drugs) by putting it into a situation where it is 
+impossible to achieve by following social conventions. This is analogous to the 
+situation where people will break laws to save themselves or loved ones.”
+
+Riedl and Harrison admit that even with Quixote’s value alignment, “it may not 
+be possible to prevent all harm to human beings”, but they believe an AI that 
+has adopted human values “will strive to avoid psychotic-appearing behaviour 
+except under the most extreme circumstances”.
+
+“As the use of AI becomes more prevalent in our society, and as AI becomes 
+more capable, the consequences of their actions become more significant. Giving 
+AIs the ability to read and understand stories may be the most expedient means 
+of enculturing [them] so that they can better integrate themselves into human 
+societies and contribute to our overall wellbeing,” they conclude.
+ 

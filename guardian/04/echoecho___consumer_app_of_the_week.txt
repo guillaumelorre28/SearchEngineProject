@@ -1,0 +1,71 @@
+
+App: echoecho <http://www.echoecho.me/>
+
+By: Purpose Wireless Inc
+
+Price: Free
+
+Available on: iOS/Android/Blackberry/Ovi
+
+What is it?
+
+An app to help you geo-locate friends on the move and to source nearby bars, 
+cafes and restaurants.
+
+What does it promise?
+
+"With just one click, you can see where your friends are. Or tell them where 
+you are."
+
+Is it easy to use?
+
+It's a little fiddly. First you have to register via an SMS – never my 
+favourite way of doing things given the ease of stumbling unwittingly into 
+expensive text-based services or scams – then invite friends to join. Once 
+you've done this, and assuming all your friends have too, you can see where 
+they are on an integrated Googlemap – although you have to send a request to 
+that friend each time you want to find them. This seems counter-intuitive: if 
+they've accepted your friend request they are surely already OK with you seeing 
+where they are. But I'm guessing the service uses a ping-style request system 
+to avoid accusations that the app can be used to stalk people.
+
+When we tested it in the office it placed me exactly where I was, but put a 
+colleague who was sitting at the next desk 300 yards down the road, which isn't 
+ideal.
+
+The creators claim a WebEcho service allows users to share their location with 
+(and find) friends even if they haven't downloaded the app – but I couldnt 
+fathom how to do this from within the app itself.
+
+Is it fun?
+
+If you can get people you know to download the app and they don't mind telling 
+you where they are, it's definitely amusing to see where your friends are 
+hanging out.
+
+Is it pretty?
+
+The logo is a neat two-tone orange graphic, while the app itself boasts a neon 
+tube-like title spelt out in the same orange colours at the top of every page.
+
+Should you download it?
+
+The app offers a simple interface that will be attractive to many users, but 
+the more techie smartphone user will probably have been usingGoogle Latitude 
+<https://www.google.co.uk/latitude/b/0> to do a similar thing for years. So 
+whether you download it depends on whether you would use it out in the real 
+world and if you can persuade your friends to sign up.
+
+If you often meet friends (especially flitting from group to group in the same 
+evening), it could definitely be a time-saver. We've included it in the 
+consumer app of the week slot because it could save you cash – if you use a 
+pay-as-you-go phone, using echoecho to find friends could be cheaper than 
+having to text or call them to find where they are, then searching for that 
+venue on Googlemaps.
+
+Echoecho's creators claim that "you are in control of what you share, when you 
+share it, and with whom you share it", which is laudable. But in reality, 
+asking friends where they are before you can find them, rather than just 
+opening the app to see where they are instantly, adds an unnecessary delay that 
+frustrated me. Others may prefer this method.
+ 

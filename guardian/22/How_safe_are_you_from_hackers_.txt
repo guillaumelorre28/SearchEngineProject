@@ -1,0 +1,168 @@
+
+When a 20-year-old hacker broke into US vice-presidential candidate Sarah 
+Palin’s Yahoo email account during the 2008 presidential campaign, it didn’t 
+take a great deal of computer expertise.
+
+“The hacker simply used the password reset prompt and answered the secret 
+questions,” says Dr Nalin Gamagedara Arachchilage, a lecturer in cyber security 
+at the Australian Centre for Cyber Security, part of the University of New 
+South Wales, based at the Australian Defence Force Academy in Canberra.
+
+“He reset her password using her date of birth, zip code and information about 
+where she met her spouse. Answers to these questions were accessible with a 
+quick Google search.”
+
+Palin was a victim of her fame. But you don’t have to be the governor of 
+Alaska for your sensitive personal information to be easily accessed by the 
+wrong people. Two out of three Australians have social media accounts, through 
+which many of us are guilty of oversharing. And how many of us read privacy 
+policies before entering our personal information on a website?
+
+We’re not as safe as we think.
+
+Growing concern
+
+Cybercrime costs Australians more than $1 billion a year, according to the 
+Federal Government’s Cyber Security Strategy (CSS), which aims to bolster the 
+nation’s cyber defences at government, business and individual levels.
+
+Cybercriminals are aggressive, persistent and constantly improving their 
+skills, the CSS says.
+
+Common “intrusion vectors” include websites that download viruses, infected 
+USB drives, unsecured wireless hotspots and weak passwords.
+
+And we’ve all received the scam emails. They may be blatant – a Nigerian 
+government minister offering to transfer $3 million to your account for 
+safekeeping would send most alarm bells ringing – or they might be more subtle.
+
+Why are people susceptible to these attacks? Because they’re human.
+Dr Arachchilage 
+Phishing is an attempt to masquerade as a legitimate organisation, such as a 
+bank, in an attempt to get information such as your username and password. 
+Spearphishing is more targeted: the email subject is based on your personal 
+information, and may appear to be from an organisation you actually do deal 
+with.
+
+Enter information on a fake site and you may find your bank account raided. 
+Click on the wrong link and you may find your computer infected with malware 
+that spies on you and gathers sensitive information, or locks files and demands 
+a ransom to have them unlocked again.
+
+It’s a virtual jungle out there. 
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fintel-better-it-decisions%2F2016%2Fsep%2F30%2Fhow-safe-are-you-from-hackers%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fda8bd115405b0809586a0977075b38b2974fad1e%2F0_0_5760_3456%2F5760.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20safe%20are%20you%20from%20hackers%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fintel-better-it-decisions%2F2016%2Fsep%2F30%2Fhow-safe-are-you-from-hackers%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20safe%20are%20you%20from%20hackers%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fintel-better-it-decisions%2F2016%2Fsep%2F30%2Fhow-safe-are-you-from-hackers%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fda8bd115405b0809586a0977075b38b2974fad1e%2F0_0_5760_3456%2F5760.jpg>
+ Cybercriminals are aggressive, persistent and constantly improving their 
+skills. Photograph: Westend61/Getty Images 
+The internet of stings
+
+Computer engineers fighting to protect us from harm have their work cut out 
+for them.
+
+Our reliance on the internet is growing. Eight out of 10 Australians access 
+the internet every day and the typical household is expected to have 24 devices 
+connected online by 2019.
+
+As we become increasingly connected to the Internet of Things (everyday 
+appliances connected to the internet), there will be even more personal data 
+stored in the cloud. Everywhere we go, and in everything we do, we will leave a 
+trail of “digital exhaust” (from our blood pressure to our daily schedules), 
+and cyber criminals will have more ways to get to it, according to the McAfee 
+Labs 2016 Threats Predictions report.
+
+“If we keep our stuff in the cloud and access it from a phone, tablet, kiosk, 
+automobile or watch (all of which run different operating systems and different 
+applications), we have substantially broadened the attack surface,” the report 
+says.
+
+Whereas the home computer has previously been the main focal point of attack, 
+smartphones and tablets – as the collection points for a multitude of devices, 
+all connected to the cloud – are now likely to be targeted more often.
+
+“We know that phones have vulnerabilities that have not been targeted because 
+attackers do not yet have the right financial motivation,” the report says.
+
+“With the increasing use of smartphones and tablets as collection points, we 
+expect them to be aggressively targeted during the next five years for the data 
+they store or the data that passes through them.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fintel-better-it-decisions%2F2016%2Fsep%2F30%2Fhow-safe-are-you-from-hackers%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F3753374914d480cbf319e7bc3eead17e4a1e999f%2F0_0_4023_2682%2F4023.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20safe%20are%20you%20from%20hackers%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fintel-better-it-decisions%2F2016%2Fsep%2F30%2Fhow-safe-are-you-from-hackers%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20safe%20are%20you%20from%20hackers%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fintel-better-it-decisions%2F2016%2Fsep%2F30%2Fhow-safe-are-you-from-hackers%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F3753374914d480cbf319e7bc3eead17e4a1e999f%2F0_0_4023_2682%2F4023.jpg>
+ Mobile devices can make people vulnerable to online piracy through privacy 
+settings. Photograph: NurPhoto/Getty Images 
+If it weren’t for the humans…
+
+While the battle to make cyberspace safe rages on, one key vulnerability 
+continues to give the bad guys the upper hand.
+
+“Why are people susceptible to these attacks?” asks Dr Arachchilage. “Because 
+they’re human.
+
+“Humans are the weakest link in information security. If we could eliminate 
+the end user from the system we would be able to make the system secure.”
+
+It turns out that we’re not very good at protecting ourselves. We don’t read 
+privacy policies, we use four-digit PINs for our phones instead of touch ID 
+linked to a complex password (“It is easy to break into a four-digit PIN,” says 
+Dr Arachchilage), and we’re vulnerable to social engineering. In other words, 
+we can be scammed.
+
+Personal financial loss is one possibility. Criminals gaining access to our 
+employers’ networks through us is another. Loss of reputation is a third 
+possibility, as victims of the 2015 Ashley Maddison hack discovered.
+
+The Government’s Stay Smart Online <https://www.staysmartonline.gov.au> 
+website has lots of information about online safety and alerts about current 
+scams. Here are a few of their safety tips:
+
+Mobile devices
+
+ * Turn on security features
+
+ * Install reputable security software
+
+ * Turn your Bluetooth off when you’re not using it
+
+ * Use encrypted wi-fi networks that require a password and ensure your device 
+does not automatically connect to new wi-fi networks
+
+ * Check app permissions. Consider whether you want apps to have access to 
+your information 
+Computers
+
+ * Set and use strong passwords
+
+ * Back up your data
+
+ * Be wary of emails even though they may appear to come from a legitimate 
+source
+
+ * Set your anti-virus and anti-spyware software to scan every incoming and 
+outgoing email and attachment automatically
+
+ * Regularly update software 
+Social media
+
+ * Read and understand social networking privacy settings
+
+ * Protect your accounts with strong passwords
+
+ * Consider turning off geolocation features in social networking apps
+
+ * Never access social networking by clicking a link in an email or other 
+website
+
+ * Never click on suspicious links, even if they are from your friends, as 
+their social media account may have been hacked
+
+
+
+
+ 

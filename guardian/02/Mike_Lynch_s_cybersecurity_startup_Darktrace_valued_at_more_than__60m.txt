@@ -1,0 +1,73 @@
+
+A British cybersecurity firm backed by software entrepreneur Mike Lynch has 
+been valued at more than $100m (£64m) in a new funding round.
+
+Cambridge-based Darktrace aims to combat sophisticated cyber-attacks with 
+software that learns the behavioural patterns of every device, user and network 
+within an organisation. When unusual activity is detected, the Darktrace 
+software alerts human cybersecurity experts.
+
+
+US venture capital firm Summit has invested $22.5m in the business, just 
+months after Darktrace was valued at $80m in a previous fundraising which 
+included Lynch’s venture fund Invoke Capital. Others involved in the prior 
+round, which concluded in March and raised $18m to help Darktrace expand in the 
+Asia-Pacific region, included Talis Capital and Hoxton Ventures.
+
+“Darktrace is reinventing the way organisations protect their data and assets, 
+with a truly differentiated solution developed by some of the leading minds in 
+machine learning and mathematics,” said Antony Clavel, a vice president at 
+Summit Partners. “Darktrace’s ... technology responds to an urgent need for 
+more advanced cybersecurity, given the volume and complexity of today’s 
+cyber-threats.”
+
+The startup’s success is good news for Lynch, who is seeking to revive his 
+reputation as Britain’s answer to Bill Gates after the sale of his corporate 
+search software firm, Autonomy,turned sour 
+<https://www.theguardian.com/business/2015/mar/31/hewlett-packard-sues-autonomy-founder>
+. As well as being an early backer, Lynch sits on the Darktrace advisory board, 
+alongside Lord Evans, who was director general of MI5 from 2007 to 2013 and 
+spent 33 years at the UK’s internal security agency.
+
+Also on the Darktrace board is Andy France, former head of defence at GCHQ, 
+Britain’s cybersecurity agency, who was chief executive of the company for a 
+year before being replaced by Nicole Eagan, a former chief marketing officer at
+Autonomy <https://www.theguardian.com/business/autonomycorporation>. A 17-year 
+veteran of the America’s National Security Agency, Jim Penrose, runs 
+Darktrace’s US operations, which launched in January.
+
+Darktrace’s technology is based on mathematical research carried out at 
+Cambridge university. Instead of trying to create a defensive wall around an 
+organisation, Darktrace employs the principles of espionage to uncover the 
+activities of hackers as they occur. The software also plants “honeypots” in 
+networks that allow it to detect and monitor intruders.
+
+
+France has described Darktrace as a “groundbreaking, gear-shift moment”, 
+saying last year: “The traditional cybersecurity industry have all got hammers 
+and they’re all looking for nails to hit. That just doesn’t work in 2014”.
+
+
+Darktrace’s chief executive, Nicole Eagan, said of Summit’s investment: “This 
+is yet another validation of our machine learning and mathematics approach, and 
+will enable us to maintain a fast pace of innovation.”
+
+Autonomy was bought by Californian computing giant Hewlett-Packard in 2011, 
+but Lynch left HP thefollowing year 
+<https://www.theguardian.com/technology/2012/may/24/autonomy-mike-lynch-leave-hewlett-packard>
+ after an acrimonious split over the $11bn deal.
+
+
+The US company subsequently took a massive writedown on the purchase, accusing 
+Lynch and his former finance director, Sushovan Hussain, of using accounting 
+tricks to artificially inflate Autonomy’s value. HP is now suing Lynch and 
+Hussain for more than $5bn. Lynch has said he will launch a counterclaim.
+
+Darktrace became the first publicly announced investment for Lynch’s Invoke 
+Capital, which was launched after his departure from HP. Eagan, who had left 
+Autonomy and joined Lynch at Invoke, stepped in as chief executive to replace 
+France last year. Several other Darktrace employees worked at Autonomy, 
+including chief technology officer Jack Stockdale and chief financial officer 
+Poppy Gustafsson.
+
+ 

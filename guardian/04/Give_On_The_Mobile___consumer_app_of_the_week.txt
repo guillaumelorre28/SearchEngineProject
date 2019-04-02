@@ -1,0 +1,60 @@
+
+App: Give On The Mobile <http://www.giveonthemobile.com/>
+
+By: Polestar Digital Media
+
+Price: Free
+
+Available on: iOS, Android <https://www.theguardian.com/technology/android> 
+amd Windows phones
+
+What is it?
+
+An app that lets you donate to charity via your mobile phone, as well as set 
+up fundraising event pages on your mobile. You can automatically addGift Aid 
+<http://www.hmrc.gov.uk/individuals/giving/gift-aid.htm> to your donations (if 
+you are a UK taxpayer) meaning your chosen charity gets an extra boost.
+
+Is it easy to use?
+
+Donating is reasonably straightforward. You can search for a charity from a 
+list (which is expanding quickly) and if you think you might donate regularly 
+you can star it as a favourite, making it quicker to find. Donations are made 
+via text, which is a little confusing as there is no prior warning of this, but 
+it works smoothly enough.
+
+If you set up a fundraising event page on the app, you can generate a QR code 
+<http://en.wikipedia.org/wiki/QR_code> that people can scan to reach your 
+donation page quickly, but they will have to download the fundraising app 
+themselves (you can send them a QR code that will take them to the relevant app 
+store, depending on what device they have).
+
+The QR code scanner is not immediately obvious within the app itself – it's 
+the icon at the top right of the screen – so this could be beefed up in future 
+updates.
+
+Is it fun?
+
+If you were to define fun as that warm glow you get from giving to those less 
+fortunate than yourself then, yes, this is a riot.
+
+Is it pretty?
+
+It's well designed and easily navigable. Icons, buttons and clickable areas 
+are nicely rendered, while donating is easy – simply tap one of the clickable 
+little hearts to donate sums of £1, £3 or £5.
+
+Should you download it?
+ Download Give On The Mobile 
+Definitely. Rather than having to connect to an individual charity's website 
+you can find it instantly through the app. Moreover, the Gift Aid facility 
+makes it quick and easy for charities to scoop the additional 25% in relief.
+
+The cost to charities is a token £100 a year – for that they get the potential 
+to access charitable folk from the smartphone-carrying demographic, and they 
+can publish news stories on the app too.
+
+GOTM takes 3% of donations, meaning more of your cash goes to the charity of 
+your choice than it would if you used a rival web-based service such as
+JustGiving <http://www.justgiving.com/>, which charges up to 5%.
+ 

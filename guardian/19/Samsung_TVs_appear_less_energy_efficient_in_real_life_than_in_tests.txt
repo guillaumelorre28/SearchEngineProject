@@ -1,0 +1,142 @@
+
+Independent lab tests have found that some Samsung 
+<https://www.theguardian.com/technology/samsung> TVs in Europe appear to use 
+less energy during official testing conditions than they do during real-world 
+use, raising questions about whether they are set up to game energy efficiency 
+tests.
+
+The European commission <https://www.theguardian.com/world/european-commission>
+ says it will investigate any allegations of cheating the tests and has pledged 
+to tighten energy efficiency regulations to outlaw the use of so-called “defeat 
+devices” in TVs or other consumer products, after several EU states raised 
+similar concerns.
+
+The apparent discrepancy between real-world and test performance of the TVs is 
+reminiscent of theVW scandal that originated in the US last week 
+<https://www.theguardian.com/environment/2015/sep/30/emissions-scandal-how-the-drive-for-diesel-ran-out-of-gas>
+. The car company has admitted fitting software to 11m diesel vehicles 
+worldwide which meant the cars produced less pollution during testing than 
+real-world driving.
+
+Samsung strongly denies that its TVs’ “motion lighting” feature is designed to 
+fool official energy efficiency tests or that it constitutes a defeat device. 
+The company says it reduces screen brightness in response to numerous types of 
+real-world content including fast-moving action movies and sports and slower 
+moving footage such as weather reports - not just during test conditions.
+
+Brussels targets super-sized TVs in drive for energy efficiency
+ Read more  
+<https://www.theguardian.com/environment/2014/nov/18/brussels-targets-super-sized-tvs-in-drive-for-energy-efficiency>
+“There is no comparison [between motion lighting and VW defeat devices],” a 
+Samsung spokesman said. “This is not a setting that only activates during 
+compliance testing. On the contrary, it is an ‘out of the box’ setting, which 
+reduces power whenever video motion is detected. Not only that, the content 
+used for testing energy consumption has been designed by the international 
+electrotechnical commission to best model actual average picture level 
+internationally.”
+
+The apparent differences came to light in unpublished lab tests by an 
+EU-funded research group calledComplianTV 
+<http://www.compliantv.eu/eu/about-the-project/home> which recorded 
+consistently higher energy consumption rates for the company’s models in 
+real-world situations than in official test conditions.
+
+The lab studies found that Samsung’s ‘motion lighting’ feature reduced the TV 
+sets’ brightness – and power consumption – under international electrotechnical 
+commission (IEC) test conditions. These involve the playback of fast sequences 
+of varied material, such as recorded TV shows, DVDs and live broadcasts.
+
+But under real-world viewing conditions, no reductions in power consumption 
+were registered, making the sets’ power consumption, fuel bills and carbon 
+emissions correspondingly higher.
+
+After tests in February, a ComplianTV report, which did not name Samsung, 
+said: “The laboratories observed different TV behaviours during the 
+measurements and this raised the possibility of the TV’s detecting a test 
+procedure and adapting their power consumption accordingly. Such phenomenon was 
+not proven within the ComplianTV tests, but some tested TVs gave the impression 
+that they detected a test situation.”
+
+“Samsung is meeting the letter of the law but not the spirit of the law,” 
+Rudolf Heinz, the project manager of ComplianTV’s product lab, told the 
+Guardian.
+
+World's energy systems at risk from global warming, say leading firms
+ Read more  
+<https://www.theguardian.com/environment/2015/oct/01/worlds-energy-systems-at-risk-from-global-warming-say-leading-firms>
+Some of the ComplianTV study results were presented at a Royal Society meeting 
+sponsored by theEnergy <https://www.theguardian.com/environment/energy> Saving 
+Trust in London on Tuesday.
+
+There is no suggestion that Samsung, the world’s biggest TV manufacturer, 
+behaved illegally, although energy efficiency campaigners claim that EU testing 
+procedures are overly generous.
+
+In response to a Guardian inquiry, the European commission pledged to outlaw 
+the use of defeat devices within the bloc’s TV ecodesign regulations, and said 
+that any allegations of their use would be fully investigated.
+
+“The commission is proposing specific text to clarify that [the use of defeat 
+devices] is illegal and that products found to behave differently under test 
+conditions cannot be considered compliant,” a spokesperson said. “The 
+commission will investigate whether this practice is used in other product 
+sectors.”
+
+Several EU states have already complained about the problem, including the 
+Swedish Energy Agency in a letter to the European commission earlier this year.
+
+ “The Swedish Energy Agency’s Testlab has come across televisions that clearly 
+recognise the standard film (IEC) used for testing,” says the letter, which the 
+Guardian has seen. “These displays immediately lower their energy use by 
+adjusting the brightness of the display when the standard film is being run. 
+This is a way of avoiding the market surveillance authorities and should be 
+addressed by the commission.” The letter did not name any manufacturers.
+
+“There’s more than a whiff of diesel fumes coming out of this, with officials 
+finding gadgets that recognise test conditions and alter their behaviour,” said 
+Jack Hunter, a spokesman for the European Environmental Bureau an environmental 
+watchdog funded by European governments and international bodies. “If deception 
+is proved for TVs, there’s bound to be a fresh hoard of angry customers à la 
+Volkswagen.”
+
+Three years earlier, the UK also told the commission that it had received 
+intelligence indicating that some TVs had been pre-installed with default 
+software settings that changed static video signals to dynamic ones, reducing 
+luminance and power consumption.
+
+“The purpose seems to be to pass the peak luminance measurement test and then 
+reduce luminance (and power) to get a better energy label ranking when the on 
+power is measured,” the correspondence says. “All very clever and it is not 
+dimming so much that it makes a huge difference, but does the commission 
+consider this an acceptable practice or is this a non-compliant activity?”
+
+Emissions scandal: how the drive for diesel ran out of gas
+ Read more  
+<https://www.theguardian.com/environment/2015/sep/30/emissions-scandal-how-the-drive-for-diesel-ran-out-of-gas>
+ The commission did not respond to a request for its answer to the question. 
+But one UK market surveillance officer told the Guardian that the use of defeat 
+devices was “an area of increasing risk to us – not just in TVs but across the 
+board and future programmes are being duly adjusted to look at these areas.”
+
+
+
+ Research underway by the National Resources Defense Council (NRDC) in the US 
+has also uncovered what Noah Horowitz, the NRDC’s director for energy 
+efficiency standards called “a curious anomaly with one manufacturer’s TV’s”.
+
+ More testing is planned to establish whether manufacturers are gaming 
+television testing procedures. But “it wouldn’t take much for an unscrupulous 
+manufacturer to install software to detect the unique ‘signature’ of the test 
+and to then have the unit go into some sort of eco-mode and produce superior 
+results (ie lower energy use) that wouldn’t occur under normal usage,” Horowitz 
+said.
+
+
+
+Televisions typically consume up to 10% of a typical household’s electricity 
+use, according tocoolproducts <http://www.coolproducts.eu/product/tvs>, a 
+coalition of NGOs which campaigns for energy-saving product designs. The group 
+says that across Europe, TVs now account for as much energy use as the combined 
+electricity consumption of Sweden and Portugal, and that this figure is growing.
+
+ 

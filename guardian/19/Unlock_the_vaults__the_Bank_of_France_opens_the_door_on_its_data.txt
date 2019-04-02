@@ -1,0 +1,159 @@
+
+The French central bank has kept the financial affairs of the state, industry 
+and citizens contained securely and discreetly within its grand mansion house 
+headquarters in Paris for more than two centuries.
+
+
+But now its doors are opening to allow unprecedented scrutiny of the detailed 
+records it holds.
+
+Last month Banque de France <https://www.theguardian.com/world/france> 
+governor, François Villeroy de Galhau announced the opening of an open data 
+room, where researchers will be able to explore 400m lines of anonymised data 
+about financial services, companies and households.
+
+Open data is no defence against future financial shocks or banking crises, 
+said Villeroy de Galhau 
+<http://www.lesechos.fr/finance-marches/marches-financiers/0211462841724-avec-son-open-data-room-la-banque-de-france-rompt-avec-la-culture-du-secret-2040550.php>
+ at the inauguration of the new facility.
+
+But the governor hoped new models of risk or early warning systems might 
+emerge from detailed analysis of the bank’s vast, granular datasets.
+
+This was the start of a new era of “transparency and innovation” at the Banque 
+de France, he added.
+
+Does the room live up to its name? 
+
+Is this truly open data or a widening of access to big data?
+
+Many central banks, including the Banque de France, the German Bundesbank and 
+the Bank of England, have published free-to-access, time-series statistics 
+online about national economic performance for some years.
+
+Indeed, the Bank of England describes sharing more macro-economic data online 
+as a strategic priority 
+<http://www.bankofengland.co.uk/research/Pages/onebank/datasets.aspx>. But 
+publishing macro-economic data about the state of the nation is less 
+contentious than sharing micro-economic data: granular information about 
+individual households or companies.
+
+Still, sharing data has proved more contentious amid concerns about privacy. 
+Academics and privacy campaigners warn that sensitive information could be 
+“de-anonymised” if separate datasets are combined.
+
+So, to take advantage of the Banque de France’s new open data room and explore 
+its micro-economic datasets, researchers must apply for access.
+
+
+Their research proposals are vetted by a panel drawn from senior figures at 
+the bank, the economic research centre CEPII and the HEC business school in 
+Paris.
+
+
+If approval is granted, researchers can only access the datasets using three 
+computer terminals in a corner office at the bank’s Directorate of Statistics 
+in rue du Louvre in Paris’s first arrondissement.
+
+“Strictly speaking, it’s not open data as it’s not free of restrictions on who 
+accesses it,” says Carla Bonina, lecturer in entrepreneurship and innovation at 
+Surrey Business School.
+
+“If you have to show credentials to access data, that’s not what open data is. 
+But I really welcome the move by the Banque de France as a sign that financial 
+services are not going to be excluded from the open data movement.”
+
+Attitudes to data
+
+The move by the French central bank also underlines different attitudes 
+towards open data in different countries.
+
+While Villeroy de Galhau linked open data to potential improvements to 
+economic policy and governance, debate in the UK has focused on competition, 
+with British regulators exploring how widening access to data can increase 
+consumer choice. Elsewhere, in Central or South America, for example, 
+transparency as the antidote to corruption has been the driving issue towards 
+openness.
+
+“What I see very clearly in the field of financial services is that the UK has 
+an agenda that open data means business,” says Bonina.
+
+“If you move to other regions, for example Latin America, that agenda lags 
+behind because people are hoping to use open data for other purposes, democracy 
+and transparency, perhaps because those principles or goals are far more a 
+priority in the region.
+
+“Of course, there have been a lot of startups that are engaged in democracy 
+and transparency here too, but again, business interest in open data is very 
+strong in the UK.”
+
+The UK’s Competition and Markets Authority (CMA) declared this summer that 
+British financial institutions should implement an “open banking system” by 
+early 2018.
+
+This followed efforts earlier in the year by a UK working group of open data 
+experts, bankers and fintech specialists to develop an “open banking standard” 
+<https://www.theguardian.com/media-network/2016/feb/16/banking-industry-uber-moment-standard-open-banking-working-group>
+.
+
+The broad aim of open banking is to make it easier for customers to manage 
+money across different financial services providers.
+
+Instead of juggling separate accounts, open banking would give consumers a 
+rounded view of their financial position across different providers “through a 
+single digital app”. That means consumers would have more power to choose how 
+to share and consolidate their data across different financial providers.
+
+Open banking and challenger brands
+
+But open banking could also help new firms enter a market dominated by 
+long-established, national and international brands.
+
+According to a statement released by the CMA this summer: “Older and larger 
+banks do not have to compete hard enough for customers’ business, and smaller 
+and newer banks find it difficult to grow.”
+
+But the co-founder of one new UK challenger bank said the larger question was 
+not ease of access to granular data, which banks can acquire from credit 
+reference agencies, but who controls it.
+
+
+Tom Blomfield, co-founder and CEO of Monzo, believes that the UK approach to 
+data sharing appeared to have different core motives – creating consumer 
+benefit via competition – compared to what was happening in France.
+
+But Blomfield adds: “Looking beyond financial services, machine learning and 
+AI will dramatically impact society in the next 10 years. But crucial to 
+machine learning is a huge quantity of data. So, whoever has the most data will 
+win: that’s basically Facebook and Google.”
+
+Bonina agrees: “It’s not the same for you and me to sit at a computer and try 
+to use datasets we find interesting compared to big companies like Google, 
+Facebook or banks which have computing power to really process the data.
+
+“The idea that the average citizen is empowered just because they have access 
+to data is not really accurate. We still need more debate about who benefits 
+from openness?”
+
+The future
+
+So, fast-forward five years: will the move towards more open data by the 
+Banque de France lead to better protection against economic shocks?
+
+Will an open banking standard in the UK lead to better choices and more 
+control for consumers in practice? Time will tell.
+
+But the difference in emphasis in the UK and France represent different 
+notions of how widening access to data can serve the public good.
+
+Neither is right, nor wrong – but combined they represent a powerful argument 
+for more openness with financial data in future.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media & Tech Network content is editorially independent except 
+for pieces labelled “Paid for by” – find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

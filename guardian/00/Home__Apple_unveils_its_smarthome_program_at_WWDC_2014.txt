@@ -1,0 +1,40 @@
+
+Apple <https://www.theguardian.com/technology/apple> announced a new "Home" 
+app and service that allows an iPhone or iPad to control smart appliances, 
+lights and locks around the home.
+
+The Home app will securely connect to third-party products such as the Philips 
+Hue lightbulbs, Honeywell's thermostats and Withing's smart alarm clocks.
+
+"We’ve come up with HomeKit to allow secure pairing so that only your iPhone 
+can unlock your garage door,” said Craig Federighi, Apple's software chief on 
+stage at WWDC.
+
+
+‘Get ready for bed, Siri’
+
+Each connected device in the home can be paired securely, but also grouped and 
+linked to specific scenes that can be activated for certain events like getting 
+home from work or leaving the house.
+
+"With Siri integration you can say something like ‘get ready for bed’ and be 
+sure that the garage door is closed, the lights are dimmed and the doors are 
+locked," said Federighi.
+
+Apple announced partners for its HomeKit – the developer platform underlying 
+the Home app – including Texas Instruments, Philips, Haier, Netamo, Withings, 
+Honeywell, Marvel, Osram and Broadcom.
+
+Apple hopes that Home will unify internet of things devices around the home 
+into one common protocol, instead of the many separate proprietary protocols 
+that each manufacturer users for its line of devices.
+
+• Apple demos Mac OS 10.10 'Yosemite' 
+<https://www.theguardian.com/technology/2014/jun/02/wwdc-2014-apple-demos-mac-os-1010-yosemite-its-latest-desktop-software?view=desktop>
+
+• Apple reveals 'Health', its data-tracking app 
+<https://www.theguardian.com/technology/2014/jun/02/apple-reveals-health-its-entry-into-fitness-tracking>
+
+• Apple previews new mobile software iOS 8 
+<https://www.theguardian.com/technology/2014/jun/02/apple-previews-new-mobile-software-ios-8-at-wwdc-2014>
+ 

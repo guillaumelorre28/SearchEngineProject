@@ -1,0 +1,156 @@
+
+Apple, known for its steady stream of slick consumer electronic devices, used 
+its annual developer conference inSan Francisco 
+<https://www.theguardian.com/us-news/san-francisco> to roll out a collection of 
+millennial-friendly texting tools to enhance emojis, improve image sharing and 
+add animations to messages.
+
+Apple WWDC keynote: key points at a glance
+ Read more  
+<https://www.theguardian.com/technology/2016/jun/13/apple-wwdc-keynote-key-points-at-a-glance>
+Among a two-hour stream of product announcements at the annual Worldwide 
+Developer Conference (WWDC) event,Apple 
+<https://www.theguardian.com/technology/apple> engineers demonstrated the 
+latest update of Apple’s smartphone software iOS, which will let iPhone users 
+add larger emojis, see photos and videos appear in a stream of text messages, 
+add animated effects and “emojify” messages by converting typed words into 
+emojis.
+
+Opening the event with a moment of silence for the victims of the weekend’s 
+shooting 
+<https://www.theguardian.com/us-news/2016/jun/13/orlando-victims-travel-agent-brand-manager-and-technician-among-dead>
+ at a gay nightclub in Orlando, Apple’s CEO, Tim Cook – who has become a leader 
+on gay rights issues sincetalking about his own sexuality 
+<https://www.theguardian.com/technology/2014/oct/30/apple-chief-tim-cook-proud-to-be-gay>
+ in 2014 – called the attacks a “senseless, unconscionable act of terrorism and 
+hate aimed at dividing and destroying”.
+
+
+Cook then set about laying out his vision for a future in which Apple’s 
+software forms the central hub of its customers’ lives, helping track their 
+fitness, send love notes, navigate the road and trade pictures of cute dogs.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-messages-wwdc-new-features-emoji-prediction%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F18467979bfde722e1bd1bc495da58d0136949b80%2F0_11_3500_2099%2F3500.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20unfurls%20more%20millennial-friendly%20texting%20tools%20including%20'emoji%20prediction'&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-messages-wwdc-new-features-emoji-prediction%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Apple%20unfurls%20more%20millennial-friendly%20texting%20tools%20including%20%27emoji%20prediction%27&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-messages-wwdc-new-features-emoji-prediction%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F18467979bfde722e1bd1bc495da58d0136949b80%2F0_11_3500_2099%2F3500.jpg>
+ Tim Cook lays out his vision for Apple’s future. Photograph: Andrew 
+Burton/Getty Images 
+More playful messages
+
+Apple is clearly responding to the voice of the consumer; Messages is the most 
+popular app oniOS <https://www.theguardian.com/technology/ios>, and the new 
+features are designed to offer more playful options that replicate some 
+successful third-party messaging apps.
+
+“We’re providing emoji predictions as you type,” said Craig Federighi, Apple’s 
+senior vice-president of software engineering. “When you tap on the emoji 
+button, we’ll highlight all the emoji-fiable words.”
+
+Federighi also went slightly off script, joking that “the children of tomorrow 
+will have no understanding of the English language”. Clicking on the camera 
+icon in Messages will immediately show the camera live, and the demonstration 
+showed some shots that appeared slightly more perfect than real life. It was a 
+rare moment of candor in an otherwise characteristically veneered Apple 
+presentation. “Someone in marketing thought that was what you’d see if you saw 
+through the camera ... such an incongruous set of images.”
+
+Digital assistant
+
+The iPhone maker is also betting heavily on winning a multi-front battle 
+<https://www.theguardian.com/technology/2016/may/18/google-home-assistant-amazon-echo-apple-siri>
+ with Google, Facebook and Amazon to create a market-defining digital assistant 
+that helps people make tiny decisions or suggests relevant information 
+throughout the day, such as which emoji to use, which family member to tag in a 
+photo, or the best time in your diary to get to the gym.
+
+Apple plans to add machine-learning smarts to its messaging app, better 
+predicting the content of texts between any two people communicating with 
+iPhones.
+
+At the same time, it announced it would open the technical innards of its Siri 
+virtual assistant to outside developers who can make other intelligent 
+apps.Consumers could just ask Siri how long it would take for a Lyft or Uber to 
+show up, rather than opening an app.
+
+Siri also will begin working on Apple’s desktop and laptop computers. In one 
+demonstration, Federighi showed how he could ask Siri to gather up all emails 
+from a certain co-worker about a certain topic.
+
+Apple’s desire to get more people to use Siri comes as other Silicon Valley 
+giants release their own digital butlers. Amazon.com has Alexa, which will 
+query the internet and adjust the lights in a room for users; Facebook has M; 
+and Google announced its own Google Assistant in May.
+
+Privacy features
+
+Apple did, however, break with the larger technology industry over at least 
+one issue: privacy. As Silicon Valley tries to offer more products that analyze 
+vast amounts of consumer data to better predict how people will make decisions, 
+it often requires users to forgo certain modern privacy tools, such as strong 
+encryption. That’s because the companies usually can only analyze consumer 
+behavior by monitoring their messages, scanning their photos and tracking their 
+movements. These computations are done by running all of this data through 
+corporate servers.
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-messages-wwdc-new-features-emoji-prediction%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F6d581bdab52bccc1cb56994eb24dde9abec8a35c%2F0_19_5184_3110%2F5184.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20unfurls%20more%20millennial-friendly%20texting%20tools%20including%20'emoji%20prediction'&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-messages-wwdc-new-features-emoji-prediction%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Apple%20unfurls%20more%20millennial-friendly%20texting%20tools%20including%20%27emoji%20prediction%27&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjun%2F13%2Fapple-messages-wwdc-new-features-emoji-prediction%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F6d581bdab52bccc1cb56994eb24dde9abec8a35c%2F0_19_5184_3110%2F5184.jpg>
+ Apple says its Messages app will continue to offer end-to-end encryption by 
+default. Photograph: Tony Avelar/AP 
+In May, Google announced that Allo, its new messaging app, would only offer 
+digital assistant features if users don’t turn on an optional strong encryption 
+feature. Facebook will also make its new encryption technology on its Messenger 
+app optional for similar reasons,people familiar with the project 
+<https://www.theguardian.com/technology/2016/may/31/facebook-messenger-bot-encryption-secure-messaging>
+ said.
+
+
+Apple, by contrast, said such machine-learning computations will be done on 
+users’ devices, rather than company servers. Because of this, the company says 
+its Messages app will continue to offer end-to-end encryption by default.
+
+Other updates
+
+Apple is also renaming its operating system, the latest version of which is 
+called macOS Sierra. Updates include a shared clipboard, so that content and 
+links can be shared between connected iPhones, iPads and Macs, a feature that 
+will free up disk space by backing up less-used content on iCloud, and its 
+payment service Apple Pay, which can now be used on desktop sites.
+
+Apple’s latest watch software, WatchOS 3, speeds up changes between apps, adds 
+text input by typing individual letters on screen and allows users to unlock 
+their desktops with the presence of their watch, saving the effort of typing a 
+password.
+
+macOS, iOS 10 and WatchOS are all expected to be released in a public beta 
+trial in July and on general release in the autumn.
+
+Decline in iPhone sales leads to first revenue decline in 13 years for Apple
+ Read more  
+<https://www.theguardian.com/technology/2016/apr/26/apple-iphone-first-revenue-decline-13-years>
+WWDC comes as Apple faces a challenging future. In April, Apple reported its 
+first sales decline in 13 years 
+<https://www.theguardian.com/technology/2016/apr/26/apple-iphone-first-revenue-decline-13-years>
+. The company, while still massively successful, appears to be reaching a 
+saturation point with its popular products, such as the iPhone and iPad. Its 
+latest piece of hardware, Apple Watch, has faced consistentlymixed reviews 
+<https://www.theguardian.com/technology/2016/jun/09/apple-watch-smartwatch>.
+
+Apple’s annual developer conference isn’t normally the site of sweeping 
+product announcements. The audience is full of coders and Apple tends to focus 
+on minor tweaks that may only elicit applause from an enthralled audience deep 
+in the weeds of app design.
+
+When Federighi announced the shared clipboard, there was an audible gasp. At 
+another point, Bozoma Saint John, head of consumer marketing for Apple Music, 
+boldly tried to show off a new “lyrics” feature by getting the audience to rap 
+along to Sugarhill Gang’s classic Rapper’s Delight.
+
+She quickly gave up after declaring the audience was not, as the song 
+instructs, “rapping to the beat”.
+ 

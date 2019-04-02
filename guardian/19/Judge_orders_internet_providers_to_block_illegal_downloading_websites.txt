@@ -1,0 +1,71 @@
+
+The federal court has ordered internet providers to block major illegal 
+download or torrenting websites, such as Pirate Bay and Torrentz, in a bid to 
+crack down on online copyright infringement.
+
+Justice John Nicholas handed down his judgment 
+<http://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2016/2016fca1503>
+ on Thursday afternoon in Sydney, ordering internet service providers to “take 
+reasonable steps to disable access” to Pirate Bay, Torrentz, TorrentHound, 
+IsoHunt and the streaming service SolarMovie within 15 working days.
+
+Netflix to stop Australians accessing US content library using proxies and VPNs
+ Read more  
+<https://www.theguardian.com/media/2016/jan/15/netflix-to-stop-australians-accessing-us-content-library-with-proxies-and-vpns>
+Foxtel and Village Roadshow filed their application in February. Village 
+Roadshow sought to have SolarMovie blocked, whileFoxtel 
+<https://www.theguardian.com/australia-news/foxtel> targeted the four other 
+sites.
+
+Telstra <https://www.theguardian.com/business/telstra>, Optus, TPG and M2 were 
+the major respondents.
+
+It is the first time laws introduced with the Copyright Amendment (Online 
+Infringement) Act have been successfully applied since it passed in June last 
+year.
+
+The federal court has allowed ISPs to determine how best to enact the order, 
+with blocking domain names, IP addresses or target URLs among the possible 
+strategies. Any other alternative means must be agreed upon in writing with the 
+applicants.
+
+TPG has proposed using domain name system (DNS) blocking to target the sites 
+to prevent them from getting around the ban by changing their IP addresses.
+
+
+Though Village Roadshow and Foxtel had proposed that the ISPs pay their own 
+costs of compliance, the respondents uniformly opposed it.
+
+Nicholas said that there had been “a large measure of co-operation between the 
+applicants and the respondents”.
+
+He proposed a “uniform amount for compliance costs” determined by the number 
+of domain names that the ISPs would be required to block.
+
+Peter Tonagh, the chief executive of Foxtel, welcomed the federal court’s 
+ruling ina statement provided to the ABC 
+<http://www.abc.net.au/news/2016-12-15/federal-court-orders-pirate-bay-blocked-in-australia/8116912>
+.
+
+“This judgment is a major step in both directly combating piracy and educating 
+the public that accessing content through these sites is not OK, in fact it is 
+theft.
+
+“This judgment gives us another tool to fight the international criminals who 
+seek to profit from the hard work of actors, writers, directors and other 
+creators the world over.”
+
+Foxtel or Village Roadshow will have to apply to have any new websites added 
+to the judgement.
+
+Universal Music’s action to have Kickass Torrents blocked remains active.
+
+A landmark case against Australian internet users accused of pirating the film 
+Dallas Buyers Clubwas dropped by the plaintiff, DBC LLC, 
+<https://www.theguardian.com/technology/2016/feb/11/dallas-buyers-club-piracy-case-finally-dropped-two-year-legal-battle>
+ in February.
+
+A federal court judge had said it was “wholly unrealistic” for the ISP iiNet 
+to hand over the personal details of almost 5,000 customers who were accused of 
+having downloaded the film.
+ 

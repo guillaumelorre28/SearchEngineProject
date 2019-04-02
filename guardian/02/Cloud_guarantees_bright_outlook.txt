@@ -1,0 +1,225 @@
+
+Cloud computing is gaining ground in commercial and government circles; only 
+last month, the Cabinet Office had to extend the deadline for suppliers to join 
+the government's G-Cloud framework because of high demand. Organisations moving 
+to the cloud – where IT services are delivered remotely using an internet 
+connection – are doing so because the shared infrastructure is cheaper and more 
+flexible than conventional forms of technology.
+
+So could cloud computing play a larger role in academia? Sharing information 
+technology is well established among universities and research institutes; from 
+the British government-funded education computer network, Janet (UK), to small 
+research clusters, they have been pooling resources since computers first went 
+online. Many academics predict cloud computing could take this collaboration to 
+another level, but in what areas does it offer the greatest potential for 
+higher education?
+
+Leading experts in technology and higher education recently gathered at a 
+Guardian roundtable to discuss the issue. The debate, supported by Jisc, the 
+higher education IT body, was held under Chatham House rule, which means 
+comments are reported without attribution to encourage a frank exchange of 
+views.
+
+The roundtable acknowledged that cloud computing removes much of the fixed 
+cost of setting up IT infrastructure, which allows organisations to expand or 
+scale back computing facilities very quickly. As a result, cloud computing has 
+already found some favour in academia, especially for small scale research 
+projects. Many universities, such as Portsmouth, have started to use 
+commercial, off-the-shelf cloud services from organisations such as Microsoft, 
+Amazon and Google. According to many participants, going to an external 
+provider saves money and removes the need for complex, sometimes lengthy IT 
+acquisition processes. As one contributor said: "Universities are moving to the 
+cloud to improve the services they deliver and it is helping to promote best 
+practice."
+
+Compatibility
+
+Despite recognising the potential of the cloud, the roundtable heard that 
+academia has not rushed to fully adopt the technology. Barriers include 
+universities' autonomous structures and the desire of academic staff to remain 
+independent. Nor are the systems always designed for compatibility. On the 
+administrative side, software is often bespoke or highly customised, making it 
+less suitable for use by others. The roundtable heard how research teams have 
+legitimate concerns about sharing sensitive data and storing it on shared 
+systems. In teaching, there are worries that this will lead to homogeneous 
+course materials and universities being less able to differentiate themselves. 
+"We don't see a lot of collaboration around learning, as that is one of the 
+distinguishing features of a university's offering," said one participant.
+
+Another, with a background in IT, pointed out that university systems are 
+designed more with a view to internal, rather than external, collaboration. 
+High speed links exist between universities and research organisations, but 
+there are fewer connections between the academic networks and cloud service 
+providers.
+
+Establishing these physical links, suggested one contributor, is a 
+prerequisite for cloud computing to succeed in an academic setting. Another is 
+to reconfigure universities' local area networks so they work better with 
+services delivered over the public internet. Organisations such as Janet and 
+Jisc are helping universities to do this, the roundtable was told.
+
+Technical hurdles, though, may be secondary to cultural ones, pointed out a 
+contributor. Further and higher education colleges, with smaller budgets and 
+fewer IT staff, may be more open to sharing administrative services than larger 
+universities.
+
+University staff also have concerns about data security. "Universities are 
+building data centres because they don't want data leaving the campus," said 
+one participant.
+
+Concern about a lack of control over data, software and hardware is holding 
+back the use of cloud in research, the roundtable was told. Some research teams 
+have made successful use of cloud-based services – such as storage and 
+computational systems, especially for short bursts of processing-intensive 
+computing – but others prefer to have the data, and the systems, close at hand. 
+As one contributor said, that may mean keeping the systems in the lab or even 
+under a desk.
+
+There was concern among participants that cloud providers may struggle to 
+provide the level of customisation needed for some areas of academic research, 
+as cloud technology is perceived to achieve its economies of scale through a 
+"one size fits all" approach to technical specifications and service levels.
+
+"Centralised services are moving to the cloud, but systems within departments 
+are very different," said one contributor. "How can they move their teaching 
+systems, or systems that support research groups, to the cloud?" However, 
+others suggested researchers could use shared services, especially if there are 
+additional safeguards over security and service levels.
+
+The roundtable heard how research projects sometimes duplicate IT resources, 
+spending money on hardware and software that could be devoted to research. 
+Participants agreed that computing power provided by a cloud service and 
+managed full-time by IT professionals should be more effective. They also 
+agreed that a tendency to create "vanity clusters" of IT systems, as part of 
+research proposals, wastes time and funds.
+
+It was suggested alterations to university funding, as well as improvements in 
+cloud technology, could change that. As one participant said, in the past, 
+universities had relatively easy access to capital, either from internal 
+resources or as part of research funding. This tended to push them towards 
+spending on hardware. "Universities had capital funding and changes in [ICT] 
+hardware coincided with the next capital grant," said one contributor. "It is 
+the flow of money into the institution that is the trigger."
+
+A move to more revenue-based funding is likely to push institutions towards 
+service, or cloud-based, models by which IT is paid for from operating 
+expenses, said one contributor. Rising fuel costs – and increased expenses 
+attributed to data centre and the energy and cooling systems required for 
+computers – are also likely to prompt universities to look for more efficient 
+ways of buying and running IT. As one participant said: "There is a green 
+angle; energy is becoming more expensive."
+
+Contributors agreed that cloud computing is likely to find favour in research 
+because it costs less, overall, than other ways of buying computing power. 
+"There is research that doesn't get done because the obstacles are too high," 
+said one participant. "It may cost £5 of computer time, but you can't get 
+started because the costs are too high." Cloud services would allow research 
+groups to buy that £5 of computer time without large setup costs.
+
+The roundtable was told research teams, such as those driven by Jisc and the 
+Engineering and Physical Sciences Research Council, are being prompted to look 
+more closely at the cloud to improve collaboration within and between 
+institutions. Universities, and the inter-university technology organisations, 
+have created pilots "to help research groups to understand the costs and 
+benefits", said one contributor.
+
+Service models
+
+Academic groups are also looking at governance models and controls around 
+cloud computing, the roundtable heard. One way the sector is driving this 
+forward is by looking at whether the academic community can collectively 
+negotiate terms with providers. Developing standardised service models, as well 
+as scrutinising contractual terms, should allow institutions to bring cloud 
+services on board more quickly, said one participant.
+
+Currently, university purchasing, legal or IT teams are likely to insist on 
+doing their own due diligence. Negotiating as a group would remove the need for 
+many of these checks, at least for more common services. "Framework contracts 
+will reduce a lot of duplication," said one participant.
+
+More immediately, it was suggested universities could benefit by moving 
+generic, or less critical, services to the cloud. As one contributor said: 
+"Student email is a lower-risk option for moving to the cloud than ERP 
+[enterprise resource planning]." One participant suggested that moving student, 
+learning and teaching systems to the cloud has other potential advantages 
+because higher education then becomes less centred around the physical campus. 
+Cloud-based systems can ease access to key systems, including learning 
+environments, for students who are remote from the university. The Open 
+University, for instance, may soon deploy cloud services such as Google Apps or 
+Microsoft Live@edu.
+
+Many contributors suggested their organisations would be looking more closely 
+at moving administrative systems to the cloud when they need updating or when 
+institutions combine or share systems. Several pointed out that applications 
+such as IT helpdesk and HR systems have already been moved to the cloud.
+
+Although universities are looking at more standardised systems for 
+administration, the roundtable agreed the end goal is to share services and 
+infrastructure, despite the concerns universities have about data security. 
+Cloud computing is not a prerequisite for such work, but it was agreed it can 
+help by reducing costs and providing an alternative to hosting workloads on 
+institutions' servers.
+
+But the view among participants was that the transition to cloud services 
+could be made easier through more shared buying of services, greater 
+standardisation of terms and conditions, and by technical standards that make 
+it easier to switch applications from one cloud vendor's environment to 
+another. "It is starting to be recognised, across the sector, that some 
+requirements are similar and that we need to work together on shared standards 
+and systems," said one contributor.
+
+The higher education IT community has started work in this area, including 
+looking at whether universities can standardise the pre-contractual scrutiny of 
+cloud offerings and provide cloud infrastructure and services tailored to 
+academic research or higher education administration.
+
+In a tough funding environment, the roundtable agreed such initiatives can 
+only become more commonplace. And cloud computing is likely to be one of the 
+main beneficiaries, as universities strive to do more with less. As one 
+contributor put it: "It frees up a person's time to do something more useful."
+
+At the table
+
+Mark Say (chair), former editor, Government Computing Network, The Guardian
+
+Matt Johnson, head of research and development, Eduserv
+
+Malcolm Read, executive secretary, Jisc
+
+Simon Parker, director, Knowledge Transfer Centre, Cardiff University School 
+of Engineering
+
+Mike Day, director of information systems, Nottingham Trent University
+
+Peter Tinson, executive secretary, UCISA
+
+Chris Chant, director, G-Cloud programme, Cabinet Office
+
+Rachel Bruce, innovation director, digital infrastructure, Jisc
+
+Chris Cobb, chief operating officer, University of London
+
+Stephen Butcher, head of procurement and shared services, Hefce
+
+Peter Pietzuch, senior lecturer, Imperial College London
+
+Paul de Vrieze, lecturer in web systems and technology, Bournemouth University
+
+Dan Perry, head of strategy, Janet (UK)
+
+Roundtable report commissioned by Seven Plus and controlled by the Guardian.
+
+Discussion hosted to a brief agreed with Jisc.
+
+Funding Supported by Jisc (www.jisc.ac.uk <>)
+
+Contact Sarah Russell 020-3353 4866.
+
+For information on roundtables, visit: theguardian.com/sponsored-content
+
+JISC's work in shared services and the cloud 
+<http://www.jisc.ac.uk/publications/briefingpapers/2012/umf>
+
+How to move to the cloud - one day conference run by Janet (UK)  
+<http://www.jisc.ac.uk/events/2012/02/preparingforcloud.aspx>
+ 

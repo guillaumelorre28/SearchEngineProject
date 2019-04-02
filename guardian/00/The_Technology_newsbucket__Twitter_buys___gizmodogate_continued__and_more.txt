@@ -1,0 +1,126 @@
+
+
+ <http://www.flickr.com/photos/30806435@N04/4307047617>
+Yes, the US Army really does use Powerpoint to show voting choices. Photo by 
+hectorir <http://flickr.com/photos/hectoralejandro/> on Flickr. Some rights 
+reserved <http://creativecommons.org/licenses/by/2.0/deed.en>
+
+A quick burst of links for you to chew over, as picked by the Technology team
+
+Special: #gizmodogate links
+Apple asked for 'lost' iPhone criminal probe >> Silicon Valley / San Jose 
+Business Journal: 
+<http://sanjose.bizjournals.com/sanjose/stories/2010/04/26/daily36.html>
+"Investigators said they have identified and interviewed the person who took 
+the phone from the Gourmet Haus Staudt on March 18 after it was left there by 
+Apple engineer Gray Powell following a birthday celebration. "Officials were 
+unable to tell the Business Journal whether that person, whose name has not 
+been released, was the same person who eventually sold the phone to tech Web 
+site Gizmodo.com."
+
+Thoughts on the Legality of the Gizmodo Warrant > Eugene Volokh 
+<http://volokh.com/2010/04/27/thoughts-on-the-legality-of-the-gizmodo-warrant/>
+He actually is a lawyer - a professor at the University of California at Los 
+Angeles who teaches First Amendment law. He thinks the warrant is likely OK on 
+4th amendment (against unreasonable searches); OK on nighttime warrant ("night" 
+starts after 10pm). Shield Law? Probably doesn't apply. Nor does the Privacy 
+Protection Act for journalists. In other words, Jason Chen really needs a very 
+good lawyer, and could face a felony charge.
+
+iPhone blogger has computers seized by police >> BBC News 
+<http://news.bbc.co.uk/1/hi/technology/8645884.stm>
+Interesting for the EFF comment: "The second issue the EFF is concerned about 
+is if police officers are doing the investigative work of a private company. 
+"If there was some offence here it is not apparent what it is", [Jennifer 
+Gannick, the EFF's civil liberties director] said. Apart from the potentially 
+receiving property that under the law is stolen?
+
+OK, back to normal again...
+Twitter buys Cloudhopper >> Twitter blog 
+<http://blog.twitter.com/2010/04/cloudhopping.html>
+"Over the last eight months we have been working with a startup called 
+Cloudhopper to become one of the highest volume SMS programs in the 
+world—Twitter processes close to a billion SMS tweets per month and that number 
+is growing around the world from Indonesia to Australia, the UK, the US, and 
+beyond."
+
+Google's Andy Rubin on Everything Android >> NYTimes.com 
+<http://bits.blogs.nytimes.com/2010/04/27/googles-andy-rubin-on-everything-android/>
+Google's Andy Rubin talks about the importance of being open, and says Adobe 
+Flash will be built into version 2.2
+
+Wikimedia Foundation Form 990 for 2010 - no riches in nonprofit salaries >> 
+Infothought <http://sethf.com/infothought/blog/archives/001449.html>
+Seth Finkelstein looks at Wikimedia's 'form 990' (a tax return for 
+non-profits): "We finally get to find out what Sue Gardner, Executive Director, 
+receives for being ringmaster of the wiki-circus: $150,000 base salary, $6,350 
+benefits, and $18,700 of what looks to be a one-time housing relocation 
+expense. "That's decent money in general in the midst of a recession, but in a 
+relative sense, it strikes me as quite reasonable for the position, especially 
+in Silicon Valley."
+
+BuildBot: Chromium >> Chromium.org 
+<http://build.chromium.org/buildbot/waterfall/waterfall>
+See where all the different builds - and wow, there's a lot of builds - of 
+Google's Chrome browser are. And also what's stopping them building.
+
+The Windows Phone difference >> Windows Phone Secrets 
+<http://windowsphonesecrets.com/2010/04/27/the-windows-phone-difference/>
+"Clarity Consulting has drawn up some amazing prototypes of Windows Phone 
+experience to show off what's possible," reports Paul Thurrott.
+
+Microsoft's Office Web Apps - Google killing not included >> The Register 
+<http://www.theregister.co.uk/2010/04/27/office_2010_web_apps_review/>
+"These are the first ever, in-browser versions of Word, Excel, PowerPoint, and 
+OneNote from Microsoft. They represent a significant break with the past for a 
+suite that's been one of Microsoft's cash cows," says Tim Anderson.
+
+Israel lifts ban on imports of Apple iPad >> Reuters 
+<http://www.reuters.com/article/idUSTRE63O0C220100425>
+iPad wireless: mostly harmless.
+
+Find where you parked your car with Sally Park >> Doseido 
+<http://www.doseido.com/sallypark/>
+As Rick Wray points out, "surely you'd only need this if you were drunk, in 
+which case you shouldn't be driving your car anyway?"
+
+Brands become top technology tweeters according to TweetLevel >> The Naked 
+Pheasant 
+<http://thenakedpheasant.wordpress.com/2010/04/23/brands-become-top-technology-tweeters-according-to-tweetlevel/>
+A list of the top bazillion "technology tweeters". Good to see that 
+@barackobama still has some heft. Though his gadget reviews have been a bit 
+slipshod lately, don't you think?
+
+Is Facebook testing HTML5 video for iPad? Apparently not >> ReadWriteWeb 
+<http://www.readwriteweb.com/archives/facebook_testing_html5_video_for_ipad_apparently_not.php>
+Instead, it's transcoding to MP4. Simples!
+
+Apple rejects Michael Wolff's iPhone app; is it because he criticizes Steve 
+Jobs? >> BusinessInsider 
+<http://www.businessinsider.com/apple-rejects-an-app-dedicated-to-michael-wolffs-columns-2010-4>
+"Lacks sufficient amounts of content to appeal to a broad audience" has to be 
+one of the lamest excuses ever used to reject an app.
+
+Enemy Lurks in Briefings on Afghan War - PowerPoint >> NYTimes.com 
+<http://www.nytimes.com/2010/04/27/world/27powerpoint.html>
+"Like an insurgency, PowerPoint has crept into the daily lives of military 
+commanders and reached the level of near obsession. The amount of time expended 
+on PowerPoint, the Microsoft presentation program of computer-generated charts, 
+graphs and bullet points, has made it a running joke in the Pentagon and in 
+Iraq and Afghanistan," says The New York Times.
+
+Squeezing the life out of your free Google Appengine Quota >> Anekdotz blog 
+<http://blog.anekdotz.com/2010/04/squeezing-life-out-of-your-free-google.html>
+"From personal experience, if used properly, the free quota is generous enough 
+to serve far more than Google's estimated 5 million page views/month." If 
+that's not jaw-dropping enough, keep reading.
+
+Computer tycoon Sir Clive Sinclair, 69, weds his 33-year-old lap dancer ... 
+<http://www.dailymail.co.uk/tvshowbiz/article-1269050/Computer-tycoon-Sir-Clive-Sinclair-69-weds-33-year-old-lap-dancer.html>
+"The pair wed at the Civil Court in Las Vegas on April 16. The single witness 
+is believed to have been a passer-by," says Mail Online. Miss Bowness is also a 
+former Miss England.
+
+You can follow Guardian Technology's linkbucket on delicious 
+<http://delicious.com/guardianista>
+ 

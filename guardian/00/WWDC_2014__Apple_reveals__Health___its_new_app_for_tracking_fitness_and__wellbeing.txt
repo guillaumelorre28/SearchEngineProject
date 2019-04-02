@@ -1,0 +1,32 @@
+
+Apple <https://www.theguardian.com/technology/apple> unveiled its highly 
+anticipated health data monitoring app on Monday, announcing a slate of more 
+than 20 medical partners in the US and Europe.
+
+
+Speaking at Apple's annual conference for developers in San Francisco, the 
+senior vice president of software engineering, Craig Federighi, introduced 
+Health, an app for iPhone and iPad.
+
+It will be powered by Healthkit, a set of tools that will allow developers to 
+build bespoke apps around health and wellbeing, from sleep monitoring and 
+stress reduction to exercise and blood testing.
+
+"Developers have created a lot of apps for monitoring your health," he said. 
+"But up to now the information gathered by those applications lives in silos. 
+But now you can with HealthKit. A single place where applications can gather 
+the data. And there's an app - Health.
+
+Federighi assured the audience that the privacy of users health information 
+would be protected. "We carefully protect your privacy – you can decide what 
+you want to share between apps."
+
+Partners include Cambridge University Hospitals NHS in the UK, and Mount 
+Sinai, UCLA Health and Stanford Hospitals in the US.
+
+• Apple demos Mac OS 10.10 'Yosemite' 
+<https://www.theguardian.com/technology/2014/jun/02/wwdc-2014-apple-demos-mac-os-1010-yosemite-its-latest-desktop-software?view=desktop>
+
+• Apple previews new mobile software iOS 8 
+<https://www.theguardian.com/technology/2014/jun/02/apple-previews-new-mobile-software-ios-8-at-wwdc-2014>
+ 

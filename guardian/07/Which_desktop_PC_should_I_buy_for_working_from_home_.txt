@@ -1,0 +1,164 @@
+
+I’m looking to purchase a tower PC for working from home, ideally for less 
+than £500. It must have a processor fast enough to manage my work across 
+multiple Excel spreadsheets, as well as running Microsoft Word and Google 
+Chrome at the same time. At the moment, I am using an old laptop with two 
+external monitors. When I try to process my spreadsheets, things slow down to 
+the point of freezing, or it crashes.Diana
+
+You are right in thinking that a tower PC will generally run faster than a 
+similarly priced laptop. Towers provide plenty of space for chips to run hotter 
+and therefore faster than they can in laptops, without throttling performance 
+to avoid overheating problems.
+
+An Intel Core i5-6 should be more than adequate for your needs. A Core i7 
+would be better, but usually pushes the price up considerably. You can compare 
+processor speeds and operating temperatures atNotebookCheck 
+<http://www.notebookcheck.net/Mobile-Processors-Benchmark-List.2436.0.html>.
+
+Heavyweight tasks such as recalculating large spreadsheets also tend to 
+require more memory. It’s usually easier to add RAM to a tower than a laptop. 
+You can also add faster graphics cards and multiple hard drives, including 
+Blu-ray drives for backups.
+
+At the moment, your Excel work is probably limited by a shortage of RAM. (A PC 
+is more likely to crash if it runs out of memory than if it runs out of 
+processing power.) If your laptop has 4GB of memory, you should start with at 
+least 8GB and make sure you can upgrade to 16GB or more. You can check the 
+upgrade options in the manufacturer’s service or repair manual or, if you know 
+the model number,Crucial’s website <http://uk.crucial.com/>.
+
+PC motherboards usually have either two or four memory slots, so ideally at 
+least one should be free for an upgrade. For example, 8GB should be on one 
+stick, not on two 4GB sticks. If you have 8GB and one free slot, you can 
+upgrade to 16GB by buying one 8GB stick for less than £50. It would cost twice 
+as much to replace two unwanted 4GB sticks with two new 8GB sticks.
+
+Ready built or DIY?
+
+There are still plenty of desktop towers available off-the-shelf from 
+retailers such asJohn Lewis 
+<http://www.johnlewis.com/browse/electricals/desktop-pcs-imacs/desktop-pcs-imacs/tower/_/N-7flrZ1z13u74>
+,Currys PC World 
+<http://www.pcworld.co.uk/gbuk/tower-pcs/desktop-pcs/desktop-pcs/1093_8225_71255_xx_ba00010707-bv00308577/1_27/price-asc/xx-criteria.html>
+ andArgos <http://www.argos.co.uk/>. You can also buy them directly from small 
+British companies, such as (in alphabetical order)Chillblast 
+<https://www.chillblast.com/>, PC Specialist 
+<https://www.pcspecialist.co.uk/desktop-pcs/home-office-pcs/> and Scan 
+<https://www.scan.co.uk/>, as well as from giant business suppliers such as 
+Dell, HP and Lenovo.Zoostorm <http://www.zoostorm.com/>, another British 
+company, sells through a range of outlets including Amazon, Argos and Tesco.
+
+Part of the appeal of direct suppliers is that you can often customise PCs to 
+get what you want. Unfortunately, the number of configuration options has 
+fallen dramatically over the past five years, especially on the cheaper ranges. 
+It can also be a bit of a nightmare trying to find out which parts you can 
+upgrade yourself. If Crucial doesn’t know, you can always ask in the support 
+forums for each PC.
+
+The ultimate form of customisation is to build your own PC from scratch. This 
+takes more effort, but thePC Part Picker <https://uk.pcpartpicker.com/list/> 
+website provides plenty of sample builds. You can share your selection of parts 
+to see if other users can suggest improvements. One drawback is that Windows 
+costs a lot more if it’s bought separately, rather than pre-installed on a PC, 
+partly because it includes Microsoft support.
+
+Home or business PC?
+
+If you are buying a PC for business use, consider a business PC. These should 
+not include the sort of third-party “crapware” that most suppliers bundle with 
+consumer PCs to reduce the cost of pre-installingWindows 
+<https://www.theguardian.com/technology/windows>, sometimes to zero or less. 
+However, most suppliers still bundle anti-virus software and some of their own 
+“utilities”, which are not always useful.
+
+Business PCs usually run 64-bit Windows 10 Pro rather than the Home version. 
+It probably doesn’t matter for your purposes. The main advantages of the Pro 
+version are the ability to attach to corporate networks, BitLocker drive 
+encryption, built-in virtualisation,Group Policy controls 
+<http://www.makeuseof.com/tag/12-ways-windows-group-policy-can-make-pc-better/> 
+andWindows Update for Business 
+<https://technet.microsoft.com/en-us/itpro/windows/manage/waas-manage-updates-wufb>
+. Pro also supports 2TB of memory, compared with Home’s 128GB.
+
+The main attraction is business support. It’s painful to lug a desktop PC to 
+your local store and RTB (return to base) repairs can take up to two weeks. By 
+contrast, you can buy business PCs with business support. Dell offers from 
+three to five years of pro support and “next business day” on-site service for 
+£70 to £200, depending on what the original PC starts with. HP offers four 
+years of “next coverage day call to repair 
+<http://store.hp.com/UKStore/Merch/Product.aspx?id=U8UG1E&opt=&sel=CPK>” on 
+desktops for up to £208.80. It’s only £1 a week.
+
+Possible purchases
+
+The Lenovo IdeaCentre 510S 
+<http://www.pcworld.co.uk/gbuk/computing/desktop-pcs/desktop-pcs/lenovo-ideacentre-510s-desktop-pc-10146072-pdt.html>
+ is one of your cheapest off-the-shelf options with a Core i5-6400, 8GB of 
+memory and 1TB hard drive for £399.99 at PC World. (“Was £629.99”, it says.) 
+It’s also selling the same machine with a fastCore i7-6700 
+<http://www.pcworld.co.uk/gbuk/computing/desktop-pcs/desktop-pcs/lenovo-ideacentre-510s-desktop-pc-10146054-pdt.html>
+ for £599.99.
+
+Zoostorm’s Origin 
+<https://www.amazon.co.uk/Zoostorm-Origin-Desktop-PC-Processor/dp/B01G8BE38E/> 
+desktop PC is another affordable option, with the Intel Core i5-6400/8GB 
+version available on Amazon.co.uk for £419.99.
+
+HP’s Pavilion range of desktops with Core i5-6400 processors at PC World start 
+with thePavilion 550-202na 
+<http://www.pcworld.co.uk/gbuk/computing/desktop-pcs/desktop-pcs/hp-pavilion-550-202na-desktop-pc-red-10146631-pdt.html>
+ for £599.99. This has the usual 8GB of memory (maximum 16GB), an AMD Radeon 
+R5-330 graphics card with 2GB, a 128GB SSD, a 3TB hard drive and a DVD writer.
+
+Buying direct from HP, you could get a Pavilion 550-252na 
+<http://store.hp.com/UKStore/Merch/Product.aspx?id=T1J68EA&opt=ABU&sel=DTP> 
+tower in red, white or blue for £429. This model has a Core i5-6400 processor 
+with 8GB of memory (2 x 4GB, sadly), a 1TB hard drive and a DVD burner, leaving 
+one internal hard drive bay free. There is no professional service for this, 
+but you could add three years of pickup and return service for £29.
+
+Alternatively, you could get much the same thing with a 2TB hard drive – the 
+Pavilion 550-254na 
+<http://www.johnlewis.com/hp-pavilion-550-254na-desktop-pc-intel-core-i5-8gb-ram-2tb-natural-silver/p2481359>
+ – from John Lewis for £479.95. In this case, the price includes a two-year 
+guarantee.
+
+Buying direct from Dell, you could get an Inspiron 3650 
+<http://www.dell.com/uk/p/inspiron-3650-desktop/pd?oc=cd65032&l=en&s=dhs> with 
+a Core i5-6400, 8GB of memory (one slot free), Nvidia GeForce 730 graphics card 
+with 2GB of memory, 128GB SSD, 1TB hard drive, DVD writer and Windows 10 Home 
+for £519 (Code CD65032). Sadly, you only get one year of collect and return 
+support with no better options.
+
+Switching to the very similar Vostro 3650 
+<http://configure.euro.dell.com/dellstore/config.aspx?c=uk&cs=ukbsdt1&fb=1&l=en&model_id=vostro-3650-desktop&oc=bdv606&s=bsd&vw=classic>
+ would provide a Core i5-6400 with only 4GB, no graphics card and no second 
+hard drive for £394.80, plus £30 delivery. The only advantage is that you could 
+add four years of on-site service for £140. You could always stick8GB of memory 
+<http://uk.crucial.com/gbr/en/compatible-upgrade-for/Dell/vostro-3650> into the 
+empty slot to bring the RAM up to 12GB.
+
+The most configurable affordable tower PC I can find is the Lenovo ThinkCenter 
+M800 <http://shop.lenovo.com/gb/en/desktops/thinkcentre/m-series-towers/m800/>. 
+It offers a choice of six processors, nine memory configurations from 4GB to 
+32GB and nine first or second hard drives. Prices start at £379.99, but you can 
+select an Intel Core i5-6400, 8GB of memory (leaving three slots free), and a 
+128GB SSD for £485.99: just under budget.
+
+To that, I would add a 1TB secondary hard drive for £58.80 and another 8GB of 
+RAM for £52.80, bringing the grand total to £597.59. Of course, you could do 
+these upgrades yourself later if you find you need them.
+
+There’s not much to choose between these PCs. The Lenovo IdeaCentre 510S is 
+cheapest, while the ThinkCenter M800 is the most configurable and possibly the 
+best. Otherwise, the Dell Inspiron 3650 is good value at £519. If you shop 
+around, you may well find some HP Pavilion 550 desktops with better 
+specifications at better prices. Argos sometimes has deals, while Laptops 
+Direct has deals andrefurbished 
+<http://www.laptopsdirect.co.uk/a1-refurbished-hp-pavillion-550-153na-intel-core-i5-6400-2.7ghz-8gb-1tb-dvd-a1-n8y07ea-w10-1tb/version.asp>
+ models.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

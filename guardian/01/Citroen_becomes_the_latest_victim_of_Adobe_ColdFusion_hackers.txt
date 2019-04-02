@@ -1,0 +1,76 @@
+
+A prolific hacker gang that has breached numerous companies by exploiting 
+Adobe software has claimed another major hit in the form of car manufacturer 
+Citroën, the Guardian has learned.
+ 
+Citroën had one of its German websites hacked to include a backdoor, which is 
+a method of bypassing normal authentication systems, and which may have allowed 
+the attackers to make off with whatever data was sitting on site’s server.
+
+A Citroën Germany spokesperson said law enforcement were to be contacted about 
+the breach as it appeared to be a criminal act. Some customer data was stolen, 
+the spokesperson said, but it is unclear how many are affected. Customers have 
+been contacted and will be advised to check their bank accounts for any 
+suspicious transfers.
+
+The attackers managed to embed the backdoor on shop.citroen.de, a fan site for 
+buying Citroën-based gifts. After disclosure by the Guardian and Alex Holden, 
+chief information security officer at Hold Security, the backdoor was removed, 
+but investigations into the breach continue. The backdoor file was live from at 
+least August 2013.
+ 
+According to Holden, it was certain the same actors responsible for breaching 
+several sites - including Adobe, PR Newswire and the National White Collar 
+Crime Center - were behind the Citroën site breach. Security blogger Brian 
+Krebs last yearuncovered a trove of information taken in those attacks 
+<http://krebsonsecurity.com/2013/10/breach-at-pr-newswire-tied-to-adobe-hack/>.
+ 
+The hackers have been scanning the internet for weaknesses in a web 
+application platform from Adobe known as ColdFusion. “The exploitation was 
+targeted across the entire internet looking specifically for ColdFusion 
+exploits,” Holden said.
+ 
+If the hackers did decide to pilfer data from the site, they would have had 
+access to all information on the server. “To explain the backdoor simply, it 
+provides full command line and SQL database access with the rights of the user 
+running the web services, which usually means everything on the web server,” 
+Holden added.
+
+Citroën was not responsible for running the site. It contracted web design 
+company anyMotion to run its main German website and the affected fan site.  
+anyMotion said it had fixed the backdoor but was now investigating whether 
+hackers had installed further files or taken data. “We are examining the 
+machines for known backdoors and unwanted software that someone may have 
+installed on the machine,” said anyMotion’s Heinz Brasch.
+
+
+It is unclear whether credit card information was directly compromised, 
+although the advice from Citroën that customers check their bank balances would 
+indicate some kind of financial information was taken. Shopping bags and 
+shipping addresses of users were also stored on the compromised server.
+ 
+Passwords used to access the website and admin passwords for running it have 
+been reset, while shoppers were initially prevented from making purchases as a 
+precaution.
+
+The breache has highlighted the risks that face companies through third 
+parties. “You can have all the security in the world inside the company’s four 
+walls, all you need is a third party supplier that’s connected to you, if 
+they’re compromised that compromise has a bridge right into your organisation,” 
+said Rocco Grillo, managing director and global leader for incident response 
+and forensics investigations at Protiviti, a consultancy. 
+
+“If you’re outsourcing to a third party or relying on a third party, you don’t 
+just shut the door and say that is someone else’s problem. You can outsource 
+the function but you ultimately own the risk. If that third party doesn’t have 
+the same controls in place or the level of controls you need from a risk 
+management standpoint there’s obviously an issue. You’re in grave risk if that 
+company loses your data.”
+
+The attacks have also proven the need to update exploitable software. The 
+vulnerabilities in ColdFusion have now been patched.
+
+
+• Blackphone: can a mobile ever truly be hack-proof? 
+<https://www.theguardian.com/technology/2014/mar/04/blackphone-can-a-mobile-ever-truly-be-hack-proof>
+ 

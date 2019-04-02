@@ -1,0 +1,92 @@
+
+The government must be pleased with the early reactions to the launch of 
+CloudStore. 
+<https://www.theguardian.com/government-computing-network/2012/feb/20/cloudstore-g-cloud-launch-cabinet-office>
+ While there may be a few grumbles about specific suppliers not being on the 
+procurement framework for cloud services, most of the comments have been 
+positive and emphasised its potential for the public sector to save money.
+
+But it leaves open a question of who is going to use it and what kind of 
+take-up there is going to be over the next few months. Public authorities have 
+still been running formal procurements for infrastructure or 
+software-as-a-service, and it may be that while many agree it's a great idea, 
+far fewer will be in a hurry to make use of CloudStore.
+
+While it has been a central government initiative, there is a view that there 
+is more potential for use in local government. Phil Pavitt, chief information 
+officer at HM Revenue & Customs (HMRC), says his department was party to its 
+design, but is in no hurry to rush in with business.
+
+He says the prime appeal for most buyers is that it provides a route for 
+picking up small applications, and using them for a limited length of time. 
+"How big departments are going to use it has not been fully thought through," 
+he says, adding that he is not against the idea but that it is not yet clear 
+how it will work.
+
+He is confident enough to say CloudStore will probably be used for some of 
+HMRC's periphery areas, and suggests that the more immediate potential is in 
+infrastructure. "What I find interesting is that it has some cloud 
+infrastructure stuff on there," he says. "I'm beginning to wonder that for some 
+of our small areas we could put stuff up quickly, use it for three or four 
+months, then take it down."
+
+He suggests that local, rather than central government will make more use of 
+the channel.
+
+While this could be the case, it does not necessarily mean that local 
+authorities will hurry to use CloudStore for the relevant services. Just days 
+before it was opened, Aylesbury Vale district council posted a tender in the 
+Official Journal of the European Union for finance, procurement, HR and payroll 
+systems, with a preference for a software-as-a-service solution that could be 
+shared with other councils.
+
+John Barter, the council's business project manager, says the decision was 
+down to timing and not knowing quite what CloudStore would have to offer.
+
+"We've been looking at the procurement of an enterprise resource planning 
+(ERP) solution for nine to 12 months, and for various reasons were looking at 
+opportunities to bring in other councils at the same time," he says. "When we 
+published the notice CloudStore was not available, but I've seen that some 
+players are not on CloudStore who could potentially meet our needs, more so 
+than the larger players. Other suppliers of ERP have not participated in the 
+G-Cloud framework.
+
+"We felt that for where we were at that time it was better to tender, but six 
+months down the line it could change."
+
+He says that using CloudStore is a possibility for the council in the future, 
+although he is keen, given Aylesbury's relatively small size, to see more SMEs 
+on the framework.
+
+If there is an official line from the local government IT community it comes 
+from Socitm, which has issued a statement welcoming the launch and saying it 
+will work with the Cabinet Office to promote the use of CloudStore.
+
+Martin Ferguson, Socitm's head of policy, says that short term take-up is 
+likely to be focused on generic functions such as email and storage, but that 
+for it to reach its full potential there has to be work on adding more service 
+specific applications.
+
+"It depends on where they are in their existing contracts, but there is a 
+growing level of interest, he says. "It's been promoted particularly by Tonini 
+Ciuffini's (the head of information assets at Warwickshire county council) work 
+as a foundation delivery partner.
+
+"But we believe there is a lot of work to be done to populate CloudStore with 
+products and services that will be of interest in the local public services 
+environment. We're discussing with the G-Cloud team how we can help to build 
+that service."
+
+He suggests that everyone involved regards it as a work in progress, and that 
+as it moves forward there will be increasing take-up.
+
+This indicates that it will need some more in the store and a degree of 
+familiarity before the service really takes off. Phil Pavitt sums up what needs 
+to be done before everyone fully understands the potential: "You have to see 
+these things, begin to use them, then find out."
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Guardian Government 
+Computing network here. 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+ 

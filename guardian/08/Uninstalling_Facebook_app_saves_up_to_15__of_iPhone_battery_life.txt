@@ -1,0 +1,87 @@
+
+Facebook is one of the most downloaded apps on iOS but it has long been cited 
+as a cause of fast-draining iPhone batteries 
+<https://www.theguardian.com/technology/2015/oct/19/facebook-iphone-users-battery-drain>
+. Last year it was accused ofusing background tricks to stay active 
+<https://www.reddit.com/r/iphone/comments/3kvfta/how_is_facebook_doing_so_much_background_activity/>
+ even when it wasn’t being used. Facebook admitted bugs existed,and fixed them 
+<https://www.facebook.com/arig/posts/10105815276466163>, but questions of the 
+app’s impact on battery life remained.
+
+Similar concerns about Facebook’s Android app led to the discovery that 
+deleting the app saves up to 20% of a phone’s battery 
+<https://www.theguardian.com/technology/2016/feb/01/uninstalling-facebook-app-saves-up-to-20-of-android-battery-life>
+. After that revelation, I set about seeing if the same was true for iPhone 
+users. I discovered that uninstalling Facebook’s iOS app and switching to 
+Safari can save up to 15% of iPhone battery life.
+
+
+
+
+
+
+
+
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F08%2Funinstalling-facebook-app-saves-iphone-battery-life%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F3f44a0f6d6bffb67bac12eb8addd866c713623fd%2F0_0_1702_1022%2F1702.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Uninstalling%20Facebook%20app%20saves%20up%20to%2015%25%20of%20iPhone%20battery%20life&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F08%2Funinstalling-facebook-app-saves-iphone-battery-life%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Uninstalling%20Facebook%20app%20saves%20up%20to%2015%25%20of%20iPhone%20battery%20life&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F08%2Funinstalling-facebook-app-saves-iphone-battery-life%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F3f44a0f6d6bffb67bac12eb8addd866c713623fd%2F0_0_1702_1022%2F1702.jpg>
+ An alternative to uninstalling Facebook is using the hump from Apple’sSmart 
+Battery case 
+<http://www.theguardian.com/technology/2015/dec/08/apple-iphone-battery-life-fix>
+. Photograph: Apple 
+Using an iPhone 6S Plus 
+<https://www.theguardian.com/technology/2015/oct/02/iphone-6s-plus-review-barely-better>
+ for a week without the main Facebook app installed, I recorded the battery 
+life at 10.30pm each day for a week comparing it to a daily average taken from 
+a week with the app. I charged the phone overnight, taking it off the charger 
+at 7.30am, and used it normally. I accessed Facebook for the same amount of 
+time, and for the same purposes, using the social network’s excellent mobile 
+site within Safari, as I had done using the app. I also left the Facebook 
+Messenger app installed.
+
+On average I had 15% more battery left by 10.30pm each day. I had also saved 
+space, because at the point I had deleted the Facebook app it had consumed 
+around 500MB in total combiningthe 111MB of the app 
+<https://itunes.apple.com/gb/app/facebook/id284882215?mt=8> itself and its 
+cache on the iPhone.
+
+To make sure that this wasn’t an isolated incident, I also recruited several 
+other Facebook-using iPhone owners to conduct a similar test. They all found 
+similar results, with increased battery life when using Facebook in Safari 
+having uninstalled the mainFacebook 
+<https://www.theguardian.com/technology/facebook> iOS app.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F08%2Funinstalling-facebook-app-saves-iphone-battery-life%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F553958f0a7300d637a176ee2f66e7edec5ff8dbd%2F0_1463_1241_745%2F1241.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Uninstalling%20Facebook%20app%20saves%20up%20to%2015%25%20of%20iPhone%20battery%20life&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F08%2Funinstalling-facebook-app-saves-iphone-battery-life%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Uninstalling%20Facebook%20app%20saves%20up%20to%2015%25%20of%20iPhone%20battery%20life&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Ffeb%2F08%2Funinstalling-facebook-app-saves-iphone-battery-life%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F553958f0a7300d637a176ee2f66e7edec5ff8dbd%2F0_1463_1241_745%2F1241.jpg>
+ Spot the difference: one is the Facebook app, the other the Facebook mobile 
+site. Photograph: Samuel Gibbs for the Guardian 
+Using Facebook in Safari was almost as good as the app. You can even place a 
+shortcut to Facebook in Safari on the homescreen that looks almost identical to 
+the app’s icon (the white is a little less bright but you need eagle eyes to 
+see). The only restriction was the Share-to function, which does not exist for 
+websites, meaning that to share photos I had to manually hit the “post photos” 
+button on the mobile site.
+
+Features of the app, such as Instant Articles, are also not available. Tapping 
+a link on the Facebook mobile site opens a new Safari tab.
+
+The results will vary for the smaller iPhone 6S 
+<https://www.theguardian.com/technology/iphone-6s>, as it has a smaller battery 
+and shorter battery life overall, but judging by the 6S Plus experience, 
+removing the Facebook app in preference of using the social network in Safari 
+will extend the battery life of any iPhone.
+
+A Facebook spokesperson said the company was investigating the matter. 
+
+ * iPhone 6S Plus review: barely better than the iPhone 6 Plus 
+<https://www.theguardian.com/technology/2015/oct/02/iphone-6s-plus-review-barely-better>
+
+ * Apple reveals iPhone battery life fix ... try not to laugh 
+<https://www.theguardian.com/technology/2015/dec/08/apple-iphone-battery-life-fix> 

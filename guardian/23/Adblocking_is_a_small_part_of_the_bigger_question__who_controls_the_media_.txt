@@ -1,0 +1,85 @@
+
+Those who make a living from producing journalism ought not to approve of 
+“adblocking” software, in the same way that chickens do not hold investment 
+portfolios of shares in Paxo and Bisto. So it was theoretically good news for 
+publishers (including the Guardian, probably) that culture secretary John 
+Whittingdale announced at last week’s Oxford Media Convention that he sees 
+adblocking as akin to a “protection racket” and would be urgently convening a 
+round table to look into it, which doesn’t exactly suggest the resounding smack 
+of firm government.
+
+There are several layers of irony here to excavate before getting to the heart 
+of the matter. Firstly, Brexit-tastic Whittingdale is campaigning against one 
+very helpful solution to adblocking - Europe. There are laws currently being 
+enacted in Europe to protect net neutrality which would almost certainly make 
+thescary prospect of mobile operators like 3  
+<http://fortune.com/2016/02/19/three-network-ad-blocking/>blocking all 
+advertising at network level illegal. Furthermore, you don’t have to spend very 
+much time talking to policy staff of the larger platform and telco companies to 
+know that potential European regulation is taken far more seriously than a 
+Whittingdale round table.
+
+Secondly, adblockers are used by people (voters AND readers) who don’t wish to 
+harm the news industry, but do wish to halve their mobile phone data bills; in 
+other words adblocking thrives because of a failure towards consumers. Forcing 
+people to consume advertising that strips their data and costs them money is 
+hardly a vote-winning strategy. And finally the Conservative government has, 
+through the BBC charter process, expended massive amounts of hot air and other 
+renewable energy sources in trying to undermine and dismantle the one British 
+media institution which cannot be weakened by adblocking.
+
+By using a major policy speech to raise this question, Whittingdale has at 
+least performed the service of putting several previously undiscussed, critical 
+questions about the future of the UK’s media industry on the table. How he 
+solves them is going to say a lot about the government’s real views on 
+protecting the interests of a strong and independent press.
+
+Adblocking <https://www.theguardian.com/media/ad-blocking> is alarming for 
+publishers, because their business models have become overly reliant on 
+intrusive advertising carrying heaps of tracking code which upsets users and, 
+more importantly, costs them more money (data) on their mobile phones. Seeing 
+annoying ads is essentially a bearable irritation; having to pay for something 
+you haven’t asked for is enough to motivate people to download adblocking 
+software. If adblocking becomes routine at network level as Israeli company 
+Shine’s deal with 3 would make it, then only publishers with special exemption 
+status would ever be able to show ads (hence Whittingdale’s protection racket 
+analogy).
+
+The right of consumers not to look at advertising has run straight into the 
+right of companies to advertise, and publishers to make money. Whittingdale has 
+said he wishes to convene a group including telecom companies and social media 
+platforms as well as publishers and advertisers. If he manages this, it would 
+be an opportunity to ask much bigger questions about control and access around 
+media.
+
+In the US certain publishers, such as the Washington Post, have experimented 
+with blocking people 
+<http://adage.com/article/digital/washington-post-test-blocking-people-ad-blockers/300304/>
+ who use adblockers from the rest of their site. The other options to avoid 
+adblocking include publishers putting their pages carrying advertising through 
+major platforms such as Facebook’s Instant Articles (Facebook, incidentally, 
+received significant pre-flotation funding from Horizon Ventures, the Li 
+Ka-shing vehicle which, having profited hugely from its Facebook investment, is 
+now funding Shine).
+
+Adblocking may be a pressing issue for publishers, but it is only a small 
+piece of a much larger puzzle about who controls news, information and access 
+to the mobile web, and therefore all publishing, revenue and audience on mobile 
+platforms. Last week I gave a talk in Cambridge, as a Humanitas visiting 
+lecturer, on why the increase in mobile use calls for a re-examination of the 
+whole media regulatory environment. In researching it I was surprised to find 
+almost no central policy work which has addressed what is a fundamental shift 
+in power in the media, not just in part of the market but across all of it.
+
+Ensuring we have informed democracies has always trailed some way behind 
+squaring the press as a political aim in formulating media policy. It is not 
+really possible to have a coherent view on adblocking without examining the 
+broader dynamics of information on the mobile web, or the part that companies 
+who lie outside telecoms carrier regulation, such as Apple, Google andFacebook 
+<https://www.theguardian.com/technology/facebook>, might play in it.
+
+And a point for publishers to remember could be this: if your business model 
+is totally reliant on something your readers and viewers abhor, then it might 
+be time to think about the sagacity of dismantling it, rather than getting John 
+Whittingdale to protect it.
+ 

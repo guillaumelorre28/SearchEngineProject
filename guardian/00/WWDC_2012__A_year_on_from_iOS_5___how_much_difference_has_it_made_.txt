@@ -1,0 +1,213 @@
+
+With Apple <https://www.theguardian.com/technology/apple> about to announce 
+iOS 6, the next version of its mobile operating system, it's useful to look 
+back at what was introduced in iOS 5 – and, more importantly, whether anyone is 
+actually using it. It's easy to announce software features that nobody really 
+uses so you can bulk up the marketing blurb. But does it stand the real-life 
+test?
+
+So here's what was announced in iOS5.
+
+Notifications
+
+Before this, iOS notifications were primitive - and easily outdistanced by 
+Android 2.x's set of information in the menu bar (which told you that there 
+were new emails, calendar events and Twitter or Facebook information).
+
+iOS 5's Notifications changed that dramatically: every app could now put 
+information – such as the content of tweets or the sender, or the subject line 
+and some content from an email, or the level of a stock, or the weather 
+forecast – into the menu bar, in your lock screen or only after the phone is 
+unlocked. It's a colossal improvement on the previous, intrusive iOS 
+notifications, which weren't were modal (ie you had to get rid of them) and 
+interrupted other tasks. The only place they now survive is in Mail, where if 
+there's no connection, you'll be told – even if you know and don't care.
+
+The granularity of iOS 5 notifications puts them miles ahead of anything 
+presently in Android; you can get an idea of what's going on without having to 
+jump between different apps, because only the latest information is brought to 
+the surface. In many ways, it's like Windows Phone's tiles, though that is 
+intended to give more of an "at a glance" view of what's happening. (I do like 
+Windows Phone's display of your next calendar appointment in the lock screen, 
+though it would be good to be able to configure whether that appears.)
+
+One thing that's annoying about iOS 5 notifications: if you unlock the phone 
+and go to an app, a procession of notiications will appear at the top, rolling 
+over the menu bar. If you're trying to do something with a menu item, it can 
+feel like swatting flies.
+
+How useful? 10/10
+
+How much used? 10/10
+
+Over-the-air (OTA) software updates
+
+An enormously important step forward - again, bringing iOS to the place where 
+Android already was. Except that Apple, because it controls the handsets, has 
+been able to push updates out much more aggressively than the combination of 
+handset makers and carriers – so that iOS 5 adoption leapt almost overnight 
+from zero to more than 80%, according to app developer statistics, and even 
+point updates (from 5.1.0 to 5.1.1) can gofrom zero to 30% in a matter of days 
+<http://david-smith.org/blog/2012/05/11/ios-5-dot-1-1-upgrade-stats/>.
+
+How useful? 10/10
+
+How much used? 10/10
+
+iCloud, iTunes Match, Photo Stream
+
+While iCloud is subtly different from OTA updates, it is part of the overall 
+shift away from the "PC tether" that moving into mobile means. Again, Android 
+was ahead with this, so that you could configure a new phone by signing in with 
+your Google account - upon which apps and calendars and email would all be 
+available. Apple matched that by letting you backup your phone to the cloud, 
+though you can still choose to sync it to a computer if you prefer. Meanwhile, 
+Photo Stream could sync photos taken on the phone to your Mac, via Wi-Fi. And 
+iTunes Match, while not part of the official WWDC announcements, is another 
+part of iCloud, using a music-matching service to let you get your music on any 
+signed-in iOS device. Android hasn't got that outside the US because of 
+licensing problems.
+
+Is iCloud popular? Well, by April, six months after launch, it had 125 million 
+users. A fresh number will probably be announced in the coming week at WWDC.
+
+How useful? 10/10
+
+How much used? 10/10
+
+iMessage
+
+This was Apple getting into the WhatsApp/BlackBerry Messenger field. It's like 
+SMS, but runs over the data connection, so it can be free and cheap. (A packet 
+data connection will often work slightly better than SMS.) It only works 
+between iOS 5 devices, and one puzzle is whether an iMessage gets sent to a 
+phone number, or to a login. It doesn't seem to have the world on fire in 
+Europe (iPhone penetration is far higher in the US), but it's difficult to 
+evaluate quite how much iMessage is actually used, especially when huge numbers 
+of SMSs are bundled into both PAYG and contract deals these days, and apps like 
+WhatsApp offer cross-platform "over the top" message sending.
+
+How useful? 7/10
+
+How much used? 3/10
+
+Newsstand
+
+A place for all your magazine and newspaper subscriptions to automatically 
+download and be kept together – in effect, a pre-prepared folder for 
+pre-prepared content. You may reply "what magazine and newspaper 
+subscriptions?" and for many people that might be the block. Perhaps if it came 
+pre-populated with content (a slot that no doubt would see publishers falling 
+over themselves to bid for) it might be more useful. Instead, Newsstand can be 
+confusing: you download something like the New Yorker app, and then wonder 
+where it is. Answer: hiding in plain sight in Newsstand.
+
+How useful? 3/10
+
+How much used? 3/10
+
+Reminders
+
+These sync with iCloud (on which more later), iCal and Outlook. You can also 
+set location-based reminders for the iPhone 4 and 4S. This latter is a good 
+idea, until you realise that it's going to suck your phone battery dry checking 
+your position as it waits for you to hit the location "fence" so it can remind 
+you. Generally, it's easier just to set a reminder for a particular time. The 
+Reminders app in general is functional, but the world is full of to-do lists, 
+as is the App Store. There's no golder bullet for it, which is why there will 
+always be reminder apps.
+
+How useful? 7/10
+
+How much used? 5/10
+
+Twitter integration
+
+iOS lacks (until this coming week?), while Android and Windows Phone do have, 
+the ability for apps to communicate between themselves and say what they can 
+do. So on Android the camera function can pass pictures to any apps that say 
+they can work with pictures – whether that's Facebook, Twitter, Flickr, a photo 
+editor, or whatever.
+
+Building in Twitter integration (notably to the camera app, but also to 
+Photos, Maps, Safari and YouTube; names in the Contacts could also pull in 
+Twitter avatars) is an important step forward. The fact that this was Twitter 
+rather than Facebook limits the breadth of its appeal (rumour is that the two 
+couldn't agree terms, not least on privacy settings), but it was also a 
+significant move to build the API for an outside company directly into the OS, 
+right down to the extent of including a hash tag on the top level of the 
+keyboard. For Twitter, it's certainly been all to the good.
+
+How useful? 8/10
+
+How much used? 9/10 (for things like tweeting photos)
+
+Camera
+
+Before iOS 5, if you wanted to take a photo, you had to unlock the phone and 
+then navigate to the Camera app and then take the photo. Result: lots of missed 
+photos. In iOS 5, you could access the camera directly from the lock screen by 
+pressing a camera icon (later revised to sliding the icon upwards). This put it 
+on a par with Windows Phone, which implemented the "pictures direct from lock" 
+first. Apple also grabbed the neat idea from the Camera+ app of letting you 
+take a photo with the "volume up" button – something that Camera+ was 
+previously banned from the App Store for doing.
+
+The camera app also got grid lines for composing shots (other OSs do that 
+too), pinch/pull to zoom out/in when composing, and tap-and-hold for focus and 
+exposure lock. For editing you also got crop, rotate and red-eye removal. The 
+changes to the Camera app were hugely important in getting the best use out of 
+the phone's camera.
+
+How useful? 10/10
+
+How much used? 10/10
+
+Mail updates
+
+Mail got text formatting, text indentation, message flagging, mass message 
+flagging (starred, read, unread) and custom mail sounds. If anybody was gasping 
+to be able to bold or underline mail messages, we certainly never noticed them.
+
+How useful? 5/10
+
+How much used? 5/10
+
+Calendar
+
+The iPad got a year view, while the iPhone/iPod Touch got a new week view. You 
+could also tap to create an event, and view and add event attachments. While 
+calendars are the bedrock of corporate life – where would people be if they 
+didn't know about their next meeting? – it's hard to make them enthralling, 
+sexy or easy to view when you're dealing with them on a mobile screen.
+
+How useful? 4/10
+
+How much used? 6/10
+
+Game Center improvements
+
+You could use personal photos; compare achievement scores with friends; find 
+new friends via their recommendations and their friends' recommendations. This 
+may be the sociai network Apple built which actually works, though it's very 
+hard to know quite how many people are on Game Center. The feeling from 
+developers is that in fact people use Facebook as their real game centre, so 
+this isn't so revolutionary as it might have seemed.
+
+How useful? 4/10
+
+How much used? 5/10
+
+There were a ton of other little things, principally of interest to developers 
+(unsurprisingly). But those are the headline ones. So if we tally them, we get 
+– in this totally subjective view of what iOS 5 brought to the experience:
+
+Overall, how useful? 78/110 (71%)
+
+Overall, how much used? 76/110 (69%)
+
+Is that good or bad? You decide.
+
+(Updated: corrected modal <https://en.wikipedia.org/wiki/Modal_window> to 
+non-modal in Notifications.)
+ 

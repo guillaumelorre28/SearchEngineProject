@@ -1,0 +1,59 @@
+
+
+
+Time for Rupert Murdoch to mobilise the lobbyists? Search engines would be 
+exempted in UK law from any liability for copyright infringement, under a 
+remarkable amendment (292) proposed to theDigital Economy Bill 
+<http://services.parliament.uk/bills/2009-10/digitaleconomy.html>.
+
+Conservative Lord Lucas is proposing a specific new clause so that…
+
+"Every provider of a publicly accessible website shall be presumed to give a 
+standing and non-exclusive license to providers of search engine services to 
+make a copy of some or all of the content of that website, for the purpose only 
+of providing said search engine services ...
+
+"A provider of search engine services who acts in accordance with this section 
+shall not be liable for any breach of copyright..."
+
+Lucas' amendment, Protection of search engines from liability for copyright 
+infringement", would rewrite the Copyright, Designs and Patents Act 1988.
+
+This could throw the cat amongst the pigeons on practices like aggregating MP3 
+deep links (for whichYahoo has been penalised even in China 
+<http://paidcontent.org/article/419-china-upholds-ruling-yahoo-music-site-breaches-copyright/>
+) - but would have the mostprofound impact on the ongoing issue of search 
+engines' ability to crawl news publishers articles...
+
+Indeed, it would, for example, give Google 
+<https://www.theguardian.com/technology/google> legal immunity with which to 
+index News Corp content, settling that thorny topic once and for all. But all 
+would not be lost for publishers who want to retain control. Lucas's amendment 
+does make provision…
+
+The presumption (of having an automatic license) may be rebutted by explicit 
+evidence that such a licence was not granted. Such explicit evidence shall be 
+found only in the form of statements in a machine-readable file to be placed on 
+the website and accessible to providers of search engine services.
+
+In other words, Google would be free to copy everything - but a publisher 
+blocking search spiders with a robots.txt file would be taken as withholding 
+that right. An explicit "fair use" provision, which Google often cites against 
+copyright-abuse claims,does not exist in UK law 
+<http://en.wikipedia.org/wiki/Copyright_law_of_the_United_Kingdom#Fair_dealing_and_other_exceptions>
+.
+
+The wide-ranging Digital Economy Bill, whose glitziest clauses ask ISPs to 
+warn subscribers accused of illegal downloading before throttling their 
+bandwidth or kicking them offline, is currently going through House Of Lords 
+committee stage.
+
+During its passage, individual representatives are trying to pin their 
+specific interests on to the bill. Butthere are opportunities for Lucas' 
+amendment to fail. If it fails to win peers' backing, Lucas may yet withdraw it 
+before the Lords decide on a version to pass to House Of Commons MPs, who may 
+themselves remove it if Lucas does not.
+
+It's one of 299 proposed amendments which are being heard in the Lords, with 
+the next such session on Tuesday.
+ 

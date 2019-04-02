@@ -1,0 +1,185 @@
+
+For hundreds of years, the common law has protected the confidentiality of 
+legal advice between lawyer and client.
+
+Safeguards were developed by judges in the late 18th and early 19th centuries, 
+although the origins of what is now called legal professional privilege (LPP) 
+can be traced back two centuries earlier.
+
+As Lord Chancellor Brougham said in 1833 
+<http://www.bailii.org/uk/cases/UKHL/1995/18.html>, its justification is not 
+hard to discover. If lawyers were not required to keep their advice 
+confidential, a potential client “would not venture to consult any skilful 
+person, or would only dare to tell his counsellor half his case”. Lord Chief 
+Justice Taylorconfirmed in 1995 
+<http://www.bailii.org/uk/cases/UKHL/1995/18.html> that LPP was “a fundamental 
+condition on which the administration of justice as a whole rests”.
+
+LPP is all the more important when a client is taking legal action against an 
+institution that may be allowed to see his or her correspondence.
+
+Many employers reserve the right to monitor staff emails. Prisoners’ letters 
+are read routinely by prison officers. But what they must not read are letters 
+to and from lawyers. And if they do see any correspondence relating to legal 
+action against themselves then, subject to very limited exceptions, they must 
+not communicate its contents to their own lawyers. What’s required are 
+information barriers between departments – so-called Chinese walls.
+
+These principles are well known. But they were not respected by the security 
+and intelligence services. Last month, MI5, MI6 and GCHQconceded that 
+<http://www.ipt-uk.com/docs/Belhadj_order_26Feb15.pdf> “from January 2010, the 
+regime for the interception/obtaining, analysis, use, disclosure and 
+destruction of legally privileged material has not been in accordance with the 
+law for the purposes of Article 8(2) of the European convention on human rights 
+and was accordingly unlawful”.
+
+Article 8 requires respect for a person’s private life and correspondence. The 
+governmentsaid the concession 
+<https://www.theguardian.com/uk-news/2015/feb/18/uk-admits-unlawfully-monitoring-legally-privileged-communications>
+ did not mean there had been any deliberate wrongdoing or prejudice to 
+proceedings. It added that the agencies were working to ensure their policies 
+would comply with the human rights convention in future.
+
+The agencies’ concession was made in connection with a case brought against 
+them by Abdel Hakim Belhaj, a Libyan opponent of the former Gaddafi regime, and 
+his wife Fatima Bouchar. The couple accuse British ministers and officials of 
+participating in their unlawful abduction, kidnapping and removal to Libya in 
+March 2004, while Gaddafi was still in power. Last October,the court of appeal 
+refused 
+<https://www.theguardian.com/law/2014/oct/30/judges-abdel-hakim-belhaj-call-government-bluff>
+ to let the UK government shelter behind what is called act of state doctrine. 
+The courts have also rejected the government’s proposed defence of state 
+immunity. However, ministers are appealing to the supreme court and a hearing 
+has been scheduled for November.
+
+Following disclosures to the Guardian by Edward Snowden 
+<https://www.theguardian.com/uk/2013/jun/21/gchq-cables-secret-world-communications-nsa>
+ in June 2013, Belhaj’s lawyers became concerned that privileged correspondence 
+with their clients might have been seen by lawyers advising the government. 
+They lodged a complaint with the Investigatory Powers Tribunal (IPT), a special 
+court established in 2000 to hear cases against the intelligence services. Last 
+November, the agencies disclosed their internal guidance 
+<https://www.theguardian.com/world/2014/nov/06/intelligence-agencies-lawyer-client-abdel-hakim-belhaj-mi5-mi6-gchq>
+. This allowed LPP material to be disclosed to those dealing with an operation 
+if, for example, there was an an “overriding intelligence requirement” or staff 
+were at risk from extremists. They also admitted that there had been a case in 
+which “the potential for tainting was identified”. So the agencies had to fess 
+up and concede that their policies did not protect privileged material.
+
+There were two issues for the IPT when the case returned to the tribunal last 
+week. First, hadGCHQ <https://www.theguardian.com/uk/gchq> unlawfully 
+intercepted communications between Belhaj and his lawyers? That was examined at 
+a closed hearing. Secondly, if there had been unlawful interception, what 
+remedy should the IPT provide? That question was considered at an open hearing 
+on Friday.
+
+The fundamental principle common to the intelligence agencies is that 
+individuals must never know whether their communications are being monitored. 
+So the agencies will neither confirm nor deny a specific operation. For this 
+reason, the statute that set up the IPTlimited its decisions 
+<http://www.legislation.gov.uk/ukpga/2000/23/section/68> to two choices: a 
+determination in favour of the applicant or a statement that no determination 
+has been made in the applicant’s favour.
+
+As the IPT explains <http://www.ipt-uk.com/section.aspx?pageid=4>, finding in 
+favour of the complainant means that the authority complained about has acted 
+unlawfully or unreasonably. But no determination in favour of the complainant 
+could mean one of two things: “either that the activity complained about 
+occurred but was properly authorised and conducted within the law or that it 
+did not occur”.
+
+Last week, counsel for GCHQ and the other agencies tried to persuade the 
+tribunal 
+<https://www.theguardian.com/uk-news/2015/mar/13/government-trying-keep-secret-spy-agencies-unlawful-conduct-ipt>
+ to rewrite these definitions. There could be no determination in an 
+individual’s favour – even if there had been unlawful interception – on the 
+basis that the system as a whole had been unlawful. The government’s 
+alternative suggestion would be to make a determination in the applicant’s 
+favour on the basis that privileged communications “might have been 
+intercepted”. Either way, the individual would be none the wiser.
+
+At the open hearing, Eadie argued that “no determination” could cover three 
+possibilities: no interception, lawful interception or interception that was 
+unlawful because it breached legal professional privilege.
+
+Told by Mr Justice Burton, the IPT president, that the tribunal would then be 
+hiding the true position from the public, Eadie replied that the public would 
+know that the IPT was acting in the public interest. But nobody seemed to find 
+this persuasive – not even Eadie himself.
+
+Belhaj’s counsel, Ben Jaffey, responded by quoting Lord Atkin’s famous wartime 
+protest <http://www.bailii.org/uk/cases/UKHL/1941/1.html> about against the 
+deliberate misreading of a statute. “I know of only one authority which might 
+justify the suggested method of construction. ‘When I use a word,’ Humpty 
+Dumpty said in rather a scornful tone, ‘it means just what I choose it to mean, 
+neither more nor less.’”
+
+The neither-confirm-nor-deny – NCND – principle is not regarded as absolute. 
+Eadie accepted that if legally privileged communications had been intercepted 
+in a way that had in fact given the government a substantial advantage in 
+litigation, then there would have to be a determination in favour of the 
+applicant and compensation would be payable.
+
+But what worries the agencies is that the forthcoming IPT ruling in this case 
+could allow individuals to find out whether their communications have been 
+intercepted. “Whilst a determination in favour of a non-controversial case may 
+cause limited damage of itself,” submitted Eadie, perhaps thinking of Belhaj, 
+“the tribunal must be alive to the possibility that such an approach would 
+significantly undermine national security if it was to be applied in cases 
+involving a national security target.”
+
+This is how GCHQ’s nightmare scenario plays out. At the moment, the would-be 
+terrorist does not know whether their communications are being intercepted. 
+Imagine that the IPT decides that Belhaj’s communications were being monitored 
+– which would come as no surprise, as Jaffey said – and that among his 
+intercepted communications was advice from his lawyers. Imagine, too, that 
+privileged material was retained but not passed to government lawyers defending 
+the agencies in his main claim for compensation. The mere fact that his 
+privileged communications were intercepted entitles him to a determination in 
+his favour. That causes, in Eadie’s words, “limited damage” to national 
+security.
+
+But the decision would open the door to hundreds or perhaps thousands of other 
+applications to the IPT. Buried among the fantasists would be terrorists who 
+had deliberately communicated with their lawyers using a variety of channels. A 
+series of determinations, both positive and negative, could allow terrorist 
+groups to work out which methods of communication were vulnerable to 
+interception and which were beyond the reach of GCHQ.
+
+Alarming though those consequences may be, they cannot justify a dishonest 
+finding by the IPT. If the tribunal finds that Belhaj has been the victim of 
+unlawful interception since 2010 it must say so – though in accordance with its 
+rules it should not provide any details that would disclose GCHQ’s capabilities.
+
+Any attempt to fudge the issue would not only be damaging to the reputation 
+that the IPT is slowly building for itself. It would also jeopardise the UK’s 
+only defence against interception challenges at the European court of human 
+rights. Claims that the IPT does not provide a fair hearing and aneffective 
+remedy were dismissed 
+<http://hudoc.echr.coe.int/sites/eng/pages/search.aspx?i=001-98473> by the 
+Strasbourg court in 2010. Britain would be vulnerable to further challenges if 
+the IPT made no determination in a case where it had found unlawful 
+interception.
+
+How, then, are the conflicting interests of GCHQ and the IPT to be resolved? 
+First, by introducing new interception codes of practice that comply with 
+article 8: drafts are currentlyout for consultation 
+<https://www.gov.uk/government/consultations/interception-of-communications-and-equipment-interference-draft-codes-of-practice>
+. That should reduce the chances of further breaches.
+
+And, secondly, by provisions in the new intelligence services bill recommended 
+last week by parliament’s intelligence and security committee. If it really is 
+vital to national security that “no determination” should be extended to 
+include cases where the illegality was confined to breaches of LPP but no 
+advantage was gained by the agencies in litigation, then that is what the 
+legislation should say. That would avoid the nightmare scenario while ensuring 
+that IPT can continue to uphold the law.
+
+We rely on the security and intelligence services to protect us against the 
+threat of terrorism. The more successful they are, the less we imagine we need 
+them. We also expect them them to track down those who entice would-be jihadi 
+teenagers to join Islamic State.
+
+So the agencies must be allowed to protect their methods. But, as they would 
+be the first to accept, they must also obey the law.
+ 

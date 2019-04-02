@@ -1,0 +1,89 @@
+
+October’s flash crash in the pound 
+<https://www.theguardian.com/business/live/2016/oct/07/flash-crash-in-pound-spooks-investors-business-live>
+ – when the currency nosedived by 9% against the dollar in Asian trading hours 
+– was caused by a combination of inexperienced traders, algorithmic trading and 
+complex trading positions,according to an official report 
+<https://www.bis.org/publ/mktc09.htm>.
+
+No single factor caused the dramatic moves 
+<https://www.theguardian.com/business/2016/oct/07/confusion-as-pound-falls-10-in-insane-asian-trading-and-no-one-knows-why>
+ which compounded the weakness of sterling after the Brexit vote, the 
+international banking body, the Bank for International Settlements, said.
+
+Other factors such as “fat finger” errors and potential market abuse cannot be 
+ruled out, but there is little, if any, hard data to substantiate them, the 
+report added.
+
+What caused the pound's flash crash?
+ Read more  
+<https://www.theguardian.com/business/2016/oct/07/what-caused-pound-flash-crash-brexit-fallen-sterling>
+The actions of individual participants, who are not identified, may have 
+helped perpetuate the fall, as did the derivatives trading positions placed in 
+the market. Some traders halted activity for as long as 30 minutes, including 
+the black box algorithmic trading which does not rely on individuals to place 
+orders.
+
+Some of the trades made as sterling plunged to as low as $1.1491 – down from 
+$1.26000 – just after midnight on 7 October were later cancelled, the BIS 
+report said.
+
+“Whatever the cause of the initial selling in sterling, the market was likely 
+to be vulnerable at that time of day to sharp moves and an associated 
+withdrawal of liquidity,” the report said.
+
+Bank of England governor Mark Carney, who asked the BIS to investigate, said 
+it was vital that lessons were learned from the incident, which drove the pound 
+to the lowest level since March 1985.
+
+“The report finds that there were no material losses incurred by systemic 
+financial institutions, large volumes were transacted around the event window 
+despite the illiquid time of day, and spillovers to other markets were very 
+limited,” said Carney.
+The pound's fall during October's flash crash 
+<https://interactive.guim.co.uk/charts/embed/oct/2016-10-07T08:20:22/embed.html>
+ The pound’s fall during October’s flash crash 
+The report breaks down the event into three stages. First, just after 
+midnight, for a period of only eight seconds (00:07:03 to 00:07:11) sterling 
+fell from $1.2600 to 1.2494. About £252m of pound-dollar trades and €52m (£42m) 
+of euro-pound trades took place on the Reuters platform.
+
+
+Second, at 00:07:15, the Chicago Merchantile Exchange triggered its velocity 
+logic mechanism, which pauses trading for 10 seconds on the futures exchange. 
+Around this time, it become more difficult to find a price for the pound on the 
+currency markets as there were not enough “bid” offers, which would have 
+cushioned its falls. This was an “unusual phenomenon”, the report said.
+
+By 00:07:15 the pound was at $1.24 and “gapping between trades” to slide to 
+$1.1491 at 00:07:41, a 9% fall. Those were the prices quoted by Reuters and the 
+report noted that the currency traded lower on other trading platforms.
+
+In the third phase, the pound began to recover and was 2.2% down against the 
+dollar by 00:20:00.
+
+The event took place amid thin trading and during a public holiday in China. 
+which also meant big players may not have been in the market. A survey of 12 of 
+the most active dealers showed that the lack of buy orders may have been caused 
+by trading positions already in place.
+
+The time of day meant that traders were less experienced in sterling markets. 
+“Such individuals were likely to have had lower risk limits and risk appetite, 
+and may have had less expertise in the suitability of particular algorithms for 
+the prevailing market conditions,” the report said.
+
+
+“Evidence in the UK also suggests that some traders’ participation during the 
+event may have been constrained as a result of concerns around potential market 
+and conduct risks associated with trading in illiquid markets away from 
+previous prevailing price levels. Both factors could have exaggerated the speed 
+and dysfunctional nature of the price movement.”
+
+
+As the slide coincided with a Financial Times story saying French president 
+François Hollande was calling for a hard Brexit 
+<https://www.ft.com/content/5f84e4c4-8c17-11e6-8aa5-f79f5696c731>, this had 
+been cited as a potential cause. However, the report said this “is only likely 
+to have added marginal weight to the move as it did not contain new 
+information”.
+ 

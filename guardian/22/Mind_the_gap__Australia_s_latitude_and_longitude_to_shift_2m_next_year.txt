@@ -1,0 +1,73 @@
+
+Hold on, everyone: Australia’s on the move, with its latitude and longitude 
+due to shift nearly 2m early next year.
+
+The continent moves about 7cm north-north-east every year because of the 
+movement of theEarth’s tectonic plates 
+<https://www.theguardian.com/science/2015/oct/11/plate-tectonics-continental-drift>
+.
+
+But it means a gap between Australia’s latitude and longitude as it is shown 
+on local coordinates, which move with their local continent – and global 
+coordinates, which don’t.
+
+The moving story of plate tectonics
+ Read more  
+<https://www.theguardian.com/science/2015/oct/11/plate-tectonics-continental-drift>
+The latitude and longitude given by modern global navigation satellite 
+systems, such as GPS, are fixed to the rest of the world and as such offset as 
+the Australian continent drifts over time.
+
+The Geocentric Datum of Australia 
+<http://www.ga.gov.au/scientific-topics/positioning-navigation/geodesy/geodetic-datums/gda>
+, the country’s local coordinate system, was last updated in 1994, and 
+Australia is now about 1.5m further north-north-east (or, to give the metric 
+used in a BBC infographic:about the height of a kangaroo 
+<http://www.bbc.com/news/technology-36912700>).
+
+Daniel Jaksa of Geoscience Australia <http://www.ga.gov.au/>, the body 
+responsible for mapping the continent, told Guardian Australia the shortfall 
+between the two systems would be addressed with an upcoming change.
+
+“We’re working on moving Australia’s latitude and longitude to reflect our 
+actual position in the world.”
+
+Australia will shift its longitude and latitude by 1.8m in the direction of 
+its tectonic motion from 1 January 2017, with the overcorrection meaning the 
+local and global coordinates will align in 2020. Similar corrections were made 
+in 1966, 1984 and 1994.
+
+“This is the fourth time we’ve done this in the last 50 years,” Jaksa said. 
+“The thing we’re doing differently here is we’re putting the lines of latitude 
+and longitude further north-north-east to where Australia will be in January 
+2020.”
+
+This means the update will remain current for longer.
+
+Every nation does updates of this sort but Australia is located on the 
+fastest-moving continental tectonic plate, which means more regular activity.
+
+Jaksa said the fact the global coordinates did not reflect tectonic motion 
+could have negative impacts for any technology that used that data – for 
+example, in the future, self-driving cars.
+
+Geologists solve tectonic plate mystery with half a tonne of explosives
+ Read more  
+<https://www.theguardian.com/science/2015/feb/05/geologists-solve-tectonic-plate-mystery-with-half-a-tonne-of-explosives>
+“[The coordinates] we find in Australia for GPS are actually different to the 
+local ones. It’s a problem for us when we want to integrate local mapping 
+information with global systems like Google Maps or Apple Maps used on 
+smartphones.
+
+“It’s not just self-driving cars, it’s self-driving tractors, mining equipment 
+– drones going around delivering pizzas that are currently being developed.”
+
+Accurate, consistent data was also important for scientific investigation, 
+Jaksa noted – “not just everyday mapping”.
+
+He was hopeful the 2017 adjustment would be the last update of its kind, as 
+Geoscience Australia eventually aims to move to a dynamic system that measures 
+real-world coordinates by using the velocity of points on the continent.
+
+“That will require quite a bit of technology change and innovation.”
+ 

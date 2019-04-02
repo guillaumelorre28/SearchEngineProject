@@ -1,0 +1,135 @@
+
+Post- Citizens United, the political world is awash in cash and distinguishing 
+between scandalous-but-legal and illegally scandalous attempts by the wealthy 
+to influence public officials is becoming increasingly difficult. On Friday, 
+the US supreme courtagreed to hear a case 
+<https://www.washingtonpost.com/politics/courts_law/supreme-court-will-review-corruption-conviction-of-former-va-governor-robert-mcdonnell/2016/01/15/e281ede0-b3c8-11e5-a76a-0b5145e8679a_story.html>
+ in which a former elected official, convicted of taking extravagant gifts to 
+influence policy, now argues that because he failed to deliver on his promises 
+to the person trying to corrupt him, he isn’t guilty of corruption.
+
+The case in question is that of former Republican Virginia governor Bob 
+McDonnell who in 2014 was convicted of 11 charges related to federal 
+anti-corruption statutes. (His wife Maureen McDonnell was convicted of 8 in the 
+same case). I don’t have a great deal of sympathy for McDonnell, whoaccepted 
+large amounts of money from someone clearly seeking political influence 
+<http://www.slate.com/articles/news_and_politics/jurisprudence/2012/02/virginia_governor_bob_mcdonnell_will_sign_a_revised_ultrasound_law_that_is_as_bad_as_the_old_one_.html>
+ while also enacting repugnant policies. But he has a decent chance of winning 
+– and, should he prove successful, it’s fair to say that Americans concerned 
+with the corrupting influence of money in politics should be even more 
+concerned.
+
+The McDonnells’ story started in a place many Americans will be familiar with: 
+crushing debt. When he took office in 2010, McDonnell and his wife had 
+accumulated $90,000 in credit card debt and owed another $2.5m in bank loans. A 
+partial solution to their problems came in the form of a guardian angel named 
+Jonnie Williams, who wanted various forms of government support for his 
+attempts to market a supplement called Anatabloc. He became a political 
+contributor to McDonnell, but also a major personal benefactor to the governor 
+and his wife.
+
+Starting with a dinner that included a $5,000 bottle of cognac and promises of 
+an inaugural gown designed personally by Oscar de la Renta, Williams began to 
+ply the McDonnells with an array of lavish gifts. According to Williams, at one 
+point he agreed to loan Maureen McDonnell $65,000 to apply to debts and 
+expenses for her daughter’s wedding, in exchange for the governor’s help with 
+his nutritional supplement business. Later that month, Williams covered a more 
+than $2,000 golf club tab for the governor, his sons and future son-in-law – 
+one of many large gifts he would continue to bestow on the entire McDonnell 
+family. Eventually, the value of Williams’ gifts added up to nearly $180,000.
+
+Had McDonnell took direct action on behalf of Williams, there would be no 
+serious question that he violated corruption statutes. What made the case 
+tricky, as Slate’s Dahlia Lithwick put it 
+<http://www.slate.com/articles/news_and_politics/jurisprudence/2014/09/gov_bob_and_maureen_mcdonnell_convictions_legal_defense_was_full_of_lies.html>
+, is that it was “never perfectly clear that the prosecutors found the quid to 
+the pro quo.”
+
+The prosecution presented convincing evidence that Maureen McDonnell had made 
+promises to Williams in exchange for money, but less evidence that her husband 
+had followed though on those promises. The prosecution argued that the 
+McDonnells colluded to take the money from Williams in exchange for favors; 
+McDonnell’s defense was that the governor did not collude with his wife, with 
+whom he alleged he was estranged. The jury bought the prosecution’s version of 
+events.
+
+Admittedly, as a jaded resident of New York’s beautiful state capital, Albany, 
+this scandal seems rather penny-ante. Where arethe multi-million dollar 
+kickback schemes 
+<https://www.theguardian.com/us-news/2015/nov/30/sheldon-silver-convicted-corruption-new-york-political-powerbroker>
+? Where arethe no-work jobs for idiot sons 
+<http://www.nytimes.com/2015/12/12/nyregion/dean-skelos-adam-skelos-guilty-corruption-trial.html?_r=0>
+?
+
+Still, the fact that McDonnell is not quite in Sheldon Silver or Dean Skelos’s 
+class as a political criminal doesn’t mean that his behavior wasn’t illegal. A 
+jury thought so, and the 4th Circuit Court of Appeals upheld his conviction 
+unanimously. But theUS supreme court 
+<https://www.theguardian.com/law/us-supreme-court> has agreed to consider three 
+related issues in his case, all of which have ramifications that could affect 
+future political corruption prosecutions.
+
+The first argument McDonnell’s attorneys will be making is that the actions 
+for which he was convicted were not actually covered by the laws under which he 
+was convicted: thehonest services fraud ban 
+<https://jenner.com/system/assets/publications/10293/original/CrimLit_Fall10_honest.pdf>
+ andthe Hobbs Act 
+<http://www.justice.gov/usam/usam-9-131000-hobbs-act-18-usc-1951>. McDonnell’s 
+argument 
+<http://www.scotusblog.com/wp-content/uploads/2015/10/mcdonnell-op-below.pdf> 
+is that these laws cover only “exercising actual governmental power, 
+threatening to exercise such power, or pressuring others to exercise such 
+power” but, because the jury was not so instructed, his convictions should be 
+thrown out. Given the facts of the case – that McDonnell didn’t even try to do 
+anything that Williams wanted him to do – it would have been difficult to 
+convict McDonnell under that definition of the statute.
+
+But, if the court declines to define the laws more narrowly, McDonnell’s 
+argument is that the laws themselves should be ruled unconstitutional.
+
+The line of reasoning most likely to win would be that defining the statute as 
+broadly as it was – that essentially convicting him of taking bribes he had no 
+intention of honoring with action – makes the law itself unconstitutionally 
+vague. And, convicting someone of a crime if the statute does not make clear 
+which activities will be illegal does violate the due process clause of the 
+Fifth Amendment.
+
+That argument may well get him somewhere with the justices: in 2010, the 
+disgraced Enron executive Jeffrey Skilling had his sentence reduced because the 
+US supreme court unanimously concluded 
+<https://www.law.cornell.edu/supct/html/08-1394.ZO.html> that the honest 
+services statute was unconstitutionally vague as applied to any conduct except 
+participating in bribery and kickback schemes. The court may well conclude that 
+applying federal fraud statutes to cases where the “quid” is not met with a 
+clear “pro quo” is unconstitutional – that taking gifts which the giver intends 
+as an inducement to political action when the recipient has no intention of 
+following through isn’t actually corruption.
+
+A final approach for McDonnell could be to argue that the Hobbs Act is 
+unconstitutional on federalism grounds or that, since the gift-giver was only 
+intending to influence state policy, any actual crime would be a matter for the 
+states to prosecute and not the federal government. Some conservatives have 
+previously argued that the Hobbs Act exceeded the power of the federal 
+government under the commerce clause, and, in a 1999 case 
+<http://www.crimeandfederalism.com/2004/05/united_states_v.html>, the 5th 
+Circuit Court of Appeals split 8-8 on the question.
+
+McDonnell may not pursue the last argument with any vigor or attract attention 
+from the court with it, since the liberal justices on the court are unlikely to 
+side with him on it – though don’t rule out the possibility that the Roberts 
+Court would use McDonnell’s case as a vehicle to put further limits on federal 
+power.
+
+Still, if McDonnell wins, the US supreme court will essentially have ruled 
+that politicians can accept unlimited gifts – in the McDonnells’ case, they 
+took cash, lavish outings, rides on his personal jet and all kinds of luxury 
+goods – from donors and other people who seek to influence policy and, as long 
+as they don’t follow through on changing policy, it’s perfectly legal to take 
+the gifts.
+
+Most Americans would define that as corrupt; the US supreme court, which has 
+already allowed the wealthy to spend unlimited money to elect the politicians 
+of their choosing without the barest of disclosures, may decide that it’s just 
+business as usual.
+
+ 

@@ -1,0 +1,117 @@
+
+Imagine you’re a doctor in Swindon and a patient with a chewing tobacco habit 
+turns up with unusual tongue lesions. What if you could, at the press of a few 
+buttons, locate and get instant advice from the Mumbai-based world expert on 
+cancers related to chewing tobacco?
+
+This is the vision for a new app which aims to transform the way in which 8.5 
+million doctors around the world share their knowledge and skills.
+
+Sharing economies are here to stay
+ Read more  
+<https://www.theguardian.com/sustainable-business/behavioural-insights/sharing-economy-sustainable-alternative-economics>
+MDLinking – an expert directory, instant messaging service and video source – 
+began trialling a beta version for iPhones in May this year and aims to launch 
+its full Apple and Android versions before 2017.
+
+The Dutch startup, which has €2.5m of seed funding, has several hundred 
+testers in theNetherlands <https://www.theguardian.com/world/netherlands>, 
+4,000 registered doctors so far and is in talks with organisations including 
+Médecins Sans Frontières and the Aga Khan Development Network (AKDN) about 
+using its free software.
+
+“The original idea was that if doctors worldwide connect with each other and 
+share knowledge, healthcare will improve on a global level” says Alec Behrens, 
+co-founder of Booking.com and founding partner of MDLinking.
+
+Instant messaging 
+
+Many doctors are already using instant messaging tools to discuss patient cases
+ <http://innovations.bmj.com/content/early/2015/10/08/bmjinnov-2015-000062.full>
+. A 2015 survey found more than 30% of doctors surveyed said they were sending 
+patient related information over services such as WhatsApp.
+
+Vascular surgeon Hans Flu, co-founder of MDLinking, came up with the idea for 
+the secure healthcare network when he realised just how much his colleagues 
+were using WhatsApp. He hadprivacy concerns 
+<http://www.dutchnews.nl/news/archives/2016/02/whatsapp-is-not-secure-enough-for-patient-info-privacy-watchdog/>
+ over the app and worried about its plans toshare account information 
+<https://www.theguardian.com/technology/2016/aug/25/whatsapp-to-give-users-phone-number-facebook-for-targeted-ads>
+ with parent company Facebook.
+
+Ultimately, however, Flu wants to find a solution to what he sees as the big 
+problem in the medical world: communication. “If you communicate badly, the 
+patient’s going to suffer, and this is a key element that everyone can improve. 
+This is a tool developed by medical doctors, for medical doctors, that is free.”
+
+As well as being a directory and secure instant messaging tool (it only 
+accepts vetted medical professionals), the start-up is using virtual reality 
+technology to record operations from multiple viewpoints, to form an 
+interactive teaching tool – especially for countries where operating theatres 
+are scarce.
+ Dr Hans Flu, co-founder of MDLinking Photograph: Hans Flu 
+Gijs Walraven, director for health at AKDN – which operates a non-profit, 
+private healthcare system in developing world communities – is interested in 
+collaborating with the MDLinking tool.
+
+“AKDN’s work in health is mainly in sub-Saharan Africa, central and south 
+Asia,” he says. “In these countries, there are fewer medical doctors and they 
+have much more limited opportunities to consult with colleagues on difficult 
+cases as well as to [access] education. New ways to interact at a distance and 
+in a secure manner could play a very important role to improve this.
+
+“Learning new operating techniques and how to better diagnose using the 
+innovative video techniques that MDLinking is developing could be a real 
+breakthrough.” And it works both ways, he says: “Healthcare providers in rural 
+settings in Afghanistan have knowledge and skills that could be beneficial to 
+health practitioners in London.”
+
+Teaching by virtual reality 
+
+Dr Gijs van Acker, a surgeon at Medisch Centrum Haaglanden hospital in the 
+Netherlands, first created teaching videos for his vascular surgery website a 
+decade ago. “One of my residents was Hans Flu, and when he started MDLinking I 
+said, ‘You need something that’s educational’. We wanted to make something more 
+intuitive than 2D films,” he says.
+
+They came up with virtual reality combined with the view-selection interface, 
+allowing users to flick to different sections of the operation. Traditional 
+teaching methods can’t compete, according to van Acker, who says that dead body 
+tissue loses its colour, so isn’t the same teaching experience, while students 
+observing actual operations are often distracted by nerves.
+
+He has recorded four 3D operations for MDLinking so far and – thanks to a 
+partnership <http://www.samsung.com/nl/discover/dscvr/app-vr-operatie/> 
+providingSamsung <https://www.youtube.com/watch?v=8KrH88OiJyE> equipment – 
+these are viewable via mobiles and virtual reality headsets.
+
+As the app is free, the business plans to raise revenue by broadcasting 
+sponsored medical conference content and acting as a recruitment site for 
+international medical placements. It wants to establish video centres in 
+different places around the world using tools and facilities available there – 
+for example, treating appendicitis in remote Africa.
+
+Kiran Jobanputra, deputy head of the Manson Unit at Médecins Sans Frontières 
+in London, says the organisation is looking into MDLinking as it develops a 
+medical IT strategy. “Until something is piloted and evaluated, it is hard to 
+say, but I do see potential in this app,” he says. “Having been a field doctor, 
+I came up against huge difficulty getting access to information, particularly 
+relevant technical advice.”
+
+He says MSF medical experts at the London HQ and its telemedicine 
+<https://telemed.msf.org/msf/index.php> platform have time, context and 
+connectivity limitations. “MSF clinicians are using WhatsApp groups of 
+colleagues to get rapid, relevant advice – although it’s not an official MSF 
+tool, and some people in the organisation might not agree with it,” he says. 
+“That MDLinking ‘LinkedIn’ function to join or create a new group of people 
+happy to give their opinion, with regional experience, has huge potential.
+
+“I suspect the educational content will still require connectivity of too high 
+bandwidth. We’re not testing MDLinking at the moment but if it comes on to 
+Android, which is the main smartphone operating system in the contexts we work 
+in, we probably will.
+
+“The sharing economy isn’t new – in our medical studies we are taught ‘see 
+one, do one, teach one’ – but barriers to sharing information are getting 
+lower.”
+ 

@@ -1,0 +1,151 @@
+
+Earlier today I set you the following three puzzles 
+<https://www.theguardian.com/science/2016/nov/21/can-you-solve-it-do-you-cut-cake-correctly>
+:
+
+1.You have a square cake, and four friends. How do you divide the cake into 
+five slices of equal size? Each slice must be slice-like, meaning that the 
+knife cuts vertically and the tip of each slice is at the centre of the cake. 
+You have no ruler or tape measure, but you can use the horizontal grid here.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F02372ec133e52fd03b7a82e8f44fe6babcf436dd%2F630_311_1099_660%2F1099.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F02372ec133e52fd03b7a82e8f44fe6babcf436dd%2F630_311_1099_660%2F1099.jpg>
+SOLUTION
+
+The solution is for each slice to have the same amount of the perimeter of the 
+cake. (It’s essentially the same answer as dividing a circular cake into five 
+slices). Since the perimeter of the cake is 20 units (as marked by the grid ), 
+then each of the five slices must have 4 units of edge. So, choose a point on 
+the perimeter and then mark all the other points four units along:
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fc4046422836a81b89c1e081818ca1e9ec8db2f18%2F582_282_1178_707%2F1178.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fc4046422836a81b89c1e081818ca1e9ec8db2f18%2F582_282_1178_707%2F1178.jpg>
+When you slice from the centre to each point you are left with five equally 
+sized slices. You may have been trying to find five slices that had the same 
+shape - but the question did not ask for that. The slices look different, but 
+contain the same amount of cake.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2F9c379f418a45a9591a70458f4fbc2da8301209e7%2F617_311_1106_664%2F1106.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2F9c379f418a45a9591a70458f4fbc2da8301209e7%2F617_311_1106_664%2F1106.jpg>
+We know that the slices are of equal size because the area of each slice is 
+either a triangle, or the combination of two triangles (as shown below). The 
+area of a triangle is half the base times the height. The triangles that make 
+up the slicesall have the same height, which is the perpendicular distance from 
+the perimeter to the centre (in this case 2.5units). If the slice is a single 
+triangle the base length is 4, and if the slice is two triangles, the two base 
+lengths add up to 4. So the area of all slices is the same.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2F5231b87691c2d52b04bef193e0b342a434de611b%2F603_294_1143_686%2F1143.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2F5231b87691c2d52b04bef193e0b342a434de611b%2F603_294_1143_686%2F1143.jpg>
+(If you don’t believe me we can do the calculations here: the triangle slices 
+have area 1/2 x 4 x 2.5 = 5. The area of the bottom left and top right slice is 
+(1/2 x 1 x 2.5) + (1/2 x 3 x 2.5) = 5. The area of the bottom right slice is 2 
+x 1/2 x 2 x 2.5 = 5.)
+
+In fact, the solution works for every possible whole number of slices of cake. 
+If you want to slice a cake into 7 or 9 orn  slices, divide the perimeter of 
+the square cake into 7 or 9 orn equal lengths.
+
+2. You have a rectangular cake, and two friends. One of your friends (the 
+annoying one) just cut herself a rectangular slice, as below. Show how to 
+divide what’s left into two portions of equal size.
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-6%23img-6&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fb52d33ab997e41f4e061e9ff9789bd210a3fb79f%2F0_4_799_479%2F799.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-6%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3Fpage%3Dwith%3Aimg-6%23img-6&media=https%3A%2F%2Fmedia.guim.co.uk%2Fb52d33ab997e41f4e061e9ff9789bd210a3fb79f%2F0_4_799_479%2F799.png>
+SOLUTION
+
+The piece of insight needed to solve this one is to realise that any straight 
+line through the centre of a rectangle divides the rectangle into two parts of 
+equal area.
+
+Consider the cake before the friend ate the rectangular slice. Any slice 
+through the centre of the cake will divide it into two equal portions. Now 
+consider what happens after the friend ate the slice. If the cake is cut so 
+that it goes throughboth the centre of the cake and the centre of the slice, as 
+below, the cut will again divide the cake into two equal portions. This is 
+because the gap left by the eaten slice is also split in two, meaning that the 
+area of each of the two equal portions by will be reduced by the same amount, 
+and thus remain of equal size. Although, of course, they do not have the same 
+shape, and one of the portions is made of two pieces.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-7%23img-7&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fcfc803c79e6bccb0848be721add8672b313ba249%2F79_53_787_472%2F787.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-7%23img-7>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3Fpage%3Dwith%3Aimg-7%23img-7&media=https%3A%2F%2Fmedia.guim.co.uk%2Fcfc803c79e6bccb0848be721add8672b313ba249%2F79_53_787_472%2F787.png>
+3. You have a circular cake. You sprinkle exactly 100 hundreds and thousands 
+on the cake. These aremathematical hundreds and thousands, meaning that each 
+one is a single point with no length or width. Show how it is always possible 
+to slice the cake into two with a single cut of the knife so that each slice 
+has exactly 50 hundreds and thousands on it.You can assume that the surface of 
+the cake is perfectly horizontal.
+
+
+SOLUTION
+
+The solution is theoretical - it gives you a method to find the slice, 
+although in practice it will be very difficult to do!
+
+(I should have clarified that no single hundred and thousand sits on another 
+hundred and thousand. And also, for non-Brits, a hundred and thousand is a 
+sprinkle.)
+
+The first step is to imagine every single line that goes through any two of 
+the hundreds and thousands. The next step is to select any point on the same 
+horizontal plane as the hundreds and thousands that liesoutside the cake and 
+not on any of these lines.
+
+Draw a line through this point that just misses the cake, as below, and then 
+rotate this line clockwise around the point like the hand of a clock. The line 
+will hit the cake, and then slowly as you move it across the cake it will cross 
+a single hundred and thousand, and then two, etc, eventually crossing 50 of 
+them. At this point the line is where you should cut the cake. Since you chose 
+a point not on the same line as any two hundreds and thousands, the rotating 
+line will never cross two hundreds and thousands at the same time.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-8%23img-8&picture=https%3A%2F%2Fmedia.guim.co.uk%2F7799883e3f2d554787cb093b00135ca4e7a22c05%2F21_57_954_572%2F954.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-8%23img-8>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3Fpage%3Dwith%3Aimg-8%23img-8&media=https%3A%2F%2Fmedia.guim.co.uk%2F7799883e3f2d554787cb093b00135ca4e7a22c05%2F21_57_954_572%2F954.png>
+I hope you enjoyed the puzzles. Now I’m off to celebrate my birthday.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-9%23img-9&picture=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-9%23img-9>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Did%20you%20solve%20it%3F%20Do%20you%20cut%20cake%20correctly%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F21%2Fdid-you-solve-it-can-you-cut-cake-correctly%3Fpage%3Dwith%3Aimg-9%23img-9&media=https%3A%2F%2Fmedia.guim.co.uk%2F2e053d19d26ad5fdb78374ffd961eb5a85bec96f%2F0_0_1843_2409%2F1843.jpg>
+I set a puzzle here every two weeks on a Monday. If you would like to suggest 
+a puzzleemail me <mailto:bellospuzzle@gmail.com>.
+
+My latest book Can You Solve My Problems? A Casebook of Ingenious, Perplexing 
+and Totally Satisfying Puzzles is just out. It contains my favourite puzzles 
+from the last 2000 years, along with historical, biographical and mathematical 
+background. Simon Singhreviewed it here 
+<https://www.theguardian.com/books/2016/nov/06/can-you-solve-my-problems-alex-bellos-review-puzzles-anthology-history>
+. Available fromthe Guardian Bookshop 
+<https://bookshop.theguardian.com/can-you-solve-my-problems.html?utm_source=editoriallink&utm_medium=merch&utm_campaign=article>
+ andother retailers <http://amzn.to/2g4np1l>.
+
+You can check me out on Twitter <https://twitter.com/alexbellos>, Facebook 
+<https://www.facebook.com/pages/Alex-Bellos/326738482347?ref=bookmarks>, Google+
+ <https://plus.google.com/u/0/100349853927591455618/posts>, my personal website 
+<http://www.alexbellos.com/> or my Guardian maths blog 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>.
+ 

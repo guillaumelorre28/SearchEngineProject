@@ -1,0 +1,154 @@
+
+Over the last few weeks we’ve been rebuilding and redesigning the navigation 
+on our next generation website.
+
+
+The user goals we identified were:
+
+
+ * Giving you an easy way to get back to the homepage from any area of the site
+ * Signposting where you are within the site structure 
+ * Providing paths to the top-level and sibling sections 
+While doing so, we also had to make sure it’s feasible, downloads 
+in-an-instant and maintains a high level of visual identity and clarity for the 
+Guardian site.
+
+
+Who is the navigation for?
+
+We have a massive range of different devices and browsers accessing the 
+Guardian website. Mobiles and tablets can tip over 50% at times (and growing), 
+but on average over the week we see a 60-40% desktop/mobile visit split.
+
+
+There are also a mix of users who have differing familiarity with the Guardian 
+brand. Those who are daily visitors are well aware of the diverse content we 
+offer. However, a large proportion are on their first or second visit, 
+particularly outside of the UK, and land directly on article pages.
+
+
+For these users it is particularly important to show where they are in the 
+structure of the site and the main areas of subjects we cover.
+
+
+Trade offs - Usability vs clean design
+
+A common challenge for mobile navigation design is trying to expose the 
+breadth of content whilst preserving a clean design. This is not an easy 
+challenge, and well documented with a great write-up fromZeebox 
+<http://thenextweb.com/dd/2014/04/08/ux-designers-side-drawer-navigation-costing-half-user-engagement/>
+ and great examples from Facebook andTwitter 
+<https://twitter.com/lukew/status/454637989503590400>.
+
+
+For visitors who are familiar with your content, a clean design is great and 
+is quickly grasped and familiar to users after a few visits. Our mobile apps 
+provide an elegant solution to this. With a much less familiar audience on the 
+web, we knew we had to go down a different route. Even with the readers who are 
+familiar with our sections, making it less clicks will not be unwelcome.
+ We came up with 15-20 different ideas on how to solve the different 
+challenges. 
+Ideas
+
+At the Guardian, in designing and developing our products we follow an agile 
+process. Even within that process where focus is a principle, it’s all too easy 
+to take on too large a variety of things.
+
+In developing the navigation, we were determined to follow a process that was 
+really focussed and collaborative. We had a small team including a mix of 
+development, visual and UX design skills, and editorial.
+
+Using the principles defined, our first step was to all come up with a number 
+of ideas that would solve the challenges set out - focussing on mobile first.
+
+
+Then, as a team, we evaluated the ideas against the criteria:
+
+
+ * Signposting 
+ * Navigation to top-level sections 
+ * Navigation to 2nd level sections 
+ * Feasibility 
+ * Visual clarity
+
+We prioritised the ideas that scored highly across the board and from there, 
+rather than choose 2 or 3 ideas, we focussed on what we thought was best. We 
+could then optimise through trying different variations on smaller features 
+from there on.
+
+There was a concern we were trying to do too much in such a small screen 
+space, but we took this forward and recognised we could easily reduce the scope 
+if that turned out to be the case.
+
+ Initial low-fi prototype we sent to user panel. 
+Testing with users, early and often
+
+We know that as much as we can guess and assume what our readers want, there 
+is nothing better than putting prototypes in front of them as early as possible.
+
+From the Guardian website, we invited daily visitors to join a panel of users (
+join here! <https://s.userzoom.com/m/MSBDMTBTMTU0>) to help us create the new 
+website and provide feedback on ideas. Sending throughlow-fi prototypes 
+<http://stephanfowler.com/nav-hack/index4.html?section=culture&sub=music> to 
+that panel of users was really valuable. These first prototypes had no content, 
+but were very useful in getting that first impression and knowing we weren’t 
+completely off the mark.
+
+
+The next stage was to make it more realistic and let people try it out. We 
+developed a prototype that would work with content and was completely 
+realistic. Hallway testing throughout the office was enlightening and we 
+followed this with a variety of end-users our research lab.
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fjul%2F11%2F-sp-navigating-the-guardian%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F7%2F11%2F1405072276566%2Fd067b9f1-42b8-4318-ad53-5fa9c3da36d1-1020x612.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Navigating%20the%20Guardian&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fjul%2F11%2F-sp-navigating-the-guardian%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Navigating%20the%20Guardian&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fjul%2F11%2F-sp-navigating-the-guardian%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F7%2F11%2F1405072276566%2Fd067b9f1-42b8-4318-ad53-5fa9c3da36d1-1020x612.jpeg>
+ Watching users play with the navigation in our lab. 
+We spent two days watching, learning, tweaking and changing the navigation. 
+
+User testing gave us some surprising results and took us down some other 
+paths, but in the end we had much more confidence that regular and new users 
+could navigate to both the most obvious, and the most hidden sections.
+
+
+Make it real!
+
+With the feedback and confidence gained from the user testing, it was then a 
+matter of making it production-ready. Again, we tweaked and optimised, had some 
+more internal and external testing until we arrived at a solution that achieved 
+what we were aiming for.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fjul%2F11%2F-sp-navigating-the-guardian%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F7%2F11%2F1405091031016%2Fc38b31f5-bb12-4679-ac35-fd9d0b8f6420-1020x594.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Navigating%20the%20Guardian&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fjul%2F11%2F-sp-navigating-the-guardian%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Navigating%20the%20Guardian&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fjul%2F11%2F-sp-navigating-the-guardian%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F7%2F11%2F1405091031016%2Fc38b31f5-bb12-4679-ac35-fd9d0b8f6420-1020x594.png>
+ The new nav in action on mobile. 
+ Having a few principles to achieve in such a small area is complex, but we 
+believe we've found an elegant, responsive solution for all screen widths.
+
+We have prioritised the signposting at smaller screen widths, but the 
+side-scrolling allows you to access any sibling or top-level section.
+
+If side-scrolling isn't your thing, the All Sections is a familiar 
+'safety-net', giving you access across the site, starting with the section you 
+are in.
+
+We have also tried to make it easier to navigate through the subsections, for 
+example in Culture you are always shown the next section in the sequence. The 
+links loop around almost like a carousel - making it easier to click through 
+the sections.
+ We have kept the items of Culture in sequence, so that you can easily click 
+through them in order. 
+What's next?
+
+This has just been live for a day, but stay tuned to see how the engagement on 
+the navigation, and on the site as a whole, has changed because of this update.
+
+We will continue to improve the header and footer of the page, making it 
+easier to find the topics you want to find. Please do let us know how you find 
+the navigation and whether it works for you.
+ 

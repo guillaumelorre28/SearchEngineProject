@@ -1,0 +1,287 @@
+
+Last October, video game developer Playground Games 
+<https://www.theguardian.com/technology/games> sent six staff members from its 
+studio in Leamington Spa to a tiny town 120 miles south-west of Sydney called 
+Braidwood, New South Wales. Armed with a custom built 12K-resolution camera 
+worth tens of thousands of pounds, they weren’t there to capture the scenery or 
+film movie sequences with a cast of actors. They were there to record the sky.
+
+Released in September, Forza Horizon 3 is widely credited as one of the most 
+visually impressive console games ever made. A driving simulation based in and 
+around a fictitious car festival, the game gives players hundreds of miles of 
+accurately modelled Australian scenery to explore, from dense rain forests to 
+sun-bleached outback wastelands.
+
+There are races to enter, challenges to attempt and hundreds of new vehicles 
+to unlock, but it’s the developer’s obsession with detail that has really stood 
+out. The game provides a neat indication of where real-world simulation is 
+heading in this ever-more graphically ambitious industry. And it all starts 
+with those skies.
+
+If you’ve played Forza Horizon 3, you will have noticed them: dramatic, 
+ever-changing panoramas of cloud, punctured by light rays and accompanied by 
+evolving weather patterns.
+
+For the previous game in the series, Playground did what most studios do: they 
+created a bunch of cloud models, then lit and rotated in them in various ways 
+to suggest a seemingly changeable skyscape. For the third title though, the art 
+team had a new idea: what about taking a high resolution camera, pointing it at 
+the sky and capturing the whole expanse over many hours, as a detailed 
+time-lapse sequence.
+
+For a while, it was just that – a crazy idea. Until they tried it.
+
+“We shot a pre-production test here in Leamington Spa, just sitting in a 
+field,” explains the lead lighting artist, Jamie Wood. “And what we got from 
+it, frame by frame … there was so much more nuance to the lighting changes. In 
+just an hour, we had more variety than the whole of the system we used last 
+time.”
+
+So the plan was hatched to send a team out to Australia to capture the 
+country’s very specific lighting, weather and cloud formation patterns. It 
+wasn’t just about replicating pretty cloud shapes: in the Forza series, as well 
+as a lot of modern video games, the game’s lighting effects are physics-based.
+
+In other words, the game simulates a realistic sun. All the variations in 
+light and shadow that the player sees in the world are calculated in real-time, 
+based on how light is dispersed and how it is occluded by objects between the 
+source and the surface; whether that’s a rain cloud blocking the light, or 
+buildings casting shadows across the road. And the direction and length of 
+those shadows is calculated based on the real-world light direction.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F18%2Fforza-horizon-3-game-perfect-skies-photorealism-detail%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fafda736955642cdd22ef80c5c91dbf673ea61cc2%2F0_275_5760_3456%2F5760.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20Forza%20Horizon%203%20became%20the%20most%20beautiful%20game%20on%20Xbox&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F18%2Fforza-horizon-3-game-perfect-skies-photorealism-detail%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20Forza%20Horizon%203%20became%20the%20most%20beautiful%20game%20on%20Xbox&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F18%2Fforza-horizon-3-game-perfect-skies-photorealism-detail%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fafda736955642cdd22ef80c5c91dbf673ea61cc2%2F0_275_5760_3456%2F5760.jpg>
+ Playground Games shot the Australian sky through the summer, in total 
+recording 30 24-hour periods. Photograph: Sean Murray/www.seanmurray.com.au 
+“It was quite a romantic idea,” says Wood. “To take the research footage of 
+the light out there and bring that into the studio and project it into the 
+game; to give players the experience of those cloud scapes and how that lights 
+the world. But it was a very risky concept, with a lot of sensible push-back 
+internally, we were thinking: should we really do this?”
+
+For a start, the creative director, Ralph Fulton, had to weigh up the 
+practicalities of sending experienced staff into the Australian bush for 
+several weeks of expensive development time.
+
+“I mean, how do you insure them for something like that?” Fulton said. 
+
+And then there were the logistics and uncertainties of a reasonably 
+unprecedented shoot. Wood said: “During our two year development period we only 
+had one window to capture an Australian summer. We had to plan so much in 
+ahead.”
+
+Eventually, three teams of two carried out the shooting process, beginning in 
+October 2015, and running throughout the Australian summer. Each team headed 
+out into the countryside near Braidwood, set up a camp, pointed the camera at 
+the sky and waited as it took thousands of high-resolution images over 24-hour 
+periods.
+
+“The skies are captures as an interpolated series of frames, like a movie but 
+with shorter increments,” says Wood. “Per frame, we derive an image-based 
+specular cue for reflections and also a diffuse light source. So whatever the 
+sky’s doing, whether it’s got really sharp shadows or its very hazy, it will be 
+picked up frame by frame.”
+
+But travel to the other side of the world? Why not use the Leamington test 
+footage? “The heat in Australia generates a lot of different clouds that we 
+don’t tend to see here,” says Wood. “You have a lot of big cumulonimbus and 
+amble clouds. But it’s more to do with the arc of the Sun, the timings of 
+sunsets and how dark it gets at night.
+
+“Because the sun actually drops much lower below the horizon in Australia in 
+summer than it does here, you get these pitch black nights and very quick 
+dramatic sunsets – and the sun will be much higher in the sky during the day. 
+We took light probes and captured all that data - we didn’t have to guess what 
+the light would be like.”
+
+All of this is visible in the game. Whizzing along the cliffs beside Byron Bay 
+at sunset, the sky quickly drops from broad daylight to almost hallucinogenic 
+orange, the strong midday sun above Surfer’s Paradise, cutting great sharp 
+shadows into the road – it all adds to the visual grandeur.
+
+But in this era of HDR visuals, where subtle gradients of light are 
+detectable, some of the most impressive effects in modern games will come from 
+how light is treated when it hits and reflects off objects. “Forza Horizon 3 
+uses a voxel-based global illumination system to calculate light bounces in 
+real-time,” says Fulton. “This system uses the HDR sky, other light sources and 
+offline-generated occlusion data to work out which surfaces the light bounces 
+onto.
+
+“For an easy way to see the impact that bounced light has on a scene, look at 
+locations with complex shadows like the entrance to a cave or crevices in a 
+rock formation – in Forza Horizon 2, those shadows would have had a single 
+colour value which meant the shadow would be uniform everywhere there was no 
+direct light. In Forza Horizon 3, we calculate how light – and hence colour – 
+bounces into partially occluded areas so shadows have a much higher variation 
+in darkness and colour. The depths of a tunnel, with no direct and minimal 
+indirect light, will be almost black; whereas the edges of shadow will bleed 
+naturally from dark to light based on indirect bounced light.”
+
+In the end, the team caught 30-days worth of 24-hour sky shoots, which are 
+used to create the game’s naturalistically evolving skyscape. In free roam 
+mode, the game will effectively “play” a full day’s footage across the game 
+sky, the data streamed in, on the fly, from the hard-drive. “If you sit in the 
+same place, you’ll see the sky elapse as it did in real life,” says Fulton. The 
+only difference is, in the game, the footage is sped up so that a Horizon day 
+doesn’t last 24-hours.
+
+“One of the knock on effects of this system was that it made our days much 
+longer than in Forza Horizon 2” says Fulton. “Speeding up time beyond a certain 
+point makes the cloud movement look ludicrous. I think that benefits the game – 
+sunsets are longer, sunrises are longer, but we mitigate the slower passage of 
+time by using in-game events – a cutscene, the start of a race etc – to jump 
+around a bit and prevent monotony.”
+
+The weather system is connected too, so when dark clouds roll in, the rain 
+starts on cue, altering the surface feel.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F18%2Fforza-horizon-3-game-perfect-skies-photorealism-detail%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F18728c59969652c417bf27f028384c329251a19f%2F34_0_3600_2160%2F3600.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20Forza%20Horizon%203%20became%20the%20most%20beautiful%20game%20on%20Xbox&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F18%2Fforza-horizon-3-game-perfect-skies-photorealism-detail%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20Forza%20Horizon%203%20became%20the%20most%20beautiful%20game%20on%20Xbox&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F18%2Fforza-horizon-3-game-perfect-skies-photorealism-detail%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F18728c59969652c417bf27f028384c329251a19f%2F34_0_3600_2160%2F3600.jpg>
+ Lightning makes all the difference. Photograph: Microsoft 
+“People have asked us, why are you so obsessed with the sky?” says Fulton. 
+“Well, it’s a massive part of our frame. In a driving game you have sky, car, 
+terrain, road. But it’s more than that: the sky is the lightsource, so 
+everything in the world benefits from a realistic system.
+
+“Through the detail of the light and the reflections, the cars, the leaves on 
+the trees, the tarmac, all of them benefit from the much higher detail lighting 
+data that’s coming from the sky. So the whole scene looks better - not just the 
+blue bit at the top.”
+
+The teams shot for three weeks, a physically demanding task that required 
+camping out with the cameras, which would get clogged with dust and grit.
+
+“We needed to clean the lenses every half an hour, and the light sensors after 
+every shoot,” says Wood. “We also needed to change the lenses every sun rise 
+and sunset. Because we were capturing the whole dynamic range of the Sun, once 
+it dropped away, we’d need a more sensitive camera set-up for night.”
+
+There was also the local wildlife to contend with, including unidentifiable 
+but scary-looking spiders climbing into the camera cases, and other terrifying 
+fauna.
+
+Wood said: “Something kept landing on my arm during one shoot, it was a fly 
+the size of a mouse. One of the locals saw it on me and said, ‘whoa, that thing 
+is not your friend, you need to get that off right now’”.
+
+The vagaries of the weather also added to the challenge. “You’re at the mercy 
+of what the sky is doing that given day,” says Fulton. “There was a lot of 
+amateur meteorology going on, trying to predict the periods we should be out in 
+the field.
+
+“We had a list of all the skies we needed for the game, but it was down to 
+luck if we’d manage it. Sometimes we’d get a whole week of identical clear 
+days. It was the most expensive blue sky we’d ever seen.”
+
+The car’s the star
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F18%2Fforza-horizon-3-game-perfect-skies-photorealism-detail%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ff6f682c03be295c5687668d0a1931f645d42f63a%2F0_742_4191_2514%2F4191.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20Forza%20Horizon%203%20became%20the%20most%20beautiful%20game%20on%20Xbox&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F18%2Fforza-horizon-3-game-perfect-skies-photorealism-detail%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20Forza%20Horizon%203%20became%20the%20most%20beautiful%20game%20on%20Xbox&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F18%2Fforza-horizon-3-game-perfect-skies-photorealism-detail%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2Ff6f682c03be295c5687668d0a1931f645d42f63a%2F0_742_4191_2514%2F4191.jpg>
+ The real Lamborghini Centenario on show at the Geneva International Motor Show 
+on 1 March 2016. Photograph: Chesnot/Getty Images 
+A similarly obsessive level of detail went into the car models. When the deal 
+was struck to include the new Lamborghini Centenario in the game, it still 
+hadn’t been announced, so Playground had to send a staff member over to Italy 
+to photograph the one production model available. He took thousands of images 
+and measurements, but once again, there was significant time pressure.
+
+“They were still building this car as we were building our model,” says 
+Fulton. “They announced it at Geneva in April and we were building it to show 
+at E3 in June – but it takes six months to build a car for Forza. That shoot 
+was the last day that the car was actually complete - the next day Lamborghini 
+tore it apart to make the moulds for the production parts.”
+
+From there, it’s a process of modelling a mesh of the car in the art package 
+3D Studio Max, turning all those images and measurements into a highly accurate 
+representation.
+
+“We need to identify where different materials need to be placed in the car,” 
+says the principle vehicle artist, Simon Gibson. “We also have to construct 
+models that will allow the doors to open. We used to try to match cinematic 
+levels of detail. We’re beyond that now.”
+
+Indeed, the process of creating a 3D model of a car for a game is now almost 
+as intensive as producing the actual model for production. The real Centenario 
+production car uses more than 620 different types of materials, including 
+carbon fibre, various alloy metal types, and plastic and composite materials on 
+the exterior, as well as leather in the interiors and heat shield materials in 
+the engine.
+
+Playground has sought to simulate all of these – “to the sub-pixel level”, 
+insists Fulton. Most manufacturers will supply their blueprints and CAD data to 
+development studios working on licensed racing games, so that their cars are as 
+authentically reproduced as possible.
+
+“There’s definitely a convergence now between how cars are designed and how we 
+make game models,” says Gibson. “We actually borrow each other’s software. But 
+some cars don’t have CAD information, so you have to use your skill as an 
+artist to reproduce them.
+
+“With older cars especially, the panels were hand-beaten together so even if 
+you make an accurate representation, that’s only accurate to one car. You have 
+to think about how each car was produced in reality in order to recreate it.”
+
+Another challenge was tracking down some of the more specialist vehicles to 
+garner modelling details from them. When the designers thought it would be fun 
+to include a Reliant Regal in the line up, it took weeks to track one down. 
+They eventually found a collector who’d converted one into a tribute to the 
+famous Only Fools and Horses van.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F18%2Fforza-horizon-3-game-perfect-skies-photorealism-detail%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fbee7a48be29abb23abcf5137919165480e62e40a%2F590_293_3101_1862%2F3101.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20Forza%20Horizon%203%20became%20the%20most%20beautiful%20game%20on%20Xbox&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F18%2Fforza-horizon-3-game-perfect-skies-photorealism-detail%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20Forza%20Horizon%203%20became%20the%20most%20beautiful%20game%20on%20Xbox&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F18%2Fforza-horizon-3-game-perfect-skies-photorealism-detail%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2Fbee7a48be29abb23abcf5137919165480e62e40a%2F590_293_3101_1862%2F3101.jpg>
+ A beautifully lit coastal scene in Forza Horizon 3. Photograph: Playground 
+Games 
+What’s fascinating about the video game production process is how these 
+extravagant techniques are combined with ingenious short cuts and workarounds. 
+The sea is an expensive element to include in a game, with wave simulation 
+requiring a lot of complex physics. But then Playground discovered that another 
+nearby Microsoft studio was working on similar technology.
+
+“The sea in Forza Horizon 3 is also the sea in Sea of Thieves,” says Fulton. 
+“Doing proper sea tech is incredibly complex. We knew the guys up the road at 
+Rare were working on the same problem. They’re doing more deepsea stuff, but we 
+got in touch with them, shared a bit of code, and we optimised it back and 
+forth, so we’ve both benefited.
+
+“Our challenge was making the sea interact with the beach, so lapping waves, 
+foam, wetting and drying the sand correctly – that was a whole other area of 
+work. The 12 Apostles area is a sort of hero image for us, and we wanted the 
+car to be down there racing. If you’re going to be on a beach, the sea has to 
+look good. That work paid off because driving the cars into the sea looks 
+awesome.”
+
+Some interesting workarounds were also employed in the sound design. When the 
+audio team decided to move on from the collision samples they’d sourced for 
+Forza Horizon 2, they went to a scrapyard and recorded themselves smashing the 
+hell out of an old Ford Ka with sledgehammers.
+
+“One of our team had a car he was going to scrap, so we said, wait a minute, 
+we need this,” says the audio designer Fraser Strachan. “We ended up spending a 
+day throwing stones at it, to simulate the sound of gritty road surfaces. It 
+didn’t look good at the end.”
+
+Elsewhere, when they wanted to get the isolated sound of tyres on a beach, 
+they took a bunch of microphones up to St Andrews and recorded kite buggies. A 
+more modest field trip than Australia, but still a symbol of the growing 
+importance of accurate source materials in the age of photorealism.
+
+So does Playground think that the sky system in Horizon 3 will instigate a new 
+era of month-long location shoots throughout the games industry? Wood doesn’t 
+think so.
+
+“The practicalities of it were crazy,” he says. “We’ll probably lead the field 
+on this going forward because the thought of copying it ... you’d be mad to 
+try. I could tell you all our secrets, but you still wouldn’t want to do it.”
+ 

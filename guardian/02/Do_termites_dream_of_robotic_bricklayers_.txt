@@ -1,0 +1,67 @@
+
+They have little brains, a dismal work rate, and pay no attention to 
+architects' plans. Rather than looking to humans for inspiration, scientists 
+designing robot bricklayers have learned from termites.
+
+The researchers, at Harvard University, have shown off their first gang of 
+robotic brickies by having them build a small castle. The feat took some time, 
+but marks a leap forward in the design of robots that work together in an 
+ever-changing environment.
+
+Though small, slow and simple, the robots can work without plans to build 
+pre-designed structures. Instead of talking to one another, they all follow the 
+same simple rules drawn up by a computer beforehand.
+
+Autonomous groups of robots that can erect pre-designed buildings could find 
+plentiful work in dangerous places, for example setting up shelters in regions 
+struck by earthquakes, building habitats under the sea, or on distant planets 
+before human missions arrive. They could even stack sandbags to provide flood 
+defences, the US researchers said.
+ Gangs of robot bricklayers could build habitats under the sea or on distant 
+planets. Photograph: Eliza Grinnell/Harvard School of Engineering and Applied 
+Sciences 
+"The long-term aim is to build structures autonomously where you cannot easily 
+send people, because the work is either too dirty, too dangerous or too dull," 
+saidJustin Werfel <http://people.seas.harvard.edu/~jkwerfel/> at the Wyss 
+Institute for Biologically Inspired Engineering <http://wyss.harvard.edu/> at 
+Harvard. "The robots move very slowly and that's on purpose. They are being 
+very careful about what they do."
+
+Instead of providing all the robots with a plan of the desired building, and 
+appointing a mechanical foreman to direct them, each is given the same set of 
+rules that tells it when to move itself or a nearby brick. The robots – which 
+have wheels and are the size of a toy remote-controlled car – can trundle 
+around, clamber up and down bricks, and lift and lay them. Simple sensors tell 
+the robots when they are next to a brick or another robot.
+
+Central to the work is a computer program that can take the shape of a 
+finished building and turn it into a set of "traffic" rules that are sent to 
+each robot before the job begins. From these rules alone, the robot gangs will 
+move around and place bricks until the structure is complete. Details of the 
+work appear in the journalScience <http://dx.doi.org/10.1126/science.1245842>.
+
+The work has impressed other scientists because it shows how teams of robots 
+can be made to work together without having to follow a plan or pass signals 
+between each other. If one robot breaks down, the others will simply work 
+around it. And if an extra robot is added to the team, it joins the effort 
+seamlessly.
+
+The research was inspired by the behaviour of termites, which have minuscule 
+brains but are able to build huge mounds, complete with intricate air-cooling 
+channels. None of the termites has a detailed plan of the mound they are 
+building. Instead they take cues from each other and their surroundings to 
+decide where to lay the next lump of mud.
+
+The rules the robots follow are essentially one-way signs that tell them which 
+direction they must move in. One crucial aspect of the rules ensures that the 
+robots can get on and off the building site without walling themselves in.
+
+In an accompanying article, Judith Korb at the University of Freiburg in 
+Germany, calls the work "extremely elegant". "Humans build houses according to 
+a blueprint, and the construction process is centrally guided by this plan. In 
+contrast, social insects such as termites build in a decentralised, 
+self-organised manner."
+
+The latest work "allows the autonomous construction of any predefined 
+structures with simple robots", she adds.
+ 

@@ -1,0 +1,69 @@
+
+For anyone who is really concerned about keeping their thoughts private there 
+is only one piece of reliable technology: write with a pen on paper, and burn 
+what you’ve written when you’re done. For the rest of us, who want to get 
+things done, there is an inevitable trade-off which we still don’t entirely 
+understand. We now carry with us everywhere devices that give us access to all 
+the world’s information, but they can also offer almost all the world vast 
+quantities of information about us. The sense of personal integrity and 
+boundaries that seems self-evident is actually the product of particular social 
+arrangements which are profoundly affected by technology even though it doesn’t 
+determine them. Technological change could move us towardsour better selves 
+<http://events.doctorswithoutborders.org/index.cfm?fuseaction=donorDrive.personalCampaign&participantID=3834>
+ orour worse ones 
+<https://www.theguardian.com/world/2016/sep/16/italy-grapples-with-suicide-of-woman-taunted-over-online-sex-video>
+, but things can’t stay as they are.
+
+To go online is to descend into a world as transparent as an aquarium – and 
+this aquarium is full of sharks. The newly discoveredvulnerability in 
+WhatsApp’s procedures 
+<https://www.theguardian.com/technology/2017/jan/13/whatsapp-backdoor-allows-snooping-on-encrypted-messages>
+ is only the latest in an apparently unending succession of moments of 
+unintended transparency.
+
+It would be a mistake to see these problems as primarily technological because 
+that would suggest that their solutions would be technological, too. In fact, 
+the preservation of personal privacy and collective security online is a 
+political and social task as much as it is one for the very few experts who 
+understand the ramifications of mathematical magics like public key 
+cryptography. Technological solutions will only work within a legal and 
+political context, and the real threats to privacy come not from vulnerable 
+widgets but weak laws, careless users and feeble oversight. TheWhatsApp 
+<https://www.theguardian.com/technology/whatsapp> encryption scheme is proof 
+against anyone who does not control or threaten the company’s own networks, 
+which is something only a government could do. But sufficiently ruthless 
+governments would not hesitate to do so if they had the opportunity. And 
+against sufficient ruthlessness and physical power, technology is ultimately no 
+defence. Although we can use schemes of encryption that are mathematically 
+impossible to crack, so long as the password is known to anyone it can be 
+tricked or even tortured from its holder.
+
+Adding to this problem is the increasingly permeable border between state and 
+non-state actors. When the FBI could not crack the iPhone used in the San 
+Bernadino shootings, it turned toa private firm in Israel 
+<http://www.bbc.co.uk/news/technology-38607670>, which could. But that company 
+has in turn now been hacked, and meanwhile many of the devices designed for use 
+by law enforcement, which can suck all the information out of a captured mobile 
+phone, can now be bought freely over the internet 
+<http://motherboard.vice.com/read/backroom-trading-phone-cracking-devices-is-sketchy-as-hell-cellebrite>
+ by any private company – or mafia outfit.
+
+These threats can seem very distant. It’s easy to suppose that you will never 
+come to the attention of a hostile state apparatus. On the other hand, the 
+commercially motivated attacks on privacy pervade the whole of the internet, 
+and in fact fund most of it today. Websites routinely collect as much 
+information as they can about the users and then sell it on to data brokers for 
+use in personally targeted advertising campaigns.Facebook 
+<https://www.theguardian.com/technology/facebook> (which, incidentally, owns 
+WhatsApp) has built its entire titanic empire on this trade. Even when this 
+data is anonymised, the protection is leaky, and in any case, someone who knows 
+everything about you except your name is in a much stronger position than one 
+who knows your name but nothing else.
+
+But the real danger comes when these two kinds of loss of privacy combine so 
+that the knowledge gained for commercial ends is used for political 
+manipulation too. It is in the interests of advertisers to short-circuit 
+rational thought and careful consideration, but it is even more in the 
+interests of demagogues to do so. Against this we must rely on moral and 
+intellectual defences much more than the supposed magic of advanced technology.
+ 

@@ -1,0 +1,99 @@
+
+Sometimes English football is so conservative you feel it should wear a blue 
+rosette, serve cucumber sandwiches with the crusts sliced off and be done with 
+it. Last week was one of those occasions. Brentford – the chief cymbal-clappers 
+for analytics in football – had sacked their manager,Marinus Dijkhuizen 
+<https://www.theguardian.com/football/2015/sep/28/brentford-sack-marinus-dijkhuizen-appoint-lee-carsley>
+, eight games into the season. And so came the cackles and told-you-sos from 
+former players and some in the media. How dare they try to do something 
+different. And look where it got them.
+
+The truth behind the story is slightly more complicated. Brentford insist 
+Dijkhuizen’s sacking had little to do with results, but what was happening on 
+the training pitch. Some even knew they had the wrong guy before the season 
+started. Even so, it was embarrassing for a club with so many smart people to 
+get it so spectacularly wrong. And doubly so when Mark Warburton, who took
+Brentford <https://www.theguardian.com/football/brentford> to the play-offs 
+last season only to leave when asked to give up his veto over transfers, is 
+flying with Rangers in the Scottish Championship.
+
+But to use Dijkhuizen’s dismissal as a stick to put analytics back in its box, 
+as some have done, seems strange. We all understand the numbers game a little 
+better these days, helped by Sky’s Monday Night football and Match of the Day 
+using strikers’ goals per 90 minutes rather than goals per game, or a 
+midfielder’s key passes rather than assists, to provide a deeper context.
+
+And while Brentford struggle, the analytics approach is working at 
+Midtjylland, the club in which the Brentford owner Matthew Benham invested last 
+summer. Eleven months later, they clinched their first Danish Superliga, and 
+have won theiropening two Europa League group games 
+<https://www.theguardian.com/football/2015/aug/27/southampton-midtjylland-europa-league-report>
+, a feat no British club has achieved. Last season, Midtjylland, along with 
+Atlético Madrid, led European football in set-piece goals. They believe that is 
+not down to chance.
+
+So why does analytics provoke such a gag-reflex in some quarters? When it 
+comes to former professionals such a reaction is not hard to understand. They 
+have decades of experience and knowledge. Having some youngish maths whizz 
+explain why their team has been lucky in matches based on statistical 
+techniques is hardly going to go down well. Few old pros learned regression 
+analysis on YTS schemes.
+
+But it does not help the cause of analytics when clubs are coy about how much 
+they use it, although that is understandable – if someone knows they have an 
+edge, they are hardly going to reveal their secret source.
+
+Liverpool’s director of research Ian Graham has a PhD in theoretical physics, 
+Arsenal boughtStat DNA 
+<https://www.theguardian.com/football/2014/oct/17/arsenal-place-trust-arsene-wenger-army-statdna-data-analysts>
+ to help with scouting, tactical insights and game preparation, and Aston Villa 
+recently recruited Hendrik Almstadt from Arsenal as their first sporting 
+director. But we do not know whether these analysts are an essential cog in the 
+wheel – or modern day Bertha Antoinetta Masons in Jane Eyre, squirrelled away 
+in the attic, far from prying eyes.
+
+That said, almost every Premier League and Championship club pays Prozone 
+<https://www.theguardian.com/technology/2014/aug/12/why-clubs-football-manager-scouting-tool>
+ and/or Opta for their services. I know of Premier League clubs who get an SMS 
+at half-time and full-time saying if they deserve to be winning or losing based 
+on an expected goals model, which assigns each shot a probability of going in 
+based on the location on the pitch and other factors. And there are clubs who 
+use analytics to see whether their league position accurately reflects their 
+performances on the pitch.
+
+That is analytics, right there. At boardroom level there is an increasing 
+willingness to use data to make decisions – which extends to evaluating the 
+success rates of transfers and, in some cases, their academy. Such an approach 
+has yet to percolate down to the most coaches. Perhaps it will, perhaps it 
+won’t. But it is worth stressing that embracing analytics shouldn’t turn 
+managers into automatons.
+
+Ruthless Birmingham ruin Lee Carsley’s first game as Brentford manager
+ Read more  
+<https://www.theguardian.com/football/2015/sep/29/brentford-birmingham-championship-match-report>
+The former Midtjylland <https://www.theguardian.com/football/midtjylland> 
+manager Glen Riddersholm said Benham’s approach was “fantastic” precisely 
+because it was different “in what is a very traditional and conservative 
+world”. But he said that when the technical scouts found a potential player he 
+always wanted to look them in the eye and “talk about his values as a human 
+being” before agreeing a deal. Analytics is simply one of many tools at a 
+club’s disposal.
+
+Bill Gerrard, a technical analyst with Saracens who now helps out his friend 
+Billy Beane at AZ Alkmaar, is concerned at the reluctance of some in English 
+football to embrace analytics. “When a team adopts a more analytical approach 
+and things go wrong, it gives an opportunity for the anti-analytics brigade to 
+voice their deep-rooted prejudices,” he says of the Brentford situation. “But I 
+would actually broaden the discussion and ask if there is any link between the 
+resistance to embrace evidence-based practices including analytics, the 
+relaxation of budgetary pressures through the increased media deals, and the 
+failure of British teams to compete effectively in Europe. Perhaps we are too 
+attracted to quick-fix solutions – buying a new player, replacing the manager, 
+etc – and have lost a sense of the art and science of building successful 
+teams?”
+
+That is an argument for another day. What we can say is this: Brentford got it 
+horribly wrong with Dijkhuizen, and they will get plenty more wrong in the 
+future. But despite this nasty hiccup they still believe they have an edge. And 
+over the long run they intend to prove it.
+ 

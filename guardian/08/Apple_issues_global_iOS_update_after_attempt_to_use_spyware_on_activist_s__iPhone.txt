@@ -1,0 +1,96 @@
+
+A botched attempt to break into the iPhone of an Arab activist using hitherto 
+unknown espionage software has triggered a global upgrade of Apple’s mobile 
+operating system, security researchers said on Thursday.
+
+The spyware took advantage of three previously undisclosed weaknesses in 
+Apple’s iPhone to take complete control of the devices.
+
+It’s a story worthy of a high-tech spy novel. When Ahmed Mansour opened his 
+iPhone 6 on 10 August, he spied two suspicious text messages claiming to offer 
+new information about dissidents being held and tortured in prisons in the 
+United Arab Emirates (UAE). Each message held a link to a website where Mansour 
+could obtain more information.
+
+Mansour – a decorated human rights activist who had been targeted twice before 
+by the UAE government – knew better than to click the links. Instead, he 
+forwarded them to security researchers at the Citizen Lab, which examined the 
+links with the help of another security firm,Lookout Mobile. 
+<https://blog.lookout.com/blog/2016/08/25/trident-pegasus/>
+
+Bounty hunters are legally hacking Apple and the Pentagon – for big money
+ Read more  
+<https://www.theguardian.com/technology/2016/aug/22/bounty-hunters-hacking-legally-money-security-apple-pentagon>
+What they found was an extremely sophisticated piece of spyware that, when 
+launched, would jailbreak Mansour’s iPhone and take complete control of the 
+operating system, bypassing any security controlsApple 
+<https://www.theguardian.com/technology/apple> put in place.
+
+Detailed reports issued by Lookout and Citizen Lab outlined how the technique 
+worked, potentially compromising an iPhone with the tap of a finger – a trick 
+so coveted in the world of cyberespionage that in November one spyware broker 
+claimed it had paid a $1m dollar bounty to programmers who’d found a way to do 
+it.
+
+When researchers found that the attack had used three separate “zero-day 
+exploits” – attacks never before encountered by security researchers – they 
+decided to name the attack “Trident”, says Mike Murray, vice-president for 
+security research and response at Lookout.
+
+The first attack exploited a vulnerability in the Safari, fooling the phone 
+into launching a browser session. The second located the core of the phone’s 
+operating system, known as the kernel. The third exploit replaced the kernel, 
+becoming a part ofiOS <https://www.theguardian.com/technology/ios>. “Once you 
+become the kernel, at that point you are the phone,” Murray says. “You can load 
+any software you want.”
+
+
+From that point, it would have been possible for attackers to spy on virtually 
+anything Mansour did – phone calls, text messages, Gmail, Skype, and Facebook – 
+as well as scan his calendar, and steal passwords and other personal 
+information.
+
+By tracking the domains used to launch the attack, as well as code embedded 
+inside those sites, Citizen Lab traced it to a private Israeli security firm 
+called NSO Group. That organization sells surveillance software called Pegasus 
+to nation states; in 2012,NSO sold 300 licenses to the government of Panama 
+<http://www.insightcrime.org/news-briefs/wiretaps-paint-unflattering-picture-of-former-panama-president>
+ for $8m.
+
+In a statement that stopped short of acknowledging that the spyware was its 
+own, the NSO Group said its mission was to provide “authorized governments with 
+technology that helps them combat terror and crime”. The company said it had no 
+knowledge of any particular incidents.
+
+Citizen Lab also uncovered links between NSO and a group known to have 
+launched attacks on other UAE citizens known as Stealth Falcon. The hacking 
+group shared a handful of Internet servers with NSO. “So the link we suspect 
+between Stealth Falcon and NSO is that Stealth Falcon is an NSO customer,” says 
+Bill Marczak, senior researcher for Citizen Lab.
+
+Stealth Falcon, in turn, had targeted other UAE dissidents in the past who 
+were later imprisoned or convicted in absentia, Marczak adds. In addition, the 
+material Stealth Falcon used as bait to lure victims into clicking the fatal 
+link “was overwhelmingly geared towards the UAE”, he says.
+
+“The high cost of iPhone zero-days, the apparent use of NSO Group’s 
+government-exclusive Pegasus product, andprior known targeting of Mansoor 
+<https://citizenlab.org/2012/10/backdoors-are-forever-hacking-team-and-the-targeting-of-dissent/>
+ by the UAE government provide indicators that point to the UAE government as 
+the likely operator behind the targeting,”Citizen Labs’ report concludes 
+<https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/>
+.
+
+While nation states targeting individuals is nothing new, this attack was 
+something no one has ever seen before, says Lookout’s Murray.
+
+“I cannot remember a single malware attack that contained three distinct 
+zero-day exploits,” he says. “They picked the iPhone, the hardest platform to 
+compromise. They created spyware with the most comprehensive feature set you 
+can have, and they deployed it in a way that no one would catch it for years.
+
+“Put it all together, this is unprecedented.”
+
+Apple said in a statement that it fixed the vulnerability immediately after 
+learning about it.
+ 

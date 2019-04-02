@@ -1,0 +1,89 @@
+
+About 84% of Australian telecommunication service providers are not ready to 
+implement the national data retention scheme, whichcame into force on Tuesday 
+<https://www.theguardian.com/technology/2015/oct/13/easier-access-data-starts-here-mandatory-retention-begins>
+.
+
+According to an anonymous survey by industry group the Communications Alliance 
+<http://www.commsalliance.com.au/Documents/releases/2015-media-release-25>, 
+just 10 of the 63 telcos were ready to retain and encrypt customer data by 
+October 13, the deadline set by the legislation that passed in March.
+
+The survey also found that two-thirds of telcos were either not confident at 
+all or only somewhat confident that they correctly understood what data they 
+were required to retain and for how long. Only 11% were very confident that 
+they understood their obligations.
+
+Metadata: Australians’ phone and internet details accessed 334,658 times in 
+2013-14
+ Read more  
+<https://www.theguardian.com/news/datablog/2015/jun/19/metadata-australians-phone-and-internet-details-accessed-334658-times-in-2013-14>
+Only 58% had lodged a data retention implementation plan with government - the 
+deadline for that passed in August - and of those who had lodged an 
+implementation plan, 75% were yet to hear back from government.
+
+The scheme will require telcos in Australia to keep the metadata of their 
+customers 
+<https://www.theguardian.com/technology/2015/oct/13/easier-access-data-starts-here-mandatory-retention-begins>
+ – which includes certain types of phone, internet and location data – for two 
+years, ostensibly for use in anti-terrorism investigations.
+
+John Stanton, the chief executive of the Communications Alliance, said most 
+telcos were still trying to determine how the legislation ought to be 
+interpreted, how to update their systems, and how much of the cost of those 
+upgrades would be covered by the $131m promised by the federal government to 
+assist service providers.
+
+That government assistance package, which is targeted toward smaller telcos, 
+will not be enough. Many have found the cost of complying with the legislation 
+is even greater than expected.
+
+“Six months was never enough (time) but that was the legislated deadline,” 
+Stanton told Guardian Australia. “The fact that the government hasn’t yet 
+decided how to distribute the the money it allocated in the budget suggests it 
+wasn’t enough time for them, either.”
+
+The attorney general, George Brandis, told ABC’s AM programme on Tuesday 
+<http://www.abc.net.au/am/content/2015/s4330469.htm> that the data retention 
+scheme had been “very thoroughly discussed with industry” and that telcos would 
+be given 18 months to apply for an extension of their compliance obligations. 
+That would see full compliance in April 2017.
+
+Telstra breached privacy law by refusing to give customer his metadata
+ Read more  
+<https://www.theguardian.com/business/2015/may/05/telstra-breached-privacy-law-by-refusing-to-give-customer-his-metadata>
+“Our objective here is to ensure that there is compliance ... we are more 
+concerned with implementation than law enforcement,” Brandis said.
+
+Brandis said the obligation on telcos was “expressed very clearly in the 
+legislation,” and that the uniform standard of data required was “set out with 
+particularity”.
+
+“This is an important national security obligation,” he said. “We do, frankly, 
+expect the industry to assume a large part of this burden.”
+
+But Stanton said the legislation was not explicit about the exact data that 
+telcos were required to retain, adding that it was “probably impossible to put 
+that down in legislation.”
+
+“If George Brandis <https://www.theguardian.com/australia-news/george-brandis> 
+had been part of the conversations among service providers as they have all 
+compared their notes and tried to figure out the elements of particular 
+sections, he would know that it’s not explicit what’s to be retained and what’s 
+not,” he said.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2Fvideo%2F2015%2Fmar%2F17%2Fmetadata-explainer-australia-explained-whistleblowing-brandis-abbott-video&picture=http%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F17%2F1426569489376%2FPaul-Farrell-metadata-001.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Metadata%3A%20Australian%20government's%20data%20retention%20plans%20explained%20%E2%80%93%20video&url=http%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2Fvideo%2F2015%2Fmar%2F17%2Fmetadata-explainer-australia-explained-whistleblowing-brandis-abbott-video>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Metadata%3A%20Australian%20government%27s%20data%20retention%20plans%20explained%20%E2%80%93%20video&url=http%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2Fvideo%2F2015%2Fmar%2F17%2Fmetadata-explainer-australia-explained-whistleblowing-brandis-abbott-video&media=http%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F3%2F17%2F1426569489376%2FPaul-Farrell-metadata-001.jpg>
+ Metadata: the government’s data retention plans explained – video 
+Telstra <https://www.theguardian.com/business/telstra>, Australia’s largest 
+provider, says it is ready to retain customers’ metadata..
+
+“Telstra is one of the few – if not the only one – telecommunications 
+providers that has submitted a data retention plan and had it approved by the 
+government,” Telstra chairwoman, Catherine Livingstone, told shareholders at 
+the company’s annual general meeting on Tuesday. “So, we are organised to do 
+this and will implement it over 18 months.”
+ 

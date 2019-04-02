@@ -1,0 +1,134 @@
+
+Today I am proud to announce the launch of our redesigned Guardian app. It’s 
+been a ground-up reworking to bring you a new, advanced and beautiful Guardian 
+app. For the first time you will have a seamless experience across phones and 
+tablets, with a cleaner, responsive design that showcases the Guardian’s 
+award-winning journalism to our readers around the world.
+
+It’s been nearly five years since the Guardian’s first mobile app was unveiled 
+to the world 
+<https://www.theguardian.com/gnm-press-office/guardian-app-iphone-launch>. 
+Since then, our live apps have helped deliver the Guardian’s agenda-setting 
+journalism to every corner of the globe, generating over 1 million downloads 
+and winningmultiple 
+<https://www.theguardian.com/media/2010/jun/10/guardian-aop-association-online-publishers>
+awards 
+<https://www.theguardian.com/gnm-press-office/guardian-iphone-app-wins-digital-award>
+.
+
+However, the way our readers consume news on mobile devices is evolving 
+dramatically. Today, over 40% of the Guardian’s digital content is accessed via 
+mobiles and tablets, and this percentage is growing. And there are now many 
+times in the week when mobile consumption of our content outstrips desktop 
+consumption.
+
+A couple of years ago, there was much debate in the industry on whether 
+companies needed to have both apps and mobile web. We chose to pursue both.
+
+This has proved the right decision as it has become very clear that apps and 
+mobile web play very different roles in our users’ lives. In particular, apps 
+attract - and create - our most loyal users. Although app users represent only 
+a small percentage of our total global user base, they generate around 20% of 
+our page views. We believe it is critical that we deliver a superior 
+experience, harnessing the greatest elements of native app development, to 
+these highly engaged readers.
+
+Although our current app continues to perform strongly, we took the decision 
+just over a year ago to completely rebuild our live app from the ground up to 
+ensure we continue to offer our readers the most premium experience possible - 
+an experience that is more flexible, live and immersive. And an experience that 
+would look beautiful on all screen sizes - whether smartphone or tablets.
+
+We also wanted to help our journalists to tell their stories in the best 
+possible ways, and so we looked into every nook and cranny to totally reimagine 
+what our app should be like, and how our own technology can enhance our 
+journalism. Put simply, this is an app built for the Guardian’s future.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fmay%2F29%2Fguardian-app-android-iphone-ipad-tablet%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F5%2F29%2F1401349132220%2F0e1cbc0f-8473-44be-be38-22882f3e3616-1020x612.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Guardian%20app%20re-launches%20with%20brand%20new%20look%20across%20mobile%20and%20tablet&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fmay%2F29%2Fguardian-app-android-iphone-ipad-tablet%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Guardian%20app%20re-launches%20with%20brand%20new%20look%20across%20mobile%20and%20tablet&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fmay%2F29%2Fguardian-app-android-iphone-ipad-tablet%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F5%2F29%2F1401349132220%2F0e1cbc0f-8473-44be-be38-22882f3e3616-1020x612.png>
+We’ve been working hard on the new designs and features for over a year, and 
+today it’s great to be able to share the next generation of the Guardian live 
+app, which has been designed and developed by our own staff here at the 
+Guardian. This marks a landmark in our digital journey and for the first time, 
+the app is now fully compatible with iPad and Android tablet devices. The app 
+features a new responsive design, which means it looks consistently fantastic 
+regardless of the device used, and provides live, up-to-the-minute access to 
+all of the Guardian’s agenda setting journalism. The new app can be downloaded 
+at theApple App Store 
+<https://itunes.apple.com/gb/app/the-guardian/id409128287?mt=8> and Google Play 
+<https://play.google.com/store/apps/details?id=com.guardian>.
+
+We’re also thrilled to announce that GuardianWitness - the Guardian’s 
+award-winning platform through which readers can contribute their own pictures, 
+videos and text - is now integrated into the app, meaning readers can now 
+contribute to assignments seamlessly and directly within the main app.
+
+Other new features include:
+
+ * A new flexible layout so we can display different stories in different 
+ways, and show readers which stories are the most important in one glance
+
+ * Breaking news and sport alerts and up-to-the-minute live coverage
+
+ * Increased personalisation: readers can personalise their home screen 
+depending on what topics they’re most interested in, and create notifications 
+to follow favourite writers, stories, series and football teams
+
+ * Improved photo galleries and inclusion of interactives for the first time
+
+ * Off-line reading - with intelligent caching readers will now be able to 
+save articles to read later and have more content at their fingertips wherever 
+they are
+
+ * Open journalism has been built into the app, with even easier ways for 
+readers to contribute comments, videos, photos via our new GuardianWitness 
+integration, as well as a better commenting experience
+
+ * New opportunities for advertisers 
+On tablets, the new live apps will sit alongside the existing Guardian and 
+Observer Daily Edition apps, which will continue to give readers a newspaper 
+experience on iPad,Android <https://www.theguardian.com/technology/android> and 
+Kindle Fire devices. In short, today’s news means that readers now have the 
+choice to enjoy the Guardian on tablets in the most personal way to them.
+
+The new app, which is compatible with all iOS7 devices and Android mobiles and 
+most tablets running 4.0 (ICS) and above, will remain free to download and use 
+for all readers. Readers can also choose to upgrade to a premium version of the 
+app (£2.49 a month) in order to access daily crosswords and hand-picked 
+articles from the Guardian archive, as well receive as an ad-free experience.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fmay%2F29%2Fguardian-app-android-iphone-ipad-tablet%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F5%2F29%2F1401349234839%2F9535aed3-5091-4be6-93b6-560c9f7c45fc-1020x612.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Guardian%20app%20re-launches%20with%20brand%20new%20look%20across%20mobile%20and%20tablet&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fmay%2F29%2Fguardian-app-android-iphone-ipad-tablet%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Guardian%20app%20re-launches%20with%20brand%20new%20look%20across%20mobile%20and%20tablet&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2014%2Fmay%2F29%2Fguardian-app-android-iphone-ipad-tablet%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F5%2F29%2F1401349234839%2F9535aed3-5091-4be6-93b6-560c9f7c45fc-1020x612.png>
+As a digital first news organisation with a proud history of innovation and 
+leading the way, when we set out to redesign and rebuild the app we used years 
+of data from millions of users around the world to learn how they consume and 
+respond to our journalism. This has helped us to produce the best possible 
+product for our readers. Indeed, some Android users will already be familiar 
+with this new look, as we decided to release a beta version of the new app to a 
+group of users to help us develop and design the new version with their input 
+and feedback, which is increasingly how we like to work at the Guardian. For 
+more information on how we develop in the open please see ourdeveloper blog 
+<https://www.theguardian.com/info/developer-blog>.
+
+The involvement of our readers in this process is hugely valuable to us, and 
+it’s an approach we’re also currently taking with the our ongoing work on our 
+website. Thank you to all of those of you have already helped us craft our new 
+apps. We are very proud of what we have achieved with your help. We hope you 
+will be too.
+
+So please download the new app from the Apple App Store 
+<https://itunes.apple.com/gb/app/the-guardian/id409128287?mt=8> or Google Play 
+<https://play.google.com/store/apps/details?id=com.guardian>, take it all in, 
+and let us know your feedback. We hope you enjoy it.
+
+As ever, if you have any questions about the new app, please email 
+userhelp@theguardian.com <mailto:userhelp@theguardian.com>, or feel free to 
+leave a comment below.
+
+ 

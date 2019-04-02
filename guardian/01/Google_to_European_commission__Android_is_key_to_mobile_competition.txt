@@ -1,0 +1,75 @@
+
+Google has dismissed the European commission’s charges that it abuses the 
+market dominance of itsAndroid <https://www.theguardian.com/technology/android> 
+operating system to prevent rivals from competing with alternative software and 
+services.
+
+
+The EC filed charges in April 
+<https://www.theguardian.com/technology/2016/apr/20/eu-commission-google-android-skew-market-competition-antitrust-vestager>
+ that could carry a fine for Google of up to $7.4bn (£5.9bn), or 10% of its 
+global revenue, and centre on what the commission saw as “unjustified 
+restrictions and conditions” placed on smartphone and tablet makers, preventing 
+them from choosing other, non-Google default search engines and browsers.
+
+Kent Walker, senior vice president and general counsel for Google 
+<https://www.theguardian.com/technology/google>, said: “Android hasn’t hurt 
+competition, it’s expanded it. Android is the most flexible mobile platform out 
+there, balancing the needs of thousands of manufacturers and operators, 
+millions of app developers and more than a billion consumers. Upsetting this 
+balance would raise prices, hamper innovation, reduce choice and limit 
+competition.”
+
+In its response to the EC today, Google objects to several of the commission’s 
+premises, including the view that Google’s Android does not compete with 
+Apple’s iOS operating system that runs iPhones and iPads.
+
+Walker said: “The commission’s case is based on the idea that Android doesn’t 
+compete with Apple’s iOS. We don’t see it that way. We don’t think Apple does 
+either. Or phone makers. Or developers. Or users.
+
+“To ignore competition with Apple is to miss the defining feature of today’s 
+competitive smartphone landscape.”
+
+The company claims that its agreements with smartphone makers, which insist 
+that a suite of Google apps be pre-installed on devices with some positioned on 
+the homescreen when a device is first started, allow Google to distribute 
+Android for free and continue investing in the development of the platform.
+
+Industry watchers said Google’s prospects of making money from advertising 
+could diminish if its apps were not pre-loaded on devices, despite users being 
+free to delete many of them and replace all of them apps of their choosing.
+
+It also insists that its agreements are crucial to allow anyone to take 
+Android and modify it to suit their requirements, but maintain a level of 
+control on compatibility to help prevent so-called fragmentation, where one 
+version is incompatible with another.
+
+Walker said: “Our voluntary compatibility agreements enable variety while 
+giving developers confidence to create apps that run seamlessly across 
+thousands of different phones and tablets. This balance stimulates competition 
+between Android devices as well as between Android and Apple’s iPhone.”
+
+Google’s Play Store has more than 2.2m third-party apps available for download 
+across 1,000s of devices, including apps from the search company’s chief 
+rivals, Apple, Microsoft and Facebook, of which Facebook, Facebook Messenger, 
+Instagram and WhatsApp have been downloaded more than 1bn times.
+
+Commenting on the EC’s case, Daniel Castro, vice president of tech policy 
+think tank ITIF said: “If Google instead only sold Google-made devices, it 
+would … control all aspects of the operating system plus the apps it includes 
+on Android devices.
+
+“This is exactly what companies like Apple and Blackberry have long done with 
+their respective mobile operating systems, yet the practice is not considered 
+anti-competitive for them.”
+
+The case against Android comes at a time when Google is also embroiled in a 
+battle with the EC over its Shopping search engine feature and its AdSense text 
+advertising service. Last week, Googledismissed the commission’s Shopping case 
+<https://www.theguardian.com/technology/2016/nov/03/google-european-commission-shopping-charges>
+ with similar rhetoric, saying that its competition with Amazon should be taken 
+into account.
+
+ * Europe v Google: how Android became a battleground 
+<https://www.theguardian.com/technology/2016/apr/20/google-android-european-commission> 

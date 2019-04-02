@@ -1,0 +1,118 @@
+
+Get on the website of a budget airline to book yourself a holiday and, while 
+you are at it, fool around with the site code so that you can pick your own 
+price. For tomorrow, show your workings. That is the kind of homework students 
+on a new MSc in ethical hacking at Dundee's University of Abertay might be set. 
+Although, of course, the website they use won't be a real one but a cod version 
+for in-house use set up by a tutor - or even a fellow postgrad.
+
+Why teach these quite clearly criminal skills? Surely they could be misused? 
+When the security guard at the university car park announces "We have been 
+expecting you", before opening the gate, it is tempting to imagine that the 
+place is full of James Bond-style villains in training for a life of computer 
+crime.
+
+But Professor Lachlan MacKinnon, head of the school of computing and creative 
+technologies, likens teaching hacking to teaching police students how drug 
+dealers operate or soldiers about the techniques used by terrorists - a vital 
+part of their training. He argues that most of Britain's education institutions 
+- which don't teach hacking - are way behind the curve on the growth of 
+computer crime.
+
+Crime wave
+
+Universities are not producing people with the right skills to help businesses 
+to protect themselves from an electronic crime wave. "If we were getting this 
+right, there wouldn't be such a problem out there," he says. He is angry that 
+the British Computer Society (BCS) has not yet accredited either the new MSc, 
+which started this month, or the BSc in ethical hacking, which will produce its 
+first crop of graduates this summer. Both courses are firsts in the UK. How 
+would he describe their attitude? "I think it is bollocks," he says.
+
+The attitude of the BCS, which has also failed to recognise Abertay's courses 
+in computer gaming, contributes to the university's ranking in league tables, 
+where it usually comes near the bottom in computing. But it comes near the top 
+in "environmental science", where it has got accreditation for some unusual 
+courses. MacKinnon claims the problem is that the BCS does not recognise the 
+term "ethical hacking", preferring "computer security".
+
+However, he defends the radical and creative approach Abertay is taking on 
+this subject. He argues that most computer security modules are pedestrian, 
+focusing on technology such as firewalls and password setting, which could be 
+cracked by a 14-year-old in Kansas or an organised crime ring in Russia in half 
+an hour. Many computer systems in use by small businesses and 
+multimillion-pound ones have security that MacKinnon describes as "a joke".
+
+As he sees it, virtual suitcases full of money are being left on the side of 
+the electronic superhighway. He says "billions of dollars" a year are being 
+written off as bad debt while the fact that they have been stolen by computer 
+criminals is kept quiet. "The amount of money being lost to computer crime is 
+massively under-reported. Companies don't want to draw attention to it, so they 
+write it off as bad debt."
+
+He says teaching students advanced hacking techniques on the MSc is justified 
+because it is a precursor to being able to think creatively about protecting 
+systems. "There is more to security than keeping attackers out," MacKinnon 
+points out. "Take something called Soap. That pretends it is a web message, and 
+most firewalls will let it through. Now that was devised by Microsoft and sold 
+as part of its package. It is very, very easy to do this.
+
+"Ethical hacking is about understanding how the system is vulnerable and 
+making it resilient to attack in the same way a body is resistant to infection. 
+It would be like having a building where if someone broke in, it would 
+automatically hide all the valuables."
+
+Students able to do this will surely be in high demand. Abertay has close 
+links with members of the local business community, who have had input into the 
+new course, and MacKinnon predicts that the first graduates from the new MSc 
+will be able to secure starting salaries of around £55,000 because businesses 
+are "crying out" for their skills.
+
+That is, of course, if the students have kept their noses clean - they are 
+closely monitored and any evidence that they have tried their new skills in the 
+real world would lead to instant dismissal and no references. So far, that 
+hasn't happened.
+
+Natalie Coull, a lecturer, says: "We monitor them very closely, particularly 
+in the early part of the course. The more advanced techniques are taught later 
+on. But the students are doing this because they want to get good jobs. They 
+are also motivated by fighting computer crime. Some of them are really quite 
+evangelical about it."
+
+Immense upset
+
+Alec Gray, a student, does not fit the typical model of a computer geek. A 
+gruffly spoken Dundonian aged 52, he has been working with computers since the 
+days of punch cards and green screens. Gray used to have a computer-repair 
+shop. "It is sheer vandalism," he says of computer crime. "Just about every 
+week I would have to say to someone, get in touch with your bank, all your 
+accounts are compromised. The upset and disruption that was caused to people 
+was immense. If I can save a few people from these idiots then I will be happy."
+
+Jennifer Higgles, 23, also feels strongly about her chosen path. Working on a 
+helpline for a bank, she said she fielded dozens of calls from people in this 
+predicament. "I had a bride phone up on her wedding day. £10,000 was missing 
+from her bank account. She was due to go on her honeymoon and she had no money. 
+It was really upsetting and stressful for her, although the bank did refund the 
+money."
+
+Graeme Stevens is on the MSc after doing a BA hons in IT some years ago. He 
+has been working for a school and running its website. He found the system was 
+constantly under attack from "script kiddies" - students who wanted to break 
+into their school computer network for fun, out of the same sort of impulse 
+that drives children to look over high walls. "They were just being kids. 
+Whatever information was put on the system, they wanted to break in and look at 
+it.
+
+"If you have a computer in your house or your school that is connected to the 
+internet, it is like having a door that is open. If you don't guard that door, 
+then pretty much anyone can come in."
+
+A spokesperson for the BCS denied MacKinnon's assertion that the organisation 
+did not accept the term "ethical hacking". She said: "We are only able to 
+assess a course once we've seen outputs such as exam papers, coursework and 
+graduate achievement. Once a course has been running for sufficient time, an 
+institution can always ask for accreditation to be backdated to the first 
+intake of students, if appropriate, and we are always more than happy to 
+consider such requests. We are due to visit the university in the near future."
+ 

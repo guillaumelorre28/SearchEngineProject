@@ -1,0 +1,92 @@
+
+There's a growing consensus that cloud computing is going to become more 
+prevalent in the public sector, with the first round of G-Cloud procurements 
+providing a boost for its take-up. But it has been gathering some momentum in 
+recent months without the formal procurement channel, and it is likely that 
+more ad hoc deals will account for a big share of the business as the market 
+grows.
+
+Suffolk county council is providing an example with its adoption of a 
+cloud-based project management system. It may be a relatively small deal on a 
+national scale, but according to the council's project manager Duncan Farley it 
+is beginning to show the financial and operational advantages of using a 
+specialist application in a cloud environment.
+
+Suffolk began to look for a new system to support collaborative working in 
+2010, prompted by a feeling in the council that it could improve the way its 
+employees were working together and that a cloud application could provide the 
+most effective tool to do so.
+
+The decision to opt for a cloud tool was partly due to the expected economic 
+benefits, but also the fact that it would be easier to make available for any 
+staff needing to use it. Such flexibility is one of demands of online project 
+management – systems need to be able to be aligned to the team's way of working 
+and be inclusive of all staff involved, rather than in the hands of a few 
+specialists.
+
+Suffolk opted to use the Smartsheet system provided by the US-based company of 
+the same name.
+
+The application has been built on an out of the box package, and while there 
+was some tailoring to meet the council's requirements, Farley says this was 
+kept to a minimum.
+
+"We had a project management team that identified what needed to be done with 
+the software, demonstrations and licensing," he says. "We got a few people to 
+play around it with to investigate and provide feedback to the developers.
+
+"One of the outcomes of this was to incorporate a preference for red, amber 
+and green indicators on when to take a piece of work forward, and a function to 
+drop a message into officials' email in-boxes when they were due to take a new 
+step in a project."
+
+The application includes features that are designed to support matrix working 
+– in which people in an organisation carry out specialist functions for a 
+variety of managers – such as automated updates and alerts and the capacity to 
+hold a range of documents in familiar formats such as Excel, MS Project, PDF 
+and Google Docs. This enables the council to share relevant information such as 
+work plans and packages, risks, milestones and stakeholder engagement plans.
+
+Suffolk ran a number of trials, collected feedback and, after implementing the 
+system early last year, has gradually extended its use through a number of 
+projects, including planning for the future developments of the country parks 
+in the county, and the procurement of contracts for its highways maintenance.
+
+Mark Adams-Wright, Suffolk's chief information officer, says the application 
+has proved particularly useful for the latter project as it enabled information 
+sharing with officials from neighbouring Norfolk, ensuring the two councils 
+co-ordinate their work on major roads.
+
+"To successfully operate within a matrix working environment it is imperative 
+that everyone remains on the same page," he says. "Having one live version of 
+every worksheet enables us to achieve results quickly, reduce duplication and 
+monitor progress in real time."
+
+Suffolk has begun to pay an annual subscription to use the system, rather than 
+commit to a three or four year contract. And while there is a fee per working 
+sheet on top of this, Farley says the cost has become nominal now that it has 
+about 400 in use.
+
+It's a reflection of one of the big selling points of cloud computing - that 
+it lays the ground for the wider use of IT on a 'pay as you go' basis, ensuring 
+that the client organisation does not pay for capacity that it never gets to 
+use.
+
+Farley says the benefits in cost savings are now feeding through, but that the 
+operational factors are likely to be just as important.
+
+"Using localised desktop-based solutions is not always the most effective way 
+of working and has some pretty big limitations," he says. "This new tool has 
+allowed me to implement an end to end project management workspace which has 
+saved both time and money."
+
+He also says that the council is planning to use the application in many of 
+its major projects in the future.
+
+"When we go on to do other projects this will be a key tool, and we'll be able 
+to manage everything from one place," he says.
+
+This article is published by Guardian Professional. For updates on public 
+sector IT, join the Government Computing Network here. 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+ 

@@ -1,0 +1,108 @@
+
+At first glance, the rigid bureaucracy of government and the agile approach to 
+innovation at tech startups might appear wholly incompatible.
+
+Where government is large and slow, startups are lean and work in sprints. 
+Where governments resist failure, tech firms embrace it as a way of moving on. 
+Where government avoids disruption at all costs, most tech startups actively 
+pursue it as the end game. And that’s before considering the litany of poorly 
+run government IT projects.
+
+Yet, despite the differences, these two worlds are coming together. Rapidly 
+changing technology and changing user demands and expectations are forcing 
+governments to transform their digital services to keep pace. Most governments 
+now share the same mission: to improve radically the user experience of 
+interacting with government.
+
+ To do this, a growing number of governments are setting up their own digital 
+agencies. The aim? To apply principles used by tech startups to overhaul public 
+services.
+
+One of the early adopters of this model was the UK government, which in 2011 
+launched theGovernment Digital Service (GDS) 
+<https://www.gov.uk/government/organisations/government-digital-service>, 
+developedGov.uk <https://www.gov.uk/>, a platform for all government websites 
+and launched an online marketplace for government suppliers.
+
+After that strong start, progress has slowed more recently, with the departure 
+of senior GDS staff 
+<https://www.theguardian.com/public-leaders-network/2015/aug/12/government-digital-service-staff-resignations>
+, but the GDS model is being copied by several other governments. In August 
+2014 theUnited States Digital Service 
+<https://www.whitehouse.gov/participate/united-states-digital-service> was 
+created as a startup in the White House and in July 2015, the Australian 
+government launched theDigital Transformation Office (DTO) 
+<https://www.dta.gov.au/who-we-are/>. Most recently, the Singapore government 
+unveiled its own agency,GovTech <https://www.tech.gov.sg/>, in October.
+
+GovTech is different from its peers in several respects. First, it is big. 
+Where the likes of Australia’s DTO have a headcount of around 70, GovTech has 
+1,800 people on the payroll. Second, it is centralised. Singapore has a single 
+layer of government that is broken into 90 units and GovTech, born of the 
+merger of two departments, is embedded into all of them, running all tech 
+projects.
+
+Jacqueline Poh, chief executive of GovTech, says that despite its scale and 
+structure, the agency has integrated the lean and agile working practices so 
+typical of tech start ups. To this end, teams of software engineers, data 
+scientists, designers and user experience experts work in digital accelerators, 
+where collaborative working is encouraged to speed up innovation, usually with 
+people sharing workspace.
+
+GovTech has a larger remit than other government agencies. As well as 
+transforming the delivery of digital public services by using technologies such 
+as analytics and artificial intelligence, it has been tasked with developing 
+capabilities in other areas. So the team is working on apps extracting 
+information from data government infrastructure, geospatial technology, 
+cybersecurity and smart sensors, which pick up signals from the physical world.
+
+Poh says GovTech is looking at applied technologies like these to see how to 
+use them for improving healthcare or urban areas, as part of the Singapore 
+government’sSmart Nation <http://www.smartnation.sg/> initiative. Launched in 
+2014, Smart Nation encourages people, businesses and government to work 
+together to use technological advancements to improve everyday life.
+
+GovTech is now working on the development of a trade platform to simplify data 
+exchanges between businesses, their partners and government. It is also 
+considering piloting an extension of its MyInfo system, which enables citizens 
+to share personal data with the state, to the banking industry next year.
+
+
+Paul Shelter, chief executive of Australia’s DTO, says government agencies 
+around the world are increasingly collaborating over innovation. “We look 
+closely at what our colleagues are doing in the UK, in the US, in Singapore, in 
+Estonia, in New Zealand, and other countries as well [including Korea], and we 
+see what works,” he says. “We are seeing people from countries all around the 
+world working in very similar ways, and, increasingly, sharing each other’s 
+code.”
+
+Bill Dutton, professor of media and information policy at Michigan State 
+University, believes digital service transformation requires the top-down 
+management support an agency model provides. But it can’t simply be imposed: “A 
+central agency has to believe in and trust innovation at the edges of the 
+bureaucracy, rather than top-down innovation. This is very difficult to achieve 
+in practice.”
+
+This was highlighted by a report titled Making a success of digital government 
+<http://www.instituteforgovernment.org.uk/publications/making-success-digital-government>
+, published in October by UK thinktank the Institute for Government. It found 
+that the launch of the UK’s GDS created “a lot of conflict and resistance to 
+change, some failure and some success” – the conflict being a result of the 
+traditional way projects were implemented.
+
+
+Poh acknowledges these cultural challenges. “Our motto is: act small, think 
+big and do now. There is a tendency in government to do the exact opposite.”
+
+But she is confident there is the political will to support delivery. In fact, 
+that she suggests this agency model could become a digital disrupter, changing 
+the way industries or organisers do business.Poh thinks adding robotics or 
+augmented reality, which uses technology to enhance someone’s perception of 
+reality, to some of the government’s services, “ would actually give us a 
+disruptive edge”.
+
+Talk to us on Twitter via @Guardianpublic <https://twitter.com/guardianpublic> 
+andsign up <https://register.theguardian.com/public-leaders/> for your free 
+weekly Guardian Public Leaders newsletter with news and analysis sent direct to 
+you every Thursday.
+ 

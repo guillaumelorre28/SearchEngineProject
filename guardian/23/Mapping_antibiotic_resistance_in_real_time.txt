@@ -1,0 +1,118 @@
+
+The world is reportedly on the verge of a potential medical emergency as 
+antibiotic resistance continues to rise, yet new drugs do not appear to be 
+coming on stream fast enough to combat so-called “super bugs”.
+
+The means by which a bacteria becomes resistant are natural processes of 
+evolution, exacerbated by doctors overprescribing antibiotics and patients not 
+always finishing their treatment. This gives bacteria additional opportunities 
+to come into contact with antibiotics and devise ways of surviving.
+
+Antibiotic Research UK <http://www.antibioticresearch.org.uk> has been set up 
+to raise money to develop new antibiotics as well as educate doctors and the 
+public on how to get the most from existing drugs. It believes open data could 
+help to solve the problem of overprescribing GPs by pinpointing which practices 
+and which towns or villages are prescribing significantly above the national 
+average.
+
+WHO hails 'swift and positive response' to Zika data-sharing initiative
+ Read more  
+<https://www.theguardian.com/media-network/2016/apr/06/zika-open-data-sharing-initiative-world-health-organisation>
+By teaming up with database analytics company Exasol 
+<http://www.exasol.com/en/>, the charity has, for the first time, drawn up a 
+map of prescription rates across England during 2011-15, which has led to some 
+intriguing results, claims Antibiotic Research UK founder, Prof Colin Garner.
+
+“We had some surprising results,” he says. “Coastal towns were often way above 
+the national average, whereas London was generally below the average. We 
+overlaid a social deprivation map over our findings are saw a strong 
+correlation with high levels of prescribed antibiotics and deprivation.
+
+“The other stand-out finding was the seasonality of prescriptions. We compared 
+August 2014 and December 2014 and prescription levels shot up. There’s 
+absolutely no reason for that because the conditions you would need antibiotics 
+for don’t suddenly increase in the winter.”
+
+Age and social conditions are key
+
+The seasonal uplift is strong evidence, Garner suggests, that overprescribing 
+is taking place and underlines the need for the results of the project to be 
+shared with the NHS.
+
+The links with areas is open to some interpretation because some practices may 
+serve populations which are very young or very old and will typically be 
+expected to be prescribed antibiotics more frequently than older children and 
+adults of working age.
+
+The issue was highlighted by Kensington and Chelsea. The affluent London 
+borough had the lowest rates of antibiotics prescriptions in the UK but, at the 
+same time, was also home to the GP practice with the highest rate. The anomaly 
+was solved when it was discovered the GP practice with the highest rate of 
+prescriptions served the nearby Chelsea pensioners.
+
+The future will eat itself: digesting the next generation of wearable tech
+ Read more  
+<https://www.theguardian.com/media-network/2016/jan/13/future-eat-digesting-next-generation-wearable-tech>
+On deprivation, however, there was a very clear correlation. Clacton-on-Sea 
+was identified as the area with the highest antibiotic prescription rates, 
+which is also highlighted on the UK deprivation map.
+
+“You have to be careful about drawing conclusions,” says Prof Garner. 
+“Although we’ve shown a strong correlation between deprivation and prescribing 
+antibiotics, age is a big issue. We found, for example, wherever you would 
+expect populations to be older, you see uplifts and the same for the very young 
+which tend to be in suburbs, hence the edge of London where young families tend 
+to move out to has higher levels than the centre of London.”
+
+The next stage for the project is to look for age information that can be 
+combined with prescription rates. That will allow the researchers to not only 
+discover where prescriptions are more common but also allow the authorities to 
+draw a conclusion as to whether this is to be expected. Ages are not recorded 
+for each prescription and so the researchers are considering adding average 
+ages for regions to the data to highlight where high prescription rates are not 
+accompanied by a practice serving a population where the average age is very 
+young or old.
+
+The charity’s map project has been welcomed by the Health and Social Care 
+Information Centre <http://www.hscic.gov.uk/>, which stored the raw data, for 
+“developing a new way of looking at an issue which has been the subject of 
+debate among clinicians, health strategist and the general public”.
+
+Resistance in real-time
+
+While Garner and experts at Exasol focus on refining their map data, another 
+researcher has a vision for recording antibiotic resistance in near real-time.
+
+Justin O’Grady, a lecturer in medical microbiology at the University of East 
+Anglia, is working withOxford Nanopore Technologies 
+<https://www.nanoporetech.com/> to establish if sequencer testing equipment 
+could be used to provide a quick diagnosis and reveal which bacteria is causing 
+the illnesses and which antibiotic drugs they are known to be resistant to.
+
+“Using a sequencer is a lot quicker than doctors at a hospital asking for a 
+culture to be made to make a diagnosis,” he says. “Within minutes you can find 
+out the bacteria involved and what antibiotics they’re resistant to so you can 
+give the right antibiotics from the start rather than guessing and risk helping 
+bacteria become resistant to even more antibiotics.
+
+“If you could take the human DNA out of the results you could have the 
+sequencers reporting to a central database, which would build up a near 
+real-time picture of antibiotic resistance across the country. It would be an 
+incredibly useful tool for mapping resistance.”
+
+O’Grady is nearing the end of a project to prove the feasibility of such an 
+approach and expects to report on his work in the coming months. During that 
+time Antibiotic Research UK is hoping to present its findings to the NHS. The 
+aim will be to establish if the map is robust enough to inform where efforts 
+should be concentrated in reminding healthcare professionals what constitutes 
+best prescribing practice, and educating the public to always finish a course 
+of treatment, even if they begin to feel better.
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media & Tech Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media & Tech Network content is editorially independent except 
+for pieces labelled “Paid for by” – find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+ 

@@ -1,0 +1,135 @@
+
+The man handpicked by Malcolm Turnbull to head the government’s digital 
+transformation has said the error rate in Centrelink’s data-matching process is 
+so unfathomably high that it would send a commercial enterprise out of business.
+
+Paul Shetler, the former digital transformation office head, criticised the 
+government’s response to its latest IT crisis 
+<https://www.theguardian.com/australia-news/2017/jan/03/minister-defends-centrelink-over-welfare-debt-compliance-system>
+, telling Guardian Australia it was symptomatic of a culture of blame aversion 
+within the bureaucracy.
+
+“It is literally blame aversion, it is not risk aversion,” Shetler said. 
+“They’re trying to avoid the blame, and they’re trying to cast it wide.
+
+“The justifications that have been given I think are just another example of 
+the culture of ‘good news’, reporting only good news up through the bureaucracy.
+
+
+Minister defends Centrelink over welfare debt compliance system
+ Read more  
+<https://www.theguardian.com/australia-news/2017/jan/03/minister-defends-centrelink-over-welfare-debt-compliance-system>
+“I’m sure that the bureaucracy was being told at every single level that 
+everything was OK.
+
+“That’s how it works in the bureaucracy. Bad news is not welcomed, and when 
+bad news comes, they try to shift the blame.”
+
+It is the first time Shetler, formerly the government’s chief digital officer 
+and a former chief digital officer for the UK ministry of justice , has broken 
+his silence on the series of IT failures that have plagued the government in 
+recent months: the census debacle, the failure of the Australian Tax Office 
+systems and now Centrelink’s debt recovery problems.
+
+Shetler resigned in November 
+<http://www.canberratimes.com.au/national/public-service/digital-transformation-agency-boss-paul-shetler-resigns-20161130-gt0tot.html>
+ after being hired by Turnbull to transform the government’s approach to 
+digital technology 
+<http://www.themandarin.com.au/73275-paul-shetler-16-months-digital-transformation-australia/>
+.
+
+He said it was difficult for him to watch successive IT failures, which he 
+described as “cataclysmic” and “not a crisis of IT” but a “crisis of 
+government”.
+
+“I said when I came in that this would be happening, I said this was already 
+happening, I said it was unacceptable and I made that case the entire time I 
+was at the DTO [digital transformation office], and the DTA [digital 
+transformation agency],” he said.
+
+“I was very explicit about it internally, not nearly as much so externally. It 
+was a fight that I fought from day one, not an easy fight to win, because 
+you’ve got an entire bureaucracy of IT bureaucrats who are backed by large 
+vendors, who have large numbers of staff, and because ministers, I’m going out 
+on a limb here, very quickly become captive to the departments that they deal 
+with.”
+
+
+Shetler said the consequences of the  failures of the Centrelink system 
+<https://www.theguardian.com/australia-news/2016/dec/30/centrelink-debt-notices-idiotic-big-data-assumptions-expert>
+ were different from problems with the census or the ATO becausethey were felt 
+by those least able to deal with it 
+<https://www.theguardian.com/australia-news/2016/dec/07/acoss-criticises-governments-appalling-jail-threats-to-welfare-recipients>
+.
+
+He said data-matching systems must have human oversight to deal with mistakes. 
+
+“The way they did it, obviously it’s dangerous, because their algorithms are 
+flawed in the first place,” Shetler said.
+
+“Secondly, you have to be careful with data. Much of the data that’s in the 
+federal government, how good is it really? There is this sort of a blind faith 
+in data.”
+
+
+The government has continued to deny any problem with its automated compliance 
+system 
+<https://www.theguardian.com/australia-news/2016/dec/29/government-confident-in-centrelink-debt-compliance-system-despite-reported-errors>
+, which relies on data-matching income reported to Centrelink with tax office 
+records.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2Fvideo%2F2017%2Fjan%2F03%2Fcentrelinks-welfare-debt-mistake-video-explainer&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=Centrelink's%20welfare%20debt%20mistake%20%E2%80%93%20video%20explainer&url=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2Fvideo%2F2017%2Fjan%2F03%2Fcentrelinks-welfare-debt-mistake-video-explainer>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Centrelink%27s%20welfare%20debt%20mistake%20%E2%80%93%20video%20explainer&url=https%3A%2F%2Fwww.theguardian.com%2Faustralia-news%2Fvideo%2F2017%2Fjan%2F03%2Fcentrelinks-welfare-debt-mistake-video-explainer&media=>
+Centrelink’s welfare debt mistake 
+<https://www.theguardian.com/australia-news/video/2017/jan/03/centrelinks-welfare-debt-mistake-video-explainer>
+It confirmed it developed the data matching software in-house, rather than 
+buying it from a private vendor.
+
+The software has been used for data-matching operations for several years, 
+raising questions about what the government knew of its potential flaws before 
+using it for such high-volume debt recovery.
+
+“As with all new software, rigorous testing has been carried out by the 
+department to ensure the system is working as intended,” department general 
+manager Hank Jongen, effectively head of communications, said.
+
+The department said individuals were given ample opportunity to contest the 
+discrepancies, and that 80% of those who received a letter had paid the money 
+back.
+
+Shetler said a 20% error rate would be unacceptable in any other industry. 
+
+“All I can say is, if they were a commercial company, you would go out of 
+business, with a 20% failure rate, a known 20% failure rate, you would go out 
+of business, any other kind of matching service would,” he said.
+
+“Come on. Could you imagine the stock exchange doing that? Could you imagine 
+Amazon, Apple or a bank doing that? An insurance company doing that?
+
+“It’s just unfathomable, and yet government thinks it can do that.
+
+“This is the real problem. Government needs to be less arrogant. You’ve got 
+senior public servants there who are drawing private sector salaries, but 
+they’re not holding themselves to the same standard.”
+
+Shetler identified a series of problems that could be immediately addressed. 
+He said it should start with building capability and upskilling across all 
+areas of the public service.
+
+A “radical” upgrade of IT skills was needed, he said, starting from the top 
+levels of the public service. That would include ensuring only technically 
+proficient executives were placed in senior IT leadership roles. Public 
+servants should be increasingly placed in front of real users, so they can see 
+the impacts of their decisions and systems on the ground.
+
+Shetler said the current Centrelink 
+<https://www.theguardian.com/australia-news/centrelink> situation had exposed a 
+gap between government policy and service delivery. That divergence must be 
+addressed, he said.
+
+“Policy is not just something you dream up on a piece of paper,” he said. 
+“It’s actually also the results that you see on the streets.”
+ 

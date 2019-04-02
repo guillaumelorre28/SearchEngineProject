@@ -1,0 +1,86 @@
+
+A cell-based diabetes treatment has been developed by scientists who say it 
+could eliminate the need for those with the condition to inject insulin.
+
+The therapy involves a capsule of genetically engineered cells implanted under 
+the skin that automatically release insulin as required. Diabetic mice that 
+were treated with the cells were found to have normal blood sugar levels for 
+several weeks.
+
+Scientists said they hope to obtain a clinical trial licence to test the 
+technology in patients within two years. If successful, the treatment would be 
+relevant for all type 1 diabetes patients, as well as those cases of type 2 
+diabetes that require insulin injections.
+
+Martin Fussenegger, who led the research at the ETH university in Basel, said: 
+“By 2040, every tenth human on the planet will suffer fromsome kind of diabetes 
+<https://www.theguardian.com/society/2016/jun/15/growing-numbers-of-children-have-type-2-diabetes-figures-show>
+, that’s dramatic. We should be able to do a lot better than people measuring 
+their glucose.”
+
+Fussenegger said that, if confirmed as safe and effective in humans, diabetes 
+patients could be given an implant that would need to be replaced three times a 
+year rather than injections, which do not perfectly control blood sugar levels, 
+leading to long-term complications including eye, nerve and heart damage.
+
+In Britain, about 400,000 people have type 1 diabetes and three million have 
+type 2 diabetes, about 10% of whom need to inject insulin to control the 
+condition.
+
+Type 1 diabetes normally begins in childhood and is an autoimmune disease in 
+which the body kills off all its pancreatic beta cells. The cells respond to 
+the body’s fluctuating glucose levels by releasing insulin, which regulates 
+blood sugar. Without beta cells, patients need to monitor glucose and inject 
+insulin as required – typically several times each day.
+
+
+Everything you wanted to know about diabetes
+ Read more  
+<https://www.theguardian.com/lifeandstyle/2016/jun/19/everything-want-to-know-diabetes-technology-revolutionising>
+Previously, scientists have attempted to artificially cultivate pancreatic 
+cells from patients’ stem cells 
+<https://www.theguardian.com/society/2014/feb/06/scientists-closer-stem-cell-cure-type-1-diabetes>
+. However, scientists have struggled to manufacture the cells at the scale 
+necessary for clinical use, and the cells are naturally prone to dying off once 
+introduced into the body, according to Fussenegger. “They are prima donnas in 
+the cellular context,” he said.
+
+His team took a different approach, choosing to re-engineer human kidney 
+cells, known as HEK cells, to perform the function normally carried out by the 
+pancreas. Two genes were introduced into the cells – one to make them sensitive 
+to glucose levels and a second to instruct the cell to pump out insulin when 
+glucose levels exceeded a threshold.
+
+“We believed we needed a more robust cell type if you go for cell-based 
+therapies,” he said.
+
+In the study <http://dx.doi.org/10.1126/science.aaf4006>, published in 
+Science, the engineered HEK cells were found to outperform normal pancreatic 
+cells in terms of their ability to regulate blood sugar in mice. They were 
+healthy three weeks after the implant and performed normally on various tests 
+designed to measure their ability to control blood sugar.
+
+“It’s hard to understand why ours should be better than something that evolved 
+for millions of years,” said . “It shows that as engineers, thinking 
+rationally, we can also do a very good job.”
+
+In the study, mice were treated such that they lost all their 
+insulin-producing pancreatic cells. The cells were then implanted into the 
+mice, enclosed in a teabag-like porous capsule that protected the human cells 
+from the mouse immune system, but allowed insulin to diffuse out.
+
+In humans, the same approach would mean cells would not need to be genetically 
+matched to the patient, and frozen capsules could be manufactured on an 
+industrial scale.
+
+The team behind the work have created a start-up to commercialise the 
+technique and hope it could reach the market within a decade.
+
+Emily Burns, research communications manager at Diabetes 
+<https://www.theguardian.com/society/diabetes> UK, said: “We can already 
+replace the cells in the pancreas that are damaged in type 1 diabetes by using 
+cells taken from donated pancreases, but one of the issues with this approach 
+is that there aren’t enough donors. That’s why research like this is so 
+important: finding ways to produce an unlimited supply of pancreatic cells, or 
+cells that act like them, in the lab.”
+ 

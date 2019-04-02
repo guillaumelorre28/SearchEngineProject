@@ -1,0 +1,55 @@
+
+Mozilla’s Firefox browser didn’t quite make the leap from desktop to mobile, 
+particularly on iOS, but it’s back for a second try withFirefox 
+<https://www.theguardian.com/technology/firefox> Focus, a new browser which 
+hopes to be iPhone users’ go-to tool for private web surfing.
+
+It’s an innovative approach from an organisation that has often struggled 
+against the forces of inertia. Rather than try to beat the might of Apple’s 
+ability to dictate the default browser on iOS, as well as the company’s 
+requirement that any other browser still use Safari’s rendering engine as its 
+core technology,Mozilla <https://www.theguardian.com/technology/mozilla> has 
+taken a different tack: create the category of “second browser”, and own that.
+
+Firefox Focus is as stripped-down as a browser can be. The app boots straight 
+in to a search bar, which searches Yahoo in the US (likely due tothe $375m 
+Yahoo pays Firefox annually 
+<http://www.computerworld.com/article/3060108/internet/yahoos-firefox-deal-risks-dropping-into-the-red.html>
+ to be the default search engine on the main version of the browser) and Google 
+in the UK for anything you ask. You can’t change the search engine yet, but 
+Firefox says that’s coming.
+
+But at the same time as searching, Focus also strips out as much as it 
+possibly can that could track you or your browsing: no cookies, no ad trackers, 
+no analytics trackers, no social trackers. And the whole thing is permanently 
+accompanied by a one-click Erase button in the top right corner, enabling you 
+to clear all the info from any given session in one tap.
+
+The organisation describes Focus as “for the times when you don’t want to 
+leave a record on your phone”.
+
+“You may be looking for information that in certain situations is sensitive – 
+searches for engagement rings, flights to Las Vegas or expensive cigars, for 
+example. And sometimes you just want a super simple, super fast web experience 
+– no tabs, no menus, no pop-ups. Firefox Focus gives you just that.”
+
+Focus also operates as a content blocker for Safari itself, letting users 
+block tracking services (and by extension, many adverts) in their main browser.
+
+There are tools available on iPhones right now that will offer a similar 
+experience to Firefox Focus – Safari’s private browsing mode, when combined 
+with a content blocker, for instance – but the hope for the company is that it 
+can convince users that it’s easier to click a separate app icon for those 
+times when they need private browsing.
+
+On the desktop, Firefox continues to be a popular browser, used by more than 
+three times the number of people who use Internet Explorer, according to data 
+collected by W3Schools. But the rise of mobile has led to the browser’s overall 
+importance shrinking, with Chrome’s user share – on desktop and mobile combined 
+– reaching almost three-quarters of the total market, and dwarfing the 15% of 
+browsers who use Firefox.
+
+The open-source browser, which traces its roots back to Netscape, hit its 
+highest share of users in July 2009, when 47.9% of web surfers had it 
+installed. At the time, Google Chrome was on just 6.5% of devices.
+ 

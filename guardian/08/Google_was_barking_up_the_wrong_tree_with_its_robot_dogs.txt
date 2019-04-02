@@ -1,0 +1,94 @@
+
+What do you do when you have $43bn (£30bn) in your back pocket? Why, you buy 
+companies like there’s no tomorrow. A couple of years ago,Google 
+<https://www.theguardian.com/technology/google> decided that it needed to get 
+into robotics, so it went shopping for robotics companies. It picked up eight, 
+all for the search giant’s equivalent of small change.
+
+What the hell was a search company doing getting involved in this business? 
+Now we know: it didn’t have a clue
+
+From the mainstream media’s point of view, the most interesting of these 
+acquisitions wasBoston Dynamics 
+<https://www.theguardian.com/technology/2013/dec/17/google-boston-dynamics-robots-atlas-bigdog-cheetah>
+, an east coast firm that specialised in making robots with legs. At the time, 
+its best-known product wasBigDog 
+<https://www.theguardian.com/technology/2015/dec/30/us-marines-reject-bigdog-robot-boston-dynamics-ls3-too-noisy>
+, a quadruped that was designed with funding from the Pentagon in the hope that 
+it would serve as an automated pack animal for US soldiers operating in rough 
+terrain where wheeled vehicles couldn’t go. BigDog worked as advertised, but 
+made such a racket that any soldier hoping to surprise the enemy would have 
+been better advised to travel with a brass band and so it was eventually 
+retired from active service.
+
+The Boston Dynamics robots are both impressive and creepy, as even a cursory 
+inspection ofYouTube videos <https://www.youtube.com/watch?v=rVlhMGQgDkY> will 
+confirm. One of them – the Atlas – is a muscular-looking biped that can pick 
+itself up off the floor after being felled by a sneaky chap with a hockey 
+stick. What’s particularly creepy is the fact that the robot never gets 
+annoyed, even while it is being taunted by the guy with the stick. Personally, 
+I would have zapped him.
+
+But I digress. The question on everyone’s mind as Google hoovered up robotics 
+companies was: what the hell was a search company doing getting involved in 
+this business? Now we know: it didn’t have a clue.
+
+Last week, Bloomberg revealed that Google was putting Boston Dynamics up for 
+sale 
+<https://www.theguardian.com/technology/2016/mar/18/boston-dynamics-put-up-for-sale-google>
+. The official reason for unloading it is that senior executives in Alphabet, 
+Google’s holding company, had concluded (correctly) that Boston Dynamics was 
+years away from producing a marketable product and so was deemed disposable. 
+Two possible buyers have been named so far – Toyota and Amazon. Both make sense 
+for the obvious reason that they are already heavy users of robots and it’s 
+clear that Amazon in particular would dearly love to get rid of humans in its 
+warehouses at the earliest possible opportunity.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fjun%2F05%2Fgoogle-robots-boston-dynamics-sale%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe900871b1918c56b97f4f86135547e9b938839b9%2F266_100_2440_1464%2F2440.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Google%20was%20barking%20up%20the%20wrong%20tree%20with%20its%20robot%20dogs&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fjun%2F05%2Fgoogle-robots-boston-dynamics-sale%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Google%20was%20barking%20up%20the%20wrong%20tree%20with%20its%20robot%20dogs&url=https%3A%2F%2Fwww.theguardian.com%2Fcommentisfree%2F2016%2Fjun%2F05%2Fgoogle-robots-boston-dynamics-sale%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe900871b1918c56b97f4f86135547e9b938839b9%2F266_100_2440_1464%2F2440.jpg>
+ Atlas, the Boston Dynamics robot: a glutton for punishment. Photograph: 
+Google/YouTube 
+This saga is interesting because Google is, par excellence, a technocratic 
+outfit that worships evidence-based decision-making. In his bookHow Google Works
+ <https://bookshop.theguardian.com/how-google-works-262209.html>, the company’s 
+executive chairman, Eric Schmidt, describes an organisation that is fanatically 
+data-driven. Every procedure, every process, is relentlessly scrutinised, which 
+is why, for example, every job interview lasts 30 minutes and offers of 
+employment are decided by a peer-review process rather than by the most senior 
+manager present.
+
+That is also why the robotics buying spree seemed so weird. It was more like 
+the acquisitive binge of a Premier League football club than the outcome of a 
+deliberative corporate process. But most of us were so intimidated by Google’s 
+technocratic ethos that we assumed that the company must know what it was 
+doing. In assuming that we were clearly wrong.
+
+So what went on? Already two interesting hypotheses have emerged, both of 
+which are about corporate cultures. Boston Dynamics is a typical east coast 
+outfit, a spin-off from MIT, whereas Google is a Silicon Valley creation that 
+was originally spun off from Stanford. These two intellectual milieu are as 
+different as chalk and cheese. (And of course Silicon Valley has never quite 
+recovered from the fact that the arpanet, the predecessor to the internet, was 
+originally built by a Boston-based company,Bolt, Beranek and Newman 
+<https://en.wikipedia.org/wiki/BBN_Technologies>.)
+
+A second hypothesis is also about a clash of cultures. Robotics of the kind 
+created by Boston Dynamics is largely an analogue technology or, at any rate, 
+an intimate fusion of digital sensors and signal processing with physical 
+actuators that move the robot’s limbs and other moving parts. But almost 
+everything that Google does is purely digital, so perhaps the digital immune 
+system rejected the analogue intruder.
+
+Whatever the explanation, the fact is that Boston Dynamics is being cut loose. 
+And Google is returning to its digital roots, asSundar Pichai 
+<https://www.theguardian.com/technology/2016/feb/08/google-sundar-pichai-shares-highest-paid-ceo>
+, its new chief executive, has been explaining. Google, he says, is moving from 
+a “mobile-first to an AI-first world”, which is a fancy way of saying that the 
+company will be using machine-learning to make its products (mainly search) 
+more helpful to users. We will know that he has succeeded when a Google search 
+can answer the question: “What in God’s name possessed you to buy Boston 
+Dynamics?”
+ 

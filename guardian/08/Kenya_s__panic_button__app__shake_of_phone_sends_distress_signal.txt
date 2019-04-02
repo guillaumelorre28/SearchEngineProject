@@ -1,0 +1,86 @@
+
+Kenyan university student Edwin Inganji was happily pursuing his passion – 
+computer science – until he lost his laptop in an armed robbery. Beaten and 
+bruised, and wondering how he could call for help since his mobile phone had 
+also been stolen, Inganji came up with a new coding idea: what about a type of 
+“panic button” app that could be activated quickly and silently, alerting the 
+emergency services of your location and directing them straight to you?
+
+Thus was born “Usalama” (Swahili for security), a smartphone app activated 
+simply by shaking one’s phone three times, holding down the volume button, or 
+tapping on the emergency icon. The app alerts the police, medical or fire 
+authorities – as well as every other Usalama user within 200m – broadening the 
+scope of help available to the person in need.
+
+Had Inganji configured the app before the robbery, he could have reached into 
+his pocket, shaken his phone and activated the app, and, perhaps, still lost it 
+– but the police would have been notified of both the location of the crime, 
+and the thieves’ new location, tracing them through GPS on Inganji’s stolen 
+mobile phone.
+
+Revealed: how raid by Kenyan police drove street children to their deaths
+ Read more  
+<https://www.theguardian.com/world/2016/oct/10/exposed-kenyan-polices-brutal-attacks-on-street-children>
+“In Nairobi, in Kenya <https://www.theguardian.com/world/kenya> generally, 
+reaching the emergency services when you need them is really difficult – the 
+toll-free line just doesn’t go through,” says Inganji, 22. “Either you have to 
+take yourself [to the police station or hospital], or have a witness take you. 
+If no one is around to help you, most of the time you’re screwed.”
+
+The government’s 999 emergency number was disconnected in 1998 
+<http://www.bbc.co.uk/news/world-africa-23549168> amid claims that the state 
+lacked both the personnel and the facilities to deal with callers. And since it 
+was reconnected in 2013 – the year Inganji was mugged – the toll-free line has 
+beenoverloaded with prank callers 
+<http://www.standardmedia.co.ke/article/2000089937/fight-against-crime-boosted-as-police-emergency-line-999-is-restored>
+ asking for recipe ideas and hotel bookings.
+
+Nairobi’s crime rate is twice the national average 
+<http://www.the-star.co.ke/news/2016/07/20/crime-rate-in-nairobi-almost-twice-national-average-ipsos_c1390019>
+, and armed street crime, carjackings, home invasions and kidnappingoccur at 
+any time, anywhere 
+<https://www.osac.gov/pages/ContentReportDetails.aspx?cid=19607>. Inganji’s 
+app, which he developed with his classmates (who are co-founders), includes a 
+database of all the crimes logged, which helps emergency services to know where 
+most crimes are being committed, and as a result where best to position 
+officers.
+
+“It shows us where crime is happening but the services are failing to deploy,” 
+says Inganji. “So it shows who is not being accountable, and should make the 
+services act with more responsibility.”
+
+The app requires the user to input three personal contacts – such as a spouse, 
+parent or work colleague – who are notified alongside the services of any 
+emergency situation, and are given updates every five minutes until the 
+situation is resolved. In this way, the user’s contacts can also ensure 
+services are accountable, says Inganji.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fglobal-development%2F2017%2Fjan%2F04%2Fkenyas-panic-button-app-shake-of-phone-sends-distress-signal%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F7abf16f95933dbdfd2a696265c4d20bf5b0af5c4%2F0_0_7258_4839%2F7258.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Kenya's%20'panic%20button'%20app%3A%20%20shake%20of%20phone%20sends%20distress%20signal&url=https%3A%2F%2Fwww.theguardian.com%2Fglobal-development%2F2017%2Fjan%2F04%2Fkenyas-panic-button-app-shake-of-phone-sends-distress-signal%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Kenya%27s%20%27panic%20button%27%20app%3A%20%20shake%20of%20phone%20sends%20distress%20signal&url=https%3A%2F%2Fwww.theguardian.com%2Fglobal-development%2F2017%2Fjan%2F04%2Fkenyas-panic-button-app-shake-of-phone-sends-distress-signal%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F7abf16f95933dbdfd2a696265c4d20bf5b0af5c4%2F0_0_7258_4839%2F7258.jpg>
+ Edwin Inganji, centre, at his office in Nairobi, with co-founders Marvin 
+Makau, left, and Kenneth Gachukia, right. The ‘panic button’ app was 
+shortlisted for an engineering innovation prize. Photograph: Brett Eloff/The 
+Royal Academy of Engineering. 
+Inganji and his team plan to broaden the app beyond its “panic button” use, 
+with a platform where users can share safety news of crimes occurring in their 
+immediate area, in turn alerting police but also warning other Usalama users of 
+dangers in the vicinity. They also plan to make a “timer”, whereby a user can 
+trigger a distress signal if they have not returned home by a set hour; as well 
+as a “walk with me” feature, which allows users to escort one another home 
+virtually and ensure that each party has returned safely (it is cancellable at 
+any time by either user).
+
+Ultimately, says Inganji, the app could fill a void that has plagued Kenya for 
+years: a desperate need for security in almost all aspects of life. “We want it 
+to be something that you use every day,” he says of the app. “Not just 
+something you use when you’re in distress, but something that helps you feel 
+safe.”
+
+
+• Edwin Inganji’s app was shortlisted for the Royal Academy of Engineering’s 
+Africa <https://www.theguardian.com/world/africa> prize for engineering 
+innovation
+ 

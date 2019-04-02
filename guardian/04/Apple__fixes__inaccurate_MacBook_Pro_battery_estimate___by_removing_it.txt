@@ -1,0 +1,58 @@
+
+Apple has issued a “fix” for battery life complaints from users of its new 
+MacBook Pro 
+<https://www.theguardian.com/technology/2016/dec/12/apple-macbook-pro-review-the-best-computer-you-shouldnt-buy>
+ and other Mac computers.
+
+
+The latest MacOS update, 10.12.2, has tackled the issue of frequently 
+inaccurate battery life estimates by removing the feature. The change means 
+users will no longer be provided with any estimate of how long theirApple 
+<https://www.theguardian.com/technology/apple> laptop battery will last, except 
+the percentage left, and therefore be unaware when it underperforms.
+
+The update which “improved the stability, compatibility and performance” of 
+Mac computers and is “recommended for users”.
+Sina Golesorkhi (@SinaGolesorkhi) 
+R.I.P. Remaining Time after latest #macOSSierra 
+<https://twitter.com/hashtag/macOSSierra?src=hash> #update 
+<https://twitter.com/hashtag/update?src=hash>! pic.twitter.com/jVggWx2aBP 
+<https://t.co/jVggWx2aBP>
+ <https://twitter.com/SinaGolesorkhi/status/808975256581009408> December 14, 
+2016 <https://twitter.com/SinaGolesorkhi/status/808975256581009408> 
+Battery life estimates have always been notoriously unreliable. Some point to 
+the power consumption variability of modern processors, which have the ability 
+to ramp their performance up and down in response to the task at hand and 
+therefore alter their power requirements, as the biggest issue in attempting to 
+calculate the remaining time left.
+
+Some of Apple’s laptops also include two graphics cards – one energy efficient 
+integrated GPU and one discreet, more powerful one. When the graphics demands 
+of an app currently running breach a threshold, the power-hungry graphics card 
+fires up, which has a significant impact on battery life.
+
+But many users are unhappy with the removal of the feature.
+Ryan Block (@ryan) 
+1/ Mac time remaining indicator: as a realtime countdown, useless. Nothing can 
+reliably predict the energy that'll be used in the future.
+ <https://twitter.com/ryan/status/808951239903821824> December 14, 2016 
+<https://twitter.com/ryan/status/808951239903821824> Ryan Block (@ryan) 
+2/ Mac time remaining indicator: as a frequently updated factor that 
+fluctuates and alludes to major changes in power draw, MEGA USEFUL.
+ <https://twitter.com/ryan/status/808951811478388736> December 14, 2016 
+<https://twitter.com/ryan/status/808951811478388736> Ryan Block (@ryan) 
+3/ "Power dropped four hours since I checked it an hour ago? Better close some 
+apps!"
+ <https://twitter.com/ryan/status/808952024972677121> December 14, 2016 
+<https://twitter.com/ryan/status/808952024972677121> 
+Microsoft’s Windows 10 continues to give estimates of battery life under 
+similar conditions with the same types of processor and graphics card 
+configurations. Apple’s battery meter is now limited to percentage remaining 
+only.
+
+ * Why does the MacBook Pro only have USB-C ports? Spanish ‘Apple engineer’ 
+explains 
+<https://www.theguardian.com/technology/2016/nov/07/macbook-pro-usb-c-ports-spanish-apple-engineer>
+ * Apple’s latest product is a ‘greatest hits’ photo album 
+<https://www.theguardian.com/technology/2016/nov/16/apple-latest-product-is-a-greatest-hits-photo-album>
+ 

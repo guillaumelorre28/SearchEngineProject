@@ -1,0 +1,99 @@
+
+Scientists attempting to grow human organs inside pigs will have to overcome 
+significant hurdles before transplants can take place, geneticists have warned.
+
+In a Panorama documentary showing on BBC1 on Monday night, researchers at the 
+University of California, Davis, reveal how they have injected human stem cells 
+into pig embryos to explore the possibility of growing a human pancreas inside 
+a pig. The research could help to solve the current shortage of organs for 
+transplant – a situation that, according to the NHS, leads to around three 
+deaths a day in the UK.
+
+“I think this is exciting because it is a sensible, practical application of 
+revolutionary new science in the form of induced pluripotential stem cells and 
+gene editing and I think it is very exciting to bring them together, saidSir 
+John Burn, professor of clinical genetics at Newcastle University. “But I also 
+know it is a long way from exciting ideas to the clinic.”
+
+Scientists attempting to harvest human organs in pigs create human-pig embryo
+ Read more  
+<https://www.theguardian.com/science/2016/jun/05/organ-research-scientists-combine-human-stem-cells-and-pig-dna>
+The research into pig embryos is not the first attempt to create chimeras. 
+Among the previous experiments, scientists using different techniques were able 
+to produce amouse with a rat’s pancreas 
+<http://www.ncbi.nlm.nih.gov/pubmed/20813264> and mice with livers almost 
+completely composed of human cells 
+<https://www.salk.edu/insidesalk/articlenph.php?id=168>.
+
+But this time, researchers are hoping that their approach will eventually lead 
+to the possibility of growing human organs suitable for transplant.
+
+To create the “chimeric” embryos, the scientists used a gene-editing technique 
+known asCrispr 
+<https://www.theguardian.com/science/2015/may/10/crispr-genome-editing-dna-upgrade-technology-genetic-disease>
+ to knock out a section of the pig’s DNA necessary for the embryo to develop a 
+pancreas. They then injected human induced pluripotent (iPS) stem cells into 
+the pig embryo. These are cells that have the potential to develop into any 
+tissue type in the resulting foetus. Although genetically foreign, they are not 
+rejected by the pig embryo because its immune system has not yet developed.
+
+The human cells would be expected to follow the chemical cues from the pig 
+embryo to develop into different tissues in the foetus. In most cases, they are 
+outcompeted by the pig embryo’s own cells but in the case of the pancreas there 
+are no pig cells to compete with. Hence the embryo goes on to develop a 
+pancreas derived from the injected human cells. After 28 days, the experiment 
+is terminated and the scientists investigate the tissue to see how the embryo 
+is developing and explore what the human cells are up to.
+
+“You are basically creating a vacuum, a hole, so that the human cells respond 
+to the right cues; they make a pancreas. The pig cells can’t. But what we don’t 
+know, and this is what they need to look at, is whether the human cells can 
+also contribute substantially to other tissues, and particularly they are 
+worried about the brain,” said Robin Lovell-Badge, a geneticist at theFrancis 
+Crick Institute <https://www.crick.ac.uk/> in London.
+
+It was reported earlier this year that scientists had begun attempts to create 
+the embryos, but in September last year, theUS National Institutes of Health 
+<https://www.nih.gov/> said it would not back research into “chimeras” produced 
+from embryos until it knew more about the implications. It cited fears that the 
+presence of human cells could affect an animal’s brain and behaviour, 
+potentially making it more human.
+
+Human-pig embryos Q&A: how would 'chimeras' make transplant organs?
+ Read more  
+<https://www.theguardian.com/science/2016/jun/06/human-pig-embryos-qa-chimeras-transplant-organs-scientists>
+Pablo Ross, the reproductive biologist from the University of California, 
+Davis, who is leading the research, sought to calm those fears, saying there 
+was a “very low potential for a human brain to grow”.
+
+“Our hope is that this pig embryo will develop normally, but the pancreas will 
+be made almost exclusively out of human cells and could be compatible with a 
+patient for transplantation,” he said.
+
+Lovell-Badge added that there were other problems to consider. While the 
+researchers hope that growing human organs inside a pig using induced 
+pluripotent stem cells from the human recipient could reduce the risk of organ 
+rejection, there could be complications. “There are other cell types that are 
+going to be present in the pancreas which come from the pig – including blood 
+vessels,” said Lovell-Badge. “Those would be a big problem and they would be 
+rejected by a human.” It is also possible that the surface of the human cells 
+might be modified inside the pig embryo, also potentially leading to rejection.
+
+
+
+Peter Stevenson, from Compassion in World Farming 
+<https://www.theguardian.com/sustainable-business/compassion-world-farming-animal-welfare>
+, told the BBC’s Panorama programme: “I’m nervous about opening up a new source 
+of animal suffering. Let’s first get many more people to donate organs. “If 
+there is still a shortage after that, we can consider using pigs, but on the 
+basis that we eat less meat so that there is no overall increase in the number 
+of pigs being used for human purposes.”
+
+George Church, professor of genetics at Harvard Medical School, who has led 
+similar research into the possible use of chimeras, told the broadcaster: “It 
+opens up the possibility of not just transplantation from pigs to humans but 
+the whole idea that a pig organ is perfectible.
+
+“Gene editing could ensure the organs are very clean, available on demand and 
+healthy, so they could be superior to human donor organs.”
+ 

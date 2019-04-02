@@ -1,0 +1,187 @@
+
+How are creative writing courses changing literary culture? It’s the kind of 
+imponderable, unanswerable question that setswriter against writer 
+<http://www.slate.com/articles/arts/culturebox/2010/11/mfa_vs_nyc.html>, critic 
+against critic 
+<http://www.salon.com/2011/10/22/why_critics_of_mfa_programs_have_it_wrong/>, 
+withlittle sign of any resolution 
+<http://www.nytimes.com/2015/04/12/education/edlife/12edl-12mfa.html?_r=0>. But 
+what if you could just measure it?
+
+That’s the promise of cultural analytics – computer-powered criticism 
+currently on the rise across the humanities. The growing push of big data into 
+English departments can traced in headlines; this year alone we’ve seen 
+scientists findevidence of mathematical structures in classic books 
+<https://www.theguardian.com/books/2016/jan/27/scientists-reveal-multifractal-structure-of-finnegans-wake-james-joyce>
+, researchers claiming that complex narratives areformed from just six “core 
+trajectories” 
+<https://www.theguardian.com/books/booksblog/2016/jul/13/three-six-or-36-how-many-basic-plots-are-there-in-all-stories-ever-written>
+ and a study suggesting MFA programmes have hadlittle effect on the 
+contemporary novel 
+<http://www.theatlantic.com/entertainment/archive/2016/03/mfa-creative-writing/462483/>
+ (apart from MFA writers preferring names such as Ruth, Pete, Bobby, Charlotte, 
+and Pearl).
+
+The results may be very different, but the basic strategy is just the same: 
+take hundreds or thousands of books, feed the text into a computer and subject 
+it to statistical analysis.
+
+But why is this method on the rise? What are researchers hoping to achieve? 
+And can computers tell us anything valuable about what we read?
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2016%2Fsep%2F15%2Fwhat-is-the-point-of-cultural-analytics-computers-big-data-literature%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe96fb93eb6beed4ff21c8a08050ada567dd3d43e%2F0_0_672_530%2F672.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text='It's%20like%20hitting%20a%20painting%20with%20a%20fish'%3A%20can%20computer%20analysis%20tell%20us%20anything%20new%20about%20literature%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2016%2Fsep%2F15%2Fwhat-is-the-point-of-cultural-analytics-computers-big-data-literature%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=%27It%27s%20like%20hitting%20a%20painting%20with%20a%20fish%27%3A%20can%20computer%20analysis%20tell%20us%20anything%20new%20about%20literature%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2016%2Fsep%2F15%2Fwhat-is-the-point-of-cultural-analytics-computers-big-data-literature%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe96fb93eb6beed4ff21c8a08050ada567dd3d43e%2F0_0_672_530%2F672.jpg>
+A cultural analysis study 
+<https://www.theguardian.com/books/2016/jan/27/scientists-reveal-multifractal-structure-of-finnegans-wake-james-joyce>
+ that found James Joyce’s novel Finnegans Wake followed the structure of purely 
+mathematical multifractals. The horizontal axis represents the degree of 
+singularity, and the vertical axis shows the spectrum of singularity. 
+Photograph: IFJ PAN 
+According to Andrew Piper, one of the authors on that study of MFA programmes 
+<http://www.theatlantic.com/entertainment/archive/2016/03/mfa-creative-writing/462483/>
+, the growth in cultural analytics isn’t only down to better tech and our 
+ability to handle bigger datasets. “There is a major flaw to all methodologies 
+in the humanities,” he says. “Traditional methods are not able to generalise in 
+legitimate and transparent ways – though we have tried.”
+
+Think of the critic who reads a few poets and generalises about “modernity”, 
+or the anthropologist who studies a few actors in a specific place and 
+generalises a region, where the area considered is “always larger than the 
+space actually observed”, Piper says. Cultural analytics can do the heavy 
+lifting humans can’t (or won’t) do. “Traditional scholars who work at small 
+scale never like to admit they may have a sample bias or a problem of 
+generalisation,” he says. “That’s what is changing.”
+
+Piper, who runs a digital humanities lab at McGill University 
+<http://txtlab.org/>, in Montreal, expands on this argument in the introduction 
+to his new journal, Cultural Analytics 
+<http://culturalanalytics.org/2016/05/there-will-be-numbers/>. He begins by 
+considering Erich Auerbach’s monumental study of western literature, Mimesis, 
+published in 1953 and hailed as one of the landmark works in 20th-century 
+criticism. It delivered categorical judgments on works from Homer through to 
+Virginia Woolf. “Who would ever presume to have read more than Auerbach?” Piper 
+writes. “But what if he actually hadn’t read enough?”
+
+An individual scholar can only consider or read a certain number of books in a 
+lifetime, so how can anyone hope to truly grasp a phenomenon as broad and 
+varied as modernism, let alone place it in a historical context? It is only by 
+analysing a large number of texts and by clearly specifying which ones we have 
+studied that we earn the right to draw general conclusions – and the loss of 
+detail that comes from considering literature in bulk is the price we must pay 
+if we want to generalise. “We can’t know something at the general level as 
+complexly as we can at the local level,” Piper says. “There is an inverse 
+relationship between the number of things considered and the complexity of what 
+can be known about them.”
+
+The process by which certain texts gain cultural privilege is screened out as 
+though it didn’t matter
+Josh Cohen 
+But for Josh Cohen, professor of modern literary theory at Goldsmiths, 
+University of London, Piper’s solution risks erasing the very differences that 
+make culture worth studying in the first place. English departments have 
+attempted to address the problem of small sample size for years – interrogating 
+the canon of dead, white males by examining works by women and minorities, for 
+example – but Cohen says: “I don’t believe analytics is the answer to the 
+problem.”
+
+Some books have always been more important than others in shaping literary 
+culture, Cohen continues, emerging through processes influenced by class, race 
+and gender, as well as aesthetic quality. Traditional critics have taken this 
+as a given, and so have focused on studying those works more closely. “But is 
+this such a bad thing?” Cohen says. “The alternative is that we analyse culture 
+as if this process of transmission hadn’t occurred, which as far as I’m 
+concerned is to travesty culture itself. The process by which certain texts 
+gain cultural privilege is screened out as though it didn’t matter – there’s 
+something unwittingly distorting, even dishonest, about that.”
+
+
+Compare Francis Ford Coppola’s Oscar-winning 1972 masterpiece The Godfather 
+withThe Don is Dead 
+<http://www.nytimes.com/movie/review?res=9405E5DA1731E63BBC4D52DFB7678388669EDE>
+, a lesser-known mafia drama by Richard Fleischer that was released a year 
+later. “From the perspective of analytics … [they] are both early 1970s 
+gangster movies. Treat them as part of the same, undifferentiated cultural soup 
+and, as far as I’m concerned, you’ve lost everything about them – either of 
+them – that makes them interesting,” Cohen says.
+
+Computers simply cannot account for human experience; no matter how much data 
+you have, “[it] will yield no insight into the way texts and cultural phenomena 
+of any kind become the object of love, hate, indifference, disgust … culture is 
+an irreducibly and intrinsically subjective phenomenon. This subjectivity isn’t 
+an inconvenience that can be discretely brushed aside or bracketed off.”
+
+The rise of computing in the humanities is testament to the “increasing 
+prestige of metrics”, Cohen continues, methods that come from science and which 
+discount individual experience as “hopelessly subjective and parochial”.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2016%2Fsep%2F15%2Fwhat-is-the-point-of-cultural-analytics-computers-big-data-literature%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe04703d81cf6e1cb24fc3c714812354815cba468%2F60_597_3604_4505%2F3604.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text='It's%20like%20hitting%20a%20painting%20with%20a%20fish'%3A%20can%20computer%20analysis%20tell%20us%20anything%20new%20about%20literature%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2016%2Fsep%2F15%2Fwhat-is-the-point-of-cultural-analytics-computers-big-data-literature%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=%27It%27s%20like%20hitting%20a%20painting%20with%20a%20fish%27%3A%20can%20computer%20analysis%20tell%20us%20anything%20new%20about%20literature%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fbooks%2F2016%2Fsep%2F15%2Fwhat-is-the-point-of-cultural-analytics-computers-big-data-literature%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe04703d81cf6e1cb24fc3c714812354815cba468%2F60_597_3604_4505%2F3604.jpg>
+ ‘The research culture has run out of anything sane to say about literature’ … 
+writer AL Kennedy. Photograph: Murdo MacLeod for the Guardian 
+According to the Booker-longlisted novelist AL Kennedy 
+<https://www.theguardian.com/books/alkennedy>, the rise of cultural analytics 
+stems from “a university mindset that doesn’t trust the arts and that does 
+trust something to do with figures and computers – while not understanding 
+them”, part of a culture that “likes tick boxes and learning outcomes”, but 
+with “no space for teaching and no space for learning”.
+
+“The research culture has run out of anything sane to say about literature and 
+is now groping around for further ways to not really analyse anything,” says 
+Kennedy. “It’s like hitting a painting with a fish – why would you?
+
+“Academia slowly decided – faster in the 1980s – that there was no way of 
+judging artistic merit and that it might not even exist. So I suppose you have 
+to find some other scale. The one they’ve picked is bizarrely inappropriate.”
+
+Kennedy is unconvinced by Piper’s argument that small samples are a fatal flaw 
+in traditional criticism. “I’m really not sure the samples are that small,” she 
+says, “and it depends what it is you’re trying to find out. This seems to be a 
+tool that has no purpose, designed by people who don’t understand something, on 
+behalf of some other people whose lack of understanding is different but 
+equally profound.”
+
+Analysis produced by cultural analytics, such as a study where University of 
+Vermont attempted to identify core components in storytelling 
+<https://www.theguardian.com/books/booksblog/2016/jul/13/three-six-or-36-how-many-basic-plots-are-there-in-all-stories-ever-written>
+, is completely useless to writers, Kennedy says: “Breaking storylines into 
+component parts is meaningless and unhelpful unless you want to write bad 
+screenplays of market methods of writing badly.”
+
+Anything that’s purely based on number crunching would give you the narrative 
+equivalent of sausage stuffing.
+AL Kennedy 
+Piper is equally critical of the Vermont study, dismissing it along with 
+others as “examples of why we can’t leave the computational study of culture to 
+the computer scientists.” He adds: “They are going to be important partners for 
+sure, but their ability to talk about literature and culture in meaningful ways 
+is pretty limited – the results are awfully reductive, or opaque,” he says.
+
+But framing cultural analytics as a battle between science v not-science 
+misses the point, Piper believes. “Literary and cultural studies … have always 
+thought about themselves as a ‘science’ in the more general sense ofwissenschaft
+ – a form of knowledge with methodological norms, expectations, and so on.” A 
+dissertation has always been defended with evidence, even in the humanities. 
+“It’s just that now we’re adding in new kinds of evidence and new kinds of 
+methods.”
+
+Instead of acting as a barrier, Piper believes these new methods are putting 
+researchers into closer engagement with the text. “There is a myth that when 
+you read something with a computer, you aren’t reading,” he says. “That is a 
+misunderstanding. I read more closely now than I ever have. In order to 
+understand how to model a problem I need a very clear understanding of what I 
+am talking about … For me to understand nostalgia, I need to clearly define it 
+and collect examples of it. This is the closest kind of reading.”
+
+Could cultural analytics reveal patterns unavailable to human readers? Can 
+computers uncover literary truths that might inspire the contemporary novelist? 
+Kennedy remains a sceptic: “Anything that’s purely based on number crunching 
+would give you the narrative equivalent of sausage stuffing.”
+
+ 

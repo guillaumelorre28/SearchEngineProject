@@ -1,0 +1,37 @@
+
+Why do we recommend browsers?
+
+Our site uses modern web standards to give the best possible reading 
+experience for our visitors. Although we aim to be readable on all possible 
+devices and browsers, not all are capable of running the full set of features.
+
+Therefore, we currently provide the opportunity to disable certain behaviours 
+while retaining the core group of navigation, article and video content.
+
+To find out more information and how to switch these features on and off 
+please see the preferencepage 
+<https://www.theguardian.com/info/2015/sep/22/making-theguardiancom-work-best-for-you>
+.
+
+If you are not sure which browser you are using, you can find out at 
+whatbrowser.org <http://whatbrowser.org/>, where you can also find out how to 
+upgrade it if necessary.
+
+What browsers do you fully support?
+
+For the full experience, you require one of the following browsers or later:
+
+ * Google Chrome <https://www.google.com/chrome/> 49+ 
+ * Mozilla Firefox <https://www.mozilla.org/firefox/products/> 46+ 
+ * Internet Explorer  
+<https://www.microsoft.com/download/internet-explorer.aspx>11 
+ * Microsoft Edge <https://www.microsoft.com/windows/microsoft-edge> 13+ 
+ * Apple Safari <http://www.apple.com/uk/safari/> 8+ 
+ * Opera <http://www.opera.com/download> 27+ 
+ * Opera Mini <http://www.opera.com/mobile/mini> 5.0+ 
+If you need more help on our supported browsers please contact 
+userhelp@theguardian.com <mailto:userhelp@theguardian.com>.
+
+
+
+ 

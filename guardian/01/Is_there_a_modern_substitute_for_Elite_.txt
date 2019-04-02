@@ -1,0 +1,29 @@
+
+Back in the day, I played Frontier: Elite II on my Atari ST. As far as I can 
+tell, Frontier isn't available for PCs, aside from a DOS version which I can't 
+get to work even with an emulator. Do you know of any comparable games that 
+might satisfy my nostalgia? Chris Morris
+
+You can download Frontier: Elite II and First Encounters from the Elite Club 
+<http://www.eliteclub.co.uk/download/> site. These are shareware, so you can 
+play them free for 30 days, after which registration costs £5. If it doesn't 
+work, you're supposed to be able to run it withDosBox 
+<http://en.wikipedia.org/wiki/DosBox>, which I assume is the one you tried.
+
+So, we're looking for an open-ended space flight game with trading, combat 
+(Frontier has more of the trading) and perhaps role-playing elements.
+
+The ones most often mentioned in this context are Microsoft's Freelancer 
+<http://www.microsoft.com/games/pc/freelancer.aspx> (trial version available), 
+Egosoft'sX3: Reunion <http://www.egosoft.com/games/x3/info_en.php> and DarkStar 
+One <http://www.darkstar-one.com/>.
+
+What do you think?
+
+For completeness, I should also mention Elite 4, about which there is an 
+official FAQ dated 2000,2001 <http://www.frontier.co.uk/games/elite4/faq.html>. 
+Play.com reckons it's "Due for release on 28/11/2008 
+<http://www.play.com/Games/PC/4-/680942/Elite-IV-The-Next-Encounter/Product.html>
+". You might get a different answer fromNostradamus 
+<http://www.crystalinks.com/nostradamus.html>.
+ 

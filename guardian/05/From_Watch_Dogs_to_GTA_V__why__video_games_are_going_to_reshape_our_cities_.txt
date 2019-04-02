@@ -1,0 +1,392 @@
+
+On 16 November 2009, police found the distended body of a 60-year-old man in 
+the Chicago river. It was Michael Scott, president of the Chicago Board of 
+Education. A single, close-range gunshot to the left temple suggested foul play.
+
+That is, until a month later, when the police department revealed that 
+pioneering data analytics 
+<http://www.polygon.com/features/2013/10/16/4817988/watch-dogs-invasion> had 
+been used to sift through a haystack of video footage from the city’s CCTV 
+cameras. The all-seeing eyes had tracked Scott’s blue Cadillac to its terminus 
+on the river's east bank. He was alone: it was suicide.
+
+This harrowing story unsettled Illinois five years ago, and became an 
+inspiration for the video gameWatch Dogs, released last week 
+<https://www.theguardian.com/technology/2014/jun/01/watch-dogs-review-ubisoft-shooter>
+. Set in near-future Chicago, it follows hacker hero Aiden Pearce as he tries 
+to stay alive in a city where a single mainframe – the Central Operating System 
+(CtOS) – controls the urban electronic infrastructure. “We extrapolated a bit 
+from what was happening in 2009,” says Watch Dogs creative director Jonathan 
+Morin. “But there was a feeling that, because of the city’s history, Chicago 
+was the kind of place where the authorities might actually install something 
+like CtOS.”
+
+
+Watch Dogs, which sold 4m copies 
+<http://variety.com/2014/digital/news/watch-dogs-breaks-sales-records-for-ubisoft-provides-bright-future-for-original-games-1201210422/>
+ in its first week, is just the latest game to thrust the player into a 
+detailed, pulsating and populous artificial metropolis. Ubisoft's previous 
+bestsellers, the Assassin's Creed series, modelled the cities of Renaissance 
+Italy; Rockstar's Grand Theft Auto has given us pimped-out versions of New York 
+(Liberty City), LA (Los Santos) and Miami (Vice City). But as these virtual 
+cityscapes become ever more closely synced with their real counterparts, does 
+the street run the other way, too? Can video games teach us about our cities, 
+and how we might want them to play out?
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F9%2F1402334215941%2F21dc338b-8b6d-4437-a5b2-c6757d8174f8-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=From%20Watch%20Dogs%20to%20GTA%20V%2C%20why%20'video%20games%20are%20going%20to%20reshape%20our%20cities'&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=From%20Watch%20Dogs%20to%20GTA%20V%2C%20why%20%27video%20games%20are%20going%20to%20reshape%20our%20cities%27&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F9%2F1402334215941%2F21dc338b-8b6d-4437-a5b2-c6757d8174f8-2060x1236.jpeg>
+ The Willis Tower, Chicago, pictured in Watch Dogs 
+Bottling metropolis mojo in video games has become a painstaking artisanal 
+labour, one that is conducted by the 21st-century equivalent of Renaissance 
+fresco workshops. Ubisoft, for example, had more than 1,000 people working on 
+Watch Dogs. Morin says they chose Chicago because of its reputation as a “city 
+of crisis”: the rebuilding after theGreat Fire of 1871 
+<https://www.theguardian.com/artanddesign/picture/2013/oct/10/photography-chicago-fire>
+; the overhaul of the police force afterAl Capone 
+<https://www.theguardian.com/artanddesign/picture/2014/jan/25/photography-us-crime>
+;the riots of 1919 and 1968 
+<http://www.encyclopedia.chicagohistory.org/pages/1032.html> that caused the 
+city to re-examine race relations. “They are proud to stand back up after big 
+problems,” Morin says. “And they always seem to do it through innovation in 
+terms of how the city is run. They always end up taking very ballsy moves, 
+which is why we thought CtOS was plausible there.”
+
+Chicago’s office of emergency management and communications 
+<http://www.cityofchicago.org/city/en/depts/oem.html> has indeed pioneered an 
+integrated operations centre, which unifies public and private security feeds 
+into one of the world’s largest surveillance networks – an estimated 24,000 
+cameras. (Ubisoft’s Montreal headquarters is just a few kilometres fromGenetec 
+<http://www.genetec.com/>, whose software helps monitor the Chicago footage.) 
+But Ubisoft didn’t get any access to that network. So how exactly do you go 
+about modelling an urban ecosystem?
+
+
+If there is one man who knows what an imposing task it is, it’s Will Wright 
+<https://www.theguardian.com/technology/2007/oct/26/willwright>, creator of 
+1989’s seminalSimCity <http://en.wikipedia.org/wiki/SimCity>. “Cities are 
+amazingly complex systems,” Wright told me from his home in Oakland, 
+California. “Millions of autonomous agents – the people – making millions of 
+decisions: where to live, where to work, where to eat lunch. Those millions of 
+decisions are the city.”
+
+
+The Watch Dogs team tried to get a handle on those millions of decisions by 
+applying an old-fashioned technique: the field trip. They made repeated visits 
+to take photos of different neighbourhoods and landmarks, such as the Willis 
+tower; they recorded ambient audio and observed people’s behaviour. They wanted 
+the unauthorised tour: beyond police escorts into sketchier areas, they didn’t 
+enlist much official cooperation. Scouting out the city’s deprivedEnglewood 
+<http://en.wikipedia.org/wiki/Englewood,_Chicago> district, they fell victim to 
+a case of mistaken identity. “We were in a big red van, so as soon as we got 
+out, people starting yelling, ‘FBI! FBI!’ and running away,” says level-design 
+director Sebastien Galarneau. The team have also brought the virtual and real 
+together,with a site that shows how much data is available right now on real 
+cities, such as London, Paris and Berlin <http://wearedata.watchdogs.com/>. 
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F9%2F1402315977613%2Fca287420-079d-4103-ba01-91214468470b-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=From%20Watch%20Dogs%20to%20GTA%20V%2C%20why%20'video%20games%20are%20going%20to%20reshape%20our%20cities'&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=From%20Watch%20Dogs%20to%20GTA%20V%2C%20why%20%27video%20games%20are%20going%20to%20reshape%20our%20cities%27&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F9%2F1402315977613%2Fca287420-079d-4103-ba01-91214468470b-2060x1236.jpeg>
+ 'People started yelling FBI! FBI!' ... Englewood, Chicago was one of the 
+neighbourhoods the Watch Dogs team visited to model. Photograph: Getty 
+Everyone who has developed an "open-city" game undertakes the same trawl for 
+authenticity.Shenmue 
+<https://www.theguardian.com/technology/2014/may/02/shenmue-sega-classic-14-years-too-late>
+ was the genre's first modern 3D incarnation, modelling the streets of Hong 
+Kong in 1999, while last year’sGrand Theft Auto V 
+<https://www.theguardian.com/technology/grand-theft-auto> is generally agreed 
+to be the high-water mark: Rockstar distilled 250,000 photographs andcountless 
+hours of video 
+<https://www.theguardian.com/technology/gamesblog/2012/nov/12/grand-theft-auto-v-preview-gta-5>
+ into Los Santos, their version of Los Angeles and its hinterland. It isn't 
+always easy, says Watch Dogs' Galarneau. "It was a stressful experience going 
+into the back alleys taking pictures of abandoned homes, weird railings ... the 
+dark places of the city."
+
+But developers must also strike a balance between fidelity and fun. For 
+instance, Ubisoft tampered with Chicago’s grid layout, to encourage a more 
+stimulating (ie carnage-filled) driving experience.Sleeping Dogs 
+<https://www.theguardian.com/technology/gamesblog/2012/aug/14/sleeping-dogs-review>
+ (2012) crammed Kowloon and many of Hong Kong’s other districts on to the main 
+island, which is considerably less populated in real-life. “Some of the alleys 
+are very tight,” says lead designer Mike Skupa. “The organic nature of the city 
+is just incredible – it keeps on getting built on top of itself.”
+
+The Assassin’s Creed franchise, a Ubisoft titan that towers over the field 
+alongside Grand Theft Auto, has mocked up 14 cities across four different time 
+periods. ForAssassin's Creed: B 
+<https://www.theguardian.com/technology/gamesblog/2010/nov/16/assassins-creed-brotherhood-game-review>
+rotherhood 
+<https://www.theguardian.com/technology/gamesblog/2010/nov/16/assassins-creed-brotherhood-game-review>
+, set in 1499, Ubisoft figured players wouldn’t stand for a virtual Rome bereft 
+of the dome of St Peter’s, on which work only began in 1506. So they finagled 
+it in – the only significant deviation from scrupulous historical accuracy 
+(with respect to the architecture, at least) that made an archaeologist out of 
+lead designer Patrick Plourde. “We had to break the whole present-day city 
+down. We had a historian who would say: that’s baroque – no good. That’s 
+medieval – you can use it. Early Renaissance – good. Late Renaissance – no 
+good.”
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F9%2F1402315699265%2F3c26e082-1843-4742-af12-2ae46fbe6bf4-1020x612.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=From%20Watch%20Dogs%20to%20GTA%20V%2C%20why%20'video%20games%20are%20going%20to%20reshape%20our%20cities'&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=From%20Watch%20Dogs%20to%20GTA%20V%2C%20why%20%27video%20games%20are%20going%20to%20reshape%20our%20cities%27&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F9%2F1402315699265%2F3c26e082-1843-4742-af12-2ae46fbe6bf4-1020x612.jpeg>
+ 'The organic nature of the city is just incredible' ... Kowloon was merged 
+with the main Hong Kong island for the 2012 game Sleeping Dogs. Photograph: 
+Paul Hilton/EPA 
+In this increasingly crowded field, each virtual city has its own style: 
+Assassin’s Creed <http://assassinscreed.wikia.com/wiki/Assassin%27s_Creed_Wiki> 
+uses a “social-stealth” system that relies on sophisticated crowd dynamics; 
+Sleeping Dogs emphasises pedestrianism; Watch Dogs, surveillance. By 
+encompassing all these different facets of city living, open-world game 
+development is approaching a form of urban planning – albeit a fantasy version, 
+in which the designer has near-godlike agency. They're not quite free of 
+budgetary restrictions, perhaps, but they're unencumbered by local politics, 
+and can cut and paste neighbourhoods, orchestrate traffic flows and command the 
+weather.
+
+SimCity, of course, handed this panoply of powers to the player. Will Wright, 
+was inspired, among many things, by the work of JW Forrester – whose 1969 book
+Urban Dynamics [PDF] 
+<http://www.exponentialimprovement.com/cms/uploads/UrbanDynamicsFirstFiftyYears.pdf>
+, a collaboration with a former Boston mayor, pioneered a computer model for a 
+simulating city environments. By breaking down social and economic forces into 
+118 equations, it encouraged people to stop thinking passively of urban 
+problems as sculpted by external forces, like rural-to-urban migration, and 
+start envisioning a more dynamic, adjustable ecosystem. With SimCity, planners 
+got their first taste of play; and thousands of players later became planners.
+
+Wright now thinks we may be on the verge of another breakthrough. “I’ve always 
+like the metaphor of the city as a body – the roads are the circulatory system, 
+the nervous system is communication," he says. "In some sense we are now 
+overlaying a whole new nervous system on our cities, with new information flows 
+and feedback. For the first time, through social networks, we have real metrics 
+about the things that happen thanks to the millions of individual agents in the 
+city.” With the digital and the physical finally speaking the same language, 
+there's surely never been a better time for games to reshape our cities.
+
+
+***
+
+
+Wright lives in the hills of Oakland. He digs the ocean view, but says it’s 
+one of the “most dysfunctional” Bay Area cities. He admires neighbouring 
+Emeryville: “They’ve taken a totally different approach to zoning and 
+governance, and they’ve been extremely successful. It’s a very small area, but 
+that’s where a lot of the new development in shopping areas and office space 
+has gone.”
+
+Lined up side-by-side, the Bay Area cities are a perfect illustration of the 
+unpredictability of actual cities. As he puts it: “When you throw humans in the 
+mix, things become very, very counterintuitive.” But though cities have a way 
+of outgrowing any model, video games are starting to provide tools to keep 
+ahead.
+
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F9%2F1402315885093%2F433f2c96-e652-45f1-91c7-5bff201835d6-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=From%20Watch%20Dogs%20to%20GTA%20V%2C%20why%20'video%20games%20are%20going%20to%20reshape%20our%20cities'&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=From%20Watch%20Dogs%20to%20GTA%20V%2C%20why%20%27video%20games%20are%20going%20to%20reshape%20our%20cities%27&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F9%2F1402315885093%2F433f2c96-e652-45f1-91c7-5bff201835d6-2060x1236.jpeg>
+ 'When you throw humans in the mix, things become counter-intuitive' ... Will 
+Wright, creator of the seminal SimCity. Photograph: Ryan Anson/Getty 
+Second Life <https://www.theguardian.com/technology/secondlife> and Minecraft 
+<https://www.theguardian.com/technology/minecraft> have been used to visualise 
+built environments, such as theBlockholm <http://www.blockholm.com/> project, a 
+state-funded recreation of the Swedish capital using the Minecraft engine. 
+Based on official land data, the simulation allowed players to propose future 
+buildings; the best 10 were publicly exhibited and put up for planning 
+consideration. MeanwhileBlock by Block 
+<https://mojang.com/2012/09/mojang-and-un-presents-block-by-block/>, an 
+initiative by the UN human settlement programme UN Habitat, used Minecraft to 
+involve residents in shaping community spaces around the world, like 
+redesigning football fields in Nairobi’s Kibera slum. For more finessed-looking 
+3D world-building, there are commercial programs likeCityEngine 
+<http://www.esri.com/software/cityengine>, which was used to remake a section 
+of Marseille for a significant redevelopment project 
+<http://www.eiffage.com/cms/developpement_durable/preparer_avenir/phosphore/projet-marseille.html>
+ and to create a futuristic cityscape for aMinistry of Sound commercial 
+<https://www.youtube.com/watch?v=doaC2bql7Ho>. For civic organisations, 
+however, such programs remain expensive (if not quite in the $265m league of 
+Grand Theft Auto V).
+
+Chris Haller, founder of Urban Interactive Studio 
+<http://urbaninteractivestudio.com/>, also experienced his “big a-ha moment” 
+playing SimCity. His company now applies game mechanics, such as interactive 
+visual elements and a scoring system, to public-engagement projects like 
+surveys. “We often see this vicious circle in the typical town hall meeting,” 
+he says. “People yell and start demanding certain things. And the planners go 
+into defensive mode, because they think the ideas are pie-in-the-sky. It 
+becomes very unproductive.”
+
+ 'Big a-ha moment' ... SimCity inspired countless planners, and led Chris 
+Haller to apply game mechanics to public projects like town hall meetings 
+His "gamified methodology" seeks to open up the planning process for all 
+parties, by drawing more people out and giving equal weight to all voices, not 
+just the loudest. Bannock county, Idaho used the studio’s BrightPages app to 
+liven upfour alternative scenarios for its transportation system 
+<http://engagingcities.com/article/4-steps-highly-engaging-plan-documents>; the 
+participants opted forone that adapted existing infrastructure 
+<http://mtp2040.org/preferred-scenario>, to minimise additional public spending.
+
+Eric Gordon, director of Emerson College's Engagement Lab 
+<http://engagementgamelab.org/> in Boston, takes a more purist approach. He 
+says gamification does a good job of getting people to talk about pre-defined 
+goals, but true games have other advantages. “They’re not about making a 
+process more efficient – a game is probably the least efficient method of doing 
+anything. There are goals, but you have obstacles in your way that aren’t 
+necessary. You agree to be part of that system, and you play towards your goals 
+without taking the most efficient route. A game gives people a chance to 
+imagine things in a different way, not just get there faster.”
+
+In 2010, he devised Participatory Chinatown 
+<http://www.participatorychinatown.org/>, a role-playing game in which 
+Bostonians were invited to play one of 15 fictional residents, and complete 
+missions like finding a job or a place to hang out. “People said they 
+appreciated the perspective of this other person they got to play," he says. 
+"They told the story of what was happening in a very different way – much more 
+personalised.” But the method has its limitations: “They might play, say, an 
+immigrant who couldn’t afford to buy a coffee at Starbucks every morning. But 
+if they wanted a Starbucks on every corner in real life, that was still the 
+case [after they finished the game]. Playing Grand Theft Auto doesn’t make me 
+want to shoot people, so why would playing a pro-social video game make me more 
+pro-social?”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-6%23img-6&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F9%2F1402334009179%2F755cf42c-d81f-46fa-9289-f067a8b96b22-2060x1236.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=From%20Watch%20Dogs%20to%20GTA%20V%2C%20why%20'video%20games%20are%20going%20to%20reshape%20our%20cities'&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-6%23img-6>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=From%20Watch%20Dogs%20to%20GTA%20V%2C%20why%20%27video%20games%20are%20going%20to%20reshape%20our%20cities%27&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3Fpage%3Dwith%3Aimg-6%23img-6&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F9%2F1402334009179%2F755cf42c-d81f-46fa-9289-f067a8b96b22-2060x1236.jpeg>
+ 'People appreciated the perspective of this other person they got to play' ... 
+Participatory Chinatown, in which Bostonians were invited to play one of 15 
+fictional residents 
+Gordon hopes for a more subtle effect – to exploit the play-centric space of 
+video games to challenge people’s moral frameworks, to get them to give answers 
+they didn’t know they would, to obtain more nuanced findings for the planning 
+process. He calls it “augmented deliberation”. His ideas had their biggest 
+trial in 2012 during a three-week series of games, involving over 1,000 
+players, that fed recommendations about transport and zoning intoDetroit’s 
+Future City study <http://detroitfuturecity.com/>, which maps out the next 50 
+years for the embattled metropolis.
+
+Social experiments like this could just be the start, Gordon thinks: “Games 
+are inevitably going to reshape what cityscapes look like.” He compares their 
+potential impact to the development of New York’s Times Square in parallel with
+the early urban films of Thomas Edison 
+<https://www.youtube.com/watch?v=BQr_V7ie5fI>: their primitive tracking shots 
+fostered a new conception of the "moving" city that also found expression in 
+the square’s illuminated advertising, known as “sky signs”. “People would stop 
+and watch [the ads] for minutes at a time, and bask in the kinetic energy of 
+that space,” says Gordon, “The idea of the ur-city, [ultimate city] became the 
+city in movement. Times Square was considered the centre of New York, and New 
+York the centre of world urbanism.”
+
+He thinks that video games could now have a similar effect on how we think of 
+cities, born out of countless Xbox rampages. Pursuits like parkour – physically 
+moving through a city like an obstacle course – could be seen as analogues of 
+untrammelled video game freedom, and better ones than clunky transpositions like
+Pac-Manhattan <http://pacmanhattan.com/> (though location-based games, such as 
+the popular geo-tagging "wargame"Ingress 
+<https://www.theguardian.com/technology/2014/jun/04/ingress-the-game-that-reveals-googles-secret-war-to-control-london>
+, are undeniably getting more sophisticated). The whole idea of the "smart 
+city", networked up to deliver all services conceivable, is a sublimation of 
+the gamer’s bottomless inventory and notion of place as malleable to their 
+every need. The global fantasy architecture of places like Dubai, Shanghai and 
+even the new London skyline, elasticating the limits of spatial feasibility, 
+seems to have been pulled direct from the digital realm.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-7%23img-7&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F10%2F1402393296333%2F84fbaf56-cbcb-4372-abcd-305c02c7c539-1020x612.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=From%20Watch%20Dogs%20to%20GTA%20V%2C%20why%20'video%20games%20are%20going%20to%20reshape%20our%20cities'&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-7%23img-7>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=From%20Watch%20Dogs%20to%20GTA%20V%2C%20why%20%27video%20games%20are%20going%20to%20reshape%20our%20cities%27&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2F2014%2Fjun%2F10%2Fwatch-dogs-gtav-video-games-reshape-cities-sim-city-will-wright%3Fpage%3Dwith%3Aimg-7%23img-7&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2014%2F6%2F10%2F1402393296333%2F84fbaf56-cbcb-4372-abcd-305c02c7c539-1020x612.jpeg>
+ City as obstacle course ... a map of Chicago in Watch Dogs 
+All very exciting for any Google Glass cyborgs keen to lord it over the Tron 
+boulevards of the future. But the danger is that the human element gets 
+sidelined. On one level that just means forgetting that cities are, in fact, 
+the people who live there: for example, the University of Michigan 
+Transportation Research Institute (UMTRI) and Xerox are building a32-acre 
+simulated city 
+<http://www.fastcoexist.com/3031302/this-real-life-sim-city-will-be-a-testing-ground-for-new-transportation-technologies>
+, with buildings, benches, intersections, street lights, traffic signals, 
+signs, construction barriers and, as Fastcompany puts it, "every other 
+complication of city life that a driver might encounter ... except wayward 
+pedestrians". On a deeper level, Watch Dogs aims to flag up the perils of data 
+centralisation, such asRio de Janeiro’s 2016 Smart Cities pledge 
+<https://www.theguardian.com/cities/2014/may/23/world-cup-inside-rio-bond-villain-mission-control>
+, which feeds off citizen-sourced data and occupies a perilous zone between 
+civic empowerment and Orwellian control. “Centralising information so you can 
+better dispatch civic resources is an inevitable need in the evolution of our 
+society, but we need to be cautious about the consequences,” says Watch Dogs' 
+Morin. “We all love our phones, put a lot of information on them. But we 
+sometimes fail to step back and look at the big picture. That’s why we give the 
+power of hacking to the player – all the temptation and desire to exploit the 
+weaknesses around them.”
+
+Gordon and Haller are similarly concerned that citizens win out in the great 
+tech march forwards. The former says he is aware that co-opting video games 
+into public engagement could be “used to pacify people into a haze of fun”. In 
+his eyes, it’s vital that game-driven urban planning delivers tangible results 
+for citizens, and doesn’t slip into the kind of trendy "participative" 
+marketing more likely to serve business interests. You could question other 
+gamified projects: London’s Oystercard gameChromaroma 
+<http://www.chromaroma.com/>, which awards points for different journeys, could 
+be useful for amassing travel data, but might equally be rattling the can to 
+get more money for TfL. Is Ingress a canny way of co-opting people into urban 
+mapping or, just a giant Google advert? “I want to see responsible use of games 
+that deploys what they’re good at – creating a context of play that allows 
+people to experiment safely with possibilities in the civic realm and 
+ultimately empower them,” says Gordon.
+
+On the other side of the looking glass, games developers have their own 
+version of the problem. Their clockwork cities are ever more immaculate, but 
+Morin admits they fall short on the people front: the sense of a city as a 
+wondrous, unconducted symphony of individual minds.Games 
+<https://www.theguardian.com/technology/games> are struggling to move beyond 
+the looped dialogue and behaviour scripts of the past; Watch Dogs hints at the 
+idea of citizens having inner lives, but mostly to deliver the game’s satirical 
+slugs about privacy.
+
+Plourde dwells similarly on the strengths and limitations of the first, 
+Crusades-set Assassin’s Creed. “It was the best one in terms of low-level 
+immersion: being able to walk around and watch what people were doing. But it 
+was not well-realised in terms of making the crowd an active element in the 
+gameplay.” He says that the sequels were a constant struggle to maintain the 
+illusion of a spontaneous city – ensuring that a player never rounded a corner 
+to find no one there, or aMatrix-like glitch in the system 
+<https://www.youtube.com/watch?v=z_KmNZNT5xw>.
+
+Wright believes open-world developers are taking the wrong approach entirely. 
+“You look at GTA, and this amazing world Rockstar have created, and it’s all 
+hand-built," he says. "An evolutionary process didn’t lead to Los Santos: it 
+was 300 artists studying pictures, building models. They’re just painting a 
+portrait of a neighbourhood. It only gets you so far.” That way of thinking, he 
+says, hinders developers from bridging the gap between static (if beautifully 
+rendered) city backdrops and true, dynamic simulations. Rather, he envisions 
+games that work like evolution: an open-ended, unpredictable system. The 
+challenge is how to make such a thing compatible with the personalised drama, 
+all those sagas of rogue gangsters, cops and assassins so crucial to drawing in 
+the player.
+
+We’ll carry on inching our way towards the ultimate sim city. Playing it, 
+detached from the real world, could be the ultimate exercise in cynicism. Or 
+perhaps our playful instincts really can be meaningfully unleashed on our 
+streets. Wright has made a brilliant career in the gap between sim and reality, 
+between the model and the mortar, but even he stresses that the impulse to 
+sculpt cities has natural limits. “Utopia is always finite. The agenda changes 
+all the time. I don’t think there ever will be a utopian city.” Digital or 
+otherwise.
+
+
+• Which are the best video game cities? Share your favourites with 
+GuardianWitness 
+<https://www.theguardian.com/cities/2014/jun/10/best-video-game-cities>
+
+ 

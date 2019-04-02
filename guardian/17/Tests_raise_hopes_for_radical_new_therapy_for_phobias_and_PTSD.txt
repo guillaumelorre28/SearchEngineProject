@@ -1,0 +1,113 @@
+
+Scientists have raised hopes for a radical new therapy for phobias and 
+post-traumatic stress disorder (PTSD) with a procedure that can dampen down 
+fears linked to painful memories.
+
+The advance holds particular promise for patients because in early tests, 
+researchers found they could reduce anxieties triggered by specific memories 
+without asking people to think about them consciously.
+
+
+Phobias: The rationale behind irrational fears | Dean Burnett
+ Read more  
+<https://www.theguardian.com/science/brain-flapping/2013/jun/28/phobias-rationale-irrational-fears>
+That could make it more appealing than exposure therapy, which aims to help 
+patients overcome their phobias by making them confront their fears in a safe 
+environment, for example by encouraging them to handle spiders or snakes in the 
+clinic.
+
+
+The new technique, called fMRI decoded neurofeedback (DecNef), was developed 
+by scientists at the ATR ComputationalNeuroscience 
+<https://www.theguardian.com/science/neuroscience> Lab in Japan. Mitsuo Kawato, 
+who worked with researchers in the UK and the US on the latest study, said he 
+wanted to find an alternative to exposure therapy, which has a 40% drop-out 
+rate among PTSD patients.
+
+
+“We always thought this was ambitious, but it worked the way we hoped it 
+would,” said Ben Seymour, a clinical neuroscientist and member of the team at 
+Cambridge University. “We don’t completely erase the fear memory, but it is 
+substantially reduced.”
+
+
+The procedure uses a computer algorithm to analyse a patient’s brain activity 
+in real time and pinpoint moments when their fears can be overwritten by giving 
+them a reward. In the latest study, the reward was a small amount of money.
+
+
+Volunteers who took part in the study had their brain activity recorded while 
+images of red, green, blue or yellow circles flashed on a screen in front of 
+them. After viewing 50 or so images, a computer algorithm analysed the brain 
+scans and identified the brain activity linked to each colour image.
+
+ A brain image showing a pattern activity across the brain associated with one 
+of the fear-triggering stimuli. Photograph: Mitsuo Kawato/Ben Seymour 
+The next part of the study was more painful. The volunteers watched another 
+sequence of images flash up, but this time, two colours of circles, for 
+example, red and green, were followed by unpleasant, but tolerable electric 
+shocks. Brain activity and sensors on the skin showed the participants came to 
+fear those images being shown.
+
+
+Having induced fearful memories in the volunteers, the scientists then tried 
+to erase them. This time, the patients rested in the brain scanner and thought 
+about whatever they wished. They were not asked to think about the painful 
+memories, and none reported doing so.
+
+
+But even in rest, the brain is active. And from time to time, the electrical 
+activity of the brain resembled the patterns linked to green circles or red 
+circles, even when the volunteers were not thinking about them. When the 
+algorithm spotted this, it flashed up a message telling the participant they 
+had earned a monetary reward, to be picked up after the experiment.
+
+
+“We don’t want them to think about fear when they are in the scanner,” said 
+Seymour. “They are not aware what we are detecting in the brain activity.”
+
+
+Each volunteer had painful memories for both green and red circles, but the 
+scientists tried to erase only one of them. This allowed them to judge how well 
+the procedure worked. And work it did. After three one-hour sessions, the brain 
+scans showed no signs of anxiety when people were shown the images that 
+previously made them flinch, and sensors on their skin found their anxiety 
+response had halved. Details of the research are published inNature Human 
+Behaviour <http://nature.com/articles/doi:10.1038/s41562-016-0006>.
+
+
+The scientists are now investigating how long the fear is dampened down for. 
+“It might be that it’s not long lasting, that the fear memory comes back. We 
+don’t think it will, but we want to test that,” Seymour said.
+
+
+Virtual reality isn't just for gaming - it could transform mental health 
+treatment
+ Read more  
+<https://www.theguardian.com/science/blog/2016/may/05/virtual-reality-isnt-just-for-gaming-it-could-transform-mental-health-treatment>
+The Japanese team has already started scanning patients with phobias and PTSD. 
+“Hopefully in a few years, we can start systematic DecNef therapy,” Kawato told 
+the Guardian.
+
+
+One avenue the team is exploring amounts to a library of brain activity 
+signatures that correspond to the wild and varied fears that humans suffer. 
+Armed with that, a patient could arrive at a clinic, declare their phobia, and 
+have therapy to retrain their brain so they no longer feel terrified.
+
+
+Jonathan Lee, a psychologist at the University of Birmingham, said the work 
+served as an early proof of concept. “The idea of counter-conditioning to 
+reduce fear expression is by no means new, but the potential to achieve it 
+outside the realm of consciousness is intriguing and would certainly have 
+translational benefits,” he said.
+
+
+But Lee warned that it may be much harder to treat patients unconsciously if 
+they have truly traumatic memories. “I just doubt that this will be possible in 
+a clinical situation. First, any attempt to induce the pattern of activity 
+without triggering fear and anxiety might be doomed to failure. Or by 
+activating the pattern, this might inevitably lead to the production of fear 
+and anxiety,” he said.
+
+ 

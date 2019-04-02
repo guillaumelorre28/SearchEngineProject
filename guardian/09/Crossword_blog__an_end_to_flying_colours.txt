@@ -1,0 +1,58 @@
+
+A timely spot of housekeeping.
+
+This post comes to you in new clothes, or rather via the Guardian’s new 
+content-management system. Now, I don’t know my<iframe>s from my <div>s 
+nowadays, butthis Composer doodah 
+<https://www.theguardian.com/info/developer-blog/2014/mar/20/inside-the-guardians-cms-meet-scribe-an-extensible-rich-text-editor>
+ looks to me a Very Good Thing, in part because it’s based onScribe 
+<https://github.com/guardian/scribe>, a rich-text editor which the kindly 
+Guardian developers have open-sourced.
+
+If you are unmoved by that, or by the switch from R2 to Composer tout court, 
+you can take comfort in knowing that the technology which brings this website 
+to you is ethically sound and is elsewhere quietly making the world a better 
+place.
+
+The actual content is unchanged – with one less-glaring exception. The 
+colour-coding which has given regular readers such enlightenment and migraines 
+for so long is no more. There are good reasons for this, including 
+consideration for readers with interesting vision (though our old colour scheme 
+of #DF7401, #20B2AA, #B404AE and the others was chosen with this solicitude).
+
+No longer, then, will our featured clues have “old solvers knocked back” in a 
+shade to match the EY in the answer 
+<https://www.theguardian.com/crosswords/crossword-blog/2014/jul/28/crossword-sport-commonwealth-games-clues>
+. It seems only courteous to ask how we should proceed.
+
+
+The “cleanest” way might be to continue to denote the definition part of a 
+clue inbold and the wordplay in italics, and to explain how that wordplay works 
+in as near to brief plain English as possible –see last week’s roundup for an 
+example 
+<https://www.theguardian.com/crosswords/crossword-blog/2014/sep/15/crossword-roundup-scottish-independence-cryptic-clues>
+. And it might be no bad thing to link more often to entries inour ongoing 
+series Cryptic Crosswords for Beginners 
+<https://www.theguardian.com/crosswords/series/cryptic-crosswords-for-beginners>
+.
+
+
+An alternative is to use some of the notation that cryptic devotees have 
+developed over the life of the puzzle. I’m personally comfortable-ish enough 
+when looking at the solution for, say, a Listener puzzle to findstrings of 
+metacryptic code such as these 
+<http://www.listenercrossword.com/Solutions/S2014/Notes_4299.html> ...
+
+
+T(ob)Y (en)G(in)[E](er)S
+
+ZAG < + [P]ER
+
+... but I’m not thoroughly convinced that these jibe with this blog’s mission 
+to avoid further terrifying those who are interested in – but intimidated by – 
+cryptic crosswords.
+
+
+But we might be missing a fourth way. Over to you.
+
+ 

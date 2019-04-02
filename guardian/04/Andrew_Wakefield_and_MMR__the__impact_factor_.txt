@@ -1,0 +1,102 @@
+
+The Wakefield saga, brought to an unhappy conclusion by the General Medical 
+Council's decision 
+<https://www.theguardian.com/society/2010/may/24/mmr-doctor-andrew-wakefield-struck-off>
+ to strike the doctor at the heart of the MMR-"autism" controversy off the 
+British medical register, highlights many troubled issues in medical research: 
+the influence of funding sources and disclosure of conflicts of interest, the 
+role of big personalities and limited insight that may go with that, and the 
+question of regulation, to name but a few. But none would have caused this MMR 
+scare to run as it did had not the Lancet, the UK's most prestigious medical 
+journal, chosen to publish Andrew Wakefield's original study associating 
+gastrointestinal disease, MMR vaccination and developmental regression in the 
+first place.
+
+The standards of 1998 do not pertain today, but even then there was a strong 
+expectation that peer review would be rigorous and the Lancet would not have 
+published bad science – and it was difficult then for clinical researchers to 
+get published in that journal. It might be a little more difficult now.
+
+Much has been written on the purported association between the 
+gastrointestinal pathology findings and the children's developmental 
+regression: were the findings sufficiently rigorous, did interpretation of the 
+slides change and were these properly reported? There has been less focus on 
+what most interested the public – the link suggested between MMR vaccination 
+and developmental regression in eight of the 12 children. The paper reports 
+that the average interval from MMR vaccination exposure to first behavioural 
+symptoms was 6.3 days, with a range of 1-15 days. The point has been repeatedly 
+made that autism develops around the timeMMR 
+<https://www.theguardian.com/society/mmr> is given in any case, and that 
+temporal association does not prove causation. But looking at the reported 
+methods of gathering these data, Wakefield and colleagues state in their paper 
+– subsequently retracted by 10 of his 12 co-authors, and latterly by the Lancet 
+– that "the history was obtained by a senior clinician … In eight children, the 
+onset of behavioural problems had been linked, either by the parents or by the 
+child's physician, with measles mumps or rubella vaccination".
+
+This is key. Was this physician the same as the clinician who took the 
+history? Or the child's GP? Or the referring clinician? And how was the 
+question phrased? Was its wording standardised? Did those being asked about his 
+link know what hypothesis the researchers were exploring? Could the respondents 
+in any way have been included in the study because of a particular concern 
+about this link? It is even unclear whether Wakefield and colleagues confirmed 
+the date of exposure to the MMR vaccine by examining the primary care clinical 
+records.
+
+Such inadequate reporting should have resulted in rejection of the paper at 
+the outset. The variable, retrospective data collection, the excruciatingly 
+small number of cases, and a situation where parents were desperate to find a 
+cause for a child's illness, make recall bias highly likely. The meaning of the 
+findings is clearly at odds with the general conclusion of the paper in any 
+case; no peer reviewer should have let this pass.
+
+So, why did the Lancet make space for this paper? Medical journals are ranked 
+by their "impact factors", a score based on how often the papers they publish 
+are cited by other researchers. Impact factors, in turn, provide a pecking 
+order for researchers: although theUK Research Excellence Framework 
+<http://www.hefce.ac.uk/research/ref/> is circumspect about the value of "
+bibliometrics <http://en.wikipedia.org/wiki/Bibliometrics>", it is 
+inconceivable that journal status has no influence on ratings. Researchers are 
+sometimes driven to extremes to get their paper into high-impact journals, and 
+journals, in their turn, are fiercely keen to publicise their work. It is clear 
+that editors will consciously assess the likely "impact of a paper" not only on 
+its usefulness, but also on its potential citation career. They might also be 
+thinking, beyond the learned journals, about what the lay press might make of 
+it. Are controversial papers more likely to be published than research that is 
+methodologically solid, clinically useful, but probably unexciting to the 
+general public? That studies with negative findings are less likely to be 
+published, or published in journals with lower impact factors, is widely 
+recognised. (The Lancet, incidentally, has contributed considerably to 
+combating this by establishing peer-reviewing of study protocols, in which 
+decisions are made about which research papers will be sent out for review 
+based on a description of the research question and study methods alone, before 
+the findings themselves are known.)
+
+But where are the peer reviewers of this most controversial of papers in all 
+of this? Did the reviewers have expertise in research methods as well as in the 
+scientific topic area? Have their comments been subject to external scrutiny? 
+Did they point out the research methods' weaknesses? They were anonymous and 
+their reviews are not routinely part of the scientific or public record. Some 
+publication vehicles no longer allow anonymous peer review, and reviewer names 
+are published online, together with their reviews and authors' replies. This 
+transparency is helpful for all those interpreting the work; simultaneously, it 
+makes peer reviewers less vulnerable to recriminations, and authors and editors 
+more accountable.
+
+Had the sloppy research methods and reporting by Dr Wakefield and colleagues 
+been picked up and properly acted on, none of this would have happened. This 
+association in the minds of parents or physicians about the cases of eight 
+children would not have become a cause celebre, leading to the suffering and, 
+indeed, deaths of many children. Theeditor of the Lancet has written 
+<http://spiked-online.co.uk/Articles/0000000CA6F2.htm> that the decision to 
+publish the Wakefield paper must be seen in the context of criticism of the 
+government for not making known early reports of bovine spongiform 
+encephalopathy risk. If Wakefield's methods had been robust, that would have 
+been fair enough.
+
+Robust clinical epidemiology – the basic tools for collecting and interpreting 
+the clinically meaningful data – should never stop being a necessary criterion 
+for publishing applied medical science. Ultimately, the test of a clinical 
+research advance must be whether or not it delivers improved outcomes for 
+patients. Wakefield – abetted by the Lancet – failed that test.
+ 

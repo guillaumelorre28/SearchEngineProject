@@ -1,0 +1,165 @@
+
+Over the past few decades, the humble handpump has become the go-to option for 
+rural water supply in developing countries. They’re used to extract groundwater 
+which is mostly clean, easy and cheap to access, and available year-round. 
+Handpumps are usually a better option than open wells – which are highly 
+vulnerable to contamination – and piped schemes or motorised pumps, which 
+require the skills, finances, and management that’s often lacking in remote, 
+rural areas.
+
+However, though around 60,000 handpumps 
+<http://www.ircwash.org/sites/default/files/Carter-2010-User.pdf> (pdf) are 
+installed across sub-Saharan Africa every year, typically 30 to 40% of those in 
+the region do not work at any one time, according toestimates made by 
+<http://www.rural-water-supply.net/en/resources/details/203> the Rural Water 
+Supply Network.
+
+More often than not, broken handpumps are abandoned and fall into disuse. The 
+World Bank has estimated that over the last 20 years this represents a loss of 
+investmentof more than $1.2bn 
+<https://upgro.files.wordpress.com/2014/03/hidden_crisis_final_report_v7.pdf> 
+(pdf).
+
+The ATMs bringing cheap, safe water to Nairobi's slums
+ Read more  
+<https://www.theguardian.com/global-development-professionals-network/2016/feb/16/atms-cheap-safe-water-nairobis-slums>
+Water <https://www.theguardian.com/environment/water> points can fail for a 
+number of reasons. First, most handpumps are manufactured in India where 
+quality controls are not always enforced and poor-grade recycled metal is used, 
+meaning parts break more easily.
+
+Second, and most commonly, handpumps stop working because the borehole it 
+extracts groundwater through was drilled in the wrong place or in the wrong way.
+
+Not enough data about the land or geology contributes to this problem. “When 
+you drill a borehole in the UK, there are incredibly detailed maps and borehole 
+logs [registered with theBritish Geological Survey <http://www.bgs.ac.uk/> 
+(BGS)] to help you decide where to drill,” says Sean Furey, a water and 
+sanitation specialist atSkat Consulting <http://www.skat.ch/>. “Even in 
+countries where a similar organisation exists, that sort of data isn’t 
+available because NGOs, the private sector or even governments who commission 
+boreholes aren’t aware that they need to submit their drilling logs.”
+
+Lastly, a shortage of skilled drillers and site supervisors exacerbates the 
+problem of poorly drilled or sited boreholes. “If you don’t have a supervisor 
+on site all the time, checking that the driller’s doing the right job, that’s 
+when things can go wrong,” says Furey. “The driller might not be paying 
+attention, or maybe the rig was set up in the wrong way so instead of going 
+straight down, the drill goes off at an angle.”
+
+
+Globally, 663 million people 
+<https://www.theguardian.com/global-development-professionals-network/2015/jul/01/global-access-clean-water-sanitation-mapped>
+ still lack access to an improved water source – one that protects from 
+external contamination – according to data released by the WHO/Unicef Joint 
+Monitoring Programme last year. Eight in 10 of those people live in rural areas 
+and almost half – 319 million people – live in sub-Saharan Africa.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fglobal-development-professionals-network%2F2016%2Fmar%2F22%2Fhow-do-you-solve-a-problem-like-a-broken-water-pump%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Faa665b36e5d9e909f3126fa4f2839d16d943ddd3%2F0_0_3072_1843%2F3072.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=How%20do%20you%20solve%20a%20problem%20like%20a%20broken%20water%20pump%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fglobal-development-professionals-network%2F2016%2Fmar%2F22%2Fhow-do-you-solve-a-problem-like-a-broken-water-pump%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=How%20do%20you%20solve%20a%20problem%20like%20a%20broken%20water%20pump%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fglobal-development-professionals-network%2F2016%2Fmar%2F22%2Fhow-do-you-solve-a-problem-like-a-broken-water-pump%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Faa665b36e5d9e909f3126fa4f2839d16d943ddd3%2F0_0_3072_1843%2F3072.jpg>
+ Photograph: David Levene for the Guardian 
+To date, evidence of water point failure has been purely anecdotal. This is 
+where theHidden Crisis project <http://upgro.org/consortium/hidden-crisis2/> – 
+part of theUPGro <http://upgro.org/> (Unlocking the Potential of Groundwater 
+for the Poor) research programme – comes in. “The quality of data we have as a 
+sector is very bad,” says Vincent Casey, a senior water and sanitation adviser 
+atWaterAid <http://www.wateraid.org/uk>. “We can see that there are issues with 
+handpump failure but we can’t see much about the service levels: will they be 
+fixed, how long was the downtime, how many times did the handpump break in a 
+year?”
+
+Over the next few years, researchers from WaterAid, Overseas Development 
+Institute <http://www.odi.org/>, BGS and other organisations will analyse 600 
+handpumps across Uganda, Malawi and Ethiopia, to get “statistically significant 
+data” about the main causes of handpump and borehole failure. The Hidden Crisis 
+project will then propose policy recommendations to address them.
+
+There are numerous solutions to this “hidden crisis” already in the pipeline.
+
+Invented by researchers at the University of Oxford’s Smith School of 
+Enterprise and the Environment <http://www.smithschool.ox.ac.uk/>, the 
+waterpoint data transmitter fits on to the handle of a waterpump, and using a 
+small low-cost accelerometer – similar to one in a smartphone that switches the 
+screen from portrait to landscape – monitors the arching movement of the 
+handle. It uses this data to estimate water usage and sends the information via 
+SMS to a web-based dashboard.
+
+In areas of Kenya where this smart water pump is currently being used, social 
+enterprisesFundiFix 
+<https://www.youtube.com/watch?v=LQcqifPuNU8&feature=youtu.be> – monitors the 
+dashboard. The manager identifies which pumps are being used and where a water 
+point might be broken, then sends a mechanic to fix it. “The mechanic will call 
+the community ahead and ask questions, so they’re usually able to identify the 
+problem and go to the pump with the correct spare parts to fix it there and 
+then,” says Patrick Thomson, a lead researcher at the Smith’s schools water 
+programme.
+A map showing the three locations in Kenya where the waterpoint data 
+transmitter has been retrofitted on to handpumps. 
+<https://interactive.guim.co.uk/maps/embed/mar/2016-03-16T16:39:35.html>  A map 
+showing the three locations in Kenya where the waterpoint data transmitter has 
+been retrofitted on to handpumps. 
+The device has been retrofitted onto 300 handpumps across three sites in Kenya 
+<https://www.theguardian.com/world/kenya> – in Kwale, Kitui and Kakamega – and 
+through various trials the response time to fix a broken pump has been reduced 
+from a month to two days.
+
+We hope to be able to reduce downtimes to zero, which could have huge benefits 
+in terms of public health
+Patrick Thomson 
+The team is now working with Unicef to expand the scheme within Kenya and to 
+other countries – Bangladesh and Zimbabwe – as well as looking into ways to 
+identify pump breakdowns before they occur. By monitoring the noise the 
+handpump makes, managers can tell whether a part of the equipment is 
+deteriorating and needs to be replaced before the pump stops producing water. 
+“We hope to be able to reduce downtimes to zero, which could have huge benefits 
+in terms of public health and the burden of collecting water,” says Thomson.
+
+Experts are also keen to highlight the need for qualified engineers and 
+supervisors. While some NGOs, like WaterAid, ensure boreholes are drilled 
+correctly in the first place, there’s not much you can do to right a poorly 
+drilled borehole, says Casey. “We’re working with the RWSN to promote the 
+importance of higher standards of drilling, siting of boreholes, and 
+supervision of their construction to governments, other NGOs, and to other 
+people operating in the rural water supply sector,” he says.
+
+Last year WaterAid, Unicef and the RWSN released a series of animated films 
+<https://vimeo.com/channels/drilling> that can be downloaded and shown around 
+academic institutions to highlight the importance of professional water well 
+drilling.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fvimeo.com%2Fchannels%2Fdrilling%2F128478995&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fvimeo.com%2Fchannels%2Fdrilling%2F128478995>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Fvimeo.com%2Fchannels%2Fdrilling%2F128478995&media=>
+ ‘A borehole that lasts a lifetime’ is one is a series of videos produced by 
+WaterAid, Unicef and the Rural Water Supply Network to promote the 
+professionalisation of drilling. 
+“The quality of implementation is what we’re trying to champion because so 
+many of us are just fed up of seeing poor quality water points,” says Furey.
+
+Most important, perhaps, are the efforts to ensure that the long-term 
+sustainability of water points is placed at the forefront of water point 
+installations across the sector.
+
+Beer and business: the unexpected benefits of water access in Cameroon
+ Read more  
+<https://www.theguardian.com/global-development-professionals-network/2015/jul/07/beer-and-business-the-unexpected-benefits-of-water-access-in-cameroon>
+“The method whereby agencies go in and just put boreholes in without the 
+necessary support structures has to end,” says Casey. A coalition of NGOs – 
+including WaterAid, IRC and Water for People – are working towards the Agenda 
+for Change, a plan to transform how rural water supplies are provided. “It’s 
+about working with national systems, supporting where changes or adjustments to 
+those systems need to be made, and really pushing to get these sustainable 
+water supply services in place,” says Casey. “There’s a momentum gathering and 
+we’d like more NGOs to come onboard with the principles.”
+
+Join our community <https://register.theguardian.com/global-development> of 
+development professionals and humanitarians. Follow@GuardianGDP 
+<https://twitter.com/GuardianGDP> on Twitter, and have your say on issues 
+around water in development using#H2Oideas 
+<https://twitter.com/search?q=%23H2Oideas&src=typd>.
+ 

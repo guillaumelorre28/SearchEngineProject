@@ -1,0 +1,57 @@
+
+The Guardian has been listed as the second most secure news publication on the 
+web, according toa ranking produced by the American non-profit Freedom of the 
+Press Foundation <https://securethe.news/sites/>.
+
+Points were awarded for supporting technologies which protect the privacy and 
+security of visitors, with a focus on using HTTPS, a web protocol that allows 
+for encrypted connections.
+
+The ranking was topped by the US news site The Intercept 
+<https://theintercept.com/>, created by eBay founder Pierre Omidyar. It gained 
+the highest score of A+.
+
+The Guardian, rated as A- along with TechCrunch <https://techcrunch.com/> and 
+ProPublica <https://www.propublica.org/>, scored highly for having a valid 
+HTTPS version of its website, and for defaulting to that connection for all 
+visitors.
+
+The ranking also awarded points for enabling HSTS (HTTP 
+Strict-Transport-Security 
+<https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security>
+), a feature which ensures that repeat visitors cannot be forced onto an 
+insecure copy of the website by a “man in the middle” attacker. With HSTS 
+enabled, web browsers know to never accept insecure versions of the website, 
+providing added protection to readers who fear eavesdropping.
+
+The Intercept was the only site to use HSTS preloading which give it its A+ 
+score. Preloading involves passing the HSTS information to a trusted authority 
+like Google or Mozilla so that it can be loaded into the browsers of web users 
+who have never even visited a particular site, ensuring that even their very 
+first visit does not run the risk of eavesdropping.
+
+Freedom of the Press Foundation said that only 28% of news sites offer an 
+HTTPS connection, and just 14% default to it. It awarded a grade of F to those 
+that did not use HTTPS. The Guardian’s switch to HTTPS as defaultwas made in 
+late November 
+<https://www.theguardian.com/info/developer-blog/2016/nov/29/the-guardian-has-moved-to-https>
+, after six months of testing to ensure no disruption to readers.
+
+“By using HTTPS, internet service providers (ISPs) are not able to track 
+<https://utcc.utoronto.ca/~cks/space/blog/web/ISPsAreThreats> the pages our 
+readers are accessing,” wrote Mariot Chauvin and Huma Islam, two members of the 
+Guardian’s digital development team. “It means we protect the privacy of our 
+readers when accessing content that may disclose political opinions, faith, 
+sexual orientation or any information that may be used against them. It matches 
+our core values. We believe that protecting our visitors is good internet 
+citizenship.”
+
+The Freedom of the Press Foundation called on all publications to protect 
+reader privacy: “With HTTPS enabled by default you can protect reader privacy, 
+improve your website’s security, better protect your sources, prevent 
+censorship, improve your search rankings, provide a better user experience, see 
+your website loading speeds potentially increase, and avoid Google shaming.” 
+Since 2014, Google has beenranking secure sites 
+<https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html> 
+slightly higher in its search results.
+ 

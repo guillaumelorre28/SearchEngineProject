@@ -1,0 +1,281 @@
+
+On the BBC program Sunday Politics, Andrew Neil hosted UK Energy and Climate 
+Change Secretary Ed Davey 
+<http://skepticalscience.com/rebutting-new-tcp-myths-andrew-neil-richard-tol.html>
+ for a discussion about climate science and policy. In the process, Neil made a 
+variety of errors in discussing climate science thatI subsequently detailed 
+<http://www.guardian.co.uk/environment/climate-consensus-97-per-cent/2013/jul/17/climate-change-scepticism-andrew-neil-ed-davey>
+.Neil responded in turn on his blog 
+<http://www.bbc.co.uk/news/uk-politics-23405202>, admitting one mistake but 
+standing behind the rest of the errors, and making some new ones.
+
+But before examining the scientific accuracy of Neil's latest comments, given 
+that his show is a political one, let's first talk about climate policy. On 
+that subject, Neil explained why he focused on the so-called 'pause' in global 
+surface warming during his show:
+
+"it is legitimate to ask if the government takes the pause seriously and if it 
+has any implications for policy ie, if there is a pause in warming, is there a 
+case for the government to pause or slowdown its expensive efforts to 
+decarbonise the economy until the picture becomes clearer?"
+
+That certainly is a legitimate question. In fact, it's a question that a 
+number of climate scientists have answered.
+
+The question is based on the fact that a few recent studies have concluded 
+that the sensitivity of the Earth's climate to the increased greenhouse effect 
+may be slightly less than previous best estimates, based on the recent slowed 
+surface warming (for a basic primer on climate sensitivity,see my previous 
+entry here 
+<http://www.guardian.co.uk/environment/climate-consensus-97-per-cent/2013/may/10/climate-change-warming-sensitivity>
+). There arereasons to be skeptical of this conclusion 
+<http://www.guardian.co.uk/environment/climate-consensus-97-per-cent/2013/may/10/climate-change-warming-sensitivity>
+, but it's certainly a possibility. If true, would that mean governments should 
+pause or slow down their efforts to decarbonize the economy, as Neil asks?
+
+The authors of these studies (e.g. Myles Allen 
+<http://www.guardian.co.uk/environment/blog/2013/may/21/matt-ridley-joined-real-climate-debate?CMP=twt_gu>
+,Piers Forster <http://news.uk.msn.com/warming-pause-not-unexpected>, and 
+Alexander Otto 
+<http://thinkprogress.org/climate/2013/05/20/2034261/we-would-all-like-climate-sensitivity-to-be-lower-but-it-isnt-says-lead-scientist-of-new-study/>
+) all seem to agree, the answer is no.
+
+In short, if these studies are right, it might take us an extra decade or so 
+to reach global warming levels considered unacceptably dangerous. If true, that 
+would certainly be welcome news. The problem is that from a policy perspective 
+today, these sorts of details don't matter.
+
+In order to avoid what's internationally considered dangerous levels of global 
+warming, we need to achieve tremendous levels of greenhouse gas emissions 
+reductions. Developed nations like the UK and USA will need to reduce their 
+emissions by about80 percent by the year 2050 
+<http://www.climatecommunication.org/wp-content/uploads/2011/08/presidentialaction.pdf>
+ to give us a good shot to avoid committing the planet to 2°C average surface 
+warming, and even that isconsidered too risky by many climate scientists 
+<http://thinkprogress.org/climate/2008/03/17/202450/hansen-et-al-must-read-back-to-350-ppm-or-risk-an-ice-free-planet/>
+.
+
+So if these studies are right, maybe we have until 2060 rather than 2050 to 
+reduce our greenhouse gas emissions by 80 percent. If we were on track to meet 
+that target by 2050, it would be valid to ask whether we should slow down our 
+efforts a bit, but we're not on track. In fact it's going to take everything 
+we've got to get close –see here for a discussion of the level of effort it 
+will take to meet these emissions targets 
+<http://www.skepticalscience.com/global-warming-too-hard-advanced.htm>.
+
+We should certainly fashion a climate policy that will maximize the economic 
+benefit associated with reducing greenhouse gas emissions, and what that policy 
+should look like is a valid debate in which all who would like to participate 
+are more than welcome. However, there is no question as to whether we can 'slow 
+down' our efforts – we simply cannot afford to,even in the best-case scenario 
+<http://www.skepticalscience.com/graphics.php?g=88>.
+ This graph shows that even at the lowest range of climate sensitivity, future 
+global warming will take us well beyond any temperature experienced during 
+civilized human history. The blue line represents reconstructed temperature. 
+The red line represents measured and projected global surface temperature. The 
+red dots show the projected warming in the year 2100 for three different 
+climate sensitivities (high sensitivity 4.5°C, most likely sensitivity 3°C, low 
+sensitivity 1.5°C). 
+Now, on to the science.
+
+The "Pause"
+
+Neil explained that he focused on the surface warming 'pause' because he was 
+trying to challenge Davey to defend the government's climate policy in the face 
+of this seemingly contradictory global warming evidence. The problem is that 
+when Davey correctly pointed out that surface temperatures are only one small 
+piece of overall global warming (about 2 percent), and melting ice and warming 
+oceans must also be considered (over 90 percent of the overall heating of the 
+planet), Neil remained focused exclusively on surface temperatures.
+
+In science, and in informed policy making, you can't just ignore 98 percent of 
+the evidence and focus on the 2 percent that seems to support the argument 
+you're trying to make. Perhaps Neil was just doing his job "challenging" Davey, 
+but in terms of a science and policy debate, Davey won the day by considering 
+the full body of evidence.
+
+The Faulty Temperature Graphic
+
+In defending his use of an overly smoothed surface temperature graphic, Neil 
+explained,
+
+"The graph we presented illustrating the temperature plateau was not 
+constructed by the Sunday Politics but taken from a website, produced by Phil 
+Jones, a leading figure at the Climate Research Unit, University of East Anglia"
+
+That is true - you can view the graphic in question here 
+<http://www.cru.uea.ac.uk/documents/421974/1295957/Info+sheet+%231.pdf/c612fc7e-babb-463c-b5e3-124ac76680c5>
+. Phil Jones should have explained on that page exactly what the black line 
+represents, and that the smoothed data are not accurate after 2007 (or 2002, 
+depending on whether it's a 10- or 20-year smoothing),as I explained in my last 
+entry 
+<http://www.guardian.co.uk/environment/climate-consensus-97-per-cent/2013/jul/17/climate-change-scepticism-andrew-neil-ed-davey>
+. Whoever is at fault, the temperature graph presented on BBC Sunday Politics 
+was not accurate, and exaggerated the surface warming slowdown.
+
+Frequent Plateaus
+
+Neil responded to my point that there have been many similar 'plateaus' in the 
+surface temperature record as follows.
+
+"Mr Nuccitelli points out that temperatures have plateaued in the past, which 
+is true. But since that was before, according to the IPCC, global warming 
+became the dominant factor in temperature rises, it is not clear past plateaux 
+[sic] are relevant to this debate"
+
+This is incorrect. As Neil notes, the IPCC says that greenhouse gases became 
+the dominant factor in global temperature changes in the 1970s. My graphic 
+begins in 1970 and shows four similar 'plateaus' since then, prior to the 
+current one.
+ Average of NASA GISS, NOAA NCDC, and HadCRUT4 monthly global surface 
+temperature anomalies from January 1970 through November 2012 (green) with 
+linear trends applied to the timeframes Jan '70 - Oct '77, Apr '77 - Dec '86, 
+Sep '87 - Nov '96, Jun '97 - Dec '02, and Nov '02 - Nov '12. 
+Ocean Warming
+
+On the rapid warming of the oceans, Neil claimed,
+
+"There is a huge debate in climate science over the relationship between 
+global warming and ocean temperatures. As pointed out above some scientists 
+(and Mr Nuccitelli) believe that global warming is causing the depths of the 
+oceans to heat up and that one day this heat will be released.
+
+This is widely contested and even, by some, dismissed. The data is short-lived 
+and contentious"
+
+The transfer of heat to the deep oceans has indeed accelerated over the past 
+decade, but research indicates that this is a temporary change. I summarized 
+the recent research on this subjecthere 
+<http://www.guardian.co.uk/environment/climate-consensus-97-per-cent/2013/jun/24/global-warming-pause-button>
+, and is also the conclusion in ongoing research by the Met Office,as their 
+scientists discussed in a press briefing yesterday 
+<http://www.guardian.co.uk/environment/climate-consensus-97-per-cent/2013/jun/24/global-warming-pause-button>
+.
+
+The ocean measurements quite clearly show that global warming continues at a 
+rapid rate, equivalent to 4 Hiroshima atomic bomb detonations per second.
+ Global heat accumulation from Nuccitelli et al. (2012) 
+While ocean heating research is ongoing, the evidence points strongly in the 
+direction that the oceans are absorbing more heat, contributing to the slowed 
+surface warming, but that this is only a temporary effect.
+
+Human-Caused Arctic Sea Ice Death Spiral
+
+Neil also downplayed the human role in the rapid Arctic sea ice decline, which 
+has seen a loss of three quarters of its ice mass over the past three decades.
+
+
+"Others point out that satellite observations began in 1979 and caught a 
+decline in Arctic ice already in progress. So the origin of the decline could 
+be many decades ago, and might not have been started by man (though global 
+warming could now be exacerbating a previous "natural" melting trend)."
+
+One of the most widely used long-term estimates of Arctic sea ice extent comes 
+fromthe University of Illinois 
+<http://www.ingentaconnect.com/content/igsoc/agl/2001/00000033/00000001/art00071>
+. A description of the vast array of measurements used to create this estimate 
+is availablehere 
+<http://tamino.wordpress.com/2011/09/17/more-cherry-ice-from-joe-daleo/>, and 
+the data <http://arctic.atmos.uiuc.edu/SEAICE/timeseries.1870-2008> are plotted 
+below. As you can see, the vast majority of the Arctic sea ice decline has 
+happened since 1970.
+ Average July through September Arctic sea ice extent 1870–2008 from the 
+University of Illinois and observational data from the National Snow and Ice 
+Data Center for 2009–2012 
+I have also summarized the research about the causes of that decline 
+<http://www.skepticalscience.com/Arctic-sea-ice-melt-natural-or-man-made-intermediate.htm>
+, which shows that humans played a dominant role. For example,a 2012 study 
+<http://iopscience.iop.org/1748-9326/7/3/034011> published in Environmental 
+Research Letters estimated that only 5 to 30 percent of the Arctic sea ice 
+decline from 1979 to 2010 could be attributed to natural cycles, and even more 
+is human-caused if we extend the analysis as far back as the 1950s, because the 
+influences of natural cycles tend to average out to zero over time.
+
+The bottom line is that Arctic sea ice is declining exceptionally rapidly, and 
+humans are the dominant cause.
+
+Danish Meteorological Institute (DMI) Report
+
+Neil cited a DMI report to argue otherwise.
+
+
+"A new paper by the Danish Meteorological Institute (DMI) suggest that 
+Greenland ice sheet melting is related to solar activity and "a considerable 
+fraction of the current withdrawal could be a natural occurrence"."
+
+First of all, this isn't a paper published in a peer-reviewed journal, it's a 
+report issued by the DMI Ministry of Transport 
+<http://cms.guprod.gnltools/article/413407793/edit>. Second, it's not new - it 
+was published in 2005. However, for unknown reasons, some climate contrarian 
+blogs recently decided to report on this study, which is undoubtedly why Neil 
+thought this report was new. This reminds me of a comment I madein my previous 
+article 
+<http://www.guardian.co.uk/environment/climate-consensus-97-per-cent/2013/jul/17/climate-change-scepticism-andrew-neil-ed-davey>
+,
+
+
+"If Neil relies on contrarian blogs for his climate information, that may 
+explain why he is woefully misinformed on the subject."
+
+The DMI report itself is simply based on correlations, and the comment about 
+the current ice withdrawal highly speculative. I don't find it convincing for 
+reasons discussedhere <> and here 
+<http://wottsupwiththatblog.wordpress.com/2013/07/19/watt-about-the-remarkable-correllation-arctic-sea-ice/>
+, for those who are interested. In any case, if 5 to 30 percent of the current 
+decline is considered "a considerable fraction," then it is consistent with the 
+findings of Environmental Research Letters paper discussed above.
+
+The 97 Percent Human-Caused Global Warming Consensus
+
+Finally, Neil again discussed the paper I co-authored finding a 97 percent 
+consensus in the peer-reviewed literature 
+<http://www.guardian.co.uk/environment/climate-consensus-97-per-cent/2013/may/16/climate-change-scienceofclimatechange>
+ that humans are causing global warming. Neil backtracked from his previous 
+(false) claim that our paper had been "substantially discredited" to now say it 
+"is not uncontested." This is a rather meaningless statement - I would 
+challenge Neil to find any scientific paper that is uncontested.
+
+Neil cited recent congressional testimony by Roy Spencer (one of the few 
+climate scientist "skeptics"), who said,
+
+"Well, it turns out that the 97% consensus that they found, I am indeed part 
+of ... What do all those people agree to? Well, they agree to something fairly 
+innocuous and it's something most of us agree to. That humans must have some 
+influence on climate."
+
+This statement is wrong because it misses the nuance in our study. The 
+"skeptic" papers included those that rejected human-caused global warmingand 
+those that minimized the human influence. Since we made all of our data 
+available to the public,you can see our ratings of Spencer's abstracts here 
+<http://skepticalscience.com/tcp.php?t=search&s=&a=spencer%2C+rw&c=&e=&yf=&yt>. 
+Five of his papers were captured in our literature search; we categorized four 
+as 'no opinion' on the cause of global warming, and one as implicitly 
+minimizing the human influence.
+
+Thus, contrary to his testimony, Spencer was not included in the 97 percent 
+consensus. In fact his research was included in the fewer than 3 percent of 
+papers that either rejected or minimized the human contribution to global 
+warming.
+
+Our survey also included categories for papers that quantified the human 
+contribution to global warming. In the author self-ratings phase of our study, 
+237 papers fell into these categories.96 percent of these said that humans are 
+the primary cause 
+<http://www.guardian.co.uk/environment/climate-consensus-97-per-cent/2013/may/28/global-warming-consensus-climate-denialism-characteristics>
+ of the observed global warming since 1950. The consensus on human-caused 
+global warming is robust.
+
+A Policy Discussion Worth Having
+
+To sum up, there's nothing wrong with having a discussion about what the best 
+climate policy would entail. In fact, this sort of discussion would be 
+constructive and welcome. But it must consider all the available evidence, and 
+it must get the science right, or the policy discussion will be misinformed.
+
+The scientific evidence indicates that the climate is warming rapidly due to 
+human greenhouse gas emissions. If we want to avoid dangerous and potentially 
+catastrophic climate change, we need to take major steps to reduce our 
+greenhouse gas emissions. The question is not whether we should slow down our 
+efforts; it's how we can speed them up in the most economically beneficial way. 
+Now that is a policy discussion worth having.
+ 

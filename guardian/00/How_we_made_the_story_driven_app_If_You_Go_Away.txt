@@ -1,0 +1,104 @@
+
+ It’s raining. One of us tries to use a laptop to shield the phone while the 
+other puts a jacket over their head – not to keep themselves dry, but to stop 
+the laptop getting drenched, all the while trying not to break the tether 
+between computer and phone. Walking around town with this set-up at dusk may 
+not be the smartest idea, nor the most efficient way to find bugs, but we’re 
+trying to solve an issue. We’re due to submit to the App Store the following 
+day and, in a couple of hours, have to get on a train to another city to do it 
+all again.
+
+This is the story of how we at Invisible Flock <http://invisibleflock.com/> 
+madeIf You Go Away <http://invisibleflock.com/portfolio/ifyougoaway/> (IYGA), a 
+locative game for iOS. We’re a company of artists based in Leeds who create 
+large-scale interactive and public art that uses technology. We believe in 
+creating all of our work in-house.
+
+ Making IYGA meant that we had to learn the entire development pipeline from 
+scratch, and to say we underestimated the learning curve would be putting it 
+mildly. Throw in the fact that the app is created for specific locations, plus 
+the realities of keeping a small studio afloat, and you end up with two people 
+catching trains up and down the country, bug-fixing and pushing builds to the 
+App Store using a smartphone 4G connection.
+
+We’ve always used phones in our practice, mainly SMS for playful experiences 
+outside or for longer works connecting participants across borders. We’ve made 
+apps previously but felt that we hadn’t really explored the phone itself, 
+rather used it as a platform for content delivery as part of a larger 
+experience. With IYGA we set ourselves the challenge to really interrogate what 
+experiences could be made for mobile devices, exploring the handset and what it 
+affords: location, rendering, connectivity, orientation and audio.
+
+ Our projects are always concerned with place in some way – how we exist in 
+and experience certain places. With IYGA we wanted to superimpose a deeply 
+personal narrative experience on top of the city that you walk through every 
+day, to maybe change the way you see and behave in it.
+
+ IYGA is a GPS-driven experience where you move through the game holding your 
+phone in front of you like a camera to show a virtually abstracted version of 
+the city overlaid on top of the real one.
+
+It’s designed for multiple cities, layered on top of each other to create a 
+shared virtual space where players can affect each other’s environment by 
+changing the words written on giant billboards or graffiti on the walls of 
+buildings.
+
+ At dusk the world of IYGA really comes to life as a story begins and takes 
+participants on a journey through the city, following a small girl sneaking 
+away from a funeral party. It begins with you waking up to the steps of an art 
+gallery (which one depends on which city you are playing in). The landscape 
+shown on the screen as you pan around is purposefully sparse, like how you 
+might remember a place from your childhood – a half memory of a place.
+
+ A mixture of interactive text on the screen and conversations to navigate and 
+a lot of way-finding, IYGA unravels what we hope is a beautiful story about 
+loss. We wanted to take the mechanics of pervasive gaming and strip away the 
+high-octane tropes that it traditionally follows and instead create something 
+slow that makes you navigate the real world around you differently.
+
+ IYGA is an experimental project and one of the most fascinating elements, and 
+one of the most problematic, is this necessary physicality of the work. GPS, 
+use of the phone’s accelerometers and time of day all mean that a player’s 
+physical relationship to the real world defines and drives the game. With 360 
+degrees of real-world freedom to contend with, the physical limitations of the 
+player’s body and stamina, as well as environmental factors – cold, rain and 
+other people interrupting the experience – all come into play.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fvimeo.com%2F139334991&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=https%3A%2F%2Fvimeo.com%2F139334991>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=https%3A%2F%2Fvimeo.com%2F139334991&media=>
+ The teaser trailer for If You Go Away 
+ Designing a long-form experience with so many factors out of our control was 
+the biggest area of friction, but when it works is where the project’s full joy 
+and potential is realised – the unpredictable “doing” of an experience half on 
+your phone and half in the city around you.
+
+ IYGA has been available for six weeks in Leeds, Southampton, Warwick 
+University, Middlesbrough and London (South Kensington, beginning at theV&A 
+<http://www.vam.ac.uk/>). We created it to begin from art galleries and to be 
+picked up in those contexts, and its reach is growing. In a few months we will 
+be creating a special version for an area of Lagos that will bring a whole new 
+context to the work. The story will collide with an entirely different 
+environment and create a shared multiplayer space between the UK and Nigeria, 
+presented as part of The Lagos Theatre Festival and the British Council’s
+UK/Nigeria 2015-16 programme 
+<https://www.britishcouncil.org.ng/uk-nigeria-2015-16>.
+
+ App facts
+
+Length of the project: two years beginning to end, with an eight-month intense 
+development period
+Companies involved: Invisible Flock <http://invisibleflock.com/>
+Size of the team: three artists as game designers (one lead developer, one 
+lead game artist, one lead writer); one project manager; seven musicians; one 
+pianist and one vocal performer
+
+Ben Eaton is a founding lead artist at Invisible Flock 
+<http://invisibleflock.com/>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+ 

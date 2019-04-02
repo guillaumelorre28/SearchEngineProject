@@ -1,0 +1,86 @@
+
+The company that operates the national broadband network has downplayed new 
+findings on global internet speeds that show Australia continues to lag behind 
+other Asia-Pacific countries.
+
+Akamai released its third-quarter “State of the Internet” connectivity report 
+<https://www.akamai.com/us/en/multimedia/documents/state-of-the-internet/q3-2016-state-of-the-internet-connectivity-report.pdf>
+, acknowledged as a benchmark for broadband performance within the industry, on 
+Thursday.
+
+Annual cost of NBN to rise to $2.1bn by 2017, says budget office
+ Read more  
+<https://www.theguardian.com/technology/2016/dec/14/annual-cost-of-nbn-to-rise-to-21bn-by-2017-says-budget-office>
+Australia ranked 50th in the global rankings for average connection speed, and 
+eighth among Asia-Pacific countries and regions, with an average of 9.6Mbps for 
+the third quarter this year – a decline of 13% on the previous quarter.
+
+South Korea and Hong Kong were at first and second in the world, with 26.3Mbps 
+and 20.1Mbps respectively.
+
+Average connection speeds globally had increased by 2.3% to 6.3Mbps, a 21% 
+increase year-over-year.
+
+Australia’s average peak connection speed was 46.9Mbps, putting it at 57th in 
+the world, and far behind leaders in the Asia-Pacific region such as Singapore 
+– with the highest peak speed of the countries assessed of 162.0Mbps.
+
+With Japan, Australia had the smallest gains year-over-year of countries 
+within the Asia-Pacific in the third quarter, at just 12%. By comparison, 
+Indonesia’s speeds increased by 220%. But third-quarter average mobile 
+connections in Australia were 12.8Mbps, behind only the Philippines in the 
+Asia-Pacific region.
+
+The unravelling NBN: how Turnbull failed to download the nation's network 
+solution | Peter Lewis
+ Read more  
+<https://www.theguardian.com/commentisfree/2016/oct/06/the-unravelling-nbn-how-turnbull-failed-to-download-the-nations-network-solution>
+The Akamai report said the NBN was on track to roll out universal broadband 
+access in Australia at a minimum speed of 25Mbps, with 40% of the country 
+having gigabit-speed access by 2020.
+
+A spokeswoman for the national broadband network agreed that the findings 
+reflected the need to bridge the digital divide in Australia, but said most of 
+the 10m IP addresses assessed by Akamai would be “legacy ADSL services” and 
+were not a reflection on the NBN.
+
+The speed experienced by consumers would be ultimately dictated by their 
+choice of package from internet service providers, she said. “Consumers may 
+choose a 12Mbps package and that what would be what is measured, not what the 
+line is capable of doing.”
+
+She also noted that Australia’s average speeds had increased year-over-year.
+
+Some 1.6m premises around Australia now have NBN services. 
+
+Internet <https://www.theguardian.com/technology/internet> Australia, the 
+not-for-profit peak body representing the interests of Australian internet 
+users, said the mix of technologies being used in the NBN meant it could not 
+guarantee the speeds that would be delivered to all consumers.
+
+Between 30% and 40% of premises using the NBN will be serviced by 
+“fibre-to-the-node”, which IA’s chief executive, Laurie Patton, says will not 
+meet Australia’s future needs, given the fact that ageing copper-wire fibres 
+will need replacing in 10 to 15 years’ time.
+
+“The simple fact is we are being outplayed by our global competitors who are 
+building fibre-based systems providing speeds that cannot be matched by 
+fibre-to-the-node,” he said.
+
+“The wholesale speeds claimed by NBN are largely irrelevant as they are not 
+necessarily the speeds that will be delivered to consumers. What counts is what 
+you pay for and what you get.”
+
+IA has been calling for the NBN to dump the fibre-to-the-node rollout in 
+favour of the “fibre-to-the-home” approachinitially committed to by Kevin 
+Rudd’s government 
+<https://www.theguardian.com/australia-news/2016/may/20/nbn-the-trouble-with-coalitions-plan-for-quicker-and-cheaper-broadband>
+ before being watered down by the Abbott-led government.
+
+The annual cost to the federal budget of the government’s investment in the 
+NBN is expected to grow in coming years.
+
+A report by the Parliamentary Budget Office released on Wednesday 
+<https://www.theguardian.com/technology/2016/dec/14/annual-cost-of-nbn-to-rise-to-21bn-by-2017-says-budget-office>
+ estimated the cost to the budget in 2016-17 to be about $580m.
+ 

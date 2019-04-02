@@ -1,0 +1,79 @@
+
+One of the creepiest – and most useful – Google inventions has been its 
+ability to predict traffic jams by using anonymisedping-backs 
+<https://www.ncta.com/platform/> from mobile phones to tell how fast everyone 
+is moving.
+
+Google will now tell you whether a bar or shop is busy in real-time
+ Read more  
+<https://www.theguardian.com/technology/2016/nov/22/google-bar-shop-busy-real-time-live-data-black-friday>
+Now, the technology giant is rolling out the same thing for places using live 
+data. Although, since July 2015, the Popular Times section of Google Maps has 
+provided a bar graph showing how busy a bar, museum or restaurant is at any 
+given time, this is just based onaverages 
+<https://support.google.com/business/answer/6263531?hl=en-GB>.
+
+How accurate will the new feature be? Rather than just believe our Alphabet 
+<https://www.theguardian.com/technology/alphabet> overlords, we road-tested the 
+system by dawdling around five of London’s biggest attractions.
+
+Tate Modern 
+<https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=tate%20modern>
+
+
+At the Tate, a number of people hover in the little dark room where you have 
+to clap to make the art strobe go on, while, up in the ziggurat, a slightly 
+sparser crowd than normal are standing at the windows ogling the residents of 
+Richard Rogers’s Neo Bankside building in their exposed lounges. Down at the 
+Turbine Hall, a man at the info kiosk says it is “just about as busy as usual”. 
+According toGoogle <https://www.theguardian.com/technology/google>, he is 100% 
+correct.
+Conclusion: Correct
+
+Tower of London 
+<https://www.google.co.uk/search?q=tower+of+london&oq=tower+of+london&aqs=chrome..69i57j0l5.2478j0j7&sourceid=chrome&ie=UTF-8>
+
+
+As we enter the main courtyard, the Tower swallows up a phalanx of 100 or so 
+tourists in one go. Despite this, Google says it is under-populated compared 
+with the average crowd between noon and 1pm on Wednesdays. The Beefeater-ish 
+woman at the main gates agrees: “It’s a bit quieter than usual.”
+Conclusion: Correct. 
+
+The London Eye 
+<https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=london%20eye>
+
+Is it slightly less of a hellscape today? It seems borderline-agreeable as a 
+few pigeons gull about and some half-empty glass orbs arc skywards. According 
+to Google, it is quiet today. Not that anyone here seems to know. “You’ll have 
+to go on the website and look up the contact details for our marketing 
+department if you want that kind of information,” a manager says.
+Conclusion: Correct?
+
+
+Dishoom, King’s Cross branch 
+<https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=dishoom&rflfq=1&rlha=0&rllag=51524300,-101933,2168&tbm=lcl&tbs=ls:-1,lf_msr:-1,lf:1,lf_ui:9,lf_pqs:EAE&rlfi=hd:;si:8398580231852154415>
+
+“To be honest, we’re never not busy,” says the woman at the other end of the 
+line at this Indian tapas joint. Such humblebrag aside, Google agrees that the 
+restaurant is exactly as busy as normal. Which is pretty damned busy, 
+apparently.
+Conclusion: Correct.
+
+Nopi, Soho 
+<https://www.google.co.uk/search?q=nopi&oq=nopi&aqs=chrome.0.69i59j0l5.606j0j7&sourceid=chrome&ie=UTF-8>
+
+Yotam Ottolenghi could expect a turnout boost at his flagship restaurant after 
+being on Desert Island Discs last week. “We’re as busy as normal,” the 
+Australian assistant says, with a pleasing authority, after a moment on hold. 
+However, his assertion is undermined by Google’s phone-ping polygraph, which 
+suggests he is a good fraction less busy than normal. Are Nopi diners the type 
+to turn off their phones? Are they so rich that there’s a phone porter who 
+comes and casks diners’ phones in their vaults? Clearly, the technology has a 
+few imperfections. Some of which will be smoothed out over time as users 
+contribute visual feedback. All told, as ever the creepiness will fade, the 
+glitches will be fixed, and there will be endless benefits that we have barely 
+begun to imagine.
+Conclusion: Incorrect.
+
+ 

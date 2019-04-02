@@ -1,0 +1,175 @@
+
+The Amazon Echo Dot is essentially all the bits of an Amazon Echo 
+<https://www.theguardian.com/technology/2016/nov/21/amazon-echo-review-the-best-combined-speaker-and-voice-assistant-in-the-uk>
+ that make it interesting, but without the speaker beneath it – and so it costs 
+just one-third of the price.
+
+
+The Dot is one of three Alexa-enabled products from Amazon that puts the 
+company’s voice assistant front and centre. Only two, the Echo Dot and the Echo 
+are available in the UK: the third, the portable Bluetooth speaker calledAmazon 
+<https://www.theguardian.com/technology/amazon> Tap, is only available in the 
+US.
+
+What is it?
+ The microUSB cable and 3.5mm audio cable plug into the back. Photograph: 
+Samuel Gibbs for the Guardian 
+The Dot is a small black or white puck with a ring of lights at the top, four 
+buttons and a seven-microphone array – the same system that makes the Echo 
+speaker so good at hearing you from pretty much anywhere.
+
+It listens out for a “wake word”, which by default is the name of the voice 
+assistant contained within the Dot: “Alexa”. Say the wake word and the voice 
+assistant comes to life to answer questions, take commands and perform actions.
+
+The Dot has a small built-in speaker, which is good enough for all the voice 
+responses Alexa spits out, alarms and other alerts, but is not really designed 
+to play music, producing tinny sound.
+
+Instead the back of the Dot has a audio-out port, which is intended plug into 
+your existing speakers. Alternatively, it can pair to a wireless speaker via 
+Bluetooth.
+
+What does it look like?
+ The white Dot still has a black top, but its simple design doesn’t look out 
+of place on a bed-side cabinet or speaker. Photograph: Samuel Gibbs for the 
+Guardian 
+The Dot is surprisingly discreet sitting on a countertop or stuck to the wall. 
+There’s a rotating light ring around the top that indicates when it’s actively 
+listening to you and turns red when you hit the mute button, electrically 
+disconnecting the mics, so you know when it is and isn’t listening in.
+
+The white Dot has a grey top, which means it stands out more than it might on 
+a white bed-side table, for instance. You can get little jackets for the base 
+in leather or fabric if shiny plastic doesn’t quite cut it with your decor.
+
+What does it do?
+ Press the buttons on the top to control the volume of the built-in speaker or 
+output to your connected speakers. Photograph: Samuel Gibbs for the Guardian 
+The Echo Dot can do whatever Alexa can do. The set up is the same as the Echo 
+<https://www.theguardian.com/technology/2016/nov/21/amazon-echo-review-the-best-combined-speaker-and-voice-assistant-in-the-uk>
+: plug it in, open the Alexa app on your smartphone and follow the instructions 
+to connect it to your Wi-Fi network.
+
+Once up and running, Alexa can perform a variety of your typical assistant 
+features. It’ll set timers, tell you the time, set alarms, tell you what your 
+day looks like from your connected calendar, tell you about your commute or the 
+weather and answer questions about all sorts of things.
+
+Alexa has access to quite a lot of information, but the sheer volume of data 
+Google has at its fingertips, which means Alexa will struggle with certain 
+questions when a Google voice search may not.
+
+The big difference is that Alexa replies in a surprisingly human way, and can 
+almost always understand what you’ve said even if it can’t answer the question, 
+which means it should get better over time as more data is shovelled into the 
+backend artificial intelligence.
+
+Alexa has so-called skills that can be added to her. These app-like things 
+give her new abilities. Lots of companies and services have skills. The 
+Guardian skill will read you the news, headlines or reviews, for instance. The 
+National Rail skill will tell you what your rail commute looks like. The 
+Allrecipies skill will be able to read you one of 60,000 different recipes.
+
+But perhaps the best set of skills available for the Echo Dot are smart home 
+controls. Here is where the Dot shines: it has a wide range of support for 
+smart connected devices, from speakers and remote controls, to lights, coffee 
+machines or anything connected to aSamsung SmartThings hub 
+<https://www.theguardian.com/technology/2016/feb/08/samsung-smartthings-hub-review-internet-of-things>
+.
+
+Alexa, turn on the lights in the living room
+ The red light on the mute button and light ring show when Alexa can’t hear 
+you anymore for when you want a little privacy. Photograph: Samuel Gibbs for 
+the Guardian 
+Out of the box it works with Philips Hue, while skills exist for Nest 
+<https://www.theguardian.com/technology/2016/jun/03/google-nest-learning-thermostat-third-generation-home-gadget-smart-heating>
+, Hive, Honeywell, Tado, LightwaveRF and LIFX, with Sonos expected soon.
+
+Once hooked up you can command just about anything. You have to remember the 
+name of the thing you’re trying to command, but within the Alexa app you can 
+group things to turn them on and off with one command.
+
+Unlike most other smart home systems, a single item can be placed into 
+multiple groups meaning a bedroom light could be in the “bedroom” group as well 
+as in the “upstairs” group and perhaps a “house” group, so that you can turn 
+just the bedroom lights on, the whole of the upstairs or turn off the whole 
+house when you’re walking out the door.
+
+You can also set brightness, colour, scene or anything else your lights 
+support, but lighting is just the start. Almost any smart home appliance can be 
+controlled via voice with the right connection.
+
+You can set the temperature via a Nest 
+<https://www.theguardian.com/technology/2016/jun/03/google-nest-learning-thermostat-third-generation-home-gadget-smart-heating>
+, set the coffee going via a smartplug, switch the TV on or off, set the 
+channel or do pretty much anything with devices connected to a SmartThings hub.
+
+The Echo Dot doesn’t have to be used in isolation either. If you’re in earshot 
+of two Dots or another Echo device, only the nearest one will reply to your 
+commands. Amazon even sells them in packs: buy five get a sixth free, or buy 10 
+and get two free. Clearly it wants you to put them all over your house.
+
+Observations
+ Here I’ve used masking across the back of the Dot and a sticky fixer to 
+temporarily mount it to the wall. Photograph: Samuel Gibbs for the Guardian 
+ * It works surprisingly well when mounted to the wall, but you have to pull 
+off the rubber pad or make you own bracket 
+ * Alexa ads on the TV set them off 
+ * Occasionally the radio will set them off 
+ * When you’ve got it hooked up to speakers the Dot will only output its audio 
+through those speakers, so they need to be left on all the time to enable it to 
+speak to you even if you’re not playing music 
+ * IFTTT and Logitech Harmony support are coming soon, which will greatly 
+extend Alexa’s smart home support 
+ * You have to think carefully about what you’re going to call each of the 
+connected devices because you will have to say their names to Alexa for them to 
+be activated on an individual basis 
+Price
+
+The Amazon Echo Dot costs £50 in either black or white. The larger Echo costs 
+£150 
+<https://www.theguardian.com/technology/2016/nov/21/amazon-echo-review-the-best-combined-speaker-and-voice-assistant-in-the-uk>
+.
+
+Verdict
+
+The Echo Dot is everything that’s great about the larger Echo speaker 
+<https://www.theguardian.com/technology/2016/nov/21/amazon-echo-review-the-best-combined-speaker-and-voice-assistant-in-the-uk>
+ condensed into a small puck that costs one-third of the price.
+
+Being able to voice control things without having to pull out a phone or push 
+a button marks a massive step forward for theInternet 
+<https://www.theguardian.com/technology/internet> of Things. Activating, 
+changing, switching things off and firing up automation routines via voice 
+feels natural and satisfying: there’s nothing quite like marching into a room 
+and commanding the lights to turn on.
+
+Alexa isn’t quite the all-conquering voice assistant it promises to be just 
+yet, but the Dot gets the job done in a way nothing else can.
+
+Pros: excellent mic array means it can almost always hear you, small but loud 
+enough to be heard clearly, great device support, clear mute, turns your old 
+Hi-Fi into a smart, voice-controlled speaker, voice control IoT devices
+
+Cons: really needs to be connected to a speaker for music, can’t always answer 
+the question, always-listening object in your house, doesn’t support multiple 
+user calendars or personal information, only one Spotify or Amazon music 
+account can be linked at any one time
+
+Other reviews
+
+ * Amazon Echo review: the best combined speaker and voice assistant in the UK 
+<https://www.theguardian.com/technology/2016/nov/21/amazon-echo-review-the-best-combined-speaker-and-voice-assistant-in-the-uk>
+ * Samsung SmartThings Hub review: an Internet of Things to rule them all? 
+<https://www.theguardian.com/technology/2016/feb/08/samsung-smartthings-hub-review-internet-of-things>
+
+ * Withings Body Cardio review: stylish scales for health obsessives 
+<https://www.theguardian.com/technology/2016/jun/10/withings-body-cardio-review-stylish-scales-health-obsessives>
+
+ * Nest Learning Thermostat third-gen: the simple, effective heating gadget 
+<https://www.theguardian.com/technology/2016/jun/03/google-nest-learning-thermostat-third-generation-home-gadget-smart-heating>
+
+ * Logitech Harmony Elite review: easy to use remote that takes charge of your 
+home 
+<https://www.theguardian.com/technology/2016/apr/04/logitech-harmony-elite-review-remote-control-home-nest-smartthings-tv-sky> 

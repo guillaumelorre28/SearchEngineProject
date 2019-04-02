@@ -1,0 +1,41 @@
+
+Guardian News & Media have worked with VisitEngland 
+<http://www.visitengland.com/> over the last two years to produce a 
+multi-platform campaign that offers our audience inspiration for taking a break 
+in England. The content has reflected their Enjoy Every Minute, Enjoy England 
+brand with ideas ranging from ten minute treats to a full week away.
+
+During year one we created seven print supplements, held seven exclusive 
+reader events with GNM journalists, created a mobile site for users to upload 
+their own tips and engaged over 80,000 people with our bespoke online site. Our 
+challenge for 2010 was to maximise all of this existing collateral but also 
+move the project forward in terms of interaction and engagement.
+
+Utilising our Open Platform technology we have created an interactive map 
+<https://www.theguardian.com/enjoy-england> to live at the heart of the 
+campaign. The Open Platform API feeds all of the previous content (and new 
+content as it is produced) into Google mapping technology where it is geotagged 
+to location and categorised by timeframe (ten minutes, an hour, a day etc). 
+Guardian content is clearly shown on the map with a blue 'G' flag and will be 
+updated regularly throughout the next twelve months. In addition to this, users 
+are able to become part of the project by uploading their own tips for Enjoying 
+Every Minute to the map, which appear in real time and are shown with a red 
+person flag to differentiate them from Guardian content.
+
+The map has also been embedded into Enjoy England's website 
+<http://www.enjoyengland.com/> where the Open Platform has allowed us to 
+automatically upload Guardian content so that it immediately appears on the 
+Enjoy England map. Each user tip, regardless of whether it is generated on the 
+Guardian map or Enjoy England's version will immediately appear on both sites 
+too.
+
+In this map <https://www.theguardian.com/enjoy-england>, we have created an 
+interactive, technologically advanced piece of creative which can live not only 
+in the world of the Guardian, but on Enjoy England's website and beyond - a 
+true representation of the Guardian's commitment to openness, enabled by our 
+Open Platform.
+
+For the full content produced to date, the map and lots of fantastic ideas, 
+please visittheguardian.com/enjoy-england 
+<https://www.theguardian.com/enjoy-england>
+ 

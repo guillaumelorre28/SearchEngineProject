@@ -1,0 +1,138 @@
+
+A burst of 12 links for you to chew over, as picked by the Technology team
+
+BlackBerry maker RIM's shares plunge on profit warning >> Financial Times 
+<http://www.ft.com/cms/s/2/9001c124-71ee-11e0-9adf-00144feabdc0.html?ftcamp=rss#axzz1Kt2Q3THM>
+"RIM's stock fell $6.17, or 11 per cent, to $50.43 in late trading on 
+Thursday, after earlier closing at $56.59 on Nasdaq.
+ "Underscoring its problems, RIM said BlackBerry shipments would be at the 
+lower end of the range of 13.5m-14.5m units it had projected last month and the 
+mix of devices it sells would shift towards cheaper models. "In a tense call 
+with analysts after the profit warning was announced, Jim Basillie, RIM's 
+co-chief executive, insisted the company's current problems were transitory 
+rather than the start of a longer-term decline. "We all wish we could have got 
+the new products out quicker," he said, "but that just hasn't happened." Not a 
+call they'd have wanted to make just as BlackBerry World - the fiesta for 
+developers and clients - is kicking off in Florida.
+
+We thought 'sold out' sounded better than 'awaiting delivery' >> AllThingsD 
+<http://digitaldaily.allthingsd.com/20110428/we-thought-sold-out-sounded-better-than-awaiting-delivery/>
+More tricks to play with sales channels, this time from Asus: "J.P. Morgan's 
+Mark Moskowitz's informal survey of Best Buy and Target outletts... found that 
+most hadn't received any Transformer tablets yet. "All stores we spoke to had 
+not even received the Transformer tablet," Moskowitz says. "The general read 
+was that supply would not reach most stores until mid-May. As a result, we ask 
+how the Asus tablet can be sold out when it did not arrive in the first place."
+
+How the iPhone knows where you are >> Macworld 
+<http://www.macworld.com/article/159528/2011/04/how_iphone_location_works.html>
+Read this and you will, finally, understand this whole saga.
+
+The unedifying arrogance of PC journalists >> Ian Betteridge 
+<http://www.technovia.co.uk/2011/04/the-unedifying-arrogance-of-pc-journalists.html>
+"he reason that Barry [Collins] – and plenty of other tech journalists – call 
+Apple arrogant is mainly because Apple doesn't jump when the journalists tell 
+them. Apple, in fact, has a very bad reputation amongst tech journalists for 
+being one of the least responsive companies out there. And that reputation is, 
+I can tell you from years of experience, entirely justified."
+
+Biggest Threat to Apple: Google Chrome OS >> TheStreet 
+<http://www.thestreet.com/_yahoo/story/11095372/1/biggest-threat-to-apple-google-chrome-os.html>
+"Starting some time around July or August, Google's partners Samsung and Acer 
+will launch laptops and perhaps also a desktop or two, based on Chrome OS. I am 
+guessing laptops will start at $299 and "naked" desktops at $149. Given the 
+superb performance of these Chrome OS PCs, with boot-up times (from cold) of 
+less than even Apple's MacBook Air, some consumers and enterprises will pick 
+Chrome OS PCs over the much more expensive Apple PCs."
+ A good example of how price can blind you to why people buy computers. Would 
+someone who buys a ChromeOS computer really have been in the market for an 
+Apple device? Far more likely they'd have been looking at cheap PCs.
+ Don't forget either that the first generation of netbooks running Linux had 
+huge returns because people couldn't make them work: they expected (and later 
+got) Windows. Expect something similar for ChromeOS.
+
+Microsoft net income vs Apple net income from 1980 >> Wolfram|Alpha 
+<http://www.wolframalpha.com/input/?i=microsoft+net+income+vs+apple+net+income+from+1980>
+Interesting to compare, using the smart statistical search engine. Note how 
+Apple's profit falls well below zero in 1996-8.
+
+The Great White iPhone: How Apple Spun A Tech Fail Into A PR Win >> Fast 
+Company 
+<http://www.fastcompany.com/1750352/the-great-white-iphone-how-apple-spun-a-tech-fail-into-a-pr-win>
+Worth it for the illustration alone, but interesting analysis: "It didn't 
+arrive when the iPhone 4 went on sale in mid-2010 because Apple couldn't get 
+its hardware working properly--the white coloring, combined with the iPhone 4's 
+unusual glass frame meant the phone's proximity sensor and camera unit didn't 
+function as they needed to. In other words, it was a big technological failure, 
+from one of the world's biggest companies on one of its market-defining 
+products."
+
+Apple's Not Spying on You; You're Spying for Apple >> Gottabemobile 
+<http://www.gottabemobile.com/2011/04/26/apples-not-spying-on-you-youre-spying-for-apple/>
+"Apple asks for diagnostic and usage information about your iPhone, which is 
+fair enough to do. However, I don't believe tracking tower and hotspot 
+locations counts. That information is external to the device, not part of it. 
+If Apple wanted to collect data on my iPhone's location, I would consider that 
+a fair part of that agreement. But instead they're using my iPhone to collect 
+tower and hotspot locations, and that's not right. I only signed up to give 
+info about my device, not those belonging to other people. "The lack of 
+transparency on that point is a serious problem, far more legitimate than the 
+paranoia circulating. To be clear, I don't think there's anything wrong with 
+reporting tower and hotspot locations back to Apple. I just think this falls 
+outside the range of "diagnostic and usage information about your iPhone". It's 
+about property that belongs to others. Therefore, it requires separate, 
+specific permission, as well as a detailed explanation of the risk involved.
+
+With iPhone's secrets, Apple loses track of reality >> ZDNet UK 
+<http://www.zdnet.co.uk/blogs/mixed-signals-10000051/with-iphones-secrets-apple-loses-track-of-reality-10022323/>
+Rupert Goodwins: "Steve Jobs normally talks to the press about as often as the 
+Earth gets visited by Halley's Comet. And, like the comet, it's usually a 
+portent of doom.  "There have been three sightings in living memory: the iPhone 
+4's Antennagate, the as-yet-unexplained rant against Android and tablets in 
+last October's earnings call, and yesterday's response to the discovery of iOS 
+4's unexpectedly good memory for location. Let's call it Trackergate. "Leaving 
+aside the Android rant — perhaps Eric Schmidt ran over the family cat — the two 
+other responses show strong similarities, and make a fascinating insight into 
+how a company reacts when it's backed into a corner and can't ignore the flack."
+ Suffice it to say, Goodwins ain't buying it.
+
+Notion Ink Adam review >> Engadget 
+<http://www.engadget.com/2011/04/27/notion-ink-adam-review/>
+"Notion Ink truly did come up with a number of fantastic ideas for the Adam 
+tablet. They do show. But so little of their light shines through the muck of 
+buggy software and touchy hardware that we're afraid even the best of them will 
+be completely dismissed and ignored... "Features like USB host functionality, a 
+desktop-class web browser, a sunlight-readable screen and a multitask-friendly 
+interface aren't just value-add bullet points that justify a higher price -- 
+they're the difference between a tablet that can augment an existing computer, 
+and one that can replace it altogether and thrust users into a new paradigm. 
+We're sad to see the Adam couldn't make it happen, but there's still an 
+opportunity for other manufacturers to take up the torch."
+
+Free anti-virus for Mac named Best Anti-Malware solution at SC Awards >> Naked 
+Security 
+<http://nakedsecurity.sophos.com/2011/04/28/free-anti-virus-for-mac-best-anti-malware-solution/>
+Beating the Windows products. We've no idea what the criteria for winning 
+actually were.
+
+First Day PlayBook sales: is 50,000 too big a number? >> AllThingsD 
+<http://digitaldaily.allthingsd.com/20110422/first-day-playbook-sales-50000-is-an-awfully-big-number/>
+"Jeffries analyst Peter Misek figures RIM sold about 45,000 PlayBooks Tuesday, 
+with pre-orders accounting for about 25,000 of the total. RBC* analyst Mike 
+Abramsky's first day sales estimate is in the same range, but a bit higher: 
+50,000, including pre-sales. "'The launch appears to have been stronger than 
+the launch of Motorola's Xoom Tablet, or the Samsung Galaxy Tab, although it's 
+too early to judge sustainability,' said RBC analyst Mike Abramsky in a note to 
+clients, adding that, as of Wednesday, checks of 180 stores across 10 cities in 
+the United States and Canada show rising PlayBook stockouts. "But some analysts 
+I've spoken with feel those estimates are overly bullish, given the device's 
+limited availability. 50,000 sold seems an awfully big number when even the 
+Broadway Staples store in downtown New York City had just 10 PlayBooks on hand 
+at launch and a clerk at the Bay Area Best Buy I called described inventory as 
+'a handful.'"
+
+You can follow Guardian Technology's linkbucket on delicious 
+<http://delicious.com/guardianista>
+
+To suggest links, tag articles on delicious.com with "guardiantech"
+ 

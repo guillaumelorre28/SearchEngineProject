@@ -1,0 +1,140 @@
+
+Earlier today I asked you the following questions 
+<https://www.theguardian.com/science/2016/jul/18/can-you-solve-it-wheres-the-best-place-to-tie-your-shoe-in-an-airport>
+:
+
+You are in an airport, and you are walking from security to your gate. The 
+distance includes stretches of travelator, or moving walkway, and stretches of 
+floor. You have a constant walking speed,u, and the travelators also have 
+constant speed,v. So, when you are on the travelator you are traveling at u + v.
+
+1. You need to stop to tie your shoe. If tying your shoe always takes the same 
+time, will you get to the gate quicker if you tie your shoe on the travelator, 
+off the travelator or does it make no difference?
+
+2. You have enough energy to walk at faster speed, w, for a fixed time. In 
+order to get to the gate quicker, do you increase your speed when you are on 
+the travelator, off the travelator or does it make no difference?
+
+The answers:
+
+ * Tie your shoelace on the travelator.
+
+ * Speed up off the travelator. 
+The explanations (simple):
+
+Let’s simplify the details and suppose that there is a single stretch of floor 
+followed by a single stretch of travelator. There’s a lovely intuitive 
+explanation of why it is better to tie your laces on the travelator.
+
+Imagine two people, say, Angela and Beatrice, start walking from security at 
+the same time. Angela stops to tie her shoe immediately before the travelator, 
+but Beatrice ties her shoe as soon as she steps on the travelator. By the time 
+Angela has finished tying her shoe and steps on the travelator, Beatrice will 
+now be way ahead of her and Angela will never make up the distance.
+
+There is a similar intuitive explanation of why it is better to fast-walk 
+before you get to the travelator. Imagine again that Angela and Beatrice start 
+together. Say, to keep it simple, that Angela fast-walks straight away, which 
+puts her at a distance D in front of Beatrice. When Angela steps on the 
+travelator she is D ahead, but while she is on the travelator, and Beatrice is 
+not, Angela increases her distance from Beatrice to more than D. When Beatrice 
+reaches the travelator, she can start fast-walking, but so long as both her and 
+Angela remain on the travelator she will never make up more than D.
+
+The history
+
+The shoelace puzzle was first posed by Terence Toe, I mean Terence Tao. 
+(Couldn’t resist, sorry). He is one of the most celebrated mathematicians 
+alive. He featured this problemon his blog in 2008 
+<https://terrytao.wordpress.com/2008/12/09/an-airport-inspired-puzzle/>, two 
+years after winning the Fields Medal.
+
+How well did you do?
+
+About 15,000 of you submitted answers. The majority - just - got the first one 
+correct. For the second question, however, the correct answer was the one 
+chosen by the fewest people. Interesting.
+
+Q1: where do you tie your shoe?
+
+on the travelator: 47.3%
+
+off the travelator: 11.4%
+
+doesnt matter: 41.3%
+
+Q2: where do you speed up?
+
+on the travelator: 28.7%
+
+off the travelator: 17.2%
+
+doesn’t matter: 54.1% 
+
+The explanations (trickier)
+
+Here is a more thorough explanation of the answers using some algebra. Again 
+let’s assume there is a single stretch of floor and a single stretch of 
+travelator. Let’s start by defining the terms.
+
+T = time it takes to tie laces.
+
+u: human speed 
+
+v: travelator speed
+
+Df: Floor distance
+
+Dtr: travelator distance
+
+The relevant equation:
+
+Speed = distance/time, and so, time = distance/speed
+
+Question 1: Total time = time on floor + time on travelator + time tying laces 
+= (distance on floor/speed on floor) + (distance on travelator/speed on 
+travelator) + T = Df/u + Dtr/(u + v) + T
+
+If laces tied on floor, the total time: Df/u + T + Dtr/(u + v)
+
+
+If laces tied on the travelator, the total time: (Df/u) + T + (Dtr – Tv)/(u + v
+)
+
+Since Dtr > Dtr – Tv, the total time if laces tied on floor is greater, so you 
+get there quicker if you tie laces on the travelator.
+
+Question 2: Now let T = time spent at higher speed w.
+
+Total time if speeding on floor: T + (Df – Tw)/u + Dtr/(u + v)
+
+Total time is speeding on travelator: (Df/u) + T + (Dtr – T(w+ v))/(u + v) 
+
+Since w > u then w/u > (w + v)/(u + v) and (I promise) this shows that total 
+time is less when you walk fast on the floor.
+
+Because of the time and space constraints of this blog I haven’t been able to 
+explain each step in detail. I’m sure some commentators will be able to help 
+out below the line if you are still confused. Thanks all!
+
+I post a puzzle here on a Monday every two weeks. If you are reading this on 
+the Guardian app, click where it says ‘Follow Alex Bellos’ and you’ll get an 
+alert when I publish the next puzzle.If you want to propose a puzzle for this 
+column, pleaseemail me <mailto:bellospuzzle@gmail.com> I’d love to hear it.
+
+
+I’m the author of three popular maths books including Alex’s Adventures in 
+Numberland <http://amzn.to/24xBFW0> and the maths colouring book Snowflake 
+Seashell Star 
+<http://www.amazon.co.uk/gp/product/1782117881/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=1782117881&linkCode=as2&tag=alebel-21>
+.You can check me out on Twitter <https://twitter.com/alexbellos>, Facebook 
+<https://www.facebook.com/pages/Alex-Bellos/326738482347?ref=bookmarks>, Google+
+ <https://plus.google.com/u/0/100349853927591455618/posts>, my personal website 
+<http://www.alexbellos.com/> or my Guardian maths blog 
+<https://www.theguardian.com/science/alexs-adventures-in-numberland>.
+
+
+
+
+ 

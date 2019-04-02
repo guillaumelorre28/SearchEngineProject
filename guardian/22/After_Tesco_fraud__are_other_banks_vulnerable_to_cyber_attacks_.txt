@@ -1,0 +1,158 @@
+
+Consumers worried about falling victim to online banking fraud should consider 
+banks that give customers card readers and avoid those which rely on text 
+messages, according to leading security expert Graham Cluley. He was speaking 
+as Tesco Bank continued to deal with the fallout from the “systematic, 
+sophisticated attack 
+<https://www.theguardian.com/business/2016/nov/08/tesco-bank-cyber-thieves-25m>
+” that resulted in £2.5m being taken from around 9,000 current account holders.
+
+Meanwhile, another expert says that the Tesco 
+<https://www.theguardian.com/business/tesco> attack last weekend could be the 
+first of many, and banks should be forced by regulators to up their game.
+
+The bank was forced to suspend online banking for all its 136,000 customers 
+after money – in some cases several thousand pounds – was stolen from accounts. 
+It is thought much of it ended up in Spain and Brazil.
+
+Although the number of customers affected was later downgraded from the 
+original 20,000, Tesco has declined to reveal how the money was taken. It did 
+say that personal data had not been compromised, leading some experts to 
+suggest that the fraudsters had gained debit card details, or found a 
+vulnerability in its app.
+
+The National Crime Agency is investigating, but questions are already being 
+asked about levels of security.
+
+It has emerged that Tesco Bank used to issue customers with card readers – 
+small devices that generate a unique passcode when you insert your card and key 
+in your pin. These typically authorise your login and certain transactions. But 
+the bank later moved to mobile phone verification, where it sends a code to 
+your handset.
+
+No bank can ever claim to be 100% secure and attacks by fraudsters are a fact 
+of life
+
+Cliff Moyce, global head of financial services at technology firm DataArt, 
+told Guardian Money that the financial regulators need to take a stronger line 
+if further incidents are to be prevented.
+
+Moyce, who has worked in financial security for more than 25 years, says Tesco 
+Bank customer losses were “almost certainly” not the result of a TalkTalk-style 
+outside hack, but were more likely caused by a failure of its IT security and 
+data protection processes.
+
+“No bank can ever claim to be 100% secure and attacks by fraudsters are a fact 
+of life. The problem is that the banks need to do a lot better – the regulators 
+need to be forcing them to adopt the best practice… unless this happens it will 
+only be a matter of time before there is another similar episode at another 
+bank,” he says.
+
+One line of investigation is likely to focus on the possibility of an 
+“economic hack”, says Moyce, whereby an offshore employee is offered multiples 
+of their annual salary in return for a tranche of customer data. One thing that 
+might raise eyebrows is that the bank’s staff were seemingly encouraged to use 
+their own smartphones and tablets for work, a trend commonly known as “bring 
+your own device”, or BYOD.
+
+In a 2015 interview 
+<http://www.cio.co.uk/cio100/2015/chris-brocklesby-3607313/> Tesco Bank’s then 
+chief information officer, Chris Brocklesby, revealed how he had “championed” 
+BYOD, adding: “A trial has been successful and we will fully roll out in 2015. 
+The initial release will be for phones and tablets.”
+
+Moyce, who admits he has no idea if this was taken up at Tesco Bank, says such 
+a move would be controversial. “BYOD always brings risks, especially in the 
+areas of breaches of the UK Data Protection Act, as it is too easy for 
+confidential and sensitive information to end up in a personal device that may 
+be lost, sold or taken to another employment. There is also a risk of 
+introducing malware into a secure network.”
+
+He suggested good BYOD policies, implemented rigorously, can reduce the risks 
+to the same level as any company-supplied devices. The question is whether your 
+bank is operating good policies and practices.
+
+Professor Alan Woodward, banking security expert at the University of Surrey, 
+says he was surprised Tesco has been so coy about what actually happened. “The 
+fact they have said that customers’ personal data was not compromised suggests 
+that the hackers may have harvested customers’ debit card details and then used 
+them in an automated mass attack. They really need to come out and give more 
+details.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fmoney%2F2016%2Fnov%2F12%2Ftesco-bank-fraud-cyber-attack-card-readers-security%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fa6271bff3df9b7b132a651437739fddb3c68faf4%2F0_206_5760_3456%2F5760.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=After%20Tesco%20fraud%2C%20are%20other%20banks%20vulnerable%20to%20cyber-attacks%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fmoney%2F2016%2Fnov%2F12%2Ftesco-bank-fraud-cyber-attack-card-readers-security%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=After%20Tesco%20fraud%2C%20are%20other%20banks%20vulnerable%20to%20cyber-attacks%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fmoney%2F2016%2Fnov%2F12%2Ftesco-bank-fraud-cyber-attack-card-readers-security%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fa6271bff3df9b7b132a651437739fddb3c68faf4%2F0_206_5760_3456%2F5760.jpg>
+ Consumers should look for a bank that avoids the use of text messages as a way 
+of identifying them when logging on or making a payment. Photograph: Felix Clay 
+for the Guardian 
+He says this is the first successful attack on a bank itself. Previously, 
+fraudsters have targeted individual customers. He also predicts that security 
+will become one of the ways some banks sell themselves in the future.
+
+Last month the consumer group Which? criticised some of Britain’s biggest banks
+ 
+<https://www.theguardian.com/money/2016/oct/20/banks-online-security-is-failing-customers-says-which>
+ for failing to invest in security systems that would better protect their 
+customers from fraudsters. It tested the UK’s 11 biggest banks and building 
+societies and found that the security at five was not good enough.
+
+It said Halifax, its sister brand Bank of Scotland, Lloyds, Santander and TSB 
+had “consistently scored poorly” over the four years it had been analysing 
+their security measures.
+
+None offered “two-factor authentication” at login, despite having the 
+technology to do so. This combines two different types of ID checks – typically 
+something you know, such as a password or pin, with something you have, such as 
+a card reader or a mobile phone on which to generate or receive a single-use 
+passcode.
+
+Tesco Bank, which was not tested by Which?, is a leading challenger bank – the 
+new entrants trying to topple the domination of the traditional players – 
+mostly appealing to younger customers with the promise of a user-friendly, 
+hi-tech approach.
+
+On a Tesco Bank web forum in 2015, a bank employee wrote 
+<https://yourcommunity.tescobank.com/t5/Day-to-Day-Banking/Credit-Card-Security/td-p/1212>
+: “It is hard to get the balance of security and convenience right for everyone 
+using our online banking service. We used to have a card reader to protect 
+online banking; however the overwhelming feedback from customers was that they 
+didn’t like this method and they wanted something more portable. This was why 
+we implemented a solution that allows our customers to receive a security code 
+to their mobile phone.”
+
+Some people, reading that now, may wonder whether the bank was right to make 
+such a change.
+
+Nationwide, which is one of the providers that still uses card readers, says 
+on its website that it “provides an extra level of security when banking 
+online... your card reader helps to prevent fraudsters from trying to log in as 
+you, and transferring your money.”
+
+Tesco Bank is not alone in shunning readers. Cluley says consumers can 
+continue to trust online banking – for now. “Clearly this is not good news, but 
+at the moment this is one incident. However, if it happens to a second bank 
+then this would be a major source of concern that could result in a loss of 
+trust.”
+
+He says he is still happy to bank online as the risks are still outweighed by 
+the convenience.
+
+However, he suggests that consumers should be looking for a bank that avoids 
+the use of text messages as a way of identifying their customer when logging on 
+or making a payment.
+
+“The banks are moving away from these as they are open to exploitation.Card 
+readers that produce a code are much more secure.” He adds: “I always use a 
+made-up mother’s maiden name. Only I know what I have picked and, unlike the 
+real one, it’s not publicly available information.”
+
+Tesco Bank told us that “robust security measures” are in place to protect 
+customers. It says that as a security measure, to add a payee, customers are 
+required to enter their unique security code, following which they will be sent 
+a text confirming the new payee.
+
+However, it adds: “To access the app, customers need to enter their unique 
+security code.”
+ 

@@ -1,0 +1,93 @@
+
+ * Each clue leads to two solutions, one or both of which contain a trio (or 
+in two cases a quartet) of successive letters of the alphabet, appearing either 
+forward or backwards. These groups of letters are not further defined in the 
+wordplay of the clues. In one case the letters to be included are a mix of 
+three successive letters.
+
+Across
+
+ 10,12 MacDermot MA[CDE]RMOT 
+ Odin 0 DIN
+
+ 13,15 Cicero C<ICE>RO(quet)
+ Agamemnon A<GAME[MNO]>N
+
+ 16,17 Gymnopédies GY(p) [MNOP]EDIE’S [Erik Satie compositions]
+ state double def
+
+ 18,19 pieces out PIECES + OUT
+ ponga [PON]AG(rev) [New Zealand fern tree]
+
+ 20,21 Laugh-In LA/U[GHI]N [Rowan & Martin’s Laugh-In]
+ Alf Ramsey YALE’S FARM (anag)
+
+ 26,28 Capone ameriCA[PON]Evades (hidden)
+ crowds CROW<Derring-do)S
+
+ 30,32 redcaps R[EDC]APS
+ tanghin TAN[GHI]N(a) [Madagascan poison; Indian police station]
+
+ 34,36 back up [BAC]KUP(fer) [Kupfer = copper in German]
+ scryne CYLINDERS minus LID (anag) [Spenserian word for ‘chest’]
+
+ 39,41 Trefgarne [EFG] in ERRANT (anag) [hereditary peer, b. 1941]
+ zodiacs/Zodiacs double def
+
+ 47,48 elève ELEVE(n) [French pupil]
+ somnolent SO[MNO]LENT
+
+ 49,50 false FA/LSE [London School of Economics]
+ Rijksmuseum [IJK] in US SUMMER (anag)
+
+ 51,52 nocturnal CANNOT LUR(e{scapee})
+conman C[ONM]AN
+
+ 53,54 stun [STU](autum)N
+frondesce ROS(es) FENCED (anag)
+
+Down
+
+ 1,2 impasse I’M PASSE
+ Ecbatana [CBA] in A NEAT (anag)
+
+ 3,4  Defereggen [DEF] + E(lms)/G(rowing) in GREEN (anag) [high valley of East 
+Tyrol]
+stunted [STU] + TEN D(ead) (anag)
+
+ 5,6  Longfellow L(ine)<ON(ly)[GFE]>L(ine)/LOW
+film noir [LMNO] in RIFIFI minus IF (anag)
+
+ 7,8  widespread WIDE + DRAPES (anag) [wide ball]
+defiant [DEF]1/ANT
+
+ 9,11 borstal B(ody)O(dour)[RST]LA(rev)
+Monoprix MO/[NOP]RIX [Brian Rix]
+
+ 14,22  costumers CO[STU]MERS
+ scuts SC[UTS]
+
+ 23,24  drab BARD (rev)
+hazy (speec)H[AZY]
+
+ 25,27 aster A/STER(n)
+pong [PON]G(ood)
+
+ 29,31 stub [STU]B(lack)
+snuffs out SNUFF/SO/UT
+
+ 33,35  hortensias STORE HAS IN (anag)
+cantonment CAN’T/[ONM]TEN(anag)
+
+ 37,38 Chief Guide CH<I(ndependant)[EFG]/U(nion)>IDE
+post-echo THE CO-OPS (anag)
+
+ 40,42  armrests AR<M(ale)>RESTS
+calmness CA[LMN](r)ESS
+
+ 43,44  defrock [DEF]ROCK
+Beijing BE<1/J(udge)>ING
+
+ 45,46  seen off double def
+well-fed WELL[FED]
+ 

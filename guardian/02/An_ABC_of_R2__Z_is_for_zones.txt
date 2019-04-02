@@ -1,0 +1,42 @@
+
+Today Z, for zones... which are a top navigation level of theguardian.com. 
+However the navigational structure was designed to be quite fluid, and the 
+concept of a zone is really more of an internal reference point than a phrase 
+that's intended to be used by our site's users.
+
+The ebb and flow of the online media marketplace meant that while we were 
+working on R2 Times Online in the UK launched a redesign of their own. At the 
+time I was interested to readan interview with their Information Architect 
+<http://www.timesonline.co.uk/tol/comment/letters/feedback/article1184010.ece> 
+who said that they had constructed a three-level navigation hierarchy. For 
+theguardian.com we had considered and rejected implementing such an explicit 
+scheme for three primary reasons.
+
+First we recognise that the breadth of our content wasn't equal across all 
+subjects -- we have many more journalists working on news stories than travel 
+stories, for example, so a second-level of navigation under news might have a 
+couple of dozen subjects, which is impossible to display conveniently on a 
+navbar. Second not all subjects break down neatly into three levels -- some 
+topics have more depth and complexity than others. Third,Guardian values 
+<http://www.gmgplc.co.uk/ScottTrust/TheScottTrustvalues/tabid/194/Default.aspx> 
+mean that certain subjects need to be given more prominence than a formal 
+encyclopaedic breakdown allows -- for example, in any formal scheme 
+environmental issues would be part of the news or the science section, but the 
+reality is that our planet's environmental state is far too important to 
+relegate to anything but the highest level.
+
+So R2 was designed to allow fluidity and flexibility in our navigation, and we 
+created words to describe its different aspects. A zone is one of the top-level 
+categories that appear along the top navigation bar: News, Sport, Comment, 
+Culture, etc. At the bottom level of categorisation are very specific subjects 
+such asinterest rates <https://www.theguardian.com/business/interestrates>, war 
+crimes <https://www.theguardian.com/world/warcrimes>, Kate Moss 
+<https://www.theguardian.com/lifeandstyle/kate-moss> and thousands of others. 
+If you're reading about one of these subjects it doesn't matter how many levels 
+deep you might be as long as there's some clear signposting to find your way to 
+your next point of interest. The navigation should give you some kind of 
+orientation, and importantly act as a guide to jumping off to similar subjects 
+or to begin a new journey elsewhere entirely. But exposing any internal 
+classification system is less important. R2 has given us a system that 
+separates the visual navigation from the way content is organised internally.
+ 

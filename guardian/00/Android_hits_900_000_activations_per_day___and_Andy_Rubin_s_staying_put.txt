@@ -1,0 +1,71 @@
+
+Andy Rubin <https://www.theguardian.com/technology/andy-rubin>, the founder of 
+Android (the company) and head of Android (the mobile software division at 
+Google) is not leaving Google.
+
+And, simultaneously but unrelated, Android device activations are now running 
+at more than 900,000 per day, according to the latest tweet from Rubin. Based 
+on previously given figures (850,000 activations per day, and 300m devices 
+activated, from the Google Mobile blog in February) that suggests that there 
+have been a total of 390mAndroid 
+<https://www.theguardian.com/technology/android> devices activated in total. 
+(It's impossible to know how many of those are in use, but as the majority have 
+been activated in the past two years, it's a good guess that it's a very high 
+percentage of that total.)
+
+No plans to leave Google.Oh, and just for meme completeness -- there are over 
+900,000 android devices activated each day :-)@Scobleizer 
+<https://twitter.com/Scobleizer>
+
+— Andy Rubin (@Arubin) June 10, 2012 
+<https://twitter.com/Arubin/status/211939156451012609>
+
+The idea that Rubin might leave Google 
+<https://www.theguardian.com/technology/google>? Oh, we'll come to that.
+
+Among the questions asked by people who saw his tweet were "how many of those 
+900k are on ICS [Ice Cream Sandwich, the 4.0 version of Android released last 
+October]?" and "what % of that 900,000 are 'smartphones' vs 'feature phone+' in 
+one of the BRIC [Brazil, Russia, India, China] countries? What percentage are 
+not phones at all?"
+
+Sadly, Rubin didn't give any clarification on either point. 
+
+So what's with the "leaving Google" rumour? For that you have to head over to 
+the fabulous Rumour Central, aka Robert Scoble, who posted on Google+ about how 
+he'd heard that Rubin was heading out.
+
+Here's how Scoble presented it 
+<https://plus.google.com/111091089527727420853/posts/J3iKnFMSQ2Y> on Sunday 
+morning (apparently at 0305, but it's not clear if that's BST, EST or PST):
+
+"By the time I hear a rumor, usually sent to me in email or on some chat 
+system I have open (like Google's or Facebook's) or on my phone it probably has 
+already been around to a few dozens of people.
+
+Today I heard that the head of Android, +Andy Rubin, will soon leave Google 
+and head to a new startup called http://www.cloudcar.com/
+
+For which the only logical response (if you actually bothered to read Scoble's 
+stuff) would be "Wowsers! Best get Rubin on the phone and check that."
+
+Nobody did, but Rubin did respond with that tweet, and a longer response on 
+Google+, some hours after Scoble posted:
+
+"How a rumor gets factualized: Cloudcar are a group of friends who I give free 
+office space to in my incubator in Los Altos. Revel Touch (Mar Hershenson's 
+company: www.reveltouch.com) is another cool company that shares this space. 
+I'm not joining either one and I don't have any plans to leave Google. See you 
+on the 27th!"
+
+ (June 27th being the date of Google I/O.)
+
+Actually, the idea of Rubin leaving Google is pretty preposterous: Android has 
+barely begun to change the world (smartphones have a long way to go), it hasn't 
+yet become a major income source for Google, and there is still enormous 
+potential to improve the smartphone/tablet experience for everyone. Rubin 
+joined Google in 2005, and we'd wager on him staying there a long time.
+
+Whether he'll think it worth his time to give Robert Scoble his phone number 
+so he can check rumours rather than posting them is another question.
+ 

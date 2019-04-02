@@ -1,0 +1,265 @@
+
+The portrait of the hacker as an antisocial, lonesome deviant is pervasive and 
+seemingly indelible. This week, for example, the British tabloids rounded ona 
+child who has been arrested 
+<https://www.theguardian.com/business/2015/oct/26/talktalk-cyber-attack-boy-15-arrested-in-northern-ireland>
+ in connection with the hacking of telecommunications provider TalkTalk’s 
+porous servers in order to access customers’ personal data. The Daily Mail’s 
+front page referred to him as “a baby-faced loner who rarely leaves his 
+bedroom”. The Sun described the boy, who lives on a council estate with his 
+single mother in Ballymena, Northern Ireland, and who suffers from learning 
+disabilities and attention deficit hyperactivity disorder, as “reclusive”. He 
+is, they continued, an avid player of video games, as if such a detail 
+distinguishes this particular teenager from any other. The Mirror quoted a 
+neighbour who described the boy as “quiet and shy”. He was often seen, she 
+added, with a skateboard, although there was no mention whether or not his 
+baseball cap was worn in the style of Bart Simpson: anarchically askew.
+
+TalkTalk hack: boy arrested over alleged cyber-attack is bailed
+ Read more  
+<https://www.theguardian.com/uk-news/2015/oct/27/talktalk-boy-arrested-alleged-cyber-attack-bailed-northern-ireland>
+There are two common stereotypes of the young, usually male, hacker. They are 
+seen either as a shadowy criminal mastermind, able to sift hidden information 
+for gold or, in the case of the teenagers who manage to take the websites of 
+multinational corporations offline for a few hours, little more than digital 
+vandals. As portrayed in the media, the alleged hacker from Ballymena straddles 
+both stereotypes, with added ghost notes to do with class and poverty. He is an 
+undesirable but, unlike the hooligans who throw stones at windows, also 
+possesses arcane skill (at least in the eyes of those without a basic computer 
+science education). The detail of his alleged crime is illegible to all but the 
+cognoscenti. As such, he is presented as a deviant wunderkind, simultaneously 
+astute and base, accomplished yet also somehow pitiful.A second teenager 
+<https://www.theguardian.com/business/2015/oct/30/second-teenager-arrested-over-talktalk-data-breach>
+ has now been arrested in west London; it will be interesting to see how his 
+character is represented in the days to come.
+
+These cliches have been strengthened and propagated by fictional 
+representations of hackers.Jurassic Park’s Dennis T Nedry 
+<https://www.youtube.com/watch?v=6bauZwl9AP0> is the overweight, sweat-prone, 
+moral-free computer scientist who disables security systems in order to smuggle 
+dinosaur embryos out of the titular park in a hollowed can of shaving foam. His 
+surname is a barely scrambled anagram of “nerdy”.Boris Grishenko 
+<https://www.youtube.com/watch?v=mIq9jFdEfZo>, the bespectacled Russian hacker 
+from GoldenEye, is a misogynistic narcissist who is both cowardly and conceited 
+(he dies, pleasingly, in a shower of liquid nitrogen, which hits moments after 
+he declares: “I am invincible!”).Lisbeth Salander 
+<http://www.imdb.com/video/imdb/vi180946457>, protagonist of Stieg Larsson’s 
+The Girl with the Dragon Tattoo, may be a more contemporary class of elite 
+hacker – lithe, attractive, leather-clad – but the get-up merely disguises a 
+more familiar stereotype: she is highly introverted and struggles to make 
+friends. Another character in the book describes Salander, variously, as 
+“paranoid”, “obsessive” and “psychotic”. She subsists on pizza and fizzy pop. 
+NowMr Robot <https://www.theguardian.com/tv-and-radio/mr-robot>, a wildly 
+successful new US drama, followsElliot Alderson 
+<https://www.youtube.com/watch?v=2CPiLoWwNPg>, a brilliant young hacker drawn 
+into an anarchist movement. Elliot is lovable, but he’s also delusional, 
+depressed, addicted to drugs, and beset with social anxiety disorder.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dg6gG-6Co_v4&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dg6gG-6Co_v4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dg6gG-6Co_v4&media=>
+According to Ian Reynolds, a hacker turned security consultant who now works 
+fortifying corporations and governments against the threat of cyber attack, 
+these stereotypes are antiquated and unhelpful. “The common misconception that 
+computer hackers are just spotty-faced teenagers working out of their bedrooms 
+over their parents’ broadband connection is largely inaccurate,” he says. “In 
+reality there is a far wider variety of people and personality types that are 
+attracted to computer hacking. There is no blueprint. With ‘social engineering’ 
+hacks, for example, the ideal personality is an outgoing, impressionable 
+individual who is able to trick people into performing a task or divulging 
+usernames or passwords. Introverts are much less likely to succeed in these 
+styles of attack as they lack the confidence or social skills required.” Corey 
+Nachreiner, chief technology officer at WatchGuard Technologies, which helps 
+combat malicious online attacks, agrees. “Regardless of whether you’re talking 
+about hackers in the positive sense – many non-criminal security researchers 
+may identify with the term – or you’re talking about criminals, the stereotype 
+is totally outdated and misleading,” he says.
+
+Mr Robot: 'Edward Snowden is a huge fan of our show'
+ Read more  
+<https://www.theguardian.com/tv-and-radio/2015/oct/17/mr-robot-christian-slater-rami-malek>
+The data supports the claim. According to research 
+<http://venturebeat.com/2013/02/22/profile-of-a-cyber-criminal-infographic> 
+carried out by the online payments company Jumio in 2013, 43% of criminal 
+hackers are aged between 35 and 50 years old. Only 8% of criminal hackers are 
+under 18. Almost a quarter of criminal hackers are women, and almost half of 
+all criminal hacking traffic originates from Asian-Pacific countries, the 
+majority from Indonesia (14% of all cybercrime, compared to 19% from the US, a 
+country many times its size). Criminal hackers usually do not work alone but 
+are, in Jumio’s term, “fully fledged businesses”, with executives, middle 
+managers and workers. “Even though there are some criminals who fit the 
+stereotypical profile of a hacker, it underestimates the extent and 
+organisation of the wider fraud and cybercriminal syndicates,” says Jumio’s 
+Marc Barach. “Cybercrime is big business, populated by highly intelligent and 
+hardworking people who often times excel at their jobs. If they applied their 
+skills to legal pursuits, they’d probably be amazingly successful.”
+
+Both Reynolds and Nachreiner are eager to distinguish between so-called 
+“script kiddies” – mischief-making teenagers who download distributed denial of 
+service (DDoS) tools and use them to send a vast amount of fake traffic to a 
+particular website in order to cause its servers to fail and go offline – and 
+skilled computer hackers. “Fifteen years ago, it may have been true that many 
+of the internet hacking ‘pranks’ or nuisance malware was created by egotistical 
+script kiddies,” says Nachreiner. “Many of them may have fit the profile of 
+awkward, socially inept loners with strong technical skills. Today, however, 
+the hacker profiles are much more diverse.” Nacheiner says that you need only 
+spend a few minutes roaming the halls ofDef Con, the world’s largest hacker 
+convention 
+<https://www.theguardian.com/technology/2015/aug/10/skateboards-drones-brain-hackers-defcon-las-vegas>
+, which is held annually in Las Vegas, to witness the diversity of people who 
+adopt the label. “You’ll find everyone from guys in trench coats with blue 
+hair, to old greybeards in their 60s, to polished, dynamic professionals.”
+
+The term “hacker” was not coined to describe one particular type of person. 
+Its first documented use in relation to computers was in 1955, when it was 
+recorded in the minutes of a meeting of the Massachusetts Institute of 
+Technology (MIT)’s seminal computing group, theTech Model Railroad Club 
+<https://medium.com/backchannel/the-tech-model-railroad-club-3b06a3163563#.5hgt9n50v>
+. They used it to mean “messing about with machines”. Its definition was 
+formalised four years later by club member Peter R Samson, who, inhis TMRC 
+dictionary <http://tmrc.mit.edu/dictionary.html>, defined the word as 
+“something done without constructive end” or, deliciously, “an entropy booster”.
+
+Writing in 2005, Samson claimed that, in those early years, the word “hacking” 
+was neutral, with no suggestion of malice or benevolence. He cites, as one of 
+the earliest examples of a hack, a group project to find a way to play music on 
+one of the university’s room-sized computers. By 1975 the word “hacker”, which 
+was now in widespread usage, was defined in theJargon File 
+<http://www.catb.org/jargon/html/>, a glossary for computer programmers, as “a 
+person who enjoys exploring the details of programmable systems and how to 
+stretch their capabilities”. This was, the definition stated, distinguishable 
+from most computer users, who “prefer to learn only the minimum necessary”.
+
+OPM hack: China blamed for massive breach at US federal agency
+ Read more  
+<https://www.theguardian.com/technology/2015/jun/04/us-government-massive-data-breach-employee-records-security-clearances>
+Jargon File’s definition is, according to Timo Gnambs <http://timo.gnambs.at/>
+, a researcher for the Leibniz Institute for Educational Trajectories, a more 
+accurate description of the hacker mentality than the contemporary stereotype. 
+Gnambs recentlypublished a study 
+<http://www.sciencedirect.com/science/article/pii/S0092656615300052> in the 
+Journal of Research in Personality, in which he trawled data from 19 previous 
+studies, involving nearly 1,700 people, in order to examine correlations 
+between programming talent and personality type. While he found a strong 
+association between introversion and programming skill, he also saw firm links 
+between intelligence, conscientiousness and, in stark contrast to the cliches, 
+“openness” – a person’s degree of creativity and intellectual curiosity. There 
+was, he found, no link between a person’s agreeableness or neuroticism and 
+their skill as a hacker.
+
+“According to prevalent stereotypes, computer programmers are supposed to lack 
+interpersonal skills, and are frequently characterised as socially inhibited 
+individuals that are single-mindedly focused on computers,” Gnambs says. “My 
+study showed that personality traits that, according to the stereotypes, are 
+typical for programmers, do not differentiate able from less-able programmers. 
+In other words, particularly disagreeable programmers do not create better 
+code.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F31%2Freal-hackers-hiding-behind-the-cliches-of-talktalk-and-mr-robot%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F3311657b5e4c458096d118d67a6e446e8f3112db%2F0_0_2560_1536%2F2560.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Ghosts%20in%20the%20machine%3A%20the%20real%20hackers%20hiding%20behind%20the%20cliches%20of%20TalkTalk%20and%20Mr%20Robot&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F31%2Freal-hackers-hiding-behind-the-cliches-of-talktalk-and-mr-robot%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Ghosts%20in%20the%20machine%3A%20the%20real%20hackers%20hiding%20behind%20the%20cliches%20of%20TalkTalk%20and%20Mr%20Robot&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F31%2Freal-hackers-hiding-behind-the-cliches-of-talktalk-and-mr-robot%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F3311657b5e4c458096d118d67a6e446e8f3112db%2F0_0_2560_1536%2F2560.jpg>
+ Delusional, paranoid, narcissistic, moral-free … screen hackers (from left) 
+Elliot Anderson in Mr Robot, Lisbeth Salander in The Girl With the Dragon 
+Tattoo, Boris Grishenko in Goldeneye and Dennis Nedry in Jurassic Park 
+While there may not be a blueprint for a typical hacker, according to 
+Reynolds, the common denominator is that computer hacking in its purest form 
+attracts highly technical, creative people. “They must get a kick out of taking 
+a non-standard approach to gaining access to a website or environment – 
+circumventing the layer of security that is designed to keep people out,” he 
+says. It’s this puzzle element to hacking – the need for lateral thinking, 
+problem solving, even outsmarting an adversary – that inspired Pete Herzog to 
+co-foundHacker Highschool <http://www.hackerhighschool.org> in 2002, an 
+educational programme that seeks to “capture the fun and magic of hacking”.
+
+Herzog worked with La Salle University in Barcelona to design 12 lessons for 
+teenagers, designed to teach security skills, and ran the course as summer 
+classes, teaching children a foundation in network security, alongside values 
+of respect and empathy. In 2010 Herzog and his team rewrote the lessons, 
+removing the teacher from the equation so, as he puts it, the students “could 
+teach themselves, like real hackers”. The course has proved hugely popular. On 
+average, lessons are downloaded a quarter of a million times every month, in 10 
+languages.
+
+Inside the secret world of hackers
+ Read more  
+<https://www.theguardian.com/technology/2011/aug/24/inside-secret-world-of-hackers>
+There is a big difference between teenagers who experiment with, say, breaking 
+into a telecommunication company network, and organised criminal hackers, says 
+Herzog. “Long-term criminal hackers do it for a living,” he adds. “But most 
+teens who commit illegal criminal acts do it as part of a power struggle, 
+something we all go through. They’re lashing out. Some teens punch, some 
+scream, some have sex and some shoplift. In most cases we assign the behaviour 
+as teenage angst and get them help. With hacking, however, they’re tried as 
+criminals and often go to jail.” Herzog likens his course to boxing clubs, 
+which aim to turn teenage frustration and anger into discipline and passion 
+through sport. “We need to stop punishing teens for carrying out cyber attacks 
+because they got angry at someone. Right now, if a teen hacks into a web server 
+and deletes data, they will likely serve a longer, tougher sentence then if 
+they broke into the server room, knocked out a few employees and set the web 
+server on fire. What does that tell you? That doesn’t create fewer hackers. It 
+just turns more hackers into criminals.”
+
+Many criminal hackers, especially the kind who, in their younger years, staged 
+attacks against corporations out of frustration, have been able to turn their 
+expertise into gainful employment in the way that Herzog hopes his course will 
+encourage.Kevin Mitnick 
+<https://www.theguardian.com/technology/2002/dec/13/g2.usnews>, who calls 
+himself “the world’s most famous hacker”, was certainly one of the most 
+notorious. Prior to his arrest in North Carolina in 1995, he was the FBI’s 
+most-wanted outlaw, after hacking into computers belonging to companies such as 
+Motorola, Nokia and Sun Microsystems. He spent five years in prison, including 
+eight months in solitary confinement, because a federal judge believed, 
+preposterously, that he could “whistle tones into a phone and launch a nuclear 
+missile”.
+
+Now 51, Mitnick, runs a successful and profitable company where he and his 
+team attempt to break into corporations by any means necessary, in order to 
+expose security flaws (work that’s known, alluringly, as “penetration testing” 
+in the business) – much the same things he did as a criminal hacker. GCHQ 
+reportedly hires many ex-criminal hackers, and the idea of the programming 
+wunderkind who is caught by the authorities then cajoled into working for them 
+has become a recurrent motif in drama. The more notorious the hacker, the more 
+likely they are to be hired. In 2011, the 21-year-old hacker George Hotz, who 
+“unlocked” Apple’s iPhone andSony’s PlayStation 3 console 
+<https://www.theguardian.com/technology/gamesblog/2011/jan/07/playstation-3-hack-ps3>
+ to run pirated software, was hired by Facebook weeks after he settled a 
+lawsuit with Sony. “Knowledge is power, and a reformed criminal knows the 
+industry far better than someone who has never been there and done it,” says 
+Barach. Herzog goes further. “You wouldn’t hire a policeman who’s never thrown 
+a punch or a fireman who’s never set a fire either. So why would you want to 
+hire a security professional who’s never hacked?”
+
+Anonymous plans to reveal names of about 1,000 Ku Klux Klan members
+ Read more  
+<https://www.theguardian.com/technology/2015/oct/29/anonymous-ku-klux-klan-members-reveal-names>
+Some blame for the way hackers are routinely viewed as a monolithic group can 
+be ascribed to the hackers themselves, who often labour, not only under a mask 
+of anonymity, but also one of uniformity. Members of Anonymous, one of the 
+largest collectives of hackers in the world, are known for wearing identicalGuy 
+Fawkes masks 
+<http://www.economist.com/blogs/economist-explains/2014/11/economist-explains-3>
+, the design taken from the graphic novelV for Vendetta 
+<https://www.theguardian.com/books/2011/nov/21/v-for-vendetta-film>. But behind 
+the masks, there’s diversity. “Many of the larger, more well-known hacking 
+groups have people from all backgrounds and walks of life, says Reynolds. 
+“Usually it’s a variety of people united over a common cause.” That cause can 
+be politically motivated, vigilantism, crime or, in the case of state-sponsored 
+hackers, even patriotism. “We should spend much more time profiling the motive 
+of different threat actors rather than the psychologies,” says Nachreiner. 
+“You’ll often find multiple members of the same threat-actor group to all have 
+slightly different psychologies, but a shared motive.”
+
+The stereotype will, however, endure as long as people need a bogeyman they 
+can visualise trying to steal their data. The image of a rotund, washed-up 
+journalist hacking celebrity’s phones for News International doesn’t have the 
+same potency as the hooded, indoorsy miscreant, neither for headline- nor 
+Hollywood writers. “Hacking is the closest thing the general public knows to be 
+an unknown, unexplained power that some people possess, like modern magic,” 
+says Herzog. “So, of course, there will be witch-hunts for those who wield that 
+power. We can’t fight that. But we can teach young hackers humility and 
+empathy.”
+ 

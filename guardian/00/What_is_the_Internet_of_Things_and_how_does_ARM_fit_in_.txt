@@ -1,0 +1,128 @@
+
+Britain’s best unknown tech business 
+<https://www.theguardian.com/technology/2015/nov/29/arm-cambridge-britain-tech-company-iphone>
+ ARM Holdings is being bought by Japan’s SoftBank on the back of the promise of 
+the Internet of Things (IoT). But what is IoT, and what has a chip designer 
+like ARM got to do with it?
+
+What is the Internet of Things?
+
+The idea behind IoT is to create a home where everything is connected to the 
+internet, creating “swarm intelligence” from individually dumb devices. Bins, 
+toasters, washing machines and lights will be able to talk to each other for 
+automatic, more efficient control and monitoring.
+
+But IoT also describes the use of sensors and smart devices in the wider 
+environment to automate processes and give information to human operators, such 
+as roads that alert drivers to spots of black ice or recycling bins that tell 
+the council when to pick them up.
+
+What sort of things can can you get?
+
+IoT is still in its infancy, but there is a small collection of consumer 
+devices and a few commercial devices that actually link into the wider world.
+
+The best known IoT devices are smart thermostats, such as Nest’s Learning 
+Thermostat 
+<https://www.theguardian.com/technology/2016/jun/03/google-nest-learning-thermostat-third-generation-home-gadget-smart-heating>
+, and lighting systems, of which Philips Hue and Lightwave RF are the best 
+known in the UK.
+
+Other devices include electronic locks, home-security cameras, various sensors 
+for temperature, humidity, water, motion and open or close states. Various 
+smart plug sockets are also available that allows users to turn lamps and other 
+non-smart devices on and off remotely.
+
+The internet fridge was always the poster child of IoT, but home appliances 
+are only starting to be available with IoT built in. Smartwashers, driers, 
+dishwashers,bathroom scales 
+<https://www.theguardian.com/technology/2016/jun/10/withings-body-cardio-review-stylish-scales-health-obsessives>
+, robot vacuum cleaners,fans 
+<https://www.theguardian.com/technology/2016/mar/31/dyson-pure-cool-link-air-purifier-wi-fi-internet-of-things>
+ and, yes, fridges, are starting to come to market that can talk to each other 
+and to the owner.
+
+What can you do with IoT?
+
+Broadly speaking, IoT devices fall into two categories: true consumer devices 
+and DIY automation systems.
+
+Smart-thermostats, cameras, scales, gadgets to help you sleep 
+<https://www.theguardian.com/technology/2016/apr/25/how-to-sleep-better-with-technology>
+ and other devices, which are easy to install and use either in isolation or 
+together with other bits through an app or syncing service, are commonly 
+available through traditional retailers.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F18%2Fwhat-is-the-internet-of-things-arm-holdings-softbank%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F362ffb9c494dda56b53f19ba23f1d88fcd24669a%2F0_0_1286_772%2F1286.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=What%20is%20the%20Internet%20of%20Things%20and%20how%20does%20ARM%20fit%20in%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F18%2Fwhat-is-the-internet-of-things-arm-holdings-softbank%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=What%20is%20the%20Internet%20of%20Things%20and%20how%20does%20ARM%20fit%20in%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Fjul%2F18%2Fwhat-is-the-internet-of-things-arm-holdings-softbank%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F362ffb9c494dda56b53f19ba23f1d88fcd24669a%2F0_0_1286_772%2F1286.jpg>
+ Samsung SmartThings Hub and sensors. Photograph: Samsung 
+But with various sensors and interconnected systems available, much more 
+advanced setups can be built using more specialist equipment and universal 
+protocols such as Z-wave or ZigBee, which allow disparate devices to 
+communicate wirelessly without Wi-Fi or the internet. Almost anything from IoT 
+security systems to automatic lighting, advanced power management and status 
+monitoring, from bins to pantries, can be created, although some need the 
+skills of an electrician and coders.
+
+Who are the big players?
+
+The biggest brands in the consumer IoT space include Samsung 
+<https://www.theguardian.com/technology/2015/jan/06/samsung-pledges-over-100bn-to-make-an-open-internet-of-things-finally-happen>
+, with appliances and itsSmartThings IoT hub 
+<https://www.theguardian.com/technology/2016/feb/08/samsung-smartthings-hub-review-internet-of-things>
+, Alphabet’s Nest, Google and Amazon, whose IoT Echo speaker – which is capable 
+of commanding other devices via voice – has proved popular in the US.
+
+Behind many of these devices, however, are low-power chip makers and embedded 
+operating system vendors. Google’s Brillo, for instance, is a cut-down version 
+of Android for IoT devices, while low-power processors built usingARM 
+<https://www.theguardian.com/business/armholdings> designs are popular because 
+of their electrical efficiency.
+
+What are the challenges facing IoT?
+
+While many connected devices are available to buy, not many of them can 
+actually talk to devices made by other brands, and when they do their 
+interaction is limited. Each device comes with its own smartphone app, rather 
+than there being one to control them all. Companies such as Google, Nest, Apple 
+andSamsung <https://www.theguardian.com/technology/samsung> are attempting to 
+provide a bridge between devices, but a unified system is sorely needed.
+
+There is also the challenge of privacy and security. IoT devices that were 
+originally conceived to be used in isolation or within the home without 
+connecting to the internet are now being exposed to the wider world and can be 
+ripe for criminal attack.
+
+If appropriate security measures are not taken, a hacker who gains access to 
+the data flowing around your home could turn the sensors and appliances into 
+snooping devices.
+
+What’s ARM’s link to it?
+
+ARM Holdings is a designer of mobile and low-power chips that can be found in 
+devices such as smartphones, smartTVs, smartwatches, tablets and various other 
+computing devices. These chips can also be found in many of the IoT devices, 
+the servers that connect them to the wider internet and the devices used to 
+control them.
+
+ARM doesn’t actually fabricate the processors, but its designs are used by 
+companies all over the globe, including Apple, Samsung and Qualcomm, and used 
+to drive devices all over the home and in the wider world. As the IoT expands, 
+the demand for low-power chips is only likely to increase.
+
+ * ARM Holdings to be sold to Japan’s SoftBank for £24bn 
+<https://www.theguardian.com/business/2016/jul/18/arm-holdings-to-be-sold-to-japans-softbank-for-234bn-reports-say>
+ * Samsung SmartThings Hub review: an Internet of Things to rule them all? 
+<https://www.theguardian.com/technology/2016/feb/08/samsung-smartthings-hub-review-internet-of-things>
+ * ARM: Britain’s most successful tech company you’ve never heard of 
+<https://www.theguardian.com/technology/2015/nov/29/arm-cambridge-britain-tech-company-iphone>
+ * Nest Learning Thermostat third-gen: the simple, effective heating gadget 
+<https://www.theguardian.com/technology/2016/jun/03/google-nest-learning-thermostat-third-generation-home-gadget-smart-heating>
+ * Withings Body Cardio review: stylish scales for health obsessives 
+<https://www.theguardian.com/technology/2016/jun/10/withings-body-cardio-review-stylish-scales-health-obsessives>
+ * How to use technology to sleep better 
+<https://www.theguardian.com/technology/2016/apr/25/how-to-sleep-better-with-technology>
+ 

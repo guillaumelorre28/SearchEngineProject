@@ -1,0 +1,166 @@
+
+For years, PC <https://www.theguardian.com/technology/pc> manufacturers have 
+been desperate to get their machines into our living rooms. They’ve tried 
+producing smaller sexier devices, aping the design sensibilities of dedicated 
+games consoles and they’ve tried making them look functional and discreet like 
+DVD players or set-top boxes. But largely, they have failed: most of us still 
+keep our PCs on a desk, in a bedroom, study or office space.
+
+Then in 2013, after years of rumours and speculation, Valve, the company 
+behind the dominant online PC gaming store Steam, announced that it was making 
+a new bid for the living room with its own PC-based console, the Steam Machine. 
+However, it wouldn’t manufacture the console itself, and there wouldn’t just be 
+one version. Keeping to the open philosophy of the PC market, there would be 
+multiple manufacturers, making their own versions, with different 
+specifications. The uniting factor would be that every Steam Machine would run 
+a Linux-based operating system named SteamOS, and that they’d all come with the 
+dedicatedSteam <https://www.theguardian.com/technology/steam> controller – an 
+innovative combination of traditional console joypad and computer mouse, 
+developed in-house by Valve.
+
+In November, the first dozen or so Steam Machine derivatives will hit stores, 
+with units from Alienware, Origin and Falcon Northwest, among others. As 
+expected, the specifications vary widely, from the entry level Alienware with 
+an Intel i3 processor and Nvidia Geforce GTX graphics ($449, or around £290) to 
+the super high-end Falcon Northwest with Intel i7-4790K and Titan-class Nvidia 
+GPU (GameSpothas all the specs 
+<http://www.gamespot.com/articles/steam-machines-first-impressions-the-specs-prices-/1100-6425734/>
+). But the question on everyone’s lips is: what are these things for? Why do we 
+need them? Why not just buy a cheaper, uglier but more powerful gaming PC and 
+just hide it behind the TV if you don’t like the look of it?
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F20%2Fsteam-machine-living-room-pc-gaming-valve%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-1%23img-1&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F10%2F20%2F1445337891034%2F35ef55a2-17d5-4a12-a864-58c1615e2315-1020x612.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Steam%20Machine%20%E2%80%93%20is%20this%20the%20future%20of%20living%20room%20gaming%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F20%2Fsteam-machine-living-room-pc-gaming-valve%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-1%23img-1>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Steam%20Machine%20%E2%80%93%20is%20this%20the%20future%20of%20living%20room%20gaming%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F20%2Fsteam-machine-living-room-pc-gaming-valve%3Fpage%3Dwith%3Aimg-1%23img-1&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F10%2F20%2F1445337891034%2F35ef55a2-17d5-4a12-a864-58c1615e2315-1020x612.png>
+ The Steam Controller and Alienware Steam Machine 
+Both the PS4 and the Xbox <https://www.theguardian.com/technology/xbox> One 
+are essentially PCs – they feature the same multi-core central processors, 
+dedicated graphics chips and mammoth hard drives as desktop computers. “In 
+fact, they’re getting more PC-like every year,” says Valve programmer Robin 
+Walker, who once helped design seminal shooter Team Fortress but is now one of 
+the leads on the design of the Steam Controller. “They’re trying to solve 
+problems that we solved years ago”.
+
+Four years ago, Valve launched Big Picture, a special version of its Steam 
+storefront, designed to run on a television. The new mode is essentially a “10 
+foot interface” – an onscreen menu system designed to be viewed on a living 
+room screen 10 feet away from the user; it’s the concept you find on your Sky 
+or Virgin Media box, or indeed your games console. It meant Steam users could 
+plug their laptop into the TV via HDMI, then browse and play games on their 
+massive LCD screen rather than a desktop monitor. And it’s a tweaked and 
+updated version of Big Picture that provides the UI for every Steam Machine.
+
+And it works pretty well. Power up Alienware’s Steam Machine for example, and 
+you don’t get a standard PC desktop with tiny icons and a mouse cursor. 
+Instead, you get what looks like a games console front-end. A Steam Machine 
+logo appears, then you go through a familiar console set-up procedure, 
+providing your region, letting it know the size of your TV, and signing into 
+your Steam account.
+
+
+Then you’re into the main user interface, which looks like the PS4 user 
+interface. A row of icons along the top offer all your settings, download and 
+mail functions, while a larger row of options offers access to the Steam store, 
+your library of games and the community features. Select Store, and all the 
+browsing options you know from the PC version (searching by popularity, 
+release, genre etc) are all there. Of course, you can go into settings and 
+switch to a traditional Linux desktop if you want but, basically, this thing 
+looks, runs and handles like a games console.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8fs2Yh1PFwM&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8fs2Yh1PFwM>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8fs2Yh1PFwM&media=>
+The most interesting element though is the controller. Valve has spent over 
+three years designing something that can work with both joypad-centred games 
+such as shooters and action adventures, and mouse-driven titles including 
+strategy simulations. The end result has two large trackpads, as well as a 
+single analogue thumb stick and multiple buttons on the fascia, shoulders and 
+even on the innerside of the two “handles”. It’s also highly customisable – 
+players are able to configure button settings for older Steam titles that don’t 
+directly support the pad, and then share them online so that others don’t have 
+to bother.
+
+In practise, it takes a bit to get used to, but it does work. We tried 
+Civilization V, using the right trackpad as a mouse cursor and it feels 
+intuitive, helped a great deal by the detailed haptic sensor array beneath the 
+trackpad, which provides little blips of tactic feedback, aping the friction 
+you feel as you whizz a mouse over a surface.
+
+
+As for shooters, during our demo, we got to try Just Cause 3, streaming from 
+another PC, but set up for Steam Controller compatibility. Here, the analogue 
+stick handles movement, while the right touchpad is used for aiming, which is 
+incredibly accurate but also very, very sensitive. We spent a lot of time 
+firing wildly around the screen, which – when your character has a rocket 
+launcher and they’re standing on top of a flying aircraft – can be dangerous. 
+Again, though, everything can be tweaked and customised, and its likely 
+dedicated gamers will find their own way to tune the system.
+
+And like the PS4 controller, Valve has also added motion detection in the form 
+of a gyroscope for extra versatility. “We’ve found a lot of our hardcore FPS 
+players are starting to map that to mouse input,” says Walker. “The gyro feeds 
+mouse input in, and the right pad generates mouse input as well, and the 
+controller synthesises those two inputs before it sends them to the game. So 
+with something like Counter-Strike, where you care about aim a lot, you use 
+your right pad for large scale movement, turns etc, and your gyroscope for very 
+fine aim on top of that. This was not something we expected, it’s not what the 
+design was for, but they’re finding that mix of large scale and very fine 
+movement is working for them”.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F20%2Fsteam-machine-living-room-pc-gaming-valve%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F10%2F20%2F1445337595510%2Fd2026571-01d6-4bfd-a169-552b5535f34a-1020x612.jpeg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Steam%20Machine%20%E2%80%93%20is%20this%20the%20future%20of%20living%20room%20gaming%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F20%2Fsteam-machine-living-room-pc-gaming-valve%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Steam%20Machine%20%E2%80%93%20is%20this%20the%20future%20of%20living%20room%20gaming%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Foct%2F20%2Fsteam-machine-living-room-pc-gaming-valve%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F10%2F20%2F1445337595510%2Fd2026571-01d6-4bfd-a169-552b5535f34a-1020x612.jpeg>
+ Just Cause 3 is set to feature native support for the Steam Controller 
+There remain some key issues with the systems however. Currently, only a 
+minority of games on Steam support SteamOS (around 1,000 apparently), so a lot 
+of titles won’t run on Steam Machine – though Valve is adding dozens every week 
+– and plenty aren’t configured for the controller, which means you’ll need to 
+do some configuration or hope you can download a template from the community. 
+Currently, you also don’t get the array of entertainment apps that you do on 
+the consoles, including Netflix, iPlayer and YouTube. They’re all, no doubt, 
+available via the built-in browser, but that’s a bit of a faff and nowhere near 
+as accessible as native application.
+
+The demo unit that’s gone out to most news sites is the top-end Alienware 
+Steam Machine, with Intel Core i7 CPU. Most people are finding that more 
+demanding titles, such as Bioshock: Infinite, are limited to 1920x1080 
+resolution and medium graphics settings, but it can handle 45-60 
+frames-per-second fairly well. This obviously compares favourably with the 
+current generation of consoles. However, while Xbox One andPlayStation 
+<https://www.theguardian.com/technology/playstation> 4 owners can be fairly 
+sure that publishers will support their machines for up to seven years, Steam 
+Machine buyers may find PC titles moving out of their range in less than half 
+that time. Although many components are upgradeable within the consoles, it 
+looks like the GPUs are generally fixed and irreplaceable.
+
+For now, the machines look beautiful and they work well. The UI is functional 
+and intuitive and the controller is fascinating. But is this the living room PC 
+to end all living room PCs? If the target market is current Steam users (and 
+there are 125 million of them) who just want a way to play their games on the 
+living room sofa, those may or may not buy a Steam Machine rather than a 
+cheaper small-form computer that they can update easilySteam Link would let 
+them stream their PC games to their TV over a LAN, with smooth 1080p 60fps 
+visuals. If those possibilities cover a majority of PC gamers, then who else is 
+Steam Machine for? If the system is not a console killer, it’s not clear who 
+will adopt it.
+
+ “We built Steam for the same reasons we did all this: it didn’t exist, a 
+bunch of people wanted it to exist, no one was building it, so we built it. 
+There was this post-rationalisation of Steam after it was launched; like ‘of 
+course you’d build that, it’s obvious’ – but, at the time, when we were 
+building it, no one else was,” says Valve’s business development specialist 
+Erik Johnson.
+
+“Who knows if it’ll be the same this time, but if you ask customers, ‘do you 
+want to be able to play all your Steam games in your living room with a 
+controller?’, they’re like: ‘yeah, that sounds cool.’ That’s good enough for us 
+to move forward. We’re not obsessed with what market we’re creating or what 
+users we’re cannibalising from other platforms. No one ever makes good 
+decisions based off that kind of data.”
+ 

@@ -1,0 +1,37 @@
+
+I was Christmas shopping on Amazon 
+<https://www.theguardian.com/technology/amazon> and realised there was a 
+payment card on my account that I had never seen or used before. I only have 
+one card registered and, although it was due to expire at the end of the month, 
+it was still valid.
+
+Amazon told me the new card had been added to my account on 12 December, but 
+couldn’t explain to me how.
+
+I knew that my bank was due to send a new card to my mum and dad’s address and 
+planned to collect it when I visited at Christmas. When it arrived, I asked my 
+mum to open the letter on my behalf, and it turned out the last four digits and 
+the expiry date matched the card on my Amazon account.
+
+I rang my bank, NatWest, and it told me that I should speak to Visa. I rang 
+Visa and was promptly redirected back to NatWest. Amazon was no help at all. I 
+find it quite worrying that Amazon could get my new bank card details before I 
+had them.IA, Southport
+
+NatWest’s press office agrees that this is “odd” and Amazon’s has to do some 
+digging. None of us, it seems, were aware of VAU – Visa Account Updater. This 
+allows subscribing merchants to receive automatic updates to cardholder account 
+information, including account numbers and expiry dates. It sounds ominous, but 
+the idea is to save retailers – and customers – the hassle of recurring 
+payments being declined when a registered card has expired. All companies that 
+subscribe must adhere to the Payment Card Industry Security Standards to ensure 
+the stored data is protected. Mastercard operates a similar scheme. It’s been 
+around since 2006 and most major retailers who offer recurring payments by card 
+use it. The reason so few of us know of it is because its existence is buried 
+in the terms and conditions of the card issuer. If you want to opt out, you 
+have to do it via your bank.
+
+If you need help email Anna Tims at your.problems@observer.co.uk 
+<mailto:your.problems@observer.co.uk> or write to Your Problems, The Observer, 
+Kings Place, 90 York Way, London N1 9GU. Include an address and phone number.
+ 

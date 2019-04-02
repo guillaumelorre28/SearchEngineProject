@@ -1,0 +1,158 @@
+
+Conor Walsh’s laboratory at Harvard University is not your everyday research 
+centre. There are no bench-top centrifuges, no fume cupboards for removing 
+noxious gases, no beakers or crucibles, no racks of test tubes and only a 
+handful laptop computers. Instead, the place is dominated by clothing.
+
+On one side of the lab stands a group of mannequins dressed in T-shirts and 
+black running trousers. Behind them, there are racks of sweatshirts and running 
+shoes. On another wall of shelves, shorts and leggings have been carefully 
+folded and labelled for different-size wearers. On my recent visit, one student 
+was sewing a patch on a pair of slacks.
+
+Walk in off the street and you might think you had stumbled into a high-class 
+sports shop. But this is no university of Nike. This is theHarvard Biodesign Lab
+ <http://biodesign.seas.harvard.edu/>, home of a remarkable research project 
+that aims to revolutionise the science of “soft robotics” and, in the process, 
+transform the fortunes of stroke victims by helping them walk again.
+
+“Essentially, we are making clothing that will give power to people who have 
+suffered mobility impairment and help them move,” says Professor Walsh, head of 
+the biodesign laboratory. “It will help them lift their feet and walk again. It 
+is the ultimate in power-dressing.”
+
+How a robot could be grandma’s new carer
+ Read more  
+<https://www.theguardian.com/technology/2016/nov/06/robot-could-be-grandmas-new-care-assistant>
+Last week, at a ceremony in Los Angeles, 35-year-old Walsh was awarded a Rolex 
+award for enterprise 
+<http://blog.rolexawards.com/2016/10/30-finalists-for-life-changing-award/> for 
+his work. He plans to use the prize money – 100,000 Swiss francs (about 
+£82,000) – to expand “soft robotics” to develop suits that could also enhance 
+the ability of workers and soldiers to lift and carry weights and also improve 
+other areas of medical care, including treatments for patients suffering from 
+Parkinson’s disease, cerebral palsy and other ailments that affect mobility.
+
+Walsh is a graduate – in manufacturing and mechanical engineering – of Trinity 
+College Dublin. While a student, he became fascinated with robotics after he 
+read about the exoskeletons being developed in the United States to help humans 
+handle heavy loads. Essentially, an exoskeleton is a hard, robot-like shell 
+that fits around a user and moves them about. Think of the metal suit worn by 
+Robert Downey Jr inIron Man or the powered skeletal frame Sigourney Weaver used 
+inAliens to deal with the acid-dribbling extraterrestrial that threatened her 
+spaceship.
+
+“I thought that it all looked really, really cool,” says Walsh. So he applied, 
+and was accepted, to study at the Massachusetts Institute of Technology (MIT) 
+under biomechatronics expert Professor Hugh Herr. But when Walsh began working 
+on rigid exoskeletons, he found the experience unsatisfactory. “It was like 
+being inside a robotic suit of armour. It was hard, uncomfortable and ponderous 
+and the suit didn’t always move the way a human would,” he says.
+
+So when Walsh moved to Harvard, where he set up the biodesign lab, he decided 
+to take a different approach to the problem. “I saw immediately that if you had 
+a softer suit that accentuated the right actions, was comfy to wear and didn’t 
+encumber you, it could have huge biomedical applications,” he says. “I began to 
+wonder: can we make wearable robots soft?”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F20%2Frobot-exosuit-harvard-helps-stroke-sufferers-walk-again%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F9c741acea37fe152109973957ff12eacfbf41f86%2F0_219_6496_3898%2F6496.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20robot%20suit%20providing%20hope%20of%20a%20walking%20cure&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F20%2Frobot-exosuit-harvard-helps-stroke-sufferers-walk-again%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20robot%20suit%20providing%20hope%20of%20a%20walking%20cure&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F20%2Frobot-exosuit-harvard-helps-stroke-sufferers-walk-again%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F9c741acea37fe152109973957ff12eacfbf41f86%2F0_219_6496_3898%2F6496.jpg>
+ The power pack for the exosuit developed by Conor Walsh and his team. 
+Photograph: Fred Merz 
+The answer turned out to be yes. Walsh, assisted by colleagues Terry Ellis, 
+Louis Awad and Ken Holt of Boston University, worked with experts in 
+electronics, mechanical engineering, materials science and neurology to create 
+an ingenious, low-tech way to boost walking: the soft exosuit. A band of cloth 
+is wrapped around a person’s calf muscles. Pulleys, made from bicycle brake 
+cables, are attached to these calf wraps and the other ends of the cables 
+fitted to a power pack worn on a patient’s back. When the wearer starts to lift 
+his foot to take a step, the power pack pulls the cables and this helps the 
+wearer lift their leg. Then, as their foot swings forward, another cable, 
+attached to the toecap of their shoes, tightens to help raise the toe so that 
+it does not drag on the ground as they swing their legs forward. This condition 
+is known as “foot drop” and it is a common difficulty for stroke patients.
+
+In this way, an often critical problem for someone who can no longer control 
+their muscles properly is alleviated. They can lift their legs and, just as 
+importantly, keep their toes from turning down so that they do not drag on the 
+ground and make them stumble. It is the perfect leg-up, in short.
+
+“Designing robotic devices that target specific joints just hadn’t been done 
+before,” says Walsh. “People had only looked at constructing a full-leg 
+exoskeleton. We are targeting just one joint, not a whole leg. Crucially, in 
+the case of strokes, it is the one that is often most badly impaired. Also, we 
+have managed to keep our materials very light and easily wearable. Simple is 
+best. That is our mantra.”
+
+Cryonics: does it offer humanity a chance to return from the dead?
+ Read more  
+<https://www.theguardian.com/science/2016/nov/18/cryogenics-does-it-offer-humanity-a-chance-to-return-from-the-dead>
+Originally, the pulleys that lifted the cables that helped wearers’ raise 
+their legs and toes were powered by a trolley-like device that trundled 
+alongside them. One of the key improvements involved in Walsh’s project has 
+been to reduce that power pack to a size that can be worn reasonable 
+comfortably. The unit weighs 10lbs (4.5kg) and Walsh expects his team will be 
+able to make further reductions in the near future. “Motors are going to get 
+lighter, batteries are going to get lighter. That will all be of great benefit, 
+without doubt.”
+
+The packs are also fitted with devices known as inertial measurement units 
+(IMU), which analyse the forces created by foot movements and raise and lower 
+the brake-cable pulleys. These sensors have to work with millisecond accuracy 
+for the system to work properly. “Timing is absolutely critical,” says Walsh.
+
+Test runs have already proved successful, however. Videos of stroke patients 
+wearing soft exosuits and walking on treadmills reveal a marked improvement in 
+their movement. Once fitted with the suits, they no longer clutch the handrails 
+and their strides become much quicker and more confident. “We are not saying 
+our system is the only solution to impaired mobility,” adds Walsh. “There will 
+always be a place for hard exoskeleton power suits, for example, for people who 
+are completely paralysed. But for less severe problems, soft robotic suits, 
+with their lightness and flexibility, are a better solution.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F20%2Frobot-exosuit-harvard-helps-stroke-sufferers-walk-again%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fcca36f58fa43c60ddb1cf302cdce970bc538738f%2F474_451_5717_3431%2F5717.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=The%20robot%20suit%20providing%20hope%20of%20a%20walking%20cure&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F20%2Frobot-exosuit-harvard-helps-stroke-sufferers-walk-again%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=The%20robot%20suit%20providing%20hope%20of%20a%20walking%20cure&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Fnov%2F20%2Frobot-exosuit-harvard-helps-stroke-sufferers-walk-again%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Fcca36f58fa43c60ddb1cf302cdce970bc538738f%2F474_451_5717_3431%2F5717.jpg>
+ Conor Walsh and a colleague assemble an exosuit on a mannequin. Photograph: 
+Fred Merz 
+Every year, about 110,000 people suffer a stroke in the UK. Most patients 
+survive butstrokes are still the third-largest cause of death, after heart 
+disease and cancer, in this country 
+<http://www.nhs.uk/livewell/over60s/pages/the-top-five-causes-of-premature-death.aspx>
+. Strokes occur when the blood supply to the brain is stopped due to a blood 
+clot or when a weakened blood vessel bursts. One impact affects how muscles 
+work. As theStroke Association <https://www.stroke.org.uk/> points out, your 
+brain sends signals to your muscles, through your nerves, to make them move. A 
+stroke, in damaging your brain, disrupts these signals. Classic symptoms 
+include foot drop and loss of stamina. Patients feel tired and become more 
+clumsy, making it even more difficult to control their movements.
+
+“Patients often withdraw from life. They stop going out and miss out on all 
+sort of social events – their grandchildren’s sports events or parties,” says 
+Ignacio Galiana of theWyss Institute for Biologically Inspired Engineering 
+<https://wyss.harvard.edu/> at Harvard University, which is also involved in 
+the soft exosuit project. “They prefer to stay at home and to stop exercising 
+because it is so tiring and draining. They withdraw from the world. By making 
+it possible to walk normally again we hope we can stop that sort of thing 
+happening.”
+
+The soft exosuits will not be worn all of the time, it is thought, but instead 
+be put on for a few hours so patients can get out of their homes without 
+exhausting themselves. The devices should also help in physiotherapy sessions 
+aimed at restoring sufferers’ ability to walk. “This is a new tool that will 
+greatly extend and accelerate rehabilitation therapy for stroke patients,” says 
+Walsh. “Patients no longer have to think about the process of moving. It starts 
+to come naturally to them, as it was before they had their stroke.”
+
+As to timing, Walsh envisages that his team will be able to get their 
+prototypes on to the market in about three years. Nor will soft exoskeleton use 
+be confined to stroke cases. “Cerebral palsy, Alzheimer’s, multiple sclerosis, 
+Parkinson’s, old age: patients with any of these conditions could benefit,” 
+adds Walsh. “When muscles no longer generate sufficient forces to allow people 
+to walk, soft, wearable robots will be able to help them.”
+ 

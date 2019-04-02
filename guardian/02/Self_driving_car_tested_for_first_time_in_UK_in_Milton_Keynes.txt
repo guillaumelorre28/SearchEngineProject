@@ -1,0 +1,105 @@
+
+A driverless car has been tested for the first time on UK streets in the 
+latest development in self-driving technology in Britain.
+
+The trial saw a two-seater LUTZ Pathfinder travel 1.25 miles (2km) through 
+pedestrianised areas ofMilton Keynes 
+<https://www.theguardian.com/uk/milton-keynes>, reaching speeds of up to 15mph 
+while having to cope with walkers and cyclists for the first time. A driver was 
+on board to take over in case of emergency.
+
+
+The cars, built by Transport Systems Catapult <https://ts.catapult.org.uk/> 
+(TSC), used virtual maps of the Buckinghamshire town to navigate the area 
+around the train station and business district.
+
+Google and Uber have tested autonomous vehicles on American roads, but 
+previous UK trials 
+<https://www.theguardian.com/technology/2015/feb/11/driverless-cars-roll-out-trials-uk-roads>
+ have involved a human manually operating the vehicle.
+
+Although fully automated cars are not expected to be in use in the UK for 
+about 10 years, the government is keen to ensure that Britain is at the 
+forefront of developing driverless technology.
+
+Earlier this year, ministers launched a consultation 
+<https://www.theguardian.com/money/2016/jul/11/motorist-consultation-prepare-uk-driverless-cars-collision-liability-remote-parking>
+ on changes to motor insurance rules and the highway code. This is aimed at 
+allowing self-driving cars to be on the roads by 2020.
+
+The business secretary, Greg Clark 
+<https://www.theguardian.com/politics/greg-clark>, said: “The global market for 
+autonomous vehicles presents huge opportunities for our automotive and 
+technology firms.
+
+“The research that underpins the technology and software will have 
+applications way beyond autonomous vehicles.”
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fself-driving-car-first-uk-test-milton-keynes-driverless-lutz-pathfinder%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-1%23img-1&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fe14fe73c1ac86ff980ad4cdef5bb8cb76fc8b095%2F0_13_3530_2119%2F3530.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Self-driving%20car%20tested%20for%20first%20time%20in%20UK%20in%20Milton%20Keynes&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fself-driving-car-first-uk-test-milton-keynes-driverless-lutz-pathfinder%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-1%23img-1>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Self-driving%20car%20tested%20for%20first%20time%20in%20UK%20in%20Milton%20Keynes&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F11%2Fself-driving-car-first-uk-test-milton-keynes-driverless-lutz-pathfinder%3Fpage%3Dwith%3Aimg-1%23img-1&media=https%3A%2F%2Fmedia.guim.co.uk%2Fe14fe73c1ac86ff980ad4cdef5bb8cb76fc8b095%2F0_13_3530_2119%2F3530.jpg>
+ The two-seater vehicle uses lidar, similar to radar, to gauge the surrounding 
+area and avoid accidents. Photograph: Justin Tallis/AFP/Getty Images 
+A computer on board the vehicle senses the surrounding environment with 
+cameras and lidar, a similar system to radar that uses light from a laser, to 
+avoid accidents.
+
+The demonstration marks the end of 18 months of development by TSC, a 
+not-for-profit research organisation funded by a combination of public money 
+and private sector investment.
+
+TSC said the Milton Keynes trial had been a success and the vehicles had 
+operated as expected.
+
+The test was also designed to gauge the public reaction to the technology and 
+begin work on the regulatory architecture that will govern autonomous vehicles.
+
+TSC said it had worked with Milton Keynes council on safety planning and hoped 
+that the trial showed driverless vehicles could be used for transportation in 
+other towns.
+
+“Driverless vehicles are coming to Britain and what we have demonstrated today 
+is a huge step on that journey,” said Neil Fulton, the TSC programme director.
+
+He said successful tests in Milton Keynes would pave the way for further 
+research and trials participated in by UK universities and small businesses.
+
+The software in charge of the vehicle, Selenium, was developed by scientists, 
+mathematicians and engineers from the Oxford Robotics Institute, through a 
+company calledOxbotica <http://www.oxbotica.com/>.
+
+Driverless car tests have had mixed results in the US, where the technology is 
+further developed than in the UK.
+
+Uber has raced ahead 
+<https://www.theguardian.com/technology/2016/aug/18/uber-riders-self-driving-cars>
+ of its competitors,deploying Ford Fusions 
+<https://www.theguardian.com/technology/2016/sep/14/uber-self-driving-cars-pittsburgh-ford-fusion>
+ in Pittsburgh, Pennsylvania, which do not require hands on the wheel, as part 
+of the company’s regular taxi service.
+
+It is also developing a driverless car in partnership with Swedish carmaker 
+Volvo.
+
+But electric car company Tesla raised concerns about the implications of 
+driverless vehicles in May, after one of its cars using autopilot mode was
+involved in a fatal crash 
+<https://www.theguardian.com/technology/2016/sep/11/tesla-self-driving-cars-autopilot-update>
+.
+
+Last month, a Google self-driving car collided with another vehicle 
+<https://www.theguardian.com/technology/2016/sep/26/google-self-driving-car-in-broadside-collision-after-other-car-jumps-red-light-lexus-suv>
+ after the latter ran through a red light.
+
+Ministers want the UK to be a world leader in the driverless vehicle market, 
+whichcould be worth £900bn 
+<https://www.theguardian.com/business/2016/jul/13/jaguar-land-rover-autonomous-vehicles-test-uk-2020>
+ by 2025, according to a KPMG study.
+
+In the budget in March, the then chancellor George Osborne said self-driving 
+cars could betested on British motorways 
+<https://www.theguardian.com/uk-news/2016/mar/12/george-osborne-driverless-car-trials-budget>
+ next year.
+ 

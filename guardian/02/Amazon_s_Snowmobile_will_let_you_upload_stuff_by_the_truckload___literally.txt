@@ -1,0 +1,38 @@
+
+“The internet is not something that you just dump something on,” the American 
+senator Ted Stevens famously said in 2006. “It’s not a big truck. It’s a series 
+of tubes.”
+
+Ted Stevens was wrong. The internet is a big truck, and Amazon 
+<https://www.theguardian.com/technology/amazon> wants to drive it right up to 
+your gaff to give you better upload speeds.
+
+That truck isn’t a metaphor, by the way. It’s literally a big truck, called 
+the “snowmobile”, carrying a shipping container holding a mobile data centre 
+which can store up to 100 petabytes (100 million gigabytes) of information. 
+Drive it up to your own data centre, plug it in with a fibre connection, fill 
+it up and let it go.
+
+If you need to upload 100 petabytes to the cloud, it turns out there is 
+literally no faster way than driving it down the highway at 75mph.
+
+The truck is the successor to 2015’s “Snowball”, a pre-packed hard drive that 
+could store 50TB of data 
+<https://www.theguardian.com/technology/2015/oct/08/cloud-computing-amazon-snowball-postal-service>
+ that Amazon would post to customers needing to upload large amounts of data. 
+The Snowball, which can now store 80TB, even uses a Kindle screen on the 
+outside to skip the need for a pre-printed postage label.
+
+Both services are marketed at developers who want to use Amazon’s cloud 
+computing service, AWS, but don’t have the time to upload large amounts of 
+data. They’re a twist on the old concept of the “sneakernet”: physically 
+transporting storage media to send large files around the workplace, often by 
+carrying a USB flash drive or portable hard-drive.
+
+The sneakernet, and it’s modern equivalents, can often beat the internet on 
+both speed and cost. Even a fast modern connection, at 1Gb/s, uploading 50TB of 
+data will take four days; uploading 100 petabytes over the same connection 
+would take a little over 25 years. On cost, however, Amazon is tight-lipped, 
+saying nothing more than “we intend to make sure that Snowmobile is both faster 
+and less expensive than using a network-based data transfer model”.
+ 

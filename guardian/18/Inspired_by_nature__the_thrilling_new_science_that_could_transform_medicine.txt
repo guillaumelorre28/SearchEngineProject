@@ -1,0 +1,504 @@
+
+In the summer of 2005, Jeffrey Karp, a bioengineer at Brigham and Women’s 
+Hospital (BWH) in Cambridge, Massachusetts, was working late one night when he 
+spotted a journal article on a colleague’s desk. What caught his eye was not 
+the text itself, but the full-page colour illustration of Spider-Man that 
+accompanied it. Intrigued, Karp sat down and started reading.
+
+The article detailed how a group of researchers had created a new synthetic 
+material by mimicking the properties of gecko feet – whose tiny, hair-like 
+pillars allow the lizard to stick to and detach from apparently sheer surfaces 
+with ease. Imagined uses for the material included gloves that would allow 
+military personnel to climb up the sides of buildings, just like Spider-Man.
+
+“The wheels in my head started turning,” Karp told me recently. His first 
+thought was to use the material to create a new type of medical tape that could 
+replace sutures and staples, which can damage sensitive tissue surrounding 
+wounds. Karp was working alongside the world-renownedbioengineer Robert Langer 
+<https://www.theguardian.com/lifeandstyle/2016/oct/17/robert-langer-nanotechnology-pioneer-willy-wonka-revolutionising-medicine>
+ at the time, studying ways to create biodegradable materials that could seal 
+wounds inside the human body. The tape could even go a step further than 
+sutures or surgical staples, he thought, and be used in particularly intricate 
+surgical procedures – for instance, tying together the small intestine during 
+gastric bypass surgery.
+
+The next morning, Karp stopped by Langer’s office and convinced him that he 
+had come up with the perfect idea to win a prestigious research grant. But as 
+he began his research, Karp found that it wasn’t enough to simply rely on 
+friction between the hair-like pillars to make the tape stick. That may be how 
+geckos’ feet work, but he was going to need something much stronger if he hoped 
+to bind human tissue inside the body.
+
+When he tried coating the surface of the tape with a glue, Karp found that it 
+seeped in between the pillars, like honey drizzled on to a hair brush. Next, he 
+played around with the position of the pillars on the surface of the tape, 
+placing them closer together. That didn’t work either – when the pillars were 
+too close together, there wasn’t enough friction with the surface of the 
+tissue. So he moved them apart again, and then tried coating each individual 
+pillar with the glue, instead of simply brushing it over the top. Now, whenever 
+the tissue came into contact with a pillar, it stuck in place. Finally, Karp 
+had his solution.
+
+“It was a great example of a holistic approach to problem-solving,” David 
+Kaplan, chair of the biomedical engineering department at Tufts University in 
+Massachusetts, told me. In 2008, MIT’s Technology Review magazine namedKarp one 
+of the top innovators in the world 
+<http://hsci.harvard.edu/people/jeffrey-karp-phd> under the age of 35.
+
+Karp, who is now 40 and runs his own lab at BWH, is what is known in the 
+business as a bioinspirationalist – a person who looks to nature for solutions 
+to scientific problems. The gecko tape was Karp’s first bioinspired invention; 
+these days he is regarded as a leading figure in the field. (He often tells 
+people that he owes his success to Spider-Man – there’s a large drawing of the 
+Marvel superhero in his office, and he once wore a Spider-Man T-shirt during a 
+TEDMed talk.) Karp’s current projects include surgical staples inspired by 
+porcupine quills, which create smaller punctures in the skin and prevent 
+bacteria from entering wounds, and a new kind of surgical glue inspired by the 
+sticky secretions of marine worms, which is strong enough to bind moving tissue 
+inside major organs, such as the heart.
+
+This last invention has helped to cement Karp’s reputation as a rising star in 
+the world of bioengineering. Because he doesn’t just invent cool stuff – he 
+turns his creations into actual products. “When we look to solve problems, it’s 
+not so we can publish papers and get pats on the back from the academic 
+community,” said Nick Sherman, a research technician at Karp Lab. “It’s more 
+like, ‘Is this work going to help patients? If not, how do we make it help 
+them?’”
+
+Earlier this year, Karp’s surgical glue began a human clinical trial in Paris. 
+It is the first of Karp’s innovations to advance this far. Unlike other 
+surgical glues on the market, his actively repels blood, making it ideal for 
+sealing holes in blood vessels, intestinal tissue, even bone. It is also much 
+sturdier, meaning that surgeons could use it to fix cardiac defects without the 
+need for open heart surgery. “This could completely transform how we perform 
+surgery,” said Jean-Marc Alsac, the cardiovascular surgeon at the Hospital 
+European Georges-Pompidou in Paris who is overseeing the trial.
+
+Karp Lab, which opened in July 2007, is hidden behind a heavy white door on 
+the third floor of an office building in Cambridge, near Massachusetts 
+Institute of Technology. Inside, a stockpile of white lab coats hangs near the 
+entrance, and beyond lies a jigsaw puzzle of heavy machinery, vials, tubes and 
+jars, sanitising stations and discarded rubber gloves. “Lots of labs are doing 
+what appears to be similar work but, truly, they are not in [Karp’s] league,” 
+Arnold Caplan, a professor in the department of biology at Case Western Reserve 
+University in Cleveland, Ohio, told me.
+
+Every Wednesday at 8am, staff meet in a large conference room to discuss 
+ideas. The lab employs around 25 staff, from undergraduates to postdoctoral 
+fellows, although its ethos is strictly non-hierarchical. One research trainee, 
+Thomas Kuncewicz, joined Karp Lab just over a year ago, before finishing his 
+undergraduate degree, and is now leading two projects. “Everyone’s experience 
+is different – and that’s what matters most here,” he told me. “Not some dumb 
+pyramid scheme where we have to work our way up through the ranks.” Lab 
+employees are encouraged to email Karp whenever they have a question or idea. 
+“If you ever email him, within five minutes you’ll have a response,” Kuncewicz 
+said. “It can be 11pm or 3am, and he’ll reply.” (I have exchanged emails with 
+Karp long past midnight. His average response time is about 10 minutes.)
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F25%2Fbioinspiration-thrilling-new-science-could-transform-medicine%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Fc5812ff035fefef652414bde6893430370de441d%2F0_103_4300_2580%2F4300.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Inspired%20by%20nature%3A%20the%20thrilling%20new%20science%20that%20could%20transform%20medicine%20%7C%20Laura%20Parker&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F25%2Fbioinspiration-thrilling-new-science-could-transform-medicine%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Inspired%20by%20nature%3A%20the%20thrilling%20new%20science%20that%20could%20transform%20medicine%20%7C%20Laura%20Parker&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F25%2Fbioinspiration-thrilling-new-science-could-transform-medicine%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Fc5812ff035fefef652414bde6893430370de441d%2F0_103_4300_2580%2F4300.jpg>
+ Jeffrey Karp in his lab at BWH Photograph: Rick Friedman for the Guardian 
+The lab attracts the kind of budding scientist who won’t turn up their nose at 
+the occasional lab outing to the zoo or the aquarium. A couple of years ago, 
+one of Karp’s students returned from a field trip with a handful of porcupine 
+quills. At the time, Karp was in the middle of designing a new type of surgical 
+staple, which are most often used in surgery to close sensitive wounds that 
+cannot be sutured by hand. Karp looked closely at the quills and noticed that 
+each had multiple tiny barbs on the end of its tip, like a serrated knife. He 
+took a few quills and stuck them in his chin to test how much force would be 
+required to puncture the skin, and how much it would hurt. (“Surprisingly 
+little,” he said later.)
+
+Over the next few months, Karp designed a surgical staple with serrated ends, 
+like the quills. He tested it on raw chicken and found it slid in easily, and 
+created small, clean holes that caused virtually no damage to the surrounding 
+tissue. The staples that are currently in use cause large punctures in 
+surrounding tissue – which allow more bacteria to enter the wound and cause 
+infection. Karp Lab patented the staple and is working on getting it to market. 
+Karp believes that the invention could significantly reduce post-surgery 
+complications, which are often caused by current surgical staples.
+
+Karp took a few porcupine quills and stuck them in his chin to test how much 
+force it would take to puncture the skin
+
+For Karp and others in his field, nature often holds the key to critical 
+scientific and medical problems. This approach also gives scientists free 
+access to a vast number of solutions that have already benefitted from millions 
+of years of trial-and-error testing. The appeal of bioinspiration, for Karp, 
+lies in the idea that “every living creature that exists today is here because 
+it tackled a number of challenges. And those that haven’t have quickly become 
+extinct,” he said. “In essence, we are surrounded by solutions. Evolution is 
+truly the best problem-solver.”
+
+“A distinct advantage of the bioinspiration route is that pre-existing 
+solutions are somewhat handed to us,” Leif Ristroph, an assistant professor of 
+mathematics at New York University’s Courant Institute, told me. “Of course we 
+have to figure out the mechanisms behind the solution, and determine which 
+parts we care to mimic and which do not carry over to our problem of interest. 
+The leaf as nature’s solar panel is a great example: scientists have been 
+trying to better understand photosynthesis for a long time, even well before we 
+wanted to collect and store solar energy ourselves.”
+
+In recent decades, advances in technology, engineering, and robotics have made 
+it easier to observe nature and borrow from it with more precision than ever 
+before. In the early 2000s, Japan Railways Group, which operates the Shinkansen 
+bullet train, asked one of its engineers, Eiji Nakatsu, to come up with a way 
+to fix a longstanding problem. Whenever the train went through a narrow tunnel 
+at high speed, the atmospheric pressure created low-frequency waves that spread 
+out from the tunnel and created vibrations in the air. These vibrations were so 
+powerful that residents 400 metres away from the railway line wrote in to 
+complain about the noise.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F25%2Fbioinspiration-thrilling-new-science-could-transform-medicine%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F370ac867a69c77b4218b41c1e2c284b3ae15827b%2F0_514_3126_4194%2F3126.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Inspired%20by%20nature%3A%20the%20thrilling%20new%20science%20that%20could%20transform%20medicine%20%7C%20Laura%20Parker&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F25%2Fbioinspiration-thrilling-new-science-could-transform-medicine%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Inspired%20by%20nature%3A%20the%20thrilling%20new%20science%20that%20could%20transform%20medicine%20%7C%20Laura%20Parker&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F25%2Fbioinspiration-thrilling-new-science-could-transform-medicine%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F370ac867a69c77b4218b41c1e2c284b3ae15827b%2F0_514_3126_4194%2F3126.jpg>
+ Karp has developed a new type of surgical staple inspired by porcupine quills. 
+Photograph: Humpata/Getty Images/iStockphoto 
+Nakatsu, who is a keen birdwatcher, wondered if his weekend hobby might 
+provide him with ideas for how to deal with sudden changes in air resistance. 
+His mind turned to the kingfisher, a bird whose long and flat beak allows it to 
+dive from the air (low resistance) into water (high resistance), with a minimal 
+amount of disturbance so as not to alert its prey. Nakatsu redesigned the nose 
+of the Shinkansen 500-Series, making it longer and flatter. The new design 
+successfully reduced air pressure by 30%.
+
+The story of Nakatsu and the Shinkansen is a favourite among advocates of 
+bioinspiration. Many of the world’s top academic institutions – Harvard, 
+Oxford, Stanford, and Columbia – now offer courses in bioinspired engineering, 
+while organisations such as the World Biomimetic Foundation and the Biomimicry 
+Institute have been established specifically to help spread the word by 
+highlighting the work of companies who dabble in bioinspired design – an 
+electricity-free ventilation system modelled on termite mounds, for instance, 
+or wind turbines with aerodynamic bumps similar to those found on a humpback 
+whale’s flippers.
+
+Still, even those who believe that bioinspiration may hold the key to solving 
+humanity’s most urgent problems – water scarcity, overpopulation, climate 
+change – are careful to point out that the field is still in its infancy. Beth 
+Rattner, the executive director of the Biomimicry Institute, told me: “We can 
+observe and make mathematical replications of a kingfisher beak on the nose of 
+a train, but we’re still unable to fully emulate or replicate a lot of 
+biological phenomena, either at all or to the point where it’s commercially 
+viable.”
+
+“Biomimicry should be considered as a means to understand nature and conceive 
+engineering design, but not as a dogma,” says Maurizio Porfiri, a professor at 
+New York University’s Tandon School of Engineering. In other words, while 
+evolution has pursued an optimal path – from swimming to flight – this happened 
+in a specific context, with specific constraints. Even Leif Ristroph concedes 
+that he would not, for example, “slavishly copy a bird or insect” in order to 
+design a robot. “Clearly, birds inspired the basic design of aeroplanes, but 
+the early designs with flapping wings did not win out,” he said.
+
+Still, Karp is not suggesting that scientists copy nature directly. Instead, 
+he wants to look at what works and improve on it. “The key is to analyse the 
+solution evolution has converged on, and then take advantage of those 
+principles in an engineering context,” Adrian Thomas, professor of biomechanics 
+in the zoology department at Oxford University told me. “The obvious mistake is 
+to copy nature – it is possible to do much better than nature by exploiting the 
+best engineering materials.”
+
+While research labs dedicated entirely to bioinspiration are rare, Karp’s is 
+not the only one. Don Ingber’s Wyss Institute at Harvard University, which has 
+been running since 2009, is a bioinspiration factory. There are some 375 
+full-time staff, who together enjoy more than $600m in grants and philanthropic 
+funding. The lab has co-founded 15 startups in the last three years, and has 
+more than 15,000 patents out for a range of bioinspired technology and designs 
+across a range of disciplines, from medicine to robotics. They include a 
+self-organising swarm of tiny robots that can be used for tasks such as 
+surveillance, traffic monitoring and crop pollination, and a mattress that 
+senses the cardio-respiratory functions of infants and can help detect when 
+they are having trouble breathing. “Jeff has done amazing stuff in his lab,” 
+Ingber told me. “But we can do it much faster. We’re able to take much bigger 
+risks here, and we’re more likely to succeed, both technically and 
+commercially.”
+
+But sheer volume is not Karp’s aim. When the lab first opened, Karp thought he 
+might use bioinspiration to tackle problems around cell migration, the process 
+whereby cells move around an organism to aid in tissue formation, wound healing 
+and immune response. That same year, after speaking at a biomedical conference 
+to drum up support for the lab, someone approached Karp and told him bluntly 
+that the only interesting thing about his talk was the gecko tape. “That’s all 
+people asked me about,” Karp told me. “So that got me thinking, maybe I should 
+just focus on medical devices. It seemed to be the thing that got people 
+excited.”
+
+One evening in August 2009, Karp received an email from Pedro J del Nido, a 
+specialist in cardiac surgery at Boston Children’s Hospital. Del Nido was 
+having difficulty sealing holes in the hearts of young patients suffering from 
+congenital heart defects. Whenever Del Nido tried to suture a hole, the 
+surrounding tissue would tear. He had read Karp’s paper on the gecko tape, and 
+wondered if Karp could help him design something similar to help treat his 
+young patients.
+
+This presented a new challenge for Karp. While the gecko tape can seal things 
+like tissue and gastrointestinal tracts, the heart is not stationary. It moves 
+very fast and violently, as blood constantly gushes in and out. Any adhesive 
+would have to be strong enough to resist being washed away in the deluge. Karp 
+wondered if a surgical glue might help solve Del Nido’s problem. Gluing 
+internal surgical wounds is quicker and sometimes more effective than stitches, 
+particularly around sensitive areas where any rip or tear in the skin will 
+damage surrounding tissue. But Karp did not know any surgical glues that could 
+work successfully in the presence of a lot of blood, and none that are strong 
+enough to actually bind moving tissue. What’s more, surgical glues sometimes 
+have harmful side-effects (such as releasing formaldehyde inside the body) and 
+can take as long as 30 minutes to set. As any surgeon will attest, the less 
+time a patient lies on the operating table with their insides exposed, the 
+better.
+
+Karp told Del Nido that he would try to come up with something. Except, he 
+didn’t really know how. The gecko tape had been an academic invention. There 
+had been one animal trial – on mice. Del Nido needed something practical that 
+he and his surgeons could actually use when operating on children. Karp 
+realised that if he was going to help Del Nido, he had to talk to some people 
+who had experience turning inventions into products. “One of the reasons most 
+medical devices invented in an academic environment never make it to patients 
+is because they’re so complex and you can’t manufacture them at the right 
+scale, or at the right price,” Karp told me. “The lab is really just the first 
+step.”
+
+Karp decided that he would need to build his own network of contacts: 
+entrepreneurs, venture capitalists, patent attorneys, regulatory body contacts, 
+consultants, and business managers, who would be familiar with his methods and 
+guide him on every step of the process. He spent the next two years meeting 
+with venture capitalists around Boston, attending networking events sponsored 
+by local law firms, consulates and biotech companies. He flew around the 
+country presenting his work to various companies. “I wanted to make it in such 
+a way that as soon I came up with an idea, all I’d have to do is just fire off 
+an email to the right person and that would be it,” he said.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F25%2Fbioinspiration-thrilling-new-science-could-transform-medicine%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-4%23img-4&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ffad3c021e8c68605539da6bce6cfb38ae870b773%2F0_602_2880_3598%2F2880.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Inspired%20by%20nature%3A%20the%20thrilling%20new%20science%20that%20could%20transform%20medicine%20%7C%20Laura%20Parker&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F25%2Fbioinspiration-thrilling-new-science-could-transform-medicine%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-4%23img-4>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Inspired%20by%20nature%3A%20the%20thrilling%20new%20science%20that%20could%20transform%20medicine%20%7C%20Laura%20Parker&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F25%2Fbioinspiration-thrilling-new-science-could-transform-medicine%3Fpage%3Dwith%3Aimg-4%23img-4&media=https%3A%2F%2Fmedia.guim.co.uk%2Ffad3c021e8c68605539da6bce6cfb38ae870b773%2F0_602_2880_3598%2F2880.jpg>
+ Karp looks at some glue inspired by the secretions of marine worms. 
+Photograph: Rick Friedman for the Guardian 
+One morning in late June, I accompanied Karp on a visit to the New England 
+Aquarium in Boston. Scientists have a reputation for being slightly awkward, 
+but Karp is at ease in his own skin. Tall, with a lean build and slight 
+stubble, he peppers lengthy scientific explanations with jokes, usually at his 
+own expense. “Stop me if I get too boring,” is something he says often. He is 
+fond of drawing diagrams to explain what he is talking about. “He’s one of 
+those very rare scientists who can talk to everyone at their level,” Sherman, 
+the Karp Lab research technician, told me. “How he talks to high-schoolers is 
+different from how he talks to PhD fellows, and that’s different to how he 
+talks to physicians. But it’s always at the same level of excitement.”
+
+Karp grew up in Peterborough, a rural county in Ontario in a Frank 
+Gehry-designed house that his parents bought from a local builder. The family 
+moved in when Karp was eight; it was his first time living outside the city. 
+There was a buffalo farm across the road, and a sheep farm next door. There was 
+a creek running through the backyard, and the property backed on to a forest. 
+“I would wake in the middle of the night,” said Karp, “and there would be a 
+pack of wolves on my front lawn – headed to the sheep farm for a snack!”
+
+Karp began taking trips into the woods, looking for snakes. Later, he would 
+mount expeditions to trap frogs and snapping turtles by the creek. He got used 
+to seeing foxes on the driveway at dusk and listened out for the hoots of the 
+great grey owls nesting nearby. “For a kid with no appreciation of nature, this 
+was a really big turning point for me,” he said. “It was like, here was this 
+whole new world I never even knew existed.”
+
+Inside the aquarium, Karp led me to a large, fluorescent tank filled with 
+lion’s mane jellyfish, one of the largest species, with a bell-shaped hood that 
+can reach eight feet in diameter and tentacles that can stretch over 100 feet. 
+“The key thing to remember is that the problem comes first, not the solution,” 
+Karp said, peering inside the tank. “We don’t sit in front of the jellyfish 
+tank and think, ‘How can we design a medical device that does what these 
+jellyfish do?’ It’s more like, we have a problem we need to solve, and these 
+floating piles of jelly might be able to help us.”
+
+A few years ago, Karp began looking at jellyfish to try and improve the design 
+of a blood analysis device that can detect whether a cancer has metastasised 
+after the removal of a tumour. Devices like this already exist: they resemble a 
+small, rectangular chip roughly the size of a sim card. The blood flows through 
+the top part of the device, while the bottom is lined with antibodies, which 
+attach to any cancerous cells present in the sample. By looking inside the chip 
+under a microscope, it is possible to determine if any cells have been 
+“captured” – and therefore if the blood sample contains cancerous cells.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F25%2Fbioinspiration-thrilling-new-science-could-transform-medicine%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-5%23img-5&picture=https%3A%2F%2Fmedia.guim.co.uk%2F7d23fac295552dc7122960e97d29f82054d3168a%2F0_0_3467_5200%2F3467.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Inspired%20by%20nature%3A%20the%20thrilling%20new%20science%20that%20could%20transform%20medicine%20%7C%20Laura%20Parker&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F25%2Fbioinspiration-thrilling-new-science-could-transform-medicine%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-5%23img-5>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Inspired%20by%20nature%3A%20the%20thrilling%20new%20science%20that%20could%20transform%20medicine%20%7C%20Laura%20Parker&url=https%3A%2F%2Fwww.theguardian.com%2Fscience%2F2016%2Foct%2F25%2Fbioinspiration-thrilling-new-science-could-transform-medicine%3Fpage%3Dwith%3Aimg-5%23img-5&media=https%3A%2F%2Fmedia.guim.co.uk%2F7d23fac295552dc7122960e97d29f82054d3168a%2F0_0_3467_5200%2F3467.jpg>
+ A lion’s mane jellyfish. Photograph: Cultura RM Exclusive/Alexander 
+Semenov/Getty Images/Cultura Exclusive 
+An early problem with these devices was that the blood sample flowed too fast 
+and too far above the antibodies, which meant that even when cancerous cells 
+were present, they were not always detected. Later versions of the device 
+shortened the distance between the top and bottom, but this meant that the 
+blood sample had to be smaller, which in turn meant the results were less 
+accurate. (The bigger the sample size, the more accurate the results.)
+
+Karp wanted to know if there was a way to force the cancerous cells to slow 
+down and better attach to the antibodies. So, instead of lining the bottom of 
+the device with antibodies, Karp created synthetic jellyfish-like tentacles 
+made out of DNA. The tentacles, which are roughly one-tenth the width of a 
+human hair, are imbibed with a capturing agent that targets circulating tumour 
+cells, and can extend to “grab” them. In tests of an early prototype, Karp 
+found that his new design could increase the flow of blood by 10 times, making 
+it far more likely that cancerous cells would be accurately detected.
+
+We had moved downstairs to the aquarium’s cafe by the time Karp had finished 
+laying all this out, and when I expressed some confusion about some of the 
+details, Karp grabbed a napkin from a nearby table and retrieved a pen from his 
+bag. It was in the shape of a bright orange crab claw. “What?” he said, in 
+reference to my amused expression. “I think it’s funny. I got it from a 
+souvenir shop.” He then proceeded to draw a diagram of his device on the 
+napkin. (Karp’s business card features a very similar drawing of the tentacles, 
+and a picture of jellyfish on the back, to show the process from inspiration to 
+creation.)
+
+“Now,” Karp said, leaning in conspiratorially. “You want to touch a stingray?”
+
+In early 2011, Karp asked one of his graduate students, Maria Pereira, to help 
+find a solution to the challenge that Pedro del Nido had set him: namely, how 
+to seal holes in children’s hearts. “We tried to define the key criteria for 
+the problem: a material that couldn’t be washed away by blood, was easy to 
+deliver and minimally invasive,” Pereira told me. “Something that a surgeon 
+could control.”
+
+Following Karp’s example, Pereira looked to the natural world for solutions. 
+She held lab meetings and asked everyone to email her ideas or pictures of 
+creatures that live in especially wet environments. People circulated photos of 
+slugs and snails. “We began thinking, how do snails stay attached to leaves 
+when it’s raining?” Karp told me. “Why aren’t the trails they leave behind 
+washed away by the rain? What are those secretions made of?”
+
+One day, someone emailed Karp and Pereira a link to a research paper on 
+sandcastle worms, which live in shallow water on the Californian coast. The 
+worms secrete a sticky, viscous goo that they use to build underwater shelters 
+by gluing together bits of shells and sand grains. The goo is also hydrophobic 
+– meaning it repels water – to ensure the shelter withstands the force of waves.
+
+Slowly, Karp and Pereira began to imagine a product that would not only be 
+used to treat small internal wounds in children, but that would have wider 
+applications. They now envisioned a liquid surgical glue, strong enough to work 
+in any major organ. It would be both biodegradable and capable of repelling 
+blood and water.
+
+In 2013, Karp co-founded Gecko Biomedical in Paris with the help of Bernard 
+Gilly, the chairman of a group of small French biotech companies. Pereira later 
+moved to Paris to join the company as its head of research.
+
+Over the next few years, she and Karp tested different versions of the glue, 
+each with a slight variation in viscosity or adhesive properties. Some versions 
+were too runny and not sticky enough; other prototypes were so sticky they 
+would not spread easily on to tissue. It was not enough to have the glue sit on 
+top of the tissue – it needed to infiltrate it, in order to create a perfect 
+seal that would prevent air or blood from seeping through. Karp thought about 
+how ivy attaches to the sides of buildings – the plant’s “root hairs” seek out 
+crevices and cracks, then secrete a glue that spreads the hairs in different 
+directions. The hairs then shrivel up and dry in a spiral shape, which anchors 
+the plant to its location. “Many of the glue formulations did not work, but the 
+ones that did worked very similarly to ivy, because they were able to burrow 
+into the tissue,” Karp said.
+
+Karp and Pereira also developed a device in the shape of a pen, which emits a 
+visible LED ray of light that reacts to the glue, so a surgeon can set the glue 
+once it is applied. (The process takes five seconds.)
+
+Mushrooms, whales and hurricanes: how bio-inspiration boosts energy efficiency
+ Read more  
+<https://www.theguardian.com/sustainable-business/2016/apr/24/biomimicry-nature-environment-design-engineering-energy-efficiency>
+Each version of the glue was tested first in animal or human tissue inside the 
+lab, and then inside a living organism, usually a rat or pig. The “right” 
+version presented itself entirely by accident. Karp and Pereira set up an 
+animal trial at Boston Children’s Hospital to test a new iteration of the glue: 
+a small, circular patch rather than a liquid version. They created a hole 
+inside the heart of a living rat, and were just about to seal it with the patch 
+when it slipped off. They put it back on top of the hole, but by that point 
+there was so much blood that the patch would not stay in place long enough for 
+Karp to cure it with the light pen.
+
+Scrambling for a solution, Karp asked Pereira to scrounge up as much of the 
+most recent batch of liquid glue as she could. Pereira then spread the glue on 
+to a spatula, and applied it to the leak in the rat’s heart. Karp followed with 
+the light, and the glue set. “It did exactly what it was supposed to – it 
+repelled the blood and it remained in place,” Karp said. “We ended up with a 
+perfect seal. This was a massive hole, so showing that we can seal it without 
+sutures or staples was a big deal to us.” (When Karp and Pereira checked up on 
+the same rat six months later, they found no signs of disability or stress. The 
+glue on the animal’s heart had gradually biodegraded as tissue had grown over 
+the patched up hole.)
+
+Last spring, Karp showed off the glue during a talk at Zoobiquity, a 
+semi-regular conference that brings physicians and veterinary surgeons together 
+to swap notes. The event took place at the New England Aquarium, and Karp spoke 
+from a semi-raised platform in front of the penguin pool. After the talk, a 
+dental surgeon named William Rosenblad approached Karp to ask if he would be 
+willing to give him some of the glue to use on one of his canine patients, a 
+bulldog named Little Papi. Rosenblad had carried out three unsuccessful 
+procedures to treat an oronasal fistula, a common problem in dogs and cats that 
+results in a large hole in the mouth leading to the nasal cavity. “He looked 
+pretty desperate,” Karp said. “He just said, ‘Get it to me as fast as you can.’”
+
+A week later, Rosenblad sealed the hole in Little Papi’s mouth using Karp’s 
+glue. “I knew the real test would come when everything had healed,” Rosenblad 
+told me. Karp was present at the follow-up appointment two weeks later. Little 
+Papi sat patiently while Rosenblad checked inside his mouth, finally declaring 
+that the glue had worked – the hole was sealed. “We all got a bit emotional,” 
+Rosenblad told me. Little Papi’s owner walked up to Karp and shook his hand. 
+“He kept repeating, ‘You changed my life,’” Karp said.
+
+In March this year, after successfully raising 22.5m euros, Gecko began a 
+trial of the surgical glue at four hospitals in Paris. The glue was tested on 
+36 patients, most of whom underwent vascular reconstruction surgery, in which 
+blood vessels are either cut open to remove plaque or enlarged to enable better 
+flow. Jean Marc Alsac, the surgeon overseeing the trial, said that it tested 
+two things: one, how quickly the bleeding stopped when the glue was applied, 
+and two, that there were no adverse effects in patients in the three months 
+after surgery. “It worked immediately,” Alsac told me. “I wasn’t prepared for 
+the surgery to be over that quickly. It was astonishing.”
+
+The glue worked immediately. I wasn’t prepared for the surgery to be over that 
+quickly. It was astonishing
+Jean-Marc Alsac 
+A human trial of the glue is planned for next year in the US. Karp hopes the 
+glue will become part of the surgical armamentarium – available in all 
+hospitals throughout the world – to reduce surgical times and complications of 
+current procedures. He also wants to see it used in surgeries where there are 
+currently no suitable methods to close tissues, such as in minimally invasive 
+procedures where it is difficult to tie knots in small spaces, or where bulky 
+stapling devices cannot fit. “Currently, many surgical procedures are much more 
+invasive than they need to be,” he told me, “but with better ways of sealing 
+tissues in small spaces, this can drastically be reduced.”
+
+Making the glue indispensable to surgeons could also help boost 
+bioinspiration’s profile, particularly in medicine. “I think as others see 
+successful examples, they will be more inclined to give it a try,” Karp said. 
+“When I first started out, I didn’t really see bioinspiration as a tool or 
+platform – merely a project. I certainly didn’t realise how powerful it could 
+be.”
+
+When I visited Gecko’s headquarters in Paris this summer, I asked Pereira to 
+show me how the glue works. She filled a small syringe with 0.2ml of the glue, 
+which is yellow and gloopy. She took a piece of clear rubber and pressed a 
+small dot of glue on to its surface. “Let’s pretend this is a ruptured vessel 
+inside the body,” she said. She took a thin metal rod and spread the glue 
+around on the rubber surface. She then took the pen light and held it over the 
+rubber for five seconds. “Here,” she said, pushing the rubber into my hands. 
+“Feel it.”
+
+The glue had set into a shiny, flexible coating on top of the rubber. I played 
+around with it for a few minutes, then asked Pereira if I could try applying 
+the glue myself. She shook her head, laughing. “You’ll just have to wait your 
+turn like everyone else.”
+
+• This article was amended on 25 October 2016. An earlier version described 
+Jeffrey Karp, who is an affiliate faculty member at MIT, as also running a lab 
+at the university. His lab is actually affiliated with Brigham and Women’s 
+Hospital, where he is also a professor.
+
+• Follow the Long Read on Twitter at @gdnlongread 
+<https://twitter.com/@gdnlongread>, or sign up to the long read weekly email 
+here 
+<https://www.theguardian.com/news/2015/jul/20/sign-up-to-the-long-read-email>
+ 

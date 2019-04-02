@@ -1,0 +1,46 @@
+
+The opportunity for suppliers to join the government's £60m G-Cloud framework 
+is drawing to a close, according to Mark O'Neill, proposition director for 
+innovation and delivery at theGovernment Digital Service 
+<https://www.theguardian.com/technology/government-digital-service> (GDS).
+
+The government plans to launch the first tranche of the G-Cloud catalogue in 
+February, O'Neill told the Cloud Expo event in London.
+
+The G-Cloud procurement process was extended last year 
+<https://www.theguardian.com/government-computing-network/2011/dec/07/g-cloud-framework-deadline-extended>
+ to give more suppliers the opportunity to participate. At the end of December 
+2011 there had been in excess of 500 expressions of interest in joining the 
+framework from suppliers offering more than 1,600 cloud services.
+
+"The billions which we spend on IT is fundamentally changing because too much 
+goes on systems that are unacceptable," said O'Neill. "Cloud can disaggregate 
+systems and to do things differently and dramatically cheaper."
+
+O'Neill has first hand experience of cloud computing: the GDS rolled out cloud 
+desktop services to 125 of its users in October. Over the last four months, the 
+cloud software has worked out 80 per cent cheaper than a traditional on-premise 
+desktop set up, he said.
+
+"At the moment that is for the cost of the desktop services that we use," he 
+told GGC. "So that is for email, collaboration and standard services where we 
+are paying 80% less than equivalent users."
+
+O'Neill said he would never purchase software for email, collaboration, 
+instant messaging, databases, file storage and printers outright again. "I have 
+not printed out anything for six months," he told the audience.
+
+While issues with security, management and ownership are common reasons for a 
+failure to adopt cloud, O'Neill asked delegates if they knew where their 
+medical records were, noting we often do not know who runs such servers.
+
+Ultimately, O'Neill said, "we either grab the opportunity, or we give up."
+
+• This story was updated on 30 January with the correct date for the release 
+of the first part of the G-Cloud catalogue.
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT, join the Government 
+Computing Network here. <http:// 
+http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>
+ 

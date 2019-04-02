@@ -1,0 +1,111 @@
+
+As the NHS sinks ever deeper into financial crisis, and the search for 
+efficiencies intensifies, it is unsurprising that the idea of harnessing the 
+digital revolution to the way healthcare is delivered is gathering policy 
+steam. Notwithstanding the spectacular top-downfailure of the NHS National 
+Programme for IT 
+<http://www.parliament.uk/business/committees/committees-a-z/commons-select/public-accounts-committee/news/npfit-report/>
+ and thedisappointing results <http://www.bmj.com/content/346/bmj.f1035> of the 
+national Whole System Demonstrator programme, it is entirely reasonable to 
+revisit the ways in which advances in technology might offer smart solutions.
+
+
+Currently the policy landscape is littered with strategies, reports and 
+evolving structures. The health secretary, Jeremy Hunt, says the NHS must “go 
+paperless” – by 2020 according to the Five Year Forward View; a national 
+information board has been set up to deliver on this commitment; the air is 
+thick with centrally-driven frameworks like the digital maturity index and 
+local digital roadmaps; and a new digital delivery board has been set up by NHS 
+England. Meanwhile, the influentialWachter Review 
+<https://www.gov.uk/government/publications/using-information-technology-to-improve-the-nhs>
+ along withweighty reports from the Nuffield Trust 
+<http://www.nuffieldtrust.org.uk/publications/delivering-benefits-digital-health-care>
+ andthe King’s Fund <http://www.kingsfund.org.uk/publications/digital-nhs> are 
+all ratcheting up the pressure for change.
+
+Research suggests that technology can indeed improve the quality of life of 
+older people <https://www.ncbi.nlm.nih.gov/pubmed/26919220> and their carers as 
+well as support improvements in the safety and quality of care. Products are 
+being developed at an astonishing rate, from low-level gadgets through to 
+traditional telecare/telehealth and on to emerging digital technology including 
+mobile phones, apps and televideo consultations. The key debate now is not so 
+much about what can be done, but about how to put it into practice.
+
+How digital technology will make people powered health a reality
+ Read more  
+<https://www.theguardian.com/healthcare-network/2016/jul/07/digital-technology-people-powered-health>
+Four key issues need to be addressed.
+
+
+Funding
+
+There is thought to be about £1.3bn earmarked for the “paperless NHS” but 
+little clarity over when it will be made available and whether it will be 
+ringfenced. The size of the pot is also small for the shift from analogue to 
+digital – Bob Wachter estimated a cost of £4.2bn for the secondary care sector 
+alone. There is also the issue of allocation, with funding priority to be given 
+to advanced organisations whose successes will, it is hoped, trickle down to 
+the less advanced. Arguably the jam needs to be spread more thinly.
+
+Stakeholder engagement 
+
+There are two main groups whose engagement needs to be secured – frontline 
+staff and end users. Frontline staff are too often seen as passive recipients 
+of new technology and are not involved in the development of a system’s 
+architecture or user interfaces. Failure to convince them of the virtue of 
+change can lead to all manner of resistance strategies arising from inadequate 
+understanding, lack of time, challenges to established routines and fears 
+around job security.
+
+
+Users also have to be convinced of the value of using new devices. Technology 
+varies in the ways in which it requires engagement and action on the part of 
+users. At one end of the spectrum, a telecare system based upon monitoring and 
+surveillance may require little more than consent to installation of the 
+equipment; at the other it needs active self-monitoring, self-management and 
+engagement with the technology and with professionals. Where an active role for 
+users is envisaged,issues of digital literacy and resistance come to the fore 
+<http://www.tinderfoundation.org/what-we-do/nhs-widening-digital-participation>
+, and localities will need robust strategies to maximise technological 
+familiarity.
+
+Systems not silos 
+
+Even now the focus of technological development tends to be silo-based – GPs 
+have long since invested in their own systems; Wachter only looked at the acute 
+sector; non-acute trusts and social care are still out on a limb. Any solution 
+for the incompatibility between IT systems used by all the different parts of 
+theNHS <https://www.theguardian.com/society/nhs> is generally only focused on 
+communication between hospitals or, at best, between hospitals and GPs. The 
+reality for growing numbers of patients is that their “journey” traverses all 
+of these sectors and more. Currently, wherever patients present there is little 
+or no information on where they have been before or about where they might end 
+up subsequently. A more ambitious, system-wide approach is needed.
+
+A future of mobile-centric healthcare could save lives
+ Read more  
+<https://www.theguardian.com/healthcare-network/2016/aug/05/future-mobile-centric-healthcare-save-lives>
+Patience 
+
+The danger with all this digital razzmatazz is that too much is expected too 
+quickly. Politicians and managers may expect a quick and unrealistic return on 
+investment, along with unattainable demands for hard evidence of impact. If no 
+such requirements can be met, then hard-pressed decision makers may well be 
+reluctant to take a short-term risk for a potential longer-term gain. It is up 
+to NHS England to construct a more realistic timeline for investment and change.
+
+
+Wachter’s main conclusion is that using technology entails both technical and 
+adaptive change – while the technology is knowable, what is less well 
+understood is the requirement for people themselves to change. It is, in short, 
+about culture and whole system change. The potential role for technology is not 
+one of serving as an optional extra to normal business but rather a new 
+paradigm to structure the way healthcare is conceived. This will require much 
+more investment and support than is currently on offer.
+
+Join the Healthcare Professionals Network 
+<https://register.theguardian.com/healthcare-professionals/?CMP=dis-166> to 
+read more pieces like this. And follow us on Twitter (@GdnHealthcare 
+<https://twitter.com/GdnHealthcare>) to keep up with the latest healthcare news 
+and views.
+ 

@@ -1,0 +1,94 @@
+
+Right on cue Magnus Carlsen’s previously stuttering form came back into flow 
+for games three and four of the tiebreaks in New York on his 26th birthday. The 
+world champion retained his crown bydefeating Russia’s Sergey Karjakin 
+<https://www.theguardian.com/sport/2016/dec/01/magnus-carlsen-retains-world-chess-title-after-quickfire-tie-breaker>
+ 3-1 in one-hour rapids after their classical games ended 6-6. The match proved 
+enormously popular with online audiences, was a media hit and had the most 
+brilliant final move, a queen sacrifice for mate, of any world title series. 
+Yet questions remain about the performance of both players.
+
+The biggest mystery is what happened to Karjakin’s preparation. The challenger 
+rightly gained plaudits for his tenacious, resilient and at times inspired 
+defensive play, particularly in game two of the tiebreak when, despite playing 
+for many moves on the three-seconds increment, he found a wonderful resource 
+based on a bishop and rook pawn stalemate.
+
+Just soaking up the opponent’s punches is an unlikely planned strategy. At the 
+final press conference Karjakin said he had too much to prepare so sometimes 
+forgot the details. His preferred opening as White was the d3 Spanish, a quiet 
+line with little possibility of unleashing a significant novelty. Yet there 
+were claims that Karjakin’s team had a budget of $1m and years before Karjakin 
+became the challenger he stated that he had a purpose-built chess computer and 
+database but that Carlsen had a still bigger one. The mammoth budget produced 
+almost zilch in the field of opening bombs.
+
+Karjakin’s clock management in the one-hour rapid tie-breaks was dreadful. In 
+the very routine first game he took most of his time for around 20 moves, 
+allowed Carlsen a 15-minute time lead and was lucky that the game petered out 
+to a draw. Of course Carlsen noticed his opponent’s weakness and for the 
+remaining games he kept ahead on the clock while posing more complex questions. 
+It paid off in game three when a rare Karjakin novelty boomeranged and the 
+Russian had a passive, though tenable position. Finally the pressure got to him 
+and at move 38 he froze. He could have kept in the game by attacking Carlsen’s 
+queen but instead let his time run down to two seconds before making a fatal 
+capture which lost immediately.
+
+For much of the match Carlsen’s play was uneven, culminating in the eighth 
+game where he imploded by impatiently trying to win a drawn position. It was 
+only after Karjakin missed a likely chance for a second and probably decisive 
+victory in game nine that the Norwegian reasserted control, deciding on a clear 
+match strategy of going for 6-6 and tie-breaks which he believed he would 
+dominate and did. So why did the Norwegian team have to go to Plan B when on 
+all known previous form Carlsen should have won the match in the classical 
+games?
+
+My guess is that Carlsen, despite publicly stating that Karjakin was a serious 
+opponent, inwardly relaxed because he perceived that he was stronger and had 
+easily cruised through his two previous championship matches against India’s 
+Vishy Anand. I would also point a finger at Carlsen’s three-hour online blitz 
+match against Hikaru Nakamura on 27 October as hardly ideal preparation for a 
+classical contest.
+
+But overall the result was right. Carlsen is the world No1, Karjakin, even 
+after gaining rating points in New York, is still only No6. Carlsen had a scare 
+and will surely take the lesson on board before 2018. Meanwhile he will 
+continue to delight chess fans with his virtuoso tournament performances.
+
+The high percentage of draws, some of them routine, in the main match, has led 
+to proposals for the reform of the format to reduce the importance of speed 
+tie-breaks. The idea I like best is for the fast tie-breaks to be staged before 
+the classical games, thus sparking early public and media interest and ensuring 
+that one side in the main match would always be under pressure to go for a 
+decisive result. Adding a 13th game at the end where the tie-break loser has 
+White would make for the desired small imbalance.
+
+However, it’s all theoretical, as the match organisers, Agon, have already 
+declared that the format for Carlsen’s next title defence will be the same as 
+in New York, right down to the same dates. It may not happen like that, of 
+course, since finding sponsors for a multi-million dollar event is never easy 
+and much will depend on the nationality of the next challenger. At present 
+Fabiano Caruana, the US champion and world No2, is the favourite to qualify and 
+other elite grandmasters from the US, France and the Netherlands are also 
+serious contenders, along with Karjakin and the ex-champion Vlad Kramnik from 
+Russia.
+
+Many journalists provided daily reports. The best were by Jonathan Tisdall, US 
+master resident in Norway, whosedaily MattOgPatt articles 
+<http://mattogpatt.no/2016/11/30/wtf/> are still an enjoyable and thoughtful 
+read.
+
+Sergey Karjakin v Magnus Carlsen 
+<https://www.theguardian.com/sport/magnus-carlsen>, third tie-break game
+
+1 e4 e5 2 Nf3 Nc6 3 Bb5 a6 4 Ba4 Nf6 5 O-O Be7 6 d3 b5 7 Bb3 d6 8 a3 O-O 9 Nc3 
+Na510 Ba2 Be6 11 b4 Nc6 12 Nd5 Nd4 13 Ng5?! Bxd5 14 exd5 Nd7 15 Ne4 f5 16 Nd2 
+f4!17 c3 Nf5 18 Ne4 Qe8 19 Bb3 Qg6 20 f3 Bh4 21 a4 Nf6 22 Qe2 a5 23 axb5 axb4 24
+ Bd2 bxc325 Bxc3 Ne3 26 Rfc1 Rxa1 27 Rxa1 Qe8 28 Bc4 Kh8 29 Nxf6 Bxf6 30 Ra3 e4 
+31 dxe4 Bxc3 32 Rxc3 Qe5 33 Rc1 Ra8 34 h3 h6 35 Kh2 Qd4 36 Qe1 Qb2 37 Bf1 Ra2 38
+ Rxc7?? Ra1 0-1
+
+3471 1 h5+! If Kxh5 2 Qf6! when 3 g4+ and 4 Qxh6 mate is a winning threat. The 
+game ended 1...Kh7 2 Qf6! Qc7 3 Qg6+ Kh8 4 Bf7! and Black resigned as he must 
+give up his queen just to delay mate.
+ 

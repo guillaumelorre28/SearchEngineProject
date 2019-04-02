@@ -1,0 +1,86 @@
+
+We’ve all been there: we want to shop online, find a new recipe for supper, 
+catch up on the latest news or watch a video – only to be dazzled by a moving, 
+blinking or flashing advert. These “autoplaying” ads are annoying for most 
+internet users, but for those with disabilities or long-term conditions, they 
+make those websites largely inaccessible.
+
+For people with photosensitive epilepsy, frequently flashing or flickering 
+images could trigger or increase the risk of a seizure, while automatic 
+advertising can be distressing for those with learning disabilities because it 
+hinders concentration and therefore comprehension of the content they are 
+trying to consume.
+
+Blind and visually impaired people can also have problems. “If you are blind 
+or visually impaired and using text to speech software on your device, 
+autoplaying animations or video that includes music or audio makes some web 
+pages all but impossible to access,” says Robin Christopherson, head of digital 
+inclusion at charityAbilityNet <https://www.abilitynet.org.uk/>, in his latest 
+blog <https://www.abilitynet.org.uk/blog/autoplat-is-an-accessibility-issue>. 
+“The audio that automatically starts playing completely obscures the speech of 
+the screen reader. This means that blind people can’t hear thescreen reader 
+<https://en.wikipedia.org/wiki/Screen_reader> and therefore they can’t navigate 
+to the ‘stop’ button to stop the noise.”
+
+Apple v Android: the winner is… the disabled community
+ Read more  
+<https://www.theguardian.com/media-network/media-network-blog/2012/oct/18/apple-android-winner-disabled-community>
+So this month’s launch of Apple’s operating system iOS 9 
+<https://www.theguardian.com/technology/2015/sep/15/apple-ios-9-review-iphone-ipad-software-better-battery-life-multitasking-siri>
+ could revolutionise the lives of disabled iPhone and iPad users, because it 
+will allowad-blocking software 
+<http://techcrunch.com/2015/09/17/a-day-after-ios-9s-launch-ad-blockers-top-the-app-store/>
+ to work on its mobile browsers for the first time. It won’t stop intrusive or 
+auto-playing content on apps, but will filter it out from any web page accessed 
+via a mobile browser.
+
+The ability to block ads has existed for a while on desktops and for Android 
+phones, but many disabled people choose to use Apple products because they have 
+awide range of built-in accessibility features 
+<https://www.theguardian.com/media-network/media-network-blog/2012/oct/18/apple-android-winner-disabled-community>
+. Android is catching up, and also offers options to make phones more usable, 
+regardless of any impairment or disability the user may have.
+
+Still, for some people, standard mobile phones are not the best option. The 
+GeorgiePhone <http://www.georgiephone.com/> is more appropriate for blind and 
+visually impaired users who need simpler technology. Available as an 
+“alternative interface” on Android phones, it claims to be “far more than a 
+screenreader for smartphones” by providing big talking buttons, clear print, 
+simple layout and choice of colours. It enables you to use the clear on-screen 
+keyboard or your voice to make calls, manage contacts, send and receive texts, 
+hear the time and date, get assistance and set phone preferences. Additional 
+GeorgiePhone functions include weather, finding the nearest bus stop, and basic 
+colour detection to check if you are wearing matching socks.
+
+Other specialist apps aim to enable those with sight loss or impairment to be 
+more independent.Be My Eyes <http://www.bemyeyes.org/> makes life easier for 
+blind people by connecting them to a network of sighted helpers through their 
+iPhone app (it is not available on Android). This helps with tasks such as 
+checking the sell-by date on the milk in the fridge, or finding the right tie 
+to wear.
+
+Blindsquare <http://blindsquare.com/> is an accessible GPS-app for the iPhone 
+and iPad which describes the environment, and announces points of interest and 
+street intersections as blind or visually impaired people travel.Talking Goggles
+ <http://www.sparklingapps.com/goggles/> recognises images using a camera and 
+internet connection, and speaks out what it finds. It recognises almost any 
+image, including logos, landmarks, books, products, artwork and text. It is 
+available for iPhone and Android.
+
+For deaf users, in addition to in-built smartphone functions such as hearing 
+aids <http://www.apple.com/accessibility/ios/#hearing>, the Dragon Dictation 
+<http://www.nuance.co.uk/for-individuals/by-product/dragon-dictation-iphone/index.htm>
+ app transcribes the words someone is speaking for the person who is hard of 
+hearing to read, aiding conversation, whileMobileSign 
+<http://www.mobilesign.org/> allows deaf people to learn British sign language 
+on the go. For those who have no use of their hands,Sesame 
+<http://sesame-enable.com/phone/> is a touch-free smartphone that is controlled 
+by the user’s head movements using sensitive motion detection and the selfie 
+camera function on the phone.
+
+There’s still a long way to go, and technology companies could do more to 
+ensure accessibility is built into new devices and app design. But digital 
+innovation is doing much to enable those with disabilities and long-term 
+conditions to live richer, more independent lives. And that can only be a good 
+thing.
+ 

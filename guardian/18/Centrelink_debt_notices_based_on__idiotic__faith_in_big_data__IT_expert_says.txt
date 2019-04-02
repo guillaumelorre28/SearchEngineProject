@@ -1,0 +1,127 @@
+
+Centrelink’s error-prone debt recovery system has been slammed for placing 
+blind faith in big data and prioritising “efficiency over human welfare”, as 
+lawyers, privacy advocates and data experts join calls for it to be suspended.
+
+Labor has continued to press the Coalition to stop Centrelink’s automated debt 
+recovery system, which senator Doug Cameron described as a deliberate targeting 
+of the poor and vulnerable.
+
+The government’s automated compliance system, which began in July, has been 
+the subject of repeated complaints, which stem from itscomparison of income 
+reported to Centrelink 
+<https://www.theguardian.com/australia-news/2016/dec/23/centrelink-officer-says-only-a-fraction-of-debts-in-welfare-crackdown-are-genuine>
+ and information held by the Australian Taxation Office.
+
+It has been accompanied by threats of jail for those who do not pay 
+<https://www.theguardian.com/australia-news/2016/dec/07/acoss-criticises-governments-appalling-jail-threats-to-welfare-recipients>
+, a joint police-Centrelink campaign targeting geographic areas, the imposition 
+of a 10% debt recovery fee and plans to charge interest on welfare debts and 
+remove the six-year statutory limit on retrieving overpayments.
+
+A crackdown on welfare while the richest pay no tax? It's one promise the 
+Liberals kept | Van Badham
+ Read more  
+<https://www.theguardian.com/commentisfree/2016/dec/29/a-crackdown-on-welfare-while-the-richest-pay-no-tax-its-one-promise-the-liberals-kept>
+Legal Aid Victoria, the Australian privacy foundation, the Australian council 
+for social service, andindependent Andrew Wilkie 
+<https://www.theguardian.com/australia-news/2016/dec/14/centrelink-urged-to-stop-collecting-welfare-debts-after-compliance-system-errors>
+ have all raised serious concerns, urging the human services minister, Alan 
+Tudge, to intervene.
+
+
+IT and data expert Justin Warren – who has worked for IBM, ANZ, Australia Post 
+and Telstra, among others – said Centrelink’s system appeared to rest on the 
+“idiotic” assumption that “big data was magic”.
+
+
+“It’s not. It’s a messy, complex, statistical system that is wrong a lot,” 
+Warren said. “All models are wrong, but some are useful. It’s the choice of how 
+you deal with when the system is wrong that reveals how you view the world.”
+
+Once a discrepancy is detected by the automated data-matching process – 
+currently occurring at a rate of 20,000 a week – the onus then falls on welfare 
+recipients to prove they were entitled to claim benefits, often forcing them to 
+find payslips and employment information from up to six years ago.
+
+“What the department has done, however, is placed all the work of proving an 
+error exists on the humans they are supposed to serve (the clue is in the 
+name),” Warren said. “The humans have to do a bunch of paperwork to prove the 
+machine is wrong.
+
+“Prioritising efficiency over human welfare is just one choice among many. I 
+don’t think it’s the ethical choice.”
+
+
+The Australian Privacy <https://www.theguardian.com/world/privacy> Foundation 
+described the system as a “clusterfuck”, that wrongly assumed the initial data 
+matching was accurate and then abandoned procedural fairness.
+
+
+“There’s so much that can go wrong here that it’s astounding,” the 
+foundation’s chair, Kat Lane, said. “And falsely accusing people of things, and 
+sending them letters, and particularly some of our most disadvantaged people … 
+you’d want to make sure you got it absolutely right before doing that.”
+
+Lane said the sharing of data en masse should also cause significant privacy 
+concerns for Australians.
+
+“This is just the thin edge of the wedge, there is a clear plan to do 
+comprehensive data matching of every silo of government,” Lane said. “It’s 
+tracking, you’re tracking your citizens. You can’t live under a rock, we’ve all 
+got bank accounts, we’ve all got tax returns, we’ve got people onCentrelink 
+<https://www.theguardian.com/australia-news/centrelink> … you touch the 
+government all the time.
+
+“But what they want to do is track you, they want to gain efficiencies by 
+tracking you.”
+
+
+The government has continued to express its confidence in the compliance 
+system, saying customers are given the opportunity to dispute discrepancies 
+they believe to be incorrect.
+
+The vast majority of disputes, they say, are resolved without the need for 
+individuals to obtain payslips or letters from their old employers.
+
+But Guardian Australia last week spoke with a Centrelink whistleblower 
+<https://www.theguardian.com/australia-news/2016/dec/23/centrelink-officer-says-only-a-fraction-of-debts-in-welfare-crackdown-are-genuine>
+, who works in the compliance area. The source said only about 20 of the 
+hundreds of cases they had reviewed turned out to be legitimate debts
+
+Victoria Legal Aid said there were real problems with using such an imprecise 
+method of comparison.
+
+The organisation’s civil justice, access, and equity executive director, Dan 
+Nicholson, said it was inconceivable that such a flawed approach would ever be 
+used to levy tax debts to corporations.
+
+
+“So it’s hard to understand why it’s acceptable for Centrelink to do so,” he 
+said.
+
+Government backs Centrelink debt system despite 'incorrect' $24,000 demand
+ Read more  
+<https://www.theguardian.com/australia-news/2016/dec/29/government-confident-in-centrelink-debt-compliance-system-despite-reported-errors>
+“I agree with Acoss that the system should be suspended until concerns are 
+addressed.”
+
+Nicholson called on those who felt they had been wrongly billed to consider 
+challenging the decision.
+
+He said most people who did so had a good chance of winning, but warned that 
+many would simply pay without bothering to check if the debt was justified.
+
+The opposition renewed calls on Thursday for the system to be suspended. 
+
+Cameron said the system should not be relying on a “robot” to deliberately 
+target the poor.
+
+“It’s deliberate, the cross-matching is a deliberate decision by the 
+government to target welfare recipients. A deliberate targeting of some of the 
+most vulnerable people in the community with a crude, inaccurate system,” 
+Cameron said.
+
+“We say suspend the system, do the analysis, do a proper check on what is 
+being asked of individuals.”
+ 

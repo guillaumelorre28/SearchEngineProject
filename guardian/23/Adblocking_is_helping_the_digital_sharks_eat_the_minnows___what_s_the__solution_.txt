@@ -1,0 +1,99 @@
+
+I started using an adblocker almost before they existed because I dislike 
+distractions when I am reading. The early Norwegian web browser Opera did 
+almost everything better and faster than its more famous rivals: it was the 
+first to have tabbed browsing, which was why I switched to it. Then I 
+discovered what it called “element hiding”, which meant you could nuke 
+particular areas of a web page. In particular, I could kill advertisements that 
+had animated gifs.
+
+Fears of adblocking ‘epidemic’ as report forecasts almost 15m UK users next 
+year
+ Read more  
+<https://www.theguardian.com/media/2016/apr/20/adblocking-uk-web-users> 
+Nothing would any longer squirm in one corner of my eye while I was trying to 
+read text. I could read faster and with more concentration. You didn’t need to 
+think about making the choice. As soon as it was possible, it was obvious.
+
+But now what had been a secret known only to nerds has moved into the 
+mainstream. Adblocking is available for every browser, and the take-up is 
+explosive, especially among young people. Themost recent report 
+<https://www.theguardian.com/media/2016/apr/20/adblocking-uk-web-users> 
+predicts that 30% of British internet users will have taken it up by the end of 
+the year, but among younger and savvier users the figure is already much 
+higher. An estimated 47% of 18- to 24-year-olds in the UKare already blocking 
+ads 
+<https://www.theguardian.com/media/2016/mar/01/more-than-nine-million-brits-now-use-adblockers>
+.
+
+The culture secretary, John Whittingdale, has described adblocking as “a 
+modern-day protection racket 
+<https://www.theguardian.com/media/2016/mar/02/adblocking-protection-racket-john-whittingdale>
+”, and promises round-table discussions on the issue. “If people don’t pay in 
+some way for content, then that content will eventually no longer exist,” he 
+said. But it’s hard to see where this resounding platitude will get us. 
+Adblocking software provides a service that people overwhelmingly want and for 
+which they might even pay.
+
+The desperation of the ad industry offers a tempting opportunity for profit in 
+an industry not famous for its ethics
+
+Indeed there are people making money already. It’s just that they are charging 
+the advertisers not to be blocked. That is the business model of Eyeo, a German 
+company that produces one of the most widely used programs. According to the 
+Financial Times, Google, Amazon and Microsofthave all paid up rather than have 
+their ads blocked 
+<http://www.ft.com/cms/s/0/80a8ce54-a61d-11e4-9bd3-00144feab7de.html#axzz46N6i4hKN>
+. This model may also have been adopted by the mobile network 3, which has 
+announced plansto block adverts on its network 
+<https://www.theguardian.com/media/2016/feb/19/mobile-operator-three-ad-blocking>
+, except for those it chooses to let through. I would have thought this was a 
+pretty dangerous precedent for a network operator to set – if it is technically 
+capable of censoring adverts, then there is all sorts of other content that 
+governments might want taken off the airwaves, too. Nonetheless, the 
+combination of consumer demand and the increasing desperation of the ad 
+industry offers a tempting opportunity for profit in an industry not famous for 
+its ethics.
+
+Adblocking, viewability and the death of mobile advertising - video
+ Read more  
+<https://www.theguardian.com/media-network/2016/apr/06/adblocking-app-viewability-death-mobile-advertising-publishing>
+In a similar vein, the Chinese web giant Alibaba owns the most popular mobile 
+browser in India, which comes with adblocking already turned on. In all these 
+cases, the sharks are consuming the minnows of the business. The strong get 
+stronger and the weak get weaker. The giants of the internet advertising 
+business are Facebook and Google, which have about 85% of the business between 
+them, and which are also the hardest to block. The weakest parties might seem 
+to be the newspapers, but there is actually a tier below us, of all the smaller 
+news sites run for and by enthusiasts, which are being crushed by the collapse 
+in revenue.
+
+Take graphic cards, a subject of compelling interest to gamers. One site 
+specialising in them, Guru3D, gets about 4.5m hits a month, a figure that was 
+about the same in 2014. Butits revenue halved between October 2014 
+<http://www.guru3d.com/news-story/the-devastating-effect-of-ad-blockers-for-guru3d-com.html>
+ and October 2015, in large part because its readership is drawn from the kind 
+of people who knew about adblockers early. Now the problem spreads. The Toast, 
+an occasionally hilarious site for sharp feminism, is alsoappealing for 
+donations to make up for the damage caused by adblockers 
+<http://thebread.wpengine.com/donate/>.
+
+The most respectable answer to the problem is that advertisements need to 
+become more interesting and compelling. This is extremely unlikely to happen, 
+though. To make anything interesting and compelling is highly skilled labour – 
+let alone something that is trying to take another person’s money.
+
+One thing that does make ads more engaging is when the advertiser already 
+knows that you want a product quite like what they’re selling. That knowledge 
+is what makes Google rich. The text ads on Google can afford to look dull 
+because you are actually looking for them. But if you’re not looking for 
+something to buy, tracked advertising is like being followed around by a horde 
+of intrusive chuggers.
+
+In the end, there are two great pressures on the market: advertisers want to 
+sell, and we don’t want to be sold to. There has to be some way to make money 
+from moderating this conflict, though so far the only people to have found one 
+are a few of the adblocking companies. If no one finds a better way, Mark 
+Zuckerberg will end up far richer, and far more powerful, than Bill Gates ever 
+was.
+ 

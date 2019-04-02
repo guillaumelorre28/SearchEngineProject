@@ -1,0 +1,208 @@
+
+We've come along to Asus's press conference, the first of CES. Let's get this 
+ball rolling! Times are as it happened in PST, so not contemporary to this 
+moment.
+
+14:11: Johnny Shih of Asus up on the stage. Thanks for being here with him! At 
+this unofficial event. (Not that he's saying that.) 2010 was an amazing year for
+Asus <https://www.theguardian.com/technology/asus>, apparently. He doesn't 
+specify why.
+
+Asus makes products from notebooks to motherboards. He makes much of being 
+green. Journalists stop typing in reverence, or possibly the hope he'll say 
+something more interesting.
+
+He's working the Steve Jobs trope, by walking back and forth and talking 
+slowly, but it's not quite as compelling. "We were rated by many third parties 
+as the most reliable computer." Had 3.5% of computers shipped in the US but 
+came out top in reliability, according to Rescue. Three-year return rate better 
+according to Squaretrade.
+
+Claims to be third worldwide in "portable PCs". What's a portable PC defined 
+as? Netbooks aren't a very healthy segment just now. Zipping through these 
+slides so quickly we can't pick up the numbers on them even though they're 
+apparently showing great growth compared to Dell, HP, etc.
+
+Then he offers a bizarre diagram, with two axes: on the Y-axis, innovation; on 
+the X-axis, choice. Apple is positioned high on Y (ie, lots of innovation) but 
+short on the X (not much choice). Asus he plots with lots of X (choice) but not 
+much Y (innovation). Quite whose fault that is, is not established. But he says 
+he wants to put Asus at the lots of innovation, lots of choice point. Well, 
+let's see what you've got.
+
+14:20: I'm hoping that CES will improve from here on out, because this is 
+already both surreal and boring.
+
+He has a picture of a laptop. It's got a spillproof keyboard, 
+scratch-resistant casing of its pro keyboard. "So you can see we can offer 
+different sorts of choices." Possibly.
+
+14:21: "And now the main thing today – innovation in the cloud". EEE is their 
+watchword: easy to learn, work and play. Let's hope Mars (as in the bars) isn't 
+feeling litigious. It sounds so close, as a slogan, to work, rest and play.
+
+And he produces… "The first member of our EeePad memo family." Hmm, it's a 
+tablet running Android which looks like a 7in screen and a … oh, no, it's got a 
+stylus. (Though the specs later say it's a capacitive, not resistive, screen.) 
+He zips through the specs after having posed for ages for the pictures. Nobody 
+is able to write them down. Later emerges: priced $499-$699 (no idea what 
+determines the price). To ship: June. (Picture at Crunchgear 
+<http://ces.crunchgear.com/wp-content/uploads/2011/01/IMG_1518.jpg>.)
+
+See, this is where he needs to study Steve Jobs: you tell people about the 
+specs andthen you show it off.
+
+"Comes with MediaNote text app." YES BUT WHY A STYLUS? Everyone knows that the 
+moment you lose your stylus, your stylus-dependent screen is pointless. 
+Apparently it's a multi-touch screen. Runs on Qualcomm's Snapdragon. Can run 
+1080p playback. Dual cameras.
+
+Distinct lack of "oooh" from the (really quite big) audience of journalists 
+here.
+
+14:24: "And now the world's most powerful tablet... The most professional 
+power, the full Windows productivity, this is it. No compromise. It's a PC but 
+it's not very PC." It's theEee Slate EP121. Look more excited at the back at 
+the name, can't you?
+
+Well that's Steve Ballmer's thunder for tomorrow night's keynote stolen, 
+slightly. 12.1in screen, 1280x800 multi-touch, Intel Core i5 (really? wow), 
+Windows 7 Home Premium, 64GB SSD, supports Flash 10.1, 802.11n. (Picture at 
+Crunchgear <http://ces.crunchgear.com/wp-content/uploads/2011/01/IMG_1534.jpg>.)
+
+Multiple input – Wacom digitiser pen, wireless Bluetooth keyboard. $999. And 
+now a demo.
+
+14:26: Someone called Gary from Asus's Texan office is demonstrating. He's 
+going to Photoshop a photo he took at Christmas. Notable that he is doing it 
+with a stylus rather than with his fingers. When you see someone demoing a 
+Windows tablet, watch very carefully what input method they choose. It will 
+tell you a great deal. Here, it tells us that fingers are still not recommended 
+input devices for Windows on a tablet.
+
+He's running the A-Team film in the background because he can. Doesn't 
+everyone run a film in the background while they're Photoshopping? No? Obvious 
+stock photo of a model ("she gets her beauty from her mother"). He's filtering 
+it, resizing it, saving it, emailing it, but still using the stylus. Noticeable 
+that he hasn't used his fingers even for a moment; instead he's doing it with 
+the handwriting recognition.
+
+Obvious question: why the hell would you buy a tablet to do a laptop's job? 
+What's the price delta of this compared to a laptop with similar capabilities?
+
+14:30: People afterwards doubt whether it would get three hours' battery life, 
+given that it contains an i5. Still, it would make a very nice lapwarmer.
+
+Next: "Smart mobility meets casual computing." It's a laptop: the Transformer. 
+Quite a thin one. Ah: the screen detaches from the keyboard, and the picture 
+continues. Well, that's because the keyboard is the add-on, I guess. (Shih 
+hasn't explained if that's why.)
+
+Yes, seems the keyboard is a docking station. (Picture at Crunchgear 
+<http://ces.crunchgear.com/wp-content/uploads/2011/01/IMG_1545.jpg>.) $399 
+without the keyboard (er, why would you want it without the useful-looking 
+keyboard?) or $699 with it (what! a $300 keyboard?).
+
+"EeePad Transformer. Its thickness is less than iPad. Two cameras. It can run 
+full 1080p playback. Nvidia Tegra 2 dual-core processor" (that's good) "twice 
+the performance of the iPad A4." Well OK then, show us doing it. Don't just 
+claim it. Ah – demo again.
+
+14:34: Will it be the EeePad against the iPad? Oh, no. It's Gary the Texan 
+again, showing the Android interface and Asus's apps that it's written. DLNA 
+networking to connect to home servers. "Network guys tell me there are so many 
+wireless devices here that the speeds are down," he says and glares at the 
+audience. Well, excuseus for coming along to your press conference.
+
+14:36: So in theory Asus is betting that people will want a really powerful 
+tablet that can be a laptop, or possibly laptop that can be a tablet. It's a 
+nice idea. Except it's an Android tablet, which means that the whole benefits 
+of having a keyboard go away somewhat: Android doesn't run Office, nor even 
+OpenOffice, nor anything you'd identify as a program that can edit Word, Excel 
+or Powerpoint files.
+
+And if it were a Windows tablet, then you'd have the nightmare of its 
+multi-touch unresponsiveness when it was a tablet. It seems such a solid, 
+attractive idea: you have a device where hey! It's a laptop! No! Now it's a 
+tablet! But those two functions each require a different approach, a different 
+operating system. Tablets are not laptops with the keyboard taken away, and 
+laptops are not tablets with an added keyboard.
+ Asus EeePad Slider – for when you can't quite bear not to have a tablet that 
+isn't a laptop? 
+14:38: Next up: the EeePad Slider, "a unique hybrid of tablet and portable PC 
+… so you've got a keyboard all the time." Already I'm starting to think that 
+Asusdoesn't itself know what people want, and is throwing designs at the world 
+in the hope that one of them will prove popular. Is this a good idea? True, 
+there's a risk in only offering one design: you might pick the wrong horse.
+
+But having four different designs? A 7in Android tablet, a 12in Windows 
+tablet, a sometimes-tablet, a never-quite-a-tablet? OK, Shih said that he wants 
+to offer the combination of innovation and choice, but this feels a bit 
+scattered. Offering all of those products, with the different combinations of 
+SKUs (product models) – different RAM, different storage – is the sort of thing 
+that drives supply chain managers up the wall because they can't forecast 
+who'll want what, which inevitably leads to oversupply in some places and 
+shortages (you hope) in others. This is why multiple products that do roughly 
+the same thing is a bad idea: because it leaves you with excess inventory which 
+either has to be sold off or sent to landfill, and either way wrecks your 
+financials.
+
+The Slider will, apparently, run on Android 3.0 "Honeycomb" – really? That's 
+fascinating, because this is the first sighting of Honeycombanywhere to my 
+knowledge – 10in screen, Nvidia Tegra 2 processors, dual cameras, HDMI, USB, 
+card reader.
+
+14:40: Gary the Texan is back to show it off. "I feel like I'm living up 
+here," he says from the stage. Can't quite express how monotone his monotone 
+is. Supremely underwhelming showing of what ought to be amazing: Honeycomb? In 
+the wild? But we're shown nothing that suggests this is really Honeycomb on the 
+machine. It could be Android 2.2. We'd be none the wiser from the demo.
+
+14:43: Shih is talking about something vague to do with the cloud and web 2.0 
+under the title "Triple-Play Digit-Net" (that's what it says on the slide). I 
+don't honestly know what his point is here. It's like when Bill Gates tried to 
+explain the cloud with theworst slide in the world 
+<http://www.flickr.com/photos/niallkennedy/58697220/>. "Together with the 
+silicon brain, together with the human brain, that's the best of Web 2.0," says 
+Shih. To utter silence.
+
+14:46: "We can put the silicon brain into things … but their aim is always to 
+serve PEOPLE!" I'm not quite following. "Where are your friends, where is the 
+parking space... I think this is the real concept of web 2.0." Really, Mr Shih?
+
+"And here I'd like to introduce another concept... through the concept of the 
+interface make the whole of the family … I think each home may need a home 
+CIO." Oh dear – isn't that what good user interface design is meant to make 
+redundant? "Including videoconferencing.. where you go outside and create a 
+video." I'm going to stop typing for a bit until he rejoins the planet.
+
+14:51: Ah. We're back. Short film. "IRIS: Inspirational Research for Immersive 
+Space … what if the device adapts to your work space?" Yes, it's the home of 
+the future – just like that thing you've been seeing for, ooh, the past 50 
+years. It seems to involve a wristwatch that has a detachable screen that can 
+be blown up into a tablet the size of an iPad. That's not far awayat all, is it?
+
+14:53: And he's gone, and we're done. We're perplexed as hell, and we haven't 
+even been given the chance to ask questions. Nor, indeed, to get hands-on. 
+(Ignore any Google results that say "hands-on" relating to this presentation: 
+nobody except the Asus execs got their hands on these products.)
+
+All the devices are being hurried off the stage. We later learn that every 
+single device was taken straight out of the building immediately the talk had 
+concluded – meaning there's no danger just yet of anyone getting their hands on 
+them. Just as good: the electronic press kit handed out at the end includes a 
+picture of the "Transformer", but it's a zero-byte file.
+
+Overall? A strategy without a strategy. Asus doesn't control enough of the 
+supply chain: it isn't improving Android, it can't write software worth a damn, 
+and it's at the mercy of both Microsoftand Google in trying to advance its 
+fortunes. Then again, the hardware-only business isn't that great: itsQ3 2010 
+results 
+<http://www.corpasia.net/taiwan/2357/irwebsite/index.php?mod=financialdetail&id=29>
+ suggest a profit margin of about 5% after tax (which is about half of what 
+you'd aim for as a rule of thumb). Asus is stuck between a rock (Windows) and a 
+hard place (Android); all it can hope for is that others will find it even 
+harder.
+
+OK, well – the rest of CES can surely improve on this.
+ 

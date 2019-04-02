@@ -1,0 +1,83 @@
+
+"The month was March, and the weather damp, cloudy, and cold. The sun not 
+rising before halfpast five, the night perspective looked sufficiently long at 
+halfpast twelve: which was about my time for confronting it."
+
+Charles Dickens was born on 7 February 1812. To celebrate his bicentennial 
+year in 2012, the Charles Dickens Museum and Film London launchedDickens 2012 
+<https://www.theguardian.com/books/2012/feb/07/dickens-200th-birthday-celebrated>
+, a year long international programme of events including readings, film 
+screenings, theatrical performances and exhibitions.
+
+As an agency, we produced the graphic identity and a set of guidelines for our 
+project partners to use, but as we researched Dickens, and the ways in which he 
+worked, we wondered (and wanted to investigate) how he might publish today. 
+Would he serialise his works in news print, or publish on an iPad? A blog, 
+perhaps? We wanted to explore a couple of methods: short run newspapers and a 
+bespokeiPad <https://www.theguardian.com/technology/ipad> reading experience.
+
+Most people are familiar with the classic Dickens (when The Muppets do a 
+rendition of one of your stories 
+<https://www.theguardian.com/film/2012/nov/22/muppets-christmas-carol-review>, 
+you've reached saturation point), but Dickens was a prolific writer, producing 
+15 novels, hundreds of short stories and a huge number of contributions to 
+journals and newspapers. His tireless imagination would keep him awake at night 
+and during one insomnia fuelled episode he wrote Night Walks, a dark and 
+atmospheric account of London after the sun has set. This piece became the 
+focus of our first Dickens 2012 publication.
+ Shad Thames Wharf, London Bridge, from the Dickens Papers – Night Walks app 
+Many of his works were released as instalments in newspapers and it seemed 
+fitting to publish our editions in the same format. However, as Dickens 2012 
+was not solely retrospective but also about Dickens' relevance today, we felt 
+it appropriate to produce a supplementary electronic version as many newspapers 
+and journals do now.
+
+We wanted to create an engaging reading experience for the iPad that would 
+evoke the feel of traditional editorial design and newsprint while also taking 
+advantage of a new format and offering the reader something new. The screen 
+size is obviously smaller but this is offset by not being limited by a page 
+count or print production cost so we were free to focus on the rhythm and pace 
+of the piece without the usual constraints of having to fit within a predefined 
+format.
+
+Achieving an elegant transition between the pages was very important for 
+maintaining a smooth flow, while adding animations and graphical page breaks to 
+highlight certain passages and phrases created a stronger pace. We also needed 
+to select the right background colour to avoid retina burn.
+
+We'd decided to retrace the route Dickens follows in Night Walks to compare 
+how these parts of London look now, and this became the basis for a visual 
+report that runs alongside the main narrative on the app in the form of 
+photographs, films and quotes. Our journey can be accessed by flipping the iPad 
+round into the landscape aspect, and back into portrait to return to the text.
+
+We didn't stay out until sunrise (it was freezing cold that night and we're 
+not insomniacs), but we did stay out until the city had emptied and was at its 
+most spacious. The city is far brighter at night than it would have been at the 
+original time of writing and some of the areas have changed greatly, but there 
+are many similarities to be found in the characters roaming the streets late at 
+night. The two versions aim to give a sense of London at night then and now.
+
+We released the app with the support of Film London and the Dickens Museum, 
+and it was featured in a few publications. The app is free; we wanted it to 
+feel like a celebration of Dickens' work, rather than a money grabbing, in-app 
+purchase product. In order to keep costs low, we developed a simple book engine 
+that took designs directly from Adobe InDesign. This allowed our designers to 
+focus on the look and feel, and our developers to concentrate on making it 
+work. The whole project took about a month to complete.
+
+We estimate we had about 10,000 downloads over the year, which is nice – it's 
+good to get a great read into lots of people's hands. Did we manage to achieve 
+a reading experience that is as good on screen as it is on paper? It's hard to 
+say, because people have such a strong emotional connection with a three 
+dimensional paper format. But we're proud of what we've achieved, and it's an 
+area we want to explore further.
+
+Jon Cefai is creative director at KentLyons <http://www.kentlyons.com/> – 
+follow the agency on Twitter@Kent_Lyons <https://twitter.com/Kent_Lyons>
+
+This content is brought to you by Guardian Professional 
+<http://theguardian.com/guardian-professional>. To get more articles like this 
+direct to your inbox, sign up free to become amember of the Culture 
+Professionals Network <https://register.theguardian.com/culture-professionals/>.
+ 

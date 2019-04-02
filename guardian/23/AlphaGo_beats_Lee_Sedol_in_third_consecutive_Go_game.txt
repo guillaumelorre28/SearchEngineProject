@@ -1,0 +1,51 @@
+
+Google’s AlphaGo computer program has won a third and decisive encounter with 
+a top-ranked player of the Chinese board game Go in a victory marking 
+significant developments in artificial intelligence.
+
+Lee Sedol, who is the world’s second best player of the strategy game, lost 
+three games in a row in Seoul this week, with the latest AlphaGo victory on 
+Saturday handingGoogle <https://www.theguardian.com/technology/google> the 
+best-of-five match.
+
+“I’ve never played a game where I felt this amount of pressure, and I wasn’t 
+able to overcome this pressure,” Lee said at a post-game press conference.
+
+Go has simple rules, but is highly intuitive and complex in practice. 
+Mastering it has been an exceptionally difficult task for even the world’s best 
+IT designers.
+
+“We came here to challenge Lee, to learn from him and see what AG was capable 
+of,” said Demis Hassabis, co-founder of Google’s artificial intelligence 
+business, DeepMind, which created the program.
+
+“AlphaGo controlled the momentum over more than four hours of gameplay, with 
+Lee struggling to maintain territory against the program’s creative approach. 
+Google DeepMind taught AlphaGo to recognise the optimal move in thousands of 
+possible scenarios.”
+
+AlphaGo’s dominance amounts to a significant, and much faster than previously 
+expected, advance in artificial intelligence.
+
+
+Google co-founder Sergey Brin, who was in Seoul to watch the third match, 
+described Go as a beautiful game and said he was excited the company had been 
+able to “instil that kind of beauty in our computers”.
+
+Michael Redmond, one of the match’s commentators and a professional Go player, 
+said some people initially doubted AlphaGo’s abilities. “After three matches 
+and three straight victories, we are convinced,” he said.
+
+AlphaGo won $1m in prize money, which Google DeepMind said would be donated to 
+charities, including Unicef and Go organisations.
+
+“AlphaGo controlled the game amazingly,” said Fan Hui, the European Go 
+champion who was the first professional player to lose to the program when he 
+played it in October.
+
+Hui said the advances in artificial intelligence appeared to bode well for the 
+future of the ancient game.
+
+“We now have this new way of learning about Go. And look how many people are 
+watching this now. More and more people are interested in Go now.”
+ 

@@ -1,0 +1,112 @@
+
+One of the biggest insurance companies in Britain is to use social media to 
+analyse the personalities of car owners and set the price of their insurance.
+
+The unprecedented move highlights the start of a new era for how companies use 
+online personal data and will start a debate about privacy.
+
+Admiral Insurance <https://www.theguardian.com/money/insurance> will analyse 
+the Facebook accounts of first-time car owners to look for personality traits 
+that are linked to safe driving. For example, individuals who are identified as 
+conscientious and well-organised will score well.
+
+Facebook forces Admiral to pull plan to price car insurance based on posts
+ Read more  
+<https://www.theguardian.com/money/2016/nov/02/facebook-admiral-car-insurance-privacy-data>
+The insurer will examine posts and likes by the Facebook user, although not 
+photos 
+<https://www.theguardian.com/technology/2016/oct/18/facebook-hoax-private-photos-public-tomorrow>
+, looking for habits that research shows are linked to these traits. These 
+include writing in short concrete sentences, using lists, and arranging to meet 
+friends at a set time and place, rather than just “tonight”.
+
+In contrast, evidence that the Facebook 
+<https://www.theguardian.com/technology/facebook> user might be overconfident – 
+such as the use of exclamation marks and the frequent use of “always” or 
+“never” rather than “maybe” – will count against them.
+
+The initiative is called firstcarquote and was officially meant to launch this 
+week but that was delayed at the last minute on Tuesday night. It is aimed at 
+first-time drivers or owners – although anyone with a licence can apply. The 
+scheme is voluntary, and will only offer discounts rather than price increases, 
+which could be worth up to £350 a year. However,Admiral 
+<https://www.theguardian.com/business/admiralgroup> has not ruled out expanding 
+firstcarquote.
+
+The rapid growth of social media and personal technology has given insurance 
+companies and employers swaths of data they can access to analyse customers or 
+employees. As well as Admiral’s car insurance scheme, insurers are looking at 
+how they can use the rise ofsmartwatches 
+<https://www.theguardian.com/technology/audio/2016/mar/17/the-future-of-wearable-tech-tech-weekly-podcast>
+ andfitness trackers 
+<https://www.theguardian.com/lifeandstyle/2016/apr/03/fitness-trackers-call-time-watches>
+ to monitor people’s health. For example,Vitality 
+<https://www.vitality.co.uk/rewards/partners/activity-tracking/> is currently 
+selling the Apple Watch 
+<https://www.vitality.co.uk/rewards/partners/active-rewards/apple-watch/> to 
+health and life insurance customers, with the final price dependent on how much 
+exercise customers do while owning the watch.
+
+Admiral says that firstcarquote offers a way for young drivers to identify 
+themselves as safe rather than having to wait years while they build up a track 
+record and a no claims bonus.
+
+Alarmed by Admiral's data grab? Wait until insurers can see the contents of 
+your fridge
+ Read more  
+<https://www.theguardian.com/technology/2016/nov/02/admiral-facebook-data-insurers-internet-of-things>
+Dan Mines, who led the firstcarquote project at Admiral, denied that it was 
+invasive of personal data.
+
+“It is incredibly transparent. If you don’t want to use it in a quote then you 
+don’t have to,” he said. “We are doing our best to build a product that allows 
+young people to identify themselves as safe drivers.”
+
+Mines said Admiral could eventually develop the scheme further, meaning it 
+could include other social media sites and increase the price of insurance for 
+some drivers.
+
+“This is very much a test product for us. This is innovative, it is the first 
+time anyone has done this,” he said. “It is a test, this is early days. The 
+data will only ever provide a discount. We will work through that and learn 
+more.
+
+“I think the future is unknown. We don’t know if people are prepared to share 
+their data. If we find people aren’t sharing their data, then we won’t ever get 
+to consider that [expanding firstcarquote].”
+
+The scheme is based around algorithms that have been developed by Admiral. The 
+technology uses social data to make a personality assessment and then, judging 
+against real claims data, analyse the risk of insuring the driver.
+
+Yossi Borenstein, the principal data scientist on firstcarquote, said its 
+algorithm looked for correlations between social media data and actual claims 
+data. The technology will evolve as firstcarquote attracts customers and 
+gathers more evidence about the correlations, meaning the importance of items 
+identified on social media could change.
+
+Borenstein said: “Just like conscientiousness there are other traits which can 
+be indicative of safe driving. Our algorithm for calculating what ‘safe’ looks 
+like is constantly learning, as we match social data to actual claims data.
+
+“Our analysis is not based on any one specific model, but rather on thousands 
+of different combinations of likes, words and phrases and is constantly 
+changing with new evidence that we obtain from the data. As such our 
+calculations reflect how drivers generally behave on social media, and how 
+predictive that is, as opposed to fixed assumptions about what a safe driver 
+may look like.”
+
+Borenstein insisted that Admiral would not have access to information about 
+what its customers look at on Facebook or what their friends do. The company 
+would only have access to the information gathered during the quote process and 
+would have no ongoing access.
+
+“If this is successful, it could be revolutionary,” he said. “It could be 
+truly transformational.”
+
+An Admiral spokesman said: “The launch of our firstcarquote trial has had to 
+be delayed. We’ve been working closely with Facebook in Europe to get the 
+service ready, and are now addressing a few outstanding issues. We hope that 
+very soon we will be able to offer first-time drivers better deals on their car 
+insurance.”
+ 

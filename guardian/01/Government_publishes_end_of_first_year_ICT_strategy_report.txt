@@ -1,0 +1,95 @@
+
+The government's publication of an end-of-first-year progress report on its 
+ICT strategy shows it saved £159.6m on ICT contracts during the 2011-12 
+financial year, with a further £150m expected to be saved in 2012-13 through a 
+common infrastructure.
+
+In the 12 months from April 2011 to April 2012, the government said, central 
+initiatives contributed to reductions in ICT spend reported by departments 
+including:
+
+• £159.6m by demanding a rigorous business case for any significant ICT spend.
+
+• £140m of the £490m overall savings through centralising procurement of 
+common goods and services.
+
+• £64.2m saved from telecommunications networks budgets by applying better, 
+common standards for the Public Services Network
+
+The report provides an informative snapshot of the government's procurement of 
+ICT, including how it is reducing waste and project failure.
+
+For example, the total number of software licences 'held' in the government's 
+assets and services register is 18.4m, However, the number 'used' is about 12m, 
+indicating that 6m software licences are currently not being used.
+
+The government currently has 84 data centres, with 17% of servers virtualised. 
+In terms of agile project delivery, there are 35 projects using agile 
+techniques.
+
+Across government, there are currently 17 ICT contracts with a lifetime value 
+greater than £100m, accounting for 27% of all active ICT procurements. In all, 
+across government, there are 64 active ICT procurements.
+
+The report's publication coincided with publication of the latest G-Cloud 
+procurement, 
+<https://www.theguardian.com/government-computing-network/2012/may/24/g-cloud-gii-procurement-cabinet-office>
+ which is intended to be more SME-friendly.
+
+Cabinet Office minister Francis Maude said a number of significant successes 
+have been "chalked up", including the launch of the Public Services Network 
+frameworks; the launch of the Government Digital Service; and the creation of 
+the CloudStore.
+
+"We also demonstrate this government's commitment to transparency and openness 
+by the publication for the first time of a range of metrics relating to ICT in 
+government. These will be developed to provide a more consistent benchmark for 
+future years, demonstrating how uptake of the strategy is progressing," he said.
+
+"The next set of metrics will be published in October 2012, and we will report 
+on progress again in spring 2013."
+
+In its progress report, the government said that over the past year, it has:
+
+• Established the CIO Delivery Board, the governance body responsible for 
+implementation of the strategy (April 2011).
+
+• Launched the Public Services Network (PSN) frameworks (September 2011) and 
+awarded the PSN Connectivity Framework, which have generated savings of £64.2m 
+for 2011-12 (March 2012).
+
+• Published more detailed strategies on specific areas, including capability, 
+cioud computing, end user devices (EUDs), and green ICT (October 2011).
+
+• Launched the Government Digital Service (GDS), a team within Cabinet Office 
+tasked with transforming government digital services (December 2011).
+
+• Issued the first cloud ICT services framework (October 2011) and created the 
+CloudStore, a way for the public sector to buy ICT products and services via 
+the cloud (February 2012).
+
+The report says that improving the way the government sources ICT through 
+centralised category management supports its aim of becoming a single customer 
+that can leverage its buying power to drive down costs. As of March 2012, the 
+report says, centralised category management of ICT has delivered £140m price 
+savings against the 2009-10 baseline in central government
+
+Citing a National Audit Office report that highlighted specific challenges 
+with implementation, the report argues that the government's chief information 
+officer (CIO) Andy Nelson and the CIO Delivery Board are taking action, by 
+"establishing new approaches to resourcing projects; and by putting in place 
+stronger programme and project management. This will ensure that progress 
+continues to be made and that, collectively, government implements its ICT 
+strategy, enabling efficient, cost-effective public services which are 
+responsive to the needs of citizens and businesses."
+
+The report also highlights the government's closer engagement with SMEs, with 
+the proportion of central government direct spending with SMEs across all 
+procurements - including ICT - on track to double, from 6.5% of direct spend in 
+2009-10, to 13.7% (year to date) for 2011-12.
+
+This article is published by Guardian Professional. For weekly updates on 
+news, debate and best practice on public sector IT,join the Guardian Government 
+Computing network here 
+<http://reg.guardian.managemyaccount.co.uk/gov-computing/start.php>.
+ 

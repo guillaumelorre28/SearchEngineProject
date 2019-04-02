@@ -1,0 +1,88 @@
+
+How many units of alcohol do you drink each week? It’s a question most people 
+stumble over.
+
+It’s not easy to monitor alcohol intake. So often a doctor asks and the 
+patient tries to quickly calculate the recommended weekly units, before 
+settling on a slightly lower figure. It’s an issue too for those who want to 
+figure out whether they have reached drink-driving limits. But tech companies 
+claim to have a solution to this problem.
+
+The San Francisco-based BACtrack, for example, makes breathalysers for law 
+enforcement agencies. But recently it won a$200,000 (£136,000) government prize 
+<https://www.nih.gov/news-events/news-releases/niaaa-selects-winners-its-wearable-alcohol-biosensor-challenge>
+ for an alcohol-monitoring device of a different kind: one that users can apply 
+to their bodies.
+
+Skyn, BACtrack’s winning entry, looks like the sort of wristband runners wear 
+to measure their speed and heartbeat – but it measures the body’s alcohol 
+content. Three quarters of an hour after drinking, the Skyn’s wearer can see 
+their blood alcohol content (BAC) on the wristband.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fsustainable-business%2F2016%2Fmay%2F28%2Fwearables-apps-problem-drinking-alcohol-alcoholics-bactrack-skyn%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F8b108ee78aea7a80fb4dafdfbde455f3e3be2f53%2F0_0_1484_1238%2F1484.png>
+Twitter  
+<https://twitter.com/intent/tweet?text=Slap%20on%20the%20wrist%3A%20can%20new%20wearables%20help%20tackle%20problem%20drinking%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fsustainable-business%2F2016%2Fmay%2F28%2Fwearables-apps-problem-drinking-alcohol-alcoholics-bactrack-skyn%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Slap%20on%20the%20wrist%3A%20can%20new%20wearables%20help%20tackle%20problem%20drinking%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fsustainable-business%2F2016%2Fmay%2F28%2Fwearables-apps-problem-drinking-alcohol-alcoholics-bactrack-skyn%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F8b108ee78aea7a80fb4dafdfbde455f3e3be2f53%2F0_0_1484_1238%2F1484.png>
+ BACtrack Skyn device with app Photograph: BACtrack 
+The prototype device, which will be available at the end of the year and 
+retail for $99 (£68), works by tracking ethanol molecules escaping through the 
+skin. It’s intended for “serious use cases – people with a serious alcohol 
+issue who could benefit from continuous, non-invasive monitoring,” says Keith 
+Nothacker, BACtrack’s president and CEO.
+
+“Having a low-cost, small, discreet, wearable can dramatically simplify 
+treatment for millions of people ... Imagine going out for drinks and your 
+smart watch displaying your estimated BAC. No pausing to take a breath test – 
+the result is just there, continuously.”
+
+The competition won by Skyn was organised by the National Institutes of Health 
+(NIH) in the US. That a government agency is looking to incentivise 
+alcohol-measuring gadgets suggests that the US government is trying to find new 
+ways of preventing alcohol-related diseases, which causeabout 88,000 deaths 
+<https://nccd.cdc.gov/DPH_ARDI/Default/Report.aspx?T=AAM&P=f6d7eda7-036e-4553-9968-9b17ffad620e&R=d7a9b303-48e9-4440-bf47-070a4827e1fd&M=AD96A9C1-285A-44D2-B76D-BA2AE037FC56&F=&D>
+ each year in the country.
+
+It is also a nod to the fast-growing market for alcohol-measuring apps and 
+gadgets. Among the many iPhone apps now available is IntelliDrink 
+($2.99/£2.29). Users enter the number of drinks they are consuming and the app 
+calculates their BAC based on their age, weight, height, gender, drinking 
+frequency and stomach contents. It can also be set to alert a friend when the 
+user has reached a certain alcohol level.
+
+Another iPhone app, R-U-Buzzed?, measures the user’s alcohol level using 
+height and weight in addition to the amount of alcohol consumed, and flashes 
+“You’re buzzed” when they reach the driving under the influence (DUI) level.
+
+In Sweden, Alcosystems, a company working in collaboration with a teaching 
+hospital has developed awireless, fuel-cell powered breathalyser 
+<http://www.techworld.com/news/personal-tech/swedish-firm-develops-wireless-breathalyser-for-android-ios-3495412/>
+ connected to an app, which recovering alcoholics are using several times a day 
+to monitor their progress. The device is available for consumers and companies 
+too. However, this is a relatively expensive option – while the app is £1.49, 
+the breathalyser is €229 (£175).
+ Demonstration of Alcosystems iBAC breathalyser for consumers 
+The apps and gadgets form a useful new resource, says professor Eileen Kaner, 
+chair of public health and primary care research at Newcastle University: “Many 
+people drink heavily but don’t want to talk to their doctor about it. And a lot 
+of patients worry about taking up too much of their doctor’s time trying to 
+figure out how much they drink. Gadgets are useful in such cases.”
+
+Indeed, many people consciously or unconsciously under-report their drinking 
+in conversations with their doctor, and often have no way of backing up their 
+self-reported drinking habits. “A product like BACtrack Skyn helps people 
+become more aware of their alcohol consumption habits,” says Nothacker.
+
+While apps and gadgets are no substitute for doctors and nurses, Kaner says 
+they can help people find out more about their behaviour,. “A very small part 
+of the population are alcoholics, but a much larger part are heavy drinkers. 
+Tech solutions can help them address potential health problems before it’s too 
+late.”
+
+Some are more sceptical. “There’s no convincing evidence that tech gadgets are 
+better than older techniques in changing behaviour,” says Professor Matt Field 
+of the UK Centre for Tobacco andAlcohol 
+<https://www.theguardian.com/society/alcohol> Studies (UKCTAS) at the 
+University of Liverpool. Besides, he adds, in most countries DIU levels are so 
+low that it’s safer not to drink at all.
+ 

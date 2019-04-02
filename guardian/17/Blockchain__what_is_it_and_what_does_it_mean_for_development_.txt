@@ -1,0 +1,131 @@
+
+What is it?
+
+Blockchain is a digital ledger that provides a secure way of making and 
+recording transactions, agreements and contracts – anything that needs to be 
+recorded and verified as having taken place.
+
+However, uniquely, rather than being kept in one place like the more 
+traditional ledger book, the database is shared across a network of computers. 
+This network can encompass just a handful of users, or hundreds and thousands 
+of people. The ledger becomes a long list of transactions that have taken place 
+since the beginning of the network, getting bigger over time.
+
+How do you use it? 
+
+Blockchain runs on specialised computer software that operates behind the 
+scenes, automatically distributing information to the database as new 
+transactions are made. Most individual users will not see a blockchain 
+performing and this instantaneous nature means there is little to no window of 
+time for someone to alter a transaction before it is recorded on to the ledger. 
+Blockchain software is an area of experimentation and in June, a market 
+assessment estimated that$1bn would be invested in blockchain technology in 2016
+ 
+<https://www.finextra.com/newsarticle/29093/2016-wall-street-blockchain-investment-to-top-1bn>
+ alone.
+
+How is it secure? 
+
+A blockchain database consists of blocks and transactions. Blocks contain 
+batches of transactions that are “hashed” and encoded. Each block contains the 
+hash of the block before it, which links the two and forms the chain. This 
+process validates each block, all the way back to the original, and is integral 
+to the database’s security.
+
+The ultimate aim would be to track every pound in aid, from donor to recipient
+
+When a transaction takes place, its details are encrypted and a unique 
+multiple-character transaction number is generated. Instead of other users in 
+the blockchain being able to see the exact details of the transaction, this 
+number is recorded in the ledger as a placeholder. All the users of the network 
+will be able to see that the transaction has taken place but only the parties 
+involved in the transaction can access and view its details.
+
+All this makes any fraudulent activity easier to spot. An external hacker 
+would have to gain access to every computer that holds a copy of the blockchain 
+database, and at the same time, in order to tamper with it.
+
+ What is it used for?
+
+Blockchain technology has been around for a number of years and its most 
+well-known use so far isBitcoin <https://bitcoin.org/en/>, the virtual currency 
+that came to prominence in 2008. The uses of blockchain are not limited to 
+financial transactions, though, and enthusiasts are looking into other ways 
+applications for the technology, especially for the types of transactions where 
+there are often disputes or trust issues, such as with land rights.
+
+What does it mean for development?
+
+As an emerging technology, blockchain enthusiasts are hopeful it could be the 
+next big development disruptor. In providing a transparent, instantaneous and 
+indisputable record of transactions, its potential to remove corruption and 
+provide transparency and accountability is one area of intrigue. But there are 
+still many questions around how to apply the technology. Does blockchain really 
+meet a need that is not already being served? And is there a market where it 
+serves a purpose?
+
+How could it be used in the sector?
+
+Towards the end of last year, the Start Network <https://startnetwork.org/> 
+announced a project to trial how blockchain technology can speed up the 
+distribution of aid funding and trace how it is spent. The ultimate aim would 
+be to track every pound in aid, from donor to recipient.
+
+Blockchain could also be used for land tenure and property rights. 
+Traditionally, governments keep records of who owns a certain piece of land or 
+property, and the owner may or may not have a piece of paper to prove it. But 
+government records can be lost or manipulated, or the government might have 
+issued a deed to someone else for the same piece of land so two people could 
+claim ownership for the same plot. The blockchain, however, could function as a 
+neutral broker to determine who owns what; the chain could prove which parties 
+are involved and what they agreed to as the original contract would have been 
+verified by a blockchain database, and stored securely on the ledger.
+
+Would blockchain work in a country where the government frequently shuts down 
+the internet? Probably not
+Ben Mann 
+Development Alternatives Incorporated <https://dai.com/> (DAI) is also looking 
+into how blockchain technology can be used in electronic medical records, which 
+are becoming more common around the world. “There are so many people involved 
+in the healthcare process for a single patient – hospitals, doctors, insurance 
+companies and, in some cases, the government – so how do you make sure those 
+records remain secure, encrypted, and that they’re not lost or corrupted?” says 
+Ben Mann, global practice specialist at DAI. “Blockchain can act as an 
+encryption process so that documents can be shared securely, and also ensure 
+that documents are not altered.”
+
+What are the drawbacks?
+
+In the development space, there are concerns over whether the technology is 
+appropriate. Blockchain is resource-intensive by its nature; distributing a 
+common digital ledger across a network requires many servers, computers and 
+people. “Would blockchain work in a country where the government frequently 
+shuts down the internet, where there is civil unrest, or poor energy 
+infrastructure and rolling brown outs? Probably not,” says Mann.
+
+“We know that some governments struggle to equip their staff with basic IT 
+equipment, let alone run expensive programmes on them. Any blockchain 
+technology in this setting would need to be subsidised by development partners 
+and donors … and that raises questions around sustainability.”
+
+Should we be using blockchain?
+
+In January 2016, the UK’s chief scientific adviser urged the government to 
+adopt the technology, and companies such as Microsoft are developing their own 
+blockchain services. But, like any nascent technology, there are still kinks to 
+work out, such as those around cultural acceptance and uptake, building the 
+right infrastructure, and making sure the right levels of regulation are in 
+place.
+
+“Bitcoin is the one solid, mostly-undisputed success story of blockchain, but 
+there are lots of obstacles to come and we still don’t know if it can stand the 
+test of time,” says Mann. “We’re still in the exploratory, Wild West phase of 
+blockchain development but I am hopeful that it can serve a purpose.”
+
+Is your development or humanitarian organisation using or investing in 
+blockchain? Tell us how you’re using the technology in the comments below.
+
+Join our community <https://register.theguardian.com/global-development> of 
+development professionals and humanitarians and follow @GuardianGDP 
+<https://twitter.com/GuardianGDP> on Twitter. 
+ 

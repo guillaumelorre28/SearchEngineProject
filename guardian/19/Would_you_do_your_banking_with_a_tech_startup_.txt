@@ -1,0 +1,160 @@
+
+Banks are boring, for a good reason. The last thing you want to hear from the 
+organisation you’ve entrusted with your money is their exciting plans for how 
+to shake up the world of finance. Generally, you want a beige person in beige 
+clothes gesturing to whatever is the digital equivalent of a big vault filled 
+with gold. It’s boring, it’s reassuring, it’s safe.
+
+Banks are, in short, the opposite of a tech startup. So a tech startup wanting 
+to take on the banks on their own turf has its work cut out for it.
+
+But that’s the goal of London-based firm Monzo (née Mondo: the company had to 
+change its name this year after a trademark challenge). The company doesn’t 
+just want to become a new bank, though. Itwants to become the Facebook of 
+banking 
+<https://www.theguardian.com/money/2015/jun/29/digital-banking-mondo-hopes-to-become-the-google-or-facebook-of-the-sector>
+, with a billion users worldwide, bypassing much of the traditional banking 
+infrastructure in the process to become something the world has never seen.
+
+That’s a long way away, though. In the present, Monzo is operating in a 
+limited beta test, with 50,000 cardholders using the service through pre-paid 
+debit cards. It just got a restricted banking licence, putting it on the path 
+to opening up a full current account service in early 2017 (as well as granting 
+it deposit protection, faster payments and direct debits).
+
+That puts it a step behind some other so-called challenger banks, including 
+Atom and Tandem, which received their own licences this year. Nonetheless, 
+Monzo has received the lion’s share of the attention given to the sector, owing 
+to the scale of the firm’s ambition.
+
+Building a bank from the ground up
+
+It’s not just a result of founder Tom Blomfield’s goal “to get to 1 billion 
+customers”, and subsequent plans for international expansion before the company 
+has even fully launched in the UK (Monzo is “testing US dollar and Euro cards 
+right now”, he says). It’s also because, where its competitors have largely 
+been positioning themselves as innovative banks, focusing on the cost savings 
+afforded without the overheads of branches, and highlighting their competitive 
+deals, Monzo has focused more on the wider possibilities offered by building a 
+bank from the ground up in the 21st century.
+
+Blomfield’s ambition can get ahead of him at times, leaving it hard to 
+disentangle possibilities from plans, and plans from actually existing 
+products. So here’s what Monzo is today: a pre-paid MasterCard, issued by 
+Wirecard Solutions, with deep hooks into a companion app which offers a 
+real-time log of your spending and control over how the card is used.
+
+The real-time log is impressive for anyone who’s had to wait days for online 
+banking to update to find out how much they spent after a boozy night out, and 
+Blomfield proudly points out that it would be impossible for a “legacy bank” to 
+do the same. “If you slap this app on top of NatWest’s systems, the phone 
+wouldn’t buzz when you make the transaction. It would buzz three days later, 
+when the bank finally posted to its ledger.”
+
+Other pre-paid accounts are more real-time, and Blomfield concedes that 
+American Express also offers that speed of response. But, he says, “the amount 
+of information that we ingest and show is a hundred times greater” than even 
+new payment networks. That means that not only can the app show you what you 
+spent, it can tag it to the physical location of the store, pull the logo of 
+the brand, and let you sort your spending by location, category, or cost.
+
+He pulls out his phone, and shows me an example: “This McDonalds. I was still 
+on holiday at the time, so it’s tagged it as holidays. The fact that it can 
+geolocate it, show the address, the name, the logo. It tells me I’ve been, 
+embarrassingly, four times to the McDonalds, and spent £25. The fact that you 
+can search and say to show me everywhere you’ve been in San Francisco. The data 
+isn’t there in a legacy bank. You can put it in a shiny app, but the actual 
+functionality isn’t there.”
+
+There are other draws, concerning safety and security. The app allows a user 
+to freeze and unfreeze cards at will – perfect for those “where’s my wallet?! 
+Oh, there it is” moments – and can report when and why transactions fail as 
+well as when they succeed.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F19%2Fmonzo-banking-tech-startup-current-account%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F57434c74aaafaf70c94b7f4ed5da59a6e12e813a%2F0_122_3500_2100%2F3500.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Would%20you%20do%20your%20banking%20with%20a%20tech%20startup%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F19%2Fmonzo-banking-tech-startup-current-account%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Would%20you%20do%20your%20banking%20with%20a%20tech%20startup%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2016%2Foct%2F19%2Fmonzo-banking-tech-startup-current-account%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F57434c74aaafaf70c94b7f4ed5da59a6e12e813a%2F0_122_3500_2100%2F3500.jpg>
+ A customer uses an ATM machine outside National Australia Bank in Sydney. Uk 
+banks charge for overseas transactions, whereas Monzo does not. Photograph: 
+Saeed Khan/AFP/Getty Images 
+For users of Monzo today, then, that’s most of the tech on offer. The other 
+major draw is the fact that the service offers fee-free, 0% commission use 
+overseas, something Blomfield gets quite excited about as he checks his own 
+bank account for comparison. “Let’s see how much Natwest charge me on similar 
+transactions. ATM transaction … oh my god. So, for a £100 transaction, about 
+£5.60 in charges, and then an exchange rate that’s way off.
+
+“And we charge nothing. There are some companies where that’s a USP, but I 
+question whether that’s a long-term viable business model. The trend with FX 
+[foreign exchange] is it will go very low, or zero, and I think the bank of the 
+future needs to offer FX at basically zero, but it’s very hard to build a 
+defensible model around zero price, because once you have, where do you go?”
+
+Where you go is where the distinction between plans and possibilities comes 
+in. Here’s the plan: a full current account service, launching in 2017, that 
+takes Monzo from being a curiosity to something people can genuinely have at 
+the heart of their financial lives. It also gives the company the chance to 
+actually start making revenue, as those accounts will come with an overdraft 
+facility.
+
+Notably, Monzo’s genesis as a full bank both begins and ends there. The 
+company has no ambitions to grow beyond the current account, to offer the full 
+panoply of financial services, from mortgages and loans through savings 
+accounts and investment advice. Instead, Blomfield wants the end stage of Monzo 
+to be the hub for a 21st century “portfolio bank”, letting customers easily 
+hook in, say, FX transactions from TransferWise, online investment from Nutmeg, 
+and loans from FundingCircle.
+
+The possibilities are endless – kind of
+
+That’s the plan. The possibilities, though, are … well, not endless. But 
+there’s a lot of them. Blomfield enthuses about the doors unlocked by access to 
+financial data alone: your bank could compare your heating bill with those of 
+comparable houses, and automatically notify you if it’s found a better deal. 
+With an open-access finance infrastructure, it could even switch for you, just 
+by sending an API call to British Gas.
+
+And while the lean model of Monzo leaves no room for simple offers like 
+cashback or reward points (something which causes the departure of around 5% of 
+customers, Blomfield says, who quit to return to using American Express cards 
+for the majority of their spending), there’s the possibility of smarter deals 
+that offer the same premium to the customer. He likens it to the advertising 
+world before Google and Facebook came on the scene, when advertisers would 
+struggle to discover the return on their investment. Now, advertisers pay less 
+to advertise more effectively, customers get more relevant ads – and Google and 
+Facebook make billions.
+
+Blomfield also wants Monzo to become the first bank to fully leverage the 
+network effect of the internet: the characteristic, shared by sites like 
+Facebook and technologies like the telephone, which means they become more 
+useful the more people use them. He’s got small ideas to start, like the 
+ability to split bills automatically between every Monzo user at the meal at 
+the point of payment, but they’re already very different from what the wider 
+banking industry expects. It’s not normal to try to get your friends to switch 
+to your bank so you can both use a cool new feature, but Monzo hopes to change 
+that.
+
+The question for the bank’s future is how many of those possibilities can 
+crystallise into plans, and then projects, and then, eventually, features. That 
+very uncertainty is what makes Monzo a tech company, not a bank: as Blomfield 
+puts it, “most people don’t worry that their bank will announce one day that 
+it’s pivoting to become a social network for cats.” Not that Monzo will make 
+that change; but Blomfield says that he would be surprised if it was 
+substantially the same company in 10 years as it is now.
+
+For some, that will be terrifying to hear from someone who is simultaneously 
+pitching to hold all their money and route all their transactions. For others, 
+it’s the point.
+
+“When we launched,” Blomfield says, “the first three or four thousand people, 
+they had to physically come to our office and actually hear a presentation from 
+me. I stood up and said ‘it’s not ready yet. This is not a bank account, it’s a 
+beta of a bank account, it’s a pre-paid card. Don’t rely on it, always carry a 
+back up, it may break, but as a result, you get to experience a taste of the 
+future.’”
+
+The pitch worked on me. I have a Mondo card in my wallet right now. Who 
+doesn’t want a taste of the future?
+ 

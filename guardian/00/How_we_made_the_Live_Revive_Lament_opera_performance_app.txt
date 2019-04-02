@@ -1,0 +1,98 @@
+
+Silent Opera's latest production, Live/Revive/Lament 
+<http://www.silentopera.co.uk/future.html>, is a trio of short operatic 
+installations that take place in three different performance spaces. The 
+performers – an actor, a dancer and an opera singer – interpret the sound 
+worlds at each place, simultaneously, before it's all change and they move on 
+to the next one. As an audience member, you can either follow a single 
+performer around the three story sections or stay put, for example seeing how 
+the dancer or the opera singer might interpret what the actor just heard.
+
+The purpose of the app for Live/Revive/Lament is to connect the audience with 
+the performance. As a company, we think of technology as another performer (a 
+very flexible one) and in this case, the app was to be the opera's guide: the 
+impartial ferryman.
+
+So, how does it work? When you reserve your space for the event, you are 
+instantly provided with a unique QR code that is sent to you via email. This is 
+your ticket and proof of purchase, as well as your entry into the 
+Live/Revive/Lament experience. It leads you to the app, an all-in-one 
+performance experience: you can click on options to view information about 
+cast, crew, the company and the show, as well the map of the current 
+performance space. From the map, you can tap a graphic representation of each 
+section to access video and audio from that section from previous performances, 
+hopefully informing your choice of how to watch the show.
+
+Our very first move was to make this a web app. Applying to the App Store had 
+a long lead time and it would have been difficult to update content as often as 
+the performance requires. A web app on the other hand provides flexibility in 
+editing, sales and use of third-party tools such as video and audio hosting.
+
+Once we knew that we would be going ahead with a web-based app, we had a clear 
+path of research and development, focused mainly on the quality and speed of 
+streaming of each section's audio and video. Especially sound, as it plays such 
+a huge part in the audience's enjoyment of opera.
+
+The live nature of the project – streaming material, maps and info that need 
+to be updated for every performance – were big considerations, and a web app 
+seemed the clearest way to accommodate that need for constant updates. However, 
+that meant another big set of challenges; we needed a way to deliver this 
+content across large spaces that may or may not have any existing Wi-Fi access. 
+In some spaces, there were no 3G/4G capabilities or even a mobile tower signal.
+
+We considered embedded video and audio paired with a caching system so that 
+audience members could download all of the content pre-show, for example when 
+connected to the Wi-Fi in the foyer, which meant they could take the whole app 
+with them through the performance.
+
+We tried a web server, signal buffers and even considered satellite broadband 
+providers to take our own internet access anywhere the show went. But having 
+tried caching pre-recorded material for our Aldeburgh performance and using 
+lower-bandwidth-consumption social media at our Saatchi Gallery performance, 
+we're now looking at our own server hosting for the future.
+
+With our own server, we'd be able to guarantee access and speed to our 
+audience members every time. Eventually, the server will also host the app and 
+all video and audio streaming that comes with it. That variation in 
+environment, the system having to be totally portable and dynamic, is probably 
+the biggest hurdle in making the whole thing run smoothly.
+
+One of the striking things about our app is how it subverts tradition; there's 
+such a scarcity of mobile technology being used within performance; just think 
+of the amount of times you've been asked to switch off your phone at a show. 
+Our app isn't a side element, it's meant to be used with and during the 
+performance.
+
+The feedback has been really positive and we've been able to improve a lot. I 
+wouldn't have thought to add adesktop-optimal version 
+<http://www.live-revive-lament.com/> if an audience member hadn't asked to 
+watch one pathway of the show from home later (she didn't have a smartphone). 
+The stats have been encouraging and it spurs us on to create more exclusive 
+content for ticket buyers prior to the show, such as secret clues and 
+background info, knowing that people are interested in checking out the lay of 
+the land before attending.
+
+App facts
+
+Length of the project: six months' development before first launch; research 
+and development ongoing
+Size of the team: for the app, one director, one sound designer, one art 
+designer, one tech designer/programmer and one producer
+
+More App stories
+
+• How we made the Lumo Deliveries Inc game for mobile 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/jun/13/how-we-made-lumo-deliveries-inc-game>
+• How we made kscope, an image-sharing app for uni applicants 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/jun/27/how-we-made-kscope-app-university>
+• How we made the Curiator iPhone app 
+<https://www.theguardian.com/culture-professionals-network/culture-professionals-blog/2014/may/30/how-we-made-curiator-iphone-app>
+
+Ziggy Jacobs is technical designer at Silent Opera 
+<http://www.silentopera.co.uk/> – follow the company on Twitter @SilentOpera_ 
+<https://twitter.com/SilentOpera_>
+
+Join our community of arts, culture and creative professionals by signing up 
+free to theGuardian Culture Pros Network 
+<https://register.theguardian.com/culture-professionals/register/>.
+ 

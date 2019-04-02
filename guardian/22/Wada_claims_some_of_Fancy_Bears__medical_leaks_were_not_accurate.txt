@@ -1,0 +1,58 @@
+
+The World Anti-Doping Agency <https://www.theguardian.com/sport/wada> has 
+indicated thehacker group Fancy Bears 
+<https://www.theguardian.com/sport/2016/sep/19/mo-farah-named-fancy-bears-leak> 
+may have doctored or fabricated some of the medical documents of athletes that 
+it has released.
+
+Wada <https://www.theguardian.com/sport/wada> released an update on Wednesday 
+into its own cyber security investigation, reporting that a Rio 2016 section of 
+its anti-doping administration and management system (ADAMS) was accessed after 
+a “spear phishing” attack.
+
+Such an attack involves tricking the recipient into giving away details such 
+as usernames and passwords, and Wada said several of its and the International 
+Olympic Committee’s email accounts were targeted, giving hackers means to 
+obtain the confidential records of Rio competitors.
+
+A host of major names from world sport have seen personal information dumped 
+into the public domain, includingAlistair Brownlee 
+<https://www.theguardian.com/sport/alistair-brownlee>, Mo Farah 
+<https://www.theguardian.com/sport/mo-farah>, Laura Trott 
+<https://www.theguardian.com/sport/laura-trott> and Sir Bradley Wiggins 
+<https://www.theguardian.com/sport/bradleywiggins>, by hackers who are believed 
+to be Russian.
+
+Some of the information released may not be genuine, however, according to 
+Wada.
+
+The agency said in a statement: “Wada has determined that not all data 
+released by Fancy Bears [in its PDF documents]accurately reflects ADAMS data. 
+However, we are continuing to examine the extent of this as a priority and we 
+would encourage any affected parties to contact Wada should they become aware 
+of any inaccuracies in the data that has been released.”
+
+Wada, in its update, said “multiple” visits by the hackers between 25 August 
+and 12 September led to the leaking of private medical details that showed when 
+therapeutic use exemptions (TUEs) were granted. TUEs allow athletes to take 
+medicine that otherwise would be banned by Wada, and stringent conditions apply 
+to their use.
+
+Wada said it had taken steps to tighten security within ADAMS, including 
+deactivating all Rio 2016 accounts and bringing in outside forensic experts to 
+determine the degree of intrusion and quash any future threat.
+
+The agency also said some ADAMS users have received rogue messages, which 
+misleadingly appear to come from Wada’s deputy director general, Rob Koehler, 
+asking the recipient to speak to him regarding the cyber attacks.
+
+Wada is based in Montreal, Canada, and oversees and co-ordinates sport’s 
+anti-doping efforts.
+
+Wednesday’s statement urged athletes with concerns about hacking to get in 
+touch, and added: “Wada thanks athletes and ADOs [anti-doping organisations] 
+for their understanding and support.
+
+“Wada is taking this situation, concerning athlete privacy, very seriously and 
+will continue to provide relevant updates as circumstances evolve.”
+ 

@@ -1,0 +1,227 @@
+
+Did Andy Rubin jump, or was he pushed out of the top position running Google's 
+Android division - the part of the company developing the platform on which the 
+company's future will depend? Andnow he's gone 
+<https://www.theguardian.com/technology/2013/mar/13/andy-rubin-google-move>, 
+what happens?
+
+It's pretty easy to work out that Google's chief executive Larry Page wanted 
+change - and that for whatever reason, Rubin wasn't willing to be part of it.
+
+That emerges from two things. First is the choice of person to replace Rubin - 
+Sundar Pichai, who has previously led the development of the Chrome browser, 
+the Google apps on Apple's iOS platform, and - crucially - the desktop 
+ChromeOS. Second is Page's remark that Pichai's new job is "doubling down on 
+Android as we work to push the ecosystem forward", according to thenote from 
+the chief executive 
+<http://googleblog.blogspot.co.uk/2013/03/update-from-ceo.html>. 
+
+Meet the new boss, not like the old boss
+
+Pichai's presence tells you that Page wants change to happen. He wants a 
+focus, and someone who can really drive change. But what change? What pushing 
+is there needed on the ecosystem? You might think that Android is huge enough. 
+But Page clearly isn't satisfied. The signs are that Google wants a few things: 
+to monetise Android better (as evidence, see how Google isbanning ad-blocker 
+apps from the Google Play store 
+<http://phandroid.com/2013/03/13/google-play-store-ad-blocker/>) and to control 
+its development even more tightly. The idea that Android is "open" in the way 
+that, say, Linux is, doesn't hold together. The "open" tag is a story to 
+contrast Android with iOS and Microsoft's offerings. The reality is that Google 
+decides precisely where Android is going, and what it's going to do.
+
+So what does Page, and now Pichai, want Android to do? To answer that you have 
+to look at what Google wants, first of all; and then at how it can accomplish 
+that throughAndroid <https://www.theguardian.com/technology/android>.
+
+What does Google want? Nothing less than everything. All the information it 
+can possibly get about you and what you're doing and about to do. It wants that 
+all the time. That's the meaning of "organise the world's information". You're 
+part of the world; so is what you do. Android phones collect that (with your 
+permission) - that's howGoogle <https://www.theguardian.com/technology/google> 
+Now knows what you might want to do next.
+
+But the desktop space is also a big and still-important part of the world of 
+computing. Pichai has been very successful in drivingChrome 
+<https://www.theguardian.com/technology/chrome> from nowhere to most-used 
+browser (in a number of countries). Google is carefully positioning ChromeOS, 
+its desktop operating system, to drive a wedge into the chunk of Windows users 
+(or organisations) who can put all their work into the cloud and only need to 
+sync from the desktop occasionally.
+
+That's why there's a lot of speculation that Pichai will merge Android and 
+ChromeOS into a single OS - and that the reason why Rubin left (jumping or 
+being pushed) was that he wasn't willing, or seen as able, to effect that 
+change.
+
+Rubin said, back when ChromeOS was announced in 2009, that different 
+technologies were needed for different products. But at exactly the same time 
+Sergey Brin, Google's co-founder,suggested 
+<http://news.cnet.com/8301-30684_3-10402653-265.html> that the two OSs would 
+"likely converge over time" because they have Linux (OS) and WebKit (browser) 
+code in common.
+
+And here is what Google itself said when asked back then - four years ago - 
+about how and when the two might become one. "As Sundar [Pichai, Google's vice 
+president of product management] said in his presentation, we're reaching a 
+perfect storm of converging trends where computers are behaving more like 
+mobile devices, and phones are behaving more like small computers. Having two 
+open source operating systems from Google provides both users and device 
+manufacturers with more choice and helps contribute a wealth of new code to the 
+open source community."
+
+Two become one
+
+And now, the coalition. As Henry Blodget of Business Insider commented 
+<http://twitter.com/hblodget/status/311935323426914304>: "Sounds like Google 
+wants to unify Chrome and Android, and the Chrome boss won."
+
+But having one OS, of course, would simplify lots of things. The question is, 
+can it be done? Possibly Google, which works on multi-year strategies relating 
+to what it sees as inevitable technology developments (through Moore's Law and 
+others relating to screens and networks) is looking forward to a world where 
+all computers, including desktop machines, have touchscreens; then it's just a 
+question of upscaling (or downscaling) apps depending on what screen you're 
+running on. Android on the desktop? Not impossible if you're running a 
+touchscreen. And astablets become a bigger part of the computing mix 
+<https://www.theguardian.com/technology/2013/mar/13/tablets-challenge-pc-sales-2017-android>
+ over the next few years, a single OS makes a kind of sense.
+
+After all, Apple's move from Lion (Mac OS X 10.7) to Mountain Lion (10.8) was 
+described by Steve Jobs to developers as "bringing iOS to the desktop", while 
+Windows 8 and Windows Phone obviously share a heritage in design thinking.
+
+So it may not be a question of if, but when, Android and ChromeOS get crunched 
+together. And perhaps that's something that Rubin didn't want to oversee. 
+Certainly it has the feeling of a circus act - riding two galloping horses in 
+front of everyone. Falling off would hurt.
+
+Rubin seems to see himself less as a manager of that sort of project, and more 
+as an "entrepreneur". The Wall Street Journalreports 
+<http://online.wsj.com/article/SB10001424127887324077704578358420185789616.html>
+ that he tried to run the Android division more like a startup than a division 
+within a giant company - and that that caused friction when he declined to let 
+other Google products be preinstalled on Android.
+
+The obvious case in point: the mobile version of the Chrome browser, which 
+collects more data than the Android browser that Rubin's team built, and so is 
+better for Google's business. Rubin resisted making that the Android default. 
+Pichai won't.
+
+Rubin was also involved in the acquisition of Motorola Mobility in 2011; he 
+was the one whogot in touch with Motorola's management in July 2011 
+<https://www.sec.gov/Archives/edgar/data/1495569/000119312511246952/d224940dprem14a.htm#tx224940_40>
+ to suggest the idea, after Google had failed to buy the patents from theNortel 
+Networks bankruptcy sale 
+<https://www.theguardian.com/technology/2011/jul/01/nortel-patents-sold-apple-sony-microsoft>
+.
+
+The idea was that Motorola Mobility's huge patent portfolio would bolster 
+Android from attacks by Apple, Microsoft, Nokia and others. That hasn't worked 
+out so well; many of the patents are classed as "standards-essential", and so 
+can't be used for injunctions and aren't effective as bargaining chips in 
+litigation.
+
+Don't expect to see ChromeOS and Android merged soon; that may be a five-year 
+plan, especially since Pichai has only just got his feet under that table. But 
+as more computing devices have touch screens, the finer distinctions between 
+Android and ChromeOS may seem unimportant.
+
+Android's little problem
+
+More generally, though, Google needs to reassert control of Android. Despite 
+its success - 750m devices activated since 2008 - Google has a problem with 
+Android. The shape of that problem is best illustrated by Samsung, which is 
+about to launch its new top-end smartphone, and by China.
+
+Samsung dominates sales of Android: it makes up about half of all Android 
+device sales worldwide. But it is also pushing Android in its own direction, 
+adding services (such as S-Voice) intended to tie users to its brand rather 
+than other Android brands. It's using the strategy that worked so well for 
+Microsoft on the desktop in the past with new technologies - "embrace and extend
+ <http://en.wikipedia.org/wiki/Embrace,_extend_and_extinguish>" (though not 
+"extinguish" as Microsoft also used to).
+
+But that means that Samsung is the company that in effect decides how Android 
+looks to most of the public. Although Google has pushed its Nexus range, the 
+numbers sold are comparatively tiny - perhaps a million per quarter, compared 
+to more than 200m smartphones sold in the fourth quarter of 2012. The focus on 
+the Nexus brand distracts from the reality of Android: most people don't get 
+that, and many people get Samsung's version.
+
+However, the big numbers attached to Android by research companies such as IDC 
+and Gartner - who put Android's share of the market at around 70% of the 207m 
+smartphones shipped in Q4 of 2012 - conceal one subtlety: about half of those 
+Android shipments don't connect to Google's servers, ever. They use AOSP - the 
+Android Open Source Platform - and Google doesn't have any control or even 
+knowledge of them.
+
+For Google, losing control isn't good news. It hates that. But the tension 
+over AOSP works both ways; the Chinese government indicated last week that it 
+doesn't like the reliance of handset manufacturers there on AOSP: 90% of 
+smartphone sales in China use Android (more specifically, AOSP; they don't 
+connect to Google services, because those are banned on the mainland; instead 
+they link to local app stores and search engines such as Baidu). As the report 
+from the China Academy of Telecommunications Researchput it 
+<http://online.wsj.com/article/SB10001424127887324539404578342132324098420.html>
+, "The development of Chinese operating systems constantly faces commercial 
+discrimination from Google." Google decides how quickly updates to Android get 
+pushed to the open source branch (in the case of Android 3.0 "Honeycomb", for 
+tablets, there was a delay of many months between it appearing on 
+Google-approved tablets such as the Motorola Xoom and its AOSP release).
+
+What could Google - specifically, Pichai - do to regain control? First, 
+tighten up distribution of Android by lengthening the period between a new 
+"Google Android" release and the AOSP release. If it gets no benefit from AOSP, 
+why keep updating it? The simple answer is that any handset running AOSP is one 
+not running any rival's OS. So it has that competitive benefit.
+
+Aside from that? Not much. Google's own stats 
+<http://developer.android.com/about/dashboards/index.html> show that more than 
+half of the devices connecting to Google Play in the past month are using 
+Android 2.3 or earlier - software that's more than two years old. Google could 
+let AOSP stagnate and save the good changes for its own branch - except that 
+the Chinese governmentmade it a condition of approval for the MMI acquisition 
+<http://www.chinahearsay.com/china-approves-google-motorola-deal-with-conditions/>
+ that AOSP would be provided "on a free and open basis" and that all OEMs would 
+be treated on a "non-discriminatory" basis.
+
+The AOSP condition, as we've seen with Honeycomb, could be fudged. And as 
+China doesn't actually let Google carry out its business directly on the 
+mainland, you could wonder about what comeback there would be.
+
+Despite its disquiet about Samsung's dominance, Google's probably less 
+troubled by that than the prospect of handset makers with AOSP coming out of 
+China and overrunning the developing world (especially Africa and Latin 
+America) with localised services and search engines.
+
+That would be a nightmare - and finding a way to ensure that it doesn't happen 
+may be one of the prime tasks for Pichai, well before he looks at merging 
+Android with a desktop operating system few are yet using.
+
+There have been some suggestions (from outside Google) that the "Android" 
+brand itself might be dumped, in favour of "Nexus" - its "pure" version" of 
+Android - or even a different name altogether. The name is historical; that was 
+what Rubin called the company he set up, which was bought by Google in 2005.
+
+But to the original question, of whether Rubin was pushed, or jumped? To some 
+extent, it doesn't matter. Clearly, though, the future being mapped out for 
+Android wasn't one he saw himself leading. For the person who led it from being 
+just a concept that he struggled to interest carriers in, to a world-straddling 
+behemoth, that's got to be a bit of a comedown.
+
+Though as he said in his email to Android partners 
+<http://blogs.wsj.com/digits/2013/03/13/andy-rubins-email-to-android-partners/>:
+
+ I am an entrepreneur at heart and now is the right time for me to start a new 
+chapter within Google. I am amazed by what we have accomplished from those 
+early days (not so long ago!), and remain passionate about the power of a 
+simple idea and a shared goal — an open source platform freely available to 
+everyone — to transform computing for people everywhere.
+
+And in that, he was successful. So he leaves that job not as a failure; just 
+as someone who didn't want to do the next changes coming to Android, which will 
+reverberate for years.
+
+Updated: Corrected spelling of Sundar Pichai's name throughout.
+ 

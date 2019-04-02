@@ -1,0 +1,118 @@
+
+It’s not every day you’re asked to bring dead celebrities back from the grave, 
+but in our line of work, it’s becoming more common. It’s something we at
+Framestore <http://www.framestore.com/> were asked to do when we resurrected 
+Audrey HepburnTM for Galaxy’s chauffeur commercial 
+<http://www.framestore.com/work/galaxy-choose-silk-chauffeur>.
+
+Audrey represents heritage, classiness and elegance. So from a strategic and 
+creative point of view, it made sense for Galaxy to communicate its “silk, not 
+cotton” branding through these qualities. What was less clear, however, was 
+just how we were meant to recreate an iconic and globally recognised face when 
+the original footage exists at a resolution incompatible with today’s high 
+standards.
+
+We ended up completely recreating Audrey’s face in computer graphics (CG) – a 
+feat never before achieved at such close-up scale. If this doesn’t sound like a 
+big deal, it is. Replicating a photorealistic 100% CG human that stands up to 
+close inspection is the mecca of visual effects (VFX). So this project was an 
+industry first and took us to the edge of what’s possible.
+
+Skin, eyes and facial hair are just too “perfect” when rendered through a 
+computer. Crucial human subtleties, like the flicker of an eye, can also look 
+robotic when computer-generated. So why go 100% CG?
+
+We couldn’t take the easy option of filming a lookalike and disguising 
+mismatched nuances through shadows and camera angles because, first, Audrey was 
+the absolute star of the show and there was no hiding her in a dark corner; 
+second, as the ultimate symbol of beauty, the likelihood of casting a 
+near-perfect match was nil. So we went the whole hog and digitally recreated 
+every millimetre of her face.
+
+To get reference material of how Audrey would look and act in the script’s 
+scenes, two body-doubles were cast: one to represent her minute 20-inch waist 
+and another to convey as closely as possible her distinctive facial bone 
+structure. Once shot, we’d have footage and data to augment with VFX.
+
+Before the main shoot began on the Amalfi coast, we scanned the face-double 
+usingFACS <http://en.wikipedia.org/wiki/Facial_Action_Coding_System> (facial 
+action coding system). This session captured a plethora of hi-res skin textures 
+and more than 60 different facial expressions for animators to replicate when 
+creating the CG Audrey.
+
+Once this preparatory work was cracked, our VFX supervisors joined the 
+production team in Italy. But there was no time to kick back and soak upla 
+dolce vita. Instead, they tirelessly recorded lighting information – to help 
+“bed in” VFX further down the line – and tracking data, to perfectly lock the 
+actor’s body to our soon-to-be-made CG head. Without a perfect head joint, we’d 
+get the dreaded “nodding dog” effect: the nadir of VFX that breaks reality.
+
+Fortunately, we worked on the film Gravity’s VFX 
+<http://www.framestore.com/work/gravity> at the same time. In the film, Sandra 
+Bullock’s body was CG but her face was live-action, so we’d already perfected 
+an efficient method for joining head to body and could apply this time-saving 
+technique to Audrey.
+
+Once back at Framestore HQ, the lookalike’s FACS scan was used to build a CG 
+facial rig: a replica of the lookalike’s face that provided the foundations for 
+our digitally reimagined Audrey. To turn the lookalike’s CG face into an 
+authentic-looking Audrey, we researched Hepburn’s back catalogue to identify 
+the subtleties that make Audrey look like Audrey. But not just any old Audrey; 
+our brief was to recreate a 19-year-old Ms Hepburn.
+
+The next big challenge was to make the CG skin look real, the holy grail of 
+CG. We experimented with a new renderer,Arnold 
+<https://www.solidangle.com/arnold/>, which hadn’t previously been used on a 
+commercial. It paid off once we’d perfected the soft, translucent look of real 
+skin. Combined with some cunningly created soft “peach fuzz” to break-up 
+robotic perfection, we finally began to see an authentic-looking apparition.
+
+Without access to geometrical data of Audrey’s face (if only they’d foreseen 
+the future of VFX in the 1940s) recreating her as a CG entity was an inexact 
+science, making it difficult to judge when we’d reached perfection. Our only 
+option was good old-fashioned trial and error, persisting until everyone 
+screamed: “That’s it!”
+
+This final layer of perfection is the most demanding. Getting 95% of the 
+images right took 50% of the time. Getting that extra 5%, the photorealism, 
+consumed the second 50% of the schedule.
+
+Although the ad first aired more than 18 months ago, it’s still enjoying 
+international airtime today. It caused much debate in VFX circles, with many 
+making misguided guesses about how we did it. But perhaps its most defining 
+achievement is marking a milestone in the creation of photoreal CG humans. The 
+repercussions are being felt far and wide.
+
+Hollywood is quietly debating the consequences of photoreal CG actors and 
+posthumous usage rights. Rumour even has it that savvy young A-listers are 
+having their bodies scanned at various ages as a form of digital cryogenics. 
+It’s no coincidence that shortly after resurrecting Audrey, Michael Jackson
+arose from the dead <https://www.youtube.com/watch?v=jDRTghGZ7XU> as a 
+moon-walking hologram. Thanks to Audrey and Galaxy, it looks like CG humans are 
+here to stay.
+
+Ad facts
+
+• Director: Daniel Kleinman, Rattling Stick <http://www.rattlingstick.com/>
+• Companies involved: Mars/Galaxy (brand), AMV BBDO (agency) and Framestore 
+(VFX)
+• Length of the project: two months’ R&D; five months’ post production
+• Core team size: 12 artists
+• Permissions: Audrey Hepburn™ © 2013 Sean Hepburn Ferrer and Luca Dotti. All 
+rights reserved.
+
+Mike McGee is co-founder and creative director at Framestore 
+<http://www.framestore.com/>, which you can follow on Twitter @Framestore 
+<https://twitter.com/Framestore>
+
+To get weekly news analysis, job alerts and event notifications direct to your 
+inbox,sign up free for Media Network membership 
+<https://register.theguardian.com/media/>.
+
+All Guardian Media Network content is editorially independent except for 
+pieces labelled ‘Advertisement feature’. Find out morehere 
+<https://www.theguardian.com/sponsored-content>.
+
+• This article was amended on 10 October to clarify that, in this context, 
+Audrey HepburnTM is owned by Sean Hepburn Ferrer and Luca Dotti
+ 

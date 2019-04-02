@@ -1,0 +1,183 @@
+
+Andrew "Weev" Auernheimer is a hacktivist from the same internet community 
+that has lionisedAaron Swartz 
+<https://www.theguardian.com/technology/aaron-swartz> as a free information 
+hero. They are polar opposites: Swartz, who became a martyr to the cause after 
+his suicide on January 11, was a highly-regarded, Ivy League-educated liberal 
+from Illinois. Auernheimer is a self-confessed internet troll and a 
+"mean-mouthed southern libertarian" from a trailer park in Arkansas.
+
+But before Swartz's death, the young men shared a similar plight: the threat 
+of a long prison sentence under a system which lawyers, academics and other 
+supporters believe leads to prosecution that are out of all proportion to the 
+alleged cyber crimes.
+
+Neither Swartz, 26, nor Auernheimer, 27, hacked into any computer, yet were 
+charged with offences aimed at hackers. Neither were motivated by profit, but 
+by different brands of political activism.
+
+Yet they each faced multiple charges and prosecutions of such magnitude that 
+they contributed to Swartz's death, according to his family. Auernheimer said 
+he has shared the same "suffering and miseries" as Swartz after being "hounded 
+by the FBI".
+
+"I've never broke into anyone's computer," Auernheimer told the Guardian. "We 
+were accessing public resources. It's like they printed a book and I flipped 
+open the pages and we criticised what they put in the book."
+
+"Like Aaron Swartz, I've no faith in the justice system," he added.
+
+His case is proof that while Swartz attracted worldwide attention, his 
+prosecution was by no means unique. A number of internet activists, computer 
+security experts and whistleblowers who have taken action online to highlight a 
+flaw in the established order or as a form of political protest, have found 
+themselves charged with multiple counts of cyber-crime, carrying draconian 
+prison terms.
+
+Critics of the prosecutions say they are being bought by over-zealous 
+prosecutors using outdated and flawed laws.
+
+Both men were being prosecuted under the Computer Fraud and Abuse Act, a 
+statute written in the 1980s which has come under fire for being too broad. 
+Last week, a congresswoman from Silicon Valleyproposed an amendment 
+<http://www.guardian.co.uk/technology/2013/jan/16/zoe-lofgren-proposes-aarons-law?intcmp=239>
+ called "Aaron's law" to try to stop such prosecutions.
+
+Auernheimer was convicted in November of conspiracy to access a protected 
+computer without authorisation, as well as identity fraud.He faces 10 years in 
+jail 
+<http://www.technewsdaily.com/15581-hacker-found-guilty-despite-not-hacking-ipad.html.>
+ for collecting 114,000 email addresses of iPad users stored by AT&T, and 
+passing some of this information to Gawker. The actual harvesting of the emails 
+was carried out by a friend, Daniel Spitler.
+
+Auernheimer passed the information to Gawker to expose AT&T's security flaws 
+and embarrass them, he said.
+
+"When you publish something, you don't have the right to whine and moan and 
+cry: 'He's breaking and entering,'" said Auernheimer, who plans to appeal his 
+conviction after his sentencing hearing on 25 February. "That's what AT&T and 
+the federal government are claiming. It's a dishonest and seditious claim."
+
+He said the idea that what he and Swartz did amounted to a felony was 
+"ludicrous".
+
+"When the FBI came for Aaron, he lost everything. The difference between my 
+case and Aaron's is: I'm a broke kid from a trailer park in Arkansas. I'm 
+disaffected, poor and clever. If you put me in prison, at least my food will be 
+paid for."
+
+Jay Liederman, an attorney who has represented a number of high-profile 
+hackers, accused the government of employing the act to stifle dissent.
+
+"It's as if with the explosion of hacktivists and activism, this is the 
+government's new toy. It seems like they took a new look at the CFAA and 
+realised they can chill this type of activism that they don't like," he said.
+
+Liederman has represented Commander X, a hacker who is on the run from the FBI 
+for an attack on a website in Santa Cruz, California, and Raynaldo Rivera, a 
+suspected hacker from LulzSec, accused of stealing information from Sony last 
+year. He has described illegal hacker activities such as Distributed Denial of 
+Service attacks (DDoS) as "digital sit-ins" or " the equivalent of occupying 
+the Woolworth's lunch counter during the civil rights movement" and has called 
+for the law to be changed.
+
+He sees a common thread running through prosecutions of activists for DDoS 
+attacks and those of Swatrz, Auernheimer and Barrett Brown, a former affiliate 
+of hacktivist collective Anonymous currently in prison facing charges under the 
+CFAA, whose prosecution has also attracted criticism.
+
+"They are very closely related," said Liederman. "It is one rich tapestry of 
+prosecutorial overreach and government oppression."
+
+Brown faces 45 years in prison and $3m in fines for charges relating to a 
+Christmas Day attack in 2011 against Stratfor, a US intelligence-gathering 
+firm, in which Anonymous hackers stole 5.5m emails,some of which were later 
+published on WikiLeaks 
+<http://blogs.dallasobserver.com/unfairpark/2012/12/anonymous_barrett_brown_faces.php.>
+.
+
+Brown was not involved in the hack, but allegedly facilitated it by posting a 
+link in a chatroom, thereby providing others with credit card information and 
+identities of thousands of individuals in the Stratfor database.
+
+He has also been charged 
+<http://blogs.dallasobserver.com/unfairpark/2012/10/three_weeks_after_fbi_raid_fed.phpT>
+ with internet threats to FBI agents, relating to his Twitter and YouTube feed. 
+All three were "popular, free-thinking information activists" facing 
+"stunningly abusive" prosecutions, according to Liederman.
+ Internet activist Aaron Swartz was found dead on January 11. Photograph: 
+Zuma/Rex Features 
+"With Swartz, with Weev with Barrett, there was no hacking, yet they are being 
+prosecuted by statutes that were made for hackers."
+
+Each took a "contrarian notion" against established principles, he said.
+
+"Aaron Swartz had the outrageous notion that information should be free, and 
+that future generations should be allowed to enjoy and learn from academic 
+articles. Weev had the outrageous notion that companies like AT&T, because they 
+are sloppy with your information, should be called out on it. Barrett had the 
+outrageous notion that governments and those private security companies that 
+act like the black hand of the government should be transparent and the public 
+should have the right to know.
+
+"These were virtues extolled by our forefathers in this country and all of a 
+sudden they are lost to us."
+
+Gabriella Coleman, an anthropologist who spent three years living among 
+hackers in San Francisco for her book, Coding Freedom: The Ethics and 
+Aesthetics ofHacking <https://www.theguardian.com/technology/hacking>, said 
+that the US has historically been tougher on hackers than other countries.
+
+"Hackers have been given stiff sentences in the US compared to most of Europe 
+and Australia," she said, citing the case of Gary McKinnon, a British hacker 
+the US sought to extradite. McKinnon faced US charges of causing thousands of 
+dollars' worth of damage to military computers, which carried a prison sentence 
+of up to 60 years if convicted.
+
+However, his extradition to the US was blocked in October on human rights 
+grounds after reports showed he would have been a suicide risk. The case 
+against him in the UKwas dropped in December 
+<http://www.bbc.co.uk/news/uk-20730627.>.
+
+Asked whether the hardline prosecutions were a result of the CFAA itself or 
+its interpretation by overzealous prosecutors, Coleman, who works at McGill 
+University in Montreal, said: "It's a deadly mix. The way the CFAA is worded is 
+extremely vague, and when you put that into a legal context, with the way 
+hackers are dealt with in the US, it comes down hard. The two together becomes 
+a problem."
+
+Jennifer Granick, an attorney and the director for civil liberties at the 
+Center forInternet <https://www.theguardian.com/technology/internet> and 
+Society at Stanford law school, writing after Swartz's death, said that 
+ordinary prosecutorial tactics, such as the "horse-trading" that is 
+plea-bargaining, become "extraordinary mistakes when the case is bogus or 
+overcharged".
+
+In her blog, she identified many problems 
+<http://cyberlaw.stanford.edu/blog/2013/01/towards-learning-losing-aaron-swartz-part-2>
+ with sentencing in computer crime cases, including the low burden of proof for 
+loss calculations. She wrote that the CFAA should be amended and that 
+prosecutors must be "extremely careful and measured when bringing these cases".
+
+"When so many thoughtful people, including former prosecutors, disagree with 
+US attorney's conduct in these cases, we need to stop," she wrote.
+
+Auernheimer believes the CFAA should be "completely repealed". He said: "The 
+CFAA is a broken law, but it is the seditious lies of prosecutors [that] were 
+put out to make sure I didn't get a fair trial."
+
+He said what he did was a "a big deal to the Feds because I embarrassed rich 
+people. What we are doing is magic they don't approve of, so burn the witches – 
+kill them and throw them in prison."
+
+In a "statement of responsibility", published on Monday 
+<http://techcrunch.com/2013/01/21/ipad-hack-statement-of-responsibility/> in a 
+response to a request from the government that he accept responsibility before 
+sentencing, Auernheimer wrote: "Ivy-League educated and wealthy, Aaron dealt 
+with his indictment so badly because he thought he was part of a special class 
+of people that this didn't happen to. I am from a rundown shack in Arkansas. I 
+spent many years thinking people from families like his got better treatment 
+than me. Now I realize the truth: The beast is so monstrous it will devour us 
+all. None will be spared."
+ 

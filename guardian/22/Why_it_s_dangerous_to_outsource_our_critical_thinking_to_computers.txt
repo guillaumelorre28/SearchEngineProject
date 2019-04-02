@@ -1,0 +1,106 @@
+
+The lack of transparency around the processes of Google’s search engine has 
+been apreoccupation among scholars 
+<http://www.hup.harvard.edu/catalog.php?isbn=9780674368279> since the company 
+began. Long before Google expanded into self-driving cars, smartphones and 
+ubiquitous email, the company was being asked to explain the principles and 
+ideologies that determine how it presents information to us. And now, 10 years 
+later, the impact of reckless, subjective and inflammatory misinformation 
+served up on the web is being felt like never before in the digital era.
+
+Google responded to negative coverage this week by reluctantly acknowledging 
+and then removing offensive autosuggest results for certain search results. 
+Type “jews are” into Google, for example, and until now the site would autofill 
+“jews are evil” before recommending links to severalrightwing antisemitic hate 
+sites 
+<https://www.theguardian.com/technology/2016/dec/05/google-must-review-its-search-rankings-because-of-rightwing-manipulation>
+.
+
+That follows the misinformation debacle 
+<https://www.theguardian.com/technology/2016/nov/10/facebook-fake-news-election-conspiracy-theories>
+ that was the US general election. When Facebook CEO Mark Zuckerbergaddressed 
+<https://www.facebook.com/zuck/posts/10103269806149061?pnref=story> the issue, 
+he admitted that structural issues lie at the heart of the problem: the site 
+financially rewards the kind of sensationalism and fake news likely to spread 
+rapidly through the social networkregardless of its veracity or its impact 
+<https://www.theguardian.com/us-news/2016/dec/05/gunman-detained-at-comet-pizza-restaurant-was-self-investigating-fake-news-reports>
+. The site does not identify bad reporting, or even distinguish fake news from 
+satire.
+
+Facebook is now trying to solve a problem it helped create. Yet instead of 
+using its vast resources to promotemedia literacy 
+<https://www.yahoo.com/news/the-real-problem-behind-fake-news-233047332.html>, 
+or encouraging users to think critically and identify potential problems with 
+what they read and share, Facebook is relying on developing algorithmic 
+solutions that can rate the trustworthiness of content.
+
+This approach could have detrimental, long-term social consequences. The scale 
+and power with which Facebook operates means the site would effectively be 
+training users to outsource their judgment to a computerised alternative. And 
+it gives even less opportunity to encourage the kind of21st-century digital 
+skills 
+<https://www.amazon.com/Technology-Virtues-Philosophical-Future-Wanting/dp/019049851X>
+ – such as reflective judgment about how technology is shaping our beliefs and 
+relationships – that we now see to be perilously lacking.
+
+The engineered environments of Facebook 
+<https://www.theguardian.com/technology/facebook>, Google and the rest have 
+increasingly discouraged us from engaging in an intellectually meaningful way. 
+We, the masses, aren’t stupid or lazy when we believe fake news; we’re primed 
+to continue believing what we’re led to believe.
+
+The networked info-media environment that has emerged in the past decade – of 
+which Facebook is an important part – is a space that encourages people to 
+accept what’s presented to them without reflection or deliberation, especially 
+if it appears surrounded by credible information or passed on from someone we 
+trust. There’s a powerful, implicit value in information shared between friends 
+that Facebook exploits, but it accelerates the spread of misinformation as much 
+as it does good content.
+
+Every piece of information appears to be presented and assessed with equal 
+weight, a New York Times article followed by some fake news about the pope, a 
+funny dog video shared by a close friend next to a distressing, unsourced and 
+unverified video of an injured child in some Middle East conflict. We have more 
+information at our disposal than ever before, but we’re paralyzed into passive 
+complacency. We’re beingengineered 
+<http://www.uclalawreview.org/wp-content/uploads/2016/11/Frischmann-D64.pdf> to 
+bepassive, programmable people 
+<https://www.theguardian.com/technology/2015/aug/10/internet-of-things-predictable-people>
+.
+
+In the never-ending stream of comfortable, unchallenging personalized 
+info-tainment there’s little incentive to break off, totriangulate 
+<http://www.forbes.com/sites/privacynotice/2014/01/25/5-ways-to-avoid-being-suckered-by-unreliable-information/#5513b2f748b5>
+ and fact check with reliable and contrary sources. Actively choosing what 
+might need investigating feels like too much effort, and even then a quick 
+Google search of a questionable news story on Facebook may turn up a link to a 
+rehashed version of the same fake story.
+
+The “transaction costs 
+<https://www.bu.edu/bulawreview/hartzog-selinger-transaction-costs/>” of 
+leaving the site are high: switching gears is fiddly and takes time, and it’s 
+also far easier to passively accept what you see than to challenge it. 
+Platforms overload us with information and encourage us to feed the machine 
+with easy, speedy clicks. The media feeds our susceptibility tofilter bubbles 
+<http://www.theverge.com/2016/11/16/13653026/filter-bubble-facebook-election-eli-pariser-interview>
+ and capitalizes on contagious emotions such as anger 
+<https://www.scientificamerican.com/article/facebook-s-problem-is-more-complicated-than-fake-news/>
+.
+
+It is crucial for a resilient democracy that we better understand how these 
+powerful, ubiquitous websites are changing the way we think, interact and 
+behave. Democracies don’t simply depend on well-informed citizens – they 
+require citizens to be capable of exerting thoughtful, independent judgment.
+
+This capacity is a mental muscle; only repeated use makes it strong. And when 
+we spend a long time in places that deliberately discouragecritical thinking 
+<http://press.princeton.edu/titles/9156.html>, we lose the opportunity to keep 
+building that skill.
+
+ * Evan Selinger <https://twitter.com/evanselinger> is a professor of 
+philosophy at Rochester Institute of Technology, andBrett Frischmann 
+<https://twitter.com/brettfrischmann> is the Microsoft visiting professor of 
+information technology policy at Princeton University and professor of law at 
+Benjamin N Cardozo School of Law.Their forthcoming book Being Human in the 21st 
+Century (Cambridge University Press, 2017) examines whether technology is 
+eroding our humanity, and offers new theoretical tools for dealing with it.  

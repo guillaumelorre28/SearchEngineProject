@@ -1,0 +1,107 @@
+
+The next update to Apple’s iOS iPhone 
+<https://www.theguardian.com/technology/iphone> and iPad operating system was 
+unveiled on Monday and introduced a new intelligent search assistant, greater 
+speed and security.
+
+El Capitan: Apple unveils next version of OS X software
+ Read more  
+<https://www.theguardian.com/technology/2015/jun/08/apples-next-version-os-x-called-el-capitan>
+The free update that will be available in September is aiming to refine 
+features and styles implemented last year withiOS 
+<https://www.theguardian.com/technology/ios> 8, instead of launching big new 
+features, as the operating system matures following Jony Ive’s promotion to 
+chief design officer.
+
+Apple <https://www.theguardian.com/technology/apple> has concentrated on 
+optimising iOS to run smoother and faster with lower power consumption, adding 
+an extra hour to the iPhone’s battery life, plus an additional low-power mode 
+will add another three hours of iPhone battery life.
+
+One of the more significant new features is a new search assistant that builds 
+on Apple’s Spotlight search facility and integrates with Siri to create a 
+Google Now competitor, capable of displaying data from apps and the web, and 
+controlled via text or voice.
+
+Intelligence
+
+Siri can now offer directions based on invitations pulled automatically from 
+email, as well as when to leave reminders based on events. The information 
+displayed is context sensitive, including the ability to understand that the 
+user is looking at something in particular when they say “remind me aboutthis 
+later today”. Users can plug in headphones in one location and always get the 
+music app, for instance.
+
+Apple’s search app Spotlight will also be able to pull information straight 
+from the web and apps such as recipe app Yummly. Siri will also be able to 
+search via voice for photos and other apps. A search for “Eddy Cue karaoke” for 
+instance, will bring up pictures from the Photos app.
+
+“All of this is done on device, and stays on the device, under your control,” 
+said Apple’s senior vice-president of software engineering Craig Federighi, 
+saying that searches made on the internet are performed anonymously, as Apple 
+is not interested in your data, a dig at rival Google.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F08%2Fapple-ios-9-speed-size-battery-life-wwdc%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F8605fc4a2273fc9e3b20f0028c22bb43bf33fc73%2F38_0_1207_724%2F1207.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20iOS%209%20to%20give%20four%20extra%20hours%20of%20iPhone%20battery%20life&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F08%2Fapple-ios-9-speed-size-battery-life-wwdc%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Apple%20iOS%209%20to%20give%20four%20extra%20hours%20of%20iPhone%20battery%20life&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F08%2Fapple-ios-9-speed-size-battery-life-wwdc%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F8605fc4a2273fc9e3b20f0028c22bb43bf33fc73%2F38_0_1207_724%2F1207.jpg>
+ A new Transit view in Apple Maps includes directions for public 
+transportation. Photograph: Apple 
+Apple Maps will see an overhaul, with public transport directions, including 
+those within London, New York and San Francisco, and enhanced street-level 
+imagery, similar to Google’s Street View.
+
+News
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F08%2Fapple-ios-9-speed-size-battery-life-wwdc%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ffe2be89ef813eb0f8a121a9aa53b653b9a767faa%2F0_24_2450_3671%2F2450.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Apple%20iOS%209%20to%20give%20four%20extra%20hours%20of%20iPhone%20battery%20life&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F08%2Fapple-ios-9-speed-size-battery-life-wwdc%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Apple%20iOS%209%20to%20give%20four%20extra%20hours%20of%20iPhone%20battery%20life&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2F2015%2Fjun%2F08%2Fapple-ios-9-speed-size-battery-life-wwdc%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Ffe2be89ef813eb0f8a121a9aa53b653b9a767faa%2F0_24_2450_3671%2F2450.jpg>
+ Susan Prescott, Apple vice-president of product management and marketing, 
+speaks about the News app. Photograph: Jeff Chiu/AP 
+Apple also launched a new news aggregation app called “News” – a 
+Flipboard-style interface for content from third-party publishers including the 
+New York Times and ESPN. Apple stressed that readers would be anonymous and 
+that their reading would not be tracked. It will be available in the US, UK and 
+Australia.
+
+The iPad <https://www.theguardian.com/technology/ipad> received enhanced 
+multi-tasking upgrades with the ability to have more than one app on screen 
+using “slide-over” similar to Microsoft’s Windows 8.1 split-screen modes.
+
+Videos can also be played in a picture-in-picture windowed mode, while the 
+virtual keyboard gained text editing features and enhanced support for 
+bluetooth keyboards, taking aim at Windows tablets and laptops.
+
+One of the big changes will be in the sizes and speeds of apps built using 
+Apple’s Swift language. The programming language, open sourced by Apple, will 
+form an integral part of the new operating system.
+
+The operating system will also take up a smaller amount of space on the 
+device, requiring 1.3GB of free space to install. iOS 8 required more than 4GB 
+to install, which caused issues for users requiring them to delete apps.
+
+Increased security
+
+Security has been improved in iOS 9 to help fend off hackers. Stronger 
+end-to-end encryption will be used for syncing information such as notes and 
+reminders, while a new set of security extensions will prevent unauthorised 
+access to secure files.
+
+The new measures are likely to cause issues for the jailbreaking community, 
+which often exploits weaknesses in system files to open up iPhones and iPads 
+and install custom software.
+
+iOS 9 will support all devices currently running iOS 8, available as a free 
+update in the fall.
+
+Apple follows Google in focusing on making existing features operate better, 
+faster and more efficiently. The search giant announced it was making very 
+similar changes to its nextversion of Android “M” 
+<https://www.theguardian.com/technology/2015/may/28/google-android-m-software-privacy-battery-life>
+, designed to boost battery life, security and speed, while boosting privacy 
+features and adding advanced Google Now integration.
+ 

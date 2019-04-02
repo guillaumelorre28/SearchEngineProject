@@ -1,0 +1,24 @@
+
+Today I, for iterations...which lasted two weeks and culminated in a full new 
+release of our software. I've written previously aboutwhat happened in one week 
+<https://www.theguardian.com/help/insideguardian/2008/oct/07/technology> of a 
+particular iteration in June 2008.
+
+However, our R2 iterations didn't just involve implementing software. At the 
+same time each team was also working with a business analyst and end-users to 
+plan and clarify the work for the next iteration, and sometimes getting the 
+last iteration's work through its systems tests prior to release. As one of the 
+team leads said to me, "we work in three timezones".
+
+At the end of an iteration the release went out. But our releases didn't 
+always reveal much that was different -- either because we were waiting to 
+reveal it as part of a forthcoming launch, or because it was part of our 
+internally-facing systems. That can be an odd feeling for the development 
+teams. In previous lives I've worked on projects where the launch has the whole 
+team working right up to the last moment and so also signals the time when you 
+can collapse with exhaustion. But our interleaving of "timezones", and releases 
+well ahead of launches, changed that. The launch of, say, the Sports section 
+was a big moment for so many in the company, but most of the people on the 
+development team had finished the work some time before and were spending more 
+time thinking about the launch that followed.
+ 

@@ -1,0 +1,77 @@
+
+We would like to invite you to subscribe to our new chatbot. 
+<http://m.me/theguardian>
+
+About eight weeks ago, we created a couple of prototype chatbots and quietly 
+promoted them on our social channels. We’ve received very positive feedback 
+from users. Our data provides further evidence people found them useful. We 
+thought now was the right time to release our Guardian news bot into the wild.
+
+Why Facebook and Microsoft say chatbots are the talk of the town
+ Read more  
+<https://www.theguardian.com/technology/2016/sep/18/chatbots-talk-town-interact-humans-technology-silicon-valley>
+Messaging apps account for a disproportionate amount of time we spend on our 
+phones. Whatsapp has over one billion active users per month.Facebook Messenger 
+also achieved this milestone in July 
+<http://newsroom.fb.com/news/2016/07/thank-you-messenger/>. There a number of 
+other messaging apps with huge followings too - such as WeChat, Kakao, LINE and 
+Viber. Usage is nowsurpassing social networks 
+<http://uk.businessinsider.com/the-messaging-app-report-2015-11?r=US&IR=T>.
+
+Chatbots are not a new thing, but have started to be more widely discovered. 
+For example, WeChat hasexploded in the last three years 
+<https://www.statista.com/statistics/255778/number-of-active-wechat-messenger-accounts/>
+. It’s success has fundamentally changed in the way people interact with the 
+Internet - from hailing a taxi to shopping for clothes. This has not gone 
+unnoticed by their competitors and many have built chatbot capabilities into 
+their products.
+
+We have chosen to launch on Facebook Messenger to engage with our established 
+community on Facebook and the capabilities of the platform. Depending on the 
+success of the Guardian bot on Messenger, we will look to introduce it to 
+messaging platforms.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2016%2Fnov%2F07%2Fintroducing-the-guardian-chatbot%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ff0fcac56e06d204782f39a69b529f66aba6b0dcf%2F0_0_750_300%2F750.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Introducing%20the%20Guardian%20Chatbot&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2016%2Fnov%2F07%2Fintroducing-the-guardian-chatbot%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Introducing%20the%20Guardian%20Chatbot&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2016%2Fnov%2F07%2Fintroducing-the-guardian-chatbot%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2Ff0fcac56e06d204782f39a69b529f66aba6b0dcf%2F0_0_750_300%2F750.jpg>
+Get your morning briefing when you want it
+
+Once you’ve said hello to our bot <https://www.messenger.com/t/theguardian>, 
+it will ask you whether you would like to subscribe and when you would like it 
+delivered. The next day, look out for your morning briefing. Our journalists 
+will be curating the briefing each day from Monday 7th November in the UK (US 
+and Australia will be available soon).
+
+You can change the time, change the edition or unsubscribe at any time. If 
+you’re a jet-setter, the bot will do its best to send the briefing at the 
+appropriate timezone.
+
+Check-in for the latest headlines or most popular
+
+Ask the bot for “headlines” or “most popular” and it will message you back 
+with the top 5 stories. Ask for your favourite topic / section by messaging the 
+name of it, like “football” or “lifestyle”.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2016%2Fnov%2F07%2Fintroducing-the-guardian-chatbot%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2F4c4277b7d322261711665bae0c347ecd6363c816%2F479_0_1039_1040%2F1039.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Introducing%20the%20Guardian%20Chatbot&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2016%2Fnov%2F07%2Fintroducing-the-guardian-chatbot%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Introducing%20the%20Guardian%20Chatbot&url=https%3A%2F%2Fwww.theguardian.com%2Fhelp%2Finsideguardian%2F2016%2Fnov%2F07%2Fintroducing-the-guardian-chatbot%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F4c4277b7d322261711665bae0c347ecd6363c816%2F479_0_1039_1040%2F1039.jpg>
+There is plenty more to come
+
+Our work on this bot is far from finished - we have plenty of ideas to test. 
+We really value your ideas and feedback too. Please email the team at
+chatbot.feedback@theguardian.com <mailto:chatbot.feedback@theguardian.com>.
+
+Getting started
+
+There are a few of ways to get started with the Guardian bot
+
+ * Go to the Guardian Facebook page via the Facebook app and tap “Message”
+
+ * Search for “The Guardian” in Facebook Messenger and tap “Get started”
+
+ * Or simply go to https://m.me/theguardian <https://m.me/theguardian>
+ 

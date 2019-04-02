@@ -1,0 +1,168 @@
+
+
+
+
+
+I have used Windows Live mail since its introduction: it’s simple, clear and 
+uncluttered. NowMicrosoft <https://www.theguardian.com/technology/microsoft> is 
+going to end it. Help! With its automatic sign-in, I haven’t used my passwords 
+in years. How can I transfer my accounts?Tony
+
+Windows Live Mail is a desktop email program Microsoft introduced to replace 
+Outlook Express. It is part of theWindows Essentials 
+<http://windows.microsoft.com/en-gb/windows/essentials> suite, which includes 
+several fine programs: Live Mail, Live Writer, Photo Gallery, MovieMaker and 
+OneDrive. (It used to include Messenger, which was replaced by Skype.) 
+Unfortunately, the suite has not been updated since 2012, because Microsoft 
+switched to developing securely sandboxed, touch-oriented apps instead.
+
+Windows Live Mail 2012 will not stop working, and you can still use it to 
+download emails from any standard email service. However, Microsoft is moving 
+all its own email services – Office 365, Hotmail, Live Mail, MSN Mail, 
+Outlook.com etc – to a single codebase at Outlook.com. Windows Live Mail 2012 
+does not support the new APIs (applications programming interfaces) required to 
+provide full synchronisation with Outlook.com. Microsoft could updateWindows 
+<https://www.theguardian.com/technology/windows> Live Mail 2012, but instead, 
+it has asked users to switch to a different email program.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Faskjack%2F2016%2Fjun%2F02%2Fmicrosoft-killing-windows-live-mail-what-should-i-do-hotmail-msn-outlook%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-2%23img-2&picture=https%3A%2F%2Fmedia.guim.co.uk%2F1a9a3bb64dc4fe68d5222523d77e8ea7c87c1301%2F0_88_3500_2101%2F3500.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Microsoft%20is%20killing%20off%20Windows%20Live%20Mail%20%E2%80%93%C2%A0what%20should%20I%20do%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Faskjack%2F2016%2Fjun%2F02%2Fmicrosoft-killing-windows-live-mail-what-should-i-do-hotmail-msn-outlook%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Microsoft%20is%20killing%20off%20Windows%20Live%20Mail%20%E2%80%93%C2%A0what%20should%20I%20do%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Faskjack%2F2016%2Fjun%2F02%2Fmicrosoft-killing-windows-live-mail-what-should-i-do-hotmail-msn-outlook%3Fpage%3Dwith%3Aimg-2%23img-2&media=https%3A%2F%2Fmedia.guim.co.uk%2F1a9a3bb64dc4fe68d5222523d77e8ea7c87c1301%2F0_88_3500_2101%2F3500.jpg>
+ Microsoft is moving all its own email services to a single codebase at 
+Outlook.com Photograph: Mike Segar / Reuters/Reuters 
+Microsoft suggests ...
+
+Microsoft suggests using either its free Mail app or Outlook, the email and 
+personal information manager that is part of Microsoft Office. Outlook costs 
+money, but Microsoft is offering Live Mail users a free subscription to Office 
+365 for one year. (You should have received this offer by email, but if not,the 
+details are online 
+<https://support.office.com/en-us/article/Windows-Live-Mail-2012-will-not-connect-to-Outlook-com-45453b92-373b-4bbb-88ca-f8ec74f8e8fd?ui=en-US&rs=en-US&ad=US#BKMK_TermsConditions>
+.)
+
+The obvious catch is that, after the first year, you’d be paying £59.99 per 
+year forOffice 365 Personal 
+<https://products.office.com/en-gb/office-365-personal>, though this does 
+include full copies of Microsoft Office programs plus a 1TB free online 
+storage. Alternatively, you could buy a standalone copy ofMicrosoft Office Home 
+and Business 2016 
+<https://www.amazon.co.uk/Microsoft-Office-Home-Business-2016/dp/B011N73X8O/> 
+(£164) orMicrosoft Office Outlook 2016 
+<http://www.mrhightech.net/office-suites/3580-microsoft-outlook-2016-0885370991147.html>
+ instead. These don’t expire.
+
+Either way, it is a slightly awkward choice: you can upgrade to Outlook or 
+downgrade to Mail, but you can’t stay at the same level.
+
+The Mail app is simpler but less powerful than Windows Live Mail: it has 
+limited options for sorting emails, and it cannot send emails to groups. 
+Outlook is far more powerful than Windows Live Mail and has more advanced 
+features for emails, contacts, calendars and to-do lists. However, you may not 
+need them, or you may already be using a range of apps instead.
+
+The Mail app has another drawback: it runs on Windows 8/8.1/10, but not on 
+Windows XP/Vista/7. Some people who want to use the Mail app will have to 
+upgrade to Windows 10 to get it.
+
+Forbidden Technologies jumps 25% after Microsoft deal
+ Read more  
+<https://www.theguardian.com/business/marketforceslive/2016/mar/16/forbidden-technologies-jumps-25-after-microsoft-deal>
+Microsoft’s final suggestion is to do your email in a web browser. Your email 
+address and your Hotmail/Live/Outlook.com email service will continue to work, 
+even if Windows Live Mail 2012 doesn’t. Of course, web-based email has similar 
+drawbacks as the Mail app – fewer features and limited sorting options – and is 
+slower to use, but today it’s probably how most people do email.
+
+Sticking with Windows Live Mail
+
+Windows Live Mail 2012 is clearly on the way out, but you can still use it if 
+you really want to. To do this, you must create a new account for your existing 
+email address, but check the box that says “Manually configure server 
+settings”. For the incoming server, select IMAP with the address 
+imap-mail.outlook.com and Port 993. For the outgoing server, use 
+smtp-mail.outlook.com and Port 587.
+ <> Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Faskjack%2F2016%2Fjun%2F02%2Fmicrosoft-killing-windows-live-mail-what-should-i-do-hotmail-msn-outlook%3FCMP%3Dshare_btn_fb%26page%3Dwith%3Aimg-3%23img-3&picture=https%3A%2F%2Fmedia.guim.co.uk%2Ff30290e1706b369a9f6b4fbae641ff6e127a4b4b%2F0_0_636_559%2F636.jpg>
+Twitter  
+<https://twitter.com/intent/tweet?text=Microsoft%20is%20killing%20off%20Windows%20Live%20Mail%20%E2%80%93%C2%A0what%20should%20I%20do%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Faskjack%2F2016%2Fjun%2F02%2Fmicrosoft-killing-windows-live-mail-what-should-i-do-hotmail-msn-outlook%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=Microsoft%20is%20killing%20off%20Windows%20Live%20Mail%20%E2%80%93%C2%A0what%20should%20I%20do%3F&url=https%3A%2F%2Fwww.theguardian.com%2Ftechnology%2Faskjack%2F2016%2Fjun%2F02%2Fmicrosoft-killing-windows-live-mail-what-should-i-do-hotmail-msn-outlook%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2Ff30290e1706b369a9f6b4fbae641ff6e127a4b4b%2F0_0_636_559%2F636.jpg>
+ WLM server settings Photograph: Jack Schofield/Screengrab 
+The settings shown in the screenshot worked perfectly for one of my old 
+Hotmail accounts even though Windows Live Mail didn’t work with the automatic 
+settings.
+
+Once you have downloaded your emails using the new settings, you can use the 
+mouse to drag-and-drop emails across from the “old” Microsoft account, but 
+don’t delete it. Your “new” account only does email, so you will lose the 
+address book/contacts and calendar features.
+
+Switching clients
+
+If you decide to switch to the Mail app or Microsoft Office Outlook, then you 
+will need to import your emails from Windows Live Mail. There are lots of ways 
+to do this, and Microsoft provided reasonably clear instructions along with the 
+announcement:Windows Live Mail 2012 will not connect to Outlook.com 
+<https://support.office.com/en-us/article/Windows-Live-Mail-2012-will-not-connect-to-Outlook-com-45453b92-373b-4bbb-88ca-f8ec74f8e8fd>
+
+Windows Live Mail actually stores individual emails in industry standard .eml 
+files, so they’re easy to back up and move between programs or between PCs. 
+(Microsoft Office Outlook, by contrast, stores everything in one giant blob of 
+a .pst file.)
+
+One problem: some users may have emails stored on their PCs that are no longer 
+on the server. In that case, see “Special instructions for users of locally 
+stored data in Windows Live Mail 2012 application” on the same page.
+
+Of course, rather than switching to the Mail app or Microsoft Office Outlook 
+you could switch to an alternative from a third-party supplier. Examples include
+Mailbird <https://www.getmailbird.com/>, eM Client <http://www.emclient.com/>, 
+andThunderbird <https://www.mozilla.org/en-GB/thunderbird/>. I’d try them in 
+that order and see which one you like. Both Mailbird and eM Client are 
+“freemium” programs, while Thunderbird is open source and free.
+
+Password recovery
+
+It is not clear if you still know your password, but you will need it to set 
+up a new mail program. Fortunately, some free utilities can extract passwords 
+from Windows Live Mail. Two examples are NirSoft’sMail PassView 
+<http://www.nirsoft.net/utils/mailpv.html> and the Live Mail Password Decryptor 
+<http://securityxploded.com/windows-live-mail-password-decryptor.php> from 
+SecurityXploded.
+
+Microsoft has ruined my day, and possibly my life
+ Read more  
+<https://www.theguardian.com/lifeandstyle/2016/may/23/microsoft-windows-ten-10-software-update-problems-iplayer>
+The alternative is to ask for a password reset so that you can enter a new 
+password. You can do this via a Microsoft page:Forgotten password and other 
+sign-in problems 
+<http://windows.microsoft.com/en-gb/windows-live/account-reset-password-forgot-faq>
+, or use the password reset wizard ataccount.live.com 
+<https://account.live.com/ResetPassword.aspx>.
+
+Password resets require authentication, so Microsoft will send a security code 
+to the alternative email address listed in your email account, or send an SMS 
+to the mobile phone number listed.
+
+Once upon a time, you could open an email account without providing an 
+alternative email address or phone number, but most email providers now require 
+one or another. If you have not provided an alternative, you can use the 
+Recover your Microsoft account <https://account.live.com/acsr> page, which 
+allows you to supply a new contact email address.
+
+Timing
+
+Microsoft started rolling out the new system last year, in preview mode. Once 
+your account is converted, you will no longer be able to use it with Windows 
+Live Mail. In Windows 7, you will either get server error 3219 or Windows Live 
+Mail error 0x8DE00005, or both.
+
+It would therefore be a good idea to switch in the next week or two. For 
+accounts where Microsoft has detected Windows Live Mail use, the deadline is 
+June 30, 2016.
+
+Have you got another question for Jack? Email it to Ask.Jack@theguardian.com 
+<mailto:Ask.Jack@theguardian.com>
+ 

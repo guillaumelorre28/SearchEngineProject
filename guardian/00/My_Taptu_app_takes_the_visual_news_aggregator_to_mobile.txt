@@ -1,0 +1,78 @@
+
+With the iPad, and subsequent tablets, came a new enthusiasm for aggregation 
+tools for both media and social content - and a new opportunity for more visual 
+ways of representing data.
+
+Pulse <http://www.alphonsolabs.com/> and Flipboard <http://www.flipboard.com/> 
+attracted some serious attention at launch, reincarnating text RSS feeds into 
+something more magazine-like - more visual, more delightful and less of a chore.
+
+Rather, it's a about a more leisurely and pleasant reading experience - and 
+consequently of great interest to the media industry. The New York Times 
+thought the Pulse reading experience was compelling enough that itbanned it 
+<http://www.guardian.co.uk/media/pda/2010/jun/08/ipad-new-york-times> from 
+using its feeds at one point, though laterreinstated 
+<http://www.huffingtonpost.com/2010/06/09/pulse-app-pulled-then-rei_n_605994.html>
+ it.
+
+As a power RSS user (and a 'feed zero' compulsive) I'm not convinced that 
+these are the most efficient way to deal with a few hundred must-read feeds. 
+Taptu want to convince me otherwise. Until now a mobile search specialist, and 
+the firm behind theWapedia <http://wapedia.mobi/en/> Wikipedia app, the My 
+Taptu app <http://beta.taptu.com/> launching today for iPhone, iPod Touch and 
+Android.
+
+My Taptu presents RSS feeds in a similar way, ambitiously but fairly 
+effectively breaking stories down into browse-able squares with enough text and 
+image to illustrate each of them. Add feeds by choosing from editorially 
+curated lists including celebrity, tech and politics - of which Taptu have 
+channelled 5,000 specialist feeds into 200 lists under the app's 'StreamStore'. 
+There's also a bookmarking feature so you can browse headlines offline and read 
+full stories later.
+
+
+Konstantinos Papamiltiadis 
+<http://uk.linkedin.com/pub/konstantinos-papamiltiadis/3/91/44b>, Taptu's 
+senior director of product and engineering, says Taptu is not looking to extend 
+the app to the iPad, so contests that there's any competition with Pulse or 
+Flipboard. It's about creating that experience on mobile, he says.
+
+"A typical mobile user might have 30 or 40 apps on their phone, and would 
+start the day checking Facebook, then Twitter and then the BBC," said 
+Papamiltiadis. "That kind ofapp hopping is what we are trying to solve by 
+aggregating all that content."
+
+Taptu, based in Cambridge and with a team of 30, appears to be treading 
+carefully when it comes to relationships with media companies, being quick to 
+point out that linking through to a story within the app only serves up the 
+first paragraph - users need to click through to the home site for the full 
+story. "We want to make sure the media gets the right attention, making it as 
+sexy as possible to go through to the website. That's why we are sticking with 
+our search principles and using only part of the story [in the app]. It's a 
+teaser."
+
+Though ads within publishers' feeds show up within the My Taptu app, 
+Papamiltiadis says it does run minimal ads itself but is waiting to see how the 
+app performs before committing to banner, in-stream ads or anything else.
+
+My Taptu is light and about as well designed as that 3.5" screen will allow. 
+The customisation is much more comprehensive than Pulse or Flipboard and it's 
+an attractive proposition, so for most consumers it will be worth a try.
+
+But back to the power RSS user issue. I follow 80-or-so feeds and read every 
+headline from the last 24 hours on all of those. I useByline 
+<http://www.phantomfish.com/byline.html> on iPhone (not perfect - very crashy 
+and quite slow) because it integrates with Google Reader - I don't want to have 
+to set up all those feeds again every time I try a new RSS reader. But I also 
+need to share and star stories in the reader I use.
+
+There's no Google Reader integration with My Taptu at all at the moment. Maybe 
+that will change, but I think there's still a good deal of work to be done in 
+bridging the gap between visual and interesting RSS readers and heavy-duty 
+tools capable of efficiently serving up several hundred headlines.
+
+• Update: Taptu say they are working on an iPad version, but wanted to 
+concentrate on mobile initially as that's their background, but also to 
+discourage comparisons with Pulse, etc...
+
+ 

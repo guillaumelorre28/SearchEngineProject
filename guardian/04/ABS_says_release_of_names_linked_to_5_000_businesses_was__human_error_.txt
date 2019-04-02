@@ -1,0 +1,97 @@
+
+The Australian Bureau of Statistics 
+<https://www.theguardian.com/australia-news/australian-bureau-of-statistics> 
+inadvertently released contact names linked to more than 5,000 Queensland 
+businesses in what was described as a “human error”.
+
+The breach is one of 14 the ABS has reported to the Office of the Australian 
+Information Commissioner since 2013,and was released to Guardian Australia 
+under freedom of information laws. 
+<http://www.abs.gov.au/websitedbs/D3310114.nsf/4a256353001af3ed4b2562bb00121564/e787db884fec6fe5ca25788700151ce0/$FILE/FOI_23%20September%202016.pdf>
+
+The ABS has come under scrutiny over its handling of the 2016 census, 
+initially for the extended retention of names and addresses for a period of 
+four years. It then faced further criticism after the census website crashed,
+which it attributed to a series of foreign attacks 
+<https://www.theguardian.com/australia-news/2016/aug/09/the-great-australian-census-fail-of-2016-website-crashes-under-load>
+.
+
+Australian Bureau of Statistics reports 14 data breaches since 2013
+ Read more  
+<https://www.theguardian.com/australia-news/2016/jul/29/australian-bureau-of-statistics-reports-14-data-breaches-since-2013>
+While none of the breaches reported to the OAIC relates to the handling of any 
+census data, some do highlight errors in the handling of other surveys as well 
+as failures to correctly de-identify data, which is one of the criticisms 
+raised by privacy advocates about the increased retention of census data.
+
+But they also demonstrate the ABS has taken a proactive approach to reporting 
+data breaches – including relatively minor incidents where the recipients of 
+emails are accidentally not BCCed – which is not mandatory under existing 
+privacy laws.
+
+No details about two of the 14 data breaches have been disclosed by the ABS, 
+which said that would have a “substantial adverse effect” on its operations.
+
+A statement the ABS issued 
+<http://www.abs.gov.au/websitedbs/d3310114.nsf/home/ABS+Media+Statements+-+Response+to+FOI+request+by+Paul+Farrell+(The+Guardian)>
+ as it simultaneously released the documents on Friday afternoon said it 
+believed that 12 of the cases “did not warrant reporting” according to the 
+privacy commissioner’s own guidelines, but that it had taken a “precautionary 
+or ‘pro-disclosure’ approach” to reporting potential breaches.
+
+
+In one of the breaches in January 2016, contact names linked to more than 
+5,000 businesses were disclosed to two officers in theQueensland 
+<https://www.theguardian.com/australia-news/queensland> government 
+statistician’s office, in breach of privacy laws and the ABS’s own regulations.
+
+The list was destroyed, and the staff members who compiled it were counselled. 
+The individuals identified were not notified of the breach because the ABS 
+considered it to be “minor”, and the matter was attributed by the ABS to human 
+error.
+
+“The team that compiled the list was provided with specifications which did 
+not include personal information. Unfortunately, the list that was produced was 
+not consistent with the specifications, and personal information was included.
+
+
+“Normally this oversight would have been detected during the clearance 
+process, however, the presentation of the list made it unclear personal 
+information had been included.”
+
+Other breaches reported by the ABS to the privacy commissioner include:
+
+ * An interviewer who lost a folder containing summary details from a 
+participant in the household income and expenditure survey in October 2015. The 
+loss was described as a “one-off event that has been contained”, and the 
+interviewer was counselled. 
+ * Two instances in October 2015 in the engineering and construction survey 
+where participants received envelopes relating to their companies’ 
+participation that also contained letters to other companies. The breach was 
+attributed to an “error in the machinery used to insert letters into envelopes 
+in preparation for mail-out”. 
+ * The sending out of 42 building activity survey forms that had been 
+incorrectly pre-filled with information about other building jobs in November 
+2014. The ABS said the error was caused by a “mail-merging error” that was a 
+one-off issue. 
+ * The inadvertent release in 2013 of the name, date of birth, country of 
+birth and year of arrival in Australia of a person to an incorrect household as 
+part of a household survey. It was caused by a “pre-filling” error of an ABS 
+survey form. 
+ * The name and addresses of previous vehicle owners were disclosed in August 
+2014 to new owners in the course of a survey into motor vehicle use. The error 
+was caused by a “manual error” in the entry of online forms by ABS staff. 
+The ABS statement said the privacy commissioner was not making any ongoing 
+inquiries in relation to the notifications.
+
+“There have been no notifications related to the census,” it said. “The census 
+processes for collection, storage and analysis are very well tested, secure, 
+and operate in isolation from other ABS collections.
+
+“The ABS is confident that all 14 notifications could have been prevented by 
+improved infrastructure; removing the need for manual processing and 
+intervention that is currently undertaken.”
+
+The ABS is still gathering responses from the 2016 census, which some 
+Australians have said they will boycott owing to the privacy concerns raised.
+ 

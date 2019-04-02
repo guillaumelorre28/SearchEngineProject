@@ -1,0 +1,290 @@
+
+The annual Nominet Trust 100 <http://socialtech.org.uk/nominet-trust-100/> 
+highlights global digital social innovation, much of it showcasing technologies 
+that are tackling social challenges in developing countries. But even in the UK 
+and the US, there are plenty of examples that have the potential to mitigate 
+some of our our most intractable social problems, from growing isolation among 
+older people, to the pressure of long-term health conditions on health systems.
+
+The top 100 list was compiled last month, by a group of innovation, internet 
+and charity experts. We’ve picked some of those that could soon be making an 
+impact in the UK, from gadgets that help children and adults to learn to look 
+after their health, to websites that map accessible venues for disabled people, 
+and mobile phone games that harness citizen’s science.
+
+The Nominet Trust was founded in 2008 by Nominet, the organisation that looks 
+after the UK’s system of website addresses, to promote growth in “tech for 
+social good”. Annila Small, the trust’s chief executive says: “Our aim is to 
+make this technology more accessible. We hope the list will encourage other 
+investors so that these amazing digital inventions can get to the people who 
+need them.”
+
+The trust has invested more than £20m of start-up grant funding in more than 
+630 enterprises in the last five years; only one in 10 make it past the 
+development stage. The fledgling nature of “tech for social good” is 
+demonstrated by the lack of figures for how much the sector is worth, how much 
+it is growing by, or its turnover – something the trust hopes to change in 
+2015. Small says the latest global list shows a “striking progression in the 
+quality and maturity [of innovation] and is indicative of a wider evolution in 
+the sector”.
+
+The main barrier to technological innovations reaching a wider audience in the 
+UK is often how to integrate them into existing systems such as the NHS. Says 
+Small, “Unfortunately, the failure of large-scale NHS IT projects have made 
+people sceptical of all new technology and commissioners still don’t often get 
+it”. Could 2015 be the tipping point?
+
+Jerry the bear <http://www.jerrythebear.com/>: Interactive toy that teaches 
+children to manage chronic conditions
+
+First came dolls that cried and wet themselves, designed to deter teenagers 
+from young parenthood. Now a cuddly toy bear is helping children in the US 
+newly diagnosed with type 1 diabetes learn how to manage their condition. 
+Sensors on Jerry’s paws let children check his blood sugar. His mouth detects 
+different carb levels when he is “fed” with food discs. A blood sugar computer 
+screen on his chest displays the doseage of insulin Jerry needs. And children 
+then practise injecting insulin on his legs, arm and bottom.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFFwCigfzaak&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFFwCigfzaak>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFFwCigfzaak&media=>
+After testing 29 prototypes with more than 350 families over three years, 
+Jerry went on sale last year. Some 25% of endocrinoliogist waiting rooms, and 
+2% of families with newly diagnosed children in the US, have one. Sproutel, the 
+engineer-led company behind Jerry, is in the process of conducting independent 
+research on its impact, but designer Aaron Horowitz, says there has been some 
+incredible initial feedback from families.
+
+“Families have told us that Jerry has helped children learn to count carbs, 
+get over their fears of injections, and ultimately feel more comfortable 
+talking about their disease.” At $300, the bear is beyond the reach of many. 
+But the aim is to release a cheaper version by 2016 that will sell for around 
+$99. “Our goal is to transform Jerry the Bear into a platform to educate and 
+comfort children with a range of chronic conditions,” explains Horowitz. “We 
+are in the early phases of designing new content for children with food 
+allergies.”
+
+Jerry is not the only smart bear on the market. EU-developed Teddy the 
+Guardian, was launched last year. Stuffed full of sensors it aims to help 
+paediatricians assess the health of a child by reading the heart rate, 
+temperature, and stress levels of a child that is hugging the bear.
+
+Liftware: Spoon reduces shaking for people with Parkinson’s disease
+
+Dubbed the “Google spoon” <http://www.google.com/liftware/>, since Google 
+acquired the company behind it, Lift Lab last year, the Liftware utensil uses 
+accelerometer sensors in its detachable handle to detect hand tremors. These 
+identify the direction and force of a tremor, while actuators move the spoon in 
+the opposite direction to compensate.
+
+It is aimed at people with people with mild to moderate tremors caused by 
+movement disorders such as Parkinson’s, which affects more than 10 million 
+people worldwide. Clinical studies have shown that the spoon can reduce shaking 
+by an average of 70%.
+
+Lift Lab founder, Anupam Pathak, says “If people can’t do something as simple 
+as eating they feel like they lose some independence and dignity. It really 
+affects them.” The soup spoon and smart handle retails for $295. A fork and 
+everyday spoon attachments are $19.95 each. Pathak now works for Google X’s 
+life sciences divison. The next innovation could include a keyholder.
+
+Casserole Club <https://www.casseroleclub.com/>: Online service matches 
+neighbours to prevent loneliness and malnutrition
+
+Social isolation in the UK blights the lives of millions of men and women over 
+50 
+<http://www.independentage.org/campaigning/isolation-a-growing-issue-among-older-men/>
+, and is a frequent cause of early death. TheCasserole Club 
+<https://www.casseroleclub.com/> uses technology to rekindle connections 
+between neighbours to share food. It pairs up a neighbour who cooks with an 
+elderly or disabled neighbour who could do with a home-cooked hot meal, rather 
+like an online dating site.
+
+Cooks choose diners they want to share a meal with based on photos, names, and 
+interests they share. Cooks complete an online food hygiene quiz and undergo a 
+vetting (DBS) check before they can visit a diner’s home. Diners who aren’t au 
+fait with uploading profiles onto a website give consent for friends, family, 
+local lunch clubs and care homes to do it for them.
+
+Janet Oran, 92, from Tamworth, says: “I don’t see as many people as I used to, 
+so the visit from Clare Bradford every Wednesday with dinner is great.”
+
+They were matched as part of Staffordshire county council’s Casserole Club. 
+Bradford, who lives around the corner, adds: “Spending a little time with her 
+when I drop off her meal is most enjoyable and I know it makes a big difference 
+to her as well.”
+
+It costs about £30,000 to start a Casserole Club. There are four 
+council-funded clubs in England plus one funded by the housing arm of Barnet 
+council. Two go under than name Meal Makers in Scotland and receive funding 
+from theFood Chain <http://www.foodchain.org.uk/> charity. Three state-funded 
+clubs exist in Victoria, Australia. In 2012, 200 plates of food were shared, by 
+the end of 2014, it was 1,300.
+
+“We’ll go where anyone wants the service,” says Ingrid Karikar, product lead 
+at local government innovation venture,FutureGov <http://wearefuturegov.com/>, 
+which developed the concept. With cuts to meals on wheels leaving 220,000 fewer 
+older people getting the service last year than in 2010, could Casserole Club 
+be the answer?
+
+Smart Glasses <http://www.rnib.org.uk/future-smart-glasses>: Wearable 
+technology that allows visually impaired people to see
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx0r_7koevhw&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx0r_7koevhw>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx0r_7koevhw&media=>
+“It’s a miracle”, said a participant in trials for the RNIB charity for the 
+blind and partially sighted and Oxford UniversitySmart Glasses 
+<http://www.rnib.org.uk/future-smart-glasses>. According to research, 90% of 
+people who are registered blind have some existing light perception. The 
+glasses use 3D cameras to greatly enhance what little they can already see 
+through a computer and this is projected on to lenses. The result is that 
+close-up objects and people go from being dark, indefinable blobs to outlined, 
+cartoonised images – think of pop group A-ha’s 1980s video, Take On Me.
+
+“I used to see faces as dark smudges, but now I can see your eyes, your mouth, 
+your face!” said another trial participant. In an early test, a man said he was 
+able to see his guide dog for the first time.
+
+The glasses began life two years ago as chunky goggles with banks of computer 
+screens. A £500,000 grant from the Google Impact Challenge, which supports 
+charities using technology to aid people, is funding the development of a 
+wearable slimmed-down pair of glasses and software that is usable on a mobile 
+phone. In 2015, 1,000 volunteers will test the new version at home. If all goes 
+to plan, a spin-off company owned by Oxford University and device creator, 
+Stephen Hicks, a research fellow in neuroscience, could be selling them by 
+2016, priced at £300-£400. The potential to transform lives is huge with 30 
+million blind people worldwide.
+
+So are they going to put guide dogs out of business? “We expect people will 
+use the glasses in addition to a dog or a cane,” says Hicks. “You’ll be able to 
+navigate objects so we hope it will give people with very limited sight huge 
+confidence to go out the house.”
+
+Reverse the Odds: Smartphone game advances cancer research as you play
+
+Players of this fantastical free app can analyse real cancer data as they 
+play. Since its launch in October, players have become citizen scientists – 
+even people like me who have no idea what cancer tumours look like – and 
+analysed over two million cancer cell images. It’s all about spotting patterns.
+
+At the beginning of each game, or in order to move up a level, players see 
+magnified pictures of real tumours and are asked some simple questions about 
+what they can see, based on shape, colour and brightness. If you get it wrong, 
+you’ll be reassured that there are 24 other players looking at the same 
+pictures so together people are spotting patterns. Apparently we can do this 
+much better than computers, and we are helping Dr Anne Kiltie at Oxford 
+University and professor Gareth Thomas at Southampton University to learn more 
+about the best treatment for certain cancers, although the patients whose 
+tumours we’re examining have already had treatment.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcjgYoostpXo&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcjgYoostpXo>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcjgYoostpXo&media=>
+Reverse the Odds 
+<http://www.cancerresearchuk.org/support-us/citizen-science-apps-and-games-from-cancer-research-uk/reverse-the-odds>
+ is Cancer Research UK’s third citizen science game, following Cell Slider, 
+which analysed 1m cancer images in three months, and Genes in Space, which was 
+accurately analysing six months-worth of data in a single month. Game 
+developers Chunk created Reserve the Odds, with Maverick TV, Cancer Research UK 
+as scientific adviser, and Channel 4 putting up the money.
+
+Dr Samuel Godfrey, science communication manager at Cancer Research UK, says 
+“This gamification of science means that data that would take scientists 18 
+months to analyse, can be done by thousands of players all over the world in 
+just two weeks. So it’s crucially accelerating our knowledge of cancers and how 
+to treat them.”
+
+There are still 31 million cancer cell images still to go. Get playing.
+
+Euan’s Guide <http://www.euansguide.com/>: Review website maps accessibility 
+for disabled people
+
+
+Despite being in a wheelchair with a ventilator and speech synthesizer due to 
+motor neurone disease, Euan MacDonald, 39, still wants to go to bars, music 
+festivals and sporting events.
+
+But he could only find out if access was suitable through hours of web 
+searching and phone calls. “Quite simply we set up the website because we 
+wanted to learn from other people’s experiences of places with good disabled 
+access and wanted to share ours too, “he says.
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPwhUgEfrd0k&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPwhUgEfrd0k>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPwhUgEfrd0k&media=>
+Euan’s Guide <http://www.euansguide.com/> started life as a local Edinburgh 
+directory on disabled access that he created with his sister, Kiki, two years 
+ago. It now has 1,500 listings in more than 350 towns across the UK with 
+reviews and venue information sent in everyday from disabled people and their 
+friends.
+
+Thousands now use the site both to review and to search for places. It is 
+compatible with eye-tracking software, voice navigation and screen readers. A 
+Near Me functionality and app created last year allows people to use the guide 
+when they are out and about.
+
+Euan’s Guide is supported by BT after it won its People Choice Award in August 
+for innovations that use ICT to address social challenges. It plans to become a 
+charity in 2015 and to make the website even more inclusive. Importantly, the 
+reviews are also encouraging venues to improve access.
+
+MacDonald says: “One of the most common complaints about accessible loos is 
+that they’re often used as a cleaning cupboard with hoovers, buckets etc – with 
+a little education and staff training that’s very easy to fix.”
+
+Ostomi-i Alert <http://www.11health.com/>: Bluetooth technology helps patients 
+cope with ostomy bags
+Facebook  
+<https://www.facebook.com/dialog/share?app_id=180444840287&href=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq2V5e0O1nto&picture=>
+Twitter  
+<https://twitter.com/intent/tweet?text=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq2V5e0O1nto>
+Pinterest  
+<http://www.pinterest.com/pin/create/button/?description=&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq2V5e0O1nto&media=>
+With health systems buckling under the strain of an ageing population, the 
+self-management of long-term conditions is increasingly vital. Five million 
+people worldwide cope with having a stoma: the artificial opening that takes 
+faeces or urine out of the body from the intestine into a prosthetic pouch, or 
+bag, - often known as a colostomy bag - that collects waste from the colon or 
+bladder.
+
+A patient, Michael Seres, 44, has developed an ingenious bluetooth device that 
+monitors all forms of prosthetic pouches, or ostomy bags, to avoid leakages and 
+measure outputs after he experienced the indignities of life following a 
+pioneering bowel transplant for Crohn’s disease, which he was diagnosed with 
+aged 12.
+
+While recovering in hospital, he devised the Ostom-i using a small element in 
+a Nintendo Wii handset that could accurately meaure pouch fullness by sensing 
+the arc in the bag’s external curvature. This alert clips onto a bag and sweeps 
+over it every few seconds sending measurements to a free app on a smartphone. 
+It alerts patients when their bag needs changing and supplies data to 
+clinicians without the patient having to measure their waste by hand.
+
+Having developed a handmade prototype in six months, Seres set up 11Health and 
+Technologies Ltd with business partner, Adam Bloom, who invested in a fully 
+built product.Ostomi-i Alert  <http://www.11health.com/>sells for £49.99 for 
+three months, or just over 50p a day, (a price based on market research via 
+social media) but Seres’s goal for 2015 is to make the device available on 
+prescription by proving its cost-saving to the NHS when compared to existing 
+products.
+
+“My absolute goal is to make the device available to all via prescription,” he 
+says. “We believe that we have now proved that case and are waiting on a final 
+decision.”
+
+Outside the UK, 10 leading US hospitals are conducting user testing.
+
+• This article was amended on 9 January 2015 to correct the spelling of 
+Stephen Hicks’s name, from Stephan Hickey as an earlier version said. This 
+article was also amended because the spin-off company will not be co-owned by 
+the RNIB, but by Hicks and the University of Oxford.
+ 

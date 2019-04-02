@@ -1,0 +1,63 @@
+
+There are a number of social apps promising anonymity or ephemerality – the 
+latter meaning self-destructing content, from messages to photos – yet also 
+offering their services for free.
+
+When the time comes to make money from advertising, that presents a problem. 
+Today’s long read comes from Brett Goldstein on Medium, with hisSnapchat Night 
+Vision: Ephemeral Does Not Mean Anonymous 
+<https://medium.com/@bg/snapchat-night-vision-ephemeral-does-not-mean-anonymous-7513617e56a4>
+ article.
+
+With Snapchat <https://www.theguardian.com/technology/snapchat> kicking off 
+its advertising program recently, Goldstein poses the question of how it could 
+make more money by targeting ads to specific groups of users “if the content 
+necessary to segment users in the first place is deleted”. His conclusion: it’s 
+easier than you might think.
+
+The most valuable information is actually the content you generate, not a 
+stream of longitude and latitude measures. To capture the information stored in 
+your snaps, Snapchat could run each snap you send through a gauntlet of 
+metadata extractors in the minutes and hours before it is deleted.
+
+Yes. You read that correctly: Snapchat can analyze the crap out of your 
+pictures before they delete them. In fact, Snapchat might already be doing this.
+
+Obligatory caveat: it might not. But the potential for analysing text and 
+speech, background sound, faces and other image elements is clear. Is this 
+something we should be thinking harder about for a whole range of apps, not 
+just Snapchat?
+
+The comments section is open for your views on this story, as well as on some 
+of today’s other tech talking points:
+
+ * Adobe is regretting wading into the #GamerGate controversy 
+<https://blogs.adobe.com/conversations/2014/10/when-anti-bullying-efforts-backfire.html>
+. “We are not and have never been aligned with Gamergate. We reject all forms 
+of bullying, including the harassment of women by individuals associated with 
+Gamergate...” 
+ * Could there be more trouble ahead for Google in Europe? Incoming digital 
+commissioner Guenther Oettinger 
+<http://www.reuters.com/article/2014/10/28/us-eu-commission-oettinger-idUSKBN0IH17X20141028?feedType=RSS&feedName=technologyNews>
+: “If Google uses and processes intellectual property from the EU, the EU can 
+protect this property and can demand a charge...” 
+ * Apple is pledging to give away $100m of iPads to underprivileged US 
+schools, butPandoDaily isn’t keen 
+<http://pando.com/2014/10/28/apples-100m-ipad-pledge-to-underprivileged-schools-is-more-about-pr-than-meaningful-reform/>
+: “These kids don’t need tablets, they need food. Teachers don’t need 
+SmartBoards, they need smaller class sizes...” 
+ * LG has some positive news to report on smartphone sales: it shipped 16.8m 
+in the last quarter 
+<http://techcrunch.com/2014/10/28/lg-shipped-a-record-16-8-million-smartphones-in-q3-2014-up-39-year-on-year/>
+. “LG Mobile... saw its quarterly shipments jump 39 percent year-on-year and 16 
+percent on the previous quarter of business.” 
+ * Interested in virtual reality? You might like Zero Point, a film about 
+virtual reality by Condition One 
+<http://www.engadget.com/2014/10/28/vr-documentary-arrives-for-oculus-rift/?ncid=rss_truncated>
+. Although the caveat is you’ll need an Oculus Rift headset to watch it on. 
+What other stories have you seen this morning? Make your recommendations in 
+the comments section, and join the debate.
+
+Open Thread is the successor to the existing Boot Up column. We’re 
+experimenting with its format all this week, and welcome feedback on that too.
+ 
