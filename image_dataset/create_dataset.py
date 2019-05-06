@@ -36,21 +36,19 @@ def read_gt_file(gt_filename):
 
 def create_dataset(gt_path, image_path):
 
-    dataset = {}
+    dataset = defaultdict(lambda: [])
     gt_files_list = list_gt_files(gt_path)
     for gt_file in gt_files_list:
-        dataset_image = defaultdict(lambda: [])
         images_list = read_gt_file(os.path.join(gt_path, gt_file))
         for image in images_list:
             try:
                 pts, des = compute_descriptors(os.path.join(image_path, image + '.jpg'))
                 des = des.tolist()
-                dataset_image[image].append((pts, des))
-                dataset[gt_file[:-11]].append((pts, des))
+                dataset[gt_file[:-11]].append((image, pts, des))
+                print('OK: ' + gt_file[:-11] + '  ' + image)
             except:
                 print('ERROR: ' + gt_file + '  ' + image)
 
-        dataset[gt_file[:-11]] = dataset_image
     return dataset
 
 
